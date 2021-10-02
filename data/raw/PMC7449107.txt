@@ -1,0 +1,22 @@
+PARACOCCIDIODOMICOSIS SUPRARRENAL
+
+
+La insuficiencia suprarrenal primaria es una enfermedad infrecuente con una prevalencia estimada de 100 a 140 casos por millón de habitantes . La causa principal en los países desarrollados es la autoinmunidad contra la glándula suprarrenal. En los países de escasos o medianos recursos, o en las economías de transición, la causa más común son las enfermedades infecciosas, siendo la tuberculosis la causa principal. Se han descrito otras causas infecciosas como Mycobacterium avium complex, meningococo, Pseudomonas aeruginosa, Haemophilus influenza, citomegalovirus, Pneumocystis jiroveci, Histoplasma capsulatum, Blastomyces dermatiditis, Cryptococcus neoformans, Cocciodiodes immitis y Nocardia spp. Una causa infecciosa rara es la paracoccidioidomicosis, una micosis sistémica endémica en Colombia, Venezuela y Brasil .
+En los pacientes con insuficiencia suprarrenal primaria y con anticuerpos negativos contra la 21-hidroxilasa, se requiere una imagen tomográfica de las glándulas suprarrenales . Su engrosamiento sugiere una condición infecciosa, infiltrante o maligna. Por ende, cuando la historia clínica y los exámenes físicos y paraclínicos no indican la causa subyacente, puede requerirse una biopsia para determinar el origen de la insuficiencia suprarrenal. En este sentido, en los países donde las enfermedades infecciosas son una causa frecuente de falla suprarrenal, la biopsia de esta glándula puede ser útil.
+En este artículo, se presenta la imagen de la tomografía de un paciente que presentó falla suprarrenal, con masas en las glándulas suprarrenales, cuya biopsia confirmó el diagnóstico final de paracoccidioidomicosis.
+
+
+- CASO CLÍNICO
+
+Se trata de un hombre de 62 años de edad con antecedentes de enfermedad pulmonar obstructiva crónica, que colsultó al servicio de urgencias por un cuadro clínico de seis meses de evolución con pérdida de peso, fatiga, náuseas, dolor abdominal, diaforesis y fiebre.
+En el examen físico se encontró hipotensión arterial (84/45 mm Hg), taquicardia (110 latidos por minuto) e hiperpigmentación generalizada. En los exámenes de laboratorio se reportó hiponatremia e hiperpotasemia, con disminución del cortisol (0,74 µg/dl; rango de referencia: 6 a 23 µg/dl; menor de 5 µg/dl: sugestivo de insuficiencia suprarrenal) y aumento de la corticotropina (ACTH) (mayor de 1.250 pg/ml; rango de referencia: 6 a 76 pg/ml).
+Con base en estos datos, se diagnosticó una insuficiencia suprarrenal primaria. En la tomografía abdominal con contraste, se observaron masas en las glándulas suprarrenales, la derecha de 26 x 14 mm y la izquierda de 33 x 17 mm , con un bajo lavado del contraste. En la tomografía de tórax, se observó enfisema.
+Figura 1
+Mediante lavado broncoalveolar se descartaron procesos infecciosos pulmonares, como la tuberculosis. Por laparoscopia, se tomó una biopsia de una de las masas suprarrenales, de la cual se aisló Paracoccidioides brasiliensis (figura 2, plata metenamina).
+Figura 2
+El paciente fue tratado con 5 mg diarios de prednisolona, 0,1 mg diarios de fluorocortisona y 200 mg de itraconazol cada 8 horas, durante seis meses. Dos años después del diagnóstico, el paciente se encuentra vivo, asintomático y en tratamiento para su insuficiencia suprarrenal.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Se siguieron las normas éticas para la investigación en seres humanos contenidas en la Resolución 008430 de 1993 del Ministerio de Salud de Colombia y se mantuvo la confidencialidad del paciente, pues sus datos se manejaron en forma anónima.

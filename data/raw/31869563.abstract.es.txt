@@ -1,0 +1,5 @@
+Se llevó a cabo un estudio analítico transversal en dos fases: la primera con una base de datos nacional de servicios disponibles y su utilización; la segunda, una muestra de registros médicos de un hospital psiquiátrico.
+Analizar las demandas de atención de los trastornos mentales graves (TMG) y factores asociados con la utilización de servicios en México.
+La esquizofrenia es el TMG más prevalente; más de 50% de hospitalizados fueron hombres, con edad promedio 37 años. La utilización de servicios estuvo asociada con la edad (β=1.062; p=.000), ingreso familiar (β=1.000, p=.000) y no tener ocupación (β=3.407; p=.000). La población con esquizofrenia tiene cuatro veces más la probabilidad de requerir estar exenta de pago (β=4.158; p=.000).
+La población con TMG es más vulnerable por la discapacidad funcional y social asociada; requiere de intervenciones específicas de salud acompañadas de una política de protección financiera adaptada a sus necesidades de atención.
+

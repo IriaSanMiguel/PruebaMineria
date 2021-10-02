@@ -1,0 +1,102 @@
+CONSENSO MULTIDISCIPLINAR SOBRE LA VALORACIÓN Y EL TRATAMIENTO NUTRICIONAL Y DIETÉTICO EN PACIENTES CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN POR SARS-COV-2. CONSENSO DE NUTRICIÓN EN ENFERMEDAD RENAL CRÓNICA E INFECCIÓN POR SARS-COV-2<SUP
+
+
+- INTRODUCCIÓN
+
+La irrupción de la pandemia por infección SARS-CoV-2 plantea enormes desafíos para la salud de los pacientes renales y para la organización de la atención sanitaria.
+La peor evolución de la infección por SARS-CoV-2 en pacientes ancianos y con comorbilidades se debe en parte a la habitual presencia de desnutrición y sarcopenia, independientemente del índice de masa corporal (IMC), . Esta situación se intensifica en la enfermedad renal crónica (ERC), ya que la prevalencia de deterioro del estado nutricional incrementa la probabilidad de que el paciente infectado esté ya desnutrido. Por todo ello, dentro del cuidado integral del paciente con ERC e infección por SARS-CoV-2, el diagnóstico de desnutrición y la implantación de forma precoz de pautas de intervención nutricional debe integrarse en la estrategia terapéutica global con el objetivo de reducir las complicaciones de la enfermedad y facilitar la recuperación del paciente.
+
+
+- PROTOCOLO DE ACTUACIÓN NUTRICIONAL EN PACIENTE CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN POR SARS-COV-2
+
+-- VALORACIÓN NUTRICIONAL EN EL PACIENTE CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN LEVE/MODERADA POR SARS-COV-2
+
+El riesgo de desnutrición en el paciente con ERC e infección por SARS-CoV-2 va a ser superior al de la población general como consecuencia de la propia enfermedad y su tratamiento, probabilidad de desnutrición previa y la frecuente asociación con otras enfermedades.
+La infección por SARS-CoV-2 en el paciente con ERC va a desarrollar, aún en los casos asintomáticos, una alteración inflamatoria subclínica, que puede afectar al estado de nutrición (figura 1 ).Figura 1
+Esta evidencia refuerza el concepto de que los trastornos nutricionales en estos pacientes deben manejarse de manera sistemática y urgente, considerando además, que la respuesta inmune se debilita por una nutrición inadecuada, .
+La valoración nutricional debe ser el primer paso en la evaluación integral del paciente con ERC e infección por SARS-CoV-2. Conocer su estado nutricional nos permitirá diagnosticar y tratar precozmente la desnutrición y comprobar la eficacia de dicho tratamiento.
+Con la finalidad de evitar contagios, los 5 aspectos más utilizados para realizar una mínima valoración nutricional serían: a) porcentaje de la pérdida de peso, b) IMC, c) grado de la pérdida de apetito, d) realización de dinamometría y e) parámetros analíticos (albúmina, prealbúmina y PCR). El resto de herramientas utilizadas habitualmente para la realización de una valoración nutricional son de gran utilidad, pero requieren contacto físico y desinfección del material, por lo que su utilización se encuentra limitada.
+Un aspecto específico a considerar es la pérdida de apetito y de los sentidos del olfato y del gusto, mostrándose más agresiva en ancianos. Es conveniente valorar la presencia de disfagia descrita en infección SARS-CoV-2, así como los procesos diarreicos agudizados por los tratamiento utilizados. Otro punto a tener en cuenta es la disnea, que cursa con fatiga durante las ingestas.
+La Sociedad Europea de Nutrición (ESPEN) recomienda para la valoración nutricional precoz de los pacientes con infeción por SARS-CoV-2, el uso de un cribado nutricional como el método de Malnutrition Universal Screening Tools (MUST), y posteriormente si el cribado ha dado positivo, aplicar los criterios Global Leadership Initiative on Malnutrition (GLIM) de valoración nutricional.
+Para la valoración de la sarcopenia se recomienda el uso del Simple Questionnaire to Rapidly Diagnose Sarcopenia (SARC-F) y para medir la fuerza muscular se recomienda la dinamometría (figura 2 ).Figura 2
+
+
+-- VALORACIÓN NUTRICIONAL EN EL PACIENTE CRÍTICO CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN GRAVE POR SARS-COV-2
+
+Las Sociedades Americanas de Medicina Critica (SCCM) y de Nutrición Enteral y Parenteral (ASPEN) recomiendan en el paciente crítico el uso del NUTRIC score, .
+Una vez realizada la valoración del estado nutricional se recomienda monitorizarlo periódicamente en cualquiera de las fases de infección por SARS-CoV-2 por personal cualificado y entrenado dentro del marco de un equipo interdisciplinar (médico, dietista nutricionista, enfermería…). La periodicidad del seguimiento en pacientes hospitalizados debe de ser semanalmente, .
+
+
+-- RECOMENDACIONES NUTRICIONALES EN PACIENTES CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN POR SARS-COV-2
+
+El principal objetivo de las recomendaciones nutricionales durante el proceso de infección por SARS-CoV-2 es asegurar un buen estado nutricional, así como evitar las posibles alteraciones metabólicas producidas por la ERC, .
+En el caso de presentar infección moderada/grave por SARS-CoV-2, es muy probable la aparición de DPE y procesos inflamatorios, siendo necesario priorizar el mantenimiento del estado nutricional; adaptando las recomendaciones nutricionales mediante el aumento de proteínas y calorías (tabla 1 ).
+
+
+- PROTOCOLO DE ACTUACIÓN NUTRICIONAL EN PACIENTE CON ENFERMEDAD RENAL CRÓNICA EN ETAPA POSTINFECCIÓN SARS-COV-2
+
+-- VALORACION NUTRICIONAL EN PACIENTE CON ENFERMEDAD RENAL CRÓNICA Y POSTINFECCIÓN POR SARS-COV-2
+
+El protocolo de valoración nutricional en el paciente postinfección por SARS-CoV-2 será el mismo que hemos aplicado durante el período de infección, pero en este caso, al no existir riesgo de contagio, podemos aplicar toda la batería de herramientas de las que dispongamos (bioimpedancia, antropometría, dinamometría…). Por lo que en todos los casos habrá que aplicar un cribado nutricional previo, ya sea el MUST o MST y parámetros analíticos como albúmina, prealbúmina y PCR. Si el cribado nos da positivo habrá que realizar la valoración nutricional a través de los criterios GLIM o cualquier método de valoración nutricional validado para el paciente renal como valoración global subjetiva (VGS) o MIS. Es conveniente completar la valoración con la escala SARC-F de sarcopenia y valorar la ingesta (calórica y proteica) a través del registro de 3 días o mediante las encuestas de apetito, en el caso de anorexia.
+
+
+-- RECOMENDACIONES NUTRICIONALES EN PACIENTES CON ENFERMEDAD RENAL CRÓNICA Y POSTINFECCIÓN POR SARS-COV-2
+
+Las recomendaciones nutricionales en el proceso postinfección por SARS-CoV-2 se han desarrollado según el grado de afectación del estado nutricional: a) riesgo de desnutrición o desnutrición leve y b) desnutrición moderada o grave (según el método de valoración de referencia en cada centro).
+Con relación a las recomendaciones nutricionales indicadas en la tabla 2 , solamente deben ser aplicadas durante el período de afectación por SARS-CoV-2 y en el proceso de recuperación. Recomendando volver a aplicar las recomendaciones específicas para pacientes con ERC una vez recuperado estado nutricional.
+
+
+- SOPORTE NUTRICIONAL EN PACIENTE CON ENFERMEDAD RENAL CRÓNICA E INFECCIÓN POR SARS-COV-2 Y ETAPA POSTINFECCIÓN
+
+Teniendo en cuenta la gravedad del cuadro clínico, el resultado de la valoración nutricional, el grado de afectación de la masa muscular y funcionalidad y el tratamiento nutricional que haya recibido, se realizará el consejo dietético, y si es preciso, intervención o soporte nutricional.
+En todos los grados de afectación por SARS-CoV-2, el aporte nutricional adecuado es fundamental. El aporte proteico se debe mantener e incluso incrementar en todas las situaciones clínicas de la infección, con un adecuado aporte calórico y vitamínico.
+
+
+-- INTERVENCIÓN DIETÉTICA
+
+El consejo dietético se realizará teniendo en cuenta la fase de infección y el estadio de la ERC siguiendo las recomendaciones de las Tabla 1, Tabla 2, considerando los siguientes aspectos:•Anorexia, para lo que se recomienda fraccionar la ingestas y enriquecimiento de la dieta.•Alteraciones en los sentidos del gusto y del olfato, recomendando técnicas culinarias habituales para saborizar las comidas.•Disfagia, modificar la textura de sólidos y líquidos.•Fatiga, para lo que se recomienda dietas de fácil masticación incluso trituradas.•Diarrea, recomendando dieta astringente.
+
+
+-- SUPLEMENTACIÓN NUTRICIONAL ORAL
+
+El aumento de los requerimientos energéticos y proteicos derivado del hipercatabolismo que presentan estos pacientes, asociado a la disminución de la ingesta por el grado de anorexia, dificulta el cumplimiento de los requerimientos calóricos y proteicos a través de la alimentación; por esto la primera medida que recomienda las guías ESPEN es enriquecer la dieta con recursos culinarios.
+En los casos en que estas medidas no sean suficientes, se debe valorar la suplementación nutricional oral. La ESPEN recomienda su uso precoz y mantenerlo hasta al menos un mes después de finalizar los síntomas.
+La elección de la fórmula de soporte nutricional variará según la fase de la ERC y la gravedad de la desnutrición, pudiendo existir varias opciones terapéuticas a elección del clínico. A continuación, se describen las fórmulas recomendadas y adaptadas a la fase de la ERC (tabla 3 ). Es conveniente determinar los niveles de vitamina D, cinc y selenio. Si está bajo, suplementar.
+
+
+-- NUTRICIÓN ENTERAL POR SONDA
+
+En el caso de que la alimentación oral no sea posible, la vía enteral siempre es preferible a la parenteral si el intestino es funcionante.
+Con la finalidad de administrar la cantidad de nutrientes necesaria, tenemos que tener en consideración las recomendaciones de la ESPEN:•Pacientes mayores de 65 años polimórbidos se recomiendan 27 kcal y 1 g de proteínas por kg/peso/día.•Pacientes desnutridos y polimórbidos recomiendan 30 kcal y 1-1,5 g de proteínas por kg/peso/día.•Pacientes en UCI, recomiendan su inicio cuando se ha logrado la estabilidad hemodinámica, hipoxemia estable y compensada, y siempre con vigilancia de signos de intolerancia e isquemia intestinal. Recomiendan 15-20 kcal y 1,3 g de proteínas por kg de peso y día. La administración en estos pacientes debe ser muy progresiva en función de la tolerancia digestiva, de forma que se puede requerir más de 3 días para llegar al 80-100% del aporte calculado. Mientras tanto, requerirán nutrición parenteral (NP) complementaria.
+Conviene destacar que en el paciente obeso se debe calcular el peso ajustado para los cálculos de los requerimientos (peso ajustado = peso ideal + (peso real-peso ideal) × 0,33).
+Todos estos valores se deben individualizar según estado nutricional, situación clínica, función renal, y tolerancia digestiva. Además, se recomienda descartar los déficits de vitaminas A, D, B6, B12, C, así como Zn y Se, por su efecto deletéreo sobre las infecciones virales en general.
+Se debe considerar siempre el riesgo de aspiración. En los pacientes en cuidados intensivos y en los que presentan disnea importante, al inicio, la NE deberá ser trófica a dosis muy bajas, con bomba de infusión continua y uso de procinéticos. Si es posible administrar en yeyuno.
+En los pacientes con infección por SARS-CoV-2 intubados y con ventilación mecánica, se puede iniciar la NE a través de una sonda nasogástrica. En muchos casos se requiere la administración pospilórica. La posición prono no es per se una contraindicación en pacientes con NE, pero dificulta su administración.
+Los retrovirales como lopinavir o ritonavir se deben administrar en solución y sondas de PVC o silicona evitando las de poliuretano porque se puede endurecer. Además, suelen producir diarrea, en cuyo caso recomendaríamos el uso de fórmulas peptídicas y con bomba de infusión.
+Hidrocloroquina y azitromicina se pueden administrar por sonda en comprimidos disueltos en 10 ml de agua.
+No debemos olvidar el riesgo de disfagia sarcopénica en los pacientes que han perdido mucho peso o que no han ingerido alimentos durante un tiempo por haber estado con NE o NP.
+Respecto a las fórmulas de NE a utilizar, las fórmulas específicas que disponemos son las mismas que las que se utilizan para la vía oral como suplementación. En estos casos se debe ser más cauto en su utilización porque serán el único aporte que recibe el paciente. Se requerirá un control analítico cada uno o dos días al principio para monitorizar los niveles plasmáticos de creatinina, urea, calcio, fósforo y electrolitos. Según la función renal residual del paciente se podrán utilizar estas fórmulas específicas solas o en combinación con no-específicas si lo requieren otras comorbilidades como diabetes, diarrea, malabsorción…
+En los pacientes con hiperglucemia de estrés y disnea por insuficiencia respiratoria, el aporte de fórmulas ricas en grasas monoinsaturadas puede cumplir la doble función de controlar la glucemia posprandial y reducir la producción de CO2. Aunque no debemos olvidar que en pacientes con gastroparesia, residuo gástrico elevado (> 500 ml) o diarreas, sería más recomendable utilizar fórmulas peptídicas, con bomba de infusión continua, y si es posible en situación pospilórica. Recordar que los niveles de glucemia recomendados por la ESPEN Council en todos pacientes es entre 6-8 mmol/l (108-140 mg/dl), aunque el rango clínicamente útil es entre 140 y 180 mg/dl, adaptado a la edad y comorbilidad del paciente.
+
+
+-- NUTRICIÓN PARENTERAL
+
+La NP se plantea como tratamiento conjunto con la NE cuando no se alcanzan los requerimientos calóricos y proteicos por vía digestiva.
+En los pacientes con ERC se tendrá en cuenta el aporte de líquidos y electrolitos, así como el equilibrio calcio/fósforo y potasio. También se considerarán, nutriciones específicas en población diabética, con insuficiencia respiratoria y otros pacientes críticos.
+El Grupo de Trabajo de Metabolismo y Nutrición de la SEMICYUC, y ASPEN nos recomienda en pacientes con NP considerar:
+
+
+- CONCEPTOS CLAVE
+
+El paciente con ERC e infección por SARS-CoV-2 presenta un riesgo elevado de desnutrición.
+En procesos de infección por SARS-CoV-2 en los pacientes con ERC se recomienda realizar valoración nutricional mediante: porcentaje de pérdida de peso o IMC, pérdida de apetito, parámetros analíticos y dinamometría.
+En pacientes con infección leve/moderada por SARS-CoV-2 y ERC se recomienda ajustar los requerimientos energéticos y proteicos al estadio de la enfermedad y a la presencia de inflamación.
+En pacientes postinfección por SARS-CoV-2 y ERC es recomendable realizar una valoración nutricional completa prestando especial atención a la disminución de la masa muscular y a la aparición de sarcopenia.
+El soporte nutricional debe comenzar por la adaptación de las recomendaciones dietéticas, prestando atención a la presencia de anorexia, ageusia, anosmia, diarrea, disfagia y disnea.
+Las diferentes guías recomiendan la utilización de la suplementación nutricional precoz y mantenida durante un mes tras el proceso de infección.
+
+
+- CONFLICTO DE INTERESES
+
+D. Alberto Caverni Muñoz presenta una relación laboral con laboratorios Nutricia, no afecta al contenido científico del presente artículo.
+El resto de autores declaran que no tienen conflictos de intereses potenciales relacionados con los contenidos del artículo.

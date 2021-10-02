@@ -1,0 +1,5 @@
+Estudio transversal, en el que se utilizaron registros de VSR y temperatura de la Ciudad de Buenos Aires (19952014). Para cada año, describimos el inicio, el fin y la duración de la temporada de VSR y su correlación con la temperatura media anual.
+El cambio climático global podría modificar la circulación del virus sincicial respiratorio (VSR). Evaluamos si la temporada de VSR se modificó en los últimos 20 años y su correlación con la temperatura media anual.
+En los últimos 20 años, la duración de la temporada de VSR se acortó significativamente, sin correlación con la temperatura.
+Se identificaron 8109 infecciones por VSR. La duración de la temporada disminuyó significativamente (1995: 29 semanas vs. 2014: 17 semanas; R: 0,6; p < 0,001), debido a una finalización más precoz (1995: semana 45 vs. 2014: semana 33; R: 0,6; p < 0,001). No se observó correlación entre la temperatura media anual y la duración, el comienzo ni la finalización de la temporada de VSR.
+

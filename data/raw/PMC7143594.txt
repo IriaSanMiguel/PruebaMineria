@@ -1,0 +1,51 @@
+PROTOCOLO TERAPÉUTICO EMPÍRICO DE LAS INFECCIONES BUCALES Y FARÍNGEAS
+
+
+- INTRODUCCIÓN
+
+Las infecciones de la cavidad oral se clasifican en odontogénicas (si afectan a las estructuras que forman el diente y el periodonto; incluyen caries, pulpitis, abscesos periapicales, gingivitis, periodontitis e infecciones profundas de los espacios fasciales) y no odontogénicas (si afectan a mucosas o estructuras extradentales, como la estomatitis y la parotiditis). La mayoría de las infecciones de la cavidad oral son odontogénicas, habitualmente locales y circunscritas, pero en ocasiones puede propagarse por continuidad y extenderse a los espacios fasciales en el área orofacial o profundas en la cabeza y el cuello. Más raramente pueden propagarse de forma contigua para causar osteomielitis de la mandíbula o producir enfermedad sistémica vía hematógena.
+La faringitis es la inflamación y/o la infección de la faringe y/o área periamigdalar. Puede estar afectada tanto la orofaringe como la nasofaringe, adenoides y amígdalas. El término amigdalitis se refiere a la inflamación de las amígdalas y puede utilizarse indistintamente junto con el de faringitis.
+Tanto las infecciones odontogénicas como la faringitis aguda tienen una prevalencia muy alta en la población, siendo uno de los motivos más frecuentes de consulta y prescripción de antibióticos en las consultas de Atención Primaria.
+
+
+- INFECCIONES ODONTOGÉNICAS
+
+Las infecciones odontogénicas tienen una prevalencia muy alta, destacando la caries (90% de los adultos), gingivitis (50%) y periodontitis (30%). Las bacterias que se aíslan en las infecciones odontogénicas suelen ser las mismas que las que componen la microbiota que, en determinaciones situaciones como inmunosupresión o lesión de la mucosa oral, actúan como patógenos. En individuos sanos, el 80% de la microbiota está formada por estreptococos (Streptococcus sanguis, S. mutans, S. mitis y S. salivarius que colonizan la superficie dental) y anaerobios (Peptostreptococcus, Porphyromonas y Prevotella que colonizan hendiduras gingivales). Otros microorganismos que colonizan la cavidad oral son Actinomyces, Eubacterium, Leptotrichia y, en menor proporción, Lactobacillus, Moraxella y Veillonella. La proporción de enterobacterias en adultos sanos es baja, pero puede aumentar en pacientes hospitalizados e inmunodeprimidos. Los microorganismos aislados en los diferentes cuadros clínicos suelen ser los mismos pero en diferente proporción, tratándose de infecciones polimicrobianas en la mayoría de los casos.
+
+
+- TRATAMIENTO DE LA INFECCIÓN ODONTOGÉNICA AGUDA
+
+El tratamiento de las infecciones odontogénicas incluye diferentes alternativas que con frecuencia se combinan: tratamiento odontológico, quirúrgico, antimicrobiano y sistémico de soporte. Según las características de la infección, se seleccionará una o varias de estas alternativas.
+Los objetivos del tratamiento antibiótico son reducir el inóculo bacteriano en el foco infeccioso y detener la propagación local de la infección para prevenir la diseminación hematógena. Es fundamental conocer los microorganismos implicados con más frecuencia en cada cuadro clínico, así como la epidemiología de su sensibilidad antibiótica, ya que el tratamiento generalmente se pauta de manera empírica atendiendo a estos criterios, junto a las características individuales y clínicas del paciente. En la tabla 1 se detallan las opciones terapéuticas en las infecciones odontogénicas.
+
+
+- PRESENTACIÓN CLÍNICA Y TRATAMIENTO DE LAS INFECCIONES NO ODONTOGÉNICAS
+
+Las infecciones no odontogénicas de la cavidad oral suelen ser secundarias a una lesión química, térmica o traumática. Las principales son las infecciones de la mucosa oral y las de las glándulas salivales.
+Entre las infecciones de la mucosa oral destacan la estomatitis aftosa, la estomatitis gangrenosa y la mucositis en pacientes inmunodeprimidos. La estomatitis aftosa es la causa más frecuente de aftas orales. Puede estar provocada por virus (virus herpes simple y Coxsackie), enfermedad de Behçet o agranulocitosis, entre otras. El tratamiento suele ser sintomático, utilizando enjuagues bucales antisépticos y anestésicos locales. En determinados casos, se pueden utilizar corticoides locales o sistémicos. La estomatitis gangrenosa es una infección aguda y fulminante de los tejidos orales y faciales, más frecuente en niños y pacientes malnutridos. Generalmente están causadas por espiroquetas como Borrelia vincentii y anaerobios como Fusobacterium spp. y Prevotella spp. El tratamiento consiste en dosis altas de penicilina intravenosa. La mucositis en pacientes inmunodeprimidos, principalmente pacientes oncológicos en tratamiento con quimioterapia o radioterapia y trasplantados de órgano sólido, suele ocurrir por la rotura de la mucosa oral, una infección secundaria bacteriana o la reactivación de una infección vírica latente. Las presentaciones más frecuentes son la candidiasis oral y las infecciones por virus herpes simple, virus de la varicela-zóster y citomegalovirus. Como tratamiento sintomático, se puede comenzar por enjuagues bucales con antisépticos y anestésicos locales. Sin embargo, dada la inespecificidad de la clínica, es fundamental realizar el diagnóstico microbiológico para poder establecer un tratamiento antimicrobiano eficaz.
+Entre las infecciones de las glándulas salivales destacan la parotiditis supurada y la parotiditis vírica. La sialolitiasis es una condición relativamente común, típicamente en pacientes ancianos, que consiste en la presencia de piedras o cálculos en las glándulas o conductos salivales que conduce a una obstrucción en los conductos y, secundariamente, a la supuración de la glándula salival. Staphylococcus aureus es el principal microorganismo aislado, aunque también se han descrito enterobacterias, anaeorobios, estreptococos y Haemophilus spp. El tratamiento incluye medidas conservadoras como rehidratación del paciente y calor húmedo en la zona afectada, y antibióticos antiestafilocócicos como cloxacilina y cefalexina. La parotiditis vírica se caracteriza por la rápida tumefacción dolorosa de una o ambas glándulas parótidas tras unos días de fiebre, dolor de cabeza, mialgia, fatiga, anorexia y dolor preauricular. La principal causa es el virus de la parotiditis, aunque también puede estar causada por enterovirus y virus influenza. Suele resolverse espontáneamente en 5-10 días y únicamente se pauta tratamiento analgésico y antitérmico, junto a una correcta hidratación para prevenir una infección bacteriana secundaria.
+
+
+- INFECCIONES FARÍNGEAS
+
+La faringitis aguda está causada mayoritariamente por virus (aproximadamente el 50% de los casos) y bacterias, entre las que destaca Streptococcus pyogenes por la frecuencia (15-20%) y su trascendencia clínica, ya que puede tener graves complicaciones como la fiebre reumática y la glomerulonefritis.
+Los principales virus causantes de faringitis aguda son adenovirus, rinovirus y coronavirus, seguidos del virus de Epstein-Barr, virus herpes simple, coxsackievirus, virus influenza A y B y parainfluenza. Como hemos comentado, la principal causa bacteriana de faringitis aguda es el estreptococo del grupo A beta-hemolítico, S. pyogenes, junto a los estreptococos de los grupos C y G. Aunque con menos frecuencia, también pueden causar esta infección Fusobacterium necrophorum, Chlamydophila pneumoniae, Mycoplasma pneumoniae, Arcanobacterium haemolyticum, Neisseria gonorrhoeae, Corynebacterium diphtheriae, Treponema pallidum y Francisella tularensis .
+
+
+- TRATAMIENTO EMPÍRICO DE LAS INFECCIONES FARÍNGEAS
+
+Dado que los signos y síntomas de esta infección son inespecíficos, es muy difícil establecer el diagnóstico diferencial de la faringitis estreptocócica del resto de formas de faringitis. Se han definido una serie de puntos para orientar el cuadro como faringoamigdalitis estreptocócica. Son los siguientes: presentación en invierno y primavera; niños de 3-20 años (en niños menores de 3 años, la etiología es casi exclusivamente vírica); comienzo brusco con fiebre, cefalea, dolor de garganta y dolor abdominal; inflamación faringoamigdalar, a menudo con exudado; adenitis cervical dolorosa; petequias en amígdalas o paladar; exantema escarlatiniforme y ausencia de rinitis, tos, ronquera y diarrea. Según esto, se determinará si iniciar únicamente tratamiento sintomático o asociar tratamiento antibiótico. En la figura 1 se detalla el algoritmo del enfoque diagnóstico y terapéutico de la faringoamigdalitis aguda.Fig. 1
+Si el paciente está inmunodeprimido, tiene antecedentes de fiebre reumática, sintomatología grave o en el contexto epidemiológico de un brote comunitario por S. pyogenes se debe iniciar un tratamiento antimicrobiano inmediato. Si no hay síntomas y signos muy específicos, es posible recoger una muestra para proceder a un cultivo faríngeo y no administrar antibióticos hasta conocer el resultado. Es recomendable iniciar el tratamiento sintomático basado en fármacos antiinflamatorios y/o analgésicos. En el caso de que se decida iniciar un tratamiento empírico, las recomendaciones son: amoxicilina 500 mg cada 8 horas, 10 días; cefadroxilo 0,5-1 g cada 12 horas, 10 días; clindamicina 300 mg cada 8 horas, 7 días; claritromicina 250-500 mg cada 12 horas o 1 g al día (formulación retardada), 7 días y azitromicina 500 mg al día, 3 días.
+La tasa de resistencia de S. pyogenes a los macrólidos es superior al 20%, por lo que claritromicina y azitromicina no serán antibióticos de elección cuando se sospeche de faringitis estreptocócica, se reservarán como una alternativa en los pacientes alérgicos a beta-lactámicos o aquellos casos en los que no se sospeche de infección por A. haemolyticum, Mycoplasma y Chlamydophila.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

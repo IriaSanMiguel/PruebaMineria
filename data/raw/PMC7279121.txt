@@ -1,0 +1,67 @@
+SÍNTESIS DE EVIDENCIA: GUÍA PARA EL DIAGNÓSTICO Y EL TRATAMIENTO DE LA ENFERMEDAD DE CHAGAS
+
+
+- INTRODUCCIÓN
+
+La enfermedad de Chagas o tripanosomiasis americana es una enfermedad potencialmente mortal causada por el parásito protozoario Trypanosoma cruzi. Se estima que en el mundo hay más de 6 millones de personas infectadas. La enfermedad está presente en áreas endémicas de 21 países de la Región de las Américas, donde es transmitida a los seres humanos por contacto con heces u orina de insectos hemípteros triatominos, conocidos popularmente como “vinchucas”, “pitos”, “chirimachas” o “kissing bugs”, entre otros nombres. La enfermedad de Chagas se presentaba principalmente en áreas rurales y poblaciones pequeñas, pero las migraciones de personas infectadas la han llevado a medios urbanos de países no endémicos en el continente americano y fuera de él.,
+La enfermedad de Chagas causa a la Región de las Américas una pérdida de aproximadamente 66 200 años de vida ajustados por discapacidad. Los costos médicos de los pacientes con las formas cardiacas, digestivas, neurológicas o mixtas de la enfermedad superan en más del 80% los costos de usar insecticidas para controlar los vectores.
+La enfermedad de Chagas es parte del denominado ciclo de la pobreza que, además de afectar la calidad de vida y causar morbilidad en la población, representa una barrera para el diagnóstico y el tratamiento oportunos. La Organización Panamericana de la Salud (OPS)/Organización Mundial de la Salud (OMS) y otras autoridades de salud pública reconocen a la enfermedad de Chagas como una enfermedad tropical desatendida que principalmente afecta a poblaciones de bajos ingresos.
+Debido a estas consideraciones, es necesario diseminar las recomendaciones de diagnóstico y tratamiento de la enfermedad de Chagas con el fin de mejorar la salud de la población de la Región de las Américas en situación de riesgo.
+El objetivo de este trabajo es presentar una síntesis de evidencia de las recomendaciones de la Guía para el diagnóstico y el tratamiento de la enfermedad de Chagas, una guía de práctica publicada por la OPS en 2018, y aspectos de su implementación.
+
+
+- MÉTODOS
+
+-- OBJETIVOS Y POBLACIÓN DIANA CONSIDERADA EN LA GUÍA
+
+La Guía para el diagnóstico y el tratamiento de la enfermedad de Chagas se desarrolló con el objetivo de presentar las estrategias, los recursos y las capacidades disponibles para el diagnóstico, el tratamiento y el seguimiento de los pacientes con enfermedad de Chagas en las Américas y el mundo. Adicionalmente, provee recomendaciones de diagnóstico y tratamiento para pacientes adultos y pediátricos con: 1) sospecha de enfermedad de Chagas; 2) exposición a la enfermedad de Chagas; 3) diagnóstico de enfermedad de Chagas crónica; y 4) diagnóstico de enfermedad de Chagas aguda y congénita.
+
+
+-- METODOLOGÍA DE ELABORACIÓN DE LA GUÍA
+
+La guía se elaboró siguiendo los métodos de desarrollo rápido de guías GRADE (Grading of Recommendations Assessment, Development and Evaluation) propuestos por la OPS en la Directriz para el fortalecimiento de los programas nacionales de guías informadas por la evidencia. Una herramienta para la adaptación e implementación de guías en las Américas y del Manual para elaborar guías de la Organización Mundial de la Salud (OMS).
+Se conformó un grupo multidisciplinario compuesto por expertos temáticos, epidemiólogos, metodólogos y usuarios de la guía. Dado que no se identificaron guías susceptibles de ser adaptadas, la guía se desarrolló de novo. Se realizaron búsquedas de revisiones sistemáticas y estudios primarios hasta agosto de 2017 en bases de datos electrónicas (PubMed, EMBASE, Cochrane) y mediante búsqueda manual. Posteriormente, se elaboró la síntesis y los perfiles de evidencia utilizando el enfoque GRADE. Las recomendaciones fueron clasificadas en un panel de expertos en la enfermedad de Chagas. La guía fue evaluada por expertos temáticos y metodológicos. Todos los participantes del panel y del grupo desarrollador firmaron una declaración de ausencia de conflicto de intereses, que fue analizada por la instancia de coordinación de la guía. El enfoque GRADE permite formular recomendaciones considerando la calidad de la evidencia, el balance entre los riesgos y beneficios, los valores y preferencias de los pacientes, la aplicabilidad, los costos y el contexto de implementación de forma global. Los detalles metodológicos y la evidencia que apoya las recomendaciones están disponibles en la guía objeto de este trabajo.
+
+
+-- ALCANCE Y USUARIOS DE LA GUÍA
+
+Las recomendaciones incluidas en la guía están dirigidas a profesionales de la salud (pediatras, médicos generalistas, médicos de familia, ginecólogos y obstetras, entre otros) a cargo de personas en las situaciones antes mencionadas, y a los responsables de tomar decisiones y los miembros de entidades gubernamentales, con el fin de facilitar el proceso de implementación. La guía no incluye recomendaciones para el manejo clínico de complicaciones o secuelas, el cuidado de enfermería o la prevención.
+
+
+-- CÓMO INTERPRETAR LA GUÍA
+
+Para cada pregunta clínica se presenta un grupo de recomendaciones y buenas prácticas en la población adulta y pediátrica.
+Los cuadros 1 y 2 presentan el nivel de calidad de la evidencia y la fuerza de la recomendación según el sistema GRADE, respectivamente.
+
+
+-- METODOLOGÍA DE DESARROLLO DE LA SÍNTESIS DE EVIDENCIA
+
+La Guía para el diagnóstico y el tratamiento de la enfermedad de Chagas, una guía de práctica desarrollada por la OPS, aborda esta enfermedad de alto impacto en el área de las enfermedades infeccionas y cuya eliminación es prioritaria para el avanzar hacia el logro de los Objetivos de Desarrollo Sostenibles (ODS). Se sintetizó la información de la guía relacionada con la metodología, el alcance, los objetivos, el resumen de las recomendaciones y la calidad de la evidencia empleando un formato predeterminado. Se realizaron búsquedas de revisiones sistemáticas que abordaran aspectos de implementación (barreras, facilitadores, estrategias de implementación e indicadores) usando la estrategia de búsqueda de la guía y filtros para identificar estudios sobre consideraciones de implementación. La estrategia de búsqueda incluyó los términos “adoption, uptake, utilization; taken implementation, dissemination, evidence-based treatment, barriers”. La búsqueda se realizó en PubMed, LILACS, Health Systems Evidence y Epistemonikos entre enero de 2015 y octubre de 2019. Asimismo, se revisaron los estudios primarios y reportes técnicos desarrollados en la Región de las Américas; también se incluyeron guías regionales y otros documentos relacionados con Enfermedad de Chagas de la OPS/OMS. No se realizó evaluación de la calidad de la evidencia incluida. Se seleccionaron revisiones sistemáticas y estudios primarios con el objetivo de identificar las consideraciones de implementación de las recomendaciones de la guía. Estas se organizaron de acuerdo con el tipo de barrera (Recurso humano, Preferencia de los pacientes, Conocimiento de la guía, Recursos y Acceso). Para las barreras identificadas se seleccionaron los facilitadores y estrategias de implementación más efectivas considerando el contexto de la región. A partir de la literatura seleccionada, se identificaron y construyeron indicadores de proceso y de resultado de implementación de la guía. Finalmente, los aspectos de implementación fueron revisados por un grupo interdisciplinario de metodólogos y expertos temáticos de la OPS.
+
+
+- RESULTADOS Y DISCUSIÓN
+
+En el cuadro 3 se presentan las recomendaciones y los puntos de buena práctica que brindan orientación sobre el diagnóstico y el tratamiento de la enfermedad de Chagas en la Región de las Américas. Para cada pregunta clínica, se presenta en la guía el proceso de toma de decisiones para formular las recomendaciones de acuerdo con el enfoque GRADE.
+En el se presenta el tratamiento etiológico de la enfermedad de Chagas.
+
+
+-- IMPLEMENTACIÓN
+
+La guía para el manejo de Chagas recomienda que los siguientes actores apoyen la implementación de sus recomendaciones: pediatras, médicos generalistas, médicos de familia, ginecólogos, obstetras, enfermeras, Direcciones del Sistema Nacional de Salud de cada país, entidades gubernamentales, instituciones universitarias, administradores de instituciones y sistemas con unidades de cuidado neonatal y autoridades y actores clave de los sistemas de salud de cada país.
+Dentro del proceso de implementación, es determinante identificar las posibles barreras, los facilitadores y las estrategias para mejorar la utilización de la guía. En el cuadro 4 se presentan algunos de estos elementos que pueden ser considerados por los países,-.
+En el se sugieren los indicadores de proceso y resultado de la implementación de la guía, basados en iniciativas globales.,
+
+
+-- CONCLUSIONES
+
+La Organización Panamericana de la Salud pone a disposición de los gestores y del personal de la salud una síntesis sobre las recomendaciones informadas en la evidencia y buenas prácticas para el manejo adecuado de la enfermedad de Chagas, especialmente en las áreas endémicas. Asimismo, se presentan algunas barreras para la implementación de las recomendaciones y estrategias para abordarlas, así como indicadores de proceso y resultado. Esta síntesis de evidencia busca favorecer la diseminación y el uso de las guías que elabora la OPS y contribuir a mejorar la calidad de la atención y la salud de la población en riesgo de padecer o que está afectada por la enfermedad de Chagas en la Región de las Américas.
+
+
+--- AGRADECIMIENTOS
+
+Por el apoyo para la elaboración de esta síntesis de evidencia: Dra. Ana Marcela Torres, Consultora del Departamento de Evidencia e Inteligencia para la Acción en Salud (EIH) OPS/OMS; Dr. Ludovic Reveiz, Asesor en Evidencia para la Salud Pública EIH/OPS/OMS; Dr. Roberto Salvatella, Asesor Regional en Enfermedad de Chagas, Departamento de Enfermedades Transmisibles y Determinantes Ambientales de la Salud (CDE) OPS/OMS; Dr. Luis Gerardo Castellanos, jefe de la Unidad de enfermedades desatendidas, tropicales y transmitidas por vectores CDE, OPS/OMS. Agradecemos los aportes por la revisión de los siguientes expertos: Dr. Roberto Chuit, Director del Instituto de Epidemiología de la Academia Nacional de Medicina, Buenos Aires, Argentina; Dr. Jaime Altcheh, Director del Servicio de Parasitología y Chagas, Hospital de Niños Dr. R. Gutiérrez, Buenos Aires, Argentina; Dr. Faustino Torrico, Director de la Plataforma en Enfermedad de Chagas, Universidad de San Simón, Cochabamba, Bolivia; Dr. Alejandro Luquetti, Exjefe del Laboratorio de Investigación en Enfermedad de Chagas, Hospital das Clínicas, Goiânia, Brasil; Dr. Juan Carlos Villar, Profesor Titular, Facultad de Ciencias de la Salud, Grupo de Cardiología Preventiva Universidad Autónoma de Bucaramanga, Colombia; Dr. Ariel Izcovich, Servicio de Clínica Médica del Hospital Alemán de Buenos Aires; Dr. Juan Criniti, Hospital Alemán de Buenos Aires.
+
+
+--- FINANCIACIÓN
+
+La guía y la síntesis de evidencia fueron financiadas por la Organización Panamericana de la Salud.

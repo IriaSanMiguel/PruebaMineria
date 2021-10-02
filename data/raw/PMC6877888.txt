@@ -1,0 +1,102 @@
+CARACTERÍSTICAS BASALES Y CAMBIOS EN EL TRATAMIENTO TRAS EL PERIODO DE OPTIMIZACIÓN DE LOS PACIENTES INCLUIDOS EN EL ESTUDIO EFICAR
+
+
+- INTRODUCCIÓN
+
+La insuficiencia cardiaca (IC) presenta elevada prevalencia y morbimortalidad; es la primera causa de hospitalización en mayores de 65 años y representa el 3% de los ingresos hospitalarios y el 2,5% del coste sanitario.
+Tradicionalmente se han utilizado medidas clínicas para valorar el pronóstico, como las comorbilidades asociadas, la clasificación funcional de la New York Heart Association (NYHA), la fracción de eyección del ventrículo izquierdo o el test de los 6 min caminando. Sin embargo, la correlación de estos índices con la calidad de vida percibida por el paciente es débil o moderada. La IC afecta a su vida diaria y a su bienestar, convirtiéndose en una de las mayores preocupaciones de estos pacientes.
+Otro aspecto importante en la atención a estos pacientes es la optimización adecuada de los fármacos, que ha demostrado disminuir la morbimortalidad. Esto supone realizar revisiones periódicas para adaptar la medicación que ha demostrado eficacia, inhibidores de la enzima de conversión de angiotensina (IECA), antagonistas de los receptores de la angiotensina ii (ARA-II), betabloqueantes y antagonistas del receptor mineralocorticoideo, a la dosis máxima tolerada por el paciente, como recomienda la guía europea sobre diagnóstico y tratamiento de la IC con función sistólica deprimida (ICFSD).
+Los objetivos del estudio fueron describir los datos basales de clase y capacidad funcional, comorbilidades asociadas, calidad de vida y cambios en la medicación durante el periodo de optimización del tratamiento, en pacientes con ICFSD incluidos en el estudio EFICAR.
+
+
+- METODOS
+
+-- DISEÑO Y POBLACIÓN DE ESTUDIO
+
+Diseño. El estudio EFICAR (NCT01033591) es un ensayo clínico aleatorizado multicéntrico que valora la eficacia de un programa de ejercicio en pacientes con ICFSD. Describimos las características basales de los 150 pacientes incluidos.
+Población de estudio. Se reclutaron en 7 centros de atención primaria integrados en la Red de Investigación Prevención y Promoción de la Salud, con el apoyo de los servicios de cardiología. Se incluyeron sujetos mayores de 18 años con diagnóstico clínico de ICFSD, con criterios de Framingham, en clase funcional ii-iv de la NYHA en situación estable, fracción de eyección del ventrículo izquierdo < 50% valorada con ecografía en el último año y capaces de adscribirse a un programa de ejercicio. El estudio fue aprobado por los comités de ética de los hospitales de referencia. Fueron excluidos si: presentaban alguna arritmia que contraindicara el ejercicio, no superaron los 4 MET en la prueba de esfuerzo con protocolo de Naughton o no firmaron el consentimiento informado de acuerdo con las recomendaciones de la Declaración de Helsinki. En todos se realizó ajuste del tratamiento, por médicos de atención primaria, con el objetivo de conseguir la dosis óptima de IECA, ARA-II, betabloqueantes, diuréticos y antagonistas del receptor mineralocorticoideo, siguiendo las recomendaciones de las guías de práctica clínica de la Sociedad Europea de Cardiología.
+
+
+-- MEDICIONES
+
+Variables del estudio. a) variables sociodemográficas: edad, género; b) factores de riesgo: hipertensión arterial, diabetes mellitus, tabaquismo, obesidad, actividad física y consumo de alcohol; c) comorbilidades asociadas: cardiopatía isquémica, enfermedad cerebrovascular, enfermedad arterial periférica, presencia de arritmia, enfermedad pulmonar obstructiva crónica, insuficiencia renal, anemia, depresión y su cuantificación global con el índice de Charlson; d) clase funcional de la NYHA; e) exploración general: peso, talla, frecuencia cardiaca, presión arterial, y f) exploraciones complementarias: electrocardiograma, radiografía de tórax y fracción de eyección con ecocardiografía.
+Determinaciones analíticas. Se analizó la función renal, glucemia, transaminasas, perfil lipídico, hemoglobina, ionograma y péptido natriurético.
+La capacidad funcional de los pacientes se evaluó con el test de los 6 min caminando. Esta prueba funcional cardiorrespiratoria consiste en medir la distancia máxima que puede recorrer un sujeto durante 6 min y refleja bien las actividades de la vida diaria. Se siguieron las recomendaciones de la American Thoracic Society. Antes y después de realizar la prueba se midió la frecuencia cardiaca, la presión arterial y la puntuación en la escala de Borj de 10 ítems, indicada en pacientes con ICFSD, para disnea y fatiga.
+Para la evaluación de fuerza muscular del tren superior y fuerza general del cuerpo se utilizaron 2 dinamómetros digitales modelos: Riester Dynatest® Ref. 5265 (60 pacientes) y modelo TKK-5401 (90 pacientes), realizando 3 mediciones; es un método objetivo para medir la fuerza muscular y un indicador funcional de las extremidades superiores que se correlaciona con la fuerza global del cuerpo.
+El test de la silla mide la fuerza del tren inferior, el equilibrio y la movilidad del sujeto; es una herramienta objetiva para evaluar la capacidad funcional de las extremidades inferiores, compuesta por 3 test, de los cuales en el estudio EFICAR solo se realizó la prueba de levantamiento de la silla 5 veces.
+La prueba de esfuerzo se realizó en el servicio de cardiología de referencia siguiendo el protocolo de Naughton modificado con evolución de tiempo de desarrollo, frecuencia cardiaca, MET y presión arterial, utilizado en pacientes con ICFSD.
+El análisis de la calidad de vida se realizó con 2 cuestionarios: a) Minnesota Living with Heart Failure Questionnaire (MLHFQ), desarrollado en Estados Unidos y validado para su uso en población española y en pacientes con IC en atención primaria. Es autoaplicable, consta de 21 preguntas, con una gama de posibles respuestas para cada pregunta entre 0 (nada) y 5 (mucho); a mayor puntuación, peor calidad de vida. Su puntuación es la suma algebraica simple de los puntos obtenidos en las 21 preguntas, y oscila entre 0 y 105 puntos. Evalúa cómo la IC afecta las dimensiones física (8 preguntas), emocional (5 preguntas) y social (9 preguntas). b) El cuestionario de salud Short Form-36 Health Survey (SF-36) es autoaplicable tanto a la población general como a pacientes con diversas enfermedades. La versión validada para población española del cuestionario genérico de salud SF-36, contiene 36 preguntas que miden 8 dimensiones de la salud resumidas en 2 sumarios estandarizados: físico y mental. Obtiene una puntuación para cada dimensión que va de 0 (peor) a 100 (mejor salud). Puntuaciones totales mayores o menores de 50 indican mejor o peor calidad de vida relacionada con la salud que la población general. Las propiedades psicométricas validez, sensibilidad y especificidad del SF-36 y del MLVHFQ ya han sido evaluadas, .
+La descripción detallada de recogida de datos clínicos, mediciones antropométricas y analíticas, criterios de inclusión y exclusión ya ha sido previamente publicada en el protocolo del estudio EFICAR.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables continuas se expresan mediante la media ± desviación estándar. Las variables discretas se presentan según su frecuencia absoluta y relativa. Las diferencias de medias se estimaron mediante la t de Student-Fisher. Las diferencias entre proporciones se estimaron mediante la prueba de la χ2 o el test exacto de Fisher. La dosis media de fármacos utilizados se estandarizó a dosis de enalapril, candesartán, bisoprolol, eplenorona y furosemida siguiendo las tablas de equivalencia de la guía europea de 2012 para el control y seguimiento de la IC. El nivel de significación estadística se estableció en p < 0,05. En el análisis estadístico se utilizó el programa IBM SPSS versión 20.0.
+Esquema del estudio EFICAR: 
+
+
+- RESULTADOS
+
+-- PACIENTES INCLUIDOS
+
+De los 510 pacientes que cumplían criterios de inclusión, rechazaron participar 304 y firmaron el consentimiento informado 206; 26 abandonaron durante el periodo de optimización, 23 no llegaron a 4 MET en la prueba de esfuerzo, 6 presentaron una prueba de esfuerzo clínica o eléctricamente positiva y uno falleció antes de la aleatorización. Finalmente, 150 pacientes fueron aleatorizados.
+La tabla 1 muestra las características clínicas principales de los pacientes incluidos, sin que haya diferencias entre grupo EFICAR y control. El 73% de los pacientes presentan síntomas o signos de IC registrados en el momento de la consulta. La cardiopatía isquémica y la hipertensión fueron las causas aislada o en combinación de IC en el 72% de casos. Presentan numerosas comorbilidades asociadas, con un índice de Charlson global de 2,03 ± 1,05, corregido por edad de 4,30 ± 1,6. El 89% estaban en grado funcional ii de la NYHA. Habían ingresado por IC el último año el 31%.
+
+
+-- PRUEBAS DIAGNÓSTICAS Y RESULTADOS ANALÍTICOS
+
+Las alteraciones electrocardiográficas más frecuentes fueron bloqueo de rama y signos de cardiopatía isquémica. Presentan cardiomegalia radiológica más del 30%. La fracción de eyección media del ventrículo izquierdo fue 37 ± 8%, y el 19% fracción de eyección inferior al 30%. Los datos de exploración física y analítica realizada se muestran en la tabla 2, sin diferencias entre los 2 grupos.
+
+
+-- CAPACIDAD FÍSICA Y CALIDAD DE VIDA
+
+La media de MET en la ergometría fue 6,3 ± 1,6, y de metros en el test de los 6 min, de 446 ± 78 m. La fuerza de las extremidades superiores con dinamómetro fue 34,53 ± 10,12 kgf y 0,58 ± 0,16 bar en 2 grupos de centros que utilizaron diferente aparato de medición. El tiempo en segundos en realizar el test de la silla fue 13,7 ± 4,4. El valor del SF-36 de salud física fue 43,3 ± 8,4, y de salud mental, 50,1 ± 10,6. El test de MLHFQ global fue 22,8 ± 18,7. No hubo diferencia entre los 2 grupos en ninguno de los parámetros analizados .
+
+
+-- TRATAMIENTO Y OPTIMIZACIÓN
+
+En la tabla 4a se reflejan el porcentaje de paciente en tratamiento con los fármacos más utilizados en los 2 grupos, sin que haya diferencias. El número de pacientes, porcentaje y mg/24 h (estandarizando la dosis a enalapril, candesartán, bisoprolol, furosemida y eplenorona), de grupos farmacológicos utilizados en la primera visita y previo a la optimización del tratamiento está reflejado en la tabla 4b. Durante este periodo no aumentó el porcentaje de paciente ni la dosis media de IECA, ARA-II y betabloqueantes. Al terminar la optimización del tratamiento, estaban con fármacos que inhiben el sistema renina angiotensina (IECA o ARAII) 147 (98%) y con betabloqueantes 136 (91,33%). El incremento de dosis media durante la optimización fue: IECA 0,54 ± 6,48 mg de enalapril (p = 0,55); ARA-II −1,07 ± 9,13 mg de candesartán (p = 0,57); betabloqueantes 0,43 ± 2,95 mg de bisoprolol (p = 0,23), sin diferencia en los diuréticos.
+
+
+- DISCUSIÓN
+
+Este estudio analiza en una misma muestra de sujetos con ICFSD características clínicas, exploraciones realizadas, capacidad física, calidad de vida y tratamientos farmacológicos. Al finalizar el periodo de optimización del tratamiento no se ha incrementado la dosis media diaria ni el porcentaje de pacientes que toman IECA, ARA-II y betabloqueantes.
+No firmaron el consentimiento 304 sujetos (60%), a pesar de cumplir los criterios de inclusión. Todo ello puede ser debido a que en nuestro país menos del 3% de los sujetos con enfermedades cardiovasculares, sobre todo coronarias, se adhieren a programas de rehabilitación cardiaca, a pesar de que la participación de pacientes con IC en programas de rehabilitación cardiaca que incluyan ejercicio físico aeróbico se reconoce como una intervención segura que mejora la calidad de vida de estos pacientes según los resultados del estudio HF-ACTION, , aunque en el mismo la adherencia a largo plazo en el programa fue baja, y que actualmente se recomienda en las guías de práctica clínica. Una reciente revisión insiste en la necesidad de mecanismos para remitir automáticamente a los pacientes a programas de rehabilitación tras el alta hospitalaria y recuerda la importancia de enseñar a los profesionales de la salud, médicos y no médicos, los aspectos clínicos y los beneficios de estos programas.
+
+
+-- CARACTERÍSTICAS DE LOS PACIENTES
+
+Los sujetos del estudio EFICAR presentan características similares a las encontradas en otros trabajos en pacientes con ICFSD, , . Este tipo de pacientes, comparados con los sujetos que presentan IC con función sistólica conservada, en la mayoría de los registros tienen menor edad, mayor proporción de varones, la etiología más frecuente es la cardiopatía isquémica y la gran mayoría presentan síntomas o signos de IC. En este estudio la media de edad fue de 66 años, menor que la de los registros poblacionales, e igual a la del estudio BADAPIC.
+La presencia de comorbilidades asociadas es alta, similar a los datos publicados por otros autores, , . Las diferencias entre los trabajos realizados vienen dadas por la prevalencia del tipo de comorbilidades asociadas, hecho que probablemente se explica por las características y la procedencia de la muestra analizada y el registro de recogida de dichas comorbilidades. La presencia de comorbilidades tiene un papel relevante en la IC, ya que puede condicionar el tratamiento de la misma, y los fármacos para tratar las comorbilidades pueden empeorar la IC e interaccionar con los fármacos utilizados para tratar esta patología. Por último, la mayoría de las comorbilidades conllevan estados clínicos peores, son factores predictivos de mal pronóstico y están relacionadas con el número de ingresos. Una tercera parte de los pacientes en este estudio ingresaron durante el último año, cifras concordantes con datos publicados. Por todo ello, el manejo de las comorbilidades es un componente clave del cuidado global de los pacientes con IC.
+
+
+-- PRUEBAS DIAGNÓSTICAS Y ANALÍTICA
+
+Coincidiendo con otros estudios, , , prácticamente todos los pacientes tienen alteraciones en el ECG y una tercera parte presentan cardiomegalia radiológica.
+
+
+-- CAPACIDAD FÍSICA Y CALIDAD DE VIDA
+
+Los resultados obtenidos en el test de los 6 min fueron similares a los publicados por Shoemaker et al. y en un estudio observacional realizado en hombres con ICFSD.
+No hemos encontrado estudios que valoren la capacidad funcional tanto de las extremidades superiores, evaluada con dinamómetro, como de las extremidades inferiores, valorada con el test de la silla. Sin embargo, estas pruebas se relacionan de forma independiente con el pronóstico de la ICFSD, de ahí la importancia de analizarlas. Los resultados obtenidos con el test de MLHFQ, tanto la puntación global (24) como en la dimensión física (10) y en la dimensión emocional (6), fueron mejores a los descritos por Naveiro-Rilo et al con valores de 31, 15 y 6 en pacientes en atención primaria, y por Garin O et al. con valores de 37, 17 y 8 en una muestra de pacientes hospitalarios y con ICFSD, lo que indica una mejor salud percibida, posiblemente debido a la menor edad de los sujetos analizados en este estudio. Al contrario, los valores del SF-36 tanto en salud física (43) como en salud mental (51) fueron peores a los obtenidos en los estudios comentados, , probablemente debido a que en este caso se valora la salud general independiente de la IC.
+
+
+-- TRATAMIENTO Y OPTIMIZACIÓN
+
+En la primera evaluación todos los pacientes estaban con tratamiento farmacológico, más del 97% con IECA o ARA-II, casi el 90% con betabloqueantes, más del 50% con diuréticos de ASA y casi el 60% con bloqueantes del receptor mineralocorticoide. Los porcentajes de pacientes tratados son superiores en la inclusión a los de otros trabajos, , , y las variaciones entre los diferentes estudios se explican por la etiología de la IC y el ámbito en el cual se trata a los pacientes. Así, en el estudio BADAPIC el grupo de pacientes que presentaban ICFSD estaban con IECA el 78%, el 37% con espironolactona y el 65% con betabloqueantes; en el registro de unidades de IC el 86% estaban con IECA o ARA-II, el 80% con betabloqueantes y el 56% con bloqueantes del receptor mineralocorticoide, y en el registro RICA estaban con betabloqueantes el 78%, con IECA el 83% y con bloqueantes del receptor mineralocorticoide el 28%. Sin embargo, encontramos que las dosis utilizadas eran menores que las recomendadas por las directrices, pero comparables con las de otros estudios, .
+La optimización del tratamiento de los fármacos que han demostrado ser eficaces en el tratamiento de la ICFSD es esencial para conseguir los beneficios descritos en los ensayos clínicos. En este estudio no ha aumentado ni la dosis, ni el número de pacientes que al final de la optimización seguía tratamiento con IECA, o ARA-II y BB. Es posible que, al tratarse sobre todo de pacientes prevalentes, se encontraban en un nivel de control y estabilización farmacológica inicial superior a la media en este tipo de pacientes en atención primaria, reflejado también en un menor consumo de diuréticos.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+La principal limitación de este estudio es que la selección de los pacientes no se ha realizado de forma aleatorizada, y en segundo lugar hubo un porcentaje muy elevado de sujetos que no aceptó participar en el estudio, lo que introduce un posible sesgo de selección a la hora de extrapolar los resultados.
+
+
+- FINANCIACIÓN
+
+Instituto de Salud Carlos III (ISCIII) del Ministerio de Economía y Hacienda (España) a través de la Red de Prevención y Promoción de la Salud en Atención Primaria (REDIAPP, RD12/0005), por una subvención para proyectos de investigación (FIS: PS09/01337, PS09/01467, PSO9/01859, PS09/01557, PS09/02033, PS09/01467, PS09/01498, RETICS G03/170, RD06/0018/0018, CAI08/01/0065), cofinanciado con fondos FEDER de la Unión Europea, por el servicio de Salud de Castilla y León (SAN/1778/2009) y el programa de intensificación para la investigación.Lo conocido sobre el tema•La IC es una patología muy prevalente en las consultas de atención primaria.•La etiología principal en varones es la cardiopatía isquémica y en mujeres la hipertensión arterial.•La optimización del tratamiento disminuye la morbimortalidad.Qué aporta este estudio•La mayoría está en clase funcional ii, con capacidad funcional y calidad de vida disminuida e índice de comorbilidad elevado.•Más del 50% de los pacientes con ICFED rechazan participar en un programa de rehabilitación basado en el ejercicio físico.•Durante el periodo de optimización del tratamiento no se consiguió aumentar la dosis de fármacos que han demostrado su eficacia.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

@@ -1,0 +1,104 @@
+BUSCA TU 1%: PREVALENCIA Y MORTALIDAD DE UNA COHORTE COMUNITARIA DE PERSONAS CON ENFERMEDAD CRÓNICA AVANZADA Y NECESIDADES PALIATIVAS
+
+
+- INTRODUCCIÓN
+
+Envejecimiento y cronicidad evolutiva son paradigmas comunitarios emergentes que promueven que los sistemas sanitarios centren sus políticas en las personas con mayores necesidades, , destacando entre ellas las que presentan enfermedades avanzadas y necesidades paliativas.
+Atenderlas mejor implica identificarlas precozmente durante la primera transición paliativa, y aplicar un modelo integral, integrado y centrado en la persona bajo una mirada paliativa creciente, proporcional a su progresión evolutiva.
+El conocimiento epidemiológico sobre las enfermedades avanzadas y el enfoque basado en tres trayectorias de final de vida (enfermedades oncológicas, insuficiencias crónicas de órgano [IOCA], y demencia-fragilidad) han supuesto un avance en su conceptualización y en la modelización de su gestión clínica.
+Diferentes iniciativas, sugieren que la prevalencia de personas con enfermedad crónica avanzada se sitúa alrededor del 1%. Para su detección precoz se han utilizado instrumentos que incluyen la pregunta sorpresa entre sus ítems principales. En Catalunya, el instrumento habitualmente utilizado es el NECPAL, adaptación a nuestro entorno del PIG británico.
+Las propuestas de los Planes de Salud de Catalunya para 2011-2015 y 2016-2020, han explicitado un modelo de atención a la cronicidad avanzada (MACA) como vector de transformación y actualización de la atención paliativa, incorporándola a las estrategias de cronicidad.
+En esta nueva comprensión, las enfermedades avanzadas suelen asociarse a la presencia de necesidades paliativas y la atención primaria, como referente sanitario principal de la comunidad, tiene un papel central en la atención de estos pacientes, . Para que dicha centralidad sea posible se necesita un mayor conocimiento sobre la cronicidad avanzada comunitaria.
+Los objetivos de este estudio son determinar las prevalencias y perfiles, así como analizar los elementos relacionados con la mortalidad de las personas con enfermedades avanzadas en atención primaria para orientar estrategias de mejora en este nivel asistencial.
+
+
+- MATERIAL Y MÉTODOS
+
+Se trata de un estudio observacional, analítico y prospectivo de una cohorte de personas con necesidades paliativas, adscritas a 3 equipos de atención primaria (EAP) del Área de Gestión Asistencial de Osona (Catalunya) en el momento de iniciarse la implementación del MACA. Se realizó una identificación transversal y poblacional de pacientes avanzados mediante la detección inicial —individual y sistemática— de personas con cronicidad grave, a las que de manera multidisciplinar se aplicó el instrumento NECPAL y, seguidamente, los criterios de mejora del MACA.
+Los criterios de inclusión fueron las personas que, tras el proceso de identificación, fueron registradas como tributarias del MACA en HC3 (historia clínica compartida de Catalunya). Se excluyeron aquellas con una edad inferior a 15 años en el momento de la identificación.
+
+
+-- MEDICIONES PRINCIPALES Y SEGUIMIENTO DE LAS PERSONAS INCLUIDAS
+
+Variables relacionadas con el perfil demográfico y clínico: edad, sexo, tipología de domicilio, EAP de referencia, nivel de estratificación (según Clinical Risk Groups [CRG]) y enfermedad principal según criterio del médico de familia referente y categorizada por grupo patológico (oncológico, cardiológico, neumológico, nefrológico, neurológico, hepatológico, demencia, fragilidad/síndromes geriátricos).
+Se registró la fecha, el lugar y la causa de los fallecimientos eventualmente acaecidos.
+La cohorte fue identificada en marzo de 2013 y fue seguida del 1 de abril de 2013 al 31 de marzo de 2016.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los pacientes fueron agrupados según sexo, grupo etario, trayectoria de final de vida, EAP y lugar donde vivían (domicilio propio o residencia geriátrica). La comparación entre variables cualitativas se llevó a cabo mediante la prueba de χ2 de Pearson.
+El análisis de la mortalidad se realizó respetando las censuras de la muestra, incluyendo todas las personas que permanecen vivas en cada momento evolutivo. Se utilizaron el método no paramétrico de Kaplan-Meier para estimar las supervivencias y el test log-rank para el análisis comparativo de los distintos grupos. Los factores asociados a la probabilidad de muerte se analizaron aplicando el modelo de Cox y el cálculo de hazard ratios. El software utilizado fue SPSS (versión 23) y R (versión 3.3.2).
+
+
+- RESULTADOS
+
+-- PREVALENCIA Y CARACTERÍSTICAS DE LA COHORTE
+
+Un total de 251 personas fueron identificadas como enfermos avanzados (media de edad: 83,4 años; DE: 9,2; mediana: 85). El 56,6% fueron mujeres (66,9% en caso de personas afectadas de fragilidad-demencia, 47,2% si IOCA o cáncer). Las prevalencias poblacionales y los datos relevantes sobre la distribución de las principales variables se muestran en las Tabla 1, Tabla 2, Tabla 3. La distribución comunitaria entre condiciones —fragilidad o demencia— y enfermedades —cáncer o IOCA— fue 49,3 y 50,7%, respectivamente. Al menos el 79,4% de los casos presentaron multimorbilidad significativa (CRG 6 o 7).
+
+
+-- PROBABILIDAD DE MORIR Y FACTORES RELACIONADOS
+
+El porcentaje acumulado de fallecimientos fue del 19,9% a los 6 meses; del 31,9% a los 12 meses; del 50,8% a los 24 meses y del 62,1% a los 36 meses. La media de supervivencia fue de 21,4 meses (DE = 14,0), con una mediana de 23 meses. Las curvas de supervivencia más representativas se muestran en la figura 1.Figura 1
+No hubo diferencias significativas respecto a la probabilidad de morir en función del EAP (p = 0,571) o del lugar de residencia (p = 0,386).
+El modelo de Cox estableció que los factores que podrían explicar de manera independiente la probabilidad de morir eran sexo (p < 0,05), edad —mayor vs. menor de 85 años— (p < 0,005) y trayectoria —cáncer vs. no cáncer— (p < 0,01). No obstante, la aplicación del modelo demostró que la variable cáncer incumplía la hipótesis de riesgos proporcionales (el cáncer influye en la mortalidad de manera no estable en el tiempo), lo que obligó a excluirla y aplicar una estratificación del modelo para el cálculo de hazard ratios para el resto de factores explicativos, cuyos resultados se muestran en las Tabla 4, Tabla 5.
+En el 90,3% de casos hubo coincidencia entre la causa de la muerte y la enfermedad principal. Tal coincidencia se vio en todas las patologías (del 83,3% en cardiopatías al 97,7 y 100% en demencia y nefropatías, respectivamente) y se constató en todas las fases del estudio (del 93,5% en los que mueren los primeros 6 meses, al 85,2% en los que mueren el tercer año).
+El 47,3% fallecieron en su domicilio (35,7% en casa propia, 11,6% en residencia). El 52,7% restante murieron en hospitales (15,5% de agudos, 37,2% de atención intermedia).
+Se observa una relación significativa entre lugar de residencia y de fallecimiento (p < 0,001). El 81,5% de pacientes avanzados que viven en una residencia mueren en ella, mientras que cuando viven en su casa son el 38,2%. En pacientes no residenciales, hay una relación significativa entre lugar de muerte y trayectoria (p < 0,01), siendo la trayectoria demencia-fragilidad la que muestra mayor probabilidad de fallecer en casa (68,8%).
+Finalmente, y también en no residenciales, es significativa la relación entre el lugar de la muerte y el sobreenvejecimiento (p < 0,05). Los menores de 85 años mueren el 24,0% en su domicilio, el 57,1% en hospital de atención intermedia y el 18,4% en el de agudos. Estas proporciones en población sobreenvejecida son del 50,9, 34,0 y 15,1%, respectivamente.
+
+
+- DISCUSIÓN
+
+-- ¿CUÁNTOS ENFERMOS AVANZADOS HAY Y CÓMO SON
+
+De manera congruente entre los equipos participantes y con lo publicado en otros estudios, , el 1% de la población adulta atendida por EAP presenta enfermedades avanzadas. El (sobre)envejecimiento y la atención a pacientes residenciales serían los factores que incrementarían esta prevalencia. La enfermedad avanzada es infrecuente en menores de 65 años y se observa preferentemente en personas con envejecimiento (el 71,7% tienen 80 años o más) y, sobre todo, con sobreenvejecimiento (43,4%). Que la mediana de la cohorte sea de 85 años supondría una alerta sanitaria ante las previsiones de sobreenvejecimiento de la población española.
+La enfermedad avanzada es predominantemente femenina a causa de la población sobreenvejecida (en < 85 años se observa un ligero predominio masculino). Las diferencias entre sexos vendrían influidas por la morbilidad. Así, por ejemplo, en EAP2 predomina el perfil oncológico y el género mayoritario es el masculino.
+A pesar del patrón mayormente multimórbido, los clínicos identificaron la enfermedad principal para cada caso que, casi con seguridad, acabará siendo la causa del fallecimiento. La demencia es la condición avanzada más prevalente (a expensas de las poblaciones sobreenvejecidas). A continuación son más habituales las condiciones de fragilidad y síndromes geriátricos, mientras que el cáncer y las IOCA quedan a distancia.
+Existen diferencias significativas en la distribución de enfermedades y trayectorias según equipos. EAP1 y EAP3 muestran un comportamiento similar y en EAP2 predomina la trayectoria oncológica en detrimento de la demencia. Como en series similares, la trayectoria fragilidad-demencia representa casi la mitad de los casos de la cohorte y el cáncer supone el 13,5%, lo que confirma un cambio sustancial en la epidemiologia paliativa comunitaria.
+Hay diferencias significativas en la distribución de la morbilidad principal en función de la edad. Fragilidad y demencia están claramente vinculadas con el (sobre)envejecimiento. La trayectoria oncológica es la que más afecta a las cohortes jóvenes y mantiene una presencia notable en las franjas de mayor edad. Las IOCA son más prevalentes en las personas MACA de 80 años o más, y poco frecuentes en menores de 65 años.
+
+
+-- ¿ESTÁN EN SU CASA O EN UNA RESIDENCIA
+
+Como en otros estudios, casi una cuarta parte de las personas con necesidades paliativas viven en residencias geriátricas. La población MACA residencial es diferente de la que vive en casa: más femenina, más sobreenvejecida, y con la demencia como enfermedad mayoritaria. La mayoría de pacientes comunitarios con demencia y necesidades paliativas están ingresados en residencias, entorno en el que la trayectoria demencia-fragilidad representa casi el 80% de la cronicidad avanzada.
+El perfil del paciente que vive en su casa es más variado en cuanto a morbilidad, aunque las enfermedades (cáncer + IOCA) son mayoritarias (59,5%). El 91,2% del MACA oncológico y el 88,8% por IOCA viven en el propio domicilio.
+
+
+-- ¿SE PUEDEN IDENTIFICAR
+
+La concordancia con otras series que utilizan un cribado poblacional equivalente consolidaría la factibilidad y validez de constructo del NECPAL y del sistema de identificación propuesto. A pesar de la consistencia global de la cohorte, el comportamiento comparativo de los equipos sugiere que en el proceso inicial de identificación de enfermos avanzados puedan existir sesgos de selección debidos a factores culturales del EAP. En este contexto, la asunción del MACA en el entorno residencial por parte de atención primaria podría promover la sensibilidad de los profesionales en pro del componente paliativo de la demencia o las condiciones geriátricas complejas, como ejemplifica el EAP3.
+
+
+-- ¿CUÁNTOS Y QUIÉNES MUEREN
+
+Recientemente se han publicado revisiones críticas sobre la capacidad de la pregunta sorpresa para vaticinar la probabilidad de morir. El test NECPAL, a pesar de que incluye la pregunta sorpresa, no pretende predecir mortalidad sino promover una mirada paliativa en los pacientes identificados, lo cual no impide que tales pacientes debieran, en buena lógica, mostrar un pronóstico de vida limitado. En este sentido y en nuestra cohorte, la enfermedad avanzada se comporta como una condición de salud grave: casi 2 de cada 3 pacientes avanzados han muerto al cabo de 3 años.
+Tener un cáncer evolutivo se asocia significativamente a un mayor riesgo de morir respecto a las otras trayectorias. Por otra parte, la combinación de sexo femenino y edad menor de 85 años actuaría como un factor protector.
+La mortalidad de la trayectoria fragilidad-demencia es igual a la de las enfermedades graves de órgano. De hecho, y por citar las dos IOCA paradigmáticas, a los 3 años han muerto tantos pacientes con demencia grave (65,7%) como personas con broncopatías severas avanzadas (65,0%) y más que cardiópatas singularmente afectados (59,4%). Los datos sugieren que la probabilidad de morir por cáncer evolutivo varía con el tiempo, siendo mayor respecto a las otras trayectorias en los primeros meses, y tendiendo a igualarse en fases posteriores. La gran mayoría de enfermos avanzados mueren como consecuencia de la enfermedad principal identificada por su médico meses o años antes. Esto supondría un sólido argumento para la adopción de propuestas proactivas de atención y de procesos de planificación de decisiones anticipadas (PDA).
+
+
+-- ¿DÓNDE FALLECEN
+
+En esta cohorte el lugar del fallecimiento difiere de lo habitualmente publicado. Si lo más común es el hospital de agudos, , en nuestro estudio hay un predominio de la opción domiciliaria y los centros de atención intermedia. La opción de morir en el domicilio está altamente garantizada en los pacientes residenciales y, para el conjunto de la cohorte, parece asociarse al sobreenvejecimiento y al padecimiento de una trayectoria de fragilidad-demencia. No obstante, en el caso de no disponer de estos atributos, la probabilidad de fallecer en centros expertos en final de vida (como son los hospitales de atención intermedia) predomina claramente sobre la opción a priori menos idónea: los hospitales de agudos, donde siempre se produce una inevitable —posiblemente deseable— proporción de muertes, especialmente durante la atención a situaciones críticas de difícil control.
+
+
+-- LIMITACIONES DEL DISEÑO
+
+Este estudio se realiza en EAP predominantemente rurales de un territorio con tradición paliativista y de prácticas integradas, hecho que puede limitar la extrapolación de los resultados, especialmente los referidos al lugar del fallecimiento.
+Probablemente el número de pacientes incluidos en la cohorte resultaría insuficiente para caracterizar mejor determinados comportamientos, como la identificación de factores que expliquen de manera independiente el lugar del fallecimiento.
+Finalmente, y aunque no sea propiamente una limitación, la escasez de estudios similares que traten de enfoques paliativos de primera transición, mortalidad y atención primaria como ámbito de investigación, supone una dificultad añadida en la comparación de los datos obtenidos.
+
+
+-- APLICABILIDAD PRÁCTICA DE LOS RESULTADOS
+
+El 1% de las personas adultas atendidas por EAP tendrían enfermedades avanzadas, con una alta probabilidad de morir a los pocos años, así como de presentar necesidades no cubiertas. Su identificación es factible y válida, y constata que cronicidad avanzada, fragilidad evolutiva y complejidad clínica constituyen el paradigma paliativo contemporáneo, desplazando la tradición oncológica.
+Los enfermos avanzados viven en la comunidad, presentan problemas de salud habitualmente gestionados por la atención primaria y, con frecuencia, podrían ser atendidos en sus domicilios hasta el final de sus días por parte de sus profesionales de referencia. Ello supone una llamada para aquellos equipos cuyos pacientes mueren mayoritariamente en contextos subóptimos (servicios de urgencias y hospitales de agudos). La ruralidad y la cultura de los equipos podrían determinar cuantitativamente y cualitativamente la identificación de enfermos avanzados, sugiriendo el riesgo de sesgos grupales y contextuales que dejen fuera de radar determinados pacientes, especialmente en entornos urbanos y territorios con bajo nivel de integración asistencial.
+Dado que una parte sustancial de las necesidades paliativas están en las residencias, el compromiso de los EAP con los pacientes vulnerables y con los enfoques comunitarios aconsejaría adoptar el entorno residencial como una opción natural de la atención primaria. Que la demencia sea la enfermedad con componente paliativo más prevalente y emergente ejemplifica el reto competencial que la cronicidad avanzada supone para los profesionales de atención primaria, y pone en valor la vocación holística de la medicina de familia en pro de una praxis 4 P (personalizada, participada, proactiva y predicitiva) con la PDA como habilidad nuclear que garantice una atención congruente con las necesidades, valores y preferencias de las personas.
+Este estudio sugiere que la epidemiología paliativa comunitaria podría estar repartida al 50% entre dos estirpes de pacientes. Una formada por mujeres sobreenvejecidas, en trayectoria de demencia-fragilidad y con una mayor probabilidad de ingresar en una residencia y de morir allá donde viven. La otra, compuesta por hombres menos ancianos, mayormente IOCA o cáncer, que no suelen vivir en residencias y sí morir en contexto hospitalario. Será interesante promover estudios que confirmen esta hipótesis. En todo caso, la atención primaria debiera ser el referente asistencial de ambos perfiles de pacientes. Inexcusablemente de los del primer grupo.
+Sería oportuno promover proyectos de investigación sobre el perfil de las necesidades paliativas, el uso de recursos sanitarios y sociales de los pacientes avanzados, las nuevas exigencias competenciales que suponen para los profesionales y, finalmente, sobre la evaluación de innovaciones organizativas a nivel de equipos asistenciales y microsistemas.Lo conocido sobre el tema-La tendencia consolidada hacia una nueva comprensión de las enfermedades avanzadas y de la atención paliativa desplaza el paradigma oncológico.-Las enfermedades avanzadas y las necesidades paliativas constituyen el último eslabón de la cronicidad evolutiva.-El conocimiento generado desde este enfoque modifica la manera en que los profesionales, los equipos y los territorios atienden a las personas más vulnerables.Qué aporta este estudio-La prevalencia y el perfil de las personas con enfermedades avanzadas en la comunidad se comportan de manera constante y predecible.-La mortalidad de estos pacientes es notable, y susceptible de mejora en cuanto a las condiciones en que se produce.-La atención primaria se ve directamente llamada a actuar con excelencia en la atención de la cronicidad avanzada, asumiendo el reto de la paliación en el contexto residencial.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

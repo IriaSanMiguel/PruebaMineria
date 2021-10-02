@@ -1,0 +1,23 @@
+FUNCIONAMIENTO FAMILIAR Y DEPRESIÓN EN MADRES E HIJOS CON DERMATITIS ATÓPICA
+
+
+Sr. Editor:
+La dermatitis atópica (DA) es una enfermedad de etiología multifactorial en la que intervienen factores genéticos, inmunológicos, medioambientales y psicológicos.
+Este estudio se realizó con el objetivo de determinar la frecuencia de depresión en niños con DA y en sus madres y averiguar si hay asociación entre la percepción del funcionamiento familiar por parte de las madres y la depresión tanto en ellas como en sus hijos.
+Es un estudio transversal en el que participaron niños de entre 7 y 15 años de edad con diagnóstico confirmado de DA, captados entre enero y diciembre del año 2010 en la Unidad de Medicina Familiar N.o 80 del Instituto Mexicano del Seguro Social en la ciudad de Morelia, México. El tamaño muestral se calculó con la fórmula para población finita. Se partió de 339 niños y el error de estimación asignado del 17%. Se incluyeron finalmente 18 niños y 16 niñas con edades de 9,97 ± 2,4 años y sus madres, con edades de 35,88 ± 6,5 años.
+Para evaluar la depresión en niños se aplicó el inventario CDI y el inventario BECK para estimar la depresión en madres. Las madres completaron el cuestionario FF-SIL para medir su percepción del funcionamiento familiar.
+Respecto a las familias, fueron percibidas por las madres como disfuncionales 4 (11,8%), funcionales 11 (32,4%) y 19 (55,8%) como moderadamente funcionales. Entre los niños se encontró depresión grave en el 11,8%, moderada en el 17,6% y ligera en el 35,3%. En las madres, el 5,8% tuvo depresión moderada y el 47,1% depresión leve. Se encontró algún grado de depresión en el 44,4% de los niños (8/18) y en el 87,5% de las niñas (14/16). Se ha demostrado mayor riesgo de padecer depresión en niños con DA que en controles [OR ajustado 1,81 (IC 95%: 1,33, 2,46)], y por otro lado, los hijos de madres con depresión suelen padecer depresión con más frecuencia que los hijos de madres sin depresión.
+En este estudio, mayores grados de depresión materna tendieron a asociarse a peor percepción por parte de estas del funcionamiento familiar (p < 0,001), y las áreas más dañadas del funcionamiento familiar fueron: armonía, permeabilidad, afectividad, roles y adaptabilidad . Sin embargo, no se encontró asociación entre la percepción del funcionamiento familiar de la madre y el nivel de depresión de los niños cuando se estudiaron cada una de las áreas del instrumento FF-SIL. Esto apunta a que las madres se encuentran en un estado de estancamiento emocional que les imposibilita identificar vías de solución a sus conflictos, expresar sus emociones e interpretar las de sus hijos, aun cuando estos tienen depresión, lo cual es congruente con la alta frecuencia de depresión encontrada en las madres.
+No hubo asociación entre el grado de escolaridad de la madre y su nivel de depresión (χ2 = 2,692, gl 8, p = 0,925) ni entre la ocupación de la madre y su nivel de depresión (χ2 = 3,800, gl 4, p = 0,434).
+No se encontró asociación entre el tiempo de diagnóstico de la DA del niño y el nivel de depresión de la madre (χ2= = 7,252, gl 14, p = 0,925). Tampoco se encontró asociación entre el tiempo de diagnóstico de la DA y el nivel de depresión del niño (χ2 = 19,340, gl 21, p = 0,563), lo cual permite proponer como hipótesis que los mecanismos de afrontamiento por parte de la familia pueden ser independientes del tiempo de evolución. Esto merece otro estudio.
+En niños con DA y en sus madres debe evaluarse en nuestro medio la existencia de depresión debido a su alta frecuencia. La depresión en las madres dificulta la identificación por parte de estas de los recursos familiares necesarios para afrontar su enfermedad y la de su hijo.
+Registro ante el Comité Local de Investigaciones en Salud R-2012-1602-30.
+
+
+- AUTORÍA
+
+Viridiana Farías Arguello: diseño, base de datos, análisis de datos, aplicación de instrumentos.
+Alain R. Rodríguez Orozco: diseño, asesoría metodológica, redacción del artículo, análisis de datos.
+Ernesto Gaytán Morales: asesoría metodológica, análisis de datos.
+Rafael Villa Barajas: asesoría metodológica, análisis de datos.
+Carlos Gómez Alonso: análisis estadístico. procesamiento de datos, evaluación de instrumentos de investigación.

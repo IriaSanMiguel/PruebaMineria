@@ -1,0 +1,197 @@
+DEPRESCRIBIENDO PARA MEJORAR LA SALUD DE LAS PERSONAS O CUANDO DEPRESCRIBIR PUEDE SER LA MEJOR MEDICINA
+
+
+La aparición de nuevos y mejores medicamentos, consecuencia de un mejor conocimiento científico de las enfermedades, ha supuesto un gran avance para la medicina en la lucha constante que tiene el ser humano contra la enfermedad. Al aumento de las necesidades y a las expectativas de la población en relación con la atención médica, se une el intervencionismo de los profesionales sanitarios provocando como resultado que la mayoría de los actos médicos terminen con la prescripción de un fármaco o la solicitud de una prueba diagnóstica.
+La prescripción de medicamentos forma parte inseparable del acto médico, siendo su importancia y frecuencia de tal magnitud que la facturación de farmacia en el año 2016 era de más de 900 millones de recetas en el Sistema Nacional de Salud. Parece obvio que la exposición de la población a los medicamentos es masiva, y ello ha contribuido a que el número de personas polimedicadas aumente.
+Se entiende por polimedicado aquel paciente que, de forma concomitante, consume un número determinado de medicamentos. Aunque no existe consenso en el número de fármacos y el tiempo de consumo, la mayoría de estudios consideran polimedicación un consumo de 5 o más medicamentos diariamente, bien sean prescritos por un profesional bien adquiridos de venta libre en farmacias. La prevalencia en España se sitúa entre el 34,2-40,8% de los ancianos, asociándose a polifarmacia el sexo femenino y la mala percepción de la salud.
+Con frecuencia los pacientes consumen medicamentos inapropiados o inadecuados, es decir, fármacos que deberían ser evitados por el riesgo de reacciones adversas a medicamentos (RAM) e interacciones, o por ser ineficaces a esta edad. La prevalencia del consumo de medicación inapropiada en España oscila según los estudios entre el 34% y el 73%, en función de la exclusión o no de pacientes institucionalizados y/o terminales y el uso más o menos completo de los criterios STOPP utilizados en sus diseños.
+El número de fármacos que un paciente toma es un potente predictor de riesgos y, paralelamente, de la existencia de medicación inapropiada. También se conoce que, a mayor número de profesionales que le atienden, mayor riesgo de polifarmacia.
+La polimedicación y el uso inapropiado de medicamentos se han convertido en un problema de salud pública de primer orden en los países desarrollados, tanto por su alta prevalencia y tendencia al alza como por alguna de sus consecuencias clínicas, éticas o económicas, .
+La conciliación y revisión de los tratamientos son estrategias que contribuyen a coordinar la medicación que toman los pacientes, y son procesos clave para ampliar la información que tiene el paciente, controlar la polimedicación y tratar de reducir los medicamentos inadecuados. La conciliación del tratamiento consiste en comparar la medicación habitual con la prescrita después de una consulta médica o ingreso hospitalario, con el objetivo de analizar y resolver las discrepancias detectadas y así asegurarse que están prescritos a la dosis, vía de administración y frecuencia apropiada y que son adecuados y seguros para la situación del paciente. Aunque no existe unanimidad, , , en quién debe llevar a cabo esta tarea, que es una decisión compartida, creemos que es inexcusable realizarla desde atención primaria, dado que el médico de familia, junto a enfermería, son el personal sanitario que mejor conoce la situación clínica, el contexto y el entorno sociofamiliar de cada paciente.
+La OMS en 1985 acuñó el término de uso racional/razonado del medicamento: «que los pacientes reciban la medicación adecuada a sus necesidades clínicas, en las dosis correspondientes a los requerimientos individuales durante un periodo de tiempo adecuado y al menor coste posible para ellos y para la comunidad». Actualmente, el objetivo es que la prescripción sea útil para la práctica y para los pacientes, así se introduce el aspecto social a la racionalidad científica y a la gestión de recursos. Lo más importante es no hacer daño, ser honestos, conocer los límites y los riesgos hasta donde estemos dispuestos a llegar y compartir incertidumbres, mezclando a partes iguales arte, valores, ciencia, humildad y humanidad.
+
+
+- LA DEPRESCRIPCIÓN
+
+El término deprescripción (DP) admite diversos matices. Le Couteur et al. la definen como el cese de un tratamiento de larga duración bajo la supervisión de un profesional médico. Gavilán et al. entienden por DP «el proceso de desmontaje de la prescripción de medicamentos por medio de su revisión, que concluye con la modificación de dosis, sustitución o eliminación de unos fármacos y adición de otros». Otra definición sería: «Deprescribir es el proceso sistemático en el que se identifican y se retiran aquellos medicamentos cuyos potenciales riesgos sobrepasan los potenciales beneficios para conseguir los objetivos terapéuticos marcados para un individuo». Por último, Starfield la define como una intervención imprescindible para evitar la mortalidad iatrogénica.
+La DP puede aplicarse a los pacientes independientemente del número de fármacos que toman, aunque adquiere especial relevancia en los polimedicados y en los pacientes frágiles. Se debería considerar la no prescripción si no es estrictamente necesario y priorizar la DP en los casos-medicamentos que se exponen en la tabla 2.
+Cuando se considere que un tratamiento es inapropiado, resulta útil realizar una intervención con pacientes y/o familiares para tomar la decisión de forma compartida, valorando la indicación y cómo fue explicada, la importancia de este fármaco en el bienestar y control del paciente y su disposición a seguir tomándolo.
+Las 2 principales estrategias para la DP son:•Por pacientes. Reconsiderar en un paciente concreto sus objetivos terapéuticos, discontinuando lo innecesario, ajustando las dosis de los medicamentos prescritos y añadiendo lo preciso de forma individualizada, según el estado del paciente y su expectativa de vida. Para ello es útil el uso de algoritmos que facilitan la toma de decisiones, siendo procesos que se realizan por pasos y se basan en criterios de necesidad (confrontación de la indicación del medicamento con las necesidades clínicas del paciente y los objetivos de la atención sanitaria) y de la efectividad-seguridad (balance beneficios/riesgos), al tiempo que tienen en consideración también el tiempo que el medicamento tarda en alcanzar su potencial beneficio.•Por fármacos. Si un fármaco es inapropiado para su uso en una población concreta, revisar qué pacientes lo tienen prescrito para una posterior retirada. Es una intervención útil para la retirada de fármacos innecesarios o aquellos de riesgo elevado, consume poco tiempo y es muy eficiente, aunque no valora adecuadamente el contexto individual ni sociofamiliar del paciente.
+Para llevar a cabo este proceso son de gran utilidad diferentes herramientas-criterios que se abordarán más adelante.
+
+
+- DEPRESCRIPCIÓN EN POBLACIONES CONCRETAS
+
+Los grupos que potencialmente más se pueden beneficiar de la DP son:•Ancianos frágiles.•Personas con enfermedades neurodegenerativas en fase avanzada.•Pacientes con enfermedades en fase terminal.
+Es frecuente que muchos pacientes tomen medicamentos que les fueron prescritos antes de que aparecieran estas situaciones. En tales circunstancias la pertinencia de su indicación puede haberse modificado, o incluso haberse convertido en potencialmente inapropiada o con alto riesgo de provocar una RAM.
+La deprescripción en estos grupos de pacientes es un proceso dinámico en función de la evolución clínica, las nuevas evidencias científicas y las consideraciones éticas.
+
+
+-- ANCIANOS FRÁGILES
+
+En los ancianos es frecuente encontrar 2 tipos de patrones de polimedicación: el paciente con una sola enfermedad que requiere múltiples medicamentos y el paciente con múltiple comorbilidad, donde cada enfermedad precisa uno o varios medicamentos, siendo este el más frecuente entre las personas de edad avanzada, principalmente cuando aparece el fenómeno de la fragilidad.
+Los diversos cambios fisiológicos asociados al envejecimiento provocan modificaciones en la farmacodinámica y farmacocinética de los medicamentos, por lo que la respuesta a su efecto será dispar y heterogénea, y por tanto no solo perderán efectividad, sino que aumentará el riesgo de RAM e interacciones. Al ser el grupo poblacional con mayor riesgo de iatrogenia suponen una prioridad para la prevención cuaternaria, definiéndose esta como el conjunto de actividades encaminadas a evitar, reducir o paliar el daño provocado por las actividades sanitarias.
+La DP tiene además una justificación ética. El beneficio de algunos tratamientos en ancianos es, como poco, controvertido (dudosa beneficencia) y produce en ocasiones daños evitables (maleficencia). El principio de autonomía, además, se ve en ocasiones limitado por el propio estado de salud del paciente (físico y/o cognitivo) por lo que, no pudiendo expresar sus preferencias, se ven obligados a tomar medicamentos que en otras circunstancias tal vez no aceptaran para prevenir eventos futuros. Además, el ideal de no discriminar a las personas por la edad, ofreciéndoles las mismas oportunidades terapéuticas que a los más jóvenes (justicia social) puede ocasionar un trasvase de recursos a poblaciones donde tal vez los resultados no sean clínicamente relevantes, mermando la sostenibilidad del actual sistema sanitario (justicia distributiva).
+
+
+-- PERSONAS CON ENFERMEDADES NEURODEGENERATIVAS EN FASE AVANZADA
+
+Actualmente no existe un consenso unánime sobre cuáles pueden ser medicamentos verdaderamente inapropiados en estos pacientes o cuándo sería el mejor momento para retirarlos, ni siquiera los criterios Beers o STOPP-START, quizá los más utilizados, cuentan con un apoyo generalizado. Los nuevos criterios STOPP-Frail, desarrollados específicamente para pacientes frágiles con limitada expectativa de vida, y los criterios LESS-CHRON, dirigidos a pacientes con multimorbilidad, pueden ser de ayuda.
+Las evidencias científicas hasta este momento son limitadas, de baja calidad e incluso, en ocasiones, contradictorias.
+
+
+-- PACIENTES CON ENFERMEDADES EN FASE TERMINAL
+
+En este grupo de pacientes, desde el punto de vista médico, de la familia y del propio paciente, no existe duda alguna de que es primordial tratar los síntomas asociados al sufrimiento físico y emocional con fines paliativos, pese a que los medicamentos destinados a dichos fines, como la morfina, butilescopolamina, benzodiacepinas, midazolam, etc. pueden ser contrarios a los criterios de prescripción inadecuada. Además, algunos estudios han demostrado que conforme el proceso terminal avanzaba, el número de fármacos considerados potencialmente inapropiados, según criterios Beers, se prescribían cada vez más.
+En este grupo de pacientes un medicamento calificado como útil o necesario en otras situaciones puede no serlo, ya que dicha utilidad vendrá determinada por la necesidad del paciente de controlar síntomas y cualquier sufrimiento. Por lo tanto, los medicamentos innecesarios en enfermos terminales serán aquellos que no aporten beneficio a corto plazo en cuanto a supervivencia, calidad de vida o control de los síntomas.
+Además de los criterios ya comentados, existen actualmente 2 propuestas de retirada de medicamentos en estos pacientes basadas en un estudio transversaly en una guía elaborada por la OncPal deprescribing guideline.
+
+
+- DEPRESCRIPCIÓN DE MEDICAMENTOS ESPECÍFICOS
+
+No todos los medicamentos pueden ser retirados de forma brusca, dado que algunos de ellos podrían provocar síntomas de retirada o porque, sin una vigilancia adecuada, podrían reaparecer los síntomas que originaron su prescripción o empeorar los ya existentes.
+A continuación expondremos una serie de medicamentos que son de uso frecuente y son susceptibles de ser retirados.
+
+
+-- BIFOSFONATOS, FÁRMACOS ANTIFRACTURA Y OSTEOPOROSIS
+
+Si bien la prevalencia de fracturas aumenta con la edad, los métodos actuales de estimación de probabilidad de fractura no presentan la precisión suficiente, lo cual puede generar tanto una sobremedicalización en prevención primaria, tratando a mujeres de bajo riesgo, como un infratratamiento de aquellas en prevención secundaria.
+Los bifosfonatos a largo plazo se relacionan con la osteonecrosis mandibular y las fracturas atípicas de fémur, por lo que su retirada o cese temporal parecen aconsejables. Para su cese no es precisa la retirada gradual.
+Las recomendaciones basadas en la evidencia para la suspensión del tratamiento se exponen en la tabla 3.
+
+
+-- ESTATINAS
+
+Las indicaciones por las que prescribir estatinas se han ido modificando a lo largo de los últimos años por lo que, en aquellos pacientes en los que la indicación ha quedado obsoleta, o se prescribieron como prevención primaria, podrían ser retiradas, no siendo necesaria una retirada gradual.
+Otros casos en los que podría ser revisada su indicación podrían ser:•Pacientes con RCV bajo.•Cuando los efectos beneficiosos no son clínicamente significativos.∘Pacientes con expectativa de vida muy limitada: cáncer terminal; o demencia muy avanzada (en prevención primaria o secundaria).•Riesgo de interacciones medicamentosas.•RAM graves.∘El riesgo de miopatía es dosis dependiente y fundamentalmente en pacientes > 70 años.∘Ajustar dosis en pacientes con insuficiencia renal avanzada.
+
+
+-- ANTIINFLAMATORIOS NO ESTEROIDEOS
+
+Como recomendación genérica y como ocurre con otros medicamentos, los antiinflamatorios no esteroideos (AINE) deben utilizarse a la dosis eficaz más baja y durante el menor tiempo posible. Además, previamente a su prescripción, habría que valorar el RCV de cada paciente, el riesgo de sangrado gastrointestinal, la función renal y las cifras tensionales.
+Una forma sencilla y eficaz de deprescribirlos sería retirar duplicidades de AINE o evitar el uso concomitante de antiagregantes y AINE.
+Existen evidencias en distintas enfermedades en las que la retirada de los AINE no produce empeoramiento de la enfermedad, e incluso podría disminuir el riesgo de la recurrencia, como por ejemplo artritis reumatoide estable, sangrado diverticular o migraña crónica.
+Aunque su retirada no es preciso que sea paulatina, parece aconsejable que sí lo sea para realizar una adecuada valoración del efecto analgésico, y así poder adaptarnos al control de los síntomas del paciente y a la aceptación por parte del paciente de su retirada o cambio por otros medicamentos para el control de los síntomas que puedan ser menos peligrosos, o asociar otras intervenciones como prescribir adecuadamente la actividad física, termoterapia o fisioterapia.
+En aquellos pacientes que toman un inhibidor de la bomba de protones (IBP) por consumo de AINE podría ser también aconsejable valorar la retirada de aquel al retirar el AINE.
+
+
+-- ANTIHIPERTENSIVOS
+
+El principal motivo por el que se incluyen los antihipertensivos, en este texto es doble: por los desequilibrios electrolíticos que pueden crear y por el elevado riesgo de hipotensión en pacientes ancianos frágiles, con el consiguiente riesgo de caídas y fracturas.
+Además, debemos recordar que actualmente, los objetivos de control de las cifras de tensión arterial son más permisivas con los pacientes ancianos frágiles.
+Una manera práctica de abordarlo sería reducir la dosis paulatinamente, monitorizando periódicamente sus valores y actuando en consecuencia, ya que estos grupos terapéuticos son, tal vez, a los que más atención debemos prestar tras su DP, dado el alto riesgo de empeoramiento de las enfermedades por las que fueron prescritos.
+
+
+-- ANTIULCEROSOS
+
+El grupo terapéutico al que corresponden los antiulcerosos es el que más ha aumentado su consumo en los últimos años en España, y además se estima, , , que entre un 50-70% de los tratamientos son inadecuados en cuanto a la indicación, la dosificación y/o la duración del tratamiento.
+El consumo a largo plazo de IBP se ha relacionado con un incremento del riesgo de diarreas por Clostridium difficile, neumonías, fracturas de cadera y vertebrales, déficit de magnesio, B12 o hierro, además de la inhibición de la actividad de los fármacos antiplaquetarios o nefritis intersticial, siendo estas RAM más frecuentes en pacientes ancianos.
+No se recomienda mantener el tratamiento a largo plazo con IBP para síntomas gastrointestinales sin intentar, al menos una vez al año, retirar el tratamiento o disminuir la dosis, excepto en pacientes con esófago de Barrett, esofagitis grado-D (clasificación de Los Ángeles) o hemorragias gastrointestinales.
+La evidencia científica demuestra que es posible interrumpir el tratamiento, sin empeoramiento de los síntomas en un porcentaje sustancial de pacientes. La reducción gradual podría ser más efectiva que la retirada brusca, dado que puede existir hipersecreción ácida de rebote y nuevos síntomas de dispepsia, recomendándose reinstaurar el tratamiento a la mínima dosis y frecuencia eficaces.
+No hay evidencia suficiente para determinar cuál es la mejor estrategia para la retirada de los IBP, pudiéndose seleccionar cualquiera de estas opciones:•Disminuir la dosis un 50% durante una a 2 semanas y retirar tras una semana de mantenimiento con la dosis más baja de IBP.•Aumentar el intervalo entre dosis (cada 2-3 días).•Interrumpir el IBP y usar a demanda si reaparecen los síntomas: diariamente hasta su resolución (estrategia decidida por el paciente), o uso intermitente durante un tiempo predeterminado y limitado (estrategia decidida por el médico).
+Además deberíamos recordar al paciente que debe evitar, reducir o modificar aquellos factores que puedan aumentar la secreción ácida y podríamos usar antiácidos, alginatos o anti-H2 como ranitidina durante la retirada, o tras la finalización del tratamiento.
+
+
+-- ANTIPSICÓTICOS EN PACIENTES CON DEMENCIA
+
+La indicación fundamental de los antipsicóticos es el manejo de los síntomas conductuales y neuropsiquiátricos, siempre y cuando se haya demostrado que las medidas no farmacológicas no han sido suficientes y se hayan descartado otros factores precipitantes.
+El riesgo de estos fármacos es su relación con el incremento de caídas, delirium, eventos cerebrovasculares y fallecimiento, por lo que las guías terapéuticas recomiendan su uso solo durante períodos cortos, revisando de forma regular su efectividad y posibles RAM.
+En aquellos pacientes que lleven más de 3 meses en ausencia de síntomas, en los que la respuesta no sea adecuada o exista un alto riesgo de RAM se puede intentar el proceso de DP.
+Las recomendaciones actuales son las siguientes:•Si es una dosis de inicio o es una dosis muy baja se puede suspender sin reducción previa.•En ancianos con demencia habría que reducir gradualmente del 25-50% la dosis cada 2 semanas, finalizando el tratamiento tras 2 semanas con la mínima dosis.•Si hubiera problemas en la retirada volver a la dosis mínima eficaz y uno a 2 meses después valorar reducir la dosis a intervalos del 10%.
+
+
+-- ANTIDEPRESIVOS
+
+La depresión es uno de los trastornos psiquiátricos más prevalentes en ancianos, coexistiendo habitualmente con la demencia, y en muchos casos confundiéndose con ella.
+Dentro de los distintos tipos de antidepresivos, , los inhibidores selectivos de la recaptación de serotonina han demostrado menor tasa de abandono y de RAM que los tricíclicos, aunque hay que recordar que su eficacia en los cuadros más leves no difiere de placebo, por lo que sería un indicador para su retirada.
+Los criterios STOPP recomiendan no iniciar o suspender los tratamientos con antidepresivos tricíclicos en pacientes con demencia, glaucoma de ángulo estrecho, defectos de la conducción cardíaca, prostatismo o antecedentes de retención urinaria.
+El tratamiento con antidepresivos se recomienda que no sea inferior a 9 meses, siendo algo superior en ancianos, si bien debería valorarse su retirada después de 6 meses tras la remisión del episodio y solo mantenerlo en función del número de episodios previos, presencia de síntomas residuales, comorbilidad o problemática psicosocial concomitante.
+En el caso de que se considere aconsejable la retirada del antidepresivo, se recomienda su cese de forma paulatina y gradual para evitar el síndrome de retirada, en un período que dependerá de la semivida del antidepresivo pautado, generalmente no inferior a 4 semanas. Los fármacos de semivida corta, como paroxetina, precisarán períodos más largos para su retirada que la fluoxetina, que es de semivida más larga.
+
+
+-- BENZODIAZEPINAS E HIPNÓTICOS
+
+Las benzodiazepinas y los hipnóticos, están indicados para el tratamiento sintomático de la ansiedad y el insomnio, siendo aconsejable no sobrepasar las 4 semanas de uso.
+Su utilización de forma prolongada produce tolerancia y dependencia, por lo que durante su retirada pueden generar un cuadro de abstinencia. Además, su consumo, breve o prolongado, se asocia a deterioro cognitivo, demencia, riesgo de caídas y fracturas, accidentes de tráfico y con un aumento de la mortalidad global.
+Es muy importante que, a la hora de prescribir estos medicamentos, se exponga claramente la duración del tratamiento y los efectos adversos de consumirlos a largo plazo, y retirarlos en ausencia de síntomas depresivos o ansiosos severos.
+La pauta de retirada más común es la de reducir un 10-25% cada una a 3 semanas de la dosis total diaria, disminuyendo la dosis del medicamento consumido, o sustituyéndolo por la dosis equivalente de diazepam. Esta pauta habrá que ajustarla a cada paciente, según la dosis y el tiempo de consumo.
+Es muy importante en este grupo de medicamentos la toma de decisiones compartidas, exponer al paciente los motivos por los que se intenta la retirada y conseguir su acuerdo, ya que suelen tener cierta resistencia a abandonar su consumo por las experiencias previas de posibles síntomas de retirada. Es recomendable revisar periódicamente la tolerancia al cese del tratamiento, así como dar consejos sobre medidas higiénicas del sueño. No existen evidencias para recomendar medicamentos sustitutivos para reducir los síntomas de retirada, como antidepresivos, antihistamínicos o plantas medicinales, de tal forma que así también evitaremos la «prescripción en cascada».
+
+
+-- ANTIDIABÉTICOS
+
+En España la prevalencia de diabetes en mayores de 75 años es del 30,7% en varones y del 33,4% en mujeres, por lo que el número de pacientes expuestos a esta enfermedad es un importante problema de salud pública que irá en aumento por el envejecimiento poblacional.
+El consenso sobre el manejo del paciente anciano diabético recomienda con un grado de evidencia A:•Plantear objetivos terapéuticos individualizados.•Evitar las hipoglucemias, así como las hiperglucemias sintomáticas.•Tratar la hipertensión, así como usar estatinas y antiagregantes en aquellos pacientes con enfermedad cardiovascular, estableciendo objetivos individualizados.
+En función de estas premisas, en ancianos con buena situación funcional y cognitiva, escasa comorbilidad y con una expectativa de vida larga, se podría intentar alcanzar los mismos objetivos de control que en los adultos más jóvenes. En cambio, en pacientes frágiles, con múltiples comorbilidades, alto riesgo de hipoglucemia o con una esperanza de vida < 5 años, deberíamos centrarnos en evitar las hipoglucemias, persiguiéndose objetivos menos estrictos, siendo aceptable una HbA1c del 7,6-8,5%, por lo que en ellos podríamos aplicar criterios de DP.
+
+
+- CRITERIOS DE PRESCRIPCIÓN INADECUADA
+
+El tratamiento farmacológico de los ancianos presenta dificultades debido a los importantes cambios fisiopatológicos y modificaciones en la farmacocinética de los principios activos asociados a este grupo de edad. Además, la inclusión de personas mayores en ensayos clínicos es escasa o nula. En estas condiciones la habitual fragilidad de estos pacientes supone un reto para su atención, suelen asociar polifarmacia, una alta prevalencia de prescripciones inadecuadas, siendo las RAM más frecuentes en este colectivo, y es por ello que los criterios de prescripción inadecuada resultan de utilidad. Estos se dividen en explícitos (Beers, Screening Tool of Older Person's potentially inappropriate Prescriptions/Screening Tool to Alert doctors to Right i.e. appropriate, indicated Treatment [STOPP/START], Improved Prescribing in the Elderly Tool [IPET], PRISCUS, MARC…), y por tanto basados en listados de criterios, e implícitos (MAI) basados en juicios clínicos.
+
+
+-- CRITERIOS BEERS
+
+Los criterios Beers incluyen 2 listas de fármacos inadecuados en pacientes mayores; una tiene en cuenta las comorbilidades del paciente y la otra es independiente del diagnóstico del mismo. En la última actualización se ha añadido un tercer listado de fármacos que deben utilizarse con precaución en > 75 años, la organización según grupo farmacológico y órgano o sistema fisiológico de actuación y que cada criterio va acompañado de la explicación por la que es necesario evitarlo.
+Estos criterios, elaborados por la Sociedad Americana de Geriatría, han sido durante décadas la herramienta más utilizada en la detección de medicación potencialmente inapropiada, predominando en la literatura geriátrica internacional desde que fueron descritos. Sin embargo, incluyen numerosos fármacos actualmente no disponibles en Europa, aproximadamente un 20%.
+
+
+-- CRITERIOS <ITALIC>IMPROVED PRESCRIBING IN THE ELDERLY TOOL</ITALIC
+
+Los criterios IPET constituyen una lista de los 14 errores de prescripción más frecuentemente identificados de una larga lista de prescripciones inadecuadas diseñadas por un panel de expertos canadiense.
+Tienen la ventaja de ser una lista corta, fácil de interpretar y de aplicar, sin embargo no están basados en los sistemas fisiológicos ni presentan ninguna organización en su estructura. No existe suficiente evidencia que demuestre que los criterios IPET disminuyen la incidencia de RAM, el consumo de recursos sanitarios o la mortalidad.
+
+
+-- CRITERIOS <ITALIC>SCREENING TOOL OF OLDER PERSON'S POTENTIALLY INAPPROPRIATE PRESCRIPTIONS/ SCREENING TOOL TO ALERT DOCTORS TO RIGHT I.E. APPROPRIATE, INDICATED TREATMENT</ITALIC
+
+Estos criterios nacieron en Irlanda en el año 2008, y su desarrollo clínico a partir de un panel de expertos ha sido asumido por la European Union Geriatric Medicine Society. Están organizados por sistemas fisiológicos y pueden ser aplicados en un tiempo razonablemente breve.
+Ventajas: reproducibilidad, la inclusión de fármacos disponibles en los formularios europeos y americanos y su organización y estructura basadas en sistemas fisiológicos.
+Los criterios STOPP constituyen una lista validada de 65 prescripciones potencialmente inapropiadas (PPI) en pacientes mayores, basadas en la evidencia clínica y, además, tienen en cuenta interacciones fármaco-fármaco y fármaco-enfermedad. Cada criterio va acompañado de una explicación concisa del motivo por el cual la prescripción se considera potencialmente inapropiada.
+No están diseñados para capturar todas las situaciones de PPI en mayores (constituiría una amplia lista difícil de aplicar), aunque incluyen las situaciones prevenibles en el día a día. Sin embargo, la aparición de RAM obvias, como sangrado por anticoagulantes o hipoglucemia por insulina, no aparecen reflejadas.
+Los criterios START constituyen una lista de 22 criterios que reflejan la omisión de prescripción de medicamentos que podrían beneficiar al paciente mayor en determinadas situaciones clínicas.
+Los criterios STOPP-Frail, recientemente publicados, han sido desarrollados específicamente para pacientes frágiles con limitada expectativa de vida.
+Los criterios LESS-CHRON para pacientes con multimorbilidad han sido elaborados por un grupo de trabajo español y constan de 27 criterios o situaciones clínicas susceptibles de deprescribir. Tienen la peculiaridad de proponer si precisan monitorización y seguimiento una vez retirada la medicación.
+
+
+-- PROYECTO MARC
+
+Promovido por el Ministerio de Sanidad, Servicios Sociales e Igualdad y las comunidades autónomas, se ha creado una lista de medicamentos de alto riesgo específica para pacientes crónicos.
+Resulta fácil de aplicar por no requerir datos clínicos del paciente. El listado de los grupos de alto riesgo identificados están disponibles en: https://www.seguridaddelpaciente.es/resources/documentos/2014/Proyecto_MARC_2014.pdf
+
+
+-- LISTADO DE PACIENTES CON MEDICACIÓN ANTICOLINÉRGICA
+
+Los fármacos con efecto anticolinérgico pueden producir o exacerbar alteraciones frecuentes en el anciano a nivel periférico, como estreñimiento, retención urinaria, taquicardia, visión borrosa, o a nivel central con alteraciones cognitivas, de atención y memoria, por lo que se recomienda su retirada/sustitución por otra alternativa, ante cualquier signo o síntoma anticolinérgico que deteriore la calidad de vida del paciente o en aquellos que presenten deterioro cognitivo.
+Estos síntomas y su exacerbación son un motivo muy habitual de consulta, generando una inapropiada «cascada terapéutica», y se han relacionado como predictores de discapacidad y deterioro cognitivo .
+
+
+-- LISTADO PRISCUS
+
+Es una lista alemana consensuada de fármacos potencialmente inapropiados en ancianos que, si bien no relaciona el fármaco con el diagnóstico del paciente, se comentan los posibles efectos por los que se debe evitar su uso, propone una alternativa a dichos fármacos inapropiados y las precauciones que deben adoptarse en caso de prescribirlos.
+
+
+-- LISTADO PUBLICADO POR <ITALIC>BRITISH JOURNAL OF GENERAL PRACTICE</ITALIC
+
+Es una actualización de indicadores de seguridad para la prescripción en atención primaria. El artículo está disponible a texto completo en: http://bjgp.org/content/64/621/e181.full. Se puede acceder directamente a la lista en: http://bjgp.org/content/64/621/e181/T2.expansion.html.
+
+
+-- PROYECTO <ITALIC>ASSESSING CARE OF VULNERABLE ELDERLY</ITALIC> (ACOVE
+
+Son indicadores de calidad basados en la mejor evidencia científica en pacientes «mayores vulnerables». Solo un 29% de ellos recogen aspectos farmacológicos.
+
+
+-- ITALIC>MEDICATION APPROPIATIONESS INDEX</ITALIC> (MAI
+
+Desarrollado por Hanlon constituye una forma validada de evaluar la adecuación de la medicación según 10 elementos. Cada ítem marcado como inapropiado tiene una puntuación que oscila entre 1-3, dependiendo de su importancia: la indicación y la efectividad son los ítems de mayor peso. La suma de cada ítem genera una puntuación que puede oscilar entre 0-18 puntos, de manera que a mayor puntuación menor adecuación terapéutica.
+Sus ventajas son su reproducibilidad y validez. Es la herramienta que más tiempo consume y para su aplicación es necesario disponer de toda la información clínica del paciente.
+
+
+-- OTRAS AYUDAS: APLICACIONES INFORMÁTICAS Y PÁGINAS DE INTERNET
+
+En algunas comunidades autónomas existen programas de ayuda a la prescripción electrónica que avisan de interacciones, duplicidades o fármacos inapropiados en determinados pacientes que precisan de la aprobación del prescriptor para ser recetados.
+Además, a continuación enumeramos algunas de las páginas electrónicas que existen actualmente en la web:•Medstopper. Disponible en: www.medstopper.com•Checkthemeds. Disponible en: https://www.checkthemeds.com•Proyecto SENATOR. Disponible en: www.senator-project.eu/home•Deprescribing.org. Disponible en: https://deprescribing.org/Puntos claveEl objetivo de la deprescripción es la retirada de aquellos medicamentos que son inapropiados, ineficaces, los que ya no están indicados o los que puedan producir RAM e interacciones.Los pacientes candidatos para deprescribir son los polimedicados, los ancianos frágiles y aquellos con enfermedad avanzada o en fase terminal, si bien todo paciente es susceptible de poderle aplicar la deprescripción y además, dicha actividad debería ser realizada de forma continuada a lo largo de la vida de cualquier paciente.Existen herramientas de ayuda para la deprescripción, como son los criterios de Beers, STOPP-START, IPET, MAI, proyecto MARC, listado de medicamentos anticolinérgicos, listado PRISCUS, ACOVE…Entre los beneficios de la deprescripción están la reducción de posibles efectos adversos e interacciones farmacológicas, una mejora en la calidad de vida, una mayor adherencia terapéutica y una disminución del gasto sanitario.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno de los autores declara ni presenta conflicto de intereses en este artículo.

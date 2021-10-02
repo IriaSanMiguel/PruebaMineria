@@ -1,0 +1,5 @@
+Estos resultados contribuyen a retroalimentar uno de los esfuerzos por controlar la epidemia de sobrepeso, obesidad y diabetes en México.
+A partir de la Encuesta Nacional de Salud y Nutrición de Medio Camino 2016, se obtuvo información sobre el conocimiento y comprensión del logotipo y men­sajes que apoyan la campaña Chécate, Mídete, Muévete. Para identificar las características asociadas, se probaron modelos de regresión logística y lineal para presentar los contrastes de efectos por variable.
+Evaluar el conocimiento, nivel de comprensión y características asociadas con la población adulta mexicana en relación con la campaña Chécate, Mídete, Muévete.
+El 11% de los adultos conoce la campaña; 31% tuvo una alta comprensión y 1% no la comprendió en absoluto. Sexo, escolaridad, servicio de salud y sobrepeso u obesidad se asocian con el conocimiento de la campaña; para la comprensión, las características asociadas fueron edad, escolaridad y nivel socioeconómico.
+

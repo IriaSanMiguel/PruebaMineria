@@ -1,0 +1,36 @@
+TAQUICARDIA COMO EFECTO ADVERSO NO DESCRITO EN LA VACUNA COMIRNATY© (VACUNA COVID-19 MRNA BNT162B2 DE PFIZER-BIONTECH): DESCRIPCIÓN DE 3 CASOS CON ANTECEDENTES DE SARS-COV-2
+
+
+Varios son los efectos secundarios descritos en el ensayo de eficacia y seguridad de la vacuna Comirnaty© (vacuna COVID-19 mRNA BNT162b2 de Pfizer-BioNTech). Tras la reciente vacunación a los profesionales sanitarios y, dado que estos son una población que ya ha padecido la enfermedad en un 24%, se han comenzado a declarar efectos adversos no descritos hasta la fecha en la ficha técnica en la subpoblación de 540 sujetos seropositivos para el SARS-CoV-2 y en los que el perfil de seguridad no fue distinto al observado en población general .
+Presentamos 3 casos de profesionales sanitarios, médicos de profesión, que recibieron la primera dosis de la vacuna el día 18 de enero del 2021 (13:15 h). Estas personas trabajan en el mismo departamento y en marzo del 2020, tras ocurrir un brote de SARS-CoV-2 en el lugar de trabajo, presentaron la enfermedad sin precisar en ningún caso ingreso hospitalario.
+El efecto adverso común no publicado a día de hoy, y al que tampoco se hace mención en el último informe de Farmacovigilancia de la Agencia Española de Medicamentos y Productos Sanitarios, fue la taquicardia no relacionada con la hipertermia como primer signo de aparición de reacción sistémica en los 3 casos. Por ello, se procedió a su notificación al Centro Autonómico de Farmacovigilancia en las primeras 48 h posvacunación.
+Con fecha 21 de enero del 2021, la Sociedad Española de Inmunología elaboró una nota informativa sobre reacciones a la primera dosis de la vacuna en individuos que ya han pasado la enfermedad, advirtiendo que la vacunación contaría como un segundo contacto con el virus, desencadenando una respuesta más vigorosa del sistema inmunológico en ellos.
+
+
+- CASO 1
+
+Mujer de 60 años con antecedentes de HTA, dislipidemia, tiroidectomía total, portadora heterocigota de la mutación factor V Leiden. En tratamiento con ramipril, rosuvastatina y levotiroxina. Último control tiroideo anual: TSH 1,12 μUI/ml (rango de referencia: 0,270-4,200), T4 libre 1,44 ng/dl (rango de referencia: 0,93-1,70).
+Presentó la enfermedad aguda el día 8 de marzo del 2020, desapareciendo la clínica en los siguientes 15 días. El cuadro clínico consistió en cansancio, fiebre, tos seca, mialgias, artralgias, diarrea, hipersensibilidad en el cuero cabelludo y parosmia.
+Se realizó una PCR que resultó negativa. Dos meses después se hizo un test rápido de anticuerpos SARS-CoV-2 IgG con resultado positivo.
+Última serología (ELISA) IgG 2,1 U (positivo > 0,8), el 2 de diciembre del 2020.
+Catorce horas después de recibir la vacuna, comenzó con taquicardia objetivada de 110 lpm que cedió de forma espontánea en aproximadamente 16 h, junto con alteraciones gastrointestinales, dolor en el lugar de la punción, con adenopatía locorregional, cansancio, febrícula e hipersensibilidad en el cuero cabelludo.
+
+
+- CASO 2
+
+Mujer de 55 años con antecedentes de enfermedad de Hashimoto en tratamiento con levotiroxina. Último control tiroideo anual: TSH 0,608 μUI/ml (rango de referencia: 0,270-4,200), T4 libre 1,63 ng/dl (rango de referencia: 0,93-1,70).
+Presentó la enfermedad aguda el 6 de marzo del 2020 y la sintomatología consistió en cansancio, escalofríos, fiebre, mialgias, tos seca, cefalea frontal y parosmia, de 10 días de duración. Tras 8 días sin síntomas, reapareció nuevamente la fiebre durante 6 días más.
+PCR positiva el 15 de marzo; se negativizó el 5 de abril del 2020.
+Última serología (ELISA): IgG 0,9 U (positivo >0,8) el 2 de diciembre del 2020.
+Diez horas después de la administración de la vacuna, comenzó con taquicardia de hasta 120 lpm, no coincidente con hipertermia, que le dificultaba el sueño cediendo 24 h después de forma espontánea, dolor en el lugar de la punción y 8 h más tarde cansancio, escalofríos, febrícula, mialgias, artralgias y rinorrea.
+
+
+- CASO 3
+
+Mujer de 51 años sin antecedentes personales de interés.
+Presentó la enfermedad aguda el 6 de marzo del 2020, presentando cansancio, mialgias, artralgias, cefalea, fiebre, hipersensibilidad cutánea, tos seca y diarrea.
+Primera PCR positiva el 19 de marzo; se negativizó el 2 de abril del 2020.
+Última serología (ELISA): IgG 1 U (positivo > 0,8) el 2 de diciembre del 2020.
+A las 4:00 del día 19 de enero se despertó con taquicardia de hasta 136 lpm y extrasístoles. Posteriormente, apareció dolor en el lugar de la punción, cansancio, escalofríos, febrícula, mialgias, artralgias, cefalea e hipersensibilidad cutánea generalizada. Toda esta sintomatología desapareció tras 36 h, salvo la extrasistolia sintomática que ha sido valorada por el Servicio de Cardiología, pautándose tratamiento farmacológico y seguimiento. Las extrasístoles no han remitido a pesar de haber transcurrido más de 1 semana desde la administración de la primera dosis de la vacuna.
+Se da la circunstancia de que 2 de los 3 casos tenían como antecedente enfermedad tiroidea que, por sí misma, podría ser causa de taquicardia, pero esta asociación se descartó ya que en ambas los controles tiroideos han permanecido estables en los últimos años.
+Consideramos que es preciso contrastar la aparición de esta reacción adversa tras la recepción de la vacuna en sujetos con historia de infección previa por SARS-CoV-2 y en caso de confirmarse deberían tomarse las medidas necesarias en sujetos con cardiopatía previa.

@@ -1,0 +1,110 @@
+ADHERENCIA AL TRATAMIENTO EN PACIENTES POLIMEDICADOS MAYORES DE 65 AÑOS CON PRESCRIPCIÓN POR PRINCIPIO ACTIVO
+
+
+- INTRODUCCIÓN
+
+En el último tercio del siglo xx, se produce en los países desarrollados una verdadera revolución demográfica, lo que se traduce en un vertiginoso envejecimiento de la población, que ha ocasionado un espectacular aumento del consumo de recursos sanitarios responsable de, al menos, el 40-50% del gasto sanitario en nuestro país, del 30-40% del consumo total de fármacos y del 75% del total de los tratamientos de carácter crónico. Además, según Garrido-Garrido et al., las personas mayores generan el triple de demanda asistencial que la media de la población, consumen un porcentaje importante de medicamentos y generan el 75% del gasto farmacéutico, , .
+En España, según datos del padrón municipal de 2009, están censadas 7.782.904 personas mayores de 65 años, lo que supone aproximadamente el 17% de la población total que, trasladado a nuestra población, suponen que el 13,86% de la población mayor de 65 años son polimedicados. Este grupo de población presenta 2 características muy importantes que son la pluripatología, entendiendo como tal la presencia de 2 o más enfermedades crónicas, , y la polimedicación, entendida como el consumo de 5 o más medicamentos durante 6 o más meses, . Esta situación de polifarmacia es muy difícil de manejar y susceptible de numerosos errores y problemas relacionados con los medicamentos, . La iatrogénia causa entre el 0,86 y el 3,9% de las visitas a los servicios de urgencias y aproximadamente el 5% de los ingresos hospitalarios, con un coste medio por estancia de unos 3.000 euros, . En nuestro país, el 48,2% de los eventos adversos observados en atención primaria se asociaron a la medicación, mientras que a nivel hospitalario supuso un 37,4%.
+La Organización Mundial de la Salud define el cumplimiento o adherencia terapéutica como la magnitud con que el paciente sigue las instrucciones médicas, pero la definición de Haynes y Sackett puede ser más completa al definirlo como la medida en que la conducta del paciente en relación con la toma de medicación, el seguimiento de una dieta o la modificación de su estilo de vida coinciden con las indicaciones dadas por su prescriptor.
+En nuestro medio, en los últimos años, la prescripción por principio activo se ha ido introduciendo paulatinamente ligada a la aparición de los medicamentos genéricos, . La proliferación de presentaciones comerciales diferentes podría estar relacionada con errores y dificultar la adherencia al tratamiento, fundamentalmente dentro del colectivo estudiado. Por tanto, nuestro objetivo fue valorar el nivel de adherencia al tratamiento y los factores relacionados en pacientes polimedicados mayores de 65 con prescripción por principio activo.
+
+
+- MATERIAL Y MÉTODOS
+
+Diseño: estudio transversal.
+Periodo de estudio: la recogida de datos se realizó entre junio del 2011 y junio del 2012.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Personas polimedicadas y mayores de 65 años adscritas a los centros de atención primaria pertenecientes al Distrito Sanitario Costa del Sol y al Área Sanitaria Norte de Málaga (comprendiendo un total de 19 Unidades de Gestión Clínica).
+
+
+-- SUJETOS DE ESTUDIO
+
+Muestra aleatoria de dicha población, calculada mediante programa informático EPIDAT 3.1 teniendo en cuenta los siguientes datos de población:–Población total de ambos distritos: 622.824.–Población de 65 o más años de ambos distritos: 89.211.–Población de 65 o más años y polimedicada (de ambos distritos): 12.366 (datos a mayo del 2011).
+Para conseguir una precisión del 5% en la estimación de una proporción mediante un intervalo de confianza asintótico normal al 95% bilateral, con una proporción esperada de principio activo del 65%, para una población de 12.366 pacientes, será necesario incluir en la muestra a 375 (asumiendo una tasa de reposición del 10%).
+Selección de los individuos: se realizó un muestreo aleatorio simple a través de las listas que proporcionaron cada centro, obtenidas a partir de los pacientes registrados en historia única digital (Diraya) como polimedicados de 65 o más años.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+–Polimedicados (consumo de 5 o más medicamentos durante un periodo igual o superior a 6 meses) de 65 o más años de edad.–Estar incluido en la prescripción por receta electrónica.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+–Pacientes con deterioro funcional y/o cognitivo que impida el manejo de la medicación de forma independiente Barthel menor o igual de 60, o Lawton y Brody menor de 3 en mujeres y menor o igual de 1 en hombres, o más de 4 errores en el test de Pfeiffer.–Pacientes institucionalizados en entidades públicas o privadas.–Pacientes con enfermedad psiquiátrica.–Negativa a otorgar su consentimiento por escrito.–Pacientes con problemas de comprensión y/o expresión idiomática que impidan una comunicación fluida con los mismos.
+
+
+-- RECOGIDA DE LA INFORMACIÓN
+
+Una vez captados, y comprobado que cumplen los criterios de inclusión, se les propuso participar en el estudio. El responsable de recogida de datos fue la misma persona para los 2 distritos, realizándose la entrevista en el domicilio del paciente (mediante cuaderno de recogida de datos y entrevista estructurada).
+
+
+-- VARIABLES DEL ESTUDIO
+
+1.Variable dependiente: adherencia al tratamiento (test de Morisky-Green). El test de Morisky-Green es un método indirecto de valoración del cumplimiento terapéutico, validado para la población española y empleado con frecuencia en enfermedades crónicas. Consta de 4 preguntas con respuesta dicotómica que pretende valorar si el paciente adopta actitudes correctas en relación con el tratamiento (se considera cumplidor si responde de forma correcta a las 4 preguntas). Es un test que subestima al buen cumplidor y sobrestima el no cumplimiento en un 7,9%. Es un método sencillo que permite realizar las preguntas entremezcladas con la conversación y de forma cordial, permitiendo obtener información sobre las causas del incumplimiento en función de las respuestas.2.Variables independientes:–Sociodemográficas: edad, sexo, lugar de residencia, convivencia, nivel socioeconómico, nivel educativo, profesión, valoración riesgo social (escala de Gijón).–Datos clínicos: enfermedad, valoración funcional mediante test de Barthel y Lawton y Brody, valoración cognitiva test de Pfeiffer, valoración del cribado de ansiedad y depresión mediante Goldberg.–Medicación: número de medicamentos, porcentaje de principio activo, presencia de genéricos de distintas marcas, número de prescriptores, identifica genérico iguales, identifica genérico con patología incumplimiento terapéutico, visitas a urgencias recientes, olvidos, duplicados, error de dosis, error de frecuencia, alergias e intolerancias.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los datos se han procesado y analizado mediante programa informático SPSS Versión 20 (licenciado para el Servicio Central de Informática de la Universidad de Málaga). Las variables cuantitativas se describen mediante la media ± desviación estándar, las variables cualitativas las presentamos en frecuencias y porcentajes. Cálculo de la odds ratio de prevalencia. Análisis bivariante mediante test de la t de Student (U de Mann-Whitney en casos de ausencia de normalidad), test de la chi al cuadrado. Análisis multivariante: regresión logística binaria. Los resultados se consideraron estadísticamente significativos en caso de p < 0,05.
+
+
+- RESULTADOS
+
+-- DATOS SOCIODEMOGRÁFICOS
+
+Se entrevistó a 375 pacientes, con una edad media de 74,72 ± 5,9 años, siendo mujeres el 63,5%. En la muestra estratificada por distritos, el 77,9% de la población del estudio pertenece al Distrito Costa del Sol .
+Un alto porcentaje vive en pareja, 59,7%, que sumado a los que viven con un familiar (17,3%) supone un 77%. Un 90,1% tiene un nivel socioeconómico medio y el 5,1% un nivel socioeconómico bajo.
+Con respecto al nivel educativo, se aprecia un porcentaje alto de población sin estudios, de tal forma que entre analfabeto (19,5%) y los que solo saben leer y escribir (57,9%) suman un 77%.
+La profesión de obrero, con un 45,9%, es la más representativa, seguida de las amas de casa, con un porcentaje del 35,5%.
+
+
+-- DATOS CLÍNICOS
+
+En relación con enfermedades crónicas, destaca que un 88% presentan hipertensión arterial, el 52,5% diabetes, el 65,1% dislipidemia, el 56% cardiopatía, un 14,9% enfermedad pulmonar obstructiva crónica y un 4,5% había presentado un accidente cerebrovascular (ACV) .
+Durante el último año, un 5,9% de los pacientes acudieron más de 3 veces a urgencias, y el 54,1% lo hizo al menos en una ocasión.
+Con respecto a las actividades básicas de la vida diaria (Barthel): autónomos un 68,5%, con dependencia leve un 13,3% y con dependencia moderada un 18,1%, no existiendo diferencias significativas por sexo. Solo un 2,4% presentaba un deterioro cognitivo leve (Pfeiffer).
+Con respecto a las actividades instrumentales (Lawton y Brody), presenta una media de 7,05 para las mujeres en escala de 0 a 8 y una media de 4,75 para los hombres en una escala de 0 a 5.
+Respecto a la valoración emocional (Goldberg), un 60,5% presenta riesgo de ansiedad y un 34,1% de depresión, presentando ambos riesgos un 26,4%.
+
+
+-- MEDICACIÓN
+
+En el 90,1% de los pacientes la prescripción por principio activo está por encima del 75% .
+La mayoría de los pacientes reciben 8 o más medicamentos (85%) y un alto porcentaje, el 47,7%, más de 10 . Casi el 70% tiene 2 o más prescriptores.
+A un 84,3% se les dispensa distintas marcas del producto y un 62,7% de los pacientes no identifica distintas presentaciones del mismo principio activo. Sin embargo, el 79,7% identifica el genérico con la enfermedad.
+Dentro de las incidencias en la toma de la medicación, podemos indicar que el 13,1% incumple las recomendaciones, un 42,4% olvida alguna toma, un 3,2% ha duplicado alguna toma, un 50,1% ha cometido algún error de dosis, un 62,1% un error de frecuencia, un 23,5% tiene alguna alergia medicamentosa y un 9,3% refiera alguna intolerancia.
+Un 51,7% de los pacientes presentaron adherencia al tratamiento . La prescripción por principio activo no incrementa la no adherencia al tratamiento (odds ratio prevalencia = 0,983; IC del 95%, 0,49-1,93).
+En la tabla 4 se recoge el análisis bivariante de la adherencia al tratamiento respecto a las distintas variables del estudio. En dicho análisis encontramos diferencias estadísticamente significativas con respecto al área sanitaria, el tipo de convivencia, el riesgo de ansiedad, dislipidemia y ACV.
+En el Área Sanitaria Norte de Málaga se registró un 67,5% de adherencia frente al 47,3% observado en el Distrito Costa del Sol. La adherencia fue de un 54,5% en los pacientes que viven acompañados frente a un 42,4% en los que viven solos. Los pacientes que presentaron riesgo de ansiedad tuvieron menor adherencia respecto a los que no lo presentaron (47,6% vs. 58,1%).
+En el análisis multivariante posterior , se confirmó la relación entre falta de adherencia y las variables residencia, tipo de convivencia y riesgo de ansiedad. No identificándose ninguna otra variable relacionada.
+
+
+- DISCUSIÓN
+
+La adherencia al tratamiento observada en el presente estudio fue del 51,7%, que es algo superior al de otros estudios, como el de Bayliss et al. o el de Villar Álvarez et al., que la cifran por debajo del 50%; sin embargo, es muy similar a la de Tuesca-Molina et al. que habla de un 53%, aunque este último solo estudia a pacientes con hipertensión arterial.
+No hemos encontrado diferencias en la adherencia al tratamiento farmacológico en relación con el porcentaje de prescripción por principio activo en nuestros pacientes y no hemos hallado en la literatura estudios que relacionen estas variables. Al contrario de lo que se podía pensar, la adherencia fue ligeramente superior en aquellos pacientes con mayor porcentaje de prescripción por principio activo. En la literatura se recoge que la polimedicación, la acumulación de fármacos, la confusión de genéricos, la complejidad de la pauta, la duplicidad terapéutica, los problemas cognitivos, la falta de información al paciente, las creencias negativas y determinadas características de los medicamentos disminuyen la adherencia al tratamiento, . La gestión del cambio en relación con la prescripción por principio activo se realizó en Andalucía de una manera progresiva y acompañada de una campaña informativa a profesionales y pacientes, evitando de esta forma que la introducción de esta estrategia contribuyera a una disminución en la adherencia, como hemos comprobado en el presente estudio. Así mismo, no encontramos relación entre la no identificación de genéricos iguales y una menor adherencia.
+De todas formas, nos gustaría señalar que la metodología de los estudios consultados es muy variada y heterogénea, lo que dificulta la comparación entre ellos. Desde estudios que analizan pacientes ancianos, pacientes hipertensos, distintos ámbitos geográficos, entre otros, al nuestro que evalúa pacientes ancianos, polimedicados con elevada prescripción por principio activo.
+El porcentaje de polimedicados entre los pacientes mayores de 65 años de nuestra población (ambos distritos sanitarios) es del 13,86% (datos obtenidos de la historia única digital [Diraya] y de la Base de Datos de Usuario). Este porcentaje es bastante inferior al de otras series, , , que los establecen entre un 32,4 y un 37,8%. Sin duda, esta diferencia estriba en que nuestros datos están referidos a la población total y no a estimaciones de muestra.
+Con respecto al número de medicamentos, la mayoría de los sujetos de la muestra tienen más de 8 medicamentos, cifra muy similar a las medias de otros estudios consultados, , , , e incluso de pacientes geriátricos e institucionalizados, , influyendo directamente en la adherencia o el cumplimiento, como ocurre en la mayoría de los estudios, de tal forma que a mayor número de medicamentos, menor es el cumplimiento.
+Hemos podido observar que los pacientes que acuden con mayor frecuencia a urgencias presentan una tendencia no estadísticamente significativa a un peor cumplimiento, dato coincidente con lo publicado en otro estudio.
+El valor añadido que nuestro trabajo aporta sobre el conocimiento del cumplimiento en pacientes polimedicados es el estudio de aquellos factores relacionados con la estrategia de prescripción de principio activo que, de alguna forma, pudieran influir en la adherencia. Como anteriormente hemos mencionado, el porcentaje por prescripción por principio activo no disminuye la adherencia al tratamiento, aunque sí hemos observado que el conocimiento del genérico y su identificación con la enfermedad para la que está prescrito la mejoran. Por el contrario, la presencia de genéricos de distintas marcas produce un empeoramiento de la misma.
+El perfil social de nuestro paciente coincide con numerosos estudios, mujer mayor de 70 años, , . Viven acompañados, preferentemente con la pareja, tienen un nivel socioeconómico intermedio, la profesión de la mayoría es obrero y ama de casa, y tienen un riesgo social bajo. Por otro lado, más de 3 cuartas partes tienen un nivel educativo bajo (que a lo sumo saben leer y escribir).
+A diferencia de otros estudios, nos hemos centrado en el perfil del paciente no cumplidor, con la finalidad de establecer y estructurar estrategias en estos pacientes.
+El perfil de incumplidor se corresponde con el de un paciente que vive solo, en la costa, y que tiene riesgo de ansiedad, aunque también influye, en cierta medida, el nivel educativo bajo, . Nuestros datos no coinciden con los resultados del estudio de por Tuesca-Molina et al., cuyo perfil de cumplimiento se relaciona con nivel escolar bajo.
+Concluimos que la adherencia es similar a los estudios realizados en nuestro país, independientemente de si la prescripción es o no por principio activo. Por otro lado, la falta de adherencia recae sobre pacientes que viven solos, en la zona costera y con riesgo de ansiedad.
+Este estudio nos permite priorizar una estrategia específica de seguimiento, por parte del equipo de atención primaria, sobre este perfil de pacientes.
+
+
+- FINANCIACIÓN
+
+El proyecto ha sido financiado por la Consejería de Salud en la convocatoria de proyectos de investigación del 2010, proyecto SAS 111222.
+Lo conocido sobre el tema•Existen estudios similares donde la adherencia al tratamiento observada publicada se cifra entre el 50 y 53%.•El perfil de incumplidor, en estudios previos, no ha sido claramente definido.Qué aporta este estudio•Algunas características sobre el perfil del paciente incumplidor.•Datos sobre la adherencia al tratamiento en pacientes polimedicados mayores de 65 años con prescripción por principio activo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

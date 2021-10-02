@@ -1,0 +1,116 @@
+LA EFICIENCIA NO BASTA. ANÁLISIS ÉTICO Y RECOMENDACIONES PARA LA DISTRIBUCIÓN DE RECURSOS ESCASOS EN SITUACIÓN DE PANDEMIA
+
+
+- INTRODUCCIÓN
+
+-- CONTEXTO
+
+En diciembre de 2019 se declaró una epidemia en la provincia china de Hubei por un nuevo coronavirus patógeno en humanos, el SARS-CoV-2, que produce una enfermedad de diversa gravedad denominada COVID-19. La infección puede ser asintomática en un 50% de los casos, produce un cuadro respiratorio leve en otro 40%, un 7-10% pueden requerir ingreso hospitalario y hasta un 3-5% ingresarán en la unidad de cuidados intensivos (UCI) con ventilación mecánica invasiva que se puede prolongar una media de 14-20 días. La COVID-19 tiene una letalidad variable, aún por determinar con exactitud, que se concentra en las personas de mayor edad y con pluripatología.
+La rápida extensión del SARS-CoV-2 ha multiplicado el número de personas que precisan atención sanitaria. La capacidad asistencial se ha visto superada en los ámbitos de atención primaria y urgencias, y en la disponibilidad de camas de UCI y de ventiladores. Especialmente relevante es el caso de los centros sociosanitarios, en los que el 11 de abril de 2020 se estimaba que se habían producido el 58% de todos los fallecimientos por COVID-19 en España, .
+A pesar de los esfuerzos del sistema para aumentar la capacidad de respuesta (adaptación de camas de hospital, creación de hospitales de campaña, etc.), la presión sobre los recursos sanitarios produce la necesidad de racionar, es decir, de elegir qué personas, entre las que podrían ser beneficiarias de un recurso, disfrutarán de él. Las decisiones de racionamiento pueden generar estrés moral en las/los profesionales sanitarios porque son contrarias a su deber fiduciario de cuidar a sus pacientes. Esta circunstancia ha podido agravarse durante las fases más agudas de la pandemia, en las que ha sido necesario adoptar dichas decisiones con mayor urgencia e incertidumbre.
+Para clarificar el debate sobre los criterios de priorización de recursos escasos y facilitar la comprensión de los principios básicos y valores en juego, este artículo analiza y sintetiza una serie de propuestas sobre priorización de recursos, surgidas a raíz de la pandemia de COVID-19. La mayoría de los modelos propuestos de priorización están centrados en el problema de distribución de recursos escasos en UCI. Se pretende ampliar el análisis a toda la asistencia sociosanitaria, no solo a la UCI. El objetivo es proporcionar una fundamentación ética de alcance más integral, para desarrollar recomendaciones específicas para su adaptación a distintos ámbitos asistenciales y niveles de responsabilidad.
+
+
+-- ACLARACIONES CONCEPTUALES
+
+Conviene aclarar antes algunos de los conceptos que se han utilizado en la gestión de la pandemia.
+La adecuación de medidas terapéuticas ha sido definida como «la decisión de restringir o cancelar algún tipo de medidas diagnósticas o terapéuticas, por parte de un profesional o equipo sanitario, cuando se percibe una desproporción entre los fines que se persiguen y los medios empleados». Puede ser un tipo de decisión difícil, aunque es habitual en la práctica médica y está basada en un juicio sobre la utilidad o la futilidad de la intervención.
+Por otro lado, las decisiones de racionamiento implican que un recurso escaso, objetivamente beneficioso, debe distribuirse. La decisión no se centra en el potencial beneficio del tratamiento, sino en establecer qué persona debería ser la destinataria de ese recurso entre todas las posibles beneficiarias. La distribución de órganos donados es la práctica médica habitual que más se aproxima a las decisiones de racionamiento.
+Finalmente, el triaje de urgencias o las lista de espera para valoración médico-quirúrgica son ejemplos de priorización en el acceso a la asistencia, ya sea por necesidad o por orden de llegada; no excluyen a nadie del acceso al recurso, como sí ocurre en el racionamiento. No obstante, en el contexto sanitario, priorización y racionamiento suelen ser términos equivalentes puesto que en muchas ocasiones la demora funciona como una denegación.
+Las decisiones de racionamiento son las que pueden llegar a ser trágicas y derivar en un daño grave o muerte, por lo que entrañan una elección moral difícil.
+
+
+-- ESCENARIOS DE TOMA DE DECISIONES Y RECURSOS ESCASOS SUSCEPTIBLES DE RACIONAMIENTO
+
+Las decisiones de priorización se producen en diferentes niveles asistenciales con singularidades de contexto que deben considerarse: atención primaria, residencias sociosanitarias, urgencias y atención hospitalaria especializada. En estos niveles, los recursos objeto de racionamiento durante la pandemia son:•Tiempo de atención del personal sanitario, presencial (centro o domicilio) y telemática.•Recursos humanos cualificados.•Transportes sanitarios.•Camas de ingreso convencional y UCI.•Medidas de oxigenación/ventilación.•Material de protección.•Tratamientos farmacológicos.•Pruebas de detección de SARS-CoV-2.•Vacuna futurible.
+
+
+-- COLECTIVOS DE ESPECIAL VULNERABILIDAD
+
+Su identificación es un aspecto fundamental para responder equitativamente a la pandemia y consensuar los criterios éticos de priorización. Se pueden distinguir:
+
+
+- MÉTODO
+
+Este trabajo ha seguido dos desarrollos metodológicos bien diferenciados. En el primero, se hizo una búsqueda de las principales propuestas y guías de priorización y racionamiento que aparecían en España para hacer frente a la COVID-19. Para ello se realizó una búsqueda desde el 1 de marzo hasta el 10 de abril de 2020 en la literatura gris sobre los protocolos y las propuestas de actuación puestas en marcha, sobre todo por sociedades científicas, organismos gubernamentales, comités de ética, centros de referencia en bioética y protocolos específicos de UCI de diversos hospitales nacionales, , , , , , , , , , , que tuvieran como fin proporcionar información o guías de actuación sobre cómo distribuir recursos en la actual pandemia. Se localizaron 11 documentos y la estrategia de identificación se realizó a través de páginas web o directamente consultando las fuentes señaladas.
+Por otro lado, se realizó una revisión narrativa de los principales modelos teóricos, que permitió analizar y contrastar las propuestas que se estaban haciendo en nuestro país. Para ello, se hizo una búsqueda bibliográfica en PubMed con los términos “ethics”, “allocation” y “pandemic” previamente al 10 de abril de 2020, en la que se identificaron 76 artículos, de los que finalmente se seleccionaron cinco, , , , . La selección se hizo de acuerdo con criterios de relevancia, solidez, diversidad y originalidad argumental.
+Por último, el análisis de la documentación ha seguido diversos pasos. Primero se identificaron las preguntas y los principales aspectos éticos que deben ser considerados para la distribución de recursos en épocas de pandemia. Segundo, se destacaron los principios éticos que subyacen a los criterios empleados en las decisiones de priorización y racionamiento de recursos sanitarios. Tercero, se describieron y compararon las propuestas de recomendaciones sobre la distribución de recursos sanitarios en el contexto de una epidemia con estos modelos teóricos, para finalmente realizar una propuesta justificada que aspira a recoger los valores y principios que más consenso recaban de los modelos analizados.
+Al basarse en un procedimiento de consenso por superposición, la toma de decisiones que se propone aquí pretende articular una propuesta de mínimos, que puede ser aplicada a varios contextos clínicos sin producir excesiva controversia. Con todo, como propuesta normativa, es necesariamente revisable, y por tanto no pretende cerrar la discusión sobre el complejo problema de la distribución de recursos escasos en un contexto de pandemia.
+
+
+-- PREGUNTAS ÉTICAS
+
+La alta demanda de recursos sanitarios en un contexto de escasez plantea múltiples preguntas sobre su priorización, que se agrupan en torno a dos ejes fundamentales: 1) la legitimidad y la responsabilidad en la toma de decisiones, y 2) los criterios de distribución (tabla 1 ). Aunque la exploración de las cuestiones éticas que se realiza aquí afecta a ambos aspectos, la propuesta de recomendaciones pretende orientar la toma de decisiones relacionadas con el segundo tipo de cuestiones.
+
+
+-- FUNDAMENTACIÓN ÉTICA
+
+El racionamiento tiene que ver con la justicia distributiva, es decir, con la forma en que repartimos un bien, en este caso los recursos sanitarios. Los problemas éticos que plantea la distribución de recursos sanitarios en situaciones de escasez generalmente se describen como un equilibrio tenso entre dos criterios de distribución: equidad y eficiencia. La primacía de uno u otro es una decisión ética y política que depende del contexto social, económico y epidemiológico. En un momento de catástrofe, el problema es la escasez de recursos por una demanda imprevisible y concentrada en el tiempo. Algunos posicionamientos, , priorizan la eficiencia distributiva o consecución de los mejores resultados con los recursos disponibles, y evitar tantas muertes como sea posible. Una interpretación frecuente de la eficiencia identifica los mejores resultados con el número de vidas restablecidas. Otros posicionamientos, , , , , aun reconociendo la importancia de restablecer vidas, niegan que la eficiencia deba considerarse el único valor. La equidad sería un principio que exigiría evitar disparidades sistemáticas en salud y favorecer a los más vulnerables, incluso al precio de que el sistema de distribución sea menos eficiente. El significado de ambos principios —eficiencia y equidad— y la relación entre ambos merecen, sin embargo, un análisis más detallado.
+La eficiencia habitualmente se articula en función de juicios pronósticos que los/las profesionales sanitarios/as realizan sobre la base de su conocimiento experto. Sin embargo, la eficiencia no aclara ni justifica por sí sola si debe priorizarse, por ejemplo, el número de vidas restablecidas sobre el número de años de vida recuperados o viceversa, ni por qué una persona de menor edad debería ser atendida con prioridad sobre otra mayor si esta se encuentra en una situación menos grave. Por lo tanto, el principio de eficiencia puede usarse de diferentes modos, y cada interpretación que se le dé incorpora la preferencia por ciertos valores y no otros. Esto significa que el concepto mismo de eficiencia —con independencia del orden de prioridad que se le dé con respecto a otros valores— incorpora ya decisiones que no son exclusivamente científico-técnicas, sino también éticas. Por eso, el establecimiento de ese criterio no se basa solo en la experticia clínica. Los conocimientos clínicos, siendo necesarios, no aportan autoridad moral mayor que la de otros agentes involucrados. La elección de los criterios de priorización debe ser sometida, por tanto, a la deliberación y el escrutinio públicos.
+
+
+- RESULTADOS
+
+-- PRINCIPIOS Y CRITERIOS ASOCIADOS
+
+Podemos considerar diferentes criterios para priorizar a unas personas frente a otras en relación con la utilización de los recursos sanitarios. En la tabla 2 se muestran los criterios extraídos del análisis comparado de las recomendaciones que se han revisado, agrupados en función de los principios y de los valores que subyacen a su aplicación. Añadimos el breve análisis que los autores realizan de ellos.
+La mayoría de los modelos de racionamiento en situación de pandemia se centran en los recursos de UCI y obvian el contexto de todo el sistema sanitario. En la tabla 3 se recogen los modelos revisados, que han sido analizados según la forma en que miden la eficiencia y cómo ponderan la edad y la situación previa del paciente.
+
+
+- DISCUSIÓN
+
+La escasez de recursos sanitarios a la que se enfrenta la sociedad en la pandemia de COVID-19 exige un racionamiento equitativo. Todo aumento de recursos en una parte del sistema sanitario tiene consecuencias sobre otras partes del mismo, por lo que limitar las decisiones de racionamiento a la elección trágica de a quién se otorga el ventilador en la UCI sería una muestra de reduccionismo. Por ejemplo, eliminar la cirugía electiva para aumentar las camas hospitalarias repercute en la posible exacerbación de las patologías que no se operan, y si esas camas nuevas están gestionadas por profesionales de atención primaria desplazados a los hospitales, entonces habrá personas con patologías en sus domicilios o en residencias sociosanitarias que acusarán la ausencia de cuidados y de asistencia clínica.
+Estas decisiones, adecuadas para la situación de pandemia, tienen consecuencias que no pueden ser desatendidas en la distribución de beneficios y cargas. Por un lado, la concentración de recursos para atajarla y un confinamiento prolongado repercuten sobre la desigualdad en salud. Por otro lado, supone relegar aquellas patologías indirectas y aplazadas. En este sentido, es importante considerar que las circunstancias habitacionales, medioambientales, de salubridad, conectividad, etc., no son las mismas para el conjunto de la población, de manera que el impacto sobre su salud será también desigual.
+Un objetivo general en esta situación excepcional es conseguir el mayor beneficio sanitario posible para el mayor número de pacientes, con los medios disponibles, respetando tanto la equidad y la universalidad propias de nuestro sistema sanitario como el deber de cuidado a cada paciente que caracteriza a la ética clínica, .
+
+
+-- RECOMENDACIONES DE PROCEDIMIENTO
+
+Las propuestas de fundamento ético hasta ahora descritas se centran en los principios y valores que deberían guiar las decisiones. Sin embargo, no siempre es posible llegar a acuerdos sobre la jerarquización de esos principios, aunque sí sobre los procesos que dan lugar a propuestas. Por tanto, una alternativa para justificar la priorización es de naturaleza procedimental. En circunstancias ideales, la selección de criterios de racionamiento resultaría de un proceso deliberativo y participativo que implicase a toda la comunidad, . En ausencia de esas condiciones, que exigirían un tiempo que excede el apremio impuesto por las necesidades de la actual pandemia, es fundamental el desarrollo de un procedimiento razonable de toma de decisiones (tabla 4 ). El que proponemos aquí enfatiza la importancia de compartir las decisiones y la rendición de cuentas, que implica transparencia sobre los motivos de las decisiones, razonabilidad de los fundamentos de estas y posibilidad de apelación de las elecciones tomadas. Se recomienda que la toma de decisiones se guíe por los criterios generales de procedimiento que a continuación se exponen.
+
+
+-- LÍMITES Y RIESGOS DEL RACIONAMIENTO
+
+
+
+
+-- UN MODELO UNITARIO DE DISTRIBUCIÓN DE RECURSOS SANITARIOS EN LA SITUACIÓN DE PANDEMIA (<XREF RID="TBL0025" REF-TYPE="TABLE">TABLA 5</XREF
+
+1) Escenario de atención primaria
+El valor fundamental de la atención primaria de salud en la pandemia de COVID-19 es su accesibilidad universal, por lo que cualquier medida de racionamiento debe ir en el sentido de mejorarla o, al menos, de no dañarla. Las medidas de confinamiento tomadas para prevenir la expansión de la pandemia y el riesgo de contagio en los centros de salud han obligado a reordenar la actividad de la atención primaria hacia el uso de medios telemáticos, la atención de urgencias y la asistencia en domicilio. La pérdida del valor clínico de la presencialidad solo se puede compensar con la longitudinalidad, es decir, con el conocimiento preciso de la persona y de su historial médico, así como por el vínculo de confianza previamente establecido. Esta atención telemática arrecia la necesidad de mantener íntegros los recursos sanitarios de atención primaria de cara a un manejo más eficiente de los casos no susceptibles de ingreso hospitalario. El recurso principal de atención primaria para racionar en la pandemia de COVID-19 es el tiempo asistencial de sus profesionales, ya sea presencial, telemático o en visita domiciliaria. Este ha de estar distribuido en función de la necesidad poblacional con: 1) prioridad a las afecciones agudas, sean o no COVID-19, y a las agudizaciones de enfermedades crónicas, frente a la patología crónica; 2) prioridad a las personas en situación vulnerable tanto a sufrir enfermedad grave como a acusar el rigor del confinamiento. En las personas con sintomatología leve-moderada de COVID-19 es crucial el reconocimiento precoz de los síntomas, así como la selección de aquellos pacientes que deben aislarse en su domicilio y el triaje de los que requieren atención hospitalaria. Las decisiones que se tomen desde atención primaria serán aspectos clave en el momento de racionar transportes sanitarios y recursos hospitalarios como las urgencias. Ante la sospecha de COVID-19 se valorará el tratamiento domiciliario con un objetivo terapéutico paliativo en pacientes para los que el tratamiento hospitalario se considere fútil, siempre que se pueda garantizar una asistencia domiciliaria adecuada. De especial relevancia serán las medidas preventivas contra la pandemia que se vayan desarrollando, como quimioprofilaxis o vacunación. Tendrán prioridad para el acceso a una futura vacuna contra la COVID-19 las personas vulnerables a sufrir una enfermedad grave, así como los colectivos vulnerables al contagio por exposición.
+2) Escenario de los centros residenciales sociosanitarios
+En los centros sociosanitarios, el carácter contagioso de la COVID-19 obliga al aislamiento de la persona enferma y al mínimo contacto humano. Muchas residencias claman por su escasez de medios para atender en aislamiento a sus residentes: falta de personal, de cualificación y de protección. A la enfermedad y la discapacidad se suman la soledad y en ocasiones el abandono. Las estimaciones sobre la afectación de la COVID-19 en este ámbito la señalan como un problema de salud pública, de mortalidad, sufrimiento, soledad ante la muerte e inequidad. Para evitar una discriminación sistemática es fundamental que cualquier triaje que se aplique a los residentes en estos centros sea individualizado y adaptado a las características de cada paciente, y evite la etiqueta colectiva de «institucionalización en centro sociosanitario» que pueda condicionar, junto con la edad o la comorbilidad, un pronóstico sesgado y, por tanto, una limitación en las intervenciones de los servicios sanitarios. El traslado de estas personas enfermas a un hospital, en función de su situación basal, puede ser fútil y contraproducente para el uso de los recursos hospitalarios, pero toda adecuación a este respecto debe siempre acompañarse de la garantía de la asistencia necesaria en las residencias.
+3) Escenario de UCI y ventilación asistida
+El mejor equilibrio entre equidad y eficiencia en la distribución de recursos de UCI es restablecer el mayor número de vidas con una expectativa vital razonable, , . Esto implica priorizar a las personas que menos tiempo van a estar en la UCI con ventilador, y ponderarlo con la presencia de comorbilidad que afecte al pronóstico vital, .
+Ceteris paribus, junto a estos criterios se pueden tener en cuenta otros, como dar prioridad a los más jóvenes o al valor social (profesionales sanitarios que atienden enfermos en primera línea y mantienen operativa la atención). La aplicación de esos criterios se debe llevar a cabo cumpliendo con las siguientes condiciones:
+Las decisiones de racionamiento tienen una profunda repercusión sobre profesionales, instituciones y opinión pública que puede ir más allá de la pandemia. Su adecuada fundamentación ética es decisiva para la prevención del distrés moral y la desconfianza pública.¿Qué se sabe sobre el tema?La investigación sobre el racionamiento de recursos sanitarios escasos en situaciones de pandemia se desarrolló tímidamente a raíz de las epidemias de SARS y de gripe A de las dos últimas décadas, por lo que abordamos la pandemia de COVID-19 sin una fundamentación ética específica. Esto convierte las decisiones en difíciles retos morales.¿Qué añade el estudio realizado a la literatura?Una revisión de los modelos de racionamiento de recursos sanitarios, una fundamentación ética y una propuesta global de toma de decisiones sobre priorización en el sistema sanitario en situación de pandemia.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Andreu Segura.
+
+
+- DECLARACIÓN DE TRANSPARENCIA
+
+El autor principal (garante responsable del manuscrito) afirma que este manuscrito es un reporte honesto, preciso y transparente del estudio que se remite a Gaceta Sanitaria, que no se han omitido aspectos importantes del estudio, y que las discrepancias del estudio según lo previsto (y, si son relevantes, registradas) se han explicado.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+El presente trabajo abarca varios ámbitos de conocimiento, por lo que implica un esfuerzo multidisciplinario. M. Cruz y M.I. Tamayo diseñaron la metodología de trabajo. J. Hortal, M. Melguizo y J. Padilla revisaron los protocolos de priorización y la bibliografía sobre pandemias, y desarrollaron los escenarios clínicos. M.T. López de la Vieja, T. Ausín, A. Puyol, R. Triviño y D. Rodríguez-Arias elaboraron la fundamentación ética y precisaron los principios y los criterios de distribución, así como sus conceptos, tanto en la primera redacción como en la sucesivas revisiones. Todas las personas firmantes participaron en la concepción del manuscrito y sus objetivos, la identificación de preguntas éticas, las recomendaciones propuestas y las contestaciones dadas a las revisiones por pares. Todas las personas autoras han aprobado la versión final para su publicación.
+
+
+- AGRADECIMIENTOS
+
+A las demás personas que componen la red ESPACyOS (Ética Salubrista para la Acción, Cuidados y Observación Social) y que participaron en parte de las reuniones en las que se fraguó, debatió, revisó y aprobó el presente trabajo: Ivar Hannikainen, Ester Massó y Janet Rodríguez.
+
+
+- FINANCIACIÓN
+
+Este artículo ha recibido financiación del proyecto de investigación FFI-2015-64858-P del Ministerio de Economía y Competitividad.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

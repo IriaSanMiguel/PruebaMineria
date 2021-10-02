@@ -1,0 +1,35 @@
+DEFUNCIONES POR COVID-19: NO ESTÁN TODAS LAS QUE SON Y NO SON TODAS LAS QUE ESTÁN
+
+
+No está claro cómo se han contado ni cuáles han sido las fuentes de información utilizadas. Conocer con precisión el número y la evolución de las defunciones por COVID-19 es esencial para valorar la magnitud del problema y su evolución. Tal confusión ilustra la desatención a los sistemas de información de salud pública.
+Para la vigilancia epidemiológica de la COVID-19 se considera caso confirmado aquella persona en la que la técnica diagnóstica de reacción en cadena de la polimerasa (PCR) haya sido positiva. La definición ha ido cambiando en el tiempo, por lo que hay que reconfigurar las series temporales para poder comparar su evolución temporal.
+La Organización Mundial de la Salud (OMS) recomendó dos opciones para la certificación de la causa de defunción relacionadas con COVID-19: a) causa con coronavirus confirmado por prueba de laboratorio y b) causa con coronavirus no confirmado (por prueba de laboratorio o inconcluyente). También explicó cómo debía el médico cumplimentar el certificado de defunción (fig. 1 ) y cómo debían seleccionar la causa de la muerte las unidades de codificación. La estadística oficial de defunciones en España aplica las reglas de la OMS. A modo de ejemplo, una persona fallecida por un infarto, e infectada y PCR positiva, sería un caso de COVID-19 para la vigilancia epidemiológica, aunque para la estadística de mortalidad debería ser un fallecimiento por infarto de miocardio. De modo que tal vez se haya podido incrementar artificialmente el número de víctimas de la COVID-19, y asimismo perder fallecimientos al principio de la epidemia debidos a las complicaciones de la COVID-19 no sospechadas.Figura 1
+En las circunstancias de la pandemia, los formatos y los contenidos de los fallecimientos se han modificado, inducidos por la premura de disponer de información cuanto antes, de modo que se han complicado la elaboración y el análisis de los datos. Todo ello en un contexto de gran disrupción insólita desde la pandemia de 1957, o desde la Guerra Civil.
+En las circunstancias habituales hay una notificación epidemiológica de enfermedades que es de ámbito sanitario, y otra de estadística de defunciones que es de ámbito estadístico (nacimientos y defunciones, entre otras). La elaboración de la estadística de defunciones es compleja (fig. 2 ). Intervienen varias Administraciones centrales (Justicia y Estadística) y autonómicas (Estadística y Sanidad), y no siempre al mismo nivel, dependiente de la ley autonómica de estadística y no de sus competencias. Además, participa la Organización Médica Colegial actual, organismo titular del certificado de defunción.Figura 2
+El médico debe consignar el certificado para su inscripción en el Registro Civil (dependiente del Ministerio de Justicia), para permitir la inhumación o incineración. El certificado de defunción se remite a la delegación del Instituto Nacional de Estadística (INE) para su procesamiento digital y tramitación telemática a la Administración pública autonómica, que codifica las causas de la defunción que se incorporan a la intranet del INE. Así, se elabora la estadística anual de defunciones según la causa de la muerte, fuente de datos de la Unión Europea (EuroStat) y de la OMS. Las defunciones judiciales siguen parcialmente otro circuito, pero contribuyen a la estadística anual de defunciones.
+Probablemente hubiera sido conveniente habilitar los registros civiles y que hubieran remitido los certificados de defunción con mención de COVID u ocurridos en residencias a la Consejería de Sanidad, aliviando la vigilancia epidemiológica de los dispositivos de salud pública del Sistema Nacional de Salud, que sufren una crónica falta de recursos.
+Para conocer las defunciones por COVID-19 disponemos de tres aproximaciones: una son los datos de fallecidos que comunica el Ministerio de Sanidad, otra son los datos estadísticos de mortalidad basados en el certificado de defunción, y la tercera es el Sistema de Monitorización de la Mortalidad, que estima el exceso de muertes en un determinado periodo en comparación con las defunciones registradas en años previos basándose en una pasada casuística que no se volverá a repetir.
+A fecha 1 de junio de 2020, el Ministerio de Sanidad ha comunicado 27.940 fallecimientos por COVID-19. Por su parte, el Sistema de Monitorización de la Mortalidad indica que del 13 de marzo al 22 de mayo ha observado un exceso de 43.014 fallecimientos. A la primera cifra le faltarán casos, mientras que a la segunda le sobran porque hay otras causas que han podido relacionarse con la mortalidad. Cuando dispongamos de las cifras de defunciones que proporcionará el INE tendremos seguramente una aproximación intermedia. Con todo ello y otras fuentes de información, los investigadores podrán estimar el impacto de la COVID-19 en la mortalidad.
+Hemos conocido la existencia de un prototipo electrónico de certificado de defunción, de uso habitual en países de nuestro entorno. Dado que los registros civiles están informatizados en la mayoría de los municipios (93%), es viable la conexión telemática y la inscripción de la defunción mediante el certificado de defunción electrónico en el Registro Civil (opción que ya está disponible para los nacimientos), y proseguir el circuito, habilitando un recuento reglado de las defunciones y sus causas ante las próximas emergencias sanitarias. También se podría vincular el certificado de defunción electrónico a la historia clínica digital (indizando todo registro por DNI) al mencionado circuito sanitario-estadístico.
+La Unión Europea debe ser una unión sanitaria que se vea reflejada en sus centros de control de enfermedades e información estadística.
+Nuestra intención es mejorar la producción de las estadísticas de las defunciones y de los sistemas de información sanitaria. Necesitamos un acuerdo institucional (INE, Organización Médica Colegial, Ministerio y Consejerías de Sanidad) que alinee recursos y garantías para el procesamiento telemático de las defunciones por causas.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Carlos Álvarez Dardet.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Los tres autores han contribuido a la concepción, la configuración y la redacción del manuscrito.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno. A. Segura es editor de la revista en salud comunitaria, pero no ha participado en el proceso editorial del manuscrito

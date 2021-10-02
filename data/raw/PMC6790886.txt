@@ -1,0 +1,47 @@
+HEPATITIS C: NUEVOS DIAGNÓSTICOS Y SEROCONVERSIONES EN UNA CLÍNICA DE INFECCIONES DE TRANSMISIÓN SEXUAL EN MADRID
+
+
+- INTRODUCCIÓN
+
+La infección por el virus de la hepatitis C (VHC) constituye un problema de salud que afecta aproximadamente a 185 millones de personas en todo el mundo, de las que cada año fallecen 350.000 . Hasta un 75-80% de las personas que entran en contacto con el VHC desarrollarán una infección crónica, con un espectro de afectación hepática que varía desde mínimos cambios histológicos, hasta extensa fibrosis con cirrosis (entre un 5-25% evolucionarán a cirrosis en décadas) con o sin desarrollo de carcinoma hepatocelular (CHC). Además, la infección por VHC es una de las principales indicaciones de trasplante hepático (TH) en nuestro medio.
+Pese a la alta prevalencia de la infección, la mayoría de los individuos afectados no conocen que están infectados .
+Los regímenes de tratamiento de la infección por el VHC, basados en la combinación de agentes antivirales de acción directa (AAD), consiguen unas tasas de respuesta virológica sostenida por encima del 90%, incluso en pacientes que fracasaron previamente a las terapias basadas en interferón .
+Sin embargo, a pesar de estos avances en la eficacia del tratamiento, se siguen observando nuevas infecciones, sobre todo en personas seropositivas para el virus de la inmunodeficiencia humana (VIH). En los países con terapia antirretroviral disponible para el VIH, la mortalidad por el VHC supera a la producida por el VIH y por el virus de la hepatitis B (VHB).
+El objetivo del presente trabajo es evaluar la incidencia de nuevas infecciones por el VHC en personas inicialmente seronegativas, en función de su orientación sexual, situación serológica respecto al VIH, región geográfica de origen y la coinfección con otras infecciones de transmisión sexual (ITS), especialmente el linfogranuloma venéreo (LGV).
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio retrospectivo realizado en el Centro Sanitario Sandoval (CSS), clínica de referencia de ITS en la Comunidad de Madrid. Se incluyeron todas las personas seronegativas al VHC que fueron nuevamente analizadas para este virus y todas las personas con diagnóstico de VHC sin serología previa conocida (nuevos diagnósticos), entre el 01 de enero de 2010 y el 31 de diciembre de 2016.
+A todos los pacientes seronegativos para el VHC se les realizó anualmente una nueva serología y todos ellos respondieron a un cuestionario epidemiológico estructurado, con objeto de conocer variables sociodemográficas y conductuales.
+La determinación del anticuerpo para el VHC (Anti-VHC) se llevó a cabo mediante un inmunoensayo de micropartículas por quimioluminiscencia (CMIA), Abbott diagnostics division®. La carga viral se determinó mediante Versant® HCV RNA 1(kPCR), Siemens.
+
+
+- RESULTADOS
+
+Del total de 26.805 consultas atendidas en el año 2016, se diagnosticaron microbiológicamente 3.362 episodios de ITS, de los cuales 287 correspondían a nuevos diagnósticos de infección por el VIH y 59 a nuevos diagnósticos de infección por el VHC (lo que representaba un 2% del total de las ITS diagnosticadas).
+Desde el año 2010 y hasta el año 2016 se reanalizaron un total de 4.740 muestras para detectar la presencia de anticuerpos para el VHC, pertenecientes a 4.271 hombres, 414 mujeres y 55 transexuales (TSX). La edad media de los mismos fue de 36 años (desviación estándar: 7,18).
+De todas las muestras reanalizadas (4.740) se detectaron 67 seroconvertores para el VHC (1,4%). El 100% fueron hombres que tienen sexo con hombres (HSH) frente al 0% de heterosexuales (HTX).
+En relación a la región geográfica de procedencia de los seroconvertores, un 68% (46/67) eran españoles y un 34% (23/67) no españoles, de los cuales un 69% (16/23) procedían de Latinoamérica.
+En cuanto a la coinfección con otras ITS, se analizó principalmente la relación con el LGV (Chlamydia trachomatis serovares L1-L3). Del total de los 67 seroconvertores para el VHC, 13 (19%) estaban coinfectados por LGV.
+En el total de los 67 seroconvertores se cuantificó el ARNVHC. En 21 personas la carga viral fue indetectable y detectable en los 46 restantes (rango: 111 UI - >40.000.000 UI).
+Según la situación respecto al VIH, el 89% (60/67) de los seroconvertores al VHC fueron seropositivos para el VIH .
+Durante el periodo de estudio, se incrementó el diagnóstico de nuevos casos de infección por el VHC en un 13,5%.
+Entre los nuevos diagnósticos de infección por el VHC, la proporción de HSH aumentó progresivamente, desde el año 2010 hasta el 2016, siendo más marcada en la segunda mitad del periodo analizado (de 2013 a 2016).
+Así, la proporción de HSH dentro de los nuevos diagnósticos de infección por el VHC fue del 37% en el año 2010, del 53% en el año 2013 y ascendió hasta el 75% en el año 2016. Estos datos traducen un incremento, estadísticamente significativo (p < 0,025), del 131% . La proporción de HSH fue aún mayor cuando se analizó en el grupo de coinfectados por el VIH/VHC (94%).
+
+
+- DISCUSIÓN
+
+La principal vía de transmisión del VHC es la sangre. No obstante, en los últimos años estamos asistiendo a un aumento de la transmisión sexual del VHC .
+La transmisión del VHC entre parejas heterosexuales (HTX) con relación monógama es muy rara, con una prevalencia que oscila entre el 0 y el 27% .
+Según algunos estudios , cuando se excluye a las parejas con exposición parenteral conocida, la prevalencia es < 5%. Sin embargo, esta prevalencia aumenta en HSH especialmente en aquellos coinfectados por el VIH donde puede estar en torno al 3-39%, frente al 0-19% de los no coinfectados por el VIH . De acuerdo con nuestros resultados, la prevalencia de infección por el VIH en los seroconvertores al VHC fue del 89% y el 100% de los seroconvertores eran HSH.
+En esta línea de investigación, se ha planteado que el contacto con parejas infectadas por el VIH podría facilitar la transmisión del VHC, dado que algunos trabajos han demostrado que los pacientes coinfectados tienen cargas virales mayores que los monoinfectados .
+Se han descrito factores biológicos, sociales y conductuales relacionados con el incremento en la transmisión sexual de la infección por el VHC en HSH, especialmente en coinfectados por el VIH.
+En relación a los factores biológicos, no hay evidencias claras de que los pacientes VIH seropositivos sean más susceptibles a la infección por el VHC como consecuencia de la deficiencia del sistema inmune . En algunos estudios se ha postulado que, pacientes HSH-VIH positivos podrían tener mayor carga viral de VHC en semen que aquellos pacientes HSHVIH negativos, independientemente de la carga viral del VHC en plasma . Otro factor biológico implicado estaría relacionado con la inflamación gastrointestinal crónica asociada a pacientes VIH seropositivos, ya que podría debilitar la mucosa a ese nivel y favorecer la transmisión del VHC .
+Entre los factores conductuales y de comportamiento, el aumento del consumo de drogas recreativas (intravenosas o no) para mantener relaciones sexuales, término que se define como “CHEMSEX”, está contribuyendo al aumento de la transmisión sexual del VHC.
+Otro factor conductual favorecedor de la transmisibilidad del VHC serían las prácticas sexuales de riesgo, mucho más traumáticas entre los HSH, así como las relaciones sexuales desprotegidas, con múltiples parejas, el empleo de juguetes sexuales que pueden provocar laceración o lesión de la mucosa rectal y la presencia de otras infecciones de transmisión sexual, especialmente a nivel ano-genital.
+En relación con estos factores analizados, y con el objetivo de reducir la tasa de infección por el VIH en aquellos paciente con riesgo “sustancial”, el estudio llevado a cabo por AyerdiAguirrebengoa et al. , argumenta que los HSH y HTX seronegativos, con pareja positiva para el VIH, ITS bacteriana en los últimos 6 meses, múltiples parejas sexuales, no uso sistemático del preservativo y trabajadores del sexo, serían candidatos a profilaxis preexposición (PrEP) para el VIH, y así disminuir, en la medida de lo posible, la probabilidad de seroconversión al VIH. Esta medida, también estaría indicada en los usuarios de drogas inyectables y en los transexuales con prácticas de riesgo.
+La globalización y el uso de aplicaciones móviles para la búsqueda de contactos sexuales, son algunos de los factores sociales más importantes implicados en el incremento de la transmisión sexual del VHC. En nuestro estudio, la prevalencia de seroconvertores al VHC, según su región geográfica de procedencia, fue del 68% en españoles y del 34% en inmigrantes, la mayor parte de los cuales (hasta un 69%) procedían de Latinoamérica.
+En relación con lo expuesto previamente, en España, Berenguer et al. han analizado los cambios en la prevalencia y las características epidemiológicas de los pacientes coinfectados en los últimos años. Entre los factores relacionados se incluyen el aumento del uso de drogas intravenosas como mecanismo de transmisión del VIH, la emergencia de nuevos casos de infección por el VHC en HSH con prácticas sexuales de riesgo y la aparición de nuevos tratamientos más efectivos para tratar la infección por el VHC.
+Considerando lo expuesto previamente, sería necesario implementar intervenciones específicas dirigidas a prevenir la transmisión del VHC, así como otras ITS, en especial en los HSH-VIH positivos que presenten prácticas de riesgo para la infección por el VHC y por el VIH.

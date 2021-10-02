@@ -1,0 +1,189 @@
+NEOPLASIAS HEMATOLÓGICAS: INTERPRETACIÓN DE LOS HALLAZGOS PULMONARES EN LA TOMOGRAFÍA COMPUTARIZADA TORÁCICA
+
+
+- INTRODUCCIÓN
+
+Las neoplasias hematológicas (NH) se caracterizan por estar frecuentemente diseminadas en el momento del diagnóstico, con afectación de la médula ósea. Son especialmente sensibles a la quimioterapia o la radioterapia, por lo que los pacientes suelen recibir quimioterapia agresiva y, en determinados casos, trasplante de precursores hematopoyéticos (TPH). La propia enfermedad y sus tratamientos ocasionan pancitopenias prolongadas, predisponiendo a infecciones muy graves que constituyen una urgencia diagnóstica y terapéutica. Las complicaciones pulmonares no infecciosas secundarias al tratamiento también son frecuentes y determinantes del pronóstico. La patología tumoral pulmonar incluye la infiltración por la NH, la neoplasia pulmonar y el linfoma post-TPH. La tomografía computarizada (TC) torácica estrecha el diagnóstico diferencial de estas enfermedades. Se revisan sus indicaciones, la información clínica fundamental que debería recoger la solicitud radiológica y la interpretación de los hallazgos en función del contexto clínico.
+
+
+- INDICACIÓN DE TOMOGRAFÍA COMPUTARIZADA TORÁCICA
+
+La realización de una TC torácica helicoidal en pacientes con NH tiene dos objetivos: la detección precoz de lesiones no visibles en la radiografía de tórax que requieren un tratamiento urgente, y la mejor caracterización de hallazgos para acotar las posibilidades diagnósticas y terapéuticas. Se necesitan reconstrucciones con grosor de corte < 1,5 mm y algoritmo de alta resolución (TCAR), puesto que muchas de las complicaciones pulmonares se manifiestan como patrones intersticiales.
+El diagnóstico etiológico de un cuadro febril en pacientes con neutropenia y/o TPH requiere la búsqueda de microorganismos y marcadores infecciosos. La TCAR torácica tiene un papel fundamental, urgente cuando existen signos clínicos de gravedad, y precoz (<24 horas) en ausencia de respuesta a la antibioterapia en 72-96 horas porque el tratamiento de una posible infección fúngica invasiva (IFI) requiere un inicio temprano, determinante para el pronóstico. En pacientes clasificados clínicamente en riesgo alto de IFI, se administran empíricamente antifúngicos, mientras que en subgrupos de menor riesgo se puede esperar a tratar en caso de clínica muy probable o marcadores precoces específicos de infección positivos, lo que reduce el elevado coste y la toxicidad por estos fármacos. Los marcadores habitualmente empleados son el test del galactomanano sérico y la TCAR torácica realizados de forma precoz y seriada, . El galactomanano, componente de la membrana celular de Aspergillus, está cayendo en desuso como marcador por su pérdida de sensibilidad asociada a la profilaxis antifúngica. La TCAR todavía cobra más peso como prueba diagnóstica urgente que permite iniciar una terapia precoz si se visualizan lesiones pulmonares características de IFI. Además, puede plantear otras etiologías y guiar la obtención del lavado broncoalveolar (LBA) por broncoscopia, con lo que se acelera el diagnóstico de gérmenes no cubiertos por la terapia empírica inicial.
+En otros cuadros respiratorios la TCAR es necesaria para identificar y caracterizar complicaciones no infecciosas, recidiva y neoplasias secundarias, que pueden ser inapreciables en las pruebas radiográficas o presentar patrones semejantes.
+
+
+- INFORMACIÓN CLÍNICA CLAVE
+
+Cuando se estudia la TCAR de un paciente con NH se deben conocer la clínica y otros datos fundamentales sobre la enfermedad de base, el tratamiento y las complicaciones (tabla 1 ).
+Los pacientes con linfomas de Hodgkin (LH) y linfomas no hodgkinianos (LNH) reciben una poliquimioterapia menos intensa que aquellos con leucemias, con neutropenias más cortas, por lo que si se observan lesiones pulmonares debe considerarse la posibilidad de una afectación tumoral.
+En las autopsias de leucemias no es raro hallar una extensión neoplásica pulmonar, pero su manifestación radiológica es excepcional y la patología respiratoria está marcada principalmente por las infecciones. La leucemia mieloide aguda (LMA) merece especial mención, puesto que las manifestaciones pulmonares se presentan en todos los estadios de la enfermedad, y se observan, además de infecciones, más casos de hemorragia por trombocitopenia y toxicidad por quimioterapia.
+El mieloma múltiple (MM) cursa principalmente con infecciones bacterianas, debido al déficit inmunitario humoral y a la hipoventilación por afectación ósea. El edema pulmonar es muy frecuente y raramente se observan hallazgos de infiltración pulmonar por amiloide, células plasmáticas o depósito de cadenas ligeras.
+Los quimioterápicos no solo deprimen la función inmunitaria, sino que algunos son responsables de toxicidad pulmonar, sospechada por el patrón radiológico y su relación temporal con el tratamiento. Otros agentes terapéuticos empleados pueden ocasionar fallos respiratorios a menudo con expresión radiológica similar a un daño alveolar, edema o hemorragia.
+En tumores especialmente quimiosensibles (linfomas y MM), el TPH autólogo tiene como objetivo permitir la administración de altas dosis de quimioterapia con posterior rescate de la hematopoyesis gracias a la infusión de precursores hematopoyéticos obtenidos previamente del propio paciente. Esto evita el fallo medular irreversible y acorta el tiempo de neutropenia. Las complicaciones pulmonares serán fundamentalmente consecuencia de la quimioterapia intensiva, no del propio trasplante.
+El TPH alogénico se emplea principalmente en pacientes con leucemias agudas para restablecer la función hematopoyética e inmunitaria. Las células se obtienen a partir de un familiar con HLA (Human Leucocyte Antigen) idéntico o bien de alguien no emparentado con HLA compatible, y pueden proceder de médula ósea, sangre periférica o cordón umbilical. Antes del trasplante, el paciente recibe un acondicionamiento con altas dosis de quimioterapia, con o sin radioterapia de cuerpo total, para suprimir la médula ósea, destruir las células malignas y evitar el rechazo del huésped contra las células del injerto. Además, posteriormente se administra un fuerte tratamiento inmunosupresor para evitar el rechazo en sentido contrario, cuando reconstituida la función hematopoyética, las células del donante reconocen los tejidos del receptor como extraños y provocan la enfermedad del injerto contra el huésped (EICH). A pesar del mismo, algunos pacientes desarrollan EICH y requieren una terapia inmunosupresora más extendida. Todo esto explica que el receptor de TPH alogénico sufra un déficit inmunológico profundo y prolongado causante de mortalidad en aproximadamente el 10-35% de los pacientes.
+Según en qué momento de la historia se encuentre el paciente lo incluiremos en uno de estos grupos para enfocar el diagnóstico (Tabla 2, Tabla 3 ):A. Paciente con inmunodepresión moderada . No recibe quimioterapia activa ni inmunosupresores.a)Inicio de la enfermedad.b)Fin del tratamiento.c)Periodo tardío (>180 días post-TPH) sin EICH. B. Paciente con alto grado de inmunodepresión porque está recibiendo:a)Quimioterapia activa para tratar su enfermedad.b)Terapia inmunosupresora.•Periodo precoz preinjerto (7 días preinfusión, con quimioterapia de acondicionamiento - 30 días post-TPH; neutropenia).•Periodo precoz postinjerto (30-180 días post-TPH; alteración de la inmunidad celular y humoral). c)Terapia inmunosupresora prolongada por EICH crónica. Periodo tardío (>180 días post-TPH). 
+
+
+- HALLAZGOS RADIOLÓGICOS PULMONARES CLAVE
+
+-- NÓDULOS Y MASAS
+
+Véanse las Tabla 2, Tabla 3.
+
+
+--- INFECCIONES
+
+En el comienzo de la enfermedad, antes del tratamiento, los nódulos infecciosos son poco frecuentes. Normalmente son bacterianos o víricos y excepcionalmente, en el momento del diagnóstico de una LMA con citopenia grave o sobrecarga de hierro, pueden ser fúngicos. En pacientes muy inmunodeprimidos los nódulos pueden ser fúngicos, víricos o bacterianos. (fig. 1 )Figura 1
+Los hongos filamentosos son frecuentes en neutropenias profundas prolongadas (más de 2 semanas) y especialmente durante la quimioterapia de una LMA y en el periodo precoz post-TPH. En el 94% de las aspergilosis invasivas se observan nódulos habitualmente múltiples bilaterales y al menos uno > 1 cm. El halo de atenuación en vidrio deslustrado los diferencia de los nódulos bacterianos, , pero suele desaparecer en los primeros 5 días. Se sospecha mucormicosis antes que aspergilosis si se observan 10 nódulos o más, afectación sinusal, derrame pleural y/o el signo del halo invertido, especialmente si la terapia antifúngica no cubrió este hongo. La TCAR es útil, puesto que no hay un test serológico disponible para el diagnóstico de mucormicosis.
+Los nódulos víricos con frecuencia tienen bordes mal definidos y/o halo, pero se distinguen por su pequeño tamaño (< 1 cm) y ausencia de cavitación. Los nódulos bacterianos suelen tener bordes más definidos.
+Los nódulos centrolobulillares representan con frecuencia bronquiolitis infecciosas inespecíficas, especialmente si se acompañan de imágenes de árbol en brote; sin embargo, los nódulos centrolobulillares difusos simétricos bilaterales con predominio en campos superiores y atenuación en vidrio deslustrado, en ausencia de otros hallazgos infecciosos, deben orientar a bronquiolitis respiratoria por tabaco o neumonitis por hipersensibilidad secundaria al tratamiento.
+
+
+--- INFILTRACIÓN PULMONAR POR LA NEOPLASIA HEMATOLÓGICA
+
+En el LNH y el LH la infiltración se observa más frecuentemente en las recidivas, en aumento debido a la mayor supervivencia de los pacientes con las terapias actuales. Suele manifestarse como nódulos pulmonares múltiples < 1 cm de bordes irregulares, consolidaciones y/o masas, lo cual es más frecuente en el LNH y conlleva peor pronóstico. El linfoma pulmonar primario se presenta en pacientes de 55-60 años, suele ser no hodgkiniano tipo B MALT (Mucosa-Associated Lymphoid Tissue) y se manifiesta como nódulo o consolidación peribroncovascular con broncograma. Estas lesiones pueden ser únicas o múltiples bilaterales, . Se caracterizan por la ausencia de adenopatías mediastínicas en el momento del diagnóstico y hasta 3 meses después, y con frecuencia son de lento crecimiento. Se han descrito también presentaciones idénticas a la neumonía intersticial linfocítica. (fig. 2 )Figura 2
+Las leucemias mieloides y los síndromes mielodisplásicos pueden formar un tumor blástico llamado sarcoma granulocítico, extremadamente raro en el pulmón, donde puede presentarse como nódulo, masa o consolidación.
+En casos excepcionales, el MM puede presentar nódulos y/o masas, asociadas a adenopatías que simulan un linfoma o un cáncer pulmonar, con mal pronóstico.
+La granulomatosis linfomatoide es un proceso linfoproliferativo extranodal asociado al virus de Epstein-Barr (VEB) que afecta principalmente al pulmón y el sistema nervioso central. Se presenta en más del 80% de los casos como nódulos pulmonares múltiples, variables en número y tamaño, de predominio basal. Los nódulos pueden progresar rápidamente, coalescer y cavitar, así como desaparecer espontáneamente, migrar o evolucionar formando el signo del halo invertido, .
+
+
+--- SEGUNDAS NEOPLASIAS
+
+El cáncer de pulmón se ha incrementado en supervivientes de LH, LNH y LLC, y su etiopatogenia es objeto de estudio. Su aparición varía desde uno hasta varios años después del diagnóstico de NH.
+Los pacientes receptores de TPH alogénico pueden desarrollar un síndrome linfoproliferativo postrasplante (SLPT), normalmente en los primeros 6 meses, y hasta 1 año, con un segundo pico a los 4-5 años. En el SLPT y el linfoma asociado a VIH (la mayoría atribuidos al VEB) los nódulos pulmonares suelen ser bilaterales, bien definidos, y pueden asociar halo. Es importante no confundirlos con una IFI teniendo en cuenta el contexto clínico y la evolución de las lesiones.
+
+
+-- CAVITACIONES
+
+Los nódulos de una IFI cavitan característicamente a las 2-3 semanas del inicio del cuadro, acompañando a la recuperación de la neutropenia (neutrófilos > 1000), formando la imagen de aire creciente (semiluna). Previamente los nódulos pueden mostrar baja atenuación central (fig. 3 ).Figura 3
+También pueden cavitar las consolidaciones fúngicas y bacterianas (especialmente estafilocócica o tuberculosa), y con menos frecuencia los nódulos y consolidaciones por linfoma.
+Se ha descrito la aparición de nódulos cavitados correspondientes a histiocitosis de células de Langerhäns en pacientes con LH y más raramente en leucemias; se desconoce si existe una verdadera asociación, pero en cualquier caso el tabaco participa en la etiopatogenia.
+
+
+-- ÁREAS DE ATENUACIÓN EN VIDRIO DESLUSTRADO. CONSOLIDACIONES (<XREF RID="FIG0020" REF-TYPE="FIG">FIG. 4</XREF>) VÉANSE LAS <XREF RID="TBL0010" REF-TYPE="TABLE">TABLA 2</XREF>, <XREF RID="TBL0015" REF-TYPE="TABLE">TABLA 3</XREF
+
+--- INFECCIONES
+
+En el comienzo de la enfermedad y en el curso del MM pueden verse bronconeumonías bacterianas y víricas similares al resto de la población, mientras que en pacientes con inmunodepresión grave están producidas por gérmenes diferentes (v. Tabla 2, Tabla 3). Figura 4
+Las consolidaciones segmentarias o lobares con mayor frecuencia son bacterianas. Se sospecha una IFI cuando tienen base pleural y halo, , pero el signo diagnóstico más sensible (100%) es la oclusión vascular en el seno de las lesiones demostrada con angio-TC pulmonar.
+Las opacidades tipo vidrio deslustrado parcheadas bilaterales, de tamaño muy variable, son más características de virus y pueden acompañarse de nódulos pequeños y consolidaciones, , , . En pacientes con TPH, el patrón de empedrado es fundamentalmente de origen vírico, y menos frecuentemente de causa no infecciosa.
+La infección por Pneumocystis jirovecii ocasiona áreas de atenuación en vidrio deslustrado perihiliares bilaterales en campos superiores, normalmente a partir del día 100 post-TPH, momento en el que suele retirarse la profilaxis.
+La colonización respiratoria por Candida es frecuente en estos pacientes, pero la neumonía es excepcional salvo en situación de candidiasis diseminada. Las levaduras emergentes «no-Candida» sí originan consolidaciones y nódulos pulmonares infecciosos.
+
+
+--- COMPLICACIONES NO INFECCIOSAS DE LA ENFERMEDAD
+
+El edema pulmonar es frecuente en el curso del MM (por TEP, amiloidosis cardiaca y/o renal) y en la LMA (principalmente consecuencia del tratamiento). En el comienzo y el curso de la LMA se debe diferenciar de la hemorragia alveolar difusa (HAD) debida a trombocitopenia y/o infección.
+La infiltración linfoide pulmonar secundaria en las leucemias es rara. Puede verse como áreas de atenuación en vidrio deslustrado, o consolidaciones semejantes a una neumonía organizada, , con adenopatías. En pacientes con LLC de años de evolución y adenopatías, la aparición de consolidaciones peribroncovasculares, incluso ocupaciones endobronquiales, y empeoramiento clínico, harán sospechar una transformación a linfoma de alto grado.
+La leucostasis (cúmulo de blastos en la microvascularización pulmonar) es excepcional y solo se sospechará en el diagnóstico o la recidiva de una LMA, por un aumento rápido del porcentaje de leucocitos en sangre; se caracteriza por un fallo respiratorio y neurológico que cursa con consolidaciones pulmonares en parte debidas a daño alveolar y hemorragia por plaquetopenia, . En el MM también se han descrito consolidaciones por infiltración pulmonar de células plasmáticas que ocasionan un distrés respiratorio de mal pronóstico, .
+
+
+--- COMPLICACIONES NO INFECCIOSAS SECUNDARIAS AL TRATAMIENTO
+
+En las 6 horas postransfusión de productos sanguíneos, la aparición brusca de consolidaciones que simulan un edema y acompañan a un fallo respiratorio reflejan normalmente un daño pulmonar agudo (DPA) denominado TRALI (Transfussion-Related Alveolar Lung Injury); conlleva elevada mortalidad.
+Cualquier quimioterapia puede ocasionar toxicidad pulmonar, aunque los patrones más habituales son: neumonía organizada (NO), neumonía intersticial no específica (NINE), neumonitis por hipersensibilidad, neumonía eosinófila y daño alveolar difuso. Entre los fármacos más frecuentes figuran la carmustina (empleada en linfomas y MM), que suele dar lugar a un patrón de NINE; la citarabina (administrada a altas dosis para el tratamiento de la LMA), que puede provocar un edema pulmonar no cardiogénico y la bleomicina (tratamiento de linfomas), causante de daño alveolar difuso y NO.
+El rituximab es un anticuerpo monoclonal anti-CD20 empleado para el tratamiento de síndromes linfoproliferativos B que se ha asociado a enfermedad pulmonar por mecanismo no esclarecido tras una media de cuatro ciclos y con un tiempo medio de aparición de 4 semanas desde la última infusión. Las áreas de vidrio deslustrado o consolidaciones pulmonares difusas bilaterales se instauran en semanas o meses, y menos frecuentemente en horas o días, y corresponden histológicamente a infiltrados inflamatorios y linfocitarios, entre otros. Casi todos presentan hipoxemia, con evolución letal en el 18%.
+El factor de estimulación de colonias de granulocitos (G-CSF) empleado para recuperación de la neutropenia puede inducir de forma rara un DPA en los primeros días tras tratamiento, con imágenes similares a un edema o hemorragia alveolar.
+El ácido transretinoico (All-Transretinoic Acid o ATRA) y el trióxido arsénico, empleados en el tratamiento de la leucemia aguda promielocítica, pueden provocar (20%) un «síndrome de diferenciación» consistente en un cuadro de insuficiencia respiratoria en los 2-47 días posteriores, probablemente debido a liberación de citocinas. Se observa derrame pleural, áreas de vidrio deslustrado y engrosamiento de paredes bronquiales por edema y hemorragia.
+El periodo precoz preinjerto post-TPH puede complicarse con:
+En el periodo tardío post-TPH las áreas de reticulación y vidrio deslustrado peribroncovasculares, y en ocasiones patrón de empedrado, pueden representar una neumonía intersticial no clasificable, asociada al rechazo. Histológicamente corresponde a una infiltración linfoplasmocitaria bronquioloalveolar, que va extendiéndose a regiones periféricas y evoluciona a fibrosis con bronquiectasias de tracción y panal.
+La NO puede ser secundaria a infección, toxicidad por drogas, radioterapia o rechazo; las consolidaciones peribroncovasculares y periféricas, las perilobulares y el signo del halo inverso son hallazgos característicos en el contexto clínico apropiado. En situación de neutropenia el halo invertido debe hacer considerar primero una mucormicosis, que se diferencia de la NO por un grosor del anillo > 1 cm y reticulación interna .
+La neumonitis aguda por radiación puede ocurrir 3-6 semanas después de radioterapia de linfoma mediastínico y ocasionar un cuadro clínico y radiológico similar a una neumonía. Se localiza en el área irradiada con marcada delimitación del parénquima sano; evoluciona a fibrosis paramediastínica.
+El rechazo pulmonar agudo del TPH y la proteinosis alveolar pulmonar, por infiltración leucémica o tardíamente secundaria al tratamiento, son extremadamente raros, .
+
+
+-- ÁRBOL EN BROTE
+
+Estas imágenes representan bronquiolos rellenos de moco, líquido o pus; normalmente corresponden a una bronquiolitis infecciosa que puede ser producida por múltiples gérmenes.
+
+
+-- ENGROSAMIENTO DE PAREDES BRONQUIALES
+
+Puede deberse a infección respiratoria inespecífica, tabaquismo, bronquiolitis obliterante, infiltración linfoide u otra broncopatía.
+
+
+-- ENGROSAMIENTO DEL INTERSTICIO PERILINFÁTICO
+
+La retención de líquido y la infiltración inflamatoria o tumoral de distribución perilinfática se traducen en un engrosamiento de los ejes broncovasculares, los septos interlobulillares y el intersticio subpleural.
+El engrosamiento liso del intersticio puede corresponder a un edema pulmonar intersticial y a un síndrome del injerto en el periodo precoz postinjerto. En los 2-6 meses siguientes al TPH puede representar una complicación rara, la enfermedad venoclusiva pulmonar, causante de hipertensión pulmonar con congestión pulmonar en ausencia de patología cardiaca izquierda.
+La infiltración pulmonar tumoral linfática secundaria se puede manifestar como un engrosamiento liso o nodular del intersticio perilinfático, , y formar consolidaciones peribronquiales (fig. 2A). En la mayoría de los casos, la diseminación es retrógrada, a partir de la afectación mediastínica e hiliar, y puede llegar a obstruir la vía aérea, especialmente en la LLC.
+En el MM, la amiloidosis pulmonar puede manifestarse radiológicamente como un engrosamiento intersticial septal.
+
+
+-- LESIONES BRONQUIALES OBSTRUCTIVAS
+
+Aunque la causa más frecuente es el carcinoma pulmonar, no hay que olvidar que constituyen una rara forma de presentación de LH y LNH. También en el curso de la LLC puede verse crecimiento linfoide en la luz o la pared bronquial formando masas endoluminales obstructivas y se han publicado casos de plasmocitoma extraóseo como masa endoluminal.
+
+
+-- ÁREAS DE ATRAPAMIENTO AÉREO (<XREF RID="FIG0025" REF-TYPE="FIG">FIG. 5</XREF
+
+Es un hallazgo característico de la bronquiolitis obliterante (BO), la complicación más frecuente (2-8%) y relevante en los 6-12 meses post-TPH. Se considera una EICH crónica definida por criterios funcionales de obstrucción ventilatoria en ausencia de infección respiratoria activa y confirmada con biopsia transbronquial y/o quirúrgica. El «síndrome de BO» puede diagnosticarse sin histología si hay atrapamiento aéreo y/o bronquiectasias en TCAR y EICH en al menos otro órgano, . Las imágenes en espiración forzada muestran atrapamiento aéreo en el 44-64% de los casos; por otro lado, a pesar de ser el hallazgo con mayor sensibilidad diagnóstica, es poco útil para detectar estadios preclínicos y tempranos. Las bronquiectasias aparecen en fases más avanzadas y su extensión se ha correlacionado con el volumen espiratorio máximo en un segundo. La TCAR es además muy útil para descartar infección o infiltración tumoral de la vía aérea, que pueden alterar las pruebas respiratorias. Esta enfermedad provoca un empeoramiento funcional lento, especialmente si no se detecta de forma precoz. Su tratamiento con corticoides e inmunosupresores ocasiona complicaciones infecciosas que serán la principal causa de muerte. Figura 5
+
+
+-- FIBROSIS PULMONAR
+
+Puede ser secundaria a distrés, toxicidad, infección o radioterapia (fig. 6 ). En el periodo tardío tras TPH puede corresponder a una neumonía intersticial no clasificable o a una fibroelastosis pleuroparenquimatosa, probablemente consecuencia de quimioterapia, radioterapia y EICH.Figura 6
+Los antecedentes, la distribución y la evolución de los hallazgos orientarán al diagnóstico etiológico.
+
+
+-- DILATACIONES BRONQUIALES
+
+Pueden verse de forma transitoria en el seno de consolidaciones infecciosas y por neumonía organizada. Las dilataciones irreversibles (bronquiectasias) en áreas de atrapamiento aéreo son un hallazgo característico de la bronquiolitis obliterante a diferencia de las observadas en zonas de fibrosis, por tracción.
+
+
+-- ENFISEMA PULMONAR INTERSTICIAL: SÍNDROME DE FUGA AÉREA (<XREF RID="FIG0025" REF-TYPE="FIG">FIG. 5</XREF>F
+
+Es una típica complicación de la BO post-TPH avanzada y marcador de mal pronóstico. El aumento de la presión alveolar lleva a su rotura y a la salida del aire que se dispone rodeando los ejes broncovasculares por disección retrógrada; puede alcanzar el mediastino, el tejido subcutáneo y la cavidad pleural. El tratamiento suele ser conservador salvo si el neumotórax requiere drenaje, .
+
+
+-- NEUMOTÓRAX ESPONTÁNEO
+
+La infiltración pulmonar, la radioterapia y la infección se postulan como causantes de una mayor incidencia de neumotórax en la enfermedad de Hodgkin . En ausencia de radioterapia o infección se debe considerar la posibilidad de infiltración pleuropulmonar descrita en linfomas y MM, .
+En el periodo tardío post-TPH hay que pensar en el síndrome de fuga aérea por BO o en la rotura de vesículas apicales por una fibroelastosis pleuroparenquimatosa.
+
+
+-- QUISTES PULMONARES
+
+Los quistes pequeños en campos superiores pueden corresponder a neumatoceles secundarios a la infección por Pneumocystis jirovecii.
+Los quistes bilaterales, aislados o asociados a nódulos y adenopatías deben plantear la posibilidad de una enfermedad pulmonar por depósito de cadenas ligeras en pacientes con MM o macroglobulinemia y patrón funcional obstructivo (fig. 7 ).Figura 7
+
+
+- SEGUIMIENTO DE LAS LESIONES PULMONARES
+
+En pacientes con fiebre y hallazgos de infección activa en TCAR se recomienda repetir este estudio hasta observar resolución de los mismos:
+En caso de detectar nódulos sin clínica infecciosa se debe comparar con imágenes previas para averiguar si se trata de restos de la infección que ocurrió durante periodos de inmunosupresión. Los nódulos indeterminados pueden seguirse según las recomendaciones de la sociedad Fleischner, mientras que la PAAF o la biopsia deben plantearse en lesiones en las que se sospecha malignidad por sus características, por antecedente de linfoma y/o TPH alogénico, o por no evolucionar de la forma esperada con el tratamiento (fig. 9 ). Preferentemente, la muestra se obtendrá por acceso percutáneo (guiado por TC o ecografía) o transbronquial, y en último caso se planteará la cirugía o preferiblemente la videotoracoscopia si se dispone de esta técnica.Figura 9
+La patología pulmonar difusa de etiología no aclarada suele acabar requiriendo biopsia pulmonar quirúrgica o videotoracoscópica, por su mayor rentabilidad diagnóstica.
+La 18-FDG PET-TC no solo es útil en la estratificación y el seguimiento del linfoma metabólicamente activo, sino que una captación patológica en ausencia de hallazgos pulmonares en la TCAR puede hacer sospechar de forma precoz toxicidad por drogas, o infiltración leucémica, y puede ser útil para diferenciar cicatrices de lesiones activas (toxicas, infecciosas o tumorales).
+
+
+- CONCLUSIÓN
+
+En pacientes con NH la TCAR torácica acota el diagnóstico diferencial de las complicaciones pulmonares infecciosas y no infecciosas a partir de la integración de los hallazgos de imagen y los datos clínicos. Debe realizarse urgentemente en cuadros agudos graves y precozmente si se sospecha IFI. Permite valorar respuesta al tratamiento, detectar malignidad y optimizar la obtención del LBA y la biopsia pulmonar.
+
+
+- AUTORÍA
+
+1.Responsable de la integridad del estudio: PCB.2.Concepción del estudio: PCB.3.Diseño del estudio: PCB.4.Obtención de los datos: -5.Análisis e interpretación de los datos: -6.Tratamiento estadístico: -7.Búsqueda bibliográfica: PCB, JCP, JSC, MSL, LCT.8.Redacción del trabajo: PCB, JCP.9.Revisión crítica del manuscrito con aportaciones intelectualmente relevantes: PCB, JCP, JSC, MSL, LCT.10.Aprobación de la versión final: PCB, JCP, JSC, MSL, LCT.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.

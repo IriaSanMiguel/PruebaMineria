@@ -1,0 +1,119 @@
+EFECTIVIDAD DE LAS INTERVENCIONES BASADAS EN TELEMEDICINA SOBRE RESULTADOS EN SALUD EN PACIENTES CON MULTIMORBILIDAD EN ATENCIÓN PRIMARIA: REVISIÓN SISTEMÁTICA
+
+
+- INTRODUCCIÓN
+
+El mundo experimenta desde hace tiempo un envejecimiento progresivo de la población, especialmente en los países desarrollados. Las previsiones demográficas indican que España será uno de los países más envejecidos del planeta, estimándose para el año 2033 que las personas de 65 años o más supondrán el 25,2% de la población total.
+En este contexto se prevé el incremento del número de personas con más de una enfermedad crónica, que conlleve una mayor utilización de recursos sanitarios, hospitalización e institucionalización, un incremento de la prevalencia de discapacidad y dependencia, de la polifarmacia e interacciones farmacológicas, una deficiente coordinación de los cuidados y de la comunicación interprofesionales, etc.. En gran medida esta situación se debe a que los modelos de cuidados actuales están orientados a patologías específicas y no incorporan evidencia suficiente, para la toma de decisiones, en el caso de la presencia de múltiples enfermedades crónicas.
+Ante esta situación, y la urgencia de hacer sostenibles los sistemas sanitarios, surge la necesidad de realizar una serie de innovaciones en lo referente al manejo de las personas con enfermedades crónicas en general, y de las personas con multimorbilidad en particular. La telemedicina se postula como la herramienta tecnológica que permitiría potenciar la autogestión del paciente en el cuidado, manejo y control de su propia enfermedad, el cumplimiento terapéutico, la detección y actuación precoz ante descompensaciones de sus patologías.
+En la actualidad, existe un gran interés en conocer si estas nuevas tecnologías son o no coste-efectivas. Si bien la evidencia sobre la efectividad de la telemedicina se ha generado, en su mayoría, en pacientes con enfermedades crónicas concretas, como la insuficiencia cardiaca, la enfermedad pulmonar obstructiva crónica, la diabetes o la ansiedad, sus resultados muestran una evidencia variable para medidas de proceso intermedias y finales y se objetiva un alto liderazgo del ámbito hospitalario, , , , . Por otra parte, la aplicabilidad de la mayoría de las intervenciones publicadas está condicionada por las diferencias de los sistemas sanitarios en cuanto a universalidad, accesibilidad, cobertura y carteras de servicios.
+El objetivo principal de este trabajo fue la revisión bibliográfica sistemática cualitativa de las evidencias existentes sobre la efectividad de las intervenciones basadas en telemedicina en pacientes con multimorbilidad en atención primaria (AP) en la mejora de los resultados en salud como la mortalidad, los ingresos hospitalarios, consultas a urgencias, la calidad de vida relacionada con la salud (CVRS) y la satisfacción.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Revisión sistemática de la literatura siguiendo las recomendaciones de la declaración Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA).
+Se realizó una búsqueda de artículos publicados en lengua inglesa o española hasta abril del 2018.
+Los criterios de selección de los artículos fueron:
+
+
+--- SUJETOS
+
+Adultos en situación de multimorbilidad, definida por la presencia de 2 o más enfermedades crónicas o un Índice de Charlson mayor o igual a 3.
+
+
+--- INTERVENCIÓN
+
+Intervenciones basadas en telemedicina dirigidas al paciente frente a los cuidados habituales. Se excluyeron los estudios en los que el paciente no estuviera físicamente presente en alguno de los puntos de atención o que la intervención fuera dirigida exclusivamente a los cuidadores.
+
+
+--- DISEÑO DEL ESTUDIO
+
+Guías de práctica clínica, revisiones sistemáticas o metaanálisis, ensayos clínicos controlados aleatorizados (ECCA) o estudios cuasiexperimentales.
+
+
+--- ÁMBITO DE ESTUDIO
+
+AP de salud, en el reclutamiento de sujetos, el trabajo de campo, la monitorización de biomedidas y la evaluación de resultados, de forma independiente al perfil profesional que desarrollara la intervención.
+
+
+--- VARIABLE RESULTADO
+
+Mortalidad; número de ingresos hospitalarios; número de consultas a urgencias de AP u hospitalarias; CVRS mediante cuestionario validado; satisfacción con la intervención mediante cuestionario validado.
+
+
+-- FUENTES DE DATOS Y ESTRATEGIA DE BÚSQUEDA
+
+Se utilizaron las siguientes fuentes de información: Red Internacional de Agencias de Evaluación (INAHTA), Guía Salud, The National Institute for Health and Care Excellence (NICE), Cochrane Library, Medline/PubMed y EMBASE. También se realizó búsqueda manual a partir de las referencias de los estudios encontrados.
+Según la fuente de datos se utilizaron los «Descriptores en Ciencias de la Salud», Medical Subject Headings (MeSH) de Medline y EMTREE de EMBASE .
+
+
+-- EVALUACIÓN CRÍTICA, EXTRACCIÓN Y ANÁLISIS DE LOS ESTUDIOS
+
+Los criterios de selección de los estudios fueron valorados en el resumen o en el texto completo, si el resumen ofrecía duda o careciera de la información solicitada.
+Los ECCA que cumplieron los criterios de inclusión fueron valorados críticamente según recomendaciones de la red CASPe y escala de Jadad. Por la naturaleza de la intervención no se consideró el ítem del enmascaramiento a doble ciego.
+El análisis de la información obtenida se sintetizó de forma cualitativa. Se tabularon por las siguientes variables: autores, año de publicación, país, ámbito de estudio, diseño, tamaño muestral, característica de los sujetos, tipo de intervención y actuaciones en el grupo control, periodicidad de las mismas, tiempo de seguimiento, profesionales implicados y variables de resultado (expresadas en valores absolutos [n]- y porcentajes, o media y desviación estándar [DE] según naturaleza de la mediciones) y parámetros estimadores del efecto con el intervalo de confianza al 95%: reducción absoluta del riesgo (RAR), reducción riesgo relativo (RRR) y el número necesario a tratar (NNT).
+La evaluación crítica, la extracción de la información y el análisis fueron realizados por 2 revisores de forma independiente con supervisión de un tercero para resolver discrepancias.
+
+
+-- SÍNTESIS DE DATOS
+
+Se identificaron un total de 226 publicaciones. Tras eliminar los artículos duplicados, se examinaron títulos y resúmenes de 218 artículos. Fueron incluidos 35 artículos para su lectura a texto completo, siendo finalmente 5 los que cumplían los criterios de selección (Esquema del estudio).
+
+
+- RESULTADOS
+
+Se incluyeron 5 artículos: Takashashi et al., Pecina et al. y Upatising et al. (que conforman el «Tele-ERA Study»), González-Ortega et al. y Orozco-Beltrán et al. (estudio ValCrònic) .
+En el «Tele-ERA Study», , hubo enmascaramiento en el análisis de datos.
+En los 3 estudios incluidos, la muestra fue calculada por la variable de resultado final «consultar a los servicios de urgencias hospitalarias o de AP».
+Los 2 ECCA incluidos declararon que el análisis estadístico fue realizado por protocolo. González-Ortega et al. declararon que hubo diferencias entre casos válidos y perdidos en las características basales de los pacientes.
+La variable satisfacción no fue valorada en ninguno de los 5 artículos incluidos. No se incluyó un artículo del estudio ValCrònic sobre satisfacción por tener un diseño descriptivo transversal.
+
+
+-- MORTALIDAD
+
+El «Tele-ERA Study», , mostró un incremento de la mortalidad al año en el grupo intervención .
+
+
+-- INGRESOS HOSPITALARIOS Y CONSULTAS A URGENCIAS (<XREF RID="TBL0030" REF-TYPE="TABLE">TABLA 6</XREF
+
+Takashashi et al. observaron que el porcentaje de pacientes con hospitalización y consultas a urgencias hospitalarias, como variable combinada, fue del 63,7% en el grupo intervención frente al 57,3% del grupo control, suponiendo un incremento del 6,4% (p = 0,345).
+González-Ortega et al. no observaron diferencias entre grupos tanto en número de consultas a urgencias como en ingresos.
+El estudio ValCrònic mostró una disminución significativa al año en el número de consultas de urgencias de AP u hospitalaria y los ingresos hospitalarios.
+
+
+-- CALIDAD DE VIDA RELACIONADA CON LA SALUD
+
+Los 2 estudios que midieron esta variable, utilizaron el cuestionario Short Form Health Questionnaire (SF-12).
+En el «Tele-ERA Study» se administró el SF-12 al inicio y al final del estudio. La tasa de respuesta al año fue del 80,97%, sin diferencias en las características basales de los sujetos entre los que respondieron y no. Las puntuaciones en las dimensiones física o mental no mostraron diferencias significativas entre grupos al año.
+González-Ortega et al. observaron una mejoría en el componente físico en el grupo intervención y un empeoramiento en el grupo control; aunque los cambios intragrupos no fueron significativos, sí lo fue la diferencia de media de la puntuación intergrupos (−4,71; IC 95% −9,03 a −0,41; p = 0,03).
+
+
+- DISCUSIÓN
+
+Las intervenciones basadas en telemedicina se han postulado como herramientas que pueden contribuir a la mejora de la salud y la atención sanitaria prestada a los pacientes con multimorbilidad en AP. Los estudios encontrados en la presente revisión muestran resultados poco concluyentes y poco favorables a las intervenciones basadas en telemedicina.
+Con relación al impacto de la telemedicina en la mortalidad, el único resultado encontrado fue un incremento significativo de las muertes en el grupo de intervención, , . Los autores justifican los resultados por una falta de eficacia de la intervención, un escaso poder estadístico de la muestra, un periodo de seguimiento reducido, un sesgo de selección de la población a estudio a favor de pacientes más graves, y un posible efecto Hawthorne que suele favorecer al grupo intervención, aunque en este caso podría conllevar efectos negativos por el incremento de la interacción entre los pacientes y el sistema sanitario, con un potencial sobrediagnóstico y sobretratamiento.
+Los resultados con relación a los ingresos hospitalarios y las consultas a urgencias, de cualquier ámbito, muestran resultados contradictorios. Los 2 estudios con diseño ECCA, , , no encontraron una disminución en el número de consultas urgentes y los ingresos hospitalarios. Estos resultados no eran los esperados y fueron justificados por los autores por la existencia de sesgos de selección de la muestra y de información, tamaño de la muestra pequeño para detectar diferencias en las variables analizadas y la existencia de un modelo de AP consolidado, accesible, universal y gratuito. Otro factor que podría influir en los resultados era el hecho de que cuando se detectaban signos compatibles con descompensación de las patologías crónicas de base, no estaban implementados recursos adicionales sobre la práctica habitual para minimizar las consultas a su médico de familia o a los servicios de urgencias.
+En cambio, el estudio ValCrònic mostró una reducción de los ingresos hospitalarios y de las consultas a urgencias. La población a estudio fue definida por el alto riesgo de rehospitalización mediante escala validada y complementado con el juicio de su médico de familia referente; es posible que la definición de estos criterios de selección contribuyan a que los pacientes del grupo intervención estuvieran más predispuestos a usar los dispositivos de telemedicina. No obstante, la ausencia de grupo control y de enmascaramiento aconsejan interpretar con cautela dichos resultados.
+Aunque es difícil establecer una conclusión firme del efecto de la telemedicina sobre la CVRS, debido a la heterogeneidad de las intervenciones y la población a estudio, nuestra revisión no apoya la hipótesis de que la telemedicina mejore la CVRS de los pacientes, por una mayor sensación de control y el reconocimiento precoz de los signos de descompensación. Al contrario, Pecina et al. observaron que los pacientes ancianos con multimorbilidad presentaban un empeoramiento de la autopercepción del componente físico de la calidad de vida. Esto contrasta con los resultados de González-Ortega et al., donde el grupo de intervención sí mostró una mejoría significativa del componente físico del SF-12, pero clínicamente poco relevante. Cabría la posibilidad de considerar que fomentar la automonitorización puede llevar a una percepción más negativa de la salud y el bienestar psíquico.
+Las intervenciones en telemedicina de los estudios encontrados se centraban fundamentalmente en la monitorización periódica de biomedidas y la comunicación de las mismas a los profesionales sanitarios, directamente desde el dispositivo y/o a través de consulta telefónica o videoconferencia. Aunque en todas hay un objetivo común, que es activar al paciente para reconocer de forma precoz los signos de descompensación, solo el estudio ValCrònic incorporaba en la tablet contenido de tipo educativo y de apoyo al autocuidado del paciente. El ensayo de González-Ortega et al. también incluía consejos telefónicos sobre objetivo de control, ejercicio, dieta saludable y apoyo al cuidador impartidos por un médico de familia de forma quincenal.
+Las características del ámbito de estudio podrían explicar la falta de impacto de las intervenciones de telemedicina evaluadas. En los 3 estudios se declaró la existencia de una buena accesibilidad de la población a los servicios sanitarios, tanto en los realizados en España como en EE. UU.. En una revisión sistemática sobre el asesoramiento telefónico en pacientes crónicos se observó que se puede mejorar la autoeficacia, la percepción del estado de salud, pero esto fue más manifiesto en pacientes vulnerables o con dificultades para el acceso a los servicios sanitarios.
+Las principales limitaciones de los estudios encontrados fueron metodológicas por la ausencia de enmascaramiento, que puede derivar en un sesgo de información y que los pacientes modifiquen su comportamiento o sus respuestas por ser observados. Por otra parte, los resultados en relación con la mortalidad y calidad de vida parecen disponer de escaso poder estadístico pues la muestra fue calculada para detectar diferencias en las consultas a urgencias o los ingresos hospitalarios.
+Los 3 estudios seleccionados responden a la necesidad que motivó el planteamiento de este trabajo de localizar artículos que evaluaran la aplicación de la telemedicina en un contexto más realista y cercano a la práctica asistencial diaria, en términos de población (pacientes complejos con multimorbilidad) y de ámbito (AP). Lamentablemente, el número de estudios realizados en estas condiciones es muy reducido, ya que la gran mayoría de los artículos fueron excluidos por no cumplir estos criterios.
+Los estudios incluidos no consideraron la multimorbilidad como el criterio de inclusión de los sujetos; la selección de los mismos se realizó principalmente en base a escalas de valoración del riesgo de descompensación y/o criterios de crónico complejo, pero de forma casi ineludible supuso la presencia de multimorbilidad. Los pacientes presentaron características similares en cuanto a las patologías existentes, sin embargo, se observaron diferencias notables en el estudio ValCrònic donde la edad media era menor y con menor porcentaje de mujeres, frente al resto de los estudios.
+Otra limitación fue la no inclusión en la búsqueda de estudios sin indexar, actas de congresos, tesis doctorales o estudios publicados en un idioma diferente al inglés o español. Además, nos planteamos si el descriptor elegido para la búsqueda del tipo de intervención «telemedicine» fuera demasiado genérico, aún sabiendo que incluye «remote consultation» o «e-health» entre otros.
+Debido a la escasez, la relativa heterogeneidad de los estudios y el gran número de resultados no significativos y contradictorios, no es posible afirmar que las intervenciones basadas en telemedicina en pacientes con multimorbilidad en AP mejoren la mortalidad, las consultas a urgencias, los ingresos hospitalarios, la CVRS y la satisfacción respecto a los cuidados habituales. La realidad está todavía muy lejos de lo que la telemedicina puede aportar y existen muchas barreras para su generalización.
+A la telemedicina se le reconocen numerosas ventajas en distintos ámbitos, más destacada como soporte a pacientes con enfermedades concretas, pero es en AP donde la telemedicina adquiere el principal sentido para el que se creó: favorecer la equidad promoviendo la accesibilidad de todos sea cual sea su lugar de residencia, recursos o realidad, . A la vez, facilitará el trabajo de los profesionales en el campo asistencial, educación y la prevención sanitaria.
+Sería importante definir el perfil de paciente que más se podría beneficiar; estandarizar las intervenciones para facilitar la comparación entre estudios; protocolizar el manejo de la descompensación en el domicilio; incluir en el diseño de las intervenciones la perspectiva del paciente en cuanto a aceptabilidad, comprensión de la información, confianza en el sistema, capacidad de uso de la aplicación, satisfacción y accesibilidad, . Sería necesario incluir análisis de costes para facilitar a los gestores la decisión o no de su implementación en AP.Lo conocido sobre el tema•El envejecimiento de la población con el incremento de la prevalencia de las enfermedades crónicas, así como de la multimorbilidad, supone un importante reto para los sistemas sanitarios.•En este contexto, la telemedicina se postula como una herramienta para el abordaje de la cronicidad.•Las evidencias disponibles de intervenciones basadas en telemedicina proceden principalmente del ámbito hospitalario y se centran en pacientes con una enfermedad índice.Qué aporta este estudio•La efectividad de la telemedicina en pacientes con multimorbilidad en atención primaria muestra resultados poco concluyentes en relación con resultados en salud, mortalidad, ingresos hospitalarios, consultas a urgencias, calidad de vida relacionada con la salud y satisfacción.•El escaso número de referencias que cumplieran los criterios de selección, la heterogeneidad en las intervenciones y limitaciones metodológicas de los estudios podrían explicar dichos resultados.•Parece necesario incluir la perspectiva del paciente en el diseño de intervenciones basadas en telemedicina e incorporar el análisis de costes.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERÉS
+
+Ninguno.

@@ -1,0 +1,5 @@
+Análisis de ambas encuestas e información meteorológica de la Comisión Nacional del Agua.
+Entre 2012 y 2018, la prevalencia de IRA disminuyó en hogares de medianas y mayores CE. Algunas condiciones de vivienda y meteorológicas se asocian con IRA y EDA.
+La prevalencia global estimada de IRA fue de 45.1% en 2012 vs. 32.9% en 2018. La disminución fue significativa en hogares de medianas y mayores capacidades económicas (CE). No se observaron cambios significativos para las EDA. En hogares con menores CE, las IRA se asociaron con material del techo y temperatura y las EDA con privación de agua entubada.
+Estimar y comparar las prevalencias de infec- ciones respiratorias agudas (IRA) y enfermedades diarreicas agudas (EDA) en menores de cinco años, residentes en localidades con menos de 100 000 habitantes, mediante análisis de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2012 y la Ensanut 100k (2018). En la Ensanut 100k se evaluaron los factores asociados con IRA y EDA.
+

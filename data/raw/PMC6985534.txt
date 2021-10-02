@@ -1,0 +1,87 @@
+EVALUACIÓN DE LA ADECUACIÓN DEL TRATAMIENTO FARMACOLÓGICO EN PACIENTES PLURIPATOLÓGICOS<SUP
+
+
+- INTRODUCCIÓN
+
+La adecuación es un término general que comprende un amplio rango de características y comportamientos relacionados con la calidad de la prescripción. Una prescripción se considera adecuada cuando existe una evidencia clara que apoya su uso en esa indicación, es bien tolerada y presenta un perfil de coste-efectividad favorable.
+La prescripción inapropiada también incluye el uso de fármacos con duración incorrecta, interacciones y duplicidades. Además, en los pacientes de edad avanzada se deben considerar criterios como el pronóstico, la esperanza de vida y el estado funcional para promover la utilización de tratamientos con mejor relación beneficio-riesgo, .
+La prescripción inapropiada de fármacos en el paciente crónico está considerada una cuestión de salud pública, relacionada con la morbilidad, la mortalidad y el uso de recursos sanitarios. A pesar de la magnitud del problema, no existe consenso ni se dispone de evidencia científica sólida que ayude a prevenir la prescripción inapropiada.
+Dentro de este marco, el paciente pluripatológico (PP) se define como aquel con 2 o más enfermedades crónicas de una lista de categorías clínicas precisas que tienen en cuenta la gravedad o la incapacidad. La prevalencia de estos pacientes en el medio hospitalario es muy alta, a pesar de ser baja en la población general. Este grupo de pacientes son candidatos a sufrir inadecuaciones en el tratamiento farmacológico, ya que las continuas transiciones asistenciales, el gran número de fármacos que toman, así como la gran carga de mortalidad, condicionan un aumento de dicho riesgo.
+Pese a la previsible vulnerabilidad de este colectivo de pacientes a sufrir inadecuaciones del tratamiento farmacológico no existe en la literatura científica una caracterización de las mismas.
+Para ello, nuestro grupo de investigación seleccionó, mediante un panel de expertos, siguiendo la metodología Delphi, las herramientas para la adecuación potencialmente útiles en este grupo de pacientes. Como resultado se eligieron, como método implícito, el cuestionario Medication Aproppriateness Index (MAI) modificado, y como método explícito, los criterios Screening Tool of Older Person's potentially inappropriate Prescription/Screening Tool to Alert doctors to the Right (STOPP-START).
+Así, el propósito del presente trabajo es evaluar la adecuación del tratamiento farmacológico en PP en función de las herramientas previamente seleccionadas por este grupo de trabajo y realizar, si es necesario, intervenciones para su mejora.
+
+
+- MATERIAL Y MÉTODOS
+
+Se trata de un estudio descriptivo, prospectivo y con una duración de 21 meses.
+
+
+-- PACIENTES
+
+Se seleccionaron todos los pacientes de la Unidad de Gestión Clínica de Atención Médica Integral del Área Hospitalaria Virgen del Rocío que cumplían los siguientes criterios de inclusión: tener la mayoría de edad; reunir los criterios de paciente PP según la definición recogida en el Proceso Asistencial Integrado de la Consejería de Salud de la Junta de Andalucía; pertenecer a una zona básica de salud que esté participando en el estudio; presentar la siguiente situación asistencial: ingreso hospitalario u hospitalización domiciliaria reciente y seguimiento ambulatorio en unidad de día.
+
+
+-- VARIABLES
+
+Se recogieron variables demográficas (edad y sexo), clínicas (número de diagnósticos y número de fármacos prescritos), farmacoterapéuticas y otras.
+Las variables farmacoterapéuticas fueron: indicación, eficacia, diagnóstico o síntoma no tratado, dosis, duración, pauta horaria incorrecta, instrucciones al paciente, contraindicaciones, interacciones relevantes, duplicidad terapéutica, coste-efectividad y vía de administración.
+Otras variables fueron: porcentaje de informes que se realizan respecto al total de pacientes, porcentaje de respuesta y porcentaje de aceptación de los informes por parte del médico.
+Se consideró la aceptación del informe cuando todas las intervenciones fueron aceptadas, la no aceptación cuando ninguna intervención fue aceptada y la aceptación parcial cuando se aceptaron unas intervenciones sí y otras no.
+
+
+-- PROCEDIMIENTO NORMALIZADO DE TRABAJO
+
+El circuito se explicita en la figura 1.Figura 1
+Los datos de los pacientes se consultaron en la historia clínica electrónica así como en la web del proyecto.
+Para la detección de inadecuaciones y la consiguiente elaboración del informe de adecuación se siguió un procedimiento normalizado que consistía en una intervención compleja que incluía el cuestionario MAI modificado como método implícito y de la lista de criterios STOPP-START como método explícito. Como herramientas de apoyo para responder adecuadamente a las preguntas planteadas por el cuestionario MAI modificado se utilizaron:•Fichas técnicas de los medicamentos.•Hoja de cálculo Excel 2005® para el ajuste de dosis de fármacos en la insuficiencia renal.•Base de datos de interacciones: Micromedex. Solo se seleccionaron como relevantes aquellas interacciones que presentaban riesgo alto (con documentación excelente o buena) o riesgo intermedio (con documentación excelente).Figura 2
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En el análisis descriptivo se utilizaron porcentajes para variables cualitativas, y medidas centrales (media) con medidas de dispersión (desviación estándar [DE]) para variables cuantitativas.
+Todos los cálculos se realizaron con el programa estadístico IBM SPSS Statistics® versión 19.
+
+
+- RESULTADOS
+
+Se incluyeron un total de 244 pacientes, cuyas características se muestran en la tabla 1.
+En el 98% de los pacientes se realizó un informe de adecuación y se llevaron a cabo un total de 840 intervenciones (media de 3 intervenciones por paciente).
+La clasificación de dichas intervenciones queda reflejada en la tabla 2.
+Las principales interacciones farmacológicas se detallan en la tabla 3.
+En 136 pacientes (56%) se aplicó alguno de los criterios STOPP-START. Se realizaron 63 intervenciones STOPP y 145 START. Esto implica que, respecto al total de intervenciones, estos criterios suponen un 25%.
+En la tabla 4 se explicitan los criterios individuales STOPP y START más frecuentemente incumplidos.
+De los 240 pacientes en los que se realizaron intervenciones para la adecuación del tratamiento farmacológico, en un 56% (133) de ellos se obtuvo respuesta por parte del médico. De las 498 intervenciones realizadas para estos 133 pacientes, 299 fueron aceptadas (60%). Así, la tasa de aceptación fue del 38%, la de aceptación parcial del 42% y la de no aceptación del 20%.
+Entre las intervenciones rechazadas, las mayoritarias son las de interacciones (34%), seguidas de las de diagnóstico o síntoma no tratado (17%).
+
+
+- DISCUSIÓN
+
+En los PP, la principal herramienta terapéutica es la farmacoterapia. Existen numerosos estudios sobre intervenciones realizadas en pacientes ancianos y crónicos de diversas afecciones, , así como artículos en los que se apuesta por el papel del farmacéutico, . No obstante, no existen evidencias de cuál o cuáles son las inadecuaciones más características en PP. Hasta donde se conoce, este es el primer artículo que analiza la adecuación del tratamiento farmacológico en este colectivo de pacientes.
+Los PP se caracterizan por ser mayores, presentar un gran número de diagnósticos y tomar un gran número de fármacos. Todo ello los hace susceptibles a sufrir inadecuaciones del tratamiento farmacológico y en consecuencia son candidatos idóneos para realizar intervenciones farmacéuticas.
+En las intervenciones realizadas observamos que para la no indicación existe un uso indiscriminado de omeprazol debido a la falsa creencia de la necesidad de prescribirlo en presencia de polifarmacia, , y que los ARA II se utilizan, pese a existir estudios que avalan una menor eficacia y a que presentan un precio más elevado, con mayor frecuencia que los IECA.
+La tasa de prescripción de medicamentos no eficaces es muy baja, rozando lo insignificante.
+En las intervenciones para diagnóstico/síntoma no tratado llama la atención la infraprescripción en la diabetes, tanto en el caso de su tratamiento como en la prevención del riesgo cardiovascular en pacientes en los que coexisten otros factores mayores (hipertensión, hipercolesterolemia y consumo de tabaco). Respecto a los IECA, en muchas ocasiones no se prescriben a pacientes con insuficiencia cardiaca a pesar de ser el tratamiento de elección. El rechazo de estas intervenciones vino motivado porque el clínico, en función del pronóstico del paciente, no consideró oportuna su prescripción.
+En cuanto a las intervenciones en la dosis, para simvastatina, enalapril y ramipril se debe a que se trata de pacientes con insuficiencia renal, en los que se propone un ajuste de la misma. En el caso del ácido acetilsalicílico, las intervenciones se dirigen a reducir la dosis de 300 a 100 mg, ya que la primera aumenta el riesgo de sangrado si haber demostrado una mayor eficacia. Por último, dosis de omeprazol superiores a 20 mg/día solo están justificadas en situaciones muy concretas, no siendo este el caso de los pacientes sobre los que se realiza la intervención de reducir la dosis a la pauta de mantenimiento habitual.
+Para la duración, la prescripción prolongada de benzodiacepinas se asocia a que nos encontramos ante pacientes ancianos con dificultad de sueño, no obstante conllevan riesgo de sedación, confusión, trastornos del equilibrio y caídas. Por ello, muchos criterios explícitos, incluyen un ítem en el que se desaconseja su uso prolongado.
+Las intervenciones en cuanto a la pauta horaria y las instrucciones al paciente se dirigen a administrar el medicamento de la mejor manera posible.
+El principal fármaco contraindicado es la metformina, por aumentar el riesgo de acidosis láctica en pacientes con aclaramiento de creatinina ≤ 60 ml/min.
+Parece lógico que al tratarse de pacientes que toman una media diaria de 12 fármacos, la intervención para las interacciones sea a su vez la mayoritaria y la más rechazada.
+Se producen pocas duplicidades, siendo la más frecuente tiotropio-ipratropio.
+En cuanto al coste-efectividad, las recomendaciones para mejorar esta relación van dirigidas a los ARA II, a las nuevas estatinas y al ácido nicotínico/laropiprant. En los 2 primeros casos se recomienda la sustitución por fármacos más económicos del mismo grupo y en el tercero la suspensión del medicamento, por presentar poca experiencia de uso y un precio elevado.
+Finalmente, respecto a la vía de administración, las intervenciones van dirigidas a realizar terapia secuencial, .
+Los criterios STOPP-START, pese a su utilidad, ya que detectan inadecuaciones en más de la mitad de la población, dejan escapar un 75% de las intervenciones. Así, su uso exclusivo en pacientes pluripatológicos no estaría recomendado. Esta herramienta sería útil únicamente si se combina con otras estrategias que permitan un abordaje integral del paciente, como es el caso del presente trabajo, en el que se aplica simultáneamente al cuestionario MAI modificado.
+La tasa de respuesta de los informes de adecuación por parte del médico es moderada, pudiendo estar justificada por fallos en la vía de comunicación. No obstante, la tasa de aceptación de aquellos que responden es elevada. Esto pone de manifiesto el valor añadido que tiene integrar a un farmacéutico en el equipo multidisciplinario.
+El presente estudio no está exento de limitaciones. La principal viene determinada por el fallo del circuito en determinadas ocasiones, lo que condiciona la tasa de respuesta. Otra limitación sería la subjetividad asociada a la herramienta implícita, que restaría validez externa a los resultados.
+Como consecuencia de todo lo expuesto y en función del elevado número de inadecuaciones detectadas cabe señalar la importancia de evaluar la adecuación del tratamiento farmacológico en el PP. Para ello es recomendable utilizar una estrategia de intervención farmacéutica combinada que incluya tanto un método implícito como un método explícito.
+Un nuevo reto en este colectivo de pacientes sería demostrar que la aplicación de estas herramientas para evaluar la adecuación y las intervenciones que se derivan de las mismas se traducen en una mejora de los resultados en salud.Lo conocido sobre el tema:•Los pacientes pluripatológicos constituyen una población proclive a sufrir inadecuaciones del tratamiento farmacológico.•La inclusión de un farmacéutico en el equipo de atención integral al paciente mejora la calidad asistencial al mismo.•No existen evidencias de cuál o cuáles son las mejores estrategias para evaluar la adecuación del tratamiento farmacológico en pacientes pluripatológicos.Qué aporta este estudio:•Como estrategia para evaluar la adecuación del tratamiento farmacológico es recomendable utilizar tanto un método implícito como un método explícito.•Se describe el perfil de intervenciones llevadas a cabo en una población tan específica como suponen los pacientes pluripatológicos.
+
+
+- FINANCIACIÓN
+
+Proyecto financiado por la Fundación MAPFRE en la convocatoria de ayudas a la investigación del año 2010.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

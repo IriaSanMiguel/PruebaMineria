@@ -1,0 +1,125 @@
+FÁRMACOS DE USO FRECUENTE EN DERMATOLOGÍA COMO TERAPIA PARA COVID-19
+
+
+- INTRODUCCIÓN
+
+El agente responsable de la actual pandemia de la COVID-19, el SARS-CoV-2, es un virus ARN que está estrechamente relacionado con el coronavirus del síndrome respiratorio agudo severo (SARS-CoV).
+Si bien cada día existe más información sobre la COVID-19, aún hay muchos aspectos que se desconocen sobre su fisiopatología. Con el conocimiento que actualmente disponemos, se ha planteado un plan terapéutico con 3 líneas de acción: reducir la replicación viral, la hipercoagulabilidad y la respuesta inflamatoria descontrolada. Mientras se avanza en este camino, a la espera de una cura definitiva, se han propuesto y utilizado diversos fármacos de uso habitual en dermatología, tales como los antipalúdicos (AP), los antiparasitarios y los antiandrógenos. En la presente revisión abordamos diferentes aspectos sobre estos, considerando su historia, su mecanismo de acción y su aplicación en la COVID-19 (fig. 1 ) (tabla 1 ).Figura 1
+
+
+- ANTIPALÚDICOS
+
+Son fármacos tradicionalmente usados contra la malaria. Debido a su efecto antiinflamatorio, inmunomodulador, fotoprotector y su utilidad como ahorradores de corticoides, son ampliamente utilizados en dermatología. Algunos de sus principales usos en dermatología son en el tratamiento del lupus cutáneo, la erupción polimorfa lumínica y la porfiria cutánea tarda, entre otros.
+
+
+-- HISTORIA
+
+La cinchona es un árbol autóctono de Sudamérica, cuya corteza era utilizada por los nativos debido a sus propiedades antipiréticas. Es conocido el relato sobre su uso en el tratamiento de un cuadro febril que padecía la condesa española de Chinchón (esposa del virrey de Perú) en 1630, quien la habría introducido a Europa en 1640; sin embargo, algunos investigadores opinan fue traída mucho antes por misioneros jesuitas, , , .
+En aquel entonces la malaria era una enfermedad frecuente en Europa, que causaba la muerte de campesinos, emperadores y reyes. A pesar que el preparado de cinchona tuvo un notable éxito terapéutico, su uso no fue aceptado inicialmente, , . Sin embargo, algunos estaban convencidos de su efectividad y buscaron la forma de fomentar su uso como tratamiento de la malaria. Uno de los más audaces fue Robert Talbor, quien usó el preparado para curar a Carlos II y al hijo de Luis XIV. Este ingrediente secreto no fue revelado hasta después de la muerte de Talbor, , , .
+En 1820, Pierre Pelletier y Joseph Caventou aislaron el compuesto activo de la corteza, la quinina, el primer antimalárico natural. El preparado fue fundamental para prevenir y tratar la malaria en soldados destinados a zonas endémicas, .
+En 1894, Payne describió la erupción del lupus y creyó que era un trastorno vascular, prescribiendo quinina para inducir palidez, con excelentes resultados. En 1940 la quinacrina, derivado sintético de la quinina, fue utilizado para la profilaxis de la malaria durante la Segunda Guerra Mundial y se observó que los soldados que presentaban lupus o artritis reumatoide mejoraban al recibir este tratamiento, . Estas observaciones motivaron a Page, en 1951, a tratar exitosamente con quinacrina a 18 pacientes con lupus cutáneo. Su trabajo fue publicado en la revista The Lancet en 1951 y estimuló el interés por las propiedades antiinflamatorias de los AP.
+La cloroquina (CQ) fue sintetizada el año 1934 y posteriormente la hidroxicloroquina (HCQ) en 1955. Los ensayos clínicos en pacientes con lupus se realizaron con quinacrina (Atabrine) hasta 1961, posteriormente fue reemplazada por la CQ que era mejor tolerada. En la actualidad, la CQ continúa siendo el agente antimalárico de elección, excepto en las áreas del mundo donde se ha desarrollado resistencia a esta, .
+
+
+-- MECANISMO DE ACCIÓN
+
+Un estudio realizado el año 2005 en células primates infectadas con SARS-CoV reporta un importante efecto antiviral de la CQ contra el virus. Los AP interfieren en la glucosilación terminal del receptor de la enzima conversora de la angiotensina ii (ECA-II) (receptor usado por el SARS-CoV para ingresar en la célula huésped), lo cual influiría negativamente en la unión entre el virus y el receptor. Por otro lado, al ser una base débil, los AP se concentran en organelos con pH ácido, aumentandolo e interfiriendo la infección por el SARS-CoV, que utiliza los endosomas para entrar en la célula huésped, , . Se cree que el SARS-CoV-2 también emplea el receptor ECA-II para entrar en la célula huésped, debido a que la secuencia de aminoácidos de los sitios de unión al receptor del SARS-CoV-2 es un 74% homóloga a la secuencia del SARS-CoV, lo que sugiere mecanismos de entrada celular similares o incluso idénticos para ambos virus, , , . Colson et al. informaron de que la proteína pico (spike protein) del SARS-CoV-2 se escinde en el autofagosoma por proteasas de la célula huésped como las catepsinas, que pueden inhibirse debido al aumento del pH en el lisosoma como resultado de la acumulación de CQ.
+En algunos pacientes con la COVID-19 se ha reportado un aumento en las citocinas IL-6 e IL-10, lo cual podría progresar a una tormenta de citocinas, seguida por una falla multiorgánica potencialmente mortal, . La HCQ y la CQ poseen efectos inmunomoduladores que podrían suprimir la respuesta inmunitaria descontrolada causada por el SARS-CoV-2, , .
+Yao et al. proponen la HCQ como el «fármaco ideal» contra el SARS-CoV-2, ya que posee efectos antivirales e inmunomoduladores; los autores recomiendan el uso concomitante de HCQ en bajas dosis con un antiinflamatorio para ayudar a mitigar la tormenta de citocinas en pacientes en estado crítico.
+
+
+-- ESTUDIOS EN LA COVID-19
+
+Los estudios en AP se han centrado sobre todo en el uso de HCQ, la cual es mejor tolerada, con un mejor perfil de seguridad y ha mostrado una actividad antiviral más potente contra el SARS-CoV-2 in vitro con relación a la CQ, .
+En Nueva York, entre marzo y abril del 2020, se realizó un estudio observacional en pacientes con la COVID-19 tratados con HCQ (dosis de carga de 600 mg 2 veces el día 1, seguida de 400 mg al día durante 4 días) que no encontró una asociación significativa entre el uso de HCQ y la intubación o la muerte de los pacientes hospitalizados. Mehra et al., realizaron un análisis a partir de un registro multinacional con datos de pacientes hospitalizados por la COVID-19 entre diciembre del 2019 y abril del 2020 en 671 hospitales diferentes. Los autores no lograron confirmar los beneficios con el uso de HCQ o CQ administradas solas o en combinación con macrólidos. Los regímenes farmacológicos descritos se asociaron con una disminución de la supervivencia hospitalaria y una mayor frecuencia de arritmias ventriculares. Posteriormente, 3 de sus 4 autores se retractaron de los resultados debido a la dudosa veracidad de los datos y análisis realizados por Surgisphere Corporation.
+Si bien múltiples autores han descartado el uso terapéutico de los AP durante esta pandemia, Mitjà et al. (marzo del 2020) propusieron su uso de forma profiláctica. Sin embargo, no lograron demostrar que su uso fuera efectivo para prevenir la infección ni la enfermedad por SARS-CoV-2 en individuos sanos expuestos a casos con PCR positiva, .
+Por otro lado, Million et al. (mayo del 2020) realizaron un metaanálisis sobre el efecto de la CQ y sus derivados en pacientes con COVID-19, enfrentándose a resultados extremos: una marcada mejoría clínica versus un aumento en la mortalidad. En su trabajo los autores concluyen que los derivados de la CQ disminuyen la mortalidad de los pacientes con COVID-19 y manifiestan su preocupación por la cantidad de información errónea circulante, alertando que algunos estudios carecen de definiciones básicas de tratamiento y se vinculan a conflictos de interés. Recomendaron no realizar conclusiones apresuradas e interpretar sabiamente los resultados de los numerosos estudios que se publican día a día, .
+
+
+- IVERMECTINA
+
+Es un antiparasitario ampliamente usado en humanos a nivel mundial. En dermatología se ocupa frecuentemente en enfermedades como la escabiosis, demodicosis, pediculosis y actualmente también forma parte del arsenal farmacológico en el manejo de la rosácea.
+
+
+-- HISTORIA
+
+En 1973, Satoshi Ōmura, microbiólogo del Instituto Kitasato de Tokio, obtuvo muestras de suelo de algunos lugares de Japón en búsqueda de compuestos antibacterianos. Seleccionaba los cultivos con potencial médico y los enviaba a los laboratorios Merck, Sharp & Dohme (MSD) en Nueva Jersey, donde su colaborador William Campbell evaluaba su efecto contra parásitos. En 1974 un cultivo proveniente de una muestra obtenida cerca de un campo de golf en Kawana (Tokio) mostró un efecto notable contra los helmintos. La bacteria aislada en el cultivo fue el Streptomyces avermectinius. El compuesto activo obtenido se denominó avermectina y fue modificado químicamente dando origen a la ivermectina, la cual se comercializó para su uso en animales en 1981, , , , , .
+Cuando se comprobó que la ivermectina era segura y eficaz, MSD en conjunto con la Organización Mundial de la Salu, el Programa especial para la Investigación y Capacitación de Enfermedades Tropicales (TDR) y el Programa de Control de la Oncocercosis (OCP) iniciaron un estudio para usarla en humanos (1982). En 1987 se aprueba su uso en humanos combatiendo con éxito la oncocercosis en países africanos, .
+En el año 2015 se otorga el premio Nobel de Fisiología y Medicina a sus descubridores: Ōmura y Campbell.
+
+
+-- MECANISMO DE ACCIÓN
+
+Varios estudios muestran que la ivermectina posee actividad antiviral de amplio espectro. Se ha demostrado in vitro su efecto contra ciertos flavivirus, el virus de chikunguña y el virus de la inmunodeficiencia humana. El mecanismo exacto al que se puede atribuir este efecto aún no se ha validado, pero se cree que sería gracias a su acción sobre IMPα/β1, un transportador de proteínas virales, fundamental para algunos virus ARN. La ivermectina es capaz de disociar el heterodímero preformado de IMPα/β1 o impedir su formación, impidiendo el transporte de proteínas virales al núcleo de la célula huésped.
+
+
+-- ESTUDIOS EN LA COVID-19
+
+Patel et al. (enero del 2020) realizaron un estudio que incluyó a pacientes con COVID-19 de 169 hospitales ubicados en Norteamérica, Europa y Asia. El estudio contó con 704 casos de pacientes tratados con ivermectina (150 μg/kg) y 704 controles. Los resultados del estudio indican que la tasa de mortalidad fue significativamente menor en los pacientes tratados con ivermectina. Actualmente, la preimpresión del estudio no se encuentra disponible, los autores aparentemente se han retractado de sus hallazgos debido a incoherencias e inconvenientes de los datos obtenidos de Surgispgere.
+Por otro lado, el estudio in vitro de Caly et al. (marzo del 2020) muestra una reducción del 99,98% del ARN viral de SARS-CoV-2 a las 48 h en cultivos celulares Vero-hSLAM tratados con 5 μM de ivermectina. La concentración inhibitoria media de la ivermectina se determinó en ∼2 μM y los autores reportaron que no se observó toxicidad con las concentraciones evaluadas. Sin embargo, Momekov y Momekova (mayo del 2020) advierten de que los datos de las concentraciones inhibitorias in vitro publicadas en este trabajo, y en especial la concentración de 5 μmol/l, prácticamente no pueden alcanzarse con los regímenes de dosificación conocidos hasta ahora en humanos.
+Por eso, pese a que la ivermectina posee grandes ventajas, aún faltan ensayos clínicos y otros estudios que demuestren su utilidad.
+
+
+- ANTIANDRÓGENOS
+
+Los andrógenos desempeñan un papel importante en la homeostasis metabólica y la salud reproductiva de hombres y mujeres, teniendo efectos fisiológicos importantes en la piel. A su vez, pueden contribuir al desarrollo de ciertas enfermedades cutáneas, como el acné, la alopecia androgenética, el hirsutismo y la hidradenitis supurativa, entre otras.
+Algunos fármacos con acción antiandrogénica son: el acetato de ciproterona, la espironolactona, la dutasterida, la finasterida y la flutamida.
+
+
+-- HISTORIA
+
+El desarrollo farmacológico comenzó en 1962 con los antiandrógenos esteroideos: el acetato de ciproterona, el acetato de clormadinona, el acetato de megestrol y el dienogest.
+La flutamida fue el primer antiandrógeno no esteroideo aprobado por la Food and Drug Administration para el cáncer de próstata. Este medicamento de primera clase todavía forma la base estructural de otros antiandrógenos no esteroideos, como la enzalutamida y la apalutamida, .
+En 1970, Dorfmann definió los antiandrógenos como sustancias que impiden la expresión de la actividad del andrógeno en el efector.
+
+
+-- MECANISMO DE ACCIÓN
+
+La relación entre la COVID-19 y los andrógenos podría ser explicada por el mecanismo de entrada del SARS-CoV-2 a las células huésped. La serina proteasa transmembrana 2 (TMPRSS2 por sus siglas en inglés) y el receptor ECA-II son factores críticos para la entrada del SARS-CoV-2 a las células humanas y los andrógenos se relacionan con la actividad de ambos. A pesar de que existen otras proteasas involucradas, la TMPRSS2 es de particular interés, ya que es un gen regulado por andrógenos, previamente estudiado por su asociación con el cáncer de próstata, , , , .
+
+
+-- ESTUDIOS EN LA COVID-19
+
+Numerosos estudios han demostrado que las complicaciones y los casos más graves por SARS-CoV-2 son más frecuentes en la población masculina, presentando, a su vez mayor, mortalidad; no es claro si lo anterior es debido a factores biológicos, hábitos o diferencias en las tasas de comorbilidad. Esto ha impulsado a la comunidad científica a encontrar el factor que predispone a los hombres a cuadros más graves. Algunos investigadores comparten la teoría de un efecto crucial de los andrógenos en la severidad de la COVID-19, observando que aquellos pacientes masculinos que presentaban un fenotipo hiperandrogénico presentaban mayor carga viral, diseminación de SARS-CoV-2 y severidad del compromiso pulmonar. Lo anterior muy probablemente se relaciona con el mecanismo de acción descrito previamente.
+Goren et al. (marzo del 2020) realizaron un estudio sobre la prevalencia de alopecia androgénica (AGA) en pacientes hospitalizados por COVID-19 en España. Contaron con 41 pacientes masculinos, 29 de estos (71%) fueron diagnosticados con AGA significativa. Tras esta observación preliminar y dar a conocer ciertas limitaciones en su estudio, los autores se plantean realizar un ensayo clínico para determinar si existe una correlación.
+Montopoli et al. (abril del 2020) observaron que aquellos pacientes con cáncer de próstata en terapia de deprivación androgénica (ADT por sus siglas en inglés) presentaban un riesgo significativamente más bajo de infección por SARS-CoV-2 en comparación con aquellos pacientes que no recibieron ADT (OR 4,05; IC del 95%, 1,55-10,59). Una diferencia aún mayor se encontró al comparar a pacientes con cáncer de próstata en tratamiento con ADT con aquellos con cualquier otro tipo de cáncer (OR 4,86; IC del 95%, 1,88-12,56). Los autores finalmente concluyen que los pacientes con cáncer de próstata en tratamiento con ADT estarían parcialmente protegidos de la infección por SARS-CoV-2.
+Un estudio realizado en células cardiacas derivadas de células madre embrionarias humanas destaca la capacidad de los inhibidores de la 5 alfa-reductasa para reducir los niveles de ECA-II y, por lo tanto, disminuir la internalización viral.
+Actualmente, siguen en curso ensayos clínicos que evalúan la acción de los antiandrógenos y la terapia hormonal en la COVID-19, .
+
+
+- MELATONINA
+
+La melatonina es un derivado del aminoácido triptófano. Es el principal producto neuroendocrino de la glándula pineal. Poco tiempo atrás era considerada exclusivamente una hormona reguladora del ritmo circadiano y los biorritmos estacionales. Hoy sabemos que lo anterior solo corresponde a la «punta del iceberg», ya que posee propiedades antiinflamatorias, antioxidantes, inmunomoduladoras, termorreguladoras y antitumorales, entre otras, y pese a que su uso es limitado actualmente en la dermatología presenta un potencial prometedor, , .
+
+
+-- HISTORIA
+
+Para conocer la historia de la melatonina, es necesario conocer a su descubridor: Aaron Lerner, quien fue un dermatólogo de renombre internacional: fundador y presidente del Departamento de Dermatología de Yale. Recibió numerosos premios y reconocimientos por su investigación dermatológica, pero sobre todo es reconocido ser el descubridor de la melatonina.
+Lerner siempre mostró interés por la pigmentación cutánea y escribió un artículo con Thomas Fitzpatrick, donde describen la bioquímica de la formación de la melanina y la pigmentación. El trabajo fue publicado en la revista Physiological Reviews y estableció a ambos como expertos mundiales en el tema.
+Realizó un estudio en pacientes con enfermedad de Addison, buscando el factor pituitario responsable de la hiperpigmentación característica de esta patología, descubriendo con sus compañeros la hormona estimuladora de melanocitos.
+Lerner y sus colegas llegaron a Yale en 1955. Mientras esperaba que se completara su laboratorio, un miembro de su equipo llamado Yoshiyata Takahashi encontró un estudio del año 1917, donde se observó que extractos pineales de bovinos podían aclarar el color de renacuajos. Lerner y su equipo decidieron investigar si aquel factor pineal era una molécula ya conocida o algo distinto. El estudio duró 4 años y culminó con el descubrimiento de la melatonina en 1958, , .
+En 1964, Marczynski demostró que la melatonina es un promotor del sueño.
+
+
+-- MECANISMO DE ACCIÓN Y USO EN LA COVID-19
+
+Inicialmente, la COVID-19 genera un deterioro de la respuesta inmunitaria del huésped. El SARS-CoV-2 logra evadir la respuesta inmunitaria innata e induce la apoptosis y disminución de los linfocitos T. Posteriormente, la replicación viral acelerada conlleva a muerte celular, daño endotelial y vascular. Lo anterior genera una liberación masiva de citocinas inflamatorias, también llamada «tormenta de citocinas», que recluta y activa células inmunitarias no infectadas, generando una respuesta inflamatoria sistémica excesiva con gran repercusión pulmonar.
+Si bien la melatonina no es un fármaco viricida, se ha postulado como útil para reducir los efectos deletéreos causados por los virus del ébola, el dengue, la encefalomiocarditis y la encefalitis equina venezolana, entre otros, , , , , , .
+La propuesta de uso de melatonina como adyuvante se basa principalmente en su capacidad para disminuir el impacto negativo de la respuesta inmunitaria descontrolada provocada por el SARS-CoV-2 y la regulación e interrupción de ciertas vías de señalización activadas por este virus. Zhang et al. (2020) se basan en la fisiopatología de la enfermedad causada por SARS-CoV-2 y otros virus para proponer que melatonina sería útil en el tratamiento de la COVID-19 por sus propiedades antioxidantes, antiinflamatorias e inmunomoduladoras.
+Dentro de los efectos antiinflamatorios de la melatonina, destaca la capacidad de bloquear al factor de transcripción nuclear NF-κB, el cual fomenta la inflamación mediante la producción de citocinas inflamatorias que promueven la exacerbación y la mantención de la inflamación sistémica en la COVID-19, . La melatonina ha demostrado reducir los niveles de IL-6 en pacientes con diabetes mellitus tipo 2 con periodontitis crónica y pacientes con esclerosis múltiple, entre otras enfermedades, , . La IL-6 no solo es un mediador importante en la tormenta de citocinas, sino que sus niveles se han correlacionado estrechamente con la gravedad y el resultado del síndrome de distrés respiratorio agudo, junto con la carga viral de SARS-CoV-2 en sangre, por lo que su disminución podría beneficiar a los pacientes que cursan la fase hiperinmune de la COVID-19.
+El estado proinflamatorio de la COVID-19 produce un exceso de especies reactivas de oxígenos (ERO) y radicales libres (RL) que resultan dañinos para el organismo. La melatonina interactúa directamente con las ERO, actuando como una especie de «scavenger» de RL. Además, promueve la expresión de enzimas con acción antioxidante y reduce la de aquellas que aumentan el estrés oxidativo, . El efecto antioxidante de la melatonina también contribuiría con el efecto antiinflamatorio de esta. Estos y otros aspectos sobre el uso de melatonina en la COVID-19 son profundizados en el trabajo de Zhang et al. (marzo del 2020), que ha sido elogiado y respaldado por autores que se suman a la propuesta del uso de melatonina en la COVID-19, .
+Otros autores sostienen la importancia de introducir agentes antioxidantes a la terapia de la COVID-19 con el objetivo de disminuir la cantidad de muertes por complicaciones cardiacas, donde el estrés oxidativo tendría un papel fundamental, .
+Recientemente, se propuso su uso en conjunto con la vitamina D con la que tendría un poderoso efecto sinérgico.
+La melatonina es un fármaco económico y seguro con efectos potencialmente beneficiosos en la COVID-19. Actualmente, existen 2 ensayos clínicos sobre el uso de melatonina en la COVID-19. El primero pretende evaluar la eficacia de la melatonina en la profilaxis de la COVID-19 en trabajadores de la salud y el segundo estudia la eficacia y la seguridad de la melatonina intravenosa en pacientes con COVID-19 ingresados en Unidad de Cuidados Intensivos, .
+
+
+- CONCLUSIÓN
+
+Para finalizar, es importante recordar que existen muchos otros candidatos potenciales para combatir la COVID-19. En esta revisión nos enfocamos en aquellos de uso frecuente en Dermatología. Vemos cómo estos fármacos, muy distintos entre sí, con vías y acciones sin relación aparente, podrían ser útiles. Algunos han sido utilizados previamente en enfermedades víricas (AP e ivermectina) y otros que han pasado un tanto desapercibidos por los medios, dado su uso en enfermedades restringidas (antiandrógenos y melatonina).
+Considerando el perfil bioquímico de la melatonina y el gran impacto que ha tenido la actual pandemia en la economía mundial, parece importante realizar más ensayos clínicos que sustenten su uso en la COVID-19.
+Tras una amplia revisión de la literatura disponible sobre la COVID-19 nos damos cuenta que existe una gran cantidad de información disponible. Sin embargo, creemos que pese a la urgencia es fundamental mantener la calidad y meticulosidad de los estudios, ya que conclusiones aceleradas con base en estudios mal diseñados retrasa y entorpece el proceso científico. Por parte de los lectores, también es fundamental realizar un análisis crítico de los estudios que se publican día a día.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

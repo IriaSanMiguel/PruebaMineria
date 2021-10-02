@@ -1,0 +1,93 @@
+CONSULTORÍA TELEFÓNICA EN COT DURANTE LA PANDEMIA POR COVID-19. ¿HA VENIDO PARA QUEDARSE
+
+
+- INTRODUCCIÓN
+
+La telemedicina es un campo que utiliza la innovación tecnológica en telecomunicaciones para diagnosticar y tratar pacientes. Fue promocionada inicialmente para superar las barreras geográficas y proporcionar asistencia en situaciones especiales.
+Esta tecnología ha ganado popularidad en los últimos años y se han desarrollado diferentes aplicaciones: educación (entre profesionales), teleconsulta (entre especialistas o entre médicos de atención primaria y especialidades), seguimiento de pacientes o incluso telecirugía o cirugía telerrobótica.
+A finales del año 2019, se identificó en Wuhan (provincia de Hubei), China, el primer caso de infección por SARS-CoV-2, o enfermedad de COVID-19. Dicha infección ha evolucionado a una pandemia mundial, poniendo a prueba la capacidad de respuesta de los sistemas sanitarios.
+Paul Webster, en un informe publicado en The Lancet , analiza cómo la telemedicina se está implantando como nunca antes en esta nueva situación, en la que los pacientes están confinados y los profesionales sanitarios con riesgo de infectarse. Como indica el autor, el aumento de casos por COVID-19 está transformando el modelo asistencial a nivel mundial.
+La actividad de los servicios quirúrgicos también se ha visto obligada a adaptarse y transformarse. Las recomendaciones generales de la Sociedad Española de Cirugía Ortopédica y Traumatología frente a la COVID-19, y actualizadas al 13 de abril de 2020, incluyen:1.Dar preferencia al teletrabajo para evitar el contacto entre personas, y siempre que sea posible, realizar las consultas telemáticas, manteniendo únicamente las visitas urgentes (aquellas cuya demora pueda producir secuelas permanentes en el paciente).2.Suspender la cirugía programada, exceptuando la oncológica o aquellas consideradas urgentes porque puedan producir secuelas permanentes en el paciente.
+Si bien estas recomendaciones no se antepondrán a las directrices de cada centro sanitaria, lo cierto es que en la mayoría de ellos se han adoptado estas medidas.
+En el Hospital Universitari Mútua Terrassa, desde el inicio del estado de alarma por la pandemia por COVID-19, se suspendieron las visitas de Atención Primaria Especializada (APE) y de Consultas Externas Hospitalarias (CEH), manteniéndose únicamente las visitas presenciales imprescindibles.
+El objetivo de este estudio es mostrar si una reestructuración combinada telemática y presencial de las visitas permitiría asegurar la asistencia médica, garantizando la protección del personal sanitario y de los pacientes, previniendo la posible diseminación de la infección y utilizando de forma efectiva las telecomunicaciones para mantener la estabilidad del sistema sanitario y la atención al paciente.
+
+
+- MATERIAL Y MÉTODOS
+
+El Hospital Universitari Mútua Terrassa (HUMT) da cobertura asistencial, de atención primaria y especializada, a una población de 260.000 habitantes, comprendida en las áreas del Vallés Occidental Oest y el Baix Llobregat.
+Desde el 14 de marzo de 2020, fecha en que se declaró el estado de alarma nacional, las visitas presenciales en los Centros de Atención Primaria (CAP) y en las CEH fueron canceladas para todos los pacientes no urgentes, generándose una acumulación de 2.572 visitas no realizadas.
+Una vez disminuida la necesidad de colaboración de los traumatólogos en el Servicio de Urgencias médicas, a partir del 20 de abril de 2020, el Servicio de Cirugía Ortopédica y Traumatología (COT) se reorganizó con el fin de recuperar la actividad no quirúrgica. La imposibilidad de recuperar la visita presencial hizo necesaria la implementación de un programa de telemedicina para garantizar la continuidad de la asistencia médica.
+De acuerdo con la dirección del hospital, se diseñó un plan urgente de atención telefónica y presencial.
+Las visitas revisadas fueron de tres tipos:
+Derivaciones (D): pacientes remitidos por el médico de familia (MF) a APE, pendientes de programar cita.
+Visitas de Atención Primaria Especializada: pacientes citados en consultas de los CAP, para valoración o seguimiento por el traumatólogo.
+Consultas externas hospitalarias: visitas destinadas a controles y seguimientos postoperatorios o para incorporación de pacientes en lista de espera para intervención quirúrgica.
+Las llamadas telefónicas se consideraron:
+Efectivas: en las que se resuelve la necesidad del usuario de cuatro formas posibles: solución de la patología o curación, comunicación de resultado de pruebas complementarias, recomendaciones médicas y visitas de seguimiento.
+Tributarias de visita presencial: en las que el contacto telefónico no evita una visita presencial para exploración, tratamiento o inclusión en lista de espera quirúrgica.
+No se logra contacto telefónico tras tres intentos de establecer comunicación con el usuario.
+Todas las consultas telefónicas fueron llevadas a cabo por médicos adjuntos del Servicio de COT.
+Las dos primeras semanas se realizaron un total de 2.572 llamadas telefónicas, las no resueltas fueron 922 (667 APE + 255 CEH).
+Posteriormente, con el inicio de la desescalada, el 27 de abril de 2020, la disminución en la prevalencia de la enfermedad permitió la posibilidad de iniciar las consultas presenciales. Se combinaron las visitas presenciales, un total de 497 (255 CEH no resueltas telefónicamente y 242 ya citadas previamente a la pandemia en las agendas) con la consulta telefónica de 2.459 D.
+Para garantizar la seguridad, tanto de los pacientes como del personal sanitario, se realizó un protocolo de asistencia para realizar la visita presencial .
+Se diseñó un modelo que permitía realizar 160 vistas al día (20 pacientes/día/despacho), lo que suponía un máximo de 800 visitas presenciales por semana.
+A partir de la tercera semana de desescalada, el 11 de mayo de 2020, se comenzaron a realizar las visitas presenciales programadas previamente a la pandemia y se mantuvo la consulta telefónica para las visitas D y las visitas APE, ya que los CAPs permanecían cerrados.
+
+
+- RESULTADOS
+
+Se realizaron un total de 5.031 llamadas telefónicas distribuidas de la siguiente manera (fig. 1 ):Figura 1
+Se realizaron 2.572 visitas telefónicas no presenciales (APE y CEH). De estas, 1.650 (64%) fueron efectivas o altas y 922 (36%) precisaron visita presencial, o no se logró contacto telefónico.
+Dentro de las consultas telefónicas de APE, de 1.509 se resolvieron telefónicamente 842 (56%), y el resto 667 (44%), requirieron visita presencial o no se contactó telefónicamente.
+De los pacientes anulados de consultas externas hospitalarias (controles de pacientes operados o en tratamiento y primeras visitas), se llamó a 1.063 pacientes; fueron consideradas efectivas 808 (76%) y 255 (24%) no resueltas, requirieron visita presencial o no logramos contactar telefónicamente.
+La primera semana de visitas presenciales se realizaron un total de 586 CEH efectivas, 16 no asistieron y 172 no fueron citados por detectar riesgo en el cuestionario previo a la consulta, o por no lograrse contacto telefónico.
+Se llamaron a un total de 2.459 pacientes con derivaciones del MF, de las cuales, se resolvieron telefónicamente 1.010 (41%) y las 1.447 (59%) restantes, precisaron visita presencial o no logramos contactar telefónicamente.
+Fueron efectivas un 53% del total de las visitas telefónicas.
+
+
+- DISCUSIÓN
+
+La telemedicina se define como el diagnóstico o tratamiento remoto de pacientes a través de tecnología de telecomunicaciones. En 2017, solamente se realizaban 6,6 visitas por 100.000 habitantes en EE. UU. La aparición de la pandemia de COVID-19 ha cambiado esta realidad.
+La pandemia por COVID-19 sufrida en nuestro país durante el 2020 ha supuesto un reto tanto para especialistas como traumatólogos, que han dado soporte a diferentes servicios con una importante carga asistencial.
+Este avance ha ayudado a conservar los recursos sanitarios, así como los equipos de protección personal, permitiendo un cuidado del paciente seguro y de calidad, manteniendo las distancias sociales y minimizando la propagación del virus. En el campo de la cirugía ortopédica, la telemedicina ya estaba siendo utilizada para realizar visitas virtuales en zonas geográficamente descentralizadas (Iowa rural y Noruega) y en el seguimiento de la cirugía protésica.
+En nuestra experiencia, durante esta época de pandemia, además de una labor asistencial, ha proporcionado un sistema de comunicación tanto para los programas de formación de grado, como para la formación de residentes MIR. La misma experiencia ha sido publicada por Elkbuli et al.
+Sin embargo, en situaciones de no crisis, la adopción de los programas de telemedicina lleva tiempo, como señala Moazzami, se requieren recursos, financiación y guías precisas.
+En nuestro caso, el modelo se ha creado sin financiación y con los recursos personales generados por la ausencia de actividad quirúrgica. A medida que disminuían el número de contagios y la afluencia de pacientes a los servicios de urgencias con clínica respiratoria, los traumatólogos pudieron volver progresivamente a tratar pacientes de su especialidad.
+Durante la etapa inicial de la desescalada del confinamiento, se valoró el número de pacientes que habían dejado de ser visitados. El hecho de no iniciar la cirugía electiva y el cierre de los CAPs permitió a los especialistas iniciar la atención de los pacientes de COT. De la misma manera, dado el estado de alarma, la mayor parte de la población estaba en su domicilio, lo que facilitó el contacto telefónico.
+En 2020, Cremades et al. publicaron los resultados de un estudio en el que incluyeron a 200 pacientes aleatorizados a visita presencial o telemedicina para visitas de seguimiento postoperatorias. El primer objetivo era demostrar si tenían capacidad para realizar el seguimiento completo de los pacientes. Este objetivo se cumplió en el 90% de los pacientes visitados presencialmente y en el 74% de los visitados telemáticamente. Entre los objetivos secundarios destacaron que los resultados clínicos fueron similares y la satisfacción de los pacientes fue extremadamente alta en ambos grupos.
+Las consultas telefónicas fueron realizadas en su totalidad por especialistas en cirugía ortopédica y traumatología, con el fin de aumentar la capacidad de resolución y transmisión de seguridad al paciente.
+El número de derivaciones resueltas por teléfono ha puesto de manifiesto que la demanda de un especialista por parte del paciente puede verse satisfecha mediante una conversación telefónica. El hecho de que muchas patologías se hubieran resuelto, también sugiere que podría haber un número de derivaciones desde la Atención Primaria evitables. Esta situación ha hecho cambiar la relación con los especialistas en MF, creándose un circuito de derivación no presencial que podrá ser resuelta en la historia clínica electrónica, mediante una llamada telefónica o una visita presencial en CAP u hospital, según el criterio del traumatólogo.
+De la misma manera, estas visitas han permitido detectar casos que han sido derivados directamente a la consulta externa del hospital, por la gravedad del proceso acortando la demora en el acceso al especialista y disminuyendo el número de visitas del traumatólogo en el CAP.
+En relación con las visitas de APE, la visita telefónica ha permitido dar por finalizado un proceso previo, hacer un seguimiento o derivar al hospital, así como solicitar la exploración complementaria más adecuada para la futura visita presencial, que podrá ser de esta forma resolutiva, evitando así, segundas visitas.
+Las CEH han objetivado que los controles de prótesis totales de cadera o rodilla durante el periodo entre los dos y los 10 años de la cirugía, pueden ser suficientes de forma telemática.
+Forbes et al. enumeran los factores que requieren una optimización antes de que se pueda extender la implantación de la telemedicina. Estos factores incluyen: establecer el liderazgo entre los profesionales sanitarios, desarrollar medidas de facturación, crear licencias, sistemas de integración de datos, introducir medidas de privacidad y seguridad y determinar métodos de evaluación clínica de los pacientes. Con la pandemia por COVID-19, la mayor parte de estas barreras se han subsanado u obviado rápidamente, facilitando su implementación.
+Smith et al. publicaron los ocho elementos que permiten establecer una guía rápida de implementación e integración de la telemedicina en su servicio. Estos elementos son: infraestructura electrónica médica de registro de pacientes y datos, plataformas audiovisuales, soporte informático de la institución, desarrollo del hardware del proveedor del servicio y de los pacientes, entrenamiento del personal, educación de los pacientes, participación de pacientes y cuidadores, integración de sistemas de codificación y facturación.
+El contexto en que se ha desarrollado este proyecto ha acelerado su implementación y ha favorecido la aceptación del paciente al cambio de formato.
+Como en otros centros del Estado, una vez instaurado el modelo, se empezarán a añadir nuevas herramientas que permitan mantener esta actividad sin que se pierda calidad en la asistencia y disminuyendo visitas presenciales que facilitarán el acceso de forma más precoz cuando sea realmente necesario.
+
+
+- CONCLUSIÓN
+
+Analizando nuestra experiencia podemos decir que la medicina telemática es una opción factible en un servicio de traumatología, y de manera adecuada será una opción interesante de mantener tras la pandemia.
+La excepcionalidad de la situación sanitaria durante la pandemia por COVID-19 ha acelerado la implantación de un modelo de medicina telemática que permite realizar las visitas de forma segura, cómoda para el paciente y efectiva. Futuras líneas de investigación deberían ser abiertas para mejorar la capacidad de resolución de este sistema, analizar su relación coste-efectividad y subsanar los conflictos legales que pudieran existir.
+Filtrado y detección de síntomas de posible COVID-19: el día antes de la cita se realizó una encuesta telefónica destinada a detectar sintomatología compatible con infección en los 15 días previos (tabla 1 ).
+Diseño espacio seguro: apertura de una planta de consultas externa en edificio anexo al hospital, cerrada durante el transcurso de la pandemia. Con base en este espacio, se calculó el número de pacientes en función del número de despachos y de las salas de espera que se disponían. Se destinaron ocho despachos para visitar y cuatro salas de espera para poder acomodar de forma segura a los pacientes que fueran llegando para ser visitados.
+Personal administrativo se encargó de la recepción y ubicación en las salas de espera, en función del consultorio al que debían dirigirse.
+Las agendas se modificaron a visitas cada 20 minutos, pudiendo haber cada hora un máximo de 16 pacientes esperando (32 si hubiera un acompañante), distribuidos en cuatro salas de espera con 97 asientos, pudiéndose garantizar una distancia de seguridad entre cada persona.
+Recomendaciones de asistencia:a.Puntualidad.b.Sin acompañante si fuera posible.c.Portar mascarilla, o se le facilitaba en la entrada.d.Uso del gel hidroalcohólico para higiene de manos, previo a la entrada, ofrecido en la puerta del edificio.e.Respetar la distancia de seguridad.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- NIVEL DE EVIDENCIA
+
+Nivel de evidencia IV.

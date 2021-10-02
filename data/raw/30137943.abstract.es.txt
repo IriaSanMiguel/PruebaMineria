@@ -1,0 +1,5 @@
+Se desarrolló un estudio de cohorte, de cinco años de evolución, con un total de 419 personas; de ellas, 215 normorreactivos cardiovasculares y 204 hiperreactivos cardiovasculares. Se determinó el riesgo relativo que tienen los individuos hiperreactivos cardiovasculares de ser hipertensos y el peso de la hiperreactividad cardiovascular en la aparición de hipertensión arterial; se fijó un nivel de significación estadística de p igual 0.05.
+Determinar el riesgo de padecer hipertensión arterial en individuos normotensos con hiperreactividad cardiovascular, identificados mediante la ergometría isométrica.
+Los individuos normotensos hiperreactivos cardiovasculares tienen mayor riesgo de hipertensión arteria que los normotensos normorreactivos cardiovasculares.
+La frecuencia de nuevos hipertensos en la cohorte de hiperreactivos cardiovasculares respecto a los normorreactivos cardiovasculares fue dos veces superior (RR:2.23 IC95% 1.42;3.51). La hiperreactividad cardiovascular fue la variable de mayor influencia.
+

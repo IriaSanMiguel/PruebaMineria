@@ -1,0 +1,90 @@
+DE LA VIGILANCIA A LA ACCIÓN: MODIFICANDO CONDUCTAS TERAPÉUTICAS EN LA INFECCIÓN GONOCÓCICA
+
+
+- INTRODUCCIÓN
+
+La Neisseria gonorrhoeae (NG) es una bacteria de reservorio y fuente de infección humana, cuyo principal mecanismo de transmisión es sexual; de hecho, es una de las infecciones de transmisión sexual más frecuentes del mundo, , con una incidencia ascendente en los últimos años, , , que afecta fundamentalmente a hombres y mujeres, de 20-34 años. Entre sus complicaciones, poco frecuentes pero muy importantes, destacan la epididimitis y la prostatitis en el hombre, y la esterilidad y el embarazo ectópico en la mujer.
+Debido al aumento de resistencias de la NG a los antibióticos que sucesivamente se emplearon para combatirla, la Organización Mundial de la Salud (OMS) y el European Center for Disease Prevention and Control, publicaron en 2012 sendas guías para controlar la difusión y el impacto de la NG resistente a antimicrobianos, destacando la importancia de vigilar la aparición de resistencias y promoviendo el uso del cultivo y el antibiograma. Actualmente, según The International Union against Sexually Transmitted Infections (IUSTI), el tratamiento de elección es una dosis única de azitromicina (AZT) 2 g/oral y de ceftriaxona (CTX) 500 mg/intramuscular (y como segunda línea terapéutica, se propone cefixima [CFX] 400 mg/oral en lugar de CTX). Se han identificado ya las primeras cepas con resistencia a las cefalosporinas de tercera generación, , , y con alto nivel de resistencia a la AZT junto a resistencia a la CTX, ; existiendo, por tanto, una amenaza real de quedarse sin arsenal terapéutico para hacer frente a esta infección. El empleo de la pauta antibiótica recomendada es fundamental para disminuir el riesgo de resistencias, pero su uso en España está dificultado porque la CTX es un fármaco de uso hospitalario que los médicos de atención primaria (AP) no pueden recetar.
+El objetivo de este trabajo fue evaluar la mejora en la prescripción del tratamiento ante una sospecha de infección gonocócica tras desarrollarse una intervención sanitaria específica y, secundariamente, conocer la fracción de casos diagnosticados por cultivo y las resistencias antimicrobianas de las cepas de NG que circulan en nuestra comunidad.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio antes-después, desarrollado entre 2012-2017, donde se describe la prescripción terapéutica frente a la infección gonocócica tras una intervención de salud pública dirigida a los médicos de AP, que se comenzó a gestar en abril de 2014.
+
+
+-- POBLACIÓN A ESTUDIO
+
+Todos los médicos de consultas o urgencias de AP del Servicio Gallego de Salud (Sergas) de todos los centros sanitarios públicos de la comunidad, que diagnostiquen un caso de infección gonocócica, en hombres o mujeres, de cualquier edad, atendidos en Galicia, entre 2012 y 2017. Al Sergas tiene acceso el 98% de la población. En 2012-13 el número total de médicos de AP era de 2.211, con un cupo total de 2.663.195 personas. En 2014-2017, el número de médicos de AP se mantuvo alrededor de 2.300 y la población atendida en torno a las 2.667.700 personas.
+
+
+-- INTERVENCIONES REALIZADAS
+
+En el período preintervención (2012-2013) se evidenció la necesidad de mejorar la adherencia al tratamiento recomendado por las guías terapéuticas ante una infección gonocócica. Para ello se realizó una doble intervención desde la Dirección Xeral de Saúde Pública (DXSP) relacionadas con la accesibilidad al tratamiento y la difusión de la información.
+Para facilitar la accesibilidad a CTX se acordó, con la Subdirección Xeral de Farmacia del Sergas, y ya establecido de modo permanente, el suministro, a todos los centros de salud/urgencias de la comunidad, de dos kits (una vez utilizados, se solicitan otros) con el tratamiento recomendado (CTX+AZT), que, cuando está indicado, se prescribe y administra ya en el centro. Los kits comenzaron a distribuirse en septiembre del 2014. Se informó a los jefes de servicio de AP, mediante una instrucción interna, del acuerdo alcanzado y de la recepción de los kits.
+Se difundieron, entre los médicos de AP, los resultados del análisis de los tratamientos empleados frente a la infección por NG en el período preintervención y anualmente postintervención. Se recordó, repetidamente, el tratamiento de elección y la importancia de solicitar cultivo y antibiograma. La información fue difundida a través de Venres Epidemiolóxico (publicación quincenal, elaborada desde la DXSP, que se envía directamente por correo electrónico a todos los médicos de AP y microbiólogos de los hospitales del Sergas, además de publicarse en la web de la DXSP).
+Se acordó, con los servicios de microbiología, incluir el estudio de resistencias a AZT, CTX, CFX, ciprofloxacino y doxiciclina. La resistencia de NG a cualquiera de ellos se definió por el antibiograma, siguiendo los estándares aprobados para cada antibiótico.
+
+
+-- FUENTE DE INFORMACIÓN
+
+Se realizó una captura automática de los casos de infección gonocócica identificados en la consulta (Códigos CIAP-2: X.71 en la mujer e Y.71 en el hombre) y de los casos registrados por los servicios de microbiología de todos los hospitales públicos de la comunidad gallega. Desde el año 2012 la infección gonocócica es una enfermedad de declaración obligatoria individualizada, lo que permite eliminar duplicados, como parte de la actividad laboral desarrollada de modo ordinario.
+La distribución por grupos de edad de la población atendida por los médicos de AP fue facilitada por el servicio de tarjeta sanitaria del Sergas.
+
+
+-- DEFINICIONES EMPLEADAS
+
+Se definió caso posible como aquel paciente diagnosticado de infección gonocócica con clínica compatible y sin prueba microbiológica, y caso confirmado como aquel paciente con una muestra positiva para NG. En los casos de cultivo positivo se realizó antibiograma.
+Se definió «fracaso terapéutico» como un cambio en el tratamiento, independientemente de la causa que lo motivase.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+A través del sistema de vigilancia de las enfermedades de declaración obligatoria se recogieron las variables: sexo, edad, origen de la muestra, técnica diagnóstica, resultados del antibiograma y tratamiento. Se calcularon las incidencias anuales, las frecuencias absolutas y relativas (%) de los primeros tratamientos empleados y de los fracasos terapéuticos, y la sensibilidad de los antibióticos estudiados en las cepas aisladas. Se calculó el intervalo de confianza al 95% (IC95%) cuando fue necesario.
+Los datos se recogieron siguiendo siempre la misma metodología y se analizaron en dos períodos: preintervención (datos del 2012-2013) y postintervención (2014-2017).
+
+
+-- ASPECTOS ÉTICOS
+
+No es necesario pasar el comité de ética porque los datos usados proceden del sistema de vigilancia de Salud Pública, de la declaración obligatoria de enfermedades (Decreto 29/2009 de 5 de febrero, de la Consellería de Sanidade de Galicia). El análisis para este trabajo se llevó a cabo con los datos anonimizados.
+
+
+- RESULTADOS
+
+-- FASE PREINTERVENCIÓN
+
+En Galicia, en 2012-2013, se declararon 244 casos con infección gonocócica (71% confirmados), con una incidencia de 3,7 casos/105 habitantes (c/105h) en 2012 y 5,1 c/105h en 2013. Se registró el primer tratamiento en el 80% (n=187) de los casos, siendo la AZT la más empleada, sola o combinada con otros antibióticos, seguida de las quinolonas . Recibieron tratamiento con CFT y AZT el 3% de los pacientes (n=6), y la pauta CFT o CFX, con AZT, se administró en el 10% (n=18) de los pacientes .Figura 1
+En el 20% de los pacientes se necesitó un segundo tratamiento. La familia antibiótica en la que se observó el mayor porcentaje de fracasos terapéuticos fue la de las quinolonas, seguida de las tetraciclinas .
+El cultivo se realizó en un 62% (n=146) de los pacientes. Todas las cepas estudiadas fueron sensibles a CTX y CFX. La sensibilidad a la AZT fue del 85% y a las quinolonas del 40% . La resistencia a la AZT fue del 8% (IC95%: 3-19%). Se observó que no todos los hospitales realizaban el antibiograma frente a los mismos antibióticos.
+
+
+-- RESULTADOS POSTINTERVENCIÓN
+
+En 2014 la incidencia de la infección gonocócica fue de 7,6 c/105h; valor que se mantuvo más o menos estable hasta 2017, donde pasó a ser de 9,2 c/105h. La distribución de las incidencias, por género y grupo de edad, desde 2015, se puede ver en la figura 2.Figura 2
+En 2014 se registró el primer tratamiento en el 90% (n=188) de los casos. El tratamiento con CTX+AZT, se pautó en el 32% de los casos y de considerar, además, la pauta de CFX+AZT, en el 39%. La administración de CTX o CFX, solas o combinadas con otro antibiótico, formaron parte del 61% de los primeros tratamientos.
+El primer tratamiento de los casos se registró de media en el 94% de los mismos. En 2015 el uso del tratamiento recomendado alcanzó el 52% de los primeros tratamientos (63% de considerar la combinación CTX o CFX, y AZT), 1,6 veces más que en 2014. El uso de una de estas dos cefalosporinas, solas o en combinación con otro antibiótico, supuso el 73% de los tratamientos administrados.
+En 2016, respecto al año anterior, se observó un aumento de seis puntos porcentuales en el empleo de la pauta antibiótica de elección, usándose en el 58% de los casos (65% si se incluye CTX o CFX, más AZT).
+En 2017 se empleó CTX más AZT en el 63% de los primeros tratamientos, lo que supuso un aumento de 5 puntos porcentuales respecto al año anterior; y de considerar el empleo de CTX o CFX (solas o combinadas con cualquier otro antibiótico) supusieron el 78% de los primeros tratamientos . Respecto al empleo de otros tratamientos, destacó la monoterapia de AZT o ciprofloxacino .
+La frecuencia de petición de cultivo no aumentó con los años . La sensibilidad a CTX se estudió entre el 60% y el 76% de las cepas aisladas durante estos cuatro años. En 2014 se aislaron dos cepas no sensibles a CFX: una de ellas, tampoco sensible a ciprofloxacino, penicilina y doxiciclina; y la otra, no sensible a doxiciclina (la CTX no se estudió). Además, ese mismo año, se aisló una cepa no sensible a CTX, ni a ciprofloxacino, penicilina y doxiciclina.
+En la figura 3 se recoge la proporción de NG sensible a los diferentes antibióticos, donde se observa que la sensibilidad a penicilina, quinolonas y tetraciclina aumentó en 2016 y 2017. La sensibilidad a las cefalosporinas de tercera generación fue del 100% y a la AZT se mantuvo entre el 84% y el 95%. La resistencia a la AZT en el 2015 fue del 12% (IC95%: 3%-22%).Figura 3
+
+
+- DISCUSIÓN
+
+La OMS identifica el problema de las resistencias antibióticas como una de las mayores amenazas para la salud mundial. En el caso de la NG, la urgencia y persistencia de la resistencia a los distintos antibióticos empleados para combatirla se explican por una combinación de factores de huésped y bacteria, y su tratamiento, actualmente recomendado con CTX+AZT, busca reducir la aparición de cepas resistentes; de ahí la importancia de seguir esta recomendación, estudiar posibles fallos terapéuticos y controlar la difusión de la infección.
+En Galicia, los datos de 2012-2013 mostraron que el porcentaje de tratamiento frente a la infección gonocócica prescrito desde AP que seguía las recomendaciones europeas fue muy bajo. Los antibióticos más empleados (solos o combinados con otros) fueron la AZT, alternativa en algunos documentos cuando no se puede descartar Chlamydia trachomatis y las quinolonas, recomendadas en la guía terapéutica de la OMS del año 2005. En cambio, la pauta de CTX+AZT se administró en el 3% de los casos, probablemente porque cualquier recomendación terapéutica (esta es del año 2012) requiere un tiempo para alcanzar una difusión amplia y porque la CTX es un fármaco que no se puede recetar desde AP. No se encontraron datos publicados en España, pero es posible que no fuese mucho mayor dada esta dificultad de acceso al tratamiento.
+Dada la importancia de tratar las infecciones gonocócicas con CTX+AZT para evitar el desarrollo de resistencias, en Galicia se decidió mejorar el acceso a la CTX en AP y, desde el 2014, se distribuyen, directamente a cada centro de salud/urgencias, unos kits con CTX+AZT a las dosis recomendadas para el tratamiento de estas infecciones. Estos kits se reparten por los cauces habituales, desde las distintas gerencias de cada área, a sus centros de salud correspondientes.
+Coincidiendo temporalmente con las actividades desarrolladas (mensajes recordatorios y mejora del acceso a la CTX), en el año 2014 la pauta de CTX+AZT pasó a administrarse 10,4 veces más que antes de las intervenciones y de considerar CTX o CFX, más AZT, casi 4 veces más que antes de las intervenciones, evidenciándose un aumento a la adherencia a las recomendaciones. Así, en Galicia se observó una mejora sustancial en la fracción de primeros tratamientos que seguían la pauta recomendada por la IUSTI para la infección gonocócica.
+El porcentaje de primeros tratamientos administrados con la pauta recomendada se mantuvo estable en los años siguientes: CTX+AZT en un 50-60% y CTX o CFX, más AZT, en un 60-70%, lo que parece indicar que se alcanzó cierta estabilidad; aún lejos de la adherencia a la pauta antibiótica recomendada alcanzada en Inglaterra y Gales, con un 86,8% en 2012 y un 94% en 2016; o en EE. UU., donde, en 2013, según el Gonococcal Isolate Surveillance Project, fue del 95%. No se encontraron datos publicados en España ni sobre la adherencia actual al tratamiento recomendado por la IUSTI, ni sobre las intervenciones que se pudiesen haber llevado a cabo en alguna otra comunidad para facilitar el acceso a la CTX en AP.
+Por otra parte, tal y como recogen la OMS y el European Center for Disease Prevention and Control, otro aspecto fundamental para vigilar la aparición de cepas resistentes es el uso del cultivo y antibiograma. En Galicia, a pesar del esfuerzo por aumentarlo, el porcentaje de muestras a las que se les solicitó cultivo se mantuvo estable alrededor del 60% entre 2012 y 2017, probablemente por el mayor uso de técnicas de biología molecular que sustituían al cultivo, perdiéndose así la capacidad de realizar antibiogramas, fundamentales para conocer los patrones de resistencia circulantes.
+La existencia de cepas resistentes a CTX es un problema ya identificado en España, . En este trabajo, en el período 2014-2017 se aisló solo una cepa multirresistente, con la misma combinación de antibióticos que la que Ruche et al. identificaron en dos cepas en 2001-2012.
+Este trabajo presenta varias limitaciones: no se consiguió homogeneizar los antibióticos testados en los antibiogramas realizados; no siempre se estudió la resistencia a las cefalosporinas de tercera generación; y la intervención se dirigió únicamente a los médicos de AP del sistema público, lo que hace necesario aumentar la difusión de estos datos.
+La importancia del problema, la falta de datos sobre la adherencia al tratamiento recomendado por las guías terapéuticas, y la necesidad de información sobre las resistencias de las cepas circulantes en España, hacen fundamental seguir trabajando en este tema.
+Dada la constante presentación de resistencias y el riesgo a quedarse sin arsenal terapéutico para combatir esta infección, es fundamental emplear el tratamiento recomendado y mantener la solicitud de cultivos con antibiogramas.Lo conocido sobre el tema1.La resistencia a los antibióticos en N. gonorrhoeae suponen una amenaza para la salud mundial porque nos estamos quedando sin arsenal terapéutico con el que hacerle frente a esta infección.2.El tratamiento recomendado por la IUSTI para la gonococia incluye una doble pauta con ceftriaxona 500 mg/im y azitromicina 2g/vía oral, ambos en dosis única. La ceftriaxona es un fármaco de diagnóstico hospitalario, que en España no se puede recetar desde atención primaria, a pesar de que este ámbito sanitario es un referente para la atención de este tipo de consultas.Qué aporta este estudio1.Estrategias diseñadas, puestas en marcha y evaluadas, que buscan promover el uso del tratamiento recomendado por la IUSTI: una estrategia de intervención, que consistió en facilitar el acceso a la ceftriaxona (fármaco de diagnóstico hospitalario) en atención primaria; y la difusión periódica de un recordatorio del tratamiento adecuado, con los resultados del análisis anual de la información sobre los tratamientos empleados desde atención primaria y las resistencias observadas.2.Las intervenciones realizadas cambiaron la práctica de prescripción del tratamiento recomendado de un 3% antes de las intervenciones, a un 63% tres años después de las intervenciones (2017).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,5 @@
+El 28.3% de los niños <6 meses recibió lactancia materna exclusiva (LME), 42.9% de los niños <12 meses consumió fórmula infantil y 29% continuó lactando a los dos años. Sólo 49.4% de los niños de 6-11 meses consumió alimentos ricos en hierro.
+Actualizar prevalencias de indicadores de prác-ticas de lactancia materna y alimentación complementaria (PLMAC) en menores de 24 meses en México.
+Existen mejoras en las prácticas de lactancia materna, aunque las cifras siguen siendo bajas. Se requiere de la contribución de todos los sectores de la sociedad para mejorar las prácticas de alimentación infantil.
+Análisis de la Encuesta Nacional de Salud y Nutrición (Ensanut 2018-19) con diseño probabilístico. Po-blación: Mujeres 12-59 años y sus hijos <24 meses. Cálculo de indicadores propuestos por la Organización Mundial de la Salud (OMS) por variables sociodemográficas utilizando el diseño muestral. Se usó la prueba de Wald para comparar entre categorías.
+

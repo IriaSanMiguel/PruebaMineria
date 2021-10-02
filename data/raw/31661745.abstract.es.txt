@@ -1,0 +1,5 @@
+El diseño probabilístico de la Ensanut 100k permite hacer inferencias estadísticas válidas sobre parámetros de interés para la salud pública en localidades con menos de 100 000 habitantes, localidades donde vive 52% de la población según el censo de 2010. La comparabilidad de los resultados con la Ensanut 2012 facilita evaluar las acciones de apoyo que otorga el gobierno a poblaciones con menores capacidades económicas en el periodo 2012-2018.
+Se obtuvieron 10 461 entrevistas de hogar y 26 161 de individuos. La tasa de respuesta de hogar fue 89% y de individuos 92.
+La Ensanut 100k es una encuesta probabilística que sobrerrepresenta a los hogares con menos capacidades económicas. Se describe el alcance de la encuesta, los procedimientos de muestreo, medición e inferencia y la organización logística.
+Describir el diseño metodológico de la Encuesta Nacional de Salud y Nutrición en localidades con menos de 100 000 habitantes (Ensanut 100k).
+

@@ -1,0 +1,23 @@
+FORAMEN OVAL PERMEABLE EN PACIENTES INGRESADOS POR COVID-19 EN CUIDADOS INTENSIVOS
+
+
+Sr. Editor:
+En diciembre de 2019 tuvo lugar en Wuhan, China, un brote epidémico de COVID19, la enfermedad causada por el coronavirus del síndrome respiratorio agudo grave de tipo 2 (SARS-CoV-2), . La COVID-19 empezó con la aparición agrupada en la misma zona de casos de afección principalmente del sistema respiratorio, que en algunos pacientes evolucionó rápidamente a síndrome de dificultad respiratoria (SDR), . Hay datos que indican que, aunque los pacientes con SDR relacionado con la COVID-19 satisfacían los criterios de Berlín, en general acudían a urgencias por una forma atípica de este síndrome.
+El foramen oval permeable (FOP) forma parte de la circulación fetal normal. El cierre anatómico del foramen oval tiene lugar en torno al segundo año de vida en la mayoría de la población. Con estudios de autopsias y con ecocardiografías de contraste detalladas, se demuestra que el cierre anatómico es incompleto en aproximadamente 1 de cada 4 adultos y que la frecuencia es parecida en ambos sexos.
+El FOP puede tener considerables implicaciones clínicas. Puede causar varias afeccioones, en particular comunicación interauricular o interventricular, embolia paradójica, hipoxemia y embolia grasa, , , . En los pacientes ancianos con embolia criptogénica y FOP, se ha observado una mayor cantidad de factores de riesgo cardiovascular.
+La ventilación mecánica, en especial en pacientes con SDR, puede distender el sistema vascular pulmonar y el ventrículo derecho, e invertir así el gradiente de presión interauricular, lo que lleva a la apertura del foramen oval y una comunicación de derecha a izquierda, . Se ha observado una prevalencia del FOP de entre el 16 y el 19%, incluso en pacientes con SDR y ventilación mecánica con estrategias de ventilación protectora, , . La comunicación del FOP se relaciona con una menor eficacia en el ajuste de la presión telespiratoria positiva en la mejora de la oxigenación, mayor uso de intervenciones complementarias y más tiempo con ventilación mecánica y en la unidad de cuidados intensivos. Se decidió evaluar a los pacientes con COVID-19 asistidos con ventilación mecánica para identificar el FOP y los efectos fisiopatológicos de este trastorno cardiaco estructural en el proceso terapéutico de los pacientes con COVID-19, y también para obtener una estrategia apropiada en la respiración mecánica para estos pacientes y evaluar su eficacia en la recuperación.
+
+
+- FINANCIACIÓN
+
+Los autores no recibieron ningún tipo de financiación para la investigación, autoría o publicación de este artículo.
+
+
+- CONTRIBUCIÓN DE LOS AUTORES
+
+S. Eskandari concibió la idea presentada y P. Jalali elaboró la teoría. P. Jalali escribió el artículo con S. Eskandari.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores afirman no tener ningún conflicto de intereses.

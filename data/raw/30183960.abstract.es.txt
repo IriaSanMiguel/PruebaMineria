@@ -1,0 +1,5 @@
+El modelo matemático propuesto está representado por ocho ecuaciones diferenciales a las que se les calcula la fuerza de infección por el método de las redes libres de escala.
+Se presenta una simulación del modelo matemático resuelto mediante un algoritmo implementado en el software MATLAB con datos obtenidos de la literatura. En la simulación se puede observar el crecimiento de la fuerza de infección del dengue a través del tiempo, donde esta varía de acuerdo al cambio de algunos parámetros.
+La fuerza de la infección aumenta en el tiempo, es decir, la tasa de nuevos casos crece, mostrando la necesidad de prevención en las personas, mediante el uso de telas metálicas, mosquiteros, repelentes, ropa adecuada entre otras medidas; control químico como larvicidas y adulticidas contra el vector, como también la eliminación de criaderos que interrumpan su ciclo de vida.
+Plantear un modelo matemático hospedero vector para el ajuste de la fuerza de infección del dengue en una población variable con crecimiento logístico y ciclo de vida del mosquito con tasa de ovoposición periódica, considerando inmunidad a un serotipo.
+

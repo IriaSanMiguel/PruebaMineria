@@ -1,0 +1,83 @@
+DOCUMENTO DE CONSENSO DE LA SOCIEDAD ESPAÑOLA DE MEDICINA INTENSIVA, CRÍTICA Y UNIDADES CORONARIAS (SEMICYUC), LA SOCIEDAD ESPAÑOLA DE OTORRINOLARINGOLOGÍA Y CIRUGÍA DE CABEZA Y CUELLO (SEORL-CCC) Y LA SOCIEDAD ESPAÑOLA DE ANESTESIOLOGÍA Y REANIMACIÓN (SEDAR) SOBRE LA TRAQUEOTOMÍA EN PACIENTES CON COVID-19<SUP
+
+
+- INTRODUCCIÓN
+
+La traqueotomía es un procedimiento frecuente en las unidades de cuidados intensivos (UCI) en pacientes con insuficiencia respiratoria que requieren ventilación mecánica.
+La reciente pandemia por COVID-19, en su forma más grave, se presenta con un cuadro de insuficiencia respiratoria aguda que puede evolucionar a un síndrome de distrés respiratorio agudo, que en muchos pacientes requiere el inicio de ventilación mecánica. En las diferentes series, entre el 9,8 y el 15,2% de estos pacientes precisaron ventilación mecánica, , . La traqueotomía quirúrgica es el procedimiento quirúrgico más frecuente entre los enfermos críticos con COVID-19.
+La mortalidad de los pacientes con COVID-19 en ventilación mecánica es elevada y puede llegar al 50%. Estos pacientes requieren estrategias ventilatorias que obligan en las fases iniciales a analgosedación profunda e incluso relajación, ventilación protectora, maniobras de reclutamiento y prono. Todo ello conlleva que muchos pacientes vayan a permanecer en ventilación mecánica durante días, con alto riesgo de desarrollar debilidad muscular adquirida en UCI, lo que dificulta el destete de la ventilación mecánica. El uso de fármacos antivirales específicos puede interaccionar con sedantes y analgésicos prolongando sus efectos. La aparición de delirio, frecuente en este tipo de pacientes, puede también influir en la retirada exitosa de la ventilación mecánica.
+La infección por SARS-CoV-2 ha demostrado una alta tasa de transmisibilidad, sobre todo por vía respiratoria y por dispersión de gotas. Se han establecido recomendaciones específicas sobre los equipos de protección individual (EPI), así como sobre el manejo de la vía aérea relacionado con la intubación y la ventilación mecánica. La realización de procedimientos que generan aerosoles supone un momento de alto riesgo de contagio, y se incluye entre los de mayor riesgo el momento de la intubación, la fibrobroncoscopia y la traqueotomía.
+Existen diferentes recomendaciones relacionadas con el procedimiento técnico a la hora de realizar una traqueotomía en pacientes con COVID-19, pero no existe suficiente evidencia sobre algunas consideraciones relacionadas con el momento óptimo para realizar el procedimiento, el tipo de procedimiento (traqueotomía quirúrgica frente a percutánea) o el tratamiento posterior de estos pacientes.
+En la actualidad, aunque existen series de casos que describen la experiencia sobre el uso de traqueotomía en pacientes con COVID-19, no hay suficiente evidencia que respalde recomendaciones firmes, por lo que el consenso de expertos y la revisión de la literatura en el contexto de la práctica habitual pueden ayudar a establecer actuaciones que puedan guiar este procedimiento en esta enfermedad.
+Realizan las siguientes recomendaciones la Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias (SEMICYUC), la Sociedad Española de Otorrinolaringología y Cirugía de Cabeza y Cuello (SEORL-CCC) y la Sociedad Española de Anestesiología y Reanimación (SEDAR). Estas recomendaciones están sujetas a los cambios de la evidencia científica y pueden adaptarse a los recursos existentes en cada momento.
+
+
+- METODOLOGÍA DE LAS RECOMENDACIONES
+
+Ante el desarrollo de la pandemia COVID-19 y la necesidad de establecer recomendaciones que ayudaran a los profesionales en la toma de decisiones ante determinados procedimientos clínicos, en este caso la traqueotomía, la SEMICYUC, la SORRL-CCC y la SEDAR constituyeron un grupo ad hoc. Se realizó una búsqueda bibliográfica y se redactaron a través del consenso las recomendaciones con base en ella.
+
+
+- RESULTADOS
+
+En las Tabla 1, Tabla 2 se describen las indicaciones y contraindicaciones relativas de la traqueotomía.
+
+
+- MOMENTO DE LA TRAQUEOTOMÍA EN EL PACIENTE CON COVID-19
+
+En la práctica habitual, fuera del contexto de la COVID-19, no existen resultados concluyentes sobre el momento óptimo para realizar una traqueotomía en pacientes críticos. Ello se debe a la heterogeneidad de los pacientes incluidos en los estudios, las diferentes definiciones de traqueotomía precoz y tardía utilizadas, e incluso defectos en la aleatorización de los pacientes en los ensayos clínicos realizados. Todo ello hace que no se pueda establecer de manera definitiva el impacto en los resultados del momento de realizar la traqueotomía en el enfermo crítico. Podría ser lo adecuado en el contexto de los pacientes afectados por COVID-19 definir traqueotomía precoz como la realizada en los primeros 10 días y tardía, la que se realiza más adelante.
+La estenosis laringotraqueal posterior a la intubación es un riesgo bien conocido de la intubación orotraqueal prolongada, pero no se ha demostrado en revisiones sistemáticas que se reduzca significativamente en pacientes tratados con traqueotomía temprana, .
+Se podría establecer que la traqueotomía precoz no aporta beneficios en variables como neumonía asociada a ventilación mecánica o mortalidad, pero parece razonable realizarla a los pacientes con una elevada probabilidad de ventilación mecánica prolongada, por sus beneficios frente a la intubación en términos de bienestar, estancia en UCI y tiempo de ventilación mecánica. Un metanálisis reciente solo mostró resultados sobre la reducción del uso de sedantes en relación con el momento de la traqueotomía.
+La traqueotomía precoz puede incrementar el riesgo de contagio en pacientes con COVID-19 y PCR positiva con carga viral más elevada. Aunque no se conoce con exactitud la tasa de aclaramiento viral, en pacientes críticos podría persistir durante 2-3 semanas. Por ello, existen recomendaciones de sociedades científicas que establecen el criterio de PCR negativa para la realización del procedimiento, considerando como excepción los pacientes cuya intubación orotraqueal no asegure la vía aérea, . En situaciones en las que pueda haber escasez de determinados equipos, como los ventiladores, la traqueotomía precoz podría aumentar la disponibilidad de estos, al reducirse los días de ventilación mecánica, lo cual facilitaría el acceso a un mayor número de pacientes con indicación de ventilación mecánica. En estas circunstancias, la traqueotomía precoz puede facilitar el tratamiento y los cuidados de enfermería.
+En un estudio reciente (datos pendientes de publicación), la traqueotomía ha permitido retirar la ventilación mecánica una media de 4 días después, tanto en las traqueotomías precoces (< 10 días) como en las tardías.
+En el otro extremo, la traqueotomía tardía puede seleccionar mejor a los pacientes en quienes el procedimiento no sea útil por las complicaciones posteriores, como la disfunción de otros órganos que incrementan el riesgo de muerte, o a pacientes con mejor pronóstico que evolucionarán de forma igualmente favorable y podrán extubarse. Parece que los pacientes que no muestran remisión clínica o radiológica dentro de los 10 días pueden ser más propensos a requerir ventilación continua y tener un curso más grave de la enfermedad, incluida la muerte.
+Se recomienda realizar traqueotomía a los pacientes con PCR positiva para COVID-19 a partir del día 14 de intubación orotraqueal, y considerar la traqueotomía precoz solo para pacientes estables con baja demanda de oxígeno, en los que se prevea ventilación mecánica prolongada por otros motivos. Podría considerarse la traqueotomía precoz para optimizar los recursos de intensivos.
+
+
+- TRAQUEOTOMÍA QUIRÚRGICA FRENTE A TRAQUEOTOMÍA PERCUTÁNEA
+
+Respecto al tipo de procedimiento fuera del contexto de la COVID-19, se considera que en el momento actual no existe evidencia que permita establecer recomendaciones de una modalidad de traqueotomía sobre otras. La selección de uno u otro método solo puede hacerse en función de criterios clínicos, experiencia y disponibilidad. En la situación actual de alta carga asistencial, en la que los recursos de intensivos son escasos, la traqueotomía quirúrgica realizada por equipos quirúrgicos específicos puede favorecer el procedimiento y evitar retrasos innecesarios. Se recomienda considerar la traqueotomía abierta o la traqueotomía percutánea (TP) a discreción del equipo multidisciplinario, de acuerdo con la experiencia del centro y la disponibilidad de los distintos recursos. En el caso de que, por experiencia y en un equipo multidisciplinario, se considere que la TP es de elección, se debe tener en cuenta las contraindicaciones ya conocidas.
+Aunque el uso de fibrobroncoscopia podría reducir los riesgos relacionados con la TP, estaría desaconsejado para pacientes con COVID-19, pues se incrementa el número de intervinientes y es un procedimiento de alto riesgo en la generación de aerosoles. En caso de que se considere practicarla, se recomienda utilizar piezas que produzcan un sellado a la entrada de este y valorar el uso de fibroscopios desechables, .
+En estos casos, aunque no existe suficiente evidencia para recomendar el uso de ultrasonografía, para disminuir las complicaciones asociadas con el procedimiento, podría ser de utilidad para mejorar la precisión en el sitio de punción en pacientes que presenten dificultad para la identificación de las estructuras anatómicas.
+En ambos casos debe considerase la limpieza de los equipos utilizados según las recomendaciones establecidas.
+En cuellos sin alteraciones anatómicas significativas, la traqueotomía percutánea puede considerarse la técnica de elección teniendo en cuenta las recomendaciones previas y la disponibilidad de profesionales entrenados para realizarla. La técnica quirúrgica, frente a la percutánea, facilitaría un abordaje más controlado y rápido de la vía área en un paciente con alto riesgo de complicaciones. Podría considerarse en las fases de pandemia con mayor carga para los profesionales de intensivos.
+
+
+- LUGAR DONDE REALIZAR EL PROCEDIMIENTO DE TRAQUEOTOMÍA
+
+La TP a pie de cama reduce la necesidad de traslados y desconexiones de la ventilación mecánica si puede realizarse en habituaciones individuales o de presión negativa.
+Se recomienda realizar la traqueotomía en un box de UCI o ubicación próxima (como el quirófano) que disponga de sistema de aislamiento y presión negativa, con la dotación adecuada para el procedimiento. No se recomienda llevarla a cabo en espacios de cohortes de COVID-19 sin boxes de aislamiento. Si se realiza en quirófano, deben tenerse consideraciones específicas, con zonas marcadas para la circulación del paciente y la realización del procedimiento.
+
+
+- TÉCNICA QUIRÚRGICA<XREF RID="BIB0265" REF-TYPE="BIBR">25</XREF>, <XREF RID="BIB0270" REF-TYPE="BIBR">26</XREF>, <XREF RID="BIB0275" REF-TYPE="BIBR">27</XREF>, <XREF RID="BIB0280" REF-TYPE="BIBR">28</XREF>, <XREF RID="BIB0285" REF-TYPE="BIBR">29</XREF
+
+-- RECOMENDACIONES GENERALES
+
+•Utilización de material quirúrgico de traqueotomía estándar.•En la medida de lo posible, limitar el uso de sistemas de corte y coagulación eléctricos, ultrasónicos o cualquier otro que pueda esparcir macropartículas aéreas. Utilizar preferentemente material frío y sistemas de hemostasia convencionales, salvo que se considere que vaya a suponer una demora excesiva en la realización de la técnica.•Utilizar sistemas de aspiración de circuito cerrado con filtro antiviral.•Durante la técnica debe permanecer el mínimo personal indispensable.•Debe realizar la traqueotomía el personal más experimentado disponible utilizando el mínimo tiempo posible.•Utilizar las medidas de protección adecuadas. EPI: bata, gorro y calzas desechables e impermeables; protección ocular y facial de pantalla estanca completa, plástica y desechable; mascarilla de protección FFP2 o FFP3 o equivalente (N95) y mascarilla quirúrgica superpuesta. Utilizar preferiblemente doble guante quirúrgico.•Las gafas, buzos o similares suelen ser sistemas estancos. Es conveniente usar antivaho o similar para evitar que se empañen.•Elegir entre traqueotomía percutánea o reglada quirúrgica en función principalmente del protocolo habitual del centro.
+
+
+-- RECOMENDACIONES EN TRAQUEOTOMÍA PROGRAMADA (PACIENTE INTUBADO
+
+1.Antes de abrir la tráquea:•Establecer una preoxigenación adecuada del paciente (oxígeno al 100%, 5 min).•Relajación muscular completa del paciente durante todo el procedimiento y sobre todo en el momento de retirada de la intubación y la descanulación, para evitar la tos y la aerosolización.•Antes de la apertura traqueal, se debe retirar la ventilación mecánica. 2.Realizar la traqueotomía, retirar el tubo de intubación endotraqueal hasta que se pueda colocar la cánula con balón sin sacarlo completamente; inflar el balón de la cánula.3.Conectar el ventilador y, cuando se compruebe la correcta ventilación (preferentemente por capnografía), retirar el tubo endotraqueal y fijar la cánula de traqueotomía con cinta y puntos de seda. Nunca se debe deshinchar el balón de la cánula de traqueotomía una vez iniciada la ventilación mecánica.4.Recoger todo el material de traqueotomía.5.Retirar el material de protección del cirujano dentro del quirófano o la habitación según las normas vigentes.6.Salir del quirófano o la habitación según las normas.
+
+
+-- RECOMENDACIONES EN TRAQUEOTOMÍA URGENTE (PACIENTE NO INTUBADO
+
+En ocasiones determinadas por el deterioro ventilatorio del paciente, la traqueotomía puede requerirse en situación de urgencia de pacientes no intubados previamente. En estos casos puede ser necesaria una cricotirotomía mediante un set prediseñado para tal efecto.
+La traqueotomía de urgencia se debe evitar en la medida de lo posible, ya que se practica en condiciones no idóneas. Se recomienda una buena comunicación con los servicios de medicina intensiva, anestesia y urgencias, y ofrecer asistencia en las intubaciones que puedan esperarse difíciles.1.Establecer una preoxigenación adecuada del paciente (oxígeno al 100%, 5 min).2.Relajación muscular completa para evitar movimientos del paciente, así como la tos.3.Colocar la cánula de traqueotomía e inflar el balón.4.Conectar el ventilador mecánico y proceder a la estabilización del paciente.5.Fijar la cánula.6.Si no es posible la traqueotomía, se procederá a una cricotirotomía según la técnica estándar.7.En caso de haber practicado una cricotirotomía, se procederá, una vez estabilizado el paciente y asegurada la vía aérea, a realizar una traqueotomía reglada utilizando una incisión diferente. La incisión de la cricotirotomía se cerrará tras la retirada de la cánula anterior y la colocación de la cánula en la traqueotomía.8.Igual que los puntos 4-6 del apartado anterior (traqueotomía programada).
+
+
+-- RECOMENDACIONES ACERCA DEL CUIDADO DE LA TRAQUEOTOMÍA
+
+La asistencia de los pacientes con COVID-19 traqueotomizados puede incrementar la exposición al contagio de los profesionales sanitarios y la diseminación de la infección.
+En la tabla 3 se resumen las principales conclusiones del consenso en relación con la traqueotomía de pacientes con COVID-19.
+Todas estas recomendaciones están basadas en la evidencia y en el conocimiento actual de los especialistas implicados sobre la insuficiencia respiratoria aguda secundaria a neumonía por COVID-19, y es probable que algunas indicaciones cambien o deban adaptarse a los recursos disponibles en los centros de atención durante el transcurso de la pandemia.
+
+
+- AUTORÍA/COLABORADORES
+
+Rosa Villalonga Vadell y Manuel Bernal-Sprekelsen han contribuido por igual como autores sénior.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

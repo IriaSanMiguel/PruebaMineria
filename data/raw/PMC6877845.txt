@@ -1,0 +1,88 @@
+DIFERENCIAS ENTRE MDRD-4 Y CG EN LA PREVALENCIA DE LA INSUFICIENCIA RENAL Y SUS VARIABLES ASOCIADAS EN PACIENTES DIABÉTICOS TIPO 2
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus (DM) es una enfermedad de elevada prevalencia en España, donde estudios recientes la sitúan cerca del 14%. Al menos la mitad de los DM tipo 2 (DM2) mueren por enfermedad cardiovascular (ECV). El riesgo en estos pacientes de sufrir una ECV es de 2 a 5 veces superior respecto a los no diabéticos, , aunque un buen control de la glucemia puede prevenir eventos cardiovasculares (CV).
+Otro factor relacionado con la ECV es la excreción urinaria de albúmina y la insuficiencia renal (IR) crónica, conocidas como enfermedades renales crónicas (ERC). Diferentes estudios concluyen que son marcadores independientes de riesgo de muerte y de eventos CV en personas con y sin ECV conocida, .
+En el estudio NHANES II el pronóstico CV y vital era peor en sujetos con filtrado glomerular (FG) < 70 ml/min/1,73 m2 que en sujetos con FG ≥ 90. Además, en este grupo de pacientes el riesgo relativo (RR) de muerte CV y de muerte por cualquier causa fue de 1,68 (IC 95%: 1,33-2,13) y de 1,51 (IC 95%: 1,19-1,91), respectivamente. El análisis del Cardiovascular Health Study en pacientes mayores de 65 años demostró que por cada 10 ml/min/1,73 m2 de descenso del FG se observaba una elevación del 5% del riesgo de eventos CV (RR ajustado = 1,05 [IC 95%: 1,02-1,09]), tanto de novo como recurrentes, donde además el RR ajustado de muerte por cualquier causa fue de 1,06 (IC 95%: 1,00-1,12). Esta relación está muy documentada en la población general, existiendo menos estudios específicos para población diabética, , .
+En los pacientes diabéticos se ha demostrado una elevada prevalencia de IR, más específicamente en DM2, donde la prevalencia se encuentra entre el 16-40%, mientras que en la población general está entre el 5,1-7,9%, , , .
+Actualmente se aconseja realizar como parte del protocolo de seguimiento anual a los DM2 la determinación del FG. Con el fin de detectar la IR se están utilizando fórmulas para el cálculo de la estimación de filtrado glomerular (EFG) en lugar de la creatinina plasmática, por no ser un método lo suficientemente sensible para evaluar la función renal. Esta falta de sensibilidad se refleja en que existen pacientes con valores de creatinina normales con un FG inferior a 60, los cuales son conocidos como pacientes con IR oculta, . La implementación de las fórmulas de EFG como la Modification of Diet in Renal Disease 4 (MDRD-4), , , la Crockcoft-Gault (CG) y la Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) dan una fiabilidad y una validez ampliamente documentadas. Estas fórmulas están aceptadas por la facilidad de implementación en los informes de laboratorio y de su sensibilidad en la detección precoz de ERC, siendo recomendadas por la mayoría de sociedades científicas. Varios estudios apuntan que concretamente la fórmula MDRD-4 parece mejor para la estratificación de la ERC en diabéticos, , pero no en todos, . Aparentemente, parece que la fórmula MDRD-4 sobreestimaría el FG en pacientes mayores de 66 años y la fórmula CG sobreestimaría el FG en pacientes con sobrepeso.
+Hasta un 30% de DM2 sin albuminuria pueden tener una tasa de FG < 60 ml/min. Actualmente hay pocos estudios sobre la IR oculta en pacientes con diabetes, . El presente trabajo se realizó en DM2 atendidos en atención primaria, y su objetivo fue evaluar qué diferencias clínicas existen utilizando las fórmulas de EFG MDRD-4 y CG entre individuos sin IR, pacientes con IR establecida e IR oculta.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO, CENTRO Y SELECCIÓN DE LOS PARTICIPANTES
+
+Estudio analítico transversal multicéntrico realizado en DM2 visitados en centros de atención primaria. El estudio se realizó en 2007, en las áreas básicas de salud de atención primaria Tortosa-Oest y Amposta, del ámbito de la región sanitaria Terres de l’Ebre (Cataluña). Se elaboró una base de datos Acces que se suministró a cada uno de los investigadores para que pudieran introducir los datos clínicos de los pacientes participantes en el estudio. Se realizaron varias sesiones formativas a todos los investigadores para explicar cómo recoger las variables del estudio. Los participantes fueron seleccionados a medida que iban llegando a la consulta, cumplían los criterios de inclusión y firmaban el consentimiento informado.
+
+
+-- CRITERIOS DE INCLUSIÓN Y EXCLUSIÓN
+
+Los criterios de inclusión fueron tener el diagnóstico de DM2, tener asignado un médico de atención primaria en las áreas básicas incluidas y una edad > 18 años. Se excluyeron pacientes con diagnóstico de DM tipo 1, diabetes gestacional, pacientes que rechazaron participar o con diagnóstico previo de patología cognitiva o psiquiátrica que dificultaba la participación en el estudio.
+
+
+-- VARIABLES REGISTRADAS, TÉCNICAS DE MEDIDA Y SEGUIMIENTO DE LOS PARTICIPANTES
+
+En cuanto a variables clínicas, se registró la edad, el sexo, el peso, la talla, el perímetro de la cintura (PC), el colesterol total (CT), el colesterol ligado a lipoproteínas de alta densidad (cHDL), el colesterol ligado a lipoproteínas de baja densidad (cLDL), los triglicéridos, la glucosa, la hemoglobina glucosilada (HbA1c), el nivel de creatinina sérica y la albuminuria. Para los datos bioquímicos se realizó una analítica al paciente, siempre que no se hubiera realizado una en los 6 meses previos.
+Otras variables clínicas que se evaluaron fueron el riesgo CV (RCV) según la escala REGICOR, la presión arterial sistólica y diastólica, el diagnóstico de hipertensión arterial, el tiempo de evolución de la diabetes, la presencia de ECV y el número de patologías crónicas.
+El cálculo del FG se realizó mediante la fórmula de MDRD-4 y la de CG corregida para la superficie corporal.-MDRD-4 (ml/min/1,73 m2) = 186 * creatinina(-1,154) * edad(-0,203) * 0,742 (si es mujer).-CG (ml/min/1,73 m2) = [(140 – edad) * peso * 0,85 (si mujer) / (72 * creatinina (mg/dl)] * (1,73 / (0,007184 * peso0,425 * talla0,725))].
+Se consideró que un individuo tenía IR establecida cuando su valor de creatinina era ≥ 1,3 mg/dl en mujeres y ≥ 1,4 mg/dl en hombres y con un FG < 60 ml/min/1,73 m2. Los pacientes con IR oculta fueron aquellos que tenían valores de creatinina normal pero un FG < 60 ml/min/1,73 m2. Los pacientes sin IR fueron los que tenían valores de FG y creatinina normales.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En el estudio participaron 493 pacientes DM2. Se realizaron 3 grupos: pacientes sin IR, con IR establecida y con IR oculta. Se analizaron las variables mediante estadística descriptiva, se calculó la media y su desviación estándar (DE) para las variables cuantitativas y el porcentaje en las categóricas.
+Se realizaron 3 grupos de comparaciones diferentes: no IR vs. IR establecida, no IR vs. IR oculta, IR establecida vs. IR oculta. Las diferencias entre grupos para las variables categóricas se evaluaron por la prueba de χ2 y la diferencia de medias en las variables continuas mediante la prueba de t de Student o la U de Mann-Whitney según condiciones de aplicación.
+Se realizaron 2 modelos de regresión logística multivariable por pasos sucesivos condicionales hacia delante, donde solo se introdujeron las variables que en la regresión univariable habían alcanzado un p < 0,10. El primer modelo evaluó qué variables se asociaban a padecer IR global (establecida más oculta) y en el segundo se evaluaron qué variables se asociaban a la IR oculta. Se excluyeron las variables que podían aportar información redundante. Todos los análisis estadísticos se realizaron con el IBM SPSS Statistics 19.0.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS DE LA MUESTRA
+
+Como se observa en el esquema del estudio, la muestra inicial fue de 493 pacientes, pero en la EFG por MDRD-4 se analizaron 484 casos y en CG 482, debido a la falta de alguna de las variables necesarias para su cálculo. De forma global, un 45,2% de los pacientes fueron hombres, la media de edad fue de 70,4 años (DE 11,2), el tiempo de evolución de la diabetes fue de 7,5 (8,1) años, la presión arterial sistólica y diastólica fueron de 140,3 (16,1) y 75,5 (9,3) mmHg, respectivamente, el peso fue de 78,5 (16,1) kg y la creatinina fue de 1,2 (1,6) mg/dl. El 76,1% de los pacientes tomaban tratamiento antihipertensivo y el 59%, tratamiento hipolipemiante.
+La prevalencia de individuos con IR global con MDRD-4 fue del 26,9%, y del 31,3% con CG. La tabla 1 muestra los resultados de la clasificación de pacientes según el tipo de IR diagnosticada con las diferentes fórmulas de EFG en comparación con los valores de creatinina. Se observa que en las 2 fórmulas hay más del doble de pacientes con IR oculta que establecida, siendo la CG la que más porcentaje de IR oculta detecta, lo que refleja la existencia de un porcentaje de pacientes en los que no coincide el diagnóstico entre las 2 fórmulas. Se compararon en estos casos no coincidentes las medias de las variables edad, creatinina, peso y talla, por estar implicadas en el cálculo del FG. La tabla 2 muestra que las únicas variables en las que se encontraron diferencias estadísticamente significativas entre estos grupos fueron la edad y el peso. Los casos de IR oculta detectados por CG y no por MDRD-4 tenían una media de edad mayor y una media de peso menor.
+
+
+-- DIFERENCIAS INTRA FÓRMULAS
+
+La tabla 3 muestra las medias y los porcentajes de las diferentes variables clínicas según la clasificación del tipo de IR para cada fórmula de EFG, así como las significaciones estadísticas de las comparaciones realizadas entre los 3 tipos de clasificación.
+En la EFG con MDRD-4 se observó que la mayoría de pacientes con IR oculta eran mujeres, con una edad media superior respecto a los otros 2 grupos. Los individuos con IR establecida tenían valores más elevados de CT, de cLDL y de HbA1c. Los pacientes sin IR presentaban una media superior de años de evolución de diabetes y un porcentaje mayor de individuos hipertensos, con ECV y con 3 o más patologías crónicas.
+Cuando hacemos las mismas comparaciones con la fórmula de CG en los individuos con IR oculta respecto a los otros 2 grupos, encontramos que presentan una edad media superior y una media de PC e índice de masa corporal (IMC) menores. Respecto a los individuos con IR establecida, el porcentaje de mujeres y los valores de CT y cLDL eran superiores. Respecto a los pacientes sin IR, el porcentaje de pacientes con hipertensión, con ECV y con 3 o más patologías crónicas era superior, al igual que la media de RCV y los años de evolución de la diabetes. En cambio, los niveles medios de glucosa fueron inferiores.
+Finalmente, se observó que del total de individuos que habían sufrido una ECV, alrededor de uno de cada 4 padecía IR oculta, ya fuera estimada con MDRD-4 (26,6%) o con CG (30,2%), y uno de cada 6 padecía IR establecida (17,2% en MDRD-4 y 15,9% en CG).
+
+
+-- DIFERENCIAS ENTRE FÓRMULAS
+
+Los individuos con IR oculta clasificados con la fórmula de CG tenían un menor PC e IMC respecto a los otros 2 grupos de pacientes y un mayor RCV respecto a los individuos sin IR, siendo estas diferencias estadísticamente significativas, hecho que no ocurre con la fórmula MDRD-4.
+
+
+-- FACTORES DE RIESGO ASOCIADOS
+
+La tabla 4 muestra las variables que a través del modelo multivariable han encontrado asociadas al riesgo de sufrir IR con las diferentes fórmulas de EFG. Se puede observar que utilizando las 2 fórmulas solo coincide como factor de riesgo la edad. En cambio, en la tabla 5 se muestra el modelo construido para ver las variables asociadas a padecer IR oculta respecto a la IR establecida, y se puede observar que las variables asociadas al riesgo de tener IR oculta son las mismas en las 2 fórmulas de EFG.
+
+
+- DISCUSIÓN
+
+En los resultados se observa una prevalencia de IR global (oculta más establecida) en DM2 superior a los no diabéticos, con valores dentro del rango de prevalencia encontrada en estudios previos (16-40%), , , y un mayor porcentaje de individuos con IR oculta respecto a la IR establecida, también ya descrito, . Llama la atención que en la práctica clínica hasta el 40% de DM2 pueden padecer IR global, y que de estos, la mayoría son pacientes con IR oculta, es decir, no detectada por valores de creatinina.
+Comparando las 2 fórmulas de EFG, se observa que la fórmula CG detecta un 4% más de casos de IR global, siendo a expensas de la detección de un mayor número de individuos con IR oculta. Los pacientes detectados con IR oculta mediante CG y no con MDRD-4 tienen una mayor edad y un menor IMC. Ello en parte podría ser explicado por estudios previos que demuestran que la fórmula MDRD-4 sobreestima el FG en pacientes mayores de 66 años y la fórmula de CG lo sobreestima en pacientes con sobrepeso. Estas observaciones abren una puerta a valorar la conveniencia de utilizar la fórmula de CG en pacientes con IMC bajo y en pacientes de mayor edad.
+Varios estudios apuntan que concretamente la fórmula MDRD-4 parece mejor para la estratificación de la IRC en diabéticos, , pero en otros no parece tan claro, .
+En ambas fórmulas, los pacientes con IR oculta presentan más patologías crónicas, hipertensión y ECV que los pacientes sin IR. Cabe destacar que se trata de pacientes con una media de edad superior respeto a los pacientes sin IR. Respecto a los pacientes con IR establecida, los individuos con IR oculta son el grupo con edad más avanzada, con un mayor porcentaje de individuos hipertensos y un peor control del cLDL. Por contra, los individuos con IR establecida tienen un mejor control del cLDL y de los niveles de glucosa respecto a los individuos con IR oculta y sin IR. Estos resultados reflejan que los pacientes con IR oculta presentan un peor control de factores de RCV, en parte probablemente debido a que los pacientes con IR oculta tienen una menor conciencia de enfermedad y un menor seguimiento médico respecto a los de IR establecida.
+Tal y como sugieren otros estudios realizados previamente, alrededor de entre un 25-30% de los individuos con ECV padecen IR oculta, lo que refuerza aún más la importancia de evaluar la función renal a través de las fórmulas de estimación del FG y no solo a través de los valores de creatinina en sangre, remarcando su papel como factor de RCV.
+Los individuos con IR oculta suelen tener una IR más leve, por eso no se les puede identificar solamente por los valores de su creatinina. Probablemente, si estos individuos hubieran sido diagnosticados de IR de una forma más precoz, se hubiera podido incidir en ellos haciéndoles un mejor control de los factores de RCV y nefrológicos, pudiendo evitar efectos nefrotóxicos de ciertos medicamentos y un empeoramiento de su función renal. Además, los individuos con IR oculta forman parte de un grupo de pacientes con mayor número de ECV respecto a los de IR establecida, confirmando la importancia de la detección precoz de este tipo de IR.
+Respecto a las variables asociadas al riesgo de padecer IR global, se observan diferencias entre las 2 fórmulas. Con las 2 fórmulas la edad es un factor de riesgo de padecer IR; mediante la fórmula MDRD-4 también lo es el padecer una ECV, y con CG, tener un elevado RCV es factor de riesgo y un PC elevado es un factor protector. En este caso, el PC no sería un factor protector, ya que probablemente esto sea debido a que el valor obtenido de la EFG en individuos con sobrepeso tiende a sobreestimarse con la fórmula CG. La fórmula CG en pacientes con sobrepeso podría conducir a falsos negativos.
+Finalmente, respecto al riesgo de padecer IR oculta, los resultados obtenidos con ambas fórmulas son coincidentes. Los factores de riesgo de padecer IR oculta son el ser mujer (se ha detectado de forma reiterada en estudios previos que las mujeres tienen mayor prevalencia de IR oculta que los hombres, ) y el incremento de la edad y del cLDL. Esta última variable aparece como un factor de riesgo probablemente por la misma razón explicada anteriormente, ya que los individuos con IR oculta tienen un peor control de ciertas variables clínicas, entre ellas el cLDL.
+Los resultados de nuestro estudio podrían ser extrapolables a la población general, ya que se trata de una muestra extraída de la atención primaria, nivel desde donde se controlan la mayor parte de DM2.
+Podemos concluir que la prevalencia de la IR global de DM2 es elevada, y la mayoría lo es a expensas de tener una IR oculta. Debería tenerse en cuenta, a la hora de evaluar la función renal de los DM2, el tipo de fórmula de EFG a utilizar en función de las variables clínicas del paciente, como la obesidad y la edad. Los pacientes con IR oculta presentan un peor perfil CV, lo que realza la importancia de la utilización de las fórmulas de EFG para mejorar su detección y con la finalidad de optimizar el manejo de la IR y el control de los otros factores de riesgo CV.Lo conocido sobre el tema•La prevalencia de IR oculta en DM2 es de alrededor del 20%.•La fórmula MDRD-4 sobreestima el FG en pacientes mayores de 66 años, y la fórmula de CG lo sobreestima en pacientes con sobrepeso.•Alrededor de entre un 25-30% de los individuos con ECV padecen IR oculta.Qué aporta este estudio•La fórmula CG detecta un 4% más de casos de IR global, siendo a expensas de la detección de un mayor número de individuos con IR oculta en DM2.•Los DM2 con IR oculta presentan peor control de los factores de RCV.•Los factores de riesgo de padecer IR oculta en DM2 coinciden en ambas fórmulas y son el ser mujer, el incremento de la edad y el incremento del cLDL.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

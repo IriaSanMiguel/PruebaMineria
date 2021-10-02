@@ -1,0 +1,112 @@
+FAMILIA, ECONOMÍA Y SERVICIOS SANITARIOS: CLAVES DE LOS CUIDADOS EN PACIENTES CON DIABETES Y AMPUTACIÓN DE MIEMBROS INFERIORES. ESTUDIO CUALITATIVO EN ANDALUCÍA
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus (DM) es una de las enfermedades con mayor prevalencia a nivel mundial y con una elevada tasa de complicaciones que reducen la esperanza y la calidad de vida en los pacientes afectados. En concreto, la úlcera de pie diabético puede afectar a lo largo de la vida a una de cada 4 personas con DM, llegando a provocar amputaciones menores o mayores de miembros inferiores (MMII). En España la frecuencia de amputaciones oscila entre 2 y 4 casos por cada 1.000 pacientes y año, .
+Muchas amputaciones de MMII —y reamputaciones— en pacientes con DM se pueden prevenir con una detección efectiva de los factores de riesgo y un tratamiento precoz, . A pesar de los esfuerzos del Plan Integral de la Diabetes Mellitus en Andalucía (PIDMA) para la prevención y el tratamiento del pie diabético , , el número de amputaciones por pie diabético en Andalucía no ha descendido en los últimos años, especialmente entre los hombres.
+No solo factores biológicos y de acceso a los servicios influyen en la aparición de complicaciones. Las convicciones de los pacientes pueden no coincidir con la de los profesionales sanitarios respecto a los cuidados del pie diabético, pudiendo algunas de ellas aumentar el riesgo de complicaciones. La metodología cualitativa aporta información relevante sobre variables potencialmente implicadas y, con frecuencia, poco consideradas. Además de conocer la realidad de la vida cotidiana de los pacientes con amputaciones y sus necesidades de tipo físico, los estudios cualitativos ponen de manifiesto la existencia de otras necesidades de adaptación psicosocial derivadas de la condición de amputado. Con ejemplos más concretos, dichos estudios han contribuido a la identificación de barreras para el autocuidado general de la DM, y de los factores que afectan al mal control de la glucemia desde la perspectiva de los pacientes y, no únicamente, desde la de los investigadores, . En este sentido, la comprensión de la falta de autocontrol, de las barreras de acceso a los servicios sanitarios y del escaso conocimiento del proceso clínico y de los signos de alerta de amputación —percibidos por los pacientes como factores precipitantes— constituye la clave para la prevención de las amputaciones —y reamputaciones— en pacientes con diabetes.
+La escasez de estudios cualitativos en el ámbito español dirigidos a una comprensión holística de los cuidados en pacientes con DM y amputación de MMII fue el motor principal de esta investigación cuyo objetivo ha sido explorar la vivencia de los cuidados y autocuidados en estos pacientes.
+
+
+- PARTICIPANTES Y MÉTODOS
+
+-- DISEÑO
+
+Estudio cualitativo llevado a cabo entre los meses de marzo y junio de 2015 a través de la realización de entrevistas semiestructuradas de 35 a 65 min de duración, siguiendo un guión básico que se adaptó conforme progresaba la investigación. Las áreas temáticas del guión se presentan en la tabla 1. Las entrevistas se realizaron individualmente en las instalaciones del Hospital Universitario Puerta del Mar: planta de Cirugía Vascular (n = 6); consultas externas de Endocrinología Pie Diabético (n = 7) y de Rehabilitación (n = 2). Otra entrevista se realizó en un Centro de Atención de Personas Mayores (n = 1). Un entrevistador cualificado (GJR) —formado en medicina y sociología y con experiencia en la realización de entrevistas— llevó a cabo la recogida de información. Los participantes no conocían al entrevistador previamente.
+
+
+-- MUESTRA, PARTICIPANTES Y CONTEXTO
+
+Se realizó un muestreo intencional por criterios definidos según las características sociodemográficas de los individuos con DM afectados por amputaciones en Andalucía: hombres mayores de 45 años, nivel de formación y estatus socioeconómico medio-bajo. Asimismo, se incluyeron mujeres (5 de un total de 16) para observar el posible efecto del género sobre los propios cuidados. Dos profesionales clínicos externos al grupo de investigación facilitaron la identificación de pacientes hospitalizados en la planta de cirugía vascular o que acudían a la consulta de Pie Diabético. Solo se entrevistaron personas que dieron su consentimiento y se encontraban en condiciones psicofísicas adecuadas. En total se realizaron 16 entrevistas (11 hombres y 5 mujeres). El número de entrevistados se determinó según los criterios señalados por Morse referentes al tamaño muestral y a la saturación de los resultados, . Las características sociodemográficas de los participantes se detallan en la tabla 2.
+En el estudio participaron personas diagnosticadas de DM con amputación de MMII atendidas en el Hospital Universitario Puerta del Mar, hospital general para la población de la ciudad de Cádiz y San Fernando (240 mil habitantes) y de referencia para el resto de la provincia gaditana (1,24 millones habitantes) en algunas especialidades. El estudio se realizó en una región y una provincia con indicadores socioeconómicos desfavorables dentro del contexto español, con una tasa de riesgo de pobreza y exclusión social de 43,2 en 2015, frente a 28,6 en España. La provincia de Cádiz ocupa los primeros lugares en la tasa de desempleo en España —38,3% en 2015— desde hace décadas.
+
+
+-- ANÁLISIS DE DATOS
+
+Las entrevistas se registraron digitalmente y se transcribieron literalmente en su totalidad. Dichas transcripciones fueron, en principio, procesadas manualmente (sombreado de unidades de significado) y sucesivamente importadas al programa Open Code 4.0 para facilitar el proceso de codificación. Se partió desde la perspectiva fenomenológica descriptiva reseñada por Giorgi. En cuanto al análisis de los datos, este se realizó en 2 fases siguiendo el enfoque de análisis de contenido cualitativo de Graneheim y Lundman. En la fase 1, GJR se familiarizó con todas las entrevistas, identificando en este proceso 4 áreas relevantes: a) rol del apoyo familiar y social; b) relación médico-paciente; c) relación personal de enfermería con el paciente; y d) barreras para el cumplimiento de los autocuidados. Posteriormente dichas áreas fueron delimitadas en unidades de significado —sombreadas en distintos colores para facilitar su identificación— y resumidas en unidades de significado agrupadas. De estas últimas se establecieron de forma inductiva unos códigos que compusieron un listado preliminar. Dicho listado fue discutido entre los integrantes del equipo investigador para su consenso. Tras revisión de la literatura científica y en base al conocimiento de los integrantes del grupo investigador, en la fase 2 tuvo lugar una revisión de las entrevistas y del listado de códigos, consensuando algunos, cambiando otros e incorporando nuevos códigos ausentes en la primera fase. El resultado fue una lista definitiva de códigos agrupados posteriormente en subcategorías y éstas, a su vez, en categorías que reflejan el contenido manifiesto de las entrevistas.
+Con respecto a los criterios de confiabilidad, se contó con la intervención de varios investigadores con diversos perfiles y niveles de familiaridad con el contexto en el proceso de análisis de los datos. Se fortaleció la transferibilidad de los resultados mediante una adecuada selección de los informantes —seleccionados por su capacidad de aportar información relativa a nuestra pregunta de investigación, discursos y en número suficiente para obtener la saturación de la información—. Asimismo, se partió de un enfoque de generalización naturalista —describimos el contexto del estudio para que los/as lectores/as puedan juzgar la transferibilidad de los hallazgos a otros contextos—.
+
+
+-- ASPECTOS ÉTICOS
+
+El estudio contó con la aprobación del Comité de Ética de Investigación del Hospital Universitario Puerta del Mar. Cada participante firmó un consentimiento informado, preservándose además la confidencialidad y el anonimato mediante el uso de seudónimo.
+
+
+- RESULTADOS
+
+-- LA FAMILIA ES LA PIEDRA ANGULAR DE LOS CUIDADOS
+
+Para muchos de los entrevistados la familia cumple un papel importante como fuente de consejo y control en el seguimiento de los cuidados, impulsando al paciente al cumplimiento de las recomendaciones médicas. Esta función es asumida, principalmente, por las mujeres de la familia —esposas, madres e hijas— y no se evidencia el cuestionamiento de dicho rol. Por otro lado, el núcleo familiar también funciona como motor para la «movilización» del paciente en la búsqueda de atención sanitaria: «que andan encima mío cualquier cosa, los médicos, p’acá, esto… ellos no me dejan» —nos refirió el entrevistado Rodrigo en referencia a su familia.
+En otros casos, el familiar cuidador cumple, además, un papel crucial para el desarrollo de las tareas cotidianas. Este es el ejemplo del entrevistado Pablo, quien depende de su hermana para sus actividades diarias, incluida su propia manutención. Dicha dependencia es, para algunos, la causa de un fuerte sentimiento de carga y angustia. La entrevistada Isabel, por ejemplo, ayuda económicamente a su hija (cuidadora) —quien además vive en una situación económica precaria— para aliviar su propio sentimiento de carga. Aquí es necesario mencionar la distinta situación familiar de cada paciente. Para aquellos pacientes que se encuentran solos, esta circunstancia constituye un elemento negativo en la calidad de sus cuidados .
+Una posible estrategia liberadora de dicha emoción consiste, como expresó la entrevistada Rosa, en la remuneración económica del cuidador por parte del Estado.
+
+
+-- LOS ASPECTOS SOCIOECONÓMICOS Y LABORALES DETERMINAN LA CALIDAD DE LOS AUTOCUIDADOS
+
+En el caso de algunos entrevistados, la dificultad económica limita el seguimiento de una dieta específica, ya sea por el elevado precio de los alimentos «saludables», o porque el paciente pertenezca a una familia numerosa que no pueda sustentar el régimen especial del afectado. Varios participantes, como Luis y Rosa, camionero y vendedora respectivamente, expresaron la dificultad para compatibilizar las condiciones laborales con el cumplimiento de los autocuidados prescritos. Esta imposibilidad de conciliación se atribuye a las exigencias de cumplimiento de turnos de trabajo —cambiantes y de largas jornadas— y de las limitaciones en los permisos laborales . En el mismo sentido, algunos de los participantes de nuestro estudio manifestaron haber priorizado su actividad laboral sobre el cuidado de su enfermedad debido a una acuciante necesidad económica, añadida a la infravaloración de las consecuencias de la diabetes.
+
+
+-- LA INTERACCIÓN PACIENTE-PERSONAL DE SALUD DINAMIZA LOS CUIDADOS
+
+La mayoría de los entrevistados/as señalaron la confianza y el trato cercano con su médico/a como elementos relevantes en la relación médico-paciente. Para ellos existen diferencias entre la atención de los médicos hospitalarios y la de los médicos de atención primaria (AP). A diferencia de estos últimos, los hospitalarios son más directivos y cercanos, es decir, siguen a sus pacientes más estrechamente y muestran un mayor grado de implicación. En este sentido, un aspecto destacado es la escasa «personalización» de los cuidados por parte del médico de AP para quien —según las palabras del paciente Francisco— «era simplemente un enfermo más».
+En cuanto al contacto con el personal de enfermería, los entrevistados resaltan —especialmente en el adscrito al sistema hospitalario— la relación de confianza y el compromiso que mantienen con los pacientes. Para estos últimos, la atención recibida por enfermería se caracteriza por la cercanía, la confianza y el compromiso con los cuidados.
+
+
+-- LAS LIMITACIONES EN LA PROVISIÓN DE SERVICIOS SANITARIOS
+
+Para algunos de los entrevistados la variabilidad de la práctica clínica resultante de la especialidad del médico tratante, la rotación del personal sanitario —especialmente personal de enfermería de AP— y el nivel de conocimiento y experiencia de los enfermeros y enfermeras tiene un efecto contraproducente en el control y en el seguimiento de las heridas y sus cuidados. El participante Pedro observó, además, que la afluencia elevada de personas a los centros de salud dificulta una atención más personalizada .
+
+
+- DISCUSIÓN
+
+En el presente estudio los participantes expusieron el papel primordial de (i) la familia en los cuidados, (ii) los recursos económicos y las condiciones laborales en el cumplimiento de dichos cuidados y (iii) el encuentro con los servicios sanitarios en la calidad de esos cuidados.
+
+
+-- LA FAMILIA ES LA PIEDRA ANGULAR DE LOS CUIDADOS
+
+La familia constituye uno de los pilares del Sistema de Bienestar Familista que prevalece en los países latino-mediterráneos. Según este modelo, la familia es el espacio «natural» de desarrollo y resolución de conflictos vitales. En este sentido, nuestros resultados ponen de manifiesto el consejo familiar —especialmente el de familiares con DM— como fuente relevante de información y motivación para los entrevistados, al ampliar el grado de comprensión de la información recibida por el paciente en la consulta médica. Al mismo tiempo, el acompañamiento —en ocasiones forzado— del familiar propicia la búsqueda temprana de atención sanitaria.
+Por otra parte, el modelo de bienestar familista presenta también aspectos negativos. El Estado relega su papel de facilitador de los cuidados a un segundo plano (responsabilizando de los mismos al entorno familiar); y generando, en consecuencia, un posible sentimiento de «carga» tanto en el enfermo como en el familiar cuidador. Por tal motivo, es lícito sugerir que las políticas estatales de reducción del gasto social contribuyen a la instauración y perpetuación de dicho sentimiento de carga y a la creación de desigualdades en los cuidados, especialmente en aquellos pacientes que no cuentan con un apoyo familiar consolidado.
+Asimismo, el modelo familista se encuentra asociado a «la naturalización de los cuidados como parte de las cualidades de las mujeres». La asunción de los cuidados por parte de ellas es una constante en nuestros resultados, es decir, el rol de género subyace en el discurso de los cuidados: las mujeres —esposas, madres e hijas— son quienes principalmente asumen la función de cuidadoras. En el caso de las mujeres con diabetes y amputación, su rol llega incluso a condicionar la atención de sus propios cuidados: estas mujeres priorizaron la atención de las preferencias y demandas familiares en detrimento de su condición de enfermas. De lo expuesto anteriormente se pueden derivar efectos nocivos en los autocuidados de estas mujeres cuidadoras o enfermas y una mayor incidencia de depresiones y consumo de ansiolíticos.
+
+
+-- LOS ASPECTOS SOCIOECONÓMICOS Y LABORALES DETERMINAN LA CALIDAD DE LOS AUTOCUIDADOS
+
+Diversos estudios han demostrado el efecto deletéreo de las desigualdades sociales, el estrés, el desempleo, las malas condiciones de trabajo, la pobreza y la exclusión social, entre otros, sobre los resultados en salud. Por ejemplo, Hinder et al. demostraron la asociación del bajo nivel socioeconómico con un peor manejo de los cuidados diabéticos. En el caso particular de nuestro estudio, se detectó la influencia negativa de la precariedad económica en el seguimiento de los mismos al limitar el acceso a alimentos «saludables» e imposibilitar el cumplimiento de un régimen «especial» en el seno de familias numerosas.
+En el ámbito laboral, según Tong et al., la priorización de las actividades laborales y las limitaciones horarias dificultan la adherencia a los horarios de comida y medicación. En sintonía con lo anterior, se evidenció en algunos de los participantes la aceptación de condiciones laborales adversas en detrimento del correcto seguimiento de los autocuidados. Esto es igualmente coincidente con los hallazgos de una investigación en trabajadores británicos, quienes preferían mantener niveles elevados de glucemia a sufrir episodios de hipoglucemia que atentaran contra su productividad, poniendo así en riesgo su salud.
+
+
+-- LA INTERACCIÓN PACIENTE-PERSONAL DE SALUD DINAMIZA LOS CUIDADOS
+
+En lo relativo al encuentro entre paciente y sistema sanitario, algunos estudios señalan la relevancia de la confianza entre paciente y médico como condición necesaria para alcanzar una alta adherencia al tratamiento, . Este hallazgo se ajusta a lo expuesto por algunos de nuestros entrevistados, para quienes, además de la confianza, el trato cercano con el personal sanitario es esencial. Las diferencias observadas por los participantes —seguimiento más estrecho y mayor implicación en los cuidados— entre la atención de los médicos hospitalarios y la de los médicos de AP podrían estar condicionadas por la organización de la práctica médica de cada uno de los profesionales. El enfoque de atención centrada en la persona «reconoce la singularidad y el papel central de la persona en su atención» destacando el papel de cuidador y apoyo del personal sanitario, el empoderamiento del paciente y la necesidad de conocer la biografía, preferencias y deseos de este. Desde la opinión de algunos de nuestros entrevistados, la escasa personalización de los cuidados hace referencia al bajo grado de adaptación de las recomendaciones sanitarias a la situación vital del paciente, dificultando así su cumplimiento. Aunque la percepción de la atención centrada en la persona pueda diferir entre el personal sanitario y el paciente, algunos estudios sugieren la atención centrada en la persona como un abordaje altamente coste-efectivo, especialmente en el tratamiento de pacientes crónicos.
+En cuanto al contacto con el personal de enfermería, los entrevistados resaltan —especialmente en el adscrito al sistema hospitalario— la relación de confianza y el compromiso que mantienen con los pacientes. La atención recibida por el personal de enfermería se caracteriza por la cercanía, la confianza y el compromiso con el cuidado de los pacientes. Una posible explicación de dicha percepción reside en la naturaleza de las tareas de enfermería: son estos profesionales quienes llevan a cabo de modo más estrecho y constante los cuidados de los pacientes.
+
+
+-- LAS LIMITACIONES EN LA PROVISIÓN DE SERVICIOS SANITARIOS
+
+En lo referente a la percepción del efecto perjudicial en la atención de la excesiva rotación del personal de enfermería, es fundamental destacar la relevancia de la continuidad en la relación profesional sanitario y paciente con enfermedad crónica. Dado que la confianza entre el paciente y el personal sanitario se considera un atributo imprescindible de la buena práctica clínica, debemos puntualizar que su construcción depende de la continuidad de la interacción y de la identificación del profesional con la situación del paciente. Este hallazgo ha sido corroborado por el proyecto «EU-primecare Project-team» donde se resalta la importancia en la calidad de los cuidados de una larga y continua relación personal entre paciente y su médico AP.
+
+
+- LIMITACIONES Y FORTALEZAS
+
+La limitación más importante de este estudio radica en que fue llevado a cabo en el propio centro hospitalario, aunado a las circunstancias particulares —convalecencia— de algunos de los entrevistados, lo que pudo haber influido en la profundidad de los relatos. Por otra parte, el estudio contó con la colaboración de investigadores expertos en el tema y en metodología cualitativa.
+
+
+- IMPLICACIONES PARA EL SISTEMA SANITARIO
+
+La valoración de la situación familiar (fortalezas y debilidades) y de la situación económica (estatus laboral, grado de inseguridad alimentaria, cargas económicas, etc.) de los pacientes puede contribuir a la personalización y/o adaptación de las recomendaciones sobre los cuidados en general y, más concretamente, sobre la educación dietética. Los familiares cercanos deben también formar parte de dicha valoración. Por otro lado, propiciar la confianza entre el paciente y el personal sanitario y fomentar la continuidad de los cuidados de enfermería (curas del pie diabético, educación diabetológica y otros) posibilitarían una mayor adhesión a las recomendaciones sanitarias.
+
+
+- CONCLUSIONES
+
+La familia, la situación económica y laboral y las características del sistema sanitario, constituyen elementos de relevancia en los cuidados de pacientes con DM que han sufrido amputaciones de MMII en una población de entrevistados de la provincia de Cádiz. Los servicios de salud deben tomar en consideración dichos factores para la elaboración de estrategias preventivas y para mejorar la accesibilidad y el impacto de la atención sanitaria y de los servicios sociales comunitarios de las personas con DM.
+
+
+- FINANCIACIÓN
+
+Proyecto financiado por el Plan Estatal de I+D+I 2013-2016, Instituto de Salud CArlos III, en su convocatoria 2015 con la Cofinanciación del Fondo Europeo de Desarrollo Regional, FEDER y con número de Expediente PI15 01106.Lo conocido sobre el temaLa relación entre factores socioeconómicos y las enfermedades —la diabetes y sus complicaciones— se encuentra ampliamente estudiada desde una perspectiva cuantitativa; no obstante, pocas investigaciones incluyen las percepciones y experiencias de la enfermedad desde un enfoque cualitativo. Esta afirmación es doblemente importante en España.¿Qué aporta este estudio?En la provincia de Cádiz, muy afectada por la privación socioeconómica, la familia, los recursos económicos y el sistema sanitario desempeñan un papel decisivo en los cuidados de pacientes con diabetes antes y después de padecer una amputación de miembro inferior.Las políticas sociales y sanitarias deben tener en cuenta la relevancia del papel de la familia y la situación social de los pacientes en la estrategia de personalización de los consejos y recomendaciones para los cuidados y el tratamiento.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores manifiestan no poseer conflictos de intereses.

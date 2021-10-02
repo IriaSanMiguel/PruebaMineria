@@ -1,0 +1,110 @@
+VIG-EXPRESS: CONSENSO DE UN SISTEMA DE VALORACIÓN MULTIDIMENSIONAL/GERIÁTRICA RÁPIDA EN CATALUÑA
+
+
+- INTRODUCCIÓN
+
+Nos encontramos ante la eclosión epidemiológica y demográfica de un grupo de personas vulnerables, con multimorbilidad, fragilidad, necesidades complejas de atención, necesidades paliativas y dependencia, , , , , . En el futuro más inmediato, esta realidad supondrá un reto para los profesionales de los sistemas sanitario y social, que tendrán que estar familiarizados en el manejo de situaciones complejas, demostrar capacidad para trabajar en equipo y tener especial habilidad para la toma de decisiones compartida, dirigida a la personalización de las intervenciones.
+La respuesta asistencial a este grupo de personas requiere de un abordaje integral adaptado a las necesidades de cada persona. El proceso de individualización debe contemplar el diagnóstico situacional (o de precisión) que permita la valoración de los problemas de salud, pero también la situación global de la persona y sus preferencias, y con base en este rubro, se deben perfilar los objetivos asistenciales como áreas tributarias de intervención específica.
+Realizar este diagnóstico situacional, de naturaleza necesariamente multidimensional, es una tarea compleja que requiere de tiempo y conocimiento, y va mucho más allá de la administración acumulativa de una serie de escalas. Actualmente, el sistema de valoración multidimensional con más evidencia para las personas de perfil geriátrico, frágiles, multimórbidas o complejas es la Valoración Geriátrica Integral (VGI). Pero la VGI presenta algunas características que limitan su aplicación, ya que requiere de conocimiento experto, de un tiempo significativo y de la valoración sincrónica de múltiples profesionales. Además, el resultado obtenido es de naturaleza cualitativa, lo que a menudo limita la comunicación interprofesional.
+Dada la necesidad creciente de herramientas que permitan a los diversos profesionales del sistema compartir su visión e individualizar la atención al paciente, han aparecido en la literatura reciente múltiples propuestas de herramientas de valoración multidimensional/geriátrica rápidas (VMGR). Estas propuestas permiten una aproximación multidimensional amplia, con un tiempo limitado y pueden ser habitualmente administradas por parte de un único profesional en cualquiera de los ámbitos del sistema de salud, , , , . Sin embargo, si bien existe un gran consenso y evidencia sobre el papel de la VGI, este no es el caso en los sistemas de VMGR.
+Es por este motivo que, desde el Programa de Prevención y Atención a la Cronicidad y el Plan Director Sociosanitario del Departament de Salut de la Generalitat de Catalunya, y avalado por el Plan de Atención Integrada Social y Sanitaria (PAISS), nos propusimos como objetivo promover el consenso de una herramienta de VMGR como sistema compartido y universal de valoración multidimensional inicial, para ser puesta a disposición de todos los profesionales del sistema de salud y social. En este trabajo describimos el proceso de consenso para el desarrollo de tal herramienta y la propia resultante.
+
+
+- PARTICIPANTES Y MÉTODOS
+
+-- DISEÑO DEL PROCESO
+
+El comité científico junto con el equipo técnico diseñó un proceso de consenso que combinaba el trabajo telemático y presencial (en Barcelona) de los expertos. La duración fue de seis meses, de enero a junio de 2019, ambos inclusive.
+El proceso fue evolucionando hasta estructurarse en tres fases, y cumplir el objetivo establecido: el consenso de un sistema de VMGR. Las metodologías aplicadas fueron en primer lugar el Design thinking, con el objetivo de identificar oportunidades centradas en las necesidades reales de las personas y promover formas de solucionar problemas a través de un pensamiento colectivo, y el Lean Start-Up, con el objetivo de desarrollar un prototipo que permitiese recoger, con el mínimo esfuerzo, la máxima cantidad de conocimiento validado acerca de los usuarios finales y sus necesidades, , . La figura 1 muestra un diagrama del diseño del proceso y en el se presenta un resumen detallado de los objetivos de trabajo y la descripción de las actividades realizadas.Figura 1
+
+
+-- FASE 1. CONSENSO SOBRE EL OBJETIVO Y CARACTERÍSTICAS DE LA HERRAMIENTA DE VMGR
+
+En primer lugar, se realizó un trabajo individual con el objetivo de recopilar información desde la perspectiva particular de los panelistas mediante un cuestionario online que se cumplimentó durante el mes de enero de 2019. El cuestionario contenía preguntas sobre cómo debería ser la herramienta, el grupo poblacional objetivo, las dimensiones o variables que debía incluir, la sistemática de valoración de dichas variables, y la mejor metodología para obtener los datos.
+En la primera reunión presencial (enero de 2019), se trabajó la visión grupal de la herramienta ideal, con base en las opiniones individuales de los expertos que fueron priorizadas mediante un sistema de votación de cuatro votos por participante. Además, se trabajó el consenso del propósito del proyecto, del producto, y se acordó la metodología por la cual evolucionaría el proyecto.
+Una vez consensuado el propósito del proyecto, así como realizada la definición de la población objetivo y las características de la herramienta, se procedió a una revisión narrativa (narrative review) con el objetivo de identificar instrumentos publicados que se pudieran ajustar a los requerimientos consensuados. Esta revisión narrativa fue realizada en primera instancia por parte de los coordinadores del proyecto, incorporando posteriormente las sugerencias realizadas por parte de los expertos. De acuerdo con esta revisión previa de los instrumentos de VMGR publicados, en la segunda reunión presencial (febrero de 2019) se discutieron cuáles deberían ser las características de la herramienta y si había alguna que se adaptase a los requerimientos consensuados.
+
+
+-- FASE 2. DISEÑO DE UNA NUEVA HERRAMIENTA DE VMGR
+
+A través de un trabajo online (entre febrero y abril de 2019), se obtuvieron las preguntas trigger propuestas por los panelistas y mediante rondas consecutivas de consulta estructurada (Delphi) se alcanzó el consenso de las preguntas trigger finales para valorar cada dimensión de la herramienta ideal.
+En la tercera reunión presencial (abril de 2019) se presentaron los resultados de consenso de las preguntas trigger conforme los resultados del trabajo online, con el objetivo de consensuar la primera versión del instrumento, procurando que las preguntas trigger fueran comprensibles para su aplicación en la práctica real, tal y como se testeó posteriormente en la fase 3. Para ello, se construyó un prototipo de herramienta como un mínimo producto viable, mediante el método Lean Start-Up, .
+
+
+-- FASE 3. TESTEO DEL PROTOTIPO Y CONSENSO DE LA NUEVA HERRAMIENTA DE VMGR
+
+El prototipo fue probado por miembros voluntarios del grupo de expertos durante un periodo de validación en la práctica clínica real. Para esta prueba los distintos profesionales eligieron aleatoriamente pacientes de su práctica asistencial habitual. Paralelamente al testeo de la herramienta, el profesional/es cumplimentó un cuestionario de aplicabilidad sobre el uso de la herramienta en cinco personas. Las respuestas sobre la aplicabilidad de la herramienta incluían: tiempo de administración, problemas de comprensión del paciente o cuidador, orden de las dimensiones u otros comentarios.
+La herramienta definitiva fue aprobada por los panelistas en junio de 2019.
+
+
+-- PARTICIPANTES EN EL CONSENSO
+
+Los coordinadores del proyecto, el comité científico (constituido por tres profesionales del Departament de Salut de la Generalitat de Catalunya y un profesional del Departament de Treball, Afers Socials i Famílies) y el equipo técnico (constituido por dos especialistas en consultoría de la salud), reclutaron a un panel de expertos de perfil eminentemente asistencial e interdisciplinario, incluyendo médicos generalistas (medicina familiar y comunitaria, geriatría, cuidados paliativos y medicina interna), enfermeras y trabajadores sociales, representativos de distintos ámbitos asistenciales (atención primaria sanitaria y social, atención hospitalaria de agudos y sociosanitaria y residencial). Para su identificación se empleó una estrategia de «muestreo no probabilístico por cuotas», consistente en seleccionar de forma no aleatoria a personas representativas de diferentes grupos. En este caso se restringió la inclusión a profesionales involucrados en el manejo de pacientes de perfil geriátrico, frágiles, multimórbidos o complejos. Esta técnica se desarrolló en tres fases, que fueron pilotadas por los coordinadores del proyecto: 1) Identificación de perfiles de profesionales a incluir; 2) Identificación del número de profesionales por cada cuota; 3) Selección de participantes.
+
+
+-- ANÁLISIS
+
+Los coordinadores del proyecto asistieron a las reuniones presenciales y, a cada fase del proyecto, resumieron las respuestas del grupo de expertos para definir si se habían cumplido los objetivos de cada fase.
+En la tabla 1 se detalla el marco normativo, establecido por los coordinadores del proyecto, sobre el que se construyeron las preguntas trigger desarrolladas en la fase 2.
+
+
+- RESULTADOS
+
+-- PANELISTAS Y PARTICIPACIÓN
+
+Se constituyó un panel de 27 profesionales expertos y de perfil asistencial, que se detallan en el .
+
+
+-- FASE 1. CONSENSO SOBRE EL OBJETIVO Y CARACTERÍSTICAS DE LA HERRAMIENTA DE VMGR
+
+El resume las principales aportaciones individuales de los panelistas. Mediante un sistema de priorización de las respuestas se llegó al consenso inicial grupal sobre el propósito del trabajo, que fue resumido por parte de los panelistas en la siguiente frase «Construir una herramienta para detectar necesidades, capacidades o déficits de la persona evaluada, de fácil uso, que facilite una visión compartida entre los profesionales y facilite la toma de decisiones».
+De acuerdo con las respuestas más votadas se consensuaron tanto la población objetivo como los ámbitos de utilización, profesionales beneficiarios de su uso, así como las características que debería tener la herramienta ideal de VMGR .
+En la búsqueda bibliográfica de herramientas de VMGR se identificaron un total de 10: el Saint Louis University Rapid Geriatric Assessment Tool (RGA), el Abbreviated Comprehensive Geriatric Assessment (aCGA), el 10-min Targeted Geriatric Assessment, el electronic Frailty Index (eFI), el Resident Assessment Instrument-Minimum Data Set (RAI-MDS), el G8 screening tool, el Self Sufficiency Matrix (SSM), el Índice Frágil-VIG, , la propuesta de valoración geriátrica básica publicada en el Curs Autoformatiu en Atenció Primària Salut (CAAPS) sobre fragilidad y cronicidad compleja de la Societat Catalana Medicina Familiar i Comunitària (CAMFIC) y el aún no publicado sistema de VMGR para los servicios de urgencias 3D/3D+. Si bien todas ellas tienen una naturaleza multidimensional, se diferencian en la fuente de obtención de datos, así como en su estructura y en la aproximación al diagnóstico situacional de la persona .Figura 2
+De las herramientas presentadas en la segunda reunión presencial, los participantes consensuaron que la herramienta que más se aproximaba al sistema ideal de VMGR era el Índice Frágil-VIG, , dado que facilita el diagnóstico de situación de forma cuantificada, con una excelente capacidad pronóstica (AUC a 1 año: 0.9); además, se realiza con base en una valoración ad hoc mediante preguntas trigger (incorporando también datos obtenibles de los sistemas de información); también valora la mayor parte de las dimensiones planteadas por el panel y es rápido de administrar (inferior a 10 minutos). Aun así, el instrumento no incorpora algunas de las dimensiones propuestas (deprivación sensorial y algunos síndromes geriátricos) y valora escasamente la dimensión social, la evidencia publicada está más focalizada a personas en situación de complejidad y enfermedad avanzada que a personas con fragilidad inicial. Se propusieron las opciones siguientes a debate: utilizar el Índice Frágil-VIG como herramienta de VMGR; elaborar una nueva herramienta de VMGR o partiendo del Índice Frágil-VIG y aprovechando sus cualidades, elaborar una versión modificada, simplificando alguno de los ítems e incorporando algunas nuevas dimensiones no contempladas en otros modelos anteriores. El grupo se decantó por la última opción y, previo permiso de los autores de este instrumento, se inició el proceso de adaptación.
+
+
+-- FASE 2. DISEÑO DE UNA NUEVA HERRAMIENTA DE VMGR
+
+Partiendo en algunos casos del redactado de los ítems del Índice Frágil-VIG, o proponiendo un nuevo redactado de nuevas preguntas trigger en otros y conforme con los resultados obtenidos, se llegó a diseñar un prototipo de consenso .
+
+
+-- FASE 3. TESTEO DEL PROTOTIPO Y CONSENSO DE LA NUEVA HERRAMIENTA DE VMGR
+
+Se administró el prototipo a 35 pacientes, en el contexto de la práctica clínica habitual y por parte de múltiples profesionales (cuatro médicos, cinco enfermeras y un trabajador social) de distintos ámbitos asistenciales. Se pidió a los profesionales que respondieran a una serie de preguntas orientadas básicamente a valorar la aplicabilidad, comprensión y el contenido con el objetivo de acabar de perfilar el instrumento final . Dado los resultados del testeo y aplicabilidad del prototipo, se consensuó la versión definitiva de la herramienta de VMGR, que se denominó VIG-Express, en referencia a la Valoración Integral Geriátrica (VIG), su relación con el Índice Frágil-VIG y la vocación de instrumento ágil. La tabla 4 muestra la versión básica de la herramienta VIG-Express, mientras que el instrumento completo es recogido en el .
+
+
+- DISCUSIÓN
+
+El objetivo principal de este proceso, el consenso de una herramienta de VMGR, se ha alcanzado con éxito. Mediante el proceso descrito, se ha acabado diseñando y testeando una nueva herramienta, con las características acordadas y los resultados de uso esperados: la VIG-Express. La metodología utilizada ha permitido alcanzar los objetivos de forma dinámica y eficiente, avanzando en cada una de las etapas con un grado de consenso muy destacable.
+
+
+-- CARACTERÍSTICAS DIFERENCIALES Y APLICABILIDAD DEL VIG-EXPRESS
+
+La VIG-Express, presenta algunos elementos diferenciales remarcables en comparación con otras propuestas de VMGR existentes, , , , , , . En primer lugar, esta es una herramienta que ha partido del consenso de profesionales de múltiples ámbitos, y desde una mirada social y sanitaria, hecho realmente remarcable e inédito, ya que la mayoría de las escalas tienen déficits en la contemplación de dimensiones, como sería el caso de la dimensión social.
+En segundo lugar, la mayor parte de los instrumentos de VMGR existentes están generalmente compuestos por la suma de distintas escalas con consumos muy altos de tiempo o bien requieren de los sistemas de información para la obtención de los datos. Si bien la aproximación multidimensional a partir de preguntas trigger utilizada en la VIG-Express podría verse como una limitación, existe evidencia de que una medida que contiene una sola pregunta global puede ser suficiente para realizar una valoración inicial de cada una de las dimensiones, pudiendo llegar a ser tanto o más fiable que otros instrumentos más complejos, .
+Por otro lado, es importante destacar la versatilidad de la VIG-Express como herramienta destinada a ser utilizada por un amplio grupo de profesionales y para un amplio abanico poblacional. Este instrumento está pensado para que sea de uso del profesional y aunque algunas de las preguntas se puedan realizar directamente a la persona y/o a sus familiares, no se trata de un cuestionario autorreportado.
+Finalmente, una de las premisas de la herramienta en desarrollo era que sirviera de punto de partida para la personalización del plan de atención. La VIG-Express facilita los dos elementos clave para este proceso. Primero, permite realizar el diagnóstico situacional de la persona, de forma cuantificada mediante su correlación con el Índice Frágil-VIG, y segundo, permite detectar qué dimensiones pueden estar alteradas, así como las necesidades de la persona y tributarias de intervención específica, teniendo en cuenta que, en estos casos, el profesional deberá valorar la necesidad de una evaluación en profundidad de aquella dimensión, mediante herramientas específicas validadas.
+
+
+- CONCLUSIONES, UTILIDAD Y LIMITACIONES
+
+-- LIMITACIONES Y VISIÓN DE FUTURO
+
+Al tratarse de una propuesta de consenso, existen riesgos de sesgo derivados de la selección de los panelistas, la previa síntesis de la información preexistente, la definición del grado de acuerdo con el que se alcanza el consenso y la evaluación del impacto del mismo. Para minimizarlo, el diseño del proceso, la dinámica de las reuniones y la supervisión del trabajo para todas las etapas corrió a cargo de metodólogos externos y expertos en el consenso grupal.
+Para alcanzar el consenso, consideramos interesante incorporar en un campo donde no existía un instrumento como el que buscábamos técnicas provenientes de las metodologías de innovación aplicadas a las «StartUps», como el Design Thinking y Lean StartUp, ya que estas pueden resultar tanto o más eficientes que los métodos utilizados tradicionalmente en el ámbito de la medicina, , además de su capacidad de facilitar instrumentos más centrados en la persona, . Por otra parte, para la selección de los participantes empleamos una estrategia de muestreo no probabilístico por cuotas que, como todo sistema de selección no aleatorio, presenta un posible sesgo. Sin embargo, si bien en todo estudio de consenso existe una parcialidad en la selección de participantes, el objetivo de incorporar expertos es precisamente que influyan en los resultados obtenidos.
+Por último, las técnicas de consenso no son un método de investigación ni cualitativa ni cuantitativa, por lo que el proceso y los resultados aquí descritos se presentan como un punto de partida. Será necesaria la validación de la herramienta, en distintos ámbitos y por parte de diferentes profesionales y sociedades científicas. Actualmente ya está diseñado otro estudio que validará tanto las características psicométricas del VIG-Express como su utilidad en la práctica asistencial. Además, se procederá a elaborar un «manual de instrucciones» de uso de la herramienta, para facilitar la respuesta a las dudas derivadas de su utilización. Seguidamente será necesaria la validación profesional de la herramienta, más allá de la validación paramétrica del instrumento, especialmente con relación en el desarrollo del plan de atención individualizada que de ella se deriva y, finalmente, se deberá consensuar, con profesionales y sociedades científicas, el toolkit de escalas adicionales que deben acompañar la herramienta para la valoración en profundidad de las dimensiones afectadas detectadas mediante el VIG-Express.
+
+
+- CONCLUSIONES
+
+La VIG-Express es el resultado del consenso de múltiples profesionales de distintos ámbitos asistenciales, y tiene como objetivo facilitar la valoración multidimensional sencilla y rápida de las personas de perfil geriátrico, multimórbidas, frágiles, con necesidades complejas de atención y/o paliativas o en situación social de riesgo, en el entorno comunitario. Esta herramienta pretende facilitar la personalización de las intervenciones, así como la creación de una mirada única y un relato compartido entre los profesionales de los distintos ámbitos de atención sociosanitaria.Puntos claveLo conocido sobre el tema•La aproximación a las personas frágiles y multimórbidas, especialmente cuando existe una situación de complejidad o de enfermedad avanzada, requiere necesariamente de una valoración individualizada y multidimensional.•La Valoración Geriátrica Integral (VGI), que es el sistema de valoración multidimensional con más evidencia, presenta algunas limitaciones en la universalización de su uso en todos los ámbitos del sistema sanitario y social.•Cada vez se hace más patente la necesidad sistémica de herramientas que, aunque en menor profundidad que la VGI, permitan a los profesionales realizar una valoración multidimensional rápida y universal a las personas descritas.¿Qué aporta este estudio?•Mediante la combinación innovadora de metodologías de consenso y creación de prototipos, se describe el desarrollo de una nueva herramienta de valoración multidimensional/geriátrica rápida: la VIG-Express.•La VIG-Express se caracteriza por, mediante el uso de preguntas trigger, detectar tanto posibles alteraciones en las distintas dimensiones de la persona, como realizar su diagnóstico situacional.•La VIG-Express puede ser utilizada por distintos profesionales (médicos, enfermeras, trabajadores sociales) en distintos ámbitos de los sistemas de salud sanitarios y sociales.
+
+
+- FINANCIACIÓN
+
+El presente trabajo ha sido financiado por Bayer Hispania, S.L. Spain.
+
+
+- CONFLICTOS DE INTERESES
+
+Los autores declaran que Bayer Iberia ha colaborado financiando el proyecto.

@@ -1,0 +1,120 @@
+ORGANIZACIÓN DE LA ATENCIÓN A PACIENTES CRÍTICOS EN SITUACIÓN DE PANDEMIA: EXPERIENCIA DEL HOSPITAL VALL D’HEBRON DURANTE EL BROTE DE NEUMONÍA POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+El 11 de marzo de 2020, Tedros Adhanom Ghebreyesus, director general de la OMS, declaró la enfermedad por coronavirus 2019 (COVID-19) como pandemia. El primer paciente registrado en España con COVID-19 se diagnosticó el 31 de enero de 2020. Se trataba de un caso leve e importado, de un paciente alemán ingresado en La Gomera, Islas Canarias. El 24 de febrero aparecieron los primeros casos en la península, con una subsecuente circulación comunitaria exponencial del virus, declarándose el confinamiento de la población el 13 de marzo.
+Bajo el lema «Desear lo mejor, prepararse para lo peor», y basándose en el Plan de Contingencia de la Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias (SEMICYUC), el Hospital Universitario Vall d’Hebron (HUVH) ha desplegado un dispositivo de atención a pacientes críticos sin precedentes. La mortalidad del brote, dependería más de la capacidad de respuesta del sistema sanitario que de los tratamientos aplicados. En este manuscrito se detalla la organización, retos y resultados de la expansión de recursos de áreas críticas para dar respuesta a la pandemia, que puede servir de clave para futuros escenarios similares.
+
+
+- METODOLOGÍA
+
+Se describen las previsiones realizadas, las medidas tomadas y los principales resultados en una cohorte de pacientes críticos durante los primeros dos meses (3 de marzo al 2 de mayo del 2020) de la pandemia por COVID-19 en el HUVH de Barcelona.
+
+
+- PREVISIONES DE LA PANDEMIA PARA EL ÁREA SANITARIA DE HUVH
+
+El HUVH comenzó a preparar la estrategia de transformación el 31 de enero, tres semanas antes de que se diagnosticara el primer caso no importado en España. Se realizó un seguimiento de la epidemia en China con datos de la OMS desde el 22/1/2020, y se analizaron varios escenarios predictivos, a fin de adecuar los recursos hospitalarios disponibles a la aparición de casos de COVID-19 en nuestro centro.
+El HUVH es el hospital comunitario del área Barcelona Nord, que comprende cinco distritos con una población de más de 439.654 personas, . Es un centro de referencia terciario de toda la Comunidad Autónoma de Cataluña para múltiples especialidades y patologías, incluyendo la terapia de soporte con oxigenación con membrana extracorpórea (ECMO) y patología obstétrica.
+
+
+-- PREDICCIONES REALIZADAS
+
+Se realizó una predicción de casos acumulados (incidencia acumulada) en Barcelona Nord. Se tomaron en cuenta tres tasas de afectación: la media de China (5,7 casos/100.000 habitantes o 0,0057%); la tasa promedio de las provincias con menor afectación (todas, excepto Hubei), de un caso/100.000 habitantes (0,001%); y la tasa de Hubei a 11 de marzo de 2020, de 114,5 casos/100.000 habitantes (0,1145%). Con base en la OMS y el Ministerio de Salud Italiano sobre la afectación en Lombardía, se consideró una cuarta tasa de 150 casos/100.000 habitantes.
+Se tuvo en cuenta la misma proporción de casos graves, según los datos de la OMS (18%), y se consideró que un 10% de estos requerirían UCI. En la tabla 1 se observa la previsión de casos graves y que precisan ingreso en UCI para la población del Área Integral de Salud (AIS) Nord con estas cuatro tasas de incidencia.
+El Servicio de Epidemiología de nuestro hospital elaboró una estimación sobre el impacto de una ola epidémica de infecciones por SARS-CoV-2 en el área de referencia del HUVH con una tasa de ataque (incidencia acumulada) del 2,5% .
+
+
+- PLAN DE EXPANSIÓN DE LAS UNIDADES DE CRÍTICOS
+
+Con antelación y optimizando recursos, se elaboró un plan para incrementar progresivamente la capacidad de camas de críticos del hospital, usando los siguientes criterios:1.Priorización según facilidad de implementación, necesidad de recursos e impacto en la organización (por ejemplo, afectación del programa quirúrgico, programa de trasplantes y otros).2.Incorporación de dispositivos existentes reconvertidos.3.Incorporación de dispositivos nuevos que requieren adecuación. Se han habilitado espacios diáfanos adecuadamente cohortizados con instalación provisional de gases medicinales y la instalación eléctrica correspondiente.
+Se logró la expansión hasta 268 camas de UCI (dotación inicial de 123 camas, unidades reconvertidas 52 camas y unidades nuevas con 97 camas); cuatro camas pediátricas fueron utilizadas para adultos (tabla 3 ). Estas camas se repartieron en 205 camas para pacientes con COVID-19, 26 para otras patologías y 37 para Neonatos y Pediatría. Las camas se encontraban dispersas en 13 unidades repartidas en tres edificios.
+Se ha creado una Unidad de Intermedios Respiratorios a cargo del Servicio de Neumología para facilitar el alta precoz de las Unidades de Críticos.
+Esta expansión ha obligado a reducir la actividad quirúrgica programada y la actividad del programa de donación y trasplantes.
+
+
+- ADAPTACIÓN DE LOS RECURSOS HUMANOS
+
+El staff habitual del Servicio de Medicina Intensiva es insuficiente para poder adsorber toda la actividad que se genera con la expansión de recursos. Asimismo, hasta un 40% de los profesionales no estarían activos en diferentes periodos como consecuencia de adquisición de la enfermedad (laboral o comunitaria), y las rutinas de trabajo se debían organizar contemplando descansos. Se ha trabajado en turnos de tres días con un día de guardia de 24 horas y 48 horas de descanso.
+Ha sido necesaria la reincorporación de todos los intensivistas con tareas fuera de la UCI (docencia, coordinación de trasplantes) y los jubilados recientes. Se han creado equipos multidisciplinares de profesionales de áreas críticas (Anestesia y Reanimación, cardiólogos y pediatras de la UCI pediátrica, y UCI neonatal), bajo la supervisión y la coordinación de UCI. En total, 250 profesionales coordinados telemáticamente. Los equipos se complementan con profesionales médicos con poca o ninguna capacitación en UCI, pero asumiendo actividades como la documentación clínica, protocolos de seguridad, información a los familiares, y solicitud de consentimientos. Los profesionales de alto riesgo (edad avanzada próxima a la jubilación, jubilados, embarazadas, enfermedades respiratorias crónicas clínicamente significativas e inmunodeprimidos) se han asignado al manejo de los pacientes con otras patologías.
+Para garantizar la estabilidad psicológica de los profesionales se ha dispuesto de programas de soporte específico por parte de los Servicios de Psiquiatría y de Psicología del HUVH.
+
+
+- COORDINACIÓN, COMUNICACIÓN Y FORMACIÓN
+
+-- COORDINACIÓN
+
+Se creó un comité operativo (jefes de servicio de Medicina Intensiva y Anestesiología, el coordinador de Críticos del HUVH y los coordinadores de las distintas unidades). Los responsables comunican cada mañana el número de ingresos/altas por unidad del día anterior, y previsión de altas. Además, diariamente un coordinador asistencial distribuyó a los facultativos a los puntos con más sobrecarga asistencial, según el día.
+
+
+-- COMUNICACIÓN
+
+La comunicación interna se realiza a dos niveles mediante herramientas telemáticas. El comité operativo se reúne mediante la aplicación ZOOM (Zoom Video Communications Inc., San José, California) cada día entre las 14 y las 15 horas. Estas reuniones sirven para discutir la coordinación asistencial, cambios en protocolos, decisiones clínicas difíciles, circuitos de pacientes y resolución de incidencias. La comunicación con el resto de profesionales del equipo UCI-COVID se realiza por mensajería instantánea (WhatsApp Inc., Mountain View, California), garantizando una homogeneidad asistencial y actualizando de forma diaria la evolución de los casos ingresados. Además, existe disponibilidad durante las 24 h para consultas a un referente intensivista.
+
+
+-- FORMACIÓN
+
+Se realizó formación en los equipos de protección individual (EPI), incluyendo simulación para verificar la correcta utilización, colocación y retirada de los EPI, en la práctica del decúbito prono y en los ventiladores distintos a los habituales. Semanalmente se ha realizado un webinar de actualizaciones de tratamiento de paciente crítico con neumonía COVID-19.
+
+
+- EQUIPAMIENTO
+
+El equipamiento más necesario han sido los ventiladores mecánicos. Con la expansión de las diferentes áreas de críticos, se han empleado diferentes tipos: ventiladores de UCI, máquinas de anestesia (MA), ventiladores de ventilación no invasiva (VNI) reconvertidos y ventiladores de traslado.
+Las MA se han modificado a un circuito abierto. Para ello fue preciso: 1) ajustar el flujo de gas fresco a un mínimo de 1,5 veces el volumen minuto que se le suministraba al paciente, 2) realizar un bypass de la cal sodada en aquellas MA en las que fue posible (se monitorizó el CO2 inspirado y espirado para descartar la presencia de reinhalación) y 3) la humidificación del aire inspirado para prevenir la oclusión del tubo endotraqueal.
+Cada cama nueva de UCI tenía un monitor de cabecera con alarmas centralizadas en un monitor central y cuatro bombas de infusión. Cada nueva unidad se equipó con un analizador de gases. Se han incrementado los monitores de depuración extrarrenal de 18 a 25 dispositivos. Sin embargo, solo el 5,6% de los pacientes críticos han precisado técnicas de depuración extrarrenal, por lo que no ha sido necesario utilizar este incremento.
+
+
+- EQUIPAMIENTO PARA OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO
+
+El Departament de Salut identificó al HUVH como ECMO Center, referente en asistencia respiratoria con ECMO para pacientes con COVID-19. Por tanto, se realizaron cálculos para definir el número de activaciones que recibiríamos. Empleando la plataforma FluSurge, se calculó que entre cinco y ocho pacientes ingresados en UCI HUVH necesitarían asistencia con ECMO durante la pandemia. Se calculó que recibiríamos 55 activaciones de otros centros durante la pandemia con ocho activaciones/semana en pico de casos. Teniendo en cuenta estos datos, se realizó un ajuste de material que se resume en tabla 4 . Se ajustaron los criterios de indicación y contraindicación de ECMO en pacientes con COVID-19, teniendo en cuenta la experiencia previa en pandemia H1N1, lo poco conocido sobre la fisiopatología de la enfermedad y la potencial limitación de recursos. Se distribuyeron fichas con estos criterios, junto con las variables de activación del ECMO team HUVH, por las UCIs del territorio (fig. 1 ).Figura 1
+
+
+- ADECUACIÓN DE PROTOCOLOS Y FARMACIA
+
+No es posible aportar recomendaciones terapéuticas específicas para el coronavirus SARS-CoV-2. Las recomendaciones se han basado en los conocimientos adquiridos en otras pandemias víricas (por ejemplo, gripe, síndrome de distrés respiratorio por otros coronavirus [SARS], síndrome respiratorio de oriente medio [MERS]), en la mejor evidencia sobre manejo respiratorio de pacientes con síndrome de distrés respiratorio agudo (SDRA) y en las últimas publicaciones más relevantes sobre el COVID-19. Es de vital importancia que estén coordinadas y conciliadas con las características de cada hospital, e individuales del paciente. El documento resultante ha sido actualizado periódicamente en función de nueva evidencia relevante, incorporando la experiencia local adquirida. Se incluyen criterios de ingreso, ventilación mecánica invasiva (VMI), tratamiento antiviral e inmunomodulador (farmacológico y extracorpóreo), anticoagulación, control de la disfunción renal y cardiaca, manejo de la vía área (intubación, traqueotomías), y la asistencia con ECMO en los casos refractarios.
+
+
+- MATERIAL FUNGIBLE
+
+Se redactó un plan de contingencia con las recomendaciones del uso racional de los EPI, según el tipo de prioridad asistencial y las dificultades de reposición de material en los almacenes debido a la tensión de los stocks . La mascarilla se reutiliza siempre que esté íntegra (limpia y sin desperfectos) y no esté húmeda. La supervisora de enfermería de cada unidad es la responsable de mascarillas de alta eficacia: Mascarilla FPP3 (para intubación, traqueostomía, fibrobroncoscopia) y/o mascarilla FPP2. Estas se reutilizan durante toda la jornada laboral, protegidas por una mascarilla quirúrgica. Se reesterilizaron al final de cada jornada con peróxido de hidrógeno. Las gafas de montura integral se reutilizaron después de baño en jabones enzimáticos. Las batas fluidorresistentes se reutilizaron y reesterilizaron con peróxido de hidrógeno, siempre que su estructura se mantuviese integra, con ausencia de secreciones o fluidos macroscópicos.
+Se ha priorizado el uso de fibrobroncoscopios desechables (aScope 4 Bronchoregular de Ambú©), favoreciendo la reutilización en el mismo paciente durante su ingreso en UCI.
+
+
+- ATENCIÓN A POBLACIONES ESPECIALES DURANTE LA PANDEMIA: NIÑOS Y GESTANTES
+
+Se ha basado en las siguientes premisas: 1. Necesidad de mantener la capacidad de proporcionar asistencia al niño críticamente enfermo, pero destinando unas camas a pacientes adultos. 2. Colaborar con el dispositivo de asistencia al adulto crítico afecto por COVID-19 del Campus HUVH. 3. Proporcionar una asistencia del máximo nivel a las gestantes afectas por COVID-19, como centro de referencia para dichas pacientes, organizando la asistencia a las pacientes obstétricas críticas, con COVID-19 o con otras patologías obstétricas.
+Dispositivo: 1. Se han añadido cuatro camas de semicríticos en el área adyacente a la Unidad de Cuidados Intensivos Pediátricos (UCIP), que habitualmente se emplea como área de recuperación postanestésica y se han anulado todos los procedimientos quirúrgicos o intervencionistas no urgentes, manteniendo activos los programas de trasplante de órgano sólido pediátricos. 2. Las pacientes gestantes con necesidad de ingreso en UCI han ingresado en la UCIP. Las ventajas de dicha opción son la proximidad con el equipo de Obstetricia, del equipo de Neonatología y de la sala de partos, todos situados en la misma planta a escasos metros de la Unidad.
+
+
+- PLAN DE COMUNICACIÓN A LAS FAMILIAS Y BIOÉTICA
+
+En esta etapa hemos tenido que trabajar con pacientes forzosamente aislados de su núcleo afectivo, familias en situación de crisis alejadas de sus seres queridos, en potencial situación de enfermar (o enfermas), y obligando a que la comunicación se realizara mediante sistemas a distancia (mayoritariamente telefónica y videollamadas). Hemos elaborado infografías, disponibles en la web del centro, como ayuda a las familias para comprender la información médica habitual más compleja. El acompañamiento al final de vida se ha limitado a un familiar y de la forma más breve posible.
+La toma de decisiones en cuanto a criterios de ingreso y limitación de esfuerzo terapéutico se hizo con base en las recomendaciones de la SEMICYUC y las recomendaciones específicas elaboradas de Comité de Bioética del centro a solicitud del Servicio de Medicina Intensiva.
+
+
+- EVOLUCIÓN DE LOS INGRESOS EN UCI Y RESULTADOS GLOBALES
+
+Desde el 3 de marzo de 2020 hasta el 2 de mayo han ingresado en las Unidades de Críticos del HUVH 333 pacientes (fig. 2 ). El pico de nuevos casos fue el 25 de marzo con 24 casos al día, el pico de casos ingresados se produjo el día 6 de abril con 170 casos en las diferentes UCI y el pico de casos que han necesitado soporte con ECMO se produjo el día 18 de abril con nueve casos concomitantes. Durante los dos meses, el porcentaje de los pacientes en VMI o VMI y ECMO se ha mantenido siempre por encima del 78%. Sesenta días después del primer caso ingresado con neumonía por COVID-19 en UCI persistían 55 pacientes ingresados. La mayoría de pacientes han sido hombres (65%) y el grupo de edad más frecuente entre 60 y 70 años.Figura 2
+Durante el periodo de estudio, 23 pacientes recibieron asistencia con ECMO, 18 pacientes de los cuales fueron canulados en otro centro y trasladados al HUVH. A fecha de cierre del estudio, 14 pacientes se decanularon satisfactoriamente, tres pacientes fallecieron y el resto siguen en soporte con ECMO.
+Durante el periodo estudiado han sido atendidas en UCI ocho gestantes, incluyendo una mujer con embarazo gemelar con neumonía. Tres gestantes requirieron oxigenoterapia de alto flujo, y cinco VMI. Cuatro pacientes han requerido parto por cesárea con resultado de cinco recién nacidos vivos y libres de enfermedad. El resto de gestantes siguen adelante con el embarazo. Por tanto, la supervivencia de esta población ha sido del 100%.
+Los datos de mortalidad en UCI en los diferentes grupos de edad (fig. 3 ) muestran una mortalidad creciente, según la edad, destacando que la mortalidad en UCI de los pacientes menores de 60 años fue el 3,2%. La estancia media en UCI de las altas y los fallecimientos ha sido de 14 días.Figura 3
+
+
+- DISCUSIÓN
+
+La atención a los pacientes críticos con neumonía por COVID-19 durante la pandemia ha sido el reto más importante afrontado por la Medicina Intensiva en toda su historia.
+Al 2 de mayo de 2020, en España se habían confirmado 217.466 casos. De los cuales, 118.495 pacientes han requerido hospitalización, 10.974 ingreso en UCI y 25.264 han muerto por complicaciones asociadas a la infección por COVID-19. En Cataluña se han confirmado 50.234 casos, siendo la segunda comunidad más afectada, con 2.844 casos que han requerido ingreso en UCI. Tal como se describe en este manuscrito, el HUVH ha atendido 333 pacientes críticos (11,7 y 3,0% de los pacientes críticos de Cataluña y España, respectivamente). En el presente manuscrito describimos la aplicación práctica de los Planes de Contingencia en uno de los hospitales españoles que han atendido más pacientes críticos con neumonía por COVID-19.
+Los resultados clínicos en HUVH han sido mejores a los descritos previamente en la literatura, . Los mejores resultados obtenidos no se pueden explicar por diferencias en los tratamientos aplicados, debido a la falta de un tratamiento con eficacia demostrada, sino, más bien, por la adaptación organizativa a la pandemia.
+Las claves de los cambios organizativos llevados a cabo en HUVH son: 1) Reducción de la actividad quirúrgica programada y la actividad del programa de donación y trasplantes; 2) expansión anticipada de las camas de críticos; 3) formación de equipos multidisciplinares liderados por intensivistas con adecuados turnos de trabajo y descanso; 4) movilización del equipamiento necesario, con las adaptaciones correspondientes, especialmente respiradores y bombas de ECMO, y fungibles; 5) coordinación y formación de los equipos mediante herramientas telemáticas; 6) criterios unificados de ingreso en UCI, VMI y ECMO; 7) uso racional de EPIs y adaptación de los protocolos de sedorelajación al stock de fármacos disponibles; y 8) atención de las gestantes críticas en la UCIP.
+Los datos observados han sido muy superiores a los predichos, lo que pone en evidencia que la afectación por este brote es difícil de predecir basándose en otra área geográfica. La heterogeneidad de la afectación de los diferentes territorios obliga a un seguimiento muy estrecho de la epidemiología local, y a anticipar las decisiones.
+Asimismo, en caso de futuros brotes por enfermedad COVID-19, la expansión de camas, la necesidad de equipamiento y de profesionales no deberían interferir con la actividad ordinaria del hospital, por lo que es conveniente mantener un tiempo los espacios asistenciales expandidos y adecuar las plantillas de medicina intensiva.
+
+
+- CONCLUSIONES
+
+La aplicación práctica de los planes de contingencia para la atención de los pacientes críticos con neumonía COVID-19 es un reto organizativo y asistencial. A pesar de la altísima demanda en un corto periodo de tiempo, la planificación anticipada de los recursos necesarios en el HUVH ha permitido dar una respuesta adecuada con buenos resultados globales.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

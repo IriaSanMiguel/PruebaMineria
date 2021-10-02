@@ -1,0 +1,81 @@
+VALIDACIÓN DE LA ESCALA DE CONVIVENCIA CON ARTROSIS EN LA POBLACIÓN ESPAÑOLA
+
+
+- INTRODUCCIÓN
+
+La artrosis es una enfermedad crónica que constituye una de las principales causas de discapacidad. Consiste en un proceso degenerativo que afecta al cartílago articular y al hueso subcondral, y que se acompaña de dolor, rigidez, discapacidad y cambios radiográficos. Su localización más habitual es la columna vertebral, especialmente en la zona lumbar, rodillas, caderas o manos, . La prevalencia de la artrosis aumenta con la edad y afecta más a las mujeres que a los varones. En España, un reciente estudio sitúa su prevalencia sintomática en un 29,35%, con su valor más alto en las mujeres de más de 80 años seguido de las mujeres entre 70 y 79 años.
+Resultan frecuentes los síntomas depresivos en pacientes con artrosis, especialmente en relación con el dolor, , que también se ha relacionado con episodios de ansiedad o de pánico que causan un enorme malestar, y aumentan el consumo de fármacos. Los pacientes con artrosis pueden tener dificultades para llevar a cabo actividades de la vida diaria como ir al baño, caminar o vestirse. Estas limitaciones se han relacionado en varios países, entre ellos España, con situaciones de aislamiento social. En conjunto, vivir con dolor crónico, fatiga, restricciones de actividades o aislamiento social contribuye a la depresión en la artrosis y tiene relación con una menor calidad de vida de los pacientes.
+Aunque hay diversos estudios que han tratado de valorar cómo afecta la enfermedad crónica a la vida de las personas mediante escalas específicas como, por ejemplo, la escala Multiple Sclerosis Impact Scale (MSIS-29) en pacientes con esclerosis múltiple, la escala DEMQOL para pacientes con demencia o Satisfaction with Life Scale (SLS-6) en pacientes con párkinson, no se ha encontrado ningún estudio que lleve a cabo la valoración de la convivencia con la enfermedad en pacientes con un proceso crónico como es la artrosis. Conocer y evaluar cómo la persona convive con una enfermedad crónica es necesario para proporcionar un cuidado holístico y de calidad, de acuerdo a las necesidades específicas de cada paciente, . Por ello, contar con instrumentos de medición como la escala de convivencia es un proceso crónico en pacientes con artrosis (EC-Artrosis) sería un gran facilitador ya que permitiría identificar de manera rápida y sencilla qué factor o factores hacen que la persona conviva mejor o peor con la enfermedad y, consecuentemente focalizar la atención sanitaria acorde a las necesidades específicas de cada paciente. De esta manera, se podrían desarrollar programas de salud que facilitasen realmente el proceso de convivencia con la enfermedad.
+Estudios preliminares previos llevados a cabo en pacientes con artrosis, así como diversos procesos crónicos prototípicos y de gran prevalencia en la sociedad actual, indican que la escala EC-Artrosis sería un instrumento innovador de gran potencial clínico, sencillo y rápido de utilizar en el contexto del modelo sociosanitario actual, resultando de gran interés para profesionales sanitarios, así como para los propios pacientes con artrosis. Por ello, la finalidad de este trabajo es presentar los aspectos psicométricos de la EC-Artrosis en la población española.
+
+
+- MÉTODOS
+
+-- DISEÑO Y SELECCIÓN DE LA MUESTRA
+
+Se realizó un estudio observacional, multicéntrico y transversal, con retest en una fracción de la muestra. Para la selección de los participantes se empleó un muestreo de casos consecutivos, entre los pacientes con artrosis de centros públicos y privados de atención primaria y especializada, así como asociaciones de pacientes de Navarra, La Rioja, Madrid, Valencia y Málaga. El estudio fue previamente aprobado por un comité de ética, así como por todos los centros implicados, y respetó los principios de la Ley 14/2007 de Investigación Biomédica y la Ley 15/1999 de Protección de Datos de Carácter Personal.
+El tamaño muestral se calculó de acuerdo con criterios internacionales siguiendo la norma de 5-10 pacientes por ítem de la escala, obteniendo un tamaño muestral mínimo de 130-260 pacientes.
+Se seleccionaron los pacientes con un diagnóstico de artrosis en la historia clínica en cualquier estadio de la enfermedad; nacionalidad española; cuyo idioma fuera el español o tuvieran conocimientos suficientes para poder completar los cuestionarios; no hospitalizados; con un nivel educativo mínimo que supieran leer y escribir y que firmasen el consentimiento informado. Se excluyó a los pacientes con deterioro cognitivo diagnosticado o con trastornos psiquiátricos, secuelas o comorbilidad que pudieran interferir con el objetivo del presente estudio.
+
+
+-- INSTRUMENTOS
+
+Se empleó un cuestionario sociodemográfico y clínico para recopilar los datos referentes al paciente: edad, género, estado civil, situación laboral y nivel de estudios, así como los datos históricos de la artrosis: edad al diagnóstico, duración con la artrosis y duración con el tratamiento para la artrosis. Además, los pacientes autocumplimentaron los siguientes instrumentos en sus versiones validadas al castellano:
+Para el retest, los pacientes cumplimentaron la EC-Artrosis en sus domicilios a los 7-10 días de la primera evaluación. Se calculó una muestra mínima de 50 pacientes para el retest.
+
+
+-- ANÁLISIS DE DATOS
+
+--- VIABILIDAD Y ACEPTABILIDAD
+
+Para estimar la aplicabilidad de la medida en el contexto previsto se calculó el porcentaje de datos faltantes (< 5%). Con el fin de conocer si la escala recoge el espectro de intensidad del rasgo evaluado y si la distribución de las puntuaciones en la muestra es adecuada, se calculó la distribución de las puntuaciones, el efecto suelo y techo (estándar: < 15%) y el valor de asimetría (límites aceptables: −1 a + 1).
+
+
+--- FIABILIDAD
+
+Se analizó la consistencia interna y la estabilidad de la medida. Para la consistencia interna se calculó el coeficiente alfa de Cronbach (estándar > 0,70), la correlación ítem-total corregida (> 0,30), la correlación inter-ítem (r ≥ 0,20 y ≤ 0,75), y el coeficiente de homogeneidad de los ítems (r > 0,30).
+En cuanto a la estabilidad (fiabilidad test-retest) se calcularon los estadísticos Kappa ponderado para los ítems (estándar: > 0,41 moderado) y coeficiente de correlación intraclase (ICC) (tipo 1; estándar: ≥ 0,60), .
+
+
+--- PRECISIÓN
+
+Se calculó a través del error estándar de la medida (EEM = DE* √ [1–rxx]) donde DE significa desviación estándar y rxx el coeficiente de fiabilidad. Se consideró una precisión aceptable cuando EEM < ½DE, .
+
+
+--- VALIDEZ DE CONSTRUCTO
+
+Para la validez convergente se estimó que existe una correlación moderada (rs ≥ 0,35-0,50) o alta (rs > 0,50), , ; entre la EC-Artrosis y el resto de las medidas incluidas en el presente estudio (DUFSS, WHOQOL-BREF y ES). También se analizó la correlación con la edad al diagnóstico, la duración con la artrosis y la duración con el tratamiento para la artrosis con el coeficiente de correlación de Spearman. En relación con la validez interna se estimó una correlación moderada o alta (correlaciones inter-dominio de la EC-Artrosis (rs = 0,30-0,70), . Respecto a la validez para grupos conocidos, se calculó la magnitud de la diferencia y su significación estadística para identificar diferencias entre los grupos de género, situación laboral y nivel educativo mediante las pruebas de Mann-Whitney y Kruskal-Wallis.
+
+
+- RESULTADOS
+
+La muestra estuvo compuesta por 291 pacientes con artrosis, procedentes de Navarra (27,5%), La Rioja (18,9%), Madrid (24,1%), Valencia (18,9%) y Málaga (10,7%). La edad media era de 68,9 ± 12,4 años (rango: 27-90 años) y el 67,4% eran mujeres. El 60,1% estaba casado, el 54,7% no tenía estudios o tenía estudios primarios y el 54,3% jubilado. La duración con artrosis fue de 12,69 ± 11,09 años (rango: 2 meses-53 años) y la duración en tratamiento para artrosis de 9,69 ± 10,65 años (rango: 2 meses-53 años) .Figura 1
+Se computaron el 97,9% de los datos de la EC-Artrosis, con un total de 6 datos perdidos. Respecto a la aceptabilidad de la EC-Artrosis, todos los ítems y dominios abarcaron al completo el rango posible de puntuaciones. La diferencia entre la media y la mediana observadas resultó inferior al 10% de la puntuación en todos los dominios, así como en el total de la escala. Los valores referentes a efecto suelo y techo oscilaron entre el 0,3 y 0,4%, respectivamente. Los 5 dominios de la EC-Artrosis y el total de la escala se situaron dentro de los valores de asimetría estándares .
+Los resultados del análisis de la consistencia interna fueron los siguientes: el alfa de Cronbach para el total de la escala fue de 0,87 y para los dominios osciló entre 0,70 (dominio Automanejo) y 0,81 (dominio Aceptación). El índice de homogeneidad para el total de la escala fue de 0,22 y para los dominios osciló entre 0,28 (dominio Afrontamiento) y 0,50 (dominio Aceptación). Las correlaciones inter-ítem oscilaron entre 0,10 y 0,74 .
+La muestra para el estudio de la fiabilidad test-retest estuvo compuesta de 55 pacientes. El ICC para el total de la escala fue de 0,88, y para los dominios el valor osciló entre 0,74 y 0,86. Para los ítems, el valor de Kappa osciló entre 0,38 (ítems 6 y 16) y 0,65 (ítem 14) .
+Respecto a la precisión, para el total de la escala el valor del EEM fue de 5,18 (<½DE = 7,47) mientras que para los dominios osciló entre 1,45 y 2,38 .
+Los resultados del análisis de la validez convergente muestran una correlación alta entre la EC-Artrosis y la DUFSS (rs = 0,55), ES (rs = 0,55) y con el dominio 2 (rs = 0,59), el dominio 3 (rs = 0,52) y dominio 4 (rs = 0,54) de la WHOQOL-BREF. Con el resto de los dominios de las escalas, la EC-Artrosis mostró correlaciones moderadas . La EC-Artrosis mostró correlaciones débiles con la edad, la duración de la artrosis y la duración del tratamiento para la artrosis. Los resultados referentes a la validez interna mostraron que las correlaciones inter-dominios oscilaron entre 0,03 (dominio Aceptación y dominio Afrontamiento) y 0,55 (dominio Integración y dominio Adaptación) .
+Finalmente, los resultados de la validez para grupos conocidos señalan que la EC-Artrosis discrimina en base a la situación laboral, pero no en función del género o nivel de estudios del paciente .
+
+
+- DISCUSIÓN
+
+La ausencia de medidas para evaluar la convivencia con la artrosis, es una limitación en la práctica clínica actual. En la actualidad, la EC-Artrosis es la única medida que permite evaluar, de manera integral y desde el punto de vista del paciente, cómo es su día a día con la artrosis. Además, su enfoque multidisciplinar sitúa el foco de atención en la persona y no en la enfermedad, con el fin de optimizar su abordaje terapéutico.
+Los datos fueron recogidos con una amplia distribución nacional y procedentes de centros públicos y privados. El perfil de los pacientes es similar a los del último estudio de prevalencia de artrosis sintomática en España, por lo que los resultados se podrían considerar generalizables para la población nacional.
+En lo referente a los aspectos psicométricos de la escala, tanto la calidad de los datos, como la aceptabilidad de los mismos son excelentes, encontrándose todos los dominios de la escala y la escala en su conjunto dentro de los valores estándares, lo que garantiza que es adecuada para administrarla a pacientes con artrosis.
+Los valores de alfa de Cronbach reflejan una buena consistencia interna de la escala, lo que indica que los ítems se relacionan bien entre ellos dentro de cada dominio. Los datos de fiabilidad test-retest muestran que las puntuaciones son estables en ausencia de cambios en el estado del paciente, , de forma similar a otras escalas que han medido la influencia de una enfermedad crónica en la vida de los pacientes, . El análisis de la precisión de la escala también es favorable, lo que sugiere que la escala podría usarse para medir el resultado de algunas intervenciones, junto con otras escalas como la OAQoL que han demostrado también su precisión.
+Respecto a la validez de constructo, la validez convergente se encuentra dentro de los esperado; las mayores correlaciones fueron con la escala DUFSS, ES y los dominios 2, 3 y 4 de la WHOQOL-BREF. Esto indica que el apoyo social, la satisfacción con la vida y los aspectos psicosociales de la persona, así como su entorno, mejoran la convivencia de la persona con artrosis con su enfermedad como han mostrado otros estudios, . Estos factores deberían considerarse para plantear intervenciones de tipo sociosanitario centradas en la persona y no tanto en la enfermedad, pues existe evidencia sobre la utilidad de intervenciones psicosociales para mejorar el día a día del paciente con artrosis, , . Estos datos también resultan similares a los hallados en estudios en los que se ha valorado la convivencia con otros procesos crónicos como el párkinson o la demencia, .
+En lo que se refiere a la validez interna, la aceptación presenta valores inferiores a los establecidos, lo que pudiera indicar que la aceptación es un proceso independiente y el primer atributo para que haya una convivencia positiva con la enfermedad. Si no se da la aceptación de la artrosis el paciente no puede convivir de manera positiva con ella, de forma similar a lo que sucede en pacientes con enfermedad de Parkinson, .
+En cuanto a la validez para grupos conocidos, la escala discrimina según situación laboral. Algunos estudios han mostrado que los pacientes con artrosis tienen más probabilidad de faltar al trabajo que las personas sin artrosis y se ausentan de media 13 días laborales de su puesto de trabajo, lo que ocasiona pérdida de productividad y costes indirectos. Sin embargo, no discrimina por género ni estado civil, si bien un estudio halló que las mujeres con artrosis tienen más episodios depresivos que los varones e indicó que el género debería tenerse en cuenta para el tratamiento.
+Respecto a las limitaciones de este estudio, para evitar la pérdida de datos se implicó a los investigadores en la resolución de dudas y la revisión de la escala cumplimentada por el paciente. La posible heterogeneidad en la recogida de datos fue minimizada mediante un protocolo estandarizado y los investigadores estuvieron en permanente contacto con los centros para atender cualquier duda o consulta.
+Por tanto, los resultados emergidos en el presente estudio avalan los hallazgos presentados en estudios previos indicando que la EC-Artrosis es un instrumento de medición válido y fiable para medir el grado de convivencia con la artrosis. De esta manera, con una adecuada formación, la EC-Artrosis resulta fácilmente aplicable por los profesionales sanitarios que atienden a las personas con artrosis. Por tanto, teniendo en cuenta los excelentes resultados obtenidos en el presente estudio en el contexto nacional, se propone el desarrollo de fututos estudios de validación de la EC-Artrosis a nivel internacional en pacientes con artrosis para convertirse en una escala de referencia a nivel internacional. Así mismo, se propone la validación de la EC-Artrosis al inglés a través de un proceso de adaptación transcultural.¿Qué se sabe sobre el tema?•No existen escalas para valorar la convivencia del paciente con artrosis con su enfermedad. Es el primer estudio en España de una escala que valora cómo convive una persona con artrosis con su enfermedad.¿Qué añade el estudio realizado a la literatura?•Los resultados de este estudio revelan la importancia de los aspectos sociales y psicológicos de la persona en contraposición a la tendencia actual de centrarse en el tratamiento farmacológico de la persona con artrosis.•La escala EC-Artrosis puede ayudar a identificar aquellos aspectos que hacen que la persona tenga una convivencia positiva o negativa con la artrosis y consecuentemente crear un plan individualizado y acorde a sus necesidades.
+
+
+- FINANCIAMIENTO
+
+Financiado por FEDER/Ministerio de Ciencia, Innovación y Universidades – Agencia Estatal de Investigación/ Proyecto CSO2017-82691-R.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,77 @@
+INFLUENCIA DE LA PANDEMIA POR CORONAVIRUS 2 (SARS-COV-2) EN LA APENDICITIS AGUDA
+
+
+- INTRODUCCIÓN
+
+La apendicitis aguda (AA) es la urgencia quirúrgica más frecuente en la población pediátrica, . De los niños que acuden a Urgencias por dolor abdominal agudo, entre el 1-8% son diagnosticados de apendicitis aguda. El retraso en el diagnóstico y la instauración del tratamiento están relacionados con las formas más evolucionadas de AA, .
+El diagnóstico y tratamiento precoz son las mejores armas para reducir la tasa de complicaciones. Diferentes scores han sido diseñados para estimar el riesgo de apendicitis como The apendicitis Inflamatory Response (AIR) o la puntuación Alvarado, siempre utilizándose de manera complementaria y nunca como dato confirmatorio del diagnóstico, .
+Ante la confirmación de AA el tratamiento más extendido entre los cirujanos pediátricos es la apendicectomía, abierta o laparoscópica. No obstante, en los últimos años, varias investigaciones sobre el tratamiento conservador con antibioterapia de la apendicitis aguda no complicada han sido desarrollados con resultados prometedores pero aún no concluyentes que deben ser interpretados con cautela, .
+La pandemia desatada por el coronavirus 2 (SARS-Cov-2), cuya principal dolencia es un síndrome respiratorio agudo, ha hecho que todas las patologías previas a la misma, incluida la apendicitis aguda, convivan con esta nueva situación a diario en los centros sanitarios. No se han encontrado estudios en la bibliografía publicada hasta ahora, que analicen el impacto de la misma en la apendicitis aguda y en su tratamiento quirúrgico.
+El objetivo de este estudio fue analizar la influencia de la pandemia por coronavirus 2 (SARS-Cov-2) sobre el tiempo transcurrido desde el inicio de los síntomas hasta el diagnóstico de AA, así como el efecto que esto conlleva sobre el grado de evolución de la misma, procedimiento quirúrgico, estancia hospitalaria y complicaciones postoperatorias en pacientes pediátricos.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Realizamos un estudio observacional retrospectivo sobre pacientes pediátricos con diagnóstico de AA, en nuestro centro, desde enero hasta abril de 2020.
+Los pacientes fueron clasificados en dos grupos según la fecha en la que se declaró el estado de alarma en España por pandemia de SARS-Cov-2 (Real Decreto 463/2020 del 14 de marzo de 2020): intervenidos antes de la declaración del estado de alarma (pre-COVID-19) e intervenidos después de la declaración del estado de alarma (post-COVID-19).
+Se incluyeron todos los pacientes intervenidos de apendicectomía (abierta o laparoscópica) menores de 18 años, diagnosticados en nuestro centro o trasladados de otros centros con sospecha de apendicitis o apendicitis aguda ya confirmada, tras obtener el consentimiento escrito por padres o tutores legales. Se excluyeron aquellos pacientes en los que se decidió no realizar cirugía y tratar de forma conservadora, aquellos cuyos padres o tutores legales no aceptaron la cirugía como tratamiento y en los que no se pudieron obtener los datos necesarios para las variables estudiadas.
+La intervención quirúrgica llevada a cabo no fue diferente a la técnica habitual y fue la misma para ambos grupos.
+
+
+-- DATOS
+
+Los datos epidemiológicos, clínicos, resultados de test sanguíneos, microbiológicos y pruebas radiológicas se obtuvieron del Sistema de Registro Médico Electrónico de nuestro centro.
+Se recogieron variables demográficas, clínicas, del procedimiento quirúrgico y de la evolución.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los datos fueron recogidos usando Microsoft Excel®, versión 16.35 y las variables descritas fueron analizadas mediante el uso del paquete estadístico IBM SPSS Statistics® 25.0. Las variables categóricas fueron descritas con frecuencias y porcentajes, y las continuas como media y desviación estándar. Para comprobar la distribución de las variables, normal o no, se llevó a cabo la prueba de Kolmogorov-Smirnoff (corregida por Lillifors). Se compararon las variables categóricas con el test de la χ2 o el test exacto de Fisher y las variables cuantitativas con el test de la T de Student (en variables con distribución normal) y el test de la U de Mann-Whitney (en variables que no seguían una distribución normal). El valor p < 0,05 fue considerado estadísticamente significativo y todos los intervalos fueron calculados con una confianza del 95%.
+
+
+- RESULTADOS
+
+Un total de 66 pacientes fueron intervenidos por AA en nuestro centro desde enero hasta abril de 2020. Cuarenta y uno en el grupo intervenido antes de la declaración del estado de alarma (pre-COVID-19) y 25 en el grupo intervenido después de la declaración del estado de alarma (post-COVID-19). Un paciente, en el que se decidió tratamiento conservador y apendicectomía diferida, fue excluido (fig. 1 ).Figura 1
+En primer lugar se llevó a cabo un estudio descriptivo de las principales variables de interés en ambos grupos que se muestra en las Tabla 1, Tabla 2 .
+
+
+-- TIEMPO DE EVOLUCIÓN DE LOS SÍNTOMAS
+
+Se observó un tiempo más largo en los pacientes post-COVID-19 que en los pacientes pre-COVID-19, sin encontrarse diferencias estadísticamente significativas (46,1 ± 43,8 horas vs. 30,2 ± 30,5 horas respectivamente; p = 0,346). Una mayor proporción de pacientes presentaron fiebre en el grupo post-COVID-19 frente al grupo pre-COVID-19, diferencias estadísticamente significativas (52 vs. 19,5% respectivamente; p = 0,013). Lo mismo se observó en relación con la proteína C reactiva (PCR), que mostró valores más elevados en el grupo post-COVID-19 (72,7 ± 96,2 mg/dL vs. 31,3 ± 36,2 mg/dL, respectivamente; p = 0,042).
+
+
+-- GRADO DE EVOLUCIÓN DE LA AA DIAGNOSTICADA INTRAOPERATORIAMENTE Y TIEMPO QUIRÚRGICO
+
+El número de pacientes con AA complicada en forma de peritonitis fue superior en aquellos intervenidos tras la declaración el estado de alarma cuando se comparó con aquellos intervenidos previamente al mismo (32 vs. 7,3% respectivamente; p = 0,015). No se encontraron diferencias respecto al tiempo quirúrgico, desde el inicio de la incisión/es hasta el cierre de la/s misma/s en ambos grupos (53,1 ± 22,1 minutos vs. 52,5 ± 28,5 minutos; p > 0,286; pre-COVID-19 y post-COVID-19, respectivamente).
+
+
+-- ESTANCIA MEDIA HOSPITALARIA
+
+De la misma forma, se analizó la estancia media hospitalaria según los días de ingreso postoperatorio que el paciente estuvo en el hospital en cada grupo definido según la declaración del estado de alerta en España. El grupo post-COVID-19 presentó un ingreso más prolongado que el grupo pre-COVID-19 (5,6 ± 5,9 días vs. 3,2 ± 4,3 días respectivamente; p = 0,041).
+
+
+-- COMPLICACIONES
+
+Se observaron más complicaciones, de manera global, en el grupo post-COVID-19 que en el grupo pre-COVID-19 (20 vs. 9,8%; p = 0,239). Los resultados se muestran en la tabla 3 .
+
+
+- DISCUSIÓN
+
+Nuestro estudio demostró que las apendicectomías realizadas tras la declaración del estado de alarma en España mostraron un grado de evolución más avanzado (peritonitis), que aquellas que se realizaron previas a la declaración del estado de alarma. Este hallazgo se vio reforzado por el aumento de tiempo desde el inicio de la clínica hasta el diagnóstico y cirugía en los pacientes que fueron intervenidos después del inicio del confinamiento. Tras analizar algunas entrevistas con los padres a su llegada al hospital, pensamos que la potencial causa de este retraso fue el miedo a la exposición frente a los casos de coronavirus confirmados en los hospitales. Estas opiniones no fueron analizadas en los resultados, ya que no se ha propuesto un estudio cualitativo.
+También debemos recordar que el nuevo coronavirus 2, como ya se ha reflejado en varias investigaciones, se acompaña de síntomas gastrointestinales en algunos casos, lo que puede llegar a interferir o causar confusión a la hora de establecer el diagnóstico de una apendicitis aguda, . En todos nuestros pacientes la clínica gastrointestinal estuvo justificada por el cuadro clínico que presentaban.
+Por otro lado, los datos obtenidos muestran como el tiempo medio de estancia hospitalaria fue mayor en aquellos pacientes intervenidos tras el estado de confinamiento, lo que supone un problema añadido en esta situación difícil en la que medios materiales y personal sanitario escasean. Un diagnóstico más precoz, con apendicitis aguda en un grado de evolución incipiente acortaría la estancia hospitalaria, lo que contribuiría a la disposición de mayor numero de camas y mayor disponibilidad de personal sanitario para contribuir y formar parte de las estrategias destinadas a la lucha contra esta pandemia. Otra estrategia adoptada por algunos hospitales, antes de esta pandemia, ha sido el tratamiento no quirúrgico para apendicitis aguda no complicada, con resultados no del todo favorables como se muestra en el estudio de Huang L et al., en el que se observa un aumento de la estancia hospitalaria y un porcentaje de los niños que terminan requiriendo apendicectomía por mala evolución clínica. Además, las apendicitis que no cumplen con las características de una AA no complicada, como las AA gangrenadas o las peritonitis, deben ser sometidas a cirugía.
+Es por ello que, debido a la influencia que ejerce la pandemia sobre el proceso clínico de la apendicitis aguda, los cirujanos pediátricos, los pediatras, los médicos de atención primaria y los familiares deben ser conscientes del problema y tratar de minimizar el retraso en el diagnóstico ante la aparición de síntomas, para que los pacientes lleguen en mejores condiciones y se recuperen lo antes posible de su dolencia. De la misma forma e indirectamente, se contribuirá a la mayor disponibilidad de medios materiales y humanos en los hospitales.
+Con base en las circunstancias actuales, es normal no encontrar otros estudios que evalúen la influencia de la pandemia en la apendicitis aguda, lo que dificulta la extrapolación de los resultados obtenidos. Sin embargo, queremos dejar constancia de nuestra experiencia para tratar de difundir entre la comunidad asistencial pediátrica el riesgo de minusvalorar o atender de forma subóptima un cuadro habitualmente banal, pero con alto riesgo de complicaciones si se demora su diagnóstico y tratamiento.
+Es necesario fortalecer la conciencia asistencial pediátrica para que enfermedades de alta prevalencia infantil, como la AA, no vean deteriorada su asistencia y pronóstico por el efecto de la grave situación epidemiológica actual, que no debe dejar desprotegido al niño independientemente de su estado infectocontagioso.
+
+
+- LIMITACIONES DEL ESTUDIO
+
+Como limitaciones de este estudio tenemos su carácter retrospectivo, que imposibilita la aleatorización de los pacientes, y el pequeño número de la muestra analizada en un periodo de tiempo corto.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

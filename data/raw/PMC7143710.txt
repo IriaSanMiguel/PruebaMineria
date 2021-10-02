@@ -1,0 +1,72 @@
+PROTOCOLO DIAGNÓSTICO Y TRATAMIENTO EMPÍRICO DE LA BRONQUITIS AGUDA
+
+
+- INTRODUCCIÓN
+
+La bronquitis aguda es una enfermedad inflamatoria de la vía aérea de mayor calibre de carácter autolimitado, que se caracteriza por la presencia de tos sin datos sugestivos de neumonía. Afecta al 5 % de la población adulta y aparece con mayor frecuencia en el invierno.
+
+
+- ETIOLOGÍA
+
+Más del 90 % de los casos de bronquitis aguda tiene una causa no bacteriana. Solo se identifica el patógeno causante en un 16–4 0% de los casos.
+Los virus suelen ser la causa habitual, destacando entre ellos el virus Infuenza A y B, pero también podemos identificar: Parainfluenza, Coronavirus, Rinovirus, virus respiratorio sincitial (VRS) y Metapneumovirus, estando influenciado por el carácter epidémico y la estación del año.
+En una minoría de los sujetos se identifican bacterias como responsables de la infección. Las bacterias atípicas ocupan un papel importante en el origen de las bronquitis agudas, destacando entre ellas Bordatella pertussis, Mycopplasma pneumoniae y Clamydia pneumoniae (tabla 1 ).
+
+
+- CLÍNICA
+
+La tos es el síntoma principal y suele durar más de 5 días y menos de 3 semanas. Se puede asociar o no a esputo purulento, que es la expresión clínica del infiltrado inflamatorio de la mucosa traqueobronquial.
+Un alto porcentaje de los sujetos presenta hiperreactividad bronquial, llegando a observarse en la espirometría un descenso del volumen espiratorio forzado en el primer segundo (FEV1) y una prueba broncodilatadora positiva que suele recuperarse sin problemas. En la exploración física podemos encontrar sibilantes al realizar la auscultación pulmonar.
+
+
+- DIAGNÓSTICO
+
+La tos no asociada a fiebre, la taquicardia y la taquipnea sugieren bronquitis más que neumonía. En ausencia de alteraciones en las constantes vitales típicas (temperatura, tensión arterial, frecuencia cardiaca, saturación de oxígeno) y de crepitantes o hipofonesis en exploración física se minimiza la probabilidad de neumonía, no siendo necesaria de forma rutinaria la realización de una radiografía de tórax.
+No hay que olvidarse de los pacientes de edad avanzada, en los que es posible la existencia de neumonía en ausencia de síntomas y signos característicos; por ello, en estos casos sí es necesaria la realización de una radiografía de tórax para descartar neumonía.
+También se recomienda hacer una radiografía de tórax si observamos: a) frecuencia cardiaca mayor de 100 latidos por minuto; b) frecuencia respiratoria mayor de 24 respiraciones por minuto y c) temperatura mayor de 38 °C y datos compatibles en la exploración física con una posible condensación en la radiografía de tórax (crepitantes, hipofonesis) (tabla 2 ).
+La existencia de expectoración purulenta no hace distinción entre bronquitis aguda y neumonía, siendo únicamente la expresión de una inflamación de la mucosa traqueobronquial, como ya hemos comentado previamente.
+En los casos de bronquitis aguda no se recomienda realizar un cultivo de esputo, ya que en la mayoría de los casos el agente etiológico es un virus.
+Si sospechamos la existencia de una infección por virus Influenza A o B se pueden realizar técnicas de detección rápida, las cuales tienen una baja sensibilidad y, en muchos casos, precisan técnicas de confirmación como la reacción en cadena de la polimerasa (PCR). En estos casos, el diagnóstico se basa en la clínica fundamentalmente. El inicio de tratamiento antivírico no debe retrasarse por esperar el resultado confirmatorio, ya que es importante iniciar el tratamiento en las primeras 48 horas para que tenga alguna validez.
+En los casos en los que se sospeche infección por Bordetella pertussi (pacientes con paroxismos de tos de al menos dos semanas) se aconseja realizar un análisis de PCR que tiene una alta sensibilidad y los resultados se obtienen rápidamente.
+Se ha propuesto la procalcitonina como marcador de infección bacteriana en casos de bronquitis aguda, ya que tiene una alta especificidad para las infecciones bacterianas. Esta determinación sería útil para determinar qué pacientes se beneficiarían del tratamiento antibiótico y cuáles no. No debe utilizarse de forma independiente, si no que debe integrarse con el resto de las pruebas complementarias.
+En los casos en los que sospechemos que la bronquitis aguda tenga su origen en alguna bacteria atípica como son Mycoplasma pneumoniae o Chlamydia pneumoniae se podrían realizar estudios serológicos, dado que el cultivo de esputo no es rentable para el diagnóstico de estos microorganismos por su difícil crecimiento.
+
+
+- DIAGNÓSTICO DIFERENCIAL
+
+Las patologías más frecuentes con las que debemos realizar un diagnóstico diferencial son la neumonía y el asma.
+En la neumonía suelen existir datos de gravedad como son fiebre elevada, taquipnea, taquicardia, etc., que puede asociarse a dolor de características pleuríticas. En la exploración física solemos encontrar crepitantes o incluso hipoventilación. Al realizar una radiografía de tórax se observa una condensación parenquimatosa que es la clave para el diagnóstico de neumonía.
+Otra patología con la que debemos realizar un diagnóstico diferencial es el asma. En el momento agudo es difícil hacer un diagnóstico diferencial, pero los pacientes con asma suelen tener antecedentes respiratorios previos, pueden tener clínica de atopia, los síntomas suelen ser más frecuentes por la noche y desencadenarse tras la realización de ejercicio. En el momento agudo no sirve de nada realizar una espirometría para diferenciar una patología de otra, ya que en muchas ocasiones en personas con bronquitis aguda encontramos un patrón obstructivo con una caída del FEV1. En estos casos, al cabo de 3–4 semanas las pruebas de función respiratoria se normalizan. Además, muchas veces los pacientes con asma no presentan un patrón obstructivo en el momento en el que se realizan las pruebas, teniendo que recurrir a pruebas de provocación para el diagnóstico.
+Otras patologías que pueden cursar con tos son: reflujo gastroesofágico, insuficiencia cardiaca, goteo nasal posterior, bronquiectasias, fármacos y enfermedad pulmonar intersticial difusa (EPID) (tabla 3 ).
+
+
+- TRATAMIENTO
+
+-- ANTIBIÓTICO
+
+No se recomienda el uso de antibióticos de forma sistemática en los casos de bronquitis aguda. Solo se aconseja su uso cuando se sospecha o se identifica Bordetella pertussis o parapertussis, estando indicado el tratamiento con macrólidos o, en su defecto, trimetropim/sulfametoxazol.
+
+
+-- ANTIVÍRICOS
+
+En los casos de bronquitis aguda en los que se identifique virus Influenzae A o B como responsable de la clínica se puede iniciar un tratamiento con oseltamivir o zanamivir, los cuales reducen la duración de la clínica.
+
+
+-- AGONISTAS BETA 2
+
+El uso de adrenérgicos beta 2 inhalados puede ser beneficioso en un subgrupo de paciente en los que se observa una limitación crónica al flujo aéreo y sibilancias. No se recomienda su uso de forma sistemática en las bronquitis agudas.
+
+
+-- ANTITUSÍGENOS
+
+El uso de fármacos antitusígenos como son la codeína o dextrometorfano, entre otros, es útil como tratamiento sintomático a corto plazo para aliviar la tos en el paciente con bronquitis crónica.
+
+
+-- MUCOLÍTICOS
+
+No se recomienda su uso de forma sistémica en la bronquitis aguda.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

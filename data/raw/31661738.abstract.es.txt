@@ -1,0 +1,5 @@
+Se reclutaron 1 001 consumidores mexicanos para clasificar tres productos de tres categorías de alimentos sin EFP, según su calidad nutricional. Se les asignó al azar uno de los cinco EFP para clasificar los mismos productos, esta vez con un EFP en el empaque. El cambio en la capacidad para clasificar correctamente los productos en las dos tareas fue evaluado por EFP, utilizando un modelo de regresión logística ordinal.
+Nutri-Score y Semáforo Múltiple obtuvieron un mejor desempeño, seguidos del Símbolo de Advertencia, Sistema de Clasificación de Estrellas de Salud e Ingestas de Referencia.
+Evaluar la comprensión objetiva de cinco tipos de etiquetados frontales de paquetes (EFP) (Sistema de Clasifi- cación de Estrellas de Salud, Semáforo Múltiple, Nutri-Score, Ingestas de Referencia y Símbolo de Advertencia) en México.
+Nutri-Score y el Semáforo Múltiple surgen como esquemas eficientes para informar a los consumidores sobre la calidad nutricional de los alimentos en México, donde podrían ser una herramienta útil para los consumidores en situación de compra.
+

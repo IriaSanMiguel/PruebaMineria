@@ -1,0 +1,46 @@
+FRESADO DE LA FOSA SUBARCUATA PARA LIBERAR LA ARTERIA CEREBELOSA ANTEROINFERIOR EN UNA CIRUGÍA DE UN SCHWANNOMA VESTIBULAR
+
+
+- INTRODUCCIÓN
+
+La resección quirúrgica de los Schwannomas vestibulares (SV) es la principal opción de tratamiento, en especial para aquellos tumores con efecto de masa (grado III o IV) o con crecimiento progresivo.
+La vía de abordaje más utilizada para este tipo de lesiones es la suboccipital retrosigmoidea. Sin embargo, el corredor quirúrgico suele ser estrecho, con estructuras neurovasculares de gran elocuencia. Una de las maniobras principales en la cirugía de un SV, especialmente para lograr la preservación de los nervios facial y coclear, es el fresado amplio del conducto auditivo interno (CAI).
+Es conocida la importante variabilidad en su recorrido de las venas y arterias de la fosa posterior, sumándose a esto, el hecho de que las lesiones de gran tamaño pueden generar considerable distorsión de la anatomía regional.
+La arteria cerebelosa anteroinferior (ACAI) es la principal relación vascular de los nervios facial y vestíbulo-coclear. Su recorrido se describe clásicamente en 4 segmentos: pontino anterior, pontino lateral, flóculo-nodular y cortical. Entre sus variantes pueden hallarse distintos sitios de origen en el trayecto de la arteria basilar, duplicaciones, bifurcaciones, tortuosidades del recorrido, distribución y anastomosis de sus ramas terminales.
+Las variantes del segmento pontino lateral son particularmente importantes, ya que su movilización puede ser requerida durante la disección y resección de un SV. Dicho segmento generalmente discurre en la porción central de la cisterna pontocerebelosa, adherido en variable medida a los nervios craneanos del CAI. En ocasiones, este segmento realiza una curva en dirección a la fosa subarcuata (loop subarcuato), el cual recibe a su vez el ramo arterial homónimo; la coagulación y división de este último puede ser requerida para fresar la pared posterior del CAI.
+Sin embargo, el segmento pontino lateral ha sido reportado también envuelto por un manguito de duramadre de la fosa subarcuata, en ocasiones improntando el hueso subyacente, e incluso realizando un trayecto intraóseo, quedando de este modo incluido en el hueso temporal, como se describe en el caso presentado a continuación.
+
+
+- PRESENTACIÓN DEL CASO (VER VIDEO
+
+Paciente varón de 38 años, sin antecedentes de importancia, que consulta por cuadro de 6 meses de evolución de hipoacusia de oído derecho. Se realiza una resonancia magnética (RM) con contraste endovenoso, donde se observa una imagen sugestiva de SV, con un componente intracanalicular (ocupando sólo el 1/3 medial del mismo), y un componente en la cisterna del ángulo pontocerebeloso (Grado T3B,) [Figura 1a–d]. La logoaudiometría evidenció una hipoacusia neurosensorial del oído derecho . Se indica y realiza cirugía por vía retrosigmoidea, con el paciente en posición semisentada. Durante la cirugía se realiza monitoreo de los nervios facial y coclear. Luego de reclinar el cerebelo, se observa a la ACAI totalmente recubierta por tejido dural y óseo, en la fosa subarcuata . Se decide en ese momento el fresado alrededor de la arteria, sobre la fosa subarcuata, para liberarla junto con la duramadre del hueso petroso . Luego de ser liberada, la ACAI es desplazada caudalmente, y se procede a resecar el SV en forma habitual . Se logra una exéresis completa del tumor, con preservación anatómica y funcional de los nervios facial y coclear . Antes del cierre, la ACAI es reposicionada en su sitio original . El paciente presenta una muy buena evolución postoperatoria, sin que se agregue un nuevo déficit neurológico motor (House-Brackmann grado I) . La RM de control confirma una exéresis completa de la lesión . La audiometría postoperatoria mustra preservación de la audición 
+
+
+- DISCUSIÓN
+
+En este trabajo se ilustra el caso de un paciente sometido a la exéresis microquirúrgica de un SV, en la cual se constata la presencia de una variante anatómica en el recorrido de la ACAI, dada por la inclusión de la misma en el hueso petroso adyacente. Esta variante ha sido descripta en la literatura junto a otra situación similar, la adherencia de la ACAI a la duramadre petrosa sin penetración en el hueso. Sin embargo, los reportes puntuales son escasos, con una incidencia que oscila entre el 1% y 4% en series clínicas y hasta 6% en estudios cadavéricos.
+El reconocimiento y preservación del segmento pontino lateral de la ACAI y sus ramas constituyen requisitos indispensables de la exéresis de los SV, debido a que su lesión puede ser causal de déficit neurológico posoperatorio potencialmente irreversible e incluso óbito.
+En caso de interponerse con la pared posterior del CAI, la ACAI puede ser movilizada de la proximidad del hueso petroso mediante coagulación y sección de la arteria subarcuata, la cual termina en un conducto intraóseo (canal subarcuato o petromastoideo) en la profundidad de la fosa subarcuata. Esta maniobra permite un fresado seguro del CAI, a fin de que la porción intracanalicular de la lesión pueda ser debidamente resecada.
+En otras ocasiones, la preservación de la ACAI puede verse arriesgada, como en el caso ilustrado, por estar directamente incrustada en el hueso petroso, lo cual requiere del fresado del hueso circundante a la misma, correspondiente a la fosa subarcuata, para su ulterior movilización. Esta situación supone un riesgo adicional, ya que al estar fijada a la duramadre y/o hueso de la fosa subarcuata, es vulnerable a su ruptura durante la retracción del hemisferio cerebeloso en el abordaje a la cisterna del ángulo pontocerebeloso, y a su desgarro durante la disección tumoral o fresado del hueso circundante. Este riesgo es extensible a otros accesos, como la variante suprameatal del abordaje retrosigmoideo o los abordajes transpetrosos.
+Ante esta situación, y dependiendo de la experiencia del cirujano como de las características del paciente y del SV, podrá intentarse la disección, fresado y liberación de la ACAI para lograr una resección total o, de lo contrario, una resección subtotal con posterior irradiación del remanente tumoral.
+Sin lugar a dudas, la identificación preoperatoria de esta variante mediante estudios por imágenes, como la secuencia de RM 3D-FIESTA (Fast Imaging Employing Steady-state Acquisition), es de gran utilidad tanto para la planificación de las maniobras quirúrgicas como para informar al paciente de los riesgos agregados y eventuales resultados subóptimos.
+
+
+- CONCLUSIÓN
+
+A pesar de ser una cirugía ampliamente estandarizada y reglada, las variantes anatómicas que comprenden la fosa posterior se presentan como un desafío constante para el neurocirujano. Debido a que, particularmente, la lesión de la ACAI conlleva alta morbimortalidad, el neurocirujano debe estar preparado para reconocer y resolver este tipo de situaciones.
+
+
+-- DECLARATION OF PATIENT CONSENT
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

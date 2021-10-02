@@ -1,0 +1,104 @@
+DISEÑO Y VALIDACIÓN DE UN CUESTIONARIO PARA EVALUAR EL NIVEL DE CONOCIMIENTOS GENERALES EN TRASTORNOS DEL COMPORTAMIENTO ALIMENTARIO EN ESTUDIANTES DE CIENCIAS DE LA SALUD
+
+
+- INTRODUCCIÓN
+
+Investigar acerca del estado de salud de las personas y de las múltiples dimensiones que lo integran requiere métodos de cribado objetivos que faciliten la medición de las manifestaciones y complicaciones a través de las cuales se expresan. La relación entre la salud y los hábitos alimentarios es un aspecto relevante del estilo de vida, y podría constituir un factor de riesgo en la aparición de enfermedades, . La alimentación es una de las áreas de acción de salud en que los profesionales sanitarios pueden actuar para prevenir o atender alteraciones y su capacidad de actuación depende de sus conocimientos, base fundamental para proporcionar consejo individual o colectivo de manera adecuada y oportuna, , .
+Los hábitos alimentarios se asocian a afecciones crónicas que afectan fundamentalmente adultos, y se combinan con factores de riesgo socioculturales en la génesis de los trastornos del comportamiento alimentario (TCA) que representan un problema de salud entre los adolescentes y los jóvenes, .
+El aumento de la prevalencia de los TCA (1-3% en población adolescente y joven de ambos sexos; 4-5% en mujeres jóvenes y adolescentes), relacionada con el incremento de la incidencia (2,02%), su tendencia a la cronicidad, y su relación con complicaciones de salud que se manifiestan en la edad adulta, justifican las numerosas investigaciones en que se analizan sus rasgos y manifestaciones en adolescentes y jóvenes diagnosticados de un TCA o en poblaciones de riesgo, , , , . A menudo se emplean cuestionarios autoadministrados para evaluar las características psicológicas, actitudes y conductas alimentarias de riesgo implicadas en el proceso, y dirigidos a recabar información sobre los pacientes o su entorno más próximo, , .
+El carácter de problema de salud pública de estos trastornos justifica la búsqueda de instrumentos capaces de evaluar el nivel de conocimientos de los futuros profesionales sanitarios. La presente investigación se planteó en una población presumiblemente sana de universitarios, cuyo desempeño profesional futuro requiere un nivel de conocimientos que les permita identificar en la población general factores de riesgo que predisponen a padecer un TCA y fomentar la formación preventiva de los adolescentes.
+Se decidió utilizar el cuestionario por ser una técnica poco costosa, con capacidad para llegar a un amplio número de participantes, reduce el factor subjetivo de interactuar con un entrevistador y su análisis es relativamente sencillo, .
+Para garantizar la calidad de la metodología es imprescindible que los resultados de esta puedan ser correctamente interpretados, lo que hace necesario validar los instrumentos de medición, .
+El objetivo del trabajo es diseñar y validar un cuestionario para ser utilizado como instrumento para evaluar el nivel de conocimientos generales en relación con los TCA en estudiantes universitarios de ciencias de la salud, que participarían en un programa de educación para la salud para elevar su nivel de conocimientos en temas relacionados con la misma.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio observacional longitudinal y prospectivo, para el diseño y validación de un cuestionario autoadministrable para evaluar el nivel de conocimientos sobre TCA en estudiantes universitarios de ciencias de la salud de la Fundación Universitaria del Bages que dispusieran de asignaturas de nutrición en su plan de estudios.
+
+
+-- DISEÑO DEL CUESTIONARIO
+
+Para identificar las dimensiones y atributos que servirían de base al diseño de las variables incluidas se usó el marco competencial descrito en las competencias profesionales genéricas y específicas y en los programas de estudio de las asignaturas Bases Nutricionales y Dietética Aplicada y Nutrición Humana que se imparten de primero a tercer curso en los estudios de grado en fisioterapia, podología y enfermería en la Fundación Universitaria del Bages. Se complementó la revisión conceptual con una búsqueda en la base de datos MEDLINE/PubMed, de enero a julio de 2012. Siguiendo el esquema propuesto por Parmenter y Wardle, se elaboró un instrumento específico para el estudio.
+
+
+-- PROCESO DE VALIDACIÓN
+
+Para evaluar la validez de contenido se consultó un grupo de expertos constituido por dos psicólogos y cinco doctores especialistas en nutrición, con experiencia en la docencia en ciencias de la salud así como en la elaboración y utilización de cuestionarios, . Los expertos validaron las preguntas del cuestionario y eliminaron posibles errores, obteniendo la versión 1 del cuestionario.
+
+
+-- PRETEST COGNITIVO
+
+Se aplicó la versión 1 del cuestionario a 28 estudiantes voluntarios, que respondieron a una convocatoria en la web de la FUB para matriculados en ciencias de la salud. Cumplimentaron el cuestionario, y expresaron sus opiniones y/o sugerencias de modificación del instrumento.
+
+
+-- DEPURACIÓN DE LOS ÍTEMS
+
+Se analizaron los resultados del pretest según los criterios: nivel de complejidad de las preguntas (porcentaje de respuestas correctas e incorrectas), correlación entre la calificación media obtenida en cada ítem respecto al valor global (correlación ítem/total), capacidad de las preguntas de respuesta abierta para evaluar el contenido y tiempo empleado para cumplimentar el cuestionario. El análisis de los resultados y de las opiniones, permitió al grupo de expertos consensuar con el investigador modificaciones que proporcionaron la versión 2 del cuestionario.
+
+
+-- ANÁLISIS DE LA ESTABILIDAD
+
+Durante el mes de octubre del 2012 se realizaron dos aplicaciones autoadministradas de la versión 2 (test-retest) en aulas de la FUB, previa autorización de la subdirección de los estudios de ciencias de la salud y separadas por un período de 21 días. Se obtuvo el consentimiento informado de cada encuestado y se aseguró la privacidad y confidencialidad de los datos incluidos.
+
+
+-- CARACTERÍSTICAS PSICOMÉTRICAS Y EVALUACIÓN DE LA CONSISTENCIA INTERNA
+
+Se usó el modelo propuesto por Carvajal, que incluyó la evaluación de la consistencia interna de la escala, a través del cálculo del α de Cronbach para cada ítem y para el conjunto, considerando aceptables valores ≥ 0,6 y buenos cuando eran ≥ 0,7; y el coeficiente de correlación intraclase, para comprobar el grado de correlación entre cada variable y la puntuación total, , . Se calculó el coeficiente de correlación ítem-total, considerando válidos los valores ≥ 0,200. Para el análisis de la estabilidad se calculó el coeficiente de correlación de Pearson, asumiendo que valores ≥ 0,70 eran indicativos de estabilidad del instrumento, . El grado de factibilidad se determinó a partir del porcentaje de respuestas obtenidas y del tiempo empleado para cumplimentar el cuestionario. Se analizó la validez de constructo a través de un análisis factorial confirmatorio, aplicado a la totalidad de la muestra. Este procedimiento culminó con la aprobación de la versión 3 (definitiva).
+
+
+-- VALORACIÓN DEL NIVEL DE CONOCIMIENTOS
+
+Se clasificaron los resultados según la puntuación total obtenida, en tres puntos de corte, para inferir el nivel de conocimientos. Dado que el marco conceptual para elegir las variables del cuestionario se basó en los contenidos de las asignaturas de nutrición y alimentación, se asumió un sistema de calificación similar al de estas asignaturas: < 5 puntos se consideró un nivel bajo de conocimientos, entre 5 y 6,9 puntos un nivel medio, y 7 puntos o más un nivel alto.
+
+
+-- ANÁLISIS ESTADÍSTICO DE LOS DATOS
+
+Los datos obtenidos en el proceso fueron analizados con el software SPSS versión 15.0 para Windows. Previa determinación de la medida de adecuación muestral Kaiser-Meyer-Olkin y prueba de esfericidad de Bartlett, se comprobó a través de un análisis factorial confirmatorio que las variables seleccionadas se distribuían en un número mínimo de dimensiones necesarias. La estadística descriptiva se presenta a través de frecuencias absolutas y porcentuales para las variables categóricas, medida de dispersión (desviación estándar) y de tendencia central (media). Además de los parámetros psicométricos necesarios para la validación (α de Cronbach, coeficiente de correlación de Pearson y coeficiente de correlación intraclase), se comprobó la relación de las calificaciones con el sexo, utilizando el estadístico no paramétrico prueba U de Mann-Whitney y con el tipo de estudios a través de la prueba de Kruskal-Wallis para más de dos muestras independientes. El nivel de significación estadística fue del 95% de confianza.
+
+
+-- ASPECTOS ÉTICOS Y LEGALES
+
+Todos los participantes fueron debidamente informados de que sus respuestas serían analizadas como parte de un trabajo de investigación. Se garantizó el anonimato y el tratamiento adecuado de los datos personales.
+El estudio fue aprobado por el Comité Científico de Evaluación del Programa de Doctorado en Salud y Calidad de Vida de la Universidad de Vic-Universidad Central de Cataluña. La aplicación de los cuestionarios se realizó con la autorización de la Dirección de los estudios de Ciencias de la Salud de la Fundación Universitaria del Bages.
+
+
+
+- RESULTADOS
+
+Participaron 140 estudiantes, 53 mujeres (37,85%) y 87 hombres (62,15%); con una edad media de 21,87 años (rango 18-42). El 99,64% respondió a todas las preguntas.
+Se identificaron 16 atributos. Una vez eliminados los atributos redundantes y los considerados inadecuados para el estudio se seleccionaron 10 para la redacción de las variables, atribuibles a las cuatro dimensiones que se muestran en la figura 1. La versión 1 del cuestionario incluyó 15 preguntas: 11 preguntas de respuesta cerrada y cuatro preguntas de redacción.Figura 1
+
+
+-- VALIDACIÓN DEL CUESTIONARIO
+
+En el pretest cognitivo participaron 28 estudiantes: 18 mujeres (64,28%) y 10 hombres (35,72%), entre 18 y 42 años, la edad media fue 20,55 años (DE= 4,351). El tiempo medio para cumplimentarlo fue de 27,5 min. Tras el análisis de los resultados se modificó el enunciado, las preguntas de redacción se concentraron para que las posibles respuestas correctas no estuvieran contenidas en otras preguntas, pasando de cuatro a tres preguntas abiertas.
+Se eliminaron dos preguntas de respuesta cerrada por su escasa capacidad de discriminación (alternativa de respuesta <5% o >95%) y dos por su escasa aportación a la calificación global (correlación ítem/total < 0,200). La versión 2 del cuestionario contenía 7 preguntas de respuesta cerrada y tres de respuesta abierta. El resultado del coeficiente α de Cronbach en el pretest (α= 0,758), reveló una buena consistencia interna de la escala en su primera aplicación (cuestionario inicial, versión 1).
+En la prueba piloto (test-retest) participaron 112 estudiantes, de los cuales 110 completaron el estudio. Las características demográficas de la muestra se relacionan en la tabla 1. El tiempo medio de aplicación fue de 21,5 min. El 99,64% en el test y 98,57% en el retest, respondió a todas las preguntas para un porcentaje de respuestas de 99,10%.
+El valor final del coeficiente α de Cronbach (α= 0,724), apunta a una buena consistencia interna global del instrumento. Aunque en la dimensión: «Características demográficas de los pacientes con TCA», la consistencia resultó aceptable (α= 0,687), con valores superiores a los obtenidos en la versión 1 (α= 0,535). La comparativa se muestra en la tabla 2.
+A pesar de que la mayoría de los ítems alcanzaron una correlación ítem/total superior a 0,200, la dimensión con mayor aportación a la calificación global fue «Manifestaciones clínicas de los principales TCA» y la que menos fueron las «Características demográficas de los pacientes con TCA». Los valores del coeficiente de correlación de Pearson apuntan a una buena estabilidad del instrumento a lo largo del proceso .
+La medida de adecuación muestral Kaiser-Meyer-Olkin y prueba de esfericidad de Bartlett (0,613), sugirió la posibilidad de realizar el AFC para comprobar la validez de constructo. El AFC de componentes principales arrojó una distribución en cinco factores puros que explicaron el 68,67% de la varianza total. El factor 4 agrupó los ítems «estados patológicos relacionados con la nutrición y los TCA como alteraciones mentales», y explicó el 11,02% de la varianza; el factor 1 agrupó los ítems «edad, sexo y clase social en que predominan los TCA», y explicó el 20,32% de la varianza; el factor 3 agrupó: «los factores predisponentes y precipitantes de los TCA», explicando el 13,01% de la varianza; los ítems «signos clínicos de la anorexia y la bulimia nerviosa», quedaron agrupados en el factor 2 (13,94% de la varianza) y finalmente el factor 5 correspondió al ítem no agrupado «conductas alimentarias de riesgo en la génesis de los TCA», que explicó el 10,34% de la varianza .
+Respecto al nivel de conocimientos, un 55,53% de participantes mostró un nivel medio. La proporción de estudiantes con calificaciones altas pasaron de 33,92% en el test a 39,09% en el retest. Los mejores resultados correspondieron a los estudiantes de enfermería con una nota media de 6,78 (DE= 0,948), los de fisioterapia obtuvieron una media de 6,26 (DE= 1,292). Los resultados de la prueba de Kruskal-Wallis indican que existe una diferencia de rango entre las calificaciones según el tipo de estudios: 59,83 enfermería, 48,31 fisioterapia y 55,25 en podología; pero la relación entre las variables no es significativa (p = 0,0278).
+En relación al sexo, las diferencias de rango entre las calificaciones son significativas: 60,60 en el sexo femenino y 47,49 en el masculino (p = 0,047); (media 6,70; DE= 1,237).
+La dimensión más conocida por los estudiantes fue: «Características demográficas de los pacientes diagnosticados de TCA» y la peor: «Factores de riesgo de los TCA», especialmente los factores predisponentes. Las calificaciones medias obtenidas en la aplicación de la versión 2 del cuestionario se muestran en la figura 2.Figura 2
+Para conseguir una mejor legibilidad y comprensión del cuestionario, tras el estudio test-retest, se modificó la redacción de la pregunta cerrada P4 y de la frase incluida en la pregunta de redacción P8. A partir de los resultados del AFC se redistribuyeron las variables de estudio pasando de 4 a 5 dimensiones, quedando así constituida la versión 3 definitiva del cuestionario .
+
+
+- DISCUSIÓN
+
+Las escalas utilizadas para medir el nivel de conocimientos requieren métodos de evaluación válidos, reproducibles y confiables. Si la relación entre la escala y los indicadores a medir es débil, el instrumento puede generar interpretaciones imprecisas. De ahí que se eligieran los programas de estudio de las asignaturas de nutrición y el marco competencial de los estudios, como marco conceptual de la investigación, por ser estos los documentos oficiales que definen los contenidos a impartir y que garantizarán la competencia profesional futura de estos estudiantes, .
+Se decidió no incluir en el cuestionario preguntas de la dimensión «Tratamiento de los TCA», porque estos contenidos solo se imparten a los estudiantes de Grado en Enfermería. Se excluyeron los factores de mantenimiento de los TCA (Dimensión: «Factores de riesgo en la génesis de los TCA») por no estar incluidos en el marco competencial de los estudiantes de Grado en Podología y Fisioterapia, .
+De las puntuaciones medias obtenidas se infiere un mejor conocimiento de la dimensión «Características demográficas de los pacientes con TCA» , especialmente los atributos sexo en que predominan y edad de aparición de los TCA, que destacan entre las características más estudiadas de estos trastornos tanto en poblaciones de riesgo como en poblaciones presumiblemente sanas, , . El sexo y la clases social en que predominan los TCA fueron los ítems con menor aportación a la calificación global de la escala (correlación ítem/total de 0,150 y 0,156 respectivamente). Las preguntas que contenían estos aspectos demostraron valores del α de Cronbach que apuntan a una consistencia interna baja en la aplicación de la versión 1. No obstante, la consistencia interna de la dimensión en el cuestionario final fue aceptable , lo que refuerza el criterio de otros autores de no aplicar este estadístico a los atributos por separado, ya que la consistencia interna es mejor en el conjunto del instrumento.
+A pesar de la baja aportación del atributo: «sexo en que predominan los TCA», a la calificación global: correlación ítem/total en los cuestionarios inicial y final de 0,156 y 0,150 respectivamente; se decidió mantenerlo en el cuestionario definitivo por el importante papel del sexo en todos los procesos relacionados con la alimentación y en particular con los TCA, , . La diferencia entre grupos hallada en las calificaciones globales respecto al sexo, coincide con los resultados de otras investigaciones en que son las mujeres quienes demuestran un mayor nivel de conocimientos en nutrición o en alimentación y que suelen demostrar mayor predisposición a participar en estudios relacionados con la salud, .
+El diseño de validación utilizado propuesto por Carvajal, se ha usado en otros procesos de validación y citado en numerosos estudios, , . La participación de 112 individuos se consideró suficiente, teniendo en cuenta que debía incluir al menos 10 encuestados por cada ítem del cuestionario. Otros estudios han validado cuestionarios con un número similar de participantes,, o incluso con menos, . El coeficiente de correlación de Pearson destaca entre los estadísticos recomendados para evaluar la estabilidad de una escala, los resultados obtenidos sugieren un comportamiento estable en el tiempo, , , .
+Los resultados del AFC así como las modificaciones realizadas al cuestionario a partir de su análisis, refuerzan la necesidad de explorar la validez de constructo cuando el diseño del instrumento se realiza a partir de consideraciones teóricas. En este estudio el AFC permitió valorar si los factores definidos «a priori» se adecuaban al constructo teórico.
+
+
+- CONCLUSIONES
+
+Los procesos de construcción y validación realizados y los resultados obtenidos, permiten recomendar el uso de este instrumento como una alternativa breve, de fácil aplicación y que permite evaluar los conocimientos generales acerca de los TCA marcados por las futuras competencias de los profesionales de enfermería, fisioterapia y podología. Como líneas de investigación futuras sería recomendable hacer extensiva la validación del cuestionario a otras titulaciones de ciencias de la salud y realizar estudios longitudinales para comprobar si existen diferencias en el nivel de conocimientos antes y después de cursar las asignaturas de nutrición, así como aplicar el cuestionario en una muestra de mayor tamaño para obtener información adicional acerca de sus propiedades psicométricas: sería conveniente analizar el grado del instrumento para distinguir entre individuos que se espera respondan de manera diferente (validez discriminante), así como evaluar la habilidad del instrumento para reflejar cambios en el nivel de conocimientos, una vez realizadas las intervenciones educativas previstas en el programa de EpS para el cual fue diseñado el cuestionario (sensibilidad del instrumento).Lo conocido sobre el tema•Los hábitos alimentarios son un aspecto relevante del estilo de vida y pueden constituir un factor de riesgo en la aparición de enfermedades.•La elevada incidencia de los TCA y su tendencia a la cronicidad, han generado un gran número de estudios y publicaciones al respecto.•La mayor parte de las investigaciones utilizan cuestionarios para evaluar las conductas alimentarias o las características psicológicas en poblaciones de riesgo o diagnosticadas de un TCA.Qué aporta este estudio•Información sobre el nivel de conocimientos acerca de los TCA, en estudiantes universitarios que podrían llegar a ejercer como gestores de salud en el futuro.•Un instrumento de medición válido como alternativa breve, de fácil aplicación y que permite evaluar con garantías, los conocimientos acerca de los TCA en estudiantes de determinados grados de ciencias de la salud.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

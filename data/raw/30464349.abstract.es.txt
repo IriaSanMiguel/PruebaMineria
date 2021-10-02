@@ -1,0 +1,6 @@
+Reproducir la asociación en población mexicana entre APOE-E4 y el deterioro neurocognitivo, así como implementar un programa de detección de riesgo genético con el alelo APOE-E4.
+El presente programa es el primero en México implementado para dar a conocer un factor de riesgo genético para trastornos neurocognitivos en varios centros del país.
+En México, la prevalencia de los trastornos neurocognitivos (TNC) han aumentado a la par del incremento en la esperanza de vida. El alelo E4 del gen que codifica la apolipoproteína E (APOE) es el principal factor de riesgo genético para deterioro neurocognitivo.
+El análisis de asociación genética para replicar la asociación con trastornos neurocognitivos mediante modelos logísticos multivariados mostró que el alelo E4 de APOE incrementó aproximadamente 6 % el riesgo en población mexicana (RM = 5.83, p = 0.0025). Se entregaron 367 resultados de riesgo genético.
+Se estructuró un programa de detección de riesgo basado en APO-EA en diferentes centros de reclutamiento en la zona centro de la República Mexicana, con tres etapas: reclutamiento y selección de los candidatos para la detección del alelo de riesgo, análisis del riesgo genético y entrega del resultado.
+

@@ -1,0 +1,70 @@
+TRATAMIENTO INMUNOSUPRESOR EN PULSOS EN ESCLEROSIS MÚLTIPLE DURANTE EL DESESCALADO DE LA EPIDEMIA POR SARS-COV-2. ALGORITMO DE SEGURIDAD
+
+
+- BOLD>INTRODUCCIÓN</BOLD
+
+La pandemia mundial por SARS-CoV-2, iniciada al comienzo de 2020, está suponiendo un desafío para los sistemas de salud. Todos los niveles asistenciales se han visto afectados, desde los servicios de urgencia y cuidados intensivos hasta la actividad asistencial hospitalaria y ambulatoria. Esta situación ha precipitado una reestructuración de la asistencia médica y un cambio en la relación directa con los pacientes.
+Las unidades de esclerosis múltiple (EM) no han quedado al margen de esta necesidad de reorganización y la telemedicina se ha erigido como una estrategia muy útil para disminuir las consultas presenciales y el riesgo de contagio. No obstante, numerosas prestaciones de las unidades de EM precisan de la asistencia presencial de los pacientes, como la administración de tratamientos inmunosupresores en pulsos (TIP) vía parenteral (y oral), principalmente en Hospital de Día (HdD) (tabla 1 ). Utilizar estos fármacos manteniendo unos criterios de seguridad adecuados, supone un verdadero reto y pone a prueba la capacidad de adaptación de nuestro sistema.
+En la actualidad, la ausencia de evidencia científica, hace que debamos considerar a los pacientes inmunosuprimidos como de riesgo en caso de contraer la infección por SARS-CoV-2. No obstante, la experiencia previa con otros coronavirus como el SARS-CoV, el MERS y los escasos datos disponibles de pacientes inmunosuprimidos infectados por SARS-CoV-2 no indican, por el momento, un curso más grave en caso de infección. En cualquier caso, esta situación plantea un dilema sobre el balance riesgo-beneficio de los TIP.
+El manejo de TIP durante las fases de inicio y pico de la pandemia se ha visto condicionado por la falta de conocimiento sobre la prevalencia de portadores asintomáticos/pre-sintomáticos con capacidad para contagiar (contagiosos) y la limitación en el acceso a test diagnósticos en esta población. En la parte positiva, el cumplimiento del confinamiento de los pacientes con EM en general (como el resto de la población) y de los considerados inmunosuprimidos en particular, al considerarse como población de riesgo, puede haber reducido el número de contagios, situación que podría cambiar durante la fase de desescalado.
+Durante estas fases, con el objetivo de minimizar el riesgo de contagio por la estancia en el medio hospitalario, ante la incertidumbre sobre las consecuencias de una infección por SARS-CoV-2 en pacientes que reciben TIP y siguiendo las recomendaciones de diferentes grupos de expertos, la estrategia utilizada en muchas unidades de EM ha consistido en posponer el inicio y la administración de dosis programadas de TIP, en espera de la resolución de la epidemia, , .
+Considerando que se ha iniciado el proceso de desescalado, y que en la actualidad, en base a la experiencia existente, no se vislumbra un fin de la epidemia a corto plazo, la estrategia de retrasar la administración de TIP de forma indefinida no es aceptable por el elevado riesgo de reactivación de la EM, , y se hace necesario un cambio en el manejo.
+Para ello, hemos desarrollado un algoritmo, fundamentado en criterios de seguridad, cuyo objetivo principal es la detección de contagiados asintomáticos o pre-sintomáticos y de contagiados sintomáticos leves por SARS-CoV-2 antes de la administración de la dosis programada de TIP.
+
+
+- OBJETIVOS
+
+1.Evitar administrar TIP a un paciente contagiado/contagioso asintomático (con infección activa) o pre-sintomático (en periodo de incubación) no identificado.2.Reducir el riesgo de contagio de los pacientes con TIP administrado en HdD por contacto prolongado con un contagiado/contagioso asintomático/pre-sintomático no identificado.3.Evitar las 2 situaciones previas en un paciente con síntomas leves sugestivos de infección activa por SARS-CoV-2.
+
+
+- BOLD>MATERIAL Y MÉTODO</BOLD
+
+La elaboración de este algoritmo se ha sustentado en la experiencia clínica de los autores en el manejo y en el tratamiento de la EM, en los conocimientos adquiridos durante la pandemia por SARS-CoV-2 y en una revisión bibliográfica del conocimiento acumulado durante la epidemia en relación a cada tema.
+Se muestra a continuación un análisis del razonamiento que nos ha llevado a plantear cada uno de los objetivos y su consecución a través de un algoritmo.
+Objetivo 1: Evitar administrar TIP a un paciente contagiado/contagioso asintomático (con infección activa) o pre-sintomático (en periodo de incubación) no identificado.
+Objetivo 2: Reducir el riesgo de contagio de los pacientes con TIP administrado en HdD por contacto prolongado con un contagiado/contagioso asintomático/pre-sintomático no identificado.
+Objetivo 3: Evitar las 2 situaciones previas en un paciente con síntomas leves sugestivos de infección activa por SARS-CoV-2.-En la práctica clínica, antes de la epidemia, los pacientes con infecciones víricas banales, aun con síntomas leves (febrícula, cefalea, …), veían retrasada la administración de TIP. Los razonamientos previos son aplicables, con mayor justificación, a un paciente con síntomas leves, que debe evitar acudir al HdD hasta que se descarte una infección por SARS-CoV-2.
+
+
+- RESULTADOS
+
+El algoritmo elaborado para la consecución de los objetivos se estructura en la aplicación de un doble filtro, primero clínico y después microbiológico ( fig. 1 ).Figura 1
+
+
+-- PROTOCOLO CLÍNICO
+
+Verificación telemática (telefónica/correo electrónico), en todos los pacientes que tienen programada la administración de TIP, de la ausencia de síntomas compatibles con infección por SARS-CoV-2 mediante la aplicación de una lista de comprobación de síntomas. Siendo las unidades de Enfermería las responsables de la administración de TIP y dada su elevada implicación en las unidades de EM, probablemente son las más cualificadas para realizar esta verificación. La aplicación del protocolo clínico se realizará en 2 momentos: 48 h antes y el día de administración del TIP .
+Lista de comprobación de síntomas:–¿Tiene o ha tenido alguno de los siguientes síntomas en las últimas dos semanas?:•Dolor de garganta•Tos persistente•Diarrea•Anosmia–¿Ha tenido contacto con alguna persona con infección por COVID-19 confirmada en el último mes?–¿Algún miembro de su familia tiene fiebre o algún síntoma de infección?
+Resultado tras la aplicación del protocolo clínico:•Paciente sintomático/sospecha de infección activa: Tras confirmación médica, se pospone TIP. Valoración por el Servicio de Enfermedades Infecciosas•Paciente asintomático: Pasa a protocolo microbiológico
+
+
+-- PROTOCOLO MICROBIOLÓGICO
+
+– 1.° El día anterior a la administración de TIP (24 h antes):•Realización de PCR en exudado nasofaríngeo para SARS-CoV-2– 2.° El día programado para la administración de TIP: Verificación del resultado microbiológico:•Resultado negativo: Pasa a sala de tratamiento con medidas de protección (mascarilla quirúrgica y desinfección de manos con solución hidro-alcohólica)•Resultado positivo: Se pospone TIP. Valoración por el servicio de enfermedades infecciosas
+
+
+- BOLD>DISCUSIÓN</BOLD
+
+Nuestro protocolo propone un doble filtro con una primera parte clínica telemática cuyo objetivo es actuar como «triaje» en los pacientes que vayan a recibir TIP con el fin de identificar aquellos sintomáticos leves. Esto permite canalizar los pacientes hacia los circuitos establecidos para el manejo clínico de la infección por SARS-CoV-2 y evitar citas o tratamientos en pacientes potencialmente contagiosos.
+Se desconoce la sensibilidad y la especificidad exacta de la PCR SARS-CoV-2 en pacientes asintomáticos y en la fase pre-sintomática de la infección, pero diferentes estudios parecen indicar que es la prueba de mayor rentabilidad diagnóstica en este estadio (tabla 2 ). Un estudio indica que la realización conjunta de PCR y disponer de un estudio serológico IgM-SARS-CoV-2 simultáneo incrementa significativamente la sensibilidad (hasta el 98,6%) durante fases muy tempranas en pacientes sintomáticos y en pacientes asintomáticos.
+En nuestro medio es habitual disponer al menos de dos test diagnósticos, la PCR y los test rápidos de anticuerpos. Estos últimos ofrecen la posibilidad de detectar infección activa de varios días de evolución, sobre todo a partir del 7.° día, por lo que no resultaría útil para detectar los casos asintomáticos o en fase pre-sintomática. Disponer de técnicas serológicas rutinarias que permitan discriminar entre IgM e IgG, permitiría realizar una aproximación diagnóstica más exacta a la fase de la infección. Se desconoce el grado de inmunidad y la duración que confiere padecer la infección.
+La pandemia mundial por SARS-CoV-2 está generando situaciones inéditas y que suponen un reto asistencial en las unidades de EM. Al inicio y durante el pico de la pandemia resulto inevitable el retraso en el inicio y administración de las dosis de TIP programadas dado el contexto epidemiológico de alta transmisión, con una proporción desconocida de asintomáticos/pre-sintomáticos contagiosos (a día de hoy en estudio), y en el que existía una limitación en el acceso a los test diagnósticos. El manejo clínico de esta situación resultó muy complejo debido a que la mayor parte de estos tratamientos no pueden ver interrumpida su administración por un elevado riesgo de reactivación de la EM, con aparición de brotes e incremento del grado de discapacidad. De hecho, con el propósito de posponer dosis o espaciar su administración, se han utilizado marcadores biológicos no validados en EM.
+En estas circunstancias, la suspensión indefinida de la administración de TIP no es una opción razonable, teniendo en cuenta que no se vislumbra un fin de la epidemia a corto plazo. Además, una vez que el pico de la pandemia parece superado, se han iniciado medidas de desescalado del confinamiento en la población general. Si este proceso de desescalado no se ajusta a las recomendaciones establecidas por las autoridades sanitarias, el riesgo de contagio se verá incrementado. En este contexto nuestro algoritmo pretende aumentar la seguridad en la administración de TIP, lo que permitiría reducir el riesgo en pacientes con infección asintomática o en fase pre-sintomática y que estos pudieran transmitirla a otros pacientes, también inmunosuprimidos.
+Actualmente no existen recomendaciones concretas establecida por guías clínicas o por las autoridades sanitarias para este tipo de pacientes, por lo que proponemos este algoritmo de seguridad para su aplicación en la práctica clínica.
+Nuestra propuesta no está exenta de limitaciones. Por el momento se limita a la realización de PCR, la cual proporciona una información puntual y solo útil en el momento previo a la administración de TIP. Muchos de los TIP generan una inmunosupresión mantenida en el tiempo durante el que existe susceptibilidad de contagio, por tanto, para que la aplicación de este algoritmo alcance una verdadera utilidad, debe ir acompañado de medidas de educación de los pacientes que garanticen el mantenimiento de las normas de protección (distanciamiento social, higiene, utilización de mascarillas …) mientras se permanezca en el contexto de la epidemia. También desconocemos la utilidad en práctica clínica de testear a poblaciones en riesgo mediante este procedimiento.
+Este algoritmo puede aumentar el conocimiento sobre la prevalencia y características de la infección por SARS-CoV-2 en pacientes con EM inmunocomprometidos. Se pretende realizar reevaluaciones de su utilidad y modificaciones en función de la evolución de la pandemia, así como comunicar los resultados de su aplicación.
+
+
+- CONCLUSIÓN
+
+La finalidad de este algoritmo de seguridad es la de ayudar a mantener la utilización de las opciones terapéuticas más adecuadas de forma individualizada. Teniendo en cuenta el balance beneficio-riesgo, la aplicación de este algoritmo resultaría ventajosa pese a que no se conoce la proporción real de asintomáticos/presintomáticos contagiosos. La realización sistemática de PCR, como test con mayor sensibilidad en la fase presintomática de la infección, en combinación con un sistema de detección precoz de síntomas, reduciría contagios y favorecería la identificación de pacientes con riesgo antes de su exposición a TIP.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses en la realización del estudio.

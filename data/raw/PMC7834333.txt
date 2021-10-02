@@ -1,0 +1,46 @@
+SÍNDROME INFLAMATORIO MULTISISTÉMICO DE TIPO KAWASAKI ASOCIADO A COVID-19 EN UN ADULTO
+
+
+- ANTECEDENTES
+
+La nueva enfermedad por coronavirus de 2019 (COVID-19) puede causar un amplio espectro de síntomas en humanos, oscilando su gravedad entre las formas asintomática, y de leve a severa. Por ello, las presentaciones clínicas de esta enfermedad pueden incluir compromiso del tracto respiratorio superior y/o inferior con disfunción multisistémica, que afecta particularmente a los sistemas digestivo, cardiocirculatorio y renal. El SARS-CoV-2 utiliza como receptor la enzima conversora de angiotensina 2 (ACE2), para invadir las células localizadas en los tejidos pulmonar, cardiaco y renal, desencadenando una respuesta inmune desregulada con liberación masiva de citocinas y, por tanto, un estatus inflamatorio explosivo en pacientes gravemente afectados. La enfermedad de Kawasaki (KD) es infrecuente en adultos, y aún lo es más el síndrome de choque tóxico por enfermedad de Kawasaki (KDSS), como forma grave. Recientemente algunos informes establecen que la COVID-19 está asociada a la aparición de casos de enfermedad de tipo Kawasaki (KLD), especialmente en niños. A nuestro saber, el siguiente caso es uno de los primeros que se han descrito como forma grave de KLD en un adulto joven, probablemente secundario a COVID-19. Se obtuvo consentimiento informado del marido, con anterioridad a la presentación del caso.
+
+
+- CASO CLÍNICO
+
+Una mujer caucásica de 28 años de edad, previamente sana (peso 70 kg, índice de masa corporal 24,8 kg/m2) se presentó en la unidad de urgencias con inicio brusco de erupción cutánea, que se había iniciado en la zona post-auricular dos días antes, extendiéndose rápidamente a otras zonas del cuerpo. Reportó fiebre persistente, dolor de garganta, tos seca, fatiga y dolor abdominal que habían comenzado siete días antes de su ingreso. No había tomado fármacos antes de la aparición de los síntomas. La exploración física reveló paciente febril (39,6 C°), taquicárdica (150 latidos/min), taquiapnéica (26 respiraciones/min) e hipotensa (89/45 mmHg). El nivel de SpO2 fue del 91% con aire ambiental. Se detectó exantema generalizado y localizado en las siguientes zonas: tronco anterior y posterior, extremidades superiores e inferiores, manos y pies. Además, se detectó inflamación de la conjuntiva sin linfadenopatía cervical (fig. 1 ). Fue trasladada de inmediato a la Unidad de Cuidados Intensivos (UCI) con soporte de oxígeno (10 L/min con mascarilla de oxígeno sin reinhalación) donde se realizó tratamiento agresivo con cristaloides (500 mL), infusión continua de norepinefrina (0,1 μg/kg/min) y terapia antibiótica empírica (ceftriaxona 2 g IV diarios, infusión continua de vancomicina 2 g/24 h). Se realizó ecocardiografía a pie de cama que reveló disfunción sistólica (medición de FEVI del 15% aproximadamente) y diastólica graves, con distensión biventricular y pequeña efusión pericárdica (fig. 2 ). Se inició por tanto terapia de dobutamina (10 μg/kg/min), realizándose a la paciente intubación traqueal. Las pruebas de laboratorio realizadas al ingreso reportaron signos de coagulación intravascular diseminada y sepsis (tabla 1 ). Sin embargo, los cultivos de sangre, orina y líquido cerebroespinal fueron negativos. Tras estabilizar a la paciente se realizó tomografía computarizada (TC) torácica que reveló pequeña condensación alveolar en el pulmón izquierdo (fig. 3 ). La rt-PCR múltiple para las muestras recogidas de los aspirados nasofaríngeo y traqueal no detectó la presencia de ningún patógeno vírico o bacteriano (adenovirus, coronavirus humano (HKU1, NL63, 229E, OC43), coronavirus MERS*, SARS-CoV-1, SARS-CoV-2, metaneumovirus humano, rinovirus humano, enterovirus, virus de influenza (A, A1H1, AH1-2009, B), virus de parainfluenza (1, 2, 3 y 4), virus respiratorio sincitial, Bordetella pertussis, Bordetella parapertussis, Chlamydophila pneumoniae, Mycoplasma pneumoniae). Sin embargo, el test rápido IgG/IgM para COVID-19 resultó positivo para los anticuerpos IgG, y negativo para los anticuerpos IgM.Figura 1Figura 2Figura 3
+Como resultado de estos hallazgos, se diagnosticó síndrome de choque tóxico por enfermedad de Kawasaki tras COVID-19, tratándose a la paciente con dosis terapéutica de heparina de bajo peso molecular, metilprednisolona (2 mg/kg/día), dosis única de 500 mg de ácido acetilsalicílico, iniciándose plasmaféresis con albúmina. A pesar de las medidas terapéuticas, el curso fue desafortunadamente fulminante, con empeoramiento significativo de su situación hemodinámica. Transcurridas cuarenta y ocho horas sufrió una parada cardiaca, con intentos de reanimación infructuosos. Se sugirió realizar autopsia, a lo cual se negó su marido.
+
+
+- DISCUSIÓN
+
+KD es un síndrome infrecuente de causa desconocida. Se define como una vasculitis aguda de los vasos de tamaño medio que ocurre en la infancia y puede causar complicaciones graves, muy frecuentemente aneurismas coronarios en el 25% de los pacientes no tratados. Se ha sugerido que esta entidad es más probable a causa de una situación de hiperinflamación y respuesta autoinmune exagerada derivada de varias infecciones. También podría estar implicada la susceptibilidad genética. De acuerdo con las directrices italianas, el diagnóstico de KD es consensual, basándose clínicamente en la presencia de ciertos criterios: fiebre persistente, inflamación de ganglios linfáticos, exantema y enantema. Una forma grave de KD, denominada KDSS podría apreciarse en algunos pacientes, causando insuficiencia cardiocirculatoria, y deficiencias respiratorias y de perfusión periférica.
+Además, cientos de niños y adolescentes de los países occidentales (GB, Francia, Italia, España y EEUU) han desarrollado una situación grave asociada a la infección por SARS-CoV-2 que remeda KD, denominada KLD o síndrome inflamatorio multisistémico en niños (MIS-C), o síndrome inflamatorio multisistémico pediátrico asociado a SARS-CoV-2 (PIMS-TS), , . Además, algunos informes han descrito el mismo síndrome en adultos jóvenes con COVID-19 con disfunción cardiaca moderada, en el plazo de una semana desde la aparición de los síntomas, y con buen resultado, .
+En el caso anterior, la situación de fiebre prolongada superior a 38,5 °C, tormenta de citocinas (atestiguada por la situación inflamatoria), y shock provocado por miocarditis y vasoplejía, evocó una forma grave de KLD con distrés cardiocirculatorio refractario. De hecho, este trastorno tuvo síntomas clínicos similares a los encontrados en KDSS, y evidencias bioquímicas de síndrome de activación macrofágica (tipo SAM).
+Debido a la inusual incidencia reflejada anteriormente, puede confundirse con un síndrome de choque tóxico o una afección cutánea causada por fármacos, lo cual puede demorar o impedir el tratamiento temprano.
+La cura de MIS-C se basa en inmunomoduladores tales como corticosteroides y/o plasmaféresis, dado que se han reportado resistencias a la inmunoglobulina intravenosa. Sin embargo, la inmunoglobulina intravenosa parece ser eficaz en pacientes adultos, . En este caso, la evolución fatal se debe probablemente a la gravedad del daño miocárdico, que podría explicarse por la acción directa del coronavirus en el miocardio, y el efecto indirecto de la inflamación .
+
+
+- CONCLUSIÓN
+
+Este caso subraya cómo la neumonía por COVID-19 puede provocar un síndrome inflamatorio multisistémico de tipo Kawasaki en adultos. Es fundamental evocar esta situación entre las erupciones cutáneas en la situación actual de pandemia por COVID-19, lo cual podría evitar un desenlace fatal, y derivar a un pronto tratamiento con inmunoglobulina intravenosa, plasmaféresis y esteroides.
+
+
+- CONTRIBUCIONES DE LOS AUTORES
+
+Youssef Elouardi: Conceptualización, Redacción del borrador original, Redacción, Revisión y Edición, Investigación, Visualización, Validación.
+Houssam Rebahi: Terminología, Redacción – Revisión y Edición, Validación.
+Youssef Zarrouki: Visualización, Investigación.
+Amra Ziadi: Investigación, Supervisión.
+Said Younouss: Terminología, Revisión, Validación.
+Mohamed Abdenasser Samkaoui: Supervisión, Revisión y Edición, Validación.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

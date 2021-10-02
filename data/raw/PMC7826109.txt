@@ -1,0 +1,126 @@
+CIRUGÍA SEGURA Y COVID-19: UNA REVISIÓN NARRATIVA
+
+
+- INTRODUCCIÓN
+
+-- ANTECEDENTES
+
+La cirugía representa una parte integral de la atención médica global, y sus equipos quirúrgicos deben seguir previniendo -a través de un trabajo organizado y coordinado– posibles errores causantes de complicaciones en el contexto de una cirugía segura.
+La COVID-19 –de reciente aparición- se ha convertido en un problema de salud pública mundial debido a su rápida expansión. Representa un auténtico desafío para los sistemas sanitarios, carentes en un primer momento de información para organizar la respuesta ante esta situación, de tratamientos eficaces para combatir esta infección altamente transmisible y con un personal sanitario con limitaciones en el aprovisionamiento de equipos de protección personal en su desempeño diario para minimizar los riesgos de contagio.
+A esta crisis sanitaria se agregan otros problemas relacionados con las indicaciones quirúrgicas urgentes o inaplazables en pacientes con sospecha o confirmación de esta infección, así como respecto a posibles medidas a adoptar en cuanto a la seguridad de los equipos quirúrgicos y su prevención, dada la alta posibilidad de contaminación de la cirugía, , .
+La lista de verificación de seguridad quirúrgica (LVSQ) ha evidenciado que produce un efecto positivo sobre la mejora de las relaciones y la comunicación en el equipo de trabajo, reduce la morbimortalidad achacable a errores evitables y secundaria a procedimientos quirúrgicos, , , y mejora la seguridad del paciente.
+Ante este contexto surgen diversos interrogantes que debemos ser capaces de afrontar: ¿qué medios de actuación asumimos en cirugía para los enfermos con sospecha o confirmación de infección por COVID-19?, ¿disponemos de protocolos o normas de actuación que tengan en cuenta la seguridad de los equipos quirúrgicos en cirugía altamente contaminante por SARS-CoV-2?, ¿es recomendable la utilización de la LVSQ de la OMS en pacientes con infección por SARS-CoV-2?
+La evidencia científica nos da un cierto nivel de conocimiento de la enfermedad por SARS-CoV-2 respecto a la epidemiología, el diagnóstico y el manejo del paciente, no así para el tratamiento. Sin embargo, se encuentran en estudio una variedad de medicamentos aprobados para otras indicaciones, así como múltiples agentes de investigación para la COVID-19 en varios cientos de ensayos clínicos en el mundo.
+Asimismo, la evidencia disponible respalda la reducción en las complicaciones postoperatorias y la mortalidad después de la implementación de la LVSQ de la OMS, .
+
+
+-- OBJETIVO
+
+El objetivo de este estudio consistió en incorporar -al contexto de cirugía segura- criterios epidemiológicos, clínicos, terapéuticos, de control y de prevención de la infección respiratoria por SARS-CoV-2 que permitan desarrollar una propuesta de LVSQ ante pacientes quirúrgicos con sospecha o confirmación de padecer COVID-19.
+
+
+- MATERIAL Y MÉTODO
+
+Revisión narrativa, siguiendo el protocolo PRISMA, de la evidencia científica disponible y consenso entre profesionales en relación con la cirugía segura, listados de verificación quirúrgica y seguridad del equipo quirúrgico ante la COVID-19 hasta el 30 de abril de 2020.
+Como principales tesauros se utilizaron: coronavirus, infections, safety, surgical procedures, operative y checklist, uniéndolos con el operador booleano AND.
+Para la infección por coronavirus, se buscó información a través del motor de búsqueda PubMed de la base de datos de Medline. Como criterios de inclusión se tuvieron en cuenta artículos publicados durante el año 2020 en español, inglés o francés a texto completo. Además, se utilizaron otras fuentes bibliográficas relacionadas con sociedades científicas (Asociación Española de Cirujanos, American College of Surgeons y Sociedad Española de Anestesiología, Reanimación y Terapéutica del Dolor), autoridades y organismos sanitarios (OMS, Ministerio de Sanidad y Centers for Disease Control and Prevention), instituciones dedicadas a la seguridad de los medicamentos (Agencia Española de Medicamentos y Productos Sanitarios y Agence Nationale de Sécurité du Médicament et des Prouits de Santé) y agencias de investigación médica (Registro Español de estudios clínicos y National Institutes of Health).
+Con respecto a la LVSQ, se incluyeron publicaciones de referencia de la OMS y artículos relevantes, así como artículos publicados en los últimos 5 años a través de Medline y Base de Datos Cochrane de Revisiones Sistemáticas.
+La extracción de citas se realizó en diferentes fases siguiendo las recomendaciones del protocolo PRISMA (fig. 1 ).Figura 1
+La bibliografía consultada se clasificó de acuerdo con 4 aspectos relacionados con la enfermedad «infección respiratoria por SARS-CoV-2» y sus implicaciones respecto a la cirugía segura, a enumerar: epidemiológicos, clínico-diagnósticos, terapéuticos y prevención y control de la infección.
+La aportación de estudios incluidos para la revisión final se clasificó en 3 categorías que se corresponden con aspectos relacionados con la COVID-19 (epidemiología, clínico-diagnóstico, tratamiento y medidas de control y prevención de la enfermedad), presentándose a través de estadística descriptiva (porcentajes).
+
+
+- RESULTADOS
+
+Se revisaron un total de 122 referencias iniciales, eliminándose 89 de ellas al no ser consideradas pertinentes para el estudio. El aspecto más contemplado en los estudios incluidos en la revisión bibliográfica final fue el tratamiento de la infección respiratoria por SARS-CoV-2 a través de sus 3 vertientes (quirúrgica, médica y cuidados críticos) (41,3%), seguido por la prevención y el control de la infección COVID-19 (27,6%) y clínico-diagnósticos (17,2%), correspondiendo al epidemiológico (13,8%) la menor contribución.
+
+
+-- CIRUGÍA SEGURA Y ASPECTOS DE LA INFECCIÓN POR SARS-COV-2
+
+--- ASPECTOS EPIDEMIOLÓGICOS
+
+Los mecanismos de transmisión viral en el quirófano son principalmente el contacto con material contaminado (fómites), el contacto directo con gotas respiratorias y la aerosolización, .
+Para el anestesiólogo el mayor riesgo de exposición a contacto con las gotitas respiratorias se produce durante el manejo de la vía aérea (intubación y extubación).
+Los procesos que favorecen la generación de aerosoles en individuos infectados y potencialmente infectados en el entorno perioperatorio representan una importante fuente de exposición para los equipos quirúrgicos, .
+El período de incubación mediano es de 5-6 días, con un rango de uno a 14 días.
+La supervivencia del patógeno viral en superficies ambientales se extiende por varios días, pudiendo sobrevivir al menos 3 días en una variedad de materiales que se encuentran en el quirófano.
+El no disponer de equipo de protección individual (EPI), su uso incorrecto o la falta de higiene de manos son otros factores que, en potencia, pueden llevar a que el equipo quirúrgico se infecte, .
+
+
+--- ASPECTOS CLÍNICO-DIAGNÓSTICOS
+
+El diagnóstico de COVID-19 requiere la detección de ARN de SARS-CoV-2 por reacción en cadena de la polimerasa de transcripción inversa, , .
+Por lo que respecta a los parámetros analíticos, el SARS-CoV-2 se asocia a linfopenia en el 80% de los pacientes. Hay que destacar que la procalcitonina no se eleva, encontrándose en el 95% de los pacientes en una cantidad menor de 0,5 ng/ml, .
+En cuanto a las pruebas de imagen a considerar, la radiografía de tórax muestra consolidaciones bilaterales del espacio aéreo y la TAC de tórax presenta típicamente opacidades bilaterales de vidrio esmerilado periférico, , .
+
+
+--- ASPECTOS DEL TRATAMIENTO QUIRÚRGICO
+
+Se han de realizar pruebas de detección de COVID-19 de forma rutinaria antes de una intervención quirúrgica urgente o electiva.
+Se debe contemplar la posibilidad de posponer la intervención quirúrgica en caso de intervenciones electivas en pacientes con COVID-19, .
+Respecto a las indicaciones de enfermedad quirúrgica urgente, se recomienda de forma general considerar las opciones de tratamiento conservador de algunas afecciones de acuerdo con el estado general y COVID-19 del paciente y el propio ámbito asistencial, , , . De forma general, no se debe modificar una técnica quirúrgica en caso de una intervención urgente. Las recomendaciones generales son de sopesar específicamente parámetros de riesgo/beneficio en relación con el abordaje laparoscópico en paciente con urgencia quirúrgica y coinfección por COVID-19, . En casos de cirugía urgente y no demorable donde no se disponga de reacción en cadena de la polimerasa, se debe abordar de manera similar a los pacientes infectados.
+El tipo de anestesia dependerá de las condiciones respiratorias del paciente y la clase de intervención quirúrgica. Siempre que sea posible la anestesia regional, será de elección.
+El manejo de la vía aérea debe realizarse con procedimientos de seguridad para el personal sanitario, , (anestesiólogo con amplia experiencia, viabilidad de la videolaringoscopia, EPI completo) y contemplar la posibilidad de utilización de respirador con purificador de aire motorizado.
+En cuanto a la vía de abordaje, se debe priorizar la más beneficiosa para el paciente, independientemente de su infección. Para seleccionar la técnica quirúrgica, se debe seguir el principio general de la cirugía urgente, «aquella con el mayor beneficio posible y con el menor gesto quirúrgico; así como una menor probabilidad de complicaciones», .
+La administración profiláctica sistémica de antimicrobianos (inicio 30-60 min antes de la incisión, uso preferente de monodosis, administración de dosis intraoperatoria si está indicada) debe apoyarse en el asesoramiento de los comités de profilaxis antibiótica (PROA) hospitalarios, de cara a su adecuación.
+
+
+--- ASPECTOS DEL TRATAMIENTO MÉDICO
+
+No existe un tratamiento clínico específico para la infección por SARS-CoV-2, motivo por el que los aspectos fundamentales son el soporte y manejo de las complicaciones; algunos de los tratamientos disponibles son moléculas de nuevo desarrollo y otros son casos nuevos de medicamentos ya autorizados con otras indicaciones, , .
+Como medida de precaución se aconseja revisar la medicación de los pacientes evitando aquellos medicamentos que no se consideren necesarios en estos momentos, especialmente los que puedan producir reacciones adversas del aparato respiratorio o presenten interacciones con medicamentos para el tratamiento de la infección por SARS-CoV-2 (remdesivir, lopinavir/ritonavir, cloroquina/hidroxicloroquina, tocilizumab, sarilumab, ruxolitinib, rituximab, interferón beta-1B, interferón alfa-2B). Otros tratamientos: no se recomienda su uso salvo en el contexto de ensayos clínicos (anakinra, APN01, baricitinib, colchicina, darunavir/cobicistat, eculizumab, favipiravir, imatinib, ivermectina, tofacitinib, regeneron, vafidemstat, umifenovir), , .
+
+
+--- ASPECTOS DEL TRATAMIENTO DE PACIENTES CRÍTICOS
+
+Se recomienda como soporte hemodinámico: norepinefrina como vasopresor de primera elección. En el caso de soporte ventilatorio: en adultos con ventilación mecánica con COVID-19 y síndrome de dificultad respiratoria aguda se recomienda usar ventilación de bajo volumen corriente, . Asimismo, en el caso de adultos con COVID-19 que reciben oxígeno suplementario, se recomienda una estrecha monitorización para seguir una posible agravación del estado respiratorio y, en caso de que sea necesaria la intubación, debe ser realizada por un profesional experimentado en un entorno controlado, .
+
+
+-- ASPECTOS PREVENTIVOS Y DE CONTROL DE LA INFECCIÓN POR SARS-COV-2
+
+--- ANESTESIA
+
+Medidas preventivas a tener en cuenta en anestesia:
+
+
+--- CIRUGÍA
+
+Durante la intervención, las medidas a tener en cuenta son:
+Después de la intervención, las precauciones a seguir son:
+
+
+-- LISTA DE VERIFICACIÓN DE SEGURIDAD QUIRÚRGICA ADAPTADA A PACIENTES COVID (SOSPECHOSOS O CONFIRMADOS
+
+La lista de la OMS está pensada como herramienta para los profesionales clínicos interesados en mejorar la seguridad de sus intervenciones, , y reducir el número de complicaciones y la mortalidad, ; y ante la COVID-19, reducir las posibilidades de contagio de los equipos quirúrgicos.
+Al igual que la LVSQ de la OMS, divide la operación en 3 fases, correspondiendo cada una de ellas a un período de tiempo muy concreto y en sincronía con el curso normal de una intervención: anterior a la inducción de la anestesia (primera fase), posterior a la inducción y anterior a la incisión quirúrgica (segunda fase) y el período entre el cierre de la herida quirúrgica y la salida del paciente de quirófano (tercera fase).
+Antes de la inducción de la anestesia (primera fase) se deben realizar los siguientes controles:a.Presencia obligatoria de anestesista, cirujanos y enfermería.b.Se corrobora que el equipo quirúrgico está informado y preparado para atender al paciente.c.El quirófano asignado dispone de filtros HEPA y presión negativa.d.Se confirma el protocolo de actuación quirúrgica, basado en:•Diagnóstico de confirmación paciente COVID-19 (reacción en cadena de la polimerasa) o presunción de paciente sospechoso (TAC de tórax y/o parámetros analíticos).•Necesidad de la intervención quirúrgica, según criterio quirúrgico y estado del paciente. e.El equipo quirúrgico lleva EPI adecuado.f.Los miembros del equipo quirúrgico han realizado higiene de manos (solución hidroalcohólica) antes de ponerse el EPI.g.Los dispositivos necesarios para practicar la intervención quirúrgica se encuentran preparados antes de la llegada del paciente.h.Se confirma la utilización de un circuito exclusivo o adecuado para el traslado del paciente, con poco tránsito.i.Se verifica la llegada del paciente al quirófano con mascarilla quirúrgica puesta.j.Se verifica la indicación de profilaxis antibiótica, procediéndose a su realización en caso de no haberse suministrado.
+Antes de la incisión cutánea (segunda fase) se realiza una pausa, en la que se deben establecer los siguientes controles:a.Se realza la presentación y las funciones de los miembros del equipo quirúrgico.b.Se acuerda adoptar las siguientes medidas preventivas:•Intubación planificada con preoxigenación, inducción de secuencia rápida. Valoración del uso de material de laringoscopia/videolaringoscopia desechable.•Uso de bata quirúrgica impermeable desechable.•Evitar instrumentos cortantes o punzantes en la medida de lo posible.•Realizar las manipulaciones con instrumental, nunca con las manos.•Adoptar órdenes verbales para el intercambio de instrumental, evitando el paso de mano a mano (utilizando para ello la bandeja específica).•No depositar instrumental cortante o punzante en la mesa de Mayo.•Se ha estimado la posibilidad de utilización de sistemas de corte alternativo (electrobisturí), empleándose.•Se ha evaluado la posibilidad de utilizar suturas mecánicas, aplicándose.•Se han cumplido las recomendaciones preventivas de la exuflación de la laparoscopia, evitando la aerosolización.•Se ha recogido el material punzante en el contenedor correspondiente, al finalizar la intervención. 
+Antes de que el paciente salga de quirófano (tercera fase) se realiza un pequeño paréntesis con el objetivo de facilitar el traspaso de información esencial a los equipos asistenciales tras la operación:a.Se debe informar de la existencia de algún incidente durante el procedimiento (posibles accidentes de exposición a fluidos y tejidos corporales).b.Como medidas específicas en el manejo del paciente con COVID-19:•Se ha revertido la anestesia en el mismo quirófano.•Se ha ajustado la medicación a las necesidades del paciente a través de protocolos.•Se ha monitorizado la temperatura, por alto riesgo de infección postoperatoria.•El paciente lleva mascarilla quirúrgica tras la extubación.•Está previsto el itinerario del paciente. c.Desechar toda la medicación y los dispositivos no utilizados de las bandejas de medicación e intubación (material desechable).d.El personal quirúrgico debe desvestirse al final del procedimiento, ayudado por otro sanitario, debido al riesgo de contaminación de este procedimiento. Asimismo, debe realizar la higiene de manos (solución hidroalcohólica) tras quitarse el EPI.e.Sala quirúrgica: se debe limpiar el quirófano de forma exhaustiva y realizar la descontaminación por vaporización con agua oxigenada.
+
+
+- DISCUSIÓN
+
+En la etapa inicial de la pandemia y en la fase de máxima incidencia, hubo pacientes -en número pequeño pero significativo- que fueron programados para cirugías electivas durante el período de incubación de la COVID-19, resultando un alto porcentaje de complicaciones postoperatorias que requirieron cuidados en la UCI y una elevada mortalidad, .
+El cambio de ciertas indicaciones quirúrgicas de tipo urgente por opciones de manejo conservador debe realizarse según el criterio del cirujano y el estado del paciente, basándose en la evidencia científica disponible, .
+La elección entre laparoscopia y laparotomía como abordaje quirúrgico debe ser cautelosa. El uso de la laparoscopia tiene ventajas –como se ha demostrado- en pacientes con buena función cardiopulmonar y estado general. Se debe prestar una atención cuidadosa durante la creación del neumoperitoneo y llevar a cabo un manejo estricto de los aerosoles durante la intervención.
+La priorización entre los casos oncológicos representa una tarea difícil, debiendo sopesar los facultativos un posible retraso en el diagnóstico o tratamiento del cáncer con el riesgo de una posible exposición al COVID-19.
+Un comité de revisión quirúrgica –compuesto por personal de cirugía, anestesia, enfermería quirúrgica, comprometiéndose además los miembros del staff directivo- es esencial para proporcionar una supervisión definida.
+En la actualidad, no se ha demostrado que ningún medicamento sea seguro y efectivo para tratar la COVID-19.
+Los efectos secundarios asociados a los tratamientos que se administran a los pacientes con COVID-19 son relativamente frecuentes y pueden intensificarse con esta enfermedad, , .
+No existe evidencia de superioridad de ninguna técnica anestésica, aunque sí la recomendación por parte de la SEDAR de la utilización electiva de la raquianestesia en la medida de lo posible.
+La necesaria adhesión de los profesionales de la salud respecto a pautas de prevención y control de la infección en enfermedades infecciosas respiratorias -caso de la COVID-19– obliga a suprimir barreras a su implementación e instaurar mecanismos facilitadores, contando siempre con la opinión del personal sanitario y el apoyo de los equipos directivos a nivel local.
+La introducción de la lista adaptada de verificación de la cirugía segura con especificaciones para pacientes COVID conlleva una serie de medidas que la experiencia sobre la mejora de la calidad nos ha aportado, a las que se añaden las inexcusables por coronavirus: formación de un equipo, asegurar desde su comienzo las medidas de protección ante la COVID-19 e ir avanzando conforme se resuelvan los problemas. El seguimiento y la evaluación de la atención quirúrgica se consideran asimismo componentes esenciales. Que las partes interesadas -contando con miembros clave del equipo en un papel de supervisor- adopten un enfoque dirigido a involucrar a todo el personal de quirófano en una intervención interdisciplinaria puede aumentar su cumplimiento.
+La participación de los pacientes en su seguridad respecto a la atención quirúrgica puede ser un aspecto a considerar en esta lista adaptada.
+Durante la pandemia de COVID-19 es de suma trascendencia afrontar la urgencia quirúrgica de la manera más efectiva y eficiente, recuperar recursos quirúrgicos de áreas hospitalarias no esenciales, y ofrecer al mismo tiempo atención de enfermedades de alta prioridad en pacientes no COVID-19.
+
+
+- CONCLUSIÓN
+
+La existencia de un amplio consenso respecto a las buenas prácticas recomendadas en pacientes COVID quirúrgicos permite realizar una propuesta de LVSQ adaptada a estos enfermos.
+El objetivo final de esta LVSQ adaptada a COVID-19 es contribuir a garantizar que los equipos quirúrgicos al completo adopten de forma sistemática medidas de seguridad esenciales y minimicen así riesgos evitables que ponen en peligro el bienestar y la vida de los pacientes quirúrgicos, así como la seguridad de los profesionales sanitarios ante situaciones de posible contagio sanitario por SARS-CoV-2.
+La LVSQ para la cirugía segura en pacientes COVID-19 debe actualizarse constantemente en consonancia con las opiniones de los expertos y la evidencia científica que vaya surgiendo por parte de las autoridades científicas y sanitarias respecto al manejo de pacientes con infección respiratoria por el coronavirus.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

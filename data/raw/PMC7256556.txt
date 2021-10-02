@@ -1,0 +1,57 @@
+MODELOS PREDICTIVOS DE LA EPIDEMIA DE COVID-19 EN ESPAÑA CON CURVAS DE GOMPERTZ
+
+
+- INTRODUCCIÓN
+
+Durante la crisis de salud internacional provocada por la pandemia de COVID-19 se hace necesario no solo conocer los datos sobre contagios, muertes y ocupación hospitalaria, sino también hacer predicciones que ayuden a la propia gestión de la crisis por parte de las autoridades sanitarias.
+El presente trabajo tiene como objetivo describir la metodología utilizada para la elaboración de modelos predictivos de contagios y defunciones para la epidemia de COVID-19 en España. Los datos utilizados, desde el 4 de marzo hasta el 22 de abril de 2020, fueron los datos oficiales que ofrecía diariamente el Ministerio de Sanidad de España.?
+
+
+- EXPOSICIÓN DEL MÉTODO
+
+Para las modelizaciones se siguió el siguiente esquema, simplificación del descrito por Lega y Brown:•Paso 1: se ajustaron los valores acumulados a una curva G(t) (fig. 1 , curva de casos acumulados).Figura 1•Paso 2: se calculó la primera derivada g(t) de la curva anterior (fig. 1, curva de casos diarios).
+Con los datos acumulados diarios se calculó la curva de Gompertz? de tres parámetros que mejor se ajustaba en cada caso a los datos:G t = a e−ebt−c
+Se utilizó el modelo de crecimiento de Gompertz en lugar de otros, como el logístico o el de Bertalanffy, por haber demostrado ser algo más preciso para predecir los casos acumulados fuera de la provincia china de Hubei?, lugar donde se originó la pandemia de COVID-19.
+Para el ajuste de la curva de Gompertz a los datos acumulados observados se usaron los algoritmos de Nelter-Mead? implementados por Nash. El software utilizado para los cálculos fue R ? a través del paquete drc .
+De esta manera obtuvimos modelizada la curva de casos acumulados, con la que pudimos estimar cuántos casos acumulados se observarían cualquier día determinado. Esta curva depende exclusivamente de los casos acumulados observados, ya que es la única información que la nutre.
+El coeficiente a de la curva se corresponde con su asíntota superior, lo que puede interpretarse como el «horizonte» de la epidemia, esto es, el número de casos esperados al final de esta.
+La primera derivada de la función anterior, la interpretamos como la curva del número de casos diarios:g t = dGdt = − a b ebt−ce−ebt−c
+A través de ella se pueden calcular los valores esperados los días futuros. El punto donde esta función alcanza el máximo puede interpretarse como el pico de la epidemia.
+
+
+- APLICACIÓN PRÁCTICA
+
+En el momento en que se publican nuevos datos diarios se vuelve a calcular un modelo según el esquema anterior para los contagios y otro para las defunciones en cada comunidad autónoma y para el total del país.
+Para el presente trabajo se calcularon 50 modelos de contagios y 50 de fallecimientos para cada una de las comunidades autónomas (dos modelos diarios, desde el 4 de marzo hasta el 22 de abril, cada día un modelo).
+Según esta metodología, el pico de contagios se alcanzó en España aproximadamente a finales de marzo, mientras que el pico de defunciones se estimó a primeros de abril de 2020. Los resultados concretos de los picos de las curvas, además de los horizontes, pueden consultarse en la app interactiva: https://www.easp.edu.es/data-apps/covid-easp/covid19_ESP/
+La figura 2 muestra la evolución de los horizontes (coeficientes a de los modelos) que se fueron calculando diariamente y a lo largo del tiempo. A modo de ejemplo, los modelos predecían más de 900.000 casos de contagio y unas 67.000 muertes en torno al 27 de marzo para el total de España, y a medida que se sucedieron los días estos horizontes estimados descendieron hasta situarse alrededor de 240.000 contagios y 25.000 fallecidos. A partir de los primeros días de abril, esas estimaciones permanecen estables a lo largo del tiempo. De manera general se observa que, en todos los casos, al principio el comportamiento de la serie de horizontes era algo errática, pero a medida que avanzaron los días el parámetro fue estabilizándose, lo cual se puede interpretar como medida de robustez de la estimación del número de contagiados y de fallecidos para cada comunidad autónoma.Figura 2
+A partir de las curvas de contagios diarios y de defunciones diarias (g(t)) se hizo una estimación de las fechas en que no se observarán más contagios ni más defunciones (tabla 1 ). Hay que hacer notar que tanto las predicciones de estas fechas como las de los horizontes son orientativas y no serán precisas si la situación epidemiológica varía sustancialmente.
+
+
+- CONCLUSIONES
+
+Presentamos en este trabajo una metodología de fácil uso para modelizar epidemias como la de COVID-19. Consideramos que en esta sencillez radica su fortaleza, ya que se utilizan exclusivamente los datos sobre contagios y defunciones que después se predicen, sin contar con ningún tipo de covariable externa para su cálculo. Esto, por una parte, podría parecer una debilidad al no añadir más información a los modelos, pero así se evita el ruido que podrían introducir esas hipotéticas variables externas. Por otra parte, la ausencia de más información hace que la calidad de las predicciones dependa mucho de la calidad de los datos.
+Hay que tener en cuenta que las predicciones de los modelos de contagios, sobre todo a partir de aproximadamente la tercera semana de abril de 2020, pueden sufrir grandes variaciones con respecto a los valores observados por los cambios en la definición de caso. No ocurre lo mismo con respecto a los modelos de defunciones, que son más robustos a lo largo del tiempo al no haber sufrido grandes cambios en su definición.
+Con respecto a las fechas estimadas del fin de la epidemia en cada comunidad autónoma, hay que tener en cuenta que son estimaciones aproximadas y que pueden sufrir alteraciones si se producen cambios bruscos en las tendencias. De hecho, los modelos predecían horizontes de muchos más casos y defunciones a finales de marzo que a partir de la segunda quincena de abril, lo que puede deberse a las medidas de confinamiento tomadas por las autoridades, que tienen un efecto en las curvas de la epidemia a partir de al menos una semana desde su implantación?.
+En cuanto al fin de la epidemia, las fechas en las que se espera que no haya defunciones son anteriores a las fechas en las que se espera que no haya contagios, y esto tiene mucho sentido dado que no todas las personas contagiadas fallecerán y que el porcentaje de personas que sobreviven a la enfermedad es mucho mayor que el de las personas que fallecen.
+En cualquier caso, en este trabajo presentamos una metodología utilizada para modelizar la epidemia de COVID-19 en España y en sus comunidades autónomas, y el valor que le damos es referente al contexto temporal de la epidemia, aunque somos conscientes de que pasada la crisis esta metodología puede ser matizada.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Carlos Álvarez Dardet.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Los dos autores han contribuido a la concepción del estudio, la redacción del manuscrito y la revisión de las distintas versiones. P. Sánchez Villegas realizó los análisis de los datos. Ambos se hacen responsables del contenido íntegro del trabajo.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

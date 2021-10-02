@@ -1,0 +1,112 @@
+ITALIC>SCOPING REVIEW</ITALIC> SOBRE LAS RECOMENDACIONES PARA EL AISLAMIENTO DOMICILIARIO EN LA PANDEMIA DE COVID-19
+
+
+- INTRODUCCIÓN
+
+La infección por COVID-19, declarada como pandemia por la Organización Mundial de la Salud (OMS) el 11 de marzo del 2020, presenta un número de casos notificados probablemente subestimado, dada la escasez o la falta de disponibilidad de equipos de pruebas en muchos países. Además de suspender los viajes y los esfuerzos por reducir las multitudes, los países están adoptando medidas sin precedentes para mitigar la propagación exponencial de la COVID-19.
+Mientras que la COVID-19 se transmite como un patógeno en forma de gota y se coloca en la categoría B de agentes infecciosos (altamente patógenos H5N1 y SARS), las medidas de control de la infección recomendadas son los de los agentes de categoría A (cólera, peste). Se cree que el 2019-nCoV tiene un tiempo de incubación y generación similar al del coronavirus del SARS (SARS-CoV). El impacto del SARS fue aterrador y, en ausencia de vacunas y antivirales, vencer la situación solo fue posible gracias a la aplicación rigurosa de medidas de salud pública tradicionales.
+Una vez más, necesitamos confiar en estas medidas clásicas de salud pública para frenar la epidemia de esta enfermedad respiratoria. El objetivo principal de tales medidas es prevenir la propagación de la enfermedad de persona a persona, separándolas para interrumpir la transmisión. Las herramientas que tenemos a mano son el aislamiento y la cuarentena, el distanciamiento social y la contención comunitaria.
+Diversas son las recomendaciones realizadas sobre cuarentena de los casos positivos por COVID-19 y múltiples las instituciones que proporcionan indicaciones para estos pacientes. Por lo que el objetivo de esta revisión exploratoria es resumir la evidencia disponible sobre las recomendaciones relevantes y pertinentes a seguir en el manejo del aislamiento domiciliario para los pacientes COVID-19 positivo y su entorno.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Dada la amplitud del concepto a explorar y lo emergente de la temática, se ha realizado una revisión exploratoria o scoping review .
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+Se realizó una búsqueda electrónica extensiva sin límites temporales, de idioma ni de tipo de investigación, en las bases de datos Trip Database, PUBMED y CINAHL, con los siguientes descriptores del DeCs: (prevention OR infection control OR Communicable Disease Control) AND (home isolation OR self isolation OR patient isolation) AND COVID-19.
+Los descriptores se ampliaron para COCHRANE y para los recursos sobre COVID-19 de Elsevier. Se realizó un seguimiento de referencias a partir de la primera selección de documentos de interés.
+
+
+-- EVALUACIÓN CRÍTICA
+
+En las scoping reviews no es imprescindible realizar valoración de la calidad de los estudios. En la que nos ocupa, se clasificaron los documentos por su rigor metodológico y grado de recomendación según los criterios establecidos por el Instituto Joanna Briggs, aunque no se utilizó como criterio de selección. Esta valoración se realizó con el fin de visibilizar la necesidad de investigaciones más rigurosas al mismo tiempo que, en situaciones como la pandemia de la COVID-19, se precisa ayudar a los clínicos sintetizando lo existente, aunque las evidencias sean débiles.
+
+
+-- EXTRACCIÓN DE DATOS
+
+De todos los documentos localizados se extrajo información sobre la fecha de publicación, país de publicación, tipo de estudio, valoración del nivel de evidencia y grado de recomendación y resultados de interés para responder a la pregunta de investigación.
+
+
+-- ANÁLISIS Y SÍNTESIS
+
+Se realizó la síntesis de los hallazgos, con la intención de presentar la visión general de todo el material, por medio de un análisis temático.
+
+
+-- LIMITACIONES
+
+El tiempo para la realización de esta revisión ha sido muy corto dada la imperiosa necesidad asistencial y social. El rigor y las características metodológicas de los documentos publicados hasta el momento son débiles. Por todo ello, debemos tomar con precaución las recomendaciones emitidas.
+
+
+- RESULTADOS
+
+De los 163 registros identificados al inicio de la búsqueda, se han incluido en la revisión 14 documentos, como se observa en el flujograma (fig. 1 ), , , , , , , , , , , , .Figura 1
+Los documentos seleccionados se han publicado en su totalidad en el 2020 por investigadores de instituciones de la India, China, Mali, Australia, Suiza, Canadá, Reino Unido, Estados Unidos (EE. UU.), Alemania y de la OMS. El máximo nivel de evidencia alcanzado ha sido a partir de estudios transversales (nivel de evidencia 4b), siendo mayoritariamente el nivel de revisiones narrativas e informes de consenso de expertos, pero con elevados grados de recomendación (A).
+Los hallazgos para las recomendaciones están dirigidos tanto a los pacientes como a los cuidadores y los agruparemos en 10 temáticas: características del aislamiento, higiene manos, higiene de la tos, limpieza, equipos de protección, hábitos saludables, condiciones climatológicas, soporte social y emocional, soporte clínico, y poblaciones vulnerables.
+
+
+-- CARACTERÍSTICAS DEL AISLAMIENTO
+
+
+
+
+-- HIGIENE DE MANOS
+
+
+
+
+-- HIGIENE DE LA TOS
+
+
+
+
+-- LIMPIEZA
+
+
+
+
+-- EQUIPOS DE PROTECCIÓN
+
+
+
+
+-- HÁBITOS SALUDABLES
+
+
+
+
+-- SOPORTE PSICOSOCIAL
+
+
+
+
+-- SOPORTE ASISTENCIAL
+
+
+
+
+-- POBLACIONES VULNERABLES
+
+
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+La revisión realizada indica la existencia de escasas evidencias consistentes sobre el aislamiento ante la infección de la COVID-19. La mayoría de los documentos son revisiones realizadas tras el consenso de expertos a nivel internacional.
+Las recomendaciones se han agrupado alrededor de 10 temas que engloban el manejo cotidiano de un cuidado en domicilio.
+Según los ministerios de Sanidad y de Trabajo y Economía Social, «la forma óptima de prevenir la transmisión es usar una combinación de todas las medidas preventivas»; sin embargo, en situaciones de crisis como la actual donde los recursos son tan limitados, es poco viable aplicar de forma rutinaria las recomendaciones relacionadas con el material sanitario, es preciso realizar una adaptación excepcional mientras persista la escasez .
+Tras la síntesis, hemos detectado los siguientes vacíos de evidencia que precisan investigación: 1) influencia de factores sociodemográficos en el aislamiento como factores que generen desigualdades en salud; 2) conocer el impacto psico-emocional que genera la experiencia del aislamiento, y 3) analizar la aplicabilidad de las recomendaciones expuestas en entornos reales en situaciones de crisis.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras no declaran ningún conflicto de intereses.

@@ -1,0 +1,2 @@
+En el contexto de la evaluación de servicios hospitalarios, la incorporación de índices de gravedad permite tener una variable de control esencial para la comparación del desempeño en el tiempo y el espacio a través del llamado ajuste por riesgo. El índice de gravedad para servicios quirúrgicos, se construyó en 1999 y se validó como un índice general para estos servicios. Dieciséis años después el contexto hospitalario ha cambiado y se consideró necesaria una revalidación de este índice de gravedad que avale su utilidad actual.
+

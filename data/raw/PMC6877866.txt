@@ -1,0 +1,102 @@
+PERCEPCIÓN DE LA INSULINOTERAPIA EN PACIENTES CON DIABETES MELLITUS TIPO 2 DESCONTROLADA
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus se ha convertido en una de las epidemias del siglo xxi, ya que de 1995 a la fecha se ha triplicado el número de personas que viven con diabetes. De acuerdo con la Federación Internacional de Diabetes, México es el sexto país con mayor número de personas que padecen diabetes, de tal manera que en 2012 la prevalencia de pacientes con diagnóstico conocido en población mayor de 20 años fue del 9,17%, lo que equivale a 6,4 millones de personas.
+De acuerdo con los datos de la Encuesta Nacional de Salud y Nutrición 2012, el 85,5% de los sujetos con diabetes tenían tratamiento médico: el 72,4% de ellos recibían hipoglucemiantes orales y el 13% recibían insulina sola o combinada con hipoglucemiantes orales; sin embargo, el promedio de la HbA1c en una submuestra de la población estudiada fue de 10,6%, con un intervalo de confianza al 95% de 9,1-11,2%, lo cual se atribuyó a una deficiencia en la calidad de los servicios más que a la falta de acceso a la atención médica.
+Se sabe que para disminuir la incidencia de las complicaciones de la diabetes es importante lograr el control glucémico lo más pronto posible, para lo cual el uso de la insulina tiene un papel fundamental; no obstante, los datos anteriores y el de otras investigaciones muestran que en México es un recurso poco utilizado, a pesar de que se dispone de una variedad muy amplia de insulinas, .
+Una de las razones por las cuales es baja la aplicación de la insulina es el rechazo que tiene el paciente hacia este medicamento. En el estudio OPTIMIZE, en México, el 51% de los pacientes contestaron que en lo posible evitarían tener que usar insulina. En otros estudios se identificó que más de la cuarta parte de los pacientes rechazan el uso de insulina, y que esta cifra es mucho mayor en los estratos socioeconómicos bajos y en los primeros niveles de atención médica.
+Por otro lado, entre los usuarios de insulina hay pacientes que no logran las concentraciones óptimas de glucosa, figurando, entre algunas de las causas, la falta de adherencia al tratamiento. Algunos autores han reportado la omisión de una inyección de insulina hasta en un 60% de los pacientes y casi el 20% lo hace de forma sistemática; probablemente en el trasfondo de esta actitud también exista un sentimiento de resistencia al uso de la insulina.
+Para poder brindar un mejor apoyo al paciente en la toma de decisiones relacionadas con su autocuidado es necesario profundizar en su esfera psicológica, por lo que el objetivo de este estudio fue conocer la percepción de la insulinoterapia en los pacientes con diabetes mellitus tipo 2 descontrolada que son tratados con hipoglucemiantes orales o con insulina.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DE LA INVESTIGACIÓN
+
+Transversal analítico.
+
+
+-- EMPLAZAMIENTO
+
+El estudio se realizó en la Unidad de Medicina Familiar número 53 de la Delegación Guanajuato del Instituto Mexicano del Seguro Social en el período del 1 de febrero 2014 al 30 de junio del 2015.
+
+
+-- TAMAÑO DE MUESTRA Y MUESTREO
+
+Se estimó un tamaño de muestra mínimo de 86 por grupo con la fórmula para comparar 2 proporciones, considerando un test bilateral, con una confianza del 99%, una potencia del 90% y asumiendo, por lo reportando en la literatura, una proporción de sujetos que están de acuerdo en que la insulina ayuda a mantener un buen control de la glucosa de 0,66 en el grupo de hipoglucemiantes y de 0,90 en el grupo de insulina.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Pacientes de 40 a 80 años, diabéticos tipo 2 descontrolados, en tratamiento con insulina o hipoglucemiantes orales.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Pacientes que no desearon participar en el estudio.
+
+
+-- MEDICIONES
+
+Para medir la percepción se utilizó la escala de percepción del tratamiento con insulina (Insuline Treatment Appraisal Scale [ITAS]), . Este instrumento está conformado por 16 ítems de percepción negativa y 4 ítems de percepción positiva; el alfa de Cronbach de la encuesta completa es de 0,89. El alfa de Cronbach de los ítems de percepción negativa es de 0,90, y la de los ítems de percepción positiva, 0,68.
+Las opciones de respuesta para cada uno de los ítems se presentan en escalas tipo Likert con los siguientes valores: opiniones negativas (1, 2, 4, 5, 6, 7, 9,10,11, 12, 13, 14, 15, 16, 18, 20), donde 1 = totalmente en desacuerdo, 2 = en desacuerdo, 3 = ni acuerdo ni en desacuerdo, 4 = de acuerdo, 5 = muy de acuerdo. Opiniones positivas (3, 8, 17, 19), donde 5 = totalmente en desacuerdo, 4 = en desacuerdo, 3 = ni acuerdo ni en desacuerdo, 2 = de acuerdo, 1 = muy de acuerdo. La calificación de la encuesta es de 20 a 100 puntos, y cuanto mayor es la puntuación, mayor es la opinión negativa.
+El descontrol glucémico se definió como la glucemia en ayuno mayor o igual a 130 mg/dl en los últimos 3 meses. No se pudo utilizar el criterio basado en las cifras de HbA1c, debido a que en la Unidad de Medicina Familiar estudiada no es una prueba disponible en forma regular.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se utilizó la media como medida de tendencia central y la desviación estándar como medida de dispersión. Las variables cualitativas se presentaron con porcentajes. La comparación de las medias entre los 2 grupos se realizó con la prueba t de Student para muestras independientes y para comparar las frecuencias se empleó la prueba de ji cuadrado (χ2). En ambos casos se aceptó un nivel de significación ≤ 0,05. El análisis se realizó con el paquete estadístico SPSS versión 21.
+
+
+-- ASPECTOS ÉTICOS
+
+El protocolo fue sometido para su evaluación al comité local de investigación y ética en investigación para la salud de la Unidad de Medicina Familiar número 53.
+A cada uno de los participantes se le proporcionó información sobre los objetivos, métodos, beneficios y riesgos de la investigación, y se solicitó consentimiento informado escrito.
+
+
+- RESULTADOS
+
+Se encuestaron un total de 459 pacientes, de los cuales 261 (56,9%) se trataban únicamente con hipoglucemiantes orales (HO) y 198 (10,4%) eran usuarios de insulina sola o combinada con hipoglucemiantes orales (IN).
+La edad promedio en el grupo HO fue de 55,15 ± 6,03 años y en el grupo IN, de 53,22 ± 6,04 años (p = 0, 001). El tiempo de evolución fue de 10,32 ± 7,24 años en el grupo HO y de 13,5 ± 7,17 años en el grupo IN (p < 0,001). El promedio de la glucosa en el grupo HO fue de 165,52 ± 44,63 mg/dl, y de 181,60 ± 64,94 mg/dl en el grupo IN (p = 0,003).
+La calificación global de la percepción del tratamiento con insulina fue de 56,95 ± 7,78 en el grupo HO y de 49,55 ± 8,89 en el grupo IN (p < 0,001).
+
+
+-- PERCEPCIÓN DE LOS BENEFICIOS DE LA INSULINA EN EL TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2
+
+En el grupo IN fue más frecuente la percepción positiva de los beneficios de la insulina en el tratamiento de la diabetes mellitus tipo 2 que en el grupo HO .
+
+
+-- PERCEPCIÓN DEL ESTADO DE SALUD CUANDO SE PROPONE INSULINA
+
+En comparación con el grupo HO, en el grupo IN fue mayor la percepción de que el uso de la insulina significa falla del control de la diabetes con dieta y comprimidos .
+
+
+-- PERCEPCIÓN DE LA INFLUENCIA DEL USO DE LA INSULINA EN LA VIDA DIARIA
+
+En el grupo HO fue mayor el porcentaje de sujetos que estuvieron de acuerdo con los enunciados «usar insulina hace que la vida sea menos flexible», «administrar las inyecciones de insulina llevaría mucho tiempo y energía», «usar insulina hace que sea más difícil cumplir con mis obligaciones» .
+
+
+-- PERCEPCIÓN DE LA INFLUENCIA DEL USO DE LA INSULINA EN LA RELACIÓN CON LOS DEMÁS
+
+Los pacientes con HO estuvieron más de acuerdo que los del grupo IN en que el uso de insulina provoca que los demás los vean como personas enfermas. Por el contrario, en el grupo IN fue más frecuente el acuerdo en que el uso de insulina despierta un mayor interés a su persona por parte de los familiares y amigos. En ambos grupos fue alta la percepción de que el tratamiento con insulina los hace más dependientes del médico .
+
+
+-- TEMORES QUE SURGEN EN LOS PACIENTES ANTE LA IDEA DE TENER QUE UTILIZAR INSULINA
+
+Una proporción alta de pacientes con HO manifiestan temor a la autoinyección; en cambio, en el grupo IN es más frecuente el temor a la hipoglucemia .
+
+
+- DISCUSIÓN
+
+La percepción del tratamiento con insulina es más negativa en el grupo HO que en el grupo IN. Estos resultados coinciden con los reportados por Chen et al., quienes compararon las respuestas al ITAS de 100 afectos de diabetes tipo 2 con HO contra las respuestas de 100 afectos de diabetes tipo 2 con IN. El promedio de la calificación total fue mayor en el grupo HO que en el grupo IN (62,9 ± 7,1 frente a 55,0 ± 6,1; p < 0,001). Por otro lado, en Alemania se realizó un estudio longitudinal para evaluar, entre otros aspectos, el cambio en la percepción del tratamiento con insulina a los 3 meses de un tratamiento intensivo para pacientes con diabetes tipo 2 descontrolada. Al inicio del estudio se encontró que los sujetos que no habían sido tratados con insulina tenían una percepción más negativa de la insulina que los tratados con insulina (promedio de la calificación total del ITAS: 50 ± 10,8 frente a 45,8 ± 8,3; p = 0,013).
+El hecho de creer que la insulina se utiliza solamente cuando la diabetes está muy avanzada, el tener que depender más del médico y el temor a la hipoglucemia fueron las principales percepciones negativas que aquí se identificaron y que también han sido descritas por otros autores, , .
+En la literatura se menciona que aproximadamente hasta un 71% de los nuevos sujetos con diabetes manifiestan miedo a la aguja o al dolor de la inyección. Chen et al. encontraron que el 67% de los pacientes HO tienen miedo a inyectarse por sí mismos y el 58% creen que la inyección de la insulina es dolorosa. Brod et al. realizaron un estudio cualitativo con 87 pacientes a quienes recientemente se les había propuesto el tratamiento con insulina; encontraron que el 43,7% expresaban tener miedo a las agujas. Al respecto, en el presente estudio únicamente se identificó el temor a la autoinyección en el grupo HO. El temor al dolor no fue preponderante, la mayoría de los pacientes estuvieron en desacuerdo con el enunciado «la inyección de insulina es dolorosa». Probablemente esto se deba a que en encuestas autoaplicadas y realizadas en la sala de espera no es posible establecer una relación estrecha y de confianza entre el entrevistado y el entrevistador, de tal manera que existe la posibilidad de que por vergüenza o desconfianza el entrevistado no conteste de acuerdo a sus verdaderos sentimientos.
+El estudio alemán, realizado por Hermanns et al., demostró que después de que los pacientes inician un régimen terapéutico de insulina disminuye su percepción negativa, lo cual no pasa en los pacientes que prefieren continuar con hipoglucemiantes orales. En base a este resultado, se puede afirmar que la experiencia es un factor favorable en la percepción del tratamiento con insulina, lo cual explica por qué en esta investigación fue tan alta la proporción de pacientes del grupo IN que tuvieron una percepción positiva sobre los beneficios de la insulina en el tratamiento de la diabetes mellitus tipo 2. Sin embargo, la misma situación es la razón por la cual un alto porcentaje de pacientes manifestaron que el uso de la insulina aumenta el riesgo de hipoglucemia, percepción que puede provocar una actitud negativa ante esta opción terapéutica. Farsaei et al. y Peyrot et al. han encontrado que el antecedente de episodios de hipoglucemia es un factor de riesgo para la no adherencia a la insulina, pero también hay evidencias de que los pacientes que tienen mayor conciencia de la hipoglucemia son más adherentes a los esquemas terapéuticos recomendados por el médico. Tal controversia motiva diseñar otro estudio de investigación donde, aparte de explorar el antecedente de hipoglucemia, se investiguen otros factores de riesgo de la no adherencia a la insulina.
+La educación es indispensable para romper la resistencia al tratamiento con insulina, tal como lo evidencia el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, donde la inclusión de una educadora en diabetes contribuye significativamente a la mejora de la adherencia a la insulina. De igual manera, han demostrado ser de gran utilidad los talleres de insulinoterapia y las reuniones entre pacientes con el mismo régimen terapéutico. No obstante, para que las estrategias educativas sean personalizadas y logren el éxito deseado, se debe iniciar con el reconocimiento de las preocupaciones, temores y creencias que el paciente tiene acerca de su tratamiento, .Lo conocido sobre el temaEn México la insulina es un recurso terapéutico poco utilizado en el primer nivel de atención debido al rechazo que el paciente tiene hacia este medicamento, por lo que nace la necesidad de investigar cuál es la percepción de los pacientes al tratamiento con insulina.Qué aporta este estudioSe identificó que una importante proporción de pacientes con diabetes mellitus tipo 2 descontrolada manifiestan preocupaciones, temores y falsas creencias sobre la insulinoterapia, aunque la percepción es más negativa en los sujetos que usan hipoglucemiantes orales que en los que usan insulina.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

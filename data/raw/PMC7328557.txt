@@ -1,0 +1,16 @@
+ALGUNAS CONSIDERACIONES SOBRE LA ÉTICA DEL TRIAJE EN UCI DURANTE LA PANDEMIA COVID-19
+
+
+Sr. Editor:
+Hemos leído con interés el artículo Recomendaciones éticas para la toma de decisiones difíciles en las unidades de cuidados intensivos ante la situación excepcional de crisis por la pandemia por COVID-19: Revisión rápida y consenso de expertos. Conscientes del impacto que tendrá para los profesionales, queremos exponer algunas cuestiones que nos preocupan.
+Existe una amplia literatura sobre los problemas éticos del triaje que recoge principios, valores, criterios y formas de aplicación. Todo esto queda sin presentar al lector, y tampoco dan razón de los elegidos en su artículo (apartado C, Recomendaciones generales).
+Recomiendan la utilización para esta pandemia de categorías de priorización que son leves modificaciones de criterios de ingreso en Unidades de Cuidados Intensivos (UCI) en la práctica habitual basados en el juicio clínico, en contraste con el uso de protocolos de triaje sugerido por otros grupos de expertos.
+Por otra parte, se evidencia en la tabla 1 del artículo mencionado, una contradicción con las afirmaciones del texto. La edad es un criterio a ponderar de diversas maneras según el modelo de triaje que se elija (hay muchos en la literatura científica) pero no un criterio a priori de exclusión de ingreso en UCI tal y como señala la tabla. Conduce a un ageísmo difícil de sostener éticamente y señalado en el Informe del Ministerio de Sanidad sobre los aspectos éticos en situaciones de pandemia: El SARS-CoV-2 como algo a evitar: «Lo que no resulta en modo alguno aceptable es descartar ex ante el acceso a dichos medios a toda persona que supere una edad».
+Si se sigue dicha tabla, las escalas y el peso de la comorbilidad llevarían a decisiones de este tipo: Un paciente de 81 años con diabetes o conectivopatía o que tuvo un infarto de miocardio (todos ellos con índice de comorbilidad de Charlson > 3), y que presenta una neumonía de cualquier etiología con fallo respiratorio, no sería conectado a respirador.
+Cabe recordar que en esta pandemia hay muchos aspectos todavía por conocer sobre la evolución de grupos de pacientes. En condiciones habituales, y a pesar de su mayor mortalidad, los ancianos se benefician más del ingreso en UCI (estudio ELDICUS), como también se benefician más si padecen neumonía, afectación principal de los pacientes graves por COVID-19. También que se están publicando propuestas para el triaje que combinan de manera diversa los factores a tener en cuenta, qué peso debe tener cada uno y los instrumentos clínicos idóneos para llevarlo a cabo, . Sin embargo, queda por validar que estas propuestas de triaje salven vidas o solamente sirvan para decidir a quién se proporciona soporte vital y, tal vez, mayores posibilidades de vivir, y a quién no.
+Creemos que la revisión de estos puntos otorgaría mayor validez a cualquier recomendación sobre el triaje en la pandemia producida por la COVID-19.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

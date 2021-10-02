@@ -1,0 +1,5 @@
+La exposición al HTSM fue similar en los estados que tienen prohibición total para fumar en espacios cerrados en comparación con estados con prohibición parcial. Adultos jóvenes, hombres y personas con nivel educativo alto tienen mayor exposición al HTSM en bares y restaurantes. Los hombres tienen mayor exposición al HTSM en el trabajo, los adultos de mayor edad en el transporte público, mientras las mujeres y adolescentes en el hogar.
+La exposición al HTSM continúa elevada y afecta diferencialmente a la población mexicana. Para reducirla, se requiere aplicar totalmente el artículo octavo del Convenio Marco para el Control del Tabaco.
+Se analizó la Encuesta Nacional de Consumo de Drogas, Alcohol y Tabaco 2016. La exposición al HTSM se evaluó mediante modelos Poisson multinivel. La muestra del estudio incluye únicamente no fumadores.
+Determinar los factores asociados con la exposición al humo de tabaco de segunda mano (HTSM) en lugares públicos y privados.
+

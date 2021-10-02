@@ -1,0 +1,99 @@
+APLICACIONES MÓVILES PARA MEJORAR LA ADHERENCIA A LA MEDICACIÓN: REVISIÓN Y ANÁLISIS DE CALIDAD
+
+
+- INTRODUCCIÓN
+
+La prevalencia creciente de enfermedades crónicas genera un importante impacto. En estos pacientes, el tratamiento farmacológico es una de las principales herramientas terapéuticas. Su efectividad no solo depende de la correcta prescripción, sino también de la adherencia.
+Los pacientes crónicos presentan una falta de adherencia terapéutica de hasta un 50%. Se asocia a un aumento del riesgo de morbimortalidad: así, el riesgo de muerte se podría reducir hasta la mitad con adecuada adherencia terapéutica. Además, se asocia a un aumento de los costes sanitarios, .
+Los problemas de incumplimiento terapéutico están presentes, independientemente de la enfermedad, grupo demográfico y nivel socioeconómico. Sin embargo, parece depender de factores relacionados con los pacientes, la enfermedad, la medicación, el médico y la asistencia sanitaria, el contexto sociofamiliar, los medios de comunicación y la sociedad, , .
+Las intervenciones para mejorar la adherencia deben estar en consonancia con la propia complejidad de dicha adherencia. Diferentes intervenciones han demostrado su efectividad y se postula que implementar una estrategia multicomponente resultaría la forma más efectiva. Entre las diferentes medidas recomendadas para mejorar la adherencia al tratamiento se encuentran aquellas que se apoyan en las tecnologías de la comunicación, . Las actuales guías de práctica clínica recomiendan el uso de aplicaciones móviles que proporcionen recordatorios o alertas al paciente con el objetivo de disminuir la falta de adherencia involuntaria, .
+Hoy, cerca de las 3/4 partes de la población mundial tiene acceso a un teléfono móvil. España es uno de los países con más altos índices de uso, que llegó a un 81% de la población en el año 2016. Según el Institute for Healthcare Informatics, en 2015 existían más de 165.000 aplicaciones móviles disponibles orientadas a la salud. En los últimos años, se está produciendo un auge en el uso de aplicaciones telefónicas como herramienta para brindar intervenciones de atención médica. Existe un número creciente de aplicaciones de teléfonos móviles disponibles para mejorar la adherencia. Sin embargo, se sabe poco acerca de cómo estas aplicaciones difieren en términos de características, calidad y efectividad.
+Una de las líneas prioritarias de nuestro grupo de investigación es evaluar la efectividad y coste-efectividad de una estrategia multicomponente para mejorar la adherencia al tratamiento farmacológico en pacientes con diagnóstico de depresión. Una de las intervenciones de la estrategia consiste en el uso hecho por los pacientes de una aplicación móvil dirigida a apoyar la autogestión de la medicación.
+El objetivo de este estudio ha sido revisar sistemáticamente las aplicaciones móviles disponibles en el mercado español para mejorar la adherencia a los medicamentos con el fin de identificar aplicaciones de alta calidad y con el objetivo final de utilizar aquella aplicación identificada como la de mayor calidad.
+
+
+- MATERIAL Y MÉTODOS
+
+La revisión se llevó a cabo de forma similar a la revisión sistemática de la literatura científica, con el método descrito por Santo et al..
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+Se realizaron búsquedas (enero de 2020) en las 2 principales plataformas de distribución digital de aplicaciones móviles: Apple Apps Store (Apple Inc., España) y Google Play Store (Google Inc., España). Las aplicaciones son compatibles con los sistemas operativos líderes en España, iOS y Android, respectivamente. Se utilizaron 6 términos de búsqueda: recordatorio medicación, recordatorio medicamento, recordatorio medicamentos, recordatorio pastillas, recordatorio medicina y comportamiento toma medicación.
+
+
+-- CRITERIOS DE SELECCIÓN
+
+Se seleccionaron las aplicaciones: 1) dirigidas a apoyar la autogestión de los medicamentos; 2) capaces de generar recordatorios para la toma de medicación; 3) en español; 4) actualizadas en los últimos 2 años; 5) gratuitas y 6) disponibles para los sistemas operativos descritos.
+Se excluyeron si: 1) eran restringidas a solo una condición de salud, grupos específicos de pacientes o un tipo de medicación concreta; 2) generaban recordatorios generales o de reposición; 3) no enviaban recordatorios; 4) solo proveían información y 5) no aportaban suficiente información para permitir la evaluación.
+
+
+-- PROCESO DE SELECCIÓN
+
+Dos autoras (BGL, BLS) llevaron a cabo las búsquedas, en cada una de las plataformas. Independientemente, registraron la información en hojas Excel prediseñadas. Primero se incluyeron: nombre de la aplicación, nombre y afiliación del desarrollador, término de búsqueda, idioma, tipo de usuario al que está dirigida y coste. Se eliminaron las duplicadas, con un idioma diferente al español, no gratuitas y orientadas a una enfermedad o grupo concreto. A continuación, se realizó una puesta en común de ambas búsquedas y se seleccionaron aquellas disponibles en ambos sistemas. Posteriormente, cada autora extrajo por separado la información sobre las aplicaciones preseleccionadas: fecha de última actualización, tipo de población objetivo y tipo de medicación. En una tercera fase cada autora procedió a un análisis más detallado de acuerdo con el resto de los criterios de selección preestablecidos. Se hizo una puesta en común de resultados para determinar qué aplicaciones eran finalmente incluidas. Cuando hubo duda o desacuerdo entre las revisoras, se resolvió tras discusión.
+
+
+-- EXTRACCIÓN DE DATOS Y ANÁLISIS
+
+Se evaluó la presencia de 17 características consideradas importantes de acuerdo con Santo et al. . Fue llevada a cabo de manera independiente por las 2 revisoras, una en versión Android y la otra en versión iOS, registrando independientemente los resultados en las hojas Excel. Se recurrió a la información disponible en las plataformas sobre cada aplicación. Luego, se descargaron las aplicaciones en cada uno de los sistemas (Android e iOS) y se llevó a cabo una evaluación práctica. Si una característica no se pudo encontrar, se consideró que estaba ausente. Se pusieron en común los resultados y se discutieron hasta consensuar los desacuerdos. Por último, se registró la valoración promedio con estrellas otorgada por los usuarios en cada plataforma. Esta valoración voluntaria de los usuarios se tomó como medida de la satisfacción.
+
+
+-- EVALUACIÓN DE LA CALIDAD
+
+La evaluación de la calidad se llevó a cabo mediante la escala Mobile App Rating Scale (MARS) en su versión validada en español. Consiste en una escala tipo Likert de 5 puntos (de 1 inadecuada a 5 excelente). Los ítems 14-17 y 19 también incluyen la opción «no aplicable». Se divide en una subescala de calidad objetiva, compuesta por 4 dimensiones: participación, funcionalidad, estética e información; y otra de calidad subjetiva. Por último, se valora una sección orientada a aplicaciones dirigidas a conseguir un cambio en los hábitos de vida (evalúa el posible impacto de la aplicación en el conocimiento, las actitudes y las intenciones de cambio del usuario y la probabilidad de cambiar). Las puntuaciones se promediaron para obtener una puntuación de calidad media y se calculó la dispersión con el rango intercuartílico (RIC). Las 2 revisoras evaluaron la calidad de forma independiente, una usando un dispositivo móvil iOS y la otra, Android. Los desacuerdos se discutieron y se resolvieron por consenso.
+
+
+- RESULTADOS
+
+El proceso de selección de aplicaciones se muestra en la figura 1. De un total de 708 aplicaciones identificadas, solo 3 se seleccionaron de acuerdo con los criterios preestablecidos .Figura 1
+
+
+-- CARACTERÍSTICAS GENERALES DE LAS APLICACIONES INCLUIDAS
+
+Se seleccionaron: MyTherapy, desarrollada por Smartpatient GmbH, afiliada al Hospital Universitario Charité de Berlín (Alemania); Medisafe, desarrollada por Medisafe Inc., afiliada a Medisafe Project Ltd. (Estados Unidos de América) y la aplicación Recordatorio de medicamentos, píldora y medicina, desarrollada por Sergio Licea, afiliada a Aida Organizer (México). Tanto Medisafe como la de Sergio Licea presentan una versión de pago. Las 2 primeras presentan más de 1.000.000 de descargas totales y la última, más de 10.000.
+
+
+-- CARACTERÍSTICAS FUNCIONALES DE LAS APLICACIONES INCLUIDAS
+
+El grado de cumplimiento de las características varió entre el 88,89% y el 66,67% . Todas presentan una base de datos de medicamentos, si bien la de Sergio Licea solo incluye medicamentos de EE. UU. y la de Medisafe no contiene medicamentos comercializados en España. Sin embargo, esta última permite añadir medicamentos de forma manual.
+La única que presentó soporte de zona horaria y la posibilidad de cambiar de idioma fue Medisafe (aunque solo en el sistema iOS). Mytherapy fue la única aplicación con recompensa a la adherencia (a modo de imágenes). Solamente Medisafe y Sergio Licea contaron con soporte para varios usuarios y ayudas visuales (en forma de imágenes del aspecto físico de los fármacos). Con respecto a esta última funcionalidad, solo en el caso de Medisafe es posible añadir de forma manual ayudas visuales.
+Todas las características que se describían en ambas plataformas estaban presentes al evaluar cada aplicación.
+
+
+-- EVALUACIÓN DE LA CALIDAD
+
+La aplicación que obtuvo la mayor puntuación global fue MyTherapy seguida por Medisafe . Estas valoraciones coinciden con las calificaciones otorgadas por los usuarios . MyTherapy y Medisafe obtuvieron la misma puntuación en participación y funcionalidad. MyTherapy obtuvo la mayor puntuación en estética. En el dominio de información, Medisafe superó a MyTherapy . La de Sergio Licea obtuvo en todos los dominios una puntuación sustancialmente menor . En cuanto a la calidad subjetiva y a la sección específica, MyTherapy tuvo la mayor valoración, seguida por la de Medisafe y después por la de Sergio Licea .Figura 2
+
+
+- DISCUSIÓN
+
+El objetivo del presente estudio fue hacer una revisión de las aplicaciones móviles disponibles destinadas al recordatorio de la toma de medicación e identificar aplicaciones móviles de alta calidad. Según nuestro conocimiento, este es el primer estudio publicado diseñado para este objetivo.
+En la búsqueda se localizó un gran número de aplicaciones (708), si bien solo 3 de ellas cumplieron los criterios de selección. El hecho de encontrar tal cantidad de aplicaciones móviles en la búsqueda va en consonancia con lo encontrado en la literatura.
+La recomendación de uso de estas aplicaciones debería ir precedida de una evaluación rigurosa, pues se trata de tecnologías sanitarias que empiezan a ser financiadas por los sistemas nacionales de salud. Esto explica la necesidad de la evaluación para identificar aquellas que aporten valor a los pacientes, a los profesionales sanitarios y al sistema de salud.
+Entre los diferentes marcos e instrumentos o herramientas que existen, optamos por utilizar MARS porque es una herramienta estandarizada bien conocida de calificación de la calidad de las aplicaciones móviles del ámbito de la salud que proporciona una medida multidimensional de los indicadores de calidad y permite la comparación entre aplicaciones.
+Las 3 aplicaciones que fueron seleccionadas presentaron la mayoría de las características consideradas importantes. La aplicación con el mayor número fue Medisafe (88,8%), seguida por MyTherapy (77,78%) y por la de Sergio Licea (66,67%).
+Se han encontrado diferencias que podrían ser decisivas. La de Sergio Licea y Medisafe presentan la posibilidad de múltiples usuarios. Vivimos en una comunidad con una importante tasa de envejecimiento. Esto hace que pacientes y cuidadores presenten enfermedades crónicas. La disponibilidad de múltiples usuarios podría ser beneficiosa en los casos en los que los cuidadores sean los responsables de varios planes de tratamiento diferentes.
+Otra característica importante podría ser la disposición de ayudas visuales con las que reconocer las características físicas de cada fármaco, tal y como presentan Medisafe y la de Sergio Licea. Es conocido que la falta de adherencia se asocia a la polimedicación. La edad está asociada a un incremento de enfermedades crónicas y, en España, las personas con más de 65 años representan un 19,6%, por lo que existe una alta tasa de polimedicación. Además, en 2012, el 7,2% de los españoles mayores de 65 años eran analfabetos y un 69,3% solo tenía estudios primarios. Estos pacientes con polifarmacia y niveles educativos bajos pueden tener dificultad para distinguir los diferentes fármacos. Las ayudas visuales podrían suponer un apoyo para ellos. En nuestro país se podría utilizar Medisafe, ya que es la única que permite añadir ayudas visuales de los fármacos de forma manual.
+La única aplicación con disponibilidad de varios idiomas es Medisafe, si bien solo está disponible en el sistema iOS. Es importante en pacientes con una lengua diferente al español. Se estima que la población extranjera en España en el año 2019 rondaba el 10,7%, porcentaje que es mayor en ciertas comunidades autónomas.
+Por otro lado, se ha comprobado que la utilización de un feedback positivo mejora la adherencia. En este sentido, el uso de MyTherapy, que ofrece al usuario una recompensa en forma de imagen sorpresa cada vez que cumple con el tratamiento, podría contribuir a mejores resultados. MyTherapy y Medisafe presentan la posibilidad de descarga de estadísticas y gráficos de adherencia, que podría ser utilizada para evaluaciones. Por último, la de Sergio Licea y MyTherapy ofrecen recordatorios sin conectividad, lo que podría considerarse si no se dispone de conexión a Internet.
+La aplicación MyTherapy obtuvo la mayor puntuación en calidad (3,79/5; RIQ: 3-4), con una valoración global aceptable-buena. La segunda que aparece es Medisafe (3,72/5; RIQ: 3-4). Por último, la aplicación de Sergio Licea obtuvo 2,87/5 (RIQ: 2-4), con una valoración global pobre-aceptable. Sin embargo, los valores de cada dominio de cada una de las revisoras son similares y mantienen una media de puntuación homogénea interevaluador. El orden que presentan las aplicaciones es congruente con los resultados obtenidos en un estudio previo de doctorado. De entre todos los dominios, destaca la baja puntuación que han recibido todas ellas en cuanto a la calidad de la información contenida y la fiabilidad de la fuente. Este resultado se podría explicar por el hecho de que las aplicaciones no han sido testadas científicamente. Serían necesarios más estudios para completar esta valoración de forma satisfactoria.
+Finalmente, el hecho de que las valoraciones de la calidad de las aplicaciones realizadas coincidan con las valoraciones proporcionadas por los propios usuarios, si bien probablemente no exentas de sesgo, respalda los resultados obtenidos.
+En este estudio hemos seleccionado únicamente aplicaciones gratuitas porque estarían disponibles para un número mayor de personas al no estar su uso sujeto a la situación socioeconómica del paciente, lo que favorece la equidad en el acceso a este recurso. No obstante, tanto la aplicación de Sergio Licea como Medisafe contienen opción de pago con funciones ampliadas (versión premium).
+Si bien este tipo de aplicaciones pueden mejorar el control de la medición, existen limitaciones en relación con su uso entre las personas mayores de 65 años, precisamente los usuarios potenciales de estas aplicaciones. En la actualidad, el acceso de los mayores a los teléfonos inteligentes es reducido y existe un importante porcentaje de baja especialización tecnológica, lo que impide el empleo y el buen uso de este tipo de aplicaciones.
+Como limitaciones del estudio cabe señalar que la búsqueda realizada en el mercado español puede haber restringido los resultados. Además, los estrictos criterios de elegibilidad podrían haber excluido aplicaciones de buena calidad.
+La fortaleza de esta revisión radica en el hecho de que se ha llevado a cabo imitando los principios fundamentales de las revisiones sistemáticas de la literatura para asegurar su transparencia y más fácil actualización. Sin embargo, los algoritmos que utilizan estas plataformas de distribución no son transparentes. Esto hace que no se pueda asegurar la reproducibilidad del estudio, lo que constituye otra limitación.
+
+
+- CONCLUSIONES
+
+Existen muchas aplicaciones disponibles para mejorar la adherencia terapéutica, si bien la mayoría no cumplieron los criterios de selección. A través de un proceso sistemático por pasos, se identificaron aplicaciones de calidad para que sean utilizadas en un futuro estudio de intervención, que proporcionará evidencia sobre el uso de estas aplicaciones para mejorar la adherencia a la medicación.Puntos claveLo conocido sobre el tema•Las enfermedades crónicas han presentado un aumento en su prevalencia en los últimos años.•La adherencia al tratamiento supone un pilar fundamental en su control.•Las aplicaciones móviles se han convertido en una herramienta en auge en la práctica clínica diaria y se presentan como un nuevo recurso para mejorar la adherencia terapéutica.Qué aporta este estudio•Este es el primer estudio que se diseña con el objetivo de identificar aplicaciones móviles de alta calidad en español orientadas a mejorar el cumplimiento farmacológico.•Son muchas las aplicaciones disponibles, pero solo 3 de ellas cumplen con las características identificadas como deseables.•Las 3 aplicaciones se consideran de calidad para el uso en nuestro medio con este fin.
+
+
+- FINANCIACIÓN
+
+Este estudio ha sido financiado por el Instituto de Salud Carlos III mediante el proyecto PI18/00767 (cofinanciado por el Fondo Europeo de Desarrollo Regional/Fondo Social Europeo. Una manera de hacer Europa/El FSE invierte en tu futuro).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses con el tema o los materiales discutidos en el manuscrito.

@@ -1,0 +1,5 @@
+Estudio ecológico con análisis retrospectivo de series de tiempo (2004-2014) de mortalidad total y especí-fica diaria, y promedio de PM2.5 y PM2.5-10. Modelos aditivos generalizados Poisson con rezagos distribuidos ajustados por tendencia, estacionalidad, día de la semana, condiciones meteorológicas y contaminantes gaseosos.
+83 (21.15) μg/m3. Cada 10 μg/m3 de aumento de PM2.5 (lag 0) incrementó el riesgo de mortalidad respiratoria en menores de cinco años 11.16% (IC95% 1.03-21.39) y de neumonía e influenza en mayores de 65 años 6.60% (IC95% 3.91-9.37). El riesgo de mortalidad asociado con las PM2.5-10 fue meno.
+Estimar el riesgo de mortalidad asociado con la exposición a partículas finas (PM2.5) y gruesas (PM2.5-10) en la Zona Metropolitana de Monterrey (ZMM).
+Se observaron asociaciones positivas y significativas entre exposición a material particulado y la mortalidad diaria en población de la ZMM.
+

@@ -1,0 +1,5 @@
+Estimar el gasto de bolsillo (GB) durante el último año de vida en adultos mayores (AM) mexicanos.
+La media de GB fue $6 255.3±18 500. En el grupo de atención ambulatoria el GB fue $4 134.9±13 631.3. El GB en hospitalización fue $7 050.6±19 971.0.
+Estimación del GB del último año de vida de AM, ajustando por tipo de manejo, afiliación y causa de muerte. Se emplearon datos del Estudio Nacional de Salud y Envejecimiento en México (2012). Los gastos en medicamentos, consultas médicas y hospitalización durante el año previo a la muerte conforman el GB. El GB se ajustó por inflación y se reporta en dólares americanos 2018.
+La probabilidad de incurrir en GB es menor cuando no se requiere hospitalización. Con hospitalización, la afiliación a la seguridad social y atenderse en hospitales públicos juega un papel protector.
+

@@ -1,0 +1,10 @@
+Introducción. Las infecciones respiratorias agudas (IRA) son un importante problema de salud pública a nivel mundial.
+
+Objetivo. Explorar las desigualdades de la tasa de mortalidad debida a IRA (TM-IRA) en <5 años, de acuerdo a variables socioeconómicas.
+
+Materiales y métodos. Se realizó un análisis ecológico para estudiar las desigualdades a nivel municipal de las TM-IRA en <5 años. Los datos se obtuvieron a partir de registros de muertes del Departamento Administrativo Nacional de Estadística. En análisis de desigualdades en <5 incluyó: 1) Clasificación de la población por estatus socioeconómico y 2) Medición del grado de desigualdad. Como resultado en salud se utilizó la TM-IRA en <5 años. Se estimaron tasas a nivel nacional y municipal para 2000, 2005, 2010, 2013. Se calcularon razones y diferencias de tasas y curvas de concentración para observar las desigualdades.
+
+Resultados. Entre 2000-2013 murieron en Colombia por IRA 18.012 <5 años. La TM-ARI fue mayor en niños que en niñas. En el periodo, se observó un incremento en la brecha de mortalidad infantil en ambos sexos. En 2013, la tasa en niños que murieron en municipios con mayor pobreza fue 1,6 veces mayor que la de niños en aquellos con menor. En niñas, para 2015 y 2013, la tasa en el tercil más pobre fue 1,5 y 2 veces mayor que la del primer tercil, respectivamente.
+
+Conclusión. Las desigualdades en la TM-IRA entre los municipios más pobres en comparación con los más ricos continúan siendo un reto importante en salud pública.
+

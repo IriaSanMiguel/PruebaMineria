@@ -1,0 +1,45 @@
+BRONCOESPASMO Y <ITALIC>FLUSHING</ITALIC> TRAS LA VACUNACIÓN CON NEUMOCOCO POLISACÁRIDA DE 23 SEROTIPOS EN PACIENTES CRÓNICOS
+
+
+- INTRODUCCIÓN
+
+Las infecciones por Streptococcus pneumoniae suponen, a día de hoy, una elevada morbilidad a nivel poblacional . La inmadurez del sistema inmune durante la infancia, las enfermedades hematológicas, la inmunodeficiencia congénita o adquirida, la diabetes mellitus, la insuficiencia renal crónica y la asplenia funcional o anatómica representan, entre otros, los factores de riesgo más importantes para desarrollar enfermedad neumocócica invasora .
+Es sabido que la vacunación en general constituye una medida preventiva y de Salud Pública que mejora y aumenta la calidad y esperanza de vida de la población . Concretamente, la administración de las vacunas antineumocócicas se ha extendido tanto en población adulta por encima de cierta edad como en grupos de riesgo tanto por indicación del Ministerio de Sanidad, Consumo y Bienestar Social como previamente por parte de algunas Comunidades Autónomas (CCAA) en España .
+Los numerosos ensayos clínicos realizados en vacunas previa comercialización, así como los rigurosos controles de calidad durante los procesos de fabricación, hacen que estasse hayan convertido en fármacos muy seguros . En la mayoría de las ocasiones, las reacciones adversas que son infrecuentes o las que se dan en subpoblaciones específicas de pacientes, no son identificadas en las fases previas a la comercialización por lo que los estudios post-comercialización son imprescindibles para la detección de reacciones farmacológicas adversas .
+La notificación a los Sistemas de Farmacovigilancia de cualquier sospecha o confirmación de reacción adversa es clave con cualquier medicamento, pero más aún en el caso de las vacunas ya que se aborda de manera sistemática la población infantil que, en general, representan una población sana .
+Por tanto, el objetivo principal de la presente investigación es describir las características clínicas y epidemiológicas de una serie de casos de sospecha de reacciones adversas sistémicas relacionadas con la vacuna de neumococo polisacárida de 23 serotipos (PNEUMOVAX23®) en pacientes inmunodeprimidos y en situaciones especiales. Los objetivos secundarios son calcular la incidencia acumulada de dicha reacción adversa para esta vacuna en el período de tiempo de estudio y conocer si se han descrito casos similares y/o compatibles con los aquí expuestos.
+
+
+- MÉTODOS
+
+Estudio descriptivo retrospectivo de la sospecha de reacciones adversas sistémicas relacionadas con la vacuna PNEUMOVAX23® identificada entre el 1 de diciembre de 2015 (mes del primer caso) y el 30 de septiembre de 2017 (mes del último caso) en la Unidad de Vacunas de un hospital autonómico de referencia.
+La vacunación se llevó a cabo siguiendo las indicaciones del Calendario de Vacunación del Adulto y Vacunación en Situaciones Especiales oficial de la CCAA.
+Se tuvieron en cuenta las siguientes variables: edad, sexo, diagnóstico principal, tratamiento farmacológico activo, vacunación previa con neumococo conjugada de 13 serotipos, tiempo transcurrido entre la administración de neumococo conjugada de 13 serotipos y PNEUMOVAX23®, número de dosis previas de PNEUMOVAX23®, coadministración con otras vacunas, enfermera que administra la vacuna y lote de la vacuna.
+Se calculó la incidencia acumulada de dicha reacción adversa para esa vacuna en el período comprendido entre la aparición de la primera y la última reacción adversa.
+Para la búsqueda de notificaciones de reacciones adversas se consultó en la base de datos de FEDRA (Farmacovigilancia Española, Datos de Reacciones Adversas) y las notificaciones realizadas al Centro de Farmacovigilancia de la CCAA por parte de la Unidad de Vacunas en el periodo de tiempo anteriormente mencionado.
+
+
+- RESULTADOS
+
+Se identificaron un total de 9 sospechas de reacciones adversas sistémicas relacionadas con PNEUMOVAX23® en la Unidad de Vacunas del hospital de estudio. De ellas, cinco tuvieron lugar en mujeres y las edades estuvieron comprendidas entre los 12 y los 73 años. Todos ellos eran pacientes en situaciones especiales aunque, desde el punto de vista farmacológico solamente uno tenía prescrito tratamiento inmunomodulador en el momento de administración de la vacuna. Todos los casos habían recibido previamente la vacuna conjugada frente a neumococo de 13 serotipos y la reacción se produjo siendo la primera vez que recibían PNEUMOVAX23®. En 7 de los 9 casos esta vacuna fue coadministrada con otras, siempre en el brazo opuesto. El lote de las vacunas coincidió en cuatro pacientes. La tabla 1 recoge las principales variables de estudio.
+Desde el punto de vista clínico, la figura 1 describe la secuencia de los síntomas. Destaca el inicio inmediato tras la vacunación (primeros 60 segundos), el rubor facial y tronco (flushing) y la clínica respiratoria (broncoespamo) con descenso rápido de la saturación de oxígeno en sangre. En todoslos casos se administró oxigenoterapia mediante mascarilla con reservorio a un flujo de 15 lpm observando mejoría a los 2 minutos. El desenlace fue recuperado/resuelto para todos ellos.
+Desde la fecha de aparición del primer y el último caso se administraron un total de 868 dosis. Por tanto, la incidencia acumulada de esta reacción adversa fue 1,036%.
+Todos los casos fueron notificados al Sistema Español de Farmacovigilancia. No se encontraron casos similares y/o compatibles mediante la búsqueda en FEDRA. El Departamento de Farmacovigilancia del laboratorio responsable de la vacuna fue informado tras la aparición del segundo caso. No obstante, tras un análisis general de la situación no se consideró por su parte poner en marcha ningún tipo de medida específica adicional a la notificación.
+
+
+- DISCUSIÓN
+
+En el presente trabajo se ha descrito una serie de casos relacionados con la sospecha de una reacción adversa sistémica no descrita en la ficha técnica de PNEUMOVAX23®. A pesar de que esta vacuna ha sido estudiada en pacientes con enfermedades autoinmunes, trasplantados de órgano sólido y progenitores hematopoyéticos, VIH y artritis idiopática juvenil, entre otros , no se han encontrado publicaciones científicas ni notificaciones a Farmacovigilancia similares.
+En general, la incidencia acumulada de esta reacción adversa fue baja en comparación con otros fármacos (2,25% en el caso del acenocumarol y hasta 4% en la carbamacepina , por ejemplo), sin embargo, no es despreciable cuando se compara con las reacciones descritas con otras vacunas .
+Desde el punto de vista epidemiológico y con las variables recogidas para el estudio no se puede establecer ningún tipo de relación causal que explique la aparición de los síntomas, sin embargo, llama la atención que lo descrito parece haber tenido lugar solamente en pacientes en situaciones especiales y esto refuerza la necesidad de mejora de la Farmacovigilancia en este grupo. Además, es sabido que los adyuvantes utilizados para mejorar la respuesta inmunológica a las vacunas están relacionados con una mayor frecuencia de reacciones de tipo local , sin embargo, esta hipótesis se descarta ya que PNEUMOVAX23® no contiene ningún tipo de adyuvante y las reacciones adversas fueron sistémicas.
+Pese a que este estudio describe una serie limitada de casos los autores consideran que su principal valor redunda en el reconocimiento, abordaje y notificación de las reacciones adversas sistémicas asociadas a PNEUMOVAX23® que previamente no habían sido descritas en la literatura científica ni notificadas a Farmacovigilancia y que podrían ser la base de un estudio de mayor magnitud y la posible modificación de la ficha técnica.
+
+
+- FINANCIACIÓN
+
+Los autores declaran que no han recibido financiación para la realización de este estudio.
+
+
+- CONFLICTOS DE INTERESES
+
+Los autores declaran que no tienen conflictos de intereses

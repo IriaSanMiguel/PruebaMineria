@@ -1,0 +1,321 @@
+CONDUCTA PRÁCTICA ANTE UN NIÑO FEBRIL AL REGRESAR DE UN VIAJE
+
+
+- INTRODUCCIÓN
+
+Los viajes internacionales se democratizan. El número anual de viajeros transfronterizos no deja de aumentar. Cada vez más familias viajan también con niños. Además, una enfermedad al regreso de un viaje ya no es excepcional en la práctica médica.
+Cuando un niño presenta fiebre después de una estancia en el extranjero, se plantea la cuestión de saber si se trata de una enfermedad ubicua sin especificidad exótica o de una enfermedad importada que justificaría medidas diagnósticas y terapéuticas específicas. Este dilema es mayor si el viaje tiene lugar a una zona (sub)tropical, donde existen enfermedades poco conocidas por los médicos, que a menudo se encuentran desamparados. ¿Hay que hacer exploraciones especiales? En este caso, ¿cuáles? ¿Hay que empezar fuerte o restringir el estudio procediendo por intervalos? ¿Es conveniente confiar al niño a una estructura hospitalaria que tenga los conocimientos y las competencias técnicas para hacer el diagnóstico? La cuestión del proceso de tratamiento se plantea de manera crucial en esta situación.
+Este artículo pretende guiar a los médicos que se enfrentan a un niño febril al regresar de un viaje al extranjero.
+Después de una exposición rápida de la problemática, se propone una evaluación clínica. Ésta conduce a formular hipótesis diagnósticas, que tienen como punto de partida la búsqueda de una potencial gravedad. Después, se presentan los medios de confirmarlas o descartarlas. Finalmente, se detallan un poco más las enfermedades que se observan con mayor frecuencia en este marco.
+
+
+- EPIDEMIOLOGÍA DE LOS VIAJES Y LAS ENFERMEDADES RELACIONADAS CON EL VIAJE
+
+-- VIAJE
+
+En 2016, se produjeron 1.235 millones de viajes internacionales (definidos por el hecho de pasar al menos una noche en el extranjero) . En los países emergentes, aumentaron de 136 millones en 1990 a 550 millones en 2016, y +4,5% al año durante el período de 2005 a 2016. Esta progresión se presenta también en los países emergentes: Sudeste Asiático (+7,9%), África subsahariana (+5,9%), nordeste de Asia (+5,5%), América del Sur (+5,4%), Caribe (+2,7%). De enero a agosto de 2017, el aumento del número de viajeros se acentuó todavía más (+7% con respecto al mismo período de 2016), especialmente en África (+9%, es decir, norte de África +15%, África subsahariana +5%) y Asia-Pacífico (+6%, es decir, sur de Asia +10%, Sudeste Asiático +8%) . Entre los 10 destinos principales, al lado de los países occidentales, se encuentran China (número de viajeros +10,3% entre 2015 y 2016), México (+8,9%) y Tailandia (+8,9%). Las perspectivas para 2010 a 2030 prevén un crecimiento sostenido del 2,3% al año e incluso del 4,4% al año para los destinos emergentes, hasta alcanzar los 1.800 millones de viajeros anuales en 2030 . Los países emergentes en 2030 representarían el 57% de los destinos, el 26,5% de ellos sólo para la región del nordeste de Asia y del Sudeste Asiático.
+A escala mundial, el motivo del viaje es ante todo el ocio (53%, es decir, 657 millones de viajeros en 2016). Los motivos profesionales representan el 13% de los viajes, y el 27% viajan por otras razones: visita a la familia o los amigos, motivo religioso, tratamiento médico, etcétera .
+No se dispone de datos sobre los desplazamientos de los niños, aparte de la expatriación. Según el Ministerio de Asuntos Exteriores francés, más de 2 millones de franceses viven en el extranjero, al menos una cuarta parte de los cuales tienen menos de 18 años, en su mayoría niños menores de 6 años. •El número de viajeros internacionales no deja de aumentar.•Los viajes hacia los países emergentes aumentan más rápido que los demás.•El motivo del viaje, a escala mundial, es ante todo el turismo.•Los niños representan una cuarta parte de los expatriados. 
+
+
+-- PROBLEMAS DE SALUD RELACIONADOS CON EL VIAJE
+
+No se conoce bien la proporción de viajeros internacionales enfermos durante un viaje. Una revisión reciente de las publicaciones aporta cifras que varían del 6 al 87%. Las estancias en los principales países en desarrollo anglófonos se estiman en un 43-79%.
+Existen muchos trabajos sobre las enfermedades observadas al regresar de un viaje al extranjero. Las series más grandes proceden de bases internacionales que reúnen servicios de enfermedades infecciones y tropicales, como las redes GeoSentinel o EuroTravel, que conciernen, sobre todo, al adulto. Por ejemplo, se han registrado las enfermedades constatadas en el adulto entre 2007 y 2011, en 24 países, en 42.173 viajeros (estancias: 32,6% en Asia, 26,7% en África y 19,2% en América del Sur y Caribe) . Las infecciones gastrointestinales (34%), las enfermedades febriles (29,3%) y los problemas dermatológicos (19,5%) eran los problemas de salud más frecuentes; el 40% de los pacientes febriles carecían de diagnóstico al final, el 29% tenían un paludismo (relacionado con una estancia en África subsahariana, esencialmente) y el 15% presentaban un dengue (estancia en el Sudeste Asiático, en América del Sur o en el Caribe). La enfermedad (gripe, fiebre tifoidea, hepatitis A) podría haberse prevenido con una vacunación en 737 pacientes.
+Otra gran serie europea multicéntrica registra 32.136 enfermedades contraídas en un viaje, entre 2008 y 2012, en África subsahariana (32%), Sudeste Asiático (14%), centro y sur de Asia (13%) o América del Sur (8%). El motivo del viaje era el turismo (51%) o la visita a amigos o familia (14%). Se observan tres tipos de enfermedades: enfermedades febriles (paludismo, dengue, virosis), trastornos gastrointestinales y problemas cutáneos. Este estudio señala el carácter epidémico de algunas enfermedades (arbovirosis, gripe), observadas en los viajeros un año pero no otro.
+Estos tres grandes grupos de enfermedades también se registran en todos los demás estudios, casi siempre retrospectivos, efectuados en América del Norte , o en Europa , , . Todos señalan también una variación del riesgo según el destino o el tipo de estancia, de manera que los viajeros con más riesgo de contraer una infección grave eran los que tenían como objetivo la visita a unos amigos o a la familia.
+Los estudios específicamente pediátricos son escasos, de baja potencia (pocos niños incluidos) y, a menudo, sesgados a causa de su carácter retrospectivo o monocéntrico, o estrictamente hospitalario , , , . Un estudio parisino es interesante, aunque retrospectivo . Dado que se realizó en un servicio de urgencias abierto al conjunto de la población, presenta datos casi comunitarios . Otra serie, de baja potencia, pero prospectiva, muestra que el 85% de los niños interrogados al regresar tuvieron un problema de salud relacionado con el viaje. La única serie pediátrica grande, realizada en el período 1997 a 2007, procede de los datos de GeoSentinel . De manera concordante con las otras publicaciones en los adultos y los niños, las enfermedades relacionadas con el viaje en este estudio eran principalmente trastornos gastrointestinales (28%), problemas cutáneos (25%), enfermedades febriles sistémicas (23%) o enfermedades respiratorias (11%). Por comparación con los adultos en el mismo período y de manera significativa, los niños habían viajado más a menudo para visitar a unos amigos o a la familia (12-23% según la edad frente al 10% en los adultos), enfermaban más rápidamente al regresar (34-46% frente al 34%) y requerían más a menudo una hospitalización (11-16% frente al 10%). Estas tendencias aumentaban todavía más en los niños menores de 5 años. El porcentaje de hospitalización global era del 14%, pero del 36% en caso de enfermedad febril sistémica. Como en el adulto, existían variaciones según el destino: más diarrea en las estancias en Oriente Medio o en el norte de África, más enfermedades febriles al volver de África subsahariana o de Asia y más problemas cutáneos después de una estancia en América Latina.
+De manera constante en los diferentes estudios pediátricos citados, las enfermedades febriles observadas después de un viaje suelen ser cosmopolitas, no relacionadas con el viaje. Por ejemplo, el estudio realizado con 538 niños atendidos en urgencias en el hospital Robert Debré de París, en los 3 meses siguientes a su regreso del extranjero, muestra una infección ubicua de evolución simple en el 85% de los casos, casi siempre otorrinolaringológica (ORL) o broncopulmonar. Entre las infecciones tropicales, el paludismo era la causa preponderante, seguido de las diarreas febriles, entre ellas tres casos de fiebre tifoidea, y la hepatitis A (seis casos) .
+Este estudio confirma los datos observados a cualquier edad, es decir, que las enfermedades febriles importadas son minoritarias pero potencialmente graves. Por eso, el proceso clínico debe tener como objetivo prioritario detectarlas mediante un examen a menudo poco accesible a un tratamiento exclusivamente ambulatorio. De hecho, la encuesta epidemiológica de rutina con frecuencia se realiza en medio hospitalario. •Las enfermedades febriles son uno de los motivos más frecuentes de consulta al regresar de un viaje al extranjero, después de los trastornos gastrointestinales, pero antes que los problemas cutáneos y respiratorios.•El riesgo de fiebre al regresar de un viaje varía según el destino y las modalidades del viaje.•Los niños, sobre todo los más pequeños, tienen más riesgo de enfermar y ser hospitalizados al regresar de una estancia en el extranjero. 
+
+
+- EVALUACIÓN CLÍNICA
+
+La evaluación clínica de un niño febril después de un viaje es esencial para orientarse hacia la causa de la fiebre sin hacer demasiadas pruebas complementarias inútiles, dolorosas para el niño y costosas para el sistema de salud. Lo importantes es determinar los principales riesgos en función de las características del viaje y los signos que presenta el niño.
+
+
+-- ANAMNESIS
+
+La fiebre se define, según la Haute Autorité de Santé (HAS), como una elevación de la temperatura central por encima de 38 °C, en ausencia de actividad física intensa, en un niño normalmente cubierto, a una temperatura ambiente templada. Las modalidades de toma de la temperatura son variables. En Francia, la referencia es tomar la temperatura por vía rectal con un termómetro flexible electrónico. A partir de los 2 años, las alternativas propuestas son la toma de temperatura bucal o axilar (termómetro electrónico) y timpánica o temporal (termómetro infrarrojo).
+En la práctica, en el marco de un niño febril que regresa de un viaje, hay que considerar una temperatura superior a 38 °C referida por las personas que se ocupan del niño.
+La anamnesis evalúa a la vez las características propias del niño y los riesgos del viaje.
+En lo referente al niño, hay que verificar los siguientes puntos:
+Deben precisarse las características del viaje , , , , , , : •La fiebre puede no estar presente en el momento de la consulta o incluso no haberse medido con precisión. Debe tenerse en cuenta cualquier fiebre que refiera el paciente.•El interrogatorio sobre los antecedentes del paciente, las modalidades de estancia, los comportamientos de riesgo y los signos presentados es especialmente importante para orientar la etiología de la fiebre.•El antecedente de una hospitalización en el extranjero induce a buscar la presencia de bacterias multirresistentes. 
+
+
+-- EXAMEN
+
+Ante todo, debe buscarse un fallo hemodinámico sugestivo de sepsis, para realizar rápidamente un tratamiento del choque si existe.
+La presencia de marcadores hemorrágicos (sangrado, púrpura, hematomas, etc.) orienta también hacia una infección grave complicada con coagulación intravascular diseminada (CIVD), pero, especialmente si la persona ha estado en África, hacia una fiebre hemorrágica vírica. En este caso, hay que organizar el tratamiento del paciente en una unidad de aislamiento especializada.
+En ausencia de signos de gravedad inmediatos, la exploración física se centra en encontrar signos asociados a la fiebre. Se buscan en especial signos respiratorios (signos ORL, tos, signos de lucha, foco auscultatorio, etc.), cutáneos (exantema, erupción maculopapulosa o vesiculoampollosa, escaras de inoculación, etc.), neurológicos (irritación meníngea, trastornos de la consciencia, signos focales, etc.) y una hepatoesplenomegalia. Una insuficiencia respiratoria o un trastorno neurológico deben recibir un tratamiento sintomático adecuado antes de hacer el diagnóstico etiológico. •La exploración física pretende prioritariamente descartar una urgencia vital que deba tratarse de entrada.•En caso de signos hemorrágicos tras una estancia en África, el temor de una fiebre hemorrágica vírica requiere poner en marcha un aislamiento inmediato.•El examen busca signos de orientación etiológica, aparato por aparato. 
+
+
+- ORIENTACIONES ETIOLÓGICAS
+
+Después de la entrevista y la exploración física, surgen una o varias hipótesis diagnósticas. Conviene recordar que una enfermedad infecciosa ubicua es globalmente más probable que una infección tropical, pero que esta última debe buscarse prioritariamente a causa de su potencial gravedad.
+Por ejemplo, la búsqueda biológica del paludismo debe ser sistemática en caso de estancia en zona endémica, sobre todo en África subsahariana, sean cuales sean la estación el año, la duración de la estancia o los signos clínicos asociados a la fiebre. En Asia Central, el Sudeste Asiático y América del Sur, el riesgo de paludismo para un niño viajero es muy limitado, porque se restringe a las zonas rurales y aisladas, donde los niños no suelen viajar . Conviene saber que el intervalo mínimo entre la entrada en la zona endémica y el inicio de los signos de paludismo es de 8 días. Una fiebre que aparece menos de 8 días después de la llegada al lugar a priori no se debe al paludismo.
+La Figura 1 muestra el enfoque clínico de un niño febril que regresa de una estancia en zona tropical. •El riesgo de una enfermedad febril cosmopolita es más importante que el de una infección tropical, pero hay que sospecharla sistemáticamente y buscar una causa exótica debido a su potencial peligrosidad.•La búsqueda del paludismo debe ser sistemática ante una fiebre adquirida en zona de endemia palustre, especialmente en África subsahariana. Figura 1
+
+
+-- PRUEBAS COMPLEMENTARIAS INICIALES <XREF RID="BIB0105" REF-TYPE="BIBR">[21]</XREF>, <XREF RID="BIB0110" REF-TYPE="BIBR">[22]</XREF>, <XREF RID="BIB0115" REF-TYPE="BIBR">[23]</XREF>, <XREF RID="BIB0120" REF-TYPE="BIBR">[24]</XREF>, <XREF RID="BIB0125" REF-TYPE="BIBR">[25]</XREF
+
+Como complemento de las exploraciones específicas guiadas por la clínica, un estudio inicial con pruebas complementarias de «rutina» permite afinar el enfoque etiológico (Cuadro 5 ).
+Este estudio comporta determinaciones sanguíneas (hemograma, función renal y hepática, búsqueda de signos inflamatorios) y hemocultivos. Actualmente, se dispone de pruebas de diagnóstico rápido (PDR) fácilmente realizables sin grandes medios técnicos o experiencia. Son bastante específicas y pueden ayudar a prescribir otras exploraciones más precisas de confirmación y reducir las investigaciones en busca de otras causas. En cambio, tienen límites de sensibilidad, que no deben inducir a descartar el diagnóstico en caso de negatividad. Por lo tanto, pueden realizarse exploraciones sanguíneas específicas en el estudio de entrada para buscar las principales enfermedades sugeridas por el contexto del viaje (paludismo, arbovirosis) o la exploración física: PDR, reacción en cadena de la polimerasa (PCR), serologías. Pueden efectuarse otros análisis microbiológicos en las secreciones respiratorias (en caso de signos respiratorios), la orina (ante signos de infección urinaria o en un lactante que no tiene signos asociados a la fiebre), las heces (presencia de trastornos gastrointestinales) e incluso el líquido cefalorraquídeo (LCR) (ante un cuadro sugestivo de meningitis o encefalitis). La búsqueda de anomalías del sedimento urinario por tira urinaria debe ser sistemática. Una radiografía de tórax o una ecografía abdominal, fácilmente accesibles, completan el estudio en función de la orientación clínica. •El estudio de rutina permite completar la exploración física.•Utiliza pruebas simples y accesibles.•Pueden solicitarse pruebas específicas en función de las conclusiones de la primera evaluación (paludismo, dengue, examen de la orina o las heces, etc.). 
+
+
+-- ORIENTACIONES ETIOLÓGICAS SEGÚN LOS ASPECTOS SINDRÓMICOS Y/O EL LUGAR DE LA ESTANCIA <XREF RID="BIB0105" REF-TYPE="BIBR">[21]</XREF>, <XREF RID="BIB0110" REF-TYPE="BIBR">[22]</XREF>, <XREF RID="BIB0115" REF-TYPE="BIBR">[23]</XREF>, <XREF RID="BIB0120" REF-TYPE="BIBR">[24]</XREF>, <XREF RID="BIB0125" REF-TYPE="BIBR">[25]</XREF
+
+La orientación etiológica posterior depende de los datos anamnésicos, clínicos y del estudio inicial. A veces, el diagnóstico es fácil o está orientado por el cuadro clínico-biológico y el destino del viaje.
+Por ejemplo, el Cuadro 6 presenta las orientaciones etiológicas sugeridas por una erupción asociada a la fiebre, según su tipo.
+La Figura 2 revisa las causas de un exantema maculopapuloso febril según el lugar de la estancia y muestra los medios diagnósticos y terapéuticos asociados.Figura 2
+La Figura 3 presenta las orientaciones etiológicas ante una fiebre asociada a una ictericia y los medios diagnósticos y terapéuticos asociados.Figura 3
+La Figura 4 presenta las orientaciones etiológicas ante una fiebre asociada a una hepatoesplenomegalia y los medios diagnósticos y terapéuticos asociados.Figura 4
+La Figura 5 presenta las orientaciones etiológicas ante una fiebre indeterminada (sin signos asociados) y los medios diagnósticos y terapéuticos asociados.Figura 5
+Al final de la evaluación, surgen algunos diagnósticos. Los parágrafos siguientes proponen un enfoque de las enfermedades tropicales observadas con mayor frecuencia en un niño febril al regresar del viaje.
+
+
+- PALUDISMO IMPORTADO PEDIÁTRICO
+
+-- EPIDEMIOLOGÍA DEL PALUDISMO. EJEMPLO DEL CASO DE FRANCIA
+
+En Francia, los casos de paludismo se registran en el Centre National de Référence (CNR) del paludismo sobre la base de una declaración de colaboradores hospitalarios voluntarios. En 2017, se declararon 2.749 casos, con una estimación de 5.300 casos (+11,9% con respecto a 2016) . En el niño, la incidencia de los casos declarados ha disminuido un 34% desde 2006. En 2016, se declararon 291 casos pediátricos (12% de los casos totales), con una estimación de 560 casos en el grupo de edad de los menores de 15 años .
+En 2017, el contagio se situaba en África subsahariana en el 97,5% de los casos. P. falciparum se observaba en el 88,2% de los pacientes. Las formas graves representaban el 14,4% (es decir, 367 casos). Se declararon 12 fallecimientos, esencialmente en el adulto, lo cual corresponde a una letalidad del 0,45%, o del 3,3% si sólo se consideraban las formas graves.
+El plazo medio entre el regreso a Francia y el inicio de los síntomas es de 5 días para P. falciparum y de 17-50 días en las otras especies, incluidas todas las edades. Es inferior o igual a 1 mes en el 90% de los casos , . El paludismo por P. vivax o P. ovale puede presentarse hasta 4 años después de haber abandonado la zona de endemia, porque estas especies tienen formas latentes hepáticas llamadas «hipnozoítos». Los accesos por P. malariae, que no poseen hipnozoítos pero se multiplica durante largo tiempo de forma silente, pueden observarse hasta 30 años después del regreso. Los raros casos de paludismo importado por P. knowlesi descritos se han presentado todos en el adulto.
+
+
+--- PALUDISMO NO COMPLICADO DEL NIÑO
+
+La media de edad de los niños afectados es de 7,3 años ± 4,2 años . Los dos sexos están igualmente representados. Suele tratarse de niños nacidos en Francia, que pasan las vacaciones en el país de origen de la familia (79% de los casos notificados).
+El país del contagio está situado generalmente en África (97,6%): África del Oeste (Costa de Marfil, Mali, Guinea, etc.) y África Central (sobre todo Camerún y República Centroafricana) .
+El tiempo medio entre la aparición de los síntomas y el diagnóstico varía de 3 a 5 días , , . El retraso del diagnóstico se debe a la falta de consulta médica, pero también, en el 31% de los casos, a que el médico no tiene los conocimientos suficientes o no piensa en el paludismo .
+
+
+--- PALUDISMO GRAVE DEL NIÑO
+
+Se han analizado retrospectivamente 851 casos de paludismo grave del niño observados en Francia metropolitana de 1996 a 2005 . En esta serie, la edad del niño y el plazo del diagnóstico eran inferiores a los observados en las formas no complicadas. Una edad inferior a 2 años, la ausencia de quimioprofilaxis y una estancia en el Sahel exponían significativamente al riesgo de forma grave. En cambio, el riesgo de paludismo grave era menor en caso de infección mixta por plasmodio. Se declaró un fallecimiento pediátrico durante este período.
+En el período de 2006 a 2015, se registraron cuatro fallecimientos pediátricos en el CNR del paludismo, es decir, una letalidad del 0,12% . Un estudio pediátrico multicéntrico internacional sobre el paludismo importado (en el que 6.618 de los 17.009 casos descritos, es decir, un 38,9%, se observaron en Francia) registra también una letalidad inferior al 0,4% (0,2% para Francia) . •El paludismo importado afecta a unos 500 niños cada año en Francia.•La mayoría de los casos se contraen en África subsahariana y se manifiestan en el mes que sigue al regreso.•La letalidad del paludismo importado del niño es muy baja. 
+
+
+-- ASPECTOS CLÍNICOS DEL PALUDISMO
+
+--- PALUDISMO NO COMPLICADO
+
+Se define por la ausencia de signos de gravedad.
+La fiebre (o una historia de fiebre), presente en el 90% de los casos, aparece después de un período de incubación de 1-3 semanas , , . Es inespecífica en la primoinfección y se asocia a escalofríos en un 50% de los pacientes , . El acceso periódico o de reviviscencia se define por la sucesión estereotipada de tres fases clínicas que se repiten periódicamente: escalofríos y sensación de frío intenso, seguido de elevación de la fiebre y, finalmente, sudores, defervescencia y sensación de bienestar. La periodicidad de los accesos es de 2 días para P. falciparum, vivax, ovale y knowlesi (fiebre terciana) y de 3 días para P. malariae (fiebre cuartana).
+La fiebre puede presentarse aislada o acompañarse de síntomas:•sistémicos: anorexia, astenia;•digestivos: náuseas, vómitos, diarrea (sobre todo en el lactante), epigastralgias o dolor abdominal;•neurológicos: cefalea, convulsiones (que hacen temer un neuropaludismo, sobre todo si se trata de convulsiones febriles complejas);•pulmonares: tos;•renales: proteinuria inconstante y moderada de tipo tubular.
+En la exploración física, la esplenomegalia y la hepatomegalia son inconstantes. La anemia, generalmente moderada, tiene poca traducción clínica.
+Existen diferentes formas clínicas.
+
+
+--- PALUDISMO GRAVE
+
+El paludismo grave se define por la presencia en la sangre de trofozoítos de P. falciparum (más raramente de otras especies) y de al menos uno de los criterios de gravedad de la OMS . El Cuadro 7 expone estos criterios de gravedad y menciona su frecuencia y su valor pronóstico en los niños. •La sintomatología clínica es poco específica: cualquier fiebre al regresar de una zona de endemia debe hacer sospechar un paludismo.•Deben buscarse los criterios de acceso grave, porque su presencia modifica las modalidades de tratamiento. 
+
+
+-- ASPECTOS BIOLÓGICOS Y DIAGNÓSTICO DEL PALUDISMO
+
+--- ESTUDIO BIOLÓGICO DE RUTINA
+
+Muestra:
+
+
+--- DIAGNÓSTICO PARASITOLÓGICO <XREF RID="BIB0100" REF-TYPE="BIBR">[20]</XREF>, <XREF RID="BIB0210" REF-TYPE="BIBR">[42]</XREF
+
+Es conveniente asociar una técnica de detección sensible (gota gruesa o técnica de biología molecular de respuesta rápida como amplificación isotérmica mediada por bucle [LAMP, loop-mediated isothermal amplification]) y un frotis sanguíneo delgado para evaluar la parasitemia e identificar la especie.
+Una alternativa es la asociación de una PDR y un frotis delgado. La PDR debe imperativamente detectar el antígeno HRP2 (proteína rica en histidina 2), que es específico de P. falciparum. La sensibilidad de la PDR se acerca a la de la gota gruesa para P. falciparum, pero es mediocre para las otras especies.
+En caso de fuerte sospecha de paludismo y de resultado negativo o dudoso, hay que repetir los análisis 12-24 horas más tarde y, en ocasiones, recurrir a una técnica de tipo PCR. •El diagnóstico de paludismo se basa en la asociación de una gota gruesa o una PCR rápida y un frotis sanguíneo.•La asociación de un frotis sanguíneo y una PDR es una alternativa fiable para hacer el diagnóstico. 
+
+
+-- TRATAMIENTO DEL PALUDISMO DEL NIÑO
+
+El tratamiento etiológico del paludismo depende de la gravedad del acceso y de la especie de plasmodio. Debe tener en cuenta las resistencias a los antipalúdicos . El paludismo por P. falciparum, potencialmente mortal en menos de 24 horas en el niño, es una urgencia terapéutica.
+La Figura 6 presenta el algoritmo de tratamiento del paludismo importado del niño en Francia.Figura 6
+
+
+--- TRATAMIENTO DEL PALUDISMO NO COMPLICADO POR <ITALIC>P. FALCIPARUM</ITALIC
+
+Se recomienda la hospitalización inicial de los niños que presentan un paludismo para la administración de las primeras tomas de tratamiento. Puede continuarse el tratamiento a domicilio, siempre que se cumplan las condiciones siguientes:
+Los medicamentos recomendados de entrada en este marco son terapias combinadas a base de derivados de la artemisinina (o ACT), arteméter-lumefantrina o artenimol-piperaquina. La atovacuona-proguanil y la mefloquina son tratamientos de segunda línea, y la quinina es un tratamiento de tercera línea. Las dosis se mencionan en el Cuadro 8 .
+Los niños malnutridos o que tienen un trastorno digestivo crónico deben recibir la misma dosis que los niños con una situación nutricional normal, pero presentan riesgo de fracaso a causa de los trastornos de la absorción del medicamento y deben controlarse estrechamente.
+Los recién nacidos o los lactantes de peso inferior a 5 kg pueden tratarse con un ACT a la dosis válida para un peso de 5 kg.
+Si la parasitemia está entre el 4-10%, es posible un tratamiento oral, utilizando prioritariamente un ACT (mejor aclaramiento parasitario).
+Los comprimidos deben machacarse para los niños menores de 6 años.
+En caso de vómitos incoercibles, para evitar tener que recurrir al tratamiento inyectable (quinina intravenosa, en ausencia de autorización de comercialización del artesunato intravenoso en esta indicación), hay que administrar, mediante sonda nasogástrica, una solución con azúcar y después el tratamiento antipalúdico.
+Debe realizarse un control clínico y parasitológico 72 horas (día 3) después del inicio del tratamiento (día 0) para detectar un fracaso terapéutico precoz (FTP). La parasitemia del día 3 debe ser inferior al 25% del valor inicial. La persistencia de la fiebre el día 3 sin criterio de FTP debe inducir a buscar una coinfección bacteriana. Los controles a los 7 días (la parasitemia debe ser negativa) y al cabo de 1 mes (día 28) permiten detectar un fracaso terapéutico tardío (FTT). En caso de fracaso terapéutico, se recomienda un tratamiento con otro antipalúdico.
+Las familias deben recibir información sobre el riesgo de recaída en las semanas siguientes al tratamiento de un paludismo y sobre la necesidad de consultar rápidamente en caso de fiebre.
+Después de un paludismo importado por P. falciparum, la continuación de la quimioprofilaxis es inútil.
+
+
+--- TRATAMIENTO DEL PALUDISMO CAUSADO POR UNA ESPECIE DIFERENTE DE <ITALIC>P. FALCIPARUM</ITALIC> <XREF RID="BIB0100" REF-TYPE="BIBR"><SUP>[20]</SUP></XREF
+
+Los accesos causados por una especie diferente de P. falciparum pueden tratarse con un ACT según las mismas modalidades que el acceso por P. falciparum o con cloroquina (excepto en caso de sospecha de P. vivax resistente a la cloroquina o de infección mixta que incluya P. falciparum). El tratamiento inicial debe ser hospitalario, como para P. falciparum. Pero, una vez precisada la especie, el tratamiento puede continuarse ambulatoriamente, si no existen vómitos y si la primera toma ha transcurrido bien. En presencia de vómitos incoercibles, se utiliza el mismo procedimiento que para P. falciparum.
+Después de un paludismo por P. vivax o P. ovale, debe efectuarse un tratamiento con primaquina para erradicar los hipnozoítos (formas quiescentes intrahepáticas responsables de los accesos de reviviscencia), una vez curado el primer acceso. Sus contraindicaciones pediátricas son el déficit de glucosa-6-fosfato-deshidrogenasa (G6PD), que debe buscarse imperativamente cuando se diagnostica un paludismo por P. vivax o P. ovale, y una edad inferior a 6 meses. La primaquina (comprimidos de 13,2 mg de fosfato de primaquina, es decir, 7,5 mg de primaquina base) está disponible en autorización temporal de utilización (ATU) nominativa y su dosis es de 0,5 mg/kg al día en dos tomas orales (sin superar los 30 mg/día) durante 14 días. Existen esquemas posológicos para los déficits de G6PD moderados, por ejemplo, 0,75 mg/kg una vez a la semana durante 8 semanas .
+
+
+--- TRATAMIENTO DEL PALUDISMO GRAVE
+
+Un niño con sospecha de paludismo grave debe ser ingresado en una unidad de cuidados intensivos pediátricos.
+El tratamiento de los accesos graves en el niño (incluida la hiperparasitemia > 10% aislada) se basa, de entrada, en el artesunato intravenoso (Cuadro 9 ).
+En cuanto el estado del niño lo permite, y después de un mínimo de tres dosis de artesunato intravenoso, se pasa a la vía oral mediante un tratamiento completo con un ACT. En caso de coma inicial, el tratamiento intravenoso se mantiene como mínimo 24 horas después del despertar .
+A causa del riesgo, bajo en el niño, de hemólisis diferida después de artesunato, se recomienda practicar un hemograma semanal de detección durante 1 mes después del tratamiento , .
+La quinina intravenosa sólo está indicada en caso de no disponibilidad o contraindicación del artesunato o de acceso grave tras un viaje al Sudeste Asiático, donde son posibles las resistencias al artesunato. Su uso impone un control estricto: glucemia cada 3 horas, electrocardiograma (ECG) continuo, quininemia a las 24 horas (concentración terapéutica = 10-12 mg/l o 30-36 mmol/l) y adaptación de la dosis en caso de insuficiencia renal.
+La continuación de la quimioprofilaxis es inútil después de un tratamiento curativo de un acceso grave por P. falciparum. •El tratamiento del acceso no complicado por P. falciparum se basa, de entrada, en un ACT: arteméter-lumefantrina o artenimol-piperaquina.•El tratamiento del acceso no complicado causado por una especie diferente a P. falciparum se basa en un ACT o en la cloroquina.•En caso de acceso por P. vivax o P. ovale, debe administrarse un tratamiento con primaquina después del tratamiento inicial, para limitar el riesgo de reviviscencia.•El tratamiento del paludismo grave del niño se basa inicialmente en el artesunato intravenoso, seguido de un relevo oral con un ACT.•La parasitemia debe controlarse durante el tratamiento a los 3, 7 y 28 días.•Después de un tratamiento con artesunato, hay que buscar signos biológicos de hemólisis tardía durante 1 mes. 
+
+
+- ARBOVIROSIS
+
+Existen numerosas arbovirosis que pueden evolucionar de manera endémica o epidémica. En general, se localizan en las zonas intertropicales, pero pueden implantarse en regiones más templadas a causa de la presencia de los vectores. Las arbovirosis que se observan con mayor frecuencia en patología importada son el dengue (flavivirus) y el chikungunya (alfavirus) y, más recientemente, en menor medida, la infección por el virus de Zika (flavivirus). Las tres se transmiten por mosquitos de actividad diurna del género Aedes, Aedes aegypti y Aedes albopictus, principalmente.
+
+
+-- DENGUE
+
+El dengue es una arbovirosis causada por un flavivirus. Existen cuatro serotipos de virus del dengue (VDEN 1 a 4), con una protección hererotípica incompleta. La incidencia del dengue se ha multiplicado por 30 en 50 años y su distribución geográfica se ha ampliado a partir del foco original situado en el Sudeste Asiático, de entrada a las zonas intertropicales, entre las isotermas 10 °C de enero para el hemisferio Norte y julio para el hemisferio Sur . En 2013, se estimaba el número de infecciones por el virus del dengue en 390 millones y el número de casos sintomáticos en 96 millones.
+
+
+--- MANIFESTACIONES CLÍNICAS DEL DENGUE <XREF RID="BIB0240" REF-TYPE="BIBR">[48]</XREF>, <XREF RID="BIB0250" REF-TYPE="BIBR">[50]</XREF
+
+La infección por un VDEN suele ser asintomática. Las formas clínicas tienen una expresividad que se extiende de la erupción febril al choque por fuga plasmática. Las formas graves, más frecuentes en el lactante, podrían tener relación con la presencia, anterior a la infección, de anticuerpos no neutralizantes . En efecto, una infección anterior por otro VDEN u otro flavivirus podría conducir a la producción de anticuerpos incapaces de controlar la segunda infección por el VDEN pero que, en cambio, facilitan la infección celular y la gravedad de la enfermedad (teoría de los anticuerpos facilitadores).
+
+
+---- DENGUE SIMPLE
+
+Después de un período de incubación de 14 días como máximo, aparece la fiebre bruscamente. Puede acompañarse de un exantema o un eritema (Fig. 7 ), a veces petequial, y de dolor difuso. El signo del lazo o del torniquete (aparición de petequias durante los 2 minutos siguientes a la colocación de un brazal hinchado a la presión arterial media durante 5 min) puede orientar hacia el dengue ante un cuadro seudogripal. En este estadio, el análisis biológico puede mostrar una leucopenia. La apirexia se produce en 3-7 días sin complicaciones.Figura 7
+
+
+---- SIGNOS DE ALERTA
+
+Durante la defervescencia, hacia el 3.° a 7.° días, pueden aparecer signos de aumento de la permeabilidad vascular que hacen sospechar una evolución grave y requieren una hospitalización. Los signos de alerta que hay que buscar en este estadio son dolor abdominal, vómitos persistentes, aparición de edemas o de efusión serosa, sangrado de las mucosas, letargia o ansiedad, hepatomegalia de más de 2 cm y, en el plano biológico, elevación del hematocrito (indicio de hemoconcentración por fuga plasmática) y disminución rápida de las plaquetas.
+
+
+---- DENGUE GRAVE
+
+Se distinguen tres cuadros de dengue grave:•fuga plasmática, que se manifiesta por un choque o una efusión pleural responsable de una insuficiencia respiratoria;•dengue hemorrágico: sangrado difuso grave;•insuficiencia de órganos: hepática (transaminasas > 1.000), neurológica (trastorno de la consciencia), cardíaca u otra. •La infección por VDEN puede ser asintomática.•La enfermedad es una continuidad entre dengue simple y dengue grave.•Lo más importante es detectar, hacia el 3.° a 7.° días de evolución de la fiebre, los signos de alerta clínicos y biológicos que permiten sospechar una evolución hacia una forma grave y deben conducir a la hospitalización. 
+
+
+--- DIAGNÓSTICO BIOLÓGICO DEL DENGUE
+
+La viremia del dengue dura alrededor de 5 días, durante los cuales el virus puede encontrarse en la sangre o los otros tejidos del organismo, mediante la PCR con transcriptasa inversa (RT-PCR). Existen PDR que detectan el antígeno NS1, producido durante la fase virémica. La sensibilidad de las PDR es mejor a los 3-4 días de evolución y menos buena en caso de infección por un VDEN 4 o de infección secundaria . Después del quinto día, el virus y el antígeno NS1 ya no se detectan en la sangre y el diagnóstico se basa en la serología. En caso de primoinfección por un VDEN, las inmunoglobulinas M (IgM) específicas se positivizan rápidamente: el 99% de los pacientes son positivos a los 10 días. Algunas PDR del dengue detectan las IgM al mismo tiempo que el antígeno NS1. Las IgM persisten durante 2-3 meses. Las IgG se positivizan a partir de los 7-10 días. En caso de dengue en un individuo que ya había padecido uno por otro serotipo (dengue secundario), la respuesta de IgM es más débil, pero las IgG aumentan precozmente . •El diagnóstico precoz del dengue se basa en la RT-PCR y la antigenemia NS1.•A partir del 5.° día, el diagnóstico se basa en la serología. 
+
+
+--- TRATAMIENTO DEL DENGUE
+
+El tratamiento sintomático puede efectuarse ambulatoriamente, siempre que se detecten los signos de alerta durante el período crítico del día 3 al 7. El tratamiento de la fiebre se basa en el paracetamol. Deben evitarse los antiinflamatorios no esteroideos. Se favorecerá la hidratación oral. Los niños que presentan signos de alerta o de gravedad deben ser hospitalizados para rehidratación intravenosa con cristaloides o coloides en caso de choque refractario. Los productos sanguíneos (concentrados globulares, plasma, concentrados de plaquetas) se utilizan en el dengue hemorrágico. Los corticoides no resultan útiles en el dengue grave.
+
+
+-- CHIKUNGUNYA
+
+El virus del chikungunya (VCHIK), un Alphavirus, se aisló en 1952 de la sangre de un paciente febril en la actual Tanzania. Se produjeron varias epidemias en los años 1960 a 1970 en India y, en 1999 a 2000, en la República Democrática del Congo, pero la epidemia de 2005 a 2006 en el océano Índico, especialmente en la isla de Reunión (265.000 casos), fue la que permitió describir mejor la enfermedad . Después, el VCHIK se extendió a India, América del Sur y el Caribe. Se produjeron pequeñas epidemias en Europa (247 casos en Italia en 2007, 2.144 casos en Madeira en 2012 y, más recientemente, de manera más limitada, en el sudeste de Francia), relacionadas con una transmisión autóctona por A. albopictus.
+
+
+--- MANIFESTACIONES CLÍNICAS DEL CHIKUNGUNYA <XREF RID="BIB0280" REF-TYPE="BIBR">[56]</XREF>, <XREF RID="BIB0285" REF-TYPE="BIBR">[57]</XREF
+
+Al contrario que el dengue o a la infección por el virus de Zika, en los que existen muchas infecciones asintomáticas, el 85% de los pacientes infectados por el VCHIK sin sintomáticos . La enfermedad por chikungunya se parece al dengue: incubación corta (1-12 días), fiebre alta, exantema o erupción maculopapulosa (Fig. 8 ), a veces ampollosa o pruriginosa, astenia, mialgias y poliartralgias. Los niños pueden tener manifestaciones hemorrágicas benignas (gingivorragias, epistaxis). La curación se produce generalmente en 1-2 semanas, pero algunos pacientes pueden recaer.Figura 8
+La afectación articular, que predomina en las muñecas, las falanges y los tobillos, puede volverse crónica e invalidante, sobre todo en el adulto, y dar lugar a un cuadro parecido a la artritis reumatoide , . También se pueden observar trastornos neuropsiquiátricos a largo plazo en el adulto.
+Existe una transmisión maternofetal del VCHIK en el momento del parto si se produce en fase de viremia materna (1 día antes y 5 días después del inicio de los síntomas) . En este caso, los recién nacidos infectados presentan un cuadro febril parecido al de una infección bacteriana, a veces con una encefalopatía responsable de secuelas neurológicas del desarrollo .
+
+
+--- DIAGNÓSTICO BIOLÓGICO DEL CHIKUNGUNYA
+
+Como en el dengue, el diagnóstico se basa en la RT-PCR específica en la fase inicial virémica (primeros 7 días) y en la serología después. Las IgM pueden persistir hasta 4 meses; por lo tanto, su presencia puede deberse a una infección semirreciente. Las técnicas serológicas tienen eficacias variables, en términos de sensibilidad y especificidad. Pueden existir falsas serologías positivas por reacción cruzada entre Alphavirus .
+
+
+--- TRATAMIENTO DEL CHIKUNGUNYA
+
+El tratamiento es sintomático. Deben evitarse los antiinflamatorios no esteroideos. •El chikungunya se manifiesta por un síndrome gripal o una erupción febril.•La afectación articular prolongada es rara en el niño.•En caso de parto en período de viremia materna, es posible una transmisión maternofetal, que se manifiesta como una encefalopatía neonatal, fuente potencial de secuelas. 
+
+
+-- INFECCIÓN POR EL VIRUS DE ZIKA
+
+El virus de Zika (VZ) es un flavivirus, aislado por primera vez en 1947, en un mono Rhesus en el bosque de Zika, cerca de Entebbe, en Uganda. El primer ser humano infectado se describió en 1954 y, hasta 2007, solamente se habían registrado 13 casos. Sin embargo, en 1979, un estudio realizado en Nigeria encontró anticuerpos neutralizantes anti-VZ en el 38% de los individuos analizados . En 2007, una epidemia de infección por el VZ afectó a la isla de Yap, en Micronesia, con unos 50 casos confirmados, pero con una seroprevalencia estimada del 73% en los individuos mayores de 3 años . De septiembre de 2013 a abril de 2014, otra epidemia afectó a la Polinesia francesa. La seroprevalencia estimada al final de la epidemia era del 49%, pero fue del 66% en los escolares de Tahití. Numerosos casos eran asintomáticos . En esta ocasión, la incidencia del síndrome de Guillain-Barré se multiplicó por 17 con respecto a su incidencia habitual. También se observó un fuerte aumento (× 14) de la de microcefalia congénita. A partir de finales de 2015, una nueva epidemia se extendió por América del Sur y el Caribe, a partir del nordeste de Brasil. En esta ocasión, se observó un aumento de la incidencia de microcefalia congénita que condujo a caracterizar mejor la infección congénita por el VZ , , , , , . En Martinica y Guadalupe, la seroprevalencia al final de la epidemia era del orden del 45-55%.
+
+
+--- TRANSMISIÓN DEL VIRUS DE ZIKA
+
+La transmisión habitual tiene lugar por picadura de mosquito del género Aedes, Aedes aegypti y Aedes albopictus, esencialmente.
+También es posible una transmisión sexual . Se ha detectado ácido ribonucleico (ARN) viral en el esperma (espermatozoides y secreciones seminales) más de 6 meses después de la enfermedad. Pero el VZ infectante sólo se ha encontrado en el esperma en los 69 días siguientes a la infección, en relación con los casos clínicos descritos, que indicaban una contaminación de la pareja producida precozmente con respecto a la enfermedad. En las secreciones genitales femeninas, la situación de portadora es más corta (el ARN viral se ha observado como máximo hasta el 14.° día).
+Aunque el VZ pueda detectarse en la saliva de los primates infectados hasta 28 días después de la infección y el ARN está presente en la saliva de los seres humanos enfermos durante 29-49 días, el papel de la saliva en la transmisión del VZ no se ha establecido en el ser humano.
+
+
+--- MANIFESTACIONES CLÍNICAS
+
+---- INFECCIÓN POSNATAL POR VZ
+
+La presentación clínica es la de un síndrome gripal febril, con artralgias, mialgias y cefalea. Se observa con frecuencia una erupción o un exantema, así como una hiperemia conjuntival; el 80% de las infecciones serían asintomáticas.
+Existe un mayor riesgo de síndrome de Guillain-Barré en las semanas que siguen a una infección por el VZ, a veces acompañado de una parálisis facial bilateral. No se conoce el mecanismo fisiopatológico: neuropatía viral directa, respuesta inmunitaria hiperaguda o posinfecciosa.
+
+
+---- INFECCIÓN CONGÉNITA POR VZ (VZC
+
+Cuando una mujer embarazada contrae el VZ, es posible una transmisión al niño in utero. En los datos estadounidenses , , este riesgo parece más importante en caso de infección materna durante el primer trimestre el embarazo (15%, frente al 5% y al 4% respectivamente en el 2.° y 3.er trimestres). En una cohorte de mujeres infectadas sintomáticas seguidas en los territorios franceses de América , también se ha observado una anomalía neurológica u ocular en el recién nacido, respectivamente en el 12,7%, 3,6% y 5,3% de los casos según el trimestre de embarazo de la infección materna.
+La infección congénita por VZ comporta los siguientes signos :•anomalías del cráneo: desproporción craneofacial por microcefalia grave, cabalgamiento de suturas, prominencia de la región occipital, exceso de piel en el cuero cabelludo;•anomalías cerebrales: calcificaciones cerebrales (típicamente subcorticales), hidrocefalia ventricular y extracerebral, disminución del grosor de la corteza, polimicrogiria, hipoplasia/ausencia de cuerpo calloso, hipoplasia del cerebelo, signos de desmielinización;•afectación ocular: se produce en el 24-55% de los casos y se correlaciona con una infección del primer trimestre y con la microcefalia. Se observan afectaciones estructurales del ojo (microftalmia, coloboma, catarata, calcificaciones intraoculares) y una afectación del polo superior (atrofia retiniana, hiperpigmentación) que afectan generalmente a la región macular;•contracturas (artrogriposis): se producen en el 5-15% de los niños con microcefalia;•secuelas neurosensoriales: la afectación neurológica da lugar a secuelas del tipo de hiper/hipotonía, espasticidad, irritabilidad, dificultades para mamar, convulsiones, signos extrapiramidales. Se detecta una sordera en el 9-12% de los niños con microcefalia. La mortalidad neonatal precoz se evalúa en 41/1.000.
+
+
+--- DIAGNÓSTICO BIOLÓGICO <XREF RID="BIB0360" REF-TYPE="BIBR">[72]</XREF>, <XREF RID="BIB0365" REF-TYPE="BIBR">[73]</XREF
+
+El VZ puede detectarse por RT-PCR en la fase aguda de la infección. La viremia es habitualmente corta (7 días máximo), pero la excreción urinaria del VZ es más prolongada (hasta 1 mes). Por lo tanto, se privilegia la búsqueda de una viruria.
+La serología es útil en la fase secundaria, pero puede producir positividades cruzadas con el dengue y los otros flavivirus. Por lo tanto, si se solicita una serología de VZ, hay que realizar también una serología de dengue. La técnica de seroneutralización es muy específica del VZ, pero no es accesible a todos. La presencia de IgM (que no pasan la barrera placentaria) en la sangre del recién nacido indica su infección congénita. La presencia de IgM en el LCR del recién nacido infectado indica la afectación central por el VZ.
+
+
+--- TRATAMIENTO
+
+El tratamiento es ante todo sintomático. No se conoce ningún tratamiento que pueda reducir el riesgo de transmisión maternofetal.
+Los recién nacidos infectados (VZc) deben someterse a un seguimiento prolongado para evaluar la repercusión de la infección sobre el desarrollo neurocognitivo . •La infección por VZ es frecuentemente asintomática o paucisintomática.•Puede favorecer la aparición de un síndrome de Guillain-Barré.•Durante el embarazo, existe un riesgo de transmisión maternofetal, fuente de afectaciones neurosensoriales gravísimas. 
+
+
+- FIEBRE TIFOIDEA
+
+Las fiebres tifoidea y paratifoidea están causadas por Salmonella enterica, subespecie enterica, serotipos typhi y paratyphi A, B o C. La OMS estima el número de casos anuales entre 11-20 millones, con 128.000-161.000 fallecimientos . La transmisión depende del peligro fecal; por lo tanto, la enfermedad es más frecuente en los países en desarrollo, en los que los recursos de agua potable son limitados y las redes de saneamiento de agua están poco desarrolladas. En zona de endemia, la incidencia de la fiebre tifoidea en el niño aumenta con la edad, pero la enfermedad es difícil de diagnosticar en los menores de 5 años, lo cual probablemente subestime el riesgo en este grupo de edad. Sin embargo, la mortalidad en los menores de 5 años es cuatro veces más elevada que en el grupo de edad superior. Con un tratamiento adecuado, la letalidad de la fiebre tifoidea es inferior al 1%.
+En Francia, la fiebre tifoidea forma parte de las enfermedades de declaración obligatoria. Los criterios de declaración son «un cuadro clínico sugestivo de fiebre tifoidea o paratifoidea asociado a un aislamiento de S. typhi o S. paratyphi A, B o C, sea cual sea el lugar de toma de muestra» . En 2014, se declararon 155 casos de fiebres tifoidea y paratifoidea (tifoidea = 75% de los casos), es decir, una incidencia de 0,15-0,3 casos/100.000 habitantes al año, estable desde 1999 . Más del 80% de los casos se producen en el mes que sigue al regreso de una estancia en zona de endemia: subcontinente indio, Sudeste Asiático, África subsahariana o Magreb. Alrededor del 25% de los casos declarados se producen en niños menores de 15 años. Hace más de 10 años que no se observa en Francia ningún fallecimiento por fiebre tifoidea.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+La presentación clínica no es específica y, a menudo, el diagnóstico se hace ante la positividad del hemocultivo (64% de los casos en un estudio canadiense ). De hecho, el diagnóstico (y el tratamiento) pueden retrasarse; en la serie canadiense, los niños habían acudido a tres médicos y esperado un promedio de 4 días antes de recibir el tratamiento adecuado . Existen diferencias entre adultos y niños, pero también entre lactantes y niños mayores o según el origen geográfico (África/Asia) . Después de un período de incubación de 5-15 días, aparecen los signos siguientes :
+
+
+-- DIAGNÓSTICO BIOLÓGICO
+
+Es posible una pancitopenia en la fase aguda, probablemente debida a la afectación medular por la salmonela. Es posible una leucocitosis normal, incluso aumentada, en los niños, sobre todo los más pequeños. La eosinofilia, presente hasta en el 70% de los casos, es un marcador de gravedad. La anemia, a veces grave, y la trombocitopenia se observan en los niños africanos con mayor frecuencia que en los asiáticos. En casos raros, se han podido observar una CIVD, un síndrome de activación macrofágica y una aplasia medular.
+El diagnóstico positivo se basa en el aislamiento de la salmonela en el cultivo de médula ósea (gold standard), de sangre (menos sensible) o de heces (positividad del 7-27%). La serología (prueba de Widal) carece de interés .
+
+
+-- TRATAMIENTO
+
+Como complemento del tratamiento sintomático, es necesaria una antibioticoterapia. En la década de 1980, surgieron resistencias a los tratamientos históricos de primera línea (ampicilina, cloranfenicol, trimetoprima-sulfametoxazol) que definen las cepas resistentes a múltiples fármacos (MDR, multi-drug resistance) . El tratamiento se basa actualmente en las cefalosporinas (ceftriaxona) y las fluoroquinolonas (ciprofloxacino) durante 5-7 días, pero también han aparecido resistencias a estos tratamientos. Actualmente, en Estados Unidos , la resistencia al ácido nalidíxico, que indica una sensibilidad disminuida al ciprofloxacino, se observa en el 68% de Salmonella typhi y el 94% de Salmonella paratyphi A. Las cepas MDR representan el 13% de Salmonella typhi y, a menudo, se aíslan en individuos procedentes de Asia. La mayoría de ellas también son resistentes al ácido nalidíxico. Todas las cepas de Salmonella typhi son sensibles a la azitromicina, que representa una alternativa terapéutica en caso de cepa MDR. En Francia, según los datos del CNR Salmonella , entre 1997 y 2016, el porcentaje de cepas resistentes pasó del 0 al 35% para el ácido nalidíxico y del 0 al 5% para el ciprofloxacino. Ninguna cepa analizada era resistente a la ceftriaxona o a la azitromicina en 2016.
+La fiebre tifoidea justifica un aislamiento del contacto y una exclusión escolar.
+La fiebre tifoidea es una enfermedad con prevención vacunal. La vacunación es posible desde los 2 años, pero su eficacia es limitada, del orden del 50-65%. Se recomienda para los viajeros que deben efectuar una estancia prolongada (más de 1 mes) o en malas condiciones a países donde la higiene es precaria y la enfermedad es endémica, especialmente el subcontinente indio y el Sudeste Asiático . Su validez es de 3 años. •La fiebre tifoidea se produce habitualmente durante el mes que sigue al regreso. Es más frecuente en el subcontinente indio, el Sudeste Asiático, África subsahariana o el Magreb.•La presentación clínica no es específica. La positividad del hemocultivo es lo que permite a menudo el diagnóstico.•El tratamiento se basa en la ceftriaxona o el ciprofloxacino, pero existen resistencias.•La vacunación puede proponerse desde los 2 años de edad en los viajes de riesgo. 
+
+
+- HEPATITIS VÍRICA A
+
+La hepatitis A es una enfermedad vírica causada por un Hepatovirus (familia Picornaviridae). Su distribución es mundial, pero depende intensamente de las condiciones socioeconómicas y de higiene (transmisión fecal-oral). En los países industrializados, es una enfermedad estival que afecta sobre todo a los adolescentes viajeros . Los lactantes y los niños pequeños presentan sobre todo formas asintomáticas. Se considera que sólo el 5% de las hepatitis A antes de los 3 años y el 10% entre los 3-5 años son ictéricas . Estos niños asintomáticos o paucisintomáticos contribuyen a la diseminación de la enfermedad. En los Países Bajos, el 60% de las hepatitis A diagnosticadas en no viajeros se han contraído a partir de un niño de la familia .
+Los adultos mayores de 45 años se contagian más frecuentemente debido al consumo de marisco. Los otros factores de riesgo en el adulto son el trabajo (poceros, técnicos de laboratorio, profesionales de la salud, etc.), la toxicomanía, las relaciones sexuales, etc.
+La hepatitis A es una enfermedad de declaración obligatoria en Francia. En 2016, se declararon 697 casos, 262 de ellos en niños menores de 15 años (37,6%), lo cual representa incidencias respectivas de 1,1 y 3,1/100.000 al año. El 46% de los individuos afectados (57% en menores de 15 años) habían viajado fuera de la metrópoli, al Magreb en el 51% .
+En los niños que vivían en el Francia continental y frecuentaban los servicios de urgencias, la seroprevalencia se evaluó en un 5% en 2009, pero era del 12% en los niños que habían viajado a una zona de endemia frente al 2% en los que no habían viajado .
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+Después de un período de incubación de 14-28 días (y hasta 50 días), aparecen signos digestivos (náuseas, vómitos, diarrea, dolor abdominal), sensación de malestar, pérdida del apetito y de peso, fiebre y orina oscura . La ictericia cutaneomucosa a menudo está presente en pediatría: los datos de la declaración obligatoria de 2016 registraron una ictericia en el 60% de los casos entre 0-5 años y en el 81% entre los 6-15 años . Se constata a menudo una hepatoesplenomegalia.
+Se han descrito manifestaciones extrahepáticas: pancreatitis, colecistitis, exantema, insuficiencia renal, con nefritis intersticial o glomerular, neumopatía, pericarditis, anemia hemolítica, neuritis, síndrome de Guillain-Barré, encefalitis, mielitis, etc.
+La contagiosidad empieza 2 semanas antes del inicio de los signos y persiste 1 semana después. No existe riesgo de hepatitis crónica, pero se han podido constatar raros casos de hepatitis fulminante (0,1%), cuyo riesgo aumenta con la edad y en los pacientes con una enfermedad hepática subyacente.
+
+
+-- DIAGNÓSTICO BIOLÓGICO
+
+El análisis sanguíneo muestra una citólisis hepática con una elevación de las transaminasas de 500 a 5.000 UI/ml. Puede asociarse a una disminución de la concentración de protrombina y del factor V en caso de insuficiencia hepática.
+Las IgM específicas se positivizan en 5-10 días y permiten hacer el diagnóstico. La sensibilidad y la especificidad de las pruebas serológicas disponibles supera el 95%.
+
+
+-- TRATAMIENTO
+
+El tratamiento es sintomático y requiere evitar los medicamentos hepatotóxicos.
+Es necesario un estudio de los contactos para detectar otros casos. A causa del riesgo de transmisión intrafamiliar, en especial de hepatitis grave en los adultos en contacto, es conveniente vacunar a los hermanos e incluso a los padres (sobre todo si tienen menos de 40 años y no han vivido en una zona endémica en la infancia).
+La vacunación es posible desde la edad de 1 año . Existen varias vacunas y diferentes dosis (Havrix 720 y Avaxim 80 para los niños < 15 años; Havrix 1440 y Avaxim 160 para los individuos ≥ 16 años, y Vaqta 50 a partir de 18 años), que se administran en dos dosis separadas 6-12 meses. También se dispone de una vacuna combinada de hepatitis A y B (Twinrix niño para los niños < 15 años y después Twinrix adulto) en tres dosis y, solamente para los adultos, de una vacuna combinada de hepatitis A y fiebre tifoidea (Tyavax) en monodosis (pero hay que administrar otra dosis de vacuna de la hepatitis A para estar protegido). La vacuna es muy inmunógena y una sola dosis de vacuna confiere inmunidad en más del 90% de los casos . •La hepatitis A a menudo es asintomática o paucisintomática en los niños pequeños.•La ictericia cutaneomucosa es reveladora.•La vacunación contra la hepatitis A es muy inmunógena a partir de 1 año de edad. Permite proteger al niño, pero también reducir el riesgo de transmisión familiar. 
+
+
+- CONCLUSIÓN
+
+La evaluación del niño febril que regresa de un viaje a una zona tropical es ante todo clínica. Para no perderse entre el gran número de diagnósticos posibles, hay que interrogar y examinar cuidadosamente al niño. De esta manera, se elaboran hipótesis sindrómicas que se confrontan con la epidemiología de la zona visitada y la probabilidad de las diferentes enfermedades. Conviene tener en mente la posibilidad de una enfermedad infecciona (o inflamatoria) no relacionada con el viaje o ubicua.
+En la evaluación, las características del viaje y la exposición a ciertos factores de riesgo son elementos esenciales que deben tenerse en cuenta. El acceso a los datos de salud actualizados ahora es bastante fácil por Internet, en sitios web seguros y fiables. Permiten saber si se está produciendo una epidemia en la zona visitada. Un análisis sanguíneo de rutina permite afinar las orientaciones para solicitar las pruebas específicas pertinentes. Las PDR del paludismo y el dengue, aunque tienen una sensibilidad mejorable, son una ayuda para el diagnóstico cuando el acceso a técnicas más complejas es difícil. En efecto, esas dos enfermedades son frecuentes en los destinos privilegiados de los viajeros (paludismo endémico en África subsahariana, dengue epidémico en el Caribe y el océano Índico). Puede resultar difícil distinguir clínicamente las arbovirosis más corrientes (dengue, chikungunya, Zika), lo cual hace necesaria la práctica de pruebas de biología molecular o serologías de interpretación a veces difícil. La presentación clínica de la fiebre tifoidea es poco específica. Por ello, la práctica de hemocultivos es esencial ante una sintomatología febril al regresar de un viaje. La hepatitis A puede pasar desapercibida si es poco sintomática, lo cual favorece la aparición de casos agrupados. Las otras enfermedades infecciosas tropicales son más raras y pueden requerir una consulta especializada para su diagnóstico y tratamiento.
+El tratamiento de urgencia debe, ante todo, descartar rápidamente una enfermedad grave: estado séptico que justificaría medidas de reanimación inmediatas y una antibioticoterapia, signos hemorrágicos que, en el contexto de una estancia en África, podrían hacer sospechar una fiebre hemorrágica vírica y requerir un aislamiento inmediato y un traslado a un centro especializado.

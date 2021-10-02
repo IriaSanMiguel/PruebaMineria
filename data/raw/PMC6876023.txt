@@ -1,0 +1,85 @@
+TRADUCCIÓN Y ADAPTACIÓN TRANSCULTURAL AL ESPAÑOL DEL CUESTIONARIO ARMS PARA LA MEDIDA DE LA ADHERENCIA EN PACIENTES PLURIPATOLÓGICOS<SUP
+
+
+- INTRODUCCIÓN
+
+El tratamiento farmacológico es un elemento clave en el manejo de las enfermedades crónicas. Su efectividad depende en gran medida de la adherencia al mismo, definida por la Organización Mundial de la Salud (OMS) como la magnitud con la que los pacientes siguen las instrucciones que se les proporcionan para los tratamientos prescritos.
+La falta de adherencia a los tratamientos crónicos representa un problema prioritario dada su elevada prevalencia y su relación con un peor control de la enfermedad y un incremento de la morbimortalidad y del gasto sanitario, , , .
+Los pacientes pluripatológicos representan una subpoblación de pacientes crónicos especialmente vulnerable a las consecuencias de la falta de adherencia terapéutica, por su marcada fragilidad y elevado nivel de polimedicación.
+Existe una amplia variedad de métodos directos e indirectos para medir la adherencia. Los cuestionarios de autocumplimiento son una de las herramientas más empleadas por su simplicidad y aplicabilidad. Entre ellos, el cuestionario Adherence to Refill and Medication Scale (ARMS) es considerado el más adecuado para la medida de la adherencia en pacientes pluripatológicos por la solidez de la evidencia que lo avala, su utilidad en estos pacientes y la factibilidad de su aplicación en condiciones de práctica clínica.
+El cuestionario ARMS, validado en pacientes con bajo nivel de alfabetización, consta de 12 preguntas: 8 dirigidas a evaluar la capacidad del paciente para la adecuada administración de la medicación y 4 a la correcta recogida de la misma. Para cuantificar el grado de adherencia, se asigna un valor de 1 a 4 a cada una de las posibilidades de respuesta de acuerdo a una escala tipo Likert: nunca (valor 1), algunas veces (valor 2), casi siempre (valor 3) o siempre (valor 4). Menores puntuaciones globales indican una mejor adherencia. Sin embargo, no se ha definido una puntuación como punto de corte para considerar a un paciente adherente o no. La propia estructura del cuestionario facilita un abordaje multidimensional de la falta de adherencia, permitiendo individualizar posibles intervenciones en función de las barreras detectadas en cada paciente.
+La aplicación en nuestro entorno del cuestionario ARMS requiere su adaptación transcultural mediante un proceso de traducción y posterior adaptación a la cultura española. Este proceso tiene por objeto garantizar la equivalencia conceptual, semántica y de contenido entre el cuestionario original y su versión española.
+El objetivo de este estudio es traducir y adaptar transculturalmente el cuestionario ARMS al español para medir la adherencia en pacientes pluripatológicos.
+
+
+- MATERIAL Y MÉTODOS
+
+Se empleó la metodología para la adaptación transcultural de cuestionarios de uso en investigación sanitaria propuesta por Sousa y Rojjanasrirat, coincidente con las directrices propuestas por la OMS. Estas directrices contemplan la combinación de un método de traducción directa e inversa seguido de una síntesis y adaptación cultural mediante metodología cualitativa o grupo de discusión. Esta metodología permite garantizar una equivalencia semántica y no literal entre las preguntas del cuestionario original y su versión traducida. Finalmente, se recomienda un análisis de la comprensibilidad de la herramienta mediante entrevistas cognitivas en una muestra de la población diana.
+
+
+-- TRADUCCIÓN DIRECTA E INVERSA
+
+Un traductor español con dominio del idioma original del instrumento (inglés) realizó la traducción directa del cuestionario ARMS del inglés al castellano. A continuación, un segundo traductor, ciego al cuestionario original, inglés nativo y con un dominio fluido del español, realizó la traducción inversa o retrotraducción. Ambos eran profesionales sanitarios con conocimientos en adherencia e independientes del equipo investigador. En ambos procesos colaboraron dos miembros del equipo investigador expertos en adherencia y con experiencia en procedimientos de traducción y adaptación transcultural de cuestionarios con objeto de asesorar a los traductores respecto a la metodología a aplicar.
+Cada traductor valoró para cada pregunta del cuestionario la dificultad que había tenido en encontrar una expresión conceptualmente equivalente entre ambos idiomas mediante una escala visual analógica valorada del 0 al 10 considerada de menor a mayor dificultad.
+
+
+-- SÍNTESIS Y ADAPTACIÓN
+
+Se constituyó un panel de expertos integrado por los miembros del equipo investigador y un tercer traductor, español nativo y con dominio del inglés.
+Clasificaron los ítems en función de la dificultad que habían tenido los dos primeros traductores en encontrar una expresión conceptualmente equivalente entre ambos idiomas (baja: 0-3, moderada: 4-6 y alta: ≥ 7). La dificultad se expresó para cada ítem del cuestionario como el promedio de las puntuaciones de ambos traductores. La correlación entre sus puntuaciones se analizó mediante el coeficiente de correlación lineal de Pearson. Se consideró necesaria la realización de una nueva traducción y retrotraducción de los ítems de alta dificultad.
+Finalmente, se comparó cada ítem de la versión original del cuestionario ARMS con los de la versión retrotraducida de acuerdo a su formato, redacción, estructura gramatical y similitud, con objeto de identificar posibles discrepancias. En caso de detectarse, el panel de expertos consensuó una expresión alternativa para el ítem de la versión traducida.
+
+
+-- EVALUACIÓN DE LA COMPRENSIBILIDAD: ENTREVISTAS COGNITIVAS
+
+De acuerdo con la metodología propuesta por Sousa y Rojjanasrirat, se consideró adecuado realizar entrevistas cognitivas en una muestra de pacientes pluripatológicos no institucionalizados con objeto de confirmar la correcta comprensión de la versión española del cuestionario ARMS (ARMS-e). Mediante un procedimiento de muestreo aleatorio simple se seleccionó una muestra de 40 pacientes pluripatológicos no institucionalizados ingresados en un servicio de medicina interna de un hospital de segundo nivel durante el periodo de noviembre de 2015 a enero de 2016. Se caracterizó la muestra mediante variables demográficas, estado funcional (índice de Barthel) y estado cognitivo (cuestionario SPMSQ de Pfeiffer).
+Los pacientes debían indicar el grado de comprensión del formato, de las instrucciones y de las preguntas del cuestionario ARMS-e mediante una escala dicotómica (compresión clara o confusa). A los pacientes que indicaron como confuso cualquier aspecto del cuestionario ARMS-e se les solicitó que propusieran una expresión alternativa. Se estableció como requisito de comprensibilidad para cada uno de los elementos del cuestionario una armonía inter-jueces ≥ 80% (variabilidad inter-observador < 20%).
+El estudio fue realizado de acuerdo con lo establecido por la legislación española sobre protección de datos, así como con los requerimientos del comité de ética de la investigación del centro participante. Se solicitó el consentimiento informado de todos los sujetos participantes en el estudio.
+
+
+- RESULTADOS
+
+-- TRADUCCIÓN Y ADAPTACIÓN TRANSCULTURAL
+
+La dificultad global de los traductores responsables de la traducción directa e inversa fue en ambos casos de 2,7 (desviación estándar [DE]: 1,5), correspondiente con una baja dificultad. De las 12 preguntas del cuestionario ARMS, 6 (50%) se asociaron con una traducción de dificultad baja y las otras 6 con una de dificultad moderada (50%).
+No se observó una correlación estadísticamente significativa (r = 0,475, p > 0,05) entre las puntuaciones de los traductores para cada una de las preguntas del cuestionario, interpretándose una dificultad característica para cada idioma y traductor.
+Tras el análisis de las discrepancias entre las versiones resultantes de la traducción directa e inversa se decidió utilizar en la versión del cuestionario adaptada al español algunas expresiones más acordes con nuestras características socioculturales. De este modo, las expresiones «refill your medicines» o «to get prescriptions filled» fueron traducidas como «recoger de la farmacia sus medicinas» o «recoger en la farmacia las medicinas que le han recetado», respectivamente.
+La versión adaptada al español del cuestionario ARMS se muestra en la tabla 1.
+
+
+-- EVALUACIÓN DE LA COMPRENSIBILIDAD: ENTREVISTAS COGNITIVAS
+
+Se utilizó una muestra de 40 pacientes pluripatológicos, con una edad media de 79,8 (DE: 10,4) años, siendo 29 (71%) de ellos varones. Las medianas de los índices de Barthel y Pfeiffer fueron de 80 (rango intercuartílico [RIQ]: 40-90) y 2 (RIQ: 1-4), respectivamente.
+En todos los casos se cumplió el requisito de comprensibilidad preestablecido, siendo la variabilidad inter-observador del 7,5% para el ítem 5, del 2,5% para los ítems 1, 3, 10 y 12, y nula para las instrucciones, formato y el resto de preguntas del cuestionario.
+
+
+- DISCUSIÓN
+
+Se ha obtenido una versión adaptada al español del cuestionario ARMS (ARMS-e), adecuada para la medida de la adherencia en pacientes pluripatológicos.
+Aunque disponemos de múltiples cuestionarios para medir la adherencia en pacientes con enfermedades crónicas aisladas, la literatura es escasa cuando se trata de pacientes en los que se combinan múltiples patologías. La validación del cuestionario ARMS en pacientes polimedicados con multimorbilidad y el posterior análisis de la comprensibilidad del ARMS-e en pacientes pluripatológicos permiten su mayor aplicabilidad a estas poblaciones respecto a otros cuestionarios, como los de Morisky-Green y de Haynes-Sackett, validados en pacientes con hipertensión arterial, .
+La alfabetización en salud se ha relacionado positivamente con la adherencia, siendo necesario disponer de cuestionarios adecuados a pacientes con un bajo nivel sociocultural. El cuestionario ARMS ha sido validado en pacientes con un bajo nivel de alfabetización, presentando una mayor correlación con la recogida de la medicación que el cuestionario de Morisky-Green. Además, el ARMS-e ha mostrado en nuestro estudio una excelente comprensibilidad. Por todo ello, consideramos adecuado su empleo en estas poblaciones en detrimento de otros cuestionarios de mayor complejidad, como el Brief Medication Questionnaire (BMQ) o The Medication Adherence Report Scale (MARS).
+La falta de adherencia se caracteriza por un origen multifactorial, pudiendo distinguir entre una falta de adherencia primaria y secundaria o bien entre aquella de carácter voluntario o involuntario. Es por ello necesario un abordaje individualizado en función de las barreras detectadas en cada paciente, . La organización de las preguntas del cuestionario ARMS-e en dos subescalas relacionadas con la administración y recogida de la medicación facilita la correcta identificación de barreras y el establecimiento de estrategias individualizadas para la mejora de la adherencia.
+La ausencia de consenso respecto a la metodología más adecuada para la adaptación transcultural de cuestionarios de uso en investigación sanitaria requiere la adaptación de las recomendaciones existentes a las características de cada cuestionario. En nuestro caso se empleó la metodología propuesta por Sousa y Rojjanasrirat, coincidente con las directrices propuestas por la OMS. Esta metodología se combinó con la inclusión de criterios de clasificación de los ítems según la dificultad de su traducción, al igual que en el trabajo de Mas Pons y Escribà Agüir. Entre las fortalezas de esta metodología destacamos la colaboración de traductores independientes con diferente perfil profesional y la inclusión de una fase cualitativa basada en un grupo de discusión.
+Por otra parte, y debido a la excelente comprensibilidad del cuestionario ARMS-e en la población diana, no se consideró necesaria la realización de un panel de expertos como etapa posterior y complementaria a la realización de las entrevistas cognitivas para confirmar la comprensibilidad del cuestionario, tal y como sugiere la metodología seguida.
+
+
+-- LIMITACIONES
+
+La realización de las entrevistas cognitivas en un único centro podría limitar su validez externa. No obstante, el empleo de unos criterios de elegibilidad explícitos, permite la adecuada identificación de la población y la reproducibilidad de los resultados. Los pacientes pluripatológicos suponen un 38,9% de las hospitalizaciones en servicios de medicina interna, con una media de dos hospitalizaciones por año. Esta circunstancia ha facilitado un adecuado reclutamiento de la muestra en el entorno hospitalario. No obstante, consideramos fundamental la implicación de los profesionales sanitarios del ámbito de la atención primaria en el abordaje de la adherencia como eje de la atención y directriz del discurrir asistencial de estos pacientes.
+Asimismo, la ausencia de una validación del cuestionario original en pacientes pluripatológicos, de acuerdo a los criterios de elegibilidad empleados en nuestro estudio , , podría suponer una limitación en cuanto a su futura aplicación a los mismos. No obstante, su validación en pacientes polimedicados con multimorbilidad, su elección por un panel de expertos basado en metodología Delphi como el cuestionario más adecuado para medir la adherencia en pacientes pluripatológicos y la excelente comprensibilidad del ARMS-e en esta población hacen razonable su empleo en tanto no disponemos de una validación formal.
+
+
+-- IMPLICACIONES PARA LA PRÁCTICA CLÍNICA Y CONCLUSIÓN
+
+El empleo del cuestionario ARMS-e en pacientes pluripatológicos debe ser el punto de partida para un análisis de las barreras detectadas en cada paciente y la posterior definición de estrategias individualizadas para la mejora de la adherencia. La aplicación de estas estrategias debe estar a su vez supeditada a su empleo en condiciones experimentales que permitan evaluar adecuadamente su eficacia.
+El cuestionario ARMS-e es una versión adaptada al español del cuestionario ARMS, siendo un cuestionario adecuado para la medida de la adherencia en pacientes pluripatológicos. Su estructura facilita un abordaje multidimensional de la falta de adherencia, permitiendo la individualización de intervenciones en función de las barreras detectadas en cada paciente.Lo conocido sobre el tema•El cuestionario ARMS es considerado el más adecuado para la medida de la adherencia en pacientes pluripatológicos por la solidez de la evidencia que lo avala, su utilidad en estos pacientes y la factibilidad de su aplicación en condiciones de práctica clínica.•Su estructura facilita un abordaje multidimensional de la falta de adherencia, permitiendo individualizar posibles intervenciones en función de las barreras detectadas en cada paciente.Qué aporta este estudio•Se ha obtenido una versión adaptada al español del cuestionario ARMS (ARMS-e) que es adecuada para la medida de la adherencia en pacientes pluripatológicos.
+
+
+- FINANCIACIÓN
+
+El trabajo no ha tenido ninguna fuente de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,6 @@
+Comparar el Índice de Seguridad Hospitalaria (ISH) contra las autoevaluaciones realizadas por las unidades.
+La función de los hospitales durante una emergencia mayor o desastre es vital. Su capacidad de respuesta depende de su ubicación geográfica, adecuada organización, seguridad estructural y seguridad de elementos no estructurales. Después de los sismos de septiembre de 2017 se compararon los resultados de las autoevaluaciones y la evaluación del Programa Hospital Seguro en los hospitales inhabilitados pertenecientes al Instituto Mexicano del Seguro Social.
+Se observó variabilidad en los ISH, lo que evidenció sesgos en la autoevaluación: ningún hospital obtuvo una calificación inferior a 0.35 en su ISH aunque tres quedaron inhabilitados en la fase inmediata posterior a los eventos sísmicos.
+La variabilidad en los resultados depende de quien aplica el instrumento. La evaluación rápida con ISH proporciona una idea inmediata de la probabilidad de que un hospital continúe funcionando en caso de desastre y permite determinar las acciones de mitigación para incrementar la resiliencia y seguridad de las instalaciones de salud.
+Se utilizó el ISH y la Lista de Verificación de la Organización Panamericana de la Salud/Organización Mundial de la Salud. La comparación se realizó en tres hospitales inhabilitados posterior a los sismos de septiembre de 2017.
+

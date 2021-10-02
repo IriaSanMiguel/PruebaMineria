@@ -1,0 +1,9 @@
+Análisis retrospectivo del registro Older Acute heart failure Key data (OAK) que incluye prospectivamente a
+pacientes consecutivos  65 años con ICA en 3 servicios de urgencias españoles durante 4 meses (noviembre-diciembre 2011 y enero-febrero 2014). Se realizó una valoración geriátrica adaptada a urgencias durante los días laborales de 8 am a 10 pm. Se recogieron variables demográficas, clínicas, analíticas y geriátricas (comorbilidad, polifarmacia, fragilidad, situación basal funcional, cognitiva y social, despistaje de síndrome confusional, deterioro cognitivo y depresión, y situación nutricional). La variable de resultado fue la mortalidad por cualquier causa a los 30 días.
+Existen ciertas variables geriátricas que debieran contemplarse en la estratificación de riesgo a corto
+plazo de los pacientes ancianos con ICA.
+Estudiar el impacto de las variables geriátricas en la mortalidad a 30 días entre los ancianos con insuficiencia
+cardiaca aguda (ICA).
+Se incluyeron 565 pacientes con edad media 83 años (DE 7,1), 346 mujeres (61,6%). Sesenta y cinco
+sujetos (11,5%) fallecieron a los 30 días. La presencia de síndrome confusional agudo (OR ajustada = 2,2; IC95% 1,0-4,8; p = 0,04), de enfermedad aguda (OR ajustada = 1,8; IC95% 0,9-3,4; p = 0,05) o pérdida de apetito (OR ajustada = 1,8; IC95% 1-3,4; p = 0,04) en los últimos 3 meses, y de fragilidad (OR ajustada = 2,0; IC95% 1,0-4,1; p = 0,05) o dependencia funcional grave (OR ajustada = 4,4; IC95% 1,9-11,4; p = 0,01) fueron factores independientes asociados con mortalidad a los 30 días.
+

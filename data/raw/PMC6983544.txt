@@ -1,0 +1,26 @@
+PROXIMIDAD A LA FARMACIA Y DEMANDA ASISTENCIAL EN ATENCIÓN PRIMARIA<SUP
+
+
+Sr. Director:
+Distintos autores han teorizado sobre la función de las farmacias en la contención de la demanda asistencial en atención primaria, , , . No existe, sin embargo, ningún estudio que haya cuantificado el volumen de visitas al médico que estas están evitando. El objetivo de este estudio es evaluar el impacto de la oficina de farmacia sobre la demanda asistencial en atención primaria.
+Se ha llevado a cabo un estudio transversal sobre una muestra de usuarios de farmacia (n = 600) de la provincia de León. Los sujetos fueron seleccionados durante mayo y junio de 2011. Se seleccionaron 30 farmacias mediante muestreo aleatorio simple. El número de usuarios que se seleccionaron en cada municipio se calculó en función de su peso poblacional. Los sujetos fueron seleccionados consecutivamente según salían de las farmacias y entrevistados mediante cuestionario. Se preguntó con relación a la distancia a la farmacia (próxima, hasta 7 min; media: entre 8 y 14 min; y distante: más de 14 min) y al médico, el número de visitas a la farmacia y al médico (considerando hiperfrecuentadores los sujetos por encima del percentil 80) y los medicamentos consumidos. Distintas variables sociodemográficas como la edad, el sexo y el nivel de estudios fueron también medidas. Para valorar la representatividad de los participantes, se registraron para todos los sujetos 3 variables observables a simple vista: sexo, edad aparente (joven/adulto/anciano) y compra de medicamentos. Se empleó la regresión binomial negativa para modelizar el número de visitas al médico y la regresión logística para la variable hiperfrecuentador.
+La participación fue del 71%. No se encontraron diferencias entre la muestra real y la muestra teórica en sexo (p = 0,65), edad aparente (p = 0,327) y compra de medicamentos (p = 0,26). El análisis bivariante muestra que los sujetos menores de 65 años que tienen la farmacia próxima visitan al médico 4,4 veces al año frente a las 6,2 veces que lo hacen aquellos que tienen la farmacia a media distancia y las 8,8 veces de aquellos que la tienen más distante. El análisis multivariante muestra un 40% más de visitas al año entre los sujetos que tienen la farmacia a media distancia (OR = 1,4) y un 225% más para los más distantes (OR = 3,25) . En cuanto a la hiperfrecuentación, el análisis bivariante muestra asociación entre la distancia y la proporción de hiperfrecuentadores en la población menor de 65 años, 4,3% entre la población próxima a la farmacia, 12,3% entre la que vive a media distancia y 16,5% para la población distante (p < 0,001). El análisis multivariante muestra que por cada hiperfrecuentador menor de 65 años entre los sujetos que tienen la farmacia próxima, hay 6,5 entre los sujetos que la tienen a media distancia (OR = 6,48) y 10,8 entre los que tienen la farmacia distante (OR = 10,83) . Las variables sexo y nivel de estudios no mostraron asociación en los modelos multivariantes.
+Los resultados de nuestro estudio muestran una significativa asociación entre la proximidad de la farmacia a la población y la menor asistencia al médico en los sujetos menores de 65 años, mientras que en los sujetos que tienen 65 años o más no se han encontrado diferencias significativas.
+El distinto coste de oportunidad de visitar al médico, así como el distinto nivel de financiación de los medicamentos, justifican analizar separadamente a la población mayor y menor de 65 años. Y son probablemente estas dos variables las que explican las asociaciones encontradas en la población menor de 65 años y la ausencia de asociación en los sujetos de mayor edad. Además, la mayor prevalencia de enfermedades crónicas en la población mayor podría explicar también parte del efecto, aun cuando esta variabilidad se ha pretendido controlar con la variable consumo de medicamentos incluida en los modelos.
+La principal limitación de nuestro estudio estriba en que la muestra se ha seleccionado a la puerta de las farmacias. Los resultados de este estudio deberán ser confirmados en posteriores investigaciones en otros entornos o con otras poblaciones, idealmente con población general o en su defecto con población seleccionada en los centros de salud.
+En conclusión, la proximidad de la farmacia al usuario se asocia a una menor demanda asistencial en atención primaria. Las decisiones sobre ordenación y gestión de la red de oficinas deben considerar también estas asociaciones.
+
+
+- AUTORÍA
+
+F. Caamaño-Isorna y A. Carrasco-Argüello han diseñado el estudio. M. Iglesias-Rey ha contribuido en el manejo de la base de datos. Jacobo Pardo-Seco se ha encargado del análisis estadístico. Todos los autores han aportado comentarios y sugerencias al manuscrito final.
+
+
+- CONFLICTO DE INTERESES
+
+Antonio Carrasco-Argüello es farmacéutico de oficina de farmacia en León y Presidente del Colegio Farmacéutico de León.
+
+
+- FINANCIACIÓN
+
+Este estudio ha sido realizado en el marco de un convenio de investigación firmado entre la Universidad de Santiago de Compostela y el Colegio Farmacéutico de León.

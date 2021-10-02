@@ -1,0 +1,68 @@
+RECOMENDACIONES PARA LA ATENCIÓN OFTALMOLÓGICA DURANTE EL ESTADO DE ALARMA POR LA PANDEMIA DE ENFERMEDAD POR CORONAVIRUS COVID-19
+
+
+- INTRODUCCIÓN
+
+El presente documento ha sido producto de la revisión del estado del conocimiento y del consenso entre diferentes sociedades nacionales de oftalmología. Recoge recomendaciones de máximos para la atención a pacientes oftalmológicos, tanto COVID positivos como negativos, durante la pandemia por coronavirus SARS-CoV-2. Dichas recomendaciones deberán ser adaptadas a las circunstancias y disponibilidad de los equipos en cada uno de los centros y comunidades, debiendo ser actualizadas en función del desarrollo de la pandemia en las próximas semanas. No serán de aplicación una vez que se levante el estado de alarma.
+Durante este periodo la atención a los potenciales riesgos de salud para la población general ocasionados por la pandemia COVID-19 debe primar sobre la posible progresión de enfermedades tales como el glaucoma crónico, la retinopatía diabética, la degeneración macular asociada a la edad, enfermedades corneales e inflamatorias, entre otras. Debemos asumir una posible progresión de dichas enfermedades por la imposibilidad de un seguimiento adecuado de nuestros pacientes.
+
+
+- MOTIVO DE ACTUALIZACIÓN: EVIDENCIAS CIENTÍFICAS
+
+Los pacientes sintomáticos con COVID-19 suelen presentar síntomas respiratorios, como fiebre, tos y disnea; otros síntomas incluyen rash, mialgias, trastornos gastrointestinales, pérdida del gusto y del olfato. La conjuntivitis también se ha notificado. Las complicaciones graves incluyen neumonía y síndrome de distrés respiratorio agudo. El periodo de incubación de la enfermedad puede oscilar entre 2 y 24 días, durante el que cualquier paciente infectado puede estar asintomático y resultar contagioso, , , .
+Por otra parte, el SARS-CoV-2 se transmite por aerosoles o gotitas respiratorias a la conjuntiva, , , pudiendo ser la conjuntivitis la primera manifestación de la infección sistémica. En un estudio de Journal of Medical Virology de 30 pacientes hospitalizados por COVID-19 en China, uno tuvo conjuntivitis. Solo este tenía SARS-CoV-2 en sus secreciones oculares. Por tanto, el SARS-CoV-2 puede infectar la conjuntiva y causar conjuntivitis, y las partículas del virus están presentes en las secreciones oculares. En un estudio más amplio publicado en New England Journal of Medicine, los investigadores documentaron «congestión conjuntival» en 9 de 1.099 pacientes (0,8%) con COVID-19 confirmado en laboratorio de 30 hospitales de China, , , , .
+Debido a la alta capacidad de transmisión del SARS-CoV-2 es necesario guardar una distancia de seguridad mayor de 1,5 metros para reducir el riesgo de contagio. Dado que la exploración oftalmológica se realiza a 30 cm en lámpara de hendidura e incluso más cerca en algunas maniobras concretas (medida de presión intraocular, oftalmoscopia directa), debe ser considerada de riesgo y manejada de acuerdo a las medidas estándares en esos casos, , , , .
+Con todas estas evidencias los oftalmólogos, enfermeras y auxiliares de oftalmología, y ópticos-optometristas son extremadamente vulnerables durante las exploraciones en consulta, siendo la oftalmología una de las especialidades médicas más afectadas en la pandemia actual. Por otra parte, debido a la realización de consultas de alto rendimiento, los pacientes con frecuencia pasan más de hora y media en ellas. Además, la edad media de los pacientes es muy elevada, siendo esta población la que mayor mortalidad y morbilidad presenta en la infección por SARS-CoV-2. Finalmente, los profesionales sanitarios pueden actuar como agentes transmisores de la enfermedad sobre una población de riesgo por lo que deben seguir estrictamente las medidas preventivas.
+
+
+- PACIENTES EN RIESGO: ACCIONES PROPUESTAS
+
+La enfermedad COVID-19 es por tanto transmisible por las secreciones conjuntivales y la conjuntivitis presentarse de forma variable, según las series publicadas entre el 0,9 y 31,6% de los pacientes con la enfermedad. Esto aumenta la probabilidad de que los oftalmólogos sean los primeros proveedores en evaluar pacientes posiblemente infectados por SARS-CoV-2. Dado el estrecho contacto con el paciente a través de la lámpara de hendidura, oftalmoscopios, tonómetros y restantes equipos, los cuales requieren una proximidad menor de un metro, se deberán tomar las siguientes medidas:
+
+
+- RECOMENDACIONES GENERALES DE CONTENCIÓN EN LA ATENCIÓN OFTALMOLÓGICA
+
+
+a.Consultas urgentes y sus revisiones.b.Primeras y segundas revisiones de intervenciones quirúrgicas urgentes.c.Consultas de inyecciones intravítreas urgentes o no diferibles, revisando los perfiles de las agendas y con contacto telefónico para valorar individualmente cada caso (p.ej. ojos únicos, degeneración macular asociada a la edad en régimen Treat & Extend en intervalos de cuatro semanas o pacientes en dosis de carga).d.Pacientes con glaucoma: en los casos con tendencia a progresión constatada o con daño grave, un incremento del tratamiento antiglaucomatoso durante este periodo podría ser éticamente razonable hasta que pueda realizarse un examen oftalmológico adecuado. La prescripción electrónica a distancia es una herramienta fundamental para cualquier cambio terapéutico. La anamnesis telefónica nos permitirá detectar posibles intolerancias al tratamiento y realizar los cambios más oportunos.e.En pacientes con uveítis no infecciosas en tratamiento con terapia inmunomoduladora e inmunosupresora sistémica se tendrán en cuenta las siguientes recomendaciones:
+ 
+
+
+-- A1. PACIENTES NO CONFIRMADOS (ASINTOMÁTICOS Y SINTOMÁTICOS
+
+Considerar todos los casos como potencialmente contagiosos y aplicar el conjunto de acciones y recomendaciones generales indicadas más arriba. Además, se tendrán en cuenta las siguientes consideraciones:
+
+
+-- A2. PACIENTES CONFIRMADOS CON TEST SARS-COV-2 POSITIVO
+
+
+
+
+
+13. Trasplantes: Los trasplantes merecen una especial consideración, con recomendación de practicar únicamente los de extrema urgencia. Respecto a los donantes, sería imprescindible que siguieran las recomendaciones del documento de referencia BV-ES-20200122-5, de 13 de marzo, punto 2 sobre «donación de tejidos»: «Con respecto a la donación de tejidos, en el momento actual, cualquier caso confirmado de COVID-19 debe descartarse. En el resto de los casos, y siempre que no se disponga de un resultado negativo en las 24 horas previas a la donación, se recomienda que los establecimientos de tejidos realicen el cribado del SARS-CoV-2. Para posibilitar la realización del cribado en el establecimiento de tejidos, se deben obtener y enviar al mismo las mismas muestras que se obtendrían para el cribado de donantes de órganos (si es posible, muestra del tracto aéreo superior). El resultado positivo o no concluyente descarta la donación de tejidos». 
+
+
+- ESPECIFICACIONES SOBRE ADAPTACIÓN Y USO DE LENTES DE CONTACTO
+
+No hay evidencias hasta la fecha de que las personas sanas deban evitar el uso de lentes de contacto, o que los usuarios de lentes de contacto se encuentren en mayor riesgo de contraer una infección por coronavirus en comparación con quienes usan gafas. Así mismo no hay evidencia que sugiera una correlación entre el uso de lentes de contacto y la propagación de COVID-19 o una infección por coronavirus relacionada con el uso de lentes de contacto. Sin embargo, se sabe que el virus SARS-CoV-2 puede aislarse en la lágrima y conjuntiva y transmitirse por esta.
+Por este motivo y ante la excepcionalidad de la presente situación de pandemia es aconsejable que no se proceda a adaptar ningún tipo de lente de contacto, salvo los casos de córneas irregulares en los que no puedan aplicarse otros medios de corrección, y también en algunos casos de usuarios de determinados tipos de lentes de contacto empleadas para el control de la evolución de la miopía. Si el paciente es ya usuario de lentes de contacto y presenta síntomas oculares (congestión conjuntival, secreción, lagrimeo) o generales (fiebre, tos seca, malestar general) deberá dejar de usar sus lentes de contacto y sustituirlas por sus gafas. En caso de dudas debe consultar con su contactólogo.
+En niños las lentes de contacto serán retiradas salvo en aquellas condiciones excepcionales en que sean imprescindibles: p.ej. afaquia o queratocono. En dichos casos se utilizarán con las medidas higiénicas y de desinfección indicadas, salvo que se produzcan signos o síntomas que indiquen un proceso ocular que incompatibilice su uso. Las medidas para un uso correcto de lentes de contacto serían las siguientes:
+
+
+
+- ESPECIFICACIONES SOBRE EL PROCESAMIENTO Y ELABORACIÓN DE DERIVADOS HEMÁTICOS
+
+Las especificaciones incluyen la elaboración de suero autólogo y plasma rico en factores de crecimiento (PRGF). Se recomienda la elaboración de derivados hemáticos solo en aquellas situaciones clínicas en las que no exista alternativa posible (p.ej. úlceras neurotróficas estadios II y III) y sea necesario este tratamiento para el seguimiento y la mejoría clínica de los pacientes.
+Las precauciones tomadas para la elaboración de los derivados hemáticos serán las propias establecidas según el informe de la AEMPS de 23 de mayo de 2013 sobre el uso de plasma rico en plaquetas y teniendo en cuenta los criterios de exclusión del Anexo II del Real Decreto 1088/2005, el cual especifica que pacientes con infecciones se excluirán durante y como mínimo las dos semanas posteriores al restablecimiento clínico completo de una enfermedad infecciosa y tras la desaparición de síntomas, incluyendo fiebre superior a 38 °C y afección pseudogripal, donde podríamos clasificar la infección por SARS-CoV-2. Además de las serologías recomendadas (VHB, VHC, VIH, HTLV-I, lúes) se deberá preguntar por el estado de salud actual del paciente y tomar las decisiones según lo establecido previamente.
+En la medida de lo posible y para que el paciente acuda el menor número de veces al hospital, se recomienda elaborar el mayor número de colirios, cubriendo el periodo de estabilidad máxima establecida según el procedimiento utilizado.
+
+
+- USO DE CLOROQUINA/HIDROXICLOROQUINA EN PACIENTES COVID-19 Y TOXICIDAD RETINIANA MACULAR
+
+La cloroquina e hidroxicloroquina son medicamentos antipalúdicos ampliamente utilizados para el tratamiento de diferentes enfermedades autoinmunes. En la actualidad, no hay ensayos clínicos publicados con ninguno de los dos sobre su papel en el manejo de la infección por SARS-CoV-2, aunque sí hay una revisión sistemática sobre la seguridad y eficacia de la cloroquina en el tratamiento de COVID-19, basado en su efectividad in vitro para limitar la replicación del SARS-CoV-2. Se han publicado los resultados de una cohorte francesa en la que comparan la eficacia del tratamiento con hidroxicloroquina sola (n = 14) o asociada a azitromicina (n = 6) con 16 pacientes sin tratamiento, con resultados favorables al uso de los antipalúdicos, aunque se trata de un estudio con muchas limitaciones. Actualmente se está evaluando su eficacia en más de 30 ensayos clínicos, principalmente en China, .
+Así, el Ministerio de Sanidad ha elaborado un protocolo para el manejo y tratamiento de los pacientes con infección por SARS-CoV-2, que se actualiza permanentemente, en el que recomiendan el uso de la cloroquina base para adultos y de la hidroxicloroquina sulfato para adultos y pacientes pediátricos durante 5 días con una dosis de carga el primer día. Se han descrito trastornos oculares reversibles tras interrumpir el tratamiento de forma temprana, pero, obviamente, no hay información sobre los efectos adversos oculares a medio y largo plazo por el uso breve de estas dosis recomendadas. Se ha demostrado toxicidad macular entre los pacientes que consumen estos medicamentos de forma prolongada, siendo el uso diario el determinante más crítico de este riesgo y estando correlacionado con el peso corporal real. Además, presentan mayor riesgo aquellos pacientes en tratamiento con tamoxifeno y los que presentan insuficiencia renal. De esta manera tratamientos con dosis ≤ 5 mg/Kg de peso, presentan menos de 1% de riesgo de maculopatía tras 5 años de tratamiento y menos de 2% tras 10 años de tratamiento.
+Bajo estas premisas establecemos las siguientes recomendaciones:
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

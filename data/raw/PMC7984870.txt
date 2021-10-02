@@ -1,0 +1,109 @@
+INTERPRETACIÓN DE LAS PRUEBAS DIAGNÓSTICAS DE LA COVID-19
+
+
+En el actual contexto epidemiológico y con la exponencial llegada de infecciones respiratorias causadas por otros agentes (virus influenza, parainfluenza, VRS, entre otros) con similares manifestaciones clínicas, se debe implementar una estrategia masiva, fiable, rápida y precisa para el diagnóstico de la COVID-19 dado que se han descrito casos de coinfección.
+Si bien el procedimiento de elección es la PCR (reacción en cadena de la polimerasa), es igualmente necesario establecer otras técnicas con alta sensibilidad y especificidad que puedan usarse a gran escala.
+Actualmente disponemos de tres tipos de pruebas diagnósticas, , , :1.Pruebas de detección de ácidos nucleicos (PCR).2.Pruebas de detección de antígeno (Ag).3.Pruebas de detección de anticuerpos (Ac): IgM/A e IgG.
+En la tabla 1 se expone un resumen de las técnicas de diagnóstico microbiológico disponibles.
+
+
+- PRUEBAS DE DETECCIÓN DE ÁCIDOS NUCLEICOS: PCR
+
+En la actualidad se considera el gold standard para el diagnóstico del SARS-CoV-2.
+
+
+-- ¿EN QUÉ CONSISTE
+
+La PCR con transcriptasa inversa (RT-PCR o qRT-PCR si se cuantifica en tiempo real) es una técnica molecular de detección directa de material genómico por amplificación de ácidos nucleicos. Los genes diana más usados son el gen E (screening de primera línea), el gen RdRp (estudio de confirmación) y el gen N (estudio adicional de confirmación). En zonas de circulación viral comunitaria, se considera suficiente la positividad para un único gen discriminatorio del SARS-CoV-2 para afirmar el diagnóstico.
+Se han obtenido resultados positivos de la RT-PCR en infectados tanto en muestras respiratorias como no respiratorias (orina, heces, sangre). No obstante, las más usadas y recomendadas por los Centers for Disease Control and Prevention (CDC) por su rentabilidad diagnóstica son las nasofaríngeas seguidas de las orofaríngeas. La Organización Mundial de la Salud (OMS) recomienda recoger ambas muestras en el mismo tubo con el fin de aumentar la carga viral. En infecciones graves, se pueden recoger muestras de vías respiratorias bajas, esputo o aspirado endotraqueal o bronquial incluso lavado broncoalveolar (LBA), en las que se ha encontrado positividad incluso tras 3 semanas del inicio de la clínica.
+
+
+-- ¿CUÁNDO DEBE EFECTUARSE
+
+Teniendo en cuenta que la carga viral de nasofaringe va ascendiendo desde el inicio del periodo de incubación (PI) hasta el 7.° día y, posteriormente, va descendiendo de forma paulatina, el periodo de máxima sensibilidad de la PCR se obtendría en la primera semana desde el inicio de los síntomas. Tanto en los primeros días del PI como tras la resolución de la clínica, la carga viral es menor y podría no ser detectada.
+En los casos leves, la transmisión ocurriría básicamente en la primera semana de los síntomas, comprendiendo un periodo desde 1-2 días antes hasta 5-6 días después. No obstante, en los casos más graves, esta transmisión sería más intensa y duradera (fig. 1 ). Se ha objetivado que a partir de la segunda semana disminuye la sensibilidad de la PCR en muestras del tracto respiratorio superior por lo que, en neumonías, se recomienda obtener muestras del tracto respiratorio inferior, especialmente del LBA.Figura 1
+En pacientes asintomáticos o contactos estrechos, el tiempo óptimo para detectar RNA es aún desconocido, por lo que se recomienda realizar el test entre el 5.° y el 7.° día postexposición.
+
+
+-- ¿QUÉ RENTABILIDAD PRESENTA
+
+Se trata de la prueba diagnóstica más sensible y específica disponible por el momento con una sensibilidad del 85-90% y una especificidad de casi el 100%, por lo que ha sido considerada la técnica de elección y referencia para el diagnóstico de la COVID-19. No se ha evidenciado reactividad cruzada.
+
+
+-- ¿CÓMO INTERPRETAMOS LOS RESULTADOS
+
+A pesar de que es la técnica gold standard, no está exenta de presentar falsos negativos y positivos:•Falsos negativos (<5-40%):–Muestra insuficiente.–Poca carga viral según el estadio (asintomático, presintomático o postsintomático).–Trasporte inadecuado o con retraso (interrupción cadena de frío).–Error en etiquetaje.•Falsos positivos (infrecuentes):–Contaminaciones cruzadas entre muestras.–Error en etiquetaje. 
+Debemos enfatizar que un resultado negativo no excluye la infección, por lo que, si la sospecha clínica es elevada (datos clínicos, contexto epidemiológico, hallazgos radiológicos –a veces más precoces en tomografía computarizada que la positividad de la PCR– y analíticos), se recomienda repetir la misma muestra en 48-72 horas o bien intentar obtenerla del tracto respiratorio inferior, sobre todo en enfermedad grave o progresiva.
+Contrariamente, un resultado positivo no siempre se traduce en replicación viral y capacidad infectiva, ya que la PCR puede detectar material RNA no viable (sin crecimiento en cultivo viral) sin poderse descartar una coinfección subyacente. Así mismo, se han descrito reinfecciones por una cepa heterotípica tras 3 meses de la primera infección.
+
+
+--- CICLO DE UMBRAL DE POSITIVIDAD – <ITALIC>CYCLE THRESHOLD</ITALIC> (CT
+
+En ausencia de estándares de cuantificación, el Ct refleja el número de ciclos en una RT-PCR que se necesita para amplificar el RNA para detectarlo; por este motivo, un valor Ct bajo refleja elevada carga viral. Se ha consensuado que un Ct > 30 podría corresponder a un virus potencialmente no infectivo (a valorar evolución clínica, gravedad e inmunosupresión).
+
+
+-- ¿CÓMO EFECTUAR LA PRUEBA
+
+El sanitario introducirá el hisopo en una de las fosas nasa- les hasta la nasofaringe y girará la torunda 5-10 segundos. Posteriormente, lo colocará en un medio de transporte viral o universal, romperá el mango por la muesca y cerrará el tapón.
+
+
+- PRUEBAS DE DETECCIÓN DE ANTÍGENOS (AG
+
+-- ¿EN QUÉ CONSISTE
+
+Se basan en la detección de proteínas virales específicas del SARS-CoV-2, como la proteína N y las subunidades S1 o S2 de la proteína espícula (S).
+Las muestras biológicas usadas proceden de exudado nasofaríngeo, orofaríngeo o de esputo. Según estudios publicados, la carga viral es mayor en esputo y nasofaringe, siendo más elevada en estadios iniciales de la infección.
+
+
+-- ¿CUÁNDO DEBE EFECTUARSE
+
+Teniendo en cuenta que la replicación viral es más acentuada en la fase aguda, el test antigénico se debería efectuar en los primeros 5-7 días del inicio de los síntomas.
+
+
+-- ¿QUÉ RENTABILIDAD PRESENTA
+
+La sensibilidad en sintomáticos supera el 95%, siendo más elevada en estados de alta viremia. Adicionalmente, la especificidad roza el 95-99% en estudios realizados en condiciones óptimas.
+En pacientes asintomáticos hay escasa evidencia por el momento.
+
+
+-- ¿CÓMO INTERPRETAMOS LOS RESULTADOS
+
+La técnica presenta falsos negativos y positivos, compartiendo las mismas causas que en el caso de la PCR, aunque con valores no definidos por la falta de evidencia.
+A pesar de ello, no son tan sensibles como la PCR para detectar bajas cargas virales, por lo que un resultado negativo no descarta la infección, y es recomendable realizar la PCR si la sospecha clínica es elevada.
+Esta herramienta es prioritaria en situaciones de brotes, así como en cribados masivos de infraestructuras de alto riesgo (centros penitenciarios, residencias, etc.), permitiendo identificar rápidamente individuos infectados y procediendo al aislamiento preventivo.
+
+
+-- ¿CÓMO EFECTUAR LA PRUEBA
+
+La prueba se efectuará con el mismo procedimiento que la PCR.
+
+
+- PRUEBAS DE DETECCIÓN DE ANTICUERPOS (AC): IGM/A E IGG
+
+-- ¿EN QUÉ CONSISTE
+
+Detectan la presencia de Ac contra el SARS-CoV-2 en una muestra de sangre, plasma o suero. En la mayoría de los pacientes infectados se detectan Ac específicos de uno o varios isotipos, neutralizantes o no, en los primeros 15 días después del inicio de la clínica. Respecto a la evidencia previa, parece razonable asumir que Ac con actividad neutralizante (AcNt) protegen frente a reinfecciones durante un tiempo no definido. No obstante, se desconoce los niveles de AcNt protectores. Así mismo, la correlación con los Ac de tipo IgM/A o IgG varían notablemente, siendo mejor cuando el Ag diana es el receptor binding domain, S1, S1/S2 y N, respectivamente.
+Paralelamente, se han comercializado test rápidos con muestra capilar obtenida del dedo del paciente que analizan Ac totales, específicos o ambos en el mismo kit.
+
+
+-- ¿CUÁNDO DEBE EFECTUARSE
+
+La detección de Ac puede ayudar a identificar pacientes que han sido infectados previamente, así como a diagnosticar infección reciente sintomática a partir de 3-4 semanas. El punto óptimo para determinar Ac IgM/A sería a los 8-14 días de los síntomas, mientras que tras 15-21 días se realizaría la seroconversión a IgG (fig. 2 ).Figura 2
+A pesar de ello, la duración de los Ac sigue siendo una incógnita; según estudios recientes, no serían detectables a los 3 meses de la infección, aunque esencialmente este factor dependería de la respuesta inmunitaria inicial y la gravedad clínica.
+
+
+-- ¿QUÉ RENTABILIDAD PRESENTA
+
+La sensibilidad aumenta tras el inicio de los síntomas, con un rendimiento óptimo a partir de las 3 semanas de más del 90% y con una especificidad variable entre el 90% y el 99% según el test usado.
+
+
+-- ¿CÓMO INTERPRETAMOS LOS RESULTADOS
+
+A continuación, se exponen varias causas de falsos negativos y positivos:•Falsos negativos:–Muestra inadecuada o insuficiente.–Fallos en los kits.–Poca carga viral en estadios iniciales.•Falsos positivos:–Reactividad cruzada con otros virus respiratorios. 
+En las Tabla 2, Tabla 3 se plasma la posible interpretación de los resultados de las pruebas diagnósticas combinadas.
+
+
+-- ¿CÓMO EFECTUAR LA PRUEBA
+
+Se toma una muestra capilar o sanguínea.
+Actualmente, se están comercializando varios test rápidos diagnósticos, pero con resultados muy dispares en cuanto a sensibilidad y especificidad.

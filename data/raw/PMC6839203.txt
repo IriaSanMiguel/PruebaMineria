@@ -1,0 +1,104 @@
+EFECTIVIDAD DE UNA ESTRATEGIA DE INTERVENCIÓN EN EL PATRÓN DE PRESCRIPCIÓN DEL BIOSIMILAR GLARGINA EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En la Unión Europea los biosimilares son aprobados por la Agencia Europea del Medicamento (EMA) con un procedimiento regulatorio independiente que se desarrolla específicamente para cada nuevo fármaco, asegurando un nivel de calidad, eficacia y seguridad comparable con el producto de referencia. Estos medicamentos son una alternativa equivalente, desde el punto de vista terapéutico, a productos de referencia más costosos, dando una oportunidad para la sostenibilidad del sistema sanitario y un mayor acceso a una atención médica asequible.
+En nuestro entorno, los medicamentos biotecnológicos son en su mayoría medicamentos clasificados como de uso hospitalario, y por lo tanto es en este ámbito donde mayoritariamente se ha situado hasta ahora el debate sobre la selección y la utilización de estos medicamentos y los biosimilares. Sin embargo, en Europa, el 26 de junio de 2014 la EMA recomendó la concesión de una autorización de comercialización para insulina glargina biosimilar (IGBio) para el tratamiento de la diabetes mellitus, siendo el primer biosimilar introducido en España para su prescripción en atención primaria (AP).
+La eficiencia derivada de la introducción de estos biosimilares en el mercado dependerá del nivel de penetración en la práctica clínica, la cual está muy influenciada por las estrategias de los sistemas de salud pero también por las estrategias locales para mejorar el nivel de confianza de los clínicos y pacientes hacia estos productos. En este sentido, estrategias de intervención para promover la prescripción de estos medicamentos pueden mejorar la velocidad y la proporción de la penetración en el mercado promoviendo importantes mejoras en la gestión. Hasta el momento no hemos encontrado ninguna información sobre la forma en que los biosimilares se incorporan a la práctica clínica, o sobre las estrategias tendentes a fomentar su utilización (diferentes a las actividades de los laboratorios) y sus resultados.
+Por lo general, la distribución pasiva de la información es insuficiente para mejorar la práctica clínica si no se realizan intervenciones suplementarias. Sin embargo, intervenciones formativas, combinadas y dirigidas a superar barreras detectadas, que incorporan actividades de retroalimentación de la prescripción y formación en el centro de trabajo, tienden a mejorar la calidad de la práctica clínica, , . Una revisión reciente también sugiere que materiales educativos impresos puede tener un pequeño efecto beneficioso sobre los resultados de la práctica profesional.
+El objetivo principal de nuestro trabajo ha sido evaluar el impacto de una estrategia de intervención informativa/formativa en el patrón de prescripción de la IGBio respecto al compuesto de referencia (IGRef). El objetivo secundario del estudio ha sido analizar si dicho patrón de prescripción está influenciado por el perfil del prescriptor, así como su repercusión económica.
+
+
+- METODOLOGÍA
+
+-- DISEÑO
+
+Estudio cuasiexperimental de tipo antes/después, con un grupo control.
+
+
+-- ÁMBITO DEL ESTUDIO
+
+La intervención se llevó a cabo en la totalidad del área de gestión sanitaria (AGS) Sur de Sevilla. Área rural-periurbana con un total de 220 médicos de AP y una población total de 402.284 habitantes. La AGS Osuna es un área rural y fue utilizada como control, constituida por un total de 100 médicos de AP y una población de 178.125 habitantes. Ambas tienen distintos hospitales de referencia.
+
+
+-- PERÍODO
+
+El estudio fue llevado a cabo desde la comercialización del biosimilar, en octubre de 2015, hasta agosto de 2016.
+
+
+-- INTERVENCIÓN
+
+Se diseñó una estrategia de intervención multimodal en dos fases consensuada entre médicos y enfermeras de AP, farmacéuticos del área y médicos especialistas en endocrinología y medicina interna mediante varias jornadas de trabajo .Figura 1
+
+
+--- FASE A. PRE-INTERVENCIÓN (DE OCTUBRE DE 2015 A ENERO DE 2016
+
+En el mes −2 se enviaron e-mails a todos los directores de unidad de gestión clínica (UGC) de AP donde se proporcionaron consideraciones estratégicas y económicas sobre la importancia del apoyo a los biosimilares para la sostenibilidad del sistema sanitario en general y para los resultados del AGS Sur en particular. El correo se acompañó con información técnica sobre biosimilares, y más concretamente sobre IGBio.
+En el mes −1 la Comisión de Farmacia del Hospital, tras deliberación y valoración de la documentación, determinó la sustitución en la guía farmacoterapéutica del hospital de la IGRef por el biosimilar. Para este proceso se realizó una actividad formativa sobre toda la enfermería del hospital y los servicios clínicos más directamente implicados.
+
+
+--- FASE B. INTERVENCIÓN (DE FEBRERO A AGOSTO DE 2016
+
+Sesiones formativas. Consistió en una sesión educativa impartida a cada UGC AP del AGS Sur con el objetivo principal de disminuir el grado de incertidumbre ante los biosimilares en general y ante la IGBio en particular. La intervención se impartió en el mes de febrero (mes 0). Las características de la sesión se recogen en la tabla 1.
+Boletín farmacoterapéutico. Se diseñó un boletín farmacoterapéutico , que fue enviado en formato papel a cada uno de los médicos de AP. Además, parte de ellos fueron depositados en la sala de reuniones de sus centros de salud. El boletín refleja información resumida sobre qué es un medicamento biosimilar, la IGBio, evidencia científica y conclusiones .
+Informe de retroalimentación. Mes a mes tras la intervención formativa fue enviado a cada médico de familia durante un periodo de 6 meses. Las características se detallan en la tabla 1.
+
+
+-- DATOS RECOGIDOS
+
+Número de pacientes con prescripción de insulina glargina tanto biosimilar como de referencia y dosis diaria definida (DDD, según la clasificación de la World Health Organisation Collaborating Centre for Drug Statistics Methodology) durante los meses de duración del estudio y por cada médico de AP. Además se recogió el número de envases consumidos de ambas insulinas, a través de la aplicación Microestrategy sobre la bases de datos del programa de facturación de recetas el Sistema Andaluz de Salud (SAS).
+Los datos de pacientes con IGBio y de referencia, las DDD consumidas y el número de envases se analizaron mensualmente desde la comercialización (−4) hasta el mes +6 después de la intervención, tanto en el área de intervención como en la de control.
+Para la caracterización de los médicos de AP se recogieron edad, sexo, formación (con o sin especialidad MIR), tipo de contrato (fijo, interino o eventual), años de experiencia y número de pacientes diabéticos por cupo. Estos datos fueron solicitados por los directores de cada UGC a través de un cuaderno de recogida de datos elaborado por el servicio de farmacia.
+
+
+-- RESULTADOS A EVALUAR
+
+Para la evaluación de la intervención se seleccionaron indicadores que fueran capaces de medir cambios en los hábitos de prescripción a lo largo del tiempo: porcentajes de pacientes con IGBio y porcentajes de DDD de IGBio consumidas respecto a la totalidad de glargina.
+El ahorro se calculó en base a la diferencia en PVP/envase de IGBio respecto a la insulina glargina de referencia.
+Este estudio se llevó a cabo en la población total de pacientes diabéticos con prescripción de glargina (biosimilar o de referencia), sin tener en cuenta si eran pacientes nuevos al tratamiento o pacientes a los que se le realizó la sustitución de la IGRef por la IGBio.
+
+
+-- EVALUACIÓN DE LA EFECTIVIDAD
+
+Para evaluar la efectividad de la intervención realizada se relacionaron todos los indicadores del estudio descriptivo en el área intervención respecto área control en los periodos pre y post intervención. Además, la intensidad de incorporación en la práctica clínica se calculó mediante los incrementos acumulados en ambos períodos.
+Por último, se evaluaron los resultados respecto a las características de los médicos prescriptores con el objetivo de identificar factores que hayan podido influir en el estudio.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Tras explorar estadísticamente los datos, estos fueron descritos según las dos AGS (Sur y Osuna), así como las características demográficas de los médicos prescriptores. Las variables cuantitativas (edad, años de experiencia, número de pacientes por cupo, indicadores porcentuales de pacientes o DDD con biosimilar del total o sus incrementos en los periodos pre y post intervención) se expresaron con medianas y cuartiles por ser distribuciones asimétricas (el valor absoluto del coeficiente de asimetría superó el doble de su error). Las variables cualitativas (sexo, formación y tipo de contrato) se resumieron con porcentajes.
+El estudio de las asociaciones entre variables cualitativas y AGS se abordó aplicando la prueba chi-cuadrado o los métodos no asintóticos de simulación de Montecarlo y la prueba exacta. La prueba t de Student para dos muestras independientes se aplicó para analizar si los indicadores porcentuales de pacientes o DDD con biosimilar del total o sus incrementos en los periodos pre y post intervención diferían por AGS. Las diferencias de medias significativas se cuantificaron con intervalos de confianza al 95%. Ante la no normalidad de las distribuciones de las variables clínico-demográficas cuantitativas según AGS, se utilizó la prueba no paramétrica U de Mann-Whitney para contrastar sus diferencias por AGS y se calcularon intervalos de confianza de Hodges-Lehman para las diferencias de medianas significativas de muestras independientes. El análisis del cambio que se produce en los indicadores incremento en pacientes o DDD entre los periodos pre y post intervención en cada AGS, se realizó con el test no paramétrico de Wilcoxon y se calculó un intervalo de confianza para la mediana de la diferencia de Hodges Lehman para muestras relacionadas.
+El análisis de los datos se realizó con el programa estadístico IBM SPSS 23.0.
+
+
+- RESULTADOS
+
+En el momento de la comercialización de la IGBio, el número de pacientes diabéticos en tratamiento con insulina glargina era de 2.276 en el AGS Sur y de 1.256 en el AGS Osuna. De los pacientes diabéticos en la AGS Sur y la AGS de Osuna la prevalencia de uso de insulina glargina fue del 7,75 y del 8,99%, respectivamente.
+
+
+-- IMPACTO DE LA INTERVENCIÓN EN LA PRESCRIPCIÓN DEL BIOSIMILAR GLARGINA
+
+El porcentaje de pacientes en tratamiento con IGBio respecto al total de pacientes con insulina glargina a los 6 meses fue del 14,68% en el área de intervención y del 7,80% en el control (p < 0,0005), con un intervalo de confianza al 95% (2,5-4,7) . En la figura 2 se muestra la evolución mensual de ambos indicadores, el porcentaje de pacientes y de DDD. El incremento relativo acumulado en el uso de insulina glargina fue 3,73 mayor en ambas variables (pacientes y DDD) tras la intervención en la AGS de intervención que en la de control.Figura 2
+En el periodo pre intervención, el ahorro derivado de la prescripción de la IGBio fue de 3.515€ en el AGS Sur, lo que supuso un 0,48% del total del coste de glargina. En el AGS Osuna fue de 2.095,7€, un 0,55% del coste total. Sin embargo, en el periodo post intervención el ahorro fue de 29.444€ (2,39%) en nuestra área intervención y de 7.939€ (1,21%) en el área control, con una razón entre áreas de casi el doble, 1,97.
+
+
+-- PRESCRIPCIÓN DEL BIOSIMILAR SEGÚN CARACTERÍSTICAS DE LOS MÉDICOS PRESCRIPTORES
+
+Las características de los médicos en ambas áreas se muestran en la tabla 3. La población de médicos en ambas áreas es homogénea, excepto para la situación laboral y los años de experiencia. Respecto al estudio por subgrupos dentro del área intervención, aunque no se han detectado diferencias significativas, se observa que los resultados obtenidos con los médicos menores de 50 años, varones, con formación especializada, con una situación laboral no estable y con menos de 20 años de experiencia son superiores .
+
+
+- DISCUSIÓN
+
+Este estudio muestra la eficacia y la viabilidad de una estrategia de intervención basada en sesiones informativas, información en papel y retroalimentación de la información, y pone en evidencia el reconocimiento y el cambio de comportamiento en el patrón de prescripción en los facultativos de AP, poniendo de manifiesto la utilidad de este tipo de actuaciones.
+Davis et al., tras una revisión de la literatura sobre el efecto de las intervenciones de educación médica sobre el desempeño de los médicos y los resultados de salud, concluyeron que las sesiones interactivas de educación médica continua pueden afectar el cambio en la práctica profesional y, en ocasiones, en los resultados de la atención de la salud, y que las sesiones didácticas no parecen tener impacto en la mejora de la práctica profesional. Son más eficaces las intervenciones sistemáticas basadas en la consulta y las visitas ampliadas que incluyen detalles académicos. Otros estudios también describen cómo técnicas múltiples educativas tienen más éxito en el cambio de comportamiento de los prescriptores que técnicas únicas, . Sin embargo, aunque algunos describen que las medidas que utilizan formación son las más útiles, otros opinan que su aplicación no puede ser excesiva. Hay estudios que demuestran que más de 2 o 3 intervenciones al año implica perder efectividad, . Medidas que hacen hincapié en el suministro de información sobre la propia prescripción también han demostrado ser efectivas y mantener su efectividad a largo plazo. Sin embargo, las que monitorizan aspectos de la prescripción sobre los que no existe un claro consenso entre los médicos y/o se limiten a representar el perfil de prescripción no parecen ser capaces de mejorar significativamente la calidad de prescripción. Nuestro estudio está dentro de este perfil, ya que los biosimilares son medicamentos no totalmente aceptados y/o conocidos entre los prescriptores de AP.
+Un estudio reciente de la Sociedad Española de Medicina Rural y General (SEMERGEN) enseña que un 58% de médicos encuestados no saben describir correctamente qué es un biosimilar, y tres de cada cuatro equiparan su manejo al de un genérico. Por tanto, nuestro estudio demuestra que tras una intervención educativa y de retroalimentación se puede mejorar el conocimiento de estos fármacos y cambiar su perfil de aceptación.
+La prescripción de medicamentos constituye un proceso de toma de decisiones que el médico de familia ha de llevar a cabo con gran frecuencia, de gran variabilidad en su práctica y que supone una de las causas más importantes de consumo de recursos en el SNS. La selección de los medicamentos debe realizarse según los criterios que tradicionalmente definen el uso racional de los mismos: eficacia, seguridad, economía y adecuación, , , . Además, en algunos casos la introducción en el mercado farmacéutico de nuevos medicamentos contribuye a aumentar entre los facultativos el grado de incertidumbre en la práctica médica habitual. Por ello, conseguir que la buena información, la buena selección y la buena voluntad guíen la prescripción médica es una actuación que debería desarrollarse en los sistemas de salud. Por todo ello, plantear estrategias similares a la realizada en este trabajo, sobre todo para nuevos fármacos que se incorporan al arsenal farmacoterapéutico, puede ser una medida eficaz no solo para formar e informar a los profesionales, sino también para alcanzar un uso racional de los medicamentos. Es más, mejoras en la metodología de las intervenciones serán esenciales para mejorar el uso de medicamentos y valorar impactos clínicos y económicos.
+Por último, nuestro estudio muestra como ciertas características de los prescriptores apuntan a un mayor cambio en la prescripción del biosimilar tras la intervención, aunque no llegó a ser significativo. El indicador evaluado en la intervención aparece algo más asociado a un perfil prescriptor un poco más joven, con formación MIR, con menos años de experiencia y situación laboral menos estable. Los profesionales con más años de experiencia parecen ser más conservadores a la hora de modificar sus patrones de prescripción. Estos resultados deben considerarse preliminares, ya que el número de médicos probablemente no sea suficiente para evaluar correctamente los resultados. Otros autores también han descrito que el comportamiento de prescripción del médico puede depender de sus características personales, de los años de experiencia, de la motivación, de las estrategias de marketing utilizadas por las industrias farmacéuticas, de las demandas de la sociedad y de los pacientes, del conocimiento de las directrices, de la confianza y de las acciones regulatorias, , , .
+Entre las limitaciones del estudio podría estar el hecho de que la comercialización de una nueva presentación de insulina glargina con el doble de concentración que las ya disponibles en el mercado (dosis 300 UI/ml) en marzo de 2016, justamente un mes después de nuestra intervención, ha podido ser un sesgo negativo importante en nuestro estudio, minimizando los resultados obtenidos.
+Otra limitación de nuestro estudio ha sido que el hospital de referencia para ambas áreas del estudio no son el mismo. El hospital del área de Osuna incluía en su guía farmacoterapéutica tanto la IGRef como la IGBio, mientras que el área intervención solo incluía IGBio. Esto podría haber generado un sesgo de selección por parte del profesional hospitalario del área control, que podría haber influido en la prescripción en AP. Sin embargo, dada la brevedad del estudio, no parece probable que el efecto esté mediado por los ingresos hospitalarios.Lo conocido sobre el tema•Los medicamentos biosimilares aportan una competencia al mercado brindando una oportunidad para la sostenibilidad del sistema sanitario y un mayor acceso a una atención médica asequible.•Las actividades formativas y de retroalimentación en atención primaria pueden mejorar la práctica clínica.Qué aporta este estudio•Estrategias encaminadas a la formación e información, así como el seguimiento a los profesionales sanitarios, inciden en el patrón de prescripción de biosimilares.•El perfil profesional prescriptor no parece influir en los cambios en el patrón de prescripción de estos fármacos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

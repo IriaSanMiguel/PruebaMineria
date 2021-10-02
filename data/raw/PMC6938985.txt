@@ -1,0 +1,115 @@
+IMPACTO DE LOS FACTORES DE RIESGO CARDIOVASCULAR EN LA POBLACIÓN EXTREMEÑA: APORTACIÓN DE LA COHORTE HERMEX PARA UNA ESTRATEGIA PREVENTIVA<SUP
+
+
+- INTRODUCCIÓN
+
+Las enfermedades cardiovasculares son ya la primera causa de mortalidad y de años de vida perdidos en el mundo, siendo sus manifestaciones más frecuentes la cardiopatía isquémica y la enfermedad cerebrovascular. En Extremadura continúan siendo la primera causa de muerte y de ingresos hospitalarios, presentando tasas superiores a la media nacional desde hace décadas. Las causas de esta situación no han sido suficientemente estudiadas, pero se han encontrado prevalencias de los factores de riesgo (FR) clásicos en población general superiores a otras comunidades. Actualmente se consideran la hipertensión arterial, el tabaquismo, la glucemia elevada, la obesidad y la hipercolesterolemia como los FR que más carga de enfermedad originan en el mundo.
+La fracción atribuible poblacional (FAP) es una medida del impacto sobre la salud de una población de distintas conductas y FR. Es un indicador hipotético de cuánta incidencia de una enfermedad podríamos reducir si hiciéramos desaparecer un FR, asumiendo que existe una relación causal entre ellos. Se ha recomendado su cálculo periódico sobre las poblaciones objeto de intervenciones preventivas, puesto que la magnitud de los riesgos y las prevalencias de exposición cambian en el tiempo.
+En Extremadura nunca se ha calculado el peso que tiene cada uno de ellos, como responsable de la carga global de estas enfermedades. Una de las primeras aportaciones de este proyecto fue la detección de una elevada prevalencia de tabaquismo, obesidad y diabetes. Por otro lado, las recomendaciones actuales sobre prevención cardiovascular promueven que las intervenciones sean multifactoriales, adaptadas a las características de las poblaciones sobre las que se va a intervenir y priorizadas según criterios de coste-efectividad.
+El objetivo de este análisis ha sido determinar la FAP de los FR clásicos para la aparición de la enfermedad cardiovascular en la población extremeña, procedente del seguimiento de una cohorte durante 7 años, a fin de recomendar intervenciones prioritarias que puedan reducir su incidencia.
+
+
+- MÉTODOS
+
+-- DISEÑO Y PARTICIPANTES
+
+Estudio de cohorte conformada por una muestra poblacional de 2.833 sujetos, seleccionada aleatoriamente y representativa de la población entre 25 y 79 años, procedente del área de salud Don Benito-Villanueva de la Serena (Badajoz). Las características de la muestra, tasa de participación y la metodología de medición de los FR han sido anteriormente publicadas. La muestra fue seleccionada mediante la generación de números aleatorios sobre los 75.455 habitantes, ordenados por fecha de nacimiento, que constituían la población diana, y se obtuvo una tasa de respuesta del 80,5%.
+
+
+-- VARIABLES
+
+El estudio de la muestra transcurrió entre 2007 y 2009, mediante una encuesta estandarizada que registró antecedentes de enfermedad cardiovascular (cardiopatía isquémica o ictus), tabaquismo, hipertensión arterial, hipercolesterolemia y diabetes mellitus, así como si recibían tratamiento farmacológico para su control. Se realizaron mediciones estandarizadas de parámetros biológicos (peso, talla, presión arterial, glucemia, hemoglobina glucosilada, colesterol total, colesterol LDL por método directo, colesterol HDL) con los participantes en ayunas, de al menos 10 horas, tras reposo nocturno.
+Se definieron como variables explicativas para este estudio los siguientes FR:•Obesidad: Índice de masa corporal ≥ 30.•Obesidad central: perímetro abdominal en hombres > 102 cm y en mujeres > 88 cm.•Tabaquismo activo: fuma actualmente cualquier cantidad de tabaco o abandonó este hábito hace menos de un año.•Hipertensión arterial: recibían tratamiento farmacológico o presentaban una presión arterial ≥ 140/90 mm Hg (media entre la segunda y tercera medida).•Hipercolesterolemia: recibían tratamiento farmacológico o tenían una ratio colesterol total/colesterol HDL > 5 en hombres y > 4,5 en mujeres.•Diabetes mellitus: recibían tratamiento farmacológico, presentaban glucemia basal plasmática en sangre venosa ≥ 126 mg/dl o una HbA1c ≥ 6,5%.
+La variable de resultados se definió como un primer evento cardiovascular, sin antecedentes previos, desde su reclutamiento hasta el 31 de diciembre de 2015. Esta consistió en una variable combinada de cualquiera de las siguientes manifestaciones: angina de pecho, infarto agudo de miocardio, ictus, ictus minor o transitorio, arteriopatía periférica sintomática de los miembros inferiores y muerte cardiovascular.
+Para determinar la aparición de los eventos se utilizaron 3 fuentes; el registro nacional de defunciones, la base de datos asistencial del Servicio Extremeño de Salud y una encuesta de salud cardiovascular estandarizada que se remitió por carta a cada uno de los participantes. Una descripción más detallada de los procedimientos de localización, definición y confirmación de los eventos cardiovasculares puede consultarse en la tabla 1.
+
+
+--- ANÁLISIS
+
+Se describieron las variables cuantitativas mediante media (desviación estándar) o mediana (rango intercuartílico) según el tipo de distribución. Para el análisis de las diferencias se utilizó la prueba «t» de Student o U de Mann-Whitney respectivamente. Las variables cualitativas se definieron mediante la frecuencia absoluta y relativa. Para la comparación de proporciones se usó la prueba Chi cuadrado.
+Se determinó el riesgo relativo global y por sexo, con el intervalo de confianza al 95%, de las distintas definiciones de las variables explicativas que podían definir población en riesgo. Se preseleccionaron para su inclusión en el modelo multivariante las definiciones habituales de los factores de riesgo y aquellas que presentaron mayor magnitud de asociación.
+Se obtuvieron las hazard ratio (HR) de cada FR, totalmente ajustadas, para el cálculo de sus FAP respectivas, mediante el modelo de riesgos proporcionales de Cox. El criterio de entrada fue presentar asociación estadística en la HR ajustadas por edad y sexo. El método utilizado fue introducir, realizándose en orden decreciente de la magnitud de la asociación. El criterio de salida se predefinió por la pérdida de la asociación y que modificara menos del 10% los coeficientes de las variables ya incluidas.
+La FAP de cada factor de riesgo se calculó mediante la fórmula de Levin, usando para el cálculo de los intervalos de confianza los límites inferiores y superiores de las HR de cada FR, asumiendo que la variabilidad en la estimación de la prevalencia es despreciable en comparación con el riesgo.
+Se realizó también un análisis de sensibilidad de la mortalidad total, para asegurar que las intervenciones propuestas no pudieran afectar negativamente a la supervivencia y se cuantificó el riesgo residual asociado a los FR tratados y controlados comparado con su ausencia. Para los cálculos estadísticos se utilizó el programa IBM SPSS Statistic 20.
+
+
+- RESULTADOS
+
+-- PARTICIPACIÓN
+
+De los 2.833 participantes iniciales de la cohorte se excluyeron 103 por antecedentes de enfermedad cardiovascular, quedando para el seguimiento 2.730. En 61 casos no se llegó a conocer la situación de salud al final del seguimiento, quedando para el análisis 2.669, el 94,2% de la cohorte inicial.
+
+
+-- SEGUIMIENTO Y CARACTERÍSTICAS DE LA COHORTE
+
+La mediana de seguimiento fue de 6,9 años (RI 6,5-7,5), correspondiendo a 18.056 pacientes-año. Entre las características de la cohorte destacaron la media de edad de 50 años, un 56,4% fueron mujeres y la elevada prevalencia general de FR, que fue superior en hombres .
+
+
+-- INCIDENCIA DE EVENTOS CARDIOVASCULARES
+
+La tasa de incidencia fue de 7,42 eventos/1.000 pacientes-año (6,17- 8,67), siendo superior en hombres ([9,64 7,51-11,77]) con respecto a la mujer (5,62 [4,14-7,09]). La incidencia acumulada global y por eventos componentes se presentan en la tabla 3.
+
+
+-- RIESGOS RELATIVOS
+
+La edad mayor de 50 años se constituyó como el factor que confiere más riesgo y fue de mayor magnitud en mujeres. En general la mayoría de las definiciones confirieron riesgo, con algunas excepciones, como el tabaquismo activo, en ambos sexos, y la obesidad, el colesterol total y el colesterol LDL en hombres. La hipercolesterolemia al no tener una definición única se presenta con distintos parámetros lipídicos . La distribución de factores sociodemográficos y clínicos, entre las personas que sufrieron o no algún evento cardiovascular, se presentan en la tabla 5.
+
+
+-- HAZARD RATIOS
+
+Quedaron incluidos en el modelo final como factores de riesgo independientes: edad, sexo, hipertensión arterial, hipercolesterolemia, diabetes y tabaquismo . La obesidad no mantuvo esta relación con el ajuste de edad y sexo, ni mostró interacción con el resto de FR. La hipertensión arterial se constituyó como el factor de riesgo con mayor magnitud de asociación. En el análisis por sexos la edad, la hipertensión arterial y la diabetes fueron más determinantes en mujeres, mientras que la hipercolesterolemia y la hipertensión determinaron mayor riesgo en hombres.
+En el análisis del riesgo para la mortalidad global fueron factores de riesgo independientes: edad, sexo masculino, tabaquismo, hipertensión y diabetes .
+
+
+-- FRACCIÓN ATRIBUIBLE POBLACIONAL
+
+La hipertensión arterial fue el FR que mayor riesgo confirió en la población, con un 31%, seguido de la hipercolesterolemia con el 27% y el tabaquismo con el 18% .Figura 1
+
+
+-- RIESGO RESIDUAL
+
+Los pacientes con factores de riesgo conocidos, tratados farmacológicamente y bien controlados presentaron un riesgo superior a los pacientes sin dicho factor de riesgo, en un análisis de regresión de Cox, ajustado por edad y sexo .Figura 2
+
+
+- DISCUSIÓN
+
+Con este trabajo mostramos, por primera vez, la importancia de los FR clásicos en la incidencia de la enfermedad cardiovascular en población extremeña, una comunidad con un riesgo mayor a la media nacional, respaldando una estrategia preventiva específica para esta comunidad.
+
+
+-- ESTRATEGIAS PREVENTIVAS
+
+El tipo de intervención más adecuado depende de la magnitud que alcanza la FAP de cada factor de riesgo. Cuando esta es alta o moderada, como los casos de hipertensión arterial, hipercolesterolemia y tabaquismo, ofrece la posibilidad de intervenciones poblacionales, además de las individuales, dado que un descenso general del nivel de exposición resultaría en importantes beneficios para la salud de dicha población. Cuando las FAP son bajas las intervenciones preventivas deben ser preferiblemente individuales y dirigidas a tratar a las personas con alto riesgo. Estas deberían ser identificadas mediante cribado o por detección oportunista, pero siempre que las actuaciones posteriores hayan demostrado reducir ese riesgo, .
+
+
+-- FRACCIÓN ATRIBUIBLE POBLACIONAL DE LOS FACTORES DE RIESGO
+
+La hipertensión arterial es actualmente el factor de riesgo que mayor carga de enfermedad crónica confiere en el mundo y el segundo en nuestro país, donde lleva de forma invariable desde hace al menos 3 décadas. También se ha estimado que podría estar asociado con el 50% de la mortalidad cardiovascular, aunque los datos procedentes de cohortes dan resultados para la cardiopatía isquémica del 33-34%, , similar a nuestros hallazgos. En nuestro medio la mayor intensidad del esfuerzo para su control se centra a nivel individual, pareciendo haber disminuido respecto a épocas pasadas, cuando recibía mayor atención, posiblemente por el estímulo comercial de los nuevos fármacos antihipertensivos. Los autores reclaman una estrategia nacional para este importante factor de riesgo, que incluya políticas sanitarias dirigidas a facilitar los cambios en los hábitos de vida que reduzcan el riesgo de padecer hipertensión arterial y mejoren su control. Las intervenciones no farmacológicas propuestas para personas hipertensas, junto a medidas legislativas, que regulen la cantidad de sodio en las comidas procesadas serían intervenciones apropiadas para realizar sobre la población general sin generar daño adicional.
+El colesterol total y el LDL no discriminaron adecuadamente las poblaciones en riesgo en este estudio, por lo que usamos el índice de Castelli que ha mostrado mejor capacidad predictiva en otras cohortes. Los motivos pudieron ser por la inclusión de los ictus hemorrágicos y embólicos en la variable de resultados, donde el papel de la hipercolesterolemia puede ser irrelevante o menor. La FAP, obtenida con este índice, fue intermedio entre el 42% para el colesterol LDL y el 22% del colesterol total para la cardiopatía isquémica de otras cohortes.
+El tabaco es el factor de riesgo que más contribuye a los años de vida perdidos ajustados por discapacidad en España y el segundo en el mundo, tanto por su relación causal con las enfermedades cardiovasculares como por las neoplásicas y respiratorias crónicas. Se ha estimado que puede ser el responsable de hasta el 15% de la mortalidad en España. La FAP que presentamos, del 18,8%, también se encuentra entre el 10% y el 45% obtenida por otras cohortes. La asociación encontrada en nuestro estudio entre tabaquismo activo y eventos cardiovasculares fue débil y no homogénea para los distintos sexos y estratos de edad. Se encontró una asociación inversa en las mujeres mayores de 50 años, que concentraban la mayoría de eventos de este sexo y nunca habían fumado, actuando edad y sexo como factores de confusión en el análisis bivariante del global de la muestra.
+Obesidad y diabetes son los que FR que más aumentan en todo el mundo, habiéndose ya alertado de que pueden hacer variar la tendencia descendente de la cardiopatía isquémica de nuestro país. La obesidad no mostró asociación independiente con la enfermedad cardiovascular, similarmente a otros, . Se han expuesto razones como que el riesgo lo confiere a través de otros FR clásicos, a los que está fuertemente asociado o porque necesita de un tiempo de exposición más largo, a través de otros mecanismos. La diabetes presentó una FAP baja (8%) y similar a la de otras cohortes (4-6%), , lo que la descarta inicialmente para intervenciones poblacionales, sin embargo sí deben serlo sus principales determinantes, al menos para la tipo 2, como son la obesidad y el sedentarismo.
+
+
+-- RIESGO CARDIOVASCULAR RESIDUAL
+
+El riesgo residual ha sido definido como aquel que persiste después de haber alcanzado los objetivos de control en sus FR, siendo en la dislipidemia donde más se ha estudiado. Este riesgo creemos que es relevante por su magnitud y porque no es habitualmente cuantificado, pudiendo hacer cuestionable la verdadera reversibilidad de estos FR. En un reciente metaanálisis sobre terapia antihipertensiva se apreció que es mayor cuanto más riesgo basal tiene la persona.
+
+
+-- RECOMENDACIONES EN SALUD PÚBLICA
+
+Las intervenciones preventivas a nivel poblacional más recomendables serán aquellas que produzcan beneficios sobre varios FR, sobre otras enfermedades además de las cardiovasculares, y que sean seguras, . Para responder a esta última cuestión se analizaron los riesgos de los distintos FR con respecto a la mortalidad total, no siendo protector ninguno de ellos. El tabaquismo, que no había mostrado asociación estadística con la enfermedad cardiovascular en el análisis bivariante, se convirtió en el principal factor de riesgo para la mortalidad después del ajuste por el resto, como consecuencia de su relación con otras enfermedades mortales.
+
+
+-- FORTALEZAS Y LIMITACIONES
+
+Consideramos factores que reforzaron la validez interna de este estudio las escasas pérdidas de seguimiento, prevalencias y riesgos proceden de la misma cohorte y el ajuste total del riesgo, para controlar los posibles factores de confusión. La utilización de una variable de resultados combinada pudo haber ampliado la validez externa del estudio, pues abarca un mayor espectro de manifestaciones cardiovasculares, donde los efectos de los distintos FR no son semejantes. La obtención de resultados significativos en tan limitado periodo de seguimiento nos hace pensar que los beneficios del control de los FR se pudieran obtener también más rápidamente. La extrapolación de sus resultados, pensamos, debería ir dirigida principalmente a la población rural de Extremadura y comunidades circundantes, con nivel socioeconómico y cultural similar, así como en todas aquellas con prevalencias de exposición semejantes.
+Podemos concluir destacando que la hipertensión arterial es el factor de riesgo que mayor carga de enfermedad cardiovascular confiere en nuestro medio, seguido de la hipercolesterolemia y el tabaquismo. Estas deberían ser opciones prioritarias para intervenciones en la comunidad, tanto objetivos para los equipos de atención primaria como para las direcciones de salud pública de las distintas comunidades.Lo conocido sobre el tema•Hipertensión arterial, hipercolesterolemia, diabetes mellitus y tabaquismo son factores de riesgo mayores para la enfermedad cardiovascular.•Las estrategias preventivas abarcan intervenciones poblacionales e individuales para la prevención y control de los factores de riesgo.•El tipo de estrategia debería estar basado en el riesgo basal de la población, la prevalencia de los factores de riesgo y la fuerza de la asociación con la enfermedad cardiovascular.Lo que aporta este estudio•La hipertensión arterial es el factor de riesgo que más carga de enfermedad cardiovascular genera en población extremeña.•Se deberían priorizar intervenciones poblacionales para la prevención y control de la hipertensión arterial, hipercolesterolemia y tabaquismo, como medio para reducir las enfermedades cardiovasculares.•Se alerta del alto riesgo residual que persiste entre las personas con factores de riesgo conocidos, tratados y controlados.
+
+
+- FINANCIACIÓN
+
+Proyecto de Investigación en Salud (PI 14/00691). IS Carlos III. Cofinanciado con el Fondo Europeo de Desarrollo Regional (FEDER). Programa de intensificación de la actividad investigadora en el Servicio Extremeño de Salud (2014). Programa para la contratación laboral de personal técnico de apoyo a la investigación clínica (Servicio Extremeño de Salud). Apoyo administrativo y técnico de laboratorio por la Gerencia de Área de Salud Don Benito-Villanueva de la Serena (Servicio Extremeño de Salud).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

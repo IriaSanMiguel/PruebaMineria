@@ -1,0 +1,67 @@
+LA EXPERIENCIA DEL TRABAJO CON DATOS DE MOVILIDAD PARA DETECTAR DESIGUALDADES DURANTE LA PANDEMIA DE COVID-19
+
+
+- INTRODUCCIÓN
+
+España ha sido uno de los países más afectados por la pandemia de COVID-19 a lo largo del año 2020, aunque este impacto ha sido desigual, tanto geográficamente como por nivel socioeconómico. Con el objetivo de mitigar los impactos de la pandemia, España y otros países tomaron una serie de medidas para reducir la transmisión comunitaria. El confinamiento domiciliario entre los meses de marzo y mayo fue la medida más estricta, incluyendo un periodo de «hibernación económica» desde el 30 de marzo hasta el 9 de abril, durante el cual solo estuvieron permitidos los desplazamientos esenciales.
+La apuesta por medidas políticas que buscaban la reducción de interacciones sociales y de movimientos se tradujo en un descenso de la movilidad urbana. Este descenso fue heterogéneo dentro de las ciudades, al existir una parte significativa de la fuerza productiva que no puede trabajar desde casa, especialmente en aquellos trabajos considerados esenciales (comercio, sanidad, transporte, limpieza, mantenimiento, etc.), en los que hay una sobrerrepresentación de migrantes o de minorías y de mujeres. Esto lleva a una potencial menor reducción de la movilidad en áreas con mayor privación socioeconómica, que causa una pérdida de efectividad de dichas medidas en la reducción de la transmisión comunitaria en las zonas más empobrecidas.
+En esta nota metodológica se describe el método empleado para reutilizar los datos de movilidad del Instituto Nacional de Estadística (INE) y explorar así diferencias socioeconómicas en los cambios de movilidad utilizando el índice de privación creado por la Sociedad Española de Epidemiología. Se describe un ejemplo para mostrar la aplicabilidad de la metodología en Asturias.
+
+
+- DESCRIPCIÓN DEL MÉTODO
+
+La figura 1 refleja el proceso metodológico aquí descrito, que sigue cuatro pasos: 1) descarga y tratamiento de los datos; 2) unión espacial de los datos; 3) análisis estadístico; y 4) producción y análisis cartográfico.Figura 1
+
+
+-- DESCARGA Y TRATAMIENTO DE DATOS
+
+El INE ha puesto a disposición del público datos de movilidad antes, durante y después del estado de alarma como parte de su proyecto EM-1, EM-2 y EM-3. Estos datos están disponibles por comunidad autónoma, provincia y área de movilidad. Utilizamos los datos de áreas de movilidad, que son unidades espaciales de entre 5000 y 50.000 habitantes. En el caso de Asturias, la media es de 12.923 (desviación estándar [DE]: 8943) y 282 km2 (DE: 408).
+Estos datos están basados en telefonía móvil y consideran un número de indicadores correspondientes a cada área geográfica, incluyendo el número de personas que se estima que salen de su área de movilidad (%), y una matriz de movilidad (número de personas que se trasladan de un área a otra). En este caso, se construye un indicador resumiendo la proporción de personas que salieron de su área de movilidad. Este indicador se construye para seis periodos, correspondientes temporalmente a las diferentes fases de la pandemia y el posterior plan de desescalada: 1) antigua normalidad; 2) hibernación económica; 3, 4 y 5) fases una a tres de desescalada; y 6) nueva normalidad. Además, se elaboran indicadores de cambio relativo de movilidad en cada fase, con respecto a la antigua normalidad, mediante la ecuación Cambio = M1−M0M0, donde M1 es la movilidad en una fase específica y M0 es la movilidad en la antigua normalidad.
+Como fuente de datos socioeconómicos se utiliza el índice de privación socioeconómica creado por la Sociedad Española de Epidemiología con datos del censo de 2011, compuesto de siete indicadores que tienen en cuenta la calidad del empleo de los habitantes, su nivel de instrucción o su acceso a nuevas tecnologías. La unidad geográfica de esta fuente de datos es la sección censal, la más detallada disponible en España, de unas 1500 personas de media.
+
+
+-- UNIÓN ESPACIAL (SPATIAL JOIN
+
+Para poder realizar un análisis integrado de los datos de movilidad y de privación socioeconómica se lleva a cabo un proceso de unión espacial entre la capa de polígonos de áreas de movilidad y los centroides de cada sección censal, permitiendo asignar a cada sección censal el área de movilidad que la incluye. Seguidamente, se calcula una media del índice de privación para cada área de movilidad, resultando en una base de datos por área de movilidad, con variables que tipifican la movilidad en cada fase de la pandemia y un indicador de privación socioeconómica.
+
+
+-- PRODUCCIÓN CARTOGRÁFICA
+
+Se estudia el comportamiento de la movilidad a través de mapas de coropletas. Para poder estudiar simultáneamente la movilidad y la privación socioeconómica, se utilizaron mapas bivariados, que representan en dos escalas de colores diferentes, pero complementarias, los niveles de ambas variables simultáneamente.
+Se utilizaron herramientas de software geográfico (QGis 3.2.3) y estadístico (R 4.0.2.). Las capas correspondientes a las secciones censales se descargaron del INE.
+
+
+- APLICACIÓN PRÁCTICA
+
+Como ejemplo aplicado, se muestra un análisis de la asociación entre privación socioeconómica y movilidad durante las diferentes fases de la pandemia para todas las áreas de movilidad del Principado de Asturias. En la figura 2 se observa, por ejemplo, la relación entre la privación y la movilidad durante la hibernación económica en los diferentes puntos del Principado. En este estudio se aprecian zonas de mayor privación socioeconómica en las afueras de las tres urbes asturianas (Oviedo, Avilés y Gijón), y un mayor descenso de la movilidad en las zonas rurales del Principado.Figura 2
+La aplicabilidad de esta metodología es amplia y se puede cambiar la escala de trabajo con facilidad. En otro estudio utilizando esta misma metodología en el Área Urbana Funcional de Madrid, se encontró una fuerte asociación entre una mayor privación socioeconómica y un menor descenso de la movilidad durante todas las fases de la pandemia, aunque esta asociación fue más marcada en las primeras fases de la desescalada.
+
+
+- CONCLUSIONES
+
+El uso de los datos de movilidad presenta una oportunidad para estudiar desigualdades sociales ya existentes que se han acentuado con la pandemia de COVID-19. En el caso asturiano, las diferencias provienen de una contraposición urbana-rural, mientras que en Madrid se encuentran fuertes relaciones entre el índice de privación y la movilidad.
+Cabe destacar las limitaciones que tiene este tipo de metodología. El índice de privación se calculó con datos de 2011, y desde entonces pueden haberse producido cambios. La no concordancia de las unidades espaciales obliga a calcular el índice de privación a un nivel menos desagregado que aquel para el que fue originalmente diseñado, pudiendo producir el problema de la unidad de área modificable. Esto puede ser especialmente importante en Asturias, donde el tamaño de las áreas de movilidad es mayor que en Madrid.
+Esta metodología también puede extenderse mediante el empleo de análisis multinivel para estudiar la asociación entre las tasas de incidencia de COVID-19 a niveles más desagregados (secciones censales) con respecto a la movilidad en áreas de movilidad más grandes. Además, los ejemplos aquí mostrados se centran en un indicador sencillo sobre la proporción de personas que salieron de su área de movilidad, pero el INE también pone a disposición la matriz de movilidad completa. Este tipo de datos podrían permitir estudiar los impactos de los cierres perimetrales implementados en Madrid y Asturias, tanto en movilidad como en incidencia de COVID-19. Esto puede permitir mejorar el conocimiento de la realidad territorial a la que los planificadores, los políticos y el sistema sanitario se enfrentan.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Miguel Ángel Negrín Hernández.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+A. Glodeanu y U. Bilal se encargaron de la concepción y el diseño del estudio, la recogida de datos y su análisis e interpretación. A. Glodeanu escribió el artículo y tanto U. Bilal como P. Gullón realizaron su revisión crítica con importantes contribuciones intelectuales. Todos los autores han aprobado la versión final para su publicación. Para asegurar que todas las partes que integran el manuscrito han sido revisadas y discutidas entre los autores, con la finalidad de que sean expuestas con la mayor precisión e integridad, se elaboraron diferentes versiones por parte de los tres autores.
+
+
+- FINANCIACIÓN
+
+U. Bilal recibe apoyo de los National Institutes of Health de los Estados Unidos, bajo el proyecto NIH DP5OD26429.
+
+
+- DISPONIBILIDAD DE BASES DE DATOS Y MATERIAL PARA RÉPLICA
+
+Los datos de movilidad y unidades espaciales utilizados en los ejemplos de aplicabilidad de la metodología pueden ser descargados en línea del Instituto Nacional de Estadística, quien hizo públicos los datos de su Estudio de Movilidad EM-2: ht****tps://w***ww.ine.es/experimental/movilidad/experimental_em.htm.
+Los datos del índice de privación pueden ser descargados de ht***tps://w****ww.sciencedirect.com/science/article/pii/S0213911119302729 o ht****tps://w***ww.seepidemiologia.es/gruposdetrabajo.php?contenido = gruposdetrabajosub6.
+La cartografía del Principado de Asturias, así como el ejemplo madrileño, pueden ser consultados en alta calidad en el repositorio en línea creado para esta nota: ht***tps://osf.io/35r6d/.
+Software empleado: QGis 3.2.3 y R 4.0.2.

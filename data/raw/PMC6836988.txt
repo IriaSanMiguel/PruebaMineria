@@ -1,0 +1,81 @@
+SÍNTOMAS NEUROPSIQUIÁTRICOS COMO FACTOR DE CONFUSIÓN EN LA DETECCIÓN DE LA DEMENCIA
+
+
+- INTRODUCCIÓN
+
+La prevalencia de la demencia experimenta un crecimiento exponencial a partir de los 65 años. A pesar de la importancia de la detección precoz, se produce un retraso medio en el diagnóstico de entre 29 y 37 meses desde el inicio de la enfermedad. El retraso en el diagnóstico empeora el pronóstico, la supervivencia y la calidad de vida de los pacientes. Se han señalado varios factores responsables de este retraso en la detección precoz desde atención primaria (AP), tales como que sean varones, que tengan demencia leve y que esta no sea de tipo Alzheimer, comorbilidad con trastornos psiquiátricos como depresión y que tengan gran afectación de las actividades de la vida diaria. El diagnóstico de demencia según la Sociedad Española de Neurología se define como una alteración primaria en la conducta y que no exige una alteración de la memoria. Estos criterios son adecuados para el diagnóstico temprano de la enfermedad de Alzheimer típica, pero también para las demencias de otro origen en las que la memoria suele verse relativamente preservada.
+La clínica inicial de la demencia, igual que sus múltiples causas, es muy heterogénea y en muchos casos no cursa con alteración de la memoria, y ni siquiera detección por parte del cuidador principal; por ello son de tanta utilidad las pruebas de cribado. Se recomienda comunicarse a solas con el cuidador para que pueda comentar cosas que no explicaría delante del paciente. La Sociedad Española de Psicogeriatría recomienda para casos en los que aparecen síntomas neuropsiquiátricos el uso del Mini Mental State Examination (MMSE) como herramienta de cribado por su rapidez de administración y cantidad de información que proporciona. Una puntuación menor o igual a 23 se ha descrito como el mejor punto de corte y de 17/18 para analfabetos. A pesar de ello, el retraso en el diagnóstico pone de manifiesto una falta de herramientas de detección, . Los síntomas psiquiátricos pueden interferir en la detección del deterioro cognitivo, están presentes en más de un tercio de los pacientes y su prevención y tratamiento mejoran la calidad de vida del paciente y de los cuidadores, , , . Para su evaluación se recomienda el Inventario Neuropsiquiátrico de Cummings (NPI). Los síntomas neuropsiquiátricos más frecuentes son la apatía y la depresión, incluso en estados preclínicos y relacionados con peores habilidades cognitivas y funcionales, . En una muestra de población anciana española se vio que las mujeres tenían más frecuentemente trastornos psiquiátricos y que la edad, la severidad de la enfermedad física, el soporte social escaso y los antecedentes psiquiátricos están también relacionados.
+En la ciudad de Barcelona a finales de 2003 se creó un equipo de psiquiatría domiciliaria (Equipo Multidisciplinar de Soporte Especializado [EMSE]) con el objetivo de atender a pacientes con trastorno mental severo (TMS). Con el fin de no solapar recursos se establecieron unos criterios de inclusión y exclusión. Entre los criterios de exclusión cabe destacar la presencia o sospecha de deterioro cognitivo.
+Los objetivos principales del estudio son valorar el grado de detección de deterioro cognitivo en pacientes derivados desde AP al EMSE por sospecha de enfermedad mental y si los síntomas neuropsiquiátricos interfieren en dicha detección.
+
+
+- MATERIAL Y MÉTODOS
+
+Se trata de un estudio observacional y descriptivo. Se han seleccionado todos los pacientes mayores de 65 años derivados desde AP por sus médicos de familia al EMSE solicitando una valoración psiquiátrica en el domicilio por sospecha de enfermedad mental, desde el 1 enero de 2012 hasta el 31 de diciembre de 2015. En todos los casos se explicó a los profesionales el funcionamiento del dispositivo informando explícitamente que el deterioro cognitivo era un criterio de exclusión, y se les sugirió la administración de pruebas de cribado.
+
+
+-- EQUIPO DE INTERVENCIÓN EN DOMICILIO
+
+El equipo EMSE consta de 2 enfermeras y 2 psiquiatras (con formación en psicogeriatría) que realizan valoración psiquiátrica en el domicilio de los pacientes. Los casos pueden ser derivados desde cualquier dispositivo de psiquiatría, AP y servicios sociales de Barcelona ciudad, Hospitalet de Llobregat y Cornellà de Llobregat (para el estudio se han seleccionado solo los individuos derivados desde AP). La población diana son los individuos afectos de trastorno mental severo (TMS) descompensado y desvinculado. También interviene en caso de individuos sin antecedentes psiquiátricos conocidos pero cuya conducta sugiere la presencia de un trastorno mental (tales como delirios, alucinaciones, manía, agresividad, aislamiento o acumulación) y que no colaboran al ser derivados a un dispositivo de salud mental. Cuando se deriva un caso al EMSE, primero se realiza una entrevista con el familiar o cuidador principal, si lo hay, con el objetivo de recabar el máximo de datos sociodemográficos, antecedentes psiquiátricos, somáticos y determinar cuál es la situación clínica actual antes de realizar la visita en el domicilio. Durante la visita en el domicilio se establece un diagnóstico, se administran escalas clínicas y se prescribe un tratamiento si es necesario. Se realizan las visitas en domicilio que sean necesarias y se deriva al recurso adecuado según cada caso tras estabilizar al paciente si ha sido posible.
+
+
+-- DATOS RECOGIDOS
+
+Se recogieron variables clínicas y sociodemográficas incluidas en el protocolo asistencial del equipo. Se han seguido las directrices de la declaración de Helsinki. Las variables clínicas incluyeron los antecedentes psiquiátricos personales, el consumo de tóxicos y los antecedentes somáticos. Los datos sociodemográficos incluyeron la edad, el género, el nivel de escolarización y con quién vivían. Todos los casos recibieron un diagnóstico según criterios DSM-IV-TR tras la valoración en domicilio, que se han agrupado en 5 grandes grupos para facilitar la presentación de los resultados: sospecha de trastorno cognitivo, trastorno psicótico, trastorno afectivo, trastorno de la personalidad y otros diagnósticos. Se incluyeron en el estudio el MMSE (de Folstein), el Inventario Neuropsiquiátrico de Cummings (NPI), la escala de Gravedad de Enfermedad Psiquiátrica (GEP), la Escala de Evaluación de la Actividad Global (EEAG), la escala de Impresión Clínica Global (ICG) y el Cuestionario de Evaluación de la Discapacidad de la Organización Mundial de la Salud (WHO/DAS). Como recomienda la Sociedad Española de Psicogeriatría, en individuos escolarizados, puntuaciones menores o iguales a 23 en el MMSE son catalogadas como sospecha de deterioro cognitivo, y en individuos sin escolarizar se ha utilizado la puntuación corregida para cada caso particular.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se han descrito las características generales de la muestra y posteriormente se han comparado las características sociodemográficas y clínicas de pacientes sin sospecha de deterioro cognitivo y con sospecha de deterioro cognitivo mediante las pruebas estadísticas pertinentes (chi cuadrado, test exacto de Fisher y t de Student).
+El nivel de significación se estableció en p < 0,05.
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN DE LA MUESTRA
+
+La muestra inicial fue de 110 individuos, de los que 6 no se pudieron visitar por imposibilidad de acceso al domicilio. La muestra final fue de 104 individuos mayores de 65 años (rango de edad de 65 hasta 93 años) derivados desde AP para valoración psiquiátrica en domicilio por sospecha de enfermedad mental, supuestamente después de haber descartado el deterioro cognitivo. La edad media de la muestra fue de 77,8 años (DE: 6,74), el 31,7% fueron varones y el 68,3% mujeres. A ninguno de los pacientes se le había administrado una prueba de cribado de deterioro cognitivo a pesar de la solicitud previa. Ninguno de ellos estaba en tratamiento farmacológico con inhibidores de la acetilcolinesterasa. En el 55,8% (n = 58) de la muestra la puntuación del MMSE sugería sospecha diagnóstica de deterioro cognitivo. El 100% de los casos fueron españoles de raza caucásica. La distribución por diagnósticos fue la siguiente: sospecha de deterioro cognitivo 58 individuos (55,8%), trastorno psicótico 19 (17,3%), trastorno afectivo 13 (12,5%), trastorno de personalidad 7 (5,8%), otros diagnósticos 9 (8,7%), y sin diferencias significativas entre hombres y mujeres (p = 0,658). Las Tabla 1, Tabla 2 muestran las características generales de los individuos valorados y los resultados de la valoración realizada. Entre los resultados cabe destacar la ausencia de antecedentes de TMS en el 79,8% del total de la muestra.
+
+
+-- COMPARACIÓN SEGÚN AUSENCIA O PRESENCIA DE SOSPECHA DE DETERIORO COGNITIVO
+
+Comparando los pacientes con MMSE alterado y normal observamos que no hay diferencia en el género ni en el nivel de escolarización entre los 2 grupos. Tampoco hubo diferencias en antecedentes somáticos, convivencia, consumo de tóxicos ni motivo de consulta. La única variable cualitativa que presenta diferencias estadísticamente significativas (p < 0,05) es la ausencia de antecedentes de TMS, que llega hasta el 91,4% de los pacientes con MMSE alterado. Entre las variables cuantitativas observamos que en los pacientes con MMSE alterado la edad media es mayor y la puntuación media tanto de la escala NPI (17,70 vs 9,70) como de la WHO/DAS (13,10 vs 11,20) indican mayor gravedad en estos individuos.
+Respecto a los síntomas neuropsiquiátricos valorados con la NPI, en nuestra muestra los individuos con MMSE alterado la puntuación media fue mayor y estadísticamente significativa en agitación (2,79 vs 1,39), apatía (2,43 vs 1,15), desinhibición (1,69 vs 0,41), irritabilidad (4,02 vs 1,59) y conducta motora sin finalidad (0,97 vs 0,09). No hubo diferencias significativas en delirios, alucinaciones, depresión, ansiedad y euforia.
+Se sospechó que el hecho de que no se observasen diferencias en la puntuación de los ítems de delirios y de alucinaciones del NPI era causado porque hasta el 17,3% de la muestra eran individuos afectos de un trastorno psicótico, por lo que se hizo otro análisis excluyendo a este tipo de pacientes. De esta manera se observa que los pacientes con MMSE alterado tienen puntuaciones medias mayores y con diferencias estadísticamente significativas en las variables de delirios, alucinaciones, agitación, desinhibición, irritabilidad y conducta motora sin finalidad .
+
+
+- DISCUSIÓN
+
+Los resultados de nuestro estudio sugieren que algunos síntomas neuropsiquiátricos generan confusión entre los médicos de familia a la hora de sospechar la existencia de un deterioro cognitivo que pasó desapercibido en más de la mitad de los individuos de la muestra (55,8%).
+La edad es un factor determinante en el desarrollo de deterioro cognitivo para muchas de las enfermedades responsables, como se ha objetivado en múltiples estudios y también en nuestra muestra. Por ello, sorprende que, a pesar de la avanzada edad de gran parte de los pacientes, los médicos de familia no administraron ninguna prueba de cribado de deterioro cognitivo, como recomienda la Sociedad Española de Psicogeriatría.
+La autonomía se ve afectada en gran medida por estas enfermedades, con el consiguiente consumo de recursos y desgaste de los cuidadores principales; también se ve reflejado aquí, con diferencias significativas en las escalas que valoran discapacidad y autonomía (EEAG y WHO/DAS).
+Respecto a los síntomas psiquiátricos, los individuos derivados al EMSE desde AP tienen algunas características diferentes respecto a otros estudios. En la bibliografía se ha descrito ampliamente la depresión y la apatía como la clínica más frecuentemente asociada al deterioro cognitivo, no así en nuestra muestra la depresión. Creemos que esto se debe a que la clínica depresiva es más frecuente en el anciano y el médico está más acostumbrado a realizar diagnóstico diferencial que con otro tipo de clínica. Sin embargo, aparecen otros síntomas asociados a la alteración del MMSE, como delirios, alucinaciones, agitación, desinhibición, irritabilidad y conducta motora sin finalidad. Estos síntomas son más propios de individuos afectos de TMS que de pacientes geriátricos, aunque gran parte de la muestra no tenía antecedentes psiquiátricos de TMS (79,8%), llegando al 91,4% en aquellos en que el MMSE estaba alterado. Además, estos síntomas de «aumento de actividad» generan gran malestar en el cuidador y en el entorno y frecuentes demandas de intervención hacia los médicos de cabecera que no cuentan con los recursos necesarios para hacer frente a estas situaciones agudas y urgentes.
+Los síntomas psicóticos (alucinaciones y delirios) están frecuentemente asociados al deterioro cognitivo, muchas veces como síntoma inicial, incluso antes de que se alteren las pruebas de cribado. Estos síntomas pueden estar presentes hasta en el 80% de los pacientes con algún tipo de deterioro. Sin embargo, es muy poco frecuente el inicio de un trastorno psicótico, tipo esquizofrenia, por encima de los 65 años.
+Los autores consideran que hay 2 factores claves para que se produzca esta confusión en este perfil de paciente. En primer lugar, la irritabilidad y la falta de colaboración de muchos de estos individuos provoca que no se pueda completar una prueba de cribado o que requiera más tiempo de lo habitual, del que no se dispone en AP; en nuestro estudio no se ha podido valorar dicha colaboración, y tampoco en la literatura, por lo que se sugiere para futuros estudios. En segundo lugar, este tipo de síntomas son más parecidos a los que pueden presentar enfermos con enfermedad mental tipo esquizofrenia que pacientes de edad avanzada sin ninguna enfermedad mental. La principal limitación del estudio es que no se ha podido realizar una exploración neuropsicológica completa de los pacientes para confirmar la sospecha diagnóstica de deterioro cognitivo; por ello, en todo el texto se menciona como «sospecha».
+
+
+- CONCLUSIONES
+
+En resumen, consideramos que cuando se detecten síntomas propios de TMS en individuos de edad avanzada sin antecedentes de TMS, se debería sospechar la presencia de un deterioro cognitivo y administrar las pruebas de cribado pertinentes.Lo conocido sobre el tema•La prevalencia de la demencia en mayores de 65 años es muy elevada y su detección precoz en AP es clave para el pronóstico de la enfermedad.•Un gran porcentaje de pacientes con deterioro cognitivo que consultan en AP presentan síntomas neuropsiquiátricos.•La demencia presenta un porcentaje elevado de síntomas neuropsiquiátricos que pueden interferir en su diagnóstico precoz.Qué aporta este estudio•La muestra se ha obtenido de una población real de pacientes derivados a psiquiatría desde AP por sospecha de enfermedad mental.•Un alto porcentaje de pacientes mayores de 65 años en los que el médico de familia sospecha la presencia de una enfermedad mental están afectos en realidad de un deterioro cognitivo.•Los síntomas psicóticos, la agitación, la desinhibición, la irritabilidad y la conducta motora sin finalidad en pacientes de edad avanzada sin antecedentes de trastorno mental severo deberían hacer sospechar la presencia de deterioro cognitivo y, por consiguiente, administrar una prueba de cribado adecuada.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

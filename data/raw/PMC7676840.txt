@@ -1,0 +1,95 @@
+PAUTAS ÉTICAS PARA LA REANIMACIÓN CARDIOPULMONAR EN EL CONTEXTO DE LA PANDEMIA DE COVID-19 EN COLOMBIA
+
+
+El incremento progresivo de casos de COVID-19 en Colombia conlleva el aumento paralelo en el número de casos de personas con paro cardiopulmonar que llegan a los servicios de urgencias o que ocurren durante las hospitalizaciones. Esta situación, sumada a la carencia de suficientes y adecuados elementos de protección personal en muchos de los hospitales y clínicas del país, suscita inquietudes en los equipos clínicos en torno a los criterios éticos y técnicos para decidir si se realizan o no maniobras de reanimación cardiopulmonar en casos específicos. Estas inquietudes responden al riesgo de contagio que los aerosoles y gotas producidas por los pacientes en paro durante el procedimiento de la reanimación cardiopulmonar representan para el personal clínico y para otros pacientes . En este contexto surgen varias preguntas: ¿es éticamente aceptable que, aunque no exista certeza científica sobre la capacidad de los aerosoles de producir el contagio de COVID 19, se modifiquen las pautas ya establecidas para las maniobras de la reanimación cardiopulmonar? ¿Es éticamente obligatorio hacer la reanimación cardiopulmonar a todo paciente con paro cardiopulmonar en el marco de la pandemia de COVID-19? ¿Es éticamente aceptable que los equipos clínicos se nieguen a realizar maniobras de reanimación cardiopulmonar si no cuentan con suficientes y adecuados elementos de protección personal?
+La Organización Mundial de Salud (OMS) ha difundido evidencia sobre la elevada producción de aerosoles durante las maniobras de la reanimación cardiopulmonar, especialmente en la intubación . Se desconoce aún si estos siempre portan virus o si su potencial para producir contagios aumenta o disminuye dependiendo del clima, la presión atmosférica o la ventilación local ,. A pesar de estas incertidumbres, en los casos en que la infección de COVID-19 amenace la vida de quienes la padecen, se justifica toda medida que proteja al personal clínico contra el riesgo de contagio por el virus, como bien lo ha señalado la OMS.
+Las dudas en cuanto a la pertinencia de las maniobras de la reanimación cardiopulmonar en el marco de la pandemia han revivido, por otra parte, discusiones en torno a las circunstancias clínicas en las que se justificaría realizar o no dichas maniobras. Efectivamente, en el contexto de estos debates se han determinado diversas circunstancias en las que la reanimación cardiopulmonar no se justificaría clínicamente, y se han discutido las formas de informar a los pacientes y a sus familias y comunidades, sobre la eficacia clínica y los resultados asociados con el procedimiento.
+Con base en principios éticos y constitucionales sólidamente establecidos, en este artículo se presentan pautas y recomendaciones para asegurar una práctica éticamente rigurosa de la reanimación cardiopulmonar en el marco de la pandemia de COVID-19.
+
+
+- FUNDAMENTOS ÉTICOS Y JURÍDICOS
+
+Las posibles respuestas a las preguntas éticas que se plantean sobre la reanimación cardiopulmonar en el marco de la pandemia de COVID-19 deben ajustarse a los siguientes principios ampliamente reconocidos en las sociedades democráticas.
+
+
+-- PRINCIPIO DE AUTONOMÍA
+
+Este principio obliga a acatar la expresión de voluntad de los pacientes en relación con los cursos de acción que, en el ámbito clínico, les proponga el equipo de salud . En el caso de la reanimación cardiopulmonar, este principio indica que esta es admisible solo si no se opone a la voluntad manifiesta del paciente, expresada mediante un documento de voluntad anticipada. Los pacientes pueden tomar decisiones bien sopesadas en esta materia solo si se les da información oportuna, suficiente y clara.
+
+
+-- PRINCIPIO DE BENEFICIO Y LEX ARTIS
+
+Este principio exige que la atención médica esté justificada por el potencial beneficio del paciente. En el marco de las decisiones sobre la reanimación cardiopulmonar, este principio indica que estas se justifican únicamente cuando la reanimación cardiopulmonar suponga un beneficio real para el paciente según la lex artis.
+
+
+-- PRINCIPIO DE NO DAÑO Y RESPETO POR EL DERECHO A LA INTEGRIDAD DEL PACIENTE
+
+Este principio ordena que a toda persona se le proteja de cualquier daño que pueda sobrevenir por causa de la atención médica. En el contexto que nos ocupa, este principio obliga a hacer la reanimación cardiopulmonar solo en aquellos casos en que esta no constituya una futilidad o una forma de encarnizamiento terapéutico ,. Su aplicación debe garantizar la protección del derecho a la integridad del paciente, que es conexo con el derecho a la salud.
+
+
+-- PRINCIPIO DE PRECAUCIÓN
+
+Este principio obliga a hacer la reanimación cardiopulmonar solo en aquellos casos en que no se exponga a los pacientes y al personal clínico y administrativo de las instituciones de salud a graves riesgos de salud -. En el marco de este principio, deben garantizarse todas las medidas y equipos de protección personal al personal de salud antes de cualquier procedimiento que suponga riesgo de contagio para ellos, incluso cuando no exista certeza completa sobre la magnitud y el alcance de dicho riesgo (principio de precaución) ,,.
+
+
+-- PRINCIPIO DE JUSTICIA
+
+Este principio obliga a garantizar a las personas las mejores condiciones de cuidado clínico disponibles, sin discriminación alguna. Cuando los recursos son limitados este principio implica priorizar a quienes los recibirán considerando el mayor potencial de beneficio clínico a corto y largo plazo y la equidad de oportunidades entre los ciudadanos para vivir un ciclo de vida completo. En el contexto que nos ocupa, este principio justifica limitar la reanimación cardiopulmonar cuando de su práctica se derive la demanda de recursos escasos, como camas en las unidades de cuidados intensivos, respiradores, etc., que deberían ser asignados a otras personas según los mencionados principios .
+
+
+-- PRINCIPIO DE INTEGRIDAD
+
+Este principio establece la obligación de proveer los cuidados hospitalarios con base en los más altos estándares de profesionalismo, procurando siempre el mejor cuidado posible para los pacientes . En el caso que nos ocupa, este principio obliga a disponer de procedimientos y grupos adecuadamente entrenados (equipos de código azul o respuesta rápida) para una debida reanimación cardiopulmonar.
+
+
+-- PRINCIPIO DE TRANSPARENCIA
+
+Este principio exige que los criterios para la toma de decisiones sobre la reanimación cardiopulmonar sean pública y abiertamente conocidos por todos los involucrados a lo largo del proceso de atención hospitalaria, a saber, el equipo clínico, los pacientes, los familiares y las autoridades de salud ,.
+
+
+-- COMUNICACIÓN, CONSENTIMIENTO Y EQUIPOS DE RESPUESTA RÁPIDA
+
+Como cualquier procedimiento hospitalario, la reanimación cardiopulmonar tiene sus indicaciones específicas. La eficacia clínica de ella, según lo reporta la American Heart Association, es muy baja. En los casos de paro cardiopulmonar dentro de los hospitales la tasa general de éxito, definida como la supervivencia de los pacientes al salir del hospital, oscila entre el 6,5 (en los casos de paro cardíaco no presenciado) y el 24 % (en el paro presenciado) ,. Por otra parte, en los estudios se ha evidenciado que solo entre el 1 y el 3 % de los pacientes con paro cardiopulmonar que reciben reanimación cardiopulmonar alcanza un nivel cognitivo cercano al que tenía antes ,. En el marco de la pandemia de COVID-19, la eficacia clínica de la reanimación cardiopulmonar podría ser aún más baja. En el estudio de Shao, et al., en Wuhan, solo el 13,2 % de los pacientes con COVID-19 recuperaron la actividad cardíaca espontánea; el 2,9 % sobrevivió un mes, y solo un paciente de 136 sobrevivió sin mayores secuelas neurológicas . Además, como lo demuestran las estadísticas, en estos pacientes la mayoría de los paros no se asoció con la fibrilación ventricular sino con los ritmos no desfibrilables, que son de peor pronóstico .
+Sin embargo, los pacientes y la comunidad no suelen saber de la poca eficacia clínica de la reanimación cardiopulmonar y la alta probabilidad de secuelas neurocognitivas en los supervivientes. A menudo, las ideas del público sobre la eficacia de la reanimación cardiopulmonar provienen de las películas, en las que los porcentajes de eficacia clínica sin secuelas superan el 70 %, o de información inexacta difundida por los medios o las redes sociales . Incluso entre los médicos, el pleno conocimiento sobre los niveles de eficacia clínica y las potenciales secuelas asociadas con la reanimación cardiopulmonar es poco común.
+En este contexto, y con base en las obligaciones indicadas por los principios de autonomía, beneficio y no daño, es necesario que los pacientes cuenten con información clara sobre la eficacia clínica de la reanimación cardiopulmonar, las secuelas que puede tener y las circunstancias en las que se justificaría abstenerse de realizar el procedimiento . Solo así estarían en condiciones de decidir anticipadamente su voluntad ante estas situaciones ,. La educación pública sobre estas materias resulta, por lo tanto, crucial. La tarea de informar debe estar a cargo de los equipos tratantes con el apoyo de los comités clínicos de priorización responsables de la asignación de recursos escasos, o de los comités de ética asistencial.
+La recomendación internacional estándar frente a la reanimación cardiopulmonar es la conformación de equipos de código azul o de respuesta rápida, los cuales deben incluir, idealmente, un anestesiólogo, un intensivista, un internista y una o dos enfermeras jefes, o una enfermera jefe y una auxiliar de enfermería, todos ellos con amplia experiencia . En el marco de la pandemia de COVID-19 resulta especialmente crucial seguir esta recomendación sobre el número de integrantes y las características de los equipos de respuesta rápida para asegurar la calidad del procedimiento de la reanimación cardiopulmonar, pues se sabe que los equipos de protección personal aumentan la carga física y los niveles de cansancio del personal clínico.
+
+
+- GUÍA PRÁCTICA PARA LA REANIMACIÓN CARDIOPULMONAR
+
+Los principios éticos explicados en el segundo apartado se traducen en mandatos específicos frente a las decisiones en torno a la reanimación cardiopulmonar y deben acatarse para el manejo clínico de todos los pacientes, es decir, tanto los afectados por la COVID-19 como los no infectados. Según estos principios, la reanimación cardiopulmonar es éticamente aceptable mientras:
+no menoscabe las pautas de asignación justa de recursos sanitarios escasos,no contravenga las decisiones autónomas de los pacientes,no se lleve a cabo sin que los equipos de respuesta rápida cuenten con todos los equipos de protección personal necesarios para protegerse del contagio por el virus, yno suponga un modo de encarnizamiento terapéutico. Estos mandatos deberán aplicarse en estricto orden.
+
+
+-- A. NO ACTUAR DE FORMA INJUSTA
+
+Cuando haya escasez de respiradores no deben realizarse maniobras de reanimación cardiopulmonar en aquellos pacientes que no hayan sido priorizados con base en las reglas de asignación éticamente justificadas, pues eventualmente requerirían de respiradores que pueden no estar disponibles . A los pacientes que no tengan prioridad se les deben garantizar todas las medidas de cuidado paliativo y confort físico, emocional y espiritual que requieran durante el final de su vida .
+
+
+-- B. CONFIRMACIÓN DE LA VOLUNTAD ANTICIPADA
+
+A todo paciente que ingrese al hospital se le debe preguntar si cuenta con una declaración escrita de voluntad anticipada sobre la reanimación cardiopulmonar. Si ese es el caso, debe dejarse constancia de ella en la historia clínica ,. Si dicha declaración no se ha hecho, tras confirmar que el paciente no quedará exceptuado de la asignación de respiradores en caso de ser escasos y después de informarle sobre la eficacia y las secuelas potenciales, se le debe preguntar si, llegado el caso, aceptaría que se le practiquen maniobras de reanimación cardiopulmonar. Su decisión debe quedar consignada en la historia clínica, con su firma y la de un testigo. Si los pacientes están en situación de incompetencia, se les debe preguntar a sus familias si el paciente ha dejado por escrito su voluntad anticipada sobre la reanimación cardiopulmonar. Si no se cuenta con ella, se presumirá que el paciente consiente con el procedimiento de reanimación cardiopulmonar siempre que no existan razones para limitarlo ,. Esta misma presunción aplicará a todo paciente que ingrese al hospital en paro cardiopulmonar y que no disponga de una declaración de voluntad anticipada escrita. Se trata, así, de garantizar que no se practique la reanimación cardiopulmonar de un modo que deshonre el principio de dignidad y autonomía de los pacientes.
+
+
+-- C. GARANTIZAR LA PROTECCIÓN ADECUADA DEL EQUIPO CLÍNICO
+
+Antes de llevar a cabo maniobras de reanimación cardiopulmonar es mandatorio que el equipo a cargo cuente con los elementos de protección personal necesarios para realizarlas bajo condiciones adecuadas de bioseguridad ,,. Si no se dispone de estos, llevar a cabo maniobras de reanimación cardiopulmonar resultaría pugnante con el principio de no daño y los derechos a la vida y a la integridad física del equipo clínico y de otros pacientes, principios estos conexos con el de este apartado ,. Por las mismas razones, se impone restringir y limitar estrictamente al acceso del equipo de respuesta rápida a la zona destinada a la reanimación cardiopulmonar ,,, así como garantizar adecuados sistemas de respiración asistida en dichas áreas.
+
+
+-- D. NO INCURRIR EN EL ENCARNIZAMIENTO TERAPÉUTICO
+
+Por último, es fundamental que no se realice la reanimación cardiopulmonar cuando entrañe un modo de encarnizamiento terapéutico, es decir, cuando resulte fútil (incluso si ello contraviene la voluntad de la familia) , lo cual sucedería en los siguientes casos de paro cardiopulmonar.
+
+Con el fin de evitar la futilidad del procedimiento, varios autores recomiendan también que, cuando se hayan completado 20 minutos de maniobras de reanimación cardiopulmonar o cinco desfibrilaciones sin resultado, se detenga el procedimiento .
+
+
+- ELEMENTOS DE PROTECCIÓN PERSONAL PARA EL EQUIPO DE RESPUESTA RÁPIDA
+
+Debido a que en el momento de la reanimación cardiopulmonar se generan aerosoles, es necesario que el equipo de reanimación cuente con los equipos de protección personal adecuados para así reducir el riesgo de exposición ,,. Estos equipos son diferentes a los usados en la atención rutinaria (tapabocas convencionales), tal como lo establecen los lineamientos del Ministerio de Salud y Protección Social y el Consenso ACIN-IETS de mayo de 2020 , además, siempre son de uso individual y por ningún motivo podrán compartirse .
+Los decretos 488 y 500 de 2020 de la Presidencia de la República han establecido, por otra parte, que es obligación de las administradoras de riesgos laborales (ARL) suministrar estos equipos de forma correcta, suficiente y oportuna. Corresponderá al empleador exigir a las ARL, mediante las medidas pertinentes, el suministro pleno de los equipos de protección personal al equipo de salud.
+
+
+- RECOMENDACIONES FINALES
+
+En el marco de la pandemia de COVID-19 es necesario adoptar pautas éticas sólidas para orientar en cada caso la decisión de recurrir a las maniobras de reanimación cardiopulmonar o no. En este documento el propósito ha sido presentarlas de manera sistemática. Las situaciones específicas y la disponibilidad de recursos en cada lugar obligan, sin embargo, a que estas pautas sean discutidas por los equipos clínicos a cargo de las maniobras de ella y adaptadas a su realidad particular. Este proceso de apropiación habrá de acompañarse de planes locales que incluyan un completo alistamiento de los equipos de respuesta rápida y la delimitación de zonas confinadas para la reanimación cardiopulmonar en los servicios de urgencias, así como la actualización de los equipos tratantes en las buenas prácticas de comunicación con los pacientes y familiares, la implementación de programas de información a la comunidad en materia de reanimación cardiopulmonar y, especialmente, la provisión suficiente y adecuada de elementos de protección personal a los equipos clínicos a cargo de los pacientes ,.
+Como se ha indicado, existen razones éticas sólidas para condicionar la reanimación cardiopulmonar a la disponibilidad suficiente y adecuada de estos elementos para los equipos de respuesta rápida en todos los hospitales públicos y privados del país. Esperamos que esta compilación contribuya a que las autoridades sanitarias cobren plena conciencia de la obligación ética de dar la protección debida a todo el personal clínico hospitalario.

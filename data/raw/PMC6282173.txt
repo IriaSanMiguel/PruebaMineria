@@ -1,0 +1,90 @@
+ATROFIA PARAESPINAL POSTOPERATORIA. ¿EL ABORDAJE IMPORTA
+
+
+- INTRODUCCIÓN
+
+La atrofia de la musculatura extensora espinal lumbar ha sido relacionada con lumbalgia, radiculopatías, escoliosis del adolescente y del adulto.
+El desarrollo progresivo y la disponibilidad de implantes ha permitido abordajes más complejos a la columna y el tratamiento de deformidades con mayor posibilidad de mejores resultados. Por otro lado, la exposición necesaria para la colocación de estos implantes puede llevar a una mayor tasa de complicaciones, entre ellas la atrofia muscular, sea por lesión directa por compresión o tracción, sea por denervación.
+Asumiendo que cierto grado de atrofia es esperable luego de las cirugías de artrodesis instrumentadas, el objetivo de este trabajo es comparar la magnitud de la atrofia muscular postoperatoria que producen tres abordajes usualmente empleados en fusiones lumbares segmentarias para patología degenerativa. (línea media vs Wiltse vs percutáneo).
+
+
+- MATERIAL Y MÉTODOS
+
+Se realizó un estudio observacional, transversal, multicéntrico, descriptivo y retrospectivo de una serie de pacientes operados por patología degenerativa lumbar.
+Las patologías tratadas fueron: canal estrecho lumbar, espondilolistesis degenerativas, quistes artrosinoviales y espondilolistesis líticas con estenosis.
+Se analizaron 45 pacientes (24 mujeres), con una edad media de 58.7 años. Los pacientes fueron operados en 5 centros quirúrgicos entre 2015 y 2018. Se obtuvo el índice de masa corporal (IMC) en todos los pacientes en el preoperatorio, con una media de 24.8.
+En todos los casos se realizó una fusión instrumentada de un nivel, desde L3 hasta S1 (7 casos L3-L4, 25 casos L4-L5 y 13 casos L5-S1). 15 casos fueron realizados por abordajes de línea media, 15 por abordaje posterolateral tipo Wiltse y 15 por abordaje tipo MIS TLIF. [Ver Tablas 1 y 2].
+Todos los pacientes fueron estudiados con Resonancia Magnética de 1.5 Tesla pre y postoperatoriamente (con un mínimo de 6 meses luego de la cirugía y una media de seguimiento de 14.6 meses). Las imágenes fueron analizadas por 3 observadores especialistas en cirugía de columna (AG, FL, FFM).
+Se tomaron 2 variables para comparar el grado de atrofia: el cambio del área muscular en el postoperatorio, y el cambio en el grado de infiltración grasa utilizando la clasificación visual de Kjaer et al.
+Se utilizó el software Horos v2.2.0 para realizar las mediciones de área, utilizando la secuencia T2 axial a la altura de los discos L3-4, L4-5 y L5-S1. El dibujo de cada grupo muscular se realizó mediante el trazado de un polígono sobre los bordes externos de cada músculo. El número de puntos que formaron el polígono dependió del tamaño y forma de cada músculo, pero fue en promedio de entre 25–40 puntos. Así se obtuvieron: área de sección transversal (AST) de los músculos multifidus y erectores espinales (longissimus + iliocostalis). [Ver Figura 1].
+El grado de infiltración grasa (IG) del músculo se obtuvo mediante la clasificación visual de Kjaer que divide a los músculos paraespinales en 3 grados de infiltración grasa (leve: menos del 10%, moderada 10-50% y severa más del 50%). Ver Figura 2.
+
+
+-- DESCRIPCIÓN DE LAS TÉCNICAS UTILIZADAS EN CADA ABORDAJE
+
+Los abordajes por línea media fueron realizados mediante una incisión cutánea medial, con una disección subperióstica muscular de medial a lateral.
+Los abordajes de Wiltse fueron llevados a cabo mediante incisiones paramedianas bilaterales en piel y disección roma por el plano intermuscular entre el músculo multifidus y longissimus.
+Los abordajes de MIS TLIF consistieron en una incisión paramedial para la facetectomía y colocación de la caja intersomática transtubular seguida de una instrumentación ipsilateral y dos incisiones paramediales contralaterales para los tornillos percutáneos restantes.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los análisis realizados fueron ejecutados utilizando el programa estadístico RStudio (versión 1.1.383). Los gráficos fueron realizados con el paquete ggplot2.
+Los datos demográficos: edad, índice de masa corporal, y el tiempo de seguimiento de los pacientes fueron analizados con media, mediana, error estándar de la media (SEM), intervalo de confianza de la media, varianza, desviación estándar y coeficiente de variación. La muestra cumplía los supuestos de homogeneidad de varianzas (P < 0.05). Ver Tabla 1.
+Según el test de Shapiro-Wilk se determinó que los datos no provenían de una población normal (distribución no Gaussiana) por lo cual se decidió realizar las comparaciones entre preoperatorio y postoperatorio de las áreas de sección transversal y de infiltración grasa utilizando el test no paramétrico de Wilcoxon. Ver Tabla 2.
+
+
+-- EVALUACIÓN DE ÁREAS DE SECCIÓN TRANSVERSAL
+
+Se evaluó AST en los músculos multifidus y erectores espinales (longissimus + iliocostalis) en cada tipo de abordaje, obteniéndose: media, mediana, error estándar de la media, intervalo de confianza de la media (95%), varianza, desvío estándar y coeficiente de variación.
+Se compararon las AST de los distintos grupos musculares mediante la suma de rangos de Wilcoxon según su valor de p. (percutáneo vs línea media; línea media vs Wiltse y percutáneo vs Wiltse) [Ver Figura 3].
+Se obtuvieron datos de los dos grupos musculares juntos (multifidus + erectores) y se compararon según los distintos abordajes, obteniéndose: mediana, media, error estándar, intervalo de confianza de la media (95%), varianza, desviación estándar y coeficiente de variación.
+
+
+-- EVALUACIÓN DE INFILTRACIÓN GRASA
+
+Los datos de IG se compararon entre preoperatorio vs postoperatorio en los tres niveles evaluados (L3-L4, L4-L5 y L5-S1) en cada tipo de abordaje y se compararon los valores de P obtenidos mediante la suma de rangos de Wilcoxon.
+
+
+- RESULTADOS
+
+La comparación de valores de P obtenidos para AST del músculo multifidus mediante la suma de rangos de Wilcoxon no mostró diferencias significativas entre los distintos abordajes.
+La comparación de P para AST de los músculos erectores mostró diferencias entre abordaje percutáneo vs línea media (P = 0.018) y de línea media vs Wiltse (P = 0.027). [Ver Tabla 3].
+No encontramos diferencias significativas cuando comparamos lado izquierdo vs lado derecho en multifidus. En el análisis de erectores se observó menor atrofia a nivel L3-4 derecho (P = 0.041) cuando se comparó percutáneo vs línea media, y una diferencia a nivel L4-5 derecho (P = 0.031) cuando se comparó línea media vs Wiltse. [Ver Tabla 4].
+La IG comparativa por nivel de fusión entre los distintos abordajes, mostró sólo diferencias en el nivel L3-L4 entre los abordajes percutáneo y de línea media (P = 0.017). [Ver Tabla 5].
+
+
+- DISCUSIÓN
+
+La musculatura extensora espinal cumple una función fundamental para la postura en bipedestación y la marcha. Determina en gran medida la lordosis lumbar, y es la responsable de adaptarse a la forma de la pelvis de cada sujeto, de tal forma que resulta imprescindible a la hora de mantener el balance sagital.
+En los últimos años han surgido numerosos estudios que jerarquizan la importancia de la musculatura. Así, se demostró que los pacientes con lumbalgias crónicas tienen mayor atrofia muscular del multifidus y longissimus, que las escoliosis idiopáticas y degenerativas tienen mayor atrofia muscular del lado cóncavo y que los pacientes con radiculopatías tienen mayor atrofia muscular e infiltración grasa del lado del dolor.
+La literatura soporta el hecho de que los pacientes con lumbalgias crónicas o recurrentes tienen alteraciones musculares. Esto se ha estudiado comparando el grado de infiltración grasa como signo de atrofia muscular de los multifidus, y en estudios que evaluaron área de sección transversal muscular. Los pacientes con lumbalgia crónica tienen mayores grados de infiltración grasa muscular paraespinal así como menores áreas de sección transversal, ambos indicadores indirectos de atrofia muscular.
+Kang y col. realizaron un estudio comparativo en pacientes con cifosis lumbar degenerativa y pacientes con lumbalgia crónica sin cifosis. Los pacientes con cifosis lumbar tenían mayores depósitos grasos en los músculos multifidus y erectores espinales con áreas de sección transversal muscular más pequeñas. Este trabajo apoya la teoría de que una mayor atrofia muscular lumbar se relaciona con pérdida de lordosis lumbar y en ocasiones incluso cifosis lumbar o “síndrome de espalda plana”.
+La cirugía mínimamente invasiva tuvo un gran desarrollo en las últimas décadas, logrando reducir los períodos de internación y las complicaciones postoperatorias en algunas patologías. Parecería que estas técnicas generarían menor daño muscular, con resultados favorables en relación a menor cantidad de mediadores séricos inflamatorios y dolor postoperatorio.
+Es interesante tomar en cuenta tanto el factor de AST como el de IG al momento de evaluar el estado de la musculatura espinal, porque el área se toma midiendo el perímetro del grupo muscular en cuestión, pero no tiene en cuenta la calidad de las fibras de ese grupo. Así, dos pacientes diferentes pueden tener un mismo valor de AST pero tener diferentes grados de IG, resultando en diferentes grados de atrofia muscular.
+La hipótesis nula inicial de nuestro trabajo fue que los abordajes mínimamente invasivos generarían menor atrofia muscular que el abordaje convencional por línea media. Esto fue encontrado en el análisis estadístico para los músculos erectores espinales. Sin embargo, no se encontraron diferencias significativas en relación al músculo multifidus.
+En los abordajes por línea media, se entiende que el músculo multifidus se daña por desinserción, denervación e isquemia causada por la retracción sostenida
+El 80% de los pacientes operados con técnica de Wiltse eran estenosis centrales del canal. En estos casos se realiza el abordaje intermuscular clásico, y para poder realizar una buena descompresión se realiza una desperiostización del multifidus desde lateral hacia medial en forma bilateral (flap), que genera un potencial daño al músculo. Por otro lado, el ingreso por el plano intermuscular podría lesionar pequeñas ramas nerviosas que inervan a la musculatura.
+En los casos tratados con MIS TLIF, el abordaje tubular para el acceso al disco intervertebral supone la desperiostización de la faceta articular en forma completa. Cuando se precisa descompresión adicional, el tubo es inclinado hacia medial y se desinserta el músculo de las láminas. Esto también genera un daño en el multifidus.
+Esta teoría explicaría por qué los tres abordajes fueron similares en atrofia muscular respecto al músculo multifidus, y la diferencia estadísticamente significativa a favor de los abordajes mínimamente invasivos sólo pudo verse en los músculos erectores.
+Una limitación de este trabajo es la falta de randomización del abordaje elegido y la heterogeneidad de patologías degenerativas lumbares tratadas, a pesar de que los tres grupos comparados cumplieron los supuestos de homogeneidad de varianzas.
+
+
+- CONCLUSIÓN
+
+Los abordajes mínimamente invasivos utilizados para descompresión y artrodesis monosegmentaria lumbar se relacionaron con menor grado de atrofia muscular postoperatoria en los músculos erectores espinales. Esta diferencia no pudo probarse para el multifidus. Estudios randomizados y controlados serían de utilidad para validar los resultados de este trabajo.
+
+
+-- DECLARATION OF PATIENT CONSENT
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

@@ -1,0 +1,6 @@
+los trastornos hipertensivos del embrazo son causa importante de morbilidad grave, discapacidad crónica y muerte entre las madres, fetos y recién nacidos, por lo que es necesaria la prevención de la preeclampsia (PE) en virtud de su alta morbimortalidad en México.
+evaluar si la administración de ácido acetilsalicílico (AAS) a dosis baja reduce la presencia de PE.
+estudio de cohorte, comparativo. Se incluyeron 300 mujeres embarazadas con factores de riesgo para PE: primigesta, antecedente de PE, embarazo gemelar. No se incluyeron las pacientes primigestas y multigestas con patología vascular previa. Grupo 1: 150, 11 excluidas, 80 mg AAS de semana 20 al final del embarazo. Grupo 2: 150, sin AAS. Se vigiló presencia de PE o hipertensión gestacional (HG). Se tomaron datos generales y controles clínicos. Se calculó Chi cuadrada y riesgo relativo (RR).
+en mujeres embarazadas con factores de riesgo para PE que recibieron AAS, disminuye de forma significativa el riesgo de probabilidad de desarrollar PE a menos de la mitad.
+grupo 1: 139, 26 ± 5.6 años, PE en 9%. Grupo 2: 150, 25.5 ± 5.6 años, PE 20% (p = 0.01). RR 0.47 (IC95%: 0.19 - 0.87) (p = 0.01), riesgo atribuible de -0.11 equivalente a una reducción absoluta del 11% para PE en grupo 1.
+

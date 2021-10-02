@@ -1,0 +1,167 @@
+PLAN DE CONTINGENCIA PARA LOS SERVICIOS DE MEDICINA INTENSIVA FRENTE A LA PANDEMIA COVID-19<SUP
+
+
+El 7 de enero de 2020 las autoridades chinas identificaron un nuevo virus de la familia Coronaviridae como causante de un brote de casos de neumonía ocurridos en la ciudad de Wuhan, en la provincia de Hubei. Posteriormente, el virus se ha denominado SARS-CoV-2 y la enfermedad, COVID-19.
+Según datos del European Centre for Disease Prevention and Control (ECDC), desde el 31 de diciembre de 2019 hasta el 16 de marzo de 2020 la enfermedad se ha extendido a 139 países, y se han declarado 16.741 casos, incluidas 6.507 muertes.
+En España, según datos del Ministerio de Sanidad, el 16 de marzo a las 13.00 horas había 9.191 casos positivos, de los cuales 432 estaban ingresados en unidades de cuidados intensivos (UCI).
+En esta situación, las sociedades científicas SEMICYUC, representante de los especialistas en Medicina Intensiva, y SEEIUC, representante de las enfermeras de atención al paciente crítico, se plantean la necesidad elaborar un plan de contingencia para dar respuesta a las necesidades que conllevará esta nueva enfermedad, con los siguientes objetivos:1.Aportar a las autoridades y gestores sanitarios y a los clínicos un documento técnico que aborde todos los aspectos relacionados con la identificación de las necesidades asistenciales de los pacientes graves ante la pandemia del nuevo virus SARS-Cov-2, para una planificación integral y realista de los servicios de medicina intensiva a escala nacional, autonómica y en cada hospital.2.Procurar la asistencia óptima de los pacientes afectados por COVID-19 en estado grave y los demás pacientes críticos que sufran otras enfermedades.3.Limitar la propagación nosocomial del COVID-19 para: •Proteger al personal sanitario y no sanitario de todas las UCI.•Evitar que el hospital sea un amplificador de la enfermedad.•Proteger de la infección a los pacientes sin COVID-19, a fin de mantener la capacidad de proporcionar atención médica esencial que no sea por COVID-19. 4.Optimizar los recursos humanos de los servicios de medicina intensiva.5.Asignación racional, ética y organizada de unos recursos de atención médica limitados, de manera de hacer el mayor bien al mayor número de personas.
+
+
+- PREVISIONES PARA LA PANDEMIA COVID-19
+
+La propuesta de planificación de escenarios posibles se basa en la aplicación del software FluSurge 2.0. Lo desarrolló el CDC y ofrece una hoja de cálculo de libre descarga que permite realizar cálculos aproximados de la demanda de servicios, en una situación de pandemia moderada y grave. La herramienta permite modificar la población en riesgo, los recursos hospitalarios disponibles y los supuestos de curso epidemiológico del proceso pandémico, y da como resultado una estimación aproximada de necesidades en dicho contexto. Así, estima el número de hospitalizaciones y fallecimientos, el número de personas hospitalizadas, el número de pacientes que requieren atención en la UCI, el número de estos que requieren ventilación mecánica y el grado de saturación de los servicios disponibles para atenderlas.
+Es importante destacar que FluSurge 2.0 se ha diseñado específicamente para valorar el posible efecto de una pandemia producida por el virus Influenza y se ha validado solo en dicho mbito. Su aplicación para la pandemia COVID-19 debe valorarse con cautela.
+El c lculo de los posibles escenarios requiere varios supuestos iniciales sobre las características de la pandemia. Las estimaciones utilizadas se basan en las series publicadas del brote chino, , la experiencia italiana y la experiencia con el virus Influenza H1N1.
+Se consideró una media de estancia hospitalaria de 11 días, una media de estancia en UCI de 14 días, una tasa del 11% de pacientes hospitalizados que precisarán ingreso en UCI y un 6,5% que precisarán ventilación mecánica.
+Considerando una tasa de ataque (proporción de personas dentro de una población que se contagia de una determinada enfermedad) del 35% y una duración de la pandemia de 12 semanas (datos que se ajustan a la evolución de las comunidades autónomas más afectadas) se prevén:•278.435 ingresos hospitalarios en 12 semanas.•Pico de demanda en la semana 7.•Necesidad de más de 9.000 camas de UCI en los momentos de mayor demanda.•Necesidad de más de 5.000 respiradores en las semanas de mayor demanda.
+El escenario planteado está pensado para planificar las necesidades en el caso de que las medidas de contención no sean suficientes. Se recomienda:•Planificar en función de la situación real en cada momento.•Reevaluar la evolución en respuesta a las medidas de contención.
+
+
+- FASES DE RESPUESTA A LA PANDEMIA
+
+Se recomienda adecuar la respuesta en función de la evolución de la pandemia, .
+
+
+-- FASE 0. PREPARACIÓN
+
+•Actividad asistencial normal.•Elaboración de protocolos y plan de contingencia.•Estudio de disponibilidad de camas.•Previsión de equipamiento.•Formación del personal.
+
+
+-- FASE 1. INICIO DE LA PANDEMIA
+
+•Cancelación de cirugía electiva.•Acondicionamiento de espacios adicionales como camas de UCI.•Completar plantillas. Liberación de actividad extra UCI.•Equipos de trabajo sectorizado.
+
+
+-- FASE 2. SATURACIÓN DE LA UCI
+
+•Suspensión de toda actividad electiva.•Organizar turnos.•Sectorizar a los pacientes con COVID-19.•Criterios de ingreso estrictos.
+
+
+-- FASE 3. COLAPSO DE LA UCI Y EL HOSPITAL
+
+•Priorizar la atención de los pacientes con mayor probabilidad de recuperación.•Razón enfermeras:pacientes en función de la disponibilidad.•Priorizar el beneficio general al particular.
+
+
+- NECESIDAD DE RECURSOS HUMANOS Y TÉCNICOS
+
+-- COMITÉS DE CORONAVIRUS
+
+Los comités de coronavirus son grupos de trabajo de ámbitos nacional, autonómico y local (propio del hospital) que preparan los recursos necesarios y el plan de actuación ante todos los escenarios posibles.
+Los comités tienen como objetivos:•Definir y consensuar con la administración el plan de contingencia.•Garantizar la adquisición del material.•Realizar los protocolos necesarios.•Planificar los espacios.•Definir los procedimientos de traslado.•Organizar los equipos del trabajo.
+El papel del intensivista en los comités es básico para:•Preparar los circuitos y las áreas de atención al paciente crítico.•Definir circuitos de traslado hospitalario y extrahospitalario.•Informar de la situación y las necesidades de la UCI.
+
+
+--- RECURSOS TÉCNICOS
+
+Se establecen las siguientes recomendaciones:•Los pacientes con COVID-19 críticos deben ser atendidos en una UCI por especialistas en medicina intensiva.•Cada box o puesto de UCI debe contar con un ventilador para ventilación invasiva avanzada.•Debe existir un ventilador de transporte por cada 10 pacientes.•Se debe tener en cuenta todos estos aspectos a la hora de crear puestos de UCI extraordinarios en otras áreas del hospital.•Se recomienda mantener el agrupamiento y el aislamiento por cohortes.•Debe primar la agrupación por cohortes sobre el concepto de habitaciones con puerta cerrada.•Si una UCI dispone de boxes abiertos y cerrados, se recomienda usar inicialmente los boxes cerrados.•Si fuese necesario, ampliar el espacio físico de la UCI.
+
+
+--- RECURSOS HUMANOS
+
+Debe realizarse en cada centro un plan de modificación asistencial que incluya la distribución de cargas, las responsabilidades asistenciales y el horario laboral.
+Se recomienda la siguiente dotación de médicos intensivistas:
+Jornada ordinaria:-Un intensivista por cada 3 pacientes.-Es caso de saturación, pueden incorporarse otros médicos no intensivistas (incluidos médicos residentes) coordinados por un intensivista.
+Turno de guardia:-Dos intensivistas o 1 intensivista más 1 residente de 4.o-5.o año por cada 12 camas.-Es caso de saturación, pueden incorporarse otros médicos no intensivistas (incluidos médicos residentes) coordinados por un intensivista.
+Se recomienda la siguiente dotación de enfermeras:•Una enfermera por turno por cada 2 pacientes críticos.•Refuerzo de 1 enfermera por cada 4-6 camas para apoyo en momentos de máxima carga de trabajo (prono, intubación, traslados…).•Un técnico en cuidados auxiliares de enfermería (TCAE) por cada 4 camas.•Refuerzo por turno cada 8-12 camas para organización y limpieza de material, apoyo y sustitución.
+
+
+--- ENTRENAMIENTO DEL PERSONAL<XREF RID="BIB0045" REF-TYPE="BIBR"><SUP>9</SUP></XREF
+
+La SEMICYUC editará material formativo: infografía, posters, etc.
+Cada hospital debe organizar sesiones formativas con al menos los siguientes contenidos:-Epidemiología de COVID-19.-Impacto en la actividad.-Transmisión.-Diagnóstico de COVID-19.-Medidas de protección personal: equipos de protección personal (EPI), procedimientos y aislamiento.
+
+
+--- COMUNICACIÓN INTERNA. TRASPASO DE INFORMACIÓN
+
+Recomendamos:•Establecer un protocolo de traspaso de información.•Evitar contactos estrechos durante el traspaso de información.•Especial cuidado en transmitir plan terapéutico y anticipación de cambios.•Realizar una transmisión estructurada, por ejemplo, mediante SBAR (del inglés: Situación, Antecedentes, Evaluación y Recomendaciones).•Cumplimentar adecuadamente la historia clínica.
+
+
+--- COMUNICACIÓN E INFORMACIÓN A PACIENTES Y FAMILIARES
+
+•En las UCI donde haya casos de COVID-19, se recomienda que las familias de todos los pacientes ingresados tengan diariamente conocimiento de ello, así como del momento en que ya no haya casos, sin proporcionar ningún tipo de información adicional que pudiera atentar contra la intimidad del paciente y su familia.•Se recomienda que todas las familias de pacientes ingresados en UCI donde haya casos de COVID-19 reciban fuera de la unidad la información habitual diaria que proporciona el equipo.•Los pacientes con COVID-19 permanecerán aislados y con restricción absoluta de acompañamiento/visitas. Tan solo en situaciones analizadas de manera individual por el equipo asistencial, por necesidad imperiosa (p. ej., ante una muerte próxima) o por otras consideraciones clínicas, éticas y/o humanitarias, se permitirán excepcionalmente visitas limitadas, controladas, cortas y supervisadas, tras entrenar al familiar en la colocación y la retirada del EPI ayudándole y supervisándolo.•Se aconseja a las familias disminuir al mínimo imprescindible el acompañamiento de los pacientes, padezcan o no la enfermedad COVID-19.
+Las visitas a pacientes sin COVID-19 en unidades en las que haya ingresados pacientes COVID-19 se adaptarán a las características arquitectónicas de la unidad.
+
+
+-- USO OPTIMIZADO DE RECURSOS
+
+Los coronavirus se transmiten principalmente por las gotas respiratorias de más de 5 μm y por el contacto directo con las secreciones de pacientes infectados. También podrían transmitirse por aerosoles en procedimientos terapéuticos que los produzcan. Por ello recomendamos, , , :•Las precauciones para el tratamiento de todos los pacientes en investigación probables o confirmados deben incluir las precauciones estándar, de contacto y de transmisión por gotas.•Se debe cumplir una estricta higiene de manos.•Todos los profesionales deben estar entrenados en el uso de los EPI.•Idealmente, los pacientes deben permanecer aislados en habitación individual, si es posible con presión negativa.•Se debe dar prioridad a la agrupación (cohortización) en un área específica.•Los residuos generados se consideran residuos de clase III.•Los EPI deben retirarse dentro del box, a excepción de la protección respiratoria y ocular.•La ropa y la vajilla no requieren un tratamiento especial.
+
+
+--- EQUIPOS DE PROTECCIÓN INDIVIDUAL
+
+Los equipos deben incluir:•Guantes y ropa de protección.•Protección respiratoria.•Protección ocular y facial.
+En cuanto a la protección respiratoria, hacemos las siguientes recomendaciones, :
+Los casos confirmados y en investigación deben llevar, si es posible, mascarillas quirúrgicas.
+Emplear 2 filtros antimicrobianos de alta eficacia (ramas inspiratoria y espiratoria) en caso de ventilación mecánica invasiva.
+Utilizar sistemas de aspiración cerrada.
+Para la ventilación no invasiva se recomienda el uso de filtros antivirales y preferentemente equipos de doble tubuladura.
+Evitar la ventilación manual con bolsa mascarilla. Si se realiza, se debe utilizar un filtro antimicrobiano de alta eficacia.
+Evitar la humidificación activa, la aerosolterapia y las desconexiones del circuito.
+Para la entrada en la habitación o en un perímetro de 2 m, si no se van a realizar
+Procedimientos que generen aerosoles, se recomienda usar:-Bata (puede ser de papel desechable).-Mascarilla (quirúrgica o FFP2 si hay disponibilidad y siempre asegurando la existencia de stocks suficientes).-Guantes.-Protección ocular antisalpicaduras.
+Si se va a realizar un procedimiento generador de aerosoles, se recomienda usar, :-Mascarilla FFP2 o preferiblemente FFP3 si está disponible.-Protección ocular ajustada de montura integral o protector facial completo.-Guantes.-Bata de manga larga impermeable.
+La recomendación actual es utilizar la mascarilla una sola vez. Aunque no hay evidencia clara al respecto, en caso de escasez, las mascarillas pueden reutilizarse por el mismo profesional durante un periodo máximo de 8 h de actividad continua o intermitente. El uso extendido de la mascarilla puede realizarse si no está manchada ni húmeda.
+
+
+--- OPTIMIZACIÓN DE USO DE EPI
+
+Es necesario un uso racional de los EPI y minimizar los tiempos de exposición. Para ello se deben seguir las siguientes recomendaciones:
+Potenciar las medidas de registro, control y monitorización que no requieran entrar en la habitación.•Planificar las tareas y permanecer en la habitación el tiempo mínimo.•Agrupar las tareas que requieran entrar al box.•Ajustar las perfusiones para realizar los cambios durante una entrada programada al box.•Realizar los cuidados, exploraciones, etc., con el mínimo número de personas.•No aspirar por protocolo.•Unificar la toma de muestras para evitar entradas innecesarias. -Preparar dentro del box la muestra para el envío.-Limpiar la parte externa del tubo con un desinfectante de superficies o toallita impregnada en desinfectante.-El transporte de muestras se hará personalmente evitando los sistemas de transporte como tubo neumático.
+Los profesionales responsables del paciente deben supervisar cualquier actuación en este por personal ajeno al servicio.
+
+
+-- INDICACIONES DE INGRESO EN UCI DE NEUMONÍA POR SARS-COV-2
+
+Criterios generales de ingreso en UCI
+Recomendamos utilizar criterios objetivos de ingreso en UCI basados en las recomendaciones de la American Thoracic Socitey (ATS), la Infectious Diseases Society of America (IDSA) y la reciente evidencia del análisis de la epidemia de SARS-CoV-2 (COVID-19) en China (tabla 1 ). Se considerará el ingreso en UCI cuando haya 1 criterio mayor o 3 o más criterios menores.
+Optimización en caso de saturación•En situación de saturación o desbordamiento, es necesario priorizar la atención de los casos potencialmente más recuperables.•Los protocolos de triaje de UCI para pandemias solo deben activarse cuando los recursos de UCI en una amplia zona geográfica estén o vayan a estar desbordados a pesar de todos los esfuerzos razonables para ampliar los recursos u obtener recursos adicionales.•Es imprescindible dispone de guías de adecuación del esfuerzo terapéutico
+
+
+--- CRITERIOS DE INCLUSIÓN/EXCLUSIÓN<XREF RID="BIB0110" REF-TYPE="BIBR">22</XREF>, <XREF RID="BIB0115" REF-TYPE="BIBR">23</XREF>, <XREF RID="BIB0120" REF-TYPE="BIBR">24</XREF>, <XREF RID="BIB0125" REF-TYPE="BIBR">25</XREF
+
+
+Son criterios de exclusión para el ingreso:
+
+
+-- PLAN DE EXPANSIÓN
+
+El plan de expansión incluye la transformación y el acondicionamiento de espacios adicionales para la atención del paciente crítico en situación de colapso de las camas de UCI, así como la ampliación de la plantilla de personal experto en el cuidado del enfermo crítico.
+
+
+--- AMPLIACIÓN DE LOS SERVICIOS DE MEDICINA INTENSIVA
+
+Las posibles ubicaciones para pacientes críticos deben disponer de, , :•Gases medicinales.•Respiradores para la ventilación mecánica invasiva y no invasiva.•Posibilidad de oxigenoterapia de alto flujo.•Posibilidad de monitorización avanzada.•Posibilidad de realización de técnicas continuas de depuración extrarrenal.•Puntos para la higiene de manos.•La disponibilidad de monitorización central (telemetría) sería deseable.
+De forma orientativa, los espacios que se pueden utilizar para la ampliación de las camas de UCI son:•Unidades de cuidados intermedios atendidas por intensivistas: se necesita ajustar las razones enfermeras:pacientes a las de una UCI convencional.•Unidades de reanimación y unidades de recuperación posanestésica. Es necesario suspender la cirugía programada. Los pacientes deben ser atendidos por especialistas en medicina intensiva.•Áreas de críticos o cuidados intermedios de los servicios de urgencias.•Habilitar espacio próximo a la UCI con nueva dotación de equipos.•Transformar áreas de hospitalización convencional, hospitales de día o cirugía mayor ambulatoria.•En caso de sobresaturación debe plantearse el traslado a otro centro con disponibilidad de espacio.
+Recomendamos que, si se prev, la saturación del 100% de los servicios de medicina intensiva, debe considerarse la centralización de los recursos. Para ello se debería:•Desarrollar un procedimiento de traslado interhospitalario.•Crear en cada comunidad autónoma la figura del coordinador de pacientes críticos que pueda gestionar de manera integral todas las camas de críticos de cada comunidad.
+
+
+--- AMPLIACIÓN DE PLANTILLA
+
+Recomendamos, :
+Realizar un censo de todo el personal facultativo especialista en medicina intensiva, que incluir tambi,n:-Facultativos con contrato de guardia.-Intensivistas dedicados a otras tareas en el hospital.-Facultativos en desempleo.-Reci,n jubilados. •Censar a otros facultativos de plantilla o residentes que pudieran tener capacidad de asistencia a pacientes menos graves, coordinados por el servicio de medicina intensiva.•Prolongar contratos de sustituciones.•Realizar un plan de dotación de personal facultativo y distribución de cargas en todos los hospitales.•Realizar un censo de las enfermeras con conocimiento y experiencia del paciente crítico.•Desarrollar un plan de reubicación del personal de enfermería con experiencia hacia las reas críticas.•Tener en cuenta en las previsiones el pico de carga asistencial.•Si fuera necesario contar con personal médico o de enfermería que no desarrolla su trabajo habitual en actividades en áreas críticas, antes se le debe dar formación.•La formación debe incluir 2 áreas fundamentales: medicina o enfermería de cuidados intensivos y control de infecciones.
+
+
+-- TRASLADOS
+
+--- TRASLADO INTERHOSPITALARIO
+
+•Personal necesario: médico asistencial, enfermera asistencial y técnico en emergencias sanitarias.•El EPI adecuado para el personal de la cabina asistencial es el recomendado para situaciones de riesgo de generación de aerosoles.
+Tener en cuenta durante el traslado:•Aislamiento del conductor del compartimento del paciente.•Los familiares no pueden viajar en el vehículo de transporte.•Limitar el número de proveedores en la cabina asistencial.
+
+
+--- TRASLADO INTRAHOSPITALARIO
+
+•Se debe establecer un protocolo del circuito de traslado: itinerario, ascensor, número de intervinientes, EPI.•Pasos para el traslado:
+1. Comunicar al servicio receptor, limpieza y seguridad.
+2. Preparar el material.
+3. Colocar EPI.
+4. Avisar al servicio receptor del inicio del traslado.
+5. Bloquear el ascensor para traslado y desinfección.
+6. Personal de seguridad con mascarilla quirúrgica precederá al equipo para desalojar la zona.
+7. Desinfección de zonas transitadas.
+8. Retorno.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

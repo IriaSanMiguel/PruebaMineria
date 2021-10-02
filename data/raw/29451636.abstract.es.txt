@@ -1,0 +1,5 @@
+Describir la ocurrencia de eventos potencialmente traumáticos (EPT) en estudiantes de preparatoria, medir la sintomatología postraumática subumbral en quienes aún sufren repercusiones de un EPT y asociar la sintomatología con variables sociodemográficas y características del EPT.
+Los resultados sugieren intervenir tempranamente para disminuir el riesgo de desarrollar un trastorno.
+Estudio transversal analítico realizado en un muestra por conveniencia de 1000 estudiantes de tres preparatorias del Estado de México. Se aplicó la Escala para Estrés Postraumático en Universitarios Mexicanos. Se evaluó la presencia de síntomas y su frecuencia; la asociación con variables explicativas se realizó con modelos de regresión logística y cuantílica, respectivamente.
+80% reportó un EPT. De éstos, 79% aún sufría repercusiones actuales y casi la mitad de ellos presentó sintomatología. El sexo, número de eventos y características del EPT (cambios percibidos y gravedad) se encontraron asociados.
+

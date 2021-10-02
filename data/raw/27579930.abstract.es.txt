@@ -1,0 +1,5 @@
+investigación aplicada con el desarrollo tecnológico de un aplicativo para recolección de datos en tablet Android. Para su desarrollo, se consideraron tres criterios: seguridad de los datos, beneficios para los participantes y optimización del tiempo de los investigadores. Se realizaron pruebas con 20 participantes ficticios y un test piloto final.
+los datos del aplicativo almacenados en el banco de datos del tablet son exportados para planilla Excel. Recursos: calculadora, cronómetro, funcionamiento off-line, lógica de ramificación, validación de campos y tabulación automática.
+desarrollar aplicativo móvil para hacer investigación sobre el uso de tabaco entre pacientes psiquiátricos y la población en general.
+el aplicativo evita errores humanos y aumenta la calidad de los datos al validarlos durante la entrevista, también permite realizar una tabulación automática y torna las entrevistas menos agotadoras. Su éxito incentivará su uso y el de otros recursos computacionales por parte de los enfermeros, como herramienta de investigación.
+

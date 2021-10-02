@@ -1,0 +1,5 @@
+de la Encuesta Nacional de Salud y Nutrición 2018-2019 (Ensanut 2018-19). Se obtuvo información de 6 268 niños escolares y 5 670 adolescentes. Se estimaron modelos de regresión logística para estudiar la relación del sobrepeso y la obesidad (SP+O) con variables sociodemográficas, presencia de SP+O en padres, variables de salud y dietéticas y hábitos saludables.
+La presencia de SP+O en escolares y adolescentes está asociada con la presencia de SP+O en la madre (p<0.001), con mayor tiempo frente a pantalla y con el índice de condiciones de bienestar medio, y se reduce a mayor consumo de fibra. En adolescentes con obesidad la probabilidad de depresión se incrementa.
+Es importante reconocer los factores predisponentes y de riesgo y las causas detrás de la obesidad infantil para diseñar estrategias de prevención integrales.
+Estimar la prevalencia de obesidad escolar y adolescente en México y definir posibles factores de riesgo asociados.
+

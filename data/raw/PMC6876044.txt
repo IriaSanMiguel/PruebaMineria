@@ -1,0 +1,138 @@
+QUERATOSIS ACTÍNICA: NUEVO CONCEPTO Y ACTUALIZACIÓN TERAPÉUTICA
+
+
+- INTRODUCCIÓN
+
+La queratosis actínica (QA) es motivo de consulta frecuente tanto en atención primaria como en atención especializada. Supone el tercer o cuarto motivo más frecuente de consulta en dermatología, llegando a representar hasta un 5-6% de los pacientes atendidos.
+Además, se ha observado que esta prevalencia ha ido en aumento en los últimos 10 años, en comparación con otras dermatosis, y se prevé que seguirá aumentando por la mayor esperanza de vida y por los cambios de hábitos de exposición solar acontecidos desde mediados del siglo pasado.
+
+
+- EPIDEMIOLOGÍA
+
+En Europa, el 34% de los hombres y el 18% de las mujeres mayores de 70 años tienen QA. En nuestro país, un estudio realizado recientemente en el que están representadas las diferentes áreas geográficas sobre una población de 3.877, refleja que la tasa de prevalencia cruda de QA fue del 28,6%, incrementándose al 60,4% en los mayores de 80 años. La prevalencia fue mayor en hombres que en mujeres. La región geográfica con una mayor prevalencia se dio en la costa mediterránea (31,4%), seguido de la región Sur (28,1%) y el Norte (27,5%). La ubicación más común para QA fue la cara (77,3%), seguido por el cuero cabelludo (32%). A pesar de estos datos, se cree actualmente que la QA continúa siendo una patología infradiagnosticada.
+
+
+- EVOLUCIÓN CONCEPTUAL: CONCEPTO DE CAMPO DE CANCERIZACIÓN
+
+La relación de la QA con el carcinoma epidermoide invasivo cutáneo (CEIC) se conoce desde hace años. Aproximadamente un 60% de los CEIC se desarrollan sobre QA clínicamente evidentes, .
+Durante años, el concepto que teníamos de la QA era de una lesión premaligna o precancerosa que podía evolucionar con el tiempo a una lesión maligna de CEIC. Sin embargo, en los últimos años estamos asistiendo a nuevos avances en relación a esta evolución, que plantean un cambio en el posicionamiento conceptual de esta patología.
+Muchos expertos consideran la QA como un verdadero carcinoma escamoso cutáneo in situ (CEC in situ) al compartir características morfológicas y cambios citogenéticos. Ambos procesos tienen en común la atipia de los queratinocitos y las alteraciones genéticas, entre las que destacan las mutaciones del gen supresor tumoral p53, considerado el «guardián del genoma», crucial para inducir apoptosis.
+Hoy en día aún no conocemos los mecanismos implicados en la transformación a CEIC de una QA; sabemos que muchas QA persisten sin cambios durante largos periodos, otras involucionan espontáneamente, aunque entre el 15 y el 53% de estas recidivan dentro de los 12 meses siguientes y algunas se transforman en CEIC.
+Sin embargo, actualmente no podemos predecir qué lesiones se transformarán en un CEIC y qué lesiones no lo harán. La probabilidad de que una QA considerada individualmente se transforme en un carcinoma a priori es baja, pero si el número de QA aumenta en la misma zona, el riesgo de presentar un CEIC en dicha localización asciende; de ahí la necesidad de tratar todas las QA.
+Por todo lo anteriormente expuesto, actualmente el concepto más aceptado es considerar a la QA como un marcador de riesgo para que el paciente desarrolle un CEIC en las mismas áreas fotoexpuestas, y forma parte de un concepto más actual denominado «campo de cancerización», referido a aquel tejido adyacente a la QA con capacidad potencial de desarrollar QA y CEIC. Se ha demostrado que ese tejido adyacente comparte alteraciones moleculares con capacidad de desarrollar CEIC aunque no tenga lesiones visibles. Esta nueva propuesta está relacionada con el riesgo de desarrollo de carcinomas escamosos en toda el área como consecuencia de la radiación ultravioleta y no solo en las lesiones visibles, .
+
+
+- MECANISMOS DE PROGRESIÓN
+
+Como se ha comentado anteriormente, durante años la QA se consideró una lesión premaligna. Sin embargo, en 2003 Cockerell insistió con evidencias histopatológicas en definir el proceso como una neoplasia intraepidérmica y desarrolló el concepto de keratinocyte intraepidermic neoplasia (KIN) tipos i, ii y iii según que el grado de afectación atípica se localizara en el tercio basal del epitelio, en los dos tercios inferiores o alcanzara todo el grosor epidérmico, respectivamente. Este sistema de clasificación tendría una similitud con lo que ocurre en las neoplasias cervicales, asumiendo que solo las lesiones KIN III tendrían la capacidad de transformarse en tumores infiltrantes.
+Esta idea de progresión lógica, también llamada «vía clásica», en la que se produce un aumento progresivo de la atipia queratinocítica hasta hacerse invasiva, ha sido durante años la única vía reconocida de progresión a CEIC; sin embargo, avances recientes en este sentido han puesto de manifiesto que no siempre la progresión es «tan ordenada» o «previsible».
+Se conoce desde hace poco tiempo que, además de esta «vía clásica» de progresión, hay otra vía, a la que se ha denominado «vía diferenciada», por la que se evidencia que no es necesario un aumento progresivo de la atipia a lo largo de todas las capas de la epidermis para desarrollar un CEIC a partir de una QA. Los autores ponen de manifiesto que la lesión subyacente más frecuente encontrada en la base o borde del CEIC es una atipia en la capa basal epidérmica (es decir, un KIN I). Además, parece ser que la mayoría de los CEIC se desarrollan a través de esta nueva «vía diferenciada» (63,8%), y que los tumores originados a partir de esta «vía diferenciada» suelen tener un comportamiento más agresivo que los de la «vía clásica».
+Estos dos hechos relevantes, el concepto de «campo de cancerización» junto con un mayor conocimiento de la historia natural de la QA con el descubrimiento de esta «vía diferenciada», han sido motivo suficiente para que la QA, una afección casi banalizada hace unos años a pesar de su elevada incidencia por encima de los 50 años, esté adquiriendo un papel más relevante, ya que la presencia de este «campo de cancerización» está modificando nuestras estrategias terapéuticas considerando al paciente que lo presenta como un paciente crónico, con una elevada posibilidad de desarrollo de lesiones a lo largo de su vida.
+
+
+- PRESENTACIÓN CLÍNICA
+
+Las QA son máculas o pápulas, eritematosas, descamativas y en algunos casos hiperqueratósicas, que suelen aparecer en superficies cutáneas con historia de exposición solar continuada, como la cara, el cuero cabelludo alopécico, el dorso de las manos, la zona del escote y las piernas de las mujeres. Suelen ser menores de 1 cm, aunque pueden confluir formando placas eritemato-descamativas de mayor tamaño.
+Histológicamente, estas lesiones se caracterizan por presentar queratinocitos desorganizados y atípicos que predominan en los estratos basales de la epidermis (displasia queratinocítica basal). Se observa pleomorfismo y núcleos grandes, hipercromáticos, disqueratósicos y apoptóticos. En muchos casos la ausencia de capa granulosa lleva a la formación de paraqueratosis en la superficie de la lesión. La dermis superficial suele mostrar un infiltrado linfoide, más o menos denso, acompañado de elastosis solar.
+
+
+- DIAGNÓSTICO
+
+El diagnóstico de la QA se hace habitualmente a través de la exploración clínica. La descamación y la palpación de la hiperqueratosis nos orientan al diagnóstico . Además, la observación de otros signos de daño actínico como arrugas, piel atrófica o alteraciones de la pigmentación apoyan el diagnóstico de QA.Figura 1
+En algunos casos, la dermatoscopia puede ser útil. Los signos característicos de las QA en la exploración dermatoscópica son: pseudorretículo eritematoso, superficie descamativa, vasos lineales ondulados y aperturas foliculares. El patrón global dermatoscópico de las QA se describe como patrón «en fresa».
+
+
+- DIAGNÓSTICO DIFERENCIAL
+
+El diagnóstico diferencial de las QA debe realizarse con queratosis seborreicas, dermatitis seborreica, psoriasis, lupus eritematoso discoide, verrugas víricas, carcinoma basocelular superficial, lentigo solar, lentigo maligno melanoma, poroqueratosis y carcinoma epidermoide.•Las queratosis seborreicas son proliferaciones benignas de los queratinocitos. Aparecen normalmente a partir de los 40 años. Se inician como máculas hiperpigmentadas, con superficie ligeramente rugosa al tacto, y evolucionan hacia tumoraciones hiperqueratósicas de color marrón claro a negro. En ocasiones pueden tener una tonalidad clara que las puede hacer confundir con QA hipertróficas.•Las lesiones aisladas de dermatitis seborreica y psoriasis ocasionalmente también pueden confundirse con QA.•El lupus eritematoso discoide presenta en la exploración dermatoscópica tapones foliculares rojos sobre fondo blanco, lo que se podría considerar el patrón negativo o invertido del pseudorretículo rojo de las QA.•Las verrugas víricas pueden confundirse con QA hipertróficas. En cualquier caso, a diferencia de las QA, las verrugas víricas no son exclusivas de superficies fotoexpuestas.•El carcinoma basocelular superficial no suele ser tan descamativo y presenta una superficie brillante y signos dermatoscópicos específicos como un patrón vascular típico (telangiectasias arboriformes), estructuras en forma de hoja de arce, estructuras en rueda de carro, nidos y glóbulos azul-gris, áreas brillantes blancorrojizas, etc.•El lentigo solar se trata de una lesión benigna que debe diferenciarse especialmente de las QA pigmentadas.•El lentigo maligno melanoma (LMM) se trata de una lesión maligna de estirpe melanocítica, también localizada en zonas fotoexpuestas. Se debe distinguir de las QA pigmentadas. A diferencia de estas, el LMM no suele presentar descamación ni eritema. Además, los hallazgos dermatoscópicos típicos de los LMM son aperturas foliculares asimétricas pigmentadas, estructuras romboidales oscuras, glóbulos y puntos azul-grisáceos.•La poroqueratosis también aparece sobre piel fotoexpuesta. Se manifiesta como placas eritematosas, con un reborde anular, hiperqueratósico, muy característico, que es el reflejo de un hallazgo histológico característico de la poroqueratosis llamado lamela cornoide.•El carcinoma epidermoide invasivo cutáneo (CEIC): las QA hipertróficas y los CE invasivos son, en ocasiones, únicamente distinguibles mediante biopsia cutánea. En la exploración dermatoscópica, en el CEIC son típicos los vasos glomerulares. En lesiones de crecimiento rápido, o que no responden a tratamientos convencionales, o en las que se aprecian zonas infiltradas a la palpación, estaría indicado realizar una biopsia cutánea para descartar que se trate de un CEIC.
+
+
+- TRATAMIENTO
+
+El enfoque terapéutico de las QA se divide principalmente en 2 grupos: tratamiento de las lesiones aisladas y tratamiento del campo de cancerización. Estos tratamientos no son excluyentes entre sí, siendo recomendable la combinación de ambos en personas con daño actínico crónico. La elección de uno u otro dependerá de las características del paciente, de la localización, del número de lesiones, de los tratamientos previos recibidos, de la previsión de cumplimentación, de la experiencia del propio médico y de la propia eficacia.
+El tratamiento de las lesiones aisladas consiste en crioterapia, electrocoagulación, curetaje y 5-fluorouracilo (5-FU) 0,05% + ácido salicílico al 10%
+El tratamiento del campo de cancerización tiene por objeto tratar las lesiones visibles y las no visibles afectadas por cambios preneoplásicos en el epitelio causados por la exposición solar crónica. Incluye el tratamiento con 5-FU, terapia fotodinámica, imiquimod, diclofenaco al 3% en gel de ácido hialurónico 2,5% e ingenol mebutato.
+A continuación se describen los distintos métodos de tratamiento de las QA.
+
+
+-- TRATAMIENTOS DIRIGIDOS A LA LESIÓN
+
+--- CRIOTERAPIA
+
+La crioterapia se realiza mediante la aplicación de nitrógeno líquido sobre las lesiones para producir la necrosis y la destrucción de las mismas. Está especialmente indicada para pacientes con lesiones aisladas. Se aplica mediante un dispositivo especial (Cry-ac®) en la consulta. No necesita anestesia local.
+Tras el tratamiento, aparece eritema, costras e incluso ampollas, que se tratan con la aplicación de un antiséptico tópico. El resultado cosmético es aceptable, si bien puede dejar una hipopigmentación residual.
+Ha demostrado unas tasas de respuesta en los estudios publicados del 32 al 99%.
+La crioterapia es la técnica más utilizada debido a su inmediatez y bajo coste, si bien no sirve para tratar el campo de cancerización. No obstante, con frecuencia se utiliza combinada con los tratamientos de campo.
+
+
+--- ELECTROCIRUGÍA
+
+Consiste en la eliminación de las lesiones mediante el bisturí eléctrico, normalmente bajo anestesia local. Puede utilizarse en combinación con otros tratamientos, tanto locales como de campo.
+
+
+--- CURETAJE
+
+El curetaje o legrado consiste en la eliminación de las QA mediante una cureta o una hoja de bisturí. Posteriormente es necesario utilizar algún material o técnica hemostática (sulfato o cloruro férrico, nitrato de plata, tricloroacético al 30%, electrocoagulación).
+
+
+--- 5-FLUOROURACILO AL 0,5% + ÁCIDO SALICÍLICO AL 10
+
+Se ha comercializado recientemente para el tratamiento de QA hipertróficas aisladas (tratamiento de hasta 10 lesiones de forma simultánea). Se aplica una vez al día sobre las lesiones hasta su desaparición o durante un máximo de 12 semanas.
+Su principal efecto adverso es la irritación que produce el 5-FU, potenciada por el efecto del ácido salicílico.
+
+
+-- TRATAMIENTOS DIRIGIDOS AL CAMPO DE CANCERIZACIÓN
+
+--- 5-FLUOROURACILO AL 5
+
+El 5-FU es un antagonista de la pirimidina. Actualmente no está comercializado en España, pero se puede prescribir mediante formulación magistral al 5% en crema como tratamiento de campo, . La pauta de aplicación más frecuente es de una aplicación dos veces al día durante 2 a 4 semanas, aunque también se emplean otras pautas para minimizar el impacto de los efectos secundarios locales. El principal efecto adverso es la irritación cutánea, con eritema, costras, erosiones o ampollas.
+
+
+--- DICLOFENACO AL 3% EN GEL DE ÁCIDO HIALURÓNICO 2,5
+
+El diclofenaco es un AINE que, formulado al 3% en ácido hialurónico, ha demostrado ser eficaz para el tratamiento de las QA.
+La acción terapéutica del diclofenaco al 3% probablemente sea debida al efecto inhibidor del enzima COX-2 de los queratinocitos, que se encuentra activado en las células displásicas. El tratamiento se aplica dos veces al día durante un período de hasta 3 meses. Los efectos adversos más frecuentes son xerosis, prurito dermatitis de contacto.
+
+
+--- IMIQUIMOD
+
+El imiquimod es un inmunomodulador derivado de las imidazoquinolinas, agonista del toll-like receptor 7 (TLR7), que estimula la respuesta inmune induciendo, sintetizando y liberando citoquinas involucradas en la inmunidad celular.
+Está aprobado para el tratamiento de las QA en dos concentraciones: al 5% y al 3,75%. Se presenta en crema en sobres monodosis.
+En la concentración al 5% se aplica tres veces por semana durante 4 semanas, y en la concentración al 3,75% se aplica una vez al día durante dos ciclos de tratamiento de 2 semanas cada uno, separados por un periodo de 2 semanas sin tratamiento.
+Los efectos secundarios del imiquimod consisten en la aparición de eritema, exudación, prurito, dolor, costras y erosiones en la zona tratada. También puede aparecer un cuadro pseudogripal.
+
+
+--- INGENOL MEBUTATO
+
+El ingenol mebutato es el principio activo que se extrae de la savia de la planta Euphorbia peplus. Tiene un mecanismo de acción dual, ya que por una parte tiene citotoxicidad directa sobre los queratinocitos y, por otra, induce una respuesta inmune contra las células displásicas de la epidermis.
+Existen dos concentraciones: 150 μg/g para cara y cuero cabelludo y 500 μg/g para tronco y extremidades.
+El ingenol mebutato se aplica una vez al día durante 3 días consecutivos en cara y cuero cabelludo y una vez al día durante 2 días consecutivos en tronco y extremidades.
+Tras su aplicación puede aparecer una respuesta local, que generalmente es leve o moderada y en ocasiones intensa, con costras y exudación , pero que se resuelve completamente en 15 días con un buen resultado estético .Figura 2Figura 3Figura 4
+La mayor ventaja de ingenol mebutato para el tratamiento tópico de las QA, además de su alta eficacia, es su corta duración, lo que facilita la cumplimentación en la mayoría de los pacientes y por lo tanto aumenta la adherencia, ya que se ha observado que esta disminuye en los tratamientos tópicos de las QA conforme aumenta la duración de los mismos.
+El tratamiento combinado de forma secuencial de crioterapia y posterior aplicación 3 semanas después de ingenol mebutato resulta muy eficaz.
+
+
+--- TERAPIA FOTODINÁMICA
+
+La terapia fotodinámica consiste en la aplicación de un fotosensibilizante tópico (ácido metil-aminolevulínico o metil-aminolevulinato) ocluido durante 2 o 3 h y la posterior iluminación de la zona con una fuente de luz apropiada.
+Los fotosensibilizantes son profármacos que son captados selectivamente por las células con mayor índice mitótico y transformados en su interior en protoporfirina ix, que es fotosensible y que tras la iluminación de la zona a tratar produce una reacción fototóxica que las destruye.
+Se trata de un tratamiento que se realiza a nivel hospitalario, y su eficacia es comparable a la del imiquimod o a la del ingenol mebutato, , , , .
+Es un tratamiento de campo apropiado para lesiones múltiples no hiperqueratósicas. Estas últimas pueden ser tratadas previamente mediante curetaje o con queratolíticos 3 semanas antes del tratamiento.
+La irradiación con la luz suele ser dolorosa, por lo que en ocasiones es necesario utilizar anestesia local o troncular. Se realiza en medio hospitalario por la necesidad de aparataje.
+En la tabla 1 se resume la eficacia de los distintos tratamientos tópicos para las QA.
+
+
+- CONCLUSIONES
+
+1.La QA es una lesión con capacidad potencial de progresión a CEIC, para algunos considerada un carcinoma in situ.2.En la actualidad no existen factores predictores de progresión, de ahí la necesidad de tratamiento más allá de consideraciones estéticas.3.La presencia de QA es un marcador de daño actínico secundario a la radiación ultravioleta en el tejido donde asienta.4.Las estrategias terapéuticas van dirigidas al tratamiento concreto de la lesión visible y al tratamiento de «área» o «campo de cancerización».5.Los tratamientos de campo pueden producir reacciones locales leves-moderadas que en la mayoría de los casos no requieren retirada de fármaco.6.Una duración corta del tratamiento asegura la adherencia y la persistencia.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+R. Carmena-Ramón ha recibido honorarios por conferencias y/o asesorías y/o ayudas a congresos por parte de Almirall, Leo-Pharma, Meda e IFC.
+A. Mateu-Puchades ha recibido honorarios por conferencias y/o asesorías y/o ayudas a congresos por parte de Almirall, Leo-Pharma e Meda e IFC. S. Santos-Alarcón ha recibido honorarios por conferencias y/o asesorías y/o ayudas a congresos por parte de Almirall, Leo-Pharma Meda e IFC. S. Lucas-Truyols ha recibido honorarios por conferencias y/o asesorías y/o ayudas a congresos por parte de Almirall, Leo-Pharma e IFC.

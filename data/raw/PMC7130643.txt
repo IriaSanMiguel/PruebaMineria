@@ -1,0 +1,100 @@
+RECOMENDACIONES DE CONSENSO SEPAR-AEER SOBRE LA UTILIDAD DE LA ECOGRAFÍA TORÁCICA EN EL MANEJO DEL PACIENTE CON SOSPECHA O INFECCIÓN CONFIRMADA CON COVID-19
+
+
+- INTRODUCCIÓN
+
+La rápida progresión de la pandemia ocasionada por la infección de COVID-19 debido a su alta tasa de contagio, así como su rápida evolución a neumonías graves hacen necesario tanto un diagnóstico precoz de la enfermedad como una rápida detección de avance de su proceso neumónico.
+Actualmente la tomografía computarizada de tórax (TC de tórax) se considera la herramienta más útil tanto para el diagnóstico precoz como para vigilar la evolución de la enfermedad (ya que la PCR tiene una alta tasa de falsos negativos en los primeros días). Los hallazgos más frecuentes son el vidrio deslustrado (88%) y la consolidación (31%), que con frecuencia aparecen en la periferia pulmonar y habitualmente combinado. En un mínimo porcentaje de casos se aprecian además engrosamiento del septo interlobular, bronquiectasias y engrosamiento pleural, . Sin embargo, la TC de tórax tiene el inconveniente del desplazamiento del paciente a otras zonas del hospital, lo que supone un riesgo de transmisión a otros pacientes y los propios sanitarios del hospital (en China e Italia el 3-10% de los infectados son personal sanitario). La ecografía torácica permite la realización de una prueba de imagen en la propia habitación del paciente, lo que evita estos inconvenientes.
+Con este protocolo elaborado por el área de Técnicas y Trasplante de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR) y la Asociación Española de Endoscopia Respiratoria y Neumología Intervencionista (AEER) se propone la realización de una ecografía torácica a los pacientes con sospecha de infección por COVID-19 para confirmar su diagnóstico en los primeros síntomas y, en los casos confirmados, para realizar una rápida evaluación del estado de la enfermedad (tabla 1 ).
+
+
+- MATERIAL NECESARIO
+
+1.Ecógrafo (preferiblemente portátil para minimizar la posibilidad de contagio).2.Sonda lineal de alta frecuencia o sonda miniconvex ajustada a la frecuencia más alta posible para dicha sonda. En caso de sonda convex abdominal, ajustar igualmente a la máxima frecuencia posible.
+Las medidas de aislamiento y limpieza posterior serán iguales a las de un pase de visita convencional, añadiendo una funda protectora de un solo uso para la sonda ecográfica.
+
+
+- PROCEDIMIENTO
+
+Lo ideal es que el procedimiento sea llevado a cabo por un solo facultativo mientras que un ayudante anotará los hallazgos ecográficos observados .
+Para llevar a cabo la exploración de una manera sistemática se divide la zona anterior del tórax en 4 cuadrantes mediante una línea imaginaria que pasa por el esternón y otra que pasa por la areola que a su vez nos dividirá la zona axilar (entre línea axilar anterior y posterior) en superior e inferior (fig. 1 ).Figura 1
+En cuanto a la zona posterior del tórax, se divide también en 4 zonas mediante la columna vertebral y una línea imaginaria que recorre horizontalmente la zona dorsal a la altura del borde inferior escapular y realizaremos la exploración de medial a lateral y de caudal a craneal (fig. 2 ).Figura 2
+Dado que la afectación es bilateral en el 87% y multilobar en el 78,8% de los casos, la exploración ha de ser sistemática de todos los territorios. Comenzaremos siempre en las zonas anteriores más inferiores recorriendo longitudinalmente todo el espacio intercostal, de medial a lateral, y subiendo por los distintos espacios intercostales hasta cubrir todos los cuadrantes. Una vez explorada cada zona se anotarán (preferiblemente por un ayudante) en la hoja de recogida de datos los hallazgos ecográficos.
+Hay dos tipos de escenarios: pacientes que permiten la sedestación y los que no la permiten por su situación clínica. En el caso de estos últimos no se explorarán los territorios posteriores, si bien es importante, al explorar las zonas laterales, deslizar la sonda lo más dorsalmente posible ya que se ven afectados en el 80% de los pacientes.
+
+
+- ZONAS SUBSIDIARIAS DE EXPLORACIÓN
+
+-- PACIENTE QUE NO PERMITE SEDESTACIÓN
+
+--- DECÚBITO
+
+-R1: antero-inferior derecho.-R2: antero-superior derecho.-R3: axilar-inferior derecho.-R4: axilar-superior derecho.-L1: antero-inferior izquierdo.-L2: antero-superior izquierdo.-L3: axilar-inferior izquierdo.-L4: axilar-superior izquierdo.
+
+
+-- PACIENTE QUE PERMITE SEDESTACIÓN
+
+--- SEDESTACIÓN
+
+-R5: inferior derecho.-R6: superior derecho.-L5: inferior izquierdo.-L6: superior izquierdo.
+
+
+--- DECÚBITO
+
+-R1: antero-inferior derecho.-R2: antero-superior derecho.-R3: axilar-inferior derecho.-R4: axilar-superior derecho.-L1: antero-inferior izquierdo.-L2: antero-superior izquierdo.-L3: axilar-inferior izquierdo.-L4: axilar-superior izquierdo.
+
+
+- HALLAZGOS ECOGRÁFICOS<XREF RID="BIB0060" REF-TYPE="BIBR">4</XREF>, <XREF RID="BIB0065" REF-TYPE="BIBR">5</XREF>, <XREF RID="BIB0070" REF-TYPE="BIBR">6</XREF>, <XREF RID="BIB0075" REF-TYPE="BIBR">7</XREF>, <XREF RID="BIB0080" REF-TYPE="BIBR">8</XREF
+
+-- LÍNEAS A
+
+Presentes: normalidad.
+Ausencia: se corresponde con patrón en vidrio deslustrado.
+
+
+-- LÍNEAS B: PRESENCIA DE MÁS DE 3 LÍNEAS B POR CAMPO ECOGRÁFICO
+
+--- B3: SEPARACIÓN DE UNOS 3 MM ENTRE LAS LÍNEAS B MEDIDAS A LA ALTURA DE LA LÍNEA PLEURAL
+
+Correspondencia con:
+Patrón de vidrio deslustrado en TAC de tórax.
+Condensación parenquimatosa subyacente que no contacta directamente con pleura visceral.
+Edema alveolar: suele ser bilateral y distribuido de forma homogénea por ambos campos.
+
+
+--- B7: SEPARACIÓN DE UNOS 7 MM ENTRE LAS LÍNEAS B MEDIDAS A LA ALTURA DE LA LÍNEA PLEURAL
+
+Correspondencia con:
+Neumonía con afectación intersticial predominante.
+Intersticial crónica.
+
+
+-- CONDENSACIÓN PARENQUIMATOSA
+
+Broncograma aéreo.
+Broncograma fluido.
+Consolidación.
+Vasculatura.
+
+
+-- LÍNEA PLEURAL
+
+Normal.
+Engrosamiento difuso y/o nodular.
+Discontinuidad.
+
+
+-- DERRAME PLEURAL
+
+Es muy raro y podría representar una neumonía bacteriana añadida a la infección vírica.
+
+
+- EVOLUCIÓN DE LOS HALLAZGOS ECOGRÁFICOS DE LA ENFERMEDAD<XREF RID="BIB0060" REF-TYPE="BIBR">4</XREF>, <XREF RID="BIB0065" REF-TYPE="BIBR">5</XREF>, <XREF RID="BIB0070" REF-TYPE="BIBR">6</XREF>, <XREF RID="BIB0075" REF-TYPE="BIBR">7</XREF>, <XREF RID="BIB0080" REF-TYPE="BIBR">8</XREF
+
+La afectación se sitúa de forma preferente en la zona posterior de los lóbulos inferiores (LLII), sobre todo en las etapas iniciales.
+La evolución en el tiempo de los hallazgos ecográficos sería la siguiente (tabla 2 ):– Líneas A: dado que estas líneas se relacionan con zonas de parénquima pulmonar sano suelen verse únicamente en los primeros días y en lóbulos superiores, desapareciendo con el paso de días y volviendo a aparecer en la fase de absorción, coincidiendo con la resolución del cuadro.– Líneas B: en la etapa inicial se aprecia un aumento de líneas B de distribución focal y con una separación entre ellas, medida en la línea pleural, de unos 7 mm (líneas B7). A medida que los infiltrados pulmonares van aumentando en tamaño y se distribuyen por el resto del parénquima, las líneas B se van fusionando y disminuyendo el espacio de separación entre ellas en la línea pleural hasta llegar a 3 mm (líneas B3). Al mismo tiempo aumenta la distribución de las líneas B por ambos hemitórax hasta que comienza la fase de absorción en la que van desapareciendo progresivamente.– Condensación parenquimatosa: no es típica en la fase temprana de la enfermedad. Puede aparecer a partir del cuarto día en zonas subpleurales. Comienza en forma de pequeñas consolidaciones que posteriormente van aumentando en número y tamaño, pudiendo apreciarse en esta fase zonas con broncograma aéreo y líquido. En la etapa de absorción comienzan a desaparecer de forma progresiva.– Línea pleural: en los primeros días se visualizan zonas de pequeños engrosamientos difusos e irregulares. Con el avance de la enfermedad los engrosamientos se vuelven más nodulares con zonas de discontinuidad de la línea pleural que van desapareciendo si la enfermedad evoluciona favorablemente.– Derrame pleural: es un hallazgo muy raro en todas las fases.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

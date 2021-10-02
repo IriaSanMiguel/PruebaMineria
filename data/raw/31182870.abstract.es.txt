@@ -1,0 +1,6 @@
+La empatía es la capacidad de un individuo para entender al otro desde el punto de vista cognitivo y emocional. La empatía es un constructo complejo que representa un reto en su evaluación, por lo cual es necesario contar con instrumentos validados en población mexicana.
+Validación de la prueba de Tiras cómicas para evaluar empatía.
+Muestreo por conveniencia, se midió la consistencia interna, la validez convergente con el coeficiente de empatía, la validez de constructo con análisis factorial y la capacidad de discriminar entre sujetos con déficit de empatía por psicopatología con controles por medio de una curva Receiver Operating Characteristic (ROC) por sus siglas en inglés.
+Se validó la prueba de Tiras cómicas con adecuados parámetros psicométricos.
+La escala de Tiras cómicas se evaluó en 86 controles, 19 pacientes con esquizofrenia, a de Cronbach = 0.894. La correlación con el coeficiente de empatía fue de 0.88, con una sensibilidad del 81.3% y la especificidad del 38%.
+

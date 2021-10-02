@@ -1,0 +1,70 @@
+EFECTOS DE LA PANDEMIA POR SARS-COV-2 EN UNA COHORTE DE PACIENTES CON OBSTRUCCIÓN VENOSA RETINIANA
+
+
+- INTRODUCCIÓN
+
+La obstrucción venosa retiniana (OVR) es una consecuencia de los factores de riesgo vascular (FRV) y, en menor medida, de la trombofilia, . A nivel local el glaucoma es un factor que favorece la aparición de la OVR en localización central.
+La Organización Mundial de la Salud (OMS) declaró la enfermedad por coronavirus 2019 (COVID-19), causada por el SARS-CoV-2, como pandemia en marzo de 2020. El espectro de la enfermedad es muy variable, desde pacientes asintomáticos a otros con neumonía grave y síndrome de distrés respiratorio, . Como resultado de la respuesta hiperinflamatoria desarrollada en los casos graves, la COVID-19 se ha asociado también con tromboinflamación y trombosis, ocasionando oclusiones arteriales y venosas, microinfartos y fallo multiorgánico. La afectación vascular retiniana por la COVID-19 es infrecuente describiéndose 5 casos en la literatura, , , , uno de ellos en España.
+
+
+- OBJETIVO
+
+Analizar los casos de infección por SARS-CoV-2 en una cohorte de pacientes con OVR durante la primera y segunda olas de la pandemia (desde marzo a diciembre de 2020).
+
+
+-- PACIENTES Y MÉTODOS
+
+Todos los pacientes de nuestra área de salud diagnosticados de OVR se derivan a la consulta de medicina interna para su estudio (cohorte Valdecilla), donde se lleva a cabo el diagnóstico, la optimización, el tratamiento y el seguimiento de los FRV y de la trombofilia.
+El estudio de la cohorte Valdecilla se desarrolla en el Hospital Universitario Marqués de Valdecilla de Santander, un hospital de tercer nivel con una población de referencia de 350.000 habitantes. El Comité de Ética de Cantabria (2019.340) aprobó el estudio y los sujetos firmaron el consentimiento informado para participar.
+Entre diciembre de 2008 y diciembre de 2020 se atendieron 429 pacientes con OVR, de los cuales 40 fallecieron antes del inicio de la pandemia (marzo de 2020). Desde los primeros casos de infección por SARS-CoV-2 hasta el fin de la segunda ola, 10 pacientes de la cohorte Valdecilla han padecido COVID-19.
+
+
+-- VARIABLES CLÍNICAS
+
+Las variables clínicas registradas fueron: la diferenciación entre OVR central o de rama (temporal o nasal), la presencia de hipertensión arterial (tensión arterial ≥ 140 y/o 90 mmHg o recibir tratamiento farmacológico antihipertensivo), diabetes mellitus (según los criterios de la American Diabetes Association), dislipemia (colesterol total o triglicéridos > 230 y > 150 mg/dl, respectivamente, en al menos 2 determinaciones después de un periodo de ayunas de 24 h, o recibir tratamiento hipolipemiante) y la presencia de trombofilia genética o adquirida.
+
+
+-- DETERMINACIONES DE LABORATORIO
+
+El perfil bioquímico rutinario, incluyendo el perfil lipídico, se realizó con un autoanalizador Advia® 2400 (Siemens). En todos los pacientes se determinaron los anticuerpos antifosfolípido (anticoagulante lúpico, anticuerpos anticardiolipina y β2-glicoproteína I). El diagnóstico de síndrome antifosfolípido se estableció según las directrices de la Sociedad Internacional de Trombosis y Hemostasia. Siempre que se encontró una positividad de los anticuerpos se realizó una segunda determinación a las 12 semanas; si el anticoagulante lúpico era positivo y/o los títulos de anticuerpos anticardiolipina y/o β2-glicoproteína I eran medios o altos en la segunda determinación, se consideró positivo. En los que los resultados no fuesen concluyentes se realizó una tercera determinación pasadas 12 semanas.
+El estudio de la trombofilia genética (gen de la protrombina, factor V Leiden, proteína C, proteína S, antitrombina) se realizó a todos los pacientes entre diciembre de 2008 y diciembre de 2015, posteriormente, dado que esta trombofilia solo juega un papel importante en los sujetos menores de 50 años o sin FRV, solo se determinó en este grupo de pacientes.
+
+
+-- PRUEBAS DE IMAGEN
+
+La ecografía doppler de troncos supraaórticos se utilizó para valorar la presencia de placas de ateroma y para cuantificar el grado de estenosis vascular. El estudio se llevó a cabo mediante una ecografía en modo B y doppler color y espectral de los sistemas carotídeo y vertebral, empleando una sonda lineal de alta frecuencia (General Electric, modelo Logiq®).
+
+
+- RESULTADOS
+
+Se ha atendido a un total de 429 pacientes con OVR en nuestra consulta hasta diciembre de 2020. De ellos, 290 tenían una OVR periférica (284 temporal y 6 nasal) y 139, central. De los 429, 40 habían fallecido antes del inicio de la pandemia; por lo tanto, el grupo de estudio lo integraron 389 pacientes.
+La media de la edad fue de 67,9 ± 12,8 años. Nueve pacientes de la cohorte ya habían sido diagnosticados de OVR al inicio de la pandemia, y uno desarrolló una OVR periférica y un glaucoma post-COVID-19 recibiendo tratamiento con deflazacort oral y colirio de timolol con evolución favorable. Presentó fiebre de 38,5 °C de 3 días de evolución, cefalea, astenia y anosmia durante un mes y no se realizaron estudios analíticos. Las alteraciones visuales aparecieron a las 3 semanas del cuadro febril. No hubo cambios en las revisiones oftalmológicas realizadas tras la infección por SARS-CoV-2 en el resto de los casos que previamente ya presentaban OVR. Se completó el estudio en 4 casos incluyendo determinación de plaquetas (150.000-450.000/μl), dímero D (0-500 ng/ml) y fibrinógeno (180-500 mg/dl): caso 2: 109.000, 1.302 y 541; caso 3: 329.000, 2.692 y 6.000; caso 4: 103.000, 487 y 766. y caso 7: 279.000, 1.327 y 815, respectivamente.
+En la tabla 1 se muestra la edad, el sexo, el tipo de OVR, la fecha del diagnóstico, los FRV (hipertensión arterial, dislipemia, diabetes mellitus), la trombofilia, la presencia de ateromatosis carotídea, las enfermedades asociadas y el tratamiento previo de cada uno de los 10 casos.
+En la tabla 2 se muestra la fecha del diagnóstico, la técnica diagnóstica (PCR o anticuerpos), la sintomatología asociada a la COVID-19, la necesidad de ingreso y el tratamiento.
+
+
+- DISCUSIÓN
+
+Describimos una paciente con COVID-19 que desarrolló una OVR. Además, hemos observado la ausencia de eventos vasculares (incluida la recidiva de la OVR) después de esta infección en 9 pacientes con OVR previa (cohorte Valdecilla). Cantabria ha sido una de las comunidades autónomas con menor incidencia de la COVID-19, con 17.896 de casos totales hasta diciembre 2020 y una incidencia acumulada de alrededor del 3%, .
+La paciente con OVR, probablemente como consecuencia de la COVID-19, era joven; no presentaba ningún FRV y el estudio de trombofilia fue negativo. Aunque padecía una espondilitis anquilosante (EA) en tratamiento con secukinumab no se conoce el efecto real de los inmunomoduladores en la COVID-19; por un lado, puede aumentar el riesgo de sufrir una infección, pero por otro lado podría proteger de la cascada hiperinflamatoria. En una serie de pacientes con EA tratados con secukinumab la mayoría presentaron una forma leve de COVID-19.
+Tres de los 5 casos de OVR y COVID-19 descritos en la literatura, , son similares al nuestro. Son mujeres jóvenes (edad: 33-55 años), sin FRV ni trombofilia, que presentaron OVR unilateral después de la COVID-19. Los otros 2 casos corresponden a OVR bilateral en pacientes de entre 30-40 años, con FRV y con una neumonía grave por COVID-19, .
+Cabe resaltar que en nuestra cohorte de pacientes con OVR, el 90% tiene algún FRV, el 10% un síndrome antifosfolípido (SAF), el 13% una trombofilia genética y solo un 2% no presenta ningún FRV ni trombofilia, , .
+En los 9 pacientes pertenecientes a la cohorte Valdecilla la COVID-19 no se asoció con el desarrollo de nuevos fenómenos trombóticos ni se objetivaron nuevas alteraciones retinianas o empeoramiento de la OVR en las revisiones oftalmológicas posteriores a la infección por SARS-CoV-2. Todos tenían al menos un FRV, 6 presentaban ateromatosis carotídea y 4 cumplían criterios de SAF. En todos se controlaron los FRV y, además, 6 recibían tratamiento con ácido acetilsalicílico, uno con apixaban por fibrilación auricular y, en los 4 diagnosticados de SAF, se recomendaba heparina de bajo peso molecular (HBPM) en situaciones de reposo prolongado. Aunque no hay estudios aleatorios y controlados que lo demuestren, la profilaxis tromboembólica con HBPM se ha utilizado en la COVID-19 observándose la disminución de trombos y de mortalidad.
+En cuanto al comportamiento del SAF en pacientes con OVR hay que destacar que esta entidad presenta unas características especiales, asociándose fundamentalmente con manifestaciones de la arteriosclerosis y no con el desarrollo de trombosis venosa profunda o embolismo pulmonar, siendo la antiagregación el tratamiento de elección. Uno de nuestros pacientes presentó neumonía y 3 precisaron ingreso hospitalario.
+La COVID-19 se ha asociado con el desarrollo de oclusiones arteriales y venosas, microinfartos y fallo multiorgánico como resultado del estado de hiperinflamación y trombosis generado por el huésped como respuesta a la infección por SARS-CoV-2, siendo estas manifestaciones más frecuentes en las formas graves de la enfermedad. La OVR puede aparecer con afectación leve por SARS-CoV-2, como en nuestra paciente, y también se recoge en la literatura, .
+Este trabajo tiene como principales limitaciones el número pequeño de casos reportados y que corresponden fundamentalmente a formas leves de la COVID-19.
+
+
+- CONCLUSIONES
+
+La OVR es una manifestación infrecuente de la COVID-19. Sin embargo, conviene tener en cuenta esta entidad cuando los pacientes con COVID-19 refieran síntomas oculares como disminución de la agudeza visual. En nuestra cohorte prospectiva de pacientes con OVR, que reciben tratamiento para controlar los FRV y la trombofilia, la infección por SARS-CoV-2 no parece empeorar la OVR ni favorecer la aparición de nuevos eventos vasculares.
+
+
+- FINANCIACIÓN
+
+Este estudio no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no tienen ningún conflicto de intereses respecto al presente trabajo.

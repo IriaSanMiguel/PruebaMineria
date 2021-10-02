@@ -1,0 +1,6 @@
+Estudiamos 23 pacientes (60,9% varones). La mediana de edad en el momento de la biopsia fue 9 años (7-14 años). Empleamos EDA en el 47,8% (n= 11), colonoscopia en 26,1% (n= 6) y biopsia directa en el 34,8% (n= 8); siendo positivas para EICH en 2 (18,2%), 2 (33,3%) y 4 (50%), respectivamente.
+La enfermedad injerto contra huésped (EICH) es una complicación frecuente de los trasplantes de células precursoras hematopoyéticas alogénicos (alo-TCPH), con gran morbimortalidad. La clínica intestinal es inespecífica, planteando el diagnóstico diferencial con infecciones y etiología medicamentosa. Aunque las biopsias intestinales son el gold standard, no existe consenso sobre la mejor técnica para obtenerlas.
+Evaluar los resultados de las técnicas empleadas para obtener biopsias en pacientes con sospecha de EICH intestinal.
+Las muestras obtenidas mediante biopsia directa se plantean como una alternativa eficiente en el diagnóstico del EICH.
+Estudio retrospectivo que incluye pacientes sometidos a alo-TCPH entre 2010 y 2019, con sospecha de EICH intestinal estudiados mediante biopsias digestivas: esofagogastroduodenales (endoscopia digestiva alta - EDA) o rectales (colonoscopia o biopsia directa). Recogimos variables cuantitativas, expresadas como mediana y rango intercuartílico; y cualitativas, expresadas en frecuencia absoluta y porcentaje.
+

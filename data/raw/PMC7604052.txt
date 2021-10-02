@@ -1,0 +1,28 @@
+IMPACTO DEL CONFINAMIENTO POR LA COVID-19 EN LA ACTIVIDAD ASISTENCIAL DE CIRUGÍA PLÁSTICA EN EL SERVICIO DE URGENCIAS
+
+
+Sr. Editor:
+La irrupción de la pandemia de coronavirus SARS-CoV-2, el confinamiento domiciliario decretado el 14 de marzo de 2020 y la necesidad de reestructuración de los recursos ha supuesto un fuerte impacto en las distintas especialidades.
+Con el objetivo de conocer el impacto del confinamiento durante la epidemia de la COVID-19 en las urgencias de cirugía plástica hemos diseñado un estudio observacional descriptivo transversal. Los datos fueron recopilados por 3 cirujanos miembros del servicio de cirugía plástica de la base de datos Diraya procedentes de pacientes atendidos por cirugía plástica en el servicio de urgencias (hospital terciario referencia para 921.000 personas) desde el 16 de marzo al 26 de abril de 2020 (6 semanas de confinamiento) para compararlos con los pacientes atendido en las mismas fechas del año 2019. Se consideró desde el 18 de marzo al 28 de abril de 2019 para comparar semanas naturales. Se excluyeron los pacientes en edad pediátrica. Se obtuvo las variables edad, sexo, motivo de consulta (tabla 1 ), requerimiento de procedimiento especializado (ingreso/intervención) y tiempo en recibirlo (< 24 h o > 24 h). Motivos de consulta: menos de 5 pacientes fueron clasificados como «otros».
+Las variables cuantitativas se expresaron con la mediana (percentil 25-percentil 75) y las variables cualitativas mediante número absoluto y porcentaje. Se ha utilizado el test de U Mann-Whitney para comparar variables cuantitativas y la Chi-cuadrado para variables cualitativas. Para analizar la frecuentación se ha agrupado los datos diarios en 6 semanas de 2019 y sus correspondientes en 2020 y se ha utilizado un modelo generalizado de Poisson para comparar la incidencia semanal entre periodos. Para facilitar la interpretación, hemos transformado los coeficientes en términos de riesgo junto con sus intervalos de confianza. Para el análisis estadístico se utilizó el programa estadístico «R» con la aplicación «Rcmdr». Se consideró estadísticamente significativo (es) p = 0,05.
+Seiscientos cuarenta y ocho pacientes fueron incluidos en el estudio (35,8% mujeres, 47,0 [29,0-65,75] años de edad). Cuatrocientos cincuenta y siete fueron atendidos en el período de 2019 y 191 en el de 2020. Los pacientes atendidos en 2020 fueron más jóvenes (42,0 [27,0-60,0] años; p = 0,04). No se constataron diferencias referidas al sexo . La frecuencia relativa de las heridas en miembro superior e inferior varió durante el confinamiento . No se obtuvieron diferencias significativas en «requerimiento de ingreso/intervención quirúrgica» (16 vs. 17,3%) ni en tiempos de demora . El número de pacientes atendidos durante el confinamiento fue 3,55 (3,35-6,6) pacientes/semana por 100.000 habitantes por 8,35 (8,00-8,78) en el periodo de 2019 (p = 0,008) con riesgo relativo (RR) = 0,42 (0,25-0,68).
+Una de las posibles explicaciones para la importante disminución en el número de pacientes atendidos a la semana es la reducción de los mecanismos causales debido a la restricción de movilidad. Otra posible explicación es el miedo al contagio. Sin embargo, no hemos hallado diferencias en la proporción de pacientes que requirieron ingreso/intervención quirúrgica, dato que sugiere que no ha habido un aumento del umbral de gravedad para acudir a urgencias como se ha evidenciado en otras disciplinas. En referencia a la edad de los pacientes existe un descenso estadísticamente significativo durante la pandemia, no pudiendo descartar que los pacientes de edad avanzada hayan consultado menos por miedo al contagio.
+Durante el confinamiento, aumentó en términos relativos el porcentaje de heridas en mano y disminuyó el porcentaje de heridas en miembros inferiores y fracturas nasales. Los hallazgos podrían justificarse por una mayor exposición a accidentes domésticos y una disminución de los accidentes de tráfico y deportivos.
+No encontrar diferencias en el porcentaje de pacientes que recibieron atención especializada ni demoras en la misma, sugiere que en nuestro centro no se identificaron retrasos en la atención especializada derivados de los protocolos desarrollados para la pandemia.
+Como limitaciones del trabajo destacar que los datos fueron recogidos de un área con una seroprevalencia de COVID media, si bien gran parte de los mismos pueden ser generalizables, otros, variarán con la prevalencia de la infección.
+En resumen, la COVID-19 ha repercutido en el número de urgencias atendidas por parte del servicio de cirugía plástica, disminuyendo a menos de la mitad. Estos datos pueden ser importantes para planificar la asistencia urgente en posibles futuros rebrotes, o en países donde aún no haya irrumpido la pandemia.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+Todos los autores han confirmado el mantenimiento de la confidencialidad y respeto de los derechos de los pacientes.
+
+
+- FINANCIACIÓN
+
+Los autores declaran la no existencia de financiación en relación al artículo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran la no existencia de conflictos de intereses en relación con el artículo.

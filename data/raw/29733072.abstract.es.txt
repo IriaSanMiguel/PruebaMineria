@@ -1,0 +1,6 @@
+El estudio de farmacovigilancia que se presenta constituye el de mayor tamaño de muestra informado.
+Analizar los errores de medicación reportados por el sistema de farmacovigilancia de la Fundación Clínica Médica Sur, México, y su impacto en los pacientes.
+Los pacientes hospitalizados son susceptibles a errores de medicación, que representan entre la cuarta y sexta causa de muerte. El servicio de farmacovigilancia intrahospitalaria interviene en todo el proceso de medicación con el fin prevenir, corregir y evaluar los daños.
+Se analizaron 292 932 prescripciones de 56 368 pacientes, entre las cuales se identificó 8.9 % errores de medicación. El médico tratante fue responsable de 83.32 %, los residentes de 6.71 % y los internos de 0.09 %. Ningún error causó daño permanente o muerte.
+Estudio prospectivo efectuado de 2012 a 2015, en el que se registraron las prescripciones de medicamente a los pacientes. Los datos se describieron como número absoluto en escala logarítmica debido a la heterogeneidad.
+

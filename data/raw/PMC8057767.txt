@@ -1,0 +1,99 @@
+IMPACTO DE LOS ESTADOS DE ALARMA POR COVID-19 EN LA ATENCIÓN A PACIENTES PEDIÁTRICOS EN ATENCIÓN PRIMARIA DE UN ÁREA SANITARIA DEL NORTE DE ESPAÑA
+
+
+- INTRODUCCIÓN
+
+La pandemia del nuevo coronavirus (SARS-CoV-2) está transformando el mundo. Ha traído consigo cambios en casi todos los ámbitos, tanto en la asistencia sanitaria, como en la vida cotidiana de la población.
+El SARS-CoV-2 se detectó por primera vez en China en diciembre del 2019, generando la denominada enfermedad por coronavirus 2019 (COVID-19), causante del síndrome respiratorio agudo severo en los casos más graves. El 30 de enero del 2020, el Comité de Emergencias del Reglamento Sanitario Internacional de la Organización Mundial de la Salud declaró la situación de emergencia de salud internacional por el brote de SARS-CoV-2. El 14 de marzo, fue establecido el estado de alarma en España (Real Decreto 463/2020), aplicándose medidas extraordinarias para limitar el movimiento de la población, y se instauró el confinamiento domiciliario.
+Durante la denominada primera ola de la pandemia, la incidencia de casos de COVID-19 en la población pediátrica fue más baja que en la adulta, , , . En Madrid, el 16 de marzo del 2020, 41 de los 4.695 casos confirmados por SARS-CoV-2 (0,8%), correspondieron a menores de 18 años con síntomas clínicos que requirieron ingreso hospitalario. En el resto del mundo, el 2 de abril, se estimó alrededor de un 1,7% de población pediátrica afectada.
+Pero estas referencias a la presentación no parecen corresponder a lo que se está comprobando en la segunda ola. En España, de los pacientes pediátricos de la primera ola, el 0,6% eran menores de 15 años (1.399), frente al 11% que se comunican a partir de mayo (33.743). Esto es debido, posiblemente, a la actualización constante de protocolos y cambios específicos en los criterios para la búsqueda de casos, y la amplia disponibilidad de pruebas diagnósticas tanto en medio hospitalario como en Atención Primaria (AP) a partir de mayo del 2020.
+En el informe final del estudio de seroprevalencia realizado a nivel nacional, el 6 de julio del 2020, se estimó que en un 3,3% de la población pediátrica (<14 años) había anticuerpos contra la COVID-19, en contraposición al 5,2% del total poblacional. En cambio, la seroconversión en Asturias se estimó mucho menor, siendo del 1% en la población menor de 19 años, comparada con el 1,9% del total.
+En AP, durante los primeros meses de la pandemia, la asistencia de los infantes estuvo centrada en el cuidado y vigilancia de pacientes con sospecha de padecer la COVID-19, condicionando el retraso de otras actividades propias de la AP (Programa de Salud Infantil, seguimiento de pacientes crónicos, etc.). También fue necesario reorganizar la asistencia sanitaria, tanto a nivel de AP como a nivel hospitalario, para intentar reducir el número de contactos. Como novedad, se introdujo el triaje telefónico, se potenció la asistencia telemática, las consultas presenciales se limitaron a aquellas indispensables y se crearon áreas separadas para atender pacientes susceptibles de padecer la COVID-19.
+Dado que la AP en población pediátrica es característica de nuestro país y se encuentra ausente en otras regiones de similares características, existen pocos estudios que relacionen la asistencia infantil a este nivel con la pandemia por SARS-CoV-2.
+El objetivo de nuestro estudio es describir el impacto que han tenido los dos estados de alarma decretados en España durante la pandemia por SARS-Cov-2 en la asistencia de la población infantil a nivel de AP, así como analizar las consultas y especificaciones de las mismas, y describir las características epidemiológicas y demográficas de los pacientes.
+
+
+- MATERIAL Y MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Estudio observacional retrospectivo.
+
+
+-- LUGAR DE ESTUDIO
+
+-Los datos analizados durante la primera ola, se recogieron de las Unidades de Pediatría de los Centros de Salud del Área VII del Servicio de Salud del Principado de Asturias. La población del área sanitaria es de 60.322 personas, con un total de 4.711 menores de 14 años (7,8% del total de la población del área). En el área hay un total de cinco Unidades de Pediatría, cada una de las cuales incluye dos cupos. Todas las Unidades de Pediatría tienen un horario de atención por la mañana y, posteriormente, horario de guardia.-Los datos analizados durante la segunda ola, se recogieron de la Unidad de Pediatría del centro de salud Mieres Sur, la cual incluye dos cupos, considerando esta como referencia del área al ser la que da asistencia a más pacientes (1.368 infantes).
+
+
+-- JUSTIFICACIÓN DEL TAMAÑO MUESTRAL
+
+Con un total de 4.711 menores de 14 años en el área de población referida, se analizaron un total de 3.091 visitas a AP durante el tiempo de estudio (2.139 consultas durante la primera quincena del primer estado de alarma y 952 durante la segunda quincena del segundo estado de alarma). Este tamaño muestral permitió estimar los parámetros de interés con una seguridad del 95% y una precisión del 2% para determinar las características de los pacientes incluidos.
+Para representar al área sanitaria con un nivel de confianza del 95% y un error del 5%, se calculó una muestra necesaria de 356 pacientes, eligiéndose el Centro de Salud de Mieres Sur, que cuenta con 1.368 menores de 14 años (siendo además el centro que atiende a mayor número de infantes).
+
+
+-- POBLACIÓN
+
+Pacientes menores de 14 años.
+Criterios de inclusión: pacientes atendidos en AP durante los períodos de estudio especificados, en horario matutino.
+Criterios de exclusión: no hubo.
+
+
+-- PERÍODO DE ESTUDIO
+
+-Primer estado de alarma•Primera quincena (15 a 29 marzo del 2020)•El resto del estado de alarma dividido en las fases establecidas (hasta el 20 de junio)-Segundo estado de alarma•Primera quincena (25 octubre a 8 noviembre del 2020)•El resto del estado de alarma se dividió en quincenas hasta la finalización de recogida de datos (23 de diciembre). Actualmente, se mantiene vigente dicho estado de alarma.
+
+
+-- VARIABLES
+
+-Consultas realizadas (n).-Variables de tipo demográficas: edad (expresada en media de meses y rango intercuartílico), sexo (varon/mujer) y centro de salud perteneciente (cinco centros de salud estudiados).-Tipo de consulta (presencial, telefónica, demanda normal, urgencia, receta médica, revisión de salud, proceso administrativo, administración de vacuna).-Motivo de consulta (síntomas respiratorios, accidente, etc.), incluyendo si hubo sospecha de infección por COVID-19.-Necesidad de seguimiento posterior y reconsulta por parte del paciente.-Pruebas complementarias realizadas (incluyendo realización de reacción en cadena de la polimerasa [PCR] COVID-19 en segunda ola).-Tratamiento prescrito (antibioterapia, corticoterapia, broncodilatadores y otros).-Necesidad de derivación hospitalaria.
+
+
+-- PROTOCOLO DE ESTUDIO
+
+-Primera parte: se analizaron datos de la primera quincena del primer estado de alarma (15 a 29 marzo del 2020) y los primeros seis meses del 2020 y sus períodos homólogos del 2019 en el área VII.-Segunda parte: se analizaron datos de la primera quincena del segundo estado de alarma (25 octubre a 8 de noviembre del 2020) en el área VII y en la Unidad de Pediatría de referencia (Centro de Salud Mieres Sur) y los últimos cinco meses del 2020 y sus períodos homólogos del 2019 también en el Centro de Salud Mieres Sur.-Tercera parte: se compararon datos del primer estado de alarma con datos del segundo en el Centro de Salud Mieres Sur.
+
+
+-- ASPECTOS ÉTICOS
+
+En todo momento se han seguido todos los aspectos éticos recomendados para la publicación científica y requeridos por Elsevier (autoría y originalidad del manuscrito, reconocimiento de fuentes, etc.). Previo inicio del proyecto se obtuvo la aprobación del Comité de Ética de la Investigación del Principado de Asturias para la recogida de datos a través de historias clínicas informatizadas de los pacientes.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los test estadísticos se realizaron con el software IBM SPSS v.21. Se efectuó un análisis descriptivo de las variables recogidas en el estudio. Las variables cuantitativas se expresaron como media y rango. Las variables cualitativas se expresan como valor absoluto y porcentaje. Se utilizó para la comparación de variables cualitativas el test X 2, y para la comparación de variables cuantitativas se emplearon pruebas paramétricas (t de Student) cuando la muestra presentaba una distribución normal y tests no paramétricos cuando la distribución de la muestra no era normal. La significación estadística se estableció como p < 0,05.
+
+
+- RESULTADOS
+
+Como presentamos en la tabla 1 , se observa una gran disminución de las consultas durante la primera quincena del primer estado de alarma (15 a 29 de marzo), en la cual se atendieron 758 pacientes en todas las unidades pediátricas del área, en comparación con 1.381 atendidos durante el mismo período del 2019. Se observa una media de edad en ambos períodos muy similar (69 y 68 meses), con una distribución por sexos también muy similar (54,9 y 52% de varones). El grupo de edad predominante en ambos períodos fue mayores de seis años. El tipo de consulta más frecuente fue «demanda normal» y el motivo de consulta más recurrente fue el referido al aparato respiratorio. No se atendió ningún paciente con prueba positiva para COVID-19 en el período del 2020. La distribución de la atención en el área durante los primeros seis meses del 2020 se plasma en la figura 1 , comparándose con el mismo período del 2019.Figura 1
+En cuanto a los datos de asistencia pediátrica en toda el área sanitaria durante la primera quincena del segundo estado de alarma, se documentaron 1.375 consultas vs. 1.233 en 2019, distribución similar a la asistencia que se registró en la Unidad de Pediatría de referencia del área en el mismo período (Centro de Salud de Mieres Sur), donde se documentaron 484 consultas vs. 468 en 2019 (tabla 2 ), observando una diferencia mucho menor, e incluso reflejándose más consultas en 2020. La distribución por sexo fue similar en ambos períodos (en torno al 50% de varones), así como el grupo de edad que consultó más fueron los pacientes mayores de seis años. El tipo de consulta más frecuente fue «demanda normal», y el motivo de consulta más recurrente también fue en relación con el aparato respiratorio. En este período se diagnosticó un paciente COVID-19 positivo. La distribución de la asistencia en esta Unidad de Pediatría en comparación con el mismo período de 2019 se observa en la figura 2 . Además, analizamos la asistencia de esta unidad entre el primer y segundo estado de alarma, que se muestra en la tabla 3 .Figura 2
+Se analizaron y compararon las características demográficas, clínicas y tipo de consultas en ambos estados de alarma . No se observaron diferencias estadísticamente significativas en la distribución por grupos de edad y sexo de los pacientes que consultaron, pero sí destaca una mayor media de edad en el segundo estado de alarma. En ambos se objetivó un aumento estadísticamente significativo del porcentaje de consultas telefónicas (84,4 vs. 4,3% y 83,5 vs. 1,8%), además de una diferencia significativa entre ambos estados de alarma (95,7 vs. 83,5%). En cuanto a tipos de consultas, durante la primera ola, se observa una disminución de revisiones de salud en relación con el período del 2019 que no se objetiva durante la segunda ola, pero al comparar ambos estados de alarma, sí existe una reducción del porcentaje de revisiones. No así en las consultas de vacunación, manteniéndose sin variación en ambos períodos. La distribución por motivos de consulta fue similar, siendo los más frecuentes procesos respiratorios, gastroenteritis y síndrome febril. La disminución de las consultas durante la primera ola fue principalmente a expensas de procesos infecciosos.
+Hubo una diferencia significativa en la realización de pruebas complementarias en ambos estados de alarma (1,6 vs. 5,9% y 20,1 vs. 4,4%). Durante el segundo se documentó un caso COVID-19 y se realizaron 37 PCR (84,1% del total de pruebas complementarias solicitadas).
+La disminución de indicación de tratamiento médico fue significativa en ambos estados de alarma (92 vs. 162 y 12 vs. 43).
+Se observó un aumento estadísticamente significativo del seguimiento a los 15 días de la primera consulta en ambos períodos. El porcentaje de derivaciones hospitalarias disminuyó en los mismos.
+
+
+- DISCUSIÓN
+
+La pandemia por COVID-19 ha supuesto una variación de la demanda sanitaria de los niños en AP, especialmente durante el primer estado de alarma, así como un cambio en el tipo de asistencia, desarrollándose especialmente la medicina telemática.
+Durante el primer estado de alarma, las consultas disminuyeron de forma significativa. Este descenso se debió principalmente a la reducción en la incidencia de procesos infecciosos. Es llamativa también la gran disminución de consultas tipo urgencia en comparación con el período del 2019, la cual puede ser atribuible a varios factores, como el miedo a acudir a los centros de salud y la reducción de la circulación del virus debido al confinamiento domiciliario. Observamos que, tras el fin del confinamiento domiciliario de los niños, las consultas aumentaron progresivamente hasta igualarse un mes después con el mismo período del año previo.
+En la literatura científica podemos encontrar situaciones similares a la descrita, , , , . Un estudio realizado durante una huelga de guarderías en Vitoria en el año 2006, puso de manifiesto el descenso de las consultas de la población pediátrica de forma significativa (hasta un 34,6%), a expensas principalmente de episodios infecciosos banales. En otro estudio se plasmó, que durante la huelga nacional de Francia de 1995 donde la población se mantuvo en sus casas durante 19 días (incluidos los niños que normalmente acudían a las guarderías), hubo un descenso significativo de los casos de bronquiolitis. Ambas situaciones son similares a la que vivimos durante el confinamiento domiciliario del primer estado de alarma, lo cual corroboramos en una primera parte del estudio que realizamos en un centro de salud. En dicho trabajo, se objetivó un descenso del número de consultas (195 vs. 396 pacientes) en la primera quincena del confinamiento domiciliario (marzo del 2020), principalmente a expensas de enfermedades infecciosas. Sin embargo, cuando el confinamiento pediátrico terminó, el número de consultas volvió a aumentar, siendo incluso mayor que el año anterior (558 vs. 468 pacientes).
+En cambio, durante el segundo estado de alarma, observamos un número de consultas similar en comparación con el mismo período del 2019, pudiendo ser debido a que en este no se estableció el confinamiento domiciliario y la actividad escolar se mantuvo. Se han publicado estudios donde se refleja que la apertura de los colegios no ha demostrado una mayor transmisibilidad de la infección por SARS-CoV-2, debido a las medidas de higiene de manos, uso obligatorio de mascarilla en mayores de seis años y distanciamiento interpersonal, . En cambio, los colegios de educación secundaria sí podrían tener un papel importante en la transmisibilidad del virus. El incremento de las consultas en este segundo período, al igual que el aumento de la media de edad, podría deberse a la implantación de protocolos específicos para la detección precoz de casos sospechosos de COVID-19 en infantes escolarizados, lo cual ha generado una mayor carga asistencial de las consultas de AP.
+En los centros sanitarios, hubo que reorganizar la asistencia, estableciendo un triaje telefónico previo, por lo que, como vemos en nuestros resultados, el porcentaje de consultas telefónicas aumentó de forma significativa. Asimismo, disminuyó el número de consultas presenciales, reduciéndose estas a las indicadas por el facultativo. El número de consultas para seguimiento clínico telefónico también aumentó debido a la reducción de la valoración presencial en la primera consulta. Esta situación ya se ha descrito en otros estudios, , . Por ejemplo, de las 2.127.610 consultas que se realizaron entre marzo y junio del 2020 en Barcelona, 1.453.666 (68,3%) fueron de tipo telemático. En otro trabajo, se efectuó una encuesta virtual a pediatras de Atención Primaria de Israel, revelándose que las consultas de tipo telemático (mensajes de texto, fotografías y videoconferencias) habían aumentado durante el confinamiento de forma significativa, 15 vs. 40%.
+Para disminuir el contacto y las visitas al centro de salud que no fueran imprescindibles, desde la Asociación Española de Pediatría (AEP) propusieron restringir las revisiones de salud durante el primer estado de alarma, priorizando la realización de estas en los lactantes. Estas fueron reiniciándose de forma progresiva y llevándose a cabo con normalidad durante el segundo período.
+En mayo del 2020, comenzó a estar disponible la realización de PCR de COVID-19 en los centros de salud, y con ello cambiaron los protocolos de diagnóstico de pacientes sospechosos de infección por SARS-CoV-2, aumentando de forma significativa las pruebas complementarias durante el segundo período de estudio, a expensas principalmente de la realización de dicha prueba.
+Debido a la disminución de procesos infecciosos, la indicación de tratamientos farmacológicos también disminuyó de forma significativa, así como la necesidad de derivación hospitalaria.
+Consideramos que hubo limitaciones al realizar el estudio. Estas fueron, principalmente, el diseño retrospectivo del estudio, lo cual dificulta la recogida de datos. Otra problemática fue la variabilidad interpersonal en cuanto a la práctica clínica y la codificación de los motivos de consulta entre los diferentes facultativos. Para minimizar esas limitaciones agrupamos los diferentes diagnósticos en categorías que resultasen objetivas y diseñamos un estudio fácilmente reproducible.
+
+
+- CONCLUSIONES
+
+Durante el primer estado de alarma, disminuyó la asistencia a pacientes pediátricos en las Unidades de Pediatría de AP con respecto a años previos. Dicho fenómeno puede ser debido a la reducción de la circulación de virus en la población y a la restricción de las revisiones de salud. Se establecieron con éxito los circuitos de asistencia a pacientes y la atención telefónica.
+Durante el segundo estado de alarma la asistencia fue similar a años previos, aplicándose los mencionados circuitos de asistencia y atención telefónica.
+El triaje telefónico y el impulso de la telemedicina con el fin de reducir el número de contactos entre la población ha conseguido disminuir las consultas presenciales a aquellas que resultan imprescindibles. Las medidas que se han establecido para evitar la transmisibilidad del virus en la población han demostrado ser efectivas, reflejándose en el descenso del número de consultas en los centros de salud.
+Durante esta pandemia se ha demostrado la capacidad de los centros sanitarios y concretamente de las Unidades de Pediatría de AP para adaptarse a la situación. Las herramientas y cambios en la asistencia implementados han sido efectivos para prestar atención a todos los pacientes en el momento y forma adecuados.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

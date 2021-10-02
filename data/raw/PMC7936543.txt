@@ -1,0 +1,48 @@
+PRECAUCIÓN CON EL USO DE DEXAMETASONA EN PACIENTES CON COVID-19 EN SUS FASES INICIALES
+
+
+- INTRODUCCIÓN
+
+La COVID-19 es una enfermedad bifásica, con una fase inicial de viremia y una fase tardía inmune, en la que una minoría de pacientes puede desarrollar una enfermedad grave, caracterizada por una respuesta hiperinflamatoria definida como síndrome de tormenta de citoquinas que puede producir el fracaso respiratorio y la muerte del paciente.
+La dexametasona se ha demostrado que disminuye la mortalidad en un grupo de pacientes que presentan neumonía grave. El papel de la dexametasona en la fase inicial y su influencia en la segunda fase no están bien establecidos, incluso puede ser perjudicial al producir un aumento en la carga viral, .
+Revisamos los casos de 8 pacientes ingresados por COVID-19 en nuestro hospital que habían recibido tratamiento ambulatorio con dexametasona y describimos sus características clínicas, analíticas y radiológicas, así como su evolución durante el ingreso.
+
+
+- OBJETIVOS
+
+Describir las características clínico-radiológicas, la respuesta inflamatoria y la evolución clínica de una serie de pacientes ingresados por neumonía por SARS-CoV-2 que habían recibido tratamiento con dexametasona previamente a su ingreso.
+
+
+- PACIENTES Y MÉTODO
+
+Revisión de las historias clínicas de todos los pacientes ingresados en nuestro hospital por neumonía por SARS-CoV-2 en el período comprendido entre el 1 y 31 de enero de 2021. Se seleccionaron aquellas en las que en los antecedentes figuraba el uso previo al ingreso de dexametasona, por causa de la infección. Se recogieron los datos clínicos, radiológicos, analíticos y la evolución de los pacientes que habían recibido tratamiento en el momento del ingreso.
+Usamos un sistema semicuantitativo desarrollado por la British Thoracic Imaging Society para clasificar radiológicamente la afectación pulmonar como leve (< 25%), moderada (25-50%) o grave (≥ 51%).
+Revisamos las historias clínicas de todos los pacientes fallecidos por COVID-19 en nuestro hospital en el mismo período y se determinó si entre sus antecedentes estaba la toma de dexametasona antes del ingreso.
+
+
+- RESULTADOS
+
+En total 8 pacientes habían recibido tratamiento con dexametasona de forma ambulatoria. Las características demográficas, radiológicas, analíticas, el tratamiento empleado y la evolución se recoge en la tabla 1 .
+Hubo 5 mujeres y 3 varones con una edad media de 50,2 años (33-73). Todos los pacientes recibieron una dosis de 6 mg/día de dexametasona, con una media de 4,5 días de tratamiento (3-6) previo al ingreso. La PaO2/FiO2 fue superior a 300 mmHg en los 8 pacientes. En los 6 casos en los que se dispuso de la tomografía computarizada de alta resolución (TCAR), 5 (83,3%) presentaron afectación grave. Solo 2 de los 8 pacientes (25%) tuvieron niveles de ferritina superiores a 500 μg/dl y en ningún caso fueron superiores a 1.000 μg/dl.
+Respecto al tratamiento empleado, en todos los casos se administraron pulsos de 6 metilprednisolona a dosis de 2 mg/kg/día durante 3-5 días; uno recibió además tratamiento con anakinra, siendo necesaria la administración de oxigenoterapia nasal de alto flujo (ONAF) en 3 (37,5%) pacientes por desarrollo de insuficiencia respiratoria durante el ingreso. No hubo requerimientos de intubación ni ningún fallecimiento.
+Ninguno de los pacientes fallecidos por COVID-19 en nuestro hospital en la fecha del estudio había recibido tratamiento ambulatorio con dexametasona.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+Los pacientes con tratamiento previo con dexametasona que ingresaron en nuestro hospital por neumonía por SARS-CoV-2 presentaron infiltrados extensos en la TCAR y requirieron durante el ingreso ONAF en más de un tercio de los casos, si bien la evolución final fue favorable en todos ellos, sin necesidad de intubación orotraqueal ni resultado de muerte.
+Tras la publicación del estudio REVOVERY en el que se demostró que el tratamiento con dexametasona disminuía la mortalidad en los pacientes con neumonía grave por COVID-19, no es de extrañar que muchos médicos nos hayamos sentido tentados a su administración en algunos pacientes fuera de los criterios de inclusión del ensayo clínico. Sin embargo, se desconoce su papel en estas situaciones.
+Se sabe, a partir de los resultados de estudios realizados en pacientes con enfermedades autoinmunes sistémicas, que la toma de corticoides con dosis medias de 10 mg/día o superiores de prednisolona o equivalentes, se relacionan con un aumento significativo de la mortalidad, . Esto se ha correlacionado fundamentalmente con un aumento de la viremia o una disminución de su aclaramiento. En nuestra pequeña serie, aunque no hubo ningún fallecimiento, la extensión por TCAR de la neumonía fue grave y varios pacientes requirieron de ONAF.
+Sin embargo, esto contrasta con unos marcadores de respuesta inflamatoria significativamente más bajos que los esperados por la enfermedad. Cuando comparamos los niveles de proteína C reactiva (PCR) y ferritina de los pacientes tratados de forma ambulatoria con la media de nuestra serie de pacientes con síndrome de tormenta de citoquinas tratados en la en el inicio de la pandemia con pulsos de corticoides, observamos unos niveles significativamente más bajos de ferritina (410,5 vs. 1.031 μg/l) y PCR (72,3 vs. 105,2 mg/dl). Es posible que, de alguna forma, la dexametasona pudiera frenar los marcadores de la tormenta de citoquinas, si bien el complejo mecanismo fisiopatológico por el que se produce la insuficiencia respiratoria no se detenga con su uso precoz, .
+Las limitaciones de este estudio están en el pequeño tamaño muestral, no disponer de los marcadores de liberación de citoquinas en el momento de iniciarse la dexametasona y en que desconocemos la evolución de todos los pacientes que han seguido tratamiento con este fármaco de forma ambulatoria y no han acudido al hospital.
+Hasta que los resultados de los estudios no demuestren un efecto beneficioso del uso precoz de los corticoides en la fase inicial de viremia por SARS-CoV-2 pensamos que no deben usarse de forma habitual, salvo que el paciente los requiera por otras enfermedades.
+
+
+- FINANCIACIÓN
+
+Este estudio no ha recibido ninguna financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

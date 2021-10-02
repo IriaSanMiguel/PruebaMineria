@@ -1,0 +1,5 @@
+Se obtuvieron 44 069 entrevistas de viviendas completas y 82 490 entrevistas completas de individuos. La tasa de respuesta de hogar fue 87%. La tasa de respuesta de individuos fue de 98%.
+El diseño probabilístico de la encuesta permite hacer inferencias estadísticas válidas sobre parámetros de interés para la salud pública a nivel nacional y para las 32 entidades federativas. Además, algunos de sus resultados son comparables con los de la Ensanut 2012 para poder identificar potenciales cambios en los estados de salud y nutrición de la población mexicana, para que en caso de ser necesario s adecuen las políticas de salud.
+Describir el diseño metodológico de la Encuesta Nacional de Salud y Nutrición 2018-19 (Ensanut 2018-19).
+La Ensanut 2018-19 es una encuesta probabilística de hogares. Se describen los siguientes elementos del diseño: alcance de la encuesta, procedimiento de muestreo, procedimiento de medición, procedimiento de inferencia y organización logística.
+

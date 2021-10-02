@@ -1,0 +1,4 @@
+Para responder esta pregunta utilizamos Epistemonikos, la mayor base de datos de revisiones sistemáticas en salud, la cual es mantenida mediante búsquedas en múltiples fuentes de información, incluyendo MEDLINE, EMBASE, Cochrane, entre otras. Extrajimos los datos desde las revisiones identificadas, reanalizamos los datos de los estudios primarios, realizamos un metanálisis y preparamos tablas de resumen de los resultados utilizando el método GRADE.
+Identificamos dos revisiones sistemáticas que en conjunto incluyen catorce estudios aleatorizados. Concluimos que el uso de flumazenil no disminuye la mortalidad en pacientes con encefalopatía hepática, y no está claro si produce alguna mejoría clínica porque la certeza de la evidencia es muy baja.
+El flumazenil es un antagonista del complejo receptor GABA/benzodiacepinas que podría tener un rol en el manejo de la encefalopatía hepática. Sin embargo, existe controversia sobre su eficacia y seguridad.
+

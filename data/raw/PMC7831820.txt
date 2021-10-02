@@ -1,0 +1,47 @@
+CALIDAD DE LA VISIÓN EN ENDOSCOPIA EN TIEMPOS DE PANDEMIA: ¿INFLUYEN LOS EPP EN LA CALIDAD VISUAL DURANTE LA ENDOSCOPIA DIGESTIVA
+
+
+- INTRODUCCIÓN Y JUSTIFICACIÓN
+
+Desde la aparición de la pandemia por el virus SARS-CoV-2 (COVID-19), en diciembre de 2019 toda la población, y especialmente el personal de salud, se ha visto abocado al uso obligatorio de elementos de protección personal (EPP), que disminuyen la probabilidad de contacto, y por lo tanto, de contagio de la enfermedad ocasionada por este agente, cuya virulencia es alta con respecto a epidemias recientemente vividas en el mundo.
+Específicamente en endoscopia digestiva, la producción de aerosoles y la protección del personal directamente implicado en los procedimientos ha tomado gran relevancia, lo que ha llevado a la discusión sobre el tema en múltiples foros, tanto en las asociaciones de gastroenterología y endoscopia, como en los comités de infectología de las instituciones de salud. La recomendación de la mayoría de los documentos, fruto de estas reuniones y consensos, es el uso de respiradores con filtros N95 o superior (FFP2 y FFP3) y protección ocular, ya sea mediante monogafas y/o pantallas protectoras, que pudiesen disminuir la exposición de las conjuntivas o mucosas al virus. En el mercado, adicionalmente se encuentran piezas faciales de cara completa con filtros N95 y protección facial y ocular simultánea, que se han convertido en una alternativa para algunos médicos especialistas, .
+Para ningún endoscopista es ajena la incomodidad, la limitación para el intercambio libre del flujo de aire durante la respiración y los efectos sobre la piel facial que pueden producir estos dispositivos, sin embargo, un aspecto relevante es la disminución en la agudeza y calidad visual dada por empañamiento que se presenta con el uso de algunas monogafas ajustables o el brillo adicional que podría, en un momento, limitar la eficacia del procedimiento, ya sea por la disminución en la capacidad para detección y tipificación de lesiones pequeñas, como dificultar y demorar la realización de procedimientos terapéuticos, cuya eficacia y seguridad, en muchos casos, depende de la precisión, .
+Por tal motivo, se plantea una cuantificación y comparación de parámetros visuales, como lo son la agudeza visual (AV), definida como la capacidad del sistema visual humano para resolver, reconocer o discriminar detalles en los objetos en condiciones de alto contraste y buen nivel de iluminación, en fracción de Snellen, la sensibilidad al contraste (SC), que representa el menor contraste que el sistema visual puede detectar y el test de Ishihara de visión de colores (VC), que es una prueba que se vale de círculos de puntos de colores y tamaños aleatorios para identificar defectos en la visión a color, en especialistas endoscopistas con diferentes modalidades de EPP, con el objetivo de evaluar el impacto del uso de dos modalidades de elementos de protección personal en la calidad de la visión durante la endoscopia digestiva.
+
+
+- MÉTODOS
+
+Se realiza un estudio piloto observacional de corte transversal, en el cual se examinó a profesores de gastroenterología con más de 10 años de experiencia en endoscopia digestiva, uno de ellos con corrección de defecto refractivo mediante gafas con lentes convencionales y el otro con antecedente de cirugía refractiva asistida con láser, sin necesidad de corrección óptica.
+Cada sujeto usó las dos modalidades de los EPP así: modalidad #1: respirador N95 3M 1860 verde + monogafas 3M + pantalla protectora y modalidad #2: pieza facial de cara completa 3M 6800 con filtros 3M 7093C NIOSH HF/P100.
+Se realiza el examen oftalmológico por parte de un oftalmólogo, profesor universitario con pantalla de optotipos NIDEK SC 1600 (fig. 1 ): con esta se realiza toma de agudeza visual (AV medida en fracción de Snellen a 20 pies) (fig. 2 ), prueba con función de contraste (SC) (con el optotipo representado al 25, 12,5 o al 6% del contraste, siendo la mejor visión de contraste posible al 6%) y test de Ishihara de visión a colores (VC) (10 imágenes del test de Ishihara) (fig. 3 ). Previo a la colocación de los EPP, se toma medición de AV mejor corregida en cada uno de los sujetos, posteriormente, se coloca los EPP y se realiza toma de AV mejor corregida, sensibilidad al contraste y test de visión a colores al momento de la colocación, a los 15, 25 y 45 minutos (Figura 4, Figura 5 ).Figura 1Figura 2Figura 3Figura 4Figura 5
+Posteriormente, y después de un descanso de 30 min, los sujetos cambian a la otra modalidad de EPP para volver a realizar el examen oftalmológico visual en los mismos intervalos de tiempo.
+
+
+- RESULTADOS
+
+Después de la valoración por parte de oftalmología del examen visual de los sujetos con pantalla de optotipos NIDEK SC 1600 de agudeza visual (AV medida en fracción de Snellen a 20 pies), prueba con función de contraste (SC) y test de Ishihara de visión a colores (VC) (10 imágenes del test de Ishihara), con evaluación independiente de ambos ojos de cada sujeto previo, minuto 0, 15, 25 y 45 (tabla 1 ).
+Se evidencia una disminución significativa que empeora con el tiempo de los tres parámetros con el uso de la primera modalidad de EPP (respirador N95 3 M 1860 verde + monogafas 3M + pantalla protectora), encontrando una disminución de la agudeza visual de 37% al colocarlos y hasta en un 75% luego de los 45 min de su uso (fig. 6 ), siendo mayor el compromiso para la sensibilidad al contraste 75%, inicialmente, y del 100% después de 45 minutos (fig. 7 ), y la visión de colores en un 25% al inicio y hasta del 60% a los 45 minutos (fig. 8 ).Figura 6Figura 7Figura 8
+Con el uso de la segunda modalidad de EPP (pieza facial de cara completa 3M 6800 con filtros 3M 7093C NIOSH HF/P100). No hay variación en ninguno de los parámetros mencionados, manteniendo una calidad visual igual a la basal.
+
+
+- DISCUSIÓN
+
+Este es el primer estudio que evalúa la afectación en la calidad de la visualización durante procedimientos médicos usando diferentes modalidades de EPP en época de pandemia por SARS-CoV-2 (COVID-19), los cuales tienen repercusión sobre la valoración de los parámetros ópticos y probablemente en la calidad de los estudios endoscópicos (entendida esta como un aumento en la tasa de complicaciones y disminución en el rendimiento diagnóstico para lesiones con cambios sutiles en el patrón mucoso, ya sean preneoplásicas o neoplásicas tempranas). Esta alteración es dada por una limitación significativa en la agudeza visual, la sensibilidad al contraste y la visualización de colores, parámetros que se afectan en este estudio desde el momento mismo de su colocación y que empeoran en el tiempo, de acuerdo con la duración del procedimiento.
+Los EPP tipo pieza facial de cara completa no alteran los parámetros ópticos evaluados en la primera medición, ni con el paso del tiempo durante el procedimiento, igualándose a las mediciones ópticas obtenidas sin el uso de los EPP, la cual se considera, la mejor visión posible para cada sujeto.
+Se requieren estudios con un mayor número de mediciones que pudiesen confirmar o refutar los hallazgos de este estudio piloto, así como estudios prospectivos que permitan hacer objetivo si las alteraciones visuales documentadas durante esta época de pandemia tienen repercusiones en los desenlaces fuertes en calidad de endoscopia.
+Un punto adicional, mas no menor, será la evaluación del impacto sobre la ergonomía y la salud en el trabajo que tenga el uso de estos EPP.
+
+
+- CONCLUSIÓN
+
+Algunas modalidades de EPP utilizadas durante la endoscopia digestiva disminuyen la calidad de la visión de los endoscopistas, lo que podría repercutir en la calidad, e incluso en la frecuencia de complicaciones de los procedimientos tanto diagnósticos como terapéuticos realizados durante la pandemia por SARS-CoV-2 (COVID-19).
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

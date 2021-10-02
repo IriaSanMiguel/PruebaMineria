@@ -1,0 +1,130 @@
+ESCENARIO DE RIESGO DE INTRODUCCIÓN DE LA INFLUENZA TIPO A EN MÉXICO ESTIMADO MEDIANTE GEOINTELIGENCIA
+
+
+La influenza tipo A es una enfermedad infecciosa causada por un virus de la familia Orthomyxoviridae y se clasifica en de baja patogenicidad y de alta patogenicidad . En todo el mundo, algunas cepas del virus de la influenza tipo A pueden causar altas tasas de mortalidad. En 2017, la Organización Mundial de la Salud (OMS) publicó los primeros reportes de serotipos con alto grado de patogenicidad (H5N1 y H7N9), capaces de afectar a los seres humanos y con tasas de mortalidad de 27% y 60%, respectivamente . Lo alarmante desde una perspectiva epidemiológica es que, en ambos casos, existe gran capacidad de mutación y con ello la posibilidad de generar nuevas recombinaciones de las que no se encontró evidencia.
+En este sentido, el agente causal de la influenza tipo A se considera un grave problema para la salud mundial, ya que pueden existir hasta 144 recombinaciones posibles según las hemaglutininas y neuraminidasas de superficie que las componen . Por otra parte, el riesgo se potencializa por la existencia de múltiples hospederos y los mecanismos de dispersión de este tipo de virus que, en forma implícita, otorga un gran potencial pandémico.
+Se la ha catalogado también como una enfermedad trasfronteriza, ya que ha cruzado la barrera entre las especies animal y humana . Según la OMS, en años recientes han existido brotes de alta patogenicidad y de baja patogenicidad en varias regiones del mundo, donde se considera una enfermedad compleja con graves repercusiones en la salud de la población en Europa, América, Asia y Oriente Medio . Por otra parte, ha tenido un impacto grave en la economía y la salud pública en regiones donde se consideran endémicos virus con alto grado de patogenicidad .
+Se dice que de cinco nuevas enfermedades humanas que aparecen cada año en el mundo, tres son de origen animal y que al menos 75% de los agentes patógenos de enfermedades infecciosas reemergentes del ser humano son de origen zoonótico, como las variantes del agente causal de la influenza tipo A .
+Por lo anterior, las enfermedades reemergentes representan un riesgo global para la salud pública, puesto que existen reservorios y mecanismos de dispersión que favorecen su propagación. El dinamismo del mundo actual con la globalización, el cambio climático y el comportamiento humano multiplica las oportunidades para que los patógenos colonicen nuevos territorios y evolucionen bajo nuevas formas o serotipos , los cuales se pueden convertir en riesgos potenciales para la salud humana.
+Entre octubre de 2014 y diciembre de 2016 se reportó la existencia de 1 973 brotes de influenza con alto grado de patogenicidad en el mundo, con dictámenes positivos avalados por laboratorios de la OMS y la Organización Mundial de Sanidad Animal (OIE, por sus siglas en francés), cuya distribución geográfica abarcaba el sudeste asiático, Oriente Medio, África central y brotes dispersos en Asia, Europa, norte de África y América del Norte.
+La complejidad de los problemas en salud pública en el mundo actual hace que se perciban como un poliedro conformado por múltiples y cambiantes perspectivas, lo que justifica la variedad de enfoques con las que se deben abordar dichas problemáticas . Este es el caso del análisis y modelado geoespacial, donde se aborda el riesgo de introducción que representa el agente causal de la influenza con alto grado de patogenicidad ya que, ante un brote, la situación en salud puede modificarse con rapidez y traer consecuencias negativas, lo que implica una evaluación y acciones inmediatas .
+Por ello, incorporar enfoques alternativos podría coadyuvar en la forma de abordar, comprender y atender este tipo de enfermedades , a través de la modelación de las posibles áreas de riesgo de introducción de un patógeno hacia un territorio determinado y evidenciar el riesgo sanitario con base en el contexto espacio-temporal. Por otra parte, no se encontraron estudios que hayan considerado las distancias euclidianas en la estimación del escenario de potencial probabilístico de introducción (Ppi), que se incorporan en el presente estudio para robustecer la metodología.
+Las aplicaciones de estas metodologías pueden ayudar en el diseño de estrategias hacia áreas específicas y políticas direccionadas; con ello se lograrían mejores resultados y se optimizarían los recursos.
+Derivado de lo anterior, el objetivo de la presente investigación fue estimar el escenario de potencial probabilístico de introducción (Ppi) del agente causal de la influenza tipo A en México mediante métodos y técnicas de carácter geoespacial.
+
+
+- MATERIALES Y MÉTODOS
+
+Para el desarrollo del modelo se utilizó el software QGIS Versión 2.18 Las Palmas de Gran Canarias® y ArcGis-ArcMap versión 10.1®.
+El modelado geoespacial se sustenta en el enfoque de la geointeligencia, que se refiere a la explotación y análisis avanzado de datos obtenidos por sistemas de colección de información geoespacial bajo un enfoque transdisciplinario dirigido a los tomadores de decisiones . Desde el punto de vista epidemiológico, se apoya en el concepto de “una sola salud” que señala que la salud humana y la sanidad animal son interdependientes y están vinculadas a los ecosistemas en los cuales coexisten .
+Es fundamental incorporar una visión integradora mediante el análisis exploratorio de datos espaciales (AEDE), ya que los hallazgos proporcionan información al tomador de decisiones en salud pública, para prestar atención adicional a la planificación espacial de medidas de control ante enfermedades reemergentes .
+El presente estudio es ecológico cuantitativo con información geográficamente referida, la cual se considera el insumo principal en la estimación del escenario de Ppi. Como universo se consideraron 1 973 brotes distribuidos en 45 países, entre ellos Canadá, EE.UU. y México, ocurridos entre 2014-2016, incluidos los ocho serotipos de influenza con alto grado de patogenicidad (H5, H5N1, H5N2, H5N5, H5N6, H5N8, H5N9 y H7N9) , así como los factores relacionados .
+El modelado geoespacial considera como eje rector el concepto de contagio que involucra el número de eventos espaciales, la intensidad de la cepa, el análisis epidemiológico y el análisis espacial, que se integran y desarrollan en cinco etapas.
+
+
+-- PRIMERA ETAPA
+
+Se realizó la representación espacial de la ubicación de los brotes en un sistema de coordenadas, ya que la agrupación de brotes puede representar poblaciones en riesgo . Por ello, se lo definió como el insumo detonante para estimar el escenario de Ppi .
+
+
+-- SEGUNDA ETAPA
+
+Se desarrolló un modelo de conexidad de los brotes , que estima las medidas de tendencia central y de dispersión para la delimitación territorial de superficies a través de la denomina distancia general (Dg). Se considera el territorio de México como nodo de interés y la asociación espacial con las múltiples detecciones en el período de estudio integradas con la siguiente ecuación:
+Dg = (((∑((dni/nO1)+(dni/nO2)+(dni/nO3)+...+…+(dni/nO1972)+(dni/nO1973))+(dnO1/nO1)+(dnO1/nO2)+(dnO1/nO3)+...+…+(dnO1/nO1972)+(dnO1/nO1973))+((dnO1973/nO1)+(dnO1973/nO2)+(dnO1973/nO3)+...+…+(dnO1973/nO1972)+ (dnO1973/nO1973)/N))/N))).
+Donde:
+Dg: distancia general.
+d: distancia.
+ni: nodo de interés.
+nO: nodo de origen.
+N: total de detecciones.
+De esta forma, se estimaron los insumos para el cálculo de las isocronas de riesgo sanitario (Is-RS) , con base en la técnica de estadística clásica de análisis de la relación (σ′2/µ) (varianza/media) con crecimiento exponencial. Mediante la denominada área de influencia , se consideró una media de 6 825 km y desviación estándar de 6 277 km obtenidos del modelo de conexidad como insumos para el cálculo con la siguiente ecuación:
+Donde:
+Is-RS: isocronas de riesgo sanitario.
+dmed: distancia media.
+desvest: desviación estándar.
+x: coeficiente exponencial.
+Desde el punto de geoestadístico, el modelo crea una red de conectividad entre los nodos; es decir, establece una distancia media ponderada como una imaginaria referencial, de la cual se obtiene una Is-RS inicial de 548 Km y su crecimiento a seis Is-RS. Estas últimas describen la continuidad espacial vista como un fenómeno territorial e involucra funciones para modelar la variación territorial y, con ello, interpolar en el espacio en el valor del área de influencia en el denominado espacio euclidiano .
+
+
+-- TERCERA ETAPA
+
+Involucró la caracterización del área de fuente de inoculo para entender la ecología viral del agente causal de la influenza tipo A mediante el modelo de máxima entropía (Maxent) que, según diferentes autores , es robusto para estimar el nicho ecológico (áreas de confort) de distintas especies. Además, estima y utiliza la curva característica de operación receptora (COR) para evaluar la estimación el diagnóstico que este causa, así como el peso que cada variable representa.
+El Maxent® ha sido de gran utilidad en la estimación de escenarios de la influenza de alta patogenicidad en el sudeste asiático y otras regiones del planeta . Posee gran efectividad en estimar áreas semejantes desde el punto de vista ambiental , mediante la asociación espacial de 19 variables ambientales con criterios biológicamente significativos de la base mundial (BIOCLIM) con una resolución espacial de 0,5 grados , lo que permite definir las áreas de confort para la especie y se describen de la siguiente forma:
+BIO1 = temperatura media anual
+BIO2 = intervalo diurno medio
+BIO3 = isotermalidad (BIO2 / BIO7) (*100)
+BIO4 = estacionalidad de la temperatura (desviación estándar * 100)
+BIO5 = temperatura máxima del mes más cálido
+BIO6 = temperatura mínima del mes más frío
+BIO7 = rango anual de temperatura
+BIO8 = temperatura media del trimestre más húmedo
+BIO9 = temperatura media del trimestre más seco
+BIO10 = temperatura media del trimestre más cálido
+BIO11 = temperatura media del trimestre más frío
+BIO12 = precipitación anual
+BIO13 = precipitación del mes más húmedo
+BIO14 = precipitación del mes más seco
+BIO15 = estacionalidad de la precipitación
+BIO16 = precipitación del trimestre más húmedo
+BIO17 = precipitación del trimestre más seco
+BIO18 = precipitación del trimestre más cálido
+BIO19 = precipitación del trimestre más frío
+Además, el modelo involucró criterios de exclusión espacial como la duplicidad en la ubicación y la falta de exactitud de los brotes o detecciones (se excluyeron los datos con menos de cuatro dígitos después del punto).
+
+
+-- CUARTA ETAPA
+
+Involucró la caracterización de los mecanismos de dispersión en el área fuente de inóculo apoyado en la hipótesis de que uno de los principales componentes que favorecen la dispersión. Se asocia a las rutas de aves migratorias , pues estas son transmisoras secundarias de virus con alto grado de patogenicidad y reservorios primarios de virus de influenza aviar de baja patogenicidad .
+Por lo anterior, se incorporaron como una variable espacio-temporal y se tomó como referencia los dos períodos de setiembre a marzo con trayectorias de norte a sur y de abril a agosto con trayectorias de sur a norte , a partir de los cuales se realizó un proceso de sobreposición geométrico cartográfico. Además, desde el punto de vista de la altitud, se identifican distancias de 10 a 700 metros sobre el nivel de suelo, que representan el rango de altitudes donde se observa la mayor parte de la migración de aves en estudios con radar .
+
+
+-- QUINTA ETAPA
+
+Se realizó la integración de las variables en la estimación del Ppi mediante la evaluación espacial multicriterio (EEMC) que involucra la asignación de pesos a través de una matriz de valoración con base en una escala de valores de 0,0 a 0,9. El análisis de diferencias espaciales se realiza mediante la relación nodo/punto, línea/red y topología de polígono, según los criterios epidemiológicos del agente causal de la influenza bajo la siguiente ecuación:
+Luego, mediante el uso del operador boleano espacial AND (para cumplir dos o más condiciones en forma simultánea), se analizó la geometría lógica del riesgo de introducción y se caracterizó el territorio nacional en los rangos Muy alto, Alto, Medio, Bajo y Muy bajo .
+
+
+- RESULTADOS
+
+En la se muestra la representación espacial de los brotes obtenidos en la primera etapa, donde se evidencia la agrupación o los clusters en el sudeste asiático, Oriente Medio, Europa y África Central; así como brotes aislados en el continente americano.
+En la segunda etapa, se evidencian las áreas de fuente de inóculo mediante las cuatro primeras Is-RS, que aluden al principio geográfico de proximidad bajo la primera ley de Tobler que señala que “todas las cosas están relacionadas entre sí, pero las cosas más próximas en el espacio tienen una relación mayor que las distantes”; así, se caracteriza un área de influencia de 2 192 km denominada área de fuente de inóculo .
+En la tercera etapa, se obtuvo el modelo de similitud climática para caracterizar el área de fuente de inoculo en la estimación del Ppi. Este permitió definir las superficies con mayor aptitud ambiental para virus con alta patogenicidad (tonalidades rojas) que, desde el punto de vista territorial, pueden influir en el riesgo de introducción a México. Además, es considerado un modelo robusto, puesto que cuenta con análisis de COR con un valor de 0,923 y supera el valor crítico de 0,700 en este tipo de modelos.
+Por otra parte, se identifican las variables principales para la estimación del escenario: la precipitación del trimestre más húmedo contribuye con 22,5%, la temperatura media anual con 21,3%, la estacionalidad de temperatura con 11,6%, la precipitación del trimestre más cálido con 7,8%; y u36,8% se distribuye en las 15 variables ambientales restantes .
+Por último, en la cuarta etapa el riesgo de introducción se identificó como área de fuente de inóculo la costa oeste de los EEUU y de mayor extensión la costa este hacia la mitad de ese país, donde se identifica un alto índice de similitud climática con valores entre 0,6 y 0,9 en tonalidades de amarillo a rojo.
+Para México se evidencian cuatro porciones en riesgo sanitario, con muy alto riesgo se encuentra la mayor parte de la península de Yucatán y una pequeña porción al norte de Coahuila; con menor superficie, pero alto riesgo se encuentra una pequeña franja que comprende desde la porción central de Chiapas hasta Tabasco, así como la porción norte de los estados de Tamaulipas, Nuevo León, Coahuila y Chihuahua. Sin embargo, casi la mitad del territorio nacional desde la porción más estrecha de Sonora hacia el centro del país se encuentra con un riesgo de introducción alto se encuentra, siguiendo la planicie costera del Golfo, pasando por el istmo de Tehuantepec hasta la frontera sur en Chiapas. En riesgo bajo se encuentra la península de Baja California y parte de la costa del Pacífico, desde Guerrero hasta el norte de Nayarit .
+De igual forma, se identificó la región de América Central y El Caribe como un área fuente de inóculo, donde el modelo de similitud climática cuenta con valores que oscilan entre 0,6 y 0,9 con aptitud ambiental que favorece a este tipo de virus.
+Se evidencia con muy alto riesgo la región que abarca desde Chiapas siguiendo el istmo de Tehuantepec por la planicie costera del Golfo hasta el límite norte del país desde Tamaulipas hasta Chihuahua, parte de la península de Baja California y el norte de la península de Yucatán.
+Con riesgo medio se encuentra una sección de la península de Baja California, así como una franja de norte a sur de Chihuahua a Durango. Por último, con riesgo bajo se halla la mayor parte de la península de Yucatán y una franja de Sonora a Nayarit .
+La estimación del escenario de Ppi del agente causal de la influenza tipo A evidencia que la mayoría de la población 78 millones de habitantes se encuentra con un índice de introducción alto, que se distribuye en más de la mitad del territorio nacional (50,59%). Desde el punto de vista estacional, el mayor riesgo se identifica en el período de setiembre a marzo.
+Aproximadamente 24 millones de habitantes tienen un índice de Ppi medio, y se distribuyen en 26,14% de la superficie de México. Sin embargo, con Ppi muy alto se encuentran 5,2 millones de habitantes distribuidos en 8,66 % del territorio nacional. Esto muestra que 94% de la población se encuentra en riesgo de medio a muy alto, lo que implica que 85% de la superficie del país está expuesto a la introducción del agente causal de la influenza tipo A.
+Por último, con un índice de Ppi bajo se encuentran tres millones de habitantes en 11,30 % de la superficie nacional, y con un índice de Ppi muy bajo hay 1,2 millones habitantes .
+
+
+- DISCUSIÓN
+
+Se identificó que 60% del territorio mexicano se encontraría en riesgo alto y muy alto, lo que refleja que 74,5% de la población se encontraría expuesta a la introducción de virus muy patógeno, con mayor riesgo de setiembre a marzo con una trayectoria sur-norte. Se observa también un área de influencia de 2 192 km, considerada el área fuente de inóculo. En ella se jerarquizaron las subáreas de acuerdo al Ppi. Esta estimación del modelo se validó con el análisis COR del Maxent; el resultado fue de 0,923 superior al valor crítico 0,700 , por lo cual se considera un modelo óptimo que indica que el escenario estimado identificó 92,3% de las áreas que cuentan con mayor probabilidad de introducción de virus con alta patogenicidad.
+Además, el modelo identificó que las variables temperatura y precipitación fueron las que más influyeron en la estimación del nicho ecológico, lo que permitió la ubicación espacial de las superficies con las condiciones ambientales propicias para la sobrevivencia y desarrollo de este tipo de virus, con alta autocorrelación espacial .
+Las técnicas y métodos empleados en esta investigación son recomendables para analizar problemas epidemiológicos y sanitarios, ya que pueden estimar una posibilidad de ocurrencia con base en la interacción de variables geofísicas, antrópicas y epidemiológicas y reflejar los resultados en tiempo y espacio. Así, permiten robustecer la toma de decisiones ante problemas remergentes de salud, pues se integran varios factores que potencializan la introducción y movilidad de patógenos (clima, mecanismo de dispersión y hospedantes) de características específicas para subsistir y desarrollarse.
+La elaboración de las Is-RS como insumo en la estimación del Ppi permite tener un referente espacial de la distancia representativa entre los brotes de influenza muy patógena; es decir, se incorpora el espacio euclidiano en la caracterización del riesgo sanitario, ya que todo problema en salud es ubicable y diferenciado desde el punto de vista territorial. Esto permite poner límites o áreas de posible alcance del elemento de riesgo, los cuales se potencializan asociados a los procesos de globalización (movimientos trasnacionales) y fenómenos macroambientales como el calentamiento global, que inciden en la aparición de enfermedades remergentes como la influenza con alto grado de patogenicidad. En este sentido, es pertinente señalar que no se encontraron estudios anteriores donde se hayan considerado las distancias euclidianas en la metodología para estimar escenarios de Ppi, lo que puede suponer que la estimación en este estudio sea más robusta, ya que estas fueron incluidas.
+Las epidemias de influenza no están determinadas solo por elementos biológicos . Por ello, en el presente estudio, la caracterización del Ppi involucró un componente temporal con mayor definición, a diferencia de otras investigaciones sobre riesgo de influenza en los que solo se han utilizado variables bioclimáticas, geográficas, antropógenas o el Maxent® como modelo de distribución potencial . Nuestros resultados evidencian dos períodos de riesgo de introducción , lo que permitió estimar un escenario de introducción con mayor resolución espacial y temporal. Así, se obtuvo un modelo más robusto que muestra el tiempo de mayor riesgo (de setiembre a marzo), con una posible movilización del agente causal de la influenza tipo A de sur a norte. A su vez, esto permitió fortalecer la estimación del riesgo de introducción en el escenario de Ppi a México.
+Este tipo de modelos puede fortalecer la toma de decisiones en materia de prevención y actuación ante problemas remergentes de salud como lo es el agente causal de la influenza tipo A. Esto es gracias a que se concibió el Ppi como una herramienta cartográfica que puede coadyuvar a direccionar las acciones y control ante la aparición de brotes o detecciones de este tipo de virus en cualquier lugar del territorio mexicano. Así, es posible fortalecer la respuesta inmediata de los servicios sanitarios y direccionar estrategias que impacten en la vigilancia, monitorización o control de la influenza con alto grado de patogenicidad y coadyuvar en la planificación de estrategias de prevención y actuación ante un brote o detección.
+
+
+- CONCLUSIONES
+
+El modelado geoespacial constituye una herramienta para la priorización y planificación de acciones y para dar soporte en la toma de decisiones en la salud pública, debido a que representan el riesgo sanitario desde los puntos de vista epidemiológico, espacial y temporal ante enfermedades reemergentes como el agente causal de los virus de influenza tipo A. Se vislumbra un escenario probabilístico de alarma, ya que más de la mitad del territorio mexicano se encontraría en algún nivel de riesgo de tener contacto con virus con alto grado de patogenicidad y una posible combinación con los de baja patogenicidad.
+
+
+- CONTRIBUCIÓN DE LOS AUTORES
+
+EIZ, DGH, GMA y MEGC participaron en la conceptualización, planteo, análisis e interpretación. Todos los autores aprueban la versión final del escrito y asumen la responsabilidad pública por su contenido.
+
+
+- FINANCIAMIENTO
+
+La presente investigación se llevó a cabo con el subsidio otorgado por una beca del Consejo Nacional de Ciencia y Tecnología (CONACYT) en el período 2016-2018.
+
+
+- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.

@@ -1,0 +1,89 @@
+IMPACTO DEL DOLOR CRÓNICO DISCAPACITANTE: RESULTADOS DE UN ESTUDIO POBLACIONAL TRANSVERSAL CON ENTREVISTA CARA A CARA
+
+
+- INTRODUCCIÓN
+
+Se estima que la prevalencia de dolor crónico (DC) en España es del 17,03% (IC 95% = 16,88-17,19), afectando a unas 6.658.363 personas mayores de 16 años. Aunque son muchos los estudios epidemiológicos sobre DC, estos varían en la forma de definirlo, . Entre ellos, algunos coinciden en considerar el DC cuando este produce discapacidad (en adelante, dolor crónico discapacitante [DCD]), , , entendiéndola como la disfunción, actividad limitada y restricción en la participación social.
+En este sentido, el 11,36% (IC 95% = 11,23-11,49) de la población general española mayor de 16 años padece DC, mientras que el 5,67% (IC 95% = 5,57-5,77) tendría DC aunque no discapacitante (DCnD). El DCD es más prevalente entre las personas de estados sociales más vulnerables y mucho más frecuente entre las mujeres, , incrementándose las diferencias con respecto a los hombres conforme aumenta la edad. Además, debido al progresivo deterioro de la población que padece DCnD, esta pasaría a estar en riesgo de desarrollar DCD, , dándose en edades tempranas, especialmente entre las mujeres.
+Así pues, aunque empieza a haber evidencia de que el DCD supone un problema de salud de gran importancia para la salud pública y los sistemas sanitarios, especialmente en Atención Primaria, es necesario realizar más estudios que utilicen una definición consensuada del DCD y que permitan conocer su impacto así como factores que prevengan su desarrollo.
+El objetivo de este trabajo es conocer el impacto del DCD en la calidad de vida, el trabajo, el consumo de medicamentos y la utilización de servicios sanitarios.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Utilizamos la Encuesta Andaluza de Salud (EAS, edición 2011), con diseño transversal y poblacional, muestreo polietápico estratificado y entrevista cara a cara de 6.507 personas mayores de 16 años (p = q = 0,5; nivel confianza = 95%; precisión = 1,49; efecto del diseño = 1,52; tasa de respuesta = 67,9%).
+
+
+-- VARIABLES
+
+Variable dependiente: DCD, definida como población con DC limitada en su actividad por dolores crónicos. Sus categorías son DCD, DCnD y nDC, siendo esta última la de referencia en todos los análisis .
+Variables independientes: calidad de vida relacionada con la salud (CVRS), salud percibida, necesidad de ayuda en actividades de la vida diaria (AVD), apoyo social funcional, condiciones laborales, problemas de salud debidos al trabajo, ausencia laboral, consumo de medicamentos y utilización de servicios sanitarios .
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se obtuvieron porcentajes, medias, intervalos de confianza al 95%, coeficientes de variación, residuos tipificados corregidos, p-valores y odds ratio (OR) obtenidas a partir de modelos de regresión logística multinomial en los que se analizó la asociación de las variables independientes con la dependiente. Todos los modelos fueron ajustados por sexo y edad, su interacción y otras formadas con las variables independientes. Se ofrecen gráficos de barras simples y apiladas, con y sin ejes secundarios. Se utilizó un nivel de significación del 5% y los análisis se realizaron considerando pesos del diseño muestral, mediante el SPSSv.19.
+
+
+- RESULTADOS
+
+-- ESTADO DE SALUD
+
+La población con DCD obtiene una CVRS y una salud percibida significativamente muy inferiores a las de la población con DCnD y nDC (p < 0,001) . Por el contrario, la población con DCnD no obtuvo diferencias estadísticamente significativas con respecto a la población nDC.Figura 1
+En términos de probabilidad de padecer DCD , esta es significativamente superior en mujeres, siendo significativamente mayor a medida que mejora la salud percibida (1,6 veces superior en mala o muy mala; 1,8 en regular; 2,4 en buena y 8,6 veces en muy buena; p < 0,001). También la probabilidad de padecer DCnD es significativamente superior en mujeres, aunque es inferior y no se modifica significativamente según la salud percibida. Por otro lado, las personas con salud percibida mala o muy mala tienen una probabilidad 25 y 11 veces mayor de padecer DCD o DCnD, respectivamente, cada 10 años de más edad, disminuyendo a mejor salud percibida.
+
+
+-- ACTIVIDAD DE LA VIDA DIARIA
+
+Tanto las necesidades instrumentales como las básicas en población mayor de 65 años se asocian muy significativamente al DCD (49,6 y 37%, respectivamente, p < 0,001), observándose porcentajes muy superiores a los de la población con DCnD o nDC. Además, un 7,1 y un 3,2% de la población con DCD y necesidades básicas o instrumentales (respectivamente) no recibe ayuda; porcentajes superiores, aunque no estadísticamente significativos, a los de la población nDC (5,4 y 2,4%, respectivamente), población general (5 y 2,5%) y población con DCnD para ayuda básica, no así para la instrumental (0 y 4,8%). Por último, la probabilidad del DCD fue significativamente más del doble en población con necesidades de ayuda, siendo bastante menor para DCnD .
+
+
+-- APOYO SOCIAL FUNCIONAL
+
+La población con DCD obtiene puntuaciones medias significativamente muy inferiores (componente afectivo: DCD = 75,1; DCnD = 78,8; nDC = 81,9; y población general = 80,9; componente confidencial: DCD = 83,8, DCnD = 85,7; nDC = 87,4; y población general = 86,9; p < 0,001). Se observó una mayor probabilidad de tener DCD a menor apoyo social funcional (OR = 1,032, p < 0,001 y OR = 1,021, p = 0,028), disminuyendo ligera aunque significativamente para DCD conforme aumenta la edad.
+
+
+-- SALUD LABORAL
+
+Los problemas de salud debidos al trabajo y la ausencia laboral prolongada son significativamente muy superiores en la población con DCD con respecto a la de DCnD o nDC .
+Se observó una probabilidad significativamente muy superior de padecer DCD en población con problemas de salud debidos al trabajo , siendo las más altas con dolor muscular (ORmujeres = 17,9 y ORhombres = 5,6). Fueron también significativas aunque más bajas para DCnD, excepto en nervios y estrés .
+La probabilidad de padecer DCD fue significativamente mayor en población con condiciones físicas en el trabajo peores o intermedias, no alcanzando la significación en DCnD. Sin embargo, no se observó mayor probabilidad de padecer DCD o DCnD en población con exposición psicosocial en el trabajo más desfavorable o intermedia .
+
+
+-- CONSUMO DE MEDICAMENTOS
+
+Un 71,5 y un 82,8% de la población con DCD consumió medicinas para el dolor y otras medicinas, respectivamente, en las últimas 2 semanas, porcentajes significativamente muy superiores a los de DCnD y nDC .
+La población con DCD consumió el triple de medicamentos que la población nDC (2,8 y 0,9, respectivamente), y significativamente más que la población con DCnD (1,6; p < 0,01).
+
+
+-- UTILIZACIÓN DE SERVICIOS SANITARIOS
+
+La utilización de Atención Primaria, Urgencias, médico general o especialista es significativamente superior en población con DCD (91, 36,5, 35,9 y 9,1%, respectivamente), mientras que la hospitalización es de casi el doble (13% en DCD, 7,6% en DCnD y 7,1% en nDC). Además, como viene observándose en este estudio, las poblaciones con DCnD o nDC no difieren significativamente, a excepción del médico especialista. Respecto al tipo de cobertura sanitaria, no se observaron diferencias estadísticamente significativas .
+
+
+- DISCUSIÓN
+
+Los resultados de este estudio permiten concluir que la población con DCD con respecto a aquella con DCnD y nDC y, en mayor medida, las mujeres con DCD, tienen peor estado de salud, más necesidades de las AVD, menos apoyo social funcional, peores condiciones de trabajo y más ausencias laborales, mayor consumo de medicamentos (relacionados o no con dolor) y mayor utilización de todos los servicios sanitarios. Así pues, este estudio cuantifica la magnitud de esos impactos en cada una de las subpoblaciones de estudio (DCD, DCnD, nDC) y analiza las diferencias entre ellas.
+Como en otros trabajos, el lugar del estudio, el criterio utilizado para la definición de DC y las características metodológicas hacen que las estimaciones de prevalencia e impacto varíen. Nuestra definición de DC ha sido el diagnóstico médico o profesional sanitario bajo criterio del Plan andaluz de atención a las personas con dolor, coincidente con el de la International Association for the Study of Pain (IASP). La discapacidad fue definida de acuerdo con la OMS, incluyendo la disfunción (problemas en la función o estructura corporal), recogida en un amplio rango de EC , mientras que la actividad limitada y participación social (dificultad en hacer una tarea o acción) fue recogida como respuesta (sí/no) para cada enfermedades crónicas (EC). Aunque nuestros resultados sobre DC son comparables con otros estudios poblacionales, , hemos encontrado muy pocos que midan su impacto diferenciando en la misma muestra la subpoblación de DCD de aquella con DCnD. Este hecho es clave ya que, como hemos demostrado, la población con DCD es la que impacta significativamente comparada con la de nDC, no observándose esto con la de DCnD.
+Así pues, nuestro trabajo muestra que los peores estados de salud se dan en población con DCD, mientras que la población con DCnD obtiene resultados mejores y similares a los de la población nDC. Esta pérdida es aún más evidente en cuanto a la salud percibida mala o muy mala entre la población con DCD, reflejando la importancia de la experiencia subjetiva a la respuesta al dolor. Al igual que en otros estudios destaca su interacción con el sexo, mayor en mujeres, no observándose esto en DCnD. De manera similar, la interacción entre salud percibida y edad plantean la hipótesis de que la probabilidad de padecer DCD cada 10 años es mucho mayor en percepciones peores de salud. A la espera de obtener más respuestas en las investigaciones fisiológicas sobre por qué existen estas diferencias en la autopercepción de la salud con respecto a la edad y el sexo, consideramos que habría que explorar más en elementos psicosociales, emocionales, de personalidad y culturales.
+La prevalencia de DCD aumenta según el nivel de dificultad para realizar las AVD producido por el dolor y estas diferencias no fueron tan evidentes entre la población con DCnD, de manera similar a lo observado por otros estudios, aunque sobre DC, sin diferenciar si discapacita o no, . Igualmente, la población con DCD necesita mayor ayuda para las AVD que la de DCnD (especialmente las instrumentales) y, sin embargo, no recibe más ayuda. Además, la subpoblación con DCD tiene menor apoyo social funcional, siendo este un factor importante para amortiguar el DC, , . Considerando estos resultados, observamos la multidimensionalidad del DC y la especificidad de aquel discapacitante, implicando enfoques médicos y psicosociales que deberían ser abordados urgentemente, desde el liderazgo de Atención Primaria.
+Tenemos estudios que cuantifican los problemas de salud causados por el trabajo en DC, , y otros que estiman el número medio de días de ausencia laboral de DC, . Sin embargo, no hemos encontrado estudios que investiguen estos problemas en población con DCD. Por ejemplo, en España el número medio de ausencia laboral en DC es de 8 días (en 6 meses) y en nuestro estudio es de 7,4 días (en 12 meses), aunque si observamos las subpoblaciones de DC, la media de días es de 9 en DCD y de 5,76 en DCnD. Así pues, los problemas de salud causados por el trabajo y las ausencias laborales fueron mucho más frecuentes en la población con DCD que en la de DCnD. Los problemas más relevantes que afectan al DCD con respecto al DCnD son el dolor de espalda, el agotamiento, el dolor muscular (3 veces más en las mujeres que en los hombres), el dolor de cabeza y los problemas de sueño. Los problemas de nervios y estrés causados por el trabajo se dan con mayor frecuencia en población con DCnD, planteando la hipótesis de que ese problema de salud contribuye de manera importante al cambio a DCD. Por otra parte, las condiciones físicas peores en el trabajo se asociaron significativamente con la población con DCD, no así con las de DCnD, no observándose asociación similar con condiciones psicosociales peores en el trabajo.
+La población con DCD consume muchos más medicamentos, tanto en número de veces como en número de medicamentos diferentes. También, hay una mayor utilización de servicios sanitarios por la población con DCD coincidiendo con los resultados observados en Blyth et al. y Häuser et al., aunque en nuestro caso ampliamos la información a utilización de Urgencias y de Atención Primaria.
+Como fortalezas del estudio, la fuente de información utilizada es una encuesta poblacional basada en entrevistas cara a cara en el domicilio a más de 6.500 adultos. Este tamaño muestral y método de recogida de la información permite precisión y fiabilidad en nuestros resultados. Además, esta encuesta recoge gran cantidad de información sobre salud, hábitos y servicios sanitarios, incluyendo Atención Primaria, permitiendo un análisis exhaustivo del DC e identificando aquel discapacitante. En cuanto a sus limitaciones, esta encuesta no recogió dolor muscular ni articular en extremidades inferiores y superiores (salvo hombro), ni las diferentes condiciones traumatológicas, posquirúrgicas y neuropáticas. Además, tampoco incluyó consumo de opiáceos, fisioterapia ni apoyo psicológico.
+
+
+- CONCLUSIONES
+
+Nuestra investigación considera el DCD como otra categoría dentro del DC, observándose que esta es la población que marca las diferencias con respecto a la población nDC, mientras que la población con DCnD obtiene resultados similares a la de nDC. Así pues, creemos que se deben iniciar diferentes estrategias lideradas por Atención Primaria y Salud Pública con los objetivos de prevenir el DCD e, igualmente, identificar a las personas con DCnD para disminuir su posible deterioro hacia el DCD. Las estrategias a nivel de población para reducir este riesgo de padecer DCD tendrían dos objetivos potenciales: por un lado, factores que contribuyen a la vulnerabilidad para desarrollar DCD, introduciendo aspectos psicosociales, emocionales y culturales; y, por otro lado, identificar la frecuencia de factores desencadenantes de los episodios de dolor.
+
+
+- AUTORÍA
+
+Los autores son los responsables exclusivos del contenido y escritura del trabajo.Lo conocido sobre el tema•El dolor crónico discapacitante (DCD) es uno de los grandes retos en Salud Pública debido a su gran impacto en la calidad de vida y los aspectos socioeconómicos.•El DCD impacta enormemente en calidad de vida, trabajo, utilización de servicios sanitarios y consumo de medicamentos, no ocurriendo esto con el dolor crónico no discapacitante (DCnD).Qué aporta este estudio•Se deben iniciar diferentes estrategias en salud pública, ya que habría que marcar objetivos para su prevención, e igualmente identificar a la subpoblación de DCnD para disminuir el posible deterioro hacia el DCD.•Las estrategias a nivel de población para reducir el riesgo de DCD tienen dos objetivos potenciales: por un lado, factores que contribuyen a la vulnerabilidad para desarrollar DCD, introduciendo aspectos psicosociales, emocionales y culturales; y, por otro lado, identificar la frecuencia de factores desencadenantes de los episodios de dolor.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener conflictos de interés.

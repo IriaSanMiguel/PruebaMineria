@@ -1,0 +1,26 @@
+CARACTERIZACIÓN DE LAS INTERRUPCIONES QUE SE PRODUCEN EN LAS CONSULTAS DE LOS MÉDICOS DE FAMILIA. OBSERVATORIO DE LA MEDICINA DE FAMILIA DEL MARESME
+
+
+Las interrupciones durante la asistencia médica en algunos casos pueden llegar a ser un fenómeno disruptivo para la calidad, pueden propiciar errores y actuar como factor estresor del médico. Lo publicado hasta la actualidad se ha realizado con metodologías heterogéneas y con variables de estudio muy diversas, sin prevalecer en la literatura internacional claramente ningún estándar.
+Se presenta un estudio transversal descriptivo multicéntrico con el objetivo principal de cuantificar las interrupciones durante la consulta médica de atención primaria y caracterizarlas en 3 parámetros: a) si son telefónicas o presenciales, b) si son realizadas por facultativos, enfermería o administrativos, y c) si son adecuadas desde el punto de vista del médico, catalogándolas como pertinente, dudosa o no pertinente. En la hoja de autorregistro se incluye también una pregunta con respuesta cerrada a 3 opciones para que cada médico valore el impacto que, de manera general, tienen en su calidad asistencial las interrupciones que debe gestionar habitualmente.
+Participaron voluntariamente 28 médicos de 12 equipos de atención primaria de la comarca del Maresme (Barcelona), que pertenecen a una red mayor de colaboradores llamada «Observatori de la Medicina de Família al Maresme (OMFAM)», impulsado en 2016 por iniciativa de un grupo de médicos asistenciales de la comarca. Los datos se recopilaron en 3 días de actividad ordinaria durante el mes de junio de 2018.
+Se analizaron 502 interrupciones extraídas de 83 días laborables y 1.931 visitas presenciales. Se producen 6,07 (DE 3,4) interrupciones por jornada asistencial de 5 horas, aproximadamente una interrupción cada 4 visitas. En el 13% de las jornadas se constataban 11-15 interrupciones/día.
+El 53% de las interrupciones son telefónicas y el resto presenciales. El 52% de las interrupciones son vehiculadas por enfermería, el 35% por el personal administrativo y el 11% por médicos.
+El 36,2% de las interrupciones son valoradas como no pertinentes, el 49,9% son consideradas pertinentes y el 13,8% restante, dudosas.
+El porcentaje de interrupciones no relevantes es mayor en las telefónicas (41,2%) que en las presenciales (28,7%), y mayor si proviene de admisiones (51,9%) en comparación con enfermería (28,4%) o medicina (22,4%) .Figura 1
+Respecto a la valoración general de las interrupciones, el 25% las considera «soportables y en la mayoría de los casos justificadas», el 18% de los médicos las valoran como un «problema de calidad asistencial». El 57% restante eligió valorarlas «como responsables de algún problema en la consulta pero que son difícilmente controlables».
+Las interrupciones son consustanciales a un sistema de atención compleja con alta necesidad de comunicación y coordinación constantes. Sin menospreciar esta consideración también están bien establecidas las implicaciones cognitivas para cualquier tarea que requiere un alto grado de concentración, aumentando la posibilidad de error en la reacción y en la tarea principal. Por lo tanto, aunque es ciertamente imposible y no deseable evitar toda interrupción que se da en una consulta médica (hay interrupciones útiles), se deben minimizar las innecesarias o simplemente diferirlas.
+Se han encontrado 3 estudios relativamente comparables a este trabajo en la atención primaria española. El estudio más comparable y reciente corresponde a un póster de 2013 con unos resultados en cuanto a media de interrupciones por consulta y origen de la interrupción muy parecidos. Otros 2 estudios, , sin embargo más alejados en cuanto a diseño, sitúan nuestro resultado principal (número de interrupciones por jornada laboral) en valores intermedios.
+El hecho de incluir en este trabajo la valoración subjetiva del médico es un detalle relativamente novedoso y se ha considerado desde 2 puntos de vista: a través de una encuesta a los médicos participantes desde un punto de vista genérico, y utilizando los datos específicos de 3 días de estudio de campo.
+Casi el 20% de los participantes valoran las interrupciones como un problema de calidad habitual, y la tercera parte de las interrupciones no se consideran pertinentes. Estos datos recomiendan realizar acciones correctoras con el objetivo de minimizar esta fuente de distracción.
+
+
+- FINANCIACIÓN
+
+Parte de las siguientes becas han sido utilizadas para la realización del presente estudio: Beca “Gonçal Calvo i Queraltó” de la Filial del Maresme de la Acadèmia de Ciències Mèdiques i de la Salut de Catalunya i Balears del año 2016
+Ayuda de Investigación a l’Atenció Primària de la Direcció d’Atenció Primària Metropolitana Nord del año 2017.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

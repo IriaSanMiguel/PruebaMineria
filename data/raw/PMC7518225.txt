@@ -1,0 +1,25 @@
+PERFIL DE PRESCRIPCIÓN DE LOS PACIENTES CON INFECCIÓN POR SARS-COV-2 HOSPITALIZADOS EN ARAGÓN
+
+
+Sr. Editor:
+El 14 de marzo de 2020 se declaró en España el estado de alarma por la pandemia por el virus SARS-CoV-2. Tras 12 semanas desde el inicio de la pandemia, los casos confirmados en Aragón ascienden a 5.781, un 46% ha precisado hospitalización, un 5% ingreso en UCI y un 15% ha fallecido.
+La rápida progresión de la pandemia y la ausencia de un tratamiento eficaz y de ensayos clínicos, promovió el inicio de múltiples combinaciones terapéuticas. La mayoría de las propuestas de prescripción se sustentaron en las publicaciones chinas, tras la experiencia en sus pacientes con COVID-19.
+Aunque actualmente no hay un tratamiento efectivo para la infección por COVID-19, desde el inicio de la pandemia se han planteado distintos enfoques terapéuticos: antivirales que inhiben los sistemas enzimáticos con el objetivo de disminuir la replicación viral, aquellos que inhiben la entrada de SARS-CoV-2 en la célula, e inmunomoduladores que tratan de reducir la tormenta de citoquinas y el daño pulmonar asociado.
+Con las «evidencias generadas» en la práctica clínica y con los datos de los estudios en curso, el Ministerio de Sanidad emite y actualiza recomendaciones para el tratamiento de los pacientes con la infección. Así mismo, en Aragón se ha establecido un protocolo autonómico de manejo farmacológico incorporando estas recomendaciones de uso.
+Con objeto de visualizar los tratamientos utilizados durante la pandemia, las combinaciones más frecuentes y su alineación con las recomendaciones con base en las evidencias disponibles, se realizó un estudio descriptivo retrospectivo del consumo y dispensación de fármacos intrahospitalarios en una muestra de pacientes ingresados por COVID-19 (PCR positivos), de todos los hospitales del Servicio Aragonés de Salud, entre el 1 de marzo al 8 de mayo de 2020 (fases 0-1). Se analizan datos de 1.482 pacientes ingresados con infección confirmada (60% de los pacientes COVID-19 hospitalizados): 813 (54,9%) hombres y 669 (45,1%) mujeres, con una edad mediana de 75 años RIC (62-85). No se observaron diferencias estadísticamente significativas en el sexo por provincia, excepto en Huesca (39% mujeres y 61% hombres, p = 0,04). El 12% requirió hospitalización en UCI.
+El comportamiento de la muestra analizada es similar a las notificaciones de otros centros hospitalarios nacionales en el periodo de estudio. Precisaron hospitalización un 46% de pacientes (45% España), predominio varones (54% Aragón, 57% España), y edad mediana superior a la nacional (75 años RIC 62-85, frente a 70 años RIC 55-81 en España).
+Se prescribieron 456 principios activos diferentes, con una mediana de 13 principios activos por paciente (RIC 9-19). Un 73% (1.093) de pacientes recibió hidroxicloroquina, lopinavir/ritonavir o azitromicina. El 81% de forma combinada (tabla 1 ).
+Hidroxicloroquina y lopinavir/ritonavir se encontraban dentro de las opciones recomendadas en el protocolo, de forma aislada o combinada, mientras que se alertaba de la ausencia de resultados de la combinación de hidroxicloroquina y azitromicina, y del riesgo de prolongación del QT de ambos fármacos. La recomendación para utilizar terapias combinadas se basa en la posible acción sinérgica por su distinto mecanismo de acción. Sin embargo, no existen evidencias sobre su beneficio y presentan riesgo de complicaciones cardiacas, al incrementar los tres fármacos el intervalo QT.
+Se desconocen los perfiles de prescripción frente al virus utilizados en la práctica clínica. En una reciente revisión sistemática, el fármaco más frecuentemente administrado fue lopinavir/ritonavir (21,9%), y con mucha menor frecuencia hidroxicloroquina (1,2%) y azitromicina (1,4%). Estos datos contrastan con los observados en la muestra de estudio.
+Los tratamientos inmunosupresores propuestos para actuar sobre la progresión de la enfermedad , se prescribieron en el 48% de los pacientes, con un uso mayoritario de corticoides: 84% metilprednisolona (con un perfil más potente de inmunosupresión), 8,7% dexametasona, 3,8% asociaron ambos corticoides y un 3,5% lo asociaron con tocilizumab (metilprednisolona el 84%), en línea con las recomendaciones de algunos estudios.
+Actualmente no hay suficiente evidencia de calidad para recomendar ningún tratamiento, y se comunican alertas de seguridad por el uso de combinaciones que ponen en riesgo a los pacientes sin obtener ningún beneficio. Se necesitan más estudios clínicos aleatorizados y controlados que permitan dilucidar el tratamiento óptimo para la infección por SARS-CoV-2.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

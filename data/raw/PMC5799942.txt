@@ -1,0 +1,61 @@
+PARÁMETROS SAGITALES ESPINO-PÉLVICOS EN UNA POBLACIÓN ASINTOMÁTICA ARGENTINA
+
+
+- INTRODUCCIÓN
+
+El balance sagital espinal hace alusión al equilibrio que debe mantenerse entre la espina y la pelvis, para lograr que la cabeza, los hombros y la misma pelvis se mantengan encima de los pies. En condiciones normales este balance optimiza la postura en bipedestación y la marcha, realizando el menor gasto energético posible. Cuando salimos de esta situación de normalidad, tanto la columna como la pelvis utilizan mecanismos compensadores para sobrellevar este problema. Estos mecanismos generan mayor gasto energético, al tener que aumentar el esfuerzo muscular y usar musculatura accesoria, lo cual hace la bipedestación y la marcha ineficientes y en ocasiones dolorosas.
+Numerosos trabajos han destacado la importancia del desbalance sagital como factor independiente de dolor y discapacidad, y en forma análoga, cómo la restauración del balance luego de una cirugía es un factor de mejoría sustancial en varias escalas (ODI, VAS, SF-36, SRS-29). El concepto de “disbalance sagital” está bien descripto en la literatura. En un principio se observó en el contexto de espaldas planas iatrogénicas y cifosis post-traumáticas, y luego en deformidades pediátricas y degenerativas. Estos pacientes disparan un arsenal de mecanismos compensatorios para lograr mantener la cabeza alineada con la pelvis y los pies. Estos mecanismos compensadores (retroversión pelviana, retrolistesis lumbares, hipocifosis torácica, flexión de rodillas, extensión de tobillos, etc.) generan fatiga muscular y dolor, afectando seriamente la calidad de vida en muchos casos.
+Dentro del concepto de “balance sagital” se agrupan una serie de medidas y ángulos, que no hacen más que describir la relación de la columna con respecto al piso, y de la columna con respecto a la pelvis. Cada uno de estos parámetros ha sido motivo de estudio, y se encontraron relaciones muy interesantes entre algunos de ellos. Los más relacionados con patología son: SVA (sagital vertical axis o eje vertical axial) mayor de 5 cm, el PT (pelvic tilt o inclinación pelviana) mayor a 25 grados, la diferencia entre Incidencia pélvica y lordosis lumbar menor a 9 grados y el ángulo T1-pelvis (TPA) mayor a 20 grados. Todos estos puntos de corte numéricos se relacionan con un score de ODI (Oswestry Disability Index) mayor a 40, lo cual habla de una discapacidad severa.
+Los anteriormente descriptos son parámetros numéricos que no son aplicables a todos los grupos etarios. Los puntos de corte y los rangos de normalidad varían según la edad del paciente.
+Los trabajos clásicos describieron los puntos de corte de los parámetros espinopélvicos en estudios poblacionales, utilizando los +- 2 desvíos estándar de una campana de Gausse. Está también estudiado y demostrado que varios de estos parámetros cambiarán según el grupo etario, siendo otros relativamente fijos toda la vida.
+Si bien la raza humana es una sola, es conocido que hay diferencias antropométricas entre diferentes continentes, resultante de una compleja interacción entre el genotipo, y el ambiente en el cual ese individuo se desarrolla (clima, alimentación, altura, peso, forma pelviana, etc.).
+Los valores de los trabajos que usamos como referencia fueron realizados con población europea o norteamericana. No disponemos en la actualidad de bases de datos de población Argentina para tomar nuestras decisiones basadas en parámetros locales.
+
+
+-- OBJETIVO
+
+Analizar y describir los parámetros sagitales espinales y pelvianos de 100 voluntarios adultos asintomáticos.
+
+
+- MATERIAL Y MÉTODOS
+
+Un total de 100 voluntarios fueron analizados en este estudio. Todos firmaron un consentimiento de conformidad para ser incluidos, y el protocolo del trabajo fue aprobado por el Comité de ética de nuestro hospital. La edad promedio de los pacientes fue de 34.14 años (rango de 18–67 años), media de 34.14 ± 10.4 años. 30 hombres y 70 mujeres. La mayoría de los voluntarios era familiar de algún paciente que consultaba por otra causa, o personal de salud del nosocomio donde el estudio fue realizado. Todos los pacientes eran nacidos en Argentina. Antes de incluirlos en el estudio se les realizó una serie de preguntas y un examen físico ortopédico completo a modo de criterios de exclusión: ninguno debía tener antecedentes de lumbalgia crónica, ciáticas, deformidades, problemas ortopédicos como discrepancia significativa de miembros inferiores, escoliosis o cifosis de Scheuermann, fracturas vertebrales ni antecedentes de tumores.
+Se realizó espinograma digital de pie a todos los pacientes, en equipo Kodak Elite CR. La posición elegida en todos los casos para realizar el espinograma fue: descalzos, de pie, con las rodillas extendidas, los brazos flexionados y los puños colocados sobre las fosas supraclaviculares. Los espinogramas en los cuales no se observan adecuadamente las cabezas femorales fueron descartados. Se realizaron incidencias de frente y de perfil.
+Los autores realizaron las mediciones espinopélvicas sobre los espinogramas digitalizados usando el software Surgimap®, versión 2.2.9.9.2. Se tomaron los siguientes parámetros: C7 SVA, C2-C7 CL, TK, LL, TPA, T1 tilt, PI, PT, SS, ángulo L4-S1, ángulo L1-L4, PI-LL, CTPA [Figuras 1–3]. En los casos de sacralización de L5 o lumbarización de S1, se consideró para las mediciones el platillo superior del primer espacio móvil como borde superior de S1. Los datos se volcaron a una planilla de Excel (Microsoft® 2016 versión 15.26) y fueron analizados empleando un microprocesador Intel Core Duo E8200 2.66 Ghz y el paquete estadístico Medcalc 11.2 by Medcalc Software (1993–2010). Se determinaron las estadísticas descriptivas adecuadas para cada variable según su escala de medición y distribución. Se realizó la estimación de intervalos de referencia del 95% y de intervalos de confianza del 95% para todas las variables. Así, el nivel de significación obtenido fue de = 0.05. Los valores de referencia se calcularon tomando en cuenta la distribución de cada variable. Cuando la variable tenía una distribución “compatible” con la distribución normal (o sea, no difería estadísticamente de la curva normal) para calcular los valores de referencia se emplearon el promedio y el desvío standard.
+En cambio, cuando tenía una distribución “no compatible” con la curva normal se emplearon los estimadores robustos según CLSI C28-A3.
+Las medidas y ángulos espino-pelvianos fueron tomados siguiendo los consensos internacionales y los trabajos que los definieron. Las Figuras 1–3 ilustran la forma de medición utilizada.
+También se dividió a los voluntarios siguiendo la clasificación morfométrica propuesta por Roussouly en cuatro tipos. El tipo I y II con inclinación del sacro menor a 35°, el tipo III con una inclinación entre 35° y 45°; y tipo IV con una inclinación mayor a 45°.
+
+
+- RESULTADOS
+
+El desvío estándar para cada variable fue CL 11.93, TK 6.68, T1SPi 2.68, L1-L4 6.51, L4-S1 9.33, CTPA 0.99, TPA 6.82, PT 6.79, PI 11.71, LL 9.87, PI-LL 9.24, C7 SVA mm 28.51 .
+Los ±2 desvíos estándar para cada variable fueron: CL (−33.26, 13.12); TK (17.15, 43.30); T1SPi (−11.78, −1.25), L1-L4 (−25.55, 0.25), L4-S1 (−64.44, −27.55), CTPA (0.33, 4.80), TPA (−8.64, 18.22), PT (−1.99, 24.75), PI (25.23, 71.44), LL (−78.74, −39.89), mismatch PI-LL (−29.10, 7.04), C7 SVA mm (−79.45, 32.08) .
+El promedio para cada variable fue CL −10.04, TK 30.14, T1SPi −6.5, L1-L4 −12.45, L4-S1 −46.16, CTPA 2.5, TPA 4.65, PT 11.22, PI 48.04, LL −59.10, PI-LL −11.11, C7 SVA mm − 23.68 .
+Según la clasificación de Roussouly, 18 voluntarios fueron tipo I, 20 tipo II, 49 tipo III y 13 tipo IV .
+
+
+- DISCUSIÓN
+
+En la última década hubo un cambio de paradigma en relación al balance sagital. Ya era previamente aceptado el concepto del “cono de economía de Dobousset,” que afirmaba que la cabeza y el tronco debían estar dentro de un “cono” con vértice en los pies, dentro del cual el gasto energético postural era el óptimo. Sobre esa base comenzaron a describirse otros parámetros angulares y numéricos más precisos. Algunos de ellos pudieron relacionarse con escalas de discapacidad, lo cual estableció parámetros y rangos de “normalidad.” La descripción de la relación entre parámetros de la pelvis y la columna vertebral abrió una nueva línea de investigación.
+La descripción de la Incidencia Pélvica por Duval-Beaupere (1992) y Legaye (1998) como ángulo relativamente fijo y propio de cada paciente y su estrecha interrelación con la lordosis lumbar hoy es un concepto instalado que usamos para entender muchas patologías e incluso para planear el tratamiento de las mismas. Numerosos trabajos científicos se encargaron de encontrar relación entre parámetros espinales y pelvianos con distintos grados de “discapacidad” y dolor. Esto marcó para cada ángulo o valor nominal un rango de “normalidad” fuera del cual las escalas se relacionaban con dolor o peor estado funcional.
+En esta época de transición y aprendizaje, muchos conceptos cambian en forma vertiginosa. Hace unos años los rangos de normalidad eran para todos los pacientes iguales, fueran adolescentes, adultos o ancianos. Y como era de esperarse, con las complicaciones y el paso del tiempo fue mutando y perfeccionándose este concepto. Se ajustaron los objetivos numéricos con la edad y las incidencias pélvicas. En el futuro veremos si esto cambia realmente el pronóstico de los pacientes en términos de alivio del dolor y calidad de vida.
+Así como los parámetros espinales y pelvianos son en gran medida variables según la edad y la forma de la pelvis, nos parece que esto también puede ser variable según algunos parámetros étnicos. Las diferencias fenotípicas intercontinentales son evidentes, pero incluso dentro de los mismos continentes la variabilidad es enorme. La mezcla de razas existente en Latinoamérica hace aún más difícil generalizar rangos de “normalidad” para todos nuestros pacientes. Este trabajo intenta lograr una aproximación estadística de los rangos dentro de los cuales se encuentra una muestra de nuestra población en Argentina. Esto no debe usarse como límite de normalidad-patología, dado que todos los voluntarios incluidos eran asintomáticos, y no padecían factores de riesgo relacionados con patologías de columna, pero podría resultar de utilidad para próximos estudios comparando asintomáticos versus sintomáticos.
+Una limitación del estudio es que la mayoría de los pacientes eran pacientes jóvenes, con edades comprendidas entre 18 y 67 años con una media de 34.14 ± 10.40 años. Esto hace poco representativa la muestra para edades más avanzadas, ya que una pequeña proporción de nuestra población tenía más de 50 años. Esto puede deberse a que en general, la mayoría de la población mayor a 50 años ha tenido algún episodio de lumbalgia, lumbociáticas, o algún antecedente patológico relacionado a su columna, lo cual fue criterio de exclusión en nuestra selección de pacientes.
+Consideramos que este trabajo resultará de utilidad para comparar con grupos de pacientes con patologías espinales y para futuros estudios comparativos con otras poblaciones.
+
+
+- CONCLUSIÓN
+
+Se describieron los parámetros espino-pelvianos promedio y los desvíos estándar de una población asintomática voluntaria de Argentina. El morfotipo más frecuente fue el tipo III de Roussouly, que responde a una inclinación sacra entre 35° y 45°. Los ± 2 DS de la incidencia pelviana están comprendidos entre 25° y 71°. Esta gran variabilidad y amplitud pelviana genera un gran abanico de posibilidades de configuraciones espino-pélvicas. Es por esto que cada paciente debe evaluarse minuciosamente, siempre teniendo en cuenta los parámetros poblacionales normales.
+Agradecimientos: Se agradece al Dr. Luis Domitrovic por la realización de los dibujos técnicos realizados.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

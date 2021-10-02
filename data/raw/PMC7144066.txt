@@ -1,0 +1,170 @@
+PROTOCOLO DIAGNÓSTICO Y TRATAMIENTO EMPÍRICO EN URGENCIAS DE LAS INFECCIONES RESPIRATORIAS
+
+
+- BRONQUITIS AGUDA
+
+-- CONCEPTO Y ETIOLOGÍA
+
+La bronquitis aguda es la inflamación aguda de la mucosa bronquial de forma autolimitada. Se caracteriza por tos con o sin expectoración que con frecuencia se debe a una infección vírica, en ausencia de enfermedad pulmonar obstructiva crónica (EPOC) o una causa identificada como neumonía o sinusitis.
+
+
+-- CLÍNICA
+
+El síntoma cardinal más importante es la tos que puede o no asociarse a expectoración. La expectoración puede o no ser purulenta y esta característica, por sí sola, no es predictiva de infección bacteriana. La duración suele ser de unos 5 días pero puede persistir hasta 3 semanas. Además puede presentar clínica de infección de vía aérea superior como rinorrea, congestión nasal, cefalea y fiebre. Pueden presentar síntomas de hiperreactividad bronquial, sobre todo cuando es persistente.
+
+
+-- DIAGNÓSTICO
+
+El diagnóstico es clínico, por lo que es importante hacer una buena anamnesis y exploración física.
+Se realizará una radiografía de tórax si presenta síntomas o signos en la exploración física sugestivos de neumonía o no compatibles con una bronquitis aguda.
+Al ser un cuadro leve y autolimitado, no precisa muestras para identificar el agente microbiológico, salvo en el caso de sospecha de infección por virus Influenza, en pacientes candidatos a tratamiento (tabla 1 ) o en pacientes con sospecha de tos ferina por B. pertussis que dependerá de los factores de riesgo o por aspectos de salud pública, en cuyo caso las pruebas dependerán del tiempo de evolución de la tos:1.Pacientes con tos de menos de 2 semanas: se realizará un cultivo y reacción en cadena de la polimerasa (PCR) (la sensibilidad del cultivo disminuye después de las 2 primeras semanas).2.Pacientes con tos de 2-4 semanas: también se realizará tanto cultivo como PCR, ya que aunque la sensibilidad del cultivo disminuye, la PCR sigue siendo útil; no se debe realizar solo PCR, ya que como prueba independiente requiere un estudio adicional.3.Pacientes con tos de más de 4 semanas: solo la serolo-gía es útil.
+En los pacientes con resultados discordantes, por ejemplo, cultivo positivo y PCR negativa, se debe asumir tos ferina.
+
+
+-- TRATAMIENTO
+
+Dado que la etiología es frecuentemente vírica, no está recomendado el uso de antibioterapia empírica. Además, el uso de antibióticos no ha demostrado disminuir de forma significati- va el tiempo de evolución. Salvo en el caso de B. pertussis, en pacientes con tos de 3 semanas de evolución o menos, en mujeres embarazadas y en personas que trabajan con bebes y trabajadores de la salud con tos de menos de 6 semanas de evolución, el antibiótico de primera línea son los macrólidos.
+
+
+- NEUMONÍA
+
+-- CONCEPTO Y ETIOLOGÍA
+
+La neumonía es una infección de la vía aérea inferior que produce una lesión inflamatoria aguda del parénquima pulmonar que se produce como respuesta a la llegada del microorganismo a la vía aérea distal. Esta inflamación es consistente en la radiografía de tórax u otras pruebas de imagen, con un nuevo infiltrado en el parénquima pulmonar. Se asocia con una alta morbimortalidad, siendo la primera causa de sepsis y shock séptico.
+Aunque hay una gran variabilidad, las bacterias son la causa más importante y de ellas la más frecuente a nivel mundial es S. pneumoniae. Los patógenos atípicos con Mycoplasma pneumoniae, Legionella spp., Chlamydophila pneu-moniae y Chlamidophila psittaci no son identificados con frecuencia en la práctica cínica habitual, ya que no hay pruebas rápidas salvo en Mycoplasma y Legionella. Aunque con menos frecuencia, los virus también pueden provocar neumonías, sobre todo en los meses de epidemia, como los virus influenza y virus sincitial respiratorio. En pacientes ingresados en Unidades de Cuidados intensivos (UCi) aumenta la incidencia de L. pneumophila, bacilos entéricos Gram negativos y S. aureus , .
+
+
+-- CLASIFICACIÓN
+
+Se clasifican en:1.Neumonía adquirida en la comunidad o extrahospita-laria: neumonía en paciente inmunocompetente que no ha estado ingresado en ninguna institución.2.Neumonía nosocomial o intrahospitalaria: neumonía que surge tras 72 horas de ingreso hospitalario, habiendo excluido que la infección no se encontrara previamente o en periodo de incubación, y hasta 10 días después del alta hospitalaria, para algunos autores incluso 14 días después.3.Además, actualmente se describe también la neumonía asociada a ventilación mecánica, neumonía en el paciente in-munodeprimido y neumonía en el anciano.
+
+
+-- DIAGNÓSTICO
+
+--- MANIFESTACIONES CLÍNICAS
+
+Los pacientes suelen presentar tos con expectoración que suele ser purulenta, fiebre y dolor torácico de características pleuríticas.
+Además pueden presentar síntomas gastrointestinales como náuseas, vómitos, diarrea. Alteraciones del nivel de consciencia sobre todo en ancianos.
+Exploración física: fiebre, escalofríos, taquipnea, taquicardia. En la auscultación encontraremos crepitantes, también podremos hallar transmisión de vibraciones vocales, soplo tubárico, disminución de la percusión (matidez) y ego-fonía.
+
+
+--- MANIFESTACIONES RADIOLÓGICAS
+
+Ante la sospecha se realizará una radiografía de tórax (proyecciones posteroanterior y lateral).
+La presencia de un infiltrado parenquimatoso es requerida para el diagnóstico de neumonía. Existen varios patro-nes radiológicos como infiltrado lobar o segmentario, infiltrados intersticiales y la cavitación. En la radiografía de tórax también se podrán descartar complicaciones como derrame pleural, cavitación y neumotórax; así como la existencia de otras patologías como datos sugestivos de insuficiencia cardíaca, masas pulmonares y signos de atrapamiento aéreo.
+No está indicada la tomografía computadorizada, ya que no hay evidencia de que su uso mejore el pronóstico. Está indicada únicamente cuando se sospeche cavitación, adenopatías o lesiones malignas.
+
+
+--- LABORATORIO
+
+Se recomienda la realización de hemograma, bioquímica y coagulación si hay gravedad, síndrome de distrés respiratorio o si el paciente usa algún anticoagulante. Gasometría arterial en los pacientes con saturaciones de oxígeno menores del 93% o taquipnea y PCR y/o procalcitonina.
+
+
+-- ESCALAS PRONÓSTICAS
+
+Una vez diagnosticada la neumonía, habrá que tomar la decisión de dónde podrá el paciente cumplir el tratamiento antibiótico (domiciliario, hospitalización convencional, UCi); qué otras pruebas diagnósticas para detección del agente causal se deben realizar y la antibioterapia empírica. todas las guías recomiendan tomar esta decisión en función de la gravedad del paciente, estableciéndola con escalas pronósticas. Las más usadas son el Pneumonia Severity Index (PSi) o índice fiNE y el CURB-65 (tabla 2 tabla 3 ). La principal limitación de la escala PSi es el peso que le da a la edad, pudiendo infraestimar la gravedad en pacientes jóvenes sin comorbilidades y sobresti-marla en pacientes ancianos.
+Existen escalas para valorar el ingreso en una UCi, como la SMARt-COP y la escala SCAP; sin embargo no están validadas. Se recomienda el ingreso.
+
+
+-- DIAGNÓSTICO MICROBIOLÓGICO
+
+Aunque siempre que ingrese un paciente se recomienda un diagnóstico microbiológico, establecer el mismo se logra solo en el 50% de los casos.
+
+
+--- HEMOCULTIVO
+
+Son positivos en menos del 20% de los casos. Es especialmente importante en el paciente con enfermedades crónicas e infección por el virus de la inmunodeficiencia humana (ViH).
+
+
+--- CULTIVO DE ESPUTO
+
+No siempre es de calidad por la dificultad para obtener una muestra adecuada, ya que precisa transporte y procesado rápido. Además es frecuente la contaminación con agentes de la vía aérea superior. El esputo es considerado válido cuando se observan menos de 10 células epiteliales y más de 25 poli-morfonucleares por campo a 100 aumentos; sin embargo, este criterio no es fiable en neutropénicos. Se debe realizar tinción de Gram y, ante la sospecha de tuberculosis, bacilos-copia y cultivo de micobacterias.
+
+
+--- ANTIGENURIA
+
+Búsqueda de antígeno de Legionella y neumococo en orina.
+
+
+--- SEROLOGÍA
+
+Indicada para el diagnóstico de neumonía por Mycoplasma pneumoniae y por Chlamydophila pneumoniae, especialmente en pacientes jóvenes.
+
+
+-- TRATAMIENTO
+
+Para decidir el tratamiento empírico, habrá que tomar en cuenta 3 decisiones: primero el antibiótico, segundo las pruebas de determinación microbiológica y tercero la ubicación adecuada del tratamiento (fig 1).
+La cobertura adecuada deberá cubrir, como ya hemos comentado, los patógenos más frecuentes, es decir, Streptococcus pneumoniae y las bacterias atípicas (Mycoplasma, Chlamydophila y Legionella).
+En la tabla 4 se resumen las distintas pautas de antibiote-rapia, en función del lugar de tratamiento.
+
+
+- AGUDIZACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+-- CONCEPTO Y ETIOLOGÍA
+
+El abordaje de las exacerbaciones de la EPOC (EA-EPOC) requiere, en primer lugar, reconocer su existencia. La definición no se ha establecido del todo, ni existen criterios aceptados. Sin embargo, la definición clásica la describe en un paciente previamente diagnosticado de EPOC, como un empeoramiento de la situación basal del paciente, que cursa con aumento de la disnea, aumento de la expectoración, expectoración purulenta o cualquier combinación de estos síntomas.
+Actualmente se acepta que la presencia de una condensación en la radiografía de tórax establece el diagnóstico de neumonía como entidad diferenciada de la exacerbación de la EPOC.
+Habrá que tener mucho cuidado con otras entidades que son frecuentes en los pacientes con EPOC, y que podrán favorecer cuadros que simulen una EA-EPOC, como insuficiencia cardíaca, neumotórax y tromboembolismo pulmonar.
+Aproximadamente, en la cuarta parte de los episodios de EA-EPOC no se demuestra una etiología infecciosa. Sin embargo, recientemente, gracias al uso cada vez más frecuente de la PC), se ha descrito que la principal causa de agudizaciones son las infecciosas y entre ellas las víricas, especialmente por rinovirus, virus respiratorio sincitial, influenza-parain-fluenza o coronavirus, .
+En relación con la etiología bacteriana, es importante recordar que aproximadamente el 4% de la población sana está colonizada por bacterias en la vía aérea, el 29% de los adultos con EPOC estable y el 54% de los pacientes con EPOC con agudización. Las bacterias más frecuentes son Haemophilus influenzae, Streptococcus pneumoniae, Moraxella catarrhalis o Pseudomonas aeruginosa .
+
+
+-- CLÍNICA
+
+El diagnóstico de la EA-EPOC es principalmente clínico. El síntoma más frecuente, como ya hemos comentado, es el empeoramiento de la disnea que puede o no estar asociado a otra sintomatología.
+Otros de los síntomas que pueden presentar los pacientes son cambios en las características del esputo, fiebre, hi-perreactividad bronquial y dolor torácico.
+La exploración física variará en función de la causa y la gravedad; sin embargo, en la mayoría de los casos es similar.
+
+
+-- DIAGNÓSTICO
+
+El diagnóstico constará de tres pasos (fig 1 ).Fig 1EA: exacerbaciones; EPOC: enfermedad pulmonar obstructiva crónica; Rx: radiografía; VMNI: ventilación mecánica no invasiva.
+
+
+--- PRIMER PASO
+
+Confirmar el diagnóstico previo de EPOC. Si el paciente no tiene espirometrías previas y se sospecha una EA-EPOC, se recomienda utilizar el término posible EA-EPOC.
+
+
+--- SEGUNDO PASO
+
+Valorar la gravedad de la agudización. Actualmente no existe un acuerdo definido de los criterios que definen la gravedad de las EA-EPOC. En las tabla 5 tabla 6 se encuentran las recomendaciones de la guía GOLD 2017 y de la European Respiratory Society (ERS) y la American Thoracic Society (ATS) para establecer la gravedad de una exacerbación. Para valorar la gravedad de los pacientes habrá entonces que realizar una anamnesis completa y exhaustiva, así como una exploración física completa, se deberá medir la saturación de oxígeno, se realizará un ECG y se solicitarán biomarcadores ante la sospecha de patología cardíaca como diagnóstico diferencial o asociado.
+La valoración podrá realizarse en su centro de Atención Primaria, salvo en casos de agudización grave o muy grave, incapacidad para realizar el tratamiento ambulatorio o falta de respuesta al mismo y necesidad de descartar otras patologías.
+En los pacientes que requieran valoración hospitalaria se recomienda realizar una analítica sanguínea con hemograma, bioquímica y gasometría arterial basal o con oxigenoterapia si el paciente se encuentra incluido en un programa de oxígeno crónico domiciliario. La coagulación se solicitará en pacientes anticoagulados o con síntomas de síndrome de respuesta inflamatoria sistémica (SRiS). Además se solicitará radiografía de tórax y electrocardiograma.
+
+
+--- TERCER PASO
+
+Determinación microbiológica. La realización de cultivos de esputo se hará en las EA-EPOC graves y muy graves, sobre todo ante la sospecha de infección/colonización por P. aeruginosa. Sin embargo, el tratamiento empírico siempre será en función de la clínica.
+
+
+-- TRATAMIENTO
+
+El tratamiento dependerá de la gravedad del paciente, en la EA-EPOC leve/moderada, la primera opción es el tratamiento ambulatorio. Siendo necesario evaluar al paciente a las 48 -72 horas, se deberá valorar tratamiento hospitalario en caso de evolución no favorable.
+El tratamiento se basará en el ajuste de broncodilatado-res, no debiendo interrumpir el tratamiento inhalatorio sino que debe optimizarse.
+
+
+--- TRATAMIENTO ANTIBIÓTICO
+
+A raíz de un estudio clásico, se demostró que el empleo de anti-bioterapia en las agudizaciones solo es útil cuando se cumplen dos de los siguientes criterios: purulencia del esputo, aumento del volumen de expectoración y empeoramiento de la disnea, siendo la purulencia del esputo el signo que mejor se correlaciona con una infección bacteriana. La aparición aislada de algunos síntomas o signos (por ejemplo, fiebre) no es por sí misma una indicación para prescribir antibioterapia. En la tabla 7 , se resumen las pautas de antibioterapia.
+Habrá que valorar el uso de corticoides en el caso de fenotipo mixto (asma-EPOC) o si la evolución inicial es desfavorable y en la agudizaciones moderadas/graves. Existe una tendencia errónea de suprimir los corticoides inhalados cuando el paciente es ingresado en planta de hospitalización, administrando exclusivamente broncodilatadores de acción corta. Sin embargo, varios estudios aleatorizados recientes demuestran que los esteroi-des inhalados proporcionan un beneficio en la disminución de la inflamación local, teniendo una acción sinérgica con los bronco-dilatadores de acción corta. Además, estos pueden ser una alternativa útil a la pauta oral en el tratamiento de las exacerbaciones leves o moderadas de la EPOC.
+Además, se deberán valorar las indicaciones de uso de oxígeno y ventilación mecánica no invasiva.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pa cientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

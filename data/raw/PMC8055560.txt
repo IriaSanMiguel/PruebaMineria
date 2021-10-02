@@ -1,0 +1,100 @@
+ESTUDIO DESCRIPTIVO DEL SÍNDROME CONFUSIONAL AGUDO EN URGENCIAS
+
+
+- INTRODUCCIÓN
+
+El síndrome confusional agudo (SCA) es un síndrome, no una enfermedad, de compleja etiología y a menudo multifactorial que está formado por un conjunto de síntomas y signos relacionados con el nivel de consciencia y el deterioro de funciones cognitivas del paciente. Representa una complicación de otra enfermedad subyacente, que en muchas ocasiones pasa desapercibida y que generalmente modifica el pronóstico de nuestros pacientes, por lo que el reconocimiento precoz de un SCA, la correcta identificación de las causas precipitantes y el establecimiento más adecuado de las pautas terapéuticas resultan de crucial importancia.
+La prevalencia del SCA en la población general es del 0,4% en adultos de edad igual o superior a 18 años y del 1,1% en individuos de edad igual o superior a 55 años. Aproximadamente, del 10 al 20% de los ingresos hospitalarios se deben a la presencia de delirium, mientras que del 10 al 30% de los pacientes desarrollarán este síndrome durante la hospitalización. Por lo que observamos que la incidencia y la prevalencia de este trastorno varían según la edad, el paciente y el lugar de hospitalización, . Pensamos que un incremento de la población anciana podría conllevar un incremento de la incidencia del SCA, el cual es un importante factor de morbimortalidad y empeoramiento del pronóstico y la funcionalidad en esta población, .
+El objetivo principal de nuestro estudio es estudiar las variables clínicas, funcionales y analíticas que se asocian al SCA en urgencias y la evolución de las mismas a lo largo del tiempo con el fin de obtener una mejora en el abordaje terapéutico del paciente anciano previniendo así la morbimortalidad en este tipo de pacientes.
+
+
+- MÉTODO
+
+-- TIPO DE ESTUDIO
+
+Se trata de un estudio descriptivo prospectivo.
+
+
+-- LA MUESTRA
+
+Se incluyó, en el intervalo de las 24 h siguientes al ingreso en el Servicio de Geriatría del Hospital General Universitario de Ciudad Real (HGUCR), a todos los pacientes procedentes del Servicio de Urgencias con diagnóstico de SCA durante el periodo comprendido entre octubre del 2016 y octubre del 2018 (n = 176). La información se recogió a pie de cama de cada uno de los pacientes y se completó con las historias clínicas informatizadas de cada uno de ellos. Se excluyó (n = 63) a los pacientes derivados de otros servicios del hospital u otro hospital, pacientes cuyo seguimiento no ha podido completarse debido al traslado a otro hospital o al fallecimiento durante su estancia hospitalaria, y a pacientes en situación terminal. El diagrama de flujo del estudio se muestra en la .
+
+
+-- VARIABLES E INSTRUMENTOS DE MEDIDA
+
+Tras comprobar los criterios de inclusión y exclusión de cada paciente, se recogió toda la información necesaria sobre las variables objeto de estudio, tanto a su llegada a urgencias como al alta hospitalaria:1.Variables sociodemográficas: nombre, edad, sexo.2.Variables clínicas:
+a.Motivo de consulta.b.Diagnóstico principal y secundarios.c.Antecedentes médicos, comorbilidades y tratamiento habitual:
+
+d.Exploración física:
+–Constantes vitales: presión arterial, frecuencia cardiaca, temperatura, glucemia y saturación de oxígeno.–Piel.–Auscultación cardiopulmonar.–Abdomen.–Extremidades.
+
+
+f.Exploraciones complementarias:
+–Analítica: hemograma, bioquímica, coagulación, sistemático de orina, gasometría venosa o arterial.–Electrocardiograma.–Pruebas de imagen: radiografía de tórax, tomografía computarizada (TAC), resonancia magnética nuclear, entre otras.
+g.Tiempo de hospitalización.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo de las variables del conjunto de datos; calculando tablas de frecuencias para las variables de tipo cualitativo y estadísticos descriptivos (media, mediana, moda, desviación típica, máximo y mínimo) para las variables cuantitativas. Este análisis nos permite describir el conjunto de datos, sintetizar la información más relevante y ordenar los valores que toman las distintas variables según su porcentaje.
+Posteriormente, se han empleado técnicas de inferencia estadística, concretamente se ha realizado la estimación de la media para una población a través de intervalos de confianza (IC) del 95% basados en la t de Student para todas aquellas variables numéricas y estimación de la diferencia de medias de 2 poblaciones pareadas a través de intervalos de confianza del 95% utilizando la t de Student para datos pareados, considerando los valores de las variables numéricas a la entrada de urgencia y al alta. Se utilizó el software estadístico IBM SPSS (versión 20).
+El estudio fue aprobado por el Comité de Ética e Investigación del HGUCR.
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN DE LA POBLACIÓN
+
+Se incluyeron un total de 113 pacientes con diagnóstico de SCA; la media muestral de la edad es de 87,9 años, con una desviación estándar (DE) = 4,4 y un IC del 95%: 87,2-88,8). De ellos, el 66,4% son mujeres y el 33,6% son hombres, destacando que un 43,4% de los pacientes están institucionalizados frente al 56,6% que no lo están.
+
+
+-- MOTIVOS DE CONSULTA Y COMORBILIDAD
+
+Por orden descendente en frecuencia son: deterioro del estado general (31,9%), disnea (17,7%), disminución del nivel de consciencia (14,2%) y fiebre (12,4%). La media muestral del tiempo de hospitalización es de 150,9 h (DE = 87) y el IC del 95%:79,5-103,5).
+En la tabla 1 se muestran los antecedentes médicos, destacando que un 91% de los pacientes presenta enfermedades de tipo neurológico, señalando por orden descendente: accidente cerebro-vascular isquémico (19,5%), encefalopatía vascular (19,5%), deterioro cognitivo moderado (15,9%), enfermedad de Alzheimer (12,4%) y deterioro cognitivo leve (8%).
+Dentro de las comorbilidades que presentan nuestros pacientes, se debe destacar que la media muestral en la escala de Charlson es de 1,5 puntos (DE = 1,1) y el IC del 95%: = 1,2-1,7). Además, el 50% de los pacientes presentan déficit auditivo y visual; un 18,6% ha tenido otros ingresos en los últimos 15 días por diversos motivos y un 18,6% de los pacientes se les ha modificado el tratamiento en los últimos 15 días.
+
+
+-- POSIBLE ETIOLOGÍA DEL SCA
+
+El diagnóstico principal fue infección del tracto urinario en el 33,6% de los pacientes, en un 32,6% infección respiratoria de vías bajas y finalmente en el 29,4% probable demencia vascular, mixta o degenerativa.
+
+
+-- ESTADO MENTAL Y FUNCIONAL AL INGRESO
+
+En la tabla 2 se resumen los IC del 95% para la media de los indicadores numéricos que recogen la situación basal de los pacientes.
+
+
+-- TRATAMIENTO HABITUAL
+
+La frecuencia de polifarmacia (3 o más fármacos) es del 89,4% (101 pacientes), mientras que el uso de más de 5 fármacos presenta una frecuencia del 55,8% (63 pacientes).
+En la tabla 3 se resumen los tratamientos habituales que presentan los pacientes en más de un 20% de los casos, siendo los inhibidores de la bomba de protones (70,8%), los diuréticos (58,4%) y los antihipertensivos (51,3%) los fármacos más frecuentes utilizados por la mayoría de nuestros pacientes.
+
+
+-- EXPLORACIÓN FÍSICA Y DEL ESTADO MENTAL
+
+Se encontraron diferencias estadísticamente significativas en las siguientes constantes: frecuencia cardiaca, glucemia, temperatura y saturación de oxígeno, siendo las 3 primeras mayores en Urgencias que al alta y la última siendo menor en Urgencias que al alta. Además, destacamos que el 78% de nuestros pacientes presentan sequedad de piel y mucosas; la auscultación es rítmica en la mayoría de los pacientes a la entrada de urgencias (75,2%) y al alta (73,5%) y no observan diferencias significativas. Los ruidos respiratorios patológicos apenas variaron entre el ingreso (60,2%) y el alta (58,5%), siendo los roncus los más frecuentes en ambas situaciones (el 27,4% y el 25,7%, respectivamente). Solo un 8,8% de los pacientes presenta abdomen doloroso a la entrada y un 6,2% al alta, no existiendo diferencias significativas. Un 14,2% de los pacientes presenta edemas en las extremidades y un 12,4% al alta, no existiendo diferencias significativas. La media muestral de Glasgow a la entrada de urgencias es de 13,4 puntos (DE = 1,2) e IC del 95%: = 13,1-13,6, y al alta la media muestral fue de 14,5 puntos (DE = 0,7) e IC del 95%: 14,4-14,7. Un 14,2% de los pacientes presentan otras alteraciones neurológicas.
+
+
+-- EXPLORACIONES COMPLEMENTARIAS
+
+Un 36,3% de los pacientes presentan un sedimento patológico en el análisis de orina, encontrándose en el urocultivo un 43,6% de positividad en los mismos, destacando con un 14,2% con Escherichia coli como agente causante. Además, en las radiografías de tórax realizadas el 52% de los pacientes presentaban cardiomegalia y el 6,2%, derrame pleural. En el electrocardiograma realizado, se objetivó fibrilación auricular en el 23,9% de los pacientes. Con respecto a las pruebas de imagen, un 7,1% de los pacientes presentan encefalopatía vascular en la TAC.
+En las Tabla 4, Tabla 5, Tabla 6 se resumen los resultados de la analítica sanguínea agrupada en hemograma, bioquímica y coagulación.
+
+
+- DISCUSIÓN
+
+En nuestro estudio, los antecedentes médicos más frecuentes fueron las enfermedades neurológicas y la HTA, seguidas de las enfermedades reumatológicas. Los motivos de consulta principales fueron el deterioro del estado general, la disnea, la disminución del nivel de consciencia y la fiebre. Resulta de crucial importancia la incidencia de la polifarmacia, especialmente el papel de fármacos como los diuréticos, una potencial causa de trastornos hidroelectrolíticos, o la alta prevalencia de tratamiento con benzodiacepinas o hipnóticos, otra frecuente y conocida causa de delirium. En relación con la etiología principal del síndrome confusional, es destacable el papel de las infecciones, sobre todo las de tipo urinario y respiratorio, junto con el del síndrome demencial.
+Como en otros estudios, , , podemos observar la incidencia de la polifarmacia y su efecto nocivo en pacientes ancianos debido a la influencia de los cambios metabólicos producidos por la edad, al mayor número de comorbilidades y al mayor riesgo de toxicidad e interacciones farmacológicas, destacando sobre todo el uso de fármacos anticolinérgicos, hipnóticos sedantes y antipsicóticos, asociados a una mayor morbimortalidad en pacientes ancianos. En cuanto a los factores precipitantes o desencadenantes encontrados, los más frecuentes son las infecciones de tipo urinario y respiratorio coincidiendo con diversos estudios publicados, , , señalando además la ausencia en nuestros pacientes de alteraciones hidroelectrolíticas como uno de los factores desencadenantes principales a diferencia de lo mencionado en otros estudios, , , donde sí se constata la presencia de una hiper/hiponatremia. Se deben destacar como implicaciones clínicas de nuestro estudio la mejora en el adecuado conocimiento de los factores de riesgo y precipitantes del SCA, constituyendo éste la base para el desarrollo de medidas preventivas necesarias para el abordaje integral del SCA. Entre estas medidas podemos destacar la prevención de infecciones y evitar el uso continuado de fármacos perjudiciales y precipitantes, entre otras.
+Con respecto a las limitaciones la más importante, sería el carácter fundamentalmente descriptivo del estudio y el corto período de seguimiento. Si embargo, creemos que nuestros resultados contribuyen a un mejor conocimiento de los pacientes de nuestro medio, posibilitando así una mejor prevención y abordaje integral del delirium en Atención Primaria y Urgencias.
+Finalmente, queremos destacar el papel fundamental de las enfermedades neurológicas (especialmente la demencia), la HTA, la polifarmacia (sobre todo el uso inadecuado de benzodiacepinas e hipnóticos) y las infecciones urinarias y respiratorias como factores tratables o prevenibles del delirium en paciente de Atención Primaria en nuestro medio.
+
+
+- FINANCIACIÓN
+
+El presente trabajo no recibió financiación para su desarrollo. La publicación del mismo fue financiada por la Universidad de Granada.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de interés.

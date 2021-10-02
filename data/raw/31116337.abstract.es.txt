@@ -1,0 +1,5 @@
+Se analizaron 30 muestras de tejido nervioso procedentes de los departamentos de Arequipa y Puno. Se extrajo el ARN total de las muestras y se sintetizó ADNc para amplificar el gen de la nucleoproteína, secuenciarlo y realizar el análisis bioinformático.
+Los agrupamientos de las secuencias virales muestran que los casos de rabia canina notificados en Arequipa son el resultado de la expansión de rabia canina procedente de la región endémica de Puno.
+Se obtuvo la formación de un grupo definido con respecto al grupo externo (European bat lyssavirus). Este grupo fue clasificado en dos subgrupos, uno constituido por muestras procedentes de Puno y Arequipa (subgrupo A), y otro por muestras de Puno (subgrupo B), observándose una identidad nucleotídica de 99,9% en el subgrupo A.
+Caracterizar la nucleoproteína (N) y establecer el origen del virus de la rabia en canes procedentes de Arequipa.
+

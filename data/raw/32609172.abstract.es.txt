@@ -1,0 +1,2 @@
+Coyhaique, en el sur de Chile, es una de las ciudades más contaminadas de América, debido a la quema de leña. En 2016, se lanzó una sustitución masiva de la tecnología de calefacción residencial para disminuir las concentraciones de partículas de aire en el invierno. Basado en análisis de series de tiempo, el artículo analiza el efecto de esta medida en los niveles de MP2,5 y en las hospitalizaciones por afecciones respiratorias agudas en personas menores de 15 años.
+

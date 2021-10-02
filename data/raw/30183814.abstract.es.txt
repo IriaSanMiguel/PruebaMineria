@@ -1,0 +1,5 @@
+Estimar la razón de costo-efectividad de las pruebas para estratificación del riesgo en pacientes pediátricos con Leucemia Mieloide Aguda (LMA).
+Se construyó un árbol de decisión con años de vida ganados como medida de efectividad. Los costos fueron estimados desde la perspectiva del sistema de salud colombiano. En los costos de la estratificación se incluyeron los costos del tratamiento consecuente con ella. Los precios de medicamentos fueron tomados del SISMED 2008 y el valor monetario de los procedimientos se extrajo del manual tarifario del ISS 2001 adicionando el 30 %. Todos los costos se expresaron en pesos colombianos del 2010 y el producto interno per-cápita de ese año fue empleado como umbral de costo efectividad. Se condujeron análisis de sensibilidad univariados y probabilísticos.
+Las pruebas para estratificación del riesgo en LMA son costo-efectivas dentro del sistema de salud colombiano.
+La razón de costo-efectividad incremental de las pruebas de estratificación a todos los pacientes, fue de $8 559 944. Los resultados son sensibles a las probabilidades de recaída, supervivencia al trasplante y efectos secundarios.
+

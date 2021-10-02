@@ -1,0 +1,290 @@
+ASMA INFANTIL
+
+
+- INTRODUCCIÓN
+
+El asma es la enfermedad crónica infantil más frecuente. Su prevalencia se estima en un 8-10%. El asma debe considerarse como el resultado del entorno en un paciente predispuesto y se han realizado numerosos estudios sobre la genética del asma, aunque hasta el momento sólo han identificado genes de susceptibilidad . Los progresos relativos a los mecanismos fisiopatológicos y la mejora de las estrategias terapéuticas centradas en el tratamiento de la inflamación deberían permitir en la actualidad a los niños asmáticos llevar una vida (casi) normal a la vez que se conserva o se recupera su función respiratoria. En Francia metropolitana, la mortalidad por asma ha disminuido desde 1990, pero se mantiene más o menos estable desde 2005. En 2005, la tasa bruta de mortalidad en los menores de 15 años era de 0,05 por 100.000, con seis fallecimientos. Era de 0,2 por 100.000 en los pacientes de 15-44 años. En 2011, la mortalidad por asma era de 0,03 por 100.000 niños menores de 15 años (con cuatro fallecimientos) y de 0,2 en personas de 11-55 años . El asma infantil adopta sus características típicas a partir de los 3 años. Se tiende a diferenciar el asma de los niños mayores y el de los preescolares.
+
+
+- ASMA INFANTIL
+
+-- DEFINICIÓN
+
+El asma es «una enfermedad heterogénea, que suele caracterizarse por una inflamación crónica de las vías aéreas. Se define por los antecedentes de síntomas respiratorios de tipo sibilancias, disnea, opresión torácica y tos, que son variables en el tiempo y de intensidad, y se asocian a una limitación variable de los flujos espiratorios» .
+
+
+-- DIAGNÓSTICO
+
+--- DIAGNÓSTICO POSITIVO
+
+---- MANIFESTACIONES CLÍNICAS
+
+----- MANIFESTACIONES CORRIENTES
+
+Las manifestaciones clínicas del asma se describían habitualmente bajo el término de acceso de asma, definido como un acceso paroxístico de cualquier duración. En la actualidad, se distinguen por una parte las exacerbaciones y, por otra, los síntomas crónicos.
+La exacerbación se define por la presencia de síntomas agudos que duran más de 24 horas y que requieren un cambio de tratamiento. En la mayoría de los casos, estas manifestaciones aparecen de forma progresiva, a menudo precedidas de pródromos que varían de un niño a otro, pero que son casi siempre iguales en el mismo niño: rinorrea transparente acuosa, tos seca en quintas. Los síntomas principales son una tos inicialmente seca, sibilancias, taquipnea, disnea con prolongación del tiempo espiratorio, retracciones/tiraje, distensión torácica, obstrucción bronquial por secreciones y taquicardia; en las formas más graves, puede haber trastornos del nivel de consciencia, cianosis y pulso paradójico. La respuesta inicial a los broncodilatadores, la naturaleza y la intensidad de los síntomas permiten clasificar la exacerbación en leve, moderada o grave (Cuadro 1 ). Desde un punto de vista práctico, pero también epidemiológico, se distinguen las exacerbaciones leves a moderadas y las exacerbaciones graves, definidas por la necesidad de tomar corticoides orales o de requerir asistencia médica (consulta de urgencia, hospitalaria o no, hospitalización) . El asma aguda grave (antes denominada estatus asmático) es una exacerbación que no responde al tratamiento o cuya intensidad es inusual en su evolución o su semiología. Los factores de riesgo se presentan en el Cuadro 2 .
+Los síntomas de corta duración (tos, sibilancias, sensación de opresión, disnea) que requieren la toma puntual de broncodilatadores de acción corta (BDAC) reflejan el control cotidiano del asma.
+En la anamnesis, se busca un factor desencadenante: infecciones virales (en particular, los rinovirus), contactos alergénicos, ejercicio físico, emociones, contrariedades, contaminación (incluido el humo de cigarrillos), cambio del tiempo o de clima. Algunas circunstancias también conllevan un riesgo: inicio del curso escolar, viajes, retorno al domicilio tras las vacaciones, retorno de una estancia climática, etcétera.
+En los niños con asma conocida, no se realizan radiografías de tórax de forma sistemática en una exacerbación moderada. Mostrarían una distensión torácica con horizontalización de las costillas, aplanamiento del diafragma y aumento del número de arcos anteriores que se proyectan en el campo pulmonar (≥ siete arcos anteriores de las costillas), así como una acentuación del espacio radiotransparente retroesternal y retrocardíaco y un mal vaciamiento espiratorio en la proyección lateral. En cambio, en las exacerbaciones graves, con fiebre o que presentan síntomas clínicos inusuales, las radiografías de tórax son necesarias para buscar una complicación.
+
+
+----- MANIFESTACIONES ATÍPICAS
+
+------ FORMAS COMPLICADAS
+
+•Trastornos de ventilación: un tapón mucoso puede obstruir un bronquio segmentario o lobular (en particular, el lobular medio) y, más raramente, un bronquio principal, lo que provoca una atelectasia o un enfisema obstructivo (Figura 1, Figura 2 ). Puede ramificarse en sentido distal, provocando una impactación mucoide rica en polimorfonucleares eosinófilos y cristales de Charcot-Leyden. La evolución con un tratamiento que asocie broncodilatadores, corticoides y kinesiterapia respiratoria suele ser favorable. La endoscopia bronquial sólo está indicada en caso de fracaso.Figura 1Figura 2•Neumomediastino, enfisema subcutáneo y neumotórax: el diagnóstico se sospecha por la presencia de dolor retroesternal irradiado a los brazos y el cuello, con agravamiento por los movimientos respiratorios y, en ocasiones, por la deglución. Suele asociarse a un enfisema subcutáneo, cuyo signo clínico esencial es la percepción de una crepitación similar a la nieve en la región cervical y torácica superior, dolorosa a la palpación. El neumomediastino se manifiesta en la radiografía de tórax por la presencia de hiperclaridades lineales verticales a lo largo del mediastino y de los contornos cardíacos, que levantan las dos hojas pleurales. El enfisema subcutáneo se manifiesta por la presencia de imágenes claras subcutáneas cervicales o parietales (Fig. 3 ). Éstas son complicaciones generalmente benignas del asma, su tratamiento es igual al de la exacerbación y se resuelven en unos días. Sin embargo, la hospitalización del niño es indispensable debido al riesgo de neumotórax. El neumotórax, tanto si se debe a un neumomediastino o a una ruptura de una bulla pleural, es infrecuente.Figura 3•Paro cardiorrespiratorio anóxico: actualmente es excepcional y se observaba más a menudo en adolescentes con un mal cumplimiento terapéutico o que recibían un tratamiento insuficiente, al final de un deterioro progresivo inadvertido del estado respiratorio, de una duración variable de entre varios días y varias semanas y, en menos ocasiones, durante exacerbaciones drásticas de inicio muy súbito.
+
+
+------ EQUIVALENTES DE ASMA
+
+Ciertas manifestaciones menos intensas pueden asociarse o simular la semiología respiratoria.
+
+
+---- ARGUMENTOS DIAGNÓSTICOS
+
+Hay tres pruebas indispensables durante la evaluación inicial: radiografías de tórax, evaluación de las características de atopia y PFR.
+
+
+----- RADIOGRAFÍA DE TÓRAX
+
+En las radiografías en inspiración y espiración forzada se buscan los signos de asma grave (deformación y distensión torácica, mal vaciamiento espiratorio), pero sobre todo sirven para el diagnóstico diferencial (cf infra).
+
+
+----- EVALUACIÓN DE LAS CARACTERÍSTICAS DE ATOPIA
+
+Los estudios epidemiológicos muestran que cerca del 80% de los niños con asma están sensibilizados al menos a un alérgeno. La evaluación alergológica se basa en la confrontación y la coherencia entre la anamnesis y las pruebas cutáneas. Son datos orientativos el antecedente de atopia en la familia (asma, polinosis, eccema atópico en los progenitores y/o hermanos), así como el antecedente o la presencia de una dermatitis atópica en el niño. En los niños mayores, los alérgenos responsables en la mayoría de los casos son los ácaros, seguidos por los epitelios de animales (sobre todo del gato), los pólenes de gramíneas y después las cucarachas y los mohos. Las alergias alimentarias se asocian a exacerbaciones más graves y globalmente a un asma más difícil de controlar. Las pruebas de punción cutánea son el método de referencia. La técnica es simple, rápida e indolora, pero exige un gran rigor a la hora de realizarla. Se efectúa cuando el niño se encuentra estable, después de haber suspendido los antihistamínicos H1. Una prueba cutánea se considera positiva si el diámetro de la induración es de al menos 3 mm y mayor del 50% del control positivo.
+La eosinofilia sanguínea (≥ 400/mm3) y la elevación de la inmunoglobulina E (IgE) sérica también son argumentos a favor de la existencia de atopia. El límite superior de los valores normales de las IgE totales puede estimarse arbitrariamente en 20 U/ml por año de edad, hasta los 12 años. Las pruebas multialergénicas pueden ser útiles para detectar una alergia ante una semiología respiratoria atípica o cuando las pruebas cutáneas no pueden realizarse o son ininterpretables (tratamiento antihistamínico activo, dermografismo, dermatosis extensa). Las IgE específicas son útiles cuando existe una discordancia entre la clínica y las pruebas cutáneas. Los resultados correlacionan bien con las pruebas cutáneas, sobre todo para los neumoalérgenos. La determinación de las IgE específicas frente a un panel de alérgenos (InmunoCaP ISAC) permite un análisis simultáneo de proteínas alergénicas en el mismo soporte. Sus principales limitaciones son el coste y la ausencia de reembolso, el carácter semicuantitativo de los resultados y la existencia de fuentes alergénicas insuficientemente representadas o ausentes (moho, por ejemplo).
+
+
+----- PFR
+
+Las PFR tienen poca utilidad durante una exacerbación. Confirmarían el síndrome obstructivo y la distensión torácica. En cambio, son indispensables en el período intercrítico, donde presentan interés tanto diagnóstico como terapéutico para la vigilancia del control del asma, así como también pronóstico. Desde el punto de vista diagnóstico, las PFR pueden poner de manifiesto un síndrome obstructivo en el estado basal, reversible tras el uso de broncodilatadores, o mostrar una hiperreactividad bronquial inespecífica (prueba de metacolina).
+La PFR permite apreciar objetivamente el estado respiratorio. En los niños sin tratamiento y asintomáticos, unas PFR normales permiten proponer el tratamiento sólo de forma puntual. Por el contrario, una obstrucción intercrítica, incluso en ausencia de percepción clínica, motiva la administración de un tratamiento de fondo. Las PFR permiten medir la eficacia real de los tratamientos prescritos y adaptar su posología. Esta vigilancia debe aplicarse a todos los niños asmáticos, anualmente en caso de asma bien controlada, y de forma tri o cuatrimestral durante la adaptación de un tratamiento de fondo.
+Desde el punto de vista práctico, los niños a partir de 6 años son capaces de realizar una espirometría y las curvas flujo-volumen (Fig. 4 ). Entre los 3-4 años y los 6 años, se realizan las mediciones de resistencias, bien mediante pletismografía, bien por medición de las interrupciones de flujo, o bien por oscilaciones forzadas, dependiendo del material disponible y de la colaboración del niño. Salvo que exista una indicación precisa, las PFR deben realizarse con el tratamiento habitual del niño y han de constar sistemáticamente de una respuesta a los broncodilatadores. Se considera significativa una mejoría del VEMS de al menos el 12% respecto al valor basal o una disminución de al menos el 30% de las resistencias en pletismografía. Las PFR permiten también detectar una distensión con aumento de la capacidad residual funcional (CRF) y un aumento de la relación volumen residual/capacidad pulmonar total (VR/CPT).Figura 4
+La medición del flujo espiratorio máximo (FEM) es un complemento muy útil en la consulta o en el domicilio para la determinación de la obstrucción bronquial. El valor expresado (en l/min) correlaciona con la talla del niño. Un aumento del FEM de al menos un 20% tras la inhalación de broncodilatador tiene un valor diagnóstico excelente. Unas variaciones circadianas superiores al 20% del FEM indican un asma inestable. La importancia de la disminución del FEM durante una exacerbación y la evaluación de la respuesta tras la administración de un β2-adrenérgico mejoran el tratamiento domiciliario.
+
+
+--- DIAGNÓSTICO DIFERENCIAL
+
+No se puede hablar de asma sin citar las otras causas de tos crónica y de disnea obstructiva (Cuadro 3 ). Algunas de ellas pueden coexistir con el asma o acompañarse de una hiperreactividad bronquial. Esta lista de diagnósticos diferenciales muestra la importancia de la exploración física completa, del estudio de los antecedentes, incluidos los neonatales (carnet de salud), de la curva de crecimiento ponderoestatural y de las exploraciones complementarias realizadas anteriormente, en particular las radiografías de tórax.•La demostración de un atrapamiento espiratorio localizado hace sospechar en primer lugar un obstáculo (sobre todo un cuerpo extraño) y obliga a realizar una endoscopia bronquial. En ausencia de cuerpo extraño, hay que buscar las secuelas de una neumopatía viral de tipo bronquiolitis obliterante. 
+
+
+-- TRATAMIENTO
+
+--- TRATAMIENTO DE LOS SÍNTOMAS PUNTUALES
+
+Se basa en la inhalación de BDAC. La posología es de 1-2 dosis en caso de síntomas. La elección del sistema de inhalación depende de la edad y de las costumbres del niño y de su familia. De forma general, se pueden utilizar cinco dispositivos: aerosoles dosificadores (AD) presurizados solos o asociados a una cámara espaciadora, AD presurizados autoactivados, inhaladores de polvo seco y, en muchas menos ocasiones, nebulizaciones. En menores de 8 años, se suelen preferir los AD acoplados a una cámara espaciadora. En mayores de esa edad, la elección entre los inhaladores de polvo seco o los AD autoactivados o no depende esencialmente de las preferencias del niño, aunque son muy pocos los que pueden utilizar correctamente un AD por sí solos.
+
+
+--- TRATAMIENTO DE LAS EXACERBACIONES
+
+El establecimiento de un plan de acción por escrito y explicado debe permitir a los progenitores reconocer y tratar los pródromos en función de la gravedad. El tratamiento farmacológico inicial se resume a continuación.•Las nebulizaciones de BDAC se administran con oxígeno, con un flujo de 6-8 l/min y vigilando la pulsioximetría (SpO2) con la siguiente posología:ºpara el salbutamol (dosis de 1,25 mg, 2,5 mg y 5 mg/2,5 ml): 2,5 mg si el peso es menor de 16 kg y 5 mg si el peso es superior a 16 kg (o 0,15 mg/kg, mínimo 1,25 mg, máximo 5 mg);ºpara la terbutalina: 0,1-0,2 mg/kg o 1-2 gotas por kilogramo (mínimo 10 gotas, máximo 5 mg, es decir, una dosis de 2 ml). •Las nebulizaciones se repiten cada 20 minutos, con un mínimo de tres nebulizaciones en una hora. La administración de BDAC en AD acoplados a una cámara espaciadora, en dosis de una pulverización por cada 2-4 kg de peso, sin pasar de 10 pulverizaciones, con la misma eficacia en las exacerbaciones moderadas.•Las nebulizaciones de ipratropio, 0,25 mg (hasta 6 años) o 0,5 mg (en mayores de 6 años), se reservan a las exacerbaciones graves, asociadas a los BDAC.•Los BDAC inyectables son la terbutalina por vía subcutánea (a partir de 2 años) en la posología de 10 μg/kg o el salbutamol por vía intravenosa con una dosis de carga de 1,5-5 μg/kg en tres minutos.•La corticoterapia que debe utilizarse es la prednisona o la prednisolona (1-2 mg/kg sin superar los 40 mg/día) o la betametasona (0,15-0,3 mg/kg) en una toma diaria durante 3-5 días. La metilprednisolona por vía intravenosa (2 mg/kg y después 0,5 mg/kg/6 h) sólo se utiliza en caso de vómitos o de agotamiento.•Los antibióticos suelen carecer de utilidad.
+
+
+--- OBJETIVOS DEL TRATAMIENTO DE FONDO
+
+El tratamiento de un niño asmático tiene como objetivos limitar las exacerbaciones, los síntomas intercríticos y las necesidades de β2-adrenérgicos de rescate, permitir al niño participar en las actividades familiares, escolares, deportivas y sociales, normalizar y mantener las funciones respiratorias normales y disminuir las variaciones circadianas del FEM , .
+
+
+--- MEDICAMENTOS DISPONIBLES
+
+---- CORTICOIDES INHALADOS
+
+Los corticoides inhalados (CI) son la primera línea de tratamiento de fondo del asma. Su eficacia sobre la mortalidad por asma, los síntomas de asma y la función respiratoria se ha demostrado ampliamente.
+Las posologías recomendadas de CI se resumen en el Cuadro 4 . Con las dosis habituales, la tolerabilidad es excelente. Los efectos beneficiosos esenciales de los CI se obtienen en dosis de 100, 200, e incluso 400 μg/día de equivalente de budesonida. Por encima de esas dosis, se pueden obtener algunos beneficios funcionales, en particular sobre el AIE, pero la probabilidad de efectos secundarios aumenta. Las dianas potenciales de los CI son el crecimiento, la función suprarrenal y el metabolismo óseo , :
+La prevención de estos efectos secundarios, aunque son infrecuentes con las dosis utilizadas habitualmente, se basa en la utilización de una cámara espaciadora en caso de aerosol, el enjuague de la boca tras el uso, pero sobre todo en la búsqueda sistemática de la dosis mínima eficaz.
+
+
+---- BRONCODILATADORES DE ACCIÓN PROLONGADA (BDAP
+
+Se dispone de dos moléculas, el salmeterol y el formoterol. El formoterol presenta el interés de su rapidez de acción, con una broncodilatación en 1-3 minutos. Los BDAP tienen una acción sinérgica con los CI. Los corticoides permiten también prevenir una posible desensibilización de los receptores β2-miméticos (taquifilaxia). Los BDAP se utilizan a largo plazo y siempre en asociación con los CI, dependiendo del control del asma, y en menos ocasiones (y de forma puntual) en la prevención del AIE. En Francia, por ejemplo, se comercializan las siguientes combinaciones:•fluticasona (100, 250 μg) + salmeterol. Presenta el interés de estar disponible en inhalador de polvo (dosis de 100 y 250 μg de fluticasona, 50 μg/dosis de salmeterol) pero también en AD (dosis de 50, 125 y 250 μg de fluticasona, y 25 μg/dosis de salmeterol). Por tanto, puede administrarse mediante cámara espaciadora. Esto hace que sea el único tratamiento combinado que puede utilizarse en niños de 4-7 años;•budesonida + formoterol. Sólo está disponible como inhalador de polvo (dosis de 100, 200, 400 μg de budesonida, 6 y 12 μg/dosis de formoterol). Puede utilizarse a partir de los 6 años. La utilidad de esta combinación se debe a la rapidez de acción del formoterol, lo que ha permitido una nueva estrategia terapéutica en la que se utiliza esta asociación tanto para el tratamiento de fondo como para el de las exacerbaciones. Esta estrategia terapéutica aún no está autorizada para menores de 18 años;•formoterol (5 μg/dosis) + fluticasona (50, 125 y 250 μg) a partir de los 12 años;•beclometasona (100 μg) + formoterol (6 μg/dosis) a partir de 18 años.
+
+
+---- ANTILEUCOTRIENOS
+
+En Francia, sólo está disponible el montelukast, que es un inhibidor de los receptores de leucotrienos. Presenta la ventaja de una única toma diaria (por la noche) por vía oral. Está autorizado a partir de los 6 meses. En los niños a partir de 6 años, está indicado en el asma inducida por el esfuerzo y en el asma persistente leve a moderada, o en asociación con los CI en los niños con un control insuficiente mediante CI, o bien en monoterapia en caso de incapacidad de cumplir un tratamiento con CI. La posología por vía oral es de 5 mg/día entre los 6 y los 14 años y de 10 mg/día a partir de los 14 años. Los estudios en los que se ha comparado directamente la eficacia del montelukast respecto a los CI muestran globalmente una superioridad de estos últimos , . Sin embargo existen indiscutiblemente grupos de población «respondedores» a los antileucotrienos , cuya mejor respuesta depende al menos en parte de polimorfismos de genes que codifican enzimas implicadas en el metabolismo del ácido araquidónico . La utilización del montelukast a demanda en las exacerbaciones o poco antes de iniciar la escolarización ha demostrado ser poco eficaz.
+
+
+---- TEOFILINA DE LIBERACIÓN PROLONGADA
+
+Se puede utilizar asociada a los CI en caso de asma persistente grave no controlada. En la práctica, su prescripción se ha vuelto excepcional debido a la necesidad de controlar las concentraciones séricas para evitar las sobredosis. La posología inicial es de 12-14 mg/kg/día, sin superar los 300 mg/día. El objetivo es mantener una teofilinemia de entre 10 y 20 μg/ml las 24 horas del día. Por encima de 20 μg/ml, pueden aparecer efectos secundarios. El riesgo de efectos tóxicos potencialmente mortales aumenta progresivamente por encima de una concentración sérica de 30 μg/ml.
+
+
+---- ANTICUERPOS ANTI-IGE: OMALIZUMAB
+
+Los anticuerpos anti-IgE son una nueva clase terapéutica que inaugura la era de las terapias dirigidas. El omalizumab es un anticuerpo monoclonal humanizado de origen murino que se une a las IgE circulantes, impidiendo su fijación a sus receptores celulares. Se administra por vía subcutánea cada 2-4 semanas en una posología dependiente del peso y de la concentración inicial de IgE. Su tolerabilidad es buena, incluso en la infancia. La eficacia es óptima cuando el asma es grave y polialérgica, con una reducción de la tasa de exacerbaciones, una disminución del consumo de corticoides orales, una reducción del uso de tratamientos de urgencia y una mejora de la calidad de vida , . El omalizumab está autorizado en niños mayores de 6 años y su indicación es el tratamiento del asma alérgica grave después del fracaso de los tratamientos antiasmáticos convencionales.
+
+
+--- GRAVEDAD, CONTROL Y RIESGO DE EVOLUCIÓN DESFAVORABLE
+
+La evaluación del control del asma consta de dos dominios; por una parte, la evaluación del control diario en las cuatro últimas semanas y, por otra parte, el riesgo de evolución desfavorable tanto en lo que respecta al riesgo de exacerbación como al de una alteración de la función respiratoria .•El control diario se evalúa en función de cuatro ítems: frecuencia de las manifestaciones diurnas (> 2/semana o no), despertares nocturnos (sí/no), síntomas con el esfuerzo (sí/no) y uso de BDAC (> 2/semana o no). El control debe evaluarse en cada consulta. Un único criterio anormal basta para hablar de asma parcialmente no controlada, y a partir de tres criterios el asma no está controlada. Se pueden utilizar cuestionarios como el Asthma Control Test, que está disponible para los tramos de edad de 4-11 años y a partir de 11 años. Evalúa el control en las cuatro últimas semanas.•Los factores de riesgo de exacerbaciones futuras son: los síntomas no controlados, un uso excesivo de broncodilatadores (al menos un AD/mes), un defecto de tratamiento con los CI, un VEMS inferior al 60%, problemas psicosociales o económicos, tabaquismo pasivo o activo, persistencia de alérgenos, enfermedades concurrentes (obesidad, rinosinusitis, alergia alimentaria), existencia de una exacerbación grave en el año previo y un antecedente de intubación por asma aguda grave.•Los factores de riesgo de obstrucción fija son el defecto de tratamiento con CI, la exposición al tabaco y a vapores químicos nocivos, un VEMS inicial bajo, un asma hipersecretora, así como la eosinofilia sanguínea o en la expectoración inducida.
+La existencia de uno o varios de estos factores aumenta el riesgo de exacerbaciones graves aunque estos síntomas estén bien controlados.
+La gravedad se debe a la carga terapéutica necesaria para obtener el control de los síntomas y las exacerbaciones. Se distingue el asma leve (escalones 1 y 2 de tratamiento o dosis baja de CI), el asma moderada (escalón 3, asociación BDAP dosis baja de CI) y el asma grave (escalones 4 y 5, asociación BDAP y CI en dosis intermedia o alta ± montelukast, o asma no controlada pese a estos tratamientos) (Fig. 5 ).Figura 5
+En un paciente nuevo, el inicio del tratamiento depende del control y del riesgo futuro. Las recomendaciones para la instauración de un primer tratamiento se resumen en el Cuadro 5 para los niños mayores de 6 años.
+El tratamiento se adapta a continuación al control clínico y a la función respiratoria , . En un niño con asma no controlada a pesar de un tratamiento con CI en dosis baja/intermedia, la medida de elección es asociar un BDAP, y las alternativas son la posibilidad de duplicar la dosis de CI o asociar un antileucotrieno . Si el asma está bien controlada clínica y funcionalmente desde hace 2-3 meses, se propone disminuir los CI por escalones del 25-50% en función de la posología inicial, con el objetivo de mantener el control local del asma con la dosis mínima eficaz. Durante la disminución, se puede pasar a una toma única diaria para favorecer la observancia.
+Cuando parece haber un control insuficiente del asma, antes de reforzar el tratamiento se debe buscar un defecto de observancia, una técnica de inhalación defectuosa o un mal control ambiental (cf infra).
+La clínica y las PFR son la referencia para el seguimiento de los niños asmáticos. Las PFR deben realizarse con regularidad. En caso de asma bien controlada en un niño que reciba dosis bajas de CI, este control puede ser anual. En los demás casos, debe ser bi o trianual. Sólo las PFR permiten detectar la aparición de una obstrucción intercrítica no percibida por el paciente.
+Se han estudiado estrategias de vigilancia de la inflamación bronquial para ayudar a adaptar el tratamiento de fondo. Los principales parámetros propuestos son la vigilancia del NO exhalado, de la eosinofilia en la expectoración inducida y de la hiperreactividad bronquial. La hiperreactividad bronquial es un parámetro interesante, relacionado con la gravedad y el riesgo de persistencia del asma. La utilización del NO como parámetro del control o marcador predictivo de la aparición de exacerbaciones aún es motivo de controversia . En la actualidad, se dispone de aparatos portátiles de medición del NO, pero su utilización en la práctica corriente aún es motivo de debate. En lo que respecta a la eosinofilia de la expectoración inducida, aún está restringida a ciertos centros y en la mayoría de los casos al marco de protocolos clínicos.
+
+
+-- MEDIDAS NO FARMACOLÓGICAS
+
+--- CONTROL AMBIENTAL
+
+El control ambiental es un elemento fundamental del tratamiento, porque participa en gran medida en la lucha contra la inflamación bronquial. Los factores alérgicos ocupan un lugar importante no sólo en el desencadenamiento de las exacerbaciones, sino también en la perpetuación de la inflamación bronquial. La reducción de la carga alergénica (de ácaros en particular) permite reducir la semiología, el consumo de fármacos y la hiperreactividad bronquial.
+Se han propuesto muchas técnicas para reducir la exposición a los neumoalérgenos :•para los ácaros:ºdisminución de la humedad relativa (aireación, abertura de las ventanas en climas templados, deshumidificación y climatización en regiones cálidas y húmedas),ºutilización de ropa de cama sintética,ºutilización de fundas antiácaros,ºsupresión de las alfombras, cortinas y moquetas, o su limpieza frecuente con acaricidas, e incluso utilización de productos textiles que incorporen un acaricida,ºlavado frecuente de las sábanas a una temperatura superior a 55 °C y utilización de aspiradores provistos de filtros especiales; •el control ambiental consta también de:ºla lucha contra las cucarachas, que es difícil de aplicar porque, en la mayoría de los casos, la contaminación de las casas proviene de las otras casas, lo que requiere un tratamiento de todo el inmueble,ºla limitación de los contactos alergénicos exteriores, en particular los pólenes,ºla exclusión de los animales domésticos a los que el niño es alérgico,ºla lucha contra los mohos, cuya multiplicación se ve favorecida por el ambiente húmedo (y los humidificadores),ºla lucha contra el tabaquismo pasivo. 
+
+
+--- INMUNOTERAPIA
+
+La inmunoterapia específica (ITE) tiene como finalidad reducir en un niño sensibilizado los síntomas provocados durante una nueva exposición al alérgeno. En el asma, está indicada en caso de asma persistente leve o moderada, estabilizada con tratamiento. La inmunoterapia por vía sublingual (ITSL) sustituye en la actualidad a la ITE por vía inyectable y puede comenzarse desde los 3 años . La duración del tratamiento es de 3-5 años. Los alérgenos implicados son esencialmente los ácaros y los pólenes (gramíneas, compuestas, betuláceas, cupresáceas, fagáceas). La prescripción debe basarse en la identificación precisa y una demostración de los alérgenos, cuyo número debe ser limitado (si es posible, no más de dos), tras el fracaso o la imposibilidad de la exclusión y la eficacia insuficiente del tratamiento farmacológico clásico.
+Si se confirma que la ITE reduce la aparición de nuevas sensibilizaciones y/o el riesgo de evolución de la rinitis alérgica hacia el asma, sería en la actualidad el único tratamiento susceptible de poder modificar la historia natural de la enfermedad alérgica.
+
+
+-- FACTORES DE PERSISTENCIA DEL ASMA INFANTIL EN LA EDAD ADULTA
+
+Los estudios de cohortes , , , , , , , , con un seguimiento prolongado muestran que los factores pronósticos de persistencia del asma desde la infancia a la edad adulta han permitido identificar los factores siguientes:•la atopia, tanto familiar como personal;•la gravedad clínica del asma;•la persistencia de una obstrucción bronquial intercrítica;•la persistencia de una hiperreactividad bronquial;•el sobrepeso y la pubertad precoz;•el tabaquismo tanto pasivo como activo.
+
+
+- ASMA DE LOS NIÑOS PEQUEÑOS
+
+-- DEFINICIÓN
+
+El asma de los niños pequeños es el que aparece en la edad preescolar, antes de los 5-6 años , . En la actualidad, esta forma engloba tanto el asma del lactante (antes de los 36 meses, como el de los niños de 3-5 años, que es parecido al de los niños mayores. El período del nacimiento hasta los 5 años es un período de transición en la instauración de la enfermedad. Todos los estudios muestran que la mayoría de los cuadros de asma comienzan en la primera infancia. Simultáneamente, los estudios de cohortes prospectivas han demostrado la heterogeneidad fenotípica del asma preescolar.
+Antes de los 3 años, se considera como asma «cualquier episodio disneico con sibilancias que se repita al menos 3 veces antes de los 2 años, con independencia de la edad de inicio, de la existencia o no de estigmas de atopia y de la causa aparentemente desencadenante» . Esta definición puede parecer amplia, pues sólo una parte estos lactantes continuarán teniendo exacerbaciones, mientras que los demás tendrán manifestaciones transitorias. Sin embargo, ante la ausencia de criterios predictivos fiables, el diagnóstico del asma favorece la instauración de tratamientos dirigidos.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+La mayoría de las exacerbaciones están inducidas por virus y adoptan el carácter de una bronquiolitis viral aguda. Comienza por una rinitis o rinofaringitis banal, que precede en 2-3 días a la aparición de una tos seca, en quintas, con polipnea, retracciones/tiraje y sibilancias. La importancia de las retracciones/tiraje y de la polipnea, así como la tolerancia de los síntomas (desde los puntos de vista digestivo y respiratorio) y la saturación de O2 (normal > 95%) son índices de gravedad. El cuadro evoluciona a la curación en unos días. Los agentes infecciosos principales en el período de otoño-invierno son el virus respiratorio sincitial, los rinovirus, los virus parainfluenza, el metaneumovirus y el virus de la gripe.
+Otros cuadros clínicos:•sibilancias continuas con persistencia de los signos de obstrucción bronquiolar, cuya importancia varía en función de los episodios infecciosos otorrinolaringológicos (ORL) y de la actividad del niño; los síntomas aumentan durante la agitación, las comidas y el esfuerzo, pero disminuyen en reposo y durante el sueño. Estos bebés «sibilantes» mantienen un desarrollo ponderoestatural y una actividad normales («sibilantes felices»);•episodios de disnea moderada con sibilancias, tos espasmódica con sibilancias al final de la tos, que se producen sin cuadros de viriasis, sobre todo por la noche, al reír o durante episodios de agitación;•exacerbaciones graves que pueden causar un cuadro de asma aguda grave, en ocasiones con ingreso en reanimación.
+Se han descrito varios fenotipos , :•según los factores desencadenantes, que permiten distinguir aquéllos en los que las manifestaciones se desencadenan sólo por las infecciones virales de los que tienen múltiples factores desencadenantes como el ejercicio, la excitación o la risa;•según la existencia o no de atopia;•según la evolución: sibilantes transitorios cuyas manifestaciones no perdurarán después de los 3 años, sibilantes persistentes cuyas manifestaciones persistirán a los 6 años y sibilantes tardíos cunas manifestaciones aparecerán entre los 3 y los 6 años.
+
+
+-- DIAGNÓSTICO POSITIVO Y DIAGNÓSTICO DIFERENCIAL
+
+En los lactantes, cualquier afección obstructiva que dificulte la evacuación de las secreciones provoca una inflamación bronquial y sibilancias (Figura 6, Figura 7 ). Figura 6Figura 7
+Varias patologías orgánicas causantes de obstrucción pueden presentarse como un asma del lactante, e incluso asociarse a ella . Por tanto, en el momento del diagnóstico es indispensable la confrontación de los datos de los antecedentes (antecedentes de prematuridad, dificultad respiratoria neonatal, viriasis grave, antecedentes atópicos personales y familiares, signos de reflujo gastroesofágico), de la historia de la enfermedad (frecuencia e intensidad de los síntomas de asma, estado respiratorio entre los episodios, factores desencadenantes, respuesta a los tratamientos recibidos), de la exploración física (signos respiratorios: sibilancias, tos, disnea, retracciones/tiraje, distensión, cianosis, etc., crecimiento, eccema, signos atípicos) y de las radiografías de tórax .
+Antes de los 3 años, la evaluación alergológica debe reservarse a los niños con síntomas respiratorios persistentes, recidivantes, que requieran un tratamiento continuo o que se asocien a síntomas extrarrespiratorios compatibles con un origen alérgico. Las pruebas de punción cutánea se recomiendan como primera elección en la evaluación alergológica. Si no se pueden realizar como primera elección, se recomienda realizar una prueba multialergénica. Si estas pruebas son positivas, se debe continuar la evaluación alergológica. La determinación de la concentración sérica de IgE total o específica como primera elección no se recomienda en la práctica corriente.
+Las PFR pueden realizarse sin sedación a partir de los 3 años, con medición de las resistencias pulmonares por pletismografía (resistencias específicas de las vías aéreas), interrupción de los flujos u oscilaciones forzadas (resistencias totales). Antes de los 2 años, requieren sedación y un material que sólo está disponible en los laboratorios especializados, por lo que no se realizan de rutina.
+A favor del diagnóstico de asma, pueden citarse :•la secuencia rinitis-tos-sibilancia durante las infecciones de las vías aéreas superiores que desencadenan las exacerbaciones;•la presencia de tos seca recidivante o persistente, que aumenta por la noche, favorecida por el ejercicio, la risa, el llanto y la exposición al tabaco, y que se produce fuera de las infecciones de las vías aéreas superiores;•la presencia de sibilancias recidivantes o de dificultad respiratoria con los mismos factores desencadenantes que los de la tos, incluido por la noche;•la existencia de datos de atopia personal o familiar: dermatitis atópica, rinitis alérgica;•una buena respuesta clínica a los broncodilatadores de forma aguda; la mejoría clínica después de 2-3 meses de CI y la recidiva al suspenderlos;•pruebas cutáneas positivas para los neumoalérgenos y/o los alérgenos alimentarios (leche, huevo).
+Castro Rodríguez ha propuesto un índice predictivo de persistencia de las manifestaciones. Este índice es positivo cuando existe un criterio mayor o dos criterios menores :•criterios mayores: diagnóstico de asma en uno de los progenitores, diagnóstico confirmado médicamente de dermatitis atópica, sensibilización al menos a un neumoalérgeno;•criterios menores: sibilancias sin infección respiratoria, eosinofilia sanguínea mayor del 4%, sensibilización con un trofoalérgeno (leche, huevo, cacahuete).
+Se debe sospechar otro diagnóstico en caso de:•presencia de signos atípicos:ºestancamiento o reducción ponderal,ºpersistencia de signos respiratorios intercríticos o manifestaciones desde el nacimiento: estridor, cornaje, disnea en las dos fases respiratorias, polipnea, sibilancias, tiraje, broncorrea, tos productiva matinal,ºausencia de correlación con las infecciones de las vías aéreas superiores,ºdeformación torácica, cianosis, acropaquias,ºsignos extrarrespiratorios asociados: trastornos deglutorios, diarrea crónica, soplo cardíaco, disnea de esfuerzo, dolor abdominal, vómitos excesivos; •radiografía de tórax anormal;•características particulares: prematuridad, antecedentes de reanimación neonatal prolongada, displasia broncopulmonar, antecedentes de cardiopatía congénita con cortocircuito izquierda-derecha;•no mal control a pesar de dosis moderadas de CI mediante AD con cámara de inhalación.
+En tal caso, es indispensable completar las exploraciones (endoscopia bronquial, tomografía computarizada [TC] de tórax, estudio de la motilidad ciliar, estudio inmunitario, prueba del sudor, etc.) en un medio especializado (Fig. 8 ).Figura 8
+
+
+-- TRATAMIENTO
+
+Los objetivos del tratamiento son la normalización de la exploración física, la ausencia de síntomas diarios (diurnos y nocturnos), el mantenimiento de una actividad física normal para la edad y la normalización del crecimiento ponderal cuando está alterado. Al igual que en los niños mayores, la clasificación basada en la gravedad inicial debe sustituirse en la actualidad por un tratamiento adaptado al control.
+
+
+--- MEDICAMENTOS DISPONIBLES
+
+Los CI utilizados son la fluticasona (AD 50 μg/dosis, autorizada a partir de 1 año), la budesonida (formas de suspensión nebulizadas de 0,5 y 1 mg), la beclometasona en AD 50 y 250 μg y nebulizada (formas en suspensión de 0,4 y 0,8 mg). Se recomiendan dos modalidades de administración: AD con cámara espaciadora adaptada (y mascarilla facial) y nebulización con un generador neumático. La tolerabilidad de los CI en dosis bajas e intermedias es buena. Las presentaciones intravenosas de corticoides no deben utilizarse en nebulización en el tratamiento del asma grave.
+Los BDAC se utilizan esencialmente para el tratamiento de los síntomas. Sin embargo, pueden usarse como tratamiento de fondo, asociados con los CI. Los BDAP sólo están autorizados a partir de los 4 años. El montelukast (gránulos de 4 mg) está autorizado a partir de los 6 meses, asociado con los CI y a partir de los 2 años con las mismas indicaciones que en los niños mayores.
+
+
+--- ESTRATEGIA Y ADAPTACIÓN TERAPÉUTICA
+
+Al igual que en los niños mayores, la evaluación y la estrategia terapéutica en los niños preescolares se basan esencialmente en la frecuencia de los síntomas intercríticos y la evaluación de los factores de riesgo. Los síntomas intercríticos son los mismos: frecuencia de las manifestaciones diurnas, de los despertares nocturnos, de los síntomas con el esfuerzo y uso de BDAC. Sin embargo, la tolerancia de los síntomas es más rigurosa, pues el umbral es de 1/semana en lugar de 2/semana en los niños mayores. Por otra parte, los factores de riesgo de aparición de exacerbación son: síntomas no controlados, al menos una exacerbación grave en el año previo, la persistencia de tabaquismo pasivo o activo, de contaminación o de un ambiente alergénico, un mal cumplimiento y problemas psicosociales importantes. El riesgo de evolución hacia una obstrucción fija se relaciona con la frecuencia de hospitalizaciones anteriores. Los algoritmos de tratamiento se resumen en la Figura 9 . Se distinguen cuatro escalones: Figura 9
+En todos los casos, se deben evaluar con frecuencia la eficacia o el fracaso del tratamiento. Después de la estabilización del asma, se trata de reducir la posología progresivamente hasta obtener la posología mínima eficaz. En la mayoría de los lactantes, se puede interrumpir el tratamiento con corticoides durante el período estival.
+
+
+-- DEVENIR DEL ASMA EN LOS NIÑOS PREESCOLARES
+
+De forma general, se observan los mismos factores que los que se asocian a la persistencia del asma desde la infancia a la edad adulta:
+Se han realizado varios ensayos para evaluar la hipótesis de que una corticoterapia inhalada precoz era susceptible de modificar la historia natural del lactante. Los resultados han sido decepcionantes, al mostrar que los CI sólo tenían una acción suspensoria, con retorno al estado anterior tras su interrupción .
+
+
+- ASMA GRAVE
+
+-- DEFINICIÓN Y FENOTIPOS
+
+El asma grave supone alrededor del 5% de los casos de asma infantil y plantea problemas terapéuticos importantes. Los criterios de asma grave son:
+Por tanto, el asma grave es un grupo heterogéneo de situaciones y se pueden observar varios fenotipos :•persistencia de síntomas varias veces a la semana o exacerbaciones frecuentes en un niño cuyas funciones respiratorias son normales;•persistencia de síntomas asociada a un síndrome obstructivo intercrítico fijo, no reversible después de una prueba con corticoides;•presencia de un síndrome obstructivo intercrítico fijo en un niño poco o nada sintomático.
+Esta definición implica también tres conceptos: la ausencia de otro diagnóstico, un tratamiento correcto de los factores precipitantes y una buena adherencia al tratamiento.
+
+
+-- EXPLORACIONES DEL ASMA GRAVE
+
+La exploración del asma difícil debe tratar de responder cinco preguntas.
+
+
+--- ¿SE TRATA REALMENTE DE UN ASMA
+
+Los principales diagnósticos diferenciales deben descartarse .
+
+
+--- ¿SE TRATA DE UN ASMA FALSAMENTE GRAVE
+
+Los defectos de observancia terapéutica, una técnica defectuosa, un entorno inadecuado y los factores psicosociales constituyen los problemas más frecuentes de asma falsamente grave.
+
+
+--- ¿EXISTE UNA ENFERMEDAD CONCURRENTE
+
+Los principales factores agravantes que deben buscarse son el reflujo gastroesofágico, las patologías de la región ORL, la persistencia de exposiciones alérgicas, la existencia de alérgenos alimentarios «ocultos», así como el tabaquismo tanto pasivo como activo en los niños mayores . También hay que identificar en un auténtico cuadro de asma qué parte corresponde a una discinesia de las cuerdas vocales y cuál a un síndrome de hiperventilación.
+
+
+--- SI SE TRATA DE UN ASMA GRAVE AUTÉNTICA, ¿QUÉ PARTE CORRESPONDE A LA ALERGIA Y CUÁL A LA FUNCIÓN RESPIRATORIA
+
+Los análisis de cohortes han demostrado claramente que la alergia, tanto en términos de órganos afectados como de número de polisensibilizaciones, es un factor de asma grave. Asimismo, la existencia precoz de una obstrucción bronquial intercrítica se asocia a un asma más grave.
+
+
+--- ¿CUÁL ES LA IMPORTANCIA DE LA INFLAMACIÓN Y DE LA REMODELACIÓN DE LAS VÍAS RESPIRATORIAS
+
+Esta evaluación, reciente, es el aspecto más innovador del manejo del asma difícil , , . Para llevarla a cabo se utilizan métodos directos invasivos, lavado broncoalveolar y biopsias bronquiales o métodos indirectos, no invasivos: medición del NO exhalado, esputo inducido, condensado exhalado, tomografía de tórax.
+La evaluación directa se basa en el análisis del líquido de lavado broncoalveolar y, sobre todo, en las biopsias endobronquiales que se realizan durante la endoscopia. Los principales resultados de las biopsias muestran que los fenómenos inflamatorios (aumento del número de polimorfonucleares eosinófilos y neutrófilos intraepiteliales, aumento del número de los mastocitos submucosos y en el interior de los músculos lisos) correlacionan con los síntomas, mientras que, salvo el engrosamiento de la membrana basal, las anomalías estructurales de remodelación (es decir, la hipertrofia/hiperplasia del músculo liso, la hiperplasia miofibroblástica, la hipertrofia de las glándulas mucosas y la angiogénesis) correlacionan más con el grado de obstrucción bronquial , . Los datos recientes muestran que esta remodelación aparece precozmente y en ocasiones es visible antes de los 2 años .
+Hay varias técnicas que están en fase de evaluación: correlación entre el NO espirado e inflamación/remodelación , medición de diferentes marcadores en el esputo inducido o el condensado exhalado, evaluación de las remodelaciones estructurales asociadas al asma mediante TC .
+
+
+-- TRATAMIENTO
+
+El asma grave requiere en un primer momento un manejo educativo específico (autovigilancia del FEM en el domicilio, plan de acción de las exacerbaciones, coordinación entre la familia, el médico responsable, el pediatra, etc.). Se están desarrollando nuevas aplicaciones de internet y de teléfonos inteligentes para mejorar la observancia y las relaciones con el paciente y su familia, el tratamiento apropiado de los factores agravantes y la optimización de los tratamientos farmacológicos. Éstos se basan hasta el momento en la asociación de dosis elevadas de CI (800-1.000 μg/día de equivalente de budesonida) y de BDAP . Este tratamiento optimizado permite el control de la mayoría de los cuadros de asma considerados difíciles.
+Sin embargo, algunos niños siguen estando sintomáticos o conservan una obstrucción bronquial intercrítica y representan los auténticos cuadros de asma grave, difíciles o refractarios . Aunque es tentador aumentar la posología diaria de CI, el riesgo potencial de efectos secundarios puede superar a los beneficios esperados. Basándose en esto, en la actualidad se propone realizar una prueba con corticoides (2 mg/kg/día durante 7-10 días). Una prueba positiva (control de los síntomas, mejora del VEMS ≥ 15%) incita a reforzar, al menos temporalmente, el tratamiento antiinflamatorio y broncodilatador. Una prueba negativa, con persistencia de los síntomas clínicos o la ausencia de respuesta funcional respiratoria, incita a realizar una evaluación más completa en un medio especializado. La identificación de subgrupos basados en los datos histopatológicos podría tener implicaciones terapéuticas. Por ejemplo, la ausencia de infiltración eosinofílica o neutrofílica asociada a la presencia de signos importantes de remodelación motivarían una reducción de la dosis de CI, mientras que una infiltración inflamatoria importante de eosinófilos motivaría un incremento, al menos temporal, de la dosis de CI. Sin embargo, se han realizado demasiado pocos estudios prospectivos hasta el momento para validar esta distinción y, debido a la diversidad y a la interrelación de los fenómenos inflamatorios implicados, es más que probable que detrás de esta clasificación simple existan fenotipos muy diferentes.
+Las indicaciones de los tratamientos alternativos dirigidos a reducir o evitar los corticoides orales, tanto las inmunoglobulinas intravenosas como la ciclosporina, nunca se han evaluado mediante estudios con doble anonimato con un tamaño de muestra suficiente, o han sido negativos. La mejor comprensión de los mecanismos implicados en la fisiopatogenia del asma ha permitido el desarrollo de nuevas moléculas. Entre ellas, los anti-IgE han permitido en los niños con asma alérgica persistente grave prescindir de los corticoides, así como reducir el número de exacerbaciones , . Otras moléculas dirigidas están en fase de desarrollo : anticuerpos monoclonales antiinterleucina 5 (anti-IL-5) (mepolizumab, reslizumab) para el asma hipereosinofílica, anti-IL-4, anti-IL-13 (lebrikizumab), anti-IL-17, etcétera. Estas nuevas moléculas abren la era de un tratamiento personalizado para el que será necesaria la identificación de marcadores predictivos .
+
+
+- PARTICULARIDADES
+
+-- ASMA E INFECCIONES VIRALES
+
+Las relaciones virus/asma son complejas e implican, por una parte, al papel de los virus en la aparición del asma y, por otra parte, el papel de los virus como factor precipitante de la exacerbación .
+Desde el punto de vista fisiopatológico, los virus actuarían más como facilitadores de la expresión de una predisposición atópica que en la inducción de novo del asma. Los rinovirus están particularmente implicados en estos fenómenos .
+En la actualidad, las infecciones virales se consideran el factor precipitante más frecuente de las exacerbaciones asmáticas, en pacientes con asma demostrada. Las técnicas modernas de diagnóstico permiten incriminar al menos a un agente infeccioso en alrededor del 80% de las exacerbaciones asmáticas. Los principales virus observados son los rinovirus, virus respiratorio sincitial, enterovirus, virus de la gripe, adenovirus, coronavirus, virus parainfluenza, metaneumovirus, así como Chlamydia pneumoniae y Mycoplasma pneumoniae. Las infecciones virales presentan una recrudescencia en otoño e invierno y comienzan poco después de la vuelta al colegio, es decir, el retorno a la colectividad. Pueden ser graves, con una insensibilidad relativa a los beta-2-adrenérgicos y requerir hospitalización.
+
+
+-- ASMA Y RINITIS
+
+Alrededor de dos tercios de los niños con asma alérgica tienen rinitis, con más frecuencia perenne que estacional.
+Por tanto, en la anamnesis deben buscarse sistemáticamente los síntomas de rinitis alérgica: prurito nasal, rinorrea, estornudos, obstrucción. Además, hay que evaluar la intensidad de los problemas que provoca (repercusión sobre el sueño, las actividades sociales y deportivas o la escolaridad). La rinitis puede tener una intensidad leve/moderada o grave e intermitente o persistente. Se buscan también signos de traqueítis alérgica, que provoca episodios de tos durante horas, diurna y nocturna, en los que puede aparecer una laringitis edematosa subglótica.
+La afectación ORL es una causa clásica de dificultades terapéuticas en el asma. Hay que tratar ambas afecciones, subrayando al niño y a su familia la excelente tolerabilidad de los tratamientos tópicos, incluidos los corticoides por vía nasal, que son los más activos sobre los estornudos, el prurito, la rinorrea y, sobre todo, la obstrucción nasal. El montelukast ha demostrado ser activo en algunos estudios en la rinitis alérgica.
+
+
+-- ASMA Y DEPORTE
+
+El AIE es muy frecuente, e incluso casi constante en los niños asmáticos, pero su nivel de aparición varía en función del deporte, de las condiciones atmosféricas y del estado basal del niño. Una gran parte de esta variabilidad se explica por la fisiopatología del AIE, en la que interviene esencialmente el nivel de ventilación, de pérdida de calor y de agua por el árbol respiratorio. La intervención de los fenómenos inflamatorios y de los mediadores procedentes de las células epiteliales, de los mastocitos, de los eosinófilos, de los macrófagos y de las células neurosensoriales probablemente explique la acción beneficiosa a largo plazo de los CI. La eficacia de los β2-adrenérgicos inhalados, con fines preventivos o terapéuticos, tiene un gran valor diagnóstico.
+El AIE debe incluirse en la evaluación del control del asma. La aparición fácil y frecuente de manifestaciones con el esfuerzo es un buen signo de ausencia de control, en tal caso, la reducción de la inflamación es prioritaria, esencialmente mediante la corticoterapia inhalada. En menos ocasiones, la aparición de síntomas con el esfuerzo es la única manifestación de asma. Por último, en algunos niños que parecen tener un asma bien controlada clínica y funcionalmente, el AIE (en ocasiones grave) es la manifestación más preocupante del niño. En estos casos, la adición de un tratamiento antileucotrieno parece eficaz.
+El ejercicio físico es una necesidad somática psicológica y sociocultural en los niños asmáticos. A excepción del submarinismo con botellas, los pacientes asmáticos pueden realizar cualquier deporte, una vez comprobado que el control del asma es adecuado y que no ha habido exacerbaciones recientes. Por tanto, los niños asmáticos no deben excluirse de las actividades deportivas, en particular en el medio escolar. Se debe hacer todo lo posible para sacar al niño asmático del círculo vicioso de la mala forma física. El reentrenamiento del esfuerzo debe formar parte de la estrategia terapéutica en los niños asmáticos.
+
+
+-- ASMA Y ESCUELA, ESCUELAS DEL ASMA
+
+La escolaridad y, por tanto, el futuro socioprofesional de los niños asmáticos, puede verse alterada a varios niveles. Cualquier síntoma de asma, incluso modesto e inicial, debe tratarse de inmediato, lo que justifica que el niño asmático debe tener siempre a mano su broncodilatador inhalado. El proyecto de acogida individualizada, diseñado para favorecer la integración de los niños asmáticos, debe permitir una buena integración del niño asmático en el medio escolar. Algunas circunstancias y períodos son más propicios para la aparición de exacerbaciones, como la vuelta al colegio o la educación física. Es necesario que el niño asmático pueda inhalar su beta2-adrenérgico antes de la clase de educación física y deportiva.
+Lo esencial en el tratamiento del asma es la regularidad terapéutica. Son los progenitores quienes deben asegurar la observancia terapéutica de su hijo. Los programas de educación terapéutica para los niños asmáticos y sus progenitores tienen como finalidad desarrollar en los niños asmáticos, sobre todo en caso de asma moderada o grave, unas competencias que permitan una autogestión razonada de sus síntomas y mejorar la adhesión a los tratamientos. La educación terapéutica debe estar estructurada, organizada y realizarse por profesionales con formación al respecto. Debe ser accesible para los pacientes, tanto en el hospital como en el ámbito de la atención primaria.
+
+
+-- ASMA Y CALIDAD DE VIDA
+
+El asma se ha considerado durante mucho tiempo como la enfermedad más «psicosomática» de todas. Muchos estudios han demostrado la repercusión del asma sobre la calidad de vida de los niños y de las familias, la observancia terapéutica y la incidencia de las complicaciones. Las dificultades psicopatológicas observadas en los niños y su entorno se relacionan esencialmente con la gravedad del asma. El análisis de estos datos permite apreciar una evolución en la presentación del asma respecto a la literatura existente. El asma se controla cada vez mejor desde el punto de vista terapéutico y en la actualidad altera poco la escolaridad y la calidad de vida de los niños, salvo en caso de mal cumplimiento.
+
+
+- PRONÓSTICO A LARGO PLAZO DEL ASMA
+
+El futuro a largo plazo del asma infantil es una preocupación importante. Aunque la introducción de los CI ha transformado el tratamiento del asma infantil, la cuestión de saber si el asma persistirá toda la vida o al menos hasta la adolescencia es una de las preguntas que plantean los progenitores con más frecuencia.
+Los escasos estudios epidemiológicos que se han realizado durante períodos de 20-30 años muestran que el número de «falsas curaciones» es elevado y que el concepto del asma que se cura en la pubertad es un mito. Las recidivas de asma se producen no sólo en los pacientes con asma grave, sino también en los casos de asma benigna, tanto mucho antes de los 20 años como entre los 20 y los 30 años. Los estudios históricos de cohortes , , , pero sobre todo los análisis prospectivos de cohortes pediátricas , , permiten conocer menor la historia natural del asma y de la alergia.
+Los dos puntos importantes son, por una parte, el concepto de tracking o de pasillo clínico y funcional y, por otra parte, el papel importante, e incluso preponderante, de los factores atópicos. El concepto de pasillo hace referencia al hecho de que los síntomas como el grado de obstrucción bronquial permanecen estables globalmente durante toda la infancia. Dicho de otro modo, los pacientes con asma grave continuarán con este grado de enfermedad y la obstrucción bronquial aparecerá de forma precoz y persistirá. Asimismo, las anomalías de remodelación bronquial que reflejan la respuesta a los fenómenos inflamatorios asociados al asma pueden aparecer en una etapa muy precoz de la vida. El segundo punto importante de los análisis de cohortes es el peso muy significativo de la atopia, tanto en la persistencia de los síntomas del lactante hasta la infancia y después hasta la edad adulta, como en la gravedad clínica o funcional.
+
+
+- CONCLUSIÓN
+
+El tratamiento del asma infantil es a la vez sencillo y complejo. Es sencillo porque las clases terapéuticas son poco numerosas, pero eficaces para la mayoría de los niños. Es complejo porque el asma es multifactorial, en particular en lo que respecta a sus factores desencadenantes. De forma paradójica, aún es una enfermedad que presenta un retraso diagnóstico y por tanto, un retraso y una insuficiencia de tratamiento. •El asma es la enfermedad crónica infantil más frecuente.•Las exploraciones claves en el momento del diagnóstico son las radiografías de tórax y, a partir de los 3 años, las PFR y la evaluación alergológica.•La evaluación alergológica puede efectuarse antes de los 3 años.•Cerca del 80% de los niños con asma están sensibilizados al menos a un alérgeno.•El objetivo del tratamiento es lograr el control diario de los síntomas y prevenir el riesgo futuro de exacerbaciones, con una función respiratoria normal o normalizada.•Aunque la mayoría de los asmáticos pueden controlarse con el arsenal terapéutico disponible, cuya piedra angular es la corticoterapia inhalada, los problemas relacionados con la observancia y los errores técnicos de inhalación son las causas principales de fracasos terapéuticos.•Los estudios de cohortes muestran que la gravedad inicial, la importancia de la sensibilización y la persistencia de una obstrucción bronquial intercrítica son los factores principales de persistencia del asma.

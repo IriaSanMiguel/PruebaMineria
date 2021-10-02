@@ -1,0 +1,87 @@
+IMPACTO DE UNA INTERVENCIÓN FARMACÉUTICA EN LA PREVENCIÓN DE RECAÍDAS EN DEPRESIÓN EN ATENCIÓN PRIMARIA<SUP
+
+
+- INTRODUCCIÓN
+
+Los farmacéuticos tienen un papel emergente en el cuidado de la salud mental, pudiendo colaborar en la detección temprana de la enfermedad mental, la toma de decisiones compartida y la calidad de uso de medicamentos a través de la revisión de la medicación y la mejora en la adhesión, entre otros. La falta de adhesión terapéutica continúa siendo un problema importante en el tratamiento de la depresión y las intervenciones implementadas por los farmacéuticos han demostrado tener un efecto positivo sobre la adhesión a los antidepresivos en pacientes ambulatorios. En un estudio realizado en España, los pacientes que recibieron una intervención farmacéutica (IF) (PRODEFAR) tendían a mostrar una mayor probabilidad de mantener la adhesión a los 3 y 6 meses de seguimiento que los pacientes que recibieron la atención habitual (AH), aunque la diferencia era tan solo marginalmente significativa en el análisis por protocolo (OR = 3,44; p = 0,055). También se observó que la intervención PRODEFAR tuvo un pequeño impacto en la mejora de la calidad de vida de los pacientes diagnosticados de depresión en atención primaria (AP).
+Se sabe que mantener el tratamiento antidepresivo durante un tiempo suficiente, variable según el número de episodios que haya tenido el paciente, reduce el riesgo de recaída en comparación con suspender el tratamiento precozmente, y hay datos sólidos que muestran que la atención farmacéutica puede contribuir a mejorar los resultados finales de salud. Sin embargo, los estudios existentes hasta el momento que evalúan el impacto del cuidado farmacéutico en pacientes deprimidos, tienen períodos cortos de seguimiento (2-6 meses), , , , , , , por lo que falta evidencia sobre el impacto a largo plazo de este tipo de intervenciones en la prevención de recaídas en pacientes depresivos. La evaluación de los efectos a largo plazo es clave para mejorar la evidencia sobre la efectividad de la IF.
+El objetivo de este estudio fue evaluar el impacto a largo plazo de una breve IF en comparación con la AH en la prevención de las recaídas en pacientes depresivos a nivel de AP en España.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+El estudio PRODEFAR fue un ensayo naturalístico, aleatorizado y controlado, que comparaba una IF con la AH en la mejora de la adhesión y los resultados en pacientes de AP que iniciaban un tratamiento con antidepresivos. Se publicó una descripción detallada del protocolo del estudio. El Comité de Ética de la Fundación Sant Joan de Déu (CEIC Fundación SJD) aprobó el estudio.
+
+
+-- SELECCIÓN DE PARTICIPANTES, ALEATORIZACIÓN E INTERVENCIÓN
+
+Los pacientes fueron reclutados por sus médicos de atención primaria (MAP) en 4 centros de AP del área metropolitana de Barcelona. Los MAP ofrecieron participar a los pacientes que iniciaban un tratamiento con antidepresivos por un diagnóstico de depresión mayor y obtuvieron el consentimiento informado por escrito del paciente. Se incluyeron en el estudio aquellos pacientes entre 18-75 años que en los 2 meses anteriores no habían consultado a un especialista en salud mental ni habían tomado antidepresivos; no tenían un historial de trastorno bipolar, psicótico o abuso de drogas; y los que no tenían deterioro cognitivo. Los pacientes fueron asignados al azar al grupo control (GC) y al grupo intervención (GI) mediante sobres cerrados que contenían números que habían sido designados por un generador de números aleatorios informatizado a través de un investigador externo.
+Los pacientes recibieron la IF o la AH en 24 farmacias comunitarias donde fue recogida su primera receta de antidepresivos. La IF consistió en la promoción de la adhesión terapéutica a través de una intervención educativa centrada en mejorar el conocimiento de la medicación antidepresiva por parte de los pacientes, tranquilizando al paciente acerca de los posibles efectos secundarios y reduciendo el estigma asociado con la enfermedad o el tratamiento.
+
+
+-- MEDICIONES
+
+Ocho psicólogos entrenados evaluaron a los pacientes al inicio del estudio y a los 3 y 6 meses de seguimiento. Al inicio del estudio se recogieron datos sociodemográficos y se evaluó el diagnóstico de depresión con la versión de la Entrevista Clínica Estructurada para los Trastornos DSM-IV Axis I (SCID-I). Al inicio del estudio, a los 3 y 6 meses, se midió la gravedad de los síntomas de la depresión mediante el Patient Health Questionnare (PHQ-9), .
+
+
+-- SELECCIÓN DE PACIENTES QUE MOSTRARON REMISIÓN DE LOS SÍNTOMAS
+
+Para evaluar los efectos a largo plazo de la intervención en términos de recaída se seleccionó una submuestra de pacientes que mostraron remisión de los síntomas a los 6 meses de seguimiento. La definición de los criterios de elegibilidad para los pacientes deprimidos que presentan remisión de los síntomas varía de un estudio a otro. Por lo tanto, decidimos tener en cuenta 3 definiciones diferentes: mejora del 50% en el PHQ-9 con puntuaciones o calificaciones ≤ 4 (Definición A); mejora del 40% en el PHQ-9 o puntuaciones ≤ 4 (Definición B); y mejora del 30% en el PHQ-9 o puntuaciones ≤ 4 (Definición C).
+
+
+-- MEDICIÓN DE LA RECAÍDA
+
+La variable principal de resultado de este estudio fue la proporción de recaídas. La información sobre la recaída fue extraída de la historia clínica del paciente. El sistema informático del Sistema Nacional de Salud abarca el 95% de la población y registra información sobre las prescripciones y las visitas médicas en AP y/o atención especializada, incluso cuando el paciente se muda a otra región sanitaria dentro de la misma comunidad autónoma. Este sistema registra automáticamente información sobre los medicamentos dispensados a los pacientes cada mes en cualquier farmacia comunitaria de su comunidad autónoma.
+La recaída fue definida como un empeoramiento de los síntomas en los 12 meses que siguieron a la última evaluación del paciente (18 meses después del inicio del tratamiento con antidepresivos). Existen una serie de indicadores que han mostrado ser útiles para identificar estos episodios en la historia clínica. En nuestro estudio, se usó la siguiente combinación de indicadores: registro de una nueva prescripción de antidepresivo, texto libre en el curso clínico, derivación a urgencias psiquiátricas y registro reciente del diagnóstico.
+Tres MAP (MPM, RFV and ACC) identificaron la prescripción de nuevos antidepresivos revisando el historial fármaco-terapéutico (HFT) al cual se tiene acceso a través de la historia clínica. Las MAP también revisaron las historias clínicas para identificar si había nuevos registros de diagnósticos de depresión mayor, indicadores de depresión en el texto de los cursos clínicos y derivaciones a urgencias psiquiátricas.
+
+
+- ANÁLISIS ESTADÍSTICOS
+
+Para evitar sesgos y pérdidas de eficiencia, los valores perdidos fueron imputados utilizando la imputación múltiple mediante ecuaciones encadenadas con regresión lineal y regresión logística para variables continuas y binarias, respectivamente. En el modelo de imputación se incluyeron las variables sociodemográficas y de pronóstico asociadas con las variables de resultado y los abandonos. En el 35% de los pacientes faltaba al menos una de las variables. Se crearon 50 bases de datos imputadas.
+Las 3 definiciones de mejoría clínica fueron aplicadas a las 50 bases de datos imputadas para así seleccionar la muestra que tenía los síntomas en remisión. Las diferencias en la línea base entre grupos en las características sociodemográficas y clínicas (p. ej. severidad de los síntomas y antecedentes previos de depresión en la línea base) fueron evaluadas con regresión lineal o logística bivariada. La probabilidad de recaída para los pacientes intervención y control y el aumento de probabilidad de recaída en el GI fueron evaluados mediante regresión logística multivariada.
+Las características en línea base que se consideraron relevantes para el modelo fueron testadas en los modelos utilizando test de razón de verosimilitud (p ≤ 0,20). Aquellas variables que demostraron ser relevantes se incluyeron en los modelos finales. Todos los modelos fueron ajustados por edad y género.
+Todos los análisis descritos se realizaron en cada una de las bases de datos imputadas. A continuación, el tamaño total de la muestra, las características de la muestra y las diferencias entre grupos en la probabilidad de recaída fueron agregadas según las normas de Rubin.
+Todos los análisis se realizaron con STATA 12 siguiendo el principio de intención de tratar (todos los participantes se incluyeron según fueron aleatorizados, independientemente si habían recibido la intervención o habían completado el seguimiento) y por protocolo (se excluyeron los pacientes que no habían recibido la IF o la AH).
+Para evaluar nuestra capacidad de detectar diferencias, calculamos el tamaño de la muestra necesario para detectar una diferencia en la probabilidad de recaída entre los grupos, estableciendo una potencia del 80% y un nivel de significación del 5%.
+
+
+- RESULTADOS
+
+-- PARTICIPANTES Y ABANDONOS
+
+La figura muestra el flujo del estudio. De los 179 participantes incluidos en el estudio, 87 fueron aleatorizado a GI y 92 a GC. Un total de 26 pacientes en cada grupo no se pudieron entrevistar (29% de casos perdidos) porque se negaron a atender a la entrevista (32) o no pudieron ser contactados (20). Del total de participantes incluidos, a los 6 meses, 113,2 mostraron una remisión de los síntomas depresivos según la Definición A (GI = 58,0; GC = 55,2) 123,2 según la Definición B (GI = 60,5; GC = 62,7) y 135,3 según la Definición C (GI = 69,5; GC = 65,8) y fueron incluidos en el análisis (el valor medio de los tamaños de la muestra fueron calculados según las normas de Rubin después de la imputación múltiple). La adhesión al protocolo en el GI osciló entre el 84% (Definición A) y el 86% (Definición B) y fue siempre superior al 95% en el GC .Figura 1
+
+
+-- CARACTERÍSTICAS SOCIODEMOGRÁFICAS
+
+La tabla 1 muestra las características sociodemográficas de los pacientes incluidos en el análisis por intención de tratar y por protocolo para las 3 definiciones de remisión de los síntomas.
+En general, la mayoría de los participantes eran mujeres (64-82%) con una edad media sobre los 45 años (45,0-46,9 años). Aproximadamente la mitad de la muestra estaba deprimida según la SCID-I y la media de severidad en la línea base según la PHQ-9 rondaba los 16 puntos (síntomas moderadamente severos). En línea base, se detectó una diferencia estadísticamente significativa entre los grupos para la proporción de mujeres. Todos los modelos fueron ajustados por género. No se detectaron otras diferencias significativas entre los grupos para el resto de variables en la línea base.
+
+
+-- REDUCCIÓN DEL RIESGO DE RECAÍDA Y ANÁLISIS DE SENSIBILIDAD
+
+Aunque no resultó estadísticamente significativa, había una mayor probabilidad de recaída en el GC que en el GI a los 18 meses del inicio del tratamiento (OR 0,734 [0,273; 1,975] p = 0,540) . Los resultados fueron consistentes en los análisis realizados mediante la estrategia por protocolo y los realizados mediante las diferentes definiciones de remisión con un intervalo de OR que oscilaba de 0,476 a 0,734 y un intervalo de confianza amplio en todos los análisis de sensibilidad.
+Asumiendo una probabilidad de recaída del 23,7% en el GC y del 17,4% en GI (resultados según la Definición A), el tamaño de la muestra necesario para detectar diferencias estadísticamente significativas con un nivel de significación del 5% y una potencia del 80% sería de 598 pacientes. El mínimo tamaño de muestra necesario para detectar diferencias estadísticamente significativas sería de 550 participantes para cualquiera de las 3 definiciones de recaída en el análisis por intención de tratar .
+
+
+- DISCUSIÓN
+
+En comparación con el tratamiento habitual, los pacientes que recibieron la IF mostraron una tendencia a presentar menos recaídas aunque esta diferencia no fue estadísticamente significativa. Esto podría deberse a la mejora de la adhesión entre los pacientes que recibieron la intervención aunque la adhesión al tratamiento antidepresivo a los 3 y 6 meses de seguimiento no afectó a los resultados cuando se evaluaron en el modelo (datos disponibles a petición). La definición de recaída en los 18 meses posteriores incluía el uso de nuevos fármacos antidepresivos por lo que, para evitar sesgos en el análisis, no se pudo llevar a cabo un análisis de impacto de la adhesión a largo plazo en la prevención de recaídas. Aparte de la adhesión, otros factores podrían haber influido en el riesgo de recaída como por ejemplo el haber sufrido episodios depresivos previos, la severidad del episodio o la autoeficacia del paciente, limitando de este modo nuestra capacidad para detectar diferencias.
+Las estrategias de atención colaborativa que incorporan varios proveedores (p. ej. médicos de AP, especialistas en salud mental, enfermeras y farmacéuticos) en el manejo de los pacientes con depresión son efectivas en la mejora de la adhesión al tratamiento y los resultados en los pacientes con depresión. Sin embargo, futuros estudios deberían evaluar si las estrategias de atención colaborativa son efectivas en la prevención de recaídas.
+Los resultados de este estudio deberían considerar una serie de limitaciones. Una limitación importante del estudio fue utilizar los registros de la historia clínica para identificar las recaídas. El uso de la historia clínica en AP ha demostrado infraestimar la proporción de pacientes con depresión ya que la detección y las tasas de registro normalmente son bajas y esto puede ser extrapolado a los episodios de recaída. Sin embargo, la combinación de varios indicadores debería haber mejorado las tasas de detección.
+Pese a ser un programa efectivo, esta efectividad puede verse reducida por la baja adhesión al mismo. No evaluamos otras variables de la implementación de la intervención más allá del cumplimiento del programa (haber recibido la IF), por lo que es difícil discernir hasta qué punto fue un fallo de la intervención en sí o de su implementación.
+Los farmacéuticos comunitarios no eran ciegos a la asignación de los pacientes a un grupo o a otro e intervenían a pacientes de ambos grupos. Aunque se les pidió que fueran cautelosos, podrían haber contaminado el GC. Finalmente, el tamaño de la muestra fue pequeño. Todos estos factores pueden haber limitado nuestra capacidad para detectar diferencias entre ambos grupos.
+A pesar de todas estas limitaciones, este es el primer estudio que evalúa a largo plazo el impacto de una intervención dirigida por farmacéuticos comunitarios a pacientes con depresión. Los resultados de este estudio muestran que esta IF tiene un pequeño impacto en la reducción de las recaídas en depresión, pero estamos limitados para la detección de diferencias y los resultados parecen indicar que una muestra mayor podría presentar diferentes resultados. Se necesitan estudios con muestras mayores y con periodos de seguimiento más prolongados para evaluar el impacto de la atención farmacéutica en pacientes deprimidos a largo plazo. Estos estudios deberían monitorizar cuidadosamente la adhesión a antidepresivos así como los resultados de implementación para garantizar la efectividad del tratamiento y de la implementación.Lo conocido sobre el tema•La no adhesión terapéutica es un problema en el tratamiento de la depresión.•Hay un menor riesgo de recaída de la depresión si el tratamiento se mantiene durante un periodo adecuado.•Las intervenciones de los farmacéuticos comunitarios tienen un efecto positivo en la adhesión a los antidepresivos a corto plazo.Lo que aporta este artículo•Las intervenciones de los farmacéuticos podrían disminuir la probabilidad la aparición de recaídas en depresión a largo plazo.
+
+
+- FINANCIACIÓN
+
+El estudio PRODEFAR fue financiado por el Instituto de Salud Carlos III (FIS PI070546). La entidad financiadora no tuvo papel en el diseño del estudio, recopilación, análisis e interpretación de datos, redacción del informe, ni en la decisión de presentar el documento para su publicación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

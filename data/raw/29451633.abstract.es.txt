@@ -1,0 +1,5 @@
+Los promedios estatales de mortalidad materna ocultan importantes desigualdades al interior de los estados, reflejo de múltiples inequidades subyacentes.
+Estimar la razón de mortalidad materna (RMM) de las distintas regiones subestatales del país, para identificar aquellas con mayores índices, así como el grado de desigualdad interregional.
+La RMM por región subestatal varía de 16 (en Nuevo León no metropolitano) a 160 (en Sola de Vega, Oaxaca); asimismo, se identificaron 13 regiones de muy alta o extremadamente alta mortalidad materna. El coeficiente Gini nacional es de 0.175; destacan Chihuahua, Nayarit, Oaxaca y Guerrero como estados con una distribución muy desigual de la mortalidad materna.
+De bases de datos oficiales y públicamente disponibles, se tomaron los datos de muerte materna y de recién nacidos registrados, de 2005 a 2014. Se realizó una regionalización a partir de divisiones político-administrativas de cada estado y se calculó la RMM para las mismas, así como los coeficientes Gini.
+

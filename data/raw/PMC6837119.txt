@@ -1,0 +1,73 @@
+RELACIÓN ENTRE VARIABLES FAMILIARES Y EL AJUSTE CONYUGAL<SUP
+
+
+- INTRODUCCIÓN
+
+La atención orientada a la familia es un rasgo inherente de la atención primaria de salud, pues las familias desempeñan un papel esencial en la salud y enfermedad de las personas. La familia se origina con el subsistema conyugal, es decir, la pareja. Según la teoría de los sistemas familiares, cualquier cambio en el subsistema conyugal puede influir en la familia y en los miembros que la integran. Así mismo, los cambios en la familia o en el sistema exterior también pueden verse reflejados en la pareja, pudiendo afectar a la salud de sus miembros. Para Spanier, la salud de la pareja se basa en la calidad de la relación o el grado de ajuste marital, es decir, el modo en que los miembros de la pareja perciben la forma de compartir intereses, valores, objetivos y puntos de vista, así como las vivencias expresadas sobre la relación. Este ajuste depende de diversos factores, entre ellos el consenso (grado de acuerdo en la pareja), la cohesión (grado en que la pareja se involucra en actividades comunes) y la satisfacción conyugal (frecuencia e intensidad de las discusiones y compromiso de seguir juntos).
+Sin embargo, la relación conyugal es cambiante debido al paso del tiempo y a factores familiares que pudieran influir, tal como evidencian VanLaningham, Johnson y Amato al relacionar el tipo de relación de pareja, la existencia de hijos, las etapas del ciclo vital familiar, la transición entre etapas, y algunos acontecimientos vitales estresantes respecto a la percepción de felicidad conyugal, o Dehle, Larsen y Landers al resaltar el importante papel que desempeña el apoyo social percibido en la relación conyugal.
+Existen estudios que manifiestan que el bajo ajuste marital se relaciona con el estrés familiar, surgiendo repercusiones biopsicosociales en la pareja, la díada parental y los hijos. Otros autores lo relacionan con la disfunción familiar, el funcionamiento y/o la satisfacción familiar, sin estudiar otras variables familiares de interés.
+La novedad y el propósito de este estudio residen en visualizar a la pareja, que forma parte del ámbito privado de la familia, pues tiene importantes repercusiones públicas, tanto en los campos social, laboral y clínico como en el educativo, analizando si las variables familiares se relacionan con el ajuste conyugal.
+
+
+- MATERIAL Y MÉTODOS
+
+Se ha realizado un estudio transversal y correlacional mediante encuestas durante 2014 en los 5 distritos sanitarios de Sevilla (Sierra Norte, Aljarafe, Sevilla, Sevilla Sur y Este), en una muestra aleatoria de centros de atención primaria, y en las principales unidades de hospitalización (Hospital Virgen del Rocío, Hospital Virgen Macarena, Hospital Virgen de Valme, Hospital de la Merced de Osuna y Consorcio Sanitario Público Aljarafe).
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Se incluyeron 369 parejas, mayores de 18 años, que mantenían una relación de pareja, con o sin hijos, residentes en Sevilla. Se seleccionaron parejas heterosexuales por su mayor representación en la población. Se excluyeron aquellos que no supieran leer y/o escribir o que pertenecían a una nacionalidad distinta a la española, dado que está ampliamente demostrado que existe influencia cultural en las experiencias y las respuestas humanas. La selección se realizó por muestreo consecutivo estratificado por cuotas en base al nivel asistencial sanitario (50% atención primaria, 50% atención especializada), distritos de atención primaria de Sevilla, número de camas hospitalarias, miembros de la unidad familiar y tipo de población (urbano y rural).
+
+
+-- VARIABLES E INSTRUMENTOS
+
+Se desarrolló un cuestionario autoadministrado que integraba variables sociodemográficas tales como género, edad y nivel de estudios. Se contemplaron las siguientes variables del ámbito familiar: tipo de relación conyugal (matrimonio, pareja de hecho, cohabitación), años de matrimonio, existencia de hijos, número de miembros de la unidad familiar, etapa del ciclo vital familiar en la que se encuentra la familia (formación de la pareja, hijo lactante o escolar, hijo adolescente o emancipado y familia madura y anciana), transición (proceso de cambio entre etapas del ciclo vital familiar con una duración de entre 3 y 6 meses) y las variables ajuste conyugal, apoyo social percibido y acontecimientos vitales estresantes. Se utilizaron las siguientes escalas:
+
+
+-- PROCEDIMIENTO
+
+La investigación se desarrolló en 12 meses, desde su planteamiento, recogida y análisis de datos. El contacto inicial con los participantes se realizó en las consultas de atención primaria y en las unidades de hospitalización de los centros seleccionados a través de enfermeros/as previamente entrenados en el proceso de selección de la muestra y de cumplimentación del cuestionario. Los instrumentos fueron administrados individualmente en una zona con intimidad. Todos participaron voluntariamente tras haber recibido las mismas instrucciones para contestar los cuestionarios y haber sido informados de antemano de las características de la investigación, así como de la confidencialidad de sus respuestas. Los sujetos firmaron un consentimiento informado en el que se les explicaban las características del estudio y los fines de la investigación. El estudio fue aprobado por el comité ético de la Universidad de Sevilla.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+El análisis de los datos se realizó con los programas estadísticos SPSS 18.0 y R 3.1.2 en dos fases: análisis descriptivo e inferencial. Para este último se usaron los estadísticos de correlación r de Pearson, biserial puntual (rbp) y F de ANOVA, así como un modelo de regresión multivariante por eliminación progresiva, manteniendo en el modelo las variables predictoras que podían confundir el efecto de las variables explicativas de interés. Se evaluó el modelo empleando los estadísticos F de Snedecor y R2 ajustada y se especificaron el coeficiente β, el error típico, t de Student y nivel de significación para cada relación. Se calcularon los tamaños de efecto mediante r de Pearson (0,10 = bajo, 0,30 = medio y 0,50 = grande) en correlaciones simples y R2 ajustada (bajo = 0,01, medio = 0,06 y grande = 0,14) en el modelo de regresión.
+Esquema general del estudio.
+
+
+- RESULTADOS
+
+El 68,8% de los participantes eran mujeres, y su edad media fue de 46 años (DT = 13,6). El 34,8% tenían estudios universitarios y el 34,5% bachiller o formación profesional. El 79,1% se unían por matrimonio a sus cónyuges con una media de tiempo de matrimonio de 22 años (DT = 15,0). El 64,8% tenían hijos y el 36,5% se encontraban en la etapa hijo adolescente o emancipado. Solo el 7,9% atravesaba una fase de transición .
+Los resultados muestran un alto ajuste conyugal, con valores de la escala superiores a 44 puntos (media: 50,6; DT = 7,5). Las parejas percibían alto apoyo social (media: 84,6; DT = 12,2), con riesgo de verse afectada la salud individual y/o familiar en un 50% (puntuación media en la escala de reajuste social: 160,9; DT = 103,1). Los cinco agentes estresantes más comunes identificados fueron: cambio de salud de un miembro familiar (45,3%), muerte de un familiar próximo (25,5%), paro (29,0%), vacaciones (30,9%) y navidades (51,5%).
+Al explorar si las variables sociodemográficas y familiares constituían factores asociados al ajuste conyugal , se observaron relaciones estadísticamente significativas entre el ajuste conyugal y los años de matrimonio (r = −0,10; p < 0,05), la etapa del ciclo vital familiar (F = 2,65; p < 0,05), la transición entre etapas (rpb = 0,11; p < 0,05) y el apoyo social percibido (r = 0,44; p < 0,001).
+Por último, se determinó la influencia de los factores familiares que fueron significativos sobre el ajuste conyugal. El análisis del modelo de regresión múltiple reflejó que, controlando la influencia por el resto de variables, las variables apoyo social percibido, nivel de estudios y etapa del ciclo vital familiar (etapa madura-anciana) mostraron capacidad predictiva del ajuste conyugal (R2 = 0,21; p < 0,001) . El apoyo social es la que presenta una relación positiva más fuerte, con un tamaño de efecto entre moderado y alto (r = 0,43), mientras que la etapa del ciclo vital familiar madura-anciana mantiene una relación inversamente proporcional con tamaño de efecto pequeño (r = 0,14). El modelo fue estadísticamente significativo y explicó el 21% de la variabilidad asociada a los datos.
+
+
+- DISCUSIÓN
+
+Se pretendió estudiar si determinados factores familiares se relacionaban y/o predecían el ajuste conyugal. De acuerdo con los resultados, solo las variables años de matrimonio, transición, etapa del ciclo vital familiar y apoyo social percibido fueron significativas. El apoyo social y la etapa madura o anciana mostraron capacidad predictiva del ajuste conyugal.
+VanLaningham, Johnson y Amato, con un estudio longitudinal, en 5 tiempos, durante 17 años, con personas casadas, fueron capaces de relacionar variables como tiempo de relación, hijos, etapas del ciclo vital familiar y transición entre etapas, con respecto a la felicidad conyugal. Nuestros hallazgos, estudiando calidad de la relación en lugar de felicidad conyugal, han sido similares. Así pues, evidenciaron que al aumentar el tiempo de relación disminuye la felicidad conyugal. Autores más coincidentes con nuestros resultados evidencian disminución del ajuste conyugal con el incremento en los años de relación. Autores de antaño ya trataban de explicar que la posible causa podía ser la edad asociada a los años de relación, el proceso de envejecimiento y el deterioro físico y/o de salud que desprotegen a las personas para enfrentarse a nuevas luchas. Sin embargo, en este estudio la edad no correlacionó con el ajuste conyugal.
+VanLaningham, Johnson y Amato también evidenciaron que ciertas transiciones entre etapas y las propias etapas del ciclo vital se asocian con cambios en la felicidad conyugal. Nuestro estudio demuestra que estar o no en transición entre etapas supone cambios en el ajuste conyugal. Igualmente, Blázquez subraya que las fases de transición llevan a cambios en los acuerdos de relación, suponiendo un momento de crisis o una dificultad para superar una etapa del ciclo vital que, de no resolverse, puede convertirse en un síntoma.
+Este concepto está íntimamente ligado al de etapa del ciclo vital, donde VanLaningham, Johnson y Amato demuestran que con el incremento en el nivel de las etapas hay una felicidad conyugal disminuida o plana. Efectivamente, con el ajuste conyugal sucede lo mismo: se demuestra que en las etapas madura o anciana no solo disminuye la calidad de la relación de la pareja sino que es una variable predictora a juzgar por los resultados del modelo de regresión. Otros autores, que estudiaron si existían cambios en el ajuste conyugal y en cada una de sus dimensiones (consenso, satisfacción y cohesión) respecto a las etapas del ciclo vital, también encontraron una disminución progresiva. Son las etapas madura y anciana las que presentan peor ajuste conyugal. Quienes trataron de explicarlo afirmaron que posiblemente sea la jubilación (acontecimiento vital estresante) la que afecte negativamente sobre el ajuste conyugal. Sin embargo, en este estudio los acontecimientos vitales estresantes no obtuvieron significación.
+Para un alto ajuste conyugal resulta fundamental la presencia de apoyo social demostrado con los hallazgos de este estudio. Es una idea intuitiva que la calidad de la relación se vincule al apoyo social que se mantiene con la propia pareja y con los demás. Hay estudios que han demostrado la misma relación aunque empleando la Support in Intimate Relationships Rating Scale (r = 0,32; p < 0,01; R2 = 0,49; p < 0,01) en lugar del Cuestionario de MOS de apoyo social. Otros más antiguos también evidencian que niveles más altos de apoyo de su cónyuge se satisfacen más maritalmente.
+
+
+-- LIMITACIONES Y FUTURAS INVESTIGACIONES
+
+La principal limitación es la transversalidad del estudio que ofrece evidencia prometedora para la comprensión de la estructura de las asociaciones entre el ajuste conyugal respecto a variables familiares, sin pronunciamiento sobre la dirección de las relaciones debido a la naturaleza correlacional del estudio. Una evaluación longitudinal permitiría a los investigadores desenredar las relaciones temporales entre estas variables.
+Así mismo, al igual que afirmaban Dehle, Larsen y Landers en su estudio, sería interesante explorar la definición de calidad de la relación conyugal, pues el concepto puede asociar tanto el ajuste conyugal como el sentimiento global de la pareja (felicidad o infelicidad). Esto podría suponer una mayor superposición entre la evidencia científica en torno al ajuste y la felicidad conyugal.
+
+
+-- RELEVANCIA CLÍNICA Y APLICABILIDAD PRÁCTICA
+
+Con este estudio se puede favorecer la valoración del subsistema conyugal y ayudar en la búsqueda de los factores que pueden contribuir a un alto o bajo ajuste conyugal. La literatura evidencia ampliamente que un alto ajuste conyugal amortigua o protege frente a un bajo ajuste, que incrementa las repercusiones en la pareja, los hijos y la familia. Desde atención primaria, los profesionales sanitarios pueden abordar a las parejas en consulta, pues los enfermos suelen acudir acompañados de sus cónyuges, y detectando baja calidad de la relación marital se puede proporcionar apoyo para mejorar la relación conyugal. Esto podría suponer resultados en salud, pues, según la teoría de sistemas, si el subsistema conyugal se ve afectado puede repercutir en la salud de sus miembros y en la salud del sistema familiar.Lo conocido sobre el tema•La relación conyugal es cambiante debido al paso del tiempo y a factores familiares.•Determinadas variables familiares se relacionan con la felicidad conyugal.•El bajo ajuste conyugal se relaciona con el estrés, la disfunción, el funcionamiento y/o la satisfacción familiar.Qué aporta este estudio•Visualizar a la pareja, dado que forma parte del ámbito privado de la familia.•Las variables familiares años de matrimonio, etapas del ciclo vital familiar, transición entre etapas y apoyo social percibido se relacionan con el ajuste conyugal.•El aporte de evidencia favorece la valoración del subsistema conyugal y puede ayudar a los profesionales sanitarios en la búsqueda de los factores que pueden contribuir a un alto o bajo ajuste conyugal.
+
+
+- FINANCIACIÓN
+
+El estudio forma parte de un proyecto financiado por la Fundación Progreso y Salud de la Junta de Andalucía con el número de expediente PI-0444-2013.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

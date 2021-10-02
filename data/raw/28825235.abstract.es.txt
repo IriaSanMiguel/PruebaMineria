@@ -1,0 +1,5 @@
+La aplicación de cloruro de etilo tópico no reduce el dolor por punción arterial.
+El dolor percibido por el paciente tuvo una mediana (rango intercuartílico) de 2 (1-5) en el grupo tratado con cloruro de etilo y de 2 (1-4,5) en el grupo placebo (p = 0,72).
+Evaluar la eficacia del cloruro de etilo en aerosol aplicado sobre la piel frente a placebo para disminuir el dolor provocado por una punción arterial durante la realización de una gasometría en el servicio de urgencias (SU).
+Ensayo clínico aleatorizado, simple ciego y controlado con placebo realizado en el SU del Hospital de Basurto (Bilbao, España). Se incluyeron 126 pacientes a los que se les había solicitado una gasometría arterial, asignándoles al azar al grupo de tratamiento tópico experimental con cloruro de etilo en aerosol (n = 66) o al grupo control con mezcla hidroalcohólica en aerosol (n = 60), ambos administrados inmediatamente antes de la punción arterial. La variable de resultado principal fue la intensidad del dolor autopercibido por el paciente medida por la escala NRS-11.
+

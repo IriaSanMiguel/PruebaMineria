@@ -1,0 +1,52 @@
+VALIDEZ INTERNA DE UNA PRUEBA RÁPIDA DE DETECCIÓN DE ANTÍGENOS COVID-19 EN UNA RESIDENCIA DE MAYORES
+
+
+- INTRODUCCIÓN
+
+La pandemia de la infección por el coronavirus SARS-CoV-2 había producido hasta finales de diciembre de 2020 cerca de 80 millones de casos y más de 1,7 millones de fallecimientos confirmados, y el número de casos y muertes sigue aumentando. Frenar la transmisión y reducir la mortalidad son 2 de los aspectos básicos para el control de la pandemia. La rapidez en la detección de las fuentes de infección para proceder a su aislamiento y a la pesquisa y cuarentena de los contactos estrechos es fundamental para frenar su transmisión. La prueba de RT-qPCR, basada en la detección de material genético viral, es el patrón oro para la detección de las fuentes de infección; sin embargo, en la actualidad se dispone de una nueva generación de pruebas rápidas de detección de antígenos (PRDA) que revelan la presencia de proteínas virales y pueden ser utilizadas para la localización de fuentes de infección. Aunque las PRDA son rápidas y sencillas, la OMS recomienda su uso solo si su validez interna es de una sensibilidad y una especificidad superiores al 80 y el 97%, respectivamente, y cuando existan limitaciones para la realización de RT-qPCR o los tiempos de respuesta sean largos. Del mismo modo, la OMS recomienda su uso en el caso de transmisión comunitaria y en contextos donde la probabilidad preprueba sea superior al 5%, como puede ser el caso de las residencias de ancianos.
+Es por todo ello que el objeto del presente trabajo es evaluar la validez interna de una PRDA para detectar infección por SARS-CoV-2 en el contexto de un brote de COVID-19 en una residencia de ancianos.
+
+
+- MÉTODOS
+
+Entre los días 24 y 25 de noviembre de 2020, 12 de los 61 residentes en una residencia de ancianos presentaron síntomas catarrales, y 3 de ellos, temperatura corporal superior a los 38,5 °C. El día 26, a 55 de los 61 residentes se les tomó una muestra nasofaríngea que fue analizada utilizando la PRDA Panbio™ COVID-19 Ag Rapid Test Device (Abbott Rapid Diagnostic Jena GmbH, Jena, Alemania). Esta PRDA es una prueba cualitativa de inmunoanálisis basado en membrana (inmunocromatografía) para la detección de proteínas de la nucleocápside del SARS-CoV-2. Al día siguiente, en todos los residentes se analizó una nueva muestra de exudado nasofaríngeo mediante RT-qPCR: la extracción de ARN se llevó a cabo con el kit Viral/Patógeno de Applied Biosystems™ MagMAX™ utilizando un instrumento automatizado de extracción de ácido nucleico (Thermo Scientific™ KingFisher™). La RT-qPCR se llevó a cabo en un sistema QuantStudio 5 (Applied Biosystems) utilizando un kit comercial (TaqPath COVID-19 CE-IVD RT-PCR Kit, Applied Biosystems™) dirigido a los genes ORF1ab, N y S del SARS-CoV-2.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se calculó la sensibilidad y especificidad de la PRDA y sus intervalos de confianza del 95% (IC 95%) con el método exacto de Clopper-Pearson, en comparación con los resultados de la RT-qPCR, que se estableció como patrón oro, utilizando el software MedCalc Ltd.. Se analizaron los resultados en función del cycle threshold (Ct, «umbral de ciclo») encontrado en la RT-qPCR.
+
+
+-- ASPECTOS ÉTICOS
+
+Este estudio fue aprobado por el Comité Ético de la Investigación con medicamentos de las Áreas de Salud de León y el Bierzo (Ref. 20121).
+
+
+- RESULTADOS
+
+La residencia analizada por el brote de SARS-CoV-2 tenía un total de 61 residentes. De ellos, 55 fueron evaluados con PRDA, siendo positivos 36 (65,5%). Los 61 residentes fueron evaluados además con RT-qPCR, siendo positivos 54 (88,5%), de los cuales 43 presentaron cifras inferiores a 25 Ct (tabla 1 ).
+Los 12 pacientes sintomáticos fueron positivos a RT-qPCR y de ellos solo uno con cifras iguales o mayores a 25 Ct; 10 resultaron positivos a la PRDA (83,3%). En el caso de los residentes asintomáticos, 42 resultaron positivos a la RT-qPCR (85,7%), de los que 7 lo fueron con cifras iguales o mayores a 25 Ct; de los 43 a los que se realizó PRDA, 26 resultaron positivos (60,5%) .
+En aquellos residentes con información de ambas pruebas, se encontró que de los 49 positivos a RT-qPCR, 36 fueron positivos a la PRDA, lo que supuso una sensibilidad del 73,5% (IC 95% 58,9-85,1). Ninguno de los 6 residentes con RT-qPCR negativa fueron positivos a la PRDA, lo que supuso una especificidad del 100% (IC 95% 54,1-100,0). En el caso de los asintomáticos, la sensibilidad observada fue del 70,3% (26 PRDA+ de 37 RT-qPCR+; IC 95% 53,0-84,1) y en los sintomáticos, del 83,3% (10 PRDA+ de 12 RT-qPCR+; IC 95% 51,6-97,9). La sensibilidad de las PRDA para detectar casos con Ct inferiores a 25 fue del 78,1% (32 PRDA+ de 41 RT-qPCR+ con menos de 25 Ct; IC 95% 62,4-89,4) y del 50,0% para valores iguales o mayores a 25 Ct (4 PRDA+ de 8 RT-qPCR+ de 25 o mas Ct; IC 95% 15,7-84,3) (tabla 2 ).
+
+
+- DISCUSIÓN
+
+Las características medioambientales de las residencias de ancianos son especialmente propicias para la transmisión de la infección por SARS-CoV-2, y la edad y comorbilidades de los residentes los hacen muy vulnerables a la infección, con resultados de elevadas tasas de letalidad. La elevada prevalencia de casos confirmados de COVID-19 en nuestro estudio pone de manifiesto lo extensa que puede llegar a ser la infección y la rapidez en su propagación. Aunque no es objeto del presente artículo, en la semana anterior, mediante un cribado con PRDA, no se había objetivado un solo caso de infección por SARS-CoV-2 en la misma residencia (información personal de los servicios médicos del centro). Todas las guías y recomendaciones sobre la gestión de las residencias de ancianos insisten en la enorme importancia de extremar las medidas de prevención de la infección por SARS-CoV-2 en estos centros. La elevada carga viral en el tracto respiratorio superior, el largo periodo de contagiosidad de las fuentes de infección y el importante papel de las fuentes de infección asintomáticas son elementos que tienen que ser considerados para la prevención y el control de la COVID-19. De la importancia de las fuentes de infección asintomáticas habla la elevada prevalencia de infección detectada en este trabajo (60,5%), y como efecto beneficioso se ha descrito también una reducción en la letalidad en aquellos casos de sujetos asintomáticos detectados por cribado.
+Entre las estrategias para reducir la transmisión de la infección en las residencias de ancianos se propugna la realización de PRDA siempre y cuando su sensibilidad y especificidad sean elevadas, superiores al 80 y el 97%, respectivamente. En el caso que nos ocupa, la sensibilidad y la especificidad encontradas, del 89,1 y el 100%, cumplen con las exigencias de la OMS para las PRDA en el caso de los residentes sintomáticos, no así en el caso de los asintomáticos, con una sensibilidad del 70,3%. Según el fabricante, la sensibilidad del test utilizado sería del 93,3% y la especificidad del 99,4%, sin embargo, Linares et al. observaron una especificidad del 100% tanto en pacientes sintomáticos como asintomáticos, y la sensibilidad global observada fue del 73,3%, pero con importantes variaciones según el tiempo transcurrido desde el inicio de los síntomas, y en torno al 40% en el caso de los asintomáticos. Estos datos son consistentes con lo reportado también por Fenollar et al., que observaron una sensibilidad global del 75,5% y del 45,5% en los asintomáticos; sin embargo, en lo relativo a la especificidad observada, fue del 94,9%. En el estudio realizado por Bulilete et al., en población sintomática mayor de 18 años en centros de salud, la sensibilidad encontrada fue del 71,4% y la especificidad del 99,8%. Nuestros resultados son muy similares a los observados por Albert et al., que observaron una sensibilidad del 79,6% y una especificidad del 100%.
+Con relación al comportamiento de la PRDA en los asintomáticos, destaca como en nuestro caso la sensibilidad observada ha sido muy superior a la reportada por Linares et al. y Fenollar et al.; en estos autores es inferior al 50%, y en nuestro caso, superior al 70%. Tal vez la elevada prevalencia de infección puede explicar en alguna medida la elevada sensibilidad observada. Otra cuestión que también tiene interés es la diferente respuesta de la sensibilidad de las PRDA según las Ct de las RT-qPCR. Es un hecho ya conocido que el mejor rendimiento de las PRDA se produce en los pacientes sintomáticos y en aquellos con mayor carga viral, siendo la sensibilidad reportada con ciclos bajos, menores de 25 Ct, del 100% en los trabajos de Linares et al. y Fenollar et al., e inferiores al 60% en aquellas fuentes de infección con Ct superiores a 25 o 30 Ct. En nuestro caso, de la misma manera, la sensibilidad fue más elevada en aquellos con Ct superiores, que a la vez son los casos de mayor interés para la prevención y el control de la infección.
+Si bien es cierto que una de las principales limitaciones de este estudio es el pequeño tamaño muestral, que puede influir en los intervalos de confianza y, por ende, en los resultados encontrados de especificidad y sensibilidad, creemos importante señalar que este es el primer estudio que muestra la situación real de la infección por SARS-CoV-2 en un centro sociosanitario de la provincia de León, y que pone de manifiesto la importancia de realizar cribados con PDRA en este tipo de lugares. A pesar de ser necesarios nuevos estudios que evalúen las características de las PDRA como herramientas de cribado en este tipo de centros, consideramos que los resultados de especificidad y sensibilidad encontrados, especialmente en personas asintomáticas y con Ct inferiores a 25, proponen estas técnicas como una buena herramienta de cribado en estos centros.
+
+
+- CONCLUSIONES
+
+A modo de conclusión podemos decir que las PRDA son lo suficientemente sensibles y específicas para ser utilizadas como pruebas de cribado en las residencias de ancianos, especialmente es situación de brotes o sospecha del mismo por la presencia de sintomáticos. Sin embargo, sobre todo en el caso de asintomáticos, una prueba negativa no descarta la presencia de infección, por lo que deben ser confirmadas con RT-qPCR.
+
+
+- FINANCIACIÓN
+
+El presente trabajo ha sido financiado por la Gerencia Regional de Salud (GRS COVID 118/B/20).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

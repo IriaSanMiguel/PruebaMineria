@@ -1,0 +1,106 @@
+ANÁLISIS DE LETALIDAD POR COVID-19 EN PACIENTES CON DEMENCIA NEURODEGENERATIVA
+
+
+- INTRODUCCIÓN
+
+El 11 de marzo de 2020, la OMS declaró la pandemia de SARS-CoV-2. Se trata de un virus altamente peligroso y letal, virológicamente similar al SARS-CoV-1 (HCoV-229E) que apareció en 2009, . En la actualidad se estima que hay aproximadamente 2.544.792 casos confirmados en todo el mundo y 175.694 muertes en 213 países a fecha 23 de abril de 2020.
+Este nuevo coronavirus pertenece al grupo de los beta-coronavirus, cuyo reservorio fundamental y origen son los murciélagos. Son virus de alta patogenicidad e infecciosidad, con importantes tasas de mortalidad. Clínicamente, la COVID-19 se caracteriza por un síndrome de insuficiencia respiratoria y neumonía, cuyo espectro clínico va desde episodios catarrales banales o incluso asintomáticos hasta casos graves de dificultad respiratoria altamente letal. Se ha propuesto que el SARS-CoV-2 tiene una capacidad infecciosa en el sistema nervioso a través del receptor de la enzima convertidora de angiotensina 2 (ACE2) y la proteasa serina transmembrana de tipo II (TMPRSS2), ambas necesarias para que el virus entre en las células, que se pueden identificar en las neuronas, las células gliales y las células epiteliales respiratorias.
+La población anciana es la más amenazada por la COVID-19, con mayores tasas de mortalidad y letalidad, especialmente aquellos pacientes que viven en centros geriátricos y asilos, como se refleja en los múltiples medios de comunicación y en las comunicaciones del Gobierno. Además, algunos estudios muestran que hasta un tercio de los pacientes de los asilos son diagnosticados con demencia degenerativa primaria. En España, según datos del Ministerio de Sanidad de fecha 23 de abril de 2020, de una población de 148.069 habitantes, el 36% de los pacientes tenía más de 70 años y fue responsable del 86% de las muertes. En este grupo de edad, sabemos que la proporción de demencias degenerativas primarias es mucho mayor, hasta un 9,4% en los mayores de 70 años, aunque la presencia de demencia degenerativa primaria per se no aumenta el riesgo de padecer COVID-19 pero sí aumenta el riesgo de complicaciones y letalidad.
+La letalidad en este grupo de edad es mayor. Algunos estudios muestran tasas de letalidad del 8% entre 70-79 años y del 14,5% en mayores de 80 años en un estudio realizado en China. Sin embargo, hasta donde sabemos existe poca evidencia sobre la letalidad en pacientes con demencias primarias. El objetivo de este trabajo es analizar una serie de pacientes con DPP que han contraído COVID-19 y que han sido tratados en nuestro hospital, teniendo en cuenta su condición clínica, pronóstico y tratamiento. Nuestra hipótesis es que la presencia de la demencia degenerativa aumenta la letalidad entre los pacientes con COVID-19.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Hicimos un estudio descriptivo de casos-control de una muestra de pacientes diagnosticados con demencias neurodegenerativas primarias. Se llevó a cabo en el Instituto de Investigación Biomédica de Málaga (IBIMA) y en el servicio de Neurología del Hospital Regional Universitario de Málaga (HRUM).
+
+
+-- GRUPO DE CASO
+
+Incluimos a los pacientes en los servicios de emergencia del HRUM con sospecha de COVID-19, después de revisar a los pacientes ingresados en el servicio de urgencias con el sistema Diraya entre el 14 de marzo de 2020 y el 15 de mayo de 2020 (ambos incluidos). Los pacientes con demencia que hemos incluido han sido diagnosticados en las unidades de memoria de los hospitales Regional Universitario de Málaga y Virgen de la Victoria de Málaga. Se incluyen además pacientes con deterioro cognitivo ligero de probable origen neurodegenerativo. Excluimos a los pacientes con demencias vasculares debidas a ictus territoriales, demencias o deterioro cognitivo de otra etiología y pacientes con neoplasias activas.
+
+
+-- GRUPO DE CONTROL
+
+Para comparar la letalidad de COVID-19 en pacientes con demencias primarias, analizamos un grupo de control de pacientes con COVID-19 sin demencia de nuestro hospital. Se excluyeron los pacientes con un diagnóstico etiológico final diferente a COVID-19.
+
+
+-- PROTOCOLO DE ESTUDIO
+
+Se seleccionaron los pacientes admitidos en el flujo de pacientes COVID-19 del departamento de urgencias del HRUM que cumplían con los criterios de inclusión y exclusión. Este flujo de pacientes del servicio de emergencias del HRUM COVID-19 es un área independiente para evaluar a los pacientes de riesgo biológico. Consiste en un área de consulta, una sala de cuidados críticos y un equipo de radiología específico. Todos los pacientes con síntomas y signos que sugieren la presencia de COVID-19 fueron admitidos en el circuito de riesgo biológico. Los pacientes fueron evaluados por un médico que ordenó un estudio analítico, radiológico y microbiológico de acuerdo con las recomendaciones del Ministerio de Sanidad español.
+Los pacientes incluidos en nuestro estudio fueron aquellos con infección respiratoria aguda compatible con COVID-19, considerando a España como un país de transmisión comunitaria. El estudio RT-PCR se realizó en todos los pacientes con enfermedad moderada-grave o casos leves con algún factor de riesgo para COVID-19 grave. En los pacientes leves sin factores de riesgo el diagnóstico se hizo por criterios clínicos, y estos se consideran «casos posibles». En todos los pacientes que requirieron hospitalización se realizó RT-PCR al menos una vez. Aquellos con una enfermedad clínico-radiológica compatible con COVID-19, con RT-PCR negativa y sin otra etiología se consideraron «casos probables» siguiendo las directrices del Ministerio de Sanidad. Los pacientes con una RT-PCR positiva se consideraban casos confirmados. Para este estudio, recogimos sistemáticamente los datos en una hoja predefinida de las historias clínicas de los pacientes.
+
+
+-- OBJETIVOS
+
+El principal objetivo de este estudio fue estimar la letalidad. La letalidad se estimó en función del número de muertes durante el período de reclutamiento. Registramos un grupo de control similar con COVID-19 en el mismo hospital sin demencia primaria para comprobar la hipótesis de una mayor letalidad de COVID-19 en el grupo de demencia primaria.
+
+
+-- CARACTERÍSTICAS DE LOS PACIENTES CON COVID-19
+
+El diagnóstico de COVID-19 se hizo según la clasificación del Ministerio de Salud: caso confirmado, aplicado a pacientes con una RT-PCR positiva para el SARS-CoV-2; caso probable, aplicado a pacientes con una infección respiratoria aguda grave que requiere hospitalización con características clínicas y radiográficas coherentes con COVID-19 sin confirmación de RT-PCR. Se recogieron todos los tratamientos para COVID-19: azitromicina, hidroxicloroquina/cloroquina, lopinavir/ritonavir, remdesivir, anti-IL6, anti-IL1, esteroides e inmunoglobulinas intravenosas.
+
+
+-- OTROS VARIABLES
+
+Se recogieron variables de edad, sexo e institucionalización en residencias o centros geriátricos (pacientes dependientes para tareas básicas como vestirse, comer, caminar o aseo); factores de riesgo cardiovascular, como los antecedentes de tabaquismo, hipertensión, diabetes mellitus tipo 2, cardiopatía (cardiopatía isquémica, insuficiencia cardíaca congestiva o arritmias significativas de tipo fibrilación auricular), enfermedad pulmonar (enfermedad pulmonar obstructiva crónica, fibrosis pulmonar o asma activa). En cuanto a la demencia, se recogieron pacientes con diagnóstico de demencia primaria de la unidad de memoria: tipo de demencia degenerativa (enfermedad de Alzheimer, demencia de cuerpos de Lewy, demencia frontotemporal, síndrome corticobasal, parálisis supranuclear progresiva, demencia de Parkinson) y grado de demencia según la CDR de Hughes en deterioro cognitivo ligero (CDR 0,5), leve (CDR 1), moderada (CDR 2) y grave (CDR 3). Se recogió además tratamiento con inhibidores de aceticolinesterasa, memantina y tratamiento antipsicótico.
+
+
+-- DISPONIBILIDAD DE DATOS
+
+Cualquier dato anónimo que no se publique en el mismo será compartido a petición de cualquier investigador cualificado.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En primer lugar, se realizó un análisis mediante χ2 y Student t o Mann-Whitney t para comparar las características principales entre pacientes con demencia y controles emparejados sin demencia, así como para comparar las características principales entre los pacientes con demencia según la letalidad. Las variables cualitativas se expresaron como números absolutos y sus porcentajes y las variables cuantitativas como media (DE) o mediana (RIC) según su distribución. El ajuste de la normalidad de las variables continuas se confirmó con la prueba de Kolgomorov-Smirnov. Finalmente se realizaron dos modelos de regresión logística paso a paso, uno para explorar las variables asociadas de forma independiente con la letalidad y otro para identificar las variables asociadas a la letalidad en pacientes con demencia. Las variables incluidas en el modelo fueron aquellas con significación estadística o interés clínico. Para todos los análisis, un valor de p < 0,05 se consideró significativo. Todos los datos han sido analizados utilizando el programa estadístico R 2.4-0.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS DE LOS PACIENTES COVID-19
+
+La muestra estuvo compuesta por un total de 23 casos y 65 controles. Las características principales de ambos grupos se muestran en la tabla 1 . La mayoría de los pacientes eran hombres (60%) con una edad media de 79 años. La hipertensión fue la comorbilidad más frecuente seguida de la diabetes mellitus y la cardiopatía. En cuanto a las características epidemiológicas, no se encontraron diferencias entre los casos y los controles, excepto que el porcentaje de pacientes institucionalizados fue mayor entre los pacientes con demencia (39,1% vs. 3,1%; p < 0,001).
+Entre los tipos de demencia, la mayoría de los pacientes tenían una demencia tipo Alzheimer (73,9%) y demencia moderada o grave (56,5%). Dieciocho pacientes estaban en tratamiento con anticolinesterasa y/o memantina y 9 en tratamiento con antipsicóticos.
+En cuanto a las características de COVID-19, 16 casos (69,6%) fueron confirmados por RT-PCR y 7 fueron casos probables. Hubo un mayor porcentaje de pacientes que de casos con peor pronóstico (52,2 vs. 24,6; p = 0,015) y mayor letalidad (43,5 vs. 21,5; p = 0,042). Los tratamientos recibidos se muestran en la tabla 1.
+
+
+-- FACTORES ASOCIADOS A LETALIDAD EN PACIENTES COVID-19
+
+De los 88 pacientes incluidos en el estudio, 24 pacientes con COVID-19 fallecieron: 10/23 (43,4%) eran pacientes con diagnóstico de demencia y 14/65 (21,5%) eran pacientes del grupo control.
+La tabla 2 muestra el análisis multivariado de regresión logística (variable dependiente: letalidad) en pacientes con COVID-19. La hipertensión arterial, la diabetes mellitus y la demencia se asociaron de forma independiente con la letalidad en pacientes con COVID-19.
+
+
+-- FACTORES ASOCIADOS A LETALIDAD EN PACIENTES COVID-19 CON DEMENCIA
+
+En el análisis bivariante (tabla 3 ) los pacientes con cardiopatía presentaron mayor letalidad de forma significativa (60% vs. 15,4%; p = 0,26). Así mismo, los pacientes institucionalizados en asilos de ancianos presentaban una tendencia a una letalidad mayor que los no institucionalizados (60% vs. 23,1%, p = 0,072). No encontramos diferencias entre ambos grupos en el resto de las características estudiadas.
+La tabla 4 muestra el análisis multivariado de regresión logística (variable dependiente: letalidad en pacientes con demencia) con COVID-19. Los pacientes con cardiopatía presentaron el doble de riesgo de morir por COVID-19 en los pacientes con diagnóstico de demencia.
+
+
+- DISCUSIÓN
+
+La presencia de comorbilidad cardiovascular y patología respiratoria crónica fueron importantes en nuestros grupos, sin diferencias significativas entre los pacientes con demencia primaria y los controles. Es probable que la presencia de demencia primaria aumente el riesgo de muerte en comparación con los individuos sin demencia degenerativa. Un estudio español mostró un riesgo poblacional atribuible del 11,3%; sin embargo, los datos epidemiológicos sobre la mortalidad asociada a la COVID-19 son limitados y hay variables importantes como el uso de ciertos fármacos como los antipsicóticos, la comorbilidad y la edad con un efecto incierto sobre el pronóstico vital.
+Los pacientes con COVID-19 tienen un mayor riesgo de complicaciones y letalidad con comorbilidades como la hipertensión arterial, enfermedades cardíacas, patología respiratoria previa, como la enfermedad pulmonar obstructiva crónica, o la diabetes, entre otras, según estudios de series de casos publicados, . Hasta el 80% de las muertes por COVID-19 se produjeron en personas mayores de 80 años y hasta el 86% de los pacientes presentaban alguna comorbilidad, siendo la diabetes la que mayor impacto tiene en la mortalidad.
+En mayo de 2020 un estudio italiano mostró una tasa de letalidad por COVID-19 del 62,2% (51/82) en pacientes con demencias primarias, mayor cuanto más grave era la demencia (83,9% en pacientes con demencias graves). Los resultados son similares en nuestro estudio, donde la letalidad por COVID-19 en pacientes con demencia fue del 43,4%, estadísticamente superior a pacientes del grupo control, y esta letalidad fue mayor en pacientes de mayor edad, con demencias más graves y en pacientes institucionalizados. En general, la hipertensión arterial, la diabetes mellitus y la demencia se asociaron de forma independiente con la letalidad en los pacientes con COVID-19. La cardiopatía estaba más presente en el grupo de pacientes con demencia degenerativa primaria, que fallecieron de forma significativa.
+Debemos tener en cuenta la prevalencia de demencias primarias en pacientes mayores de 80 años, que es de hasta el 9,4%. Con estos datos, es probable que la presencia de demencia degenerativa aumente el riesgo de muerte en los pacientes que padecen COVID-19, aunque todavía no hay pruebas suficientes al respecto. Otro factor importante es que los pacientes con demencia moderada o grave no suelen ser admitidos en las unidades de cuidados intensivos (UCI), especialmente en esta emergencia sanitaria pandémica. Esto implica una mayor mortalidad por SARS-CoV-2 en los pacientes con demencia en general. En nuestro estudio, ningún paciente del grupo de casos fue tratado en la UCI.
+Por otro lado, el grupo de pacientes institucionalizados en residencias de ancianos en España presenta una alta mortalidad. En España en 2019 había 5.417 asilos con 271.696 residentes aproximadamente. Las tasas de mortalidad por COVID-19 en estos centros son alarmantes: hasta 10.719 personas a fecha de 16 de abril, debido a la precaria situación del sistema sanitario y a la ausencia de recursos sanitarios en muchas de estas residencias de ancianos. Nuestro estudio muestra que la letalidad fue mayor entre los pacientes previamente institucionalizados (66,6% vs. 28,5%), aunque no supone un factor significativo en la letalidad. Una de las principales causas de la institucionalización es el hecho de padecer demencia moderada o grave. Hasta un 76% de los pacientes presentaban algún grado de deterioro cognitivo (muchos de ellos probablemente subdiagnosticados) y un tercio tenía un diagnóstico de demencia, con una edad media de 81,2 ± 10,2 años.
+La mortalidad por COVID-19 de las residencias de ancianos no está bien establecida en estos momentos y además, los datos proporcionados por los organismos oficiales en España no son rigurosos.
+La atención de los pacientes con demencia durante esta pandemia no se debe descuidar. La presión asistencial por la pandemia puede reducir la atención y la calidad de vida de este grupo de pacientes, especialmente los admitidos en residencias o centros geriátricos.
+Además, es interesante mencionar el potencial neuroinvasivo del SARS-CoV-2 que podría repercutir en la progresión y/o precipitación de cambios neuropatológicos que culminen en una enfermedad neurodegenerativa, como por ejemplo la enfermedad de Alzheimer, por lo que en un futuro más o menos próximo podríamos encontrarnos con una «pandemia demorada».
+Entre las limitaciones del estudio se encuentran el bajo número de casos, un posible sesgo de selección ya que los pacientes se inscriben de forma retrospectiva entre los pacientes que acuden al servicio de urgencias de nuestro hospital, sin tener en cuenta a los pacientes que han fallecido en otro centro o a los que han fallecido en la residencia de ancianos. La letalidad de pacientes institucionalizados es en mayor forma significativa, lo cual podría suponer un factor de confusión añadido y por lo tanto, el efecto de la demencia en la letalidad de COVID-19 en este grupo de pacientes podría estar sobreestimado.
+
+
+- CONCLUSIÓN
+
+La letalidad por COVID-19 entre los pacientes con demencia degenerativa primaria es significativamente mayor en comparación con otros pacientes con edades medias y comorbilidades similares, según nuestro estudio. Varios factores influyen en este hecho: los pacientes no suelen ser admitidos en las unidades de cuidados intensivos; tienen mayores limitaciones en el uso de tratamientos avanzados y agresivos; tienen una mayor carga de comorbilidad cardiovascular y respiratoria; y, por último, una proporción significativa se encuentra institucionalizada. Estos datos deben corroborarse con futuros estudios con un mayor número de pacientes con demencia y con COVID-19 para confirmar nuestros resultados, así como para identificar otros posibles factores de riesgo relacionados con la gravedad de COVID-19 en pacientes con demencia.
+
+
+- FINANCIACIÓN
+
+Proyecto COV20/00157 financiado por fondo COVID-19 del Instituto de Salud Carlos III. España.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen ningún conflicto de interés.

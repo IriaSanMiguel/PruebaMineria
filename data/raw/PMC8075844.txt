@@ -1,0 +1,33 @@
+METAANÁLISIS PARA EVALUAR EL RIESGO DE INFECCIONES RESPIRATORIAS Y SÍNDROME DE DISTRÉS RESPIRATORIO DEL ADULTO CON LOS AGONISTAS DEL RECEPTOR DEL PÉPTIDO SIMILAR AL GLUCAGÓN TIPO 1 EN LOS ENSAYOS DE SEGURIDAD CARDIOVASCULAR: CONSECUENCIAS ÚTILES PARA LA PANDEMIA DE COVID-19
+
+
+- INTRODUCCIÓN
+
+Los pacientes con diabetes mellitus de tipo 2 (DMT2) presentan un mayor riesgo de experimentar una enfermedad grave por coronavirus 2019 (COVID-19), siendo la obesidad, las enfermedades cardiovasculares y la nefropatía crónica los factores de riesgo independientes de mortalidad relacionada con la COVID-19, . Según se ha constatado en un reciente metaanálisis de estudios observacionales publicados en Primary Care Diabetes, los pacientes con COVID-19 y diabetes tienen doble riesgo de experimentar una enfermedad grave y muerte relacionada.
+Los agonistas del receptor del péptido similar al glucagón tipo 1 (AR-GLP-1) ejercen efectos cardiovasculares y renales beneficiosos importantes en los pacientes con DMT2 y enfermedades concomitantes relacionadas, por lo que se han propuesto como opción terapéutica de segunda línea, según recomendaciones recientes. Sin embargo, se ha discutido su mantenimiento en los pacientes con COVID-19 debido a la posibilidad de que provoquen deshidratación, principalmente en el contexto de acontecimientos adversos gastrointestinales. Sus propiedades antiinflamatorias podrían resultar beneficiosas en estos pacientes, a pesar de que hasta ahora no hay estudios en los que se haya abordado su eficacia en pacientes con COVID-19, . Se ha comprobado que los AR-GLP-1 regulan al alza la enzima convertidora de la angiotensina 2 (ECA2); no obstante, las consecuencias clínicas de este efecto siguen sin estar claras.
+La intención de este trabajo era ofrecer estimaciones menos sesgadas respecto al efecto de esta clase de antidiabéticos sobre resultados importantes de interés, a saber, infección de las vías respiratorias superiores e inferiores, infección vírica, gripe y síndrome de distrés respiratorio del adulto (SDRA), agrupando los datos correspondientes de los ensayos de resultados cardiovasculares de referencia relevantes, , , , , , .
+
+
+- MÉTODOS
+
+Dos evaluadores independientes (DP y AB) extrajeron los datos de los informes elegibles (junto con los datos facilitados en apéndices complementarios y fuentes de literatura gris, principalmente Clinicaltrials.gov), utilizando para ello un formulario de extracción de datos probado en un estudio piloto.
+Dado que solo se evaluaron variables dicotómicas, las diferencias se calcularon mediante la razón de riesgos (RR), junto con el intervalo de confianza del 95% (IC 95%), tras aplicar la fórmula de efectos aleatorios de Mantel-Haenszel (M-H). La heterogeneidad estadística entre los estudios se determinó mediante el estadístico I. La heterogeneidad se consideró baja en caso de que el valor de I2 estuviera comprendido entre el 0 y el 25%, moderada en caso de encontrarse entre el 25 y el 50% y alta en caso de ser superior al 75%. Todos los análisis se realizaron con un nivel de significación de 0,05 mediante el programa informático RevMan v.5.3.
+Dos evaluadores independientes (DP y CP) analizaron la calidad de los ensayos aleatorizados y controlados incluidos mediante la herramienta Cochrane RoB v.2.0 (herramienta de evaluación del riesgo de sesgo en ensayos aleatorizados revisada) en relación con la variable principal de seguridad, a saber, las infecciones de las vías respiratorias superiores e inferiores. Cada dominio se calificó como de riesgo bajo, poco claro o con alto riesgo de sesgo. La presencia de procedimientos adecuados en todos los dominios calificó el estudio como de bajo riesgo de sesgo, mientras que la existencia de un procedimiento inadecuado en al menos un dominio lo calificó como de alto riesgo de sesgo. Las discrepancias entre los evaluadores se resolvieron mediante discusión, consenso o arbitraje por un tercer evaluador experimentado (MD).
+
+
+- RESULTADOS
+
+El tratamiento con AR-GLP-1 produjo una disminución no significativa del riesgo de infección de las vías respiratorias superiores, equivalente al 19% (RR = 0,81; IC 95%: 0,64-1,02; I2 = 0%), tal como se muestra en la figura 1 , y un aumento no significativo del riesgo de infección de las vías respiratorias inferiores, equivalente al 3% (RR = 1,03; IC 95%: 0,63-1,68; I2 = 0%), tal como se muestra en la figura 2 .Figura 1Figura 2
+Todos los ensayos de resultados cardiovasculares, excepto el EXSCEL, aportaron datos numéricos relevantes sobre la incidencia de infecciones de las vías respiratorias superiores e inferiores en los diferentes grupos de tratamiento. En particular, el tratamiento con AR-GLP-1 redujo el riesgo de gripe (RR = 0,60; IC 95%: 0,32-1,12; I2 = 0%), neumonía (RR = 0,89; IC 95%: 0,78-1,01; I2 = 0%) y SDRA (RR = 0,51; IC 95%: 0,13-2,08; I2 = 0%), aunque ninguno de los efectos observados alcanzó significación estadística. Por último, el tratamiento con AR-GLP-1 produjo un aumento no significativo del riesgo de infección vírica (RR = 1,77; IC 95%: 0,65-4,80; I2 = 0%).
+El riesgo de sesgo en cada dominio evaluado y el riesgo global de sesgo fue bajo en todos los ensayos seleccionados. Lamentablemente, la calificación del ensayo EXSCEL no fue aplicable en relación con la variable principal de seguridad, ya que los responsables de los ensayos no aportaron datos numéricos sobre la incidencia de infecciones de las vías respiratorias superiores e inferiores en los dos grupos de tratamiento (exenatida y placebo).
+
+
+- CONCLUSIONES
+
+En conjunto, los AR-GLP-1 no parecen aumentar el riesgo de infección respiratoria, neumonía ni SDRA en los pacientes con DMT2 y enfermedades cardiovasculares concomitantes. Por consiguiente, podrían constituir una opción terapéutica segura para los pacientes con COVID-19.
+En ensayos prospectivos bien diseñados se aclarará su lugar en el tratamiento de los pacientes con COVID-19 hospitalizados y si podrían reportar beneficios añadidos aparte del mantenimiento de una glucemia adecuada.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.

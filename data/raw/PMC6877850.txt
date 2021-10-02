@@ -1,0 +1,95 @@
+PERCEPCIÓN FARMACÉUTICA DEL USO DE ANALGÉSICOS Y SU PRÁCTICA EN DOLOR LEVE-MODERADO. ENCUESTA DOLOR-OFF
+
+
+- INTRODUCCIÓN
+
+El dolor es uno de los principales problemas de salud pública por su gran repercusión socioeconómica, dado que se trata un problema sanitario que afecta de forma relevante la calidad de vida de los pacientes, trascendiendo a su entorno familiar, laboral y social. En el año 2004 la Asociación Internacional para el Estudio del Dolor (IASP) y la Organización Mundial de la Salud (WHO) anunciaron el alivio del dolor como uno de los derechos humanos fundamentales. El dolor es el síntoma más consultado en atención primaria, estimándose que está presente en más de la mitad de las consultas médicas. El 29,6% de la población general española no hospitalizada padece algún tipo de dolor, siendo el 12% dolor agudo. La prevalencia del dolor crónico de causa no oncológica se estima entre el 2 y el 40% de la población adulta.
+Los analgésicos son el primer grupo terapéutico con el que la población se automedica. Las cifras disponibles sobre el consumo de estos medicamentos indican una exposición masiva de la sociedad a los analgésicos en todos los grupos de edad y para una amplia muestra de situaciones patológicas, sin tener en cuenta los efectos adversos por el uso desordenado y continuado de este grupo terapéutico, lo que presupone un abuso, con el consiguiente riesgo de salud pública, .
+El tratamiento del dolor es difícil y requiere la valoración exhaustiva de un profesional sanitario; sin embargo, no siempre se alcanza el objetivo terapéutico con el analgésico prescrito. De hecho, el 64% de los pacientes valoran el tratamiento analgésico como inadecuado.
+En definitiva, el dolor es un problema de una prevalencia muy elevada, insuficientemente controlado y con importantes repercusiones sanitarias y socioeconómicas.
+El farmacéutico comunitario constituye el contacto más rápido y fácil del paciente con el sistema sanitario, y en numerosas ocasiones el único. Su práctica en dolor leve-moderado está poco estudiada, a pesar de tener una gran relevancia en el uso de analgésicos por la población. Debido a las características intrínsecas de las oficinas de farmacia, o farmacia comunitaria (FC), el farmacéutico se convierte en el experto en las necesidades sanitarias de la población a la que abastece. Su conocimiento acerca de los hábitos de automedicación y autocuidado de los pacientes a los que proporciona servicios y/o medicamentos puede ser más revelador como fuente de información que el propio paciente.
+Es necesario examinar la gestión del paciente con dolor desde la FC y conocer la percepción del farmacéutico acerca del uso de analgésicos, con el fin de poder diseñar estrategias sanitarias que permitan optimizar la práctica farmacéutica y obtener el máximo beneficio al tratamiento analgésico de los pacientes.
+El objetivo de este trabajo es determinar la percepción del farmacéutico comunitario sobre el uso de analgésicos y evaluar la práctica farmacéutica en dolor leve-moderado prestada en FC españolas.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Estudio descriptivo transversal, mediante la técnica de encuesta, realizado durante los meses de abril a septiembre de 2013.
+
+
+-- CENTROS DONDE SE REALIZÓ EL ESTUDIO
+
+FC de 20 comunidades autónomas españolas.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Los farmacéuticos comunitarios titulares o adjuntos, distribuidos por la geografía española, que aceptaron voluntariamente participar en el estudio. Se incluyó un único farmacéutico por FC.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+•Los farmacéuticos sustitutos cuyo tiempo total de trabajo en la farmacia de estudio fuese inferior a un año.•Los titulares o adjuntos permanentes con menos de un año continuado de trabajo en la farmacia de estudio.
+
+
+-- TAMAÑO DE LA MUESTRA
+
+Se realizó un muestreo intencional en el que se incluyeron, del total de FC del territorio español, 1.000 farmacias que aceptaron voluntariamente participar en el estudio.
+
+
+-- SELECCIÓN DE LA MUESTRA
+
+La selección de la muestra se realizó sin aleatorización, estratificada con afijación no proporcional al número de farmacéuticos, según estratos de hábitat y comunidad autónoma
+
+
+-- RECOGIDA DE INFORMACIÓN
+
+Los farmacéuticos que cumplían los criterios de inclusión y aceptaron voluntariamente participar en el estudio cumplimentaron de manera anónima el formulario de recogida de datos con la información fruto de su experiencia con la demanda de analgésicos para dolor leve-moderado. El formulario de recogida de datos se entregó personalmente a través de los delegados comerciales del laboratorio farmacéutico que colaboró con el estudio. Para minimizar el posible sesgo del investigador, se entregó en sobre cerrado con las normas de cumplimentación en su interior. Los formularios cumplimentados se entregaron personalmente en sobre cerrado y anónimo al equipo investigador.
+
+
+-- VARIABLES DEL ESTUDIO
+
+Las variables contempladas en el estudio se muestran en la tabla 1.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+La explotación de la base de datos se analizó con el programa estadístico SPSS 17.0. Se realizó un análisis descriptivo univariante para todas las variables. Para determinar la posible correlación entre variables se realizó un análisis de la varianza ANOVA y test exacto de Fisher. Se realizó un análisis multivariante por la técnica de correspondencias múltiples, con el objetivo de analizar la posible asociación entre el perfil del farmacéutico y la intervención farmacéutica realizada.
+Esquema del estudio 
+
+
+- RESULTADOS
+
+Aceptaron participar en el estudio 714 farmacias distribuidas por la geografía española. Se seleccionaron 1.139 farmacéuticos, obteniéndose una muestra válida de 696 farmacéuticos (se excluyeron 443: 425 rechazaron participar y 18 se eliminaron por cumplimentar erróneamente el formulario). El 54,6% de los farmacéuticos participantes fueron mujeres, y la experiencia profesional media fue de 17,78 años (DE: 9,9). Respecto a la formación acreditada en atención farmacéutica, el 58,88% indicaron que habían recibido formación; de ellos, el 45,6% habían realizado cursos de formación continuada con una duración superior a 10 créditos. Referente al puesto que se desempeña en la farmacia, el 83,89% eran titulares propietarios y el 13,2% farmacéuticos adjuntos.
+El análisis multivariante trató de encontrar relación entre el perfil del farmacéutico y su práctica en la gestión del paciente con dolor. Sin embargo, la única relación que se ha podido observar de una forma significativa es que los farmacéuticos adjuntos son los que menor experiencia tienen en el manejo del dolor leve.
+Según la percepción de los farmacéuticos participantes, el 75,6% de los usuarios solicitan un analgésico para el dolor leve-moderado para uso propio. Las características de estos pacientes se clasifican en función del tipo de asistencia demandada .
+El motivo mayoritario por el que un paciente con dolor leve-moderado acude a la farmacia es para retirar un medicamento con receta médica (45,5%) .Figura 1
+La patología más frecuente de uso del analgésico es el dolor de cabeza (30,4-35,2%). Las siguientes enfermedades más frecuentes varían en función del motivo de consulta: los procesos gripales en la indicación farmacéutica y la automedicación, con un 29,50 y un 16,40%, respectivamente; los traumatismos en los analgésicos solicitados con receta médica (16,20%); la fiebre es la tercera patología más frecuente (6,20%) en la automedicación.
+Un total de 271 (38,9%) farmacéuticos afirman que siguen un protocolo para el tratamiento del dolor leve-moderado, de los que solo el 1,7% utilizan uno publicado. Ante la solicitud del servicio de indicación, el 34,1% de los farmacéuticos seleccionan ibuprofeno, el 27,0% paracetamol, el 13,0% derivan al médico y el 12,0% seleccionan otro tratamiento farmacológico. La patología que presenta el paciente es el principal criterio del farmacéutico a la hora de seleccionar un tratamiento, siendo el precio el menos importante . Se analizó la asociación entre los años de experiencia del farmacéutico y la adherencia a un protocolo de actuación y no se encontraron diferencias estadísticamente significativas (test de Fisher, p = 0,05210). Se encontró asociación con los indicadores de proceso del servicio de indicación, siendo los farmacéuticos con menor experiencia los que menos verifican los indicadores «otros problemas de salud» (Fisher, p = 0,015) y «alergias y situaciones especiales» (Fisher, p = 0,012). No se observan diferencias estadísticamente significativas en cuanto a los criterios de selección del analgésico y la experiencia del farmacéutico (ANOVA, p > 0,05).
+En cuanto a la dispensación, el 87,8% de los farmacéuticos verifican la presencia de otros medicamentos y posibles interacciones antes de dispensar un medicamento (con receta o automedicación), el 1,3% de los farmacéuticos no cumplen ninguno de los indicadores del proceso de dispensación . No se observan diferencias estadísticamente significativas en cuanto a indicadores de proceso del servicio de dispensación y la experiencia del farmacéutico (test de Fisher, p > 0,05).Figura 2
+El 68,6% de los farmacéuticos entregan el medicamento solicitado, el 14,80% lo derivan al médico y el 11,7% no entregan el medicamento solicitado. No se observa relación entre el resultado de la dispensación y la experiencia del farmacéutico (ANOVA, p > 0,05).
+Los 4 motivos principales de derivación al médico son «detección de un indicador de alarma» (25,80%), «dosis/pauta/duración de tratamiento inadecuada» (12,94%), «detección de reacción adversa» (12,93%) y «detección de un problema de salud asociado al uso del analgésico» (12,89%).
+
+
+- DISCUSIÓN
+
+Menos de la mitad de los farmacéuticos afirman que realizan el servicio de indicación mediante un protocolo de actuación en dolor leve-moderado, y de ellos solo un 2% utilizan uno publicado. En la dispensación aumenta el porcentaje de farmacéuticos que verifican algunos de los indicadores de proceso de este servicio; sin embargo, tan solo el 60% discriminan entre inicio y continuación del tratamiento. Las instituciones sanitarias instan a los farmacéuticos a trabajar de manera sistemática con los pacientes, , y que solo un 48% afirmen realizar protocolos confirma la baja implantación de servicios cognitivos en la FC.
+Se describen 3 perfiles de usuarios de analgésicos en función del servicio solicitado en la FC. Según la perspectiva del farmacéutico, la mayoría de los pacientes que retiran un analgésico con receta médica son pluripatológicos, utilizan hasta 5 medicamentos, tienen un consumo crónico de analgésicos y un conocimiento bajo del analgésico que utilizan. Sin embargo, perfilan a los usuarios del servicio de indicación como jóvenes (25-50 años) que no toman otros medicamentos ni tienen más enfermedades, perfil muy similar a los usuarios que acuden por automedicación que toman algún medicamento más además del analgésico; ambos utilizan analgésicos de manera puntual (3-6 veces al año). El perfil marcado en automedicación coincide con otro estudio que afirma que los jóvenes son los que más se automedican, y el dolor de cabeza y los procesos gripales son los síntomas menores más consultados en FC. Esta caracterización del paciente induce a plantearse la necesidad de adaptar los servicios farmacéuticos en dolor leve-moderado a los perfiles de pacientes identificados, para aumentar su eficiencia.
+La percepción del farmacéutico sobre el conocimiento del paciente sobre los analgésicos es baja, y se ha observado que en general el 80% de ellos tiene un conocimiento insuficiente para asegurar un correcto proceso de uso del analgésico, dato que coincide con otro estudio que lo sitúa en torno al 70%. Esta visión del paciente por parte del farmacéutico revela la importancia de que el farmacéutico asuma su responsabilidad de verificar el conocimiento del paciente en cada servicio farmacéutico.
+El ibuprofeno y el paracetamol son los principios activos más utilizados por los pacientes para tratar el dolor leve-moderado; este dato está respaldado por otros estudios, que, junto al ácido acetilsalicílico, los consideran como el tratamiento de elección del dolor leve-moderado, , . Son los medicamentos más solicitados en automedicación. Este resultado implica una vigilancia especial de su uso para evitar el abuso, con una formación centrada tanto en los pacientes como en los farmacéuticos.
+El motivo mayoritario por el que un paciente acude a la farmacia con dolor leve-moderado es a retirar un medicamento con receta médica (45,50%). Este dato coincide con otros estudios, que le asignan el 50% de la carga laboral del farmacéutico al servicio de dispensación, , lo que resalta la importancia de la formación de los farmacéuticos para implementar protocolos de dispensación en dolor que permita desempeñar un papel fundamental en el suministro de información y gestionar adecuadamente la farmacoterapia para optimizar la eficacia y reducir al mínimo los efectos adversos.
+Resulta llamativo observar que el farmacéutico solo derive al médico o a otro profesional sanitario el 13% en indicación y el 14% en dispensación. Este porcentaje de derivaciones, a pesar de ser bajo, pone de manifiesto que el farmacéutico durante el servicio de dispensación o indicación puede servir de filtro para detectar posibles resultados negativos asociados a la medicación que requieran valoración clínica especializada.
+Este estudio no pretende ser representativo del uso de analgésicos por parte de la población que cubren las FC de estudio ni de las intervenciones farmacéuticas en dolor leve-moderado realizadas en las FC españolas. No obstante, pretende explorar qué tipo de consultas sobre dolor leve-moderado se realizan y cómo intervienen los farmacéuticos. Por este motivo, las farmacias seleccionadas son voluntarias, priorizando el compromiso de cada farmacéutico en la cumplimentación del estudio. El equipo investigador es conocedor de que el hecho de que el 63% de los farmacéuticos accedieran a participar en el estudio podía introducir un «sesgo de selección», quedando sin representar algún sector de farmacéuticos; sin embargo, las características de la muestra obtenida son heterogéneas. Debido al diseño del estudio y a la fuente de información basada en la experiencia del farmacéutico, se puede introducir un «sesgo de memoria» y de «deseabilidad social» que puede aumentar el margen de incertidumbre en la interpretación de los resultados. Además, el equipo investigador es consciente de que existen herramientas más objetivas para evaluar la práctica farmacéutica, como la observación por paciente simulado, . No obstante, el método utilizado en este estudio ha permitido explorar el uso de analgésicos para el dolor leve-moderado a través de la percepción del farmacéutico comunitario. Son necesarios estudios futuros que permitan diseñar estrategias de formación en servicios farmacéuticos en dolor leve-moderado.
+Los resultados obtenidos respaldan la conclusión de numerosos estudios que afirman que la formación es una barrera importante para la implantación de servicios, , . Los farmacéuticos están implicados en la atención de pacientes con dolor, a pesar de que la educación farmacéutica en la actualidad no ofrece ni requiere un fuerte compromiso con el currículo de esta área de práctica. Es necesario facilitar formación práctica y específica en dolor para la implantación de servicios que permitan asegurar de manera sistemática la utilización correcta de analgésicos.
+
+
+- FINANCIACIÓN
+
+La investigación fue financiada por Laboratorios Abbott.
+
+
+- CONFLICTO DE INTERESES
+
+La fuente financiadora no influyó en los resultados obtenidos, minimizando el conflicto de intereses.

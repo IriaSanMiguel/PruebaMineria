@@ -1,0 +1,70 @@
+COVID-19: CÓMO TRANSFORMAR UN VENTILADOR DE NO INVASIVA EN UN VENTILADOR DE CRÍTICOS
+
+
+La pandemia del COVID-19 causada por el coronavirus SARS-CoV-2 y originada en la ciudad de Wuhan, China, ha dejado numerosas víctimas alrededor del mundo en un breve lapso de tiempo, , , . El COVID-19 es una afección predominantemente respiratoria, que oscila desde síntomas similares a la gripe hasta un síndrome de distrés respiratorio agudo (SDRA). Aproximadamente un 10-15% de los pacientes presentan una insuficiencia respiratoria moderada, mientras que un 5% de los casos evoluciona a formas graves que necesitan soporte ventilatorio invasivo en las unidades de cuidados intensivos (UCI), , .
+El alto contagio dado por el elevado número de reproducción del virus (Ro: 2,2-3,5) explica por qué los hospitales están abarrotados de pacientes graves que necesitan soporte ventilatorio. Hoy día la oferta de respiradores es muy inferior a la demanda, por lo que hay escasez de estos aparatos de soporte vital avanzado. Esta situación sanitaria crítica es la base de la cuarentena y medidas de aislamiento social de la población para, de este modo, controlar la tasa de infectados y minimizar, entre otras cosas, la necesidad de respiradores en la población general. Esta problemática podría ser mucho más exagerada y dramática en los países emergentes y subdesarrollados con serias limitaciones de infraestructura y con escasos recursos económicos.
+Proponemos una solución para aumentar el número de respiradores para el tratamiento del COVID-19. La idea se basa en transformar un equipo de ventilación no invasiva (VNI) en un ventilador de críticos para pacientes intubados. Describiremos las bases del funcionamiento de las alternativas que proponemos, seguida de una simulación de estas soluciones en un paciente con pulmones sanos y otro con SDRA.
+
+
+- SOLUCIONES PROPUESTAS
+
+Los equipos clásicos de VNI no están diseñados para ventilar pacientes intubados, y uno de los motivos es la reinhalación del dióxido de carbono (CO2) que se acumula durante la espiración en la tubuladura única. Es decir, al no tener ramas inspiratoria y espiratoria ni válvulas unidireccionales, parte del CO2 del gas que se espira dentro del circuito único será reinhalado en la siguiente inspiración, originando hipercapnia. La solución para usar un equipo de VNI en un paciente ventilado, por lo tanto, está en evitarla sin que se despresurice el sistema ni afecte la ventilación alveolar del paciente.
+Los equipos VNI deberán tener las opciones de back up de frecuencia y ciclado por tiempo para poder usarlo como una ventilación mandatoria controlada por presión (PC-CMV). Estas especificaciones permitirían usar el aparato de VNI tanto en un modo de ventilación mandatoria como espontáneo.
+Las soluciones propuestas se detallan a continuación (fig. 1 ). En todas ellas, se coloca tras el tubo endotraqueal un filtro antibacteriano/viral (HMEF) para evitar la dispersión del SARS-CoV-2 y para conservar la temperatura y humedad.Figura 1
+
+
+-- OPCIÓN 1
+
+Esta es la opción más sencilla donde una fuga en el HMEF o en el puerto de fuga que utilizan este tipo de equipos, permite un flujo continuo que lava el CO2 espirado (fig. 1, panel superior). Es decir, el paciente espira a través del HMEF mientras que el equipo de VNI aporta flujo no solo al paciente sino también el flujo necesario para lavar el CO2 atrapado en el circuito. Para lograr este objetivo el equipo de VNI debe tener un generador de flujo muy eficiente para mantener el sistema presurizado. La reinhalación de CO2 dependerá del tamaño de la fuga y de las presiones seleccionadas (a mayor presión, mayor debería ser el flujo por la fuga y más eficiente sería el lavado de CO2).
+
+
+-- OPCIÓN 2
+
+La solución consiste en reemplazar el circuito de rama único del equipo de VNI por un sistema de anestesia Bain o sistema Mapleson D modificado con doble tubuladura coaxial, . La bolsa del circuito de Bain y el flujo de gases frescos son eliminados. La tubuladura externa del circuito Bain se conecta al equipo de VNI, mientras que la rama interna se deja abierta al exterior para la fuga de gases espirados (fig. 1, panel medio). Las potenciales ventajas de esta opción son: 1) Obligar al gas espirado rico en CO2 a eliminarse por el tubo interno, ya que el mismo encuentra oposición a ir por la rama externa dado por el flujo/presión aportada por el equipo de VNI, y 2) Conservar en cierta medida una parte del calor y humedad dentro del circuito.
+
+
+-- OPCIÓN 3
+
+Otra solución es evitar totalmente la reinhalación del CO2 con una válvula unidireccional tipo Duck-Bill colocada en el extremo distal del circuito único del equipo de VNI, por detrás del filtro HMEF y del tubo endotraqueal (fig. 1, panel inferior). La válvula tipo Duck-Bill se usa en los sistemas de ventilación Mapleson C de no reinhalación (p. ej., bolsa de resucitación tipo Ambu®), donde por un extremo se ventila al paciente y por el otro el CO2 se espira al ambiente a través de una válvula de PEEP externa. La PEEP externa se debe programar al mismo valor que la presión positiva espiratoria (EPAP) del equipo de VNI. Esta disposición es necesaria para disminuir la resistencia espiratoria dada por la válvula de Duck-Bill; ya que esta válvula no está diseñada para la ventilación espontánea y genera mucha resistencia al flujo espirado (fig. 2 ).Figura 2
+
+
+- SIMULACIÓN
+
+Las opciones propuestas se evaluaron en el Centro de Simulación de la Asociación de Anestesia, Analgesia y Reanimación de la ciudad de Buenos Aires. Se utilizó un simulador respiratorio ASL 5000® (IngMar Medical, Pittsburgh, EE. UU.) conectado al equipo de VNI a través de un tubo endotraqueal n.° 8. El equipo de VNI analizado fue el Stellar® 150 (ResMed Inc., Sydney, Australia) con las opciones de back up de frecuencia y ciclado por tiempo. Se monitorizaron presión, flujo y capnografía con el monitor FluxMed® (MBMED, Buenos Aires, Argentina) con sensores colocados detrás del filtro HMEF. La fracción inspirada de oxígeno (FiO2) se midió con un analizador de gases colocado entre la HMEF y el tubo endotraqueal.
+Las simulaciones se basaron solo en determinar si las opciones propuestas permitían una correcta función del equipo de VNI, si mantenían presurizado el sistema durante su funcionamiento, si evitaban la reinhalación de CO2 y que FiO2 podían lograr. Dada la urgencia en hacer pública esta información por la pandemia COVID-19, no se estudiaron combinaciones en los parámetros ventilatorios ni tampoco se analizaron otras potenciales modificaciones en el circuito de equipo de VNI.
+El primer paso fue simular una ventilación controlada en un paciente con pulmones sanos con una producción de CO2 de 170 ml/min, compliance de 50 ml/cmH2O, resistencia de la vía aérea de 8 cmH2O/l/s. La presión positiva inspiratoria en la vía aérea (IPAP) se fijó en 20 cmH2O y la presión positiva espiratoria (EPAP) en 8 cmH2O con una frecuencia respiratoria de 18 bpm (tiempo inspiratorio; 1 s; tiempo espiratorio: 2,3 s). La figura 3 muestra que las opciones propuestas conservan el sistema presurizado y eliminan CO2 de modo correcto, sin reinhalación, como lo evidencia el retorno a cero en la señal del CO2 durante la inspiración.Figura 3
+El segundo paso fue simular una ventilación controlada en un paciente con SDRA con una producción de CO2 de 170 ml/min, compliance de 30 ml/cmH2O, resistencia de la vía aérea de 18 cmH2O/l/s. La IPAP se fijó en 25 cmH2O y la EPAP en 12 cmH2O con una frecuencia respiratoria de 18 bpm (tiempo inspiratorio: 1 s; tiempo espiratorio: 2,3 s). La figura 4 muestra que en la simulación de pulmones enfermos las opciones analizadas también conservan las presiones seleccionadas y evitan la reinhalación del carbónico.Figura 4
+El último paso fue probar los sistemas simulando un paciente sano ventilando espontáneamente. La figura 5 muestra las curvas de flujo, presión y capnografía usando la opción 3 a modo de ejemplo; donde claramente se confirma la ausencia de reinhalación de CO2 y la conservación de las presiones seleccionadas. Las opciones 1 y 2 lograron resultados similares.Figura 5
+El O2 suplementario para manipular la FiO2 —a un volumen minuto respiratorio fijo de 7 l/min—, se administró en 2 posiciones:1.Flujo suplementario de O2 aplicado a la toma específica ubicada en el panel posterior del Stellar® 150. Un flujo de 5 l/min resulta en una FiO2 de casi el 90%.2.Flujo suplementario de O2 aplicado en la salida del equipo de VNI donde se conecta el circuito único. Analizamos uno de los sistemas propuestos con fuga sin válvula de no reinhalación (opción 2) y la opción 3 con la válvula unidireccional a distintos flujos de O2. La tabla 1 muestra los resultados del análisis en ventilación mandatoria.
+
+
+- VENTAJAS DEL EQUIPO DE VENTILACIÓN NO INVASIVA COMO VENTILADOR INVASIVO
+
+1.Las opciones propuestas permitirían ventilar pacientes de cualquier edad, peso y talla de manera mandatoria o espontánea.2.Las presiones en la vía aérea que alcanzan estos aparatos de VNI están dentro del rango contemplado en la ventilación de protección.3.Fácil esterilización del circuito, adaptadores y válvulas.4.Mayor disponibilidad de equipos comparado con el número de ventiladores de intensivos.
+
+
+- DESVENTAJAS DEL EQUIPO DE VENTILACIÓN NO INVASIVA COMO VENTILADOR INVASIVO
+
+1.El control exacto de la FiO2 no es posible porque depende del flujo adicional de O2 agregado al sistema, dónde se administra el O2, la fuga y volumen minuto respiratorio seleccionado. Sin embargo, la información generada en las simulaciones nos indican que este punto no sería un problema de relevancia.2.Monitorización escasa comparada con respiradores de críticos.3.Muchos de los equipos de VNI no tienen batería para funcionar de manera autónoma.4.Las alarmas pueden no ser tan completas y/o sensibles como un ventilador de intensivos. Este problema dependerá de las características técnicas del equipo de VNI utilizado con este propósito y nos obligará a una vigilancia más estrecha de los pacientes.
+Nota: La gran oferta de aparatos de VNI del mercado nos obliga a revisar las características de funcionamiento del equipo de VNI que tengamos a disposición: conocer modos ventilatorios, límites/rango de presiones alcanzadas, alarmas, administración de O2 suplementario, etc. Se recomienda preparar algunas de las opciones propuestas y hacer un testeo previo con un pulmón artificial para asegurarnos de su correcto funcionamiento antes de su uso clínico.
+
+
+- ESTRATEGIA DETRÁS DE LA SOLUCIÓN PROPUESTA
+
+El uso de este equipamiento permite dos estrategias bien definidas. Una de ellas es reemplazar las máquinas de anestesia para que las mismas sean usadas en pacientes con COVID-19. Este reemplazo nos obligaría a hacer anestesia endovenosa total en quirófano porque todas las opciones propuestas son circuitos de ventilación «abiertos». La segunda opción es ventilar con este dispositivo a los pacientes con COVID-19 cuando los ventiladores de UCI estén ocupados. De este modo, el sistema se puede usar como «puente ventilatorio» donde el paciente estará a la espera de la liberación de un equipo en la UCI.
+Más allá del COVID-19, la simplicidad de los sistemas permite sus usos para traslado (equipos con batería) en pacientes ventilados, no solo dentro del hospital sino también desde lugares remotos.
+
+
+- CONCLUSIONES
+
+La presente comunicación propone soluciones para transformar un equipo de VNI en un respirador de intensivos para pacientes intubados. Estas propuestas tienen particular importancia para zonas descentralizadas, países emergentes y subdesarrollados donde los recursos suelen ser escasos y la infraestructura limitada.
+
+
+- FINANCIACIÓN
+
+Ningún autor ha recibido ingresos o becas relacionado con esta presentación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

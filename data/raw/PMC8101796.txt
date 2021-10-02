@@ -1,0 +1,106 @@
+RECOMENDACIONES DIAGNÓSTICO-TERAPÉUTICAS DEL GRUPO DE TRABAJO DE EXPERTOS DE FACME AD-HOC SOBRE EL MANEJO DE LA TROMBOSIS VENOSA CEREBRAL RELACIONADA CON LA VACUNACIÓN FRENTE A COVID-19<SUP
+
+
+- INTRODUCCIÓN
+
+La pandemia causada por la enfermedad por coronavirus 2019 (COVID-19) ha provocado más de 3 millones de muertes a nivel mundial y más de 77.000 en España, junto con un exceso de mortalidad de hasta un 65% respecto de las cifras de los 10 años previos. El insuficiente beneficio demostrado por los distintos tratamientos estudiados, , ha hecho que se ponga toda la esperanza en las vacunas. Los beneficios demostrados en los ensayos clínicos realizados hasta la fecha, , , , , , y los datos procedentes de la situación epidemiológica actual invitan al optimismo.
+El 7 de marzo de 2021 se notificaron en Austria los 2 primeros casos de trombosis venosas con presentación clínica atípica en pacientes que habían recibido la vacuna de AstraZeneca (Vaxzevria). El 14 de marzo de 2021 se comunicó el primer caso en España. Tras revisar la evidencia disponible en dicho momento, el Comité para la Evaluación de Riesgos en Farmacovigilancia europeo concluyó el 29 de marzo de 2021 que el número de eventos tromboembólicos reportados en personas expuestas a la vacunación era inferior al esperado en la población general, si bien Vaxzevria podría asociarse a casos de trombosis atípicas, como coagulación intravascular diseminada o trombosis de senos venosos cerebrales, con un hecho distintivo: su presentación junto a trombocitopenia. Una segunda evaluación del Comité para la Evaluación de Riesgos en Farmacovigilancia, cuyas conclusiones fueron publicadas con fecha de 14 de abril, concluyó que dicha asociación causal parecía probada, pero dada la escasa evidencia, no se pudieron identificar factores de riesgo en los casos notificados ni hubo recomendaciones prácticas de manejo clínico.
+El beneficio poblacional de la vacunación está fuera de toda duda. No obstante, es de vital importancia que los profesionales sanitarios estén preparados para la detección y el manejo adecuados de efectos adversos poco frecuentes pero graves como es la trombosis venosa cerebral con trombocitopenia. El objetivo del presente documento es aportar recomendaciones prácticas sobre el diagnóstico y manejo de pacientes con trombosis venosa cerebral con trombocitopenia tras la vacunación con vacunas recombinantes de adenovirus (Vaxzevria, de AstraZeneca, y Janssen), pese a que la asociación parece por el momento superior con la primera. Dado lo cambiante de la situación y la aparición constante de nueva información, es importante consultar los documentos de recomendaciones prácticas, cuya actualización será más regular que el presente documento.
+
+
+- DESARROLLO
+
+-- DEFINICIÓN DE CASO SOSPECHOSO
+
+Además del patrón homogéneo de presentación en las 3 primeras semanas tras la vacunación, las características que han motivado la consideración de estos fenómenos como relacionados con la vacunación son: 1) una frecuencia observada 4,94 (intervalo de confianza al 95% 2,63-8,45) veces superior a la frecuencia esperada para dicha población y periodo de tiempo; 2) la gravedad superior a los casos no relacionados con la vacunación, alcanzando hasta un 36,4% de mortalidad, , ; 3) la asociación con trombocitopenia en un porcentaje significativo de los casos, , ; 4) la plausibilidad biológica al considerarse un fenómeno de origen inmunológico y la existencia de mecanismos fisiopatogénicos que pueden explicar parte del fenómeno, y 5) la ausencia de hipótesis alternativas que puedan justificar la aparición de los cuadros.
+
+
+-- HIPÓTESIS FISIOPATOGÉNICA
+
+La asociación con trombocitopenia y la gravedad de los eventos guarda cierta similitud con el síndrome de trombocitopenia inducida por heparina (HIT por sus siglas en inglés, , con la salvedad de que los pacientes no habían sido expuestos a esta. Se desconoce qué factor sería el desencadenante de este cuadro en los pacientes que han recibido la vacuna. Se ha descrito trombocitopenia tras la administración de vacunas vectorizadas por adenovirus, y autoinmunidad en primates y roedores tras la administración de vacunas basadas en adenovirus, si bien tras administración intravenosa, , , . Se ha descrito la presencia de anticuerpos frente al factor plaquetario 4 (anti-PF4) en personas con eventos trombóticos tras la vacunación con Vaxzevria, .
+
+
+-- TROMBOSIS ASOCIADA A TROMBOCITOPENIA
+
+Se han empleado diversos términos, como: trombocitopenia inmune protrombótica inducida por la vacunación, trombocitopenia trombótica inducida por la vacuna (VITT por sus siglas en inglés), , , trombocitopenia inducida por heparina atípica o síndrome de trombosis con trombocitopenia. No obstante, en algunos de los casos reportados no se describía la presencia de trombocitopenia. Esto podría deberse a: 1) que no se hubiera detectado o informado la trombocitopenia, pese a estar presente (por ejemplo, no haber realizado ninguna analítica); 2) que el paciente hubiera presentado un descenso en los niveles de plaquetas respecto de su cifra basal, pero sin llegar a disminuir por debajo de las 150.000 plaquetas/μL, y 3) que se trate de un fenómeno diferente.
+
+
+-- DEFINICIÓN OPERATIVA
+
+Desde el punto de vista práctico, se recomienda considerar un evento tromboembólico venoso en cualquier localización, que ocurra en un plazo de entre 3 y 21 días tras la administración de una vacuna de vectores no replicantes de adenovirus (Vaxzevria o Janssen), .
+Ante un caso sospechoso se debe realizar un hemograma. La trombocitopenia queda definida por una cifra por debajo de 150.000 plaquetas/μL o un descenso del 50% respecto de la cifra previa, siempre y cuando esta se conozca y sea razonablemente reciente (3 meses previos). En caso de trombocitopenia, es recomendable realizar un frotis sanguíneo para excluir una pseudotrombocitopenia por agregación plaquetaria.
+En caso de trombocitopenia confirmada, se debe realizar determinación de anticuerpos anti-PF4, cuya presencia se ha descrito en pacientes afectos de VITT, , , e implicaría el diagnóstico de VITT y como tal debería manejarse, . La sensibilidad de la determinación de anticuerpos mediante técnica de ELISA es superior a la de las pruebas de cribado más comúnmente empleadas en el HIT (inmunopartículas en gel, quimioluminiscencia), si bien puede no estar disponible en todos los centros. Se recomienda congelar una muestra de suero del paciente o de plasma para poder realizar estudios funcionales de activación plaquetaria a posteriori en algún laboratorio de referencia, .
+Se ha descrito también una elevación marcada de dímero-D, . En este contexto, una cifra por encima de 4 veces el límite superior de la normalidad debe alertar sobre una posible VITT. En caso de negatividad de los anticuerpos anti-PF4 (sobre todo si no se dispone de la técnica ELISA) y normalidad del dímero-D, en ausencia de otras causas que justifiquen la trombocitopenia, parece prudente el manejo de la complicación trombótica como en los pacientes con VITT. En caso de que las cifras plaquetarias sean normales, todavía no existe información suficiente como para saber si se trata de un VITT o no; por ello, deberá hacerse vigilancia estrecha de la cifra de plaquetas.
+
+
+- PRESENTACIÓN CLÍNICA DE LA TROMBOSIS VENOSA CEREBRAL
+
+El sistema venoso intracraneal drena la sangre del encéfalo y contribuye a la reabsorción del líquido cefalorraquídeo a través de las granulaciones aracnoideas. La interrupción de su flujo puede provocar diversos síntomas, siendo la presentación clínica variable en función de la localización de la trombosis y de la eficacia de vías de drenaje alternativas. Existe cierta concordancia entre los síntomas clínicos y su correlato a nivel intracraneal, siendo los fenómenos que explican los síntomas la presencia de hipertensión intracraneal, los infartos venosos y la presencia de hemorragias subyacentes, . La figura 1 resume los síntomas y eventos fisiopatogénicos implicados en la trombosis de senos venosos cerebrales.Figura 1
+En cuanto a los datos de alarma, debe descartarse una trombosis de senos venosos cerebrales ante la presencia de alguno de ellos en el contexto clínico adecuado. El síntoma más frecuente de la trombosis de senos es la cefalea, ocurriendo en hasta un 88% de los pacientes, , . La cefalea es uno de los síntomas más frecuentemente reportados tras la vacunación, , , , , , , con una frecuencia de hasta el 67% de las personas vacunadas, no obstante, su aparición suele ser inmediata. El valor predictivo de los datos de alarma en esta entidad no está establecido, por lo que, en caso de ausencia de todos ellos, si existe algún dato atípico o preocupante a juicio del médico responsable, también deberá evaluarse esta posibilidad. La tabla 1 resume los principales datos de alarma de la trombosis de senos venosos cerebrales, , .
+
+
+- ASPECTOS DIAGNÓSTICOS
+
+-- DIAGNÓSTICO DE LA TROMBOCITOPENIA TROMBÓTICA INDUCIDA POR LA VACUNA
+
+Se recomienda la determinación de anticuerpos anti-PF4, cuya extracción deberá realizarse antes de administrar inmunoglobulinas, , , , , . Su positividad resulta indicativa de una VITT, aunque su negatividad, sobre todo si no se dispone de la técnica ELISA, no la descarta.
+
+
+-- DIAGNÓSTICO DE LA TROMBOSIS VENOSA CEREBRAL
+
+La evaluación radiológica de la trombosis venosa cerebral puede variar según la presentación del paciente y la disponibilidad de las técnicas radiológicas (tomografía computarizada [TC], resonancia magnética [RM]).
+En la presentación aguda, la TC sin contraste es con frecuencia la prueba que se realiza de forma inicial. Sin embargo, esta prueba es poco sensible, ya que únicamente muestra alteraciones indicativas e indirectas de trombosis venosa cerebral en el 30% de los pacientes. Así, si existe sospecha de trombosis venosa cerebral, la TC sin contraste debe complementarse con una TC con contraste y con reconstrucción tridimensional venosa (venografía por TC), , , , , .
+En pacientes con presentación subaguda, la RM es la prueba de primera elección siempre que esté disponible de forma inmediata y el paciente no presente contraindicaciones a su obtención. El protocolo técnico adecuado incluye secuencias sin y con contraste complementadas con una RM venográfica. La RM es además útil para valorar las posibles complicaciones de la trombosis venosa cerebral, como el infarto venoso, la hemorragia y el edema.
+Dadas la alta sensibilidad y especificidad diagnóstica de las pruebas no invasivas en el diagnóstico de la trombosis venosa cerebral, la venografía directa a través de catéter rara vez se requiere y debe reservarse para los casos en que se considere necesario tratamiento intravascular.
+Pese a su baja sensibilidad, en la TC cerebral simple pueden observarse ciertos signos indicativos de trombosis venosa cerebral. Su presencia obliga a considerar este diagnóstico de no haberse hecho antes. La tabla 2 resume los principales signos radiológicos de la trombosis venosa cerebral, , , , , , , , .
+
+
+- TRATAMIENTO DE LA TROMBOSIS VENOSA CEREBRAL EN PERSONAS VACUNADAS
+
+-- ASPECTOS GENERALES SOBRE EL MANEJO DE EVENTOS TROMBÓTICOS EN PERSONAS VACUNADAS
+
+Toda persona con un evento trombótico en relación temporal con la vacunación con vacunas de vectores no replicantes de adenovirus debe ser hospitalizada, aunque su situación clínica sea estable y paucisintomática, ya que se ha descrito una mayor gravedad que en las formas convencionales y casos de rápido empeoramiento clínico. El manejo debe ser multidisciplinar y debe aunar a la especialidad responsable de dicho tipo de trombosis en el centro y a un hematólogo con experiencia en HIT. El tratamiento consta de 2 pilares: el fenómeno disinmune y la trombosis cerebral.
+
+
+-- TRATAMIENTO DE LA TROMBOCITOPENIA TROMBÓTICA INDUCIDA POR LA VACUNA
+
+En caso de que se realice un diagnóstico de VITT o exista una duda razonable sobre dicha posibilidad, la administración de plaquetas queda contraindicada salvo que haya un sangrado activo clínicamente relevante o sea necesario practicar algún procedimiento invasivo con alto riesgo de sangrado, . Además, se recomienda el bloqueo de la activación y agregación plaquetaria por los anticuerpos anti-PF4 con inmunoglobulina humana inespecífica intravenosa, pudiendo emplearse la pauta de 1 g/kg/día durante 2 días o bien de 0,4 g/kg/día durante 5 días, sin que sea necesaria la determinación previa del nivel sérico de inmunoglobulinas en el paciente. Se ha descrito su empleo en varios casos hasta la fecha, , , , . Alternativamente, se puede emplear plasmaféresis con reposición con albúmina en caso de contraindicación para las inmunoglobulinas. Pese a que la trombosis es un riesgo conocido tras la administración de inmunoglobulinas, la frecuencia es baja y el beneficio parece superar el riesgo, .
+
+
+-- TRATAMIENTO DE LA TROMBOSIS VENOSA CEREBRAL
+
+La evidencia actual sobre el manejo de la trombosis venosa cerebral de cualquier causa es mejorable. En el contexto que nos ocupa, el tratamiento se decidirá en función de si existe sospecha de posible VITT o no. En caso de haberla, atendiendo a los criterios operativos definidos más arriba, no se recomienda la administración de heparina, no solo como tratamiento, sino en procedimientos como heparinización de vías centrales, .
+
+
+-- TRATAMIENTO ANTICOAGULANTE DE LA TROMBOSIS VENOSA CEREBRAL EN AUSENCIA DE SOSPECHA DE TROMBOCITOPENIA TROMBÓTICA INDUCIDA POR LA VACUNA
+
+Las principales guías son las europeas de 2010, las americanas de 2011 y las europeas de 2017. Los fármacos con una mayor evidencia son la heparina de bajo peso molecular (HBPM) y la heparina no fraccionada, , , , , , . La HBPM demostró en un estudio una menor tasa de mortalidad, una mayor tasa de recuperación completa y una menor tasa de sangrado. Otro estudio mostró una menor tasa de mortalidad o dependencia en pacientes tratados con HBPM frente a heparina no fraccionada, así como una menor tasa de aparición de nuevas hemorragias cerebrales. Un tercer estudio de menor tamaño muestral no encontró diferencias entre ambos tratamientos. Una revisión sistemática publicada en 2017 concluyó que había una tendencia a una menor mortalidad y mejor pronóstico funcional en pacientes tratados con HBPM, sin diferencias en la tasa de hemorragia extracraneal.
+
+
+-- TRATAMIENTO ANTICOAGULANTE DE LA TROMBOSIS VENOSA CEREBRAL EN CASO DE SOSPECHA DE TROMBOCITOPENIA TROMBÓTICA INDUCIDA POR LA VACUNA
+
+La HBPM y la heparina no fraccionada no están recomendadas en el momento actual, , , , , , , , , , , , , , , , , siendo necesario utilizar un fármaco anticoagulante alternativo. Todas las opciones terapéuticas alternativas disponen de escasa evidencia en el tratamiento de la trombosis de senos venosos cerebrales. Argatroban parece una alternativa en el tratamiento de la HIT, , pero carece de evidencia sólida en el tratamiento de la trombosis venosa cerebral, pese a que los estudios realizados en ictus isquémico apuntan a un adecuado nivel de seguridad, , , , habiéndose reportado casos en los que ha sido empleado en el tratamiento de la VITT, . Bivalirudina tiene una evidencia como tratamiento de la trombosis de senos venosos cerebrales casi inexistente, si bien una revisión sistemática publicada en 2017 concluyó que los análogos de la hirudina (lepirudina y bivalirudina) tenían una tasa de complicaciones trombóticas y hemorrágicas similares a argatroban, habiendo sido también empleada en casos de VITT. Su administración debe realizarse bajo monitorización estrecha. Fondaparinux es otro agente propuesto para el tratamiento de la HIT, si bien su evidencia en el tratamiento de la trombosis de senos venosos cerebrales se limita a un único caso.
+En las formas menos graves se puede considerar el empleo de anticoagulantes de acción directa. Rivaroxabán, , , , , , y apixabán, son los fármacos con una mayor evidencia, pero es de baja calidad, , , . Su recomendación también se justifica por no precisar de tratamiento concomitante con heparina al inicio del tratamiento.
+Existe evidencia limitada para recomendar la realización de tratamiento endovascular o quirúrgico de manera sistemática, , , . En centros con experiencia puede considerarse en caso de mala respuesta al tratamiento farmacológico, , .
+La tabla 3 describe los principales fármacos recomendados, la posología y la duración del tratamiento. Considerando que la VITT es una trombosis venosa provocada, la duración recomendada del tratamiento anticoagulante sería de 3 meses, individualizándose en cada paciente.
+La figura 2 resume el manejo diagnóstico-terapéutico en pacientes con trombosis de senos venosos cerebrales en pacientes vacunados.Figura 2
+
+
+- NOTIFICACIÓN DE CASOS
+
+Los casos sospechosos de VITT tras la administración de cualquier vacuna frente a la COVID-19 deben notificarse al Sistema Español de Farmacovigilancia a la mayor brevedad (www.notificaram.es), incluyendo toda la información que sea posible, especialmente datos demográficos (edad, sexo, antecedentes personales de interés, factores de riesgo de trombosis, antecedente de infección por COVID-19 y su gravedad), datos relacionados con la vacunación (fecha de vacunación, tipo de vacuna y lote) y datos clínicos (fecha de inicio de los síntomas y descripción detallada del caso). Es importante precisar la fecha de diagnóstico de la complicación trombótica, así como la localización, el método diagnóstico empleado y la existencia o no de hemorragia asociada (localización y deseablemente volumen). Desde el punto de vista analítico es preciso reportar las cifras de plaquetas y dímero-D tanto al diagnóstico como en la evolución, así como el resultado de la determinación de anticuerpos anti-PF4 y la técnica empleada. Si el caso fuera dudoso, los resultados del estudio etiológico convencional también serán de utilidad. En relación con el tratamiento, se deberá describir qué fármacos fueron empleados, incluyendo dosis, tratamientos concomitantes y grado de eficacia, junto con el pronóstico a corto y medio plazo.
+
+
+- CONCLUSIONES
+
+El número de casos observados de trombosis venosa cerebral en personas vacunadas con vacunas de vectores no replicantes de adenovirus excede el número de casos esperado. Se ha establecido una relación de causalidad con eventos trombóticos asociados a trombocitopenia. Las vacunas de vectores no replicantes de adenovirus pueden ocasionar muy raramente cuadros de trombosis con trombocitopenia en localizaciones menos frecuentes, como los senos venosos cerebrales. Estos casos se caracterizan por trombocitopenia o descenso de al menos el 50% en relación con cifras plaquetarias previas, presencia de niveles elevados de dímero-D y presencia de anticuerpos anti-PF4. En este contexto, se recomienda tratamiento con inmunoglobulinas y anticoagulantes de uso menos frecuente en la trombosis venosa cerebral, como argatroban, bivalirudina, fondaparinux, rivaroxabán o apixabán. Los pacientes sin los factores anteriormente mencionados pueden manejarse como una trombosis de senos venosos cerebrales convencional, si bien será de especial importancia un estrecho seguimiento clínico y analítico. Se necesita con urgencia mayor evidencia para el manejo de esta complicación.
+
+
+- AUTORÍA
+
+Todos los autores han hecho contribuciones sustanciales a la concepción del manuscrito, el borrador del artículo y su revisión de contenido intelectual, y la aprobación definitiva de la versión que se presenta.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses relativo al presente documento.

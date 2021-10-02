@@ -1,0 +1,74 @@
+ESTUDIO PILOTO EN UNA FARMACIA COMUNITARIA SOBRE LA EFICIENCIA Y LA EFECTIVIDAD DE LA PRESCRIPCIÓN DE ESTATINAS
+
+
+- INTRODUCCIÓN
+
+Las enfermedades cardiovasculares son la primera causa de morbimortalidad en España, con 118.327 muertes en 2011 y más de 600.000 altas hospitalarias. Como muestra la evidencia disponible, la disminución de LDL-colesterol sérico está relacionada con una reducción del riesgo cardiovascular (RCV). El tratamiento disponible más eficaz son las estatinas, . Aunque todas comparten el mismo mecanismo de acción, hay gran diversidad en la potencia y en su coste. En 2010, las estatinas supusieron el 6,38% del importe en recetas del Sistema Nacional de Salud.
+Aunque la eficacia de estos fármacos medida en ensayos clínicos es elevada, su efectividad evaluada en estudios observacionales no alcanza los niveles esperados. El estudio transversal DYSIS, llevado a cabo con 22.063 pacientes en el 2011 en Europa y Canadá, muestra que el 63,4% de los pacientes con estatinas no consiguen alcanzar los objetivos de LDL-colesterol. Asimismo, el estudio de cohortes REALITY, hecho en España con 617 pacientes, comprobó cómo solo un 26,3% de los pacientes alcanzaron los objetivos terapéuticos propuestos.
+Entre los factores relacionados con la insuficiente efectividad, además de la falta de adherencia al tratamiento, se ha descrito la inadecuación del fármaco y/o la dosis prescrita. El 80% de los pacientes tratados con estatinas que sufrían un reinfarto tenían pautada una estatina de potencia inferior a la necesaria.
+El presente estudio piloto tiene como objetivo conocer la eficiencia y la efectividad de las prescripciones de estatinas de pacientes de 2 centros del Área III del Servicio Murciano de Salud, así como las variables asociadas del paciente.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Se realizó un estudio transversal en una oficina de farmacia comunitaria en la ciudad de Lorca (Murcia).
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Se compuso de todos los pacientes asignados a 2 centros de salud de la ciudad de Lorca, que acudieron a la farmacia comunitaria incluida en el estudio durante febrero, marzo y abril del año 2011 con una prescripción de estatinas. Los pacientes debían llevar en tratamiento con la misma estatina un mínimo de 6 meses (para evitar la inclusión de pacientes en periodo de ajuste de dosis). Se recogió el consentimiento informado de los pacientes previamente a su participación en el estudio.
+
+
+-- RECOGIDA DE DATOS
+
+Las variables referentes a las características de los pacientes (edad, sexo, hábito tabáquico, diabetes, hipertensión y antecedentes de eventos cardiovasculares previos) fueron recogidas por un investigador entrenado al efecto, a partir de la revisión de historias clínicas del sistema de Oficina Medica Informatizada de Atención Primaria.
+Se definieron las siguientes variables:
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+La unidad de estudio es el paciente.
+Inicialmente, se realizó un análisis descriptivo de las características de los pacientes y estatinas del estudio y su relación con la efectividad y la eficiencia. Las variables categóricas se expresaron mediante porcentajes y las continuas mediante medias y desviaciones estándar (DE). Las diferencias entre proporciones se examinaron mediante el test de la chi al cuadrado de Pearson y la diferencia entre medias usando el test de la t de Student. Para evaluar las asociaciones independientes entre características de pacientes y médicos sobre la eficiencia y la adecuación de la prescripción se construyeron modelos de regresión logística, donde la categoría de referencia fue no eficiente o no adecuado según correspondiese. Se calcularon las odds ratio y sus respectivos intervalos de confianza (IC) del 95%. Se consideraron asociaciones significativas aquellas con valores de p < 0,05.
+Los análisis se llevaron a cabo en el programa IBM SPSS Statistics.v.21.
+
+
+- RESULTADOS
+
+De los 177 pacientes que acudieron a la farmacia, 141 (79,7%) procedían de los centros de salud participantes. Treinta y dos médicos de un total de 34 (94,1%) que trabajaban en los centros prescribieron las recetas. Con estos 141 pacientes, se determinó la eficiencia de la prescripción. De 31 (22%) pacientes no pudieron obtenerse los valores séricos de LDL-colesterol, por lo que 110 (78,0%) pacientes se incluyeron finalmente en los análisis de efectividad, como se muestra en el diagrama de flujo.
+Respecto a las estatinas, la más prescrita fue la atorvastatina (81/141 prescripciones, 57,4%), tanto de forma global como desglosada en función de las características del paciente . Se registraron 49 prescripciones de atorvastatina en 70 pacientes con edad superior a la media (70%); fumadores, 13/23 (56,5%); diabéticos, 29/44 (65,9%); hipertensos, 66/108 (61,1%) y pacientes con un evento cardiovascular previo, 31/38 (81,6%). Hubo diferencias significativas en el uso de una estatina u otra en función de si la edad del paciente estaba o no por encima de la media (p = 0,003), de si el paciente había tenido o no un evento cardiovascular previo (p = 0,001) o si el paciente era o no fumador (p = 0,022), si bien el tamaño muestral de nuestro estudio no permite hacer análisis estratificados por estatinas.Figura 1
+
+
+- DESCRIPCIÓN DE LA EFICIENCIA DE LA PRESCRIPCIÓN (<XREF RID="TBL0005" REF-TYPE="TABLE">TABLA 1</XREF
+
+La media ± DE de edad fue de 64,4 ± 12,5 años. Un 16,3% eran fumadores (23/137), un 31,2% diabéticos (44/136) y un 75,9% hipertensos (107/136). Un 27% de los pacientes (38/141) habían tenido un evento cardiovascular previo, encontrándose en prevención secundaria. Del total de 141 pacientes, 92 (63,9%) tuvieron una prescripción ineficiente con nuestro indicador, frente al 60% con el «indicador de estatinas de “no” elección». Los pacientes no fumadores tuvieron más probabilidad de recibir una estatina eficiente que los fumadores (42/114; 36,8% vs. 4/23; 17,4%, p = 0,047). Si el tratamiento se prescribía para prevención secundaria, el paciente tenía más probabilidad de recibir una estatina ineficiente que aquellos que recibían una prescripción para prevención primaria (8/38; 21% vs. 41/103; 39,8%, p = 0,040). En el análisis multivariante (resultados no mostrados en tabla), los pacientes no fumadores tenían casi 4 veces más probabilidad de recibir una prescripción eficiente que los fumadores (OR 3,76; IC del 95%, 1,03-0,77, p = 0,012), ajustado por tipo de prevención primaria o secundaria.
+
+
+-- DESCRIPCIÓN DE LA EFECTIVIDAD DE LA PRESCRIPCIÓN (<XREF RID="TBL0010" REF-TYPE="TABLE">TABLA 2</XREF
+
+La media ± DE de edad fue de 64,8 ± 12,7 años. Un 18,2% eran fumadores (20/110), un 32,1% diabéticos (35/109) y un 78% no hipertensos (85/109). Un 26,4% de los pacientes (29/110) habían tenido un evento cardiovascular previo, encontrándose en prevención secundaria. Se consideraron efectivas la mayoría de las prescripciones incluidas (91/110; 82,7%). Cuando el objetivo terapéutico era 70-100 mg/dl de LDL-colesterol (22/32; 68,8%), la prescripción tendía a ser menos efectiva que en los otros (31/35; 88,6% para 100-130 mg/dl y 38/43; 88,4% para 130-160 mg/dl) (p = 0,046).
+
+
+- DISCUSIÓN
+
+Los resultados del presente trabajo muestran que el 63,9% de las prescripciones eran ineficientes, siendo que el hábito tabáquico y haber tenido un evento cardiovascular previo aumentaban la probabilidad de tener una prescripción ineficiente. La mayoría de los participantes, un 82,7%, alcanzaban los objetivos de LDL-colesterol. Además, respecto al uso de estatinas, se observó que el 57,4% de las prescripciones correspondieron a atorvastatina y que hubo diferencias significativas en la elección de la estatina en función de la edad del paciente, los antecedentes de eventos cardiovasculares (prevención secundaria) y el hábito tabáquico.
+De acuerdo con otros estudios, la ineficiencia es similar a otras regiones del territorio nacional como Madrid, 61,1%, o Asturias, 57,3%. Siendo el gasto farmacéutico un aspecto clave en el presupuesto sanitario, es importante realizar investigaciones que ayuden a conocer los aspectos relacionados con una menor eficiencia. En el análisis bivariado encontramos que los pacientes fumadores y aquellos que han tenido un evento cardiovascular previo son tratados con especialidades más ineficientes. No obstante, en el análisis multivariante, únicamente el hábito tabáquico se relacionó con la eficiencia del tratamiento, siendo los pacientes fumadores lo que tenían más probabilidad de recibir una prescripción ineficiente. Hasta nuestro conocimiento, no existen estudios que hayan analizado la eficiencia de las prescripciones en función de las características del paciente. Una limitación del estudio es no haber considerado la posibilidad de que algunas prescripciones estuviesen condicionadas por interacciones medicamentosas o por contraindicación con alguna situación clínica, como la insuficiencia hepática o el trasplante renal. Se trata de circunstancias infrecuentes en pacientes usuarios de estatinas en Atención Primaria.
+El indicador de eficiencia diseñado tiene la ventaja de la inclusión en su definición de la potencia de la especialidad farmacéutica elegida. Los indicadores comúnmente utilizados no valoran este factor, lo que puede llevar a considerar como ineficiente una prescripción en la que no se puede reducir el coste sin comprometer la efectividad.
+En cuanto a la efectividad, el 82,7% de los tratamientos alcanzan los objetivos terapéuticos. Esta elevada efectividad difiere considerablemente de las publicadas en otros estudios que oscilan entre el 26,3% del Reality Study y el 36,6% del Dysis Study en España o el 41% del Eurika Study en Europa. Para poder comparar estos resultados, es necesario analizar los objetivos de LDL-colesterol planteados en cada estudio. El Eurika Study define niveles inferiores a 115 mg/dl de LDL-colesterol, tanto para pacientes con RCV medio como para RCV alto, y solo condiciona a menos de 100 mg/dl en el caso de pacientes diabéticos. En el tercer consenso de la guía ATP III, en la que basamos este estudio, los objetivos de LDL-colesterol son algo más laxos en RCV medio (< 130 mg/dl) pero más exigente en RCV alto (< 100 mg/dl). Además, en el Eurika Study se excluye a pacientes en prevención secundaria, que en nuestro estudio son los que menos alcanzan objetivos de LDL-colesterol. Respecto al Dysis-Spain Study, marca el objetivo de 100 mg/dl para el alto riesgo (prevención secundaria, diabetes y RCV alto), por lo que ese grupo sí es comparable y, en el 61,4%, no alcanzan objetivos de LDL-colesterol, mientras que en nuestro estudio no lo alcanza el 31,2%. El Reality Study marca los mismos objetivos (< 100 mg/dl y < 130 mg/dl) y no incluye pacientes con un único factor de riesgo. Los resultados de consecución de LDL-colesterol son del 20,2 y el 31,4%, respectivamente, por el 68,8 y el 88,6% en nuestro estudio. La alta efectividad encontrada podría estar influida por las características de la población del estudio. Los participantes, usuarios de una farmacia comunitaria, se recogieron en esa oficina cuando acudían a retirar sus prescripciones por lo que, probablemente, fuesen pacientes con alta adherencia al tratamiento.
+El pequeño tamaño muestral es una limitación del trabajo. Sin embargo, tanto la edad como la prevalencia de tabaquismo, diabetes, hipertensión y eventos cardiovasculares previos son muy similares a lo encontrado en otro estudio con 3.710 participantes sobre factores de riesgo en tratados con estatinas en toda España. Esto sugiere que los resultados del presente estudio, pese a su pequeño tamaño muestral, podrían ser un reflejo de lo que sucede con los pacientes con estatinas en nuestro entorno.
+
+
+- CONCLUSIONES
+
+Se alcanzaron mayoritariamente los objetivos de LDL-colesterol, aunque con un alto porcentaje de prescripciones ineficientes, sobre todo en fumadores. Todo esto conlleva un gasto económico evitable en el sistema sanitario.Lo conocido sobre el temaEn anteriores estudios se comprobó que el nivel de efectividad de las estatinas en ámbitos reales, es bajo.Se sabía que la eficiencia de las prescripciones de estatinas en primaria en diferentes zonas de España es, asimismo, escasa.Era sabido que las características del médico y de su ámbito laboral condicionan la eficiencia con que prescribe.Que aporta este estudioSe verifica el conocimiento previo respecto a eficiencia y se aportan nuevos métodos e indicadores para medir efectividad y eficiencia.Encontramos que las características del paciente también pueden condicionar la eficiencia de las prescripciones.Se observa que la recogida de muestra en oficina de farmacia puede servir para seleccionar poblaciones con buena adherencia al tratamiento y así medir el impacto de la adherencia en la efectividad.
+
+
+- FINANCIACIÓN
+
+El presente estudio no ha contado con ningún tipo de financiación pública ni privada.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

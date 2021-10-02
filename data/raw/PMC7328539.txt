@@ -1,0 +1,127 @@
+CÓMO REESTRUCTURAR UNA SECCIÓN DE MEDICINA FETAL EN TIEMPOS DE PANDEMIA COVID-19. MEDIDAS DE SEGURIDAD Y LIMPIEZA DE LOS EQUIPOS ECOGRÁFICOS
+
+
+- INTRODUCCIÓN
+
+Partiendo de la premisa de que toda gestante debe recibir una atención médica segura y basada en la evidencia científica y que la ecografía juega un papel fundamental en el control prenatal, tal y como se recoge en las guías clínicas de las diferentes sociedades científicas nacionales e internacionales, , , , , , , , , , los controles ecográficos antenatales deben mantenerse durante el periodo de crisis sanitaria, independientemente del estado de alerta COVID-19, .
+Por otro lado, los principios básicos en una situación de pandemia son:-Priorizar los recursos. Reestructurar nuestros centros hospitalarios, derivando recursos humanos y materiales hacia las necesidades generadas por la pandemia.-Reducir la transmisión entre la población general, manteniendo el confinamiento de la embarazada, del mismo modo que el de toda la población, con el fin de evitar el colapso sanitario.-Reducir el riesgo de la gestante evitando la exposición no estrictamente necesaria al sistema sanitario, dado que el personal sanitario es uno de los vectores de transmisión más común y que los centros sanitarios (atención primaria, centros de especialidades y, especialmente, hospitales) son el medio donde la enfermedad se puede contraer con mayor facilidad. Esta reducción de controles antenatales también va dirigida a salvaguardar la salud del profesional sanitario, cuyos efectivos pueden verse sensiblemente disminuidos en situación de pandemia.
+Teniendo en cuenta lo anteriormente expuesto, se pretende elaborar un documento que, lejos de ser una guía clínica, recoja unas recomendaciones de actuación ante la gestante en el contexto de la pandemia por SARS-CoV-2, si bien siempre deba adaptarse a los diferentes medios teniendo en cuenta la infraestructura del centro y sus recursos.
+
+
+- CÓMO PREVENIR EL CONTAGIO Y PROTEGER A LA PACIENTE OBSTÉTRICA
+
+-- ASPECTOS GENERALES
+
+La ecografía obstétrica en una prueba fundamental para la toma de decisiones clínicas durante el embarazo, con un impacto en el manejo del binomio madre-feto y en el resultado perinatal, por lo que se ha de garantizar su realización, . Con el fin de reducir las visitas presenciales al mínimo número posible, estas se intentarán organizar teniendo en cuenta los controles ecográficos establecidos, , , , , , , , , .
+Idealmente, deberá contactarse con la gestante vía telefónica 24-48 h antes de su cita presencial preguntándole por contacto estrecho y/o presencia de sintomatología sugestiva de COVID-19. Si la respuesta a alguna de las dos preguntas es afirmativa, se le indicará que no acuda a la consulta presencial y que su obstetra resolverá sus dudas vía telefónica. Si ambas son negativas, se le indicará que acuda pero que su acompañante no podrá pasar a la sala de exploración ecográfica. En el momento actual, aunque continuamente variable, en un medio en el que, como el nuestro, existe transmisión comunitaria, el antecedente de viaje a zona endémica aporta poca información adicional, , , , , , , , , .
+En caso de que los recursos no permitan esta medida, se realizará un cribado vía cuestionario que la embarazada completará a su llegada a la unidad y se procederá a la toma de la temperatura corporal. Si presentara sintomatología moderada/severa se remitirá al servicio de urgencias, . En caso de sintomatología leve y exploración ecográfica demorable, se procederá a nueva programación de la misma previa negativización de PCR para SARS-CoV-2. Se recomienda solicitarla al menos 14 días tras la desaparición de la sintomatología. Si la exploración ecográfica no fuera demorable se realizará, si es posible, en un espacio físico diferente y con un equipo ecográfico destinado a tal fin; de no ser así, la exploración ecográfica se realizará al final de la jornada laboral. En todo caso, se suministrará a la gestante una mascarilla quirúrgica y el facultativo, idealmente un profesional sénior, se proveerá de su correcto equipo de protección individual (EPI), , , .
+Respecto a la reorganización de las citas ecográficas, hay dos aspectos que deben tenerse en cuenta:
+Reestructuración de las citas ya programadas :
+Programación de nuevas citas ecográficas :
+
+
+-- CONTROLES ANTENATALES
+
+--- CONTROLES ANTENATALES EN MUJERES SIN INFECCIÓN NI SOSPECHA DE INFECCIÓN
+
+---- BOLD>MODIFICACIONES DEL CONTROL OBSTÉTRICO</BOLD
+
+El objetivo es minimizar el riesgo de contagio reduciendo lo máximo posible las visitas presenciales sin comprometer la seguridad asistencial. Se proponen las siguientes modificaciones, , , , , , , , :
+Serán visitas presenciales: •11-13,6 semanas: se realizará la ecografía de primer trimestre, se le informará del resultado del cribado combinado de cromosomopatías, de preeclampsia y de la analítica de primer trimestre. Se le ofrecerá, si procede, en el mismo acto médico, estudio de ADN libre circulante (ADN-lc) en sangre materna/técnica genética invasiva y/o profilaxis con AAS. Se le solicitará control ecográfico a las 20-22 semanas.•20-22 semanas: se realizará ecografía anatómica (se evitará citar entre las 18-20 semanas para reducir en la medida de lo posible la necesidad de nueva exploración por estudio anatómico incompleto; si IMC > 30 será preferible, por este mismo motivo, indicar esta exploración a las 21-22 semanas). Se solicitará analítica de segundo trimestre para realizar a las 26-28 semanas.•28 semanas: cribado de diabetes haciendo coincidir la fecha de la extracción con la administración de la vacuna de la tos ferina (dTPA) y de gammaglobulina anti-D en las pacientes RhD negativo que lo precisen.•34-36 semanas: control ecográfico de tercer trimestre; toma de exudado vagino-rectal para detección del estreptococo del grupo B; administración de vacunas si procediera.•41 semanas: realización de registro cardiotocográfico (RCTG). Programación de inducción para profilaxis de gestación de curso prolongado.
+Otras medidas orientadas a reducir las visitas presenciales incluyen, , , , , , , :
+
+
+---- BOLD>MODIFICACIÓN DEL CONTROL ECOGRÁFICO Y OTRAS PRUEBAS DE BIENESTAR FETAL</BOLD
+
+Las guías nacionales e internacionales establecidas en cada medio, , , , , , , , , , la disponibilidad de recursos humanos y las características de nuestra población gestante (presencia de comorbilidades) serán determinantes a la hora de establecer prioridades durante la pandemia. En este sentido, los controles ecográficos se pueden clasificar:
+Bajo riesgo , , , , , , •Cribado combinado 11-13,6 semanas. En el caso excepcional de no disponibilidad de citas en este rango de edad gestacional (recursos insuficientes por sobresaturación del sistema), se puede plantear retrasar la ecografía 2-3 semanas y, si esta es normal, ofrecer cribado mediante estudio de ADN-lc.•Cribado de segundo trimestre (18-22 semanas). Se programará la ecografía entre las semanas 20-22 (22 semanas si IMC > 30) con el fin de reducir en la medida de lo posible su repetición por estudio anatómico incompleto.•Control de tercer trimestre (34-36 semanas). Si hay sobresaturación del sistema sanitario, se puede plantear su anulación/no realización.
+Alto riesgo
+En gestantes de alto riesgo tanto por patología materna como fetal se deben mantener los controles ecográficos establecidos por la SEGO.
+Respecto al primer y segundo trimestre aplican los mismos criterios que en el bajo riesgo; en cuanto al tercero, los controles se reducirán a los mínimos necesarios.
+En este sentido se recomienda, , , , , , :
+Respecto al control del bienestar fetal mediante RCTG, se recomienda realizar únicamente en gestantes con un riesgo obstétrico que justifique la prueba.
+
+
+--- CONTROLES ANTENATALES EN MUJERES EN INVESTIGACIÓN, CASO PROBABLE O CASO CONFIRMADO
+
+---- BOLD>MODIFICACIONES DEL CONTROL OBSTÉTRICO</BOLD
+
+En toda gestante con sospecha, caso probable o confirmado de infección por SARS-CoV-2, se seguirán las siguientes recomendaciones generales, , :
+
+
+---- BOLD>MODIFICACIÓN DEL CONTROL ECOGRÁFICO Y OTRAS PRUEBAS DE BIENESTAR FETAL</BOLD
+
+Respecto a los controles ecográficos rutinarios, en función del grado de afectación materna, se proponen las siguientes modificaciones, (tabla 1 ):
+No hay evidencia sólida hasta la fecha de infección congénita por SARS-CoV-2 y, por el momento, no se ha descrito ningún caso de patología malformativa fetal en gestantes que han adquirido la COVID-19 durante el primer o segundo trimestre del embarazo. Dado que existe un riesgo teórico de que esto pudiera suceder, la ecografía del segundo trimestre es especialmente importante en pacientes positivas. Por otro lado, y debido a que en la infección por otros coronavirus está demostrada una asociación a CIR, se recomienda control de crecimiento, con valoración de líquido amniótico y estudio Doppler si procede, .
+En gestaciones de alto riesgo obstétrico, que además son casos en investigación, probable o confirmado, hay una serie de exploraciones ecográficas que no pueden ser demoradas. Estas incluyen, entre otras:•Ecocardiografía urgente.•Sospecha de patología malformativa.•CIR con alteración hemodinámica.•Complicaciones de la gestación MC.
+En estos casos, la exploración deberá realizarse por el facultativo que tenga mayor nivel de experiencia y siempre usando el EPI adecuado, , , , .
+Se realizará RCTG para valoración del bienestar fetal de acuerdo a las guías locales en cada medio.
+
+
+---- BOLD>PROCEDIMIENTOS INVASIVOS</BOLD
+
+Dado que se ha descrito riesgo de transmisión vertical asociado a los procedimientos invasivos en madres portadoras de HIV, hepatitis B, hepatitis C y otras infecciones, existe un riesgo potencial de que esto también pueda suceder con el SARS-CoV-2. Actualmente, si bien la mayoría de los estudios no encuentran transmisión vertical en gestantes COVID-19 en el tercer trimestre del embarazo, , progresivamente van apareciendo case reports que sugieren esta posibilidad, con aislamiento del virus por PCR en líquido amniótico y en exudado nasofaríngeo del recién nacido, así como detección de IgG e IgM específicas para SARS-CoV-2 en suero neonatal, , , , . No hay información disponible al respecto en infección por SARS-CoV-2 en primer y segundo trimestre de la gestación.
+Como norma general, e individualizando el caso, en aquellos casos de sospecha/caso probable o confirmado COVID-19 se preferirá la realización de una amniocentesis a la de una biopsia corial, . Además, teniendo en cuenta que idealmente se pospondrá la realización de la técnica 14 días tras la finalización de los síntomas o tras dos PCR negativas separadas por un intervalo de 24 h, habitualmente alcanzaremos la edad gestacional en que la amniocentesis es la técnica de elección. Se evitará, en la medida de lo posible, la punción transplacentaria. En la tabla 2 se exponen los diferentes procedimientos invasivos (diagnósticos y terapéuticos), con el beneficio que representa para el binomio madre-feto, el riesgo teórico de transmisión vertical, el riesgo para el profesional que realiza la técnica, la necesidad de cuidados intensivos maternos, los recursos necesarios y las recomendaciones de su realización en periodo de pandemia. Como norma general se valorará el beneficio fetal basado en la evidencia científica en contraposición a los potenciales riesgos para el feto, la madre y los profesionales sanitarios. Por otro lado, cada centro hospitalario deberá valorar si sus recursos le permiten mantener la misma cartera de servicios en cuanto a procedimientos de terapia fetal se refiere en periodo de pandemia.
+Respecto a la necesidad de realizar cribado para SARS-CoV-2 antes de la realización de un procedimiento invasivo, esto debe ser la norma siempre que requiera ingreso hospitalario. En el momento actual, en el que en nuestro medio la disponibilidad para la práctica de una PCR es mayor, es recomendable el cribado mediante PCR en exudado nasofaríngeo antes de la realización de cualquier técnica invasiva diagnóstica, tanto en beneficio de la madre, retrasando la técnica en caso de positividad y disminuyendo el hipotético riesgo de transmisión vertical, como del personal sanitario.
+
+
+- MEDIDAS DE SEGURIDAD DURANTE LA REALIZACIÓN DE LA EXPLORACIÓN ECOGRÁFICA
+
+La exploración ecográfica reúne una serie de características específicas que la hace especialmente de riesgo en la pandemia por COVID-19. Las medidas de distanciamiento médico-paciente no se pueden respetar, las exploraciones son largas, y las salas, habitualmente pequeñas y poco ventiladas. Además, puede requerirse que la paciente realice inhalaciones o exhalaciones profundas y/o apneas o que se tenga que realizar una ecografía transvaginal o un procedimiento invasivo con riesgo de exposición a fluidos corporales.
+
+
+-- MEDIDAS DE SEGURIDAD ORGANIZATIVAS
+
+Desde el punto de vista organizativo y con el fin de minimizar riesgos, se recomienda, :
+
+
+-- MEDIDAS DE SEGURIDAD DURANTE LA EXPLORACIÓN ECOGRÁFICA. EPI
+
+Durante la realización de la ecografía se tendrá en cuenta:
+
+
+- LIMPIEZA Y DESINFECCIÓN DE LOS EQUIPOS ECOGRÁFICOS
+
+Los coronavirus son virus encapsulados de envoltura lipídica que se desnaturalizan con facilidad con la mayoría de desinfectantes recomendados por los fabricantes de los equipos ecográficos y sus sondas, ya que son sensibles a los desinfectantes de bajo grado (fig. 1 ). Se sabe que pueden transmitirse directamente por gotas de Flügge o a través de fómites donde estas se depositan debido a su peso. Se desconoce con exactitud la vida media del SARS-CoV-2 en superficies como el metal, el cristal o el plástico, y aunque se ha descrito de hasta 9 días, la media se estima en 48-96 h, , , .Figura 1
+
+
+-- PREPARACIÓN, LIMPIEZA Y DESINFECCIÓN DE LA SALA DE EXPLORACIONES ECOGRÁFICA<XREF RID="BIB0370" REF-TYPE="BIBR">22</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">36</XREF
+
+•Se retirarán todos los accesorios que no sean necesarios.•El número de transductores conectados se reducirá al mínimo necesario, manteniendo una sonda cónvex transabdominal y una transvaginal. El resto se retirará y almacenará en otro lugar.•Se sustituirán, si es posible, sillas tapizadas por sillas de plástico/piel/polipiel, de más fácil limpieza.•La sala se limpiará en profundidad cada mañana con desinfectante de bajo grado, incluyendo monitor, teclado, bote de gel, contenedor de sondas, ratón, picaportes, interruptores, puertas, camilla, sillas, mesa de despacho, etc. Se incluirá la limpieza de sondas y cables.•La camilla y la ropa de la gestante se cubrirán con material desechable.•Inmediatamente después de cada paciente, siempre con guantes, se retirará el material desechable y se limpiará la camilla. También se limpiarán al finalizar cada exploración las sondas y los cables y las superficies que se tocan con mayor frecuencia.•Al final de la jornada laboral, si no se ha podido sustituir toda la lencería por material desechable, esta se meterá en una bolsa, sin sacudir previamente y siempre llevando guantes, que se cerrará y se introducirá en el contenedor destinado a tal fin.•La sala y el equipo se lavarán de manera exhaustiva, del mismo modo que antes de iniciar la jornada, y al finalizar, tras retirarse los guantes, se procederá a higiene de manos
+Para la desinfección de los enseres de la sala se pueden utilizar los siguientes desinfectantes de nivel bajo, todos ellos eficaces contra el SARS-CoV-2, , :•Hipoclorito sódico 0,1%.•Etanol 62-71%.•Peróxido de hidrógeno 0,5%.•Cloruro de benzalconio 0,05-0,2%.•Digluconato de clorhexidina 0,02%.
+Hay que respetar el tiempo de secado.
+
+
+-- LIMPIEZA Y DESINFECCIÓN DEL EQUIPO Y DE LOS TRANSDUCTORES
+
+Debido a que la información con respecto al SARS-CoV-2 es limitada, se recomienda el uso de desinfectantes de nivel alto para la limpieza de los equipos, siempre teniendo en cuenta las recomendaciones del fabricante. Hay que tener especial cuidado con la correcta desinfección de los transductores, dispositivos reutilizables en contacto directo con la paciente, con riesgo de transmisión paciente-paciente y medio-paciente, ya que a su vez son muy delicados.
+Atendiendo a la clasificación de Spaulding, que clasifica los dispositivos médicos reutilizables según el riesgo potencial de infección al que el paciente se expone, siendo especialmente útil para decidir el grado de desinfección requerido, estos pueden ser, :•No críticos o de riesgo bajo: en contacto con piel íntegra (sonda transabdominal). Se recomienda un nivel de desinfección bajo o intermedio, ya que todos ellos desnaturalizan al SARS-CoV-2.•Semicríticos o riesgo medio: en contacto con sangre, fluidos corporales, mucosas o piel no íntegra (sonda transvaginal).•Críticos o riesgo alto: cualquier transductor que se utilice para técnicas invasivas.
+Para los dispositivos de riesgo medio o alto se utilizarán desinfectantes de alto nivel que incluyan todos los microorganismos, además del SARS-CoV-2, y se protegerá el transductor con una funda. Estas medidas deberían ser la práctica clínica habitual.
+La correcta desinfección de los transductores comprende dos pasos:
+
+
+-- RESPONSABILIDADES ÉTICAS
+
+--- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+--- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+
+
+--- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores han obtenido el consentimiento informado de los pacientes y/o sujetos referidos en el artículo. Este documento obra en poder del autor de correspondencia.
+
+
+-- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+-- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

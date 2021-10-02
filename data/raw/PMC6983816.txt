@@ -1,0 +1,84 @@
+COMPARACIÓN DE LAS INTERVENCIONES DE EDUCACIÓN SANITARIA Y DE SEGUIMIENTO FARMACOTERAPÉUTICO ENPACIENTES CON FACTORES DE RIESGO CARDIOVASCULAR QUE ACUDEN A UNA FARMACIACOMUNITARIA (ESTUDIO FISFTES-PM
+
+
+- INTRODUCCIÓN
+
+Según datos del Instituto Nacional de Estadística, aunque las enfermedades cardiovasculares siguen siendo la principal causa de muerte en España, se ha mantenido su tendencia descendente año tras año en la última década, pasando de representar un 34,5% de las defunciones totales en España en 2001 a un 30,5% en 2011.
+La farmacia comunitaria puede realizar una colaboración importante en el manejo de los factores de riesgo cardiovascular (FRCV), tal como muestra el estudio EMDADER-CV-INCUMPLIMIENTO, en el que la mejora de la adherencia terapéutica conseguida con el seguimiento farmacoterapéutico (SFT) y la educación sanitaria logró mejoras en los niveles de presión arterial (PA) y colesterol total, el realizado por Rosinach Bonet y García-Jiménez en pacientes hipertensos, en el que el SFT consiguió el control del 70% de los pacientes, o el llevado a cabo por Repilado Grillo et al., en que los consejos higiénico-dietéticos del farmacéutico consiguieron una reducción estadísticamente significativa del valor del índice de masa corporal (IMC).
+El presente estudio pretende comparar la efectividad de 2 intervenciones, educación sanitaria sola o acompañada de SFT, desarrolladas en la farmacia comunitaria, en la mejora de los FRCV.
+
+
+- MATERIAL Y MÉTODO
+
+-- TIPO DE ESTUDIO
+
+Ensayo clínico aleatorizado.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+El estudio se llevó a cabo en la farmacia turística situada en la Playa de Miramar (Valencia), cuya población de referencia está formada por los vecinos de la Playa de Miramar y municipios anexos. El municipio de Miramar consta de 2.458 habitantes, de los cuales 808 viven en la playa donde se sitúa la farmacia.
+Se incluyó a pacientes entre 18 y 85 años que acudieron a la farmacia durante el periodo de estudio (marzo del 2010-mayo del 2011) con una receta a su nombre de al menos un medicamento cuya indicación principal fuera hipertensión arterial (HTA), dislipidemia, diabetes mellitus o enfermedad coronaria. También se incluyó a pacientes cuya consulta estuvo relacionada con la presencia de algún FRCV (petición de toma de PA, consejo para dejar de fumar, etc.).
+Los criterios de exclusión fueron: mujeres embarazadas, personas con alguna minusvalía psíquica, marcapasos, hipercolesterolemia familiar congénita, historia de infarto agudo de miocardio o infarto cerebro-vascular en el último año y tratamiento con acenocumarol.
+Los pacientes fueron asignados según una razón 1:1 a uno de los 2 grupos: educación sanitaria (GES) o seguimiento farmacoterapéutico (GSFT) según una tabla de números aleatorios basada en el sexo del paciente y el número de medicamentos usados.
+Se calculó que era necesario incluir a 86 pacientes por grupo para conseguir una potencia del 80% mediante una prueba de comparación de 2 muestras independientes, teniendo en cuenta un nivel de significación del 5%, y asumiendo una estimación de mejoría un 15% mayor para el GSFT que para el GES, y estableciendo el margen de no inferioridad en un 3,6%. Teniendo en cuenta un porcentaje esperado de abandonos del 14%, se reclutó finalmente a 100 sujetos por grupo, haciendo un total de 200 pacientes.
+En el esquema adjunto se presenta la metodología utilizada para la realización del estudio.
+
+
+-- VARIABLES DEL ESTUDIO
+
+La variable principal fueron los FRCV modificables (HTA, dislipidemia, diabetes, tabaquismo, obesidad, inactividad física).
+Como variables secundarias, se utilizaron los FRCV no modificables (edad, sexo, antecedentes personales de enfermedad cardiovascular [ECV]), el perímetro de la cintura, el índice perímetro abdominal/estatura (ICA), el índice cintura-cadera (ICC), el porcentaje de grasa corporal, el grado de cumplimiento, los problemas relacionados con los medicamentos (PRM) y los resultados negativos asociados a la medicación (RNM).
+Los antecedentes personales de ECV permitieron la clasificación de los pacientes en prevención primaria o secundaria.
+El colesterol total y triglicéridos se midieron a partir de una muestra de sangre capilar del dedo índice, con el equipo Accutrend Plus rapid control (mg/dl). Se consideró como objetivo terapéutico valores de colesterol total inferiores a 190 mg/dl. Valores de triglicéridos superiores a 150 mg/dl son marcadores de riesgo cardiovascular aumentado, .
+La medición de la PA se realizó con el tensiómetro de la farmacia modelo check electronic, según las recomendaciones de las guías internacionales. Se consideró como objetivo de PA cifras < 140/90 mmHg.
+La glucosa basal se determinó a partir de una muestra de sangre capilar del dedo índice utilizando el aparato Accucheck sensor (mg/dl). El objetivo terapéutico se fijó en 70-100 mg/dl, .
+El peso se midió con la báscula de la farmacia modelo Aquila 2. Se determinó el IMC, clasificando al sujeto en función del resultado: infrapeso (IMC < 18,50), normopeso (IMC = 18,50-24,99), sobrepeso (IMC ≥ 25) y obesidad (IMC ≥ 30), .
+En relación con el perímetro de la cintura, se establecieron los niveles de riesgo en valores superiores a 88 cm en mujeres y a 102 cm en varones.
+El ICA se determinó dividiendo la circunferencia de la cintura por la altura en cm. Valores iguales o superiores a 0,5 indican riesgo cardiovascular aumentado.
+El ICC relaciona el perímetro de la cintura con el de la cadera en cm. La Organización Mundial de la Salud considera normales valores de hasta 0,8 en mujeres y 1 en hombres.
+El porcentaje de grasa corporal se midió por impedancia bioeléctrica con el medidor OMRON BF360. Aunque el rango de normalidad se define según tablas establecidas por sexo y edad, en términos generales se define el exceso de grasa corporal por encima del 25% en hombres y del 33% en mujeres.
+Se consideró que una persona realizaba ejercicio físico de manera regular si al menos caminaba durante 30 minutos 3-5 días a la semana.
+Se clasificó a los pacientes en cumplidores e incumplidores mediante la utilización del test Brief Medication Questionnaire (BMQ) o Cuestionario breve de la medicación. Se trata de un test autorreferido y validado, que sondea al paciente sobre la toma de la medicación durante la semana previa, la eficacia, los efectos adversos y las dificultades en la toma de su medicación.
+Los PRM corresponden a situaciones en que el proceso de uso de medicamentos causa o pueden causar un RNM. Su categorización se realiza según el Foro de Atención Farmacéutica sobre PRM y RNM. Los RNM se obtienen tras la evaluación del estado de situación y se codifican en 6 categorías.
+En todos los pacientes fumadores se realizaron el test de Fagerstrom, que mide el grado de dependencia a la nicotina, y el de Richmond, que mide el grado de motivación para dejar de fumar. A todos los fumadores se les informó de los riesgos del tabaco y de las ventajas de dejar de fumar, y se les ofreció la posibilidad de seguir en la farmacia un plan de deshabituación tabáquica con visitas semanales apoyadas de ayuda psicológica y farmacológica en el caso de necesitarlo, así como la entrega de folletos con consejos de apoyo.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis bivariante con el Programa SPSS 18.0 para Windows, con el objetivo de llevar a cabo la descripción de las variables cualitativas, calculando frecuencias absolutas y relativas, y de las numéricas, calculando medias y desviaciones típicas para las que se distribuyeron normalmente y medianas y percentiles para las que no cumplían la normalidad.
+Las posibles diferencias dadas en el tiempo, y si estas eran debidas a la intervención, se estudiaron con modelos lineales generalizados de medidas repetidas, a partir del estadístico lambda de Wilks.
+La prueba de la chi al cuadrado de Pearson se utilizó para la comparación de proporciones y la prueba de la t de Student para comparar medias. Se asumió como valor estadísticamente significativo p < 0,05.
+
+
+-- COMITÉ ÉTICO
+
+El estudio fue aceptado por el comité ético de investigación clínica del Hospital Universitario La Fe de Valencia.
+
+
+- RESULTADOS
+
+De los 200 pacientes incluidos, 100 en cada grupo, se produjeron 19 abandonos: 12 en el GES y 7 en el GSFT, finalizando el estudio 181 pacientes. Aunque el número de abandonos fue superior en el GES, la diferencia no fue estadísticamente significativa (p = 0,34).
+Las Tabla 1, Tabla 2 muestran los FRCV nomodificables y modificables en la población de estudio. No se observaron diferencias estadísticamente significativas entre grupos en la edad (p = 0,478), sexo (p = 0,690) ni antecedentes personales de ECV (p = 0,742) (FRCV no modificables).
+Los valores de PA sistólica, frecuencia cardiaca, peso, IMC, glucosa basal, colesterol total, perímetro de la cintura e índice cintura-altura se redujeron en ambos grupos, pero esta reducción solo fue estadísticamente significativa en el GSFT . Así, el valor medio de PA sistólica disminuyó un 5,4% más en el GSFT, siendo esta disminución de 139,0 ± 2,2 mmHg a 133,0 ± 1,7 mmHg en el GES y de 144,0 ± 2,3 mmHg a 130,0 ± 1,2 mmHg en el GSFT. La frecuencia cardiaca disminuyó un 2,95% más en el GSFT, pasando de 72,0 ± 11,2 a 68,7 ± 7,5 en el GSFT y de 72,0 ± 11,8 a 70,8 ± 8,5 en el GES. El peso corporal disminuyó un 2,0% más en el GSFT, siendo esta disminución de 74,9 ± 12,3 a 73,5 ± 11,6 en el GES y de 76,0 ± 14,7 a 73,0 ± 13,0 en el GSFT. El IMC disminuyó un 2,2% más en el GSFT, consiguiendo pasar de 28,2 ± 3,8 a 27,7 ± 3,7 en el GES y de 28,4 ± 4,9 a 27,3 ± 4,1 en el GSFT. La glucosa basal disminuyó un 8,6% más en el GSFT, consiguiendo disminuir la media de 111,2 ± 37,0 a 104,2 ± 21,3 en el GES y de 119,2 ± 34,4 a 101,3 ± 15,9 en el GSFT. El colesterol total disminuyó un 6,4% más en el GSFT, siendo esta disminución de 212,4 ± 35,4 a 195,9 ± 26,6 en el GES y de 217,5 ± 39,5 a 186,6 ± 18,5 en el GSFT. El perímetro de la cintura se redujo un 1,8% más en el GSFT, pasando de un valor medio de 98,6 ± 14,6 a 97,6 ± 14,6 en el GES y de 98,4 ± 16,58 a 95,6 ± 15,5 en el GSFT. El índice cintura-altura se redujo un 1,7% más en el GSFT, pasando de un valor medio de 0,60 ± 0,87 a 0,59 ± 0,87 en el GES y de 0,60 ± 0,10 a 0,58 ± 0,97 en el GSFT.
+Los parámetros PA diastólica, triglicéridos, grasa corporal e ICC disminuyeron de forma estadísticamente significativa en el tiempo en ambos grupos, sin diferencias estadísticamente significativas entre ellos . Así el valor medio de PA diastólica disminuyó en el GES de 84,9 ± 9,1 mmHg a 78,3 ± 7,2 mmHg y en el GSFT de 77,3 ± 1,3 mmHg a 74,9 ± 5,3 mmHg; el de los triglicéridos disminuyó en el GES de 208,8 ± 137,8 a 132,2 ± 66,2 y en el GSFT de 214,7 ± 148,9 a 108,6 ± 28,6; el porcentaje de grasa corporal disminuyó en el GES de 38,6 ± 7,5 a 37,7 ± 8,2 y en el GSFT de 38,0 ± 7,2 a 36,5 ± 7,3, y el valor medio del ICC se redujo en el GES de 0,93 ± 0,12 a 0,92 ± 0,12 y en el GSFT de 0,91 ± 0,13 a 0,90 ± 0,13.
+En cuanto al grado de adherencia terapéutica, en el GES el 53,3% de pacientes incumplidores pasaron a cumplidores y en el GSFT el 84,4% (p = 0,74).
+El número de fumadores se redujo un 2,2% en el GSFT y un 1,1% en el GES, sin diferencias estadísticamente significativas en el número de fumadores ni al inicio ni al final del estudio. Sin embargo, el número de cigarrillos/día sí disminuyó de forma estadísticamente significativa, tanto en el GES como en el GSFT (p = 0,006). La media de cigarrillos utilizados diariamente por los pacientes fumadores disminuyó en el GES un 22,8%, pasando de una media de 14,7 ± 7,3 a 11,3 ± 7,8, y en el GSFT disminuyó un 38,3% pasando de 12,8 ± 7,2 a 7,9 ± 6,7.
+Al inicio del estudio, el 51,4% de pacientes realizaban ejercicio físico de forma habitual (56,8% en GES y 46,2% en GSFT), aumentando esta proporción al final del estudio en un 80,0% de pacientes (77,3% en GES y 82,6% en GSFT). El aumento de pacientes que no realizaban ejercicio de forma regular al inicio del estudio pero sí en la visita final fue estadísticamente significativo (p = 0,013).
+El número de PRM detectados en el GSFT disminuyó a lo largo del estudio de 2,5 ± 1,2 a 0,9 ± 0,8 (–65,2%) (p < 0,001) y el número de RNM disminuyó de 2,5 ± 1,2 a 0,9 ± 0,80 (–64,4%) (p < 0,001). El número de pacientes en los que no se detectó ningún PRM aumentó un 29,0% y el de aquellos en los que no se detectó ningún RNM aumentó un 27,0%. El PRM más frecuente fue problema de salud insuficientemente tratado y el RNM más frecuente problema de salud no tratado.
+
+
+- DISCUSIÓN
+
+Estudios realizados en farmacia comunitaria, como los realizados por Rodríguez-Chamorro et al., Rosinach Bonet et al., Sánchez-Benito et al., Amariles et al., Rodríguez-Chamorro et al., también evidencian cómo la intervención del farmacéutico en pacientes con FRCV tiene resultados positivos en su salud cardiovascular.
+Los estudios realizados por Amariles et al., Rodríguez Chamorro et al y Rosemir Pelá et al. coinciden con nuestro estudio en que tanto la educación sanitaria como el SFT mejoraron los FRCV estudiados (PA sistólica y PA diastólica, colesterol, glucosa basal), siendo esta disminución mayor en el GSFT.
+Se han encontrado estudios, , con resultados positivos llevados a cabo en farmacia comunitaria en pacientes con sobrepeso y obesidad basados en la educación sanitaria. Sin embargo, al compararlos con el presente estudio, se puede observar cómo con el SFT se consiguen mejores resultados, seguramente por la mayor implicación de los pacientes con este servicio.
+En otros estudios, , , controlados realizados en farmacia comunitaria también se muestra cómo la labor del farmacéutico contribuye a un aumento de la adherencia al tratamiento en pacientes con FRCV.
+Otros estudios realizados en farmacia comunitaria en pacientes fumadores como el realizado por Barbero González et al. o el realizado Gómez Martínez y Fernández Franco también muestran resultados positivos de la actuación del farmacéutico en la deshabituación tabáquica.
+Otros estudios, , , realizados en farmacia comunitaria son coincidentes en la eficacia del método Dáder de SFT en la resolución de PRM y RNM.
+Los resultados de este estudio muestran la eficacia de la actuación del farmacéutico comunitario en la mejora de los FRCV de los pacientes, a través del servicio de SFT y educación sanitaria. Así, la intervención del farmacéutico mejoró los valores de PA sistólica un 7,7%, la PA diastólica 5,4%, frecuencia cardiaca 3,2%, peso 2,9%, IMC 2,9%, porcentaje de grasa corporal 3,1%, glucosa basal 10,9%, colesterol total 11,1%, triglicéridos 43,3%, perímetro de cintura 1,9%, ICC 1,1% e índice cintura-altura 3,3%, siendo esta mejora estadísticamente superior en los pacientes del grupo SFT para los parámetros PA sistólica, frecuencia cardiaca, peso, IMC, glucosa basal, colesterol total, perímetro de cintura e índice cintura-altura.Lo conocido sobre el tema–Las enfermedades cardiovasculares son la principal causa de muerte en España y en el mundo y se prevé que sigan siéndolo en los próximos años.–La mayoría de las enfermedades cardiovasculares pueden prevenirse actuando sobre los factores de riesgo, como el consumo de tabaco, las dietas malsanas, la obesidad, la inactividad física, la hipertensión arterial, la diabetes o el aumento de los lípidos.Qué aporta este estudio–Desde la farmacia comunitaria puede haber una colaboración efectiva en la mejora de la salud cardiovascular de los pacientes, ya que pueden beneficiarse del servicio de seguimiento farmacoterapéutico y se puede llevar a cabo campañas de educación sanitaria.–El seguimiento farmacoterapéutico es más eficaz que la educación sanitaria en la mejora de los valores de presión arterial sistólica, frecuencia cardiaca, peso, índice de masa corporal, glucosa basal, colesterol total, perímetro de la cintura e índice cintura-altura.–En el caso de los triglicéridos, índice cintura-cadera, presión arterial diastólica, mejora del cumplimiento farmacoterapéutico y deshabituación tabáquica, mejoran en igual medida con el servicio de seguimiento farmacoterapéutico que con educación sanitaria.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

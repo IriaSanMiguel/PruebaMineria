@@ -1,0 +1,15 @@
+FUMADOR, EXFUMADOR Y COVID-19
+
+
+Estimado Director:
+En el último volumen de la revista Archivos de Bronconeumología, se publicó el artículo original titulado «COVID-19 y tabaquismo: revisión sistemática y metaanálisis de la evidencia», en el que se hace una serie de interrogantes relacionadas con la posible asociación entre el consumo de tabaco en pacientes con COVID-19 y la progresión negativa de la enfermedad. En la sistemática de recolección de datos, se tomaron en forma conjunta a los fumadores y exfumadores como una sola población y demostraron, como parte de su estudio, que el ser fumador o exfumador es un factor de riesgo para una peor progresión de la infección por COVID-19 (Odds Ratio [OR] = 1,96).
+Sin embargo, diversos estudios sugieren que estos grupos de pacientes tendrían características diferentes. En un trabajo a nivel molecular a partir de cepillados bronquiales realizado por Leung et al. se demostró que los fumadores tenían un mayor nivel de expresión de receptores de enzima convertidora de angiotensina II (ACE2) que los exfumadores (p < 0,00192), esta enzima es usada como receptor de entrada por el SARS-CoV-2.
+Del mismo modo, según Liu et al., la expresión de ACE2 se incrementó significativamente en las células epiteliales bronquiales tanto en fumadores actuales como en exfumadores en comparación con quienes no lo son; pero, la expresión de ACE2 se redujo significativamente en las células epiteliales bronquiales humanas de exfumadores a diferencia de los fumadores actuales, en particular aquellos que habían dejado ese hábito durante más de 10 años (p = 0,024).
+A nivel clínico, Alqahtani et al. demostraron que las personas con enfermedad pulmonar obstructiva crónica (EPOC), tabaco-dependientes e infectadas con el SARS-CoV-2, tienen peor pronóstico con respecto a los exfumadores [RR = 1,45, intervalo de confianza (IC) 95%: 1,03 a 2,04].
+Farsalinos et al. en su estudio obtuvieron una tendencia protectora frente a la adversidad del COVID-19 en pacientes hospitalizados, al ser no fumadores [OR: 1,53, IC 95%: 1,06 a 2,20, p = 0,022]. Además de ello, observaron un resultado controversial al comparar la población de fumadores actuales con los exfumadores (OR: 0,42, IC 95%: 0,27 a 0,74, p = 0,003), sugiriendo que el pronóstico de la enfermedad es mejor al ser fumador.
+Finalmente, con base en la evidencia científica mostrada, se sugiere evaluar a la población de fumadores y exfumadores como grupos independientes, ya que los estudios sugieren que son tipos diferentes, tanto biológicamente como clínicamente.
+
+
+- CONFLICTOS DE INTERÉS
+
+Los autores declaran que no hay conflicto de interés.

@@ -1,0 +1,134 @@
+DOS TERAPIAS CONOCIDAS PODRÍAN SER EFECTIVAS COMO ADYUVANTES EN EL PACIENTE CRÍTICO INFECTADO POR COVID-19
+
+
+- INTRODUCCIÓN
+
+Los coronavirus son virus ARN encapsulados rodeados de glicoproteínas muy características en forma de espiga, que forman una especie de corona, de ahí su nombre. Contienen los genomas de cadenas ARN de sentido positivo de una sola hebra más grandes que se conocen en la actualidad. Una vez que se logra la entrada celular, el virión arroja su envoltura para comenzar su replicación en el citoplasma de la célula huésped. Se une a los ribosomas celulares y la polimerasa viral liberada comienza el ciclo de replicación del ARN. Las nucleocápsides recién formadas continúan su ensamblaje con la adquisición de nuevas envolturas mediante la gemación a través de las membranas del retículo endoplásmico de la célula. Luego, los viriones se liberan en la circulación sanguínea y linfática general, listos para infectar nuevas células, otros órganos y nuevos huéspedes. El síndrome progresa a enfermedad grave con dificultad respiratoria y desaturación de oxígeno que requiere soporte ventilatorio en más de un tercio de los pacientes, aproximadamente 8 días después del inicio de los síntomas. Se ha observado que la mortalidad varía según los grupos de transmisión, y va del 3 al 20%. Esto sugiere que la etiología del SARS depende de una población heterogénea de cuasiespecies virales con grados variables de virulencia.
+
+
+- CARACTERÍSTICAS DE LAS LESIONES INFLAMATORIAS SISTÉMICAS GRAVES
+
+-- CURSO CLÍNICO
+
+Los síntomas iniciales suelen ser fiebre, generalmente alta, escalofríos, cefalea, mialgias y tos seca, pudiendo evolucionar a sensación de falta de aire, apareciendo disnea y dificultad respiratoria. El deterioro respiratorio es rápido requiriendo en muchos pacientes intubación en las primeras 48 h del inicio de la sintomatología respiratoria.
+
+
+-- LABORATORIO
+
+En la etapa temprana de la enfermedad los glóbulos blancos en sangre periférica son normales o están disminuidos, con un recuento linfocitario reducido. Algunos pacientes pueden tener una función hepática anormal y los niveles de lactato deshidrogenasa (LDH), creatina cinasa (CK) y mioglobina (Mb) aumentados. La mayoría de los pacientes tendrán niveles altos de proteína C reactiva (PCR) y de velocidad de sedimentación globular (VSG) pero con niveles normales de procalcitonina. En casos severos los niveles de dímero D estarán elevados y otros indicadores de coagulación pueden verse afectados. Los niveles elevados de citocinas inflamatorias, como IL-2, IL-6, TNFα, pueden ocurrir durante la etapa de progresión de la enfermedad y la ferritina, una proteína almacenadora de hierro, se incrementa reflejando la respuesta inflamatoria causada.
+
+
+-- RADIOLOGÍA
+
+El examen temprano de TAC suele mostrar múltiples áreas parcheadas pequeñas o un patrón de vidrio esmerilado. Unos días más tarde las lesiones aumentan y muestran lesiones más extensas, con un patrón de vidrio esmerilado más establecido y/o lesiones infiltrantes, algunas de las cuales muestran consolidación establecida; los derrames pleurales son poco frecuentes. El típico «pulmón blanco» del SDRA es raro.
+
+
+-- TRATAMIENTO
+
+Se ha utilizado un esquema terapéutico múltiple, pero aún no ha sido exitoso. Las diferentes combinaciones, como el sulfato de hidroxicloroquina o el fosfato de cloroquina con azitromicina, parecen mostrar cierta efectividad en el tratamiento. Se está administrando interferón (se prefiere el interferón κ) y se están probando distintos cócteles de antivirales, aunque la eficacia aún no ha podido ser probada en ensayos clínicos. Por lo tanto, la terapia principal está siendo de soporte, porque lamentablemente a día de hoy no se ha encontrado un tratamiento curativo.
+Dos posibles terapias adyuvantes, la vitamina C intravenosa y la ozonoterapia, podrían tener un papel importante en el esquema terapéutico en estos pacientes.
+
+
+- VITAMINA C INTRAVENOSA
+
+-- INTRODUCCIÓN
+
+La vitamina C (ácido ascórbico o ascorbato) es una vitamina hidrosoluble, cofactor esencial en numerosas reacciones enzimáticas que median una variedad de funciones biológicas esenciales. Se considera un poderoso antioxidante con propiedades antimicrobianas y antiinflamatorias. Linus Pauling, bioquímico galardonado con el premio Nobel, afirmó que la vitamina C tiene efectos beneficiosos sobre la salud cardiovascular, mejora la función inmune del cuerpo para superar las infecciones e incluso ayuda al tratamiento contra el cáncer.
+La gravedad de la infección por SARS-CoV-2 la estamos encontrando en el deterioro pulmonar. Aunque aún está por dilucidar el porqué de este deterioro tan rápido, su curso clínico tiene similitudes con el síndrome de activación macrofágico, una forma secundaria del síndrome linfohistiocitario hemofagocítico con hipersecreción de citocinas proinflamatorias que dañan los pulmones, de ahí, que la administración intravenosa de vitamina C pueda ser efectiva dada su potente actividad antiinflamatoria.
+
+
+-- FARMACOCINÉTICA
+
+La vitamina C ejerce la mayoría de sus funciones biológicas intracelularmente y es adquirida por las células con la participación de transportadores de membrana específicos. La absorción, distribución y retención de la vitamina C se rigen principalmente por la familia de los transportadores saturables dependientes de sodio (SVCT). La expresión diversa y la dependencia de la concentración de estos transportadores en el organismo han derivado en una farmacocinética altamente compleja, compartimental y no lineal de la vitamina C a niveles fisiológicos. Sin embargo, la farmacocinética de la vitamina C parece cambiar de cero a primer orden, mostrando una vida media constante e independiente de la dosis cuando se administra en infusión intravenosa. Después de una dosis, la vitamina C circula en el plasma, se filtra libremente por el glomérulo renal y se reabsorbe en el túbulo proximal a través del primer transportador de vitamina C dependiente de sodio (SVCT1). Si bien el SVCT1 regula la homeostasis de la vitamina C en todo el cuerpo, un transportador de vitamina C dependiente de sodio de alta afinidad y baja capacidad (SVCT2) protege a las células metabólicamente activas contra el estrés oxidativo, facilitando la acumulación de vitamina C donde se necesita. Por otro lado, el ácido deshidroascórbico (la forma oxidada de la vitamina C) se transporta a través de la familia de transportadores de glucosa (GLUT), donde se reduce para evitar la descomposición irreversible. En situaciones como la sepsis hay una disminución de la absorción en las células por una mayor liberación de citocinas.
+
+
+-- EFECTOS BIOLÓGICOS
+
+La vitamina C es un dador de electrones y, por lo tanto, un agente reductor, de ahí su acción antioxidante. Todas las acciones fisiológicas y bioquímicas conocidas de la vitamina C se deben a su acción como donante de electrones. La vitamina C tiene efectos inmunoestimulantes, propiedades antioxidantes, antiinflamatorias, antivirales y posibles efectos antimutagénicos, . Se ha demostrado que la vitamina C mejora la quimiotaxis de neutrófilos, la fagocitosis y, por lo tanto, el aclaramiento microbiano, . Además, promueve la proliferación de células T y células natural killer que modulan sus funciones. La vitamina C también es necesaria para la síntesis de catecolaminas (formación de adrenalina a partir de la dopamina por la enzima dopamina beta-hidroxilasa), y para la esteroidogénesis suprarrenal; la vitamina C mejora la síntesis de noradrenalina al reciclar tetrahidrobiopterina, un cofactor crítico en la síntesis de catecolaminas, al aumentar la expresión de tirosina hidroxilasa. Además, también es un cofactor para la peptidil-glicina monooxigenasa alfa-amidante que se requiere para la síntesis endógena de vasopresina. Un estudio en pacientes quirúrgicos cardíacos ha sugerido que la administración de vitamina C en el preoperatorio mitiga la supresión suprarrenal inducida por el anestésico etomidato. Por lo tanto, ha habido recientemente un interés significativo en el uso de vitamina C para el tratamiento de pacientes hemodinámicamente inestables porque la síntesis dependiente de vitamina C de los vasopresores norepinefrina y vasopresina puede jugar un papel importante en el soporte a la función cardiovascular durante infecciones graves y shock séptico. Nabzdyk y Bittner, en un artículo reciente, han revisado el uso de vitamina C en el manejo de cuidados críticos y sus efectos biológicos.
+
+
+-- EXPERIENCIA EN CRÍTICOS
+
+--- QUEMADURAS
+
+Tradicionalmente, la vitamina C se ha utilizado en el paciente quemado. El aumento de la fuga capilar es una característica clínica de las lesiones por quemaduras, lo que se asocia con una importante extravasación de líquidos y proteínas, y la generación de radicales libres, los cuales han surgido como mediadores importantes a nivel celular debido a las lesiones causadas por quemaduras.
+La infusión continua de vitamina C parece ser un complemento útil para minimizar los efectos de la lesión por radicales libres y reducir los requisitos de reanimación con líquidos en los pacientes con quemaduras, . Altas dosis de vitamina C parecen mejorar la disfunción de la barrera microvascular, sin afectar a la activación de los leucocitos. En un estudio con perros que sufrieron lesiones por quemaduras, la administración de vitamina C (14 mg/kg/h) disminuyó la peroxidación lipídica, la fuga de proteínas y la necesidad de fluidos i.v.. Un estudio aleatorizado y doble ciego en ovejas demostró una reducción significativa en el equilibrio neto de líquidos y la peroxidación de lípidos plasmáticos entre las ovejas que sufrieron una quemadura mayor al 40% del área de superficie corporal total que fueron reanimadas con fluidoterapia junto con altas dosis de ácido ascórbico. Los estudios en pacientes también han sido prometedores. En un estudio aleatorizado y prospectivo en pacientes con más del 30% de superficie quemada se demostró que la administración de vitamina C (1,584 mg/kg/día) fue bien tolerada y redujo los requerimientos de fluidos i.v. junto con una mejora general en la función pulmonar, lo que derivó en una reducción significativa en los días de ventilación mecánica.
+
+
+--- SEPSIS
+
+Recientemente ha habido un aumento en el interés con el uso de vitamina C como tratamiento adyuvante para la sepsis. Esto se debió a los resultados del estudio de Marik et al., en el que administraron un cóctel de vitamina C (1,5 g i.v. cada 6 h), hidrocortisona (50 mg i.v. cada 6 h) y tiamina (200 mg i.v. cada 12 h) a 47 pacientes con sepsis ingresados en la UCI. Los pacientes tratados con este régimen tuvieron una reducción absoluta de la mortalidad mayor al 30% a pesar de las comorbilidades y el riesgo de mortalidad establecido pre-tratamiento. Actualmente hay varios ensayos clínicos controlados aleatorizados en curso, incluidos los ensayos VICTAS, ACTS e HYVCTTSSS, cuyo objetivo es confirmar los efectos beneficiosos de la vitamina C y otros suplementos en pacientes críticos con sepsis, , .
+
+
+--- NEUMONÍA Y SDRA
+
+El síndrome de dificultad respiratoria aguda (SDRA) suele ir acompañado de inflamación descontrolada, lesión oxidativa y daño a la barrera alveolocapilar. Existen lamentablemente muy pocos estudios en pacientes críticamente enfermos con SDRA que hayan empleado vitamina C i.v. como terapia adyuvante.
+En estudios con animales se ha demostrado que la vitamina C aumenta la resistencia a la infección causada por el coronavirus y también modifica la susceptibilidad a la infección. Nathens et al. administraron 1 g de ácido ascórbico cada 8 h combinado con vitamina E oral durante 28 días en 594 pacientes quirúrgicamente críticos y encontraron una incidencia significativamente menor de lesión pulmonar aguda y fallo multiorgánico. En un estudio clínico descrito por Sawyer et al. se emplearon grandes dosis i.v. de ácido ascórbico y otros antioxidantes (tocoferol, N-acetilcisteína y selenio) en pacientes con SDRA establecido y se mostró una reducción de la mortalidad del 50%. Bharara et al. administraron 50 mg/kg cada 6 h durante 96 h para tratar un SDRA recurrente con buen resultado y sin ningún efecto secundario. Fowler et al. describieron el caso de una mujer de 20 años con SDRA viral (rinovirus y enterovirus D68) que recibió vitamina C i.v. con éxito. En otro estudio en que se administró vitamina C i.v. a pacientes con neumonía grave, los tratados con vitamina C tuvieron una mortalidad hospitalaria significativamente menor. Investigaciones clínicas realizadas en la Virginia Commonwealth University han revelado que los altos niveles plasmáticos de vitamina C actúan de forma «pleiotrópica» para atenuar la inflamación sistémica y corregir las anomalías de la coagulación inducidas por la sepsis, al tiempo que atenúan la lesión vascular (ensayo clínico CITRIS-ALI; identificador NCT02106975). Estos pacientes críticos a menudo tienen una concentración reducida de antioxidantes. Por lo tanto, se puede esperar un efecto positivo de la vitamina C.
+Fisiológicamente, el «COVID-19 SDRA» es diferente al típico SDRA; el agua pulmonar extravascular (EVLWI) es normal o solo se aumenta marginalmente; por tanto, por definición esto no es un distress típico. Además, la distensibilidad pulmonar es bastante buena, aunque hay hipoxia severa debido a shunt intrapulmonar. Esto sugiere una enfermedad microvascular y/o macrovascular y de ahí la elevación marcada del dímero D, o alguna otra explicación alternativa aún no dilucidada. Además, la embolia pulmonar parece ser común en estos pacientes y en series de autopsias se han encontrado con frecuencia microtrombos en la circulación pulmonar.
+La vitamina C i.v. ya se está empleando en China contra el COVID-19. En Zhongnan Hospital de la Wuhan University se ha registrado un ensayo clínico en fase 2 para verificar su eficacia (identificador: NCT04264533): en dicho estudio los pacientes están recibiendo 24 g de vitamina C i.v. al día durante 7 días. Por otro lado, el grupo de expertos en el tratamiento clínico de la enfermedad por COVID-19 de Shanghái ha recomendado incluir altas dosis diarias de vitamina C en pacientes críticos afectados por SARS-CoV-2, debido a que su uso continuo parece lograr además una mejora significativa en el índice de oxigenación. Algunos hospitales ya han incorporado al esquema de tratamiento de azitromicina e hidroxicloroquina la vitamina C i.v. junto con zinc oral (220 mg), incluso en pacientes con afectación no grave. La UCI de North Shore University Hospital, en Nueva York, está también administrando vitamina C en dosis de 3 g cada 6 h y Marik 12 g al día.
+
+
+-- PROTOCOLO DE ADMINISTRACIÓN
+
+Para tratar la neumonía y la hiperinflamación causada por COVID-19, la vitamina C se debe administrar en dosis altas. Varios protocolos han salido a la luz estos días con dosis y frecuencia de administración distintas. La controversia del efecto pro-oxidante de la vitamina C a dosis altas no ha podido demostrarse «in vivo», ni se conoce a qué dosis se produce. La tormenta de citocinas genera especies reactivas de oxígeno que pueden tratarse eficazmente con dosis de 30-60 g de vitamina C. Al mismo tiempo, el nivel relativamente alto de vitamina C puede promover una quimiotaxis mejorada de glóbulos blancos (neutrófilos, macrófagos, linfocitos, células B, células NK).
+En la tabla 1 se recoge el protocolo de administración que hemos diseñado. Dicho protocolo es flexible y debe adaptarse a la condición clínica del paciente y a las terapias coadyuvantes que esté recibiendo. Por ejemplo, la administración de ozono obligará a variar las dosis y frecuencia de administración ya que sus acciones pueden ser antagónicas, dejando un intervalo libre de 3 horas desde y hasta su aplicación.
+La ferritina es un buen marcador de respuesta a la terapia y de pronóstico; sin embargo, la vitamina C puede aumentar sus niveles y dificultar su interpretación, por lo que si no disponemos de IL-6 necesitaremos basarnos en otros parámetros para el ajuste de dosis.
+
+
+-- CONCLUSIÓN
+
+La vitamina C puede ser una terapia efectiva en el tratamiento del SARS-CoV-2 debido a su capacidad antioxidante, sus propiedades antivirales, la mejora del sistema inmunológico y sus propiedades antiinflamatorias. Además, la vitamina C también puede ayudar a eliminar el líquido alveolar acumulado en el distress al prevenir la activación y la acumulación de neutrófilos al reducir el daño causado a nivel del epitelio alveolar. Su administración es segura por infusión i.v. a dosis máximas de 100 g, siempre que se tomen las precauciones descritas.
+
+
+- OZONOTERAPIA
+
+-- INTRODUCCIÓN
+
+Pese a que hay suficiente evidencia científica sobre el uso clínico del ozono, la ozonoterapia aún no ha sido completamente aceptada. No podemos olvidar que el ozono es un gas compuesto por tres átomos de oxígeno (O3). Los generadores de ozono lo producen a partir de oxígeno puro al pasar a través de un gradiente de alto voltaje (4-13 KV) de acuerdo con la reacción:
+3O2 + 68.400 cal → 2O3.
+En consecuencia, siempre se recolecta una mezcla de gases que comprende no menos del 95% de oxígeno y no más del 5% de ozono, por ejemplo, una concentración de 50 μg representa un 97,5% de oxígeno y un 2,5% de ozono. Un generador de ozono médico produce concentraciones de ozono de 1 a 100 μg/ml, pero para fines médicos se utilizan concentraciones de 15 a 70 μg/ml. La ozonoterapia se caracteriza por la simplicidad de su aplicación, su gran efectividad, su buena tolerancia y la ausencia virtual de efectos secundarios.
+Rusia, Cuba y Turquía lo han reconocido en su legislación. En España hay regulaciones específicas en algunas comunidades autónomas, que también existen en otros países como Italia.
+La efectividad del ozono contra los patógenos es bien reconocida: el ozono parece ser el mejor agente existente para la esterilización del agua. Debido a sus propiedades biológicas, la ozonoterapia puede desempeñar un posible papel en la terapia del COVID-19 como complemento de los regímenes de tratamiento estándar.
+
+
+-- FARMACOCINÉTICA
+
+El ozono es un gas, y se disuelve físicamente en agua pura de acuerdo con la ley de Henry en relación con la temperatura, la presión y la concentración de ozono. A diferencia del oxígeno, el ozono reacciona de inmediato tan pronto se disuelve en cualquier fluido biológico. En el organismo tiene una vida media de milisegundos debido a su alta afinidad por los dobles enlaces covalentes, preferentemente carbono-carbono localizados en los ácidos grasos poliinsaturados que viajan en las moléculas de albúmina de modo que crea metabolitos de vida media más prolongada llamados ozónidos —especies reactivas de oxígeno y productos de oxidación de lípidos, incluidos los peróxidos, hidroperóxidos y aldehidos—. Estas moléculas actúan como mensajeros de los efectos bioquímicos e inmunomoduladores, clave de la terapia con ozono. El ozono reacciona rápidamente con las biomoléculas que poseen este doble enlace y causa una rápida reacción de oxidación, con la consiguiente formación de moléculas secundarias, que son las causantes de su acción terapéutica. La eficacia terapéutica de la ozonoterapia se debe pues al estrés oxidativo controlado y moderado producido por las reacciones que genera con varios componentes biológicos.
+
+
+-- EFECTOS BIOLÓGICOS
+
+Los virus pueden ser susceptibles al ozono, aunque dicha susceptibilidad es variable. Se ha encontrado que los virus encapsulados con cubierta lipídica son los más sensibles, y el coronavirus es uno de ellos.
+El coronavirus en su envoltura es rico en cisteína, y sus residuos deben estar intactos para su actividad viral. La cisteína contiene un grupo tiol o sulfhidrilo (-SH); muchos virus, entre ellos el coronavirus, requieren de estos grupos sulfhidrilo reducidos para la fusión y entrada celular. Los grupos sulfhidrilo son vulnerables a la oxidación, y por tanto susceptibles al ozono dado su poder oxidante. Los peróxidos creados por la administración de ozono oxidan cisteínas, y muestran efectos antivirales a largo plazo que pueden servir para reducir aún más la carga viral. Eliminada su cápside, los viriones no pueden sostenerse ni replicarse. La creación de virus disfuncionantes debido al ozono ofrece posibilidades terapéuticas únicas.
+Además, el ozono tiene una función de inmunomodulación sobre el sistema inmune a través de la activación por segundos mensajeros de diversos factores de transcripción en el citoplasma, en concreto: 1) el factor de hipoxia inducible tipo 1 alfa (FHI-alfa), 2) el factor nuclear Kappa B (NF-κB), 3) el factor de transcripción Nrf2. Dichos factores pondrán en marcha a través de la liberación de proteínas todos los mecanismos beneficiosos que se le atribuyen al ozono. Unos se activan o modulan antes que otros y por eso la ozonoterapia es un tratamiento dosis acumulativo.
+Debemos resaltar la mejora de la oxigenación tisular que produce el ozono, ya que eleva la oxihemoglobina al aumentar el 2-3 DPG, y a su vez se estimula la glucólisis. Esto supondrá un aumento de la tasa energética, en forma de ATP, que a nivel del eritrocito le permitirá mantener y mejorar la cesión de oxígeno a los tejidos más hipóxicos. En el paciente afectado por COVID-19 suele haber hipoxia, de modo que este efecto oxigenante será muy beneficioso. Se ha sugerido que, en los leucocitos, puede mejorar la actividad fagocítica de los neutrófilos, dentro de los monocitos y linfocitos, el peróxido de hidrógeno es reconocido como un compuesto señalizador intracelular, capaz de activar una tirosín quinasa que fosforila al NF-κB con la consecuente síntesis de diferentes proteínas, . El NF-κB juega un papel clave en la regulación de la respuesta inmune debida a la infección y en la respuesta inflamatoria, . De gran importancia también es la capacidad del ozono para inducir la liberación y modulación de interferones y de algunas citocinas que disminuyen la inflamación (IL-4, IL-6, IL-10, TNFβ).
+
+
+-- AUTOHEMOTERAPIA MAYOR
+
+La autohemoterapia mayor (AHTM) consiste en la extracción de sangre procedente del sistema venoso, normalmente entre 50 y 225 ml, la cual es mezclada con un volumen de oxígeno-ozono a concentraciones de 15 a 70 μg/ml para luego reinfundirla al organismo por una vía i.v. para que cause sus efectos.
+Las formas de expresar la concentración y la dosis en la ozonoterapia se muestran a continuación:•Concentración de ozono: μg/mL.•Dosis: concentración de ozono por volumen de gas (μg/mL × mL = μg de ozono).
+La dosis total, por tanto, se calcula simplemente multiplicando la concentración de ozono por el volumen de gas. Como ejemplo, si ozonamos un volumen de sangre de 150 ml con 150 ml de gas (ratio 1:1) con una concentración de ozono de 30 μg/ml, la dosis total es equivalente será de 4,5 mg de ozono.
+Las concentraciones de ozono para usos sistémicos van desde 10 a 70 μg/ml. Concentraciones superiores a 80 μg/ml deben evitarse dado el riesgo de hemólisis, disminución del 2,3 DPG y una consecuente incapacidad de activación de las células inmunocompetentes.
+Los efectos secundarios que pueden observarse son mínimos; la World Federation of Ozone therapy (WFOT) estima la incidencia de complicaciones en un 0,0007%. Dados sus efectos beneficiosos, en ocasiones puede requerirse el ajuste de medicación adyuvante, por ejemplo, medicación antidiabética o antihipertensiva a dosis más bajas.
+Existen múltiples artículos sobre la ozonoterapia y su efectividad contra virus, pero no es nuestro objetivo hacer una revisión completa de la literatura. Cespedes et al. trataron a enfermos con hepatitis B crónica durante un año con AHTM, y los pacientes mostraron negativización del antígeno de superficie, positividad de anticuerpos contra el antígeno de superficie, disminución significativa de la carga viral a valores indetectables y valores normales de las transaminasas, que demostraron la recuperación funcional de la enfermedad asociada con una respuesta inmunológica favorable. También trataron a pacientes con VIH-sida durante 2 años y obtuvieron una disminución significativa de la carga viral a valores indetectables y un aumento de CD4 y CD8. Robert Jay et al. trataron a 5 pacientes infectados de Ébola con ozono obteniendo una curación en todos ellos tras 10 días de tratamiento. Al igual que el COVID-19, el virus del Ébola también induce una tormenta de citocinas, que el ozono es capaz de contrarrestar por su acción inmunomoduladora.
+
+
+-- EXPERIENCIA EN CRÍTICOS
+
+Desgraciadamente, pese a los efectos beneficiosos demostrados, su aplicación en las unidades de críticos es muy escasa. En los casos en que se administró AHTM se mejoró la oxigenación en órganos vitales y en áreas isquémicas, además de apoyar las funciones respiratorias, cardíacas y renales. Si las condiciones metabólicas del paciente no se deterioran excesivamente en 3-4 días de tratamientos con AHTM, el aumento de la síntesis de enzimas antioxidantes y la inducción de hemooxigenasa-1 pueden reducir el estrés oxidativo causado simultáneamente por la infección, la inflamación, la necrosis tisular y el dismetabolismo. Bocci y Brito informaron de un paciente que en el período postoperatorio de una disección aórtica desarrolló SDRA y fue tratado con ECMO, observando mejoría tras la administración de AHTM durante 3 días, comenzando el tratamiento con una dosis de 40 μg/ml, con concentraciones sucesivas de 25 μg/ml en los días sucesivos. En Italia, se ha empezado a realizar AHTM en pacientes con COVID-19. Los estudios aún no han sido publicados, pero se han reportado beneficios muy destacables. En nuestro centro también hemos iniciado AHTM; la muestra es aún pequeña, pero los resultados clínicos y analíticos con tan solo 2 sesiones de tratamiento están siendo espectaculares.
+
+
+-- PROTOCOLO DE ADMINISTRACIÓN
+
+El protocolo descrito aquí (tabla 2 ) es flexible, ya que depende de la condición clínica del paciente y de su evolución. Los pacientes a los que les hemos administrado ozonoterapia han mejorado tanto clínica como analíticamente desde la primera sesión de tratamiento. La terapia con ozono es segura y su frecuencia de aplicación puede aumentarse según necesidad.
+
+
+-- CONCLUSIÓN
+
+El ozono tiene propiedades biológicas que le convierten en una terapia ideal en los pacientes son SARS-COV-2. Su capacidad antiinflamatoria e inmunomoduladora contrarrestando la suelta de citocinas y su acción para estimular la liberación de óxido nítrico, vasodilatador con acción antiagregante plaquetarío en la microcirculación hacen del ozono una terapia ideal para estos pacientes. El ozono además tiene un potencial efecto viricida al actuar sobre las proteinas de la capside vírica inutilizando al virus.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

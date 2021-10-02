@@ -1,0 +1,57 @@
+RECOMENDACIONES ÉTICAS PARA LA TOMA DE DECISIONES DIFÍCILES EN LAS UNIDADES DE CUIDADOS INTENSIVOS ANTE LA SITUACIÓN EXCEPCIONAL DE CRISIS POR LA PANDEMIA POR COVID-19: REVISIÓN RÁPIDA Y CONSENSO DE EXPERTOS
+
+
+- INTRODUCCIÓN
+
+La actual pandemia provocada por el coronavirus SARS-CoV-2, causante de la enfermedad COVID-19, representa un desafío sin precedentes para todo el sistema sanitario, y más especialmente para las unidades de cuidados intensivos (UCI), dado que en los casos más severos puede complicarse con síndrome de dificultad respiratoria aguda (SDRA), sepsis/shock séptico y fallo multiorgánico, incluyendo daño renal agudo y daño cardíaco.
+Efectivamente, mientras que la mayoría de las personas con COVID-19 desarrollan una enfermedad leve o no complicada, los datos iniciales de China reportan que aproximadamente el 14% desarrollan una enfermedad grave que requiere hospitalización y el 5% requieren ingreso en una unidad de cuidados intensivos (UCI). En Lombardía, donde la capacidad total de las UCI previa a la crisis era de aproximadamente 720 camas (2,9% del total de camas de hospital en un total de 74 hospitales, con una ocupación del 85 al 90% durante los meses de invierno), a las dos semanas del inicio del brote se han visto desbordados, dado que los pacientes ingresados por COVID-19 en las UCI eran ya 556 (equivalente al 12% del total de casos positivos y el 16% de todos los pacientes hospitalizados).
+La experiencia en otros países, así como la realidad que ya se está viviendo en algunos de nuestros hospitales, hace evidente el desequilibrio entre el volumen de personas con necesidad de asistencia ventilatoria invasiva y la disponibilidad efectiva de medios. Según datos recientemente publicados por la Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias (SEMICYUC), el número de camas de UCI en España se estima en aproximadamente 3.600, equivalente a una ratio de 7,7 camas por 100.000 habitantes (por las 29,2/100.000 habitantes de Alemania y las 4,2/100.000 habitantes de Portugal, para poner dos ejemplos próximos). A día de hoy (22/03/2020), el número de pacientes (incidencia acumulada) con COVID-19 que ha requerido de UCI en España es ya de 1.785.
+La encrucijada entre este previsible incremento de necesidades de atención intensiva y la limitación de recursos es muy probable que nos conduzca a una situación de «medicina de catástrofe», donde se generarán decisiones éticas especialmente difíciles en la asignación de recursos y priorización de personas. Esta realidad puede condicionar, a corto y a medio plazo, un impacto significativo tanto para los pacientes y sus familias como para los profesionales asistenciales que a veces puede resultar tanto o más catastrófico que la propia enfermedad.
+Ante la necesidad de un marco para la toma de decisiones éticas difíciles que esté basado en criterios sólidos, principios éticos fundamentales y la prestación equitativa y justa de servicios, desde el grupo de ética de la SEMICYUC se ha promovido un consenso con el objetivo de guiar y dar apoyo a los profesionales en esta situación tan compleja.
+
+
+- METODOLOGÍA
+
+Dada la imperiosidad de la situación actual, se ha planteado una metodología ágil y con vocación resolutiva en 3 etapas:1.Síntesis rápida de la bibliografía publicada sobre ética en la toma de decisiones en situaciones excepcionales de crisis relacionadas con antecedentes pandémicos.2.Elaboración de un documento de consenso no sistemático online entre los profesionales del grupo de ética SEMICYUC y profesionales expertos del ámbito de la bioética, la geriatría y los cuidados paliativos.3.Consenso de un documento marco de recomendaciones generales con sociedades científicas e institutos/cátedras de ética, así como otras organizaciones.
+
+
+- RESULTADOS
+
+-- SÍNTESIS RÁPIDA DE LA LITERATURA
+
+Tras realizar una búsqueda narrativa se han encontrado 9 artículos especialmente relevantes sobre ética en la toma de decisiones ante situaciones excepcionales de crisis relacionadas con pandemias, , , , , , , , . Tres han sido los artículos que en este contexto revisan aspectos específicos de la atención paliativa, , .
+
+
+-- ELABORACIÓN DEL DOCUMENTO
+
+A partir de la evidencia, y en base al trabajo realizado online por parte de los autores del presente artículo, se consensuó un primer documento: «Recomendaciones éticas para la toma de decisiones en la situación excepcional de crisis por pandemia COVID-19 en las unidades de cuidados intensivos». Este escrito tiene una doble finalidad: 1) apoyar a los profesionales en la toma de decisiones difíciles, facilitando criterios colegiados que permitan compartir la responsabilidad en las decisiones en situaciones que implican una gran carga emocional, y 2) explicitar unos criterios de idoneidad de asignación de recursos en una situación de excepcionalidad y escasez.
+
+
+--- RECOMENDACIONES GENERALES
+
+Se desarrollan, en primer lugar, una serie de recomendaciones generales que globalmente se pueden agrupar en tres grandes categorías:A.Recomendaciones relacionadas con la organización, la disponibilidad de recursos y las alternativas. En este ámbito destaca: 1) la necesidad de un plan de contingencia territorial donde prime el criterio de solidaridad entre centros; 2) la optimización de los recursos: personales, estructurales y materiales; 3) el consenso de unos criterios técnicos y éticos comunes, proponiendo la creación de comités de expertos territoriales, y 4) la planificación de las alternativas, especialmente las destinadas a las personas tributarias de tratamiento paliativo.B.Recomendaciones relacionadas con las características y la situación global de la persona. Partiendo de la necesidad de realizar una valoración integral, 1) que incorpore una valoración multidimensional —con el fin de valorar su situación global o «edad biológica»— y de sus valores y preferencias, incluyendo la posibilidad de que disponga de un documento de voluntades anticipadas (DVA) o un plan de cuidados anticipados (PCA); 2) que permita una mejor asignación del ingreso a la UCI, proponiendo adoptar el modelo de 4 categorías de priorización (fig. 1 ), y 3) que tenga en cuenta la necesidad de adecuación dinámica de la asistencia, garantizando una atención paliativa de calidad en caso de mala evolución.Figura 1C.Recomendaciones relacionadas propiamente con la ética de las decisiones, destacando: 1) la necesidad de aplicar criterios éticos propios de las situaciones de crisis, abogando por una estrategia de asignación que maximice la supervivencia al alta hospitalaria, así como el número de años de vida salvados, considerando que la edad cronológica (en años) no debería ser el único elemento a considerar en las estrategias de asignación; 2) la importancia de que el triaje se base en los principios de justicia distributiva —priorizando el mejor «coste/oportunidad»— y de proporcionalidad —no ingresando a personas en las que se prevé un beneficio mínimo (p.ej., en aquellas con un pronóstico de vida limitado relacionado con una enfermedad avanzada)—, y 3) la recomendación de realizar el proceso de toma de decisiones de forma compartida entre el equipo —y, siempre que sea posible, con el paciente y la familia— mediante una comunicación respetuosa, transparente y en un contexto de confianza.
+Más allá de estos tres grupos, la literatura hace especial énfasis en la necesidad de planificar acciones para dar soporte a los familiares y a los profesionales, dado el impacto emocional/distrés moral de las decisiones éticas y la incertidumbre.
+
+
+--- RECOMENDACIONES ESPECÍFICAS
+
+A.Partiendo del compromiso de dar asistencia sanitaria a todo paciente afectado de insuficiencia respiratoria aguda (IRA), se propone priorizar la asignación de ingreso según criterios objetivos de idoneidad y expectativas de resolución del proceso con buena calidad de vida y funcionalidad. Desde esta perspectiva, y en un contexto de crisis y falta de recursos, se plantea que solo sean candidatos a ingresar en la UCI y/o cuidados intermedios/semicríticos los pacientes con prioridad 1 y 2 .B.En relación con la ventilación a los pacientes con IRA, se propone una adecuación de la intervención a las características de la persona (tabla 1 ), entendiendo por comorbilidad la presencia de varios procesos de enfermedad diferentes a la actual y medibles por la escala de gravedad de Charlson: ausencia comorbilidad, 0-1 punto; comorbilidad alta, > 3 puntos.
+
+
+-- CONSENSO DEL DOCUMENTO MARCO CON SOCIEDADES CIENTÍFICAS E INSTITUTOS/CÁTEDRAS DE ÉTICA
+
+A partir de las recomendaciones generales del documento del grupo de ética de la SEMICYUC, se impulsó un trabajo de consenso que culminó en el documento marco «Recomendaciones generales relacionadas con las decisiones éticas difíciles y la adecuación de la intensidad asistencial/ingreso en las unidades de cuidados intensivos en situaciones excepcionales de crisis», que se puede visualizar en la figura 2 .Figura 2
+Participaron en este marco de consenso 21 sociedades científicas, 6 institutos/cátedras de bioética/cuidados paliativos y otras 5 entidades (tabla 2 ).
+
+
+- DISCUSIÓN
+
+Hasta donde conocen los autores, esta es la primera publicación en la literatura científica de un consenso —por otro lado extraordinariamente amplio— de recomendaciones éticas para la toma de decisiones difíciles en la UCI en situaciones de crisis por pandemia. Si bien pueden existir algunas limitaciones derivadas de la premura con que se ha tenido que llevar a cabo, la metodología utilizada en tres etapas ha generado una propuesta ordenada y rigurosa.
+En primer lugar, se ha constatado una cierta carencia de referencias bibliográficas específicas sobre ética en crisis epidemiológicas. A pesar de ello, es destacable que la mayor parte de las publicaciones hacen énfasis tanto en la necesidad de dotar de premisas éticas todo el proceso de asignación de recursos como en la necesidad de ofrecer alternativas de calidad para la paliación de los síntomas en caso de mala evolución.
+Por otro lado, también resulta llamativa la necesidad de aplicar el principio de justicia de forma uniforme a todas las personas, y no de forma selectiva a las personas de perfil geriátrico o con problemas crónicos de salud. Así pues, aunque existe consenso en que hay que intentar maximizar tanto el número de personas beneficiadas como la supervivencia libre de discapacidad al alta hospitalaria y el número de años de vida salvados, la mayor parte de artículos invitan a desvincular la decisión de asignación en base a la edad cronológica de la persona como única estrategia, abriendo la puerta a la necesidad de valorar otras variables, como el grado de fragilidad, equivalente a la «edad biológica» de la persona, .
+Finalmente, más allá de desarrollar estrategias proactivas escalonadas basadas en las estimaciones epidemiológicas, el conocimiento clínico y la optimización de los recursos, el proceso de planificación de una crisis de salud pública requiere una reflexión sobre los valores, como la responsabilidad, la inclusividad, la transparencia, la sensibilidad o la razonabilidad. Los marcos éticos como el descrito permiten orientar a los profesionales asistenciales y a las autoridades en el difícil proceso de toma de decisiones, hecho que puede ayudar finalmente a reducir los daños colaterales.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,99 @@
+ANÁLISIS DEL EFECTO A LARGO PLAZO DE UN PROGRAMA DE ESTIMULACIÓN COGNITIVA EN MAYORES CON DETERIORO COGNITIVO LEVE EN ATENCIÓN PRIMARIA: ENSAYO CONTROLADO ALEATORIZADO
+
+
+- INTRODUCCIÓN
+
+La proporción de adultos mayores está creciendo rápidamente; por ello cada vez es más importante intervenir en el deterioro cognitivo leve (DCL). El DCL es un síndrome definido como un declive cognitivo mayor que el esperado para la edad y nivel educacional, pero que no interfiere notablemente con las actividades de la vida diaria (AVD). La atención primaria (AP) ocupa un lugar fundamental en la detección y diagnóstico temprano del deterioro cognitivo de los mayores. Los médicos de familia son comúnmente el primer contacto y en ocasiones el único que mantienen los pacientes con DCL.
+El DCL es motivo frecuente de consulta en AP, con una prevalencia estimada del 15-20% en mayores de 60 años. La tasa anual de progresión del DCL a demencia se sitúa entre el 8 y 15%. El aumento en la prevalencia de deterioro cognitivo, en parte ligado al envejecimiento progresivo de la población, ha fomentado la búsqueda de intervenciones preventivas no farmacológicas que constituyen un enfoque terapéutico emergente y ofrecen la posibilidad de prevenir o retrasar el deterioro cognitivo y la discapacidad funcional que denota la transición a demencia.
+Clare y Woods describen tres tipos de intervenciones cognitivas: 1) Entrenamiento cognitivo, que implica tareas estándar guiadas para desarrollar la función cognitiva. 2) Rehabilitación cognitiva, que tiene un enfoque individualizado para tratar deficiencias cognitivas. 3) Estimulación cognitiva, que incluye la participación principalmente grupal en actividades cognitivas diseñadas para mejorar y mantener la actividad social y cognitiva. Se dispone de un número limitado de programas de estimulación cognitiva (PEC) para el DCL, siendo el más sistematizado y posiblemente utilizado en España el de la Unidad de Memoria del Ayuntamiento de Madrid; por ello se hace necesario la creación y validación de programas protocolizados y sistematizados para este colectivo.
+Estos tres tipos se basan en intervenciones unimodales; es decir, centran su intervención en un solo dominio. Las intervenciones multicomponentes son más complejas y centran su intervención en varios dominios.
+Hemos identificado diferentes estudios nacionales, , , , e internacionales, , , , , que aplican PEC en DCL; solamente 4 son ensayos controlados aleatorizados (ECA), , , ; uno combina en sus resultados DCL y demencia leve-moderada y ninguno realiza seguimiento a largo plazo.
+Nuestro objetivo es valorar la eficacia de la intervención basada en la estimulación cognitiva con el paso del tiempo a nivel cognitivo, en fluidez verbal, AVD y estado de ánimo en los participantes que completan el estudio.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Seguimiento de una intervención implementada con el paso del tiempo a través de un PEC en participantes ≥ 65 años con DCL que residen en la comunidad y completan nuestro estudio a los 48 meses de la intervención.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+En un artículo previo hemos puesto de manifiesto la eficacia del ECA a corto y medio plazo que ha seguido las normas del grupo CONSORT. La población de estudio han sido personas atendidas en consultas de AP en el Centro de Salud San José Norte-Centro de Zaragoza (España) y que aceptaron participar. Para realizar este seguimiento se seleccionó solamente a los 29 participantes que finalizaron el estudio y completaron las 4 valoraciones realizadas después de la intervención (postintervención, 6, 12 y 48 meses), 15 en el grupo intervención y 14 en el grupo control. El flujo de participantes y los abandonos en las distintas fases del estudio quedan recogidos en la figura 1.Figura 1
+El tamaño de la muestra se calculó de tal manera que se pudiera detectar un aumento de 2,0 puntos en el Mini-Examen Cognoscitivo de Lobo (MEC-35) con un nivel de confianza del 95% y una potencia estadística del 80%; suponiendo una desviación estándar de 2,5 puntos y una tasa de abandono del 30%, el tamaño muestral por grupo sería de 14 personas.
+Los criterios de inclusión del ECA fueron: ≥ 65 años y 24-27 puntos en el MEC-35. El punto de corte óptimo en MEC-35 para establecer la presencia de deterioro cognitivo en población mayor de 65 años es de 24 puntos con un nivel educativo bajo y 27 puntos con un nivel medio-alto. Los criterios de exclusión fueron: institucionalización, recibir estimulación cognitiva el último año, < 60 puntos en el índice de Barthel (IB), padecer sordera, ceguera, trastornos neuropsiquiátricos y/o dificultades motoras.
+
+
+-- INSTRUMENTOS
+
+Como variable principal se ha utilizado el MEC-35, versión española del Mini-Mental State Examination de Folstein (MMSE). Como variables secundarias: para fluidez verbal, Set-test; para actividades básicas de la vida diaria (ABVD), IB; para actividades instrumentales de la vida diaria (AIVD), escala de Lawton y Brody (L-B); para estado de ánimo la subescala de ansiedad de Goldberg y la escala de depresión geriátrica de Yesavage, versión de 15 puntos (GDS-15).
+El MEC-35 es el test cognitivo más utilizado en AP para detección del deterioro cognitivo. El cuestionario de 35 puntos evalúa las siguientes áreas cognitivas: orientación temporoespacial, memoria inmediata y a largo plazo, atención, cálculo, lenguaje, razonamiento abstracto y praxis. Tiene una sensibilidad del 89,8% y una especificidad del 83,9%.
+El Set-test evalúa la fluidez verbal en 4 categorías: colores, animales, frutas y ciudades. La puntuación es de 0-40 puntos. Se ha propuesto como ayuda diagnóstica en pacientes con demencia de edad avanzada, con un punto de corte ≥ 27 puntos. Presenta una sensibilidad del 79% y una especificidad del 82%.
+El IB evalúa la independencia en 10 ABVD. La puntuación máxima es de 100 puntos, puntuaciones ≥ 60 denotan dependencia leve. Su sensibilidad oscila entre el 76 y 99,8% y su especificidad entre el 46 y 97%.
+L-B evalúa la autonomía en 8 AIVD necesarias para vivir independientemente. El puntaje oscila entre 0 (dependiente) y 8 (independiente) puntos. Su sensibilidad es del 57% y su especificidad del 82%.
+El cuestionario Goldberg consta de 2 subescalas, una de ansiedad y otra de depresión, con 9 ítems de respuesta dicotómica (sí/no). Se otorga un puntaje independiente para cada escala, con un punto por respuesta afirmativa. El punto de corte ≥ 4 para la subescala de ansiedad presenta una especificidad del 91% y una sensibilidad del 86%.
+El GDS-15 evalúa el nivel de depresión y es adecuado para mayores de la comunidad. Para un punto de corte ≥ 5 puntos la sensibilidad es del 81,1% y la especificidad del 76,7%.
+
+
+-- SEGUIMIENTO
+
+Ocho terapeutas ocupacionales cegados realizaron las 4 valoraciones, 2 diferentes para cada valoración. Otros 2 terapeutas realizaron la intervención y otros 2 las encuestas telefónicas. Todos ellos fueron entrenados. En la primera valoración, se administraron todos los cuestionarios y una entrevista estructurada en la que se obtuvieron datos de las variables sociodemográficas y clínicas autorreferidas por los participantes. En las siguientes valoraciones solamente se aplicaron los cuestionarios. Después de realizar la última valoración se administró una encuesta telefónica para valorar el grado de satisfacción de los participantes.
+Las valoraciones se realizaron en el Centro de Salud y la realizada a los 48 meses también en el Centro de Día de la Fundación La Caridad. La valoración postintervención fue en noviembre de 2012 (inmediatamente después de la intervención); a los 6 meses, en mayo de 2013; a los 12 meses, en noviembre de 2013, y a los 48 meses, en noviembre de 2016.
+La intervención se realizó en el Centro de Día de septiembre a noviembre de 2012, descrita en Gómez el al., a través del cuaderno rojo de activación mental, área de tratamiento cognitivo (MEC-35: 24-27 puntos); fue similar a la de Calatayud et al. en mayores sanos. Se realizaron 10 sesiones grupales de 45 min/semana, con un total de 10 sesiones.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los análisis se realizaron con el paquete estadístico IMB SPSS Statistic v22 y se consideraron los contrastes significativos con una p < 0,05. Para describir las variables cualitativas se utilizó la distribución de frecuencias y para las variables cuantitativas, la media y desviación típica. Para la comparación de las diferencias entre los diferentes instantes analizados en el estudio se utilizó el test t de Student para muestras independientes y, cuando se encontraron diferencias estadísticamente significativas, el tamaño del efecto se calculó utilizando la d de Cohen, proporcionando una estimación puntual. Finalmente se realizó un modelo MANOVA (ANOVA multivariante para medidas repetidas) para controlar el efecto de las variables edad, sexo y nivel de estudios en el incremento de la puntuación en MEC-35 para las diferencias en la puntuación MEC-35, donde se tomó como variable dependiente la diferencia en cada uno de los instantes con respecto al basal y como independientes el grupo de tratamiento, ajustando los resultados por sexo, edad y estudios completados para ver la evolución de los 29 participantes (15 del grupo intervención y 14 del grupo control) en las 4 valoraciones realizadas después de la intervención.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+El proyecto fue aprobado por el Comité Ético de Estudios Clínicos de Aragón (CEICA) en la Ley N.o 18/2011, con el número de registro del estudio PI11/00091 y registrado en ClinicalTrials.gov NCT03831061. Se informó a todos los participantes de los objetivos del estudio y se firmó el consentimiento informado. Este estudio siguió la Declaración de Helsinki de la Asociación Médica Mundial - Principios éticos para la investigación médica en humanos 2013.
+
+
+- RESULTADOS
+
+Las características sociodemográficas y clínicas autorreferidas se resumen en la tabla 1. La edad de los participantes fue similar en ambos grupos, rango de 65-82 años (73,9 ± 5,34 en el grupo intervención y 71,5 ± 4,8 en el grupo control), con mayor proporción de mujeres (71,4% en el grupo intervención y 86,7% en el grupo control). Los valores basales de las variables de resultado cognitivo, fluidez verbal, AVD y estado de ánimo se resumen en la tabla 2. No se observaron diferencias estadísticamente significativas entre grupos para ninguna de las variables incluidas en las Tabla 1, Tabla 2. Los datos registrados en la encuesta telefónica sobre la satisfacción de los participantes se detallan en la tabla 3.
+Para evaluar el efecto de la intervención se calcularon los incrementos sobre el nivel basal de las variables de resultado y sus diferencias entre el grupo control y el grupo intervención en postintervención, a los 6, 12 y 48 meses de la intervención. Estos valores se presentan en la tabla 4.
+Para la variable cognitiva MEC-35, ambos grupos denotan cierto deterioro cognitivo al comienzo del estudio, 26 puntos. Durante el seguimiento, el grupo intervención aumenta su puntuación a 30 puntos y el grupo control a 27/28 puntos. Se encuentran diferencias estadísticamente significativas a favor del grupo intervención en MEC-35 postintervención (3,14 puntos, p = 0,0005) con una d de Cohen = 1,47 a los 6 meses (3,76 puntos, p = 0,017), d = 0,93 a los 12 meses (2,97 puntos, p = 0,027), d = 0,83 a los 48 meses. Los tamaños del efecto observados son: muy grande para la primera valoración y grande para las otras 2 (6 y 12 meses).
+Utilizando el modelo MANOVA la diferencia en la puntuación de MEC-35 se relacionó con el grupo intervención, postintervención (T = 2,13 puntos, p = 0,006) y a los 6 meses (T = 2,84 puntos, p = 0,043) con respecto al basal.
+Analizando por separado los 8 componentes de MEC-35, observamos diferencias estadísticamente significativas en los incrementos a favor del grupo de intervención en orientación espacial: postintervención (0,99 puntos, p = 0,002), 6 meses (0,76 puntos, p = 0,051), 12 meses (0,84 puntos, p = 0,015) y 48 meses (0,99 puntos, p = 0,050). Estos datos pueden verse en la tabla 5.
+Para la variable de fluidez verbal Set-test, las referidas a las AVD, IB y L-B, las variaciones sobre el nivel basal son pequeñas. Con relación a las variables que miden el estado de ánimo, Goldberg y GDS-15, ambos grupos presentan valores con rangos dentro de la normalidad. En ningún caso se observan diferencias estadísticamente significativas.
+
+
+- DISCUSIÓN
+
+Este seguimiento ha estudiado el efecto a nivel cognitivo, en fluidez verbal, AVD y estado de ánimo, en mayores con DCL que han realizado una intervención a través de un PEC con material propio y completan la valoración a los 48 meses, finalizando el estudio.
+Nuestros resultados indican que la intervención podría mejorar el rendimiento cognitivo de los participantes a corto, medio y largo plazo en MEC-35. Sin embargo, hay que considerar que no se puede atribuir esas mejoras exclusivamente a la intervención, dado que no se observa significación clínica en fluidez verbal, ABVD y AIVD. Además, diversos investigadores han descrito el importante papel del nivel educativo sobre el desempeño de varias pruebas cognitivas, , . También es posible que una mayor duración de la intervención hubiera llevado a una mayor visibilidad en los efectos cognitivos, como indican otros estudios.
+Otros estudios que aplican PEC evidencian estas diferencias con MEC-35, a corto, , medio y medio-largo plazo y su versión internacional, MMSE, a corto, , y largo plazo con otra intervención unimodal y con tamaños del efecto similares a corto, medio y medio-largo plazo, .
+Analizando las áreas cognitivas de MEC-35, observamos incrementos estadísticamente significativos a corto, medio, largo y muy largo plazo en orientación espacial. El aumento de la puntuación en MEC-35 podría ser atribuible a mejoras en el aprendizaje, que podrían observarse en aspectos como la orientación espacial. Otros estudios también refieren estos beneficios en diferentes áreas cognitivas a corto, , medio, y largo plazo con programas unimodales.
+Respecto a la fluidez verbal, medida con Set-test, no encontramos diferencias estadísticamente significativas en ninguna valoración. Esto también sucede en estudios de intervenciones unimodales medidas con otros instrumentos a corto, , , y a medio plazo.
+No observamos diferencias estadísticamente significativas en las ABVD, con el IB; otros PEC con este instrumento tampoco las refieren a medio plazo; ni con otros instrumentos aplicando otras intervenciones cognitivas unimodales a corto, medio-largo y largo plazo. Tampoco las observamos en las AIVD, con L-B. Otros PEC con este instrumento tampoco las refieren a corto, y medio plazo; ni con otra intervención cognitiva unimodal a corto plazo.
+En cuanto al estado de ánimo, no se encontraron diferencias significativas en la subescala de ansiedad de Goldberg ni en GDS-15. A través de otros PEC tampoco las encontraron con Goldberg a corto, , y medio plazo; con GDS-15 a corto, , y medio plazo; ni con otros instrumentos con otra intervención cognitiva unimodal a corto y largo plazo.
+Nuestro PEC ha producido mejoras a nivel cognitivo. No hemos detectado cambios en los instrumentos que evalúan fluidez verbal, AVD y estado de ánimo. En fluidez verbal y estado de ánimo los rangos son normales en ambos grupos y en las AVD se observa un elevado desempeño. Estas observaciones son congruentes con otros PEC en fluidez verbal semántica, ABVD2, AIVD y estado de ánimo y a través de otra intervención cognitiva unimodal en ABVD.
+
+
+- LIMITACIONES
+
+Primero, fue imposible acceder tanto al historial médico como al diagnóstico clínico. Segundo, no se pudo cegar ni a los terapeutas que realizaron la intervención ni a los participantes. Tercero, este estudio presenta algunas carencias metodológicas en lo referido a la selección de los participantes. Es posible que fueran a priori mejores candidatos en función de sus motivaciones para continuar en el estudio. Cuarto, debido al largo plazo de este estudio se acabó con un pequeño tamaño muestral.
+
+
+- DIRECTRICES PARA FUTURAS INVESTIGACIONES
+
+Realizar ECA con muestras potentes basados en PEC en mayores con DCL, que evalúen la eficacia a nivel cognitivo, en fluidez verbal, AVD y estado de ánimo con seguimientos a largo/muy largo plazo.
+Evaluar las diferencias en la eficacia de diferentes tipos de intervención cognitiva unimodal respecto a la multicomponente.
+Evaluar la calidad de vida de los participantes y establecer la influencia de determinadas variables de la misma en las puntuaciones del MEC-35.
+Evaluar el bienestar y la calidad de vida (componente físico y mental) de los cuidadores formales e informales de estas personas con DCL. El objetivo de ello se basaría en poder reducir su nivel de estrés, ofrecerles programas de educación para la salud y facilitarles el acceso a los servicios comunitarios.
+Se recomienda la creación de espacios comunitarios y la dedicación de recursos materiales validados y humanos con personal especializado y entrenado para la instauración de PEC grupales para personas con DCL que viven en la comunidad, como comentan otros autores.Lo conocido sobre el tema-Las personas con deterioro cognitivo leve (DCL) pueden mejorar su función cognitiva general gracias a programas de estimulación cognitiva (PEC) con evaluaciones a corto y medio plazo, pero no a largo plazo.-Actualmente se realizan pocos PEC desde Atención Primaria y sus equipos multidisciplinares carecen de terapeutas ocupacionales.Qué aporta este estudio-El seguimiento a largo/muy largo plazo de un ensayo controlado aleatorizado en mayores con deterioro cognitivo leve (DCL) a través de una intervención comunitaria en salud mediante la implementación de un programa de estimulación cognitiva (PEC) realizado por terapeutas ocupacionales.-Nuestro PEC se muestra eficaz en este estudio para mantener el rendimiento cognitivo a corto, medio y largo plazo, medido con MEC-35, en mayores con DCL de la comunidad.-Un material de estimulación cognitiva propio, adaptado al nivel de los participantes con DCL, basado en la puntuación 24-27 en MEC-35.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declararan no tener ningún conflicto de intereses.

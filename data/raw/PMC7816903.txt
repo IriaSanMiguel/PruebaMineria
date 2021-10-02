@@ -1,0 +1,22 @@
+MIOPERICARDITIS POR COVID-19: A PROPÓSITO DE UN CASO
+
+
+Sr. Director:
+La infección por SARS-CoV-2 provoca fundamentalmente una afectación respiratoria grave, caracterizada por infiltrados intersticiales difusos. Se han reportado algunos casos de miocarditis que pueden provocar arritmias, fallo cardíaco, shock cardiogénico e incluso la muerte en algunos pacientes, . Su mecanismo fisiopatológico más probable es multifactorial: desde el daño directo del virus a los cardiomiocitos, la respuesta inmune que provoca el propio organismo a la infección vírica o la lesión inducida por hipoxia.
+Presentamos el caso de un varón de 61 años con antecedentes de obesidad, que acude por cuadro clínico de cinco días de evolución de disnea progresiva, ingresando con insuficiencia respiratoria hipoxémica grave.
+En la radiografía de tórax presenta un infiltrado intersticial bilateral (fig. 1 A). Se sospecha neumonía grave por COVID-19, que se confirma mediante prueba PCR. Dada la inestabilidad hemodinámica y respiratoria que precisa de intubación orotraqueal y conexión a ventilación mecánica, se realiza un ecocardiograma transtorácico (ETT), que aprecia disfunción severa del ventrículo derecho con movimiento paradójico del septo por sobrecarga de cavidades derechas, además de insuficiencia tricúspide severa.Figura 1
+Con la sospecha de tromboembolismo pulmonar, se realiza angiografía de tórax por tomografía computarizada (angio-TC), confirmando la presencia de trombos en ambas arterias pulmonares principales (fig. 1B). En esta situación clínica, precisa de dosis elevadas de catecolaminas y altos requerimientos de oxígeno, por lo que se administra fibrinólisis sistémica. Progresivamente durante su ingreso, se aprecia una tendencia a la estabilización del cuadro clínico, con mejoría de la función del ventrículo derecho y normalización de marcadores de daño miocárdico.
+El séptimo día de ingreso, encontrándose sedoanalgesiado y conectado a ventilación mecánica invasiva, presenta cambios electrocardiográficos (ECG), con elevación cóncava del segmento ST generalizado (fig. 1C), constatando elevación de marcadores de daño miocárdico. Se realiza un nuevo ETT, que muestra una adecuada fracción de eyección ventricular izquierda (FEVI), con derrame pericardio ligero-moderado, sugestivo de miopericarditis aguda.
+El paciente presentó una evolución satisfactoria y pasó a planta de hospitalización, 14 días después de su ingreso.
+En conclusión, la infección por SARS-CoV-2 puede producir una afectación sistémica, más allá del fallo respiratorio, siendo las complicaciones cardíacas frecuentes en el curso evolutivo de esta enfermedad, con una elevada morbimortalidad. Por ello, es de vital importancia tener un nivel de alerta elevado en la prevención y el diagnóstico de estas complicaciones cardíacas, para realizar un manejo adecuado de este tipo de pacientes en unidades de cuidados intensivos.
+Se recomienda en los pacientes con infección por SARS-CoV-2, la seriación de ECG, marcadores cardíacos y la realización de ecocardiogramas. Sin embargo, es difícil poder llegar a diferenciar clínicamente la afectación cardíaca por la propia sepsis o la cardiomiopatía de estrés o por un síndrome coronario.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

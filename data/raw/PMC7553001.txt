@@ -1,0 +1,23 @@
+INCIDENCIA DE INFECCIÓN POR SARS-COV-2 EN LA COMUNIDAD Y SU IMPACTO EN LA PRIMERA SEMANA DE REAPERTURA DE COLEGIOS EN CATALUÑA
+
+
+Sr. Director:
+El Real Decreto 463/2020 de 14 de marzo de 2020, que declaraba el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por la COVID-19, incluyó el cierre de colegios como parte de las medidas para reducir la transmisión del virus en España. En el mes de septiembre se han reabierto los colegios, generando un debate sobre la idoneidad del momento para esta reapertura. Por un lado, es plausible que el cierre de los colegios tenga un impacto negativo en la infancia, al afectar a su socialización, educación y salud mental. Por otro lado, están aquellos que valoran la importancia del regreso escolar, pero consideran que las cifras de infección camunitaria actuales son demasiado elevadas para reabrir porque los entornos cerrados y poco ventilados se ha demostrado que incrementan el riesgo de infección. Con los resultados preliminares de los estudios poblacionales y de los realizados en colegios todavía no se ha podido determinar el papel que desempeñan los/las niños/as en la transmisión del virus. También se considera que las vías de transmisión fecal-oral y por aerosoles podrían ser importantes en este grupo de población. La incidencia de la infección por SARS-CoV-2 en la comunidad puede asociarse con el número de casos identificados en las aulas, aunque todavía existe una falta de evidencia sobre la transmisión de la infección por SARS-CoV-2 en el entorno escolar.
+Hemos recogido datos de la incidencia acumulada de COVID-19 en las siete regiones sanitarias de Cataluña (Alt Pirineu i Aran, Barcelona, Camp de Tarragona, Catalunya Central, Girona, Lleida y Terres de l’Ebre) dos semanas antes del inicio del curso escolar, del 31 de agosto al 13 de septiembre de 2020, según el registro de casos de COVID-19 en Cataluña (accesible en el portal Dades Obertes COVID-19 de la Generalitat de Catalunya: https://analisi.transparenciacatalunya.cat/). La incidencia acumulada era de 204,4 casos por cada 100.000 habitantes, con un rango de variación entre 55,4 y 209,6. El número de grupos de alumnos confinados durante la primera semana de curso escolar, del 14 al 18 de septiembre, se obtuvo del Departament d’Ensenyament de la Generalitat de Catalunya y de la Agrupació de Famílies per una Elecció Educativa Segura. En total, se confinaron 177 grupos en 143 colegios.
+Utilizamos un modelo de regresión de Poisson para evaluar la relación entre el número de grupos confinados por cada 1000 colegios y la incidencia acumulada de COVID-19 por 100.000 habitantes. En la figura 1 puede verse una relación lineal, según la cual el riesgo de confinar a un grupo de alumnos aumenta en promedio un 4,3% para un incremento de 10 casos por 100.000 habitantes en la tasa de incidencia. Por lo tanto, pasar de una región de baja incidencia, con por ejemplo menos de 25 casos, a otra de alta incidencia, con más de 200 casos, implica un riesgo más que considerable y haría cuestionable abrir colegios en regiones con alta incidencia, tal como sugiere la Organización Mundial de la Salud. Para el análisis hemos excluido la región sanitaria de Alt Pirineu i Aran, que no ha confinado todavía ningún grupo escolar durante la primera semana de curso, posiblemente por su baja densidad de población y sus características sociodemográficas, con más colegios rurales, menor ratio de alumnos y mayor posibilidad de impartir clases al aire libre, lo que podría reducir la transmisión del virus en el entorno escolar.Figura 1
+Estos datos parecen demostrar la hipótesis de la relación entre la incidencia de infección por SARS-CoV-2 en la comunidad y la infección en los colegios. Hasta que no estén disponibles otras medidas de detección de casos, se hace necesario reevaluar continuamente el riesgo de mantener los colegios abiertos en aquellas zonas donde la incidencia de la infección sea alta. También hay que señalar la importancia de tener datos disponibles y de libre acceso sobre el número de grupos, alumnos por grupo, tipo de colegio (urbano, rural), medidas de ventilación e higiene en el aula, que nos permitan realizar un análisis más detallado para una mejor determinación del riesgo de infección en el entorno escolar.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+J.M. García-Alamino y A. Tobías han contribuido igualmente en la concepción y el diseño del trabajo, así como en la recogida de datos, su análisis y la interpretación de los resultados. Ambos firmantes han participado en la redacción y la revisión crítica de la carta, hasta aprobar su versión final.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

@@ -1,0 +1,59 @@
+INFECCIÓN POR SARS-COV-2: UN FACTOR PREDISPONENTE PARA SÍNDROME CORONARIO AGUDO
+
+
+- INTRODUCCIÓN
+
+La infección producida por el nuevo coronavirus tipo 2 del síndrome respiratorio agudo grave (SARS-CoV-2) ha causado una pandemia mundial iniciada a finales del 2019. Habitualmente, la infección cursa de manera leve o asintomática, pero en el espectro más grave se produce un cuadro respiratorio que puede causar un distrés. En este contexto se puede desencadenar una liberación exagerada de citoquinas, con una respuesta hiperinflamatoria sistémica y afectación de múltiples órganos.
+La afectación del sistema cardiovascular es frecuente con diferentes manifestaciones clínicas como el SCA. Sin embargo, hay poca información acerca de la incidencia de síndrome coronario agudo (SCA) en los pacientes con enfermedad por coronavirus 2019 (COVID-19), su tratamiento y su pronóstico, especialmente después de la hospitalización inicial.
+Nuestro objetivo principal fue describir la incidencia, características, hallazgos angiográficos y pronóstico inmediato y a 3 meses de los pacientes diagnosticados de SCA en una amplia cohorte de pacientes con COVID-19 ingresados en 2 hospitales del sur de la Comunidad de Madrid. Secundariamente, se comparó con la incidencia, características y manejo terapéutico de los SCA intrahospitalarios en el mismo periodo de tiempo de 2019 en una población de pacientes ingresados en ambos hospitales por causa no cardiológica.
+
+
+- MÉTODOS
+
+Entre el 1 de marzo y el 15 de mayo de 2020 ingresaron 3.108 pacientes con infección por SARS-CoV-2 en el Hospital Universitario Fundación Alcorcón y en el Hospital Universitario Infanta Leonor, en Madrid, con reacción en cadena de la polimerasa con transcriptasa inversa (PCRrt) positiva para SARS-CoV-2 o cuadro clínico altamente sugestivo con PCRrt negativa. No se excluyó a ningún paciente. Todos los pacientes que sufrieron un SCA durante el transcurso de la infección en el periodo de ingreso hospitalario (grupo SCA-COVID) se registraron en una base de datos específica, asignándoles un código numérico. Se obtuvieron sus datos clínicos mediante la revisión de las historias clínicas electrónicas. Se definió COVID-19 grave o crítica según los criterios publicados previamente. A aquellos pacientes con SCA y COVID-19 dados de alta se les contactó telefónica o presencialmente a los 3 meses de seguimiento.
+Se revisaron los SCA intrahospitalarios en el mismo intervalo del 2019 (grupo SCA-2019) en pacientes hospitalizados por causa no cardiológica, y se comparó la incidencia de SCA, características basales, manejo y pronóstico entre ambas poblaciones.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cuantitativas se expresaron como media y desviación estándar o como mediana y rango intercuartílico (RIC) y las variables categóricas como recuentos y frecuencia mediante porcentaje. Para la comparación de medias se empleó la prueba «t» de Student para variables independientes, para la comparación de medianas la prueba U de Mann-Whitney y para la comparación de variables categóricas la prueba exacta de Fisher. Los datos se analizaron con SPSS statistics (versión 15.0, IBM, NY, EE. UU.).
+El estudio fue aprobado por el comité ético de ambas instituciones, dispensando el consentimiento informado escrito a todos los pacientes.
+
+
+- RESULTADOS
+
+En la cohorte de 3.108 pacientes COVID-19, durante el periodo de estudio, 10 pacientes se diagnosticaron de SCA en su evolución hospitalaria, lo que supone una incidencia de 3,31 ‰. Predominantemente eran varones, con edad mediana de 68 años (RIC 57-77) y mayoritariamente hipertensos (70%) (tabla 1 ).
+En el mismo periodo de 2019 ingresaron 6.952 pacientes en ambos centros, diagnosticándose 7 SCA durante su ingreso, lo que supone una incidencia del 1,01‰. La diferencia de incidencias entre ambas poblaciones resultó estadísticamente significativa (p = 0,013), destacando mayor incidencia de SCA entre los pacientes COVID-19. Los pacientes del grupo SCA 2019 tenían mayor edad, con perfil de riesgo cardiovascular más desfavorable y más antecedentes de enfermedad coronaria previa.
+Destacó una mayor proporción de SCASEST en los pacientes SCA-2019, con similares tasas de realización de coronariografía, pero menor porcentaje enfermedad multivaso (fig. 1 ).Figura 1
+Se analizaron los marcadores analíticos de daño miocárdico y de inflamación con una tendencia a mayor elevación en SCA-COVID, sobre todo el D-dímero (3709, RIC 816-38297 μg/l). En el ingreso hubo mayor número de complicaciones y de muertes en la población SCA-COVID, frente a SCA-2019 .
+En el grupo SCA COVID hubo un predominio de clínica respiratoria, con neumonía en casi todos los pacientes y criterios de infección grave o crítica en 6 pacientes. El tiempo medio desde el inicio de COVID-19 hasta SCA fue 9,7 días. La mayoría fueron tratados con hidroxicloroquina y heparina de bajo peso molecular (tabla 2 ).
+
+
+-- EVOLUCIÓN EN EL SEGUIMIENTO
+
+El tiempo medio de seguimiento en el grupo SCA-COVID fue 113 ± 14 días, con 2 reingresos y un fallecimiento por insuficiencia cardiaca aguda. Por tanto, la mortalidad a 3 meses del grupo SCA-COVID fue del 30%, con una tasa de reingresos del 20% .
+
+
+- DISCUSIÓN
+
+Los hallazgos de este estudio muestran que en una amplia población de 3.108 pacientes con COVID-19, la incidencia de SCA fue 3,31‰, significativamente más elevada que la incidencia de SCA intrahospitalario en el mismo periodo de 2019, 1,01‰. Los pacientes SCA-COVID presentaron predominantemente una COVID-19 grave o crítica, con alta proporción de SCACEST y elevación de los parámetros inflamatorios. Destaca una mayor tasa de manejo conservador, con hallazgo frecuente de enfermedad coronaria multivaso. En el pronóstico inmediato y a los 3 meses son una población de muy alto riesgo, con una elevada tasa de mortalidad, del 20% y 30% respectivamente, y de reingresos a los 3 meses (20%).
+Hay poca información sobre la incidencia, manejo y pronóstico de los SCA en pacientes con COVID-19. La incidencia del 3,31‰ en nuestro estudio resultó más elevada que la referida en otra serie española del 1,9‰, pero idéntica a la publicada en un registro danés.
+El intervalo de tiempo medio entre el comienzo de síntomas por la COVID-19 y el SCA fue aproximadamente 10 días, subrayando que este tipo de complicaciones trombóticas arteriales suele producirse en la fase tardía de la enfermedad, con activación exagerada de los mecanismos inflamatorios. En este sentido, el 60% de los pacientes de nuestra serie tuvieron una infección por COVID-19 grave o crítica. Analíticamente, los niveles de D-dímero estaban muy elevados en relación con cierto grado de coagulopatía, conocida como «coagulopatía asociada al COVID-19», responsable de este tipo de complicaciones trombóticas arteriales y/o venosas.
+Respecto al manejo terapéutico, la tasa de realización de coronariografía fue del 60%, debido a la grave situación de los pacientes, similar a la de otras series, como la de Bangalore, del 50%.
+En el seguimiento nuestra tasa de mortalidad fue del 30% y de reingresos del 20%, lo que implica que el SCA en pacientes con COVID-19 supone un marcador de mal pronóstico intrahospitalario y corto plazo. Si esto se confirmara en otros estudios, este grupo de pacientes deberían someterse a vigilancia estrecha tras el SCA.
+Para valorar si la incidencia de SCA en la población con COVID-19 era superior a otras enfermedades que actúan como trigger de un evento coronario, se planteó el objetivo secundario de comparar la incidencia de SCA con la observada en el periodo del año anterior de 2019 en la población total de pacientes ingresados por causa no cardiológica. Se consideraron todos los pacientes ingresados en ambos hospitales durante el mismo periodo de tiempo para evitar un sesgo de selección. Se constató que la incidencia de SCA fue mayor en el grupo SCA-COVID, donde hay una activación muy importante de los mecanismos inflamatorios, probablemente relacionada con la etiopatogenia de los eventos coronarios.
+
+
+-- LIMITACIONES
+
+El número de SCA es pequeño, por lo que la potencia para detectar diferencias entre ambas poblaciones es baja. Alguno de los infartos incluidos en la muestra podría ser tipo 2, o incluso miocarditis debido a que no se realizó coronariografía a todos los casos. Por último, es posible que la incidencia de SCA fuera mayor en relación con la dificultad diagnóstica en este tipo de pacientes, con síntomas equívocos.
+
+
+- CONCLUSIONES
+
+Los pacientes con COVID-19 tienen un mayor riesgo de SCA que los pacientes hospitalizados por otras enfermedades. A pesar de que la incidencia de SCA es baja, esta complicación conlleva un muy mal pronóstico tanto inmediato como a 3 meses.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

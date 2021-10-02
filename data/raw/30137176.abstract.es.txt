@@ -1,0 +1,5 @@
+Este hallazgo permitiría reducir la exposición de los operarios de herramientas de corte a factores de riesgo de síndrome del conducto carpiano (SCC). Se sugiere que en el diseño de herramientas, la distancia de apertura para todos los dedos debe mantenerse constante durante el gesto de aprehensión.
+Se condujo un experimento con 30 participantes (15 hombres y 15 mujeres) quienes realizaron el gesto de aprehensión en un dispositivo diseñado para mantener constante la apertura para todos los dedos en 4 diámetros diferentes.
+Estudiar el efecto de mantener un mismo diámetro de apertura en los dedos sobre la fuerza actuante de éstos en un agarre de fuerza.
+Se muestra evidencia que en un rango de accionamiento entre 0-75% de la apertura funcional, los dedos índice, corazón y anular ejercen una fuerza significativamente igual si el diámetro de apertura se mantiene constante.
+

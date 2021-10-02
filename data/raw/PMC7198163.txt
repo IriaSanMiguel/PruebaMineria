@@ -1,0 +1,18 @@
+VENTILACIÓN MECÁNICA NO INVASIVA Y OXIGENOTERAPIA DE ALTO FLUJO EN LA PANDEMIA COVID-19: EL VALOR DE UN EMPATE
+
+
+Sr. Editor:
+Hemos leído en su revista el documento de consenso de SEMICyUC respecto al soporte respiratorio no invasivo en el adulto con insuficiencia respiratoria aguda (IRA) por COVID19. En él, «extrapolando la evidencia en IRA de novo (sic)», la Oxigenoterapia de Alto Flujo (OAF) sería la modalidad de primera elección. La Ventilación No Invasiva (VNI) se sitúa como segunda opción en caso de respuesta insuficiente y sin criterios inmediatos de intubación. Esta recomendación está sustentada en dos referencias bibliográficas. La primera es la interim guidance de la OMS, que sitúa a la OAF y a la VNI al mismo nivel (semáforo amarillo, recomendación condicional), ya que ambas terapias «should be used only in selected patients with hypoxemic respiratory failure». Curiosamente, en la Remark 3 la OMS especifica que «compared with standard oxygen therapy» OAF reduce la necesidad de intubación. Esta observación se basa en la guía de práctica clínica europeo/americana. Pero esta guía, en la Question 5 sobre IRA de novo, explica que «the primary end-point of intubation was not significantly different» en el estudio FLORALI-REVA; y no es capaz de establecer ninguna recomendación porque la evidencia es de baja calidad.
+La segunda referencia es el estudio FLORALI-REVA. Se trata de un ensayo clínico con tres cohortes (OAF, VNI y oxígeno convencional) cuya variable de resultado principal fue la proporción de pacientes que requirieron intubación. Para ello se había calculado un poder del 80% de encontrar una diferencia relevante (situada en un 20%) en la frecuencia de intubación. No se encontraron diferencias estadísticamente significativas en el resultado principal. En el resto del estudio se analizaron comparaciones post hoc entre grupos de pacientes y se ajustaron modelos de COX para explicar el resultado principal y la mortalidad. Ambos análisis pueden estar sesgados: no se hace un ajuste para comparaciones múltiples, no se usa un modelo con variables dependientes del tiempo (OAF y VNI se intercambiaron) y se puede caer en el sobreajuste. Así que sólo sirven para generar hipótesis a confirmar en futuros ensayos.
+Sin embargo, el documento de SEMICyUC no cita un ensayo clínico específicamente diseñado (poder del 80%) para detectar una disminución relevante (que ahora se fijó en 30%) en la tasa de intubación. En él, frente al oxígeno standard la VNI demostró disminuir estadísticamente la intubación de pacientes con IRA hipoxémica de novo. Este experimento no ha sido replicado, pero los datos preliminares de la experiencia del COVID19 en China parecen confirmar sus resultados. Con un modelo Beta-Binomial, usando una a priori no informativa, la probabilidad de que la tasa de intubación sea menor con NIV que con OAF es de 0,9993 (Diferencia de tasas = 0,444; IC 95% = 0,097 a 0,706).
+La actual emergencia sanitaria requiere de los profesionales de la medicina intensiva una entrega total, pero también una distribución racional de los recursos. Si se trata de evitar intubaciones, tal vez VNI y OAF debieran situarse a la misma altura como primera elección. Lo ha hecho la OMS.
+
+
+- FINANCIACIÓN
+
+El presente manuscrito no ha recibido financiación alguna.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno de los autores reconoce conflicto de intereses con el actual manuscrito.

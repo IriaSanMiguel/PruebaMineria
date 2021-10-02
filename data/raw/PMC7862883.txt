@@ -1,0 +1,25 @@
+INFECCIÓN SARS-COV-2 EN UNA RESIDENCIA DE MAYORES EN LA PRIMERA OLA PANDÉMICA
+
+
+Sr. Editor:
+El 24 de marzo fue creada en el área sanitaria de A Coruña y Cee la «Unidad de coordinación y apoyo asistencial de las residencias sociosanitarias» como respuesta a la crisis sanitaria del coronavirus (COVID-19), abarcando 64 residencias con un total de 3.800 habitantes. Según los estudios realizados en este tipo de pacientes, la mayoría son asintomáticos o paucisintomáticos, presentando, sin embargo, altas cargas virales. Por ello, las estrategias basadas en la presencia de síntomas son poco valiosas y el Servicio Gallego de Salud emitió instrucciones para tomar muestras a todas las personas de las residencias sociosanitarias, organizando los equipos médicos en cada una según la estructura de la misma y el número de positivos.
+Los autores de este escrito, siendo parte de dichos recursos, realizamos un estudio unicéntrico observacional, descriptivo y retrospectivo. La población a estudio fueron los habitantes de una residencia sociosanitaria de dicha área que dieron positivo en las PCR (polymerase chain reaction, Allpex 2019-nCoV Assay-Seegene) para SARS-CoV-2, efectuadas entre el 22 de marzo del 2020 y el 9 de junio del 2020, y que fueron atendidos por médicos del Sistema Gallego de Salud.
+La residencia de mayores de la que se extraen los datos expuestos, con capacidad para 150 usuarios, fue dotada de personal sanitario (médico y enfermería) que reforzó el equipo asistencial de la propia institución, con atención las 24 h del día. El edifico consta de cinco plantas; los usuarios positivos a COVID-19 se concentraron en las tres superiores, adoptando las medidas de aislamiento y de prevención necesarias para la estancia, seguimiento y tratamiento. Se realizaban visitas médicas diarias y toma de constantes, al menos, tres veces al día.
+Los autores de este escrito basaron sus decisiones clínico-asistenciales en el «Protocolo para el manejo de la infección por SARS-CoV-2 en el ámbito de las residencias de mayores» del Servicio Gallego de Salud. Las variables fueron extraídas de la historia clínica y entregadas de forma anónima por la propia residencia (protocolo aprobado por el Comité de Ética de la Investigación de A Coruña – Ferrol).
+Se evaluaron 99 pacientes, 75 mujeres (76%) y 24 hombres (24%), con una edad media de 84,08 años (desviación estándar [DE] 9,23). Las medias del índice de Barthel, índice de Charlson ajustado por edad y de la clinical frailty scale (CFS) fueron, respectivamente, de 48,08 (DE 37,37), 7,1 (DE 1,92) y 6,13 (DE 1,68).
+Presentaron síntomas el 63,64% de los residentes .
+Además, 17 residentes (17,17%) requirieron derivación e ingreso hospitalario en algún momento del seguimiento. Fallecieron 14 (14,14%) afectados; de estos, 12 (85,71%) en la propia residencia sociosanitaria y dos (14,29%) en el medio hospitalario.
+Al final del período de intervención, se realizó un nuevo test masivo a los usuarios que no habían tenido resultado positivo previamente y pruebas serológicas a 81 de los pacientes que habían obtenido un resultado positivo, a los cuatro meses del mismo, sin encontrar ningún positivo en los primeros y un porcentaje de inmunoglobulina G (IgG) del 91,3% en los segundos.
+Hemos observado que los pacientes son sintomáticos en proporciones mayores a las observadas en anteriores publicaciones de poblaciones similares, . Muchos presentaron síntomas leves que no comprometen la calidad de vida ni el pronóstico final y que pueden pasar desapercibidos si no se realiza una búsqueda activa.
+Cabe destacar la importancia dada a la anticoagulación como prevención de los eventos trombóticos provocados por la COVID-19 en el ámbito residencial, donde la inmovilidad derivada del estado clínico de los pacientes y del propio confinamiento supone un factor de riesgo en sí mismo.
+Parece probable que los testados masivos en una situación de epidemia en lugares vulnerables, como las residencias, hayan contribuido a frenar la propagación del virus y hayan favorecido la evaluación y el tratamiento precoz de la enfermedad. Con la dotación de recursos y los circuitos de desechos, se ha atendido y dado seguimiento a la población institucionalizada, evitando las complicaciones asociadas con la hospitalización, pudiendo también haber contribuido a reducir la presión asistencial hospitalaria. Estas medidas no han ido en detrimento de la evolución clínica, ya que la tasa de mortalidad es menor a la descrita en otros medios residenciales u hospitalarios.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

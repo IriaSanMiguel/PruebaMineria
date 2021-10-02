@@ -1,0 +1,41 @@
+RECOMENDACIONES DEL GRUPO DE PSORIASIS DE LA AEDV SOBRE EL MANEJO DE LA CONSULTA DE PSORIASIS DURANTE LA PANDEMIA POR COVID-19
+
+
+Sr. Director:
+La infección por coronavirus SARS-CoV-2 y la enfermedad asociada COVID-19 representan un grave problema de salud pública, y existen muchas incertidumbres acerca de cómo influirá en enfermedades inflamatorias como la psoriasis y en particular en los pacientes tratados con inmunosupresores e inmunomoduladores selectivos. El Grupo de Psoriasis de la AEDV (GPs), a partir de la escasa evidencia existente y en coherencia con el posicionamiento de otras sociedades científicas nacionales e internacionales (EADV-SPIN, AAD, IPC), , , a través de la AEDV emitió un comunicado (GPs-COVID-19) con el fin de orientar a los dermatólogos que tratan la psoriasis, particularmente en los casos de pacientes en tratamiento o que fueran a iniciar tratamiento con fármacos inmunomoduladores selectivos o inmunosupresores, .
+La pandemia por SARS-CoV-2 ha condicionado y condicionará al menos durante un tiempo el manejo del paciente con psoriasis y el funcionamiento de las consultas monográficas de psoriasis. En este momento con el progresivo control de la situación se plantea cuáles van a ser las condiciones y limitaciones para reanudar la atención en estas consultas, en escenario en el que se supone la persistencia del virus, con episodios ocasionales o estacionales de exacerbación.
+Con el objetivo de minimizar los riesgos de nuestros pacientes aportando los máximos beneficios, así como optimizar el funcionamiento de las consultas de psoriasis; el GPs ha desarrollado unas recomendaciones, basadas en la evidencia científica y en las recomendaciones de otras sociedades científicas.
+Sin embargo, la evidencia científica y la evolución de la pandemia serán las que determinen la aplicación o no de estas recomendaciones.
+
+
+- RECOMENDACIONES
+
+-- MANEJO DE LOS PACIENTES
+
+Los datos disponibles sobre brotes pasados y presentes de infecciones por Coronavirus (SARS, MERS, COVID-19) permiten sugerir que los pacientes inmunodeprimidos no tienen un mayor riesgo de manifestaciones graves y complicaciones de COVID-19 en comparación con la población general.
+Las interleucinas clave implicadas en la patogénesis de la psoriasis (TNF alfa, IL17 e IL23) no se han demostrado condicionantes en el curso de la infección vírica mientras que podrían estar implicadas en la aparición de la «tormenta de citocinas» relacionada con la gravedad de la infección. Por lo tanto, al menos desde un punto de vista patogénico, su inhibición específica no parece implicar un riesgo en el curso clínico de pacientes con inmunomoduladores específicos. El impacto de inmunomoduladores de amplio espectro (metotrexato, ciclosporina) y su inhibición es menos conocido. Las propuestas de manejo de los pacientes con psoriasis se detallan en la tabla 1 .
+
+
+-- CONSULTA DE PSORIASIS EN EL CONTEXTO DE LA PANDEMIA POR SARS-COV-2<XREF RID="BIB0060" REF-TYPE="BIBR"><SUP>6</SUP></XREF
+
+--- DESARROLLO DE LA CONSULTA MONOGRÁFICA DE PSORIASIS PRESENCIAL
+
+Los condicionantes y restricciones a la visita presencial en el monográfico de psoriasis serán los propios y aceptados para cualquier visita presencial en la consulta dermatológica durante la vigencia de la pandemia (recomendaciones de las propias instituciones y de la AEDV).
+
+
+--- CONSULTA MONOGRÁFICA DE PSORIASIS TELEMÁTICA
+
+La nueva situación durante la pandemia COVID-19, con un escenario en el que se prevé una restricción en las visitas presenciales, puede ser una oportunidad para el desarrollo y adecuada ponderación de estrategias complementarias, como la telemedicina, en el cribado, manejo y control de los pacientes con psoriasis.
+Las actividades que cada unidad de psoriasis reconvierta en actividad telemática deberán ser atendidas preferentemente por los mismos profesionales que atienden a las consultas presenciales y que, por lo tanto, disponen de los conocimientos y experiencia en el manejo de estos pacientes.
+Sería aconsejable mantener la visita presencial al menos en las primeras visitas o hasta tener bien controlada la enfermedad cutánea.
+Sería posible intercalar consultas telemáticas con presenciales en el seguimiento de pacientes bien orientados y controlados con el tratamiento prescrito en las visitas presenciales
+Por todo ello consideramos de interés describir los usos principales de la teledermatología en una unidad monográfica de psoriasis (tabla 2 ).
+
+
+- CONFLICTO DE INTERESES
+
+La Dra. I. Belinchón ha sido consultora y/o ponente y/o ha participado en ensayos clínicos patrocinados por las siguientes empresas: Janssen Pharmaceuticals Inc., Almirall SA, Lilly, AbbVie, Novartis, Celgene, Amgen, Leo-Pharma, Pfizer-Wyeth, UCB y MSD.
+El Dr. Ll. Puig ha sido consultor y/o ponente y/o ha participado en ensayos clínicos patrocinados por las siguientes empresas farmacéuticas: Abbvie, Almirall, Amgen, Baxalta, Biogen, Boehringer Ingelheim, Celgene, Gebro, Janssen, JS BIOCAD, Leo-Pharma, Lilly, Merck-Serono, MSD, Mylan, Novartis, Pfizer, Regeneron, Roche, Sandoz, Samsung-Bioepis, Sanofi, y UCB.
+La Dra. L. Ferrándiz ha sido consultora y/o ponente y/o ha participado en ensayos clínicos patrocinados por las siguientes empresas: Janssen Pharmaceuticals Inc., Almirall SA, Lilly, AbbVie, Novartis, Amgen, Leo-Pharma, UCB y Gebro Pharma.
+El Dr. P. de la Cueva ha participado como ponente y/o consultor y/o investigador con las siguientes empresas farmacéuticas: Abbvie, Almirall, Astellas, Biogen, Boehringer, Celgene, Janssen., LEO Pharma, Lilly, MSD, Novartis, Pfizer, Roche, Sanofi y UCB.
+El Dr. J.M. Carrascosa ha sido consultor y/o ponente y/o ha participado en ensayos clínicos patrocinados por las siguientes empresas: Janssen Pharmaceuticals Inc., Almirall SA, Lilly, AbbVie, Novartis, Celgene, Amgen, Leo-Pharma, Pfizer- Wyeth, Sandoz, Amgen, Biogen y Mylan.

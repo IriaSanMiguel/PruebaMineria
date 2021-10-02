@@ -1,0 +1,5 @@
+El suero hiperinmune de llama es capaz de neutralizar la letalidad del veneno de la serpiente Bothrops atrox de Perú en ratones de laboratorio.
+Evaluar la capacidad del suero hiperinmune de llama (Lama glama) para neutralizar la letalidad del veneno de la serpiente Bothrops atrox en ratones de laboratorio.
+La DL50 del veneno fue de 3,96 µg/g, similar a otros trabajos realizados en Bothrops atrox en Perú. Los títulos de anticuerpos contra el veneno se incrementan rápidamente en la llama mostrando una rápida respuesta inmune; sin embargo, la capacidad de neutralización se incrementa más lentamente y requiere de varias dosis y refuerzos de las inmunizaciones alcanzado una DE50 de 3,30 µL/g ratón y una potencia de neutralización 3,6 mg/mL después de 15 inmunizaciones.
+Se calculó la dosis letal media (DL50) de un pool de venenos de serpientes de Bothrops atrox de Perú, y se midieron los títulos de anticuerpos por ensayo ELISA; así como la potencia de neutralización del suero inmune por el cálculo de la dosis efectiva media (DE50) durante el periodo de inmunización.
+

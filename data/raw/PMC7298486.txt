@@ -1,0 +1,30 @@
+ANAKINRA, UNA ALTERNATIVA POTENCIAL EN EL TRATAMIENTO DE LA INFECCIÓN RESPIRATORIA GRAVE POR SARS-COV-2 REFRACTARIA A TOCILIZUMAB
+
+
+- INTRODUCCIÓN
+
+El virus SARS-CoV-2 es un nuevo virus RNA que fue identificado por primera vez en diciembre de 2019 en la ciudad de Wuhan, China. SARS-CoV-2 produce un cuadro de neumonía atípica que puede desembocar en un fallo multiorgánico. La desregulación del sistema inmune secundaria a la infección produce un cuadro similar al síndrome de linfohistiocitosis hemofagocítica (SLHH). Las diferentes vías de activación inmune culminan en una disfunción citotóxica cuyo principal desencadenante es una «tormenta de citocinas». Varios estudios han definido la importancia que los inhibidores de la IL-6 (tocilizumab) tienen en el tratamiento de la infección por SARS-CoV-2. Sin embargo, la indicación de tratamiento con inhibidores de IL-1 (anakinra) no se encuentra establecida de forma clara.
+Presentamos el caso de un paciente de 51 años con neumonía bilateral secundaria a infección por SARS-CoV-2 refractaria al tratamiento con tocilizumab que presentó mejoría tras el tratamiento con anakinra.
+
+
+- CASO CLÍNICO
+
+Varón de 51 años que acudió a urgencias por cuadro de fiebre (> 38 °C) y disnea de una semana de evolución. El paciente presentaba antecedentes de EPOC, cirrosis hepática de origen no filiado y adenocarcinoma de recto (pT4N1M0). En el examen físico destacaba la presencia de hipoventilación generalizada con crepitantes finos bibasales. En la radiografía de tórax (fig. 1 ) se objetivaron infiltrados bilaterales con patrón en vidrio deslustrado. La analítica de sangre mostraba los valores descritos en la tabla 1 . Los cultivos de sangre y orina fueron negativos. Se realizó detección de virus SARS-CoV-2 por reacción en cadena de polimerasa en exudado faríngeo, que fue positiva.Figura 1
+Ante el diagnóstico de neumonía bilateral secundaria a infección por SARS-CoV-2 se procedió al ingreso hospitalario del paciente y se inició tratamiento con antibioterapia de amplio espectro (ceftriaxona, azitromicina y posteriormente escalada a piperacilina-tazobactam), hidroxicloroquina (HCQ) y lopinavir/ritonavir (LPV/r). Ante la necesidad de soporte respiratorio se inició tratamiento con tocilizumab (8 mg/kg cada 12 h, 2 dosis subcutáneas). Dada la ausencia de mejoría respiratoria y analítica transcurridas 48 h de la administración de tocilizumab, se decidió la administración de anakinra (100 mg dosis total única, subcutánea). Posteriormente el paciente experimentó buena evolución clínica, pudiendo retirar el soporte ventilatorio y recibiendo el alta hospitalaria a los 14 días del ingreso.
+
+
+- DISCUSIÓN
+
+La «tormenta de citocinas» secundaria a la infección por SARS-CoV-2 condiciona cuadros graves de enfermedad COVID-19. La activación desmesurada del sistema inmune produce un cuadro similar al SLHH. El uso de anticuerpos anti-IL-6 en el tratamiento de la infección por SARS-CoV-2 se encuentra actualmente en estudio, siendo uno de los pilares actuales del tratamiento de la enfermedad COVID-19. En el estudio de Le et al. , tocilizumab demostró respuesta clínica tras una o dos dosis de fármaco en el 69% de los pacientes con síndrome de activación de citocinas. El uso de moléculas inhibidoras de otras interleucinas se encuentra actualmente en estudio, siendo anakinra la molécula antiinterleucina más estudiada actualmente tras el tocilizumab en el tratamiento de COVID-19.
+En el caso de nuestro paciente, el tratamiento con tocilizumab no aportó mejoría clínica o analítica, mientras que el uso de anakinra permitió obtener una clara mejoría en 48 h. Aunque no se puede descartar un posible beneficio debido al efecto tardío del tocilizumab. Si bien la dosis de anakinra administrada a nuestro paciente fue única, existen estudios como el de Monteagudo et al., que muestran la eficacia de este fármaco en infusión continua a dosis mayores de 2.400 mg/día para el tratamiento del síndrome de activación macrofágica (SAM).
+En conclusión, el bloqueo de la IL-1 de forma específica podría ser una alternativa eficaz en el manejo de pacientes con infección por SARS-CoV-2 que no se hayan beneficiado de otros tratamientos.
+
+
+- CONFLICTO DE INTERESES
+
+LF-P: Ninguno que declarar.
+AO-H: Ninguno que declarar.
+RAE-C: Ninguno que declarar.
+ET-B: Ninguno que declarar.
+AL-G: Ninguno que declarar.
+JJC-H: Consulting or Advisory Role: MSD Oncology, Bristol-Myers Squibb, Merck Speakers’ Bureau: MSD Oncology, Bristol-Myers Squibb, Merck, Roche, Janssen Oncology, AstraZeneca Travel, Accommodations, Expenses: MSD Oncology.

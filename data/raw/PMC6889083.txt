@@ -1,0 +1,128 @@
+TRATAMIENTO ANTIGRIPAL: FÁRMACOS ACTUALMENTE UTILIZADOS Y NUEVOS AGENTES EN DESARROLLO
+
+
+- INTRODUCCIÓN
+
+La gripe es una enfermedad infecciosa generada por distintos tipos de virus influenza, caracterizada por un cuadro respiratorio agudo, altamente contagioso. Si bien suele presentarse como formas leves con resolución en 3 a 7 días, también puede predisponer a contraer infecciones secundarias o presentarse en formas severas como neumonía o síndrome de distrés respiratorio agudo, siendo en ocasiones fatal, sobre todo en pacientes de edad avanzada, , , . La gripe estacional afecta al 5-10% de la población mundial cada año, resulta en ∼3 a 5 millones de casos severos y entre 250.000 y 500.000 muertes. Se puede presentar en forma de brotes pandémicos, con alta mortalidad y gran impacto sobre la salud pública.
+La vacunación es fundamental en la prevención de la enfermedad y sus complicaciones, principalmente para grupos de riesgo como niños, ancianos, portadores de enfermedades respiratorias crónicas y embarazadas. El tratamiento disponible con fármacos antivirales, de ser administrado de forma precoz, puede reducir el riesgo de complicaciones severas; sin embargo, muchos tipos de virus desarrollan resistencia a fármacos, reduciendo su efectividad, por lo que ha habido un gran interés en los últimos años en el desarrollo de nuevas opciones terapéuticas para combatir la enfermedad. La presente revisión describe los principales agentes farmacológicos disponibles en la actualidad y analiza nuevos medicamentos en estudio con potencial beneficio en el tratamiento de la gripe, , (tabla 1 ).
+
+
+- ESTRUCTURA Y CARACTERÍSTICAS GENERALES DEL VIRUS DE LA GRIPE
+
+Los virus de la gripe pertenecen a la familia Orthomyxoviridae y son clasificados como A, B o C. Los virus influenza A circulan en diversas especies como humanos, equinos, porcinos y aves, mientras que los de tipo B afectan solo a humanos. El cuadro gripal causado por los tipos A y B es indistinguible; por el contrario, la C causa síntomas respiratorios leves, , .
+La estructura del virus influenza A consta de una envoltura lipídica que proviene de la célula huésped y lleva ancladas las glucoproteínas hemaglutinina (HA) y neuraminidasa (NA), antígenos de superficie usados para clasificar a los virus (por ejemplo, H1N1, H3N2, H5N1). En la membrana se encuentran también las proteínas de matriz M2 y M1, mientras que en el centro de la partícula viral se halla el complejo ribonucleoproteico (segmentos de ARN viral y las proteínas polimerasa básica 1, polimerasa básica 2 [PB2] y polimerasa ácida [PA]), la nucleoproteína (NP), la proteína de exportación nuclear y la proteína no estructural 2. El genoma es de ARN de cadena simple y segmentado en 8 partes, que dan origen a entre 8 y 12 proteínas del virus, , , , , .
+
+
+- EL CICLO VIRAL
+
+El anclaje a la célula huésped se da a través de la unión de la HA del virus con el ácido siálico de las glucoproteínas o glucolípidos de la membrana celular. Las especies de influenza que afectan a humanos reconocen preferentemente el ácido siálico unido a galactosa por una unión α2,6 (SA α2,6Gal), que abunda en las células epiteliales del tracto respiratorio, . Una vez el virus se une al receptor de membrana, ingresa a la célula huésped por endocitosis y se libera en el citoplasma celular fusionando su membrana con la del endosoma. La HA viral es clave en este paso, ya que al ser escindida por proteasas del huésped, expone una región conocida como «péptido de fusión» que interactúa con la membrana del endosoma y determina la fusión de las membranas liberando el contenido del virión al citoplasma celular, , . Un paso importante para este proceso es la acidificación del endosoma que ocurre a través de un canal iónico formado por la proteína viral M2. Por este canal ingresan protones y favorecen la separación de la proteína de matriz M1 y el complejo ribonucleoproteico del virus, que es así liberado al citoplasma para su posterior importación nuclear, , . Una vez en el núcleo, el ARN viral es transcrito a ARN mensajero (ARNm), que es poliadenilado, hecho fundamental para la expresión de las proteínas virales. La traducción de las proteínas virales es llevada a cabo por la maquinaria de la célula huésped, y una vez sintetizadas las proteínas PA, PB y NP son importadas al núcleo para facilitar la transcripción y replicación del ARN viral. Los complejos de ribonucleoproteína son luego exportados del núcleo, para lo cual son fundamentales la proteína no estructural 2, la proteína de exportación nuclear y la M1. Las proteínas virales HA, NA y M2 son glucosiladas en el retículo endoplásmico y transportadas a través de la red Golgi hasta la membrana celular. Las ribonucleoproteínas y los 8 segmentos virales una vez transportados a la membrana celular son empaquetados para generar los nuevos brotes virales. Varias proteínas estructurales del virus, como HA, NA y M2, contribuyen al proceso de brote por su interacción con la membrana lipídica celular. El proceso finaliza cuando las membranas se fusionan en la base del brote y el virus se escinde mediante la acción de la NA, que cataliza la remoción del ácido siálico de las glucoproteínas de superficie.
+
+
+- TERAPÉUTICA
+
+-- FÁRMACOS ACTUALMENTE UTILIZADOS
+
+De los 5 fármacos antiinfluenza actualmente disponibles, solo 3 son recomendados por la Food and Drug Administration de los Estados Unidos para esta temporada: oseltamivir (Tamiflu®) vía oral, zanamivir (Relenza®) vía inhalatoria y peramivir (Rapivab®) vía intravenosa, todos inhibidores de la NA. Los inhibidores del canal iónico M2, amantadina y rimantidina, no están recomendados dado que los virus circulantes poseen una gran tasa de resistencia a estas y que no poseen efecto en los virus influenza tipo B ni C.
+
+
+--- INHIBIDORES DEL CANAL IÓNICO M2
+
+Los derivados del adamantano, como amantadina y rimantadina, son fármacos con conocido efecto antiinfluenza A y han sido la primera opción para el tratamiento de la gripe durante muchos años. Su acción consiste en la unión a un bolsillo específico de la proteína viral M2, estabilizando su conformación cerrada e impidiendo que después de la fusión, el virus pueda liberar el complejo ribonucleoproteico al citoplasma para seguir adelante con el ciclo viral. También se ha demostrado que la amantadina puede afectar el pH de las vesículas que transportan las glucoproteínas virales, interfiriendo así con el proceso de ensamblaje.
+A causa de la resistencia viral a estos fármacos se han desarrollado nuevos compuestos estructuralmente relacionados, como los azoloadamantanos, . Sin embargo, no hay fármacos de este grupo con actividad probada contra todos los virus circulantes resistentes a amantadina.
+
+
+--- INHIBIDORES DE LA NEURAMINIDASA
+
+Poseen actividad contra influenza A y B; oseltamivir y zanamivir son los más antiguos, y los de las nuevas generaciones son peramivir y laninamivir. Estos fármacos impiden la escisión del ácido siálico inhibiendo la liberación del virión, evitando que las nuevas partículas virales se diseminen a otras células. La resistencia global a los inhibidores de la NA es menos del 2% de los virus circulantes en 2013-2014; sin embargo, se han identificado virus en comunidades localizadas (Japón, China, Australia) que poseen alta resistencia a estos fármacos. Es prometedor el desarrollo de nuevas moléculas inhibidoras de la NA, con actividad frente a cepas resistentes a los fármacos actualmente disponibles, , , .
+En la práctica clínica los inhibidores de la NA son los únicos antigripales actualmente recomendados; entre ellos, oseltamivir es el más utilizado, dada su buena biodisponibilidad para uso oral. Sin embargo, existe un intenso debate sobre la interpretación de los estudios clínicos que avalan su eficacia. Un metaanálisis realizado por el grupo Cochrane en 2014 evidenció un modesto beneficio del tratamiento con oseltamivir en casos de gripe leve, con una reducción de la duración de los síntomas de 7 a 6,3 días en adultos y una reducción de los síntomas en niños sanos; sin embargo, no mostro beneficio en niños asmáticos. La tasa de hospitalización de los pacientes con oseltamivir fue similar a la de los no tratados. De un metaanálisis publicado en Lancet en 2015 surge que para los casos leves de infección por influenza confirmada, el tratamiento con oseltamivir disminuye el tiempo de síntomas, las infecciones respiratorias bajas y las admisiones hospitalarias. En ambos estudios se reportan las náuseas y los vómitos como principales efectos secundarios. En cuanto a las presentaciones severas de la gripe, si bien no existen trabajos clínicos aleatorizados, estudios observacionales indican un beneficio del uso de oseltamivir con una reducción significativa de la tasa de mortalidad para casos graves, , . Las guías de práctica clínica recomiendan el inicio precoz de antivirales para el tratamiento de casos graves de influenza confirmada que requieren hospitalización o en pacientes con riesgo de complicaciones severas, como menores de 2 o mayores de 65 años, portadores de enfermedad pulmonar crónica, inmunosuprimidos, obesos mórbidos, mujeres embarazadas o puérperas de menos de 2 semanas. La quimioprofilaxis posexposición se puede considerar en personas con alto riesgo de complicaciones o no inmunizados, y siempre iniciarla en las primeras 48 h posexposición. El fármaco de primera línea es oseltamivir, mientras que el uso de zanamivir inhalatorio, nebulizado o intravenoso está indicado en caso de cepas resistentes a oseltamivir o mala absorción intestinal. La dosis indicada de oseltamivir es de 75 mg 2 veces por día para tratamiento y una vez por día para quimioprofilaxis, y para zanamivir inhalatorio, de 10 mg 2 veces por día para tratamiento y una vez por día para quimioprofilaxis; este último no está recomendado en casos de asma o EPOC. La duración del tratamiento debe ser de 5 días, pudiendo prolongarse en casos graves, mientras que para la profilaxis se recomienda 10 días tanto para oseltamivir como para zanamivir, , .
+
+
+-- OTROS GRUPOS FARMACOLÓGICOS
+
+Existe una considerable cantidad de fármacos que han sido ensayados por su potencial antiviral, pero aún no están disponibles para su uso en la clínica. Describiremos los grupos más importantes.
+
+
+--- FÁRMACOS ACTIVOS ANTE COMPONENTES DEL VIRUS
+
+---- INHIBIDORES DE LA UNIÓN Y LA FUSIÓN VIRAL
+
+Ligandos sintéticos de la HA viral: este grupo comprende una variedad de moléculas capaces de ser reconocidas por la HA viral, interfiriendo así en la interacción virus-célula. Ejemplos de ello son MBX2329 (un amino éster de fenil alquilo) y MBX2546 (una sulfonamida), que inhiben la entrada del virus influenza A mediante su unión al tallo de la HA, interfiriendo con la fusión viral. También se han estudiado péptidos sintéticos análogos al ácido siálico que son reconocidas por la HA viral e inhiben su acción, y antagonistas del péptido de fusión que interrumpen el cambio conformacional de HA necesario para la correcta fusión del virus a la célula.
+Arbidol: fármaco sintético actualmente aprobado para el tratamiento de la gripe en Rusia y China, pero no en EE. UU. dada la insuficiente evidencia clínica. Se trata de una molécula hidrofóbica que penetra la membrana lipídica de virus encapsulados e interacciona con los fosfolípidos de membrana y proteínas transmembrana ricas en residuos aromáticos de la envoltura viral, interfiriendo con los procesos de entrada y fusión a la célula huésped, . Un estudio clínico multicéntrico aleatorizado (ARBITR) mostró en pacientes con influenza tratados con arbidol, un acortamiento de la enfermedad con reducción de la severidad y de la emisión de virus.
+Se han identificado cepas de influenza resistentes a arbidol por mutaciones en la subunidad HA2, permitiendo que el virus prosiga con el proceso de fusión a la membrana del endosoma. La síntesis de compuestos estructuralmente relacionados abre una puerta a nuevos antivirales, tal es el caso de indoles sintéticos que en estudios in vitro presentan mayor potencia antiviral que arbidol sobre ciertos subtipos de influenza A.
+Anticuerpos anti-HA: se han desarrollado anticuerpos monoclonales contra sitios altamente conservados de HA, capaces de neutralizar cepas de virus influenza. Como ejemplo, el anticuerpo CH65, descrito a partir de la muestra de un paciente con vacuna antiinfluenza en 2007, ha demostrado ser eficaz in vitro contra un amplio espectro de cepas de influenza H1N1, gracias a su unión en el bolsillo de unión de la subunidad HA1. El anticuerpo D1-8 ha mostrado eficacia para neutralizar diferentes cepas de virus influenza H3N2 in vitro e in vivo, logrando en ratones una mayor supervivencia comparado con el tratamiento con oseltamivir. También los anticuerpos dirigidos contra el tallo de la proteína HA pueden ser eficaces contra el virus influenza. El HB36.6 ha mostrado eficacia contra diferentes cepas de H1N1 y H5N1 in vitro, mientras que en ratones demostró reducir la replicación viral y mejorar la supervivencia.
+
+
+---- INHIBIDORES DE LA POLIMERASA VIRAL
+
+La polimerasa viral es una proteína altamente conservada entre las distintas cepas de influenza, siendo un objetivo terapéutico de interés.
+Favipiravir (T-705): es una molécula capaz de convertirse dentro de la célula en un análogo nucleósido, el ribonucleótido T-705-4-ribofuranosil-5’-monofosfato, que inhibe la actividad de la ARN polimerasa viral sin afectar la síntesis celular de ARN ni ADN. Se ha demostrado su eficacia frente a distintas cepas de influenza, , .
+Inhibidores de PB2: para la traducción del ARNm viral se requiere un iniciador 5’cap, que el virus «roba» del pre-ARNm del huésped. En este proceso es esencial la unión de la subunidad PB2 a la caperuza 5’ del pre-ARNm del huésped y la subsecuente escisión del extremo 5’ por la proteína PA con actividad endonucleasa, . Los fármacos en estudio que interfieren con este proceso tienen un gran potencial como antivirales. Tal es el caso de VX-787, que ha demostrado actividad in vivo contra diversas clases de influenza A, siendo eficaz tanto en profilaxis como en tratamiento, .
+
+
+---- INHIBIDORES DE LA NUCLEOPROTEÍNA
+
+La nucleoproteína se une al ARN viral y forma parte del complejo ribonucleoproteico. Es fundamental para la síntesis del ARN viral y también participa en la exportación nuclear de las ribonucleoproteínas virales y en el tráfico citoplasmático.
+Nucleozina: es el fármaco más estudiado de este grupo. Se ha demostrado que posee actividad antiviral en diferentes tiempos del ciclo del virus: en fases tempranas inhibe la transcripción de ARN viral y la síntesis proteica, y en fases tardías bloquea el tráfico citoplasmático de las nuevas ribonucleoproteínas. Recientemente se han desarrollado análogos a la nucleozina con potencia antiviral ante diferentes especies de influenza A.
+Naproxeno: es un inhibidor de la ciclooxigenasa 2 cuya actividad antiinfluenza ha sido identificada recientemente. Se ha evidenciado que forma complejos con la NP e inhibe competitivamente la unión de NP al ARN. Tiene potencia in vitro e in vivo contra virus influenza A. También se han sintetizado derivados de naproxeno con potencial efecto antiviral, que están en estudio.
+
+
+---- INHIBIDORES DE LA PROTEÍNA NS1
+
+NS1 es una proteína multifuncional que se une al ARNm y regula pasos posteriores a la transcripción: se une al ARN de cadena doble bloqueando la inhibición de la transcripción por parte de la cinasa PKR, e inhibe la exportación nuclear de ARNm poliadenilado del huésped, , . Además, NS1 protege al virus de la defensa celular antiviral inhibiendo la respuesta mediada por interferón, , . Se han desarrollado distintos fármacos que inhiben la actividad de NS1. Por ejemplo, NSC125044 y sus derivados, entre ellos el compuesto JJ3297, afectan la replicación del virus in vitro restableciendo el efecto antiviral del interferón. La baicalina ha demostrando actividad antiinfluenza in vitro e in vivo, ejerciendo su efecto mediante la alteración del dominio de unión de la proteína NS1.
+
+
+--- FÁRMACOS ACTIVOS ANTE COMPONENTES DEL HUÉSPED
+
+El conocimiento de las funciones celulares necesarias para el ciclo viral ha permitido identificar objetivos terapéuticos para el diseño de fármacos antivirales. Modular la respuesta del huésped es una estrategia que minimiza el desarrollo de cepas resistentes, dado que estos no están sujetos a la variabilidad genética que tiene el virus. Por otro lado, el riesgo de efectos secundarios asociados al tratamiento es una desventaja. Investigaciones sobre la interacción entre proteínas virales y del huésped describieron una extensa red con más de 130 interacciones entre 10 proteínas virales y 87 proteínas humanas. Análisis más recientes identificaron 91 factores del huésped cuya inhibición previene la replicación viral in vitro . Del análisis informático de base de datos de fármacos surgen cientos de moléculas que interactúan con factores del huésped esenciales para la replicación viral; la mayoría de estas son fármacos actualmente utilizados con otros fines terapéuticos.
+
+
+---- ANCLAJE Y FUSIÓN VIRAL
+
+DAS181 (Fludase ® ): es una proteína desarrollada fusionando el dominio catalítico de NA con una secuencia de anclaje a la superficie de las células del epitelio respiratorio, cuya función es escindir los residuos de ácido siálico de la superficie celular, evitando así la entrada del virus a la célula. Ha demostrado actividad antiinfluenza A y B en experimentos con animales; sin embargo, estudios clínicos no han mostrado eficacia en la mejoría de los síntomas de la gripe, .
+Aprotinina: es un polipéptido que inhibe las proteasas del huésped que escinden la HA viral. Interfiere así con el proceso de unión y fusión del virus a la célula, teniendo actividad antiinfluenza in vitro e in vivo , . Últimamente se han desarrollado otros compuestos sintéticos, inhibidores de las serín proteasas del epitelio respiratorio con eficacia in vitro antiinfluenza.
+
+
+---- ENDOCITOSIS Y FUSIÓN
+
+Glicirrizina: es un compuesto que ha mostrado actividad antiinfluenza A al alterar la estabilidad de la membrana lipídica de la célula huésped, impidiendo el proceso de endocitosis de virus encapsulados, , .
+LJ001: es una molécula de similar mecanismo de acción que glicirrizina y afecta el proceso de fusión del virus con la célula. Posee efecto antiviral de amplio espectro contra virus encapsulados, incluyendo influenza A.
+Bafilomicina A1 y concanamicina A: antibióticos macrólidos que inhiben la acción de la H+ ATPasa vacuolar que bombea protones desde el citoplasma celular al interior del endosoma, . Más recientemente se ha estudiado la salifenilhalamida, otro inhibidor de la H+ ATPasa vacuolar, mostrando eficacia antiviral.
+
+
+---- BROTE Y SALIDA DEL VIRUS
+
+La enzima farnesil difosfato sintasa, que participa en la síntesis de compuestos lipídicos de la membrana plasmática, es inhibida por la proteína viperina, cuya expresión es inducida por interferón. Se ha demostrado que dicha inhibición altera la composición de la membrana plasmática celular, interfiriendo con el ensamblaje y brote de las partículas virales. La enzima farnesil difosfato sintasa ha sido propuesta como potencial objetivo para el desarrollo de fármacos con actividad antivirus influenza.
+
+
+---- TRANSCRIPCIÓN Y TRANSPORTE DEL ARN VIRAL
+
+La proteína chaperona Hsp90 participa en la importación nuclear del ARN viral y en el ensamblaje de la polimerasa del virus, y se ha demostrado que se une a la proteína PB2, transportándose al núcleo junto con ella y modulando la interacción entre proteína polimerasa básica 1 y PA. Inhibidores de Hsp90 como geldanamicina y su derivado sintético 17-AAG han demostrado actividad contra virus influenza en cultivos celulares.
+Ribavirina y su precursor viramidina: son antivirales de amplio espectro. Ribavirina (Virazole®), usada en el tratamiento del virus de la hepatitis C, es un análogo del nucleótido guanosina y su principal mecanismo de acción es la inhibición competitiva de la enzima inosina 52 monofosfatasa deshidrogenasa de la célula huésped, afectando la biosíntesis de GTP y, por lo tanto, la síntesis del ARN viral y la producción de proteínas virales. A pesar de haber obtenido resultados positivos en animales, los estudios clínicos no han demostrado eficacia que avale su uso, .
+
+
+---- EXPORTACIÓN DEL COMPLEJO RIBONUCLEOPROTEICO VIRAL Y PROCESOS POSTRANSCRIPCIONALES
+
+Verdinexor (KPT-335): es una molécula que inhibe la proteína exportina 1 necesaria para la salida del complejo ribonucleoproteico del virus del núcleo al citoplasma. Se ha demostrado que posee actividad antiviral frente a diferentes cepas de influenza.
+Nitazoxanida: es un fármaco antiparasitario con actividad ante diferentes cepas de virus influenza A, ya que inhibe la maduración de la HA viral. Un estudio clínico aleatorizado demostró una reducción de los síntomas en pacientes con infección por influenza no complicada.
+
+
+---- VÍAS DE DEFENSA INTRACELULARES
+
+La vía Raf/MEK/ERK pertenece a la familia de las mitogen activated protein kinases –MAPK– y es activada por los virus influenza. Su bloqueo inhibe la exportación nuclear de ribonucleoproteínas por su interacción con la proteína viral de exportación nuclear, . Experimentos in vivo muestran que la administración del compuesto U0126, un inhibidor de MEK, reduce la carga viral en tejido pulmonar y mejora la supervivencia de ratones infectados con influenza. La asociación de inhibidores de MEK con oseltamivir aumenta la eficacia antiviral in vitro de este último.
+La vía del factor de transcripción NF-κB regula la expresión de citocinas antivirales cuya activación ha sido asociada con un incremento en la replicación de virus influenza, . El ácido acetil salicílico que inhibe la IKK2, cinasa activadora de IκB, tiene efecto antiviral, alterando la exportación nuclear de ribonucleoproteínas virales. La modulación de esta vía es promisoria para el desarrollo de nuevas terapias.
+
+
+---- OTROS AGENTES CON POTENCIAL ACTIVIDAD ANTIINFLUENZA
+
+Gran variedad de fármacos utilizados para otras enfermedades han sido identificados como inhibidores de la replicación del virus influenza mediante ensayos in vitro. Por ejemplo, se ha demostrado que los inhibidores de la Na,K-ATPasa poseen actividad antiviral frente a distintos tipos de virus ADN y ARN. Los glucósidos cardiotónicos, inhibidores específicos de la Na,K-ATPasa, tienen una potente actividad in vitro ante citomegalovirus y otros herpes virus; particularmente la ouabaína ha demostrado inhibir la síntesis de proteínas virales, . El virus del ebola también puede ser inhibido in vitro por la ouabaína; en los coronavirus el principal mecanismo inhibitorio de la ouabaína está dado por la activación de la vía de señalización intracelular de la cinasa Src y la inhibición del proceso de fusión. Los reovirus también son susceptibles a la acción de la ouabaína por alteración de la fusión viral. La digoxina, otro inhibidor de la Na,K-ATPasa, es activo in vitro frente al vaccinia virus. Recientemente se ha encontrado que diferentes miembros de la familia de glucósidos cardiotónicos inhiben la replicación del virus de influenza A in vitro , .
+En resumen, el tratamiento antigripal continúa siendo un desafío. Los fármacos actualmente utilizados son dirigidos a componentes virales y, por tanto, su eficacia puede verse afectada por los cambios genéticos propios del virus influenza. En los últimos años se han estudiado y desarrollado gran cantidad de fármacos dirigidos a modular la respuesta celular del huésped. Dado que tienen efecto ante distintas cepas del virus y minimizan la emergencia de especies resistentes, son promisorios como nuevos agentes para la terapia antiviral (fig. 1 ).Figura 1
+
+
+- FINANCIACIÓN
+
+Este artículo fue financiado en parte por subsidios de los National Institutes of Health, HL-48129 y HL-71643.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

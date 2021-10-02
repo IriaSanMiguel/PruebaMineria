@@ -1,0 +1,5 @@
+Se requiere la implementación de intervenciones en salud pública que reduzcan el impacto de estas dos condiciones en la población.
+Determinar la prevalencia de discapacidad auditiva (DA) y visual (DV) en adultos del estado de Tlaxcala, México.
+Se evaluaron 900 mujeres y 611 hombres (media=66.1 años). El 31.8% (481) tenía DA (415 sola y 66 con DV). La prevalencia de DA sola o con DV se asoció con edad (por cada dos años, RM=1.03 y RM=1.18, respectivamente) y con autorreporte del estado de salud deficiente (RM=1.90 y RM=3.69, respectivamente).
+Estudio transversal de base poblacional realizado en 2013 que incluye sujetos ≥50 años de edad. La DA se evaluó por autorreporte con el cuestionario Hearing Impairment Inventory for the Elderly (SHIIE); la DV se midió usando la cartilla E rotatoria de Snellen.
+

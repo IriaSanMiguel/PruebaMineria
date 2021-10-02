@@ -1,0 +1,6 @@
+el estudio VIDA es el primero que analiza el estado nutricional de una cohorte de pacientes ancianos diabéticos en España. Enlos resultados de este proyecto se concluye que un 21,2% de la muestra presenta malnutrición. Esta condición es edad y sexo dependiente, y puede empeorar la tasa de mortalidad.
+describir la población del estudio VIDA, incluyendo datos del perfil bioquímico y antropométrico en el momento del ingreso.
+la edad media de los pacientes ingresados fue 78 ± 7,1 años. El motivo de ingreso más frecuente fueron las infecciones respiratorias (32,4%). El 51,2% estaban diagnosticados de diabetes desde hacía más de 10 años. Un 33,09% recibía tratamiento con insulina. Un 39,07% presentaba riesgo de malnutrición y un 21,22% estaba mal nutrido en el momento del ingreso. Se encontró mayor prevalencia de malnutrición en el grupo de mujeres (p < 0,0002).
+la malnutrición es un problema de primer orden en el paciente hospitalizado que prolonga la estancia hospitalaria y la tasa de infecciones. El paciente diabético representa un porcentaje importante de la población hospitalizada. El estudio VIDA tiene como objetivo analizar el estado nutricional de pacientes ancianos con diabetes hospitalizados en España.
+estudio multicéntrico, transversal, observacional llevado a cabo en 1098 pacientes mayores de 65 años. Se incluyeron 35 hospitales españoles.
+

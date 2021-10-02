@@ -1,0 +1,55 @@
+COVID-19. LA HISTORIA SE REPITE Y SEGUIMOS TROPEZANDO CON LA MISMA PIEDRA
+
+
+- INTRODUCCIÓN
+
+A principios de diciembre de 2019, se detectó una neumonía de origen desconocido en la ciudad de Wuhan (China). A raíz de ello, las autoridades sanitarias de China se vieron sorprendidas por una serie de neumonías de origen desconocido que poseía una gran facilidad para su expansión. No se tardó en encontrar cierto paralelismo con las epidemias previas de coronavirus del síndrome respiratorio agudo severo (SARS-CoV) producida en 2003 y del síndrome respiratorio del Medio Oriente (MERS) ocurrida en 2012. Esta nueva epidemia provocaba más fallecimientos, aunque con una menor letalidad. Al virus causante, perteneciente a la familia Coronarividae, se le denominó coronavirus 2 del síndrome respiratorio agudo grave (SARS-CoV-2), y a la enfermedad, COVID-19.
+
+
+-- DE EPIDEMIA A PANDEMIA
+
+El 01 de enero de 2020, la Organización Mundial de la Salud (OMS) solicitó nueva información a las autoridades sanitarias de China para evaluar adecuadamente el riesgo real de la epidemia. En aquel tiempo se consideraron válidas las medidas que previamente se aconsejaban para la gripe y las infecciones respiratorias graves y no se consideró necesario limitar los viajes internacionales.
+En un principio se pensó que el brote epidémico podría ser controlado a nivel local en China. El 11 de marzo de 2020, ante la rápida y progresiva expansión de la epidemia a nivel internacional, la OMS decretó el estado de pandemia, recordando a los países el camino a seguir (tabla 1 ):
+
+
+-- LA EPIDEMIA COVID-19 EN ESPAÑA
+
+El 31 de enero de 2020 se detectó el primer caso de COVID-19 en la isla de la Gomera (España), tratándose como un caso importado de un contagio en Alemania. El 24 de febrero 2020 surgieron los primeros casos en la España peninsular hasta llegar a la situación actual (29/05/2020) en la que se han detectado 237.906 casos confirmados con RT-PCR (reacción en cadena de la polimerasa con transcriptasa inversa) y se han producido 27.119 muertes debidas a la COVID-19. Persisten las dudas sobre el futuro comportamiento y evolución de la epidemia y si cabe esperar una nueva oleada de la enfermedad, puesto que se sigue observando hasta un 78% de sujetos asintomáticos o pre-sintomáticos que presentan un resultado positivo en la prueba de RT-PCR frente al SARS-CoV-2. Estos datos refuerzan la necesidad de poner en práctica una de las recomendaciones más aplaudidas de la OMS frente a la COVID-19, en la que priorizaba el éxito de la lucha en la realización extensiva de pruebas para identificar la presencia del virus, y que resumieron como TEST-TEST-TEST.
+Esta nueva situación ha desbordado toda previsión de los Sistemas de Salud, al igual que ocurrió en situaciones similares en épocas previas. Baste con recordar lo ocurrido en la epidemia de gripe acaecida en el año 1918, en la que se estima que al menos hubo 50 millones de muertos a nivel mundial a consecuencia del virus H1N1. Probablemente la responsabilidad de tan alarmante mortalidad en aquella epidemia no fuera achacable, exclusivamente, al virus y deba compartirla con otras circunstancias reinantes en aquel año (no existían vacunas, medicina menos desarrollada, pobreza y malnutrición, hacinamiento, poca accesibilidad a la medicina). Esto último debería alertar sobre el efecto de la pandemia por SARS-CoV-2 en las poblaciones menos favorecidas en las que se ha observado una mayor incidencia y mortalidad de la COVID-19, , , recordando a las minorías étnicas y a aquellos mal llamados «marginados» (quizás se les debiera denominar «abandonados»).
+
+
+-- OTRAS EPIDEMIAS EN LA HISTORIA
+
+Quizás, y aunque la etiología fuera diferente, epidemias previas pueden remedar las situaciones y comportamientos vistos en la actual epidemia COVID-19. En el año 1665 la ciudad de Londres se vio sometida a una grave epidemia de peste y, casualmente, existe un relato recogido del año 1663 que alababa el beneficio de la quinina suministrada por un cacique indio en Perú para curar una fiebre gravísima. En esos mismos años, se empezó a utilizar la quinina en el tratamiento del paludismo. Recientemente, en el contexto de la pandemia COVID-19, se ha descartado el empleo tanto de cloroquina como de hidroxicloroquina en los casos graves hospitalizados debido al aumento de la mortalidad y de la frecuencia en la aparición de arritmias ventriculares, estando pendiente de comprobar su posible utilidad en las etapas más tempranas de la infección.
+En el libro «Historia de la Medicina» de Douglas Guthrie, se hace referencia a Sydenham, y se construye un relato de lo ocurrido en Londres durante la epidemia de peste de 1665 y que se podría comparar con los hechos acaecidos con la actual pandemia COVID-19, como a continuación se expone.
+La aparición de la actual pandemia por el SARS-CoV-2 parece haberse vivido con cierta sorpresa. Sin embargo, las epidemias o pandemias han ido acompañando a la humanidad a lo largo de su historia (fig. 1 ), , por lo que más que una sorpresa, se debería hablar de un olvido de gran importancia. El hombre es el único animal que tropieza dos veces en la misma piedra.Figura 1
+
+
+-- PANDEMIA A NIVEL MUNDIAL
+
+En lo que respecta a la pandemia por el SARS-CoV-2, la afectación mundial ha sido rápida, extensa y en continuo crecimiento debido a una vía común de contagio, como es la vía respiratoria, la gran contagiosidad demostrada y el rápido intercambio de bienes y personas. Su afectación a recaído, aunque en diferente medida, en todos los extractos sociales tanto de los países ricos como de aquellos emergentes y pobres.
+La impresión actual es que la epidemia sigue extendiéndose a nivel mundial con distintas fases evolutivas en los diferentes países, con un número creciente de afectados y fallecidos a pesar de una menor letalidad del virus, sea por la menor virulencia del mismo, la mejor comprensión de la enfermedad entre el personal sanitario y la menor saturación hospitalaria por nuevos casos. A pesar de ello, la pandemia sigue activa afectando especialmente a la población de mayor edad, con comorbilidades asociadas y pertenecientes a grupos sociales menos favorecidos.
+
+
+-- FUTURO DE LA PANDEMIA
+
+En España las cifras de la epidemia van decayendo (fig. 2 ), habiéndose iniciado la flexibilización de las medidas tomadas e iniciando las sucesivas fases de desescalada.Figura 2
+Esto puede hacer creer a la población que el problema ya se ha solucionado y que las medidas de contención y lucha contra la pandemia han de ser más laxas o incluso abandonadas.
+Sin embargo, hay que ser conscientes de que se desconoce cuál será la evolución futura de esta pandemia, si se presentará un rebrote tras la laxitud en las medidas de autoprotección, si habrá nuevos brotes estacionales, si la persistencia de la infección por SARS-CoV-2 en otros países facilitará la existencia de casos importados o si simplemente, la infección desaparecerá a la espera de que un nuevo salto desde algún reservorio del actual virus o alguna nueva mutación del mismo, origine una nueva pandemia.
+Hasta que no se obtenga una vacuna eficaz al alcance de toda la población, la esperanza se centra en el reconocimiento de cuáles son los condicionantes que permiten a la infección por SARS-CoV-2 desencadenar la afectación multiorgánica a través de la tormenta de citocinas y del estado de hipercoagulabilidad. Mientras tanto, es preciso continuar identificando e investigando con el fin de encontrar el manejo terapéutico más adecuado para contrarrestarla.
+Hasta que ese momento llegue, dada la repercusión ocasionada por la actual pandemia SARS-CoV-2, se debería encontrar un equilibrio entre el comportamiento cotidiano y el mantenimiento de medidas adecuadas de autoprotección, mantenerse preparado para ofrecer una rápida respuesta ante cualquier nuevo brote. Por todo ello, se debe insistir en aplicar tanto las medidas de control del brote como aquellas medidas permanentes que ayuden a controlar la enfermedad, entendiendo que el problema asienta en la comunidad y que todos sus estamentos, incluida la población, tienen la obligación de colaborar para el bien común asumiendo las responsabilidades pertinentes (tabla 2 ), , , , .
+
+
+- CONCLUSIÓN
+
+Las enfermedades infecciosas, sea en forma de epidemia o de pandemia, han acompañado a la humanidad a lo largo de su historia. El gran número de afectados y el incremento de la mortalidad hacen que sean, ante la incertidumbre creada, un verdadero problema de salud con repercusiones sociales. Es necesario crear las bases necesarias bien consolidadas que sustenten una rápida respuesta ante los primeros signos de un nuevo brote de una vieja epidemia o de una epidemia nueva.
+
+
+- FINANCIACIÓN
+
+El presente trabajo no ha recibido ayuda económica ni de ningún otro tipo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no existen conflictos de intereses.

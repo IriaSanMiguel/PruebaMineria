@@ -1,0 +1,27 @@
+PANCREATITIS AGUDA NECROHEMORRÁGICA DURANTE LA INFECCIÓN POR SARS-COV-2
+
+
+La COVID-19 ha afectado a más de 145 millones de personas en todo el mundo, con más de tres millones de muertes actualmente1. La presentación más común es la afectación respiratoria, aunque cada vez más estudios revelan la asociación de efectos sistémicos, entre ellos el compromiso gastrointestinal, pancreático y biliar.
+Presentamos un caso de pancreatitis aguda relacionada con la COVID-19.
+
+
+- CASO
+
+Mujer de 63 años, con antecedentes de hipertensión arterial (HTA), sobrepeso, dislipemia y diabetes mellitus (DM) tipo II, que presentó reacción en cadena de la polimerasa (PCR) positiva para SARS-CoV-2. Acudió a urgencias tras presentar disnea progresiva. Con diagnóstico de neumonía bilateral, ingresó en planta y recibió tratamiento con dexametasona y remdesivir. Presentó empeoramiento respiratorio, por lo que ingresó en la Unidad de Cuidados Intensivos (UCI) donde se procedió a intubación orotraqueal y se iniciaron maniobras de pronosupinación. Además, se añadió al tratamiento plasma hiperinmune y tocilizumab.
+Tras una buena evolución respiratoria inicial, el 12° día de ingreso en UCI presentó shock de perfil distributivo. A la exploración presentaba distensión abdominal, ausencia de peristaltismo y sensación de empastamiento en epigastrio. Se realizó tomografía computarizada (TC) urgente, que objetivó la presencia de neumoperitoneo y cambios sugestivos de pancreatitis aguda en el proceso uncinado pancreático. Los niveles de amilasa y lipasa resultaron normales (37 UI/L y 42 UI/L, respectivamente). Se realizó una laparotomía exploradora de carácter urgente, en la que se constató la presencia de pancreatitis necrohemorrágica en estadio evolutivo avanzado. Durante las horas ulteriores la paciente presentó inestabilidad hemodinámica progresiva y fracaso multiorgánico. Finalmente, falleció 12 horas más tarde.
+La pancreatitis infecciosa es una entidad poco frecuente, causada principalmente por virus hepatótropos, virus de la parotiditis, citomegalovirus (CMV), coxsackie B, virus de la inmunodeficiencia humana (VIH), virus varicela Zoster (VVZ) y, con menor frecuencia, influenza A.
+La presentación de pancreatitis aguda en pacientes COVID-19 se ha reportado de forma infrecuente. Nuestra paciente presentó neumonía bilateral con síndrome de distrés respiratorio agudo (SDRA) (PaO2/FiO2 < 200) y pancreatitis aguda necrohemorrágica de forma concomitante. El diagnóstico de pancreatitis se basó en pruebas de imagen y visualización directa mediante laparotomía exploradora. Las etiologías habituales de pancreatitis aguda se descartaron.
+El SARS-CoV-2 se introduce en las células huésped a través de la unión de su proteína pico (S) con la enzima convertidora de angiotensina 2 (ACE2), expresada en la superficie de las células de múltiples localizaciones. La fisiopatología del daño gastrointestinal en la COVID-19 es, probablemente, multifactorial: el daño tisular directo mediado por el virus es plausible, dada la presencia de ACE2 en las células glandulares del sistema digestivo, , también, la evidencia histopatológica de inflamación difusa e isquemia mesentérica, sugieren la existencia de lesiones en la microvascularización del sistema digestivo.
+En cuanto a la lesión pancreática, la expresión de ACE2 en las células pancreáticas puede ser ligeramente más alta que en las células epiteliales respiratorias, tanto en las regiones exocrinas como en los islotes pancreáticos endocrinos. Incluso se ha informado de la detección de ARN de SARS-CoV-2 en una muestra de líquido de pseudoquiste pancreático en un paciente con neumonía por SARS-CoV-2 y pancreatitis aguda. Se han comunicado casos de lesión pancreática aguda en pacientes COVID-19, entre otros, el estudio publicado por Liu et al., informó de que el 17,9% y el 16,4% de los pacientes habían aumentado niveles de amilasa y lipasa, respectivamente, solo 7,46% mostraron cambios pancreáticos en la tomografía computarizada (TC).
+La asociación temporal entre pancreatitis aguda y COVID-19 es fuertemente indicativa de lesión inducida por SARS-CoV-2. Nuestra paciente recibió tratamiento con remdesivir y tocilizumab, de los que hasta el momento no se han descrito en ficha técnica efectos adversos relacionados con pancreatitis aguda grave, así como corticoterapia a dosis altas. Es prudente no subestimar la posibilidad de atribuir a los fármacos cierta causalidad. La presencia de neumoperitoneo en la TC planteó la hipótesis diagnóstica de diverticulitis complicada, entidad clínica descrita en pacientes que han recibido tratamiento con tocilizumab. Finalmente se descartó mediante la laparotomía exploradora. No se encontró el origen del neumoperitoneo. Se contempló la posible presencia de gérmenes anaerobios, productores de gas, no confirmada por no obtenerse cultivos intraoperatorios.
+La mayoría de los casos comunicados han sido diagnosticados en el seno de un proceso de enfermedad moderada o grave, lo cual sugiere que la fisiopatología de la pancreatitis podría basarse en una respuesta inflamatoria sistémica en lugar de un efecto citopatológico directo causado por SARS-CoV-2.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras declaran no tener ningún conflicto de intereses.

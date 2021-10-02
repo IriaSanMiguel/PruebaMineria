@@ -1,0 +1,165 @@
+ANÁLISIS DE LA POBLACIÓN DIABÉTICA DE UNA COMARCA: PERFIL DE MORBILIDAD, UTILIZACIÓN DE RECURSOS, COMPLICACIONES Y CONTROL METABÓLICO
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus (DM) es un importante problema de salud mundial. Estudios realizados en España en las dos últimas décadas estiman la prevalencia de DM tipo 2 (DM2) entre el 4,8 y el 18,7%, en diferentes subgrupos de edad, y la de DM tipo 1 (DM1) entre el 0,08 y el 0,2%. Aunque los criterios diagnósticos han variado, se considera que la tendencia es creciente, en particular para la DM2, y que la prevalencia real estaría actualmente en un 10% de la población adulta, .
+El aumento de la prevalencia de esta enfermedad es una de las preocupaciones de todos los sistemas de salud, entre otros motivos por los costes que genera. El análisis del coste de la DM ha generado varios estudios en Estados Unidos, Europa y España, en los que siempre aparece el interés por la determinación de los costes asociados a la comorbilidad, , , .
+El impacto económico no puede medirse solo en términos absolutos. Es obligado hacer enfoques que tengan en cuenta el gasto directo de los procedimientos y recursos utilizados para el control de una determinada enfermedad y considerar las preferencias individuales de los pacientes en el manejo de su enfermedad para valorar su impacto sobre el estado de salud, que estará relacionado con el gasto sanitario total de cada individuo. Así, en el caso de la DM parece muy relevante analizar conjuntamente los costes derivados del tratamiento y autocontrol, el grado de control metabólico y la presencia de complicaciones.
+Por otra parte, puede haber una gran variabilidad individual en el desarrollo de la DM y sus complicaciones, así como en la efectividad real de los procedimientos terapéuticos y de control. Por esto conviene que los análisis sobre morbilidad y costes, tengan un enfoque poblacional global, que incluya una diversidad suficiente de perfiles de pacientes y de profesionales sanitarios en un entorno de práctica real, que incluya todos los niveles asistenciales, y se construyan con datos individualizados de cada uno de los pacientes y de los procedimientos asistenciales.
+Unas aproximaciones a la morbilidad y costes de la DM en el marco de estudios previos más genéricos, realizados por el equipo del presente trabajo, mostraron que los pacientes diabéticos acumulaban el 12,5% del gasto sanitario total y el 15% del coste farmacéutico, y que el coste medio de un diabético era 3,5 veces superior al coste medio global. Asimismo, los diabéticos sin complicaciones representaban el 40% del total y acumulaban solo el 23% del coste de la DM. Se hacía patente que la comorbilidad es un factor fundamental en la explicación del coste de los pacientes diabéticos, que incrementaba hasta 20 veces el coste sanitario total y hasta 10 veces el coste farmacéutico en determinados subgrupos de pacientes diabéticos, .
+El objetivo del presente estudio es describir detalladamente y con un enfoque integrado las características de la población diabética de una comarca, de acuerdo a su perfil de morbilidad, consumo de recursos, complicaciones y grado de control.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio transversal.
+
+
+-- ÁMBITO
+
+Población residente el año 2010 en las 4 áreas básicas de salud donde la organización sanitaria integrada Serveis de Salut Integrats Baix Empordà (SSIBE) cubre la totalidad del continuo asistencial atención primaria-hospital básico-atención a la dependencia, que en conjunto suman 91.301 habitantes, .
+En SSIBE se dispone de un sistema de información integrado, con una historia clínica informatizada (HCI) única para todos los centros. Se codifican todos los contactos asistenciales mediante la CIE-9-MC, y los agrupa mediante el software 3M® Clinical Risk Groups (CRG). Esta agrupación permite tener un perfil de salud poblacional, que se está utilizando como base de datos de morbilidad poblacional de SSIBE, en una línea de investigación sobre el análisis de morbilidad poblacional y el gasto sanitario, , .
+La atención a la DM se presta en coordinación y con el soporte de la Unitat de Diabetis, Endocrinologia i Nutrició Territorial de Girona (UDENTG) adscrita al Hospital Josep Trueta, que cubre toda la provincia, y atiende directamente los pacientes de mayor complejidad, principalmente de tipo 1.
+
+
+-- SELECCIÓN Y CLASIFICACIÓN DE CASOS
+
+Se incluyeron en el estudio todos los pacientes diabéticos del ámbito de estudio. Para identificar los casos se partió de la base de datos de morbilidad poblacional de SSIBE. La selección de casos se llevó a cabo a la finalización del año 2010 y solo se incluyeron datos registrados durante ese año.
+El modelo de agrupación con CRG efectúa una primera agrupación, que clasifica los códigos CIE-9-MC en categorías diagnósticas mayores (MDC). Así, en un primer paso, se han seleccionado 4.962 personas que durante el año 2010 fueron clasificadas en la MDC 101 Diabetes Mellitus a partir de los códigos CIE-9-MC asignados a sus contactos asistenciales.
+Cada MDC agrupa diferentes categorías de episodios de enfermedad (EDC), construidas también a partir de los códigos CIE-9-MC. Se ha considerado que el EDC 427 Diabetes-Juvenil onset identificaba a los pacientes con DM1, y el EDC 424 Diabetes, a los pacientes con DM2.
+Como fuente complementaria de casos, se ha utilizado el registro de pacientes diabéticos de la UDENTG, que ha permitido identificar otros 23 pacientes tipo 1, que no habían sido identificados como diabéticos según los códigos de los contactos con SSIBE.
+Los pacientes diabéticos incluidos finalmente en el estudio han sido 4.985: 4.672 tipo 2 y 313 tipo 1. De ellos, 4.791 son controlados totalmente por SSIBE (119 DM1) y, por lo tanto, se dispone de toda la información de utilización de recursos. Los otros 194 de tipo 1 son atendidos en colaboración con la UDENTG, y no se dispone de información de los recursos utilizados fuera de SSIBE.
+
+
+-- VARIABLES Y FUENTES
+
+--- EDAD Y SEXO
+
+Según registros del aplicativo clínico-administrativo de SSIBE.
+
+
+--- MORBILIDAD
+
+Se obtuvo de la base de datos de morbilidad poblacional de SSIBE, donde cada paciente consta asignado a una de las 1.109 CRG que contempla la versión 1.6.1 del software CRG, .
+
+
+--- PREVALENCIA
+
+Se calcula la prevalencia del conjunto de la población diabética, desglosada por tipo de diabetes y por género y grupo de edad. Se utiliza como patrón de referencia para comparaciones el estudio Di@bet.es.
+
+
+--- ACTIVIDAD ASISTENCIAL
+
+Extraída del registro de actividad único de todos los centros de SSIBE; incluye para cada paciente las visitas médicas y de enfermería de atención primaria (AP), visitas de consulta externa (CCEE) de cualquier especialidad, visitas a urgencias hospitalarias (URG), visitas a urgencias de atención primaria (UAP) y episodios y días de hospitalización.
+
+
+--- COMPLICACIONES
+
+Se identificaron a partir de la codificación clínica de las actividades asistenciales antes mencionadas. El sistema CRG utiliza los EDC para agruparlos en agudos (códigos CIE-9-MC entre 250.10 y 250.32) y crónicos (códigos entre 250.40 y 250.92). Para la detección de casos de hipoglucemia se ha utilizado el algoritmo validado por Ginde et al..
+En el caso de la hospitalización, se han adoptado los criterios de cálculo de los «Indicadors de Qualitat de la Prevenció» utilizados por el CatSalut en Cataluña que están basados en los «Preventive Quality Indicators» de la Agency for Healthcare Research and Quality y adaptados a las características de nuestro entorno sanitario. Se definen los indicadores de hospitalización para diabetes por complicaciones a corto plazo, por complicaciones a largo plazo, por diabetes incontrolada, por amputaciones de extremidades inferiores y un índice combinado de los 4 anteriores referido a la población general y a la población diabética.
+
+
+--- CONSUMO FARMACÉUTICO
+
+Se ha obtenido del fichero de facturación de recetas del CatSalut, que contiene para cada receta facturada: identificación del paciente y del fármaco así como el precio total y la aportación pública del mismo. Para identificar los fármacos antidiabéticos se ha utilizado la clasificación de principios activos «Anatomical Therapeutic Chemical» (ATC) de la OMS, seleccionando los del código ATC A10. Se han categorizado en insulinas (A10A), antidiabéticos orales (ADO) y estos, a su vez, en ADO secretagogo (A10BB, A10BX) y ADO no secretagogo (A10BA, A10BF, A10BG). Sobre la base de la utilización de estos fármacos, se establecieron 4 categorías de pacientes.
+El gasto farmacéutico de un paciente se obtiene a partir de la suma del valor de la aportación pública de cada una de las recetas facturadas de cada paciente. Se presentan datos según el tipo de fármacos utilizados (antidiabéticos, resto de fármacos, todos los fármacos).
+
+
+--- CONSUMO DE TIRAS REACTIVAS
+
+El aplicativo de gestión de productos sanitarios de SSIBE proporcionó los datos globales de tiras reactivas consumidas en cada centro y su coste medio. El consumo individual de tiras se obtuvo del registro de dispensaciones de la HCI.
+Según datos internos previos de SSIBE, se consideró que el 10% de los envases suministrados a los centros se destinan a uso general no individualizable. Con esta premisa, se estimó la proporción de tiras dispensadas a pacientes diabéticos que se registraron en la HCI. Para el cálculo del consumo medio se han descartado los casos con utilización registrada inferior a 30 días.
+Para la valoración de la idoneidad de la utilización de tiras reactivas, se utilizaron los criterios del documento de consenso de l’Institut Català de la Salut.
+
+
+--- CONTROL METABÓLICO
+
+Para caracterizar el control metabólico se ha utilizado el último valor de hemoglobina glucosilada A1c (HbA1c) registrado durante el año 2010 en el aplicativo de laboratorio de SSIBE. Se clasificaron como «desconocidos» los que no tenían valor registrado ese año.
+Siguiendo criterios aceptados en nuestro contexto, se clasificó como: buen control si HbA1c < 7%; control aceptable si HbA1c entre 7 y 8%, y mal control si HbA1c > 8%.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se efectuó un análisis univariado, presentando las variables cualitativas mediante frecuencia y porcentajes, mientras que las cuantitativas se presentan con mediana y rango intercuartílico (Q1-Q3). También cabe señalar que en escogidas variables se realiza análisis bivariado comparando por edad, sexo y por tipos de tratamiento. En el que se ha utilizado el programa PASW statistics 18.0 (SPSS Inc., an IBM Co. Chicago, Illinois, Estados Unidos).
+
+
+-- ASPECTOS ÉTICOS
+
+El proyecto del estudio fue aprobado por el Comité de Investigación Clínica de SSIBE. Dada la metodología del estudio, basado en la revisión retrospectiva de registros clínico-administrativos, no se solicitó consentimiento informado. La extracción de datos fue efectuada por un profesional de SSIBE, y su manejo se ha efectuado de forma anonimizada.
+
+
+- RESULTADOS
+
+La prevalencia identificada de DM en el ámbito del estudio el año 2010 fue del 5,5% del total de la población (5,0% en mujeres y 5,9% en hombres), y del 6,7% en mayores de 18 años. Aumenta con la edad, fundamentalmente la DM tipo 2, hasta un máximo del 23% en el grupo de 75 a 84 años (21% de las mujeres y 25% de los hombres) . La prevalencia es significativamente mayor entre los hombres (p < 0,05) en todos los grupos de edad excepto en menores de 30 años.Figura 1
+Se han contrastado los resultados obtenidos con los del estudio Di@bet.es. Las prevalencias por grupos de edad son equiparables, eso sí, alrededor de los límites inferiores de estimación de la diabetes conocida .
+
+
+-- PERFIL DE MORBILIDAD
+
+La práctica totalidad de los casos identificados tienen un perfil de morbilidad atendida que se asigna a alguno de los 20 CRG base claramente relacionados con la diabetes, de modo que los pacientes incluidos tienen como principal problema de salud esta enfermedad y sus comorbilidades. Cuando se añade el nivel de severidad que asigna el agrupador (de 4 a 6 para cada uno de estos CRG base), se desglosan en 120 CRG. Los CRG base más comunes son 5424-Diabetes, con 1.344 casos (27%); 6144-Diabetes and Hypertension, con 1.273 casos (25,5%), y 6143-Diabetes and Other Moderate Chronic Disease, con 856 casos (17,2%) .
+
+
+-- CONSUMO DE RECURSOS ASISTENCIALES (<XREF RID="TBL0005" REF-TYPE="TABLE">TABLA 1</XREF>; <XREF RID="FIG0015" REF-TYPE="FIG">FIG. 2</XREF
+
+El 99,3% de la población diabética acudió al menos una vez al centro de salud, realizando 64.701 visitas (13 visitas/pac). Estas representan el 14,9% del total de visitas de atención primaria (AP) en SSIBE. En el 39,5% la consulta fue relacionada directamente con la DM.
+En urgencias de AP, se atendió al 45,2% de las personas diabéticas. De modo global, se realizaron 6.825 visitas, 8% del total de urgencias de AP, con una media de 3 visitas/pac. En 269 (3,9%) la consulta fue relacionada directamente con la DM.
+El 70,5% de los diabéticos fueron atendidos en consultas externas de atención especializada. Se realizaron un total de 17.469 visitas (12,3% del total de visitas de consulta externa). Las relacionadas directamente con la DM representan el 10,3% del total.
+El 28,8% de la población diabética acudió a urgencias hospitalarias. En total se contabilizaron 2.700 visitas urgentes (8,1% del total de urgencias hospitalarias), con una media de una visita/pac. Las visitas relacionadas directamente con la DM representan el 6,7% del total.
+El 11,9% de la población diabética ingresó en el hospital por cualquier motivo. El número de ingresos de los pacientes diabéticos representa el 11,3% del total de ingresos y el 23,3% de las estancias hospitalarias totales. Los episodios relacionados directamente con la DM representan el 6,5% del total. La estancia media fue de 7,4 días y la complejidad, medida por el peso medio de los GRD (AP-GRD versión 25), fue 1,9315. La estancia media de la población no diabética fue 4,8 y el peso medio 1,3210.
+Se ha analizado la distribución de la actividad asistencial según los distintos perfiles de morbilidad. El número total de contactos y la proporción entre diferentes recursos varía según el CRG: a medida que aumenta la complejidad se incrementa el total, y en particular las urgencias hospitalarias y los ingresos.
+
+
+-- COMPLICACIONES DE LA DIABETES
+
+Se identificaron 90 pacientes con un cuadro de hipoglucemia (1,8% de la población diabética), en 127 episodios: 38 visitas de AP, 34 urgencias de AP y 55 urgencias hospitalarias. La frecuencia fue 1,4 episodios/persona afectada. La mayoría de ellos no requirieron ingreso hospitalario aunque algunos necesitaron de una estancia en urgencias de varias horas.
+Otras complicaciones agudas (cetoacidosis, hiperosmolaridad u otro tipo de coma) se identificaron en 38 visitas de AP de 10 pacientes y en 184 urgencias hospitalarias de 126 pacientes. Se registraron complicaciones crónicas micro y macrovasculares de órganos diana en 1.400 visitas de AP de 253 pacientes y en 86 urgencias hospitalarias de 65 pacientes. Las complicaciones agudas afectan a 5 de cada 1.000 diabéticos mientras que las complicaciones crónicas más frecuentes afectan al 3% de la población diabética.
+El 7,5% de las personas diabéticas sufre una hospitalización relacionada con la diabetes (complicaciones agudas 3,8 ingresos/1.000 diabéticos; complicaciones crónicas 4 ingresos/1.000 diabéticos; amputaciones 2,4 ingresos/1.000 diabéticos). Estos ingresos representan el 6,5% de ingresos hospitalarios de los diabéticos así como el 6,5% de las estancias hospitalarias de esta población.
+
+
+-- CONSUMO FARMACÉUTICO
+
+En el año 2010 se facturaron un total de 379.745 recetas de los pacientes diabéticos, el 23,6% de las recetas emitidas al conjunto de la población estudiada. El consumo anual por paciente osciló entre 0 y 526 recetas, con un promedio de 76. El 98,5% de pacientes tuvo algún consumo de farmacia.
+El coste fue de 5.057.644 € (aportación pública) lo que supone un 25,4% del total del consumo de la población. El coste medio por paciente fue de 1.014,57 € con un máximo de 11.514,39 €.
+Del total de recetas facturadas, 60.477 (15,9%) correspondían a fármacos antidiabéticos (ATC A10). El coste de estos fármacos fue 1.073.531,91 € (21,2%) con un coste promedio de 215,35 €/persona.
+El 15% de los diabéticos no consumieron fármacos antidiabéticos y el 24% consumieron insulina en algún momento del año .
+El consumo de farmacia total, y dentro de ella el de fármacos antidiabéticos, así como la proporción de cada tipo, varían en función del perfil de morbilidad asociada a la diabetes. Así, el consumo anual de farmacia total por persona clasificada en el CRG 5424-Diabetes (522,25 €) se multiplica entre 3 y 4,5 para las de los CRG incluidos en el Status 7 (diabetes y otras 2 o más enfermedades crónicas dominantes). La proporción de fármacos antidiabéticos respecto al total varía en sentido inverso: 45,6% en el CRG 5424-Diabetes, y entre el 8,6% y el 18,4% en los del Status 7. El perfil terapéutico del tratamiento antidiabético también varía con relación al CRG. Así, solo en los CRG del Status 7 la insulina fue utilizada por un 40-50% de pacientes .
+
+
+-- CONSUMO DE TIRAS REACTIVAS DE GLUCEMIA
+
+El consumo de tiras reactivas en el año 2010 fue de 17.941 envases con un coste total de 274.975,25 €. El precio medio ponderado de un envase de 50 tiras fue de 16,78 €, que es el que se ha utilizado para la valoración económica. Como se estima que el 10% de los envases se destinan a uso interno, los destinados a consumo individual habrían sido 16.174 envases.
+En el aplicativo clínico se registró la entrega a pacientes de 13.144 envases (81,3%), correspondientes a 1.857 pacientes (37,3%). Una vez descartadas las de consumo inferior a 30 días, quedan 1.822 personas y 13.100 envases, con un consumo entre 1 y 81 envases y un promedio de 7. El periodo de consumo osciló entre 31 y 365 días, con un promedio de 315. El coste acumulado fue 219.818 €, con un coste medio por persona de 120,65 €, comprendido entre 16,8 y 1.359,2 €.
+El análisis de adecuación de la prescripción de tiras reactivas detectó que el 4% de los diabéticos que no toman fármacos antidiabéticos consumen tiras y con un consumo semanal alto. El 10% de los pacientes con fármacos no secretagogos consumen tiras cuando no es la recomendación. El porcentaje de pacientes con fármacos secretagogos que consume tiras oscila ente el 35-50% con un consumo medio adecuado. El porcentaje de pacientes con consumo de insulina que consumen tiras está por encima del 80%. En la tabla 2 se recoge el consumo medio semanal de tiras reactivas para cada uno de los grupos de pacientes según los fármacos antidiabéticos utilizados.
+
+
+-- CONTROL METABÓLICO DE PACIENTES DIABÉTICOS
+
+El grado de control bueno/aceptable (HbA1c menor o igual a 8) fue de 71,6%. En un 12,2% de los casos no se dispone de registro de HbA1c en el año de estudio.
+El nivel de control de la diabetes es diferente en función del tipo de fármacos que se esté utilizando. En general, en los pacientes que no toman fármacos o se tratan con no secretagogos se alcanza una mayor proporción de casos de buen/aceptable control de la DM. En los tratados con fármacos secretagogos y/o insulinas la proporción de casos de buen/aceptable control es menor .
+
+
+- DISCUSIÓN
+
+Este estudio presenta los datos de la población diabética de una comarca de Cataluña gestionada por una organización sanitaria integrada, SSIBE. Una primera diferencia con otros estudios es que se trata del conjunto de la población y no de una muestra de la misma. Para la selección de los pacientes se han utilizado bases de datos administrativas a partir de la codificación clínica. Como no se ha efectuado ninguna comprobación clínica, la precisión de la codificación determina la calidad de los resultados obtenidos.
+La prevalencia de diabetes mellitus observada en los registros clínicos se ha establecido en el 5,5% de la población total, y el 7,3% de las personas adultas (mayores de 24 años). Se han contrastado los resultados obtenidos con los del estudio Di@bet.es, el más reciente realizado en España, referido a los años 2009-2010. Se trata de un estudio de una muestra representativa de la población española (5.072 personas) a las que se les realiza una prueba de tolerancia oral de glucosa (solo al 62%) y se estima la prevalencia de diabetes y los trastornos de regulación de la glucosa. Los resultados del presente estudio son equiparables a las estimaciones realizadas en el estudio Di@bet.es, eso sí, alrededor de los límites inferiores de estimación de la diabetes conocida .
+Con relación a las prevalencias observadas en diversos estudios recogidos en un trabajo de Valdés et al., situadas entre el 10-15%, debe tenerse en cuenta que el sistema de medida aquí utilizado difiere de dichos trabajos en que se utilizan solo bases de datos administrativas. Nuestro estudio incluye 4.985 personas diabéticas y por tanto de mayor tamaño que todos los reseñados en el trabajo de Valdés et al. Además, se trata del seguimiento de todo un año con el conjunto de todos los contactos del paciente.
+El análisis del consumo de recursos global de la población estudiada muestra que solo una parte de esta actividad está relacionada con el control de la diabetes. Así, solo el 40% de las visitas de atención primaria y menos del 10% de los contactos del resto de recursos analizados se dedican a la gestión de la diabetes. Tal y como ponen de manifiesto los CRG, los niveles de comorbilidad son elevados y apenas el 27% de los pacientes solo presentan diabetes sin comorbilidades .Figura 2
+El consumo farmacéutico se ha abordado de modo desagregado por tipo de fármaco, lo que permite una mejor comprensión del mismo. De hecho, el grupo de fármacos antidiabéticos representa apenas el 21% del coste farmacéutico; y dependiendo del CRG base considerado oscila entre el 9 y 44% .
+El número de episodios asistenciales donde se detectan hipoglucemias es bajo, y afectan al 1,8% de los diabéticos, con aproximadamente 1,4 episodios por paciente afectado y año. Estos datos son perfectamente comparables con los encontrados en la literatura especializada, , , , . Representan una parte pequeña en el conjunto de recursos asistenciales consumidos.
+El análisis de complicaciones agudas y crónicas de la diabetes suele centrarse en los ingresos hospitalarios, , . Este estudio ha estimado 57 ingresos hospitalarios por 100.000 habitantes y año para todas las causas de complicación de la diabetes. Si lo referimos a la población diabética la estimación es 10 ingresos hospitalarios por 1.000 personas diabéticas y año.
+Los niveles de control metabólico aceptable (HbA1c < 8%) identificados oscilan alrededor del 71% y son similares a los referenciados en otras fuentes de ámbito estatal y autonómico, , , .
+En este estudio se han introducido datos relativos al consumo de tiras reactivas, que se han puesto en relación con los niveles de control de la diabetes y con los perfiles terapéuticos utilizados. Hay que resaltar que el sistema de registro solo ha permitido identificar el 82% del consumo total de envases teóricamente entregados a pacientes. El trabajo ha permitido detectar que un 4% de los diabéticos consumen tiras reactivas, a pesar de no estar indicadas según las guías clínicas utilizadas, .
+En definitiva, el estudio ha permitido detallar en profundidad las características de la población diabética de toda un área geográfica, en situación de práctica real y desde una perspectiva integradora. El conocimiento de la utilización de recursos asistenciales, el gasto farmacéutico y los niveles de control de la enfermedad puede permitir el desarrollo de nuevas estrategias de manejo clínico de los pacientes diabéticos.Lo conocido sobre el tema•La diabetes mellitus (DM) es una de las enfermedades crónicas con mayor impacto en la salud, y su prevalencia va en aumento.•La atención primaria tiene un papel muy relevante en el control de la DM, pero para conocer los costes del control de la enfermedad deben tenerse en cuenta los efectos sobre el conjunto del sistema sanitario.•Las personas diabéticas presentan a menudo otras enfermedades, no solo directamente relacionadas con la DM, pero con efectos concomitantes; por ello, en el análisis de utilización de recursos por la persona diabética es indisociable lo que atañe en exclusiva a la DM.Qué aporta este estudio•Un enfoque poblacional integrado, y la utilización de bases de datos clínico-administrativas y de un agrupador de morbilidad permiten identificar a los diabéticos, describir su perfil de morbilidad y caracterizar su utilización global de recursos.•Los diabéticos consumen una proporción de recursos sanitarios muy superior a la prevalencia de la enfermedad, en particular visitas de AP, ingresos hospitalarios y farmacia, pero la mayoría no están directa o exclusivamente relacionados con la DM.•La adecuación de la utilización de tiras reactivas de autocontrol es mejorable, respecto a los estándares recomendados; pero su coste es solo la cuarta parte del de fármacos antidiabéticos y el 5% del total de medicamentos que consumen los diabéticos.
+
+
+- FINANCIACIÓN
+
+Financiación no condicionada de Roche Diagnostics SL.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,92 @@
+ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA: PROTOCOLO DE ESTUDIO, MANEJO Y DERIVACIÓN A NEFROLOGÍA<SUP
+
+
+- INTRODUCCIÓN
+
+La anemia es una complicación frecuente de la enfermedad renal crónica (ERC) y se asocia con una disminución en la calidad de vida de los pacientes, así como con un aumento de la morbimortalidad y de progresión de la ERC. En pacientes con ERC, la anemia se define como la situación en la que la concentración de hemoglobina (Hb) en sangre se encuentra 2 desviaciones estándar por debajo de la concentración media de Hb de la población general, corregida por edad y sexo.
+La principal causa de anemia en la ERC es la producción inadecuada de eritropoyetina endógena, hormona que actúa sobre la diferenciación y maduración de los precursores de la serie roja, aunque en los últimos años se han reconocido otros factores que contribuyen a ella, como una respuesta eritropoyética disminuida de la médula ósea debido a las toxinas urémicas y al estado inflamatorio, la disminución de la disponibilidad de hierro para la eritropoyesis y el aumento de los niveles de hepcidina, una vida media de los hematíes acortada o déficits vitamínicos (vitamina B12 o ácido fólico), entre otros.
+La anemia en la ERC puede aparecer desde estadios precoces (estadios 2 y 3 de las guías KDIGO), con descensos de la Hb cuando la tasa de filtrado glomerular estimado (FGe) se sitúa alrededor de 70 ml/min/1,73 m2 (hombres) y 50 ml/min/1,73 m2 (mujeres). Sin embargo, lo más habitual es que aparezca en estadio 4 (incluso antes en pacientes diabéticos) y que se agrave a medida que progresa la ERC. En estadios más avanzados y en pacientes en diálisis, alrededor del 90% de los pacientes presenta anemia, .
+La aparición de anemia en pacientes con disminución leve-moderada del FGe puede interpretarse como de causa renal, pero es importante distinguirla de la anemia ferropénica, que es la causa más frecuente de anemia —especialmente en pacientes que reciben tratamientos antiagregantes o anticoagulantes—, o de otras anemias carenciales (vitamina B12 o ácido fólico). En ocasiones pueden coexistir ambos tipos de anemia, renal y ferropénica.
+
+
+- OBJETIVOS DE ESTE DOCUMENTO
+
+-Reconocer que en pacientes con FGe disminuido (< 60 ml/min/1,73 m2) puede existir anemia, especialmente en las fases más avanzadas (estadio ≥ 4) y, por lo tanto, debe solicitarse un hemograma periódicamente.-Conocer qué estudios deben solicitarse ante una anemia en un paciente con ERC, para descartar otras causas concomitantes (especialmente la ferropenia).-Conocer qué y cómo corregir otras carencias (especialmente la ferropenia) antes de clasificar la anemia como de causa renal y remitir a Nefrología.-Establecer cuándo remitir el paciente anémico con ERC al nefrólogo para iniciar tratamiento con ferroterapia intravenosa o con agentes estimuladores de la eritropoyesis (AEE-EPO) y cuándo remitirlo a otras especialidades (Hematología, Medicina Interna u otras).-Conocer cuáles son los objetivos de Hb, parámetros férricos y otros en pacientes anémicos con ERC tratados o no con AEE-EPO.
+
+
+- DEFINICIÓN DE ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+Estos valores umbral (Hb < 13 g/dl en varones; Hb < 12 g/dl en mujeres) sirven para definir el diagnóstico de anemia, pero no para indicar su tratamiento. En caso de Hb baja no explicada se aconseja confirmar ese valor antes de iniciar el estudio.
+
+
+- DIAGNÓSTICO DE LA ANEMIA DE LA ENFERMEDAD RENAL CRÓNICA
+
+-- CARACTERÍSTICAS
+
+La anemia asociada a la ERC es habitualmente normocítica y normocrómica y sin ferropenia (ferritina > 100 ng/ml e índice de saturación de transferrina [IST] > 20%). Si no es así, deben sospecharse otras causas de anemia.
+Debe recordarse que el diagnóstico de anemia de causa renal es un diagnóstico de exclusión, es decir, cuando un paciente presenta ERC y anemia y se han excluido otras causas.
+
+
+-- ¿CUÁNDO INICIAR EL ESTUDIO DE LA ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+En principio debería estudiarse en cuanto se confirma el diagnóstico de anemia (Hb < 13 g/dl en varones o < 12 g/dl en mujeres), o al menos, y según el documento de consenso sobre ERC:•Cuando la cifra de Hb sea < 11 g/dl en mujeres premenopáusicas y pacientes prepúberes.•Cuando la cifra de Hb sea < 12 g/dl en hombres adultos y mujeres posmenopáusicas.
+
+
+-- ¿CON QUÉ FRECUENCIA DETERMINAR LOS NIVELES DE HEMOGLOBINA EN UN PACIENTE CON ENFERMEDAD RENAL CRÓNICA
+
+Según las guías KDIGO deberían medirse los niveles de hemoglobina en pacientes con ERC:
+En pacientes con ERC-5D en HD se aconseja que las muestras se obtengan inmediatamente antes de la sesión de diálisis y en el día intermedio de la semana.
+
+
+- TRATAMIENTO DE LA ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+El tratamiento de la anemia asociada a la ERC se basa en la terapia con hierro y AEE-EPO.
+
+
+-- INDICACIONES DE LA FERROTERAPIA
+
+El déficit de hierro es frecuente en pacientes con ERC y puede causar anemia e hiporrespuesta a los AEE-EPO, por lo que debe corregirse a fin de asegurar una optimización de la eritropoyesis. La administración de hierro puede aumentar los niveles de Hb (incluso en ausencia de evidencia de ferropenia) e, incluso en algunos pacientes, permite conseguir los niveles de Hb objetivo. Si el paciente recibe AEE-EPO, también deben asegurarse estos parámetros antes y durante el tratamiento, a fin de conseguir una adecuada respuesta y reducir las dosis de AEE-EPO. Sin embargo, aunque el balance riesgo-beneficio es favorable, no debe olvidarse que la ferroterapia presenta riesgos potenciales (especialmente por vía intravenosa) .
+
+
+-- DEFINICIÓN DEL DÉFICIT DE HIERRO EN LA ENFERMEDAD RENAL CRÓNICA
+
+•Déficit absoluto: depleción de reservas férricas. Concentración sérica de ferritina < 100 ng/ml e IST < 20%.•Déficit funcional: IST < 20% y una concentración de ferritina normal/alta. En este caso las necesidades de hierro para la eritropoyesis en la médula ósea exceden la capacidad de liberación desde el sistema retículo-endotelial.
+
+
+--- FERROTERAPIA: INDICACIÓN DEL TRATAMIENTO EN PACIENTES CON ERC
+
+a)Si existe un déficit absoluto de hierro (ferritina < 100 ng/ml e IST < 20%).b)Si se desea un aumento de la concentración de Hb sin iniciar AEE-EPO y el IST es < 25% y ferritina < 200 ng/ml en ERC-ND (o ferritina < 300 ng/ml en ERC-5D).c)En pacientes con ERC que reciben tratamiento con AEE-EPO si se desea un aumento de los niveles de Hb o reducir la dosis de AEE-EPO si el IST < 30% y ferritina < 300 ng/ml.
+Objetivos: ferritina 200-500 ng/ml; IST ∼30%.
+Durante el tratamiento con hierro, no deben superarse de forma intencionada el límite de IST de 30% y una ferritina de 500 ng/ml, ni en pacientes con ERC-ND, como con ERC-5D.
+La determinación de los parámetros férricos tras una tanda de hierro intravenoso debe ser de al menos 15 días después de la última dosis de hierro intravenoso para ser fiables.
+
+
+--- ADMINISTRACIÓN DE HIERRO ORAL
+
+En pacientes con ERC no diálisis o diálisis peritoneal se preferirá iniciar el tratamiento con hierro oral. Las dosis prescritas en un paciente adulto serán de alrededor de 200 mg/día de hierro elemental repartido en 2-3 dosis (preferentemente sales ferrosas por su mejor absorción), y preferentemente en ayunas.
+Los principales problemas asociados al tratamiento con hierro oral en la ERC son la intolerancia gastrointestinal, los problemas de absorción intestinal o falta de cumplimiento, lo que puede obligar a remitir al paciente al hospital para administrar el hierro de forma intravenosa .
+
+
+--- ADMINISTRACIÓN DE HIERRO INTRAVENOSO
+
+En pacientes con ERC-no en diálisis la administración de hierro intravenoso está indicada si:•No se alcanzan los objetivos de parámetros férricos con la ferroterapia oral durante 3 meses o cuando exista intolerancia o malabsorción de hierro oral.•Pacientes con anemia grave y ferropenia en los que se requiere una respuesta rápida de la Hb.•Pacientes con procesos inflamatorios crónicos que muestren déficit funcional de hierro (IST < 20% con ferritina normal-elevada), especialmente si requieren AEE-EPO.
+En pacientes con ERC-5D en hemodiálisis siempre, ya que se considera improbable que alcancen el objetivo con hierro oral, dado sus elevados requerimientos, por lo que precisarán tratamiento con hierro intravenoso.
+En pacientes con ERC-5D en diálisis peritoneal que presenten déficit férrico absoluto o funcional, especialmente si reciben AEE-EPO.
+Dado que la ferroterapia intravenosa requiere su administración en un centro hospitalario, su indicación es motivo de remisión a Nefrología.
+
+
+--- INDICACIÓN DEL TRATAMIENTO CON AEE-EPO EN LA ENFERMEDAD RENAL CRÓNICA
+
+Si tras descartar o corregir otras causas de anemia, el paciente presenta unos parámetros férricos adecuados y la Hb es ≤ 10 g/dl, se remitirá al paciente a Nefrología para valorar el tratamiento con AEE-EPO (considerar Hb < 11 g/dl si el paciente es joven, activo o con síntomas de anemia). Los AEE-EPO están incluidos dentro del grupo de fármacos de dispensación hospitalaria para pacientes externos.
+El nefrólogo deberá valorar los beneficios y riesgos del tratamiento con AEE en un paciente anémico con ERC. Como norma general, en el paciente adulto con ERC deben buscarse objetivos de Hb entre 10 y 12 g/dl con el tratamiento con AEE, valorando síntomas y comorbilidades. No está indicada la corrección total de la anemia (Hb ≥ 13 g/dl) durante el tratamiento con AEE-EPO, por no asociarse a una mejoría del pronóstico y sí a un aumento de efectos adversos (HTA, ictus, trombosis del acceso vascular, progresión del cáncer, etc.), .
+El objetivo de Hb se individualizará para cada paciente en función de su edad, grado de actividad y comorbilidades asociadas, pero no deben alcanzarse valores de Hb ≥ 13 g/dl de forma intencionada.
+
+
+- REMISIÓN A NEFROLOGÍA POR LA INDICACIÓN DE ANEMIA
+
+Las indicaciones para la remisión de un paciente con ERC y anemia serán :•Indicación de ferroterapia intravenosa (fallo/intolerancia de la ferroterapia oral).•Indicación de tratamiento con AEE-EPO.•En el paciente tratado con AEE-EPO y Hb ≥ 13 g/dl o Hb ≤ 9 g/dl confirmados (para ajuste de dosis).Puntos clave-La anemia es una complicación frecuente en pacientes con ERC (FGe < 60 ml/min/1,73 m2), especialmente en estadios de ERC ≥ 4.-El diagnóstico de anemia de la ERC es un diagnóstico de exclusión, por lo que se requiere descartar otras causas de anemia, especialmente la ferropenia.-Si una vez corregidas todas las causas de anemia el paciente persiste anémico (Hb ≤ 10 g/dl), se le remitirá a Nefrología para valorar el tratamiento con AEE-EPO. También se le remitirá a Nefrología si existe indicación de ferroterapia intravenosa o si el paciente está tratado con AEE-EPO y presenta Hb ≥ 13 o ≤ 9 g/dl para ajuste de dosis.Figura 1
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

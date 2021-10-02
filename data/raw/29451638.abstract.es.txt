@@ -1,0 +1,5 @@
+Participaron 272 mujeres chilenas mayores de 60 años. Las variables correspondieron al IMC, perímetro de cintura (PC), índice cintura estatura (ICE) y condición física (CF). Se realizaron correlaciones a través del coeficiente de Pearson o Spearman, y asociaciones bivariadas mediante ji cuadrada de Pearson y el test exacto de Fisher, considerando un p<0.05.
+De las MM, 70.8% alcanzó sobrepeso u obesidad; y 68.8% y 96% riesgo cardiometabólico de acuerdo con PC e ICE, respectivamente. Su CF presentó un rendimiento igual (53.5%) o superior (33.8%) según su edad y sexo. Se encontraron correlaciones inversas entre estado nutricional y riesgo cardiometabólico con las pruebas de CF (excepto la agilidad y equilibrio dinámico, en donde la relación fue directa), y asociación directa con juntar manos.
+El exceso de peso en MM físicamente activas no afecta su rendimiento físico-funcional; sin embargo, el riesgo cardiometabólico se asocia inversamente con la funcionalidad motriz.
+Asociar los índices antropométricos de salud con la condición física de las mujeres mayores (MM) que participan en talleres de ejercicio físico.
+

@@ -1,0 +1,9 @@
+Determinar si el adecuado tratamiento al alta de la hiperglucemia en pacientes atendidos en una unidad de
+corta estancia (UCE) es un factor relacionado con la reducción de eventos adversos a tres meses tras el alta.
+Un tratamiento antidiabético no adecuado al alta de una UCE se muestra como un factor independiente
+de sufrir un evento adverso en los tres primeros meses.
+Se incluyeron 750 pacientes con edad media de 68,1 años (DE 19,5), de los cuales 357 (47,6%) fueron
+varones, 262 (36%) pacientes sufrieron un evento adverso a los 3 meses. De ellos, 156 (31,5%) fueron no diabéticos, 77 (41,8%) diabéticos y 29 (59,2%) NHG (p < 0,001). En los pacientes con alteración hidrocarbonada, el tener un tratamiento antidiabético no congruente al alta de una UCE fue un factor de riesgo independiente de sufrir un eventoadverso a 3 meses del alta [OR ajustada 7,2 (IC 95%: 3,9-13,3)].
+Estudio de cohorte retrospectivo que incluyó los pacientes ingresados en una UCE durante el mes de junio
+de 2011. Se incluyeron variables demográficas, comorbilidad, causa de ingreso y congruencia del tratamiento antidiabético al alta. Se clasificó a los pacientes en diabéticos, no diabéticos y nuevos hiperglucémicos (NHG), y en aquellos con alteración del metabolismo hidrocarbonado, la variable clasificadora fue la congruencia del tratamiento antidiabético al alta. La variable de resultado principal fue la aparición de un evento adverso compuesto en los tres primeros meses tras el alta.
+

@@ -1,0 +1,41 @@
+USO DE OZONOTERAPIA RECTAL EN PACIENTE ANCIANA CON NEUMONÍA GRAVE POR COVID-19
+
+
+- INTRODUCCIÓN
+
+No existe actualmente tratamiento específico para el manejo de la infección por SARS-CoV-2. La enfermedad por COVID-19 tiene reconocidas tres fases clínicas: la infección temprana, la fase pulmonar y la hiperinflamación. Existen estudios que avalan el uso del ozono como antiviral, estimulador de la inmunidad celular, antiinflamatorio, antioxidante y estimulador de la oxigenación en los tejidos hipóxicos. Estas propiedades nos permitieron considerar su uso en este caso; dada la evolución tórpida, a pesar del tratamiento estándar (oxígeno, hidroxicloroquina, lopinavir/ritonavir, metilprednisolona y antibióticos de amplio espectro).
+
+
+- CASO CLÍNICO
+
+Se trata de una mujer de 84 años, que ingresó por clínica de 10 días de evolución, presentando fiebre, aumento de tos con expectoración blanquecina, mialgias, odinofagia y deposiciones líquidas que fueron aumentando de forma progresiva. Con esa sintomatología, fue diagnosticada de infección respiratoria por SARS-CoV-2 (confirmada por RT-PCR SARS-CoV-2) y derivada a nuestro centro para continuar tratamiento, según protocolo clínico.
+Situación basal: Barthel 65, FAC 3, Lawton 4, sin deterioro cognitivo. Viuda, vivía con uno de sus dos hijos.
+Como antecedentes médicos destacaban: hipertensión arterial, diabetes mellitus tipo 2, insuficiencia cardiaca, miocardiopatía hipertensiva, enfermedad pulmonar obstructiva crónica con oxígeno crónico domiciliario, nódulo pulmonar con criterios metabólicos de malignidad y síndrome lacunar motor puro sin secuelas.
+Su tratamiento habitual era: oxígeno domiciliario, insulina lantus, insulina rápida, oxicodona/naloxona, paracetamol, lormetazepam, calcio/colecalciferol, pantoprazol, atorvastatina, pregabalina, tramadol, bromazepam, budesonida/formoterol, olmesartán/amlodipino/hidroclorotiazida y metoclopramida.
+Desde su llegada a este hospital presentó inestabilidad, con desaturación que no remontó a pesar de oxigenoterapia a alto flujo, disnea de reposo y mal control glucémico. Presentó muy mala evolución clínica, importante afectación radiológica bilateral y aumento de reactantes de fase aguda, que no mejoraron a pesar de tratamiento según las guías clínicas para neumonía por COVID-19, por lo tanto, se prescribió terapia con corticoides y varios ciclos de antibióticos de amplio espectro por sobreinfección bacteriana por Klebsiella pneumoniae ssp. EPC + OXA-48 en esputo y además colonización por SARM (Staphylococus aureus resistente a meticilina).
+La radiografía y la tomografía axial computarizada de tórax reportaron: afectación pulmonar bilateral, sugerente de neumonitis por COVID-19, grado 5 (escala radiológica de Taylor), sin datos de tromboembolismo pulmonar .Figura 1
+
+
+- DISCUSIÓN
+
+Éste es el primer caso de una paciente mayor, tratada en nuestro hospital con ozono rectal. Se observó mejoría clínica, radiológica y de laboratorio tras la aplicación de esta terapia.
+Existe evidencia de casos tratados en China, , Italia, y España, mediante ozono vía autohemoterapia, con buenos resultados. No existe referencia de casos tratados mediante ozono por vía rectal.
+El ozono mejora marcadores de inflamación en otras patologías, tales como esclerosis múltiple, Alzheimer, artrosis y síndrome de isquemia-reperfusión (renal y hepática), .
+Está demostrado el poder antiviral, antiparasitario y antibacteriano del ozono. Esta técnica se usa para potabilizar el agua en grandes centrales en el mundo y para la desinfección en el ámbito quirúrgico.
+Los estudios publicados han demostrado que los pacientes tratados con esta terapia, mejoran su condición clínica (reduciendo la temperatura, disminuyendo las demandas de oxígeno y mejorando la saturación). También hubo mejoría de parámetros analíticos (disminución de reactantes de fase aguda) y radiológicos (disminución del patrón en vidrio deslustrado), , , , , . En algunos casos hubo negativización de RT-PCR SARS-CoV-2, lo cual confirma el efecto antiviral del ozono, , , , , . Así mismo, esta terapia favoreció una disminución en la estancia hospitalaria en los pacientes tratados, comparados con la terapia estándar.
+Aunque la técnica de administración del ozono en nuestra paciente ha sido diferente (rectal), hemos podido observar los mismos beneficios (clínicos, radiológicos y de laboratorio), que en las series publicadas, , , , , . Este tratamiento es similar a la terapia usada por Rowen, quien trató a pacientes con ébola, los cuales, tras cinco sesiones de terapia (ozono rectal) mejoraron la clínica, disminuyendo la tormenta de citoquinas (hiperinflamación) y la tasa de mortalidad fue cero. Rowen sostiene que el ozono es capaz de oxidar las proteínas de la cápside, y la proteína S-spike, típica del SARS-CoV-2, de la misma forma como actuó sobre el virus del ébola. Esta propiedad explicaría el efecto positivo en pacientes con enfermedad por COVID-19.
+
+
+- CONCLUSIÓN
+
+El ozono rectal podría ser capaz de mejorar variables clínicas (saturación de oxígeno y demanda de oxígeno), de laboratorio (disminución de marcadores de inflamación) y radiológicas (según escala de Taylor), como se ha observado en este caso. El ozono rectal podría ser una opción a tener en cuenta como tratamiento coadyuvante o compasivo, en el manejo de pacientes con neumonía severa por COVID-19.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

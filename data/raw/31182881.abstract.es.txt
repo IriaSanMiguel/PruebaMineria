@@ -1,0 +1,6 @@
+211 mujeres con cáncer de mama RH(+)/HER2(–), 53 con RH(+)/HER2(+), 16 con HER2(+) y 23 con RH(–)/HER2(–), con una mediana de supervivencia global en meses de 39 (20.5-62.7), 42 (25.5-65), 42 (13.7-67.7) y 26 (11-78), respectivamente, para un cociente de riesgo (HR por sus siglas en inglés, Hazard Ratio): 3.7 (IC 95%: 1.3-10.3) en el grupo triple negativo comparado con RH(+)/HER2(–) (p = 0.01).
+Conocer las características y supervivencia de cada subtipo de pacientes, que es indispensable para poder diseñar futuros estudios.
+Realizamos un estudio retrospectivo evaluando las características clinicopatológicas y la supervivencia por subtipo mediante IHQ en mujeres con cáncer de mama.
+Los subtipos con RH positivos por IHQ son los más frecuentes y este grupo de pacientes tienen una mejor supervivencia global comparada con las pacientes triple negativo.
+La clasificación del cáncer de mama en subtipos mediante la expresión de receptores hormonales (RH) y del receptor 2 del factor de crecimiento epidérmico humano (HER2) por inmunohistoquímica (IHQ) es una práctica estándar para la toma de decisiones terapéuticas.
+

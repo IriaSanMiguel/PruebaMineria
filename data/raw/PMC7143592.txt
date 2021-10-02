@@ -1,0 +1,278 @@
+NEUMONÍAS BACTERIANAS NO NEUMOCÓCICAS (II). INFECCIONES RESPIRATORIAS POR MYCOPLASMA Y CHLAMYDIA. NEUMONÍAS VÍRICAS
+
+
+- CONCEPTO
+
+Desde el punto de vista clínico, se han clasificado las neumonías en dos grupos: las adquiridas en la comunidad y las nosocomiales o asociadas a asistencia sanitaria. Las primeras suelen afectar a sujetos inmunocompetentes y ocurren fuera del hospital, y las segundas se producen en pacientes inmunodeprimidos y/o ingresados en el hospital. En relación con las neumonías de la comunidad (NAC), resulta útil hacer una subdivisión que nos permita una aproximación teórica a la etiología de la neumonía y al tratamiento que se debe seguir. En este sentido, se han diferenciado tres grandes grupos basados en las características clínicas y epidemiológicas y en el resultado de pruebas complementarias: neumonía con sospecha de etiológica neumocócica o de gérmenes similares (neumonía «típica»); aquella con sospecha de gérmenes atípicos y aquellas en las que no hay una orientación muy definida clínicamente hacia una etiología o grupo etiológico concreto. Un cuarto grupo sería el de la sospecha de neumonía por aspiración1.
+El término de neumonías atípicas surge a comienzos de los años 40 tras el inicio de la era antibiótica, que define a aquellas que asocian clínica extrapulmonar, presentan un patrón radiológico parcheado o intersticial en la radiografía de tórax, no se identifica el agente causal mediante la tinción de Gram o el cultivo de esputo y no responden al tratamiento con betalactámicos. Con el desarrollo de las nuevas técnicas microbiológicas se ha podido demostrar que la neumonía atípica puede deberse a diversos tipos de bacterias y virus. En esta actualización nos centraremos en las neumonías producidas por Mycoplasma y Chlamydias, dentro del grupo de neumonías bacterianas no neumocócicas, y en las neumonías víricas.
+
+
+- NEUMONÍA POR MYCOPLASMA
+
+-- ASPECTOS MICROBIOLÓGICOS
+
+El género Mycoplasma pertenece a la familia Mycoplasmataceae de la clase Mollicutes. Compuesta por cinco géneros, solo dos son responsables de infecciones en el ser humano: Mycoplasma y Ureaplasma. De las más de 120 especies descritas, solo hay 4 a las que se atribuye patogenicidad claramente definida: M. pneumoniae, M. hominis, M. genitalium y Ureaplasma urealitycum. De ellos, Mycoplasma pneumoniae es el que se relaciona con más frecuencia con infección de las vías respiratorias superiores y neumonía, mientras que otras especies de Mycoplasma no patógenas colonizan la superficie de la mucosa respiratoria.
+Mycoplasma spp. tiene una distribución universal y son los organismos vivos más pequeños. Debido a que carecen de pared celular, no se tiñen mediante la tinción de Gram y no es sensible a penicilinas ni a otros antibióticos betalactámicos. En la membrana celular se encuentran los principales determinantes antigénicos, tanto proteicos como glucolipídicos. Crecen bajo condiciones aerobias y anaerobias, y puede aislarse en medios especializados; sin embargo, por su dificultad no suele realizarse en los laboratorios clínicos.
+
+
+- ETIOPATOGENIA
+
+Existen varios mecanismos por los que M. pneumoniae puede causar enfermedades. En las primeras fases, se adhiere a las membranas del epitelio del tracto respiratorio a través de una estructura proteica denominada adhesina P1, que regula la interacción entre Mycoplasma y las células del epitelio respiratorio, permite la movilidad del microorganismo y puede lesionar directamente las células del epitelio respiratorio y su actividad ciliar. Se han descrito dos cepas principalmente aisladas, tipo 1 y tipo 2, que difieren en la secuencia génica de esta proteína de adhesión.
+Tras la adhesión, el microorganismo elabora una citotoxina denominada toxina del síndrome de dificultad respiratoria adquirido en la comunidad, que también puede lesionar directamente el tracto respiratorio. Las cepas del tipo 2 muestran una mayor expresión de esta citotoxina.
+La bacteria es un organismo extracelular y sobrevive adaptada al huésped, unida a la superficie de las células diana, gracias a la elaboración de biofilms que son estructuras compuestas por polisacáridos, proteínas y lípidos que pueden proteger al microorganismo contra la penetración antimicrobiana y la respuesta inmune del huésped. Las cepas de los tipos 1 y 2 de M. pneumoniae forman biofilms muy diferentes; el del tipo 2 es más robusto, confiriéndole mayor resistencia a los mecanismos de defensa del huésped y a los antibióticos.
+El sistema inmune responde con la producción de anticuerpos frente a los antígenos proteínicos y glucolipídicos del microorganismo. Estos anticuerpos podrían actuar como autoanticuerpos al alterar los antígenos en la superficie de las células a las que está unido Mycoplasma.
+Por último, M. pneumoniae y/o su citotoxina CARDS puede promover la llegada de células inflamatorias que producirán citocinas proinflamatorias capaces de lesionar al huésped.
+
+
+- EPIDEMIOLOGÍA
+
+Mycoplasma pneumoniae es un patógeno exclusivamente humano y de distribución universal. Es responsable de un 15-20% de las NAC. Esto supone una frecuencia de 2 casos por 1000 personas al año en algunos estudios, pero la incidencia puede ser mayor, ya que gran número de casos quedan sin diagnóstico etiológico.
+Las infecciones se producen sin variaciones estacionales importantes, pero suele presentarse en ciclos epidémicos cada 3-5 años que se relacionan con el otoño y el invierno, pero puede desarrollarse durante todo el año.
+Puede ocurrir a cualquier edad, pero las tasas de infección son más altas entre los niños en edad escolar y estudiantes universitarios, y se han descrito brotes reconocidos en militares, hospitales, centros sanitarios para pacientes crónicos y en la comunidad.
+Se transmite de persona a persona por gotitas respiratorias infectadas durante el contacto cercano. Tiene un periodo de incubación de dos a tres semanas.
+El aislamiento de M. pneumoniae en vías respiratorias altas debe ser valorado cuidadosamente, puesto que pueden persistir en el tracto respiratorio después de una infección clínicamente resuelta.
+
+
+- MANIFESTACIONES CLÍNICAS Y COMPLICACIONES
+
+Muy frecuentemente, la infección por M. pneumoniae es asintomática. Cuando la infección se hace clínicamente manifiesta, es habitual la afectación de tracto respiratorio superior, lo que hace difícil distinguirla de otras infecciones respiratorias superiores causadas por virus y otras bacterias atípicas. Los pacientes suelen presentar faringitis, rinorrea, otalgia y sinusitis que puede coexistir con neumonía. Lo habitual es tos seca persistente, ocasionalmente con expectoración escasa y blanquecina. El dolor torácico es habitual y secundario al esfuerzo tusivo o a traqueítis. Pueden presentar disnea y sibilancias, aunque no es frecuente.
+Sin embargo, la semiología es escasa incluso en los casos de neumonía, pudiendo detectarse en la auscultación crepitantes dispersos y sibilancias. El derrame pleural ocurre en el 15-20% de los pacientes con neumonía, siendo raro el empiema.
+Aunque la mayoría de los casos de neumonía causada por M. pneumoniae son leves y autolimitados, se han producido casos fulminantes.
+Se han descrito múltiples manifestaciones extrapulmo-nares incluso en ausencia de neumonía (tabla 1 ). Muchas de ellas han sido atribuidas a M. pneumoniae al haberse encontrado una elevación de los anticuerpos antimicoplasma en estos pacientes, , .
+Las pruebas rutinarias de laboratorio no son concluyentes, detectándose habitualmente un recuento leucocitario normal y a veces trombocitosis. Puede orientarnos la presencia de hemolisis con un aumento de reticulocitos y test de Coombs positivo, así como la presencia de crioaglutininas (50% de los pacientes), aunque estas suelen ser manifestaciones tardías. Si hay afectación del sistema nervioso central (SNC), el líquido cefalorraquídeo (LCR) presenta pleocitosis linfocitaria y proteinorraquia sin consumo de glucosa.
+Desde el punto de vista radiológico, el patrón no es específico de neumonía por Mycoplasma. La imagen más habitual es la de un infiltrado reticulonodular unilateral o bilateral o áreas irregulares de consolidación de predominio en lóbulos inferiores.
+
+
+- PRUEBAS DIAGNÓSTICAS
+
+La búsqueda de M. pneumoniae por métodos microbiológicos no suele ser necesaria en la práctica habitual, salvo en casos de hospitalización o fracaso terapéutico.
+La serología mediante ELISA ha sido tradicionalmente el pilar del diagnóstico de laboratorio y debe realizarse cuando la detección de ácidos nucleicos (reacción en cadena de la polimerasa –PCR–) no está disponible o como un complemento de la PCR. Una revisión de varias pruebas disponibles sugiere combinar PCR con las técnicas serológicas. El estudio serológico utiliza sueros separados 2-3 semanas y compara los resultados obtenidos en fase aguda y los de conva-lecencia. Se considera positivo un aumento en el título de anticuerpos mayor o igual a 4 veces el previo de inmunoglobulina (Ig) G. Un solo título elevado no se considera positivo, aunque pueda tener cierto valor diagnóstico. Los anticuerpos tipo IgM comienzan a elevarse a partir de la primera semana y alcanzan su pico a las 3 semanas. La serología tiene una sensibilidad en torno al 97-98% y una especificidad superior al 99%.
+Las técnicas de detección de ácidos nucleicos están convirtiéndose progresivamente en el pilar del diagnóstico. La sensibilidad de las mismas depende de la muestra utilizada y del momento de su recolección. En muestras faríngeas durante las primeras fases de la infección tiene más rentabilidad que la serología, pero para los pacientes en los que se presentan durante la tercera semana de enfermedad, la PCR y la serología proporcionan resultados similares. Se recomienda utilizar la PCR en fases precoces en los casos donde se encuentra disponible. No se usa en LCR de pacientes con afectación del SNC por su bajo rendimiento diagnóstico. En 2012 la FDA (Food and Drug Administration) aprobó un panel de PCR de detección múltiple para su uso en muestras nasofaríngeas capaz de identificar 21 patógenos respiratorios víricos y bacterianos comunes.
+La técnica de detección de antígenos también se ha utilizado en secreciones respiratorias pero, por el momento, no superan a la PCR ni han desplazado a la serología. El cultivo no suele realizarse por las características especiales del microorganismo y el tiempo necesario para su crecimiento.
+
+
+- TRATAMIENTO
+
+El tratamiento será abordado conjuntamente con el de otras neumonías bacterianas de presentación atípica, más adelante (tabla 2 ). Se requiere un alto índice de sospecha clínica para el tratamiento temprano de la infección.
+
+
+- NEUMONÍA POR CHLAMYDIA PNEUMONIAE
+
+-- ASPECTOS MICROBIOLÓGICOS
+
+Se clasifican en el orden Chlamydiales, familia Chlamydiaceae, con un único género, Chamydophila, y once especies reconocidas, de las cuales C. trachomatis y C. pneumoniae son los principales patógenos en el hombre; C. psittaci es una bacteria zoonótica que produce infección principalmente en aves.
+Son bacilos Gram negativos con ciertas características estructurales que las diferencian de otras bacterias Gram negativas. Su pared carece de peptidoglicano detectable, por lo que al igual que Mycoplasma no responden a betalactámicos. Poseen un lipopolisacárido con escasa capacidad endotóxica y utilizan el adenosintrifosfato (ATP) del huésped para la síntesis de sus propias proteínas. Todas las especies de Chlamydia, excepto C. pneumoniae, sintetizan una proteína de membrana en su pared (PPME/OmpA) que permite la clasificación serológica de las cepas de C. trachomatis y C. psittaci .
+
+
+- ETIOPATOGENIA
+
+Son patógenos intracelulares obligados. Presentan un ciclo de vida con dos fases morfológicamente distintas, una intracelular formando un cuerpo reticulado (CR) que utiliza la síntesis de proteínas del huésped y la producción de ATP para su replicación; y otro extracelular, metabólicamente inactivo, que constituye el llamado cuerpo elemental (CE) para su fase infectiva. En fase de CE se adhiere a las células epiteliales de la mucosa respiratoria en las que entra por endocitosis. En el interior del fagosoma comienza la diferenciación en CR, metabólicamente activo, replicándose dentro de la célula huésped formando microcolonias compuestas de cientos de bacterias a las 36 horas de la infección. Tras la replicación, los CR se transforman en CE, más pequeños y más densos, que se liberan por lisis celular o por exocitosis continuando la infección de nuevas células. Durante la replicación, los antígenos de Chlamydia se liberan a la superficie de la célula huésped induciendo una respuesta inmune que no es duradera.
+Además de las dos formas descritas, Chlamydia puede entrar en un estado de infección persistente. En esta forma pierde infectividad, su actividad metabólica se reduce y suele ser refractaria al tratamiento antibiótico. A estos CR anómalos se les llama cuerpos aberrantes. Ambas formas pueden encontrarse combinadas en el cultivo tisular. Otro mecanismo bacteriano de infección persistente sería a través del control de la apoptosis de la célula huésped, pudiendo inducirla o inhibirla según la fase de desarrollo vital y protegiendo así al microorganismo. Esto hace sospechar que la infección persistente pueda desempeñar un papel en múltiples enfermedades crónicas.
+
+
+- EPIDEMIOLOGÍA DE LAS INFECCIONES POR C. PNEUMONIAE
+
+Solo se conoce un serotipo de C. pneumoniae hasta el momento. Su transmisión es incierta, pero probablemente sea a través de aerosoles de gotitas respiratorias y tal vez a través de fómites. Se han descrito brotes de infecciones por Chlamydia en convivientes dentro de familias y poblaciones cerradas como residencias de ancianos, militares y cárceles. La infección aguda no se correlaciona con ningún periodo estacional.
+La seroprevalencia varía con la edad y la zona geográfica estudiada, siendo inferior en la edad escolar y aumentando en la edad adulta hasta más de un 80% de individuos. La amplia seroprevalencia de C. pneumoniae sugiere que la infección es a menudo asintomática y C. pneumoniae es un organismo ubicuo encontrado en todo el mundo. Pero además, la prevalencia puede estar sobreestimada dependiendo del método diagnóstico utilizado para su detección y de los posibles patrones cíclicos de la infección.
+Manifestaciones clínicas de las infecciones por C. pneumoniae
+La mayoría de los casos son leves o asintomáticos, pero su espectro es amplio. A diferencia de Mycoplasma, suele haber menos afectación de las vías respiratorias altas y la infección extrapulmonar es más rara, aunque se han descrito casos de meningoencefalitis, síndrome de Guillain-Barré, miocarditis y endocarditis.
+La infección persistente se ha vinculado con la producción de enfermedades crónicas inicialmente no consideradas como infecciosas (asma, artritis, aterosclerosis, esclerosis múltiple). Muchos estudios han intentado demostrar esta asociación; sin embargo, se han visto dificultados por la complejidad para el diagnóstico de la infección crónica persistente. Además, la elevada prevalencia de las infecciones por Chlamydia y la inmunidad transitoria tras la infección hacen aún más difícil diferenciar entre infección persistente, reinfección o infección pasada complicando más el estudio de esta asociación. En la actualidad no hay recomendación para tratar con antibioterapia a estos pacientes sin evidencia de infección activa por Chlamydia.
+Las pruebas complementarias suelen ofrecer datos inespecíficos con recuento leucocitario normal o levemente elevado. Los hallazgos radiológicos también son inespecíficos, siendo el hallazgo más frecuente la presencia de opacidades alveolares unilaterales; con menor frecuencia se detectan infiltrados lineales perihiliares (fig. 1 ) o consolidaciones alveolares.Fig. 1
+
+
+- PRUEBAS DIAGNÓSTICAS EN LAS INFECCIONES POR C. PNEUMONIAE
+
+El diagnóstico de la infección por Chlamydia clásicamente se ha basado en las técnicas serológicas, siendo de elección la microinmunofluorescencia (MIF). Sin embargo, esta técnica requiere la toma de muestras de suero agudo y convaleciente separadas entre sí entre cuatro y seis semanas, lo que es clínicamente poco práctico. Además, comparado con las técnicas de PCR han demostrado un bajo valor predictivo positivo, no consiguiendo diferenciar entre infección aguda primaria, una reinfección, un estado crónico persistente o una infección pasada.
+El cultivo celular es difícil de realizar y el crecimiento lento, lo que no es útil para diagnosticar la presencia del organismo en poco tiempo como requiere la práctica clínica. Las pruebas de detección de antígeno con inmunotinción están influenciadas por diversos aspectos técnicos.
+Las pruebas de PCR en tiempo real ofrecen las ventajas de rapidez, facilidad y disminución del riesgo de contaminación. Se ha utilizado el mismo panel aprobado por FDA en 2012 para detección múltiple.
+Epidemiologia de las infecciones por C. psittaci
+La infección por C. psittaci es frecuente en aves, siendo su principal reservorio. Con frecuencia, las aves son portadoras asintomáticas y pueden transmitir la enfermedad en este periodo. El microorganismo se transmite por heces, orina y secreciones respiratorias, bien por contacto directo o bien por inhalación de excrementos resecados en los que el microorganismo puede permanecer viable durante meses a temperatura ambiente transmitiéndose por el aire.
+Afecta al hombre habitualmente tras contacto directo. Los criadores y los trabajadores expuestos a animales son los afectados con más frecuencia, siendo la primera causa de neumonía entre los trabajadores de mataderos. La enfermedad se produce esporádicamente, pero se han descrito brotes en el contexto de transmisión profesional.
+La psitacosis es más común en adultos jóvenes y de mediana edad; tiene cierta predilección por los varones posiblemente por la mayor exposición. La transmisión de persona a persona se considera rara.
+
+
+- MANIFESTACIONES CLÍNICAS Y COMPLICACIONES DE LA INFECCIÓN POR C. PSITTACI
+
+La clínica de la psitacosis es muy variada. La infección es más frecuente en adultos jóvenes o de mediana edad con historia reciente de exposición a aves. Después de un período de incubación de entre 5 y 15 días aparece la clínica con un inicio rápido o progresivo. Suele presentarse con síntomas inespecíficos o bien como un proceso vírico similar a la mononucleosis (fiebre elevada, faringitis, adenopatías y hepatoesplenomegalia). A veces la presentación simula la forma tifoidea con bradicardia, fiebre alta y esplenomegalia. La forma que más orienta a su diagnóstico es la de neumonía atípica con fiebre, cefalea (que suele ser intensa con fotofobia e incluso con alteración del estado mental), mialgias, escalofríos y tos seca que se hace productiva en fases más avanzadas de la enfermedad. Puede asociar una larga lista de síntomas: diaforesis, acúfenos, fotofobia, ataxia, sordera, anorexia, náuseas, vómitos, dolor abdominal, diarrea y estreñimiento, dolor de garganta, disnea, dolor torácico no pleurítico, hemoptisis, epistaxis, dolor articular, exantema, etc. Los signos más frecuentes son fiebre, hiperemia faríngea, estertores crepitantes u otras alteraciones auscultatorias y hepatoesplenomegalia. En menos de la mitad de los pacientes se observa somnolencia, confusión, taquicardia o bradicardia, roce pleural, esplenomegalia, adenopatías o un exantema macular conocido como manchas de Horder.
+La gravedad de la enfermedad puede variar desde un proceso asintomático o con síntomas leves hasta una enfermedad potencialmente mortal. Las complicaciones sistémicas son también variadas y, aunque poco frecuentes, pueden llegar a ser graves (tabla 3 ).
+El recuento de glóbulos blancos suele ser normal o ligeramente elevado con desviación izquierda. Pueden existir datos de colestasis, hipoalbuminemia e hiponatremia. La radiología del tórax suele mostrar consolidación en un solo lóbulo inferior, pero se han descrito diferentes patrones (homogéneo en vidrio esmerilado, patrón reticular parcheado, patrón miliar, ensanchamiento hiliar unilateral o bilateral, signo del halo). El derrame pleural no es frecuente y si aparece es pequeño y asintomático.
+
+
+- PRUEBAS DIAGNÓSTICAS DE LA INFECCIÓN POR C. PSITTACI
+
+Las características clínicas más frecuentes (fiebre, cefalea intensa, mialgias y tos seca) en un paciente con antecedentes de contacto con aves deben sugerir el diagnóstico. Los métodos de diagnóstico disponibles presentan limitaciones importantes, por lo que el tratamiento debe basarse en la sospecha clínica.
+El cultivo solo se realiza en laboratorios especializados dada su alta infectividad. El diagnóstico de elección son las pruebas serológicas que presentan ciertas limitaciones, ya que pueden existir reacciones cruzadas y el tratamiento antibiótico puede retrasar o disminuir la respuesta de anticuerpos. La MIF es la más sensible y específica para C. psittaci, pero solo está disponible en laboratorios especializados. La fijación del complemento es la prueba tradicionalmente usada para hacer el diagnóstico. Se trata de una prueba ampliamente disponible pero que carece de la capacidad de poder diferenciar entre las especies de Chlamydia (el antígeno utilizado es un lipopolisacárido presente en la membrana externa de todas las especies de Chlamydia).
+La PCR para C. psittaci puede realizarse en muestras de sangre, garganta y orina y algunos estudios muestran su utilidad en esputo. Se han utilizado para investigar brotes, consiguiendo un diagnóstico rápido y específico, pero no está estandarizada y puede presentar también falsos negativos.
+
+
+- ESTRATEGIAS TERAPÉUTICAS. PAUTAS. DOSIFICACIÓN
+
+Ante la sospecha de una NAC, el tratamiento antibiótico precoz ha demostrado disminuir la morbimortalidad del paciente. En el caso de que exista fuerte sospecha de neumonía atípica leve en la que no conocemos el patógeno causal y no hay indicación para la realización de pruebas microbiológicas, se recomienda usar azitromicina (500 mg/24 h) por vía oral durante 3-5 días (nivel de evidencia AI). Si la sospecha diagnóstica o el contexto epidemiológico indican una NAC producida por Chlamydia spp., el tratamiento de elección es doxiciclina (100 mg/12 hora) por vía oral durante 10 a 14 días.
+En el caso de neumonías más graves (CURB65 = 2) o que requieran ingreso hospitalario, es preferible el uso de levofloxacino o la combinación de un beta-lactámico con un macrólido. Al igual que en pacientes con neumonía grave (CURB65 ≥ 2 u otros datos de gravedad), se recomienda iniciar de forma precoz un tratamiento combinado con ceftriaxona y levofloxacino (nivel de evidencia AI) o ceftriaxona y azitromicina 500 mg/24 horas o claritromicina 500 mg/12 horas (nivel de evidencia AII), dando cobertura a los gérmenes productores de neumonía atípica, , .
+En el caso de Mycoplasma pneumoniae, se han detectado altas tasas de resistencias a macrólidos, sobre todo en Asia y algo menores en EE. UU. y Francia, pero en nuestro entorno se sigue recomendando el uso de macrólidos como primera elección. El tratamiento prolongado puede ser necesario debido a la capacidad del organismo para residir intracelularmente. Sin embargo, el tratamiento no siempre elimina el estado de portador. Por tanto, lo más rentable será adaptar la duración a la resolución de signos y síntomas en lugar de mantener una pauta prefijada. El uso de corticoides se restringe a los casos con manifestaciones extrapulmonares o complicaciones, como en la anemia hemolítica y en las manifestaciones del SNC.
+En el caso de infecciones por Chlamydia, la mayoría de los pacientes presentan una mejoría clínica a pesar de la persistencia del microorganismo que no está relacionada con resistencia al antibiótico, siendo esta infrecuente en la infección por Chlamydia. En ocasiones es necesario repetir el tratamiento antibiótico.
+
+
+- PREVENCIÓN
+
+Como en todos los casos de infecciones que pueden propagarse por secreciones respiratorias, se aconsejan las medidas estándar de prevención. En el caso de Mycoplasma se ha recomendado el aislamiento respiratorio en pacientes hospitalizados o de instituciones y/o el uso de azitromicina, cuando se considera la profilaxis antibiótica en algunos entornos epidemiológicos, demostrándose eficaz en brotes cerrados.
+En el caso de infección por Chlamydia pneumoniae, en la que la transmisión por fómites también es posible, cobra mayor importancia el cuidado por parte del personal sanitario de la higiene de manos. Para C. psittaci un diagnóstico confirmado requiere una investigación epidemiológica, advertir a los posibles contactos y el tratamiento de las aves infectadas con tetraciclinas, clortetraciclinas o doxiciclina al menos durante 45 días seguidos; su incumplimiento puede provocar la diseminación continuada del microorganismo por las aves infectadas. No suele ser necesario sacrificar al ave. Es necesario instruir en técnicas para prevenir la inhalación de aerosoles de partículas infectadas al personal de mantenimiento y a los trabajadores que estén en contacto con aves.
+En la actualidad, no existe vacuna disponible para la prevención de la infección por ninguno de estos patógenos.
+
+
+- NEUMONÍAS VÍRICAS
+
+-- CONCEPTO
+
+Aunque las bacterias son los principales patógenos involucrados en la NAC, algunos virus son responsables directos de un importante número de NAC. La clínica de estas neumonías puede ser muy similar, afectando con más frecuencia a la población infantil y geriátrica. Se calcula que se producen en el mundo alrededor de 200 millones de casos de neumonía vírica al año (la mitad en población infantil), asumiendo que su diagnóstico continúa siendo inferior a la incidencia real.
+
+
+-- ASPECTOS MICROBIOLÓGICOS
+
+En general, el virus respiratorio sincitial (VRS) es el primer agente causal de NAC en niños. En adultos, los virus más detectados son influenza, parainfluenza y VRS. Con menor frecuencia se han comunicado brotes por rinovirus, adenovirus (especialmente serotipo 14 en instituciones militares, de importancia debido a que puede desembocar en ocasiones en una neumonía necrotizante), coronavirus, metapneumovirus y bocavirus (en pacientes inmunocomprometidos).
+Epidemiológicamente, se caracterizan por tener una estacionalidad muy marcada, limitada a los meses fríos del año, y una distribución prácticamente mundial. La diseminación es horizontal por tres mecanismos fundamentalmente: a) pequeñas partículas en aerosol (gotas de Pflügge), con capacidad de transmitirse a grandes distancias por el aire; b) partículas mayores en aerosol (gotas de Wells) que recorren distancias mayores y c) contacto directo, a través de fómites contaminados o contacto persona-persona (tabla 4 ).
+
+
+-- ETIOPATOGENIA
+
+La mayoría de los síntomas de una infección vírica están producidos por la reacción inflamatoria ocasionada por la respuesta inmunitaria antivírica. Los efectos de interferón y las citocinas producidas en la respuesta innata son responsables del cuadro inespecífico en una infección vírica respiratoria y a veces preceden (periodo prodrómico) a la sintomatología más característica una vez que el virus alcanza el órgano diana. Más tarde, los inmunocomplejos circulantes, la respuesta inducida por los linfocitos CD4 y la acción citolítica de los linfocitos CD8 son responsables del daño tisular que conlleva en ocasiones una infección vírica. La respuesta inmunitaria menos activa en los niños, especialmente en sus células natural killer, da lugar a que las infecciones víricas en la infancia se desarrollen con menores síntomas y sean más leves, aunque la falta de una respuesta inmunitaria eficaz puede llevar a una infección crónica persistente de algunos virus.
+La gravedad y afectación sistémica de las neumonías víricas depende de diversos factores, encontrándose entre ellos la edad avanzada, la presencia de neumopatía crónica y de coinfección (vírica o bacteriana), .
+Como complicaciones deben resaltarse las infecciones coexistentes de bacterias y virus respiratorios o de dos virus respiratorios simultáneamente. Se acepta la hipótesis de que primero se produciría la infección vírica y posteriormente la bacteriana. Estas sobreinfecciones parecen estar en el origen de la elevada mortalidad de algunas de las grandes pandemias de gripe producidas a lo largo de la historia, como las de 1918, 1957 y 1968. Este tipo de coinfección es más frecuente en niños y algo menos en adultos. Las combinaciones más descritas son las de rinovirus-neumococo e influenza A-neumococo
+
+
+-- ESTRATEGIA DIAGNÓSTICA
+
+Para el diagnóstico diferencial entre las neumonías bacterianas y víricas, recomendamos la lectura del protocolo específico de diagnóstico de NAC en la unidad temática 52 de la presente serie.
+Clásicamente, el diagnóstico se ha basado en la detección del virus o de los antígenos víricos en muestras del tracto respiratorio superior e inferior mediante cultivo o microscopía de inmunofluorescencia. O bien, de la detección de anticuerpos generados en el proceso de la infección vírica; la seroconversión en dos muestras recogidas a lo largo del tiempo es sugestiva de una exposición al patógeno.
+La introducción de las técnicas de PCR ha aumentado la capacidad de detectar virus respiratorios, sobre todo con las técnicas de PCR en tiempo real. Esta técnica es especialmente útil en ancianos, donde la carga vírica en nasofaringe es significativamente menor que en los niños. Además, algunos virus son difícilmente cultivables (como el bocavirus), o equívocamente detectables a través del antígeno (como el parainfluenza o el adenovirus), por lo que solo pueden ser adecuadamente identificados mediante PCR. El desarrollo de PCR en tiempo real ha permitido identificar, con una alta sensibilidad, la significación clínica de la presencia de virus en la vía aérea superior. La detección de virus influenza, VRS y metapneumovirus en pacientes con neumonía implica un papel patógeno de los mismos. Virus parainfluenza y coronavirus se encuentran con mayor frecuencia en la vía aérea superior de pacientes con NAC que en los controles asintomáticos, aunque con una diferencia de prevalencia entre ambos grupos menos marcada que en el caso de los virus anteriores. La asociación de adenovirus y rinovirus con la NAC varía con la edad de sujeto. Parece haber una fuerte asociación con la neumonía en adultos, que es más débil en niños de edades comprendidas entre los 5 y los 17 años, y que desaparece en los niños por debajo de estas edades.
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+Ver protocolo diagnóstico en la unidad temática 52 de esta serie.
+
+
+-- ESTRATEGIAS TERAPÉUTICAS
+
+No existen estudios prospectivos sobre la utilidad del uso de antibióticos en neumonías con alto grado de sospecha de origen vírico.
+Recientemente se está investigando el efecto de los corticoides sobre los pacientes con neumonía vírica, aunque este tema aún sigue siendo controvertido.
+
+
+--- TRATAMIENTO DE LA NEUMONÍA POR VIRUS INFLUENZA
+
+La neuraminidasa es una enzima necesaria para la propagación vírica. Los inhibidores selectivos de esta enzima (oseltamivir, zanamivir y peramivir) han demostrado tener efecto en la disminución de la replicación durante el pico de viremia que se produce en las primeras 24-48 horas de la infección. Se ha probado una disminución de la mortalidad con su administración precoz.
+
+
+--- TRATAMIENTO DE LA INFECCIÓN POR EL VIRUS RESPIRATORIO SINCITIAL
+
+Ninguno de los tratamientos probados ha conseguido disminuir la mortalidad ni mejorar los parámetros respiratorios durante el seguimiento.
+
+
+--- TRATAMIENTO FRENTE A INFECCIONES POR OTROS VIRUS RESPIRATORIOS
+
+Se están probando distintos tratamientos, aunque sin resultados definitivos en la mayoría de los casos. La rivabirina intravenosa es efectiva en el tratamiento del metapneumovirus en trasplantados pulmonares. Aciclovir es claramente efectivo en el tratamiento de la neumonía por el virus varicela zoster (VVZ) en inmunocompetentes.
+
+
+- ASPECTOS INDIVIDUALES
+
+-- VIRUS RESPIRATORIO SINCITIAL
+
+Es un virus de la familia de los Paramyxoviridae, de tipo ARN con envuelta y un tamaño de 120 a 300 nm. Tiene una distribución mundial y produce epidemias estacionales en los meses fríos. Es el agente causal más frecuente de la bronquiolitis aguda del lactante. Las infecciones recurrentes suelen ser menos agresivas que la primoinfección. La clínica consiste habitualmente en bronquiolitis (en torno al 2-10% de los casos pueden desarrollar crup laríngeo), aunque inicialmente puede cursar con sintomatología de la vía aérea superior (rinorrea, tos, laringitis) que progresa a la vía inferior con la instauración de la bronquiolitis con disnea progresiva. La fiebre puede aparecer pero es de baja intensidad y no se correlaciona con la gravedad de la infección. Tan solo en el 1% de los casos se evidencia una consolidación parenquimatosa pulmonar.
+En adultos se desconoce la importancia que tiene la infección por VRS, si bien en los casos documentados la tasa de complicaciones es relativamente elevada: un 82% de los pacientes desarrolla infección respiratoria baja, un 18% ingresa en la Unidad de Cuidados Intensivos y un 10% fallecen.
+
+
+-- RINOVIRUS
+
+Es un virus ARN envuelto en una cápside con un diámetro de 30 nm. Se han descrito hasta 101 serotipos distintos. Es el agente más frecuente del resfriado común (30-40% de los casos). Predomina en las épocas de transición del verano al otoño y de la primavera al verano. La incubación es corta (1 a 4 días). La clínica de rinorrea, picor nasal, obstrucción nasal, tos (30%), estornudos, cefalea, fiebre y odinofagia puede durar entre uno y 33 días (habitualmente entre 5-7 días). No se asocia con complicaciones directas salvo reagudizaciones de enfermedades respiratorias crónicas, aunque sí puede acontecer la sobreinfección bacteriana del tracto respiratorio superior, siendo rara la afectación directa o sobreinfección bacteriana del tracto inferior.
+
+
+-- VIRUS INFLUENZA A, B Y C
+
+La gripe es una infección respiratoria vírica causada por el virus influenza, altamente contagiosa. En condiciones normales, su presentación clínica es indistinguible de otras infecciones respiratorias víricas y suele ser autolimitada. Tanto la gravedad de la infección como la mortalidad se relacionan con la afectación de pacientes en edades extremas de la vida, inmunodeprimidos o con enfermedades crónicas subyacentes.
+El virus de la influenza pertenece a la familia Orthomyxoviridae, familia de virus ARN. Las glicoproteínas HA (hemaglutinina) y NA (neuraminidasa) son antígenos que justifican la capacidad de deriva genética de estos virus (únicamente en los géneros Influenza A y B). Además, frente a ellos se dirige la respuesta inmunitaria mediante anticuerpos neutralizantes.
+Los síntomas asociados con más frecuencia a la gripe, que nos deben hacer sospechar la enfermedad son: fiebre asociada a escalofríos, cefalea, deterioro del estado general, artromialgias (con predominio de las mialgias), síntomas respiratorios (tos seca, secreción mucopurulenta nasal y odinofagia) e hiporexia. El inicio de la enfermedad suele ser brusco, tras una incubación corta de 48-72 horas, con la aparición de fiebre elevada (38-41°C) y quebrantamiento del estado general muy marcado.
+Las complicaciones respiratorias incluyen neumonía (fig. 2 ) y exacerbación de patologías crónicas respiratorias, con importante morbimortalidad asociada. Un reciente estudio muestra que cerca de un tercio de los pacientes ingresados con infección confirmada por virus influenza desarrolla neumonía, con un consecuente aumento de la estancia hospitalaria y de las complicaciones.Fig. 2
+En general, no suele requerirse el diagnóstico etiológico del síndrome gripal. Sí estaría indicado en situaciones de alto riesgo de complicaciones derivadas de la gripe. El diagnóstico puede hacerse por test antigénico rápido, mediante PCR (la técnica más sensible y específica), cultivo vírico o diagnóstico serológico (solo empleado en investigación).
+En pacientes sin alto riesgo de complicaciones y con presentación no grave solo está indicado el tratamiento sintomático. En casos de presentación grave o afectación visceral estaría indicado un tratamiento específico precoz (en las primeras 48 horas).
+La estrategia más efectiva de prevención es la vacunación, generalmente desarrollada a partir de virus inactivados. El grupo poblacional al que estaría dirigida la vacunación anual comprende las personas de mayor riesgo de desarrollar complicaciones (tabla 5 ) y personas con riesgo de transmitir la infección a individuos de los grupos más vulnerables (incluyendo en ellos a los profesionales sanitarios).
+
+
+--- METAPNEUMOVIRUS HUMANO
+
+El género Metapneumovirus pertenece a la familia Paramyxoviridae y la subfamilia Pneumomovirinae, a la que también pertenece el VRS. Es un virus ARN, de hebra simple y polaridad negativa. Afecta exclusivamente a seres humanos y de
+ahí su denominación como Metapneumovirus humano.
+Es una causa frecuente de neumonía en niños, provocando también algunos casos de neumonía en adultos. Las infecciones provocadas por este virus no siguen una distribución estacional. Los casos de mayor gravedad se presentan en pacientes inmunodeprimidos, principalmente trasplantados de órgano sólido. Característicamente, presenta infiltrados pulmonares focales o segmentarios.
+
+
+-- VIRUS PARAINFLUENZA
+
+Es un virus de la familia Paramyxoviridae. Son virus ARN con envuelta y un diámetro de 150 a 200 nm. La variabilidad estacional depende del serotipo: el tipo 3 es endémico durante todo el año con algún pico los meses de abril y mayo; los serotipos 1 y 2 producen epidemias de crup laríngeo en otoño; finalmente los serotipos 4A y 4B no tienen una clara estacionalidad.
+El espectro clínico de la infección por este virus es amplio, desde infección respiratoria alta hasta un cuadro clínico indistinguible de la bronquiolitis ocasionada por el VRS, siendo el segundo agente causal en frecuencia. Además, es el agente causal más frecuente del crup en niños. La clínica consiste en tos metálica, voz ronca y estridor laríngeo. En la radiografía es típico el signo del campanario a nivel laríngeo (imagen en punta de lápiz). El cuadro puede progresar a neumonía.
+
+
+--- BOCAVIRUS HUMANO
+
+Es un virus ADN descrito por primera vez en el año 2005, identificado en muestras de aspirado nasofaríngeo en niños con infecciones del tracto respiratorio inferior. Tiene una estrecha relación con dos miembros de la familia Parvoviridae: parvovirus bovino y virus minute canino, por lo que recibió el nombre provisorio de Bocavirus humano (HBoV) (bo de bovino y ca de canino).
+Existen datos muy variables sobre su prevalencia en muestras respiratorias en individuos asintomáticos. Varios estudios han comunicado un alto porcentaje de coinfección con otros virus, lo que ha llevado a cuestionar su papel como patógeno respiratorio.
+Tiene predominio estacional en invierno y primavera. Se ha asociado a sintomatología respiratoria aguda alta (tos, fiebre, conjuntivitis, coriza, faringitis, laringitis y otitis), baja (neumonía, obstrucción bronquial, bronquiolitis, tos de tipo coqueluchoídea) y a descompensación de pacientes asmáticos. En adultos las infecciones agudas por HBoV son infrecuentes y se han observado en pacientes inmunocomprometidos, caracterizadas por síntomas respiratorios agudos.
+
+
+---- CORONAVIRUS
+
+De la familia Coronaviridae, son virus ARN con envoltura circular de 30 kb de longitud, con una morfología de corona estrellada.
+Esta infección constituye la segunda causa más frecuente de resfriado común (15%). Tiene distribución mundial y estacional, siendo más frecuente en invierno y primavera. Además del resfriado común, se han descritos casos de neumonía y bronquiolitis en niños; otitis y exacerbaciones de asma en jóvenes y adultos, así como neumonía y bronquitis grave en ancianos e inmunodeprimidos.
+
+
+---- ADENOVIRUS
+
+Es un virus ADN sin envoltura con un tamaño de 70-90 nm de diámetro. Se han aislado 51 serotipos con actividad en los seres humanos
+Aunque pueden causar un amplio espectro de infecciones, habitualmente leves, a nivel respiratorio se caracterizan por ser los responsables de hasta el 5% de las infecciones respiratorias altas y el 10% de las neumonías en niños. El periodo de incubación oscila entre los 2 y los 14 días. Puede acompañarse de síntomas sistémicos. Los serotipos que producen con mayor frecuencia neumonía son del 1 al 5, 7, 14 y 21. Ocasionalmente, pueden dejar como secuelas bronquiectasias.
+
+
+---- ENTEROVIRUS
+
+Los enterovirus son importantes patógenos para el hombre. Pertenecen a la familia Picornaviridae que, en la actualidad, cuenta con más de 300 sero/genotipos agrupados en 28 especies y 12 géneros.
+Son los principales agentes víricos productores de meningitis linfocitaria, generalmente de curso benigno. También pueden causar encefalitis o meningoencefalitis habitualmente con buen pronóstico, cuadros respiratorios (infecciones respiratorias de vías altas, bronquitis, bronquiolitis, neumonías), exantemas, enfermedad mano-boca-pie (HFMD) y conjuntivitis hemorrágica aguda.
+
+
+--- VIRUS VARICELA ZOSTER Y OTROS VIRUS HERPES
+
+Este virus pertenece a la familia Herpesviridae, subfamilia alfa-herpesvirus. Su característica principal es que permanece latente en las neuronas de los ganglios sensitivos, produciendo fundamentalmente infecciones mucocutáneas. El VVZ presenta una alta contagiosidad a través de las secreciones respiratorias o por el contacto directo con las lesiones cutáneas de individuos infectados por el mismo. Tiene un periodo de incubación total de 14 a 16 días, aunque la contagiosidad comienza desde las 48 horas antes de la aparición del rash hasta que todas las lesiones han adquirido el estado de costras. Esta primoinfección, conocida como varicela, genera inmunidad permanente.
+En los casos no complicados, el periodo prodrómico se sigue de la aparición de un rash vesicular, pruriginoso, con lesiones cutáneas (máculas, vesículas, pústulas). En algunos casos, fundamentalmente adultos inmunodeprimidos, el cuadro puede complicarse con la aparición de neumonía varicelosa, de escasa importancia en niños pero de considerable impacto en adultos, especialmente en fumadores y embarazadas. Se presenta a la semana del inicio de las lesiones y cursa con tos seca, disnea y ocasionalmente hemoptisis, desarrollando un infiltrado intersticial bilateral con hipoxemia que en ocasiones amenaza la vida de los pacientes (fig. 3 ).Fig. 3
+Generalmente el diagnóstico de la infección es clínico. Solo en el caso de complicaciones graves estaría indicado establecer un diagnóstico diferencial apoyado por serología, PCR, inmunofluorescencia o cultivo vírico. En caso de ser muy sintomático, el tratamiento se realizaría con aciclovir, famciclovir y valaciclovir.
+A esta subfamilia también pertenecen los virus herpes simple 1 (VHS-1) y herpes simple 2 (VHS-2). La neumonitis por VHS-1 y VHS-2 está descrita sobre todo en inmunodeprimidos y rara vez en inmunocompetentes, pudiendo conducir a cuadros graves respiratorios que precisan ventilación mecánica e incluso a desenlaces fatales. Todo paciente con sospecha de primoinfección por el VHS debe ser tratado en las primeras 72 horas de la aparición de los síntomas. Los fármacos activos son aciclovir, famciclovir y valaciclovir (los tres con similar eficacia), aunque en el caso de la afectación extragenital, al estar indicado el tratamiento intravenoso, se administra aciclovir.
+El virus de Epstein-Barr tiene una doble cadena de ADN de 172 Kb, encapsulada en una cápside icosaédrica de unos 100 nm. La mononucleosis infecciosa es la manifestación clínica más frecuente y mejor conocida del VEB. Su presentación difiere en función del rango de edad en el que se presenta. El grupo de edad más afectado está entre los 10 y 20 años. El periodo de incubación varía entre 4 y 6 semanas y está precedido por unos pródromos (astenia, febrícula, mialgias) de 1-2 semanas. A continuación se desarrolla el cuadro típico, con fiebre, odinofagia y datos exploratorios de inflamación faríngea y linfadenopatías. La evolución es generalmente buena. Se pueden presentar diversas complicaciones (en ocasiones potencialmente fatales) de tipo hematológico, neurológico o respiratorio, en forma de neumonitis y obstrucción de la vía aérea superior por la hiperplasia linfoide y el edema de la mucosa que se puede presentar hasta en el 1-3% de los casos.
+Los beta-herpesvirus incluyen al citomegalovirus (CMV), virus del herpes humano 6 (VHH-6) y virus del herpes humano 7 (VHH-7). Son virus con ADN bicatenario. Habitualmente se adquieren en edades tempranas de la vida, transmitidos por la saliva y con una distribución casi universal. El CMV está compuesto por una nucleocápside icosaédrica que protege el genoma, una doble cadena de ADN de 235 kb. En pacientes inmunocompetentes es muy frecuente y da lugar a cuadros víricos inespecíficos o síndromes mononucleósidos. Se presenta a cualquier edad, aunque suele darse en jóvenes sexualmente activos, con un periodo de incubación de 20 a 60 días y una clínica de 2 a 6 semanas de duración. Es la segunda causa de síndrome mononucleósido tras el VEB. Su evolución es benigna y autolimitada, la mayoría de los pacientes se recuperan por completo, aunque pueden permanecer con astenia durante meses. Se describen múltiples complicaciones (1,7-5,2%) de diversa gravedad. Las complicaciones más frecuentes son la afectación gastrointestinal, neurológica, hematológica y respiratoria. Además la reactivación de la enfermedad por CMV en pacientes trasplantados o inmunodeprimidos da lugar a cuadros de gravedad, puede provocar neumonía, entre otros.
+El VHH-7 no tiene claramente definido su papel patógeno. El VHH-6 puede provocar una primoinfección conocida como exantema súbito o sexta enfermedad. En estados de inmunosupresión puede producir afectación respiratoria. Si la enfermedad es amenazante puede emplearse en su tratamiento foscarnet o ganciclovir, estando descrita la resistencia de HHV-6A a este último fármaco.
+
+
+---- HANTAVIRUS
+
+Es un género que agrupa varios virus ARN pertenecientes a la familia Bunyaviridae, grupo C. Los hantavirus son los agentes etiológicos de dos enfermedades zoonóticas graves: el síndrome pulmonar de hantavirus (HPS), también llamado síndrome cardiopulmonar de hantavirus (HCPS) en América y la fiebre hemorrágica con síndrome renal en Eurasia, con tasas de letalidad de hasta un 40 y un 15%, respectivamente. Los hantavirus son normalmente transmitidos a los seres humanos a través de la inhalación de excreciones contaminadas con virus de los huéspedes roedores. El pulmón es el primer objetivo para los hantavirus y la afectación pulmonar es una parte importante de la patogénesis, especialmente durante el HPS. Sin embargo, se sabe poco sobre los posibles efectos de los hantavirus mediados en el pulmón. Los recientes avances en la creación de modelos tridimensionales organotípicos han facilitado estudios sobre la inflamación de los tejidos y la infección en condiciones fisiológicas.
+
+
+---- PARECHOVIRUS
+
+Los parechovirus (HPeV) son miembros de la familia Picornaviridae, con un ARN no envuelto, de cadena sencilla y de sentido positivo. Se conocen seis genotipos que han sido predominantemente aislados en niños. Dentro de los genotipos, el más prevalente es el HPeV1. Se asocian más comúnmente con síntomas respiratorios o gastrointestinales leves y ocasionalmente con enfermedades graves, como parálisis fláccida y encefalitis.
+
+
+---- MIMIVIRUS
+
+Es un virus ADN descrito en el año 2003, aislado a partir de un brote de neumonía relacionado con torres de ventilación. Pertenece a una familia propia, Mimiviridae. En un comienzo se denominó Acanthamoeba polyphaga mimivirus, porque se desarrolla en amebas de vida libre e inicialmente no se consideró un virus debido a su gran tamaño, que le permite ser visible con el microscopio de luz. Es capaz de producir neumonía en ratones y en seres humanos a nivel experimental. Se demostró la infección en un trabajador de laboratorio que trabajaba en la detección del virus y por lo tanto estaba expuesto, que presentó una neumonía clínica y radiológica con seroconversión. Recientes estudios muestran la presencia de este patógeno en individuos con NAC (comparándolo con controles sanos) y su seroconversión.
+
+
+-- VIRUS DEL SARAMPIÓN
+
+El virus del sarampión es un Paramyxovirus del género Morbilivirus. Mide de 100 a 200 nm de diámetro. Su material genético es ARN de cadena sencilla. La neumonía es la causa más común de muerte asociada al sarampión en niños; se produce en aproximadamente el 6% de los casos. Las infecciones respiratorias ocurren con mayor frecuencia entre los pacientes menores de 5 años y mayores de 20 años de edad. Las complicaciones pulmonares de la infección por el virus del sarampión incluyen bronconeumonía, laringotraqueobronquitis (crup) y bronquiolitis. El sarampión también se ha asociado con el desarrollo de bronquiectasias, que pueden predisponer a infecciones respiratorias recurrentes. La sobreinfección bacteriana puede ocurrir hasta en el 5% de los casos; entre ellos los patógenos bacterianos más frecuentes son Streptococcus pneumoniae, Streptococcus pyogenes, Haemophilus influenzae y Staphylococcus aureus. También puede ocurrir la coinfección con otros virus, especialmente el virus parainfluenza y adenovirus.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

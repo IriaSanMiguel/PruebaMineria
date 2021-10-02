@@ -1,0 +1,187 @@
+IMPLANTE DE SHUNT VENTRÍCULO PERITONEAL EN EL PACIENTE ADULTO. UN NUEVO PROTOCOL
+
+
+
+
+
+- INTRODUCCIÓN
+
+La colocación de un shunt ventrículo-peritoneal (SVP), a pesar de considerarse un procedimiento de baja complejidad, puede devenir en una serie de complicaciones potencialmente fatales para el paciente. En la literatura mundial existen estudios contemporáneos sobre el uso de protocolos en la cirugía de SVP. Al analizar los mismos, llama la atención dos cuestiones. Por un lado, existe consenso en que la técnica quirúrgica es el factor principal para evitar complicaciones postoperatorias pero no existe un trabajo que explique e ilustre la técnica quirúrgica de manera clara y detallada. Por otro lado, se conoce que las intercurrencias asociadas a shunt son diversas; pero estos protocolos apuntan solamente a disminuir la tasa de infecciones, y no, a disminuir la totalidad de las complicaciones.
+En este contexto nuestro equipo quirúrgico desarrolló e implementó a partir de junio de 2016 un “nuevo protocolo”.
+El objetivo del presente trabajo es doble: (1) Describir e ilustrar paso a paso la técnica quirúrgica incluida en el “nuevo protocolo” y (2) Demostrar que el uso de este “nuevo protocolo” disminuye las complicaciones asociadas a SVP.
+
+
+- MATERIALES Y MÉTODOS
+
+-- TÉCNICA QUIRÚRGICA
+
+Para describir e ilustrar la técnica quirúrgica incluida en el “nuevo protocolo” se analizaron los partes operatorios y el archivo fotográfico digital de nuestras cirugías. Se realizó una revisión bibliográfica a fines de comparar nuestra técnica con la de equipos especializados.
+
+
+-- PACIENTES OPERADOS
+
+Desde junio de 2014 a noviembre de 2017 se intervinieron 184 pacientes en relación a sistemas de derivación de LCR. Con la finalidad de evaluar la utilidad del “nuevo protocolo” se realizó un estudio retrospectivo. Se excluyeron los pacientes con revisión de SVP colocado en otra institución (n=51). Además, se excluyeron los pacientes con “shunt no ventrículo-peritoneales” (n=19): ventrículo- atriales, subduro-peritoneales, subduro-pleurales y lumboperitoneales. De este modo, quedaron incluidos los pacientes con colocación primaria de SVP -individuos sin shunt previo- (n=114).
+Se recabaron datos demográficos, antecedentes personales, estudios radiológicos preoperatorios, partes operatorios, evolución clínico radiológica y, principalmente, las complicaciones.
+El equipo quirúrgico fue el mismo en todos los casos. Se utilizaron sistemas Codman Hakim® con válvula programable (n=100) y con válvula de presión fija media alta (n=14). El seguimiento promedio fue de 14,2 meses (rango 6-38).
+Para el análisis estadístico se utilizó el software Stata versión 13.0. Para realizar el mismo se dividió a la muestra (n=114) en 2 grupos: Intervenidos desde junio de 2014 hasta junio de 2016, al que denominamos grupo “protocolo previo” (n=59).Operados desde junio de 2016 hasta noviembre de 2017, al que llamaremos grupo “nuevo protocolo” (n=55).
+
+
+- RESULTADOS
+
+-- TÉCNICA QUIRÚRGICA
+
+Aplicarán la misma dos equipos de cirujanos: uno encargado del cráneo y otro responsable del abdomen.
+
+
+--- FASE I. ORGANIZACIÓN DEL QUIRÓFANO Y POSICIÓN DEL PACIENTE
+
+Organización del quirófano. La disposición de los equipos que intervienen en relación a la mesa operatoria se realiza tal cual se muestra en el esquema .
+Posición del paciente. Decúbito dorsal con cabezal en U. Rotación cefálica 30 grados contralateral a sitio de colocación. Anti Trendelemburg de 15 grados. Protección de decúbitos. Rollo bajo las rodillas. Realce bajo hombro ipsilateral a colocación de válvula.
+La cabeza debe quedar sobre el plano del corazón, pero sin flexión cervical para lograr generar un plano rectilíneo cráneo-cervico-toraco-abdominal para facilitar la fase IV .
+
+
+--- FASE II. MARCACIÓN, TRICOTOMÍA Y ANTISEPSIA
+
+Se marca con fibra indeleble un punto localizado 3 cm por arriba y 3 cm por detrás del polo superior del hélix. Alrededor de este punto se marca un mini palo de hockey invertido . Se marca incisión longitudinal de 6 cm paralela a última costilla, 4 cm por debajo de la misma .
+Tricotomía en área marcada. En el área craneal debemos rasurar desde el sitio de la incisión hacia caudal donde termina el implante piloso. La tricotomía debe permitir asentar el campo quirúrgico adecuadamente.
+Limpieza con alcohol para extraer material sebáceo que es asiento para diversos gérmenes. Se deja secar. Lavado con esponja y iodopovidona jabonosa durante 5 minutos. Secado con gasa estéril. Pintado con iodopovidona solución 3 veces. Un cirujano pinta cabeza y cuello, mientras que otro se encarga de tórax y abdomen. Secado espontáneo durante 5 minutos. Se colocan campos pequeños estériles en tándem; y luego una sábana sobre el hipogastrio y miembros inferiores. Por dentro del borde de los campos pequeños se colocan los campos grandes. Se coloca film adhesivo iodado (Ioban® de3M®) en toda la extensión de la piel descubierta.
+
+
+--- FASE III. EXPOSICIÓN DE SITIOS QUIRÚRGICOS
+
+En esta fase se busca exponer los sitios de entrada de ambos catéteres. Operan ambos equipos en simultáneo.
+Equipo 1. Exposición del plano dural
+Se realiza incisión craneal con bisturí hoja 24 que luego se descarta. Una vez realizada la apertura del plano cutáneo se prosigue con la disección hasta la galea con bisturí frío. Se realiza adecuada hemostasia con pinza bipolar. Con disección roma se separa el tejido celular subcutáneo de la galea. En el flap de partes blandas se colocan dos pinzas rectas que se toman con un sistema de dos bandas elásticas y un reparo, con lo que se logra que el colgajo quede traccionado hacia arriba . Con bipolar repasamos la hemostasia del campo. Se observa la galea preservada. Se realiza una incisión con bisturí hoja 24 (sin uso previo) en dirección contraria a la realizada en el plano supra-adyacente. Se toma el flap de gálea con dos pinzas rectas y se rebate hacia abajo . De este modo logramos una exposición del plano óseo con un campo exangüe y sin separadores que nos incomoden. Con mecha de 11 mm se realiza orificio de trepano. Se lavan restos de limalla con Bonneau. Se coloca una mínima lámina de celulosa oxidable contra todo el borde del orificio, luego se posiciona dicho material hemostático con cera de Horsley. Se objetiva exposición del plano dural sin sangrado alguno .
+Equipo 2. Exposición del peritoneo
+Incisión de epidermis y dermis con bisturí hoja 24 que acto seguido se descarta. Ágil disección de grasa del tejido celular subcutáneo con dos separadores de Farabbeuf. Se colocan separadores autoestáticos tipo Adson rectos, es importante considerar el espesor de la pared abdominal del individuo para escoger el largo de las ramas del separador adecuado. Con una gasa como hisopo se identifica y limpia la aponeurosis. Se procede a la apertura de la aponeurosis en sentido transversal unos 3 cm. Con pinza de Haldsted se divulsionan en sentido paralelo a las fibras musculares hasta identificar el plano peritoneal. Se coloca separador autoestático rebatiendo ambos flaps de músculos anchos del abdomen y se evidencia una membrana blanquecina: la fascia transversalis . Con dos pinzas Bertolas se toma y tracciona al cenit la fascia pre peritoneal y el peritoneo. Por transiluminación se chequea que no exista viscera alguna interpuesta. Con tijera de Metzembaum o bisturí frío hoja 11 se abre la fascia y el peritoneo. Acto seguido se realiza una jareta con seda 3.0 tomando la fascia transversalis y las hojas peritoneales .
+
+
+--- FASE IV. EL TÚNEL CRÁNEO ABDOMINAL
+
+El objetivo de esta fase es preparar un túnel craneo- abdominal. Operan ambos equipos en simultáneo.
+Equipo 1. Realiza un túnel cráneo cervical
+Nos posicionamos en el punto más inferior de la incisión craneal. Con tijera de Metzenbaum se talla un bolsillo subaponeurotico en dirección caudal, cuyo espacio debe ser suficiente para alojar la válvula .
+Equipo 2. Realiza un túnel abdomino cervical
+Nos posicionamos en un punto equidistante entre ambos extremos de la incisión abdominal. Se toma el pasador y se perfora el tejido celular subcutáneo a nivel supra- aponeurótico. Se lleva el pasador hacia el cuello hasta verse superficializado. Se evidencia la piel del cuello traccionada por la punta del pasador . Con bisturí se realiza mínima incisión de 5 mm a fines de que el pasador atraviese la piel y queda expuesto . Se anuda un hilo seda 0.0 en el extremo expuesto del pasador para luego traccionar del mismo en dirección caudal hasta evidenciar el hilo saliendo por el sitio quirúrgico abdominal . Se coloca una pinza a modo de reparo en cada extremo de la seda y mediante un corte con tijera de Mayo se libera del pasador.
+Equipo 1. Pro siguientemente se ingresa con un histerómetro al bolsillo en dirección cráneo caudal hasta alcanzar la mínima incisión cervical. En este punto puede llegar a ser necesario un mínimo corte aponeurótico para lograr exponer la punta del histerómetro. Una vez expuesta se anuda con el del hilo de seda y se realiza tracción en sentido opuesto hasta evidenciar la seda saliendo a nivel del sitio quirúrgico cefálico . Finalmente, se cierra la herida cervical con uno o dos puntos tipo Donnatti Blair. Ambos equipos deben cambiarse los guantes antes de manipular el material protésico. Equipo 2. Acto seguido, utilizando este hilo de seda resistente, tunelizamos en dirección céfalo-caudal el catéter distal por el corredor cráneo abdominal. El extremo cefálico del catéter distal queda ofrecido para conectar la válvula, mientras que el extremo abdominal del catéter distal es envuelto en una gasa húmeda a fines de que no entre en contacto con el resto del campo.
+
+
+--- FASE V. CONEXIONES
+
+Objetivo: conexión de la válvula y colocación del catéter próximal. Opera el equipo 1. En primer lugar, se prepara la válvula. Esto consiste en dejar el conector principal con un tramo de catéter de 1 cm. Se reconoce la válvula y sus reparos. Se realiza un doble chequeo de la dirección de flujo y el sitio de apoyo de la válvula . Se conecta la misma al catéter distal y acto seguido se envuelve en una gasa húmeda para que no entre en contacto con el resto del campo.
+En segundo lugar, se identifica la duramadre expuesta y se coagula con bipolar. Se procede a la durotomía en cruz con bisturí hoja 11 nueva . Se coagulan las leptomeninges. Ahora se prepara el catéter próximal dejando el fijador (“codo azul”) a 7.5 cm. Se posiciona el catéter apuntando al canto externo contralateral, de arriba hacia abajo y de lateral a medial . Se tuneliza el catéter con mandril 5 o 6 cm lentamente hasta observar flujo de LCR a través de la luz. Se retira el mandril metálico y se continúa tunelizando el catéter solo hasta la marca de 7.5 cm . Se coloca el catéter dentro del “codo azul”. Es clave mantener obturada la luz con los dedos para evitar una brusca pérdida de LCR. Se corta el catéter proximal a 15 mm del codo hacia distal . Se ensambla el mismo al conector de la válvula y se asegura con hilo de lino. Se pulsa el reservorio de la válvula para purgar el sistema y luego se chequea que el LCR salga gota a gota espontáneamente por el catéter distal. Se chequea adecuada apertura ingresando a la cavidad con instrumental romo. Con una pinza bayoneta se ingresa el catéter distal en la cavidad peritoneal. Luego se cierra la jareta y se anuda con la tensión suficiente para retener el catéter sin obturar su luz . Con pinza bayoneta se toma el catéter y se realiza un mínimo movimiento hacia arriba y abajo chequeando que no esté demasiado ajustado por la jareta.
+
+
+--- FASE VI. PERITONEO
+
+Objetivo: colocación del catéter distal. Opera el equipo 2. Se extiende el catéter distal hasta el pubis y se corta . Luego se fenestra su extremo libre. A través de la jareta se evidencia grasa peritoneal y asas intestinales en movimiento.
+
+
+--- FASE VII. CIERRE
+
+El objetivo de esta fase es realizar el cierre hermético de los tejidos sin dañar el shunt. Operan ambos equipos en paralelo.
+Equipo 1. Fija el conector con seda 3.0. utilizando un punto en rulo (“enlazado”). Se reposiciona flap de galea . Se cierra plano a plano: TCS con puntos separados e invertidos de vycril 2.0. y piel con puntos separados tipo Donnattis de nylon 3.0.
+Equipo 2. Se aproxima músculo con dos o tres puntos de vycril 1.0. Aponeurosis con surget simple de vycril 0.0. TCS denso con surget simple de vycril 2.0. TCS laxo con puntos separados invertidos de vycril 2.0. Piel con intradérmica de nylon 3.0.
+
+
+-- PACIENTES OPERADOS
+
+--- GENERALIDADES
+
+La edad promedio y la distribución por sexo fue similar en ambos grupos . La causa más frecuente de hidrocefalia fue el Síndrome de Hakim Adams en ambos grupos .
+
+
+--- EL ACTO QUIRÚRGICO Y EL POSTOPERATORIO INMEDIATO
+
+Respecto al tipo de cirugía (programada o de urgencia) y al turno de quirófano (primero del día o ulterior) no se encontraron diferencias significativas entre ambos grupos . El tiempo de cirugía y el tiempo de internación postoperatorio disminuyeron al implementar el nuevo protocolo .
+
+
+--- SEGUIMIENTO
+
+El periodo de seguimiento fue de 19 meses para el grupo “protocolo previo” y 10 meses para el grupo “nuevo protocolo”.
+
+
+--- COMPLICACIONES
+
+La cantidad de pacientes con alguna complicación fue significativamente menor con el “nuevo protocolo” (20% versus 39% respectivamente; p=0,04) . En el grupo “nuevo protocolo” no se registró infección alguna asociada a shunt . Las complicaciones intracraneanas en el grupo “protocolo previo” representaron el 17%, mientras que para el grupo “nuevo protocolo” fueron del 10% . En ambos grupos se evidenció un porcentaje considerable de migración de catéter distal . Al comparar la prevalencia de complicaciones entre las cirugías realizadas en el “primer turno” versus las realizadas en “turnos ulteriores”, no se obtuvo una diferencia estadísticamente significativa, antes y después de implementar el nuevo protocolo .
+
+
+- DISCUSIÓN
+
+-- TÉCNICA QUIRÚRGICA
+
+Existen una serie de tips técnicos que consideramos deben tenerse presentes. Los agrupamos según las fases de la cirugía:
+
+
+--- FASE I. ORGANIZACIÓN DEL QUIRÓFANO Y POSICIÓN DEL PACIENTE
+
+Descartar la hoja número 24 de bisturí que se utilizó para la incisión en piel para evitar una posterior colonización del catéter con gérmenes de la piel.Realizar hemostasia meticulosa evitando colecciones sanguíneas a posteriori que generen un medio propenso para el desarrollo de infecciones.
+
+
+--- FASE II. MARCACIÓN, TRICOTOMÍA Y ANTISEPSIA
+
+La marcación que utilizamos la mayoría de las veces es una variación del conocido punto de Keen. En vez de tomar como reparo el conducto auditivo externo, tomamos el polo superior del helix; de esta forma el punto que marcamos se localiza superior que el punto de Keen. Esto sirve para a posteriori ingresar con el catéter proximal en dirección descendente y medial, de modo tal que con facilidad se encuentra el ventrículo lateral.Preferimos marcar una incisión craneal tipo mini palo de hockey a fines de realizar la menor cantidad de solución de continuidad necesaria en la piel.
+
+
+--- FASE III. EXPOSICIÓN DE SITIOS QUIRÚRGICOS
+
+El flap de galea se convierte en una barrera más que evita la colonización de la válvula.Una vez alcanzado el plano óseo puede realizarse a modo de excepción (en caso de querer tener un resultado estético óptimo) una incisión en palo de hockey y drillado el sitio de asiento de la válvula.El uso de separadores autoestáticos tipo Adson para retraer plano por plano mejora la visión del cirujano, y fundamentalmente facilita el tratamiento del plano peritoneal. En nuestra serie no se evidenció evisceración alguna en los controles postoperatorios.
+
+
+--- FASE IV. EL TÚNEL CRÁNEO ABDOMINAL
+
+Realizar un bolsillo cráneo cervical amplio de una vez es clave para no tener que volver a manipular los tejidos una vez colocada la válvula en su lugar.Antes de tocar el shunt todos los integrantes deben cambiarse los guantes.Realizar la tunelización del pasador de caudal a cervical es una maniobra controversial desde el punto de vista infectológico. Reconocemos que es preferible hacerlo en sentido inverso; pero en el paciente adulto se torna dificultoso por el espesor de sus tejidos.El uso de seda 0 para pasar el catéter se adoptó por dos cuestiones: 1) permite el cierre temprano de herida en cuello antes de pasar el catéter y 2) permite pasar de una vez el catéter distal por el túnel cráneo-abdominal sin múltiples intentos frustros que aumentan el tiempo quirúrgico. Una cirugía más prolongada en tiempo se asociada a una mayor tasa de infecciones.El cierre de la herida cervical con puntos Donattis garantiza el correcto hermetismo, disminuye el riesgo de dehiscencia y presenta un resultado estético satisfactorio.
+
+
+--- FASE V. CONEXIONES
+
+La coagulación pial e incluso cortical facilita el inicio de la colocación del catéter proximal y evita futuras hemorragias subpiales que pueden eventualmente generar crisis comiciales. Además, es importante realizar una durotomía que permita el adecuado paso del catéter sin obturarlo.Antes de colocar el shunt la instrumentadora debe purgar adecuadamente con suero cada una de sus partes. Esto evita el drenaje excesivo de LCR durante la cirugía a la hora de corroborar la permeabilidad del catéter.
+
+
+--- FASE VI. PERITONEO
+
+- El catéter distal debe cortarse tal cual lo describimos; un catéter muy largo puede alojarse en el fondo de saco de Douglas, irritarlo y generar molestias transitorias e inespecíficas al paciente.
+
+
+--- FASE VII. CIERRE
+
+El “enlazado” del catéter proximal debe realizarse a nivel del conector metálico, a fines de evitar una obstrucción iatrogénica del catéter proximal. El enlazado evita la migración caudal del catéter proximal.El cierre de ambas heridas quirúrgicas debe garantizar un correcto hermetismo. Para cerrar la piel a nivel craneal utilizamos un surget en guarda griega y para cerrar la piel abdominal una sutura intradérmica. En los pacientes obesos sugerimos cerrar con puntos Donattis para evitar dehiscencia de herida.
+
+
+-- MÁS ALLÁ DE LA TÉCNICA QUIRÚRGICA
+
+La técnica quirúrgica presentada previamente junto a una serie normas constituyen el “nuevo protocolo”. Estás normas tratan sobre el manejo del paciente y pueden resumirse del siguiente modo:
+Interrogatorio pre-quirúrgico. De los antecedentes es importante tener en cuenta colocación de shunt previa, si tuvo intervención quirúrgica abdominal y obesidad. En caso de pacientes antiagregados o anticoagulados, se corrobora adecuada suspensión de los fármacos.
+Estudios radiológicos pre-operatorios. Es importante analizar la TC previa y la radiografía del recorrido del catéter en caso de que corresponda. La RMN es útil para el diagnóstico etiológico de la hidrocefalia.
+Táctica quirúrgica. Es fundamental planificar la táctica quirúrgica con tranquilidad y debida antelación.
+Cuidados infectológicos pre-operatorios. Se chequea que los hisopados nasales sean negativos para SAMR y que el urocultivo sea negativo. El baño preoperatorio se realiza con clorhexidina jabonosa. Una hora previa a la incisión en piel se administra una dosis de vancomicina endovenosa de 1 gramo.
+Equipos de cirujanos. En nuestra institución existe una escuela neuroquirúrgica, por lo que, en la cirugía participan dos integrantes en cada equipo: uno con cierta experiencia y otro que aprende el protocolo. Si bien se recomienda restringir el acceso a quirófano en la cirugía de shunts y que participen la menor cantidad de individuos en la cirugía, en nuestra serie no se evidenció un mayor índice de infecciones desde que comenzaron a participar 4 cirujanos.
+Tips para anestesiología. El anestesiólogo debe chequear si se pasó el antibiótico de profilaxis en tiempo y forma. La boca del calentador (que libera un flujo de aire caliente) debe permanecer por debajo de los campos quirúrgicos para evitar el arrastre mecánico de los gérmenes.
+Tips de instrumentación. La mesa de la instrumentadora se ubica tal cual lo muestra la ilustración; de este modo se evita que los cirujanos den la espalda (que consideramos contaminada) a la misma. Para garantizar la esterilidad del suero el mismo debe provenir de un doble envoltorio; la circulante corta con una tijera limpia el envoltorio externo y entrega de modo aséptico la bolsa de suero estéril a la instrumentadora. La instrumentadora debe fiscalizar que el instrumental utilizado en piel sea descartado. Debe tener suficientes guantes estériles para realizar los recambios que sean necesarios.
+Posición del paciente en el postoperatorio. Durante las primeras 24 horas del postoperatorio el paciente debe permanecer a cero grados a fines de evitar cefalea por hipotensión de LCR.
+Cuidados infectológicos post-operatorios. Doce horas posteriores de la finalización del acto quirúrgico se administra una nueva dosis de vancomicina 1 gramo endovenoso. Las heridas quedan cubiertas con gasa estéril y aisladas con film adhesivo hasta el segundo día postoperatorio. Una vez retiradas el paciente se higieniza con asistencia de enfermería con iodopovidona o clorhexidina jabonosa.
+Control radiológico post-operatorio. De rutina se realiza una tomografía computada de cerebro previa al alta; a fines de descartar complicaciones intracraneanas y de corroborar la correcta colocación del catéter proximal.
+
+
+-- PACIENTES OPERADOS
+
+En ambos grupos gran part0e de los pacientes fueron operados tras diagnosticarse Síndrome de Hakim Adams. Esto explica la edad promedio alta en ambos grupos.
+Todo procedimiento sistematizado es más ágil lo que explica la disminución en los tiempos de cirugía y de internación con el “nuevo protocolo”.
+Si bien el periodo de seguimiento postoperatorio fue menor para el “nuevo protocolo” (10 versus 19 meses promedio); no se trata de un sesgo de seguimiento, ya que, con el “protocolo previo” las complicaciones ocurrieron en gran parte antes de los 9 meses (n=8; 13,59%).
+Con el nuevo protocolo disminuyeron las complicaciones en general. Los equipos especializados del mundo reportan una tasa de infecciones asociadas a shunt que oscila entre el 0,3 y el 30%. Choksey et al. reportan, en una serie de 176 procedimientos realizados en 126 pacientes, una única infección en un paciente que tuvo peritonitis apendicular. En el presente trabajo los autores reportan que no se registraron infecciones asociadas a shunt luego de instaurarse el nuevo protocolo. Esto se explica, en parte, porque se incluyeron únicamente las colocaciones primarias de shunt y se excluyeron las re-cirugías (en las que existe una mayor incidencia de infección.
+Las complicaciones intracraneanas en el grupo “protocolo previo” representaron el 17%, mientras que para el grupo “nuevo protocolo” fueron del 10%. Esto se explica por el manejo postoperatorio más conservador, disminuyendo solo 10 cmH20 la presión de drenaje solo en caso de ser necesario. De este modo se buscó evitar el hiperdrenaje y la formación de higromas y hematomas subdurales.
+Con el “nuevo protocolo” no se logró disminuir significativamente la migración del catéter distal. Cuatro pacientes (7%) del grupo “protocolo nuevo” tuvieron migración del catéter distal; de estos, todos eran obesos y con cirugías mayores de abdomen entre sus antecedentes. Ante este tipo de pacientes podría evaluarse la posibilidad de colocar una mariposa plástica que fije el catéter distal a la aponeurosis muscular o bien realizar la tunelización del mismo junto a un equipo de cirugía general con laparoscopio.
+Choux et al. sostiene que es importante realizar la colocación de shunts en el primer turno quirúrgico; sin embargo, en la presente serie no se evidenció una disminución de las complicaciones en el grupo de pacientes operados en el primer turno quirúrgico respecto al resto .
+
+
+-- HACIA UNA NUEVA MENTALIDAD NEUROQUIRÚRGICA
+
+La cirugía de SVP puede devenir en una serie de complicaciones. Sin embargo, en el ideario colectivo de los neurocirujanos, la cirugía de SVP no está jerarquizada.
+Una maniobra técnica aislada o una sola norma del protocolo no puede evitar per se complicaciones. Existen varios factores asociados a complicaciones en SVP. Un protocolo estricto está constituido por una técnica quirúrgica reglada y un manejo peri-operatorio estandarizado. No existe protocolo estricto con una técnica reglada e impecable pero un manejo peri- operatorio anárquico. Tampoco puede existir un protocolo estricto como producto de un adecuado manejo peri- operatorio pero con una técnica quirúrgica desorganizada. La aplicación de un verdadero protocolo involucra a diversos equipos: cirujanos, enfermería, instrumentadoras, anestesia, circulantes de quirófano.
+Debemos tener en claro que las complicaciones asociadas a SVP no son una fatalidad, pueden prevenirse. Para eso hay que disponer de tiempo para entrenar a todos los equipos relacionados a esta cirugía.
+Sin un protocolo, la colocación de un SVP lejos de ser una solución, se convierte en un problema.
+
+
+- CONCLUSIÓN
+
+Se presentó e ilustró, de manera clara y detallada, la técnica de colocación de SVP en 7 fases. Esta técnica, junto a una serie de normas, constituyen un nuevo protocolo. La aplicación de éste disminuyó las complicaciones en forma global. La “tasa de infección cero” no es una utopía.

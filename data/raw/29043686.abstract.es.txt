@@ -1,0 +1,2 @@
+Con estas líneas, queremos reflejar las limitaciones que tiene el uso de la estadística con pequeños volúmenes de muestra, algo habitual en nuestras series y los errores más habituales que se cometen por interpretación errónea de la p. Planteamos como conclusión una serie de recomendaciones en base a un estudio simulado.
+

@@ -1,0 +1,181 @@
+PROTOCOLO DE DIAGNÓSTICO HISTOLÓGICO PARA MUESTRAS DE PACIENTES CON MELANOMA CUTÁNEO. DOCUMENTO DE CONSENSO DE LA SEAP Y LA AEDV PARA EL REGISTRO NACIONAL DE MELANOMA<SUP
+
+
+- INTRODUCCIÓN
+
+La tasa de incidencia en España del melanoma cutáneo se sitúa en el 8,7 por cada 100.000 personas-año. Esto se traduce en que cada año hay más de 4.000 casos nuevos de melanoma en nuestro país. Conocer la incidencia y la mortalidad y tener un sistema homogéneo para poder realizar estudios de investigación de melanoma en España nos permitiría disponer de unos datos epidemiológicos valiosos. Estos datos están disponibles en algunas provincias donde existen registros de cáncer. En 1997 se creó en España un Registro de Melanoma auspiciado por la Academia Española de Dermatología y Venereología (AEDV). A lo largo de estos años ha tenido dos fases en su organización.
+Uno de los problemas fundamentales es la ausencia de un protocolo común para aportar datos para este registro por parte de los investigadores colaboradores. Facilitar esta tarea mediante la homogeneización de la información a recolectar, junto con el uso de herramientas de captura de datos flexibles, podría permitir una mayor participación en el Registro de Melanoma. Por otro lado, contar con una estandarización de la información necesaria puede servir de modelo para los distintos Servicios de Anatomía Patológica a la hora de elaborar sus propios informes de forma rutinaria.
+Hoy en día no existe un consenso a la hora de determinar qué variables histopatológicas deben ser recogidas en un informe histológico en el melanoma cutáneo. Algunas asociaciones, como el College of American Pathologists, emiten sus propias recomendaciones en forma de listas de verificación que se van actualizando anualmente. A nivel nacional se ha publicado una propuesta previamente desde la Comunidad Valenciana.
+El objetivo del presente estudio es consensuar las variables que debe contener un informe histológico de melanoma cutáneo para que puedan ser utilizados en el Registro de Melanoma.
+
+
+- MATERIAL Y MÉTODO
+
+Este documento de consenso es una iniciativa del coordinador del Registro Nacional de Melanoma (A.T.-V.) y ha sido gestionado desde la Fundación Piel Sana de la AEDV y la Sociedad Española de Anatomía Patológica (SEAP). El proceso se representa en la .
+Se contactó con el Grupo Español de Dermatopatología de la AEDV para que propusieran participantes con especial interés en el melanoma cutáneo. También se consultó a varios expertos en melanoma para proponer panelistas. En total se consiguieron ocho panelistas para la elaboración del documento (siete patólogos y un dermatólogo), todos ellos con dilatada experiencia y numerosas publicaciones sobre el tema.
+En primer lugar se realizó una revisión bibliográfica de las variables que usualmente se encuentran en otros documentos similares basada principalmente en las guías más usadas, , , , . Estas variables se complementaron con otras tras una revisión de la literatura que se consideraron relevantes para ser evaluadas por el panel de expertos. Se buscaron en PubMed potenciales factores pronósticos utilizando los términos («Melanoma/pathology»[MAJR]) AND «Prognosis»[MeSH]) AND «Skin Neoplasms/pathology»[MAJR]).
+Se dividieron las variables en base a si se relacionaban con el tumor primario, el ganglio centinela (GC) o la linfadenectomía (LF).
+En la siguiente fase se utilizó un método Delphi modificado de dos rondas para la obtención del consenso de los indicadores propuestos. Durante el proceso cada panelista puntuó tanto la relevancia como la factibilidad de cada variable propuesta. Se consideró que la relevancia hace referencia al impacto de la variable en la toma de decisiones o en un posible papel pronóstico, y la factibilidad, a la posibilidad de medir o valorar el indicador en el examen histopatológico. A cada indicador se le asignó una puntuación según una escala de 1 (nada relevante/nada factible) a 9 (muy relevante/muy factible). En la primera ronda los panelistas también podían sugerir otras variables que les parecieran relevantes y factibles y cuyo contenido no estuviese reflejado adecuadamente en los indicadores previamente revisados. En la segunda ronda los participantes podían ver las calificaciones propias y los resultados agregados generados por todos los panelistas en la primera fase del método (medias, medianas, modas, máximos y mínimos), para posteriormente reevaluar de nuevo los indicadores si así lo consideraran necesario. Después de finalizar las dos rondas, los indicadores fueron clasificados en función de sus puntuaciones en: indicador con consenso a favor de incluirlo si la mediana y la moda estaban por encima de 7; indicador con consenso en contra si la mediana y la moda estaban por debajo de 3; indicador con consenso ni a favor ni en contra si la mediana y la moda estaban por encima de 3 y por debajo de 6; indicador sin consenso se consideró cuando la mediana ni la moda estaban ambas en los rangos anteriores.
+Posteriormente, los indicadores con consenso ni a favor ni en contra se discutieron en una reunión para decidir si finalmente se incluían o se rechazaban del documento. Se descartaron los indicadores sin consenso o con consenso en contra. Finalmente, tras una revisión externa, se discutieron algunos puntos.
+
+
+- RESULTADOS
+
+Se evaluaron 36 variables tras la revisión de la literatura y de los protocolos usuales (22 del tumor primario, 10 del GC y 5 de la LF). Con la realización del método Delphi modificado se obtuvo un consenso en la primera ronda a favor en 20 variables (8 variables del tumor primario, 6 variables del GC y 6 variables de la LF) . En este paso se añadió otra variable del tumor primario como sugerencia de los panelistas (angiotropismo). Se realizó una segunda ronda a los panelistas, alcanzándose un consenso adicional en 5 y en total en 25 variables (13 variables del tumor primario y los mismos en el GC y LF) . Una última reunión virtual llevó finalmente al consenso de 30 variables (18 variables del tumor primario, 7 variables del GC y 5 variables de LF) que son la propuesta final de protocolo histológico reflejado en la tabla 1 .
+
+
+- DISCUSIÓN
+
+En este estudio se proponen un conjunto de variables para incluir sistemáticamente en la emisión de un informe histopatológico de melanoma que engloba tanto la biopsia del tumor primario como la biopsia selectiva del GC o las procedentes de una LF en estos pacientes.
+Pese a que el objetivo primario de la recogida de datos es disponer en el ámbito nacional de una homogeneización de los datos para el Registro Nacional de Melanomas, no cabe duda de que estas recomendaciones sirven para cualquier servicio de Anatomía Patológica o Dermatopatología a la hora de la emisión de informes de melanoma cutáneo.
+Cabe destacar que las variables incluidas en el presente protocolo no son solo las variables necesarias para una correcta estadificación del melanoma basado en la American Joint Committee on Cancer (AJCC) sino que incluye una serie de variables adicionales, en su mayoría también presentes en otros protocolos, , que el grupo de panelistas han considerado útiles para su potencial uso pronóstico o en la toma de decisiones futuras en el melanoma cutáneo. Sin embargo, no recoge todas las variables inicialmente propuestas porque no se alcanzó el consenso suficiente de su relevancia o factibilidad por parte de los panelistas, como por ejemplo la anchura de la ulceración (presente en el protocolo del College of American Pathologists ), debido a la gran subjetividad en la interpretación de esta variable. Tampoco se incluyó la presencia de células névicas en el GC (presente en el protocolo para el GC de la EORTC), ya que se distingue adecuadamente.
+Otras variables propuestas se han rechazado por no conseguir consenso suficiente bien porque esa información ya está recogida en otras variables como la clasificación S de la metástasis del GC o bien por la dificultad y la falta de evidencia atribuible a la presencia de mitosis en la metástasis linfática regional.
+Por otro lado, la evaluación de la densidad del infiltrado inflamatorio puede ser objeto de interpretación subjetiva. No obstante, esta variable sí consiguió un consenso suficiente para ser incluida, principalmente por su potencial relevancia en la era de los nuevos tratamientos de inmunoterapia del melanoma.
+A continuación se comentan las definiciones y algunos comentarios de las variables incluidas en el protocolo histológico:
+
+
+-- VARIABLES DEL TUMOR PRIMARIO
+
+--- LOCALIZACIÓN
+
+Es una información que se debe proporcionar al patólogo y debe estar recogida en el informe, ya que un mismo paciente puede tener varios melanomas. Además, existe diferencia en el pronóstico de los pacientes en función de su localización. La localización en extremidades, salvo manos y pies, se relaciona con un mejor pronóstico, .
+
+
+--- TIPO DE PROCEDIMIENTO PARA LA BIOPSIA
+
+La recomendación general es la de realizar una biopsia escisional. Aunque no se ha demostrado una diferencia en la supervivencia con el tipo de biopsia (escisional, incisional, afeitado o sacabocados), sí se ha relacionado con diferencias en la medida del Breslow y una mayor frecuencia de afectación de márgenes, sobre todo con el afeitado.
+
+
+--- TAMAÑO MACROSCÓPICO DEL TUMOR
+
+El diámetro actualmente no representa un factor pronóstico del melanoma como en el caso del carcinoma cutáneo de células escamosas; sin embargo, existen trabajos que relacionan un mayor diámetro con un peor pronóstico, . También se ha utilizado para calcular el volumen tumoral como factor pronóstico, al igual que se comienza a usar para el cálculo de la tasa de crecimiento del tumor.
+
+
+--- MELANOMA IN SITU VS. INVASOR
+
+Se considera melanoma in situ aquel que está confinado al epitelio y que, por lo tanto, no atraviesa la membrana basal. Aunque virtualmente se considera el melanoma in situ como potencialmente curable, en algunas series se describe cierta mortalidad asociada.
+
+
+--- GROSOR TUMORAL (ÍNDICE DE BRESLOW
+
+El máximo grosor tumoral debe ser medido con un micrómetro ocular calibrado. Se debe medir desde el límite superior de la capa granulosa (o del estrato espinoso en ausencia de capa granulosa) hasta el punto más profundo del tumor. Si el tumor estuviera ulcerado se debe comenzar a medir desde la base de la úlcera.
+El grosor tumoral es el factor pronóstico más importante e incluido en todas las clasificaciones de la AJCC. La medición se debe redondear a las décimas de milímetros, lo más cercano a 0,1 mm y no a 0,01 mm, como se recomendaba en anteriores versiones. De esta forma, para melanomas con un grosor entre 0,75-0,84 mm se debe redondear a 0,8 mm e informados como T1b, y, por ejemplo, grosores de entre 1,01 y 1,04 mm deben ser informados como 1,0 mm.
+El espesor de Breslow puede presentar dificultad a la hora de medir la presencia de un nevus preexistente o variantes como melanomas nevoides por la apariencia de maduración de estas células en la dermis. Puede ser también difícil de valorar en presencia de extensión perianexial. Sin embargo, esta extensión no debe tenerse en cuenta para la medición del grosor.
+Si el nivel más profundo estuviera seccionado por el tumor, se deba especificar que el grosor es «… de al menos ____ mm».
+En melanomas polipoides el espesor de Breslow sigue midiéndose desde la granulosa hasta el punto más profundo del melanoma. En estos melanomas polipoides el novel de Clark no es válido y no se debe incluir.
+El espesor de Breslow no es sumatorio: el espesor de un melanoma que alcanza el borde de la biopsia no se puede sumar al espesor evidenciado en la biopsia de ampliación de márgenes.
+La medición del espesor de melanomas que se disponen en torno a folículos pilosos puede ser compleja. En tales casos nos podemos encontrar tres situaciones:
+Un melanoma que se extiende por un folículo e infiltra después la dermis perifolicular.
+Un melanoma foliculotropo que infiltra el folículo desde la dermis.
+Un melanoma folicular primario que se extiende a la dermis.
+En el caso B, el Breslow se mediría desde la granulosa epidérmica hasta el punto más profundo de melanoma, como en condiciones normales. Sin embargo, en los casos A y C sería más correcto medir desde el punto más interno de la vaina radicular externa, en perpendicular al eje principal del folículo, hasta el punto más alejado de melanoma.
+Para evitar estos problemas, la presencia de melanoma perifolicular se suele evaluar con tres parámetros:A)Espesor de Breslow: medido desde la granulosa epidérmica hasta el punto más profundo de melanoma no perifolicular.B)Espesor folicular de Breslow: medido desde la granulosa epidérmica hasta el punto más profundo de melanoma perifolicular.C)Grosor folicular: medido desde el punto más interno de la vaina radicular externa, en perpendicular al eje principal del folículo, hasta el punto más alejado de melanoma.
+Otro problema es la medición del Breslow en piel acral, en donde puede existir una gran hiperplasia epidérmica acompañante. En estos casos conviene añadir una nota diciendo que gran parte del espesor es debido a la hiperplasia epidérmica, e incluso medir el grosor de esta última y ponerlo en el informe.
+Por último, otro problema adicional son los melanomas de morfología «verrucosa» o «papilomatosa», en los que el espesor de Breslow varía enormemente de las papilas a los valles. En estos casos se sugiere dar la media de dos valores, es decir, medir el Breslow desde un punto a mitad de distancia desde la base a la punta de una papila.
+
+
+--- ULCERACIÓN
+
+La presencia de ulceración, es decir, la desaparición completa del epitelio, empeora el pronóstico en el melanoma. Está incluida en la clasificación de la AJCC. Su presencia empeora el pronóstico y por tanto aumenta la estadificación del melanoma de «a» a «b» para cualquier grosor (T). La verdadera ulceración se caracteriza por una reacción tisular a la pérdida de la epidermis con fibrina e inflamación aguda. Aunque se ha descrito que la anchura de la ulceración puede tener implicaciones pronósticas, este factor no se ha incluido en el presente protocolo.
+
+
+--- NIVEL DE CLARK (PROFUNDIDAD
+
+Evalúa los niveles de profundidad que alcanza el melanoma desde la epidermis hasta el tejido celular subcutáneo (I-V). En anteriores clasificaciones de la AJCC era un criterio para estadificar en los melanomas finos, . Los panelistas consideran que puede influir en la toma de decisiones en algunos casos, sobre todo de melanomas finos.
+
+
+--- ÍNDICE MITÓTICO DÉRMICO
+
+Aunque actualmente no es un factor que se tenga en cuenta en la clasificación de la AJCC, ha demostrado una utilidad pronóstica, . La forma correcta de medirlo es mediante la identificación del área de la dermis de la zona con mayor actividad mitótica denominada «hot spot». Desde ahí se realiza un recuento de las mitosis en una superficie de 1 mm2. Se debe reflejar como un número entero, especificando si no se encuentra mitosis como «0 mitosis/mm2» en vez de «no identificadas» o «< 1 mitosis/mm2».
+Un alto índice mitótico es criterio según la NCCN para indicar BSGC en pacientes con melanoma fino. Se ha relacionado un índice mitótico de más de 2 mitosis/mm2 en melanoma fino como criterio de alto riesgo para tener una BSGC positiva.
+
+
+--- SUBTIPO HISTOLÓGICO
+
+Se basa en la clasificación de la Organización Mundial de la Salud para los tumores cutáneos, que los clasifica en función de los patrones de exposición a la radiación ultravioleta, el origen celular, sus características genéticas o su vía de evolución.
+
+
+--- LINFOCITOS INFILTRANTES DE TUMOR
+
+La presencia de infiltrado linfocítico se interpreta como la respuesta del huésped frente al tumor. En la literatura se ha relacionado la intensidad del infiltrado con el pronóstico del paciente.
+Se clasifica como «ausente» cuando no se identifica infiltrado o este existe pero no está en contacto con el tumor; «intenso» cuando el infiltrado infiltra completamente la base del tumor (fig. 1 ) o infiltra difusamente el tumor (fig. 2 ); por último, es «no intenso» cuando el infiltrado está en el tumor solo de forma focal o afecta a la base del tumor pero no en toda su longitud.Figura 1Figura 2
+Además, se debe especificar si es intratumoral, peritumoral o ambos.
+
+
+--- NEUROTROPISMO
+
+Se define como la presencia de células de melanoma colindantes con las vainas nerviosas de una forma circunferencial (invasión perineural) (fig. 3 ) o bien en el interior del nervio (invasión intraneural) (fig. 4 ). Se suele observar con mayor frecuencia en la periferia del tumor. La presencia de atrapamiento del nervio por el crecimiento tumoral no debe ser considerada como neurotropismo. Está asociado frecuentemente al melanoma desmoplásico. A veces se extiende más allá de los límites del tumor primario, lo que se asocia a una mayor posibilidad de recidiva local. Se considera actualmente también neurotropismo la diferenciación neural presente en melanomas, generalmente desmoplásicos (fig. 5 ).Figura 3Figura 4Figura 5
+
+
+--- INVASIÓN LINFOVASCULAR
+
+Se define como la presencia inequívoca de células tumorales en el interior de las luces vasculares (linfáticas o sanguíneas) y adheridas al endotelio. A veces se realiza inmunohistoquímica como D2-40 y CD31 junto con marcadores de células melanocíticas para una mejor visualización. Su presencia se relaciona con un peor pronóstico, .
+
+
+--- ANGIOTROPISMO
+
+Se define como la presencia de células de melanoma en el espacio perivascular, similar a la invasión perineural en lo que se ha denominado mimetismo pericítico sin presencia de intravasación (fig. 6 ). Su presencia se ha relacionado con un mayor riesgo de metástasis.Figura 6
+
+
+--- MICROSATELITOSIS
+
+Se define como la presencia de micrometástasis adyacentes o profundas al tumor primario. Debe identificarse como un nido discontinuo al tumor primario separado por piel normal (fig. 7a-c). Ya no se considera un tamaño mínimo y una distancia mínima, como se indicaba en la 7.ª edición de la AJCC. Se recomienda evaluar otros cortes histológicos para comprobar que es una verdadera microsatelitosis y no una continuación del tumor o extensión glandular ecrina.Figura 7
+
+
+--- REGRESIÓN TUMORAL
+
+Se considera que es una forma de reacción del huésped frente al melanoma. Las características de la regresión incluyen el reemplazo de las células tumorales por inflamación linfocitaria, así como la atenuación de la epidermis y la fibrosis dérmica no laminada con células inflamatorias, melanofagia y aumento de la densidad microvascular (fig. 8 ). Se ha aconsejado la determinación del porcentaje de regresión en su superficie horizontal. Se debe especificar una regresión de más o menos el 75%, .Figura 8
+
+
+--- MARGEN DE ESCISIÓN Y DISTANCIA A LOS MÁRGENES LATERAL Y PROFUNDO
+
+Es imprescindible conocer la afectación o no de los márgenes y la distancia del melanoma al margen lateral y profundo de resección, ya que hoy en día se recomienda una ampliación quirúrgica proporcional al grosor de la lesión de 0,5 y 2 cm. No existe una gran correlación entre el margen clínico y el histopatológico en el melanoma. También se ha demostrado que las lesiones con más diámetro van a necesitar más margen para aclarar los bordes, , .
+
+
+-- VARIABLES DE LAS METÁSTASIS LINFÁTICAS REGIONALES
+
+--- NÚMERO DE GANGLIOS CENTINELAS ANALIZADOS
+
+El número de ganglios extraídos se ha asociado al pronóstico y a la tasa de falsos negativos.
+
+
+--- NÚMERO DE GANGLIOS CENTINELAS POSITIVOS
+
+Establecido como factor pronóstico por la 8.ª versión de la AJCC.
+
+
+--- DIÁMETRO MAYOR DE LA METÁSTASIS LINFÁTICA
+
+Pese a que actualmente no es un criterio de estadificación en la AJCC, se recomienda recoger esta variable, ya que se ha correlacionado con la supervivencia de estos pacientes (fig. 9 ), .Figura 9
+
+
+--- LOCALIZACIÓN DE LA METÁSTASIS LINFÁTICA REGIONAL
+
+Se ha propuesto la clasificación de Dewar para la descripción de la localización de la micrometástasis (subcapsular, combinada, parenquimatosa, multifocal y difusa), .
+
+
+--- EXTENSIÓN EXTRANODAL
+
+Aunque es relativamente poco frecuente, su presencia en un GC confiere un peor pronóstico.
+
+
+--- NÚMERO DE DEPÓSITOS METASTÁSICOS
+
+Aunque puede variar dependiendo del corte histológico, se recoge el número de depósitos metastásicos en el GC como lo recomienda la EORTC categorizados como 1, 2-5, 6-10, 11-20, > 20 depósitos.
+
+
+--- RATIO DE GANGLIOS POSITIVOS/GANGLIOS ANALIZADOS TRAS LA LINFADENECTOMÍA
+
+Denominada tasa ganglionar, ha sido propuesta como un factor de mal pronóstico.
+
+
+- CONCLUSIONES
+
+La fortaleza del presente estudio radica en la metodología empleada, el método Delphi, una metodología estandarizada y validada en medicina en la elaboración de guías o indicadores de calidad.
+Por otro lado, este método puede tener ciertos sesgos dependientes de los participantes elegidos o la falta de evidencia relevante actual en las distintas variables excluidas. Para algunas variables han existido importantes discrepancias, y finalmente no se han incluido por falta de consenso; por tanto, en futuras actualizaciones pudieran ser tenidas en cuenta. Tal es el caso del grosor de Breslow con dos decimales, que aunque la AJCC recomiende comunicar el grosor con un solo decimal, aún se mantiene en la medición de dos decimales si es práctico y factible en algunos casos concretos; la presencia o no de elastosas solar, que se relaciona con una mayor o menor exposición solar, base de la nueva clasificación de la Organización Mundial de la Salud para los tumores cutáneos o la dificultad y la falta de evidencia para la cuantificación exacta de los depósitos metastásicos en el GC.
+Como conclusión, creemos que una mejor clasificación pronóstica en el melanoma cutáneo mejorará el manejo de estos pacientes en el futuro. Para ello es indispensable una homogeneización de los datos registrados para una correcta interpretación de los mismos una vez analizados. De ahí el esfuerzo de proponer un protocolo histológico homogéneo de recogida de datos para todos los centros que quieran participar en el Registro Nacional de Melanoma.
+
+
+- FINANCIACIÓN
+
+Este estudio está promovido y financiado por la Fundación Piel Sana de la AEDV. Ninguna entidad ajena ha aportado ayuda financiera ni ha participado en la elaboración y ejecución del proyecto.

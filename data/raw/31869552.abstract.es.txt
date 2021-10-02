@@ -1,0 +1,5 @@
+Se midió la tensión arterial a 7 838 adultos participantes en la Ensanut 100k. Se clasificó como hipertensos a quienes autorreportaron el diagnóstico de HTA o presentaban tensión arterial sistólica (TAS) ≥130mmHg o tensión arterial diastólica (TAD) ≥80mmHg. Se consideró tensión arterial controlada cuando la TAS fue <130mmHg y la TAD <80mmHg.
+La prevalencia de HTA en adultos en condición de vulnerabilidad fue de 49.2%, de los cuales 54.7% desconocía tener HTA. De los hipertensos que recibían tratamiento farmacológico (69.0%), el 66.8% tuvo tensión arterial controlada.
+Casi la mitad de los adultos mexicanos en condición de vulnerabilidad tiene HTA y de ellos, más de la mitad desconoce que tiene esta enfermedad. Asimismo, un tercio de los adultos hipertensos tiene un inadecuado control de su enfermedad.
+Describir la prevalencia de hipertensión arterial (HTA) en adultos en condición de vulnerabilidad, el porcentaje de ellos con diagnóstico previo y la proporción con control adecuado.
+

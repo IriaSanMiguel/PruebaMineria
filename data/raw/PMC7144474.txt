@@ -1,0 +1,309 @@
+CONOCIMIENTOS BÁSICOS SOBRE ENFERMEDADES VÍRICAS EMERGENTES: APUNTES PARA ATENCIÓN PRIMARIA (PARTE 1
+
+
+- PUNTOS CLAVE
+
+
+
+
+- INTRODUCCIÓN
+
+Las enfermedades emergentes son generalmente infecciones causadas por virus aislados y conocidos en el siglo xx, que habían provocado pequeñas epidemias en zonas muy concretas y no se habían expandido geográficamente a lo largo del tiempo. En otros casos se trata de virus nuevos, recientemente aislados e identificados.
+En los últimos años ha habido epidemias importantes de cólera, síndrome respiratorio agudo grave (SARS, por sus siglas en inglés), síndrome respiratorio de Oriente Medio por Coronavirus (MERS-CoV), sarampión, gripe porcina A-H1N1, fiebre amarilla, dengue, chikungunya, _bola y Zika. Salvo el cólera, todas son infecciones víricas.
+La globalización, los cambios demográficos, los avances tecnológicos, industriales, los cambios medioambientales, los viajes con movimientos de población, vectores y microbios, transporte de mercancías… todo colabora con la expansión mundial de dichas enfermedades.
+Algunas de estas enfermedades son transmitidas por vectores, ya sean artrópodos o garrapatas. Se considera caso importado si el inicio de los síntomas se produce en los 15 días posteriores a la estancia en una zona de transmisión activa y caso autóctono si no existe el antecedente del viaje.
+La importancia entre diferenciar ambos tipos de casos reside en que en España se identificó por primera vez Aedes albopictus (mosquito tigre) en 2004, competente para transmitir dengue, Zika y Chikungunya. En la actualidad, está presente en Cataluña, Comunidad Valenciana, Murcia, Andalucía, Baleares, País Vasco y Aragón (fig. 1 ).Figura 1
+En 2016 se detectó un caso autóctono de fiebre hemorrágica Crimea-Congo (FHCC).
+El objetivo de este artículo es sensibilizar frente a estas enfermedades, priorizando las que pueden darse de forma autóctona en nuestro medio por existir vector transmisor.
+
+
+- FIEBRE AMARILLA
+
+Enfermedad vírica hemorrágica causada por un flavivirus. Se transmite a través de la picadura de mosquitos del género Aedes, y entre los más frecuentes están A. aegypti (suele picar durante las horas del día, y es más frecuente al amanecer y anochecer) y Haemagogus.
+Hay dos ciclos de transmisión, el selvático (entre Haemagogus y primates no humanos) y el urbano (mosquito Aedes y humanos).
+Susceptibilidad universal. Unos 500 millones de personas son susceptibles por residir en zonas de riesgo (trópicos) o viajar a dichas zonas (fig. 2 ).Figura 2
+En 2017 se ha desencadenado un brote en Brasil (tabla 1 ).
+
+
+- CLÍNICA
+
+Puede haber casos asintomáticos.
+El periodo de incubación oscila entre 3 y 6 días.
+Cursa con fiebre de aparición brusca, malestar general, dolor de espalda, mialgias, cefalea, náuseas y vómitos, que en la mayoría de los casos desaparecen en 3-4 días.
+En el 15-25% de los pacientes, tras 24 horas de remisión reaparece la fiebre elevada, vómitos, dolor abdominal e ictericia (característico, de ahí el nombre). Puede haber insuficiencia renal, hepática y hemorragias. El 20% presenta hematemesis coagulada (vómito negro). Puede aparecer fallo multiorgánico y acidosis metabólica.
+La mortalidad es del 20-50% entre los que entran en esta fase en 7 a 10 días del inicio de la enfermedad. La mortalidad global es del 5%.
+
+
+- DIAGNÓSTICO
+
+Ante la sospecha por criterios epidemiológicos y clínicos, se deben realizar pruebas complementarias (PCR, serología, aislamiento del virus) para obtener el diagnóstico de confirmación.
+
+
+- TRATAMIENTO
+
+No hay tratamiento específico, solo medidas de soporte y control de síntomas. Evitar los antiinflamatorios no esteroideos (AINE) (no olvidar que se trata de una fiebre hemorrágica).
+
+
+- PREVENCIÓN
+
+Prevención de picaduras de mosquitos (anexo 1). Medidas de control de vectores.
+Existe una vacuna que confiere inmunidad de por vida, a partir del día 30, al 99% de los vacunados.
+Para entrar en algunos países es obligatorio el certificado de vacunación internacional (con validez desde el 10.° día tras la vacuna). Desde la modificación del anexo 7 del Reglamento Sanitario Internacional el 11/7/2016, no es obligatorio revacunar a los viajeros cada 10 años, aunque no es respetado por todos los países, , .
+
+
+- DENGUE
+
+Enfermedad vírica, hemorrágica, causada por un flavivirus, el DEN, transmitida por picaduras de mosquitos del género Aedes (más frecuente A. aegypti, aunque también puede ser transmitida por A. albopictus), preferiblemente en las horas del día, siendo más frecuentes al amanecer y al anochecer. Un mosquito infectado puede transmitir el dengue durante toda su vida.
+Se conocen cuatro serotipos distintos, estrechamente emparentados: DEN-1, DEN-2, DEN-3 y DEN-4. Confiere inmunidad de por vida contra el serotipo en particular con el que se estuvo infectado. Hay inmunidad cruzada con los otros serotipos parcial y temporal. Las infecciones posteriores causadas por otros serotipos aumentan el riesgo de padecer el dengue grave.
+Susceptibilidad universal.
+Ha habido casos autóctonos en Francia y Croacia en 2010 y en Madeira en 2012 (tabla 1, fig. 3 ).Figura 3
+
+
+- CLÍNICA
+
+El periodo de incubación es de 4 a 10 días. Hay casos asintomáticos. La fase virémica dura de 4 a 12 días.
+Se debe sospechar dengue ante la presencia de fiebre elevada y dos de los siguientes síntomas: cefalea muy intensa, dolor retroocular, mialgias y artralgias, náuseas, vómitos, adenopatías y exantema. En la mayoría de los pacientes, los síntomas desaparecen en 2-7 días.
+Algunos casos evolucionan a dengue grave. Entre los días 3 y 7 puede haber un descenso brusco de la temperatura (por debajo de 38 °C), dolor abdominal intenso, vómitos, taquipnea, hemorragia de las encías, metrorragias y hematemesis. Las siguientes 24-48 horas son cruciales porque puede aparecer extravasación de plasma, disnea, hemorragias internas y fallo multiorgánico.
+
+
+- DIAGNÓSTICO
+
+Ante la sospecha por criterios epidemiológicos y clínicos, se deben realizar pruebas complementarias (aislamiento, PCR, serología) para obtener el diagnóstico de confirmación.
+
+
+-- TRATAMIENTO
+
+No hay tratamiento específico, solo sintomático y de soporte. Evitar los antiinflamatorios no esteroideos (AINE).
+En caso de dengue grave, la asistencia prestada por personal sanitario con experiencia en la evolución de la enfermedad puede salvar vidas y reducir las tasas de mortalidad de más del 20% a menos del 1%. Resulta decisivo mantener el volumen de líquidos corporales.
+
+
+-- PREVENCIÓN
+
+Prevención de picaduras de mosquitos (anexo 1). Medidas de control de vectores.
+Existe una vacuna autorizada en algunos países desde finales de 2015 en personas de 9 a 45 años residentes en zonas endémicas , , , .
+
+
+- ZIKA
+
+Enfermedad vírica, causada por un flavivirus, el virus del Zika, transmitida por picaduras de mosquitos del género A. aegypti y A. albopictus, hasta el momento en zonas tropicales. Generalmente actúan durante las horas del día, siendo más frecuentes en el amanecer y el anochecer. Además, hay transmisión vertical, transfusional y sexual (vaginal, anal, oral y a través de juguetes sexuales).
+Se han aislado virus en sangre, orina, líquido amniótico, semen, saliva, leche materna y líquido cefalorraquídeo (LCR). Susceptibilidad universal (tabla 1, fig. 4 ).Figura 4
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 3 a 12 días. La fase virémica dura de 3 a 5 días y el 80% de los casos son asintomáticos.
+Cursa con fiebre, artralgias, mialgias, cefalea, hiperemia conjuntival, dolor retroorbitario, odinofagia, síntomas gastrointestinales y exantema. Los síntomas suelen ser leves y resolverse espontáneamente entre 2 y 7 días.
+
+
+-- COMPLICACIONES
+
+Microcefalia del feto en una embarazada con infección por virus del Zika y síndrome de Guillain-Barré (mortalidad del 3-5%) y otros trastornos neurológicos.
+
+
+-- DIAGNÓSTICO
+
+Iniciaremos la investigación si cumple alguno de los criterios epidemiológicos y el criterio clínico (caso sospechoso), solicitando pruebas complementarias (aislamiento del virus, PCR y serología). Seguir el protocolo elaborado por cada comunidad autónoma.
+Criterios epidemiológicos:•Residir o haber visitado áreas epidémicas para virus del Zika los 15 días previos a la aparición de los síntomas.•La infección ha tenido lugar al mismo tiempo y en la misma zona donde se han producido otros casos probables de Zika.•Haber mantenido relaciones sexuales sin protección con hombres que hayan viajado a zonas con transmisión activa del virus en las 8 semanas tras el viaje si no han tenido síntomas o en 6 meses si han tenido síntomas o con diagnóstico de laboratorio confirmado.
+Criterio clínico: exantema maculopapular con o sin elevación de la temperatura y uno o más de los siguientes: artralgias o mialgias, conjuntivitis no purulenta o hiperemia conjuntival y cefalea o malestar general, siempre y cuando no se expliquen por otras causas.
+
+
+-- TRATAMIENTO
+
+No hay tratamiento específico, solo sintomático (evitar AINE hasta que se hayan descartado otras infecciones que puedan cursar con complicaciones hemorrágicas).
+
+
+-- PREVENCIÓN
+
+Prevención de picaduras de mosquitos (anexo 1).
+Medidas de control de vectores.
+Prevención de transmisión sexual (anexo 2).
+No existe vacuna, , , .
+
+
+- CHIKUNGUNYA
+
+Enfermedad vírica aguda, causada por un alfavirus, transmitida por la picadura de mosquitos del género Aedes, tanto A. aegypti como A. albopictus, principalmente durante las horas del día, con un pico al amanecer y al anochecer.
+Susceptibilidad universal.
+Se han comunicado casos autóctonos en Italia en 2007 y en Francia en 2014 (tabla 1, fig. 5 ).Figura 5
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2 a 12 días. Puede haber casos asintomáticos.
+Cursa con fiebre de aparición brusca y dolor articular muy intenso y muy debilitante. Suele asociar cefalea, náuseas, astenia y exantema. La mayor parte de los casos se recuperan totalmente, pero en algunos, los dolores articulares pueden durar meses o años.
+Puede haber complicaciones oculares, neurológicas y cardiacas. Las complicaciones de gravedad no son frecuentes.
+
+
+-- DIAGNÓSTICO
+
+Es importante la sospecha según clínica y epidemiología. El diagnóstico de confirmación se realiza mediante PCR, serología y aislamiento del virus.
+
+
+-- TRATAMIENTO
+
+No hay tratamiento específico, solo se pueden tratar los síntomas (evitar los AINE hasta haber descartado otras arbovirosis que puedan presentar complicaciones hemorrágicas).
+
+
+-- PREVENCIÓN
+
+Prevención de picaduras de mosquitos (anexo 1).
+Medidas de control de vectores.
+No existe vacuna , , .
+
+
+- FIEBRE DEL NILO OCCIDENTAL
+
+Enfermedad vírica, causada por el virus del Nilo Occidental que pertenece al género Flavivirus y al complejo antigénico de la encefalitis japonesa, familia Flaviviridae. Es transmitida por picaduras de mosquitos del género Culex, vertical (raro), transfusional, por trasplante de órganos y contacto con sangre u órganos de animales infectados. Se conocen casos de personal de laboratorio infectado.
+Se han detectado garrapatas infectadas en Rusia y Asia, pero se desconoce si tienen capacidad de transmisión (fig. 6 ).Figura 6
+Susceptibilidad universal.
+
+
+-- CLÍNICA
+
+El 80% de los casos son asintomáticos.
+El periodo de incubación tiene una duración de 3 a 14 días. La viremia es muy corta.
+Cursa con fiebre, cefalea, astenia, mialgias, náuseas, vómitos, a veces erupción cutánea y adenopatías, que suelen resolverse en 3-6 días.
+Existen casos de infección más grave, con enfermedad neuroinvasora, que pueden provocar una encefalitis, meningitis o poliomielitis: fiebre elevada, cefalea, rigidez de nuca, estupor, desorientación, convulsiones, parálisis flácida y coma. Aproximadamente 1 de cada 150 infectados presentará meningoencefalitis, con una mortalidad del 4% al 14% y hasta del 29% en mayores de 70 años.
+También pueden aparecer miocarditis, pancreatitis y hepatitis fulminante.
+Tras la recuperación, los pacientes pueden presentar astenia, debilidad muscular, depresión y dificultad en la deambulación como secuelas a largo plazo.
+
+
+-- DIAGNÓSTICO
+
+Ante la sospecha clínica más epidemiológica, se realizarán pruebas complementarias: aislamiento, PCR y serología.
+
+
+-- TRATAMIENTO
+
+No hay tratamiento específico, solo medidas de soporte.
+
+
+-- PREVENCIÓN
+
+Prevención de picaduras de mosquitos (anexo 1). Prevención de transmisión por contacto (anexo 3).
+Hay una vacuna para los equinos. No existe vacuna para humanos , .
+
+
+- FIEBRE HEMORRÁGICA CRIMEA-CONGO
+
+Enfermedad vírica hemorrágica causada por un nairovirus de la familia Bunyaviridae, transmitida por picadura de garrapatas duras (Ixodidae) principalmente del género Hyalomma o por contacto con sangre o tejidos de animales infectados durante o inmediatamente después de la matanza, y contacto estrecho con sangre, secreciones u otros líquidos corporales de personas infectadas y por lo tanto por fomites mal esterilizados.
+Desde 2010 se ha detectado circulación del virus Crimea-Congo en garrapatas en la provincia de Cáceres. En septiembre de 2016 se ha diagnosticado el primer caso humano, tras contacto con una garrapata en Ávila provincia, a más de 200 ki- lómetros del único foco detectado, y un segundo caso en un sanitario tras contacto estrecho con el anterior.
+Susceptibilidad universal (fig. 7 ).Figura 7
+
+
+-- CLÍNICA
+
+El periodo de incubación es diferente dependiendo de la vía de transmisión: si es por picadura de garrapata es de 1 a 9 días, si es por contacto con sangre o tejidos infectados de 5 a 13 días.
+Cursa con fiebre alta de instauración brusca, cefalea, mialgias, mareos, náuseas, vómitos, diarrea, hiperemia conjuntival y fotofobia, asociado a agitación y confusión durante 4-5 días.
+Posteriormente puede aparecer somnolencia, estupor, hepatomegalia y petequias, equimosis, hematemesis, melenas, metrorragias, hemoptisis…
+Los pacientes muy graves presentan un rápido deterioro con insuficiencia renal, hepática y respiratoria repentinas tras el 5.° día de enfermedad.
+La tasa de mortalidad es del 30% durante la 2.ª semana. Los que se recuperan comienzan a hacerlo a partir del 9.°-10.° día.
+
+
+-- DIAGNÓSTICO
+
+Ante la sospecha clínica se realizarán pruebas complementarias (aislamiento, serología y PCR). Los análisis de las muestras suponen un riesgo biológico extremo y solo deben llevarse a cabo en condiciones de máxima contención biológica.
+
+
+-- TRATAMIENTO
+
+No existe un tratamiento específico, solo de soporte.
+La ribavirina es el principal tratamiento disponible, aunque no hay ensayos clínicos que demuestren su eficacia, que solo se ha puesto de manifiesto en estudios observacionales. En los últimos años se ha postulado asimismo la eficacia del favipiravir, aunque todavía se encuentra en estudio (Informe de situación y evaluación del riesgo de FHCC en España, septiembre de 2016, MSSI, 18).
+
+
+-- PREVENCIÓN
+
+Prevención de picaduras de garrapatas (anexo 1).
+Prevención de contacto con animales infectados (anexo 3).
+Prevención de contacto entre humanos (anexo 3).
+Prevención de infección en centros sanitarios.
+Existe una vacuna solamente autorizada en Bulgaria, , .
+
+
+- ENFERMEDAD POR VIRUS DEL _BOLA
+
+Enfermedad vírica causada por un filovirus, el virus del _bola, transmitida por contacto directo (a través de mucosas o soluciones de continuidad en la piel) con órganos, sangre, secreciones u otros líquidos corporales de animales o personas infectadas (vivas o muertas) o fomites.
+Es frecuente la infección en personal sanitario si no se han seguido estrictamente las medidas de prevención. También hay riesgo elevado en ceremonias de inhumación de cadáver en las que los miembros del cortejo tienen contacto con aquel.
+Está descrita transmisión sexual.
+El brote de 2014 es el más extenso y complejo desde que se descubrió el virus en 1976; ha habido más casos y muertes en este brote que en todos los demás juntos (fig. 8 ).Figura 8
+En mayo 2017 se ha desencadenado un nuevo brote en la República Democrática del Congo (tabla 2 ).
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2 a 21 días. La posibilidad de transmisión comienza con la aparición de síntomas y dura el tiempo que permanezca el virus en sangre (vivos o muertos).
+Cursa con fiebre súbita, debilidad, mialgias, cefalea, odinofagia, vómitos, diarrea, exantemas, disfunción renal y hepática y hemorragias internas y externas.
+Tasa de letalidad del 50%.
+
+
+-- DIAGNÓSTICO
+
+Ante la sospecha clínica de un caso de enfermedad por virus del _bola se realizarán pruebas complementarias (aislamiento, PCR, serología).
+Las muestras suponen un enorme peligro biológico; las pruebas han de realizarse en condiciones de máxima contención biológica (nivel 4 de bioseguridad).
+
+
+-- TRATAMIENTO
+
+No existe tratamiento específico (en estudio, fármacos, inmunoterapia y hemoterapia). Tratamiento de soporte, de apoyo y sintomático mejoran la supervivencia.
+No existe vacuna.
+
+
+-- PREVENCIÓN
+
+Prevención de contacto con animales infectados (anexo 3).
+Prevención de contacto entre humanos (anexo 3).
+Prevención de infección en centros sanitarios.
+Prevención de transmisión sexual. La Organización Mundial de la Salud (OMS) recomienda que los hombres supervivientes de enfermedad por virus del _bola tengan prácticas sexuales higiénicas y seguras durante los 12 meses siguientes al inicio de los síntomas o hasta que sus muestras de semen den dos veces negativo para el virus del _bola (anexo 2).
+La participación de la comunidad es básica para el control de brotes, , , .
+
+
+- FIEBRE HEMORRÁGICA DE MARBURGO
+
+Enfermedad vírica, hemorrágica, causada por un filovirus, el virus de Marburgo.
+Aunque está causada por un virus diferente al _bola, las dos enfermedades son clínicamente similares y con elevada letalidad.
+Transmisión a las personas por exposición prolongada a minas o cuevas habitadas por colonias de murciélagos Rousettus, de la familia Pteropodidae.
+Transmisión entre humanos por contacto directo con vísceras, sangre o fluidos corporales de personas vivas o muertas y fomites.
+Transmisión sexual por semen infectado hasta 7 semanas después de la recuperación clínica.
+Transmisión a personal sanitario a través de contacto estrecho sin precauciones adecuadas de control de infección. La transmisión por equipo de inyección contaminado o por pinchazos con agujas contaminadas se asocia a mayor gravedad, deterioro y letalidad (tabla 2, fig. 9 ).Figura 9
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2 a 21 días.
+Cursa con fiebre de aparición brusca, cefalea, mialgias, dolor abdominal, náuseas, vómitos y diarrea que puede durar unos 7 días. Es característico un aspecto “fantasmagórico” con hundimiento de ojos, inexpresividad y letargo. En algunos casos hay exantema no pruriginoso.
+Pueden aparecer hemorragias del 5.° al 7.° día, internas o externas. Existe un alto riesgo de sangrado profuso en puntos de venopunción e inserción de catéteres.
+Puede aparecer irritabilidad y agresividad. Orquitis en fase tardía.
+Fallecimiento por hipovolemia y fallo multiorgánico al 8.°-9.° día. Tasa de letalidad del 24-88% , .
+
+
+- DIAGNÓSTICO, TRATAMIENTO Y PREVENCIÓN
+
+Como en la enfermedad por el virus del _bola.
+
+
+- ANEXO 1. PREVENCIÓN DE PICADURAS
+
+Mosquitos •Ropas de colores claros y manga larga, preferiblemente de algodón, protegen de la picadura de mosquitos y de los rayos UVA-UVB. Desaconsejado: ropa oscura, estampados florales, jabones aromatizados, perfumes o aerosoles para el pelo. Se puede tratar la ropa con permetrina al 10-20%.•Repelentes de mosquitos: impregnar las partes expuestas del cuerpo; si se aplica sobre la ropa, el efecto dura más tiempo (existe el riesgo de estropear la ropa). El principio activo de los repelentes aleja a los insectos, no los mata. Los más eficaces son aquellos que contienen DEET, IR3535 o icaridin. El DEET es activo frente a picaduras de mosquitos y de garrapatas.•No se deben aplicar sobre: mucosas, cara, párpados o labios. Tampoco sobre piel sensible, quemada por el sol o erosionada, ni sobre pliegues profundos. Lavar bien las manos después de aplicarlo. Consultar la duración del efecto para repetir la aplicación, sobre todo si se suda de forma profusa (climas cálidos y húmedos) y tras baños tanto en agua dulce como salada.•Si se usa protección solar y repelente, utilizar primero el protector solar y aplicar unos 30 minutos después el repelente. Esto puede implicar menor duración del efecto del protector solar y del repelente, con lo que habrá que renovar más frecuentemente las aplicaciones.•Mosquiteras, resistentes, con una malla de 1,5 mm, alrededor de la cama, fijándolas bajo el colchón. Asegurar que no estén rotas, que no haya mosquitos atrapados en su interior. Impregnar las mosquiteras con permetrina. Pantallas de protección en puertas y ventanas.•Pulverizar insecticidas en la habitación, dentro de la mosquitera y si se está de viaje dentro de la maleta antes de cerrarla para la vuelta.•Quemar serpentinas de piretrinas, difusores eléctricos, vaporizadores.•El aire acondicionado mantiene fuera de la habitación mosquitos y otros insectos.
+Garrapatas 
+
+
+- ANEXO 2. PREVENCIÓN DE LA TRANSMISIÓN SEXUAL: PRÁCTICAS SEXUALES SEGURAS SEGÚN LA OMS
+
+•Aplazamiento de las primeras relaciones sexuales.•Relaciones sexuales sin penetración.•Uso correcto y sistemático de preservativos masculinos y femeninos.•Reducción del número de parejas sexuales.
+La OMS recomienda prácticas sexuales seguras y el uso correcto de preservativos, tanto para la prevención de la transmisión de virus del Zika, enfermedad por el virus del _bola, etc. como para prevenir la infección por el virus de la inmunodeficiencia humana, otras infecciones de transmisión sexual y los embarazos no deseados.
+Del virus de Zika
+• Las parejas o las mujeres que tengan previsto el embarazo y vuelvan de zonas donde se sepa que hay transmisión local del virus deben esperar por lo menos 8 semanas antes de intentarlo si no han presentado síntomas y 6 meses si el hombre de la pareja los ha presentado o con diagnóstico de laboratorio confirmado.
+• Las parejas sexuales de embarazadas que residan o vuelvan de zonas donde se sepa que hay transmisión local del virus han de tener prácticas sexuales seguras por lo menos mientras dure el embarazo.
+• Los hombres y las mujeres de vuelta de zonas donde se sepa que hay transmisión local del virus han de adoptar prácticas sexuales seguras al menos en las 8 semanas siguientes al retorno.
+Si antes o durante este tiempo aparecieran síntomas, este tiempo se debe prolongar a 6 meses. La OMS no recomienda análisis sistemáticos de semen para detectar el virus.
+De la enfermedad por el virus del _bola
+La OMS recomienda que los hombres supervivientes de enfermedad por el virus del _bola tengan prácticas sexuales higiénicas y seguras durante los 12 meses siguientes al inicio de los síntomas o hasta que sus muestras de semen den dos veces negativo para el virus del _bola.
+Se debe evitar el contacto con fluidos corporales. Se recomienda el lavado con agua y jabón.
+No se recomienda el aislamiento de convalecientes una vez sus muestras de sangre hayan dado negativas para el virus del Ébola.
+De la fiebre de Marburgo
+Está documentada la transmisión sexual a través de semen infectado hasta 7 semanas después de la recuperación clínica.
+De la fiebre de Lassa
+No hay datos que definan el tiempo durante el que dura la transmisión sexual.
+
+
+- ANEXO 3. PREVENCIÓN DE TRANSMISIÓN POR CONTACTO

@@ -1,0 +1,15 @@
+COMPARACIÓN EN LA ADQUISICIÓN Y RETENCIÓN DE COMPETENCIAS EN SOPORTE VITAL ENTRE FORMACIÓN UNI O INTERDISCIPLINAR. ESTUDIO CUASIEXPERIMENTAL
+
+
+Se realizó un estudio prospectivo cuasiexperimental con el objetivo de evaluar las competencias de los estudiantes de enfermería después de un curso oficial en soporte vital básico (SVB) y uso del desfibrilador semiautomático (DSA), así como su retención a los 6 meses en función de si la formación fue unidisciplinar (UP) o interdisciplinar (IP).
+El estudio se llevó a cabo en la Universitat Internacional de Catalunya (UIC) entre un grupo que recibió formación de manera UP y un grupo que recibió la formación de manera IP.
+Los participantes fueron estudiantes de primero de enfermería de los cursos académicos 2016-2017 y 2017-2018, que recibieron una formación en SVB/DSA con metodología UP o IP cuando lo realizaron conjuntamente con estudiantes de medicina.
+La formación que recibieron los alumnos en ambos grupos fue de 4:30 h de duración, según recomendaciones del European Resuscitation Council (ERC). Participaron 8 formadores acreditados. La ratio de instructor/alumno fue de 1:8 y se contó con un maniquí de baja fidelidad «Little Anne» de Laerdal® para cada 2 alumnos (era requisito realizar la práctica en parejas) y un maniquí de media fidelidad tipo Ressuci Anne QPCR de Laerdal® para cada grupo con el software de entrenamiento SkillReporter de feedback inmediato.
+El instrumento de medida para la evaluación de conocimientos fue un cuestionario tipo test de respuesta múltiple de 10 preguntas al finalizar la formación y a los 6 meses.
+Para la evaluación de las habilidades técnicas se utilizaron los datos obtenidos por el software del maniquí en el contexto de un caso simulado.
+El estudio fue aprobado por el Comité de Ética de Investigación de la universidad. Se utilizó el programa estadístico SPSS® versión 21 para el cálculo de los resultados.
+Participaron un total de 162 estudiantes de enfermería; 88 en UP y 74 en IP. A los 6 meses la muestra fue de 61 y 65 alumnos, respectivamente.
+Los 2 grupos fueron homogéneos en cuanto a edad (años) 19,92 (3,6) vs. 20,55 (4,2), p = 0,35 y sexo (mujer/varón) 66/22 vs. 58/16, p = 0,61.
+Los resultados de los conocimientos fueron similares en ambos grupos al final y a los 6 meses de la realización del curso .
+Las habilidades prácticas obtuvieron resultados parecidos en ambos grupos al finalizar el curso . Sin embargo, a los 6 meses la disminución fue significativa en el UP (de 4,92 a 3,81).
+La UIC ha incorporado el aprendizaje IP en los cursos de SVB/DSA de los grados de enfermería y medicina desde hace 6 años y está trabajando para incorporar la educación IP como proceso preparatorio para la práctica colaborativa, siendo esta considerada una de las estrategias para contribuir a la transformación de la sanidad. A las conocidas ventajas de la educación IP, , en este estudio hemos visto que la adquisición de conocimientos y las habilidades prácticas en SVB/DSA al finalizar el curso no parecen estar influidas por un modelo de formación IP, aunque sí mejora las habilidades adquiridas de los estudiantes de enfermería a los 6 meses.

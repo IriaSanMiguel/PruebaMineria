@@ -1,0 +1,5 @@
+Se realizó un estudio comparativo de tres cohortes que consideró 1 620 escolares de 144 primarias. Se construyeron dos paneles: de tiempo continuo y de tiempo completo. Se obtuvo información de consumo y hábitos alimenticios, higiene y conservación de alimentos, actividad física (AF) y antropometría. El análisis fue por diferencia en diferencias y modelos de regresión logística dicotómica y multinomial.
+SaludArte tuvo efectos positivos en algunos componentes. Sin embargo, es necesario considerar las lecciones aprendidas, a fin de institucionalizar el programa y darle permanencia y crecimiento en las escuelas.
+Evaluar el efecto del programa de servicios SaludArte en sus componentes de educación en nutrición y de asistencia alimentaria, dentro de escuelas participantes, durante 2013-2015.
+Los efectos atribuibles al programa fueron: higiene personal (p=0.045), conocimientos en nutrición (p=0.003), AF (p=0.002, 2013-2014; p=0.032, 2015) y consumo de fibra (p=0.064). El consumo de azúcar total fue significativo contrario a lo esperado (p=0.012, tiempo continuo; p=0.037, tiempo completo).
+

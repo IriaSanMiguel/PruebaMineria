@@ -1,0 +1,5 @@
+Ensayo clínico controlado aleatorizado y doble ciego que analizó a 125 pacientes divididos en tres grupos: grupo A, gabapentina 300 mg; grupo B, gabapentina 450 mg; grupo C, amaranto en grageas como control 2 horas antes del procedimiento quirúrgico. Se utilizó la prueba de ji al cuadrado para variables sociodemográficas y ANOVA de un factor para variables numéricas continuas. Se consideró como significativo un valor de p < 0.05 para un estudio de dos colas con un poder beta del 80%.
+La ansiedad y la analgesia transoperatoria y posoperatoria tuvieron diferencias significativas entre los grupos. Se encontró menor consumo de opiáceos en los grupos que usaron gabapentina.
+Observar el comportamiento de la gabapentina para aminorar la hipertensión reactiva secundaria a ansiedad y dolor en pacientes sometidos a cirugía oftálmica, así como el consumo de opiáceos entre los grupos.
+La gabapentina por vía oral, 300 o 450 mg, 2 horas antes de la cirugía, reduce el dolor, la ansiedad y el consumo de opiáceos durante el posoperatorio en pacientes sometidos a cirugía oftalmológica.
+

@@ -1,0 +1,52 @@
+INFECCIÓN Y TROMBOSIS ASOCIADA A LA COVID-19: POSIBLE PAPEL DEL GRUPO SANGUÍNEO ABO
+
+
+- INTRODUCCIÓN
+
+La infección por SARS-CoV-2, cursa mayoritariamente con sintomatología leve (80%), aunque la mortalidad aumenta (50%) en pacientes que precisan ingreso en unidades de Cuidados Intensivos (UCI) con ventilación mecánica invasiva. La mayor edad, el género masculino y ciertas enfermedades crónicas predisponen a mayor riesgo de infección y gravedad, y eventos tromboembólicos.
+Algunos autores señalan al grupo sanguíneo ABO como posible marcador biológico de susceptibilidad a COVID-19, sugiriendo que personas de grupo O tienen menor probabilidad de infección.
+Los determinantes antigénicos ABO también se expresan en células de ciertos tejidos endoteliales y epiteliales como el sistema respiratorio. La presencia de antígenos A y B se relaciona con mayor susceptibilidad para infecciones, enfermedades cardiovasculares y cáncer, mientras que el grupo O suele asociarse con mayor resistencia a enfermedades.
+Los pacientes con COVID-19 presentan complicaciones trombóticas frecuentes, incluso utilizando profilaxis. El factor de von Willebrand (VWF) es una glucoproteína vinculada con la hemostasia cuyos niveles plasmáticos están influidos por diversos factores, incluyendo los «loci» ABO, que condicionan aproximadamente el 30% de sus niveles plasmáticos totales. Los pacientes del grupo O tienen niveles de VWF más bajos, pudiendo contribuir este hecho a que pacientes O afectados de COVID-19 tengan menos complicaciones trombóticas.
+Nuestro objetivo es describir la distribución de la enfermedad COVID-19 y sus complicaciones por grupos sanguíneos en la población navarra e intentar dilucidar una posible relación con el grupo ABO.
+
+
+- PACIENTES Y MÉTODOS
+
+Analizamos a pacientes con COVID-19 (PCR frotis nasofaríngeo positiva) y grupo sanguíneo previamente documentado, ingresados en 2 centros públicos la primera quincena de abril del 2020.
+Revisamos datos demográficos, parámetros analíticos y datos clínicos, incluyendo complicaciones infecciosas y trombóticas.
+Los datos poblacionales de distribución de grupos sanguíneos ABO se extrajeron de la aplicación de gestión de donantes y transfusiones e-Delphyn BB versión 8.0.17.2 (Hemasoft®, Valladolid, España). Una base común y única para centros y servicios de transfusión de la red pública Navarra, que permite disponer de una muestra representativa de nuestra población.
+Los datos analíticos se han revisado del programa Cobas® Infinity IT solutions versión 2.5.3.3596 (Roche Diagnostics [Schweiz] AG Industriestrasse 7 CH-6343 Rotkreuz) y los datos clínicos de la aplicación Historia Clínica Informatizada (propiedad del Servicio Navarro de Salud-Osansunbidea). La base de datos ha sido anonimizada cumpliendo la LOPD.
+Para comparar la distribución por grupos sanguíneos, mostramos frecuencias y porcentajes de cada grupo sanguíneo en población general y en pacientes con COVID-19, calculando los riesgos relativos de pertenencia a cada grupo y el test de la chi al cuadrado para bondad de ajuste. Los datos demográficos y clínicos se describen mediante frecuencias y porcentajes para las variables categóricas, y usando media y desviación típica o mediana y rango intercuartílico en las variables cuantitativas. Las variables cuantitativas se compararon por grupo sanguíneo usando test Anova o test de Kruskal-Wallis y las variables categóricas mediante test de Fisher. Para estudiar diferencias en complicaciones por grupo se estimaron modelos logísticos multivariantes, ajustando por sexo y edad, y para estudiar la evolución analítica, modelos lineales ajustando por sexo, edad y grupo sanguíneo. Las comparaciones fueron bilaterales asumiendo un nivel de significación de 0,05. El análisis se realizó con programas IBM SPSS v. 25.0 y R software v.3.4.3. (Licencia SNS-O).
+
+
+- RESULTADOS
+
+Analizamos a 226 pacientes con una edad media de 70,9 años, de los que un 17,9% ingresó en la UCI y un 16,3% falleció. El test de la chi al cuadrado para bondad de ajuste no muestra diferencias significativas en nuestra comunidad para la distribución del grupo ABO en población con COVID frente a población general (tabla 1 ). Observamos mayor porcentaje de grupos AB y B en pacientes, pero el efecto es no significativo y se trata de grupos con pocos casos. Uniendo los grupos AB y B, el p valor global de bondad de ajuste continúa sin ser significativo, pero la razón de riesgo o el riesgo relativo del grupo combinado AB + B está al borde de la significación, hay un 38% más de presencia de estos grupos en los pacientes con COVID que en la población general.
+No se observan diferencias significativas en distribución por sexo, edad o grupo sanguíneo. Tanto las complicaciones respiratorias como los fallecimientos aumentan con la edad, pero sin diferencias significativas por grupo sanguíneo. Existe más riesgo de presentar otras infecciones en pacientes ingresados en UCI y en grupos AB-B (Tabla 2, Tabla 3 ).
+Observamos asociación estadísticamente significativa entre complicaciones trombóticas e ingreso en UCI con grupo sanguíneo. El grupo B desarrolla más trombosis (28,6%) con una OR de 6,16 (1,75, 21,8) y precisa más ingreso en la UCI (38,1%), siendo el grupo O el que menos ingresa en la UCI. El dímero D aumenta más en el grupo A frente al O (diferencia significativa; beta = 2392,7) y el fibrinógeno aumenta significativamente más en grupos AB-B que en O . No encontramos diferencias en complicaciones hemorrágicas, siendo poco valorable por escaso tamaño muestral.
+
+
+- DISCUSIÓN
+
+En nuestra población el grupo menos prevalente entre los pacientes con COVID-19 ingresados y con menor incidencia de ingreso en la UCI es el O, observando mayor incidencia de infección por SARS-CoV-2 entre los grupos AB y B.
+La herencia de los antígenos ABH está asociada con una predisposición a ciertas enfermedades o al riesgo de infecciones. Hay estudios que relacionan el grupo B con asma grave, mientras que los anticuerpos naturales anti-A se han descrito como protectores para ciertas infecciones. Al grupo O se le ha asignado también un papel protector frente a la malaria, mientras que el grupo B se asocia con mayor riesgo de infección grave por malaria.
+La relación de los grupos ABO fue estudiada para otros coronavirus con hallazgos similares a los encontrados para SARS-CoV-2, encontrando menores tasas de infección en el grupo O. El SARS-CoV-2 se replica en células epiteliales de vías respiratorias y digestivas con capacidad de sintetizar los epítopos de hidratos de carbono ABH, por lo que la proteína S de los viriones podría unirse a epítopos de hidratos de carbono A o B.
+Los coronavirus son virus RNA cuyo dominio de unión presenta importantes similitudes con el receptor de la angiotensina 2 (ACE2). Los anticuerpos anti-A o anti-B naturales podrían unirse a la proteína S viral y bloquear su interacción con ACE2, proporcionando protección al bloquear la interacción entre el virus y su receptor. Un modelo matemático del 2008 sobre la dinámica de transmisión del virus indicó que el polimorfismo ABO podría contribuir a reducir sustancialmente la transmisión viral, afectando tanto al número de individuos infectados como a la cinética de la epidemia.
+Otro dato interesante observado es el mayor porcentaje de complicaciones trombóticas diagnosticadas en el grupo B (28,6%), coincidiendo también con una mayor proporción de ingreso en la UCI (38,1%). El análisis evolutivo del dímero D en estos pacientes muestra un aumento mayor a la semana del ingreso en el grupo A y un aumento del fibrinógeno mayor en los grupos AB y B frente al O. Los sujetos de grupo O tienen un título de factor viii y de VWF inferior a la media que podría justificarlo. Los pacientes con COVID-19 fallecidos presentaban niveles elevados de dímero D significativamente mayores y el 71,4% de los fallecidos cumplían criterios de coagulación intravascular diseminada frente al 0,6% de los que sobrevivieron a la infección. Si se confirma la relación del grupo ABO con los niveles de dímero D con estudios más amplios, el grupo ABO podría utilizarse también como factor de riesgo de forma similar a lo que sugiere el estudio de Zhou et al., que concluye que un valor de dímero D superior a 1 μg/l permitiría identificar a pacientes con peor pronóstico en estadios tempranos.
+Concluimos que es posible que exista una relación entre el grupo sanguíneo y la predisposición a la COVID-19 y a sus complicaciones, con menor incidencia en el grupo O y una peor evolución de los pacientes del grupo B. No obstante, consideramos que se trata de un estudio de tamaño modesto sobre una población ubicada en un ámbito geográfico limitado, que llama a la realización análisis multicéntricos con mayor tamaño muestral.
+
+
+- ÉTICA
+
+No se ha experimentado con animales. Se respetó la Declaración de Helsinki.
+Se ha solicitado una exención del consentimiento informado para la recogida de datos retrospectivos de pacientes que siguen vivos, han fallecido o se han perdido para el seguimiento. Los autores justifican dicho proceder basándose en 2 premisas: la primera de ellas es que en el momento de recopilación de los datos de este estudio varios pacientes han fallecido. La segunda es que los investigadores consideran que, incluso aunque se pueda hacer un esfuerzo por localizar a los pacientes vivos, ponerse en contacto con ellos o con los familiares de pacientes ya fallecidos supone una carga emocional innecesaria y no lo consideran justificado, ya que el estudio se basa en la recogida observacional retrospectiva de los datos ya disponibles y no tiene implicaciones terapéuticas ni pronósticas para los pacientes.
+
+
+- FINANCIACIÓN
+
+Ninguna para este trabajo.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno para este trabajo. Realizado por iniciativa propia sin presión comercial.

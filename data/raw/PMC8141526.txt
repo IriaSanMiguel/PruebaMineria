@@ -1,0 +1,83 @@
+VALORES DE REFERENCIA DEL SPPB EN PERSONAS MAYORES DE 60 AÑOS EN EL PAÍS VASCO<SUP
+
+
+- INTRODUCCIÓN
+
+El aumento de la esperanza de vida no refleja en sí el estado de salud de la población, ya que esta no va necesariamente acompañada de años en buena salud, es decir, en ausencia de discapacidad o de limitaciones funcionales.
+Globalmente, se puede destacar que la mala salud, la discapacidad y la dependencia no son inevitables consecuencias del envejecimiento, . Cabe destacar, que un mayor nivel de actividad física (AF), siendo esta cualquier movimiento corporal realizado por los músculos esqueléticos que produce gasto de energía, se asocia con un mejor estado de salud en los adultos mayores, y en particular, con un menor riesgo de enfermedades no transmisibles (ENT), deterioro funcional, mortalidad por todas las causas y enfermedades cardiovasculares, principal causa de muerte en esta población adulta mayor, . Además, los estudios de intervención con ejercicio físico (EF) en personas frágiles mejoran el rendimiento físico y reducen el riesgo de resultados asociados a la fragilidad, como las caídas o la prevalencia de distintas patologías, , . Asimismo, se ha comprobado que un mayor nivel de AF podría compensar, en parte, el mayor riesgo de mortalidad vinculado con la fragilidad en la senectud.
+Cabe señalar, la efectividad que tienen las estrategias de promoción de estilos de vida saludables, para evitar el sedentarismo, mejorando la función de personas frágiles y retrasando así la dependencia, , . Subrayar que, a medida de que se es físicamente más activo, se tiene una mejor salud cardiovascular, una menor incidencia de discapacidad funcional y una mejor función cognitiva, .
+Las deficiencias en el consumo máximo de oxígeno, de la masa y fuerza muscular y de la movilidad articular provocan una disminución en la capacidad funcional, reduciendo la capacidad de andar, empeorando el equilibrio, dificultando la capacidad de sentarse y levantarse de una silla, de subir escaleras, y por consiguiente, el aumento del riesgo de caídas, . En este sentido, las caídas son un motivo principal de discapacidad en los adultos mayores, además de ser consecuencia directa de la fragilidad. Cerca de un 30% de las personas mayores de 65 años y un 50% de las mayores de 80 años se caen al menos una vez al año, suponiendo un elevado coste para el sistema sanitario.
+Es por ello que cada vez se observan más iniciativas con un nuevo objetivo paradigmático; la función, dejando atrás políticas de salud basadas en la enfermedad. La limitación funcional es uno de los criterios para valorar la fragilidad. En este sentido, se dispone de la prueba de ejecución Short Physical Performance Battery (SPPB). Esta prueba es una herramienta válida y fiable para medir el grado de fragilidad y el riesgo de sufrir discapacidad de las personas adultas mayores a través de su desempeño funcional. La puntuación del SPPB tiene correlación directa con la calidad de vida y con la prevalencia de las caídas en adultos mayores.
+El objetivo de este estudio es analizar los efectos de un programa reglado de promoción de la salud a través de la realización de AF sobre el equilibrio, velocidad de marcha y fuerza de piernas, examinando la batería SPPB, y comparar los valores obtenidos con los de referencia por edad de la población adulta mayor.
+Otro objetivo de este trabajo es proporcionar valores de referencia del SPPB en adultos y adultos mayores en el País Vasco, identificando puntos de corte para medir la fragilidad y comparar los valores con otras poblaciones de España.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Este es un estudio observacional descriptivo, en el que se recogen valores de la prueba SPPB a un grupo de personas adultas mayores de 60 años, participantes de un programa de salud, que luego se comparan con medidas de referencia de una población similar del mismo país.
+
+
+-- PARTICIPANTES
+
+Los participantes fueron seleccionados mediante un muestreo de conveniencia no probabilístico de un grupo de adultos y adultos mayores pertenecientes a un programa de carácter municipal denominado «Salud para Personas Mayores». La muestra del estudio consistió en 1.923 personas mayores de 60 años de edad (77,9 años±5,6), de ambos sexos, que estuvieran en la base de datos reportada por el Ayuntamiento de Bilbao. Este programa se llevó a cabo dos veces a la semana, en sesiones de 50 minutos, en las que se trabajaron las cualidades físicas básicas (resistencia, fuerza y flexibilidad) junto con la coordinación, la movilidad articular y el equilibrio entre otros. Pese a utilizar la AF como elemento vehicular de las clases, estuvo orientado a la mejora global de la salud y no a la del rendimiento deportivo. No existió un programa de ejercicios específicos generalizado para todos los participantes, ya que fue un programa amplío en el que se involucraron 12 instructores y cada uno realizó distintos ejercicios para cumplir con el objetivo del programa.
+El estudio fue aprobado por el Comité de Ética de la Universidad de Deusto (referencia # ETK-32/18-19) y se obtuvo el consentimiento informado por escrito de cada participante antes del inicio del mismo.
+
+
+-- RECOPILACIÓN DE DATOS
+
+Los participantes comenzaron el programa en octubre y finalizaron en junio. La recogida de datos se realizó en mayo por técnicos especializados en AF. Las evaluaciones se efectuaron en los centros y en los horarios a los que normalmente asisten al programa municipal, siendo el evaluador el que se desplazó a los mismos. No existió ningún criterio de inclusión en la participación del estudio.
+
+
+-- INSTRUMENTO
+
+La batería SPPB consta de tres partes: valoración del equilibrio, valoración de la marcha en 4 m y la prueba de levantarse y sentarse de la silla. En la tabla 1 se puede observar la determinación de la puntuación de cada prueba, siendo la suma de todas el resultado final. Según el sumatorio obtenido en todas las pruebas, se identificarán a personas con limitación grave (cero a cuatro puntos), moderada (cuatro a seis puntos), leve (siete a nueve puntos) y con limitación mínima (10 a 12 puntos).
+
+
+-- EQUIPAMIENTO
+
+Para las mediciones de la batería SPBB, se utilizaron las sillas disponibles en cada aula, una cinta métrica Softee y un cronómetro .Figura 1
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Para el análisis de las variables se empleó el software IBM SPSS Statistics (versión 26). Las variables cuantitativas, puntos test equilibrio (PE), puntos en velocidad de la marcha (PM), puntos en test de las sentadillas (PS) y puntos SPPB serán presentadas como medias por género y franjas de edad.
+Se realizó la prueba de análisis de la varianza (ANOVA) multifactorial 3x2 para las variables PE, PM, PS y SPPB para examinar las diferencias de género, grupos de edad y la interacción entre los grupos de edad y género. El análisis post hoc se efectuó mediante la prueba de Diferencia Mínima Significativa (DMS).
+Los percentiles P5, P10, P25, P50, P75, P90 y P95 se eligieron como valores de referencia específicos de la edad y el sexo.
+En la comparativa con otras poblaciones, usamos el tamaño del efecto que se calculó mediante la d de Cohen para analizar la diferencia de medias estandarizada (DME); un tamaño del efecto de 0,2 a 0,49 será considerado pequeño, 0,5 a 0,79 moderado y 0,8 o mayor como elevado.
+
+
+- RESULTADOS
+
+Se evaluaron a 1.923 participantes del programa de salud para personas mayores del Ayuntamiento de Bilbao por medio de la prueba SPPB y se obtuvieron percentiles específicos en función de la distribución por edad y género de la variable mencionada, como podemos observar en la tabla 2. De los 1.923 sujetos, el 87,9% fueron mujeres y el 12,1% hombres. El 7,3% tenían entre 60 a 69 años, el 49,6% de 70 a 79 años, el 41,8% de 80 a 89 años y el 1,4% 90 años o más.
+La tabla 3 muestra valores medios y las diferencias entre grupos por franjas de edad y género de las variables PE, PM, PS y SPPB, observando valores de corte para la detección de personas frágiles de la SPPB con < 1 DE por género y grupo de edad. Los puntos de corte variaron de 10,2 a 6,8 y de 9,8 a 5,8 en hombres y mujeres, respectivamente.
+Los resultados del ANOVA multifactorial, muestran que hay una diferencia estadísticamente significativa en la prueba SPPB para género (F = 7,93 – p = 0,005) y edad (F = 20,79 – p = 0,000); en la prueba PE para edad (F = 7,93 – p = 0,000); en la prueba PM para edad (F = 12,71 – p = 0,000); y en la prueba PS para género (F = 6,39 – p = 0,012) y edad (F = 10,00 – p = 0,000).
+Los datos muestrales se compararon con los de otras dos poblaciones de España, el estudio FRADEA de Albacete y el realizado en cinco centros de atención primaria en las provincias de Alicante y Valencia.
+De los 1.923 sujetos examinados con el test SPBB, el 0,1% obtuvo resultados de limitación grave (discapacitado), el 4,6% moderada (frágil), el 33,6% leve (pre-frágil) y el 61,7% limitación mínima (sin limitación). En la tabla 4 se observan los valores obtenidos y los resultados del estudio FRADEA en cuanto a la fragilidad de la población observada.
+En la tabla 5 se presentan los resultados generales de la muestra por género y los obtenidos del estudio en atención primaria de Alicante y Valencia. Estos datos se desgranaron en diferentes franjas de edad (70 a 75 = 1, 76 a 79 = 2, >80 = 3) en las variables PE, PM, PS y SPPB como se registra en la tabla 5.
+
+
+- DISCUSIÓN
+
+Manejando una muestra representativa de población mayor de 60 años del País Vasco (al 95% de nivel de confianza) a nivel municipal (Bilbao) que participan en un programa de promoción de la salud, el presente estudio señala valores normativos para SPPB, observando puntos de corte para detectar personas frágiles por edad y género.
+Los datos de la tabla 3 mostraron que los hombres consiguieron mejores puntuaciones en la mayoría de los rangos de edad respecto a las mujeres. Las diferencias analizadas en las disminuciones de las variables analizadas en mujeres (SPPB = 26,9%; PM = 18%; PS = 48,3%; PE = 18,5%) y en hombres (SPPB = 17,5%; PM = 17,5%; PS = 26,7%; PE = 15,4%), resaltan que la fuerza del tren inferior es la capacidad que más desciende según avanza la edad, sobre todo en mujeres.
+La progresiva evidencia del efecto beneficioso de la realización de AF para la mejora de la salud está aumentando el interés de profesionales sanitarios, considerándola como la auténtica «polipíldora» para mejorar tanto la multimorbilidad como la capacidad funcional.
+Según muestran los resultados, las personas que participan en un programa de salud, tienen unos índices de fragilidad mucho menores respecto a la población general. En la comparación realizada con el estudio FRADEA , podemos observar diferencias en los porcentajes de los niveles de fragilidad entre las distintas poblaciones, obteniendo una reducción del riesgo relativo del 39,9% en las personas sin limitación, porcentaje considerado clínicamente relevante.
+Esta misma tendencia también se observa en la tabla 6. Las personas que dedican 100 min a la semana a realizar AF, tienen mejor capacidad funcional en comparación con la población general de su mismo rango de edad (para 1 = [PE: 0,75 – PM: 0,77 – PS: 0,00 – SPPB: 0,60], para 2 = [PE: 1,18 – PM: 1,00– PS: 0,18 – SPPB: 0,98] para 3 = [PE: 1,30 – PM: 1,13 – PS: -0,09 – SPPB: 0,98]), observando diferencias moderadas y elevadas en la mayoría de las variables. Estos buenos resultados en las personas que participan en programas seguros, eficaces y supervisados que utilizan la AF para mejorar la salud hacen que se incremente la capacidad funcional de los participantes y que la calidad de vida sea mayor, , ya que una baja aptitud física es un factor de riesgo para deterioros funcionales, independientemente de la disposición de procesos patológicos.
+Resulta curioso, dadas las diferencias moderadas y elevadas obtenidas en la mayoría de las variables analizadas con la capacidad funcional, la inexistencia de diferencias en la variable PS. Este hecho puede ser debido al estricto protocolo seguido para la obtención de los resultados en la prueba, ya que existe una asociación entre la fuerza del tren inferior y la velocidad de la marcha en personas frágiles, .
+Como limitaciones a nuestro estudio, podríamos destacar el desconocimiento del nivel de AF de nuestra muestra y de aquellas comparadas. Sabemos que nuestra muestra participa en un programa que emplea la AF 100 min semanales, por el contrario, estas cantidades no llegan a las recomendaciones mínimas marcadas por organismos internacionales, . Asimismo, el nivel de AF de las demás muestras también se desconoce, por lo que en las comparativas asumimos las muestras nacionales como grupos de control.
+En conclusión, el test SPPB es una herramienta fiable y eficaz en su relación tiempo-información aportada, para la medición de la funcionalidad y la estratificación de las personas adultas mayores. Nuestros resultados podrían sugerir que las personas participantes en un programa para mejorar la salud podrían tener una funcionalidad más adecuada que la población general del mismo rango de edad.
+Por ello, es importante realizar pruebas y utilizar herramientas de evaluación validadas para una detección temprana de la fragilidad en entornos comunitarios, clínicos y/o hospitalarios, para así poder promover AF en ámbitos de atención médica primaria y reducir no solo los parámetros de limitación funcional, también los factores de riesgo hemodinámicos, metabólicos, de composición corporal y epigenéticos de todas las ENT, centrándonos en la calidad y no tanto en la cantidad de vida de nuestra población.
+A pesar de los hallazgos actuales que los profesionales de la salud disponen para una detección más eficaz de la fragilidad, muchos de ellos aún no se han traducido a la práctica clínica. Seguir determinando valores de referencia SPPB por países, comunidades, provincias y municipios, permitirá obtener clínicamente de manera rápida y efectiva valores de corte para detectarla. Consideramos importante el hecho de poder seguir recogiendo valores del SPPB y crear una base de datos más amplia. Esto permitirá obtener, gracias a esta herramienta rápida y no invasiva, un criterio clínico para el personal sanitario en los entornos hospitalarios y/o comunitarios para detectar precozmente la fragilidad.
+De este modo, los profesionales de la salud podrán comparar el nivel de funcionalidad de sus pacientes con un grupo de individuos similares en términos de proximidad geográfica, genética y otras variables, que podrían influir en el resultado de la prueba de SPPB. Al mismo tiempo, será una buena herramienta para poder realizar un seguimiento de los propios individuos en las consultas de control de atención primaria.Lo conocido sobre el tema•La capacidad funcional es una herramienta para valorar la fragilidad, exponiendo a la persona a un estado vulnerable donde se manifiestan la discapacidad, el riesgo de caídas, la hospitalización, la institucionalización y la mortalidad. Un buen predictor para valorarla es la prueba de ejecución Short Physical Performance Battery.Qué aporta este estudio•Los resultados del presente trabajo podrían sugerir que las personas participantes en un programa para mejorar la salud podrían tener una mejor funcionalidad que la población general del mismo rango de edad.•El test SPPB es una herramienta fiable y eficaz en su relación tiempo-información aportada para la medición de la funcionalidad y la estratificación de las personas mayores de 60 años.•A pesar de los hallazgos actuales que los profesionales de la salud disponen para una detección más eficaz de la fragilidad, muchos de ellos aún no se han traducido a la práctica clínica. La utilización de esta herramienta rápida y no invasiva podría aportar un criterio clínico al personal sanitario para detectar precozmente la fragilidad.
+
+
+- FINANCIACÓN
+
+El presente trabajo de investigación ha sido parcialmente financiado por Aristos Campus Mundus (ACM 2019-07).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

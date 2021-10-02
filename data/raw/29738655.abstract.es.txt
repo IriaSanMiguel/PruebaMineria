@@ -1,0 +1,5 @@
+Un patrón dietético con mayor consumo de leguminosas, carne y tortilla de maíz se asoció con menor posibilidad de tener hiperglucemia.
+Analizar la asociación de patrones dietéticos y componentes del síndrome metabólico (SM) en mujeres adultas con exceso de peso.
+Estudio transversal que incluye datos antropométricos, dietéticos, bioquímicos y de presión arterial. Se identificaron patrones dietéticos mediante análisis de factores y se emplearon modelos de regresión logística múltiple, para analizar asociaciones.
+Las prevalencias fueron: glucosa alterada 14.6%, hipertrigliceridemía 40.4%, lipoproteínas de alta densidad (HDLc) bajas 45.0%, hipertensión 4.6% y SM de 30%. El patrón con alto consumo de tortilla de maíz, carnes y leguminosas se asoció con menor posibilidad de hiperglucemia (OR= 0.62; IC95% 0.39-0.98). El patrón con alto consumo de botanas dulces y saladas, leche, arroz, sopas y pastas, se asoció inversamente con la posibilidad de baja concentración de HDLc (OR= 0.76; IC95% 0.60-0.97).
+

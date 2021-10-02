@@ -1,0 +1,100 @@
+EVALUACIÓN DEL IMPACTO DE LA UTILIZACIÓN DE MEDICAMENTOS EN DOSIS UNITARIAS EN 2 CENTROS DE ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN Y OBJETIVOS
+
+La idoneidad en el uso de medicamentos depende de muchos factores, entre ellos los relativos al envasado. La mayoría de los envases de medicamentos que se utilizan en procesos agudos de corta duración adaptan el número de unidades galénicas al necesario para el tratamiento habitual, no obstante dicha adaptación no es sencilla por múltiples factores. La alternativa de sustituir envases multidosis por dosis unitarias necesarias para un tratamiento supone un potencial beneficio económico desde la perspectiva del pagador público, pero implica costes de manipulación y fragmentación en la oficina de farmacia, , .
+Actualmente se dispone de medicamentos en dosis individual (Onedose®) que permite prescribir y dispensar el número exacto de unidades galénicas que se requieren sin necesidad de fraccionamiento.
+El objetivo de este estudio ha sido evaluar el impacto económico derivado de la utilización de medicamentos en dosis unitaria independiente (Onedose®), en comparación con la prescripción en envase multidosis en 2 centros de atención primaria.
+
+
+- METODOLOGÍA
+
+Se realiza un análisis de minimización de costes que compara la prescripción para 23 medicamentos realizada en 2 centros de atención primaria en un período de 4 meses, con el escenario alternativo de prescripción en dosis unitarias (Onedose®), en términos de coste líquido incurrido para el sistema público (precio de venta al público menos el copago) y dosis innecesarias prescritas (número de unidades galénicas que excede las necesarias para el tratamiento prescrito).
+
+
+-- ALTERNATIVAS COMPARADAS
+
+En la tabla 1 se identifican los 23 productos para los cuales se ha realizado el análisis comparativo. Los 23 productos analizados se han seleccionado porque o bien ya están comercializados en DU o están próximos a serlo de acuerdo con los datos facilitados por el fabricante. Paracetamol, ibuprofeno, omeprazol, pantoprazol, levofloxacino y venlaflaxina están en el mercado y tienen precios definidos por DU y el resto de productos están en vías de comercialización y los precios de comparación han sido facilitados por el fabricante.
+
+
+-- CENTROS INCLUIDOS
+
+El estudio se ha realizado en 2 centros de atención primaria. El primero (CB) es un centro urbano con 24.500 personas de cobertura y el segundo (RV) un centro semiurbano que cubre a 10.000 personas.
+
+
+-- POBLACIÓN ANALIZADA Y PERÍODO DEL ESTUDIO
+
+La población de estudio han sido todas las prescripciones realizadas y registradas en los sistemas de información de los 2 centros durante 4 meses (enero-abril de 2012) de los productos comparados. Se han excluido del análisis aquellas prescripciones realizadas directamente en papel de forma manual. Las prescripciones seleccionadas se revisaron individualmente eliminando aquellas que correspondían a prescripciones de posología «a demanda», o con posología o duración de tratamiento no habitual o claramente errónea.
+
+
+-- PERSPECTIVA DEL ESTUDIO
+
+La perspectiva utilizada es la del centro prescriptor. Esta perspectiva es similar a la del pagador público pero no es idéntica, ya que este último únicamente acaba pagando las recetas dispensadas y facturadas y no todas las prescritas. La utilización de esta perspectiva implica también que la comparación económica se base en el precio líquido.
+
+
+-- TIPO DE ANÁLISIS Y DISEÑO DEL ESTUDIO
+
+Se ha realizado una minimización de costes, que compara el volumen y coste de la prescripción realizada con el volumen y coste resultantes de la hipotética utilización de las dosis ajustadas necesarias en función de la duración del tratamiento prescrito, pero siempre de productos idénticos, con lo que la efectividad del tratamiento no se vería modificada. El estudio es observacional retrospectivo. Los datos del análisis se han obtenido de la historia clínica del centro.
+Para cada medicamento prescrito se ha registrado: código nacional (CN); número de unidades galénicas; precio de venta al público (PVPIVA); cobertura del asegurado; fecha de inicio de tratamiento; fecha de finalización de tratamiento; frecuencia diaria; posología, número de envases prescritos, y precio líquido por unidad galénica.
+Con la información base se calcularon para cada prescripción los días de tratamiento, las horas de tratamiento, las unidades galénicas necesarias, el importe líquido del tratamiento y las unidades galénicas prescritas.
+
+
+-- ESCENARIOS DE COMPARACIÓN Y CRITERIOS DEL MODELO
+
+Se han diferenciado 2 escenarios de comparación en función del uso crónico o agudo de los medicamentos ya que para los primeros el efecto de sustitución por DU deriva de 2 factores, el precio (mayor o menor) y las dosis evitadas (si el número de unidades excede las necesarias para el tratamiento). Si la indicación del medicamento es de larga duración el único factor de diferencia será el precio de la dosis.
+Los escenarios de sustitución considerarán siempre un modelo de prescripción eficiente y posible, basado en 3 elementos:1.Escenario económicamente menos costoso con independencia de las dosis evitadas.2.A igualdad de coste considerar el que generará menos prescripción innecesaria.3.Que sea factible en la práctica médica. Se han excluido esquemas que supongan combinación de prescripciones de diferentes marcas.
+Para paracetamol e ibuprofeno se ha considerado como única alternativa la sustitución por DU en tratamientos en los que no se superara el número de unidades galénicas que hace de esta opción la más barata .
+Hemos utilizado el precio de mercado propuesto por el fabricante para los productos en DU y el precio real de prescripción obtenido en los centros analizados, que no necesariamente en todos los casos es el más barato. En la tabla 2 se especifican las opciones de comparación analizadas en función del precio. Dado que la comparación excluye el copago se aplicó la misma aportación proporcional en los 2 esquemas.
+
+
+-- MEDIDA DE RESULTADOS
+
+Para cada producto analizado se midieron en el período de estudio y se extrapolaron anualmente de forma lineal las variables e indicadores que se describen en la tabla 3. Las variables se midieron para los 2 escenarios comparados y se calcularon los indicadores de comparación de los mismos.
+
+
+-- ANÁLISIS DE SENSIBILIDAD
+
+Los resultados básicos de la comparación se sometieron a un análisis de sensibilidad en las siguientes variables:a)Tasa de incumplimiento primario de la prescripción. Se ha ajustado el resultado en función del porcentaje de prescripciones que no llegan a ser dispensadas y facturadas según la información de los ficheros de facturación del Servicio Catalán de la Salud para el peróodo de estudio.b)Valor umbral de precio Onedose®. Se han calculado para cada producto analizado en indicaciones agudas el precio máximo por unidad galénica que Onedose® podría fijar sin incrementar el coste total de la prescripción del centro en función de las prescripciones innecesarias evitadas. Así mismo este cálculo permitiría estimar la reducción de precio necesaria entre las presentaciones tradicionales para compensar la prescripción de unidades galénicas por encima de las necesarias.
+
+
+- RESULTADOS
+
+Se han analizado en el período de estudio un total de prescripciones equivalentes a 1.608.458 dosis, correspondientes a 23 productos diferentes. En la tabla 4 se proporcionan los resultados totales del período analizado y de su extrapolación anual para los 2 centros y para cada uno de ellos por separado. En la tabla 5 se describe para cada producto el porcentaje de prescripciones válidas incluidas en el estudio sobre el total de las seleccionadas. Las Tabla 6, Tabla 7 corresponden a los resultados obtenidos en los centros analizados y el porcentaje de ahorro que deriva del precio y de las dosis evitadas.
+Los resultados obtenidos en los 2 centros presentan diferencias relevantes. En la sustitución de la prescripción habitual por DU en los medicamentos con indicaciones agudas y precio igual o inferior se identifica un ahorro de recursos que en el centro CB se supone el 34% del coste líquido (85.000 euros anuales) y en el centro RV el 24% del coste líquido (11.303 euros anuales). En este grupo de medicamentos el ahorro deriva en gran parte de evitar dosis innecesarias, que suponen alrededor de 260.500 dosis unitarias (15% de la prescripción realizada) en el centro CB y 53.212 dosis (14% de la prescripción realizada) en el centro RV. Los productos con indicaciones agudas que más impactan en la reducción de costes son en ambos casos similares (inhibidores de la bomba de protones, tramadol + paracetamol, antibióticos y desloratadina).
+En los productos con precio por DU superior (paracetamol e ibuprofeno) con indicaciones agudas la sustitución de la prescripción actual supone evitar en el centro CB 300.000 dosis anuales (16% de la prescripción) y en RV 42.000 dosis anuales (8%). No obstante, el escenario de sustitución considerado es el parcial, que tiene un impacto menor ya que solo afecta al 1,5% de las prescripciones de CB y al 3,3% de RV, pero no supone incremento de costes e implica un pequeño ahorro económico.
+En los productos para indicaciones crónicas exclusivas, los 2 centros ahorrarían recursos (15% en el CB y 13% en el RV) sustituyendo su prescripción por DU (30.000 euros en el centro CB y 5.550 en el RV). El ahorro está vinculado totalmente al decremento de precio.
+
+
+-- ANÁLISIS DE SENSIBILIDAD DE LOS RESULTADOS
+
+De acuerdo con las diferencias entre prescripción y dispensación facturada identificadas a partir de la información facilitada por el Servicio Catalán de la Salud, el límite máximo de diferencia está aproximadamente en el 30%, lo que supone un 70% del impacto estimado en el análisis inicial (93.000 euros y 468.000 dosis innecesarias entre los 2 centros).
+Se ha calculado también para cada medicamento con indicaciones agudas en DU su valor de precio umbral, entendiéndose este como aquel valor que podría alcanzar para que su utilización no supusiera un coste adicional para el centro integrando los beneficios económicos derivados de la disminución de dosis prescritas.
+En la tabla 8 se identifica este valor para cada producto. De los 19 productos analizados, únicamente en 4 casos (paracetamol de 1 g y 650 mg, ibuprofeno de 400 y 600 mg) las DU deberían disminuir sus precios actuales, ya que el impacto en la disminución de dosis no absorbe la diferencia de precio actual. En el resto de productos los precios podrían incrementarse por el efecto derivado de las dosis innecesarias que se evitarían, siempre y cuando los productos tradicionales no disminuyeran el precio utilizado en el estudio.
+
+
+- DISCUSIÓN
+
+El estudio realizado tiene limitaciones que se deben tener en cuenta. Es un estudio llevado a cabo en 2 centros de atención primaria y, si bien sus resultados son válidos para estos centros ya que el análisis ha sido prácticamente poblacional, no necesariamente estos centros son representativos del total. La perspectiva utilizada ha sido la del centro prescriptor y no la del pagador público, aspecto que tiene que ver con el objetivo de generar recomendaciones útiles para el centro pero que limita su utilidad general. Se ha considerado que la diferencia entre lo prescrito y lo dispensado sería igual en los 2 escenarios comparados, aspecto este del que no tenemos evidencia empírica.
+También supone una limitación a la extrapolación anual de los resultados las posibles variaciones estacionales de consumo. Finalmente también se podría considerar discutible el no dar ningún valor económico a las unidades prescritas en exceso. El impacto del uso de este tipo de productos no había sido evaluado anteriormente dado que no se disponía en el mercado.
+En un estudio realizado en el año 2006 que evaluaba el impacto económico de la dispensación en dosis unitarias de antibióticos en Galicia, se detectó una reducción de costes cercana al 30% y de unidades innecesarias del 15%. Los resultados de nuestro estudio son similares, aunque las magnitudes varían ya que hemos incluido más medicamentos y los antibióticos analizados por nosotros no son los de uso más prevalente. Además, en nuestro caso comparamos 23 medicamentos diferentes entre los cuales hay antibióticos, pero también otros productos de uso en patologías agudas y crónicas.
+El estudio citado fue criticado acertadamente, , dado que únicamente valoraba el impacto económico desde la perspectiva del pagador y no incluía en el análisis los costes de la manipulación y fragmentación de los envases que afectaban a la farmacia comunitaria. En nuestro caso, la alternativa al envase multidosis no implica costes adicionales para la farmacia dado que ya viene envasado en dosis unitaria de origen.
+La adecuación de las dosis a los requerimientos terapéuticos tiene otras alternativas, como por ejemplo la derivada de la decisión clínica. Hemos visto cómo uno de los centros analizados adecua mucho más las cantidades prescritas a los tratamientos que el otro.
+Así mismo la adaptación de las dosis de los envases a la duración del tratamiento es posible, pero no es fácil. Las pautas terapéuticas no son necesariamente homogéneas, los productos tienen indicaciones múltiples o simplemente porque un tratamiento inicial es modificado al cabo de pocos días si se considera inefectivo.
+En términos absolutos nuestro estudio identifica que el ahorro que en los centros analizados supondría haber utilizado Onedose® se sitúa en el período analizado en 45.000 euros y anualmente en 133.000 euros. Así mismo se evitarían en el período 212.000 unidades galénicas y anualmente 669.000.
+El impacto identificado supondría 3,8 euros y más de 19 dosis por persona y año. Estos resultados son muy dependientes de los precios utilizados en el estudio, especialmente para los productos de uso crónico, y estos hoy en día son muy dinámicos.
+Dado el volumen actual de la factura de farmacia los ahorros considerados son discretos. No obstante, si bien la metodología no permite una extrapolación al conjunto de nuestro sistema, si los resultados hallados siguieran una pauta similar en el conjunto de la atención primaria de Cataluña, los ahorros en esta comunidad autónoma se situarían anualmente en 22 millones de euros y 133 millones de dosis.
+La existencia actualmente de un volumen importante de medicación innecesaria en forma de stocks domiciliarios traslada directamente el coste de este stock al sistema público, cuando el comprador público está pagando a una cadena de distribución, entre otras cosas para que asuma este stock hasta el momento preciso de la utilización.
+Por otra parte, es obvio que en muchos casos la disponibilidad de un stock domiciliario de medicamentos no necesariamente debería repercutir en una mayor tasa de aparición de problemas relacionados con los medicamentos. No obstante, determinados medicamentos podrían generar problemas, como por ejemplo los antibióticos.
+En España se han realizado algunos estudios que miden las acumulaciones de medicamentos en los domicilios, , , , . En el último de los estudios publicados, realizado en la provincia de Málaga, se contabilizó una media de 24 medicamentos por hogar. En los últimos 15 días solo se habían utilizado el 14%, el 75% no se utilizaban y el 11% estaban caducados. El estudio concluía que los botiquines domiciliarios podían suponer en Málaga el 10% de la factura de farmacia de esta provincia en ese momento. No se dispone tampoco de estimaciones del coste de la destrucción de las dosis almacenadas.
+En definitiva, más allá del potencial impacto sanitario, la utilización de este tipo de productos en esquemas de prescripción factibles implica de forma rápida, reducción del gasto vinculado a la prescripción para el centro y para el Sistema Nacional de Salud (SNS), no supone un incremento de costes de dispensación, sitúa el stock de medicamentos donde debe estar y podría reducir los stocks domiciliarios de aquellos medicamentos que objetivamente no es conveniente que sean aplicados sin un diagnóstico previo.Lo conocido sobre el tema:1.Impacto económico de la dispensación en dosis unitarias de antibióticos para el SNS.2.Costes implicados en la fragmentación de envases.Qué aporta este estudio:1.Impacto de diferentes medicamentos en dosis unitaria (DU) en el centro prescriptor.2.Dosis evitadas de diferentes tipos de fármacos al utilizar DU.3.Impacto económico neto de la sustitución por DU al no requerirse fragmentación.
+
+
+- FINANCIACIÓN
+
+El estudio ha sido financiado parcialmente por la empresa farmacéutica Onedose Pharma.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

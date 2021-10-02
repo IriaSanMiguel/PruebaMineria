@@ -1,0 +1,6 @@
+Se incluyeron 180 cuidadores, con una edad promedio de 42.8 ± 13.9 años, y el 73.3% eran mujeres. Se aplicó la encuesta Zarit para valorar el grado de sobrecarga del cuidador.
+Determinar la prevalencia de sobrecarga en cuidadores informales primarios de pacientes en DP, los factores asociados y su impacto en los pacientes a 12 meses.
+Se identifica que la mayoría de los cuidadores no presenta sobrecarga; sin embargo, existe mayor sobrecarga en pacientes con DP continua ambulatoria (DPCA), con mayor mortalidad global en el grupo con sobrecarga intensa (p < 0.05). La regresión lineal mostró asociación entre las horas al cuidado del paciente, la ocupación, la modalidad de diálisis y la escolaridad con la presencia de sobrecarga del cuidador (p < 0.05).
+La sobrecarga que presenta el cuidador es similar a lo reportado en la literatura. Los pacientes en DPCA cuyo familiar tiene sobrecarga intensa presentan mayor mortalidad global a 12 meses.
+La diálisis peritoneal (DP) requiere el apoyo de un cuidador principal, quien puede verse sometido a una intensa carga de trabajo y es susceptible de presentar alteraciones físicas, psicológicas y sociales.
+

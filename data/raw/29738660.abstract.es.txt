@@ -1,0 +1,5 @@
+El alcance del proceso de certificación en México ha sido limitado, con mayor participación del sector privado. La cé- dula de evaluación aplicada en 2011 favoreció la obtención de resultados aprobatorios y de excelencia. Se recomienda homologar el proceso en su totalidad con el empleado por la Joint Commission International (JCI).
+Analizar la participación de hospitales mexicano en el proceso de certificación (equivalente a la acreditación en otros países).
+La calificación promedio general fue 7.72, más alta en hospitales de cirugía ambulatoria (9.10), que en hospitales generales (7.30) y de especialidad (7.99). Todos los establecimientos públicos obtuvieron calificación aprobatoria. Los hospitales auditados en 2011 tuvieron mayor riesgo de obtener calificación aprobatoria (RRR= 4.6, p<0.05) y excelente (RRR= 6.6, p<0.05).
+Estudio transversal, analiza resultados de 136 establecimientos auditados entre 2009 y 2012. Se identificaron estándares con calificación excelente (9.0-10.0), aprobatoria (6-8.9) y no aprobatoria (0-5.9). Con un modelo logístico multinomial se calculó la probabilidad de obtener calificación no aprobatoria, aprobatoria y excelente.
+

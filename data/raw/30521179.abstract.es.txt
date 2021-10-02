@@ -1,0 +1,6 @@
+diseño transversal, se estudiaron sujetos consecutivos de forma cegada, al mismo tiempo se obtuvo sangre arterial y venosa periférica para su análisis. La variabilidad se determinó con el método estadístico de Bland-Altman y su magnitud con el coeficiente de correlación intraclase (intervalo de confianza al 95%).
+describir la variabilidad de los parámetros de la gasometría arterial y venosa periférica en sujetos con enfermedad pulmonar obstructiva crónica en condición estable.
+la variabilidad del pH, el bicarbonato sérico y la hemoglobina son similares en ambas muestras sanguíneas. Estos parámetros de la gasometría arterial o venosa periférica podrían ser utilizados en forma intercambiable.
+se estudiaron 300 muestras sanguíneas de 150 pacientes, 89 mujeres (59.3%), edad del grupo 66 ± 10 años, el índice de masa corporal 28.44 ± 4.81 Kg/m2. La diferencia media (sesgo) [coeficiente de correlación intraclase] para el pH: 0.012 (-0.009, 0.032) [0.927], presión de bióxido de carbono: -6.5 (-14.1, 1.1) [ 0.643], bicarbonato sérico: -1.3 (-3.3, 0.7) [0.929], y exceso de base: -1 (-4, 2.1) [0.904], hemoglobina: -0.1 (-1.9, 1.8) [0.947].
+la gasometría venosa periférica puede ser de utilidad en sujetos con exacerbación de la enfermedad pulmonar obstructiva crónica para evaluar su intercambio gaseoso.
+

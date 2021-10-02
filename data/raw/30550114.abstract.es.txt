@@ -1,0 +1,5 @@
+Instrumento adaptado con utilidad para monitorizar elementos del contexto que pueden favorecer iniciativas de mejora y acreditación en hospitales.
+Se adaptó y validó modelo y cuestionario Model for Understanding Success in Quality (MUSIQ) para aplicación en países hispanoparlantes y uso específico para proyectos de acreditación de hospitales. Se realizó un análisis factorial confirmatorio (test de Bartlett e índice Kaiser-Meyer-Olkim) del constructo teórico de sus dimensiones y se comprueba consistencia interna en estudio realizado en muestra de 54 hospitales de mediana y alta complejidad en Colombia.
+Adaptar y validar instrumento para medir elementos del contexto que pueden favorecer iniciativas de mejoramiento de la calidad y acreditación de hospitales.
+Instrumento con cuatro dimensiones de contexto (ambiente, macrosistema, microsistema, equipo de calidad), compuestas por 23 elementos medidos a través de 35 variables. El análisis factorial mostró significancia estadística y adecuación de las dimensiones que tuvieron también buena consistencia interna.
+

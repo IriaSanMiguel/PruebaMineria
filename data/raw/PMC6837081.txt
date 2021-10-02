@@ -1,0 +1,97 @@
+PRESENCIA DE FAMILIARES DURANTE LA REANIMACIÓN CARDIOPULMONAR: PERSPECTIVAS DE PACIENTES, FAMILIARES Y PROFESIONALES DE LA SALUD EN EL PAÍS VASCO
+
+
+- INTRODUCCIÓN
+
+Organizaciones internacionales, como el Consejo Europeo de Reanimación Cardiopulmonar, manifiestan el derecho de la familia a estar presente durante las maniobras de RCP y enfatizan la toma de decisiones conjunta entre personal de salud y familiares, sin que estos últimos ejerzan ningún tipo de presión sobre las decisiones, . Sin embargo, investigaciones desarrolladas en diversos países reflejan que los profesionales presentan cierto escepticismo a su puesta en práctica, y que no se trata de una técnica extendida. El Consejo Europeo de Reanimación alertaba en el año 2015 de que en menos de la mitad de los países europeos se permite habitualmente a los familiares estar presentes durante la reanimación cardiopulmonar (RCP).
+En el País Vasco, la Ley 11/2016, de 8 de julio, de garantía de los derechos y de la dignidad de las personas en el proceso final de su vida, refuerza el valor de la autonomía personal y resalta el derecho del paciente a recibir información clínica y a la toma de decisiones que se recogen en el documento de «voluntades anticipadas», que debe ser respetado por los profesionales. Sin embargo, no existe una normativa clara sobre la RCP presenciada en nuestro país. Los escasos estudios que abordan dicha temática se centran sobre todo en el paciente pediátrico, tratando la RCP dentro de otros procedimientos invasivos, y es motivo de controversia entre los profesionales de la salud, . En el paciente adulto, un estudio observacional consideraba que se debería facilitar la presencia de familiares durante la RCP en el domicilio.
+Dada su transcendencia desde el punto de vista bioético y legal, y ante la escasez de investigación sobre la temática en nuestro contexto, el objetivo de este estudio es explorar la percepción de los propios pacientes y familiares, enfermeras y médicos, acerca de la presencia de familiares durante la RCP en pacientes adultos.
+
+
+- PARTICIPANTES Y MÉTODOS
+
+-- DISEÑO
+
+Se desarrolló un estudio cualitativo exploratorio.
+
+
+-- MUESTRA, PARTICIPANTES Y CONTEXTO
+
+La selección de los participantes se realizó a través de muestreo intencional, invitando a participar a pacientes, familiares y profesionales de distintas organizaciones (Atención Primaria, Extrahospitalaria y Hospitalaria) de las 3 provincias del Sistema de Salud Público de la Comunidad Autónoma Vasca (Osakidetza).
+El primer mecanismo de captación fue a través de listados facilitados por gestores sanitarios y asociaciones de pacientes, y también con la técnica en bola de nieve ante la dificultad de captar pacientes y familiares para la organización del grupo de discusión. Se incluyeron pacientes mayores de 18 años, con diferentes niveles de estudios y que tuviesen antecedentes de insuficiencia cardiaca grave y/o supervivientes a una parada y familiares de pacientes que cumplieran dichas condiciones. Los profesionales se distribuyeron en grupos homogéneos de médicos y enfermeras, buscando la heterogeneidad intragrupo con base en la experiencia laboral, el género y el ámbito asistencial.
+Se desarrollaron 4 grupos de discusión: uno de pacientes y familiares, 2 de enfermeras y otro de médicos, hasta alcanzar la saturación de las principales categorías analíticas. Las características de la muestra se describen en la tabla 1. El guión de temas a tratar fue generado mediante revisión bibliográfica contrastada por 2 expertos en metodología cualitativa del grupo de investigación y 2 expertos en RCP externos, y se expone en la tabla 2.
+Se obtuvo el informe favorable del CEIC Euskadi con código PI2015132. Los grupos de discusión se desarrollaron entre octubre de 2015 y marzo de 2016. Se grabaron, registraron y transcribieron previo consentimiento informado escrito de los participantes. Durante la grabación fueron identificados bajo pseudónimo, destruyendo las grabaciones tras su transcripción literal. Se estableció entre los participantes el compromiso de confidencialidad y voluntariedad de participación.
+Los informes de campo elaborados se integraron a las transcripciones para obtener una «visión de conjunto». La reflexividad se utilizó a lo largo del estudio. Los investigadores examinaron sus propios valores sobre la temática para asegurarse de que presentaban auténticamente las percepciones de los participantes.
+
+
+-- ANÁLISIS
+
+Se realizó el análisis temático de las transcripciones y notas de campo, identificándose unidades de significado y asignando códigos que se agruparon en categorías. Se utilizó el software Open Code 4.1. Se realizó triangulación entre investigadores (2 investigadores leyeron y analizaron las transcripciones y las categorías finales fueron consensuadas entre todo el equipo) y una verificación investigador-informante para garantizar que el análisis realizado respetaba sus ideas.
+
+
+- RESULTADOS Y DISCUSIÓN
+
+Se identificaron 3 categorías significativas: impacto de la actuación en la familia; peso de la responsabilidad ética y legal; poder, lugar donde sucede la parada y supuestos culturales.
+
+
+-- IMPACTO DE LA ACTUACIÓN EN LA FAMILIA
+
+Los pacientes y familiares consideran que presenciar las maniobras de reanimación podría aumentar el sufrimiento de los familiares, a pesar de que la mayoría de ellos nunca hayan observado una RCP como familiar.
+María, familiar GD4, compartía su experiencia cuando su madre sufrió una parada y fue la primera interviniente hasta llegar los servicios de emergencias.«Es mejor que la familia no esté, y lo que pasó a mi madre, cada vez que oía el desfibrilador en su casa, era ponerme de los nervios, era llorar».
+Los profesionales sanitarios manifestaron sentimientos encontrados. Por un lado, mostraron preocupación por la posibilidad de que los familiares puedan ver procedimientos invasivos que causen más trauma psicológico, lo que coincide con los hallazgos de otros autores, , .“«La última parada que he tenido, ha habido que abrir al paciente […]» (Nagore, enfermera GD1).
+Por otro lado, Nahia, enfermera del GD2, relataba una RCP que realizó en el centro de salud en presencia del hijo del paciente.«Vino la UTE, y ya no pudimos hacer nada […] él había visto que habíamos hecho todo lo posible por su padre».
+Los profesionales consideran que observar cómo se realizan los esfuerzos necesarios por mantener con vida a su ser querido podría ser beneficioso para los familiares, lo que concuerda con lo reportado en investigaciones previas, en las que los familiares tuvieron una mejor aceptación del duelo.«Lo que sí creo es que a la persona se le tendría que acompañar, tener ahí un pequeño apoyo psicológico para ese primer momento de tanta tensión» (Jorge, paciente GD4).
+Todos los participantes coincidieron en la necesidad de que un profesional acompañe a los familiares durante las maniobras, explicándoles el proceso y apoyándolos, , , , , con el fin de evitar sentimientos de confusión que podrían hacer de la presencia de las maniobras una vivencia traumática, .
+
+
+-- PESO DE LA RESPONSABILIDAD ÉTICA Y LEGAL
+
+Existe miedo de los profesionales a que la familia considere que la muerte del paciente es consecuencia de una mala actuación.«Puede quedarse la familia con la sensación de que no se ha hecho suficiente, que se ha perdido el tiempo, no ha habido coordinación, que se ha muerto por tu culpa» (Nagore, enfermera GD1).
+Algunas enfermeras expresaron miedo a que se malinterpreten las acciones o palabras de los profesionales, o que consideren que ha existido una mala actuación del equipo, lo que denota inseguridad en la realización de las maniobras.
+Los profesionales generalmente no se plantean la posibilidad de una RCP presenciada. Irantxu, enfermera GD1, reflexionaba sobre una «situación ideal»:«En una situación de control absoluto de técnica, de preparación, y si el familiar quiere… creo que por sistema no, planteárselo por sistema tampoco».
+Sentir que se tiene el «control de la situación» es un elemento necesario para valorar la posibilidad de la RCP presenciada. Consideran que la formación, la confianza en las habilidades y los conocimientos de los propios profesionales, así como la coordinación del equipo son aspectos necesarios para favorecer su práctica.
+Otro aspecto destacado tanto por algunas enfermeras como por los propios pacientes es el hecho de que los familiares pudieran interferir en las maniobras.«Creo que es mejor que dejen hacer, podrían entorpecer lo único». (Eduardo, paciente GD4).
+Diversos estudios coinciden en el miedo de los profesionales a que la presencia de familiares dificulte el desarrollo de las maniobras, . Sin embargo, Igone, enfermera GD2, comentaba:«Con la experiencia que tengo, en los domicilios no se les ha echado, ellos se han ido para atrás».
+Los profesionales con experiencia previa en RCP presenciada consideraban que son los propios familiares quienes abandonan voluntariamente la escena, tal y como aportaban profesionales del Servicio de Emergencias participantes en un estudio observacional en el País Vasco. La mayoría reconocieron que la presencia de familiares aumenta la presión del equipo en el caso de pacientes no reanimables, llegando a simular las maniobras («slow code»).
+Ane, médico del GD3, comentaba:«Muchas veces entras y haces el paripé (teatro), porque según lo ves, ves la historia, y dices, este va a cascar (morir)».
+En la literatura existen ejemplos de como la RCP presenciada influye en las decisiones de los profesionales. En el estudio desarrollado por De la Flor Magdaleno et al., el 54% de los médicos de emergencias reconocían que resulta más complejo suspender las maniobras de RCP cuando la familia está presente, algo reportado también por estudios realizados en el ámbito internacional. Contrasta con estudios como el desarrollado en Canadá por McClement et al., que consideraba que la presencia de familiares facilitaba la aceptación de la interrupción de las maniobras.
+Por otro lado, Nahia, enfermera GD2, reflexionaba acerca de la dificultad de explicar a los familiares que no se van a iniciar las maniobras:«Me imagino el que tiene constancia de que no es reanimable, porque está marcado en la historia, te sentirías como que le tienes que explicar “no voy a reanimar porque…” tendrías como que justificar que no has hecho algo que la gente espera que tú hagas».
+La realización del «slow code» en pacientes no reanimables deja al descubierto la falta de habilidades de comunicación de los profesionales en situaciones complejas de vida y muerte, y el miedo a posibles reclamaciones, . Existe controversia sobre su práctica. Algunos autores lo consideran una práctica engañosa, fundamentada en una medicina paternalista en la que se priva a la familia de tomar alguna decisión, entrando en conflicto con los códigos éticos, .
+
+
+-- PODER, LUGAR DONDE SUCEDE LA PARADA Y SUPUESTOS CULTURALES
+
+Los profesionales consideran que en el ámbito hospitalario no se favorece la presencia de la familia.«Es difícil permitir a los familiares que vean la reanimación si les echamos de la habitación para sacar sangre» (Aitor, enfermero GD2).
+Los discursos profesionales muestran la existencia de una cultura de poder en el ámbito hospitalario que dificulta por sistema la presencia de familiares, incluso en la realización de otros procedimientos, lo que coincide con autores como Gamell Fullá et al..
+Los profesionales describieron el hospital como un contexto de «poder», donde el control está en manos de los sanitarios.«Nuestra forma de trabajar, estamos acostumbrados a ese medio controlado, controlado por nosotros». (Miren, enfermera GD2).
+La descripción de la cultura de «poder» de las instituciones sanitarias no es un concepto nuevo. Parsons describía el ámbito hospitalario como un «subsistema social», en el que se ejerce el control social a través de una serie de normas, comportamientos y roles socialmente aceptados por todos los individuos.
+Ane, enfermera GD2, comentaba como en el medio hospitalario la falta de espacio físico es otra barrera:«La infraestructura de las plantas de la habitación, al final dices, familia fuera porque no hay sitio»
+Lejos de un cuidado centrado en la persona, aún quedan residuos en nuestra práctica clínica de una medicina biologicista centrada principalmente en la técnica. Las estructuras arquitectónicas hospitalarias no están diseñadas en pro del cuidado holístico del paciente y su familia. Chocarro González et al. hacían referencia a la necesidad de proporcionar espacios arquitectónicos en los hospitales de agudos que faciliten el acompañamiento de la muerte. Los profesionales de nuestro estudio comentaban como la falta de espacio físico dificulta per se la posibilidad de una RCP presenciada.
+Por el contrario, cuando la parada sucede en otros ámbitos asistenciales, el sentimiento de poder de los profesionales varía. Los profesionales que trabajan en Emergencias y Atención Primaria contaron distintas experiencias.«Cuando tú vas a casa del paciente, siempre juegas fuera, tú eres el visitante» (Miguel, médico GD3).
+Liaschenko describía en su estudio como los profesionales sentían que en el domicilio del paciente estaban en «su territorio» y eran tan solo «invitados en su casa». Peter relataba a su vez como el lugar influye en la autoridad y en el reparto de poder. Así, fuera de las rígidas estructuras sociales hospitalarias, la familia tendría más posibilidades de poder decidir.
+Por otro lado, tanto médicos como enfermeras señalaron la existencia de un contexto sociocultural que no favorece la RCP presenciada. Coincide con la percepción de pacientes y familia que temen estar presentes durante la RCP de un ser querido.«Salen de las habitaciones, pero la mayoría de las veces lo piden los familiares […] para la gente no es agradable, no están acostumbrados». (Ane, médico GD3).
+Demuestra una diferente actitud ante la enfermedad y la muerte, que difiere de la que se encuentra en países como Canadá o EE. UU., , , donde la población considera su derecho a presenciar la RCP.
+Dicho contexto sociocultural influye también en la actuación de algunos sanitarios. Kepa, médico GD3, compartía la experiencia que vivió en la muerte de su padre, cuando se le impidió estar a su lado en los últimos momentos.«¿No crees que hay una actitud, por defecto, de que automáticamente cuando está el momento próximo se tiende a sacar a la familia? Tengo una experiencia súper desagradable con mi padre. A mí me echaron de la muerte del aita (significa «padre» en euskera). Era evidente que se estaba muriendo, y justo cuando se muere me vienen y me sacan».
+Algunos profesionales sanitarios, influidos por el contexto sociocultural, participarían en la negación social de la muerte, en su afán de proteger a los familiares de presenciar la muerte de un ser querido.
+Rebeca, médico GD3, reflexionaba sobre la complejidad de la decisión y cuál sería la mejor actuación.«Seguramente la derecha (lo adecuado) sería no decir nada a la familia y que hagan lo que quieran, que si quieren quedarse, se queden».
+La mayoría de los profesionales sanitarios coincidieron en que se debería valorar cada situación de forma independiente, y que lo ideal sería brindar a los familiares la oportunidad de estar presentes, siendo estos quienes tomen finalmente la decisión, lo que coincide con lo reportado por la literatura, , , , , .
+Una de las posibles limitaciones de este estudio es que dado el carácter exploratorio del mismo y que las RCP se pueden producir en cualquier contexto, se incluyó a profesionales de distintos servicios y ámbitos asistenciales. Futuros estudios podrían centrarse exclusivamente en profesionales de cuidados intensivos, urgencias y emergencias por ser los que tienen un conocimiento más profundo del proceso de RCP.
+
+
+- CONCLUSIONES
+
+La RCP es un constructo social influido por valores y percepciones situados en contextos socioculturales específicos. En este estudio, los pacientes y familiares describieron temor y resistencia a presenciar la RCP en pacientes adultos. Por su parte, los profesionales sanitarios de Osakidetza consideran que es una práctica poco habitual y que su decisión reviste complejidad, siendo necesario valorar cada caso de forma independiente. Además, proponen facilitar, en la medida de lo posible, la toma de decisiones de forma compartida e informada.
+El lugar en el que sucede la parada es un componente contextual que condiciona per se la posibilidad de desarrollar una RCP presenciada. Al contrario de lo que sucede en el ámbito hospitalario, considerado como un «subsistema social», el domicilio y la calle emergen como facilitadores de la presencia de familiares durante la RCP. La formación de los profesionales sanitarios debe tener en cuenta los aspectos contextuales, las relaciones de poder y cuestiones bioético-legales, así como la comunicación en situaciones extremas.
+Este estudio recoge la percepción de pacientes, familiares, enfermeras y médicos. Por ello, puede servir de referencia para el desarrollo de investigaciones y políticas sanitarias que apoyen cuidados holísticos al paciente y familiares, respetando los principios bioéticos.
+Como líneas de investigación futuras, sería recomendable profundizar sobre la experiencia subjetiva de familiares que hayan presenciado la RCP y el impacto de los elementos contextuales y socioculturales en sus percepciones.Lo conocido sobre el temaA pesar de que diferentes organizaciones internacionales aconsejan la RCP presenciada en el paciente adulto, no es una práctica extendida en nuestro contexto.Qué aporta este estudioEl lugar donde sucede la parada cardiorrespiratoria condiciona la posibilidad de desarrollar la RCP presenciada. El domicilio y la calle son facilitadores de dicha práctica.Pacientes y familiares rechazan en general la posibilidad de presenciar las maniobras, en un contexto sociocultural de negación de la enfermedad y la muerte, y ello dificulta la RCP presenciada.La falta de legislación que delimite un marco de acción y el déficit de formación en aspectos ético-legales de los profesionales pueden conllevar la simulación de la RCP («slow code») en pacientes no reanimables si la familia está presente.Este estudio recoge la opinión de pacientes, familiares y profesionales de la salud, y puede ayudar al desarrollo de políticas sanitarias que apoyen la práctica de la RCP presenciada.
+
+
+- FUENTE DE FINANCIACIÓN
+
+Este estudio ha sido financiado por la OSI Bilbao-Basurto. Fundación Vasca de Innovación e Investigación Sanitarias (BIOEF)-Proyecto OSIBB15.
+Financiación M-BAE 2016 (BA16/00045) para la realización de una estancia de investigación de la IP en la Universidad de Toronto.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

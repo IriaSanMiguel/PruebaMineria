@@ -1,0 +1,5 @@
+El área bajo la curva ROC del ICM como predictor de dislipidemia, hipertensión (HTA) y glucosa alterada en ayunas (GAA) fue de 0,777 (IC 95%=0,712-0,842), 0,710 (IC 95%=0,559-0,853) y 0,564 (IC 95%=0,447-0,682), respectivamente.
+En la muestra estudiada el ICM mostró capacidad de predecir dislipidemia e HTA, pero no para GAA.
+El estudio fue descriptivo, correlacional y transversal. Se evaluaron 278 adolescentes de entre 12 y 15 años. Se determinó las concentraciones de glicemia, triglicéridos, HDL-c y se calculó el índice TG/HDL-c. Se midió el peso, talla y circunferencia de cintura y se determinó el Índice de Masa Corporal, el de conicidad y la relación cintura talla (Rel. CC-T). El producto de la Rel. CC-T y TG/HDL-C constituyó el índice cardiometabólico (ICM). Se determinó la presión arterial.
+Evaluar la capacidad del Índice Cardiometabólico (ICM) para predecir alteraciones en las concentraciones en ayuno de glucosa, dislipidemia e hipertensión en adolescentes.
+

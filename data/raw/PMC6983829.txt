@@ -1,0 +1,499 @@
+DOCUMENTO DE CONSENSO PARA LA DETECCIÓN Y MANEJO DE LA ENFERMEDAD RENAL CRÓNICA<SUP
+
+
+- INTRODUCCIÓN
+
+La enfermedad renal crónica (ERC) es un importante problema de salud pública. Según los resultados del estudio Epidemiología de la insuficiencia renal crónica en España (EPIRCE), diseñado para conocer la prevalencia de la ERC en España y promovido por la Sociedad Española de Nefrología (SEN), con el apoyo del Ministerio de Sanidad y Consumo, el 9,24% de la población adulta sufre algún grado de ERC. El 6,83% de la población presenta una disminución del filtrado glomerular (FG) por debajo de 60 ml/min/1,73 m2, siendo este porcentaje del 20,6% en mayores de 64 años. Además de la elevada prevalencia, la ERC se asocia a una importante morbimortalidad cardiovascular, así como a costes muy significativos. En España el coste anual asociado al tratamiento de las fases más avanzadas de la ERC se estima en más de 800 millones de euros anuales.
+El hecho de plasmar en un documento tanto las estrategias de detección de la ERC, como aquellas situaciones de riesgo con mayor probabilidad de progresar a enfermedad renal terminal o mayor morbimortalidad ayudará sin duda a detectar precozmente a aquellos individuos con mayor riesgo de progresión renal o de presentar complicaciones cardiovasculares. Igualmente, el establecimiento de estrategias de prevención y manejo de la ERC y sus complicaciones por parte de atención primaria, así como los criterios para la adecuada remisión de pacientes a nefrología, completarán los aspectos abordados en este documento. Su finalidad es, pues, la prevención, detección, remisión al especialista y manejo de la ERC, con el fin de mejorar la salud renal y el pronóstico de nuestros pacientes.
+Este documento de consenso surge de la necesidad de revisar y actualizar el anterior de SEN-Sociedad Española de Medicina de Familia y Comunitaria (SEMFyC) de 2007 sobre ERC, después de revisar exhaustivamente la literatura más reciente y las últimas recomendaciones de práctica clínica. La metodología empleada en él se ha basado en la revisión crítica de las principales guías clínicas sobre ERC y en el apoyo ocasional de los escasos estudios aleatorizados en pacientes con ERC.
+Hemos creído oportuno implicar en su redacción a las sociedades científicas que incluyen entre sus objetivos el cuidado del enfermo renal y, por ello, surge el consenso entre las 10 sociedades firmantes. Cada una de ellas ha nombrado a sus representantes (que figuran como autores) en la redacción del documento, que después ha sido sometido a la aprobación de sus respectivas juntas directivas. El documento ha estado expuesto en las páginas Web de las 10 sociedades, abierto a las posibles sugerencias de los miembros de cada una. Dichas sugerencias han sido incorporadas al texto íntegro definitivo y enviadas igualmente para ser expuestas en las respectivas páginas Web de las sociedades firmantes.
+El que ahora publicamos es un resumen más abreviado del documento original.
+
+
+- ENFERMEDAD RENAL CRÓNICA: DEFINICIÓN Y EPIDEMIOLOGÍA
+
+Todas las guías consultadas, , incluidas las actuales guías Kidney Disease Improving Global Outcomes (KDIGO) 2012, publicadas en enero de 2013, han confirmado la definición de ERC (independientemente del diagnóstico clínico) como la presencia durante al menos 3 meses de:-Filtrado glomerular estimado (FGe) inferior a 60 ml/min/1,73 m2.-O lesión renal.
+La lesión renal se puede poner de manifiesto directamente a partir de alteraciones histológicas en la biopsia renal, o indirectamente por la presencia de albuminuria, alteraciones en el sedimento urinario o a través de técnicas de imagen.
+En España se estimó que el 9,24% de la población adulta padece algún grado de ERC, siendo el porcentaje sobre la población general del 6,83% con ERC en estadios 3-5. La prevalencia de la ERC aumenta por el envejecimiento de la población, el incremento de la prevalencia de sus factores de riesgo, como la enfermedad cardiovascular, la diabetes mellitus (DM), la hipertensión arterial (HTA) o la obesidad y, obviamente, por su diagnóstico precoz. Se estima que la terapia sustitutiva renal consume el 2,5% del presupuesto del Sistema Nacional de Salud y más del 4% de atención especializada.
+
+
+-- FACTORES DE RIESGO DE LA ENFERMEDAD RENAL CRÓNICA
+
+El modelo conceptual continuo de la ERC incluye factores de riesgo para cada una de sus fases, que se clasifican en factores de susceptibilidad, iniciadores, de progresión y de estadio final . Algunos factores de riesgo pueden ser a la vez de susceptibilidad, iniciadores y de progresión, como por ejemplo la HTA.
+
+
+-- CRIBADO DE LA ENFERMEDAD RENAL CRÓNICA
+
+El cribado de la ERC en poblaciones de riesgo debe hacerse mediante la evaluación del FGe y de la albuminuria al menos una vez al año. El diagnóstico no ha de basarse en una única determinación de FGe y/o albuminuria y siempre debe confirmarse.
+Recomendamos el cribado de la ERC en pacientes con HTA, DM tipo 2 o enfermedad cardiovascular establecida. Asimismo, se aconseja su cribado en personas mayores de 60 años, obesas (índice de masa corporal [IMC] > 35 kg/m2), con DM tipo 1 con más de 5 años de evolución, familiares de primer grado de pacientes con enfermedad renal o con enfermedades renales hereditarias, enfermedades obstructivas del tracto urinario, pacientes en tratamiento prolongado con fármacos nefrotóxicos (incluidos antiinflamatorios no esteroideos [AINE]), sujetos con otros factores de riesgo de enfermedad cardiovascular (hiperlipidemia, síndrome metabólico, fumadores), antecedentes de insuficiencia renal aguda, así como aquellos con infecciones crónicas, enfermedades autoinmunes y neoplasias que estén asociadas a ERC.
+
+
+- DIAGNÓSTICO DE LA ENFERMEDAD RENAL CRÓNICA
+
+-- ESTIMACIÓN DEL FILTRADO GLOMERULAR
+
+La concentración de creatinina sérica no se debería utilizar como única prueba para evaluar la función renal, siendo el FG la mejor herramienta para hacerlo. El cálculo del FG a partir del aclaramiento de creatinina (medición de la concentración de creatinina en suero y orina de 24 h) presenta una serie de inconvenientes, como son la sobreestimación del FG y la problemática que supone la recogida de orina de 24 h tanto para el paciente como para los laboratorios. La medida del aclaramiento de creatinina mediante la recogida de orina de 24 h no mejora, salvo en determinadas circunstancias, la estimación del FG a partir de ecuaciones.
+Recomendamos la estimación del FG mediante ecuaciones obtenidas a partir de la medida de la concentración de creatinina sérica, la edad, el sexo y la etnia. Estas ecuaciones son más exactas que la medida de la creatinina sérica aislada. Las más utilizadas son las derivadas del estudio Modification of Diet in Renal Disease (MDRD-4 o MDRD-IDMS), en función de si el método usado por el laboratorio para la medida de la creatinina sérica presenta o no trazabilidad frente al procedimiento de medida de referencia de espectrometría de masas-dilución isotópica (IDMS), siendo recomendable este último.
+La ecuación Chronic Kidney Disease-Epidemiology Collaboration (CKD-EPI), usando también métodos de creatinina estandarizados, proporciona ventajas adicionales respecto al MDRD-IDMS, dado que presenta una mayor exactitud y mejora la capacidad predictiva del FG (especialmente entre valores de 60 y 90 ml/min/1,73 m2), así como la predicción de mortalidad global y cardiovascular o del riesgo de presentar ERC terminal. Por ello se considera que CKD-EPI debería sustituir las fórmulas anteriores . Las nuevas guías KDIGO 2012 consideran aceptable el uso de fórmulas alternativas si se ha mostrado que mejoran la exactitud en comparación con la fórmula de CKD-EPI.
+Esta ecuación ha mostrado su superioridad frente a otras de estimación del FG basadas en la concentración sérica de creatinina (MDRD), cistatina C o en la combinación de ambas, , , .
+El uso de la ecuación de Cockcroft-Gault (C-G), aunque se ha utilizado clásicamente en el ajuste de dosis de fármacos y ha sido referencia para la valoración de estados de hiperfiltración, debería desaconsejarse. Dicha ecuación no ha sido reformulada para valores de creatinina obtenidos por procedimientos adecuados y no puede ser reexpresada para los métodos actuales de medida de creatinina, por lo que no debería usarse. Las ecuaciones CKD-EPI o MDRD-IDMS pueden ser utilizadas con este fin, ya que se basan en procedimientos de medida de creatinina estandarizados. El FG obtenido a partir de MDRD o CKD-EPI es útil en cuanto al ajuste de dosis de fármacos, pues correlaciona mejor que el obtenido por C-G para valores inferiores a 60 ml/min/1,73 m2, que son los mayoritariamente susceptibles de necesidad de ajuste de dosis y están disponibles en los informes de los laboratorios clínicos, al contrario que C-G, , , .
+Los valores obtenidos mediante las ecuaciones de MDRD o CKD-EPI están ajustados a superficie corporal (SC) para 1,73 m2. Pero en el caso de necesidad de utilizar la fórmula o de ajustar fármacos especialmente tóxicos o con escaso margen terapéutico en pacientes con desviaciones importantes de la SC, los valores del FG no se deberían estandarizar a 1,73 m2. En estos casos basta con multiplicar el resultado del laboratorio expresado en ml/min/1,73 m2 por el cociente de la SC real del paciente dividida por 1,73 m2 (FG × SC/1,73 m2).
+En general, el uso de las ecuaciones para la estimación del FG (MDRD y CKD-EPI) es inadecuado en una serie de situaciones clínicas, especialmente en personas con peso corporal extremo (IMC < 19 kg/m2 o > 35 kg/m2), dietas especiales o malnutrición, alteraciones de la masa muscular, amputaciones < 18 años, hepatópatas, embarazadas, fracaso renal agudo y en el estudio de potenciales donantes de riñón. En estos casos, para una adecuada medida de la función renal se requerirá la recogida de orina de 24 h para el cálculo del aclaramiento de creatinina.
+Hasta ahora ninguna guía de práctica clínica ha incluido el uso de cistatina C o FG estimado a partir de ella como parámetro de cribado de la ERC, pero las nuevas guías KDIGO 20126 sugieren la medida de cistatina C en adultos con FG entre 45 y 59 ml/min/1,73 m2, sin otros marcadores de lesión renal, si se requiere una confirmación diagnóstica de ERC. Se debería usar entonces la ecuación CKD-EPI para cistatina C recientemente publicada.
+
+
+-- EVALUACIÓN DE LA LESIÓN RENAL
+
+--- ALBUMINURIA (EXCRECIÓN URINARIA DE ALBÚMINA
+
+La albuminuria constituye, junto con el FG, la base del diagnóstico y estadificación actual de la ERC. La presencia de concentraciones elevadas de proteína o albúmina en la orina, de forma persistente, no solo es un signo de lesión renal, sino muchas veces también de «daño sistémico», más allá del riñón. Distintos estudios han mostrado la importancia de la proteinuria en la patogenia de la progresión de la ERC, así como la relación de la albuminuria con el pronóstico renal y con la mortalidad en diversas poblaciones de modo independiente del FG y otros factores de riesgo clásicos de enfermedad cardiovascular.
+Recomendamos prescindir del uso de términos como micro o macroalbuminuria y emplear el término de albuminuria o excreción urinaria de albúmina, y el valor absoluto del cociente albúmina/creatinina en orina (CAC), preferentemente en la primera orina de la mañana. El CAC es un marcador más sensible que la proteinuria en el contexto de ERC secundaria a DM, HTA o enfermedad glomerular, que son las causas más frecuentes de ERC en el adulto.
+En el caso de pacientes con ERC diagnosticada y proteinuria significativa (por ejemplo, CAC > 300-500 mg/g), se podría realizar la monitorización a partir del cociente proteínas/creatinina en orina por tratarse de una determinación más económica y porque, a medida que se incrementa la proteinuria, especialmente en proteinuria nefrótica, el CAC es menos sensible. También se recomienda la utilización del cociente proteínas/creatinina en orina en pacientes con sospecha de enfermedad intersticial y de nefrotoxicidad por antirretrovirales, ya que en ambas situaciones la proteinuria está constituida fundamentalmente por proteínas de bajo peso molecular, diferente a la albúmina. Para considerar que una persona tiene albuminuria son necesarios 2 valores elevados en 3 muestras obtenidas durante un período de 3 a 6 meses.
+El valor y la persistencia de la albuminuria se relacionan estrechamente con el pronóstico renal y vital de los pacientes con ERC, pero también debemos considerar que la albuminuria es un marcador importante e independiente de riesgo cardiovascular global (disfunción endotelial, remodelado arterial), y no únicamente de enfermedad renal. La presencia única de albuminuria, sin ninguna otra manifestación de daño renal, está puesta en entredicho por varios autores como un criterio único y específico de ERC, ya que se puede detectar en otras enfermedades (obesidad, tabaquismo, dermatitis, artritis).
+Debe recordarse que la determinación de proteinuria incluye no solo la cuantificación de albúmina, sino también la de proteínas de bajo peso molecular, como proteínas de origen tubular o cadenas ligeras de inmunoglobulinas.
+
+
+--- ALTERACIONES EN EL SEDIMENTO URINARIO
+
+La presencia en el sedimento urinario de hematuria y/o leucocituria durante más de 3 meses, una vez se ha descartado la causa urológica o la infección de orina (incluida la tuberculosis urinaria), puede ser también indicio de ERC.
+
+
+--- IMÁGENES RADIOLÓGICAS PATOLÓGICAS
+
+La ecografía renal permite, en primer lugar, descartar la presencia de enfermedad obstructiva de la vía urinaria, pero también identificar anormalidades estructurales que indican la presencia de daño renal. Los quistes renales simples aislados no son un criterio por ellos mismos de daño renal.
+
+
+--- ALTERACIONES HISTOLÓGICAS
+
+La indicación de biopsia forma parte del ámbito del especialista en nefrología.
+
+
+-- NUEVA ESTADIFICACIÓN DE LA ENFERMEDAD RENAL CRÓNICA
+
+Recientemente, a partir de los resultados de distintos estudios clínicos que incluyen individuos normales, individuos con riesgo de desarrollar ERC y pacientes con ERC, la organización internacional KDIGO ha establecido una nueva clasificación pronóstica de la ERC basada en estadios de FGe y albuminuria. Esta clasificación contempla una división de 6 categorías de riesgo en función del FGe (G1-G5), que se complementan con 3 categorías de riesgo según la concentración del CAC: A1 para valores óptimos o normales-altos (< 30 mg/g o < 3 mg/mmol); A2 para valores moderadamente aumentados (30-299 mg/g o 3-29 mg/mmol); y A3 para valores muy aumentados (≥ 300 mg/g o ≥ 30 mg/mmol), respectivamente .
+
+
+- DEFINICIÓN DE PROGRESIÓN DE LA ENFERMEDAD RENAL CRÓNICA
+
+La tasa media de disminución anual del FG es muy variable, siendo mayor en pacientes con proteinuria importante, DM o HTA.
+
+
+-- PUNTOS CLAVE
+
+
+
+
+- PREDICTORES DE PROGRESIÓN
+
+Los factores predictores de progresión renal se muestran en la tabla 5 , , , , , , , , , , , .
+
+
+- CRITERIOS DE DERIVACIÓN A NEFROLOGÍA (<XREF RID="FIG0005" REF-TYPE="FIG">FIG. 1</XREF
+
+La derivación a nefrología se hará teniendo en cuenta el estadio de ERC, la velocidad de progresión de la insuficiencia renal, el grado de albuminuria, la presencia de signos de alarma, la comorbilidad asociada y la situación funcional del paciente, , .Figura 1
+En líneas generales se deberán remitir al especialista en nefrología los pacientes con FGe < 30 ml/min/1,73 m2 (excepto > 80 años sin progresión renal, albuminuria < 300 mg/g).
+Según filtrado glomerular:-Todos los pacientes con FGe < 30 ml/min/1,73 m2, excepto los pacientes > 80 años sin progresión renal.-Pacientes > 80 años y con FGe < 20 ml/min/1,73 m2, si su situación general lo aconseja, se pueden remitir para una valoración nefrológica y pactar el tratamiento. Se recomienda que el paciente candidato se remita a nefrología al menos un año antes del inicio de la terapia sustitutiva renal. Aunque este período no es fácil de calcular, la presencia de progresión renal (ver el punto clave 5) puede servir de guía. El objetivo es evitar que un paciente candidato a terapia sustitutiva renal requiera diálisis no programada.
+Los pacientes < 70 años con FGe entre 30-45 ml/min/1,73 m2 deberán realizarse una monitorización más frecuente (cada 3-6 meses) y remitirse a nefrología solo en caso de progresión de la albuminuria en 2 controles consecutivos o cociente CAC cercano a 300 mg/g.
+Según albuminuria: cociente CAC > 300 mg/g, equivalente a proteinuria > 300 mg/24 h.
+Otros motivos:-Deterioro agudo en la función renal (caída del FGe > 25%) en menos de un mes, descartados factores exógenos (diarrea, vómitos, depleción por diuréticos en tratamiento con IECA o ARA II, o inhibidores directos de la renina).-Pacientes que presenten progresión renal (> 5 ml/min/año) (ver definición arriba).-ERC e HTA refractaria al tratamiento (> 140/90 mm Hg) con 3 fármacos a plena dosis, uno de ellos diurético.-Alteraciones en el potasio (> 5,5 mEq/l o < 3,5 mEq/l sin recibir diuréticos).-Anemia: hemoglobina [Hb] < 10,5 g/dl con ERC a pesar de corregir ferropenia (índice de saturación de transferrina [IST] > 20% y ferritina > 100).-Presencia de signos de alarma:∘Hematuria no urológica asociada a proteinuria.∘Disminución del FGe > 25% en menos de un mes o un incremento de la creatinina plasmática > 25% en menos de un mes, descartados factores exógenos (diarrea, vómitos, depleción por diuréticos en tratamiento con IECA o ARA II, o inhibidores directos de la renina).
+El seguimiento podrá ser en atención primaria o conjunto, según los casos.
+
+
+-- EN EL CASO DE PACIENTES ANCIANOS (> 80 AÑOS
+
+Dado que la progresión de la ERC en población anciana es muy poco frecuente, se puede aceptar que los pacientes mayores de 80 años con función renal estable o con lento deterioro de esta (< 5 ml/min/año) sin proteinuria ni anemia o signos de alarma pueden llevar seguimiento con actitud conservadora en atención primaria, .
+En el mismo sentido, los pacientes ancianos con ERC estadio 5 con expectativa de vida corta (< 6 meses), mala situación funcional (dependencia de las actividades de la vida diaria, demencia, etc.), comorbilidad asociada grave o que no acepten diálisis podrán ser subsidiarios de tratamiento paliativo bien en atención primaria, bien compartido con nefrología.
+
+
+-- EN EL CASO DE PACIENTES DIABÉTICOS
+
+La derivación a nefrología se hará teniendo en cuenta los criterios anteriores y además se remitirá a todo paciente con:-Albuminuria: CAC (confirmada) > 300 mg/g, a pesar de un adecuado tratamiento y control de la presión arterial (PA).-Aumento de la albuminuria a pesar de un tratamiento adecuado.-HTA refractaria (3 fármacos a dosis plenas y ausencia de control).
+
+
+-- INDICACIONES DE SOLICITUD DE ECOGRAFÍA DESDE ATENCIÓN PRIMARIA
+
+Bien para su seguimiento en atención primaria, bien para su derivación a nefrología, se considera pertinente la solicitud de ecografía en el estudio diagnóstico de la ERC. Sus indicaciones son:-ERC progresiva (disminución del FGe > 5 ml/min/1,73 m2 en un año).-Hematuria macroscópica o albuminuria persistente.-Sintomatología de obstrucción del tracto urinario.-Edad > 15 años e historia familiar de riñones poliquísticos.-Estadio 4 o 5. Valorar previamente comorbilidades asociadas.-ERC con proteinuria.-Infecciones urinarias de repetición con participación renal.
+
+
+- MONITORIZACIÓN Y SEGUIMIENTO DE PACIENTES CON ENFERMEDAD RENAL CRÓNICA
+
+La frecuencia de la monitorización y las visitas de los pacientes con ERC se muestra en la tabla 6. En cualquier caso, es necesario individualizar estos criterios generales.
+En cada revisión en atención primaria se recomienda:
+Se procurará compaginar las extracciones para no repetirlas. Se proporcionará al paciente un informe o, en su defecto, copia de los análisis. Si las revisiones en nefrología se realizan mensualmente, no es necesario repetir los análisis en atención primaria.
+En la tabla 7 se muestran los objetivos en la monitorización y seguimiento de pacientes con ERC según los estadios.
+
+
+- PREVENCIÓN DE LA NEFROTOXICIDAD
+
+Una vez que el paciente es diagnosticado de ERC lo más importante es evitar que esta evolucione, y para ello tendremos que conocer que existen fármacos usados en la práctica diaria, y más concretamente en estos pacientes, que pueden provocar empeoramiento de esta entidad. Por otra parte, el uso de contrastes intravenosos de una manera indiscriminada y sin preparación previa puede provocar la nefropatía inducida por contraste. Por ello hay que evitar el uso de nefrotóxicos y minimizar el efecto y el uso de los contrastes intravenosos.
+
+
+-- EVITAR NEFROTÓXICOS Y TENER PRECAUCIÓN CON FÁRMACOS QUE ALTEREN LA HEMODINÁMICA GLOMERULAR
+
+1.Evitar la hiperpotasemia asociada a fármacos. Especial precaución debe tenerse con la asociación de un diurético ahorrador de potasio (espironolactona, amiloride, eplerenona) a otro fármaco que retenga potasio (IECA, ARA II, inhibidores directos de renina, AINE, bloqueadores beta). En estos casos la monitorización frecuente del potasio sérico es obligada.2.Evitar el uso de fármacos que producen depleción brusca de volumen y que pueden provocar daño tubular, sobre todo en situaciones de deshidratación, así como aquellos con efecto directo negativo sobre el túbulo (aminoglucósidos, tacrolimus, ciclosporina A).3.Se debe hacer especial énfasis en evitar el uso innecesario de AINE, por el riesgo de deterioro de la función renal.4.Ajustar los fármacos al FG, especialmente en el anciano y en el diabético. En estos pacientes deben utilizarse con precaución la metformina (debe evitarse su inicio con FGe < 30 ml/min/1,73 m2) y los antidiabéticos orales de eliminación renal, los nuevos anticoagulantes, los antibióticos nefrotóxicos y algunas heparinas. Muchos fármacos producen nefrotoxicidad directa y su efecto deletéreo se agrava con la asociación de aquellos que interfieren la hemodinámica glomerular. Es muy importante evitarlos en situaciones de riesgo o ajustar su dosis según el FGe (aminoglucósidos, vancomicina, aciclovir, tenofovir, anfotericina, etc.). Se puede consultar el listado de fármacos para ajustar la dosis en la siguiente página web: http://nefrologiadigital.revistanefrologia.com/modules.php?name=libro&op=viewCap& idpublication=1&idedition=13&idcapitulo=109.
+
+
+-- MINIMIZAR EL USO DE CONTRASTES INTRAVENOSOS
+
+La nefropatía inducida por contraste se define como un deterioro de la función renal traducida en un aumento relativo de la creatinina de un 25% o un aumento absoluto de creatinina de 0,5 mg/dl respecto a la basal, que ocurre durante los 3 primeros días tras la administración de contraste y que no se debe a ningún otro mecanismo. Se produce por toxicidad directa sobre las células tubulares.
+El aspecto más importante para prevenir la nefropatía por contraste es detectar a aquellos pacientes en riesgo de desarrollarla (edad avanzada, insuficiencia cardíaca, DM, insuficiencia renal previa, deshidratación, infarto agudo de miocardio, shock, volumen de contraste, anemia, hipotensión, uso de nefrotóxicos y altas dosis de diuréticos, cuidado con fármacos que alteren la hemodinámica glomerular y evitar hipotensión). El mejor tratamiento es la prevención, evitando situaciones de riesgo. Se recomienda la suspensión de diuréticos al menos 4-6 días antes de la administración de contraste, así como una correcta hidratación mediante fluidoterapia intravenosa e hidratación oral. Algunos fármacos pueden ser potencialmente tóxicos tras la administración de contraste, como por ejemplo la metformina. No obstante, en la actualidad, no existe evidencia suficiente para tener que suspender la metformina en pacientes con función renal previa normal a los que se les administra una cantidad «moderada» de contraste, aunque algunos autores lo sugieren.
+
+
+- ACTITUDES, ESTILO DE VIDA Y TRATAMIENTO
+
+-- EJERCICIO FÍSICO
+
+Como norma general, se recomienda realizar 30-60 min de ejercicio moderado de 4 a 7 días por semana. Cuando la enfermedad renal está establecida el ejercicio debe adaptarse a la capacidad física de cada paciente.
+
+
+-- DIETA
+
+Las recomendaciones dietéticas deben individualizarse para evitar sobrepeso u obesidad, pero también según la función renal del paciente y la existencia de otros factores de riesgo en los que esté indicada alguna restricción específica.-ERC 1-3: solo se recomiendan dietas hiposódicas en caso de HTA y/o insuficiencia cardíaca.-ERC 4-5: recomendaciones dietéticas sobre el sodio, el fósforo, el potasio y las proteínas.
+Las necesidades energéticas son similares a las de la población general. La información disponible sugiere que la restricción proteica retrasa la progresión de la insuficiencia renal y debería empezar a aplicarse cuando el FG cae por debajo de los 30 ml/min, salvo en casos de proteinuria por hiperfiltración, en cuyo caso debe instaurarse mucho antes, incluso con función renal normal. Debe ajustarse el contenido en proteínas a 0,8 g/kg/día (al menos la mitad deben ser proteínas animales de alto valor biológico), pero con alto contenido calórico con base en grasas (mono y poliinsaturadas) e hidratos de carbono, si no existe intolerancia hidrocarbonada o dislipidemia que exija ajustes adicionales. La aportación adecuada de proteínas en pacientes con ERC es de 0,8 g/kg de peso, el 50% de las cuales debe ser de alto valor biológico, es decir, de origen animal; el otro 50% debe completarse con las proteínas que contienen el resto de los alimentos incluidos en la dieta (de origen vegetal). Por otra parte, el uso de dietas de alto contenido proteico, así como de fármacos que produzcan reducción del peso puede producir efectos adversos en la ERC.
+El consumo diario de sal ha de ser menor de 6 g (equivale a 2,4 g de sodio). En fases iniciales de la enfermedad renal una restricción de sal más estricta se aplicará únicamente a los pacientes hipertensos. La dieta debe completarse con restricción de potasio y fósforo y aporte de vitamina D.
+En pacientes con ERC en hemodiálisis (HD) la ingesta proteica puede aumentar hasta 1,2 g/kg de peso para favorecer un adecuado balance proteico, evitar el desgaste calórico-energético y lograr un adecuado estado nutricional.
+
+
+-- ALCOHOL
+
+No se considera perjudicial una ingesta moderada de alcohol, como en la población general, lo que supone unos 12 a 14 g de etanol (aproximadamente 300 cc de cerveza o 150 cc de vino). Pero hay que tener en cuenta no solo las calorías presentes en el alcohol, sino también la cantidad de líquido y el contenido en azúcar, potasio, fósforo y sodio, que debe limitarse en muchos pacientes según los factores de riesgo asociados y el grado de insuficiencia renal que presenten.
+
+
+- OBJETIVOS ESPECÍFICOS DE TRATAMIENTO
+
+-- HIPERTENSIÓN ARTERIAL EN LA ENFERMEDAD RENAL CRÓNICA: OBJETIVOS DE TRATAMIENTO<XREF RID="BIB0025" REF-TYPE="BIBR">5</XREF>, <XREF RID="BIB0160" REF-TYPE="BIBR">32</XREF>, <XREF RID="BIB0180" REF-TYPE="BIBR">36</XREF
+
+-En pacientes con ERC el objetivo del tratamiento antihipertensivo es triple: reducción de la PA, reducción del riesgo de complicaciones cardiovasculares y enlentecimiento de la progresión de la ERC.-En pacientes con ERC y un CAC < 30 mg/g se recomienda un objetivo de control de la PA ≤ 140/90 mm Hg. Si el CAC es ≥ 30 mg/g se sugiere un objetivo más estricto, con PA ≤ 130/80 mm Hg, tanto en pacientes con DM como sin DM.-Se aconsejan como fármacos de primera elección aquellos que bloqueen las acciones del sistema renina angiotensina, bien IECA bien ARA.-Se recomienda la utilización de combinaciones de fármacos antihipertensivos para alcanzar los objetivos de control. Dicha combinación debe incluir un diurético, tiazídico o de asa según la gravedad de la ERC.
+
+
+-- MANEJO DE LA HIPERGLUCEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+--- OBJETIVOS DE MANEJO
+
+---- ¿CÓMO VALORAR EL CONTROL METABÓLICO
+
+La hemoglobina glucosilada A1C (HbA1C) es el parámetro de referencia para valorar el control metabólico en el paciente con insuficiencia renal crónica (IRC), teniendo presentes los factores que limitan su utilidad como marcador de control glucémico, como las transfusiones y el tratamiento con eritropoyetina (EPO), , , , , .
+
+
+---- OBJETIVOS DE CONTROL GLUCÉMICO
+
+Las guías recomiendan que en los pacientes con DM de poco tiempo de evolución, y sin disminución de la expectativa de vida, el objetivo debe ser HbA1C < 7 (< 53 mmol/mol).
+Por el contrario, para los pacientes con DM de larga evolución con historia previa de mal control glucémico, o con una condición que les disminuya las expectativas de vida, se debe individualizar el objetivo de control, evitando las estrategias terapéuticas que supongan un incremento inaceptable del riesgo de hipoglucemia.
+No hay evidencias que indiquen cuál es el nivel óptimo de HbA1C para los pacientes en diálisis.
+Hay que tener en cuenta que el riesgo de presentar hipoglucemia grave en pacientes con insuficiencia renal en tratamiento intensivo es muy alto y está favorecido por la disminución en la ingesta, los cambios en los horarios de comidas y la presencia de neuropatía autonómica.
+
+
+--- ANTIDIABÉTICOS ORALES<XREF RID="BIB0215" REF-TYPE="BIBR"><SUP>43</SUP></XREF
+
+---- SECRETAGOGOS
+
+Las sulfonilureas (SU) no son el fármaco de primera elección en la insuficiencia renal.
+Glibenclamida y glimepirida son metabolizadas en el hígado a metabolitos más débiles, pero de eliminación urinaria, por lo que su uso incluso en dosis bajas no es aconsejable en pacientes con IRC.
+La glipizida es metabolizada a metabolitos inactivos; en consecuencia, sería la única SU que se puede administrar en IRC, pero su uso no está permitido con FG más bajos (CCr < 30 ml/m).
+La repaglinida tiene un metabolismo hepático con menos de un 10% de eliminación renal. A pesar de ello, cuando se instaure su tratamiento se debe iniciar con una dosis baja de 0,5 mg.
+
+
+---- METFORMINA
+
+La metformina se elimina principalmente por la orina sin metabolizarse. En la ficha técnica se recomienda no utilizar con FGe < 60 ml/min, recomendación que no suele seguirse en la práctica clínica habitual. Con FGe < 45 ml/min se recomienda controlar la glucemia y la función renal frecuentemente y no administrarla con FGe < 30 ml/min.
+
+
+---- INHIBIDORES DE Α-GLUCOSIDASA
+
+Tanto la acarbosa como el miglitol, como sus metabolitos, se acumulan en la insuficiencia renal, por lo que su uso no está recomendado.
+
+
+---- GLITAZONAS
+
+Las glitazonas tienen un metabolismo hepático, excretándose menos del 2% por la orina. En consecuencia, no hay acumulación de metabolitos activos en la insuficiencia renal. Sin embargo, dado que su uso aumenta el riesgo de edema, insuficiencia cardíaca y osteoporosis, su uso está limitado en estos pacientes y contraindicado en aquellos en diálisis.
+
+
+---- INHIBIDORES DE LA DIPEPTIDIL PEPTIDASA 4
+
+Con un FGe por encima de 50 ml/min/1,73 m2 ninguna gliptina precisa ajuste. Sitagliptina, vildagliptina y saxagliptina precisan ajuste de dosis cuando el FG es menor de 50 ml/min.
+Sitagliptina se debe usar a dosis de 50 y 25 mg cuando el FG está entre 50 y 30 ml/min y por debajo de 30 ml/min, respectivamente.
+Vildagliptina se debe emplear a dosis de 50 mg por debajo de 50 ml/min, incluida la ERC terminal que precise diálisis.
+Saxagliptina se ha de emplear a dosis de 2,5 mg en los pacientes con FG inferior a 50 ml/min. Saxagliptina no tiene indicación de uso en pacientes con ERC terminal o diálisis.
+Linagliptina no precisa ajuste de dosis en todos los estadios de la ERC.
+
+
+---- AGONISTAS GLP-1 4 DEL PÉPTIDO SIMILAR AL GLUCAGÓN TIPO 1
+
+En el caso de liraglutida está indicada solo en pacientes con FGe > 60 ml/min/1,73 m2. La experiencia con liraglutida y exenatida en este campo es muy escasa.
+
+
+---- INSULINA
+
+Las necesidades de insulina son muy variables, por lo que la individualización del tratamiento es esencial. Como normas iniciales que deben adaptarse a cada paciente mediante la monitorización de glucosa, podemos señalar:CCr > 50: no se precisa ajuste de dosis.CCr 50-10: precisará una reducción del 75% de la dosis previa de insulina.CCr < 10: precisará una reducción del 50% de la dosis previa de insulina.
+El régimen de insulina se adaptará al objetivo de control y puede ser una terapia convencional o un tratamiento intensivo, si bien conviene recordar que la pauta bolo-basal es la que presenta una tasa de hipoglucemias más baja.
+
+
+-- OBJETIVOS Y MANEJO DE LA DISLIPIDEMIA
+
+Uno de los factores que empeoran el daño renal y aceleran el deterioro funcional renal es la dislipidemia, independientemente de su efecto promotor de la arterioesclerosis.
+
+
+--- ESTRATIFICACIÓN DEL RIESGO
+
+De acuerdo con las últimas guías europeas, los sujetos con ERC deben considerarse de alto o muy alto riesgo cardiovascular, sin requerir aplicar escalas de riesgo. Así, la presencia de ERC con FG < 60 ml/min/1,73 m2 clasifica al sujeto como de muy alto riesgo cardiovascular.
+Debe realizarse sistemáticamente un cribado de dislipidemia. Aunque el colesterol ligado a lipoproteínas de baja densidad (LDL) es el principal predictor de riesgo, el colesterol no-ligado a lipoproteínas de alta densidad (HDL) puede serlo mejor, al igual que ocurre en los diabéticos o en el síndrome metabólico.
+
+
+--- EVIDENCIAS DEL BENEFICIO DE TRATAR LA DISLIPIDEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+Datos obtenidos de análisis post hoc apoyan la capacidad de las estatinas de reducir las complicaciones cardiovasculares en pacientes con estadios de ERC 2 y 3, .
+Los resultados en estadios 4 y 5 o en HD no son tan claros, . Sin embargo, en el Study of Heart and Renal Protection (SHARP) se observó una reducción del 17% en los eventos cardiovasculares en los sujetos con ERC estadios 3, 4 y 5 tratados con simvastatina-ezetimiba frente a placebo. Esta reducción no se observó en aquellos pacientes bajo tratamiento con diálisis.
+
+
+--- RECOMENDACIONES SOBRE ESTILO DE VIDA
+
+La dieta es el determinante principal de los niveles de colesterol. El consejo básico es, pues, el dietético. Se recomienda que el 30% o menos de las calorías totales procedan de alimentos grasos y que menos de un 10% sean grasas saturadas. En cuanto al consumo de colesterol se aconseja que no se consuman más de 300 mg diarios.
+
+
+--- FÁRMACOS HIPOLIPIDEMIANTES Y ENFERMEDAD RENAL CRÓNICA
+
+---- ESTATINAS
+
+En el caso de las estatinas no es necesario ajuste de dosis, salvo en ERC en estadios muy avanzados, , y solamente para aquellas de eliminación renal. Constituyen el tratamiento de elección. La ERC, al igual que la edad avanzada, el sexo femenino, un IMC bajo, la disfunción hepática, el consumo de alcohol, las enfermedades sistémicas y el hipotiroidismo aumenta el riesgo de efectos secundarios, que por otro lado no son frecuentes.
+Los fármacos de eliminación hepática serían de elección (fluvastatina, atorvastatina, pitavastatina y ezetimiba). Las estatinas metabolizadas vía CYP3A4 (atorvastatina, lovastatina, simvastatina) pueden aumentar los efectos secundarios por potenciar las interacciones farmacológicas cuando se administran con determinados fármacos inductores (fenitoína, fenobarbital, barbitúricos, rifampicina, dexametasona, ciclofosfamida, carbamacepina, omeprazol) o inhibidores.
+En el caso de pacientes portadores de un trasplante renal deben tenerse en cuenta determinadas interacciones, particularmente con ciclosporina y estatinas como atorvastatina, lovastatina y simvastatina, ya que pueden aumentar sus niveles y el riesgo de miopatía. Fluvastatina, pravastatina, pitavastatina y rosuvastatina tienen menos probabilidad de interaccionar. Aunque tacrolimus se metaboliza también por el CYP3A4, parece que posee menos riesgo de interaccionar con estatinas. En estos pacientes las estatinas deberán iniciarse a bajas dosis, titularse con cautela y vigilarse las interacciones.
+
+
+---- FIBRATOS
+
+La mayor parte de las guías recomiendan como fibrato de elección el gemfibrozilo y evitar el resto. El riesgo de miopatía se incrementa en más de 5 veces al asociarse a estatina y es mayor en caso de ERC. La asociación con estatinas puede provocar fracaso renal agudo por rabdomiólisis. En caso de requerirse la asociación, debe utilizarse fenofibrato y realizarse una monitorización estrecha. La dosis habitual de gemfibrocilo es de 600 mg/día y puede emplearse en pacientes con FG entre 15-59 ml/min. Se desaconseja su uso si el FG es < 15 ml/min. No obstante, dada la escasa evidencia del beneficio cardiovascular del tratamiento de la hipertrigliceridemia con fibratos y sus potenciales efectos secundarios, no se recomienda el tratamiento con fibratos en la ERC, especialmente cuando se asocien a estatinas.
+
+
+---- EZETIMIBA
+
+Su eficacia junto con simvastatina ha sido demostrada en pacientes con ERC en el SHARP51. No se requiere ajuste de dosis en insuficiencia renal.
+
+
+--- OBJETIVOS DE CONTROL
+
+La ERC es un equivalente de riesgo coronario; por lo tanto, los objetivos son los mismos que en el paciente con cardiopatía isquémica.
+El objetivo terapéutico en el paciente con ERC (FG < 60 ml/m) es un colesterol LDL < 70 mg/dl o una reducción del 50% si el objetivo previo no es alcanzable. No obstante, recientemente las guías KDIGO para el tratamiento de la dislipidemia en la ERC recomiendan la terapia con estatinas a todos los adultos > 50 años, independientemente de los niveles de colesterol LDL. Basado en el estudio SHARP y en análisis post hoc de ensayos clínicos con estatinas frente a placebo que estudian a los pacientes con ERC se establece una estrategia de «tratar el riesgo cardiovascular». De la misma forma, no recomiendan iniciar tratamiento con estatinas en pacientes con ERC estadio 5 en diálisis.
+Tras la elaboración del presente documento se han publicado las nuevas guías internacionales sobre el manejo de la dislipidemia en la ERC —Kidney Int Suppl. 2013;3(3):259-305.—, que sugieren no perseguir objetivos, sino una estrategia de «actuar».
+
+
+-- TABAQUISMO
+
+El hábito de fumar representa uno de los factores directos involucrados en la progresión de la enfermedad renal y se han publicado datos de asociación entre este hábito y el deterioro de la función renal en población general (estudio MRFIT, estudio de Pinto-Sietsma et al. del estudio PREVEND, estudio de Halimi et al., estudio de Briganti et al.) y en pacientes diabéticos, , , .
+Por tanto, en todo paciente con ERC (igual que en la población general) debemos preguntar por el consumo de tabaco en todas las consultas que realicemos (tanto en primaria como en especializada). En los pacientes fumadores se realizará un consejo empático, pero firme y motivado, para dejar de fumar y se hará énfasis en los beneficios esperados individuales y en las posibles ayudas para conseguirlo (intervención mínima sistematizada, técnicas cognitivo-conductuales, tratamiento farmacológico, etc.).
+En pacientes con enfermedad renal parece segura la utilización de terapia de sustitución de nicotina (parches, chicles, caramelos) y su asociación con bupropión a dosis más bajas de la habitual (150 mg/24 h) en fases avanzadas de la enfermedad. El uso de vareniclina a dosis habituales parece seguro e, igualmente que con bupropión, se puede utilizar a mitad de dosis (1 mg/24 h) que en pacientes con función renal moderadamente disminuida y en población general.
+
+
+-- OBESIDAD
+
+Hay pocos ensayos clínicos especialmente diseñados, pero existen datos que apoyan que la reducción de peso y de la ingesta de grasas puede disminuir el riesgo de ERC.
+El tratamiento de la obesidad en pacientes con ERC debe ser no farmacológico y consistir en la realización de ejercicio físico y en una dieta hipocalórica siguiendo las recomendaciones del apartado correspondiente de esta guía.
+El único fármaco autorizado en España para el tratamiento de la obesidad, orlistat, está indicado en personas con IMC superior a 30 kg/m2. Presenta interacciones con numerosos fármacos y no ha sido estudiado en pacientes con ERC, por lo que no parece aconsejable su utilización en ellos. El uso de fármacos para reducir el apetito no está indicado en pacientes con ERC.
+
+
+-- HIPERURICEMIA
+
+La hiperuricemia se define como el aumento de concentraciones de ácido úrico por encima de su límite de solubilidad en plasma. Esto ocurre en los varones con valores de ácido úrico superiores a 7 mg/dl y en mujeres, por efecto estrogénico, con valores superiores a 6 mg/dl. La hiperuricemia puede ser asintomática u ocasionar enfermedades como nefrolitiasis úrica, nefropatía por ácido úrico, gota tofácea, artritis gotosa aguda e hiperuricemia asintomática. Se ha descrito un aumento del riesgo cardiovascular con valores de ácido úrico en el límite alto de la normalidad, por encima de 5,2 mg/dl, .
+Se ha demostrado que el alopurinol y otros inhibidores de la xantina oxidasa tienen efectos sobre el aparato circulatorio que son independientes de la concentración de ácido úrico, , .
+Las guías clínicas no recomiendan el tratamiento de la hiperuricemia asintomática, puesto que solo se apoyaría en 2 ensayos clínicos aleatorizados, . Recientemente se encuentra disponible otro fármaco, febuxostat, para el tratamiento de la hiperuricemia en pacientes con antecedentes de gota o artritis úrica. En aquellos con hiperuricemia sintomática e insuficiencia renal leve o moderada, la administración de febuxostat ha demostrado una eficacia superior y una seguridad similar al alopurinol, sin necesidad de ajustar dosis.
+La colchicina está indicada en el tratamiento del ataque agudo de gota. En pacientes con FG entre 30 y 50 ml/min debe reducirse la dosis. Por debajo de 30 ml/min/1,73 m2 el uso de colchicina está contraindicado. En caso de crisis de gota aguda en estos pacientes con FGe reducido se puede administrar tetracosáctido (Nuvacthen depot®) intramuscular durante 3 días o corticoides en dosis de 20-30 mg/día con reducción rápida hasta suspender en 5-7 días.
+
+
+-- ANEMIA
+
+La principal causa de anemia en la ERC es la producción inadecuada de EPO endógena, hormona que actúa sobre la diferenciación y maduración de los precursores de la serie roja. En pacientes con ERC la anemia se define como la situación en la que la concentración de Hb en sangre se encuentra 2 desviaciones estándar por debajo de la concentración media de Hb de la población general, corregida por edad y sexo. El límite inferior de niveles de Hb a partir del cual se considera anemia en mujeres es de 11,5 g/l, según la SEN, y de 12 g/l, según la Organización Mundial de la Salud (OMS), la Kidney Disease Outcomes Quality Initiative (KDOQI) y la European Renal Best Practice (ERBP). El límite inferior de valores de Hb en varones de edad inferior a 70 años según la SEN, la KDOQI y la ERBP es de 13,5 g/l y de 13 g/l según la OMS. En el caso de varones de edad superior a 70 años la SEN y la OMS fijan los límites inferiores de Hb en 12 g/l, y la KDOQI y la ERBP en 13,5 g/l.
+
+
+--- DIAGNÓSTICO DE LA ANEMIA, EVALUACIÓN Y CRITERIOS PARA LA ADMINISTRACIÓN DE HIERRO Y AGENTES ESTIMULANTES DE LA ERITROPOYESIS
+
+---- CARACTERÍSTICAS DE LA ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+La anemia asociada con la ERC habitualmente es normocítica y normocrómica en su origen y está relacionada con una disminución de la producción de EPO por las células peritubulares, baja respuesta de la médula ósea, producción aumentada de hepcidina y disminución de la disponibilidad de hierro para la eritropoyesis.
+
+
+---- CUÁNDO INICIAR EL ESTUDIO DE LA ANEMIA EN LA ENFERMEDAD RENAL CRÓNICA
+
+-Cuando la cifra de Hb sea < 11 g/dl en mujeres premenopáusicas y pacientes prepúberes.-Cuando la cifra de Hb sea < 12 g/dl en varones adultos y mujeres posmenopáusicas.
+
+
+---- CÓMO ESTUDIAR LA ANEMIA DE LA ENFERMEDAD RENAL CRÓNICA, PETICIONES DE LABORATORIO
+
+-Hematocrito (Hto)-Hb.-Hematimetría: volumen corpuscular medio (VCM), Hb corpuscular media (HCM), concentración de Hb corpuscular media (CHCM).-Reticulocitos.-Parámetros férricos: sideremia, ferritina, transferrina, IST.-Descartar pérdidas sanguíneas intestinales (si anemia hipocroma microcítica o sospecha de sangrado digestivo).-En pacientes con ERC-5 en HD las muestras se sacan prediálisis inmediata.
+
+
+---- OBJETIVOS DE HEMOGLOBINA
+
+En el paciente con ERC deben buscarse objetivos de control de Hb entre 10 y 12 g/dl en adultos, valorando síntomas y comorbilidad. Si en el paciente con ERC 3 B a 5 se comprueba Hb < 10,5 g/dl debe remitirse a nefrología si no estaba en seguimiento o adelantar la revisión.
+
+
+---- METABOLISMO DEL HIERRO REQUERIDO PREVIO AL INICIO DE TRATAMIENTO CON AGENTES ESTIMULANTES DE LA ERITROPOYESIS
+
+Deben existir reservas suficientes para alcanzar y mantener el Hto/Hb objetivo:-IST ≥ 20% y < 50%.
+Durante el tratamiento con agentes estimulantes de la eritropoyesis (AEE) se reitera el estudio del metabolismo férrico cada 3 meses, si reciben Fe intravenoso.
+En pacientes con AEE sin Fe intravenoso el control debe ser mensual hasta estabilizar la Hb, entre 10 y 12 g/dl.
+En pacientes diabéticos se recomienda no iniciar tratamiento con AEE hasta Hb < 10 g/dl, si el paciente tiene antecedente de episodio de accidente vascular cerebral.
+En pacientes no tratados con EPO el objetivo ha de situarse en SatT ≥ 20% y Ferrit ≥ 100 ng/ml. El control debe realizarse cada 3-6 meses.
+La determinación debe ser 15 días después de la última dosis de Fe intravenoso.
+
+
+---- PAUTA DE ADMINISTRACIÓN DE HIERRO INTRAVENOSO
+
+Se administra con el fin de prevenir el déficit y mantener las reservas férricas, de modo que se alcance y mantenga el Hto/Hb objetivo. La administración debe realizarse en el centro hospitalario. Con determinados protocolos conjuntos, algunos Fe intravenosos pueden suministrarse en el centro de salud bajo vigilancia médica.
+
+
+---- PAUTA DE ADMINISTRACIÓN DE HIERRO POR VÍA ORAL
+
+-Adultos: 200 mg/día.-Niños: 2-3 mg/kg/día.
+En adultos prediálisis, en diálisis domiciliaria y DP que no logran adecuadas reservas férricas con Fe por vía oral se administra una infusión 100 mg de Fe dextrano o 500-1000 mg de Fe carboximaltosa intravenoso, repitiéndose las veces que sea necesario según parámetros férricos. Otra opción es hierro sacarosa intravenoso (máximo 200 mg/dosis).
+Se considera improbable que los pacientes en HD alcancen el objetivo con Fe oral, por lo que requerirán aporte de Fe intravenoso.
+
+
+---- VÍA DE ADMINISTRACIÓN DE AGENTES ESTIMULANTES DE LA ERITROPOYESIS
+
+Se indica la vía subcutánea en pacientes en HD, DP y diálisis domiciliaria, rotando el lugar de inyección.
+La vía intraperitoneal sería posible administrando la dosis en abdomen vacío o con escasa cantidad de líquido peritoneal. Podrían requerirse dosis mayores por esta vía.
+La vía intravenosa estaría indicada en caso de dosis elevadas (volumen) o equimosis recurrentes en el sitio de inyección.
+
+
+---- DOSIS DE ERITROPOYETINA Y AJUSTE
+
+Se pauta por los servicios de nefrología.
+
+
+---- TRANSFUSIONES EN PACIENTES CON ENFERMEDAD RENAL CRÓNICA
+
+-En pacientes con síndrome funcional anémico.-En pacientes resistentes a EPO con pérdidas sanguíneas crónicas.
+
+
+---- POSIBLES EFECTOS ADVERSOS SECUNDARIOS AL TRATAMIENTO CON AGENTES ESTIMULANTES DE LA ERITROPOYESIS
+
+HTA, convulsiones, trombosis de fístula arteriovenosa, incremento de la viscosidad sanguínea. El tratamiento con AEE cuando se ha superado Hb > 13 g/dl se ha asociado con elevadas tasas de enfermedad cardiovascular, aunque sin incremento de la mortalidad.
+El control de la anemia en el paciente con ERC debe incluir programas de educación a pacientes que contengan información sobre el problema de salud, soporte profesional y estilos de vida.
+
+
+-- DETECCIÓN DE LAS ALTERACIONES DEL METABOLISMO ÓSEO Y MINERAL
+
+Las alteraciones en el metabolismo del calcio y fósforo en la ERC se asocian con diversas complicaciones que van más allá de la simple afectación ósea e implican a otros sistemas, especialmente el cardiovascular (por ejemplo, calcificaciones). La manifestación clínica más temprana es el incremento de la hormona paratiroidea (PTH), producida por déficit de vitamina D activa (calcitriol), retención de fosfato (con o sin hiperfosfatemia) y/o hiperfosfatemia franca.
+
+
+--- OBJETIVOS DE LA DETECCIÓN Y DEL TRATAMIENTO
+
+-Evitar la hiperfosfatemia.-Mantener niveles normales de calcio y fósforo.-Evitar la instauración y progresión del hiperparatiroidismo secundario.
+Según las guías K-DOQI 2003, SEN 2007 y SEN 2011, , el objetivo terapéutico es variable en los diversos estadios de la ERC, pero se podría resumir diciendo que se debería intentar mantener dentro de límites normales el calcio, el fosfato y la PTH. En el estadio 4 se aconseja incluso mantener la PTH en valores ligeramente superiores a la normalidad. Las guías recomiendan también medir el calcidiol (25-OH-vitamina D) para diagnosticar el déficit o la insuficiencia de vitamina D. Idealmente estos niveles deberían ser mayores de 20-30 ng/ml (50-75 nmol/l).
+Un pequeño grado de hiperparatiroidismo estable no es preocupante, pero el hiperparatiroidismo progresivo, con valores de PTH 2 o 3 veces superiores al valor de referencia requieren una consulta al especialista de nefrología. Niveles elevados de fosfato, superiores a 5 mg/dl (1,40 mmol/l) son igualmente tributarios de consulta.
+
+
+--- TRATAMIENTO
+
+Se realizará mediante dieta, captores del fósforo, vitamina D nativa o activa, y/o activación selectiva de los receptores de la vitamina D. En pacientes en diálisis se pueden utilizar calcimiméticos.
+
+
+--- FÁRMACOS PARA UN ADECUADO MANTENIMIENTO DEL METABOLISMO MINERAL
+
+---- CAPTORES DEL FÓSFORO
+
+Se administran con las comidas. Destacan quelantes con calcio como el carbonato cálcico, el acetato cálcico o su asociación con magnesio. Entre los quelantes sin calcio ni aluminio destacan el sevelamer y el carbonato de lantano. Los compuestos de aluminio son excelentes captores, pero no se recomiendan en períodos prolongados, dado que pueden inducir intoxicación alumínica en pacientes con ERC.
+
+
+---- TRATAMIENTO DEL DÉFICIT DE VITAMINA D
+
+-Colecalciferol (D3): vitamina D3 Belenguer® o Kern® (colecalciferol; 800 UI = 12 gotas, 50.000 UI = 25 ml).-Calcifediol (25-OH-vitamina D): Hidroferol® 0,266 mg (calcifediol 16.000 UI).
+La dosificación de calcifediol en ampollas quincenales o mensuales tiene como objetivo normalizar los niveles de calcidiol (25-OH > 20-30 ng/ml) independientemente o no de disminuir la PTH. Debe manejarse con sumo cuidado y es obligatorio medir el calcio y el fósforo para su control, ya que en pacientes con ERC avanzada puede incrementarlos.
+
+
+---- TRATAMIENTO DEL HIPERPARATIROIDISMO SECUNDARIO
+
+-Calcitriol y análogos de la vitamina D: no necesitan hidroxilación renal para obtener la forma activa. Destacan el Rocaltrol® —calcitriol; 1,25-(OH)2-D3— y Etalpha® —alfacalcidol; 1α-(OH)-D3—. El alfacalcidol requiere activación hepática.-Activadores selectivos del receptor de la vitamina D: Zemplar® (paricalcitol): ofrece menor tendencia a la hipercalcemia e hiperfosfatemia, y parece inducir menos calcificaciones vasculares.-Calcimiméticos: Mimpara® (cinacalcet): indicado en el tratamiento del hiperparatiroidismo en diálisis y en hiperparatiroidismo primario.
+
+
+-- DETECCIÓN Y TRATAMIENTO DE LA ACIDOSIS
+
+Una situación de acidosis metabólica no compensada con bicarbonato venoso < 15 mmol/l requerirá tratamiento por vía endovenosa en ámbito hospitalario. Acidosis metabólicas leves (bicarbonato entre 15-20 mmol/l) pueden requerir administración de bicarbonato oral.
+
+
+-- OTRAS ACTITUDES
+
+--- PREPARACIÓN PARA EL TRATAMIENTO RENAL SUSTITUTIVO Y TIEMPO DE INICIACIÓN
+
+El inicio óptimo del tratamiento renal sustitutivo (TRS) es aquel que se realiza de forma planificada. La falta de previsión aumenta innecesariamente el uso de catéteres para HD, de los que se derivará un mayor morbilidad, infecciones e incremento en las hospitalizaciones.
+Una remisión en tiempo adecuado del paciente al nefrólogo implica que el paciente recibirá una idónea información sobre las posibles técnicas de TRS: DP, HD, HD domiciliaria, así como la posibilidad de un trasplante renal anticipado o de donante vivo, si existiera. Esta remisión adecuada supone una disminución en las complicaciones, especialmente infecciosas y cardiovasculares, con un gran impacto en la supervivencia.
+El TRS se plantea cuando el FG es < 15 ml/min/1,73 m2 o antes si aparecen signos o síntomas de uremia o dificultad en el control de la hidratación (hecho frecuente en el caso del paciente diabético), HTA de difícil control o empeoramiento del estado nutricional.
+En general, se inicia diálisis cuando el FG está situado entre 8 y 10 ml/min/1,73 m2 y es obligatorio con FG < 6 ml/min/1,73 m2, incluso en ausencia de sintomatología urémica. En pacientes de alto riesgo, insistimos en que debe plantearse el inicio adelantado de diálisis, estableciéndolo de forma individualizada.
+Hay que tener en cuenta que el paciente puede ser estudiado y preparado convenientemente para un posible trasplante renal de donante vivo (si existe esa posibilidad) sin que haya iniciado diálisis. Igualmente, puede ser estudiado y puesto en lista de espera para un posible trasplante renal de donante cadáver, si surge dicha posibilidad, antes del inicio de diálisis. Es lo que llamamos trasplante renal anticipado.
+
+
+-- SEGUIMIENTO
+
+Los pacientes con ERC 4-5 han de ser controlados preferentemente por el especialista nefrólogo, en estrecha colaboración con el médico de atención primaria y la enfermería.
+La frecuencia de visitas debe establecerse cada 3 meses en ERC 4 e incluso cada mes en ERC 5 prediálisis. Esta frecuencia podrá ser modificada según el criterio médico.
+En cada visita es aconsejable aportar información detallada sobre analítica, modificaciones en el tratamiento, su justificación y, si procede, una valoración pronóstica.
+
+
+-- FUNCIONES DEL MÉDICO DE ATENCIÓN PRIMARIA EN EL ABORDAJE Y SEGUIMIENTO DE LA ENFERMEDAD RENAL CRÓNICA CONDICIONADO POR EL ESTADIO DE LA ENFERMEDAD
+
+-Seguimiento de los pacientes ancianos, con FG estable, que por motivos de edad, calidad de vida u otros, no sean tributarios de TRS y no reciban AEE y/o medicación para el hiperparatiroidismo secundario.-Control de los factores de riesgo cardiovascular.-Vigilancia de los factores de progresión de la ERC.-Vigilancia de la nefrotoxicidad para evitar la iatrogenia en cualquier proceso.-Debe prestarse especial atención a:∘Evitar siempre que sea posible el uso de AINE.∘Evitar la hiperpotasemia asociada al uso de fármacos.∘Evitar/adecuar el uso de antidiabéticos orales según el FGe.∘Evitar en lo posible el uso de contrastes yodados, ajustando cualquier fármaco al FGe del paciente.-Participación en el cumplimiento terapéutico y derivación a nefrología en caso de empeoramiento agudo de la función renal o aparición de complicaciones.-Vacunación: virus de la hepatitis B, neumococo, gripe, otros.-Colaboración en las actividades paliativas.
+
+
+-- CLAVES PARA EL MANEJO DEL PACIENTE EN HEMODIÁLISIS/DIÁLISIS PERITONEAL DESDE LA ATENCIÓN PRIMARIA
+
+-Facilitación del proceso de adaptación a la enfermedad en función de la edad, la situación familiar, las condiciones de formación y laborales, la forma de aparición y desarrollo de la enfermedad, la confianza en el sistema sanitario, etc.-Conocimiento por parte del médico de familia de las diferentes opciones e implementación de estas (periodicidad, lugar de realización, posibles complicaciones según alternativa elegida).-Óptima relación y canal de comunicación con el servicio de nefrología de referencia.
+
+
+-- CLAVES PARA EL MANEJO DEL PACIENTE PORTADOR DE UN TRASPLANTE RENAL
+
+Las mismas que en el caso anterior, pero con interacción muy intensa con el nefrólogo, por los requerimientos especiales en relación con la inmunosupresión, las interacciones farmacológicas y las vacunaciones en estos casos.
+
+
+-- CLAVES PARA EL SEGUIMIENTO DE LA UREMIA TERMINAL EN DOMICILIO. TRATAMIENTO PALIATIVO
+
+El manejo domiciliario de la uremia terminal tiene como objetivo facilitar el bienestar del paciente urémico que no puede ser sometido a diálisis, minimizando el impacto físico, familiar y asistencial de su condición, y optimizando los recursos de que dispone nuestro Sistema Nacional de Salud. Requiere una coordinación estrecha entre el servicio de nefrología y atención primaria. En aquellas áreas sanitarias donde existan equipos de soporte domiciliario, ya sean dependientes de atención primaria o de atención especializada, puede ser extraordinariamente útil su inclusión en el equipo terapéutico.
+Se recomienda la individualización de la decisión con acuerdo del paciente, la familia y los profesionales. Es útil que la decisión se tome precozmente, ya que permite organizar el seguimiento antes de que se haya producido un deterioro especialmente significativo del paciente.
+
+
+- CONFLICTO DE INTERESES
+
+Alberto Martínez-Castelao:
+Asesorías a Amgen, Boehringer-ing, Abbvie, Roche y honorarios por conferencias a Amgen, Abbvie, Boeringer/Lilly, Esteve, Shire, Novartis, Roche.
+Dr José Luis Górriz:
+Ha recibido honorarios por haber dado charlas de las siguientes compañías: Abbvie, Astra-Zeneca, Boehringuer-Lilly, Merck, Sharp & Dohme, Novartis, y Laboratorios Dr Esteve.
+Javier Escalada:
+Asesorías a Abbott, MSD, Sanofi.
+Honorarios por conferencias: Almirall, AstraZeneca, BMS, Lilly/Boehringer, MSD, Novo Nordisk, Sanofi, Takeda.
+Marta Sánchez-Celaya del Pozo (SEMFyC):
+No comparte ningún conflicto en relación a los aspectos más sensibles del documento.
+Pedro de Pablos-Velasco ha participado en ensayos clínicos y en consultorías de AstraZeneca, Boehringer, Takeda, Novartis, Merck Sharp & Dohme, Sanofi aventis, GlaxoSmithKline, Pfizer y Roche.
+Manuel Muñoz:
+Paid lecturing: Lilly-Boehringer, Novartis, NovoNordisk, AMGEN
+Advisory board: AMGEN, NovonoNordisk
+Clinical Trials Research: Janssen, Roche, NovoNordisk, AMGEN, Lilly-Boehringer
+Lorenzo Fácila:
+Honorarios por conferencias Sanofi, BMS, MSD, Boehringer, Esteve, Novartis.
+Asesoría: MSD, Sanofi.
+Julio Hernández:
+Ha participado en actividades docentes patrocinadas por Pfizer, Bayer, Astra Zeneca, Bristol Myers, Novartis y Boehringer Ing.
+Salvador Tranche:
+Ha participado en actividades formativas, grupos de trabajo o ensayos clínicos con las siguientes organizaciones: Ministerio de Sanidad y Consumo, Servicio de Salud del Principado de Asturias; Agència d’Informació,Avaluació i Qualitat en Salut del Departamento de Salud de la Generalitat de Cataluña; Astra Zeneca, Bayer; Boehringer Ingelheim; Almirall, Esteve; Lacer; Merck, Sharp & Dohme; Pfizer; Sanofi-Synthelabo, Bristol-Myers Squibb; Sociedad Española de Hipertensión - Liga Española para la lucha contra la Hipertensión Arterial.
+Ana de Santiago:
+Sin conflictos de intereses.
+Charo Montañés:
+Ha participado en actividades científicas y divulgativas patrocinadas por Abbvie.
+Silvia Gracia:
+Ha participado en actividades científicas y docente patrocinadas por Abbvie.
+Enric Esmatjes:
+Ha recibido honorarios por charlas y/o consultorías de Novo Nordisk, Lilly, Sanofi-Aventis, MSD, GSK, Janssen-Cilag, Novartis, MSD y Almirall.
+Pilar Mazón:
+Remuneración por desarrollo de ponencias, asesoramiento y gastos de desplazamiento para asistencia a congresos: Almirall, Amgen, Astra-Zeneca, bayer, Boehringer-Ingelheim, Daichi-Sankyo, Menarini, MSD, Novartis, Pfizer, Rovi, Servier.
+FJ Morales-Olivas
+He recibido honorarios por asesoramiento de Esteve, Ferrer y Novartis. Honorarios por ponencias o actividades docentes de: Abbott, Angem, Bayer, BMS, Esteve, Ferrer y Novartis.
+Javier Gamarra
+He participado en actividades docentes patrocinadas por Astra Zeneca, Bristol Myers, Novartis, Sanofi, MSD y Boheringer.
+Jesús Cebollada
+Mis conflictos de intereses son los siguientes: ha recibido honorarios de asesoramiento de Abbvie y honorarios por conferencias y actividades docentes de Abbvie, AstraZeneca, Boehringer-Ingelheim, Chiesi, Esteve, Menarini, Novartis y Pfizer.
+Julián Segura
+He recibido honorarios por ponencias o actividades formativas de:
+AstraZeneca, Boehringer, Esteve, MSD, y Takeda.
+Carmen Suárez
+He recibido honorarios por asesoramiento o ponencias de Ferrer, Novartis, Bayer, BMS, Esteve, Daichii Sankyo, Boheringher, Lilly, Novo Nordisk, Almirall
+José Luis Llisterri
+He recibido honorarios por ponencias de: Bayer, BMS, Daichii Sankyo, Boheringher, Almirall, MSD, Recordatti, Teva, Bioiberica.
+Jordi Bover
+He participado en eventos científicos y/o como asesor en eventos organizados por Amgen, Abbvie, Vifor y Shire.

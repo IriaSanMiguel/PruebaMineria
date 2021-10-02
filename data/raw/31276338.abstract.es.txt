@@ -1,0 +1,5 @@
+Se observó un decremento anual en las tasas de mortalidad por esta neoplasia en los últimos 10 años, significativamente mayor en los hombres (-3.5% IC95% -4.0,-2.9) que en las mujeres (-1.9% IC95% -2.1,-1.7), una brecha generacional entre hombres y mujeres y estrato urbano-rural con tendencia decreciente en el riesgo de muerte.
+Actualizar información sobre la tendencia de mortalidad por cáncer de pulmón en México de 1990 a 2016.
+Las tendencias de mortalidad por cáncer de pulmón de 1993 a 2016 presentan una disminución en diferentes magnitudes y periodos específicos.
+Se obtuvieron tasas ajustadas por edad mediante el método directo. Se obtuvo el porcentaje de cambio anual de la mortalidad por cáncer de pulmón, mediante análisis joinpoint a nivel nacional, por región, sexo y estrato rural-urbano y, en estos dos últimos, el efecto de edad-periodo-cohorte.
+

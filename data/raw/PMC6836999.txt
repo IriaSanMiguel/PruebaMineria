@@ -1,0 +1,99 @@
+EFICACIA DE UN PROGRAMA MULTIDISCIPLINAR DE GESTIÓN DE CUIDADOS EN PACIENTES QUE INGRESAN POR INSUFICIENCIA CARDIACA (PROMIC)<SUP
+
+
+- INTRODUCCIÓN
+
+La prevalencia de la insuficiencia cardiaca (IC) ha aumentado en las últimas décadas debido a la reducción de la mortalidad en los eventos agudos y al incremento de la esperanza de vida. La previsión es que siga aumentando en el futuro inmediato, constituyendo un problema de salud que impacta negativamente tanto en la calidad de vida de los pacientes como en la sostenibilidad del sistema sanitario.
+En España, la IC se presenta en el 1-2% de la población mayor de 40 años. En los países occidentales la prevalencia aumenta con la edad, afectando al 10% de los mayores de 60 años. Se estima que el 40% de los pacientes ingresados por IC fallece o reingresa durante el primer año. La mortalidad por IC es del 50% a los 5 años del diagnóstico.
+La IC supone el 10% de la ocupación hospitalaria y el 2% del gasto sanitario nacional.
+El 95% los pacientes que ingresan por IC presenta algún tipo de comorbilidad.
+Por todo ello, los pacientes que ingresan por IC constituyen un paradigma de paciente crónico complejo. La IC ha sido identificada como una enfermedad sensible a cuidados ambulatorios. Las guías de práctica clínica, , recomiendan la creación de equipos multidisciplinares para el manejo adecuado de estos pacientes, si bien no existe un modelo de atención que pueda considerarse de aplicación universal.
+Teniendo en cuenta estos elementos, y tomando como referencia el marco teórico sobre intervenciones complejas en el contexto clínico del Medical Research Council del Reino Unido, nuestro equipo multidisciplinar realizó en 2008 un proceso colaborativo de investigación y evaluación estratégica de necesidades para seleccionar áreas de optimización en la atención a los pacientes que ingresan por IC. El programa diseñado ProMIC, Programa colaborativo Multidisciplinar para la atención a pacientes que ingresan por Insuficiencia Cardiaca, se pilotó en 15 pacientes con el objeto de modelar la intervención en la práctica clínica de nuestro contexto sanitario. Desde el punto de vista organizativo, ProMIC es un programa de gestión de cuidados basado en los 6 componentes del modelo de atención a pacientes crónicos.
+La factibilidad y buenos resultados del pilotaje nos llevaron a plantear esta fase ii del Medical Research Council con el objetivo de evaluar la potencial eficacia de ProMIC en la disminución de la tasa de reingresos por IC debido a que fue la variable principal más utilizada en la literatura, , , , , , , , , , , , , .
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio cuasiexperimental multicéntrico prospectivo de seguimiento a un año, en el que pacientes ingresados por IC en los hospitales de Galdakao-Usansolo y Santa Marina, en Bizkaia y en el Hospital Universitario de Araba en Vitoria-Gasteiz fueron asignados, según su pertenencia a los centros de salud designados por conveniencia, al grupo intervención ProMIC o control, mediante una captación consecutiva.
+Los pacientes ProMIC pertenecían a 3 centros de centros de salud de Bizkaia y a 2 centros de salud de Araba. Los pacientes control procedían de 4 centros de salud de Bizkaia y de 3 centros de salud de Araba. Estos centros presentaban características similares en relación con el tamaño de los equipos sanitarios, el número de población atendida, así como las condiciones socioeconómicas de los pacientes, siendo comparables en cuanto a la experiencia, medios y recursos disponibles para el tratamiento de la IC.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Se incluyeron pacientes mayores de 40 años que ingresaron por IC en situación funcional ii-iv de la NYHA, que no presentaban incapacidad para realizar autocuidados ni tenían una supervivencia esperada menor de 3 meses, a juicio del cardiólogo de planta, durante el ingreso índice. Los pacientes institucionalizados fueron excluidos del estudio.
+
+
+--- PROTOCOLO DE INTERVENCIÓN
+
+En los pacientes ProMIC se realizó una intervención clínica estructurada basada en las guías de práctica clínica, tanto de IC como de las comorbilidades más frecuentes, con componentes de educación para el autocuidado, reconocimiento de los signos y síntomas de alarma, manejo de las comorbilidades, de las descompensaciones, optimización y cumplimiento terapéutico y conciliación terapéutica en las transiciones. Previamente al alta hospitalaria, se realizaba una evaluación integral y un plan de cuidados. La primera visita se realizaba entre uno y 3 días después del alta. El seguimiento era intensivo según necesidades, tanto presencial en el centro de salud o en domicilio, como telefónico, realizado por el propio equipo de intervención. Se incidía en aspectos de capacitación del paciente, conocimiento sobre su enfermedad y comorbilidades, titulación de fármacos bajo protocolo, contactos con agentes comunitarios y sesiones de casos en reuniones mensuales con el cardiólogo del equipo.
+
+
+--- PROTOCOLO CONTROL
+
+Los pacientes control recibieron cuidados habituales que consistieron en una valoración inicial tras el alta y planificación de visitas de seguimiento cada 3 meses por la enfermera de familia, cada 6 meses por el médico de familia y anual por el cardiólogo de referencia, con adaptaciones según a la evolución del paciente.
+
+
+-- VARIABLES DE RESULTADOS
+
+La medida principal de resultados fue la tasa de reingresos por IC.
+Como variables secundarias se midieron la tasa de reingresos por otras causas cardiovasculares (CV) y no CV, la mortalidad por IC y por otras causas CV y no CV, las visitas a urgencias y la tasa combinada de estos eventos. También se midió el tiempo hasta el primer evento, tanto de la variable principal como de la variable combinada. Estas variables se obtuvieron de los informe del alta o de urgencias en los que constaba el principal motivo del ingreso.
+La calidad de vida relacionada con la salud se midió con la versión española del SF-12 y con el cuestionario específico de Minnesota (MLHFQ). Para evaluar los conocimientos sobre IC y autocuidado y su aplicación se utilizó la escala europea de autocuidado en IC (HFsBS). La capacidad funcional fue medida mediante el test de 6 minutos caminando.
+Las mediciones se realizaron por un entrevistador de forma ciega al inicio, 6 y 12 meses de seguimiento, de forma protocolizada. La fuente de datos fue la información administrativa registrada en la historia clínica así como los cuestionarios y registros diseñados al efecto. En la tabla 1 aparecen las variables de resultados y tiempos de seguimiento. Se tuvieron en cuenta variables predictoras para su ajuste en el análisis como el sexo, edad, comorbilidad, factores de riesgo y conocimiento sobre la enfermedad. Valor de p considerado como significativo fue < 0,05.
+
+
+-- TAMAÑO MUESTRAL
+
+Se planificó la inclusión de 90 pacientes por grupo, lo que dotaba al estudio de al menos un 80% de potencia estadística para detectar como significativo (p < 0,05) un hazard ratio de 0,50 favorable a la intervención en el análisis del tiempo transcurrido hasta la aparición de un determinado evento, como el reingreso u otros, asumiendo un 20% de observaciones censuradas en el total de la muestra para la variable principal y un factor de inflación de la varianza de 0,28. Finalmente se incluyeron 155 pacientes en el grupo ProMIC y 129 en el control, lo que supuso un total de 284 pacientes, superando el tamaño muestral previsto. La potencia estadística real, basada en la muestra final obtenida, es mayor del 90% para detectar dicho hazard ratio.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los análisis se realizaron por intención de tratar. Las variables categóricas se compararon mediante test de Chi2. Para las variables continuas se utilizó la t de Student. En los casos en los que no se cumplían las condiciones de aplicación de la prueba se emplearon test no paramétricos. Para comparar el tiempo hasta el primer evento en ambos grupos se utilizaron curvas de supervivencia y se construyó un modelo de riesgo proporcional de Cox para determinar si la asignación al grupo de intervención es un predictor independiente de los objetivos primarios y secundarios después del ajuste para otras covariables pertinentes. Se comprobaron los supuestos del modelo y en los casos en los que fue necesario se utilizaron extended cox models (SAS PROC PHREG). Para analizar la calidad de vida se compararon las mejorías en cada punto de seguimiento, ajustadas por el nivel basal, mediante análisis de la covarianza entre ambos grupos. Se ajustaron dichas comparaciones por posibles factores confusores, mediante análisis estratificados y modelos estadísticos lineales para variables continuas. Los modelos tuvieron en cuenta la estructura longitudinal de las 3 medidas repetidas, así como la estructura jerárquica y multicéntrica de los datos. Estos modelos se extendieron para realizar el ajuste por hipotéticas variables predictoras y modificadoras del efecto.
+
+
+-- CONTROL DE CALIDAD
+
+Las mediciones de la investigación fueron ejecutadas por enfermeras entrenadas, sin conocimiento del grupo al que pertenecía el paciente.
+La etiología de cada reingreso o asistencia a urgencias fue sometida a un proceso de codificación y evaluación por cardiólogos diferentes de los que realizaron el seguimiento de los pacientes, de forma ciega, a partir de los informes de alta de cada episodio.
+
+
+- RESULTADOS
+
+Se incluyeron 155 pacientes en el grupo ProMIC y 129 en el control, lo que supone un total de 284 pacientes.
+En el momento del ingreso en el estudio, los pacientes de ambos grupos no presentaban diferencias significativas en las variables recogidas tal como se muestra en la tabla 2, salvo en el grado de dependencia, que fue mayor en el grupo control. La edad promedio era próxima a los 80 años, con una elevada comorbilidad, medida por el índice de Charlson. Cinco pacientes en el grupo control abandonaron el estudio por iniciativa propia, refiriendo que no les aportaba ningún beneficio su participación en el estudio.
+La figura 1 muestra los resultados en cuanto a la variable principal de resultados. Durante el año de seguimiento se contabilizaron un total de 45 hospitalizaciones por IC en el grupo ProMIC y 75 en el grupo de control (p : 0,0014).Figura 1
+No se encontraron diferencias significativas en las variables secundarias de resultados . Los pacientes asignados a ProMIC acudieron menos al hospital y requirieron menos ingresos por cualquier causa. En el grupo ProMIC se registraron 1.475 estancias por cualquier motivo de ingreso frente a 1.851 estancias en el grupo control. En el grupo ProMIC se registraron 320 estancias por IC frente a 682 estancias en el grupo control. Se produjeron 23 fallecimientos en el grupo ProMIC y 30 en el control, con un riesgo de muerte menor en el grupo ProMIC. Los pacientes ProMIC fueron ingresados más frecuentemente por causa CV y acudieron más a urgencias.
+En cuanto a la variable combinada de resultados (hospitalizaciones/asistencias a urgencias/exitus), durante el año de seguimiento se contabilizaron un total de 235 eventos en el grupo ProMIC y 292 en el grupo de control sin alcanzar significación estadística Figura 2
+En la tabla 4 se puede comprobar la diferencia significativa sobre los conocimientos de la IC a favor de los pacientes ProMIC, tanto a los 6 como a los 12 meses de seguimiento. Se produjeron diferencias significativas en la calidad de vida, en el MLHFQ a los 6 meses de seguimiento, a expensas del apartado físico, pero no a los 12 meses. No se objetivaron diferencias en la calidad de vida en el cuestionario SF-12 ni en la capacidad funcional.
+
+
+- DISCUSIÓN
+
+Los pacientes asignados a ProMIC redujeron de forma significativa los reingresos por IC, mejoraron su calidad de vida específica a los 6 meses y el conocimiento sobre la IC a los 6 y 12 meses. Acudieron menos al hospital, requirieron menos ingresos por cualquier causa, tuvieron menores estancias por IC y por cualquier motivo de ingreso y tuvieron una menor mortalidad. Estos resultados no arrojaron valores estadísticamente significativos, posiblemente debido al tamaño muestral.
+Observamos un mayor número de fallecimientos y abandonos en el grupo control, aunque no de forma significativa, que podrían estar en relación con un mayor grado de dependencia al inicio en este grupo. Este mayor grado de dependencia, al inicio en el grupo control puede haber sesgado los resultados.
+Nuestros resultados están en concordancia con los obtenidos en diversos metaanálisis publicados, , , , , , , , que en general obtienen resultados positivos en las variables analizadas similares a las de nuestro estudio, si bien no cuantifican la eficacia de los diferentes componentes variando de un estudio a otro. En esta línea, Ditewig et al. sugieren la necesidad de continuar las investigaciones para determinar los efectos de las distintas intervenciones y de sus combinaciones en la práctica clínica. En general, la mayoría de las intervenciones coordinan varios niveles asistenciales con conexiones al alta hospitalaria y seguimiento frecuente en consulta y domicilio. El 56% de los programas de manejo de IC en Europa están integrados por equipos multidisciplinares donde la enfermera, especialmente formada y capacitada, es fundamental.
+En nuestro medio existen experiencias muy alentadoras.
+Brotons et al. obtuvieron una reducción significativa en la mortalidad por todas las causas y de los reingresos hospitalarios en el primer año tras la hospitalización por IC en el grupo de atención domiciliaria respecto al grupo control. Los autores plantean en la discusión que los conocimientos y el autocuidado de los pacientes y el manejo de las comorbilidades tienen gran capacidad de mejora en nuestro medio, destacando la importancia de la enfermería previamente entrenada. Esta opinión es compartida por el equipo ProMIC. El estudio de Comin-Colet et al. demostró la eficacia a nivel poblacional de un programa integrado hospital-atención primaria en Cataluña. Estudios recientes demuestran la importancia de asegurar la continuidad asistencial mediante una planificación del alta y una visita precoz tras el alta, , aspectos contemplados también en nuestro estudio.
+
+
+-- LIMITACIONES
+
+Debido a la complejidad de la intervención no se planteó un diseño experimental, lo cual puede limitar la generalización de los resultados. Se han detectado dificultades para identificar a los pacientes con una perspectiva de vida menor de 3 meses. Un total de 12 pacientes fallecieron en los 10 días posteriores a su inclusión en el estudio (6 ProMIC y 6 en control). Por otro lado, hemos encontrado dificultades para satisfacer necesidades sociales de los pacientes, sobre todo las de carácter urgente, que son fundamentales para mantener la continuidad de la atención al paciente en su entorno.
+
+
+-- CONSIDERACIONES FINALES
+
+ProMIC es una intervención multifactorial que pivota en aspectos recomendados en las guías de práctica clínica como son la continuidad de cuidados con visitas precoces tras el alta hospitalaria, el papel de la atención primaria tanto del médico de familia como de la enfermera y la capacitación del paciente y su educación iniciada durante el ingreso hospitalario.
+Los resultados demuestran la eficacia de ProMIC en la reducción de las hospitalizaciones por IC. Si bien un mayor nivel de evidencia científica exigiría un diseño similar al presentado pero con aleatorización de los participantes. Hablaríamos de un estudio en fase iii, según el MRC, para evaluar la eficacia del programa en un estudio con asignación aleatoria individual o por conglomerados.Lo conocido sobre el tema•El 95% de los pacientes que ingresan por IC presentan algún tipo de comorbilidad, constituyendo un paradigma de paciente crónico complejo•Las intervenciones más eficaces contemplan 5 o más componentes centrados en el paciente, sin embargo no existe un modelo de atención que pueda considerarse de aplicación universal.•Los conocimientos y el autocuidado de los pacientes y el manejo de las comorbilidades tienen gran capacidad de mejora.¿Qué aporta este estudio?•El manejo de las comorbilidades por parte del médico de familia, en colaboración con el cardiólogo, ha resultado eficaz para evitar reingresos y mejorar la calidad de vida.•Planteamos una actuación de enfermería clínica, como referente del seguimiento integral del paciente y la coordinación de los profesionales sanitarios y sociales.•Los buenos resultados en la implementación de los programas se asocian con equipos motivados y comprometidos para llevar a cabo intervenciones complejas.
+
+
+- FINANCIACIÓN
+
+Departamento de salud del Gobierno Vasco: N.o de expediente 2010111182 Bizkaia y N.o de expediente 2010111088 Araba. Fundación Vasca de Innovación e investigación sanitaria BIOEF: Expediente BIO10/EC/004.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

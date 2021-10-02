@@ -1,0 +1,13 @@
+to assess the usability of a digital learning technology prototype as a new method for minimally invasive monitoring of intracranial pressure.
+a avaliação resultou em oito heurísticas violadas e 31 problemas de usabilidade nas 32 telas do protótipo.
+las sugestiones de los evaluadores fueron cruciales para el desarrollo de una interfaz amigable e intuitiva y éstas serán consideradas en la versión final de la tecnología educacional digital.
+evaluar la usabilidad de un prototipo educacional digital sobre un nuevo método para monitorización de la presión intracraneal, de manera mínimamente invasiva.
+la evaluación resultó en ocho reglas heurísticas violadas y 31 problemas de usabilidad en las 32 pantallas del prototipo.
+estudo descritivo com abordagem quantitativa sobre a avaliação de usabilidade de um protótipo com base nas dez Heurísticas de Nielsen. Participaram quatro especialistas da área de Interação Humano Computador.
+descriptive study using a quantitative approach on assessing the usability of a prototype based on Nielsen's ten heuristics. Four experts in the area of Human-Computer interaction participated in the study.
+as sugestões dos avaliadores foram cruciais para o desenvolvimento de uma interface amigável e intuitiva e serão consideradas na versão final da tecnologia educacional digital.
+the evaluation delivered eight violated heuristics and 31 usability problems in the 32 screens of the prototype.
+estudio descriptivo con abordaje cuantitativo sobre la evaluación de usabilidad de un prototipo con base en las diez reglas Heurísticas de Nielsen. Participaron cuatro especialistas del área de Interacción Humana Computador.
+the suggestions of the evaluators were critical for developing an intuitive, user-friendly interface and will be included in the final version of the digital learning technology.
+avaliar a usabilidade de um protótipo educacional digital sobre um novo método para monitoração da pressão intracraniana de forma minimamente invasivo para enfermeiros e médicos.
+

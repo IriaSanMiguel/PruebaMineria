@@ -1,0 +1,229 @@
+DIARREAS AGUDAS DEL NIÑO
+
+
+- INTRODUCCIÓN
+
+La diarrea aguda es siempre potencialmente grave en el niño, pero las variaciones de los cuadros clínicos son tales que es posible definir indicaciones terapéuticas aplicables a todos los casos. El examen clínico es primordial. Ningún marcador biológico reemplaza a la exploración del médico. Las prescripciones esenciales se relacionan con la rehidratación, de urgencia y a priori sistemática, y el posible tratamiento antibiótico. La vigilancia es necesaria debido a la posibilidad siempre presente de agravamiento. Incluso en los países industrializados, la mortalidad está lejos de ser despreciable: probablemente 250 casos al año en Europa. El proceso diarreico puede durar varios días, como por ejemplo en el caso de una infección por rotavirus, la causa más frecuente de diarrea. Ante una diarrea persistente debe investigarse el riesgo de paso a la cronicidad, causa de desnutrición que es necesario saber prevenir.
+
+
+
+- FISIOPATOLOGÍA DE LA DIARREA AGUDA
+
+La diarrea consiste en una eliminación demasiado rápida de deposiciones, que contienen principalmente agua. Esta definición simplificada permite incluir los dos mecanismos principales de las diarreas infecciosas: las diarreas por trastornos de la secreción y las diarreas invasivas por trastornos de la absorción.
+Las toxinas de ciertos agentes patógenos (enterotoxina colérica, toxina termolábil o termoestable de colibacilos enteropatógenos y ciertas toxinas víricas, como la NSP4 del rotavirus) estimulan diferentes receptores, como la adenilciclasa de la membrana, que incrementa la secreción de sodio y de cloro hacia la luz intestinal. Esta secreción aumentada arrastra agua y provoca una diarrea de tipo acuoso. Las diarreas invasivas se caracterizan por la destrucción de enterocitos y la pérdida de continuidad vellositaria, en el intestino delgado en el caso de los virus y en la porción ileocólica para la mayoría de las bacterias. Cuando ambos mecanismos se asocian, el problema de absorción de los líquidos intraluminales se agrega a la necrosis celular y se produce un síndrome disentérico. El mecanismo secretor está involucrado, en mayor o menor grado, en todas las diarreas del niño.
+
+
+- CAUSAS DE LAS DIARREAS AGUDAS
+
+La epidemiología de las diarreas agudas del niño suele ser incompleta porque rara vez se investiga de forma sistemática la causa infecciosa de una gastroenteritis infantil sin complicaciones. Las diarreas víricas son las más frecuentes y las indicaciones de antibióticos, raras. En el niño hospitalizado, la investigación etiológica es útil para evitar o limitar las infecciones nosocomiales y, en los casos más graves, para investigar una diseminación septicémica. Asimismo, la búsqueda de la causa de una epidemia de gastroenteritis en una comunidad de niños (guardería, escuela) puede revelar una intoxicación y ayudar a la posible implementación de medidas preventivas. La solicitud de coprocultivo, por tanto, a menudo se limita a infecciones hospitalarias, epidemias en guarderías y diarreas mucosanguinolentas.
+Los agentes infecciosos que se encuentran más a menudo en el curso de una gastroenteritis infantil (Cuadro I ) varían según los estudios y las técnicas de búsqueda, así como según la edad del niño (Cuadro II ).
+
+
+-- DIARREAS VÍRICAS
+
+Los virus constituyen la causa más frecuente de gastroenteritis agudas en el niño, sobre todo antes de los 2 años de edad. Las diarreas víricas son acuosas y provocan con frecuencia deshidrataciones que requieren ser compensadas mediante soluciones de rehidratación oral. Los rotavirus probablemente representen el 50% de las causas víricas y su búsqueda es fácil puesto que existen kits comerciales muy fiables (en particular para la técnica de análisis de inmunoabsorción ligado a enzimas [ELISA]). El papel de otros virus está subestimado, debido a la falta la identificación sistemática y de conocimiento de todos los agentes víricos de la diarrea aguda.
+
+
+--- ROTAVIRUS
+
+Los rotavirus (virus ARN, familia Reoviridae) poseen al menos cuatro serotipos, relacionados con segmentos genómicos específicos, y dos subgrupos. Es responsable del 30-50% de las gastroenteritis agudas del niño y de más del 70% de las del lactante menor de 1 año. La transmisión es fecal-oral. La epidemia es invernal, sobre una base endémica discreta, con contagios intrafamiliares y en las guarderías. En cualquier estación del año pueden producirse pequeñas epidemias en comunidades de recién nacidos, en los cuales la primoinfección pone en marcha una diarrea más o menos acentuada o síntomas más atípicos, como malestar. Muchas infecciones son moderadas o asintomáticas, ya que el 90% de la población general presenta anticuerpos séricos. Las reinfecciones sucesivas del niño generan cada vez menos episodios clínicos y la diarrea aguda por rotavirus es rara en el niño mayor y el adulto. En período endémico, muchos niños y adultos son portadores asintomáticos, lo que favorece la diseminación del virus.
+Las diarreas por rotavirus son más graves que otras diarreas víricas porque el virus elimina una toxina secretora (NSP4) y porque la infección sobreviene en el primer año de vida. El período de incubación es de 2-4 días. Las deposiciones son líquidas y abundantes, a veces sanguinolentas. Hay fiebre elevada, alteración del estado general, vómitos frecuentes y convulsiones febriles y puede detectarse un síndrome inflamatorio en las pruebas de laboratorio (por ejemplo, concentraciones muy elevadas de proteína C reactiva). El momento máximo de la diarrea se produce entre las 24-48 horas.
+La demostración directa del rotavirus en las heces puede realizarse mediante el microscopio electrónico, pero las técnicas más empleadas son inmunológicas (ELISA o agregación de partículas de látex que contienen anticuerpos).
+
+
+--- OTROS VIRUS
+
+Los norovirus se identifican cada vez con más frecuencia; aparecen justo después del rotavirus en ciertas series y a veces son responsables de epidemias en instituciones.
+Los adenovirus entéricos (serotipos 40 y 41) son también capaces de provocar diarreas en el niño. A diferencia de otros adenovirus, son difíciles de cultivar y se han observado con el microscopio electrónico al llevar a cabo estudios para rotavirus. Raras veces se los busca y se demuestra su presencia.
+Los calicivirus, virus ARN sin envoltura, se identificaron como agentes patógenos de una diarrea de escolares de Norwalk (Ohio, Estados Unidos) en 1972, de donde deriva el nombre de virus de Norwalk. Más tarde, se descubrieron otros calicivirus (tipo Norwalk) en el ser humano y en animales y se identificaron en numerosos países como agentes responsables del 2-6% de las diarreas infantiles. Su demostración se halla aún en el ámbito de la investigación (microscopia electrónica y serologías específicas).
+Los astrovirus, virus ARN sin envoltura, son responsables de epidemias de gastroenteritis infantiles.
+Los coronavirus están probablemente asociados a diarreas infantiles, pero no se dispone de pruebas definitivas. Se demuestra fácilmente su presencia mediante el microscopio electrónico.
+
+
+-- DIARREAS BACTERIANAS
+
+Las diarreas bacterianas pueden ser acuosas, como el cólera, pero son más a menudo mucosanguinolentas, con fiebre elevada. Esta diferencia es relativa: la diarrea mucosanguinolenta es posible en el curso de infecciones por rotavirus y mucho más rara en las salmonelosis. Las diarreas bacterianas, en particular por salmonelas y shigelas, se producen en pequeñas epidemias intrafamiliares o en comunidades. Resulta útil, por tanto, efectuar un coprocultivo en caso de síndrome febril importante, diarrea prolongada o mala evolución clínica, sobre todo en el niño pequeño.
+
+
+--- DIARREA POR SALMONELAS
+
+La incidencia de salmonelosis en pediatría está subestimada a causa del carácter benigno de numerosas gastroenteritis por salmonelas que no dan lugar a coprocultivo. En más de 2.200 serotipos de salmonelas, S. typhimurium y S. enteritidis representan el 75% del total de cepas aisladas. La fiebre tifoidea (S. typhi), rara en el niño pequeño, se presenta en casos excepcionales como una simple diarrea aguda. Las salmonelas no tíficas pueden, en pediatría, provocar cuadros gravísimos.
+
+
+---- CUADRO CLÍNICO
+
+Las gastroenteritis agudas por salmonelas no requieren tratamiento antibiótico si son breves y se resuelven con rapidez. Cuando la diarrea se prolonga más de 4 días, incluso sin fiebre, el tratamiento antibiótico es útil y contribuye a reducir la duración de la diarrea. La única indicación de tratamiento sistemático se refiere al lactante pequeño menor de 6 meses, en el cual el riesgo de bacteriemia es importante, con posibilidad de localizaciones secundarias (meningitis).
+Junto con las gastroenteritis por salmonelas banales y transitorias, las salmonelosis graves con signos de invasión (diarrea sanguinolenta y profusa, fiebre persistente, afectación del estado general) imponen un tratamiento antibiótico.
+
+
+---- TRATAMIENTO
+
+La gravedad de los cuadros clínicos de las salmonelosis es imprevisible y la indicación de antibioticoterapia en el niño pequeño se fundamenta en criterios clínicos. Esta variabilidad del cuadro, junto con el carácter muy contagioso del germen, incita a vigilar el entorno y a buscar salmonelas en el entorno para evitar que contagien a otras personas, en especial a los pacientes de riesgo, con drepanocitosis o un déficit inmunitario.
+Los betalactámicos, de escasa penetración intracelular, son activos durante la fase de diseminación y curan el episodio infeccioso agudo. Por el contrario, no pueden llegar a todos los focos intracelulares, lo que explica las recaídas de la fiebre tifoidea a pesar de un tratamiento correcto. Las fluoroquinolonas constituyen el mejor tratamiento actual de las salmonelosis del adulto, puesto que combinan una actividad sobre las salmonelas y una fuerte penetración intracelular. No se emplean en pediatría como primera opción debido a su potencial toxicidad articular.
+En la práctica, lo habitual es comenzar con una cefalosporina de 3.a generación inyectable, continuar por vía oral con amoxicilina a partir de la mejoría y, en caso de fracaso, una fluoroquinolona.
+
+
+---- PORTADOR ASINTOMÁTICO
+
+El estado de portador asintomático de salmonelas en las heces después de un episodio agudo es frecuente. Los riesgos del estado de portador prolongado, para el propio niño y para su entorno, no se conocen con precisión y los posibles tratamientos apenas se han evaluado. Este estado de portador asintomático depende en gran medida de la edad: casi el 50% de los niños menores de 5 años y el 16% de los adultos excretan el germen en sus heces varias semanas después del episodio agudo.
+Las recomendaciones oficiales son precisas para las salmonelas tíficas (S. typhi y S. paratyphi A o B): se requiere la exclusión del niño de la escuela hasta la desaparición del germen en dos coprocultivos sucesivos, separados por 8 días. No existen disposiciones legales para las salmonelas no tíficas y se deja la iniciativa a los responsables de las guarderías o escuelas.
+
+
+--- DIARREA POR <ITALIC>ESCHERICHIA COLI</ITALIC
+
+El género Escherichia comprende cinco especies, de las cuales E. coli es, con gran diferencia, la más importante. Los colibacilos son comensales ampliamente difundidos del tubo digestivo y el diagnóstico de gastroenteritis por estas bacterias requiere la búsqueda de cepas con un poder patógeno particular en el coprocultivo. En la práctica, las pruebas son difíciles y la tendencia actual es hacia la biología molecular, que se aplica en los laboratorios de referencia.
+
+
+---- ESCHERICHIA COLI ENTEROPATÓGENA
+
+E. coli enteropatógena (EPEC), responsable de numerosas diarreas infantiles en el Tercer Mundo, fue la causa de las epidemias de las décadas de 1950 y 1960 en los países occidentales, en particular los serotipos 0111 y 055. El cotrimoxazol a veces resulta útil, pero la principal medida terapéutica es el tratamiento de la deshidratación mediante soluciones de rehidratación oral.
+
+
+---- ITALIC>ESCHERICHIA COLI</ITALIC> ENTEROTOXIGÉNICA
+
+E. coli enterotoxigénica (ETEC) constituye la principal causa de diarrea bacteriana infantil en el Tercer Mundo y una causa importante de diarrea del viajero en el adulto. La diarrea es intensa, de tipo tóxica y requiere el empleo de soluciones de rehidratación oral, pero no tratamiento antibiótico.
+
+
+---- ITALIC>ESCHERICHIA COLI</ITALIC> ENTEROHEMORRÁGICA
+
+E. coli enterohemorrágica (EHEC) es una cepa rara (E. coli 0157:H7) productora de verotoxina (o toxina tipo Shiga), responsable de un cuadro digestivo que puede consistir en diarrea sanguinolenta o bien en una diarrea banal o, incluso, casi asintomática. Esta toxina provoca, en el 10-15% de los casos, un síndrome hemolítico-urémico (SHU) relacionado con una microangiopatía trombótica glomerular, manifestación localizada de una coagulación intravascular, desencadenada por la toxina, cuyas expresiones clínicas son anemia grave con esquizocitos, trombocitopenia, insuficiencia renal y proteinuria. El riesgo de SHU es tanto más elevado cuanto más pequeño es el niño, que suele ser menor de 3 años de edad.
+El tratamiento antibiótico representa una cuestión difícil: su eficacia en cuanto a la aparición de un SHU es discutida aunque posible. Podría agravar claramente los problemas si el SHU ya ha comenzado. La verificación de los parámetros sanguíneos renales antes de una antibioticoterapia frente a una diarrea sanguinolenta sería una buena práctica.
+
+
+--- DIARREA POR SHIGELAS
+
+Las shigelas, bacterias gramnegativas no encapsuladas, se distribuyen en 40 serotipos que pertenecen a cuatro serogrupos: A (Shigella dysenteriae), B (S. flexneri), C (S. boydii) y D (S. sonnei). Las cepas que originan las formas más graves, con una mortalidad elevada, son S. dysenteriae y S. flexneri. Todas las cepas de shigelas segregan también en grado diverso una verotoxina o toxina tipo Shiga (el primer SHU se describió en el curso de una infección por shigelas).
+Las shigelas y E. coli enteroinvasivas, muy próximas a las shigelas, cuyos genes de virulencia poseen, provocan disenterías bacilares. Las shigelosis no sólo afectan al Tercer Mundo: las epidemias también son posibles en los países desarrollados. Las shigelosis constituyen una de las variedades más transmisibles de diarrea.
+El cuadro clínico, muy variable, consiste en una diarrea banal que se resuelve espontáneamente o, por el contrario, un síndrome disentérico con shock y manifestaciones neurológicas. Las convulsiones son muy frecuentes: el coprocultivo es una práctica sistemática en un niño febril y diarreico que presenta convulsiones.
+La búsqueda de shigelas mediante el coprocultivo no resulta siempre fácil, dado que el número de gérmenes puede ser escaso: los coprocultivos deben repetirse varias veces. Esto es tan importante que el control epidemiológico debe ser constante: es necesario declarar a las autoridades sanitarias las epidemias familiares, que generan un riesgo colectivo real.
+La diarrea por shigelas debe tratarse con antibióticos. El tratamiento de primera elección con ampicilina (100 mg/kg/día) o cotrimoxazol (50 mg/kg/día) sigue siendo de referencia en caso de sensibilidad de las cepas, así como el ácido nalidíxico (30-50 mg/kg/día en 3 tomas durante 5 días). Si no, la ceftriaxona es útil pero requiere de dos a cinco inyecciones para ser eficaz. En el caso de epidemias por gérmenes multirresistentes, las fluoroquinolonas se han vuelto indispensables, incluso en el niño; la esperanza de poder tratarlas con una dosis única es real. Escherichia coli 0157H7 y síndrome hemolítico-urémico Los colibacilos secretores de toxinas Shiga (verotoxinas) son gérmenes saprofitos del tubo digestivo de los mamíferos, cuyo principal reservorio lo constituyen los rumiantes domésticos. La contaminación humana es posible por la ingesta de carne o leche o por el consumo de agua dulce (río, lago) en zonas ganaderas.Las gastroenteritis provocadas por estos colibacilos, a veces epidémicas, se acompañan en el 50% de los casos (sólo) de diarrea sanguinolenta y se complican en el 10-15% de los casos con un SHU (un centenar por año, con una incidencia de 0,8 casos/año/100.000 niños < 15 años, pero de 3,3 casos/año/100.000 < 3 años). E. coli 0157H7 es el serotipo aislado con mayor frecuencia como origen de un SHU, pero pueden estar involucrados otros serotipos (0111, 026, 0103, 0126).La prevención es esencialmente de orden sanitario mediante la vigilancia veterinaria del ganado y de la calidad de los productos alimentarios (carnicería, lechería, quesería) y la extensión de la pasteurización.Los consejos para dar a las familias, particularmente para los niños más pequeños (<3 años), consisten en cocinar mucho las carnes (sobre todo las hamburguesas) y preferir los quesos elaborados con leche pasteurizada y cocida.Durante los períodos de vacaciones, la ruptura de la cadena de frío, la utilización de nevera portátil en lugar de la nevera del hogar y el consumo de agua dulce (manantial, pozos) en los paseos constituyen factores de riesgo evitables y, por tanto, deben conocerse.
+
+
+--- DIARREA POR CAMPYLOBACTER
+
+El género Campylobacter agrupa varias especies, entre las cuales la más importante es C. jejuni. Las diarreas por Campylobacter son más frecuentes que las diarreas por shigelas y su incidencia está subestimada. No se indica tratamiento, excepto en las formas graves y prolongadas o en pacientes inmunodeprimidos. Se debe tratar a los niños de comunidades que presenten diarrea prolongada, así como las formas más intensas con fiebre y diarrea sanguinolenta, en las que es posible realizar el diagnóstico mediante el estudio directo de las heces, que a menudo identifica Campylobacter.
+Por lo general, en el niño se prescriben macrólidos durante 5-7 días. Los antibióticos son eficaces en cuanto a la duración de la diarrea sólo si se indican muy temprano, lo cual rara vez es posible, puesto que el germen no se aísla antes del 5.° día del coprocultivo. Además, la excreción del germen en las heces puede persistir varias semanas después de la curación clínica del episodio diarreico.
+
+
+--- CÓLERA
+
+Los casos registrados en niños en los países de nuestro entorno son raros e importados. El diagnóstico es fácil en una zona endémica o en el curso de una epidemia. Se debe sospechar su presencia para buscar el vibrión mediante coprocultivo. En el paciente diarreico que vuelve de una zona de endemia la investigación del vibrión es del mismo rango que la de shigelas, colibacilos, Campylobacter y salmonelas.
+La antibioticoterapia reduce sólo en parte la duración de la diarrea. Disminuye sobre todo el estado de portador y, por consiguiente, el riesgo de contaminación. Esquemáticamente, los antibióticos sirven sobre todo para tratar a la población, dado que disminuyen el riesgo de transmisión del cólera. El único tratamiento que recibe el individuo es la solución de rehidratación oral, que puede curar por sí sola la enfermedad.
+
+
+--- DIARREAS POR ESTAFILOCOCOS
+
+Más del 50% de las cepas de estafilococos dorados puede producir enterotoxinas. Las toxiinfecciones alimentarias por estafilococos están relacionadas con la ingestión de alimentos contaminados, sobre todo carnes y productos lácteos. Su frecuencia no se conoce con precisión, ya que la declaración obligatoria no se adapta a los diferentes aspectos clínicos de las toxiinfecciones alimentarias en el niño y la búsqueda etiológica es a menudo incorrecta.
+La presencia de numerosos estafilococos en las heces de un niño con diarrea constituye un problema frecuente en pediatría. El tratamiento antibiótico no está indicado de manera sistemática, pero el tránsito parece a veces regularizarse cuando se erradica el estafilococo.
+
+
+- EVALUACIÓN DE LA GRAVEDAD DE LA DIARREA AGUDA
+
+El riesgo de la diarrea aguda reside casi exclusivamente en la deshidratación. Cuando un médico ve a un niño en riesgo de deshidratación se ayuda de una combinación de signos y síntomas que debe conocer (Cuadro III ). ¿Pueden estos signos y síntomas constituir una puntuación que permita optimizar el diagnóstico? Se han definido varias puntuaciones de gravedad de la deshidratación. La denominada de Ruuska-Vesikari es una escala de 20 puntos, al principio desarrollada para estudiar la eficacia de la vacunación antirrotavirus, que también se ha utilizado para evaluar la gravedad de la infección por rotavirus en un estudio europeo reciente. No obstante, ningún dato permite validar una puntuación en el ámbito de la toma de decisión individual, de manera que el análisis y la experiencia del médico tienen un valor primordial. Los factores de riesgo de deshidratación y sus manifestaciones se han descrito en detalle.
+
+
+-- FACTORES DE RIESGO DE DESHIDRATACIÓN
+
+Los factores de riesgo de deshidratación son las situaciones en las que la gastroenteritis amenaza con descompensar una enfermedad subyacente:•edad < 6 meses;•antecedentes de prematuridad, crecimiento intrauterino retardado;•cardiopatía, insuficiencia respiratoria crónica, enfermedad fibroquística, enfermedad metabólica, diabetes, insuficiencia renal crónica, insuficiencia suprarrenal;•frecuencia de deposiciones superior a 8 al día o de vómitos superior a 4 al día.
+
+
+
+-- DIAGNÓSTICO DE DESHIDRATACIÓN
+
+El diagnóstico de deshidratación requiere la asociación de varios signos clínicos, puesto que la sensibilidad y la especificidad de cada uno de ellos son mediocres. El número de signos presentes aumenta con la importancia de la deshidratación:•sed intensa o llanto incesante en el lactante pequeño;•sequedad de la mucosa yugal;•pliegue cutáneo persistente (se busca en el cuello o por debajo de la clavícula);•ojeras, hipotonía de los globos oculares;•ausencia de lágrimas en el llanto;•fontanela anterior hundida.
+
+
+-- DIAGNÓSTICO DE SHOCK HIPOVOLÉMICO
+
+Los signos de shock hipovolémico (deshidratación intravascular) se asocian a los signos precedentes:•trastornos de la conciencia, niño irritable, inconsolable;•tinte grisáceo, cianótico, extremidades frías;•taquicardia (frecuencia cardíaca > 160 lpm en el lactante);•polipnea > 40 respiraciones/min;•prolongación del tiempo de recoloración cutánea, medido en la frente o el esternón (no en las extremidades), que es patológico si supera los 2 segundos;•hipotensión es un signo demasiado tardío en el niño (por la importancia de la vasoconstricción que mantiene una presión arterial normal largo tiempo);•la oliguria y la anuria son difíciles de comprobar sin un dispositivo de recolección de orina.
+La comprobación de signos de shock justifica el aviso inmediato a los servicios de emergencia: se debe restablecer una volemia eficaz antes de la derivación hospitalaria.
+
+
+-- EN LA PRÁCTICA CLÍNICA
+
+Es esencial saber detectar los signos de deshidratación y de mala tolerancia de una diarrea aguda del niño para actuar con rapidez. En la Figura 1 se propone un algoritmo de decisión.Figura 1
+
+
+
+--- IDENTIFICAR LOS SIGNOS DE MALA TOLERANCIA DEL NIÑO
+
+Es esencial saber descubrir los signos de deshidratación y mala tolerancia de una diarrea aguda del niño para actuar con rapidez.
+Los dos signos fundamentales de deshidratación son el aspecto de los ojos, ojerosos con un hundimiento de los globos oculares, y los trastornos del comportamiento; el niño no se comporta como es habitual, según refiere la madre. Una mucosa seca y la ausencia de lágrimas constituyen también dos signos de gran valor.
+
+
+--- CONOCER LAS TRAMPAS CLÍNICAS
+
+El pliegue cutáneo es un signo clásico de deshidratación, pero puede ser engañoso. Este signo es a menudo tardío e indica una deshidratación grave y, por otra parte, los niños entre 8-12 meses son relativamente rollizos, lo que enmascara el pliegue cutáneo.
+La pérdida de peso corporal, otro marcador habitual de deshidratación, puede faltar. Cuando es acusada, su valor diagnóstico de gravedad es mayor. Pero puede estar enmascarada, si se constituye un tercer espacio, que corresponde a un volumen líquido estancado en la luz intestinal. Este volumen puede ser de 500-700 ml: si el niño elimina este líquido, su peso desciende bruscamente.
+El ritmo de las deposiciones es un parámetro clave. Si los padres refieren más de una deposición por hora durante más de 6 horas, debe considerarse un signo de gravedad potencial, que anuncia la instauración inminente de una deshidratación. La evolución de la diarrea puede llevar a modificar la intervención terapéutica.
+Se debe también ser muy cauto cuando las consultas se realizan por la noche y asegurarse de la capacidad de los padres para rehidratar a su hijo a lo largo de la noche. A veces es necesaria la vigilancia hospitalaria: cuando los consejos sobre rehidratación se proporcionan por la noche, existe el riesgo de que no se sigan entre la medianoche y las 7 horas de la mañana, por lo que el niño se encuentre deshidratado al amanecer.
+
+
+--- CUÁNDO HOSPITALIZAR
+
+La hospitalización es necesaria cuando la deshidratación es grave, si sobrepasa el 10% del peso corporal y se acompaña de signos clínicos patentes. En los países desarrollados, permite realizar una hidratación por vía nasogástrica o intravenosa, de corta duración, mediante la cual se supera una etapa que se completará con una rehidratación oral y una realimentación precoz.
+La hospitalización es también necesaria cuando, ante una deshidratación moderada, con una pérdida de peso inferior al 10% del peso corporal, el médico teme una evolución rápida, pues los síntomas han comenzado unas pocas horas antes. Otro factor de riesgo es la escasa adherencia del entorno familiar al concepto de rehidratación oral, por el temor de que la rehidratación no resulte lo mejor para el niño. La hospitalización permite entonces una rehidratación oral de buena calidad, supervisada por personal entrenado y acompañada por la familia, cuya presencia junto al niño es necesaria y además tiene un fin educativo.
+La hospitalización también se puede justificar cuando el paciente está desnutrido, una posibilidad que no es excepcional. En esta situación, la curación del episodio diarreico puede ser difícil y la restauración de la función de la mucosa, tardar en obtenerse. La puesta en marcha de una realimentación precoz puede ser la llave de la salvación.
+
+
+
+- REHIDRATACIÓN POR VÍA ORAL
+
+Desde la década de 1970, las soluciones de rehidratación oral (SRO) en el Tercer Mundo han permitido reducir la mortalidad de las diarreas agudas en el niño en más del 60% y suprimir el 80% de las perfusiones intravenosas. Sean cuales sean el agente infeccioso involucrado (virus o bacteria) y la fisiopatología de la diarrea, persiste una capacidad de absorción de electrólitos y, por tanto, de agua por parte de los enterocitos. Las SRO favorecen esta absorción por la presencia concomitante de glucosa y sodio. La eficacia de las SRO ha sido ampliamente demostrada por numerosos estudios y metaanálisis, con un porcentaje bajo de fracasos.
+La composición de las SRO ha evolucionado con el tiempo y el lugar de utilización (Cuadro IV ). La fórmula inicial de la Organización Mundial de la Salud (OMS)/UNICEF contenía 3,5 g de cloruro de sodio (90 mmol/l de sodio), 2,5 g de cloruro de potasio, 1,5 g de bicarbonato de sodio y 20 g de glucosa. La OMS (http://www.who.int/child-adolescent-health) revisó en 2004 la composición de las SRO y en la actualidad recomienda soluciones con una osmolaridad disminuida a 245 mOsm/l (75 mmol/l de sodio, 13,5 g/l de glucosa), que tienden a acercarse cada vez más a la de las SRO disponibles en Europa, que al principio eran más bajas en sodio, debido a que en las diarreas de esta región del globo las pérdidas de sodio son leves. Actualmente existe una doble tendencia, hacia la reducción de las cantidades de sodio en las SRO y hacia la uniformidad mundial, lo cual sigue las recomendaciones no sólo de la OMS sino también de las sociedades científicas, como la European Society of Pediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) , , .
+La composición de las soluciones actualmente disponibles sigue las recomendaciones de la ESPGHAN de 1992: aporte de sodio de 60 mmol/l, glucosa de 14-20 g/l y osmolaridad de 200-250 mOsm/l. Estas soluciones se reconstituyen diluyendo un sobre en 200 ml de agua poco mineralizada, se conservan en la nevera y se utilizan dentro de las 24 horas, sin añadir azúcar ni zumo de frutas, puesto que podría alterar la concentración y el equilibrio osmolar.
+El agua pura, el agua de arroz o las bebidas de cola no se adaptan a la hidratación de los lactantes. Las bebidas gaseosas tienen por lo general una osmolaridad elevada (hasta 500 mOsm/l), unida a una cantidad importante de azúcar, un contenido de sodio insuficiente y, por el contrario, un exceso de potasio (Cuadro V ).
+Desde el punto de vista práctico, la SRO se administra en pequeñas cantidades y con mucha frecuencia. Los vómitos no constituyen una contraindicación para su empleo. La frecuencia de las deposiciones puede aumentar transitoriamente, lo que puede inquietar a la familia: es necesario, por tanto, explicarlo de antemano. La cantidad que debe administrarse varía según la intensidad de la deshidratación, la edad, el peso y el estado clínico del niño, el cual beberá ad libitum en función de sus deseos. También es posible intentar la corrección del déficit hídrico en 4 horas, sobre la base del conocimiento de la pérdida de peso después de administrar 10 ml/kg por deposición diarreica o por vómito.
+Durante esta rehidratación es esencial la vigilancia de los padres (estado de conciencia, emisión de orina, presencia de lágrimas, peso, número y aspecto de heces y vómitos). En el hospital esta vigilancia se fundamenta también en parámetros objetivos (presión arterial, pulsos, etc.).
+El fracaso de la rehidratación oral, que se traduce fundamentalmente por una intolerancia alimentaria total, es una indicación de hospitalización obligatoria.
+La rehidratación oral se reemplaza entonces por una rehidratación mediante sonda nasogástrica o por vía intravenosa. La alternativa a la perfusión intravenosa de entrada es la administración de la SRO por sonda gástrica o por jeringa en goteo (por ejemplo, 5 ml por 5 ml).
+En las situaciones de extrema urgencia con intensa deshidratación en las que es indispensable una perfusión, siempre es muy útil ofrecer un biberón de SRO mientras se prepara la perfusión o la sonda nasogástrica. Esto permite «llenar» un poco las venas del niño y perfundir de manera mucho más fácil. En caso de perfusión intravenosa, se pueden administrar pequeñas cantidades de SRO por vía oral para ayudar a la reabsorción de agua y sodio. En la diarrea aguda es excepcional la necesidad de imponer reposo digestivo completo.
+
+
+
+- REHIDRATACIÓN POR VÍA VENOSA
+
+La rehidratación intravenosa se lleva a cabo según modalidades que tienen en cuenta la edad, el peso actual, la pérdida de peso y las necesidades básicas del niño, según las recomendaciones propias de cada servicio de urgencia.
+En la práctica, la rehidratación intravenosa, si es necesaria, asocia suero glucosado al 5% con 3 g/l de NaCl (en menores de 2 años) y 4,5 g/l (en mayores de 2 años), con un aporte de 150 ml/kg/día. Es posible realizar una estimación más precisa de la siguiente manera: 100 ml/kg/día para los primeros 10 kg, más 50 ml/kg/día para los kilogramos siguientes, más 20 ml/kg/día para los kilogramos por encima de 20 kg. En principio, la perfusión debe durar al menos 6 horas. Cuando el ionograma sanguíneo está alterado, lo más habitual es practicar el control de laboratorio después de las 6 horas.
+En caso de hipernatremia, la rehidratación oral es la más indicada; el volumen administrado debe ser un poco menor y el aporte de sodio, mayor, para corregir la deshidratación en 12 horas.
+En caso de shock, lo más habitual es que el reemplazo se realice mediante suero salino al 9% a razón de 20 ml/kg, seguido por expansores plasmáticos. Algunos recomiendan tratarlo con suero fisiológico, 20-40 ml/kg, y luego rehidratar por vía oral.
+
+
+- REALIMENTACIÓN EN LA DIARREA AGUDA
+
+Las sociedades europeas de pediatría han establecido estas recomendaciones , .
+No existe justificación para suspender la lactancia materna en un lactante que presenta una diarrea aguda.
+Tampoco está justificado retardar la reintroducción de la alimentación después de 4 horas de rehidratación oral exclusiva en un lactante alimentado anteriormente con una fórmula para lactantes o una fórmula de continuación.
+Para realimentar a un lactante de más de 4 meses, eutrófico, sin antecedentes patológicos, es necesario utilizar la leche que él recibía con la reconstitución normal de inicio. En el lactante de menos de 4 meses, ciertos autores proponen la reintroducción de la leche habitual, con o sin reconstitución progresivamente creciente, durante 2-3 días. Otros aconsejan la utilización sistemática durante 1-2 semanas de un hidrolizado de proteínas que no contenga lactosa, para prevenir la aparición de una alergia a las proteínas de la leche de vaca e, incluso, en caso de fracaso de estos productos, una fórmula basada en aminoácidos libres. La ausencia de estudios controlados no permite concluir la superioridad de una de estas prácticas respecto a las otras. Se aconseja utilizar un sustituto de la leche basado en proteínas hidrolizadas si existen antecedentes familiares de alergia y/o antecedentes personales. En este caso, se prosigue con la leche que el lactante recibía anteriormente durante 2-4 semanas según la intensidad de la diarrea y la situación individual (ningún estudio ha determinado la duración óptima del uso de estas fórmulas en este cuadro).
+La utilización de leches sin lactosa o pobres en ella puede estar justificada en caso de intolerancia a la lactosa que aparece en el curso de una gastroenteritis aguda por rotavirus. El diagnóstico de intolerancia a la lactosa se sospecha ante la reaparición de una diarrea profusa en las horas que siguen a la reintroducción de la leche habitual y se confirma por el pH ácido y la presencia de azúcares reductores en las heces. La rápida desaparición de la diarrea después de la introducción de una leche sin lactosa es también un argumento suplementario en favor del diagnóstico. El empleo de este tipo de leche durante 1-2 semanas por lo general es suficiente; éste es el tiempo necesario para la reparación de la atrofia vellositaria y para la restauración de una actividad de lactasa suficiente en los enterocitos.
+
+
+- TRATAMIENTO FARMACOLÓGICO
+
+Las recomendaciones europeas respecto al tratamiento farmacológico de las diarreas son claras, coinciden con las de la OMS y dan preferencia a la rehidratación oral , . La OMS considera antidiarreico al medicamento que reduce el volumen de las deposiciones al menos en un 30% en comparación con un placebo: pocos medicamentos disponibles en el mercado responden a este criterio; la mayoría de ellos sólo han demostrado reducir la duración de la diarrea.
+
+
+-- MEDICAMENTOS ANTIDIARREICOS
+
+Para los probióticos, numerosos metaanálisis han confirmado que un tratamiento con Lactobacillus (incluidas todas las especies y cepas) es eficaz en la reducción de la duración de la diarrea , en alrededor de un día en caso de infección por rotavirus. Ningún estudio ha constatado que los probióticos reduzcan el volumen de las heces. Su mecanismo de acción en las gastroenteritis consiste probablemente en una estimulación de la respuesta inmunitaria. Saccharomyces boulardii es un probiótico, mientras que Lactobacillus acidophilus, de acción similar, no corresponde exactamente a la categoría de probiótico, ya que ha sido inactivado mediante calor.
+La loperamida es un opiáceo que tiene a la vez un efecto antisecretor y de ralentización de la motricidad intestinal. Estudios realizados frente a placebo en el niño han mostrado su eficacia en cuanto a la reducción de la duración de la diarrea y del volumen de las heces, pero este medicamento ha sido responsable de muertes secundarias a íleo, por lo que está contraindicado en el niño menor de 2 años y desaconsejado en el niño mayor.
+El racecadotrilo es un inhibidor de la encefalinasa intestinal y posee una acción antisecretora pura, sin efecto sobre la motricidad intestinal. Dos estudios, uno de Perú y otro de Francia, han señalado una disminución del volumen de las heces, de alrededor del 50% en comparación con placebo, con una reducción de la duración de la diarrea de casi 2 días en el grupo con rotavirus, dato confirmado por otro estudio en Francia.
+La diosmectita es un agente intraluminal que disminuye también el volumen de las heces, sobre todo en caso de diarrea por rotavirus. Su eficacia en la reducción de la duración de la diarrea se demostró hace mucho tiempo, al igual que su acción sobre el aumento de la capacidad de absorción intestinal en el curso de la diarrea aguda.
+
+
+-- ANTIBIÓTICOS
+
+Los antibióticos pueden utilizarse para el tratamiento de diarreas invasivas graves (episodio brusco de una diarrea mucosanguinolenta con fiebre elevada). Los agentes más habituales son shigelas, Campylobacter y salmonelas. Se debe tratar a los niños hospitalizados y a los niños en guarderías para reducir la transmisión en la población. La elección del agente antimicrobiano depende de la prevalencia local de estos patógenos y de las resistencias.
+La antibioticoterapia no se recomienda en el curso de diarreas acuosas, a menos que el paciente haya viajado recientemente o que haya estado expuesto al cólera.
+La diarrea sanguinolenta con fiebre baja o nula es típica de E. coli productora de toxina Shiga, aunque también puede tratarse de una shigelosis o una salmonelosis moderada. Los antibióticos no están recomendados, a menos que la epidemiología sugiera la existencia de una shigelosis.
+Una antibioticoterapia parenteral, antes que por vía oral, se recomienda:•si el paciente es incapaz de utilizar la vía oral (vómitos, letargia);•cuando existe un déficit inmunitario, al que se añade una gastroenteritis con fiebre;•si existe una toxemia grave o una bacteriemia;•en los recién nacidos y los lactantes pequeños menores de 3 meses febriles, con perfil de septicemia y antibioticoterapia según los protocolos locales.
+
+
+- PREVENCIÓN DE LA DIARREA AGUDA
+
+Existen dos vacunas contra el rotavirus, de virus recombinantes vivos atenuados, disponibles sin receta y utilizadas en los lactantes a partir de las 6 semanas de vida. Una de ellas se administra en 2 dosis orales separadas como mínimo por 4 semanas y la otra, en 3 dosis orales, la primera entre las 6-12 semanas de vida y después con intervalos mínimos de 4 semanas antes de los 6 meses de edad. La eficacia de estas vacunas frente a las gastroenteritis graves por rotavirus se ha estimado en el 84,7% para la primera y el 98,0% para la segunda (los criterios son diferentes y hacen imposible cualquier comparación); la prevención de hospitalizaciones por gastroenteritis por rotavirus se ha valorado, respectivamente, en el 85,0 y el 95,8%. Estos productos pueden desencadenar irritabilidad, pérdida de apetito, diarrea, vómitos y fiebre. Algunos países, como Francia, han diferido la recomendación de esta vacuna, al contrario que otros países europeos, como Austria, Bélgica y Luxemburgo e incluso sociedades científicas como ESPID/ESPGHAN , .
+
+
+- CONCLUSIÓN
+
+El tratamiento de la gastroenteritis por rotavirus no es específico. Es esencialmente sintomático y se basa sobre todo en la rehidratación oral mediante las SRO. Numerosos estudios han mostrado, lamentablemente, que las recomendaciones, conocidas por los médicos, se aplican poco o nada, tanto en los países pobres como en los favorecidos, lo que conduce a un aumento mayor del coste económico de la diarrea en el mundo. Sólo el racecadotrilo y la diosmectita han mostrado un efecto favorable sobre el volumen de las deposiciones, único criterio de eficacia de un medicamento considerado por la OMS. La reciente introducción en el mercado de vacunas antirrotavirus ya ha modificado la epidemiología de esta enfermedad.

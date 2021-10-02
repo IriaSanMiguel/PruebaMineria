@@ -1,0 +1,107 @@
+EVALUACIÓN DEL TRATAMIENTO CON INFILTRACIONES INTRAARTICULARES EN LA PATOLOGÍA OSTEOARTICULAR DEL HOMBRO EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+El síndrome de hombro doloroso (SHD) es un motivo de consulta habitual en atención primaria (AP), ya que se estima que entre el 7 y el 34% de la población lo padecerá en algún momento de su vida, generando situaciones invalidantes con cierta frecuencia, lo que implica que se considere como la tercera patología musculoesquelética más común detrás de la afectación de rodilla y los trastornos de la columna. La etiología más frecuente en el SHD es la disfunción del manguito de los rotadores, que representa más del 70% de los casos. Esta entidad incluye la tendinitis per se, la bursitis y la rotura del manguito o de alguno de sus componentes, .
+Estas alteraciones, que se expresan como dolor, signos inflamatorios y/o limitación funcional, son las que condicionan una situación de incapacidad laboral temporal (ILT). Esto conlleva grandes implicaciones, tanto sociosanitarias como económicas, .
+El tratamiento de primera elección en el SHD son los AINE y el reposo articular. De los pacientes atendidos por este proceso, más de la mitad presentan persistencia de síntomas en el hombro después de un año del inicio del cuadro clínico, por lo que el manejo conservador suele ser insuficiente. En estos casos la infiltración intraarticular es un tratamiento adecuado como segundo escalón terapéutico, y frecuentemente el tratamiento de elección, .
+La principal finalidad de la infiltración consiste en disminuir la inflamación o el dolor y recuperar capacidad funcional, con escasos efectos secundarios, . Dicha técnica consigue un beneficio evidente para el paciente y para el sistema sanitario, siendo realizada de forma habitual en atención hospitalaria. También es empleada frecuentemente por médicos de familia instruidos, entrenados y formados en infiltraciones articulares, donde, en fases muy tempranas, se podría iniciar el tratamiento de forma precoz de este tipo de patologías, , evitando derivaciones y esperas innecesarias. No obstante, dada la heterogeneidad de su uso en AP, sería recomendable normalizar las guías de indicación y realización de infiltraciones en este escenario asistencial.
+El objetivo principal del estudio fue evaluar la respuesta clínica a las 24 semanas de la infiltración, medida como alivio del dolor y recuperación funcional; de la patología osteoarticular y tendinosa de hombro en el ámbito de AP, así como detectar factores asociados a mala respuesta al tratamiento de infiltración.
+
+
+- PACIENTES Y MÉTODO
+
+-- DISEÑO Y ÁMBITO
+
+Se utilizó un diseño de serie de casos de carácter longitudinal a partir de pacientes sometidos a tratamiento con una inyección intraarticular, sin control de imagen, de corticosteroide y anestésico local en la articulación escapulohumeral, describiendo su evolución a 1, 4, 12 y 24 semanas postinfiltración. Fueron incluidos todos los pacientes susceptibles que acudieron por patología osteoarticular y periarticular del hombro que cumplieron los criterios de admisión al estudio y aceptaron participar. El estudio reclutó todos los pacientes elegibles del Centro de Salud de Campohermoso (Níjar, Almería) desde el 1 de mayo de 2017 al 30 de abril de 2019.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Pacientes mayores de 18 años con fracaso del tratamiento farmacológico o no invasivo, con calificación en la escala visual analgésica (EVA) en rango moderado-grave y/o con una valoración en el Constant Score (CS) equivalente a un resultado medio-malo que hayan aceptado y firmado el consentimiento informado.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Embarazadas, pacientes con dos infiltraciones o más en la misma localización no efectivas y las contraindicaciones absolutas de las infiltraciones.
+
+
+-- TAMAÑO MUESTRAL Y PROCEDIMIENTO DE MUESTREO
+
+En una fase inicial se recogió una muestra piloto de 12 pacientes. La gran diferencia del tamaño de efecto en la variable de interés (EVA) antes y después del tratamiento hizo que, para una potencia del 90% en la aplicación de un test de comparación de medias apareadas, fueran requeridos solo 4 casos. Por este motivo se decidió finalmente realizar un reclutamiento de pacientes durante un periodo de 2 años, por muestreo consecutivo no probabilístico, hasta alcanzar el periodo de inclusión. Fueron reclutados un total de 66 pacientes.
+
+
+-- VARIABLES
+
+Se midieron variables de carácter sociodemográfico, antropométrico y clínico. Así, fueron evaluados la edad, el sexo y el índice de masa corporal (IMC). Se constató el diagnóstico que motivó la infiltración (tendinitis de los rotadores, tendinitis del bicipital y otros). El fracaso del tratamiento médico fue definido como la situación de tratamiento farmacológico con AINE y/o analgésicos durante al menos una semana sin respuesta al mismo.
+La respuesta al tratamiento con infiltración fue evaluada desde el punto de vista del dolor y de la funcionalidad. Para la valoración del dolor, antes y después del procedimiento se utilizó como instrumento la escala EVA, incluyendo a los pacientes que se encontraban en rango moderado-grave (≥ 4 puntos). Para la evaluación de la funcionalidad se usó el instrumento CS con una valoración equivalente a un resultado medio-malo (≤ 70 puntos sobre 100), también antes y después del procedimiento en 4 ocasiones, a la 1.ª, 4.ª, 12.ª y 24.ª semanas postinfiltración. Finalmente, fueron evaluadas el número de infiltraciones realizadas, la presencia de efectos secundarios y la necesidad de ILT.
+La respuesta fue considerada según dos categorías:•Buena: EVA leve ≤ 3 y un CS bueno ≥ 80.•Mala: EVA severo ≥ 8 y CS pobre ≤ 70.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un estudio descriptivo donde las variables cuantitativas se expresaron como media y desviaciones estándar o mediana y rango intercuartílico según la naturaleza paramétrica o no de sus distribuciones. Las variables categóricas se expresaron mediante tablas de frecuencias y porcentajes.
+El comportamiento de las variables en cuanto a normalidad fue evaluado con el test de Kolmogorow-Smirnov con corrección de Lillierfors cuando procedió. Se aplicó el test de Student, o el de suma de orden de Wilcoxon (cuando la distribución no fue normal) para el estudio de diferencias en las variables cuantitativas. Las variables cualitativas se compararon mediante la χ2 y el test exacto de Fisher. En el caso de las variables cuantitativas, además de la estimación de los rangos se obtuvo la diferencia entre los valores iniciales y finales, así como el intervalo de confianza al 95% para dicha diferencia.
+Para estudiar los factores asociados a mala respuesta post infiltración se realizó un procedimiento de regresión logística binaria para cada covariable respecto de la dependiente respuesta (buena/mala), con estimación de la odds ratio cruda (ORc) así como el valor p de la asociación. Posteriormente se introdujeron mediante un procedimiento forward las variables significativas en un procedimiento logístico multivariante y se extrajeron las OR ajustadas para valorar el efecto conjunto de las variables significativas sobre la variable de respuesta.
+Los intervalos de confianza se obtuvieron al 95% y los análisis fueron realizados con STATA versión 12 y SPSS versión 17.
+
+
+- RESULTADOS
+
+-- ESTUDIO DE NORMALIDAD PREANÁLISIS
+
+Las variables edad y CS antes de la infiltración mostraron un comportamiento «normal». Para el resto de ellas se usaron contrastes no paramétricos.
+
+
+-- PERFIL DEL PACIENTE TRATADO CON INFILTRACIÓN
+
+Durante el período de estudio se infiltró a 66 pacientes, con una pérdida del seguimiento en dos de ellos. La edad media de los mismos fue de 51,1 años (DE: 14,7). Los grupos de edad predominantes en el estudio se encontraron en los intervalos etarios comprendidos entre 50-65 años (39,4%) y 30-49 años (37,9%). El 57,6% fueron mujeres y al 63,3% se les infiltró el hombro derecho. Solo el 3% requirieron infiltración de ambos hombros. En relación con la ocupación laboral, el 54,6% pertenecían al sector de la agricultura .
+El 22,7% de los pacientes tratados con infiltración precisaron ILT. Los pacientes en ILT cursaron con una mediana de 14 días (rango 7-56 días), excluyendo dos pacientes con ILT de 360 días y que fueron considerados como valores atípicos.
+
+
+-- RESPUESTA A LA INFILTRACIÓN. ESTUDIO EVOLUTIVO
+
+La mayoría de los pacientes precisaron una única infiltración (80,3%) y el resto (19,7%) una segunda. Respecto a las patologías infiltradas, la más frecuente (90,9%) fue la tendinitis de los rotadores. En cuanto a la medicación previa, el 87,9% fueron tratados con AINE y el resto con otros analgésicos o ambos. Tan solo el 7,6% habían realizado tratamiento fisioterapéutico antes de la infiltración. Los pacientes fueron cumplidores con las recomendaciones postinfiltración en el 68,2% de los casos y solo sufrieron efectos secundarios leves un 9,4% (rubefacción en dos pacientes).
+
+
+-- ESTUDIO BIVARIANTE
+
+Se consideraron los 64 casos que presentaron valores válidos, excluyéndose dos pacientes con valores inválidos. De ellos presentaron buena respuesta 46 pacientes (70% de los casos).
+Se encontró asociación de las variables edad (ORc: 1,053; IC 95%: 1,101-1,098; p = 0,015), ser jubilado (ORc: 22,00; IC 95%: 4,053-119,426; p < 0,001) y síntomas a la rotación interna (ORc: 0,027; IC 95%: 0,607-0,970; p = 0,027) con una buena respuesta a la infiltración en la medición a las 24 semanas. El resto de las variables no mostraron asociación estadísticamente significativa con la respuesta a la infiltración.
+
+
+-- RESULTADOS ANTES Y A LOS 6 MESES TRAS LA INFILTRACIÓN
+
+Los resultados clínicos que se obtuvieron con la utilización de dos escalas (EVA y CS) fueron evaluados previamente a la infiltración y posteriormente a la 1.ª, 4.ª, 12.ª y 24.ª semanas de la realización de la misma y fueron estadísticamente significativos (p < 0,001) . Además, podemos observar la importante diferencia de medias que encontramos entre el EVA y CS inicial y final .Figura 1
+Finalmente se creó un modelo de regresión logística binaria para detectar factores asociados a una mala respuesta a la infiltración. Se incluyeron en el modelo las variables que fueron significativas en el análisis bivariante y se siguió el algoritmo forward para estimar el modelo final. Tan solo el ser jubilado (OR: 37,82; p = 0,001) y tener un puntaje EVA previo a la infiltración superior a 8 (OR: 15,67; p = 0,055, cuasi significativo) se asociaron a mala respuesta en el modelo final (tabla 3, regresión logística). El modelo presentó una buena capacidad de calibración (test de Hosmer-Lemeshow, p = 0,83%).
+
+
+- DISCUSIÓN
+
+La prevalencia de la patología del hombro doloroso es elevada y genera situaciones invalidantes que frecuentemente conllevan importantes implicaciones sociosanitarias y/o económicas. A pesar de que tradicionalmente esta técnica se ha considerado de uso exclusivo de traumatólogos y reumatólogos, hay poca literatura que muestre evidencias sobre su eficacia, la disminución de listas de espera y la demora de valoración del paciente en otros niveles asistenciales. Este estudio podría ayudar a implantar la infiltración en las consultas de AP como una herramienta habitual, ya que es una técnica sencilla y con escasas complicaciones.
+A lo largo de este trabajo hemos podido demostrar que tras una única infiltración articular disminuye significativamente el dolor y mejora la funcionalidad del hombro en la primera semana, efecto que aumenta y se mantiene a largo plazo. Coincidimos con los resultados obtenidos por otras publicaciones en las cuales el número medio de infiltraciones realizadas fue de 1,5 (± 0,6), , , siendo en el nuestro un poco inferior, con una media de 1,2 (± 0,4).
+Los resultados presentados concuerdan con los de otros autores que demuestran que en el SHD las infiltraciones intraarticulares y periarticulares favorecen una disminución del dolor e impotencia funcional, . Evidenciamos una disminución de dolor, pasando de un EVA de 8,65 a 2,39 (severo a leve) en la primera semana y disminuyendo, posteriormente hasta 1,1 en la semana 24 tras la infiltración. En relación con la mejoría funcional del paciente, encontramos un CS de 30,17 a 73,72 (pobre a media) en la primera semana, aumentando a largo plazo, 24 semanas, a 82,96 (buena) de media. No obstante, actualmente existe controversia entre los distintos autores, pues algunos no han detectado mejoría funcional a largo plazo y otros sí lo han hecho de modo indiscutible, . Esta diferencia creemos puede estar en relación con una forma no homogénea por parte de los diferentes autores en la evaluación de la mejora funcional, lo cual dificulta la comparabilidad entre los estudios.
+Podríamos achacar la mejoría obtenida en nuestro trabajo con la edad de los pacientes infiltrados; así, determinados estudios relacionan esta mejoría con una edad más joven, pero este dato no lo vemos reflejando en nuestro estudio, donde la edad media de los mismos fue de 51,1 años (DE: 14,7) y el grupo de edad predominante se encontró en el intervalo etario comprendido entre 50-65 años (39,4%).
+En las últimas revisiones, una mejor opción a los corticoides es el empleo de ácido hialurónico y plasma rico en plaquetas; sin embargo, ha de tenerse en cuenta que en otros artículos los resultados indican que los corticosteroides son más efectivos que el ácido hialurónico y el plasma rico en plaquetas para aliviar el dolor de la osteoartrosis de cadera; además, el coste estimado de estos últimos es sensiblemente superior al uso de corticoides. Por otro lado, se ha evidenciado que una sola dosis de corticosteroides debilita significativamente los tendones del manguito rotador (estudiado en ratas, tanto de tendones intactos como lesionados) en una semana. Este efecto es transitorio, ya que las propiedades biomecánicas de los grupos expuestos a esteroides volvieron de nuevo a los niveles de control a las 3 semanas.
+La patología más frecuente que precisó infiltración fue tendinitis de los rotadores (90,9%), cuyo tiempo estándar de ILT son 30 días. El 22,7% precisaron ILT, en cuyo caso se dieron de alta con una mediana de 14 días (rango 7-56 días) tras la primera infiltración (excluyendo dos pacientes con ILT, por motivos diferentes) con una duración de 360 días, indicándonos en este caso la disminución del 50% del tiempo de recuperación en este tipo de patología.
+Nuestros resultados difieren de otros estudios, donde la media de alta de ILT tras la infiltración es de 7 días. Esta diferencia puede deberse a que en estos trabajos se evaluaba la respuesta al tratamiento en las distintas regiones anatómicas, las cuales presentan un tiempo estándar de ILT también diferente.
+Otras investigaciones encuentran que la duración media de los procesos de ILT es superior en el medio rural (ámbito de estudio en el que nos situamos). Si a esto añadimos que, en otro estudio, en el cual analizaron las causas de repetición de ILT, los autores detectaron que la primera causa que la produce fueron las enfermedades osteomusculares (29%), el utilizar una técnica accesible como la infiltración en AP, que acorte el periodo de ILT, es beneficioso desde el punto de vista coste-efectivo.
+En ese mismo trabajo se expone que las causas más frecuentes de repetición de ILT fueron también las enfermedades osteomusculares, en primer lugar en varones y en segundo lugar en mujeres. No hay datos detallados sobre el impacto económico producido, pero no cabe duda de que este tipo de técnicas que acortan los tiempos de espera eliminan derivaciones innecesarias, ofrecen una mejoría a largo plazo y aportan una disminución del gasto de forma notable.
+Sería de gran utilidad poder conseguir un modelo de predicción de respuesta para alcanzar mejores resultados. Según nuestro trabajo encontramos como predictor a una mala respuesta el estar jubilado, ya que la regresión logística descarta que haya confusión entre la edad y el hecho de estar jubilado y tener un EVA previo a la infiltración > 8 (OR: 15,67; p = 0,055, cuasi significativo). A pesar de que en la literatura no hemos podido encontrar datos que apoyen estas conclusiones, creemos que estos resultados se pueden deber, entre otros factores, al tipo de población estudiada, en nuestro caso rural, donde los pacientes pasan de una vida muy activa a una más sedentaria. Por otro lado, el tener una percepción de dolor subjetiva > 8, puede orientarnos a realizar un diagnóstico diferencial con una lesión de mayor gravedad, y reevaluar si nuestro diagnóstico inicial es el correcto y este tratamiento el más adecuado. Así, estos datos podrían ayudarnos a considerar, en este tipo de pacientes que cumplan una o dos variables, la no realización de la técnica.
+Tan solo se registraron complicaciones de carácter leve en dos pacientes, dato que corrobora el escaso número de efectos secundarios, como muestran otros estudios en los que tampoco hubo reacciones adversas importantes. Se describen casos de atrofia cutánea en la zona de infiltración (tendinitis de Quervain) que se resolvieron espontáneamente a los 6 meses, indicando el buen margen de seguridad del manejo de esta técnica, .
+A pesar de los resultados obtenidos en nuestro trabajo, somos conscientes de que presenta una serie de limitaciones. Una de ellas es la alta prevalencia de la principal etiología en el SHD, lo que conlleva una baja prevalencia del resto de patologías, y estas se reducen a un total de tres, reflejadas como diagnóstico en el artículo. Otros trabajos encontraron una evolución favorable a medio y a largo plazo con el uso de la triamcinolona acetónido; por el contrario, en nuestro estudio no pudimos llegar a dicha conclusión, ya que la totalidad de las infiltraciones se realizaron con dicho corticoide. Además, no podemos comparar con otras publicaciones la respuesta subjetiva al dolor o la valoración funcional, ya que en nuestro estudio usamos las escalas EVA y CS, que no han sido aplicadas en la literatura revisada, con lo que deberían hacerse otros estudios prospectivos donde sí se incluya la valoración de estos instrumentos de medida estandarizados.
+Pese a que determinadas revisiones constatan poca evidencia para avalar la eficacia de la infiltración intraarticular y periarticular de corticosteroides en el tratamiento de la enfermedad del manguito rotador, nuestro análisis refleja que el 70% de los pacientes estudiados presentan una buena respuesta a largo plazo (24 semanas), tanto en la disminución de dolor como en la mejoría funcional, ofreciendo de esta forma una alternativa terapéutica accesible al médico de familia, , , .
+Tras la realización de nuestro trabajo, el hecho de poder aplicar las infiltraciones a los pacientes desde AP, en un centro de salud no urbano, aporta, entre otros beneficios, una mejoría en el abordaje de la patología del SHD, evitando polimedicación y efectos secundarios de esta; supone un ahorro de tiempo y sufrimiento al paciente, ya que, en una gran proporción de casos, el cuadro responde a largo plazo con una sesión; acelera la recuperación funcional; evita derivaciones al especialista y pérdida de días laborales en una población activa; aporta equidad en el acceso del paciente a los recursos disponibles en AP, y mejora la fidelización del cupo, evitando consultas innecesarias.
+El médico de familia también se beneficia, ya que la infiltración local supone un incremento de sus escasos recursos, mejora su capacidad resolutiva, diversifica un poco su actividad y contribuye a mejorar la relación con el paciente.
+En conclusión, creemos que la simplicidad de los recursos necesarios para su aplicación y la ganancia en accesibilidad para los pacientes impulsan a incluir estos tratamientos entre la cartera de servicios que se prestan en los centros de salud. Debido a todo esto sería interesante la realización de más estudios de mayor tamaño muestral que permitan el uso de test paramétricos de este tipo en el ámbito de AP.
+
+
+- FINANCIACIÓN
+
+El estudio no cuenta con financiación externa.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.Puntos claveLo conocido sobre el tema•El síndrome de hombro doloroso (SHD) es motivo de consulta frecuente en atención primaria (AP), dando lugar a un elevado impacto socioeconómico.•La etiología más frecuente en el SHD es la disfunción del manguito de los rotadores.•El tratamiento conservador en ocasiones es insuficiente. Las infiltraciones en numerosos estudios han demostrado efectividad a corto plazo.Qué aporta este estudio•La administración intraarticular de corticosteroides en el SHD, disminuye el dolor del paciente y aporta una mejoría funcional tras la primera semana postinfiltración, perdurando dicha mejoría a las 4 semanas y manteniéndose a largo plazo.•Esta técnica permite, en la mayoría de los tratados, una rápida incorporación laboral con una sola infiltración a las 2 semanas, disminuyendo en un 50% el tiempo de recuperación en este tipo de patología, con escasos efectos secundarios.•Encontramos que son factores previos de mala respuesta a la infiltración en el SHD el estar jubilado y presentar una puntuación preinfiltración en la escala EVA mayor a 8.

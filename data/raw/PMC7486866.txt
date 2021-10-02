@@ -1,0 +1,80 @@
+RADIOFARMACIA HOSPITALARIA EN ARGENTINA DURANTE LA PANDEMIA DE COVID-19. CRITERIOS Y FUNDAMENTOS PARA LA ORGANIZACIÓN DEL TRABAJO
+
+
+- INTRODUCCIÓN
+
+Actualmente nos toca atravesar una pandemia, por lo cual todas las actividades se modifican a fin de transitarla de la manera más segura posible. La Radiofarmacia Hospitalaria no está exenta y debe tener un adecuado plan de trabajo, cuya propuesta constituye el motivo del presente artículo.
+La práctica segura de los procedimientos diagnósticos y terapéuticos realizados en el ámbito de la Medicina Nuclear requiere del permanente suministro de radiofármacos de alta calidad preparados de acuerdo a las buenas prácticas radiofarmacéuticas. Este es el objetivo de la Radiofarmacia Hospitalaria.
+El responsable de la Radiofarmacia Hospitalaria debe ser un profesional cualificado, que garantice el producto final y la aplicación de un sistema de calidad que asegure todos los aspectos de las buenas prácticas radiofarmacéuticas. Se debe poner énfasis en la necesidad de actuar con previsión y desarrollar una cultura de evaluación y supervisión constantes, , .
+El conjunto de capacidades y competencias, tecnológicas u organizativas, puestas a disposición del servicio de Medicina Nuclear mediante la Radiofarmacia Hospitalaria permite adoptar medidas que conduzcan a la mejora del servicio prestado, siendo un valor agregado frente a situaciones críticas como una pandemia.
+En el escenario actual es posible que pacientes COVID-19 positivos o sospechosos requieran prácticas de Medicina Nuclear para lo cual se tomarán todas las medidas sanitarias adecuadas, con la finalidad de proteger la salud del personal que realice la práctica, asegurando así la continuidad de la prestación del servicio.
+Los documentos consultados, tanto institucionales CNEA, como internacionales, el OIEA, , la OMS y otras publicaciones científicas, , , , fundamentan el protocolo de seguridad diseñado.
+
+
+- RECOMENDACIONES GENERALES PARA EL PERSONAL EN EL DESARROLLO DE TAREAS
+
+A fin de cumplir con los objetivos específicos de la Radiofarmacia Hospitalaria se enumeran las recomendaciones generales inherentes al Centro de Medicina Nuclear de la CNEA, dada la vinculación de las dos áreas:-Reforzar medidas de higiene general.-Respetar las normas de higiene de ingreso del personal y pacientes para evitar la circulación viral del exterior al interior del Centro de Medicina Nuclear.-Capacitar al personal proporcionándole la instrucción indicada para la situación de pandemia y definir controles de cumplimiento que aseguren el funcionamiento de Radiofarmacia según el presente protocolo.
+Según la OMS, durante la pandemia se deben considerar los siguientes puntos a fin de asegurar la salud del personal, de los pacientes y de las personas vinculadas, familiares, etc. Utilizando estas consideraciones, se proponen las siguientes estrategias de trabajo:1.Coordinar tareas.
+Segregar al personal en equipos fijos con días distintos, reduciendo el personal a lo mínimo indispensable y fomentando la comunicación y el trabajo interdisciplinario.
+Cada grupo tendrá un responsable profesional con autonomía para la toma de decisiones, evitando así demoras en las actividades que podrían ocasionar mayor exposición del paciente y del personal.2.Establecer tareas relevantes.
+Hacer un consenso médico para establecer qué estudios son de urgencia y cuáles pueden ser reprogramados, a fin de no exponer al personal innecesariamente en el ambiente hospitalario. Por ejemplo, los radiofármacos para estudios tales como detección de ganglio centinela, localización de hemorragias digestivas o estudios cardiológicos de urgencia, se marcarán en el día.3.Optimizar las plataformas para utilizar al máximo las posibilidades de acceso remoto.
+Fomentar la comunicación telefónica interna en el servicio, como por reuniones virtuales periódicas entre los profesionales de los distintos sectores. Es primordial la comunicación fluida del personal y de los responsables de cada área.4.Establecer un flujo efectivo y seguro de pacientes y del personal.
+Favorecer el distanciamiento social entre el personal de salud y los pacientes, y entre el mismo personal de salud, organizando una agenda de pacientes de manera que permitan al personal desempeñar sus tareas con calma y a conciencia, así como la realización de las correspondientes tareas de desinfección (de equipos, de sectores comunes, etc.).5.Contar con mecanismos rápidos de provisión y reposición de Equipo de Protección Personal (EPP), según la tarea.
+Proveer al trabajador de los insumos personales necesarios para asegurar su protección. De faltar algún elemento dar aviso inmediato al responsable del sector para que se arbitren los medios necesarios, a fin de que se repongan los mismos. No se permitirá desarrollar tareas sin los elementos necesarios de protección personal que la misma requiera.6.Llevar control de stock y registro de entrega de elementos de desinfección y EPP.
+Cada trabajador deberá contar con su EPP. Deberá dejar asentado que el mismo le fue entregado cerrado, siendo responsable de su cuidado, uso correcto y posterior descarte, .
+
+
+- CONSIDERACIONES ESPECIALES VINCULADAS AL PERSONAL DE RADIOFARMACIA HOSPITALARIA
+
+En caso de que algún integrante del personal de Radiofarmacia Hospitalaria, durante o posterior a su jornada laboral, tenga sospechas de estar infectado o presente un síntoma de COVID-19, o que en los últimos 14 días haya estado en contacto con algún caso confirmado, se informará al correspondiente jefe inmediato y al Servicio Médico según dependencia. Por lo tanto, no deberá concurrir al Centro de Medicina Nuclear, no se trasladará fuera de su domicilio y efectuará aislamiento social obligatorio, más allá de ser un trabajador considerado esencial.
+El personal de Radiofarmacia Hospitalaria se encuentra capacitado y entrenado en el manejo aséptico de inyectables, las tareas se desarrollan en un área limpia bajo protocolos ya establecidos, lo que permite la dispensación segura de radiofármacos, de acuerdo al Sistema de Gestión de Calidad de Radiofarmacia Hospitalaria de CNEA (fig. 1 ).Figura 1
+En el área limpia y cuarto caliente se reforzarán los protocolos de limpieza periódica y se verificarán los registros de su realización.
+Se considerará que el ingreso del personal al cuarto caliente debe ser en momentos en que el paciente se encuentre a una distancia segura.
+
+
+- ADAPTACIÓN DE LAS CONDICIONES DE TRABAJO A LA PANDEMIA COVID-19. CRITERIOS Y FUNDAMENTOS BIOQUÍMICOS E INMUNOLÓGICOS
+
+Hasta el momento no existe profilaxis para combatir esta enfermedad, por lo tanto, debemos prevenir los contagios, buscando criterios útiles para evitar la diseminación del virus en nuestras tareas esenciales compartidas. Además de criterios para elegir las pruebas diagnósticas, pronósticas y detección del desarrollo de inmunidad protectora. Las acciones deben lograr minimizar el factor de contagio, y esto no sería posible sin medidas mitigantes.
+Se han publicado artículos referidos a los cuidados que debe tener el personal de salud y otros trabajadores esenciales, en los que se describen criterios útiles para la organización de los grupos de trabajo, , .
+La actividad de la Radiofarmacia Hospitalaria debe posicionarse en la actual situación de pandemia, mediante un manejo simple y claro de conceptos bioquímicos e inmunológicos.
+Después del descifrado del genoma viral en China, se utilizó la secuenciación del ARN que lo compone para diseñar distintas pruebas diagnósticas en todo el mundo. La prueba reacción en cadena de la polimerasa con transcriptasa inversa (RT-PCR) detecta la presencia del virus. La especificidad teórica de las pruebas RT-PCR es del 100% porque el diseño de la imprimación es específico de la secuencia del genoma del SARS-CoV-2.
+En cuanto a la respuesta inmunológica se debe recordar el mecanismo de reclutamiento de glóbulos blancos o linfocitos que son los productores de anticuerpos (Ac).
+Existen dos tipos de linfocitos: los B y los T. Los linfocitos B son responsables del sistema inmunitario mediado por anticuerpos, es decir, se diferencian en células plasmáticas que producen anticuerpos frente a los antígenos, que son proteínas constituyentes del virus. Los linfocitos T son responsables del sistema inmunitario mediado por células. Algunos se diferencian en linfocitos T citotóxicos (linfocitos T citolíticos) y linfocitos citolíticos naturales (natural killer), que establecen contacto físico y destruyen las células extrañas o alteradas por el agente infeccioso. Ciertos linfocitos T son responsables de la iniciación y desarrollo (linfocitos T cooperadores [helper]) o de la supresión (linfocitos T reguladores [linfocitos Treg]) de la mayoría de las respuestas inmunitarias mediadas por anticuerpos o células. Esta regulación ocurre mediante la liberación de moléculas de señalización conocidas como citoquinas.
+La inmunidad mediada por anticuerpos se estudia mediante análisis serológicos, a través de ensayos ELISA (ensayo inmunológico desarrollado mediante enzimas y cuantificable por espectrofotometría), los que analizan la presencia y cuantifican inmunoglobulinas. La variedad de los antígenos del virus permite el diseño de distintos kits diagnósticos. El siguiente gráfico (fig. 2 ), muestra el perfil inmunológico teórico en una infección viral.Figura 2
+Tras la infección se generan anticuerpos de tipo IgM (que son detectables a partir de los 7 días postinfección), y luego anticuerpos de tipo IgG (detectables a partir de los 14 días postinfección).
+El gráfico que se muestra a continuación, en la figura 3 , ilustra la cinética de la respuesta inmunológica de una persona infectada y su vinculación con la valoración de riesgo de contagio y propagación del virus.Figura 3
+La carga viral generalmente alcanza su punto máximo temprano en la enfermedad, y luego disminuye a medida que se desarrollan anticuerpos, y los títulos de anticuerpos aumentan en las siguientes 2 a 3 semanas.
+La utilidad de este criterio es que una persona inmunocompetente desarrolla este perfil inmunológico en caso de contagio, por lo cual es importante esta consideración en la organización de los grupos de trabajo.
+El diagnóstico serológico es especialmente importante para los pacientes asintomáticos, o con enfermedad leve a moderada. Se está convirtiendo en una herramienta importante para entender el alcance de la COVID-19 en la comunidad, e identificar a las personas que son inmunes y potencialmente «protegidas» de infectarse.
+El marcador serológico más sensible y seguro es la determinación de anticuerpos IgM e IgG. Los niveles más altos se producen en la segunda y tercera semana de enfermedad, aunque se ha encontrado que IgM e IgG por ELISA son positivos incluso al cuarto día después del inicio de los síntomas.
+Este método tiene una especificidad superior al 95% para el diagnóstico de la COVID-19, que emparejado con la PCR inicial y su repetición, dos semanas más tarde, pueden aumentar aún más la precisión del diagnóstico. Se desconoce la persistencia a largo plazo y la duración de la protección conferida por los anticuerpos neutralizantes.
+La rápida extensión del contagio por SARS-CoV-2 ha mostrado que es importante poder tener pruebas diagnósticas específicas que puedan identificar a los pacientes infectados por el virus, así como a aquellos que han generado protección frente al mismo.
+En pacientes con clínica compatible y PCR negativa, la presencia de anticuerpos ayudaría a confirmar el diagnóstico de COVID-19, .
+El curso temporal de la positividad de la PCR y la seroconversión puede variar en niños y otros grupos, incluida la gran población de individuos asintomáticos, que no se diagnostican sin vigilancia activa.
+Quedan muchas preguntas por responder, particularmente cuánto tiempo dura la inmunidad potencial en individuos, tanto asintomáticos como sintomáticos, que están infectados con
+SARS-CoV-2.
+
+
+- APLICACIÓN A LA ORGANIZACIÓN LABORAL
+
+A nivel laboral, la bibliografía reciente permite hacer la siguiente categorización dentro del plantel de trabajo, considerando el análisis de su perfil inmunológico:
+Considerando los perfiles inmunológicos teóricos, el personal afectado a las tareas debe concurrir una semana a sus actividades laborales en forma presencial y dos semanas de trabajo remoto, a fin de minimizar, al reintegrarse, las probabilidades de contagio a sus compañeros y al ambiente hospitalario en general.
+En el siguiente gráfico (fig. 4 ) se muestra cómo se desarrolla el perfil inmunológico de un trabajador en caso de contraer la enfermedad en forma asintomática durante su semana de trabajo presencial en la institución de salud.Figura 4
+Si el infectado posee manifestaciones muy leves, o dudosas de infección, el perfil inmunológico mostrado en los gráficos anteriores demostraría que esta siguió su curso. Desde el punto de vista bioquímico las variaciones del nivel de anticuerpos a IgM y luego a IgG indicarían que el trabajador adquirió inmunidad.
+Como lo indica el significado de la palabra «inmunidad», el huésped invadido resistió al agente invasor y por lo tanto no sería posible la transmisión, fundamental para evitar contagios masivos de personal.
+El SARS-CoV-2, como la mayoría de los virus, invade las células humanas con una exclusiva proliferación intracelular, vinculada a sus características particulares de las cuales, actualmente, hay mucho desconocimiento. En cambio, las reacciones particulares del huésped no tienen grandes variaciones. Estas se referirán principalmente, a diferencias en la duración de la inmunidad, siendo en general más prolongada la inmunidad antivirus que antibacterias.
+
+
+- CONCLUSIÓN
+
+Para estudios epidemiológicos y planificación laboral, es importante considerar la presencia de anticuerpos específicos, con el fin de poder contener los contagios, así como para conocer el porcentaje de aquellos trabajadores que han generado inmunidad protectora.
+Los criterios considerados conducen a valorar el estado de inmunocompetencia ante el virus y la reincorporación del personal a sus puestos de trabajo, a prevenir el contagio y la diseminación viral, y a colaborar con el impacto económico que genera la pandemia por COVID-19.
+Se concluye que la seguridad del recambio de personal se fundamenta en la inmunidad, y esto respalda el modelo de segregación en tres equipos: un equipo que trabaja presencialmente durante una semana, y luego es reemplazado por otros dos equipos en las siguientes dos semanas (fig. 5 ).Figura 5
+De esta manera, si un integrante del equipo adquiere la enfermedad, aún sin presentar síntomas, no tendrá contacto con los otros equipos de trabajo dada la rotación que se propone. Todos guardan un período de 14 días donde desarrollarán la enfermedad y/o adquirirán inmunidad, disminuyendo la probabilidad de diseminación y contagio.
+El esquema propuesto de rotación garantiza la continuidad de las actividades de la Radiofarmacia Hospitalaria, siendo las mismas tareas asistenciales esenciales para el diagnóstico y tratamiento de pacientes, dada la calidad asegurada del producto marcado, que dicha instalación dispensa.
+Se concluye que, considerando el perfil inmunológico normal de un individuo ante una infección viral y suponiendo que una persona asintomática concurre a trabajar, la segregación en al menos tres equipos de trabajo, de rotación semanal, aseguraría la prestación del Centro de Medicina Nuclear.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,44 @@
+GLUCOCORTICOIDES SOLOS VERSUS TOCILIZUMAB SOLO O GLUCOCORTICOIDES MÁS TOCILIZUMAB EN PACIENTES CON NEUMONÍA GRAVE POR SARS-COV-2 E INFLAMACIÓN MODERADA
+
+
+- INTRODUCCIÓN
+
+En diciembre de 2019 se identificó un síndrome respiratorio grave asociado a un nuevo coronavirus humano, SARS-CoV-2, que rápidamente se ha convertido en un problema de salud pública mundial. Este síndrome comprende diversas fases clínicas con una hiperinflamatoria, que suele suceder entre el 6.°-13.° días tras el inicio de la infección. Existe una correlación directa entre esta hiperinflamación, la gravedad de la neumonía y la progresión hacia fallo respiratorio y muerte. Diversos tratamientos se han utilizado en esta fase, aunque solo los glucocorticoides han demostrado reducir la estancia media hospitalaria, el ingreso en UCI y la mortalidad, . Estudios observacionales sugieren que otros fármacos como el tocilizumab, un anticuerpo monoclonal humanizado dirigido frente al receptor de la IL-6, reduce la mortalidad y la necesidad de ventilación mecánica, . Sin embargo, ensayos clínicos al respecto no han confirmado una menor mortalidad, , con el uso de tocilizumab. En estos ensayos muy pocos pacientes recibían glucocorticoides y no se diseñaron para valorar si tocilizumab más glucocorticoides podría tener un beneficio clínico adicional. El uso de glucocorticoides y tocilizumab ha sido muy utilizado en nuestro país, por lo que nos propusimos analizar diferencias en el curso clínico con un seguimiento de 60 días entre los pacientes ingresados en nuestro hospital con neumonía grave asociada a infección por SARS-CoV-2 tratados con solo glucocorticoides frente a los que recibieron tocilizumab solo o con glucocorticoides.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio de cohortes retrospectivo realizado en el Hospital San Cecilio de Granada. Pacientes ingresados consecutivamente entre el 15 de marzo y el 15 de mayo de 2020 con neumonía grave por SARS-CoV-2 confirmada por PCR de exudado nasofaríngeo, fiebre > 38 °C durante al menos 5 días y que cumplían criterios de inflamación moderada definida por dos de los siguientes: PCR > 100 mg/l, ferritina > 500, dímero D > 1 mg/l con una procalcitonina < 0,05. Se consideró neumonía grave si además existía una saturación de O2 basal < 93% o una presión parcial de O2 < 65 mmHg con evidencia radiológica de afectación uni o multilobar compatible con COVID-19.
+Los pacientes recibieron tratamiento estándar según protocolo de nuestro Hospital en esa fecha, salvo contraindicación, consistente en hidroxicloroquina, azitromicina y lopinavir/ritonavir, junto con profilaxis de enfermedad tromboembólica con heparina de bajo peso molecular.
+Clasificamos a los pacientes en tres grupos en función del tratamiento inmunosupresor administrado: grupo I, glucocorticoides solo (metilprednisolona 2 mg/kg/día intravenoso durante 3 días con la posibilidad de otros 2 días si la mejoría clínica era parcial); grupo II, tocilizumab solo (dosis única intravenosa de 400 mg si peso < 75 kg o 600 mg si peso > 75 kg); grupo III, glucocorticoides y tocilizumab.
+Se recogieron comorbilidades, se calcularon los índices PROFUND, CURB65 y qSOFA. Los datos de laboratorio analizados fueron: ferritina, PCR, linfocitos con subpoblaciones CD4/CD8, dímero D y procalcitonina. Además se analizó la extensión de la neumonía en base a la radiografía o TAC torácica.
+Para el análisis estadístico se utilizó StatGraphics Centurion Versión XVII y SPSS Versión 23. Tras un análisis descriptivo previo se realizó el test de independencia chi-cuadrado para estudiar la asociación entre los tratamientos con los factores considerados. La comparación de medias de los datos analíticos según tratamiento se llevó a cabo mediante un análisis de la varianza para muestras independientes (ANOVA). Para comparar medias y porcentajes también se usaron análisis descriptivos de subgrupos, diagramas de barras y gráficos de caja y bigotes.
+El estudio fue realizado según los principios de la declaración de Helsinki. Cada paciente, su representante legal o familiar más cercano fue informado sobre la utilización de estos tratamientos fuera de ficha técnica, obteniéndose consentimiento informado para su administración.
+
+
+- RESULTADOS
+
+Se incluyeron 142 pacientes ingresados de forma consecutiva. Las características basales, comorbilidades y tratamientos recibidos se recogen en la tabla 1 . De los 142 pacientes, 80 (56,4%) recibieron solo glucocorticoides, 14 (9,8%) solo tocilizumab y 48 (33,8%) glucocorticoides y tocilizumab.
+No hubo diferencias en el porcentaje de comorbilidades entre los distintos grupos de tratamiento, salvo por un mayor porcentaje de hipertensos en el grupo II frente al grupo I y un menor porcentaje de mayores de 65 años en el grupo III frente al grupo I. No hubo diferencias en el momento del ingreso con respecto a los índices PROFUND, CURB 65, qSOFA ni grado de afectación radiológica (tabla 2 ). Cuarenta y nueve (34%) eran pluripatológicos con un índice PROFUND medio de 5,31; 109 pacientes (76%) presentaban infiltrado multilobar en la radiografía y 65 (46%) afectación moderada/severa en la TAC torácica.
+Al ingreso los pacientes del grupo I presentaron menores valores de PCR e IL6 y cifras inferiores de ferritina a los 3 días y al mes.
+La figura 1 muestra la estancia media hospitalaria según el tratamiento recibido. Con respecto a la evolución de los pacientes a los dos meses: 14 (9,8%) habían fallecido: 8 (10%) del grupo I y 6 (9,5%) en los grupos que recibieron tocilizumab; 15 (10,6%) requirieron ingreso en UCI: 2 (2,5%) del grupo I, 4 (28,5%) del grupo II (p = 0,0002 vs grupo I, 9 (18,4%) del grupo III (p = 0,0017 vs grupo I. De ellos, 12 (80%) precisaron intubación orotraqueal: 2 (16,67%) del grupo I, 3 (25%) del grupo II y 7 (58,3%) del grupo III.Figura 1
+No hubo diferencias en la estancia media hospitalaria entre los pacientes de los grupos I y III, siendo mayor en los del grupo II (15,1 vs 22,86 vs 15,65 días para grupos I, II y III; p = 0,0019). Además, en base a la prueba chi-cuadrado la evolución a los 2 meses no dependió del tratamiento administrado.
+
+
+- DISCUSIÓN
+
+En pacientes con neumonía grave por SARS CoV-2 e inflamación moderada se emplean terapias inmunosupresoras debido al papel patogénico de citocinas proinflamatorias. Los glucocorticoides han demostrado disminuir la mortalidad y el ingreso en UCI, . El tocilizumab ha sido ampliamente utilizado en base a estudios observacionales que sugieren una reducción del riesgo de intubación y/o muerte, , aunque ensayos clínicos, , no han demostrado una menor mortalidad a 28 días. Dadas las discrepancias en la evidencia científica, nos propusimos analizar en nuestra cohorte de pacientes la evolución clínica a 60 días según el tratamiento inmunosupresor recibido.
+No encontramos diferencias significativas en mortalidad o estancia media entre los distintos grupos de tratamiento. Un menor número de pacientes del grupo I (2,5%) ingresaron en UCI en comparación con aquellos que recibieron tocilizumab solo (28,5%) o glucocorticoides y tocilizumab (18,4%). Esto podría deberse a un sesgo de selección, dado que en esos primeros meses de pandemia, por la saturación de las UCI, probablemente los pacientes con menor esperanza de vida recibieron únicamente glucocorticoides y se desestimaron de cuidados intensivos. Sin embargo, a pesar de que los pacientes que recibieron únicamente glucocorticoides ingresaron menos en UCI, la mortalidad a 60 días entre los distintos grupos fue similar, lo que concuerda con las conclusiones de los principales ensayos clínicos de tocilizumab, , .
+En nuestro estudio, el uso de tocilizumab con o sin glucocorticoides no se acompañó de un beneficio clínico en términos de mortalidad, ingreso en UCI o estancia media hospitalaria. Rodríguez-Baño et al. encuentran que hay un mayor porcentaje de pacientes que requieren intubación o fallecen (seguimiento de 21 días) en los que reciben glucocorticoides y tocilizumab frente al grupo de «no tratamiento» (26,5% vs 20,1%).
+Otros estudios observacionales han sugerido un beneficio de los glucocorticoides tras tocilizumab con menor mortalidad (20% vs 62%). Nosotros no observamos diferencias con el uso concomitante de glucocorticoides y tocilizumab, aunque no incluimos ningún grupo que hubiera recibido tocilizumab antes de glucocorticoides.
+Nuestros datos parecen sugerir que el uso de tocilizumab en estos pacientes no aporta beneficio en términos de mortalidad, ingreso en UCI o estancia media hospitalaria. Creemos que hasta la aparición de evidencia más concluyente y la identificación de perfiles de pacientes respondedores a tocilizumab podría ser prudente limitar su utilización en este contexto clínico.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,5 @@
+Se analizó la frecuencia de consumo de alimentos, índice de masa corporal (IMC), circunferencia de cintura (CC), grasa corporal (PGC), glicemia y triglicéridos de 931 participantes seleccionados aleatoriamente (Región de Valparaíso, Chile), mediante modelos de regresión múltiple, controlando factores de confusión.
+La mediana de edad fue 24.9 años; 94% (IC95% :92.3-95.3) de los participantes consumía BE, 33.1% de ellos consumía más de dos porciones (≥500 ml) diarias, que se asoció con incremento en glicemia (ambos sexos) (β=2.17; p=0.007) y con IMC (β=1.48, p=0.04), CC(β=4.50; p=0.009) y PGC (β=3.02; p<0.001) sólo en mujeres.
+Estimar la asociación entre consumo de bebidas endulzadas (BE) con indicadores de adiposidad y riesgo metabólico en adultos jóvenes.
+La alta ingesta de BE incrementa la glicemia en adultos jóvenes y los indicadores de adiposidad en mujeres, antecedentes relevantes para formular políticas que disminuyan el consumo de BE y sus consecuencias.
+

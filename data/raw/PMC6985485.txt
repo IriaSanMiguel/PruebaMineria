@@ -1,0 +1,104 @@
+IMPLANTACIÓN DEL CRIBADO DE RETINOPATÍA DIABÉTICA MEDIANTE RETINOGRAFÍA DIGITAL EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La retinopatía diabética (RD) es una complicación crónica de la diabetes mellitus (DM) considerada, en nuestro entorno, como la principal causa de ceguera en menores de 60 años. Dependiendo de factores como edad, tipo y tiempo de evolución de la DM, la prevalencia oscila entre el 18 y el 46%.
+La RD es una enfermedad asintomática hasta hallarse en fases avanzadas cuando el tratamiento es poco efectivo. Se considera que el 15% de los pacientes presenta algún grado de RD en el momento del diagnóstico de la DM, estimándose que a los 20 años del diagnóstico el 100% de los pacientes diabéticos tipo 1 y más del 60% de los enfermos de diabetes tipo 2 desarrollarán algún grado de RD.
+El diagnóstico precoz de la RD es la mejor estrategia para evitar o retrasar la pérdida de visión y reducir los costes asociados a ella, permitiendo aplicar los procedimientos terapéuticos que pueden evitar la progresión a la ceguera en el 60% de los casos, si se realiza un buen control metabólico y de los factores de riesgo cardiovascular, .
+Aunque la exploración periódica del fondo de ojo (FO) a todos los pacientes diabéticos es una intervención recomendada internacionalmente para prevenir y tratar precozmente las lesiones retinianas antes de que haya pérdida de agudeza visual, y a pesar de que en el 84,2% de las comunidades autónomas de nuestro país existen actividades protocolizadas o programas de cribado de RD, diversos estudios han encontrado que solo un pequeño porcentaje de pacientes diabéticos tenían realizado un FO con la periodicidad recomendada y alrededor de la mitad no tenían registrada en su historia clínica ninguna exploración de FO.
+Estos datos podrían explicarse por las dificultades propias de la técnica de exploración retiniana con oftalmoscopio directo, que requiere dilatación pupilar farmacológica, habilidad por parte del profesional y tiempo suficiente para su realización. Sin embargo, actualmente existe una tecnología, la retinografía no midriática (RNM), que ha demostrado gran sensibilidad y especificidad para el diagnóstico de RD así como una buena relación coste-efectividad, , . Su disponibilidad en los centros de salud (CS) facilita la exploración del FO y proporciona mayor accesibilidad, equidad y satisfacción para los pacientes, evitando desplazamientos innecesarios y reduciendo tiempos de espera. Generalmente no precisa dilatación farmacológica, permitiendo fotografiar la retina con una mínima dilatación pupilar (3 mm). Se utiliza con un ordenador para captar imágenes, almacenarlas y transferirlas electrónicamente entre el médico de familia y el oftalmólogo de manera ágil.
+En nuestro país, la Estrategia en Diabetes del Sistema Nacional de Salud (2006) recomienda el diagnóstico precoz, cribado, seguimiento, tratamiento y control adecuados de las complicaciones crónicas de la DM, promoviendo la cooperación clínico-asistencial entre los profesionales implicados, mediante protocolos consensuados y medidas de coordinación multidisciplinaria para su abordaje.
+En la Comunidad de Madrid (CM), la cartera de servicios estandarizados (CSE) de atención primaria (AP) establece la exploración de FO cada 2 años como parte de los criterios de buena atención (CBA) en el seguimiento de pacientes diabéticos.
+El Servicio Madrileño de Salud se propuso en 2008 evaluar la efectividad de la RNM realizada en AP para el diagnóstico precoz de la RD, como parte de la estrategia de mejora de la continuidad asistencial. En el contexto de este proyecto, a nuestra área sanitaria le fueron asignados 2 retinógrafos.
+Nuestro objetivo fue mejorar la atención a los pacientes diabéticos adultos mediante la detección precoz y el seguimiento de la RD en 2 CS, dotándolos de las herramientas y procedimientos necesarios, en coordinación con los hospitales de referencia.
+Para conseguir este propósito nos planteamos 2 objetivos específicos:•Implantar el cribado de RD mediante RNM en los 2 CS seleccionados.•Mejorar la cobertura del cribado de RD en pacientes diabéticos con el criterio que establece la CSE de AP en la CM.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio descriptivo longitudinal prospectivo.
+
+
+-- ÁMBITO DE ESTUDIO
+
+2 CS urbanos.
+
+
+-- RECURSOS HUMANOS
+
+Los profesionales participantes fueron los médicos de familia del CS San Andrés (21) y del CS El Restón (15), las enfermeras (20 y 12, respectivamente) y los auxiliares administrativos (15 y 6) de ambos CS, oftalmólogos del Hospital Universitario 12 de Octubre (Madrid) y del Hospital Infanta Elena (Valdemoro), informáticos de la Gerencia de AP y de ambos hospitales, técnicos de la empresa distribuidora de los retinógrafos digitales y un técnico de la Unidad de Calidad de la Gerencia de AP.
+
+
+-- RECURSOS MATERIALES
+
+En cada CS, una sala para realizar retinografías, equipada con la dotación habitual de las consultas de AP, un retinógrafo no midriático TOPCON modelo TRC-NW 200 y un ordenador con acceso al programa informático del retinógrafo, a la historia clínica informatizada (HCI) y conectado telemáticamente con el hospital correspondiente.
+
+
+-- INTERVENCIÓN
+
+Los pacientes diabéticos sin exploración de FO registrada en su HCI en los 2 últimos años fueron captados en las consultas de medicina de familia y de enfermería . La exploración del FO consistió en una fotografía digital de la retina a 45° centrada en mácula y papila (grado de recomendación B para el cribado de RD), efectuada por el personal de enfermería de cada CS. La interpretación de las retinografías fue realizada por los oftalmólogos de referencia, elaborando un informe que era remitido telemáticamente al CS .Figura 1Figura 2
+
+
+-- CRITERIOS DE EVALUACIÓN
+
+Para medir la cobertura, se definió como criterio de evaluación el grado de cumplimiento del CBA correspondiente a la realización de FO en adultos diabéticos según establece la CSE y la prevalencia de RD en los 2 CS seleccionados.
+
+
+-- INDICADORES DE SEGUIMIENTO
+
+Número de diabéticos mayores de 14 años con exploración de FO en los 2 últimos años, número de pacientes diagnosticados de RD, proporción de FO realizados mediante RNM y grado de control metabólico en el periodo de evaluación.
+
+
+-- PERIODO DE EVALUACIÓN
+
+De septiembre de 2009 a septiembre de 2011. Se realizó una evaluación al inicio del proyecto y se monitorizaron los indicadores definidos cada 6 meses.
+
+
+-- REGISTRO
+
+Los datos se obtuvieron de la HCI de AP mediante sentencias Structured Query Language (SQL) y del registro de informes del software de los retinógrafos.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Pacientes con glaucoma, con cataratas o con enfermedades que dificultaban la realización de la técnica.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En el análisis de las variables se utilizaron los parámetros habituales (media y porcentaje) con sus intervalos de confianza (IC). Para realizar la comparación de medias se utilizó la prueba de la t de Student y para la comparación de proporciones la prueba de la χ2. La significación elegida fue del 0,05. Los cálculos se realizaron con el programa informático EPIDAT 3.1.
+Para implantar este servicio uno de los aspectos estratégicos considerado como prioritario fue la ubicación de los retinógrafos valorando para su selección el tamaño del CS, su accesibilidad a los ciudadanos, la motivación de los profesionales de AP y la implicación de los servicios de oftalmología de referencia.
+Igualmente, se abordaron aspectos estructurales como disponibilidad de espacio físico, requerimientos técnicos y conectividad informática entre el CS y el hospital de referencia, así como la disponibilidad de los recursos humanos necesarios.
+El aspecto científico-técnico incluyó la revisión bibliográfica, la presentación del proyecto a los profesionales implicados, la formación clínico-epidemiológica y de realización práctica de retinografías, además del manejo del software del retinógrafo.
+El liderazgo directivo en ambos niveles asistenciales dinamizó el desarrollo del proyecto estableciendo los acuerdos necesarios para la organización del servicio y la coordinación con los oftalmólogos en cuanto a:•Identificación, captación, criterios de inclusión y exclusión, información y procedimiento de atención.•Aspectos relacionados con la técnica (número de fotografías, indicación de dilatar la pupila).•Circuitos de envío y recepción de retinografías e informes.•Criterios de revisión y citación con el oftalmólogo en función del resultado de la prueba.
+
+
+- RESULTADOS
+
+Como consecuencia del proceso de implantación disponemos en ambos CS de una sala de retinografías equipada con un retinógrafo y un ordenador con acceso a la HCI y conectado telemáticamente con el hospital de referencia.
+El número de pacientes diabéticos adultos al iniciar el estudio era de 2.850 y a su finalización de 3.357, es decir, 507 pacientes fueron diagnosticados de DM en los 24 primeros meses de implantación del cribado de RD. La proporción media de hombres y mujeres durante el periodo de estudio fue 47% (IC 95%: 45,3-48,7%) y 53% (IC 95%: 51,3-54,7%), respectivamente (p < 0,001). La edad media fue 63,6 años (IC 95%: 63,05-64,15 años) con un rango de 14 a 97 años. En los pacientes sin RD la edad media fue de 63,4 años (IC 95%: 62,83-63,97 años) y de 67 años (IC 95%: 65,03-68,97 años) en pacientes con RD (p = 0,01).
+Los principales resultados del estudio se exponen en la tabla 1. Al inicio del proyecto, el 6,7% (IC 95%: 5,7-7,6%) de los pacientes tenía realizado un FO en los 2 últimos años. Este porcentaje se incrementó hasta el 32,4% (IC 95%: 30,8-34,0%) al finalizar el periodo de estudio (p < 0,001), mientras que en el conjunto de la CM se mantuvo estable: 12,64% (IC 95%: 12,52-12,75%) en septiembre de 2009 y 12,55% (IC 95%: 12,44-12,66%) en septiembre de 2011 (p > 0,05). Debemos señalar que a los 10 meses de comenzar este proyecto, el 77,5% (IC 95%: 74,13-80,85%) de las exploraciones de FO registradas se habían realizado mediante RNM.
+La prevalencia de RD se incrementó en medio punto pasando del 3,85% (IC 95%: 3,14-4,58%) al 4,3% (IC 95%: 3,59-4,99%), aunque esta diferencia no tiene significación estadística (p = 0,32). Al aumentar el número de pacientes con exploración de retina, la proporción de RD en pacientes con FO realizado en los 2 últimos años se redujo del 60% (IC 95%: 52,77-67,23%) al 14% (IC 95%: 11,87-16,09%) (p < 0,001).
+Inicialmente, la proporción de pacientes diabéticos con control metabólico efectuado mediante hemoglobina glucosilada (HbA1c) en los últimos 2 años era del 21,9% (IC 95%: 20,36-23,43%), siendo del 52,4% (IC 95%: 50,69-54,10%) al final del periodo analizado (p < 0,001). La diferencia en la proporción de pacientes con medición de HbA1c realizada era escasa entre pacientes con RD (25,5%; IC 95%: 16,86-34,05%) y pacientes sin RD (21,8%: IC 95%: 20,22-23,35%) al comienzo (p = 0,33). Sin embargo, al finalizar el proyecto esa diferencia era más acusada, encontrando que un 67,8% (IC 95%: 60,0-75,5%) de los pacientes con RD tenía realizado un control metabólico frente al 51,7% (IC 95%: 49,95-53,45%) de pacientes sin RD (p < 0,001).
+Por último, el valor medio de la HbA1c (%) en el periodo de estudio fue de 7,5 (IC 95%: 7,44-7,57) para el conjunto de los pacientes diabéticos adultos, con diferencias estadísticamente significativas (p < 0,001) entre los pacientes diabéticos con RD (7,8; IC 95%: 7,50-8,06) y los pacientes sin RD (7,1; IC 95%: 7,08-7,22).
+
+
+- DISCUSIÓN
+
+Aunque el resultado alcanzado en la cobertura del cribado de RD (32,4%; IC 95%: 30,8-34,0%) está lejos de la recomendación de nuestra CSE según la cual todos los pacientes diabéticos deben tener una exploración bienal del FO, podemos decir que, en nuestra experiencia y teniendo en cuenta la estabilidad de este dato en el conjunto de la CM, la incorporación de la RNM en AP se acompaña de un incremento importante en el número de diabéticos con exploración de FO realizada con la periodicidad recomendada para la detección precoz de RD, consiguiendo en un periodo de tiempo breve una alta tasa de sustitución respecto al procedimiento previo de exploración.
+Nuestros resultados son comparables a los obtenidos por otros autores en experiencias similares, aunque solo hemos encontrado un estudio en nuestro país en el que el personal de enfermería de AP se responsabiliza de realizar la técnica y de la comunicación telemática con el oftalmólogo que realiza la lectura de las imágenes.
+Las ventajas de la RNM podrían explicar este aumento, sin descartar una mayor sensibilización de los profesionales hacia el diagnóstico precoz y el seguimiento del paciente diabético como consecuencia del propio proyecto de implantación. Debemos destacar el incremento producido en el número de pacientes diabéticos diagnosticados y en el número de pacientes a los que se realizó control metabólico de su enfermedad en el periodo de estudio.El escaso incremento observado en la prevalencia de RD podría explicarse porque casi el 70% (67,6%; IC 95%: 66,02-69,21%) de los pacientes con DM continúa sin tener un FO registrado en los 2 últimos años y porque, posiblemente, la captación de pacientes para cribado fue a expensas de aquellos con menos años de evolución de su enfermedad. La prevalencia de RD en los pacientes con exploración de FO registrada en la HCI fue del 14% (IC 95%: 11,87-16,09%), cifra cercana a otros estudios de prevalencia de RD realizados en nuestro país con RNM, , .
+El cribado bienal de RD forma parte del seguimiento de la diabetes en AP y puede prevenir complicaciones que generan gran discapacidad visual con un coste sociosanitario muy elevado. Realizar este cribado mediante RNM es un servicio que se puede implementar en los CS si se dispone de los recursos necesarios, de la motivación de los profesionales implicados y del compromiso directivo en ambos niveles asistenciales.
+Dadas las dificultades para realizar la exploración del FO mediante oftalmoscopio en las consultas de AP, el cribado de RD mediante RNM podría reducir el coste por paciente de esta intervención a la mitad y mejorar la accesibilidad, evitando listas de espera en las consultas de oftalmología y desplazamientos innecesarios de los pacientes.
+En nuestra experiencia, el importe del retinógrafo no midriático fue de 24.998,5 €, siendo su mantenimiento mínimo. Puesto que el objetivo es realizar el cribado al 100% de los pacientes diabéticos, el impacto económico directo de la adquisición del retinógrafo por paciente supone unos 13 €. En cuanto a los recursos humanos necesarios, la exploración fue realizada por personal de enfermería, previa formación en el manejo del retinógrafo (una sesión técnica de apenas 2 h y un entrenamiento de 3-4 semanas permitió comenzar a enviar imágenes de pacientes reales al oftalmólogo para su evaluación). El tiempo por paciente empleado en obtener la retinografía fue de 10 min y el tiempo estimado por otros autores en la interpretación de las imágenes por parte de un oftalmólogo es de 1 min por paciente frente a los 15 min empleados por el mismo especialista en la exploración del FO con dilatación pupilar.
+Una limitación del estudio podría ser que la selección de los CS se hizo en función de condicionantes que los hacían idóneos para implantar este servicio. Desconocemos si los resultados habrían sido similares en el caso de una selección aleatoria y si el planteamiento como experiencia piloto, monitorizada durante el periodo de estudio, puede haber influido positivamente en la actuación de los profesionales. Igualmente, es posible que se haya producido un sesgo de selección al captar a los pacientes de manera oportunística en las consultas.
+En nuestro caso no fue posible realizar formación a los médicos de familia en la interpretación de retinografías. No obstante, experiencias como la catalana de Sender Palacios et al., entre otras, muestran muy buenos resultados, con una concordancia en el diagnóstico de RD entre el médico de familia y el oftalmólogo del 78%, evitando la derivación de casi la mitad de los pacientes diabéticos a la consulta de oftalmología, , .
+Un seguimiento más prolongado de esta experiencia permitirá conocer el ritmo de crecimiento del cribado de RD y su traducción en la precocidad del diagnóstico y tratamiento de esta enfermedad. Además, se podrá evaluar su impacto en las tasas de derivación a oftalmología, pudiendo realizar en un futuro no solo la retinografía sino también su interpretación por parte del médico de familia, al objeto de remitir al oftalmólogo solo aquellas imágenes consideradas patológicas o dudosas. En definitiva, la RNM en los CS puede ser una buena herramienta de mejora en la calidad de la atención integral a los pacientes diabéticos, mejorando su satisfacción y la de los profesionales.Lo conocido sobre el tema:•La retinopatía diabética es la principal causa de ceguera en el adulto, siendo la exploración periódica del fondo de ojo y el control metabólico de la diabetes la mejor estrategia para evitar o retrasar la pérdida de visión.•Aunque los servicios de atención a pacientes diabéticos en atención primaria incluyen la exploración periódica de la retina, a la mayoría de los pacientes diabéticos no se les explora la retina con la periodicidad recomendada.•La retinografía no midriática ha demostrado una gran sensibilidad y especificidad para el diagnóstico de la retinopatía diabética así como una buena relación coste-efectividad, sin las dificultades técnicas de la exploración mediante oftalmoscopio directo.Qué aporta este estudio:•La incorporación de la retinografía no midriática en atención primaria incrementa el número de pacientes con exploración de fondo de ojo realizada con la periodicidad recomendada para detectar precozmente la retinopatía diabética, consiguiendo en poco tiempo una alta tasa de sustitución respecto al procedimiento previo de exploración.•La retinografía no midriática realizada en atención primaria facilita el diagnóstico precoz, seguimiento, tratamiento y control adecuados de la retinopatía diabética, optimizando la continuidad asistencial con los hospitales de referencia mediante medidas consensuadas de coordinación para su abordaje.•El cribado de retinopatía diabética mediante retinografía no midriática es factible en los centros de salud cuando se dispone de los recursos necesarios, de la motivación de los profesionales implicados en ambos niveles asistenciales y del compromiso directivo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

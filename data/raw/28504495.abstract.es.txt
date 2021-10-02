@@ -1,0 +1,5 @@
+Analizar las características de los pacientes menores de 2 años que padecieron una infección respiratoria aguda baja moderada-grave tratados precozmente con presión positiva continua en la vía aérea de burbuja y los factores asociados al éxito de la intervención.
+Se incluyeron 120 pacientes. La mediana de edad fue 3 meses. La intervención fue exitosa en el 72% de los casos. A las 2 h, un descenso del 15% de la frecuencia respiratoria y de 2 puntos en el puntaje de Tal fueron predictores del éxito, con un OR 6,41 (IC 95%: 2,68-15,36) y 9,07 (IC 95%: 3,72-22,19), respectivamente.
+Estudio retrospectivo y descriptivo. Niños menores de 2 años internados en Cuidados Intermedios Pediátricos del Hospital Provincial Neuquén entre junio de 2009 y diciembre de 2010. Se aplicó presión positiva continua en la vía aérea de burbuja y se midieron frecuencias cardíacas y respiratorias, puntaje de Tal, saturación y fracción inspirada de oxígeno a las 0, 2, 6, 24 y 48 h.
+La disminución de la frecuencia respiratoria, de la frecuencia cardíaca y del puntaje de Tal a las 2 horas de inicio fueron predictores de éxito.
+

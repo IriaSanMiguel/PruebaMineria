@@ -1,0 +1,89 @@
+RECOMENDACIONES Y MANEJO PRÁCTICO DE LA GESTANTE CON COVID-19: <ITALIC>SCOPING REVIEW</ITALIC
+
+
+- INTRODUCCIÓN
+
+A finales de diciembre de 2019 se notificaron una serie de casos inexplicables de neumonía en Wuhan (provincia de Hubei, China) causada por un nuevo tipo de coronavirus, , denominada por la Organización Mundial de la Salud (OMS) como enfermedad coronaviral COVID-19, provocada por el coronavirus-2 del síndrome respiratorio agudo severo (SARS-CoV-2), , convirtiéndose en poco tiempo en una pandemia mundial, que a día de hoy sigue extendiéndose y cuyas consecuencias globales todavía son incalculables.
+Los interrogantes que se presentan con esta nueva enfermedad son muchos. Uno de los más relevantes hace referencia a cuáles son las recomendaciones para evitar la infección por COVID-19 en las mujeres gestantes, así como cuál debe ser el manejo de las mujeres que desarrollen finalmente la enfermedad por infección del virus SARS-CoV-2.
+Ante esta nueva enfermedad, este artículo tiene como objetivo recopilar las recomendaciones y evidencias en el manejo práctico de las gestantes con infección por COVID-19, basadas en los estudios y documentos publicados hasta este momento, con el objetivo de clarificar pautas de atención obstétrica.
+
+
+- MÉTODO
+
+Se lleva a cabo una Scoping Review a partir de una búsqueda bibliográfica en las bases de datos PubMed/Medline, Biblioteca Virtual en Salud, SciELO, Cochrane y CUIDEN. Para la búsqueda se utilizaron los términos MeSH: «COVID-19», «Pregnancy», «Delivery, Obstetric», «Pregnant Women» y «Maternal». Las ecuaciones de búsqueda utilizadas fueron «COVID-19 AND Pregnancy», «COVID-19 AND Pregnant», «COVID-19 AND Delivery, Obstetric» y «COVID-19 AND Maternal».
+Como límites en la búsqueda se establecieron los idiomas español e inglés. No se establecieron límites en cuanto al año de publicación o el tipo de artículo. También se realizó una búsqueda en los sitios web de la OMS, la Sociedad Española de Ginecología y Obstetricia, el Royal College of Obstetricians and Gynaecologists, el American College of Obstetricians and Gynaecologists y el Ministerio de Sanidad del Gobierno de España. Adicionalmente se realizó una búsqueda en «bola de nieve» a partir de los documentos encontrados, para acceder a fuentes que hubieran escapado a los 2 procedimientos anteriores. Uno de los autores realizó la búsqueda en las bases de datos y sitios web. Tras eliminar los duplicados, el mismo autor seleccionó aquellos documentos que hacían referencia a posibles recomendaciones y evidencias en el manejo práctico de las gestantes con infección por COVID-19. Para ello, se valió de los resúmenes y el texto completo para realizar la selección.
+Este autor remitió a los otros 2 autores los documentos potencialmente incluibles en la revisión, los cuales leyeron los artículos y documentos a texto completo, extrayendo y realizando un resumen de evidencias y recomendaciones, según una temática concreta. Para establecer el nivel de evidencia se usó el sistema de grados de recomendación (GR) del Joanna Briggs Institute, atendiendo a la relevancia y el balance riesgo/beneficio que de estas recomendaciones se derivan. Finalmente, un experto externo revisó las recomendaciones.
+
+
+- RESULTADOS
+
+Un total de 27 documentos y artículos completos fueron analizados, utilizándose finalmente 18 y desechándose 9 que no contenían recomendaciones prácticas. Las recomendaciones fueron agrupadas en las 10 temáticas que se exponen a continuación. En la figura 1 se aporta el flujograma de la revisión.Figura 1
+
+
+-- PREVENCIÓN DE LA INFECCIÓN EN LA EMBARAZADA
+
+La mujer embarazada, aun con gestaciones de curso normal, debe utilizar el sistema sanitario, por lo que se pondrá en contacto con posibles vectores de la enfermedad, tales como otras embarazadas y personal sanitario. Por dicho motivo es conveniente reducir el contacto con el sistema sanitario, de forma que se pueda mantener un control adecuado de la gestación con el mínimo riesgo. Las principales recomendaciones se centran en:-Mantener una distancia de seguridad entre el profesional y la paciente de 1-2 m (GR: A).-Evitar áreas concurridas, transporte público y contacto con personas enfermas (GR: A).-Control telemático de la gestación, en las ocasiones en que sea posible.-Posponer aquellas consultas que no sean imprescindibles. Se debe mantener la consulta entre la semana 11-14 para el cribado del primer trimestre, la de la semana 20 para la ecografía morfológica y la del tercer trimestre para control del crecimiento fetal.-Realizar las analíticas que sean necesarias en la misma visita con el obstetra.-Atención en consulta a la paciente sin acompañante, salvo que sea estrictamente necesario.-Restringir las indicaciones para la realización de test no estresante, y cuando se realice ecografía, realizar perfil biofísico modificado sin test no estresante, en lugar de nueva cita solo para realización de dicho test (GR: B).-Control telemático de heridas poscesárea y/o posparto, mediante imagen.
+
+
+-- PREVENCIÓN DE LA INFECCIÓN EN EL PERSONAL SANITARIO QUE ATIENDE A LA EMBARAZADA
+
+Además de las medidas generales de prevención de la COVID-19, como mantener una distancia de seguridad o extremar las medidas de higiene y el lavado de manos, es necesario que los centros sanitarios tomen medidas como estructura central del sistema, , . La institución sanitaria debe establecer:
+
+
+-- FORMA DE PRESENTACIÓN Y SEVERIDAD EN LA EMBARAZADA
+
+A pesar de que otros coronavirus, como los causantes del SARS o el MERS, sí han demostrado peores resultados obstétricos, con los datos de que se dispone actualmente, la mujer embarazada no tiene mayor riesgo de contraer la infección que el resto de la población general.
+No obstante, dados los cambios producidos en la anatomía y la fisiología respiratoria por el embarazo (elevación del diafragma, engrosamiento de la mucosa bronquial, aumento del consumo de oxígeno, etc.), así como en las modificaciones de la respuesta inmune, la evolución de la afección podría ser más severa.
+Una revisión sistemática demostró que la forma de presentación más frecuente fue en forma de neumonía (91,8%), así como que los síntomas principales fueron fiebre (82,6%), tos (57,1%) y disnea (27%). En relación con los resultados de la gestación, aún no se conocen casos de abortos de primer trimestre ni malformaciones asociados a COVID-19, siendo el evento adverso más frecuente el parto pretérmino espontáneo o por riesgo materno.
+
+
+-- TRANSMISIÓN MATERNO-FETAL (VERTICAL Y PERINATAL
+
+El SARS-CoV-2 posee una patogenicidad y una transmisibilidad mayores que otros coronavirus, como los causantes del MERS y el SARS. Este se une a los receptores de la enzima convertidora de angiotensina ii con una alta afinidad, más aún que el causante del SARS.
+Con los datos publicados actualmente no se ha demostrado la transmisión vertical. Se ha publicado un caso de un recién nacido de madre COVID-19, con resultado positivo para PCR de SARS-CoV-2 en muestra de exudado faríngeo a las 36 h; como las muestras de placenta, sangre de cordón umbilical y leche materna fueron negativas, se consideró que lo más probable es que se tratase de una transmisión neonatal. Aunque no existen casos de transmisión vertical, sí los hay de transmisión neonatal; por todo ello, se recomienda aislar al recién nacido de madre con COVID-19 para evitar la infección, aunque se debe valorar la relación riesgo/beneficio entre la ausencia de contacto materno y no lactancia directa materna y los riesgos de infección tomando las precauciones adecuadas de uso de mascarillas, aseo de manos y aseo del pezón (GR: B).
+
+
+-- CONTROL MATERNO-FETAL DE LA GESTANTE CON COVID-19
+
+Se necesitan más datos sobre la afectación de la gestación temprana en las mujeres infectadas.
+En mujeres afectadas por COVID-19 con embarazo en curso, la vigilancia de la restricción del crecimiento fetal podría ser razonable, dados los cambios placentarios agudos y crónicos observados (dos tercios de los embarazos en curso con SRAS se ven afectados por la restricción del crecimiento fetal), . La infección por SARS-CoV-2 se asocia con el parto prematuro en el 47% de los casos notificados, aunque muchos de ellos lo son por interés materno.
+El riesgo de transmisión horizontal (por gotas o por contacto), a través, habitualmente, de un familiar próximo infectado, es igual que en la población general. Las mujeres embarazadas con infección confirmada por laboratorio que estén asintomáticas deben autovigilarse en su casa, para detectar las características clínicas evolutivas de la COVID-19 durante al menos 14 días. Estas pacientes y aquellas que se recuperan de una forma leve de la enfermedad deben ser monitorizadas mediante ecografías de crecimiento fetal bimestrales y evaluaciones Doppler, debido al potencial riesgo de retraso de crecimiento intrauterino (GR: B).
+
+
+-- CONTROL DE LA GESTANTE GRAVE POR COVID-19
+
+La infección por SARS-CoV-2 presenta una mortalidad del 3-4% de acuerdo con lo publicado por la OMS, frente al 10,5% del SARS y el 34,4% del MERS. No obstante, la tasa de ingresos en unidades de cuidados intensivos por COVID-19 es mayor que en los casos anteriores. La infección perinatal puede tener efectos perinatales adversos, como pérdida del bienestar fetal, parto prematuro, distrés respiratorio y trombocitopenia, junto con alteración de la función hepática e incluso muerte, . La asistencia a la gestante grave incluye el tratamiento de soporte frente a la enfermedad (control de signos vitales, gases sanguíneos y soporte ventilatorio materno), así como el control de la gestación, . En relación con el control fetal, durante la estancia de la gestante en la Unidad de Cuidados Intensivos se debe realizar monitorización electrónica de la frecuencia cardíaca fetal y/o ecografía (GR: B). Antes de la viabilidad fetal, la auscultación mediante Doppler podrá ser suficiente. La finalización de la gestación se valorará de forma individualizada en caso de que esta ponga en riesgo la vida materna. El shock séptico, el fallo multiorgánico o el riesgo de pérdida de bienestar fetal son indicación de una cesárea de urgencia (o la terminación, si es legal, antes de la viabilidad fetal) (GR: B).
+
+
+-- TRATAMIENTO DE LA GESTANTE CON COVID-19
+
+Actualmente, no existe un tratamiento específico frente a la COVID-19. Basándose en la experiencia previa de brotes por otros coronavirus, el manejo de las mujeres gestantes es igual que el del resto de la población. El tratamiento incluye una combinación de inhibidores de la proteasa (lopinavir/ritonavir) con o sin interferón β o α, o tratamiento con un inhibidor de la ARN polimerasa (remdesivir) al que se asocia cloroquina, . Los inhibidores de la proteasa se han utilizado durante el embarazo para el tratamiento del VIH, en el que los beneficios del tratamiento superan los riesgos de toxicidad observados en estudios en animales. Los beneficios del uso de cloroquina superan los riesgos en la prevención y el tratamiento de la malaria durante el embarazo. El remdesivir se ha utilizado para el tratamiento del ébola en mujeres embarazadas.
+Parece razonable no excluir a las mujeres embarazadas gravemente enfermas de los ensayos de estas terapias para COVID-19. Es necesario presentar datos de forma sistematizada de las gestantes afectadas por la COVID-19 a fin de proporcionar una base empírica para el tratamiento, la prevención y el uso racional de recursos limitados durante el brote. El manejo de la gestante infectada por SARS-CoV-2 debe realizarse por un equipo multidisciplinar, que establezca el lugar más adecuado para el correcto tratamiento del binomio madre-feto y que permita mantener el control y la pronta actuación en caso de deterioro materno o fetal o inicio de trabajo de parto prematuro.
+Los cambios en el bienestar fetal pueden ser un primer síntoma de deterioro materno. La experiencia previa con el SARS y el MERS parece indicar que las embarazadas pueden tener un fallo respiratorio severo y, en los casos más graves, la ventilación mecánica puede no ser suficiente para conseguir una adecuada oxigenación. En estos casos, y en centros donde se tenga experiencia, se podría plantear la utilización de oxigenación por membrana extracorpórea.
+
+
+-- MANEJO Y VÍA DE FINALIZACIÓN DEL PARTO
+
+La vía y el momento del parto deben ser evaluados de forma individual en un contexto multidisciplinar, . El Royal College of Obstetricians and Gynaecologists recomienda que el modo de parto se determine principalmente por indicación obstétrica y no practicar la separación rutinaria de las madres y los neonatos afectados por COVID-19. Para las mujeres embarazadas con infección confirmada, la elección del momento del parto debe ser individualizada dependiendo de la semana de gestación y las condiciones maternas y fetales. Siempre que sea posible, debe favorecerse el parto vaginal, a fin de evitar complicaciones quirúrgicas innecesarias. En COVID-19, si la enfermedad materna no es grave, las consideraciones para el parto se basarán, fundamentalmente, en indicaciones obstétricas. Dada la tasa de compromiso fetal publicada en la serie de casos chinos, la recomendación actual es la monitorización electrónica continua del feto en el trabajo de parto, (GR: B).
+A modo de resumen podemos afirmar que en gestantes con infección por SARS-CoV-2, se debe actuar de la siguiente manera (GR: B):
+
+
+-- RESULTADOS NEONATALES EN MUJERES CON COVID-19
+
+Hay datos limitados sobre el impacto del actual brote de COVID-19 en las mujeres afectadas por el embarazo y sus recién nacidos, ya que los estudios encontrados son informes de casos o series de baja calidad, , , . El estudio de Chen et al. no encontró evidencia de la presencia de virus en las muestras de torunda nasofaríngea neonatal, líquido amniótico, sangre de cordón o leche materna. No hay evidencia de infección intrauterina causada por transmisión vertical en mujeres con neumonía por COVID-19, al final del embarazo.
+
+
+-- LACTANCIA MATERNA Y COVID-19
+
+Aun no existiendo datos suficientes para hacer una recomendación firme sobre el amamantamiento en el caso de mujeres infectadas por SARS-CoV-2, es importante señalar que la lactancia materna otorga muchos beneficios, entre ellos, el potencial paso de anticuerpos madre-hijo frente al SARS-CoV-2. Por ello, y con base en la evidencia actual, se recomienda el mantenimiento de la lactancia materna desde el nacimiento, siempre que las condiciones clínicas del recién nacido y su madre así lo permitan (GR: B). La OMS recomienda mantener el amamantamiento tanto para casos de madres confirmadas como probables, siempre y cuando se mantengan medidas para la prevención de infección por microorganismos transmitidos por gotas y por contacto.
+En casos de madres con enfermedad grave se debe recurrir a la extracción de la leche. Para los casos de madres lactantes fuera del periodo posnatal inmediato que se infecten o tengan sospecha de infección por el SARS-CoV-2, se recomienda extremar las medidas de aislamiento (higiene de manos y mascarilla facial) y seguir amamantando al neonato, o bien hacer una extracción de la leche tomando las máximas precauciones de aislamiento (higiene de manos y mascarilla) y que esta sea administrada al neonato por un cuidador sano. No es preciso pasteurizar la leche extraída antes de administrarla al neonato. En recién nacidos prematuros ingresados se debe utilizar leche de banco. La decisión final sobre el tipo de alimentación del recién nacido deberá consensuarse entre la paciente y el equipo sanitario, con base en los conocimientos científicos de cada momento y el estado de salud de la madre y el recién nacido.
+
+
+- CONCLUSIONES
+
+La irrupción de la pandemia de COVID-19 está suponiendo un reto a todos los niveles para los sistemas sanitarios mundiales. Uno de estos retos es la falta de una evidencia sólida que sustente muchas de las actuaciones frente a la COVID-19, lo que sin duda genera inquietud y preocupación al personal sanitario que se está enfrentado a esta nueva enfermedad. Esto es especialmente cierto en el caso particular de las mujeres embarazadas: muchas de las recomendaciones para la mujer gestante respecto a la COVID-19 están basadas en la experiencia previa acumulada en las pandemias anteriores provocadas por los virus SARS-CoV y MERS-CoV. Se necesitan nuevos estudios que confirmen la idoneidad de muchas de las recomendaciones y pautas de actuación en el caso concreto de la mujer gestante y la COVID-19. Por ello, es fundamental documentar toda la experiencia clínica generada en esta pandemia. Su posterior análisis permitirá prepararnos para posibles próximas oleadas de esta enfermedad.
+
+
+- CONFLICTO DE INTERESES
+
+Uno de los autores del artículo, HGT, pertenece al Comité Editorial de la revista Enfermería Clínica, aunque este aspecto no ha condicionado el proceso de revisión del manuscrito ni su resultado final.

@@ -1,0 +1,5 @@
+Estimar las prevalencias municipales de mala nutrición en población preescolar en México, y describir su variabilidad y su relación con la cobertura del Programa Nacional México Sin Hambre.
+La estimación de prevalencias municipales de mala nutrición evidenció grandes diferencias al interior del país, mismas que podrían asistir la política pública.
+Las prevalencias de talla baja variaron de 7.8% (IC95%: 5.9-8.9) a 64.2% (49.2-72.5), las de bajo peso de 0.6% (0.005-1.7) a 22.2% (13.5-34.9) y de sobrepeso u obesidad de 2.6% (0.2- 3.9) a 14.4% (11.9-27.7). De los 554 municipios con prevalencias de talla baja mayor que 25%, 275 fueron cubiertos por el programa México Sin Hambre.
+A partir de datos de la Encuesta Nacional de Salud y Nutrición de 2012, la desigualdad del ingreso y marginación municipal se aplicó un modelo normal generalizado para obtener las distribuciones municipales de los indicadores de nutrición y estimar las prevalencias de mala nutrición.
+

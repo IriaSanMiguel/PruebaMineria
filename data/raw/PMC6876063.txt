@@ -1,0 +1,84 @@
+FACTORES DE RIESGO CARDIOVASCULAR EN LA POBLACIÓN EN SITUACIÓN DE RIESGO DE POBREZA Y EXCLUSIÓN SOCIAL
+
+
+- INTRODUCCIÓN
+
+La desigualdad en salud condicionada por la desigualdad socioeconómica ya era conocida en el siglo pasado, tanto en países europeos como en el nuestro, . Este hecho no ha dejado de ser objeto de investigación en los últimos años, , promoviéndose intervenciones, , y formulando nuevos determinantes sociales de la salud como el género, .
+Las enfermedades del sistema circulatorio son la primera causa de muerte. De ellas, la cardiopatía isquémica y el accidente cerebrovascular constituyen más del 55%. En los últimos años se han publicado estudios, sobre la relación entre desigualdad social y presentación de factores de riesgo cardiovascular (FRCV), no encontrándose diferencias en el estudio de Schroder et al., pero sí en hombres según actividades en el de Sánchez-Chaparro et al. y en el de Cirera et al., y no son concluyentes las de un reciente estudio en la Comunidad de Madrid. La Encuesta Nacional de Salud 2012 publica diferencias en la salud autopercibida según el nivel socioeconómico, así como en hipertensión arterial, obesidad o tabaquismo. Recientemente se ha publicado un estudio en trabajadores que sí encontró diferencias por clase social y género en la mayoría de los FRCV.
+La crisis económica por la que atraviesa nuestro país ha dado lugar a una tasa de paro en el año 2013 del 26,1% en España, llevando a que la tasa de población en riesgo de pobreza y exlusión social alcanzara en Andalucía en 2014 el 42,3%, 13 puntos por encima de la media nacional. El Instituto Nacional de Estadística comunicó una tasa bruta de mortalidad en 2012 de 861,6 fallecidos por 1.000 habitantes, un 3,8% superior al año anterior, alcanzando el valor más elevado desde el año 2005. Diversos estudios sí relacionan crisis económica y empeoramiento de indicadores de salud.
+La elevada tasa de pobreza mantenida a lo largo de los últimos años invita a estudiar el patrón distributivo de los FRCV en la población en riesgo de exclusión social. El objetivo de este estudio es conocer si la prevalencia, distribución de FRCV y grado del riesgo cardiovascular, valorado mediante las funciones REGICOR y Score, presentan diferencias entre una muestra de población en riesgo de exclusión social (PRES) perteneciente a la ciudad de Córdoba durante el 2014 respecto a la población laboral estable y respecto a las clases sociales ocupacionales (CSO) inferiores.
+
+
+- MÉTODOS
+
+Se ha llevado a cabo durante el año 2014 un estudio descriptivo transversal en una población laboral del Ayuntamiento de Córdoba, constituida a su vez por 2 subpoblaciones. Una está integrada por los trabajadores a los que se les realizó vigilancia de la salud con motivo de su contrato temporal por un programa de empleo dirigido a personas en situación de riesgo de exclusión social, según parámetros del Decreto-Ley 7/2013 de 30 de abril de medidas extraordinarias y urgentes para la lucha contra la exclusión social en Andalucía, y la segunda población está formada por los trabajadores pertenecientes a la plantilla municipal en los que se llevó a cabo la vigilancia de la salud en el mismo año.
+La muestra sobre la que se llevó a cabo el estudio estuvo formada por 628 personas. De ellas, 180 pertenecían al grupo de riesgo en exclusión social constituido en su conjunto por 202 personas, de las que 17 fueron excluidas por no cumplir el criterio de edad mínima de 35 años y 5 por carecer de datos antropométricos o analíticos válidos. De los 1.754 trabajadores municipales se obtuvo una muestra aleatorizada de 485 reconocimientos realizados en 2014 en la Unidad de Salud Laboral del Ayuntamiento, excluyéndose 25 por edad y 12 por datos incompletos.
+Para el cálculo de la muestra se ha tenido en cuenta la proporción de fumadores según su nivel de ingresos, de acuerdo con el estudio de Ortiz-Moncada et al., teniendo en cuenta el grupo social con menos de 600 € de ingreso y el de 1.800/3.000 €. Utilizando el programa estadístico Epidat 4.1, mediante el cálculo del tamaño de muestra por comparación de proporciones independientes, con una potencia mínima del 80% y un nivel de confianza del 95%, la muestra mínima necesaria alcanza los 310 sujetos (155 por población).
+
+
+-- VARIABLES, MEDIDAS Y ANÁLISIS DE LOS DATOS
+
+-Edad (años).-Sexo: H (hombre), M (mujer).-Consumo de tabaco (fumador si fuma un cigarrillo o más/día).-Peso en kg (P).-Talla en metros (T).-Circunferencia de cintura en cm (CC).-Presión arterial sistólica mmHg (PAS).-Presión arterial diastólica en mmHg (PAD).-Colesterol total mg/dl (CT)-Co-HDL mg/dl: colesterol unido a lipoproteínas de alta densidad.-Co-LDL mg/dl: colesterol unido a lipoproteínas de baja densidad.-Triglicéridos mg/dl (TG).-Glucosa basal mg/dl (GLUC).
+
+
+-- VARIABLES CALCULADAS
+
+
+Para la talla y el peso se utilizó báscula y estadiómetro Atlántida S11; la CC fue medida mediante una cinta metálica flexible con gradación en mm (Cescorf), siguiendo normas de la International Society for the Advancement of Kinanthropometry (ISAK). La presión arterial se midió mediante esfigmomanómetro automático (OMROM-M3) y según normas de la Guía Española de Hipertensión Arterial 2013, realizando siempre como mínimo 2 mediciones, y si se daban diferencias superiores a 10 mHg, se tomaba una tercera, con un intervalo de un minuto entre las mismas, utilizándose el valor promedio.
+Las muestras de sangre para la determinación de analitos se obtuvieron mediante venopunción tras 12 h de ayuno, siendo analizadas siguiendo procedimientos normalizados automatizados en bioquímica clínica (autonalizador ILAB-600).
+Para la adscripción de CSO se utilizó la propuesta de clasificación agrupada I en 6 categorías recogida por la Sociedad Española de Epidemiología.
+El consentimiento informado se obtuvo conforme a la legislación vigente. El protocolo de estudio cumplía con la Declaración de Helsinki para estudios médicos y fue aprobado por la comisión de bioética del programa de doctorado de la Universidad de Córdoba.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se han utilizado los paquetes estadísticos-epidemiológicos SPSS (versión 15.0) y EPIDAT (versión 4.1). Las variables cuantitativas se han presentado con media y desviación estándar, y las cualitativas se han mostrado en forma de porcentajes.
+Se han calculado las prevalencias para cada uno de los factores de riesgo y las diferencias de proporciones (prevalencias) entre los grupos de estudio.
+El análisis multivariado se realizó mediante regresión logística, determinando las OR crudas y ajustadas. Se emplearon, para la bondad de ajuste y la evaluación global del modelo, las pruebas de Hosmer-Lemeshow,–2 loglikelihood, y los coeficientes de determinación de Cox-Snell y Nagelkerke.
+Se han realizado curvas operador receptor (COR) y calculado el área bajo la curva (ABC) para determinar qué variables explicativas predicen mejor la pertenencia al grupo de trabajadores en riesgo de exclusión social.
+Para contrastar la bondad de ajuste a una distribución normal de los datos provenientes de variables cuantitativas, se empleó la prueba de Kolmogorov-Smirnov si n > 50, o la de Shapiro-Wilk si n < 50. La muestra presentó una distribución normal.
+El contraste de las diferencias entre 2 medias independientes se realizó mediante la prueba t de Student o U de Mann-Whitney, según estuviera indicado.
+La comparación de porcentajes se realizó mediante el test chi-cuadrado, no siendo preciso realizar la corrección de Yates ni el test exacto de Fisher.
+El nivel de significación estadística fue fijado en todos los contrastes para un error alfa inferior al 5%, y los intervalos de confianza calculados con una seguridad del 95%.
+
+Esquema general del estudio
+
+
+- RESULTADOS
+
+En la tabla 1 pueden observarse las características sociodemográficas y valores medios de los FRCV analizados de la muestra, estratificadas según sexo.
+No hubo diferencias significativas en la edad media de las muestras según sexos (hombres 48,6 años y DE 7,7 vs. mujeres 46,6 años y DE 7,6) ni por grupo laboral (Ayuntamiento 48,6 años con DE 7,8 vs. PRES 45,9 años y DE 7,2).
+En hombres se observa como la glucosa media supera los 100 mg/dl y existe sobrepreso grado II, hipercolesterolemia límite y riesgo cardiovascular Score moderado.
+Según muestra la tabla 2, la PRES presenta diferencias en las medias de todas las variables excepto PAS, PAD, IMC y CC en relación con la población municipal. Teniendo en cuenta solo a las CSO V-VI del Ayuntamiento, con una edad media superior de 50,8 años y DE 8,0, frente a 47 años y DE 7,1 de la PRES (p = 0,00), las diferencias se presentaron en glucosa, colesterol total, colesterol-LDL, índices aterogénicos co-total/co-HDL y co-LDL/co-HDL e índice CC. El riesgo CV según las funciones REGICOR y Score resultó con diferencias en los hombres del PRES, tanto respecto a los hombres de la población laboral global del Ayuntamiento como del grupo social constituido por los trabajadores del mismo pertenecientes a las CSO V-VI.
+Las mujeres pertenecientes al grupo PRES, según se observa en la tabla 3, presentaron diferencias en las medias de glucosa, colesterol-HDL, triglicéridos, índices aterogénicos, PAS, IMC y CC. Teniendo en cuenta solo a las CSO V-VI del Ayuntamiento, las diferencias se mantuvieron en colesterol-HDL, índices aterogénicos, IMC y CC. No se encontraron diferencias en el riesgo cardiovascular según las funciones citadas en mujeres.
+En la tabla 4 se observa, entre hombres pertenecientes a la población laboral estable y PRES, diferencias en la prevalencia de todos los FRCV, salvo hipertensión arterial e hipercolesterolemia límite, resultando las proporciones más elevadas en tabaquismo (3,3), hipercolesterolemia definida (2,2) y síndrome métabólico (1,8). Las CSO inferiores del Ayuntamiento presentaron diferencias frente a la PRES en diabetes, síndrome metabólico y tabaquismo, aunque hubo 7 puntos más de obesidad y 10 de hipercolesterolemia definida. En mujeres, tabaquismo e hipercolesterolemia definida fueron los FRCV que presentaron diferencias. Cabe destacar también que obesidad, hipercolesterolemia límite y síndrome metabólico se dieron con unos porcentajes superiores en 15, 14 y 11 puntos respectivamente. En la comparativa de mujeres en riesgo de exclusión social y trabajadoras del Ayuntamiento, hubo diferencias en los factores de riesgo de tabaquismo, síndrome metabólico, hipercolesterolemia límite, obesidad y diabetes. La hipertensión arterial, tanto en hombres como en mujeres, no presentó diferencia entre ninguno de los grupos.
+Con objeto de valorar la contribución de los distintos FRCV al resultado de pertenencia a la PRES, se llevó a cabo un análisis de regresión logística y posterior obtención de curva ROC. Los datos se presentan en la tabla 5. El índice co-Total/HDL (OR 1,42), el síndrome metabólico (OR 1,79) y el tabaquismo (OR 3,45), junto a diferencia de presión de pulso y % peso graso, resultaron significativos en el análisis multivariante.
+Él área bajo la curva, según muestra la figura 1, alcanzó el 0,719 con un EE del 0,024 y un IC 95% de 0,672-0,765, para las variables de tabaquismo, síndrome metabólico, diferencia de presión de pulso, índice aterogénico CT/co-HDL y % de peso graso.Figura 1
+
+
+- DISCUSIÓN
+
+Se ha comparado el estado de salud de 2 poblaciones con diferente estatus social al objeto de conocer si existían diferencias en la prevalencia de FRCV y de riesgo a 10 años.
+Si Breckenkamp et al. encontraron que la PAD en los hombres y el colesterol en hombres y mujeres estaban asociados a los ingresos desiguales a nivel regional, nuestro estudio encuentra asociación en hombres en glucosa, colesterol total, co-HDL, co-LDL, triglicéridos e índices aterogénicos; en mujeres se encuentra asociación en glucosa, co-HDL, triglicéridos, índices aterogénicos, PAD, IMAC y CC.
+Rumble et al. mostraron como la PAS, índice cintura-cadera y tabaquismo aumentaban en relación con la desigualdad social en hombres. Nuestros resultados apoyan sus conclusiones al mostrar diferencias en tabaquismo, obesidad, hipercolesterolemia definida, diabetes mellitus y síndrome metabólico.
+El presente estudio coincide con Jenkins y Ofstedal en indicar una mayor prevalencia de FRCV entre las mujeres que padecen desigualdad, siendo más frecuente el tabaquismo, hipercolesterolemia límite, obesidad y diabetes. La obesidad de las mujeres pertenecientes al grupo de PRES es similar a la publicada por Ortiz-Moncada para mujeres con salario inferior a 600 €.
+Según Yusuf et al., las poblaciones con bajos niveles de ingresos presentan tasas superiores de enfermedades cardiovasculares independientemente de la prevalencia de FRCV. La evolución de los eventos cardiovasculares producidos, según Lindenauer et al., es más desfavorable en las poblaciones con niveles de ingresos más bajos. El mayor riesgo cardiovascular según REGICOR encontrado en hombres perteneciente a PRES en el presente estudio podría ser superior si para su cálculo se tuviera en cuenta la pertenencia a grupo social desfavorecido.
+Los hombres de la población laboral estable del Ayuntamiento no presentaron diferencias en la prevalencia de tabaquismo, obesidad e hipertensión frente a la población española según la Encuesta Nacional de Salud 2012, mientras que sí se dieron en la PRES, tanto en hombres como en mujeres, salvo HTA en estas. Las diferencias encontradas respecto a la población global de la Encuesta Nacional de Salud, se mantuvieron frente al subgrupo formado por la CSO VI de la misma Encuesta Nacional de Salud.
+López-González et al. encuentran diferencias en la prevalencia de distintos FRCV entre trabajadores según CSO. En nuestro estudio, salvo para PAS en hombres, no se dan diferencias entre los trabajadores del Ayuntamiento pertenecientes a las CSO I-II y V-VI. Esto puede ser debido al proceso selectivo para el ingreso en la administración local y la elevada proporción de estudios universitarios y medios entre los trabajadores. Las prevalencias de hipertensión y tabaquismo de la PRES presentaron diferencias respecto a las observadas en las CSO inferiores del estudio de López-González et al..
+
+
+- CONCLUSIONES
+
+Se comprueba la existencia de una brecha de desigualdad en salud relativa a la prevalencia de FRCV (glucosa y co-LDL en hombres, obesidad en mujeres y co-HDL, índices aterogénicos, CC y tabaquismo en ambos) entre la población perteneciente a las CSO inferiores (clases sociales ocupacionales V-VI) y la PRES. Si estas diferencias se confirmaran en estudios posteriores, sería conveniente el desarrollo de estudios metodológicamente diseñados para valorar la existencia o no de un estamento social no recogido en la clasificación de referencia.
+De los determinantes de salud no se conocen diferencias genéticas entre las poblaciones estudiadas, por lo que la desigualdad se estima vinculada primordialmente a la existencia de inequidad social que hace diferentes los estilos de vida, los accesos al empleo y a los servicios sanitarios y el medio ambiente.
+La promoción de la salud mediante programas de alimentación saludable, actividad física y deshabituación tabáquica, junto con la prevención primaria, son necesarios y con especial importancia en los grupos sociales en riesgo de exclusión social.Lo conocidos sobre el temaHay evidencia científica sobre la relación entre desigualdad económica y desigualdad en salud.Las enfermedades cardiovasculares son la principal causa de muerte en España.Se sabe la existencia de diferencias en la prevalencia de algunos factores de riesgo cardiovascular por clase social, pero no se conoce bien cómo se da esta desigualdad en un sector de población calificado en riesgo de exclusión social y cómo afecta a su riesgo de morbilidad por cardiopatía isquémica.Qué aporta este estudioLa evidencia aportada sobre estos hechos favorece un mayor conocimiento sobre cómo la distinta distribución de algunos factores de riesgo cardiovascular en función de la desigualdad social puede influir en la morbilidad cardiovascular, y favorece la adopción de estrategias de salud pública dirigidas a disminuir la desigualdad añadida por la crisis económica, generando el interrogante sobre la conveniencia de considerar una nueva clase social, la integrada por las personas en riesgo de pobreza y exclusión.
+
+
+- FINANCIACIÓN
+
+Sin financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

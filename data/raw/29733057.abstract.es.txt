@@ -1,0 +1,6 @@
+Resultados del índice rdt/jT > 0.44 se sitúan más allá de dos desviaciones estándar, por lo tanto, son anormales y deben ser motivo de estudio especializado del portador en busca de riesgo de muerte.
+Se ha identificado que la prolongación de la rama descendente de la onda T del electrocardiograma (ECG) puede determinar riesgo de muerte súbita de origen cardiaco, pero se desconoce su importancia en población general.
+La distribución fue asimétrica, sin diferencia en los tres grupos. La transformación Z mostró valor medio de 30 ± 7, lo que sugiere que 95 % de la población debe tener índice rdT/jT < 0.45.
+Medimos el índice rdT/jT (la rama descendente de la onda T/el espacio entre el punto j y el fin de la T) en 400 electrocardiogramas (ECG) totalmente normales, 656 con alteraciones que no afectan la repolarización ventricular y 82 con bloqueo de rama. Hicimos transformación Z de las curvas de distribución no paramétrica y calculamos razón Z a datos alejados del valor medio.
+Proporcionar una herramienta de fácil adquisición y aplicación efectiva para identificar riesgo de muerte súbita en población general.
+

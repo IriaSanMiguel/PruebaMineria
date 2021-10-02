@@ -1,0 +1,5 @@
+Se incluyeron mujeres en edad fértil de la encuesta probabilística Ensanut 100k, que representa a los hogares con menos capacidades económicas. Se estimó la prevalencia de anemia mediante concentración de hemoglobina, con información sociodemográfica, de salud, inseguridad alimentaria y diversidad de la dieta.
+Es necesario implementar acciones de detección y atención temprana de la anemia en las mujeres de edad fértil, así como identificar las causas subyacentes y fortalecer y reformular estrategias para prevenirla.
+Estimar la prevalencia y distribución de anemia en mujeres mexicanas y su asociación con factores sociodemográficos y la diversidad de la dieta.
+El 34.3% de las mujeres presentó anemia; los factores protectores para anemia fueron pertenecer al tercil 3 de condición de bienestar (OR=0.26, IC95% 0.16-0.61), alta diversidad de la dieta en áreas rurales (OR=0.57, IC95%0.36-0.92), así como vivir en un hogar con seguridad alimentaria.
+

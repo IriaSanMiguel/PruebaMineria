@@ -1,0 +1,78 @@
+DIAGNÓSTICO Y TRATAMIENTO EMPÍRICO DE LA NEUMONÍA ADQUIRIDA EN LA COMUNIDAD EN SITUACIONES ESPECIALES: PACIENTES INMUNOCOMPROMETIDOS SIN INFECCIÓN POR EL VIH Y ANCIANOS
+
+
+- INTRODUCCIÓN
+
+Todos los individuos son susceptibles de padecer una neumonía adquirida en la comunidad (NAC) (para definiciones ver el protocolo anterior). Sin embargo, determinadas características del individuo le pueden hacer más propenso a dicho padecimiento (tabla 1 ).
+Las consideraciones relativas a los estudios complementarios a realizar y las escalas de gravedad no difieren de las comunes en el abordaje de la NAC, y han sido valoradas en el protocolo previo. La edad y las situaciones de inmunodepresión modifican la gravedad del cuadro, entre otros motivos por la presencia concomitante de comorbilidades, y del tratamiento a emplear por la existencia de particularidades en los microorganismos responsables.
+
+
+- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD EN EL ANCIANO
+
+La frecuencia de los síntomas y signos de la NAC en el anciano se presentan en la tabla 2 . Los cambios en el estado funcional del individuo, alteraciones metabólicas, descompensación de patologías crónicas previamente compensadas o confusión mental son hallazgos propios de la NAC en el anciano.
+La etiología de la neumonía se consigue conocer en porcentajes tan variables como el 5-50% de los casos. En casos en los que se detecta el germen responsable, Streptococcus pneumoniae es el aislado con más frecuencia (20-60%), seguido por Clamydophila spp.(12-28%) y Haemophilus influenzae (7-11%). La frecuencia de bacilos Gram negativos, Staphylococcus aureus, Legionella spp. o Moraxella catarrhalis, aun siendo mayor que en sujetos jóvenes, es escasa. Mycoplasma pneumoniae no es habitualmente una causa de NAC en el anciano. Las infecciones víricas, particularmente por virus influenza, parainfluenza, respiratorio sincitial, metaneumovirus y coronavirus son frecuentes en el anciano (8-33%) y uno de los motivos para la recomendación de vacunación antigripal en este grupo de edad.
+¿Tienen los ancianos mayor riesgo de infección por gérmenes resistentes a los antibióticos? Sí, debido a diferentes factores. El principal es el mayor número de contactos que han tenido con el sistema sanitario debido a otras patologías crónicas o a la institucionalización.
+Las escalas de gravedad son similares a las de los adultos más jóvenes (CURB-65, PSI, ATS/DSA, SMART-COP), pero en este grupo de pacientes tiene adicionalmente una importancia primordial el criterio del clínico, necesario para abordar tres aspectos: a) gravedad de la sepsis; b) gravedad de la insuficiencia respiratoria y c) descompensación de otras comorbilidades presentes.
+En función de los factores de riesgo del individuo, el tratamiento antibiótico del enfermo será diferente. Se han propuesto diversos esquemas terapéuticos de la NAC en el anciano, pero no han sido aún validados en grandes series. En general, se acepta que en ausencia de inmunodepresión, riesgo de aspiración, riesgo de infección por gérmenes multirresistentes o riesgo de neumonía vírica (tabla 3 ), el tratamiento en el anciano es la terapia estándar de la NAC.
+
+
+- INFECCIÓN PULMONAR EN EL ENFERMO INMUNODEPRIMIDO (CON EXCLUSIÓN DE LOS PACIENTES CON INFECCIÓN POR EL VIRUS DE LA INMUNODEFICIENCIA HUMANA
+
+Las infecciones pulmonares son una de las enfermedades más graves y frecuentes detectadas en el enfermo inmunodeprimido (EID). Además, el EID puede presentar múltiples infecciones al mismo tiempo.
+En función del tipo de déficit inmune, la predisposición a una u otra infección es diferente (tabla 4 ). Aunque la secuencia diagnóstica es la misma que en el individuo inmunocompetente, se requiere un diagnóstico rápido, en el que deben incluirse procederes más agresivos, como la broncoscopia y la toma de muestras a través de la misma si fueran precisos o la biopsia transtorácica, a fin de conseguir un tratamiento dirigido precoz.
+
+
+-- NEUMONÍA BACTERIANA
+
+Los enfermos con trasplante de células hematopoyéticas o de órgano sólido y los sometidos a quimioterapia, en general, están en riesgo aumentado de neumonía bacteriana. La neumonía bacteriana es la complicación infecciosa más frecuente en los trasplantes cardíaco y pulmonar, y la segunda más común en los trasplantes hepáticos. El riesgo es mayor durante la hospitalización inicial.
+Los patógenos más comunes son S. aureus y bacilos Gram negativos como P. aeruginosa, Stenotrophomonas maltophilia y Burkholderia cepacia. Son asimismo frecuentes los gérmenes implicados en la NAC del sujeto inmu- nocompetente (S. pneumoniae, M. pneumoniae, H. influenzae, C. pneumoniae y Legionella pneumophila).
+La secuencia diagnóstica es similar a la del sujeto inmunocompetente, pero se requiere con mayor frecuencia la realización de técnicas invasivas, como la broncoscopia, para llegar a un diagnóstico preciso y rápido.
+
+
+-- NEUMONÍA VÍRICA
+
+La neumonía vírica es más frecuente en el enfermo con leucemia, tratado o no con quimioterapia, y en el receptor de trasplante de células hematopoyéticas.
+La detección de ácidos nucleicos de los virus influenza A y B, adenovirus, virus respiratorio sincitial (VRS), parainfluenza y metapneumovirus mediante la reacción en cadena de la polimerasa de la posibilidad de infección por virus ha permitido acceder al diagnóstico de estas neumonías víricas.
+
+
+-- NEUMONÍA FÚNGICA
+
+La supresión inmune y/o neutropenia asociada con la quimioterapia para la leucemia mieloide aguda, trasplante de células hematopoyéticas y de órgano sólido y enfermedad injerto contra huésped tienen un riesgo aumentado de infección fúngica, mayor cuanto más prolongado sea el estado de inmunodepresión.
+Aspergillus fumigatus es el hongo más implicado como causa de estas neumonías en los pacientes con enfermedades hematológicas o con trasplante de pulmón y rechazo crónico al mismo , .
+El diagnóstico de las neumonías fúngicas es difícil. Requiere la demostración histológica de la presencia del hongo en el aspirado o biopsia pulmonar. La biopsia transtorácica guiada por tomografía computadorizada permite el diagnóstico rápido de los nódulos pulmonares, infecciosos o no. Desafortunadamente no es una técnica que se pueda emplear en muchos casos por los trastornos de la coagulación debidos a la propia enfermedad hematológica o a su tratamiento , .
+La determinación de (1-3)-beta-D-glucan (BDG) y galactomanano puede ayudar a la identificación de enfermos con aspergilosis pulmonar invasiva. BDG es un componente de la pared celular de Candida, Aspergillus, P. jirovecii y otros hongos. La medida seriada de estos antígenos en suero puede ayudar al diagnóstico precoz de la aspergilosis pulmonar. Recientemente, un metaanálisis ha demostrado la utilidad de la medición de galactomanano en el líquido del lavado broncoalveolar para el diagnóstico de aspergilosis pulmonar (sensibilidad 90%, especificidad 94%).
+
+
+-- INFECCIÓN PULMONAR POR MICOBACTERIAS
+
+La reactivación de la tuberculosis pulmonar es un hallazgo común en el EID. La búsqueda de infección tuberculosa latente previa a inmunosupresión farmacológica y profilaxis con isoniazida ha disminuido (pero no suprimido) la incidencia de enfermedad tuberculosa en estos enfermos.
+La infección por micobacterias no tuberculosas ocurre sobre todo en enfermos con fibrosis quística que ya presentan colonización por las mismas, sometidos a trasplante de pulmón. Los dos gérmenes más frecuentes en este grupo son M. avium y M. abscessus .
+
+
+-- NEUMONÍA EN ENFERMOS QUE RECIBEN MODULADORES BIOLÓGICOS
+
+Los moduladores biológicos están siendo más usados de manera progresiva en el tratamiento de múltiples enfermedades reumatológicas y de la enfermedad inflamatoria intestinal. En función de la célula diana del anticuerpo monoclonal correspondiente, el tipo de inmunodepresión y los gérmenes implicados en la neumonía variarán; así por ejemplo, rituximab es un anticuerpo monoclonal dirigido frente al antígeno CD20, presente en los linfocitos B; determina una disminución notable de estos linfocitos durante periodos de 6 a 9 meses y predispone, en consecuencia, a infecciones asociadas a déficit de inmunidad humoral.
+Los fármacos de este grupo sobre los que existe una literatura más extensa son los anticuerpos antifactor de necrosis tumoral alfa (TNF-alfa). Actualmente están disponibles en el mercado los siguientes: infliximab, etanercept, adalimumab, golimumab y certolizumab.
+TNF-alfa es una citocina proinflamatoria requerida, entre otros, para la formación y mantenimiento de los granulomas. El empleo de anticuerpos monoclonales anti-TNF-alfa se asocia a un mayor riesgo de infecciones por gérmenes intracelulares e infecciones granulomatosas. Los patógenos detectados con más frecuencia en estos enfermos son M. tuberculosis, L. pneumophila, Aspergillus spp., Cryptococcus spp. y otros hongos.
+
+
+- PROFILAXIS Y TRATAMIENTO
+
+Las medidas para minimizar el riesgo en estos enfermos han sido parcialmente útiles en el control del riesgo de la NAC. Entre ellas figuran limitar la exposición potencial a patógenos respiratorios, sobre todo durante situaciones de inmunodepresión más profunda, como durante la terapia de inducción o en la prevención de los episodios de rechazo; vacunación frente a gérmenes respiratorios (neumococo, gripe) y profilaxis farmacológica, cuando esté indicada, frente a P. jirovecii (trimetoprim sulfametoxazol) y M. tuberculosis (isoniazida).
+No es posible establecer unas reglas de tratamiento empírico para cualquier tipo de neumonía en cualquier tipo de individuo inmunodeprimido. En el prototipo de los mismos, el enfermo con neutropenia febril, se realiza en primer lugar una estratificación del riesgo, según el índice MASCC (Multinational Association for Supportive Care in Cancer) (tabla 5 ). A continuación adaptamos los pasos indicados en la figura 1 .Fig. 1
+Los antibióticos que se pueden administrar por vía oral contra los patógenos resistentes en ausencia de factores de riesgo son la combinación ciprofloxacino/amoxicilina-ácido clavulánico; también son posibles los antibióticos por vía intravenosa, tales como ceftriaxona más amikacina, una vez al día.
+El tratamiento de escalado (es decir, comenzar con una cobertura de espectro relativamente estrecho y, después, ajustar el tratamiento si se considera necesario) parece apropiado en los contextos en los que las bacterias resistentes son infrecuentes (porcentaje de especies resistentes inferior al 10-20%), dado que permite cubrir la mayor parte de las enterobacterias y P. aeruginosa, excepto las cepas multirresistentes. La monoterapia con un antibiótico betalactámico contra Pseudomonas (ceftazidima, cefepima o piperacilina-tazobactam) representa la estrategia más racional en los centros clínicos en los que no hay evidencia de fenómenos de resistencia, utilizando los carbapenemes como tratamiento de segunda línea en los pacientes que no responden a los betalactámicos, con o sin infecciones documentadas. En esta situación, no se considera necesaria la combinación de un aminoglucósido con un betalactámico debido al posible incremento de los efectos adversos sin ninguna ventaja clínica en cuanto a la eficacia.
+El tratamiento de desescalado consiste en comenzar con un régimen empírico de espectro muy amplio, por ejemplo con un carbapenem que ofrece cobertura frente a las enterobacterias productoras de betalactamasas de espectro extendido (BLEE) y frente a algunas cepas resistentes de P. aeruginosa, con o sin vancomicina frente a S. aureus resistente a meticilina u otros cocos Gram positivos resistentes a penicilina. Esta estrategia puede ser apropiada en los centros clínicos en los que hay una incidencia elevada de infecciones causadas por bacterias resistentes, o bien en los pacientes con factores de riesgo para los patógenos resistentes . El elemento clave en la estrategia de desescalado es la reevaluación del tratamiento antibiótico a las 48-96 horas, con sustitución por un régimen de espectro estrecho siempre que sea posible. La cobertura muy amplia se interrumpe en la estrategia de desescalado una vez que se conoce la susceptibilidad del patógeno aislado o bien mejora la situación clínica del paciente.
+La selección del tratamiento empírico en los pacientes con neutropenia y un infiltrado pulmonar debe estar fundamentada en el tipo de infiltrado, en el momento de aparición del infiltrado en relación con el inicio de la fiebre y en los datos epidemiológicos y correspondientes a la anamnesis. Si la neumonía fuera evidente desde el comienzo del episodio febril se debería sospechar una etiología bacteriana y estaría indicado el mismo régimen antibiótico que se utiliza a menudo para la neutropenia febril en los pacientes de riesgo alto. Por el contrario, si la neumonía apareciera aparentemente en forma de una infección intercurrente en un paciente que ya está recibiendo antibióticos de amplio espectro, la etiología fúngica sería más probable y, en este caso, el tratamiento antifúngico sería lógico, aunque también sería una posibilidad la existencia de un patógeno bacteriano resistente como Legionella o M. pneumoniae. La neumonía intersticial es relativamente infrecuente durante la neutropenia, pero se observan casos. En esta situación, los microorganismos causales más probables son citoegalovirus, el virus de la gripe, P. jirovecii y M. pneumoniae. La observación de una lesión cavitada en un paciente con leucemia aguda febril y neutropénico debe plantear la posibilidad de una infección bacteriana, especialmente si los hemocultivos son positivos (por ejemplo, S. aureus o bacilos Gram negativos). Las lesiones fúngicas en los pacientes neutropénicos suelen cursar con el típico signo del halo o con lesiones nodulares, más que con lesiones cavitadas que solo se hacen aparentes tras la recuperación de los neutrófilos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

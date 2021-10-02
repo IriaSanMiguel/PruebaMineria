@@ -1,0 +1,5 @@
+Analizar la contribución de los alimentos naturales, procesados y ultraprocesados a la disponibilidad de energía y nutrientes en los hogares mexicanos.
+Se analizó la base de datos de la Encuesta Nacional de Gasto de los Hogares 2013 (n = 58 001), la cual es una encuesta transversal. Se estimó la disponibilidad de alimentos (g/adulto equivalente/día), energía y nutrientes. Los alimentos fueron clasificados siguiendo el sistema NOVA.
+Los alimentos naturales (AN) y los ultraprocesados (AUP) contribuyeron con más energía. Los AN fueron la principal fuente de la mayoría de los nutrimentos. Los ingredientes culinarios procesados (ICP) y los alimentos procesados (AP) tenían alto contenido de energía, grasas totales y grasas saturadas pero bajo contenido de ciertos micronutrientes. El sodio estaba disponible principalmente en AP y AUP. Las bebidas azucaradas, comidas rápidas, galletas y panes fueron los principales AUP.
+En México, los ICP, AP y AUP tienen baja calidad nutricional.
+

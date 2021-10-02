@@ -1,0 +1,26 @@
+MAGNITUD DE LAS BRECHAS EN EL DIAGNÓSTICO Y CONSEJERÍA NUTRICIONAL PARA NIÑOS DE UNO A 5 AÑOS DE EDAD EN MEDICINA FAMILIAR EN MÉXICO: ANÁLISIS DE LOS DATOS DEL EXPEDIENTE ELECTRÓNICO
+
+
+Sr. Director:
+Durante las últimas décadas los países desarrollados tienen un incremento de obesidad en los niños preescolares; en tanto los países en desarrollo están en etapa de transición nutricional caracterizada por la disminución de la desnutrición e incremento del sobrepeso y obesidad. Durante la niñez, la desnutrición y el sobrepeso/obesidad tienen repercusiones inmediatas y mediatas, por lo que es prioritaria la identificación oportuna y el manejo apropiado de estos trastornos nutricionales. El buen estado nutricional contribuye a una niñez saludable e incrementa la expectativa de un mejor estado de salud en edades posteriores.
+El problema de los trastornos nutricionales se ha reconocido mundialmente; no obstante, son escasos los estudios orientados a evaluar el desempeño de los servicios de salud en lo referente a su detección, prevención y manejo. Este trabajo analizó la frecuencia del diagnóstico y consejería para los trastornos nutricionales de niños de uno a 5 años atendidos en clínicas de medicina familiar en México.
+
+
+- DISEÑO Y MEDICIONES
+
+Se realizó un estudio transversal descriptivo en 4 clínicas de medicina familiar del Instituto Mexicano del Seguro Social (IMSS) de la Ciudad de México. Se analizaron 9.330 expedientes electrónicos de todos los niños entre uno y 5 años que asistieron al menos a una consulta con el médico familiar durante el año 2009 e incluidas en el estudio. El estado nutricional se clasificó utilizando la puntuación Z de las tablas de la Organización Mundial de la Salud sobre el índice de masa corporal (IMC) para la edad y el sexo, . Se definieron: emaciación ≤ –2 puntaje Z del IMC, peso normal > –2 y < +2 puntajes Z del IMC, sobrepeso entre ≥ +2 y < +3 puntajes Z del IMC, obesidad ≥ + 3DE puntajes Z del IMC. El diagnóstico médico de trastornos de la nutrición fue confirmado por el registro de los códigos CIE-10: de E40 a E46 (malnutrición) y E66 (obesidad) en el expediente. Además, se identificó la frecuencia de consejería para los trastornos nutricionales. La información de los expedientes electrónicos fue extraída a través del lenguaje de programación SQL con revisión posterior de los expedientes de manera individual. El estudio fue autorizado por el Comité de Ética del IMSS.
+
+
+- RESULTADOS
+
+Utilizando los datos de peso, talla, IMC y los estándares de la OMS, se determinó que 81,3% de los niños tenían un peso normal, 3,1% emaciación, 10,2% sobrepeso y 5,4% obesidad. La tabla 1 presenta las características generales y de la atención médica en relación con el estado nutricional de los niños. Los niños acudieron 2,8 veces a consultas en promedio con el médico familiar, principalmente por infecciones. El 20,7% tuvieron consulta de control y vigilancia del crecimiento. Únicamente el 5,9% del total de niños con emaciación y el 2,1 y 5,5% del total de niños con sobrepeso y obesidad tuvieron registro del diagnóstico en el expediente. Solo el 29,9% recibieron recomendaciones alimentarias, 3,7% recomendaciones de ejercicio físico y 1,9% fue referido al nutriólogo.
+
+
+- CONCLUSIONES
+
+Es baja la proporción de niños con trastornos de la nutrición que tiene registrado el diagnóstico y la consejería nutricional en atención primaria. Este hallazgo es una alerta para motivar que el personal de salud reciba capacitación acerca del diagnóstico y manejo de los trastornos nutricionales en la población pediátrica. Los hallazgos también sustentan la recomendación de evaluar continuamente los establecimientos de atención primaria en lo referente a la atención que los niños con trastornos nutricionales reciben. El expediente electrónico es una herramienta útil para evaluar el desempeño de los servicios de atención primaria en lo que respecta a la atención de niños con trastornos nutricionales.
+
+
+- FINANCIACIÓN
+
+Ninguna.

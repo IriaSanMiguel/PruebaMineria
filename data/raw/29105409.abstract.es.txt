@@ -1,0 +1,5 @@
+Se hallaron diferencias significativas entre ambos grupos en los porcentajes de IOT correcta (96% GpG vs 72% GpC; p = 0,024) y en el tiempo de ejecución de la IOT [diferencia de medias 94,3 (IC95% 40,7-147,9) s; p = 0,001].
+Ensayo aleatorizado de simulación clínica desarrollado en la Universidad Católica de Murcia de noviembre 2014 a febrero 2015. Se distribuyó aleatoriamente a los enfermeros voluntarios de la Gerencia de Emergencias 061 de Murcia en un grupo de 25 enfermeros con ayuda telemática mediante las GG (GpG) y un grupo de 25 enfermeros sin ayuda (GpC). La variable principal del estudio fue la correcta IOT.
+Evaluar el efecto de la ayuda telemática, a través de las Google Glass® (GG), de un médico experto para la correcta intubación orotraqueal (IOT) realizada en simulación clínica por enfermeros de extrahospitalaria.
+La ayuda telemática de un médico experto, a través de las GG, mejora los porcentajes y tiempos de la IOT correcta de los enfermeros de extrahospitalaria en situaciones clínicas simuladas.
+

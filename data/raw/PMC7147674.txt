@@ -1,0 +1,221 @@
+PREVENCIÓN DEL RIESGO INFECCIOSO EN EL CONSULTORIO DE PEDIATRÍA Y EN EL HOSPITAL
+
+
+- INTRODUCCIÓN: PROGRAMA NACIONAL DE ACTUACIONES PARA LA PREVENCIÓN DE INFECCIONES ASOCIADAS A LA ASISTENCIA SANITARIA
+
+En Francia, el programa de 2015 sustituye al programa nacional de prevención de las infecciones nosocomiales de 2009 a 2013. El término «nosocomial» se refiere a las infecciones adquiridas en los centros sanitarios. Este adjetivo ha sido sustituido por «asociado a la asistencia sanitaria», para subrayar el hecho de que este programa tiene por objetivo prevenir todas las infecciones asociadas a la asistencia sanitaria (IAAS) con independencia del lugar en el que ésta se lleve a cabo: centros sanitarios, centros médico-sociales o consultorios médicos privados.
+Este nuevo programa consta de tres ejes que abarcan estos tres sectores de asistencia sanitaria:•eje 1: desarrollar la prevención de las IAAS en todo el recorrido asistencial, implicando a pacientes y a residentes;•eje 2: reforzar la prevención y el control de la resistencia antibiótica en el conjunto de los sectores que proporcionan asistencia;•eje 3: reducir los riesgos infecciosos asociados a los actos invasivos en todo el recorrido asistencial.
+Estos tres ejes se centran en temas y objetivos, algunos de los cuales están desarrollados en este artículo.
+Así, la prevención de las IAAS incluye siempre medidas que corresponden a:
+Por último, aunque las IAAS afectan a los pacientes, también pueden afectar a los médicos o técnicos sanitarios o a otras personas. El cumplimiento de las precauciones estándar es fundamental para protegerlos a todos. También se detallan aquí las medidas de prevención de los accidentes por exposición a líquidos biológicos, así como las recomendaciones vacunales.
+
+
+- PREVENCIÓN DE LA TRANSMISIÓN EN CUALQUIER PACIENTE <XREF RID="BIB0015" REF-TYPE="BIBR"><SUP>[3]</SUP></XREF
+
+El número conocido de pacientes infectados o portadores de microorganismos tan sólo representa una pequeña parte del iceberg. La parte escondida del iceberg representa a los pacientes portadores de microorganismos transmisibles, pero que todavía no se conocen como tales. Por este motivo, existen precauciones generales de higiene o precauciones estándar que se deben respetar durante la curación de cualquier paciente, precauciones reglamentarias y oponibles . Las precauciones estándar constituyen la base de cualquier cuidado asistencial. Sirven para proteger al profesional sanitario de los microorganismos transmisibles y para limitar la transmisión cruzada. Se describen a continuación.
+
+
+-- LAVADO Y/O DESINFECCIÓN DE LAS MANOS
+
+Se recomiendan para después de quitarse los guantes, entre dos pacientes y dos actividades. Tanto en el hospital como en el consultorio médico, cuando las manos no están sucias o mojadas, la desinfección por fricción con una solución hidroalcohólica (SHA) es mejor que el lavado de manos con agua y jabón. La desinfección de las manos mediante lavado con un jabón antiséptico ya no se recomienda. La fricción es más eficaz y se tolera mejor. Es preferible utilizar las SHA cuya eficacia microbiológica está reconocida por las normas europeas.
+El lavado de manos con agua y jabón se reserva para el momento de empezar la consulta, para después de ir al baño, para antes y después de las comidas, en caso de contaminación accidental con líquidos biológicos (orina, heces, sangre, etc.), y para cuando las fricciones reiteradas con SHA incomodan al profesional sanitario.
+Al lavarse las manos, hay que dejar un intervalo mínimo de 5-10 minutos entre el lavado y la fricción, que se realizará justo antes de la curación, para lograr una mayor eficacia y una mejor tolerancia a la SHA.
+En casa y después de usar el transporte público, cuando no hay ninguna enfermedad infecciosa, el lavado de manos con agua y jabón es suficiente como medida higiénica. Sin embargo, en caso de enfermedad transmisible (gripe, diarrea infecciosa, etc.) o si el paciente es portador de un dispositivo invasivo (por ejemplo de una vía venosa central, etc.), el médico puede recomendar la fricción de las manos con SHA en el domicilio, antes y después de manipular dicho dispositivo invasivo.
+
+
+-- USO DE GUANTES
+
+Cualquier producto de origen humano (orina, heces, etc.), así como las mucosas están muy cargadas de microorganismos (102 a 1011 microorganismos por gramo de materia). Se deben usar guantes siempre que exista riesgo de contacto con estos productos, con las mucosas o con la piel lesionada del paciente, sobre todo durante las curaciones en la que exista el riesgo de pincharse (hemocultivo, vías venosas, cámaras implantables, extracción de sangre, etc.) y durante la manipulación de tubos con muestras biológicas, ropa y material contaminados, etc.
+Los guantes también sirven para proteger al profesional sanitario durante las curaciones, cuando sus manos presentan lesiones. Para no ser fuente de transmisión cruzada, se deben cambiar entre dos pacientes, así como entre dos actividades.
+
+
+-- USO DE BATAS, GAFAS Y MASCARILLAS
+
+Tanto el médico como cualquier profesional sanitario debe usar estos materiales de protección si las curaciones o manipulaciones implican un riesgo de proyección o de aerosolización de sangre o de cualquier otro producto de origen humano (aspiración, endoscopia, actos quirúrgicos, autopsia, manipulación de material y ropa contaminados, etc.).
+
+
+-- MATERIAL CONTAMINADO
+
+Cuando se usa material desechable cortante o punzante, no hay que tapar las agujas con sus capuchones al finalizar la maniobra, ni tampoco manipularlas; hay que tirarlas inmediatamente después de su uso, sin manipularlas, a un contenedor específico situado lo más cerca posible y sin exceder su nivel máximo de llenado.
+Se recomienda utilizar siempre que sea posible material desechable.
+El material reutilizable contaminado por sangre o por cualquier otro producto de origen humano debe manipularse con precaución: hay que sumergirlo en una solución detergente desinfectante para instrumental, antes de proceder a su esterilización.
+Si el material está en contacto simplemente con la piel sana del paciente, es suficiente una desinfección de las superficies con un detergente-desinfectante de superficie para centros sanitarios, siempre que el dispositivo sea liso.
+
+
+-- SUPERFICIES CONTAMINADAS POR PROYECCIÓN O AEROSOLIZACIÓN DE SANGRE O DE CUALQUIER OTRO PRODUCTO DE ORIGEN HUMANO
+
+Para evitar la transmisión cruzada, es conveniente desinfectar estas superficies con un detergente-desinfectante de superficies para centros sanitarios (basta una pasada con el producto). Existen productos para diluir y productos listos para su empleo, con una pistola pulverizadora, que resulta más práctica.
+Ya no se recomienda usar lejía para la desinfección porque requiere una pasada previa con un detergente simple (dos pasos en total). El contenido de cloro de la lejía que se vende en el comercio no está garantizado y, además, es difícil de preparar e inestable. Cuando se utiliza de manera incorrecta (con un producto desincrustante ácido en los baños, por ejemplo), puede provocar graves accidentes (liberación de ácido clorhídrico).
+Para la fricción higiénica con las SHA, así como para la operación de limpieza-desinfección de instrumentos y superficies, se recomienda el uso de productos cuya eficacia microbiológica ha sido demostrada de acuerdo con las normas europeas vigentes. Estas normas deben figurar en los frascos de estos productos o en sus fichas técnicas (NF, EN, etc.).
+
+
+-- TRANSPORTE DE MUESTRAS BIOLÓGICAS, ROPA Y MATERIALES CONTAMINADOS
+
+Las muestras biológicas, la ropa y los instrumentos contaminados con sangre o con cualquier otro producto de origen humano deben ser evacuados del servicio en un embalaje estanco, bien cerrado.
+
+
+- PREVENCIÓN DE LA TRANSMISIÓN DE INFECCIONES TRANSMITIDAS POR LAS MANOS (GASTROENTERITIS, ETC
+
+Se trata sobre todo de las gastroenteritis virales (rotavirus, adenovirus, etc.), frecuentes durante el invierno en los servicios de pediatría; también de las producidas por Salmonella, de infecciones cutáneas por Staphylococcus aureus, etc.
+La transmisión por contacto puede ser directa o indirecta. La transmisión directa se hace por transferencia de un microorganismo de una persona infectada o colonizada a otra sin intermediario alguno. La transmisión indirecta se hace por medio de un soporte inanimado (por ejemplo, camilla, mesa, etc.).
+Tanto en el hospital como en el consultorio, la primera barrera para evitar la transmisión de las infecciones por contacto es la higiene de las manos antes de cualquier contacto con un paciente, inmediatamente antes de cualquier curación o maniobra invasiva, después de cualquier contacto con un paciente, de cualquier contacto accidental con líquidos biológicos (sangre, heces, orina, etc.); en esta situación, la fricción de las manos con una SHA debe estar precedida de un lavado con jabón suave.
+Tanto en el hospital como en el consultorio, el uso de guantes (no estériles) es necesario para cualquier contacto con líquidos biológicos (como con pacientes no infectados, no colonizados). Antes de ponerse los guantes, es conveniente friccionar las manos, así como después de quitárselos (ya que al sacarlos, las manos se contaminan con los guantes contaminados).
+El delantal plástico desechable protege y permite evitar mancharse cuando se realiza una curación directa.
+Todas estas medidas de precaución se llaman precauciones complementarias de tipo contacto . En un centro hospitalario, la implementación de este tipo de medidas requiere una prescripción médica, y se recomienda que estos pacientes estén en habitaciones individuales o agrupados en una habitación o sector del servicio por pacientes portadores del mismo microorganismo. Este tipo de paciente puede deambular por los pasillos, siempre que esté bien informado y lúcido, y deberá friccionarse las manos con regularidad. Las visitas no están prohibidas, pero se recomienda que los visitantes también se fricciones las manos con una SHA para reducir el riesgo de transmisión.
+Para limitar la transmisión a través de los dispositivos médicos, se recomienda encarecidamente individualizar el material reutilizable en la habitación de este tipo de pacientes. Cada dispositivo debe ser desinfectado, entre dos pacientes, con un desinfectante adecuado que tenga actividad bactericida y fungicida.
+Un niño con diarrea por rotavirus puede contaminar las superficies de su entorno (barras de las cunas, juguetes de la sala de espera, etc.). Para limitar este riesgo, es necesario desinfectar a diario estas superficies con desinfectantes que también respondan a las normas de actividad bactericida y fungicida.
+Los juguetes deben desinfectarse con la frecuencia necesaria: los peluches sintéticos con una frecuencia mínima semanal (lavado a máquina en un programa de 40 °C); los juguetes pequeños de superficie rígida pueden lavarse en el lavavajillas; los que se pueden sumergir se lavarán dos veces por semana (a remojo durante 15 minutos en una solución de detergente-desinfectante compatible con el uso alimentario, aclarado para reducir el riesgo toxicológico y secado); los juguetes que no se pueden mojar se limpiarán a diario (se frotarán con un paño impregnado en una solución de detergente-desinfectante compatible con el uso alimentario y después se aclararán). Estas frecuencias se pueden adaptar al período epidémico. Durante el invierno, se pueden retirar los juguetes y los libros para evitar la transmisión; dicha práctica es corriente en los centros hospitalarios.
+
+
+- PREVENCIÓN DE LA TRANSMISIÓN DE LAS INFECCIONES TRANSMITIDAS POR EL AIRE (TOS FERINA, VIRUS RESPIRATORIO SINCITIAL [VRS], TUBERCULOSIS) <XREF RID="BIB0030" REF-TYPE="BIBR"><SUP>[6]</SUP></XREF
+
+Un paciente (o un profesional sanitario) que habla, tose, escupe o estornuda emite al aire secreciones respiratorias en forma de gotitas de diferentes tamaños. Las más grandes sedimentan inmediatamente después de su emisión. Las más pequeñas se deshidratan con gran rapidez y forman las droplet nuclei, que permanecen suspendidas en el aire, en forma de aerosol. En caso de infección respiratoria, estas secreciones pueden contener microorganismos, y según su naturaleza, se pueden transmitir por contacto de las mucosas con las gotas gruesas (transmisión por gotas) o por inhalación de las droplet nuclei (transmisión por aire).
+
+
+-- PREVENCIÓN DE LAS INFECCIONES TRANSMITIDAS POR GOTAS «G»: CATARRO, INFECCIÓN OTORRINOLARINGOLÓGICA (ORL) O NEUMOPATÍA DEL NIÑO (RINOVIRUS, ADENOVIRUS, ETC.), BRONQUIOLITIS (VRS), TOS FERINA, GRIPE, PAPERAS, MENINGITIS, RUBÉOLA, ANGINA, ESCARLATINA, ETCÉTERA
+
+Es necesario prevenir la transmisión por las secreciones orotraqueobronquiales en forma de gotitas (partículas > 5 μm) que sedimentan inmediatamente después de su emisión al hablar, respirar, estornudar o toser y que se depositan en las conjuntivas u otras mucosas. Para poder implantarse, los microorganismos debe entrar en contacto con las mucosas o conjuntivas del individuo receptor: ya sea de forma directa, de mucosa a mucosa facial (nasal, bucal, conjuntivas) o bien de forma indirecta a través de las manos del receptor, contaminadas por contacto con las secreciones ORL del paciente o de una superficie (mesa, juguetes, etc.) y que después se llevan a la cara (boca, nariz u ojos).
+Además, se deben implementar medidas de precaución complementarias «G» : uso de mascarilla quirúrgica por parte del personal sanitario, incluso en el consultorio médico y durante las curaciones a domicilio. En el hospital, es preferible que el paciente afectado esté solo en la habitación o si acaso con otro paciente portador del mismo microorganismo. Si el paciente sale de la habitación, debe llevar la mascarilla quirúrgica. La fricción de las manos se debe hacer con regularidad y, sobre todo, después de quitarse la mascarilla, ya que las manos se contaminan en el momento de retirarla.
+En la sala de espera del consultorio médico o del hospital, también se recomienda tener a disposición de cualquier paciente con tos o fiebre mascarillas quirúrgicas y una SHA (dispensador fijo en la pared). El Institut National de Prévention et d’Éducation pour la Santé muestra, en su página web, mensajes para la sensibilización del público frente al riesgo de transmisión de las infecciones respiratorias.
+
+
+-- PREVENCIÓN DE LAS INFECCIONES DE TRANSMISIÓN AÉREA «A»: SARAMPIÓN, TUBERCULOSIS, VARICELA
+
+Si los agentes infecciosos contenidos en las droplet nuclei resisten y permanecen en el ambiente, pueden conservar su poder infeccioso. El punto de contaminación (la puerta de entrada del microorganismo transmitido) sería el alveolo pulmonar.
+En este caso, se deben aplicar las precauciones complementarias «A» : uso de un dispositivo de protección respiratoria, de tipo FFP2, para el personal sanitario, habitación individual obligatoria en el hospital. Cualquier paciente sospechoso de ser portador de una infección de transmisión «A» debe llevar una mascarilla quirúrgica desde el momento de su ingreso en el hospital y cuando circule por cualquier servicio (sala de espera, radiología, etc.).
+Para la implementación de las medidas de precaución «G» y «A» se necesita una prescripción médica.
+En el Cuadro 1 se detalla para cada patógeno de transmisión «A» o «G» el período de incubación de la enfermedad, el período de contagiosidad, el tipo de precauciones («A» o «G», tiempo al cabo del cual se pueden eliminar estas medidas de precaución).
+De esta forma, según el tipo de microorganismo presente en un paciente, estas precauciones complementarias de higiene (contacto, «A» o «G») se suman a las medidas higiénicas generales, también llamadas precauciones estándar o precauciones que todo paciente debe respetar.
+
+
+- PREVENCIÓN DE LA TRANSMISIÓN DURANTE LAS CURACIONES <XREF RID="BIB0015" REF-TYPE="BIBR"><SUP>[3]</SUP></XREF
+
+En este artículo sólo se describen los procedimientos de las curaciones en el consultorio médico, los cuidados posteriores y de reeducación, así como en el hospital, en los distintos servicios de hospitalización. No se mencionan aquí las particularidades de los servicios médico-técnicos como la reanimación, el quirófano, etc. Para estos servicios, es necesario recurrir a los protocolos locales y al equipo operacional de higiene del centro.
+
+
+-- ANTISEPSIA
+
+La guía de antisepsia en pediatría detalla los antisépticos necesarios para prevenir la infección en el niño.
+
+
+-- PREVENCIÓN DE LAS INFECCIONES ASOCIADAS A LOS DISPOSITIVOS URINARIOS
+
+Para limitar el riesgo de infección, la sonda permanente (SP) o la sonda para el sondeo evacuador deben estar en sistema cerrado, es decir, preconectada a una bolsa estéril de recogida de orina que permita un drenaje cerrado. Las SP no se cambian de manera sistemática, salvo en caso de indicación específica del fabricante. Puede ser conveniente cambiar una SP en caso de infección urinaria, pero no antes de 24 horas, como mínimo, de un tratamiento antibiótico adecuado. En caso de SP, hay que plantearse a diario la utilidad de este dispositivo invasivo, ya que cada día de sondeo suplementario aumenta el riesgo de infección.
+Los antisépticos aplicables en el entorno de las vías urinarias son el hipoclorito sódico y la povidona yodada (PVPI) en niños mayores de 30 meses.
+
+
+-- PREVENCIÓN DE LA INFECCIÓN DEL SITIO QUIRÚRGICO <XREF RID="BIB0010" REF-TYPE="BIBR"><SUP>[2]</SUP></XREF
+
+Para reducir la flora microbiana presente en la piel, son necesarios una ducha o lavado preoperatorios, lo más próximos posible en el tiempo a la intervención, en el hospital o en el domicilio, preferentemente con un jabón antiséptico. El jabón suave (no antiséptico) puede usarse si es para un único paciente, monodosis o abierto justo antes de la ducha preoperatoria. Cuando ni la cabeza ni el cuello forman parte del campo quirúrgico, ya no es obligatorio el champú.
+El cirujano puede solicitar, como preparación cutánea del operado, la depilación de la zona en el domicilio. Ésta se puede realizar con crema o cualquier otro medio. Cuando la depilación deba hacerse en el hospital, es preferible usar una rasuradora; para la antisepsia, salvo contraindicación, se recurre a un antiséptico en solución alcohólica.
+
+
+-- PREVENCIÓN DE LAS INFECCIONES EN PIEL LESIONADA O EN EL ORIFICIO DE UNA OSTOMÍA
+
+Como indica la guía de antisepsia en pediatría , el uso de antisépticos para heridas agudas, suturadas o crónicas es controvertido o incluso está prohibido porque retrasa el proceso de cicatrización. Cuando son necesarios (presencia de pus, etc.), se pueden usar sobre la herida, pero con prescripción médica y teniendo en cuenta las indicaciones y contraindicaciones de los antisépticos en el niño. Algunas lesiones requieren otros tratamientos (antibioticoterapia por vía general, apósitos, etc.).
+Las curaciones en el ombligo, necesitan en cambio, una desinfección con un antiséptico a base de clorhexidina o hipoclorito sódico: no hay que poner demasiada cantidad de antiséptico para no reblandecer el cordón y retrasar así su secado; la antisepsia deberá focalizarse sobre la zona donde se ha seccionado el cordón. La eosina acuosa no posee una actividad antiséptica, solamente curte y seca y no debe utilizarse en la antisepsia del cordón.
+
+
+-- PREVENCIÓN DE LAS INFECCIONES EN DISPOSITIVOS INTRAVASCULARES (DIV) <XREF RID="BIB0070" REF-TYPE="BIBR"><SUP>[14]</SUP></XREF
+
+Las indicaciones para la implantación y mantenimiento de un DIV se limitan al máximo cuando es posible. La vía oral o la enteral tienen un menor riesgo de infección y son preferibles a la vía venosa para administrar medicaciones o alimentos. El DIV debe retirarse en cuanto ya no sea indispensable, y en la historia del paciente debe constar la trazabilidad de su colocación: fecha de implantación, fecha de retirada, tipo de catéter, lugar de colocación, técnico. El punto de inserción debe controlarse al menos una vez al día (en busca de signos tópicos). Antes de proceder a su inserción, el técnico debe cumplir con las medidas de precaución estándar (lavado y fricción de manos y después uso de guantes). La preparación cutánea de la zona de inserción consta de cinco tiempos: limpieza (jabón suave o jabón antiséptico), aclarado (agua estéril), secado (compresas estériles), antisepsia (antiséptico alcohólico) y después secado espontáneo. La zona de inserción del DIV se cubre con un apósito estéril semipermeable y transparente que permite la inspección del DIV. La perfusión de productos sanguíneos lábiles debe terminar en las 4 horas siguientes al comienzo de su administración, y la perfusión de emulsiones lipídicas, en las 2 horas siguientes al comienzo de la perfusión. Se deben cambiar los instrumentos tubulares usados para cada una de estas administraciones. El catéter periférico se cambia cada 96 horas, como máximo, salvo prescripción médica. También se debe cambiar el dispositivo de perfusión (instrumentos tubulares y anejos) con cada cambio de catéter.
+Para la vía venosa central, las recomendaciones francesas y estadounidenses coinciden en renovar el apósito con una frecuencia de 7 días. Cada vez que se cambia el apósito, se procede a una desinfección en cinco tiempos, con un antiséptico alcohólico, para prevenir el riesgo infeccioso.
+El PICC Line es un catéter central de inserción periférica. Se utiliza cada vez más cuando el tratamiento intravenoso previsto tiene una duración superior a 6 días. Las precauciones son las mismas que las que se adoptan para las otras vías venosas centrales. Una vez por semana y después de cada administración de producto, se debe realizar un enjuague pulsado (tres impulsos).
+
+
+-- PREVENCIÓN DE LA INFECCIÓN ASOCIADA A OTROS DISPOSITIVOS
+
+Cuando se trata de dispositivos oculares : si el dispositivo está en contacto con el ojo (cristal de tres espejos, tonómetro, etc.), el detergente-desinfectante para los instrumentos antes citados (detergente-desinfectante para instrumento usado sobre piel sana) no es suficiente. Se necesita un tratamiento del mismo nivel que el usado para los endoscopios. También, para evitar estas medidas tan estrictas, se necesitan dispositivos de interposición o protectores, desechables ambos.
+Cuando se trata de dispositivos para aerosolterapia: si el medicamento administrado por esta vía tiene que diluirse, hay que usar agua estéril o suero fisiológico estéril, pero nunca agua del grifo, por el riesgo de legionelosis, aunque éste sea bajo en el niño.
+
+
+- PREVENCIÓN DE LOS ACCIDENTES POR EXPOSICIÓN A SANGRE (AES
+
+-- DEFINICIÓN DEL AES
+
+Se trata de un accidente por exposición a la sangre o a un líquido biológico durante una efracción cutánea (pinchazo, corte, etc.), de una proyección sobre una mucosa (ojo, boca, etc.) o por contacto con piel lesionada (herida, eccema, etc.)
+Cualquier líquido biológico es potencialmente infectante. Para los profesionales sanitarios, un AES constituye un riesgo muy importante de infección nosocomial. La reducción de la incidencia de AES es una de las prioridades del plan estratégico francés para la prevención de las IAAS.
+
+
+-- CONTROL DE LOS AES
+
+En Francia, el control está normalizado en los centros sanitarios desde 2002, dirigido por la red nacional RAISIN (Réseau d’Alerte, d’Investigation et de Surveillance des Infections Nosocomiales) y asociado a los cuidados en colaboración con el GERES (Groupe d’Étude sur le Risque d’AES). El análisis anual de los resultados y de su evolución a lo largo de los años permite elaborar medidas de prevención eficaces.
+
+
+-- PREVENCIÓN DE LOS AES
+
+Además de cumplir con las medidas de precaución estándar (cf supra), la prevención consta de varios ejes:
+
+
+-- CONDUCTA PRÁCTICA EN CASO DE AES
+
+En Francia, desde 1998, la conducta práctica revisada y recogida en el decreto de 2013 , en caso de corte o de contacto directo con piel lesionada es la siguiente:•no hacer sangrar;•limpiar de inmediato la zona cutánea lesionada con agua y jabón y después aclarar;•desinfectar durante al menos 5 minutos con un derivado clorado (Dakin o lejía) al 2,6% de una dilución de cloro activo (1:5) o, en su defecto, con una solución dérmica de PVPI o de alcohol al 70%;•en caso de proyección sobre las mucosas y, sobre todo, a los ojos: aclarar abundantemente con suero fisiológico o con agua (al menos 5 min).
+Es indispensable consultar con un médico lo antes posible, si se puede dentro de las primeras 4 horas, para evaluar la importancia del riesgo infeccioso y, si es necesario, iniciar rápidamente un tratamiento profiláctico.
+Hay que redactar una declaración de accidente de trabajo así como organizar el seguimiento médico y biológico.
+
+
+- VACUNACIÓN DEL PERSONAL
+
+La vacunación del personal es un acto indiscutible en la prevención de las IAAS, porque protege al personal sanitario y también a los pacientes.
+La política de vacunación es elaborada por el Ministerio de Sanidad, que determina las condiciones de inmunización, detalla las recomendaciones necesarias y publica el calendario vacunal después de consultar con el Haut Conseil de la Santé Publique. El calendario vacunal, que se revisa anualmente, emite las recomendaciones vacunales generales y también las particulares, cuando existen condiciones especiales como las exposiciones profesionales.
+
+
+-- RECOMENDACIÓN VACUNAL GENERAL: DIFTERIA, TÉTANOS, POLIOMIELITIS (DT-POLIO
+
+En el marco del esquema vacunal simplificado introducido en 2013, las vacunaciones de recuerdo en el adulto se hacen a edades fijas: 25 años, 45 años y 65 años (después, cada 10 años).
+
+
+-- RECOMENDACIONES PARA EL PERSONAL SANITARIO
+
+•La inmunización contra la hepatitis B es obligatoria para las personas que ejercen una actividad profesional en la que exista el riesgo de contaminación por líquidos biológicos.•La vacuna contra la tos ferina está recomendada para el personal sanitario en su conjunto y es de especial importancia para aquellos que trabajan en contacto, estrecho y mantenido, con lactantes menores de 6 meses.•La vacuna trivalente sarampión-paperas-rubéola está recomendada para todo el personal sanitario no vacunado y sin antecedente conocido de sarampión o de rubéola.•La vacunación contra la varicela está recomendada para los profesionales sanitarios sin antecedentes de varicela y cuya serología sea negativa.•La vacuna contra la gripe se recomienda todos los años a los profesionales de la salud.
+En Francia, cualquier información complementaria sobre las indicaciones y recomendaciones vacunales y su pauta de administración está disponible en el documento ministerial actualizado anualmente y editado por el Bulletin épidémiologique hebdomadaire.
+
+
+- BACTERIAS MULTIRRESISTENTES Y BACTERIAS ALTAMENTE RESISTENTES EMERGENTES
+
+La emergencia de bacterias resistentes a los antibióticos es un desafío para la salud pública. El control de la difusión de BMR y BARE está basado en una doble estrategia de control de la prescripción de antibióticos y de prevención de la difusión a partir de pacientes portadores.
+
+
+-- BACTERIAS MULTIRRESISTENTES
+
+--- DEFINICIÓN
+
+Se dice que las bacterias son multirresistentes a los antibióticos cuando, por acumulación de resistencias adquiridas a varias familias de antibióticos, sólo son sensibles a un pequeño número de estos fármacos utilizables en terapéutica.
+La multirresistencia aparece en bacterias responsables de infecciones comunitarias (Streptococcus pneumoniae, Mycobacterium tuberculosis) y en bacterias responsables de infecciones nosocomiales o IAAS.
+
+
+--- CONTROL
+
+Las BMR responsables de infecciones comunitarias están controladas por los centros de referencia de la especie bacteriana en cuestión. Así por ejemplo, el control de la resistencia de los neumococos a los antibióticos, realizado por el centro de referencia del neumococo, se inscribe en el proyecto europeo como uno de los cinco indicadores del efecto deletéreo del consumo de antibióticos en Europa.
+Algunas BMR responsables de IAAS son objeto de un control centralizado realizado por la red BMR-RAISIN. En la actualidad, sólo se vigilan S. aureus resistente a la meticilina (SARM) y las enterobacterias resistentes a las cefalosporinas de tercera generación por producción de betalactamasas de amplio espectro (EBLSE). La tasa de SARM sigue disminuyendo en Francia y en toda Europa, gracias a los esfuerzos realizados para reducir la presencia de esta bacteria en las manos (desinfección de las manos por fricción). Paralelamente, las tasas de EBLSE aumentan con regularidad (papel de la presión de selección de los antibióticos, mala gestión de las excretas), responsables de un aumento en el consumo de carbapenems y, por lo tanto, de la emergencia de enterobacterias resistentes a esta clase de antibiótico. Por su especificidad epidemiológica, algunos centros controlan otras BMR: Pseudomonas aeruginosa resistente a la ceftazidima, Acinetobacter baumanii resistente al imipenem, enterobacteria resistente a las cefalosporinas de tercera generación por producción de cefalosporinasas, etc.
+
+
+--- PREVENCIÓN DE LA EMERGENCIA DE BMR
+
+El uso prudente y justificado de los antibióticos es de extrema importancia para limitar la presión de selección y la emergencia de bacterias resistentes. En este artículo no se abordan las recomendaciones sobre la prescripción de antibióticos, que, en Francia, están difundidas por la Société de Pathologie Infectieuse de Langue Française.
+
+
+--- PREVENCIÓN DE LA DIFUSIÓN DE BMR
+
+El cumplimiento de las normas higiénicas de base (biolavado del entorno, desinfección de las manos por fricciones, etc.) y de las precauciones estándar son las medidas esenciales que se deben respetar para cualquier paciente. Bien aplicadas, serán suficientes para evitar la difusión de las BMR. Estas medidas pueden completarse con precauciones complementarias «de contacto» ± «G» en determinados sectores de cuidados de mayor riesgo, como por ejemplo en los servicios en los que la densidad de los cuidados es importante (reanimación, etc.) o cuando la ecología local revela la presencia de BMR endémicas.
+Es fundamental señalar la presencia de estas bacterias para elaborar un tratamiento adaptado de los pacientes colonizados o infectados y en todos los sectores sanitarios (centros sanitarios, centros médico-sociales y médicos locales, sin olvidar la radiología y el personal de ambulancia). Esta información debe constar en la historia clínica y en los informes médicos y de los técnicos sanitarios.
+
+
+-- BACTERIAS ALTAMENTE RESISTENTES Y EMERGENTES
+
+--- DEFINICIÓN
+
+El Haut Conseil de la Santé Publique emitió en 2013 una definición de BARE. Se trata de:•bacterias comensales del tubo digestivo;•bacterias resistentes a numerosos antibióticos con mecanismos de resistencia transferibles entre bacterias;•bacterias emergentes según la epidemiología conocida, es decir, que en Francia, por ejemplo, sólo hayan difundido de un modo esporádico o epidémico limitado.
+Se consideran BARE las enterobacterias productoras de carbapenemasas y Enterococcus faecium resistente a los glucopéptidos.
+
+
+--- VIGILANCIA
+
+No existe una red de control para estas bacterias, pero la presencia de cualquier BARE validada por un microbiólogo debe notificarse .
+La evolución en el número de declaraciones de episodios relacionados con enterobacterias resistentes al carbapenem está disponible en la página del Institut National de Veille Sanitaire y revela un aumento significativo del número de episodios declarados desde 2012.
+
+
+--- PREVENCIÓN
+
+Los lugares en los que se dispensan cuidados deben contar con las medidas de prevención de la transmisión de una BARE a partir de un portador; hay que recordar la importancia de:•la estricta aplicación de las precauciones estándar y de la gestión de las excretas (las enterobacterias y los enterococos son bacterias comensales del tubo digestivo);•el control del entorno: limpieza biológica eficaz de los locales y de los materiales compartidos.
+En Francia, otras medidas «complementarias BARE» refuerzan estas medidas de base, de acuerdo con las recomendaciones emitidas por el Haut Conseil de la Santé Publique en 2013. La aplicación de estas medidas en un servicio de asistencia médica incluye la detección sistemática de los pacientes «contacto» y la reorganización de los cuidados cuya implementación requiere la colaboración de los equipos operacionales de higiene y/o de la red CClin-Arlin. •Los centros de salud, los establecimientos médico-sociales y los médicos locales deben poner en marcha una política de prevención de las infecciones asociadas a la asistencia sanitaria.•La prevención de las IAAS incluye medidas de prevención de la transmisión cruzada: aplicación sistemática de precauciones estándar basadas principalmente en la desinfección de las manos. En algunos casos, estas medidas se deben complementar con otras precauciones:–precauciones «contacto» si el riesgo de transmisión es por contacto;–precauciones «gotas» si el riesgo de transmisión es por gotas;–precauciones «aire» si el riesgo de transmisión es por droplet nuclei. •El control del entorno también interviene en la prevención de las IAAS (desinfección de las superficies, limpieza de los juguetes, etc.).•Para las maniobras invasivas, se deben tomar medidas profilácticas: asepsia rigurosa con productos adecuados y uso de dispositivos médicos estériles.•Todo el personal sanitario (médico o técnico sanitario) debe conocer la conducta práctica en caso de AES.•La reevaluación de cualquier antibioticoterapia permite limitar el uso de estos medicamentos y, de esta forma, limitar también la presión de selección responsable de la emergencia de bacterias siempre más resistentes.

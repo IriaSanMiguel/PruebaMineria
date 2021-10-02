@@ -1,0 +1,27 @@
+ENCEFALOPATÍA DISINMUNE CON ANTICUERPOS ONCONEURONALES EN PACIENTES INFECTADOS POR SARS-COV-2
+
+
+Sr. Editor:
+Se ha relacionado el desarrollo de encefalopatía en el contexto de infección por SARS-CoV-2, incluso en ausencia de síntomas respiratorios, con un amplio espectro desde la confusión leve al coma. Presentamos los casos de 2 pacientes con alteración del estado mental en el contexto de la COVID-19.
+
+
+- CASOS CLÍNICOS
+
+-- PACIENTE 1
+
+Varón de 45 años con fiebre y disnea secundaria a neumonía bilateral por SARS-CoV-2, con empeoramiento progresivo, demostrándose un tromboembolismo pulmonar bilateral, precisando soporte ventilatorio en la unidad de cuidados intensivos (UCI). Desde su ingreso, presenta alteración del nivel de alerta, alternando agitación psicomotriz con bajo nivel de conciencia. Se realiza resonancia magnética (RM) craneal con contraste y análisis del líquido cefalorraquídeo (LCR), sin alteraciones, incluidas bandas oligoclonales (BOC). El electroencefalograma (EEG) muestra actividad globalmente desincronizada. Se inicia ciclo de 5 días con inmunoglobulinas, sin mejoría. Diez días después, se administran 500 mg de metilprednisolona durante 5 días. Un segundo LCR muestra hiperproteinorraquia (61 mg/dl) y PCR de SARS-CoV-2 negativa. Se solicitan onconeuronales realizados por inmunofluorescencia indirecta (tejido neuronal de primates y rata) e inmunoblot frente a 12 antígenos neurológicos específicos purificados (IgG), siendo antirecoverina y anti-titina positivos en sangre. Días después de finalizar los corticoides, inicia mejoría progresiva hasta la completa normalización del estado mental con normalización del trazado EEG al alta.
+
+
+-- PACIENTE 2
+
+Varón de 33 años que ingresa en la UCI por disminución del nivel de conciencia. Se realiza TC craneal normal y LCR con pleocitosis leve (11/μl) y BOC y PCR herpes negativos. Veinticuatro horas después presenta fiebre, demostrándose en la radiografía de tórax una neumonía intersticial bilateral, con PCR a SARS-CoV-2 positiva. Se instaura tratamiento con hidroxicloroquina, lopinavir/ritonavir y tocilizumab. El EEG muestra lentificación bifrontal. Se realiza RM craneal normal y PCR de SARS-CoV-2 en LCR negativa. Se solicitan onconeuronales demostrándose anti-Yo positivo en sangre. Seis días después, se retira sedación y es extubado. Al alta presenta evolución neurológica favorable, sin evidencia de disfunción cognitiva ni crisis.
+
+
+- DISCUSIÓN
+
+El desarrollo de encefalopatía en pacientes con COVID-19 está asociado a la gravedad, la edad y las comorbilidades, por etiología hipóxico-metabólica-tóxica o inflamatoria/disinmune, con neuroimagen y LCR habitualmente normales.
+Se han descrito casos de RM cerebral con realce leptomeníngeo, lesiones hiperintensas aisladas en sustancia blanca subcortical, cuerpo calloso, periventriculares, lóbulo temporal mesial e hipocampo o multifocales tipo encefalitis aguda diseminada o necrosante hemorrágica, así como leucoencefalopatía posterior reversible y endotelitis con captación de gadolinio en los vasos intracraneales frontobasales.
+Es excepcional una serología o PCR de SARS-CoV-2 positiva en LCR, aunque puede mostrar pleocitosis e hiperproteinorraquia. En un tercio de las muestras de tejido cerebral se demuestra ARN viral, aunque con menos copias que en pulmón o faringe. La ECA2, receptor de entrada celular para el SARS-CoV-2, se expresa en neuronas, astrocitos y oligodendrocitos, aunque en niveles inferiores que en pulmones. Se ha demostrado elevación de la proteína proinflamatoria quimioatrayente de monocitos-1 en LCR, planteando un mecanismo neuroinflamatorio más que neuroinvasivo. Otros biomarcadores de daño cerebral como la proteína fibrilar glial ácida, en estadios precoces, y los neurofilamentos en estadios más tardíos, también muestran niveles altos en sangre, en relación con activación/lesión astrocitaria.
+En el EEG está documentado el enlentecimiento de la actividad de fondo, las descargas periódicas trifásicas y las descargas epileptiformes de predominio frontal, desarrollando crisis un 50% de los casos.
+Las encefalitis autoinmunes están mediadas por anticuerpos contra receptores o proteínas de superficie neuronal, desencadenados por un tumor o infección vírica, aunque mayoritariamente de causa desconocida. El 10-20% de los pacientes con encefalitis herpética sufren una recaída, demostrándose anticuerpos anti-NMDAR produciendo inflamación del sistema nervioso central. El mecanismo es desconocido, podría ser debido a mimetismo molecular, hipótesis que podría plantearse en el desarrollo de autoanticuerpos tras infección por SARS-CoV-2 como ocurre en nuestros pacientes. Estas entidades precisan tratamiento con metilprednisolona, inmunoglobulinas, plasmaféresis ± rituximab o ciclofosfamida. Tocilizumab o anakinra (terapias anti-IL-6 e IL1, relacionadas con la gravedad en infección por SARS-CoV-2), se postulan también como terapias emergentes.
+Se han publicado casos con respuesta favorable a esteroides intravenosos a dosis altas y a procedimientos de recambio plasmático, planteando tratamiento esteroideo vía oral a altas dosis posteriormente en caso de persistencia de la sintomatología.

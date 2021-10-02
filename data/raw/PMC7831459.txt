@@ -1,0 +1,25 @@
+LA ESTRATIFICACIÓN DE LA INFORMACIÓN POR SEXO EN LA COVID-19: UN ESLABÓN IMPORTANTE EN LA IDENTIFICACIÓN DE RIESGOS
+
+
+Sr. Director:
+Hemos leído con interés el artículo Las estadísticas sanitarias y la invisibilidad por sexo y de género durante la pandemia de COVID-19 y concordamos en que los indicadores utilizados para brindar información sobre la COVID-19 deben ser estratificados por sexo, ya que esta información permite identificar riesgos. Sin embargo, discutimos que la subestimación de la mortalidad femenina esté causada por un mayor acceso a pruebas diagnósticas o atención hospitalaria de los pacientes varones o por el alto número de personas hospitalizadas fallecidas sin diagnóstico.
+De acuerdo con la evidencia clínica y estadística recopilada de diferentes investigaciones, los varones tienen un mayor riesgo de gravedad y mortalidad por COVID-19 independientemente de la edad, la prioridad de hospitalización y los sesgos estadísticos. En estos estudios se reporta información clínica que destaca evidencias emergentes acerca de diferencias inmunitarias, genéticas y hormonales según el sexo, .
+Desde el punto de vista inmunitario, las mujeres generan una respuesta inmunitaria más activa que los varones, suficiente para protegerlas y contrarrestar enfermedades infecciosas. Se cree que este atributo de una mejor respuesta inmunitaria frente a los patógenos está relacionada con los estrógenos y con genes inmunoestimuladores que reducen la infectividad y la mortalidad por SARS-CoV-2, a diferencia del sexo masculino, en el que la testosterona aumenta los niveles de las dos moléculas críticas, ACE2 y TMPRSS2, que aumentan la carga viral, (fig. 1 ).Figura 1
+Un estudio genético ha reportado que la tasa más alta de COVID-19 en el sexo masculino puede estar influenciada parcialmente por la ausencia de mosaicismo del cromosoma X. Las células masculinas siempre expresan un solo alelo ACE2 porque todas contienen un cromosoma X idéntico; por el contrario, las células femeninas tienen un alelo ACE2 heterogéneo debido al mosaicismo encontrado en uno de sus cromosomas X. Por lo tanto, en la mujer, una forma potencialmente más eficaz del receptor ACE2 estaría presente solo en la mitad de todas las células. Esto puede limitar la infectividad del virus y hasta cierto punto dar al sexo femenino una resistencia relativa a la infección.
+Finalmente, la mortalidad de las mujeres con relación a los varones no se encuentra subestimada, sino que tiene causas biológicas preexistentes en el sexo masculino, lo que conlleva una mayor susceptibilidad a desarrollar COVID-19 grave y una mayor tasa de mortalidad.
+Consideramos que es conveniente tomar en cuenta estas diferencias, ya que pueden ayudar a diseñar métodos y ajustar terapias existentes, ya sean inmunológicas o genéticas, para ayudar a combatir la COVID-19, y por ello es importante que los países proporcionen información estratificada según el sexo.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Las tres personas firmantes han participado en la concepción y el diseño de la carta, han revisado el manuscrito, han realizado importantes contribuciones intelectuales en su redacción y han aprobado la versión final para su publicación.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

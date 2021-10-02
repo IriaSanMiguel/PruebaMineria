@@ -1,0 +1,5 @@
+Evaluar la eficacia de una plataforma formativa en línea de procedimientos en una planta de medicina interna para disminuir los hemocultivos contaminados.
+La intervención educativa mediante una plataforma digital se muestra válida para la adquisición de conocimientos y su translación a la práctica clínica.
+Estudio cuasi-experimental con grupos paralelos. La muestra la componen enfermeras de medicina interna de un hospital terciario, con las que se lleva a cabo un programa de formación en línea en relación a la técnica extracción de hemocultivos. Se evalúan conocimientos pre y post intervención sobre la técnica. Además, se estudian los resultados de los hemocultivos 6 meses antes y 3 después de la intervención, analizando los contaminados.
+Participan un total de 48 enfermeras. El conocimiento de la técnica antes de la intervención es homogéneo en ambos grupos, mejorando significativamente con la formación en línea (p=0.0001). El análisis de hemocultivos extraídos previos a la formación muestran niveles de contaminación por encima del estándar internacional, disminuyendo en el grupo intervención hasta el 3% después del programa de aprendizaje.
+

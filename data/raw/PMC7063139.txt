@@ -1,0 +1,48 @@
+PROFILAXIS PRE-EXPOSICIÓN DE LA INFECCIÓN POR EL VIH Y ATENCIÓN PRIMARIA (AP
+
+
+La tendencia actual de los nuevos diagnósticos de infección por el VIH es ligeramente descendente en España. Según los datos que facilita el Sistema de Vigilancia Epidemiológica del VIH y Sida del Ministerio de Sanidad, durante el año 2018 se notificaron 3.244 nuevas infecciones, (datos sin corregir por retraso en la notificación), y durante el año 2017, 3.381 nuevas infecciones. Este descenso en el número de notificaciones contrasta con el hecho de que el retraso diagnóstico continúa siendo muy importante en estos pacientes. En el año 2018, el 47,6% tenía una cifra de linfocitos CD4 + inferior a 350 células/μl en el momento del diagnóstico. Este retraso diagnóstico tiene notables implicaciones tanto para el individuo, al empeorar notablemente el pronóstico, como para la comunidad porque los pacientes no tratados pueden ser transmisores de la infección. La vía sexual es el principal modo de transmisión siendo mayoritaria entre el colectivo de hombres que tienen sexo con otros hombres. A pesar de los esfuerzos realizados en la prevención y atención a las personas con infección por el VIH o que están en riesgo de infectarse, es evidente que aún queda mucho por hacer.
+Son por tanto, necesarias nuevas estrategias de prevención sobre todo en los colectivos con mayor incidencia. En estos momentos, una de las estrategias más importantes es la prevención combinada. Además de seguir promoviendo el uso del preservativo y los programas de reducción de daños en pacientes que se inyectan drogas, adquiere especial relevancia el tratamiento farmacológico como una herramienta también de prevención: la profilaxis pre-exposición, el inicio del tratamiento antirretroviral (TAR) lo más precozmente posible y la profilaxis post-exposición. En personas con infección por VIH se recomienda iniciar el TAR lo antes posible para conseguir una carga viral indetectable (ONUSIDA respalda el concepto de indetectable = no transmisible, por vía sexual).
+
+
+- ¿QUÉ ES LA PROFILAXIS PRE-EXPOSICIÓN (PREP
+
+La PrEP, acrónimo inglés de profilaxis pre-exposición, es una herramienta más para prevenir la transmisión del VIH en personas con alto riesgo de contraer la infección. Sin embargo, es importante tener presente que no ha de ser una intervención aislada sino que, como se ha comentado previamente, debe estar incluida en el concepto de prevención combinada que incluye también la promoción de conductas de menos riesgo para la infección del VIH y otras ITS, como es el uso del preservativo.
+Han sido muchos los estudios que han mostrado su efectividad. Los más importantes el PROUD, y el IPergay. En el año 2012 la PrEP fue aprobada por la FDA y en el año 2016 lo hizo la Agencia Europea del Medicamento. Desde el 1 de noviembre de 2019 está aprobada y financiada en España por el Sistema Nacional de Salud (SNS). La implementación y dispensación de la PrEP depende de cada Comunidad Autónoma (CCAA), pero mayoritariamente se realizará en las unidades hospitalarias de atención al paciente con infección por el VIH-Sida, en los centros de atención a ITS y/o en algunas entidades comunitarias. Aunque no parece probable que se autorice la prescripción de la PrEP en AP, los profesionales de atención primaria deben disponer de la información y formación necesarias para ofrecer una atención adecuada al respecto.
+
+
+-- INDICACIONES DE LA PREP APROBADAS POR EL SNS
+
+No todas las personas con prácticas de riesgo para la infección por VIH pueden incluirse en un programa de PrEP. Se ha aprobado para los siguientes grupos de población en riesgo elevado de adquirir la infección:
+1. Hombres VIH-negativos que tienen sexo con hombres o personas transexuales, mayores de 18 años, con al menos dos de los siguientes criterios:•Más de 10 parejas sexuales diferentes en el último año.•Práctica de sexo anal sin protección en el último año.•Uso de drogas relacionado con el mantenimiento de relaciones sexuales sin protección en el último año.•Administración de profilaxis post-exposición en varias ocasiones en el último año.•Al menos una ITS bacteriana en el último año.
+2. Mujeres que practiquen la prostitución VIH negativas que refieran un uso no habitual del preservativo.
+
+
+-- ¿CUÁL ES LA PAUTA DE TRATAMIENTO APROBADA<XREF RID="BIB0025" REF-TYPE="BIBR"><SUP>5</SUP></XREF
+
+La combinación autorizada consiste en la administración de 200 mg de emtricitabina (FTC) y 300 mg de tenofovir disoproxil fumarato (TDF) en un único comprimido, administrado diariamente.
+En HSH se puede considerar una pauta alternativa que consiste en administrarla de modo intermitente (2 comprimidos entre 2 y 24 horas previas a la exposición, 1 comprimido a las 24 horas de la primera toma y otro 24 horas después: pauta 2 + 1 + 1). Sin embargo esta pauta no está financiada.
+
+
+- ANTES DE PRESCRIBIR LA PREP <XREF RID="BIB0030" REF-TYPE="BIBR">6</XREF>, <XREF RID="BIB0035" REF-TYPE="BIBR">7</XREF
+
+Es importante realizar diferentes actuaciones:
+
+
+- SEGUIMIENTO DE LA PREP <XREF RID="BIB0030" REF-TYPE="BIBR">6</XREF>, <XREF RID="BIB0035" REF-TYPE="BIBR">7</XREF
+
+Se debe realizar un seguimiento de la PrEP cada 3 meses que incluya:
+Valoración del grado de adherencia, las dificultades de su cumplimentación y aclarar las dudas que puedan surgir. No hay olvidar que la eficacia de la PrEP depende en gran medida de una correcta adherencia.
+Realizar consejo asistido sobre salud sexual y reducción de daños.
+Valoración de efectos adversos y posibles interacciones con otros fármacos, incluidos los de uso libre y productos de herboristería.
+Descartar la infección por VIH. Es de elección la serología del VIH (preferentemente ELISA de cuarta generación). En el caso de sospecha de infección aguda, síntomas sugestivos o si se diagnostica otra ITS, se recomienda determinar la carga viral plasmática.
+
+
+-- CRIBADO DE OTRAS ITS
+
+Analítica con creatinina y fósforo séricos, FGe, sistemático de orina con glucosuria, sedimento y cociente proteínas/creatinina en orina.
+Prueba de embarazo en mujeres fértiles.
+Se recomienda mantener el seguimiento al menos durante un año y valorar posteriormente la continuidad de la PrEP.
+Es probable que en algunos usuarios haya una disminución en la utilización del preservativo después de iniciar la PrEP. Esta circunstancia puede incrementar el riesgo de contraer otras ITS (compensación de riesgos). Por eso, en los controles trimestrales se debe insistir en la importancia del uso del preservativo ofreciendo un consejo asistido adecuado además de realizar el cribado de otras ITS. Esta medida favorecerá el diagnóstico y tratamiento precoces además de promocionar el estudio de contactos. En cualquier caso, los potenciales beneficios de la PrEP superan estos posibles riesgos asociados.
+En definitiva podemos considerar la PrEP como una herramienta más de prevención dentro de una estrategia de prevención global que debería incluir a los profesionales de AP en su gestación y desarrollo. La atención primaria se caracteriza por su accesibilidad, proximidad, continuidad asistencial y experiencia en prevención, cualidades importantes para identificar aquellas personas que se pueden beneficiar de la PrEP, informar sobre la PrEP, realizar consejo asistido, promover la adherencia al tratamiento y valorar sus posibles interacciones, así como realizar cribado de ITS.
+Aunque en algunos países se contemple la dispensación de la PrEP en AP, en España el escenario actual probablemente no lo permita (algo que se podrá valorar en el futuro), pero sí hay que promover la implicación de AP, garantizar una formación adecuada y su participación en los modelos de implementación de la PrEP en las diferentes CCAA, para seguir ofreciendo, también en este tema, una asistencia de calidad.

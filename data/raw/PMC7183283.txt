@@ -1,0 +1,101 @@
+REVISIÓN NARRATIVA SOBRE LA RESPUESTA INMUNITARIA FRENTE A CORONAVIRUS: DESCRIPCIÓN GENERAL, APLICABILIDAD PARA SARS-COV-2 E IMPLICACIONES TERAPÉUTICAS
+
+
+- INTRODUCCIÓN
+
+El nuevo coronavirus (SARS-CoV-2) productor de síndrome respiratorio agudo severo surge en Wuhan en diciembre de 2019. Genera la denominada enfermedad por coronavirus 2019 (COVID-19) y ha llevado a la declaración de emergencia de salud pública global a la Organización Mundial de la Salud (OMS). En el momento de redactar este texto se encuentra declarada la pandemia por este virus y se han superado los 185.000 casos confirmados y 19.500 fallecimientos en España.
+Hasta el momento actual, se ha descrito que COVID-19 muestra mayor prevalencia y gravedad en varones de edad avanzada y con presencia de comorbilidades (hipertensión arterial, diabetes mellitus tipo 1 o enfermedades cardiovasculares), , . Se ha teorizado sobre este hecho desde varias perspectivas. Una de ellas es la inmunitaria, que parte de la presunción de una respuesta inadecuada e insuficiente por parte de un individuo con un sistema inmunitario previamente debilitado. Así, respuestas dependientes tanto de la inmunidad innata como adaptativa podrían tener un efecto deletéreo sobre la evolución, .
+Si bien es cierto que la fisiopatogenia de COVID-19 no se ha descrito completamente, epidemias previas por otros coronavirus podrían sustentar hipótesis de comportamiento o anticipar respuestas inmunes, , . Así, tanto en el síndrome respiratorio agudo (SARS, producido por SARS-CoV) como el síndrome respiratorio del Oriente Medio (MERS, producido por MERS-CoV) se caracterizaron por acompañarse de respuestas inmunitarias asociadas a cantidades elevadas de citocinas proinflamatorias, , . Ambos cuadros mostraron inflamación pulmonar, daño pulmonar extenso y desarrollo de síndrome de distress respiratorio. También añadieron síndrome activación macrofágica y disregulación inmune, , , .
+En este texto se realiza una revisión narrativa de la literatura existente sobre coronavirus, SARS-CoV-2 y sistema inmunitario. Se realiza una búsqueda estructurada de artículos indexados en Pubmed. Se utilizan los criterios MESH «coronavirus», «inmunity» y «cytokines». Dado el escaso número de resultados se aplican los siguientes términos de forma combinada: SARS-CoV2, COVID-19 e «inmunity», «therapy» y «prognosis». La búsqueda con artículos publicados se realiza hasta el 6 de abril de 2020. Tras esto se descartan guías clínicas y trabajos en cuyo abstract no se haga referencia a los datos vinculados al objetivo de la revisión. Se incluyen artículos en inglés.
+
+
+- CORONAVIRUS: CARACTERÍSTICAS Y ANTECEDENTES
+
+Los coronavirus son virus envueltos, no segmentados, y con ARN monocatenario en un tamaño que varía de 26 a 32 kilobases. Pertenecen a la familia Coronaviridae y al orden Nidovirales. Se encuentran ampliamente distribuidos en humanos y otros mamíferos. Aunque en la mayoría de los casos las infecciones por coronavirus son leves, las epidemias por SARS-CoV y MERS-CoV causaron una mortalidad de aproximadamente 10.000 casos en las pasadas 2 décadas. La tasa de mortalidad de SARS es del 10% y de MERS de hasta el 37%, , .
+El virus SARS-CoV-2 produce de forma generalizada clínica catarral o leve requiriendo hasta en un 15-20% de los enfermos asistencia hospitalaria. Muestra además una elevada transmisibilidad cuya comprensión no se encuentra completamente establecida, , , . Sí es probable su contagio asintomático. Esto último deriva del uso de modelos matemáticos aplicados en otros contextos ya demostrados. Así para el SARS-CoV se admite un 5% de contagios por asintomáticos o para influenza H1N1 un 40%. Al tiempo, parece que la contagiosidad de este nuevo virus supera a SARS y MERS actuando esto como evidente facilitador de la pandemia, .
+Finalmente, dada la similitud del genoma de SARS-CoV-2 con el del SARS, se ha establecido como un probable receptor celular para SARS-CoV-2 la enzima convertidora de angiotensina 2 (ACE2). En el momento actual se desconoce si este supone el único receptor, siendo probable la existencia de otros. La enzima ACE2 se encuentra en otras especies animales (salvo ratas y ratones). Esto justificaría primero el contagio de vector animal a humano y, posteriormente, de humano a humano.
+
+
+- TRANSMISIÓN, SISTEMA INMUNITARIO Y SARS-COV-2
+
+El modo primario de infección es la transmisión de persona a persona a través del contacto cercano, que ocurre mediante la pulverización de gotas de individuos infectados a través de su tos o estornudos. La enfermedad por SARS-CoV-2 tiene un período de incubación asintomático probable de entre 2 y 14 días durante el cual se podría transmitir el virus. La rápida propagación de SARS-CoV-2 se ha producido con un índice de reproducción o R0 básico de 2,2-2,6. Esto significa que en promedio cada individuo tiene el potencial de transmitir la infección a otras 2 o 3 personas, , , , .
+La respuesta ante infección por coronavirus depende tanto de la disponibilidad de receptores libres ACE2, para lo cual la presencia de formas solubles del mismo podría influir, como de la respuesta de la inmunidad innata puesta en marcha por el huésped. En el caso de las infecciones virales, esta a su vez se encuentra ligada a las respuestas interferón tipo 1 (IFN). Para generar una respuesta antiviral, las células de la inmunidad innata reconocen el virus mediante patrones moleculares asociados a patógenos (PAMP). Para un virus ARN como el SARS-CoV-2, el ARN genómico viral o los productos intermedios de la replicación viral participan en este fenómeno.
+
+
+-- INMUNIDAD INNATA FRENTE A SARS-COV-2
+
+La activación de la vía del IFN limita la replicación viral e induce la posterior respuesta inmune adaptativa. Como se indicó, el SARS-CoV y el SARS-CoV-2 parecen compartir como receptor la ACE2. Este receptor propuesto para SARS-CoV-2 se expresa principalmente en las células alveolares tipo 2 del pulmón, , . Los receptores ACE2 también se encuentran en monocitos, macrófagos o células endoteliales habiéndose descrito también neurotropismo por SARS-CoV-2. Los macrófagos, tras verse infectados, realizan presentación de antígenos a las células T. Este proceso, en el que se añade la presencia de PAMP derivados de virus, conduce a la activación y diferenciación de células T, incluida la producción de citocinas asociadas con los diferentes subconjuntos de células T, .
+En el caso de SARS-CoV y MERS-CoV, destaca su capacidad para suprimir la respuesta a la infección viral. Ambos coronavirus implementan múltiples estrategias para interferir con la señalización que conduce a la producción de IFN. Dichas estrategias de amortiguación se encuentran estrechamente asociadas a la gravedad de la enfermedad. En los casos graves o letales de infección por SARS-CoV o MERS-CoV, se observó una mayor afluencia de neutrófilos y monocitos-macrófagos al territorio pulmonar. En ambos casos, pivotaba sobre este hecho el daño respiratorio. Se especuló que en la infección por SARS-CoV o MERS-CoV, el retraso en la respuesta IFN tipo 1 comprometía el control de la replicación viral. Esto provocaba la citada afluencia de neutrófilos y monocitos-macrófagos. El aumento y activación persistente de estas células derivaría en daño pulmonar, incluida la neumonía o el síndrome de dificultad respiratoria aguda. En la infección por SARS-CoV-2, sería esperable un escenario similar con un grado variable de interferencia inmune. La transmisión del virus desde individuos asintomáticos podría estar motivada por una respuesta retardada de la inmunidad innata.
+
+
+-- PAPEL DE LINFOCITOS T EN LA INFLAMACIÓN POR CORONAVIRUS
+
+En la respuesta inmune a coronavirus, como se ha dicho, el papel de los linfocitos T es predominante. Este aspecto se hizo evidente en el estudio de la patogenia por MERS-CoV. En el caso de este virus los linfocitos CD4+ eran más susceptibles a la infección y su daño condicionaba una peor evolución. Dicha susceptibilidad se observó también en el caso de SARS-CoV. En este caso la depleción de CD4+ se traducía en un menor reclutamiento de linfocitos en territorio pulmonar, lo que condicionaba una importante neumonitis intersticial con un menor aclaramiento del virus. A consecuencia de esta disregulación, los linfocitos T CD4+ presentes generaban un aumento de citocinas que se traducía en un cúmulo de monocitos y neutrófilos que activaban a su vez otras cascadas inflamatorias mediante la síntesis de citocinas (IL-1, LL-6, IL-8, IL-21, TNF-β y MCP-1).
+
+
+-- MECANISMOS DE EVASIÓN INMUNITARIA
+
+Los coronavirus están particularmente adaptados para evadir la detección inmune. Durante las distintas epidemias de SARS-CoV y MERS-CoV este hecho fue muy estudiado. La interferencia en el reconocimiento de interferón, el cross-talking intercelular y la señalización intracelular suponen los 3 modos fundamentales para lograr evadir la actividad inmunitaria.
+Desde la perspectiva leucocitaria, los coronavirus infectan de forma primaria a macrófagos. Estos presentan los antígenos sobre las células T, lo que provoca su activación y la producción de citocinas asociadas a los diferentes subtipos de estos (destacando el tipo Th17). Posteriormente estas citocinas amplificarán la respuesta inmune.
+Como se ha indicado, la producción de IFN tipo 1 es de gran importancia con intención de optimizar la liberación de proteínas antivirales, promover la fagocitosis por macrófagos y facilitar la protección de células no infectadas. Las proteínas accesorias de los coronavirus pueden interferir la señalización vía PAMP de los receptores de tipo toll (toll-like receptors o TLR) durante la replicación para evitar así la activación.
+Dicha interferencia deriva en 2 hechos. Por un lado, se facilita la persistencia viral. Por otro, se genera un efecto negativo en células natural killer (NK) o macrófagos y se altera la activación de las células T CD8+. La respuesta innata se ve disregulada. Ambos fenómenos en conjunto se pueden acompañar de una producción inadecuada de citocinas condicionando un contexto proinflamatorio. De este modo la síntesis de IL-1, IL-6, IL-8, IL-21, factor de necrosis tumoral beta (TNF-β) y proteína quimioatrayente de monocitos 1 (MCP-1) provoca el reclutamiento de linfocitos y leucocitos en el lugar de infección, lo que dinamizaría el cuadro respiratorio, , , .
+
+
+- PATRÓN DE RESPUESTA INMUNE A CORONAVIRUS SARS-COV-2, CONOCIMIENTO ACTUAL
+
+Según los datos publicados hasta el momento, una mayoría de pacientes con COVID-19 y necesidad de ingreso hospitalario mostraron linfopenia. Esto se justificaría, como se ha explicado, por la migración a territorio pulmonar de linfocitos T. Al tiempo, las imágenes descritas en las radiografías de tórax y las tomografías pulmonares como neumonía bilateral con imágenes en vidrio esmerilado constituirían la expresión clínica de esto, . Dicha migración linfocitaria, acompañada de forma fundamental por macrófagos, provocaría un daño intersticial que a su vez repercutiría sobre el intercambio gaseoso y comprometería la oxigenación del paciente. Hipoxemia y disnea son 2 datos prevalentes en COVID-19. El observado síndrome de distress respiratorio sería el reflejo último de esto.
+En relación con las poblaciones leucocitarias, y dada la linfopenia, se ha propuesto el ratio neutrófilo-linfocito como un posible marcador de evolución. Cuanto mayor sea este, más riesgo de empeoramiento. El descenso relativo de linfocitos sería un marcador indirecto de la inflamación pulmonar subyacente, , .
+En trabajos ya publicados en pacientes COVID-19 hospitalizados con mala evolución, se han descrito niveles de citocinas aumentados. Así se describe elevación de IL-2, IL-7, IL-10, G-CSF, IP-10, MCP-1, MIP-1A y TNFα. Estos hallazgos se alinean con lo visto en las epidemias de SARS y MERS. En ambas tanto la linfopenia como la denominada «tormenta de citocinas» fueron fundamentales en la patogénesis. También se ha descrito un aumento de dímero D, troponina I, IL-6 en suero y de proteína C reactiva, , , , . En relación con la IL-6, esta es producida por macrófagos, células T, células endoteliales y fibroblastos. Como se ha indicado con anterioridad, tanto células T como macrófagos tienen un papel fundamental en la instauración de la inmunidad innata frente a coronavirus. La expresión exacerbada de IL-6 no solo condiciona un estado proinflamatorio. Al tiempo indica una activación de aquellas poblaciones que la producen, como son los macrófagos. Se han descrito, tanto en el caso de MERS-CoV como SARS-CoV, fenómenos de activación macrofágica, . Dicha situación, dados los datos disponibles hasta el momento, podría tener también importancia en el pronóstico y respuesta a la infección por SARS-CoV-2.
+Desde un punto de vista histopatológico, y como consecuencia de lo comentado, serían esperables en COVID-19 cambios semejantes a los observados en la epidemia por SARS-CoV. Así los pulmones de pacientes afectados mostraron tanto respuestas inflamatorias inespecíficas como edema e infiltración celular, . Se añadía a esto: descamación severa de células epiteliales alveolares, ensanchamiento septal alveolar, daño a los tabiques alveolares e infiltración del espacio alveolar. Dicha inflamación conducía con posterioridad a necrosis, infiltración e hiperplasia, .
+
+
+- TRATAMIENTOS
+
+En el momento actual el tratamiento de COVID-19 se basa eminentemente en el control de los síntomas y el abordaje respiratorio acorde a las necesidades del paciente. En determinados pacientes, como son aquellos con factores de riesgo o mala evolución, se plantea el uso empírico de diversos fármacos dirigidos tanto contra el virus como para condicionar una respuesta inmunitaria disregulada. Se realiza a continuación una breve descripción de todos ellos.
+
+
+-- LOPINAVIR/RITONAVIR
+
+El uso de ambos antivirales se plantea en COVID-19 como resultado de su anterior utilidad frente a SARS-CoV y MERS-CoV. No existe evidencia actual que sustente su uso y los primeros trabajos realizados indican que puede no tener influencia sobre la mortalidad de estos pacientes.
+
+
+-- REMDESIVIR
+
+Este fármaco posee actividad antiviral frente a un número amplio de virus ARN, entre los que se incluyen SARS-CoV y MERS-CoV, , . En el momento actual se estudia su utilidad terapéutica frente al Ébola. Su efecto y utilidad frente a SARS-CoV-2 se encuentra en estudio.
+
+
+-- HIDROXICLOROQUINA
+
+La posible utilidad de la hidroxicloroquina (HQ) frente a coronavirus ya fue descrita en la epidemia por SARS-CoV. Dicha molécula alcaliniza el medio dificultando la acción del fagolisosoma viral y, por lo tanto, enlentece o dificulta la replicación de coronavirus. Recientemente se ha demostrado su utilidad in vitro contra el SARS-CoV-2. Dicha utilidad aún no dispone de evidencia clínica siendo por lo tanto su uso empírico. Se debe prestar atención a los posibles efectos secundarios, ya sea en administración individual o en combinación con otros fármacos, .
+
+
+-- MACRÓLIDOS
+
+Se atribuye a este grupo de antibióticos cierto perfil inmunomodulador. De este modo parece que poseen cierto papel sobre la acción de neutrófilos o la liberación de citocinas como IL-8. Se ha visto demostrada su posible utilidad en neumonías virales y, por extensión, se ha planteado como tratamiento adyuvante ante COVID-19. No existe aún evidencia que confirme que su uso individual o en combinación con HQ permita una mejor evolución.
+
+
+-- INTERFERÓN ALFA Y BETA
+
+El uso de interferón en el contexto de infección por coronavirus tiene como principal objetivo mitigar la posible disrupción que en esta vía de respuesta innata produce el virus. Bajo este mismo criterio se utilizó en anteriores epidemias por coronavirus ofreciendo resultados controvertidos.
+
+
+-- CORTICOIDES
+
+El uso de corticoterapia en el paciente con COVID-19 resulta discutido. Por un lado, se obtiene de su aplicación un efecto inmunosupresor que ante una disregulación inmune proinflamatoria pudiera ser útil, . Por otro lado, estos fármacos incrementan y perpetúan la linfopenia pudiendo interferir en una respuesta dirigida a aclarar la presencia viral. En la enfermedad respiratoria provocada por SARS-CoV su uso no aportó beneficios e incluso se asoció a una mayor persistencia de la viremia (tabla 1 ).
+Las recomendaciones realizadas por los clínicos que atendieron COVID-19 en Wuhan pivotan sobre 5 claves: (1) Se debe valorar cuidadosamente el beneficio/riesgo de su uso. (2) Se deben considerar sobre todo en pacientes críticos. (3) En pacientes con hipoxemia debida a enfermedades subyacentes o con tratamiento con corticoides de forma regular debe considerarse su uso. (4) Las dosis deben ser bajas o moderadas (≤ 0,5-1 mg/kg por día de metilprednisolona o equivalente), y (5) la duración debe ser corta (≤ 7 días).
+
+
+-- TOCILIZUMAB
+
+Como se ha comentado, la síntesis de IL-6 por parte de macrófagos y linfocitos T forma parte de la respuesta inmunitaria realizada frente a SARS-CoV-2. En el caso de mostrar evolución tórpida o empeoramiento clínico, parece frecuente objetivarse un valor elevado de esta citocina en el torrente sanguíneo. Tocilizumab es un anticuerpo monoclonal humanizado dirigido contra el receptor de la IL-6. Su uso podría frenar la activación inmunitaria subyacente siendo por lo tanto una opción terapéutica en pacientes con crítica o mala evolución. En el caso de no disponer de la determinación de esta molécula, se puede utilizar como biomarcador la ferritina, , , . En el momento actual la ferritina posee una sensibilidad y especificidad adecuada como herramienta de diagnóstico y seguimiento del síndrome de activación macrofágica.
+
+
+-- SUERO DE CONVALECIENTE
+
+Planteado su uso en epidemias previas por SARS-CoV y MERS-CoV, en el momento actual existen pocos datos acerca de su beneficio. Solo un trabajo sobre 5 pacientes parece ofrecer resultados. Debe ser valorado su uso con precaución dado que el mismo puede no estar exento de riesgos.
+En conclusión, SARS-CoV-2 podría compartir características y respuesta inmune semejantes a las mostradas por otros coronavirus con anterioridad. Dada su actividad sobre la vía del interferón y el modo en el que disregula la inmunidad innata, el uso de tratamientos dirigidos a modular o contener esta pueden ser de interés. El conocimiento de la fisiopatogenia subyacente o la determinación de determinados biomarcadores (linfocitos o niveles de IL-6) podrían ser una herramienta útil para anticipar la evolución y practicar un tratamiento dirigido y personalizado.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

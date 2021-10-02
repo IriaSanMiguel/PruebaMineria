@@ -1,0 +1,5 @@
+Se clasificó 33% con TFGE-Cr disminuida.La TFGE-Cr fue menor en hombres, en >40 años y en usuarios de antihipertensivos; y fue mayor en aquellos con consumo proteico alto. Los predictores de la creatinina fueron similares a los de la TFGE-Cr. El ácido úrico disminuyó en participantes hombres, con obesidad, hipertensión e hipercolesterolemia.
+Los biomarcadores séricos convencionales son útiles para identificar alteraciones subclínicas de la función renal. Algunos predictores de la función renal son potencialmente modificables, por tanto susceptibles de intervención.
+Examinar prospectivamente los predictores de alteraciones subclínicas de la función renal en adultos sin diagnóstico previo de enfermedad renal crónica.
+Se analizaron datos de una cohorte de adultos mexicanos (n=757). La función renal (2010) se midió mediante la tasa de filtración glomerular estimada (TFGECr), creatinina y ácido úrico séricos. Los predictores (2004) se identificaron con modelos de regresión lineal y logística.
+

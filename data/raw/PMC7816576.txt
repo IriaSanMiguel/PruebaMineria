@@ -1,0 +1,60 @@
+TROMBOEMBOLISMO PULMONAR DURANTE LA PANDEMIA POR SARS-COV-2: CARACTERÍSTICAS CLÍNICAS Y RADIOLÓGICAS
+
+
+- INTRODUCCIÓN
+
+Aunque la enfermedad por coronavirus del 2019 (COVID-19) se manifiesta fundamentalmente como neumonía atípica y síndrome respiratorio agudo grave, puede afectar a otros órganos y sistemas. Se han descrito complicaciones trombóticas a diversos niveles, frecuentemente como tromboembolismo pulmonar (TEP), , , , , , con series de TEP en autopsias, unidades de cuidados intensivos (UCI), , y en pacientes hospitalizados en plantas, , .
+Hasta donde sabemos, no se ha investigado el cambio en la incidencia de TEP en la población general durante la pandemia, ni las posibles características diferenciales de los TEP sucedidos durante ese período.
+
+
+- POBLACIÓN Y MÉTODO
+
+Hemos realizado un estudio retrospectivo utilizando el archivo radiológico y las historias clínicas electrónicas de un hospital universitario de la Comunidad de Madrid (España).
+Se definieron dos intervalos de tiempo: el período de estudio, desde el 01 de marzo al 31 de mayo de 2020; y un período de control, que comprende el mismo intervalo en 2019. Durante esos períodos se identificaron todas las solicitudes de angiografía pulmonar por tomografía computarizada (APTC), en las que constaba la sospecha clínica de TEP.
+Los estudios habían sido realizados con tomografía computarizada (TC) multidetector (Brilliance; Philips, Eindhoven, Países Bajos) mediante protocolos estándar. Todos ellos fueron reanalizados por dos radiólogos expertos con el fin de detectar la presencia de defectos de relleno intraluminal en las arterias pulmonares proximales o distales (segmentarias o subsegmentarias). Se recuperó la historia clínica de los pacientes finalmente diagnosticados de TEP, y se registraron las condiciones clínicas predisponentes al TEP recogidas en la escala revisada de Ginebra, así como como el dímero D, determinado por inmunoturbidimetría (STA®-Liatest® D-Di Plus, Stago, Asnières-sur-Seine, Francia).
+Durante el período de estudio, se registraron los resultados de la reacción en cadena de la polimerasa a tiempo real (RT-PCR) para el SARS-CoV-2 y el tiempo desde el inicio de los síntomas de COVID-19 y la sospecha de TEP. El diagnóstico de COVID-19 se basó en los criterios de la Organización Mundial de la Salud (OMS).
+La incidencia de COVID-19 en la población atendida por el hospital se obtuvo consultando registros públicos. Se utilizó la prueba de χ2 para las variables cualitativas (expresadas como proporciones), y la comparación de medias de Spearman (para variables no relacionadas) para las cuantitativas, expresadas como media ± desviación estándar. Se consideró significativa una p < 0,05.
+La razón de riesgo de TEP entre ambos períodos se calculó utilizando el número de TEP detectados y la población atendida en cada período, con un intervalo de confianza (IC) del 95%. Los datos se analizaron con el programa IBM SPSS 22 (Armonk, NY, EE. UU.).
+El estudio fue aprobado por el Comité de Ética de la investigación del hospital (OE33/2020), que eximió de la necesidad de obtener consentimiento, dada la naturaleza retrospectiva del estudio.
+
+
+- RESULTADOS
+
+Se solicitó una APTC por sospecha de TEP durante el período de control a 145 pacientes, 22 de ellos (15,2%) finalmente diagnosticados de TEP. Durante el período de estudio se solicitaron 465 APTC por sospecha de TEP, 99 de ellos (21,3%) confirmados, ocho (8%) ingresados en UCI. Un total de 74 habían sido previamente diagnosticados de COVID-19, con un retraso medio entre ambos diagnósticos de 9,1 ± 8,4 días.
+De los 1.292 pacientes hospitalizados con diagnóstico de COVID-19 en ese período, el 5,7% (74) fueron diagnosticados de TEP. Considerando la población atendida por el hospital, el riesgo de TEP durante el período de estudio, en relación con el período de control, fue de 4,5 (IC 95% 2,80-6,99). La figura 1 muestra que las curvas de incidencia de TEP y de COVID-19, estimadas para la población atendida por el hospital, tuvieron una tendencia similar, pero la de TEP sucedía con retraso.Figura 1
+La tabla 1 resume el resto de los resultados. Durante el período de estudio, los pacientes con TEP tendieron a ser más frecuentemente hombres (69,7 vs. 54,5%, p = NS), sin diferencias relevantes de la edad media (65,1±19,0 vs. 66,6±15,0, p = NS). Tuvieron menos episodios de TEP previo (5,1 vs. 18,2%, p = 0,05), de trombosis venosa profunda (TVP) (11,1 vs. 45,5%, p = 0,0001) y de cirugía en el mes anterior (2 vs. 35,4%, p = 0,0001).
+Los niveles de dímero D fueron más altos en los TEP asociados con COVID-19 (11,9±27,5 vs. 3,4±5,0 mg/L, p = 0,017), y tendieron a ser más altos, pero no significativamente, durante el período de estudio. Los TEP fueron más frecuentemente distales durante el período pandémico (73,5 vs. 50%, p = 0,02), y también en los pacientes con COVID-19 frente a los que no tenían COVID-19 (83,6 vs. 57,9%, p = 0,005).
+
+
+- DISCUSIÓN
+
+Nuestro estudio muestra un incremento en la incidencia de TEP durante los primeros meses de la pandemia, con un riesgo hasta 4,5 veces superior al del mismo período del año anterior. Incluye TEP asociados y no asociados a COVID-19; en las plantas de hospitalización (91 casos) y en las UCI (ocho casos). La diferencia entre ambos períodos (77 casos) coincide prácticamente con los casos de TEP asociado con COVID-19 (74 episodios).
+Algunos autores han descrito una incidencia acumulativa de TEP del 24% en pacientes con COVID-19 en los que se realizó una APTC. Este dato lleva a confusión, porque se refiere a la proporción de estudios positivos en los pacientes a los que por alguna razón se hizo la prueba, y no a la prevalencia en toda la población ingresada con COVID-19.
+Algunos metaanálisis han mostrado una alta incidencia de TEP, pero la mayoría de los casos incluidos provenían de pacientes ingresados en UCI, en los que la incidencia es mayor. Siendo así, la información más clara la podemos encontrar en series concretas. En una serie de 184 pacientes con COVID-19 admitidos en tres UCI, 25 (13,6%) sufrieron un TEP, dato similar (16,7%) al que ofreció un análisis prospectivo de 150 pacientes consecutivos admitidos en otras cuatro UCI.
+En el otro extremo, una serie de pacientes admitidos en las plantas de Medicina Interna de un hospital mostró una incidencia de TEP de 6,2%, similar a nuestro hallazgo de 5,7%. Así pues, alrededor de un 6% de los pacientes ingresados por COVID-19 puede sufrir un TEP, subiendo hasta el 13-17% en los casos críticos en la UCI.
+Hemos observado un retraso entre el diagnóstico de COVID-19 y la sospecha de TEP, claramente apreciable en la figura 1. Todo ello nos debe poner alerta ante datos de deterioro de los pacientes con COVID-19, a partir de la primera semana de su ingreso.
+Los TEP encontrados durante el período de pandemia diferían de los diagnosticados el año previo, con menos condiciones predisponentes para sufrirlo y más a menudo con obstrucción distal. Lo mismo ocurrió cuando comparamos a los pacientes con TEP, con y sin COVID-19. La COVID-19 parece estar asociada por sí misma con un mayor riesgo de desarrollar TEP, probablemente mayor que el descrito para otros tipos de neumonía, en los que también el TEP distal es más común.
+Otros autores también han encontrado un aumento del TEP distal en los pacientes con COVID-19, y esto podría deberse al menos en parte a la asociación de COVID-19 con la trombosis pulmonar in situ . En parte, porque cabe esperar un aumento de otros tipos de TEP durante la pandemia, ya que el confinamiento puede ser causa de inmovilización y ha habido un aumento dramático en el número de pacientes críticamente enfermos con mayor riesgo de TEP.
+
+
+- LIMITACIONES
+
+La naturaleza retrospectiva del estudio no permite la estandarización de la sospecha de TEP. No se ha realizado una estratificación de riesgo de los TEP observados por el escaso tamaño de la muestra. La TVP puede no haber sido investigada sistemáticamente durante el pico de la pandemia debido a razones logísticas. La mayoría de las muestras para RT-PCR se obtuvieron usando hisopos nasofaríngeos, una técnica con una sensibilidad estimada del 63%, por lo que algunos de los 25 casos de TEP sin diagnóstico de COVID-19 podrían haber estado infectados.
+La incidencia de TEP estimada para la población es solo una aproximación: ha habido muchas causas posibles de pérdida de casos que podrían causar subestimación, incluyendo los pacientes que murieron en residencias y los casos terminales no investigados. En todo caso, la incidencia real de TEP durante la pandemia debería ser mayor, y no menor que durante el período de control, y reforzaría la hipótesis inicial.
+También podría pensarse que la TC haya sido infrautilizada debido a situación de emergencia. Sin embargo, se ordenó una APTC por la sospecha de TEP en un tercio de los pacientes ingresados por COVID-19 durante el período de estudio, con una tasa de diagnóstico confirmado del 21,3%, que no fue no estadísticamente diferente de la tasa encontrada durante el período de control.
+Cuando se utiliza correctamente, la APTC debe detectar un TEP en el 30% de todas las APTC solicitadas, por lo que nuestros datos no sugieren infrautilización en ninguno de los períodos, y concuerdan con la capacidad diagnóstica de la prueba en otros estudios realizados en pacientes con COVID-19.
+
+
+- CONCLUSIONES
+
+La pandemia de COVID-19 se asocia con un mayor riesgo de TEP. Este riesgo parece aumentar una o dos semanas después de la infección. Durante el período pandémico, el TEP afecta a pacientes con un perfil clínico diferente, frecuentemente con COVID-19, y la obstrucción de los vasos es más frecuentemente distal. Nuestros resultados respaldan la hipótesis de que la COVID-19 es un factor de riesgo para sufrir un TEP, con características específicas.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

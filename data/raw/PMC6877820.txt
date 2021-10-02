@@ -1,0 +1,94 @@
+PERCEPCIONES DE PACIENTES Y PROFESIONALES SOBRE LA CALIDAD DE LA ATENCIÓN A PERSONAS CON ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA<SUP
+
+
+- INTRODUCCIÓN
+
+La enfermedad pulmonar obstructiva crónica (EPOC) supone un importante problema de salud pública, . Según la Organización Mundial de la Salud (OMS), esta patología es la cuarta causa de muerte en el mundo, ocasionando un 5,5% del total de fallecimientos, y se situará en tercer lugar en el año 2020, con un 8,6%, solo superada por las enfermedades cardiovasculares y el cáncer. En España, la prevalencia de EPOC, estimada a través de los estudios IBERPOC y EPI-SCAN, se sitúa en el 9,1-10,2% de la población adulta, con una marcada diferencia entre varones (14,3%) y mujeres (3,9%).
+Hoy conocemos que la EPOC puede ser frenada, y en ocasiones revertida, mediante intervenciones como programas educativos y tratamiento farmacológico. Uno de los principales problemas en su abordaje es el infradiagnóstico, que limita la efectividad de las actuaciones. Se han descrito dificultades para realizar un diagnóstico adecuado y un abordaje terapéutico efectivo, incluyendo las relacionadas con la promoción de cambios en la conducta de los pacientes, y con la consolidación de esos cambios en el seguimiento de los pacientes.
+El objetivo de este trabajo es explorar la percepción y el conocimiento que profesionales sanitarios (PS) y pacientes tienen sobre los factores que influyen en la calidad y la continuidad asistencial de cuidados prestados, en atención primaria (AP), a personas con EPOC, con el fin de tenerlos en cuenta en el diseño de estrategias de mejora asistencial.
+
+
+- PARTICIPANTES Y MÉTODOS
+
+Se diseñó un estudio cualitativo exploratorio diferenciando la perspectiva de los PS y la de los pacientes.
+
+
+-- MUESTRA Y PARTICIPANTES
+
+La investigación se desarrolló entre los meses de febrero y marzo de 2010 en 6 centros de salud urbanos de Zaragoza. En 3 de ellos en el momento de desarrollar la investigación existían grupos de mejora de la atención a pacientes con EPOC, y en otros 3, no.
+Los profesionales se seleccionaron mediante muestreo intencional no probabilístico entre el personal médico y de enfermería de los centros participantes, procurando la representatividad de discursos sociales predominantes. En la tabla 1 se describe el perfil de los 12 profesionales que participaron en el estudio.
+Mediante muestreo intencional de informantes clave se seleccionaron 6 pacientes diagnosticados de EPOC, asignados a un médico de familia en alguno de los centros de salud incluidos en el estudio. Los pacientes seleccionados tenían edades comprendidas entre los 56 y los 80 años, y diferentes grados de gravedad de la enfermedad, de cumplimiento del tratamiento y de cumplimiento de las citas de seguimiento .
+Los participantes no eran conocidos por las investigadoras y fueron informados previamente de los objetivos del estudio. Se solicitaron consentimientos informados por escrito, asegurándose la confidencialidad de la información y el anonimato.
+
+
+-- DISEÑO
+
+La exploración de percepciones de los/as PS se realizó mediante grupos de discusión (GD), que permitieron captar los significados y las representaciones sociales relativas al objeto del estudio. Para garantizar, por un lado, la homogeneidad y la heterogeneidad intragrupal y la heterogeneidad intergrupal y, por otro, la libertad de expresión y la fluidez discursiva, se realizó un GD con personal de enfermería y otro con personal médico. Los GD se realizaron en uno de los centros de salud seleccionados para el estudio, con una duración aproximada de 90 min cada uno.
+En cuanto a los pacientes, la exploración de percepciones individuales se realizó mediante entrevistas individuales en profundidad, dado que se pretendía identificar diferentes percepciones que recogieran la heterogeneidad discursiva relativa al objeto de estudio. Además, la situación funcional de algunos pacientes dificultaba su desplazamiento y, por tanto, la posibilidad de participar en dinámicas grupales era limitada. Por este motivo las entrevistas fueron realizadas en los centros de salud o en el domicilio del paciente, según su gravedad, con una duración aproximada de 60 min cada entrevista.
+Tanto en las entrevistas grupales como en las individuales se siguió el mismo guion preestablecido , en el que se incluyeron posibles factores determinantes de las percepciones relacionadas con la calidad de la atención sanitaria que reciben los pacientes con EPOC en AP. Estos factores fueron identificados, a partir de los resultados de una investigación preliminar realizada no publicada, mediante entrevistas individuales a profesionales médicos y de enfermería de AP. Se trató de conocer las distintas percepciones de los factores comunes identificados tanto entre pacientes como entre PS.
+
+
+-- ANÁLISIS
+
+Todas las entrevistas fueron grabadas en audio y transcritas literalmente por una de las autoras. En las entrevistas grupales, una de las autoras asumió el papel de moderadora y otra participó como observadora. El análisis de los datos se realizó tomando como marco teórico el análisis social del discurso, llevándose a cabo un análisis de las posiciones discursivas e interacciones y de las configuraciones narrativas del corpus textual.
+
+
+- RESULTADOS Y DISCUSIÓN
+
+Los resultados se presentan estructurados en las distintas fases del proceso asistencial (diagnóstico, tratamiento y seguimiento).
+
+
+-- FACTORES RELACIONADOS CON EL DIAGNÓSTICO (<XREF RID="TBL0015" REF-TYPE="TABLE">TABLA 3</XREF
+
+Tanto los profesionales como los pacientes refieren dificultades en la percepción de la enfermedad y en la realización de espirometrías, ligadas al rechazo a la misma, a la presión asistencial y a la propia técnica.
+Falta de percepción de la enfermedad. Los pacientes refieren que acuden a los servicios asistenciales cuando la enfermedad les genera problemas importantes en su capacidad funcional o en su calidad de vida, ya sea por la aparición de un episodio agudo que deriva en urgencias, o por el propio deterioro de la enfermedad. En algunos casos los pacientes no lo perciben como una enfermedad hasta que son diagnosticados. Los profesionales también refieren que no identifican bien los síntomas de los pacientes hasta que no se alcanzan estadios avanzados.
+En estudios realizados en otros entornos se ha señalado el rechazo de los pacientes a reconocer su enfermedad y la falta de percepción por los profesionales de la importancia que tiene establecer el diagnóstico de EPOC y explicárselo a los pacientes. En un estudio australiano se identifica, en pacientes con comorbilidades, la baja priorización que dan los pacientes con EPOC a su enfermedad respecto a otras.
+La dificultad por parte de los pacientes para asumir que están enfermos también puede limitar el tratamiento posterior. En este sentido se ha identificado entre los profesionales una percepción pesimista sobre el efecto del diagnóstico temprano en el cambio de hábitos de los pacientes.
+Dificultades para la realización de espirometrías. El rechazo a la espirometría es señalado por profesionales y pacientes. La falta de tiempo en la consulta es referido por los profesionales. Otros estudios también identifican la falta de tiempo y la carencia de personal como causas de este infradiagnóstico.
+Los problemas con el equipamiento son referidos por los profesionales, junto con la falta de formación. En otros entornos se ha identificado también como problema la escasa utilización de las espirometrías, coincidiendo con nuestros resultados en el escepticismo de los profesionales (médicos de AP) respecto a la utilidad de la espirometría en el diagnóstico de la EPOC y al impacto de la misma en un tratamiento adecuado de la enfermedad.
+Estudios anteriores han detectado en España un importante infradiagnóstico de los pacientes con EPOC y una baja utilización de la espirometría para establecer el diagnóstico, pese a que existen evidencias de que un diagnóstico precoz se asocia a mayor supervivencia y menores costes. Se han propuesto estrategias factibles para la mejora del diagnóstico precoz de la EPOC en AP, basadas en la identificación de pacientes con alto riesgo de padecer esta patología.
+
+
+-- FACTORES RELACIONADOS CON EL TRATAMIENTO (<XREF RID="TBL0020" REF-TYPE="TABLE">TABLA 4</XREF
+
+Cambio de hábitos o estilo de vida. Los pacientes muestran resistencia a modificar sus estilos de vida, especialmente el uso del tabaco. Pese a las evidencias sobre los beneficios de la educación sanitaria y del abandono precoz del hábito tabáquico, , los profesionales muestran escepticismo sobre la efectividad de esas intervenciones, aunque también señalan lo gratificante que es cuando consiguen que un paciente abandone el hábito tabáquico. Entre las barreras identificadas por los pacientes para adoptar estos cambios se señalan las relacionadas con la falta de motivación, las dificultades prácticas (falta de recursos, tiempo…) y la falta de apoyo social y por parte de los profesionales. Otros estudios señalan la importancia de atender a los miedos e incertidumbres de los pacientes sobre la progresión de su enfermedad y el impacto en su calidad de vida, como forma de motivación.
+Grupos de EPOC. Una de las estrategias que se ha mostrado efectiva en las intervenciones sobre las conductas es el refuerzo y el apoyo social a través de grupos de pacientes. Sin embargo, entre los profesionales no hay consenso sobre su utilidad y señalan falta de apoyo para la realización de estas intervenciones, que se suelen dejar al voluntarismo. También se señala como barrera la no inclusión de la educación para la salud en los sistemas de incentivos de la organización.
+Toma inadecuada de la medicación. La principal dificultad para una apropiada toma de la medicación es el uso inadecuado de los inhaladores. Por parte de los pacientes se refiere, como causa de la misma, la escasa información y la falta de percepción de los beneficios, junto a factores sociales y culturales. Otros estudios en nuestro medio identifican el mismo problema, tanto en atención especializada (AE) como en AP. Constatan una mejor realización de la técnica inhalatoria a menor edad y mayor nivel de estudios. Los profesionales señalan que en algunos casos la falta de adherencia al tratamiento puede estar influida por la automedicación.
+Se han propuesto estrategias para mejorar la respuesta de los pacientes a intervenciones de cambios de conducta en EPOC que han mostrado ser efectivas, como por ejemplo la designación de enfermeras «mentoras» y el recuerdo de los objetivos de cambio de conducta a través de llamadas telefónicas.
+
+
+-- FACTORES RELACIONADOS CON EL SEGUIMIENTO (<XREF RID="TBL0025" REF-TYPE="TABLE">TABLA 5</XREF
+
+Entre los problemas identificados en el seguimiento del tratamiento se encuentran la falta de asistencia de los pacientes a las revisiones, las demoras en pruebas diagnósticas y consultas y la falta de coordinación entre niveles asistenciales.
+Los profesionales de AP refieren que existen razones diversas para la incomparecencia de los pacientes, como la falta de coordinación con los especialistas y la falta de percepción de la enfermedad. La resistencia de los pacientes a los cambios en el comportamiento y la demora en las consultas podrían favorecer que los pacientes menos motivados no acudan a las revisiones. Por parte de los pacientes se señalan también las demoras y la falta de comunicación con el especialista como un aspecto importante que dificulta el seguimiento.
+Por otro lado, los profesionales ponen de manifiesto la falta de coordinación y de la comunicación necesaria entre AP y AE, en lo referido a la evolución del paciente. Un reciente estudio europeo concluye que los problemas de abordaje de los pacientes con EPOC, especialmente si tienen comorbilidades, no están resueltos. El escaso conocimiento de los profesionales en este terreno se identifica como una limitación a la hora de proponer estrategias comunes, aunque se coincide en la importancia de la colaboración entre los niveles asistenciales.
+
+
+-- FACTORES RELACIONADOS CON LA CALIDAD ASISTENCIAL SEGÚN PACIENTES Y PROFESIONALES (<XREF RID="TBL0030" REF-TYPE="TABLE">TABLA 6</XREF
+
+Los pacientes valoran, al igual que en otros estudios, el interés que muestran los profesionales en su situación y su capacidad de respuesta a sus necesidades y demandas. También señalan las demoras como un factor negativo en la calidad asistencial.
+Los profesionales, aunque valoran las posibilidades de mejora en la asistencia que suponen las nuevas tecnologías, reflejan un descontento importante con la utilidad de las mismas en su práctica habitual. La presión asistencial elevada dificulta mantener los registros actualizados y la puesta en marcha de planes de mejora de calidad asistencial.
+Las evaluaciones de calidad llevadas a cabo se perciben como un apoyo a la mejora: se tiende a hacer un esfuerzo en mejorar aquello que se evalúa. Sin embargo, se critica que solo se evalúan determinados parámetros, dejando fuera otros más relacionados con el trabajo en equipo, la organización del trabajo o el funcionamiento en general del centro. En este sentido, las Guías de Práctica Clínica (GPC) son percibidas favorablemente por los profesionales, al indicar lo que se debe hacer. Un aspecto llamativo es la asunción por parte de estos de que la EPOC es una enfermedad de difícil manejo, por lo que se considera normal que resulte mal valorada en la evaluación de calidad y se duda de la efectividad de las intervenciones de mejora en la misma.
+Los profesionales consideran que los proyectos de mejora deben plantearse como proyectos del centro de salud, con implicación de todos los profesionales y mediante el trabajo de equipo. Para ello se considera necesaria una reorganización del trabajo a nivel de todo el centro.
+Otro aspecto importante es la falta de alineamiento de prioridades entre los profesionales y los gestores, lo que genera desmotivación. Se invierten esfuerzos en realizar planes de calidad por parte del centro, que luego no son aprobados ni financiados.
+La importancia de la percepción de los profesionales sobre la validez de las recomendaciones y la efectividad de los tratamientos, como determinantes de la adherencia de los profesionales a las GPC, es reconocida en otros estudios. En un estudio australiano se concluye que entre los factores que, desde el punto de vista de los profesionales, más influyen en la calidad asistencial se encuentran la comunicación persuasiva con el paciente, la complejidad del cambio de conducta, la clarificación de los roles de los PS y la disponibilidad de recursos de apoyo a diferentes niveles.
+
+
+- CONCLUSIONES, UTILIDAD Y LIMITACIONES
+
+La utilización de metodologías cualitativas aporta un profundo conocimiento sobre los factores que, según profesionales y pacientes, influyen en la calidad y la continuidad de los cuidados prestados en AP a personas con EPOC. Esta metodología permite mejorar la comprensión de determinados comportamientos, miedos y rechazos, satisfacción e insatisfacción de profesionales y pacientes.
+Sin embargo, hay que señalar que este tipo de estudios informan sobre cómo piensan y qué valoran pacientes y profesionales, y permiten identificar campos que podrían mejorarse para prestar una atención de calidad que considere sus opiniones. No obstante, esta valoración subjetiva no siempre coincide con los datos objetivos disponibles, o podría no ser compatible con los recursos o las características organizacionales de los servicios prestadores de asistencia, aspectos que deberían tenerse también en cuenta en el momento de implantar estrategias de mejora derivadas de la información obtenida con este tipo de estudios.
+A pesar de tratarse de un estudio con un número limitado de participantes, se alcanzó la saturación discursiva que garantiza unos datos ricos y consistentes que permiten la identificación de factores que influyen en la calidad y la continuidad asistencial de los cuidados prestados en AP a personas con EPOC. No obstante, sería recomendable la realización de estudios más amplios y específicos que consideraran más actores del sistema sanitario, como profesionales de AE, y que aplicaran otros diseños que permitieran ampliar el conocimiento acerca de la percepción de los pacientes, como podría ser el trabajo con GD. Respecto al entorno donde se realizaron las entrevistas, no se encontró que el mismo condicionara de forma importante el discurso de los participantes.
+Según los resultados del estudio, para mejorar los resultados de la atención a personas con EPOC se deben mejorar las estrategias de diagnóstico precoz, y la formación de los pacientes. Especialmente relevante resulta que los pacientes interioricen la importancia de la EPOC y el efecto que los cambios en sus hábitos de vida pueden tener sobre la enfermedad y sobre la calidad de vida de los enfermos.
+Igualmente, es necesaria la concienciación y la formación técnica de los profesionales, con el objetivo principal de mejorar la comunicación con los pacientes y la técnica en la realización de espirometrías.
+Desde un punto de vista organizativo, la coordinación asistencial, tanto a nivel de centro de salud como entre niveles asistenciales, es percibida como un aspecto esencial de la calidad asistencial. La implementación de GPC podría facilitar esta coordinación, mejorando el control de la evolución del paciente. La utilización de indicadores en un proceso de evaluación de la calidad de atención constituye un apoyo para la mejora, y si la misma está alineada con los objetivos de la organización, motiva a los profesionales.Lo conocido sobre el tema-El seguimiento y el control de los pacientes con EPOC resulta complejo.-Existe evidencia de un infradiagnóstico de EPOC.-Existe evidencia de que el manejo de la EPOC en nuestro medio presenta importantes deficiencias.Qué aporta este estudio-Elementos clave para la mejora de la atención sanitaria: concienciar a los pacientes del grado de importancia de la enfermedad e incrementar la motivación de los profesionales sanitarios. Los pacientes necesitan una explicación clara de la enfermedad y de cómo la misma va a influir en su calidad de vida, así como de las expectativas razonables sobre su evolución. A nivel organizativo, se destaca el trabajo en equipo, la reorganización asistencial en el centro, y la coordinación entre profesionales y entre niveles asistenciales.
+
+
+- FINANCIACIÓN
+
+El estudio ha sido financiado por el Fondo de Investigaciones Sanitarias (PI 07/1239).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

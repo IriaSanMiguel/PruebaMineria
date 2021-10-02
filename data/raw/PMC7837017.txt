@@ -1,0 +1,53 @@
+RELACIÓN ENTRE LOS NIVELES DE INTERLEUCINA 6 Y DEPRESIÓN EN PACIENTES AFECTADOS POR COVID-19
+
+
+- INTRODUCCIÓN
+
+El estrés causado por una infección o psicológico activa receptores de tipo toll, que activado el factor de transcripción NF-kB o al inflamasoma NLRP3 y otras citocinas inflamatorias incrementan los niveles de interleucina 1 beta (IL-1β) e interleucina 6 (IL-6); dando lugar a los síntomas generales de enfermedad así como a síntomas característicos de depresión como disforia y anhedonia.
+El incremento de IL-1β, IL-6 y TNF-α como resultado de infecciones o del estrés da lugar a la estimulación de los receptores glutamatérgicos NMDA y del ácido α-amino-3-hidroxi-5-metilo-4-isoxazolpropiónico (AMPA), así como a la disminución de la expresión de los receptores GABA-A neuronales, provocando aumento de la excitabilidad reversible.
+El complejo de la vía NF-kB está presente en una amplia variedad de células como los linfocitos y las células endoteliales. La activación de la vía NF-kB y posterior producción de las citocinas puede relacionarse con el deterioro de las células endoteliales. En modelos de depresión in vitro y en animales, TNF-α modifica las células endoteliales de la barrera hematoencefálica aumentando la permeabilidad y reduciendo la expresión de las proteínas tight junction asociadas a espacios extracelulares. La vía de señalización NF-Kb-IKK ha sido asociada con la regulación de la morfología neuronal, siendo necesaria y suficiente para inducir comportamientos ansiosos-depresivos-like en ratones.
+Benros et al. concluyen que el incremento del riesgo de padecer un trastorno del ánimo tras la hospitalización por infecciones y enfermedades autoinmunes fue del 62% (IRR, 1,62; IC95% 1,60-1,64) y 45% (IRR, 1,45; IC95% 1,39-1,52) respectivamente. Cuando presentaban ambas el riesgo aumentaba más (IRR, 2,35; IC95% 2,25-2,46).
+La covid-19 constituye un modelo para estudiar los cuadros depresivos en el contexto de un estrés sostenido y su correlación con mecanismos moleculares.
+El objetivo principal de este estudio consiste en valorar la correlación entre niveles de IL-6 y sintomatología depresiva. Como objetivos secundarios se plantea valorar la misma correlación entre sintomatología depresiva y niveles de IL-1β y TNF-α, así como caracterizar psicopatológicamente los cuadros depresivos presentes durante la hospitalización.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio observacional. Se incluyeron pacientes ingresados por covid-19. El estudio fue aprobado por el Comité de Ética e Investigación Clínica de las Áreas de Salud de León y El Bierzo el 17 de abril de 2020 (expediente 2062).
+Criterios de inclusión:-Mayor de 60 años ingresado en planta por covid-19 en el que se indique determinación de IL-6.-Consentimiento informado verbal.
+Criterios de exclusión:-Incapacidad para completar las escalas clínicas.
+Se optó por el consentimiento informado verbal porque no se modifica la intervención clínica y porque eliminar la manipulación de instrumentos de escritura disminuye el riesgo de contagio.
+Se obtuvieron datos analíticos y sociodemográficos de la historia clínica de los pacientes incluidos.
+Para la evaluación de la sintomatología depresiva se empleó la Escala de depresión geriátrica de Yesavage (GDS) (variable de estudio), por ser sencilla de aplicar y presentar un perfil adaptado a la población a estudio.
+La estructura dicotómica de la GDS permite, de forma hipotética, correlacionar cada ítem con un síntoma depresivo y, a su vez, con el teórico neurotransmisor regulador (tabla 1 ). Para esta correlación se realizó un consenso entre 3 psiquiatras con más de 10 años de experiencia. Si bien pueden existir discrepancias sobre su utilidad y exactitud, permite realizar una aproximación que plantea la sintomatología depresiva como un continuo con la normalidad, desde un modelo teórico no dualista, considerando la psicopatología como síntoma de una enfermedad sistémica.
+La recogida de datos se realizó en el Complejo Asistencial Universitario de León (CAULE) entre el 17 de abril y el 7 de mayo de 2020, cuando se interrumpió por cese de solicitudes de niveles de IL-6. Desconocemos el motivo de este cese, si bien coincide con el fin de la fase más intensa de la pandemia.
+Se utilizó la rho de Spearman para estimar las correlaciones.
+
+
+- RESULTADOS
+
+En 48 pacientes ingresados mayores de 60 años se solicitó determinación de niveles de IL-6; 3 de ellos no presentaban Covid-19, 5 se encontraban ingresados en UCI, 2 habían fallecido, 4 presentaban alteraciones cognitivas y 7 habían sido dados de alta o trasladados. Finalmente, 27 pacientes fueron incluidos en el estudio. La detección de pacientes fue a través del laboratorio de Inmunología, que notificaba las determinaciones de IL-6 solicitadas, independientemente del motivo.
+Las variables sociodemográficas y analíticas se muestran en la tabla 2 . El perfil del paciente mayor de 60 años, ingresado en planta por Covid-19 al que se le solicita un análisis de IL-6 es un varón (70,4%), del medio rural (51,9%), solicitándose la determinación de niveles de interleucinas en torno al octavo día de ingreso.
+Encontramos una elevación media de los niveles de IL-6, muy influido por valores extremos (mediana 11 pg/ml). Encontramos elevación de los niveles de PCR, ferritina, dímero D y frecuencia cardíaca, y disminución de la saturación de oxígeno y de los linfocitos. El resto de los parámetros permanecen en niveles normales.
+A nivel psicopatológico, 3 de los 27 pacientes (11,1%) presentan una puntuación en la escala GDS compatible con la presencia de un cuadro depresivo.
+No hallamos correlación entre los niveles de IL-6 y la puntuación obtenida en la escala GDS (rho de Spearman = 0,204; IC95% desde −0,192 a 0,543). Tampoco entre la escala GDS con los niveles de IL-1β (rho de Spearman = −0,126; IC95% desde −0,490 a 0,276); ni con los de TNF-α (rho de Spearman = −0,033; IC95% desde −0,416 a 0,360).
+Para la caracterización psicopatológica realizamos una ponderación entre diferentes neurotransmisores. Según la tabla 1 se asignaron 17 ítems a serotonina, 6 a noradrenalina y 7 a dopamina. Dividimos la puntuación obtenida para cada neurotransmisor por el número de ítems asignados. Encontramos que el cuadro psicopatológicamente presenta sintomatología asociada al déficit de noradrenalina (principalmente) y serotonina y muy escasamente a dopamina. En la figura 1 se representan las alteraciones de neurotransmisores encontradas.Figura 1
+
+
+- DISCUSIÓN
+
+La muestra conformada limita sus resultados a pacientes ingresados en planta de hospitalización. No es, por lo tanto, extrapolable a los cuadros más severos (no se han incluido pacientes ingresados en UCI), ni a cuadros leves.
+Destaca la escasez de pacientes con puntuaciones de la escala GDS compatibles con cuadros depresivos (solo 3). Los pacientes se encontraban en situación de hospitalización por una enfermedad poco conocida, potencialmente letal, aislados y sin visitas. La estancia media en el momento de la valoración era superior a 8 días. Consideramos que los pacientes estaban sometidos a una situación de estrés intenso, pero las respuestas a la escala GDS escasamente traducen la presencia de síntomas depresivos. Sería preciso considerar otros factores con efecto sobre el ánimo, como el efecto euforizante de los corticoides o un efecto directo de la Covid-19 que pudiera causar un afecto mórico e incluso hipertimia. Al no haber recogido el tratamiento prescrito ni explorado un posible daño cerebral, no es posible determinar estos factores y deberá ampliarse la investigación en futuros estudios.
+La ausencia de correlación entre los niveles de interleucinas con las puntuaciones de la GDS podría estar influida por el bajo tamaño muestral o porque no exista correlación, si bien esto iría en contra de lo descrito en otros cuadros. La no correlación reforzaría el planteamiento de que la enfermedad o su tratamiento tuvieran efecto sobre el ánimo.
+Observamos que el cuadro se caracteriza por déficit noradrenérgico, seguido por déficit serotoninérgico. Esto sugiere que comparte características con las depresiones vasculares. Que los cuadros de alteración del ánimo en la Covid-19 compartan perfil psicopatológico con depresiones vasculares es congruente con un proceso donde se han evidenciado alteraciones cardiovasculares, y neurológicas. Apenas se detectó sintomatología dependiente de déficit dopaminérgico, lo que podría relacionarse con un efecto euforizante de la Covid-19 o su tratamiento.
+
+
+- CONCLUSIONES
+
+No existe correlación entre los niveles de IL-6, IL-1β y TNF-α con la puntuación obtenida en la GDS en pacientes mayores de 60 años con cuadros moderados de Covid-19.
+La sintomatología depresiva de los pacientes mayores de 60 años con cuadros moderados de Covid-19 comparte características con las depresiones vasculares, presentando déficits noradrenérgicos y serotoninérgicos.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno de los autores presenta conflicto de intereses.

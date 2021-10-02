@@ -1,0 +1,110 @@
+PERCEPCIONES Y VIVENCIAS DE ESCOLARES DE 7 A 8 AÑOS DEL PAÍS VASCO DURANTE LA ALERTA SANITARIA COVID-19
+
+
+- INTRODUCCIÓN
+
+La enfermedad producida por el nuevo coronavirus SARS-CoV-2, denominada COVID-19, dio comienzo en Wuhan a finales del año 2019 y se extendió después por todo el mundo. En España, los primeros casos de COVID-19 se conocieron en febrero de 2020, y el 14 de marzo, dada la situación sanitaria, se declaró el estado de alarma, adoptando medidas sociales restrictivas con el fin de contener la propagación del virus. Esta situación, sin precedentes en nuestra sociedad, incluyó el cierre de colegios y el confinamiento de las personas en su hogar. Su objetivo era limitar la transmisión y reducir las infecciones secundarias entre los contactos cercanos y los trabajadores de la salud. Además del evidente riesgo de infección y sus posibles consecuencias en salud, la situación de alerta sanitaria ha supuesto un impacto psicológico importante.
+El estudio llevado a cabo por Wu et al. analizó el impacto psicológico en profesionales de la salud en los años posteriores a un brote infeccioso de SARS, y concluyó que factores como la exposición al brote en el trabajo, estar en cuarentena y la muerte o la enfermedad de un pariente o amigo a causa del SARS contribuyeron al desarrollo de estrés postraumático.
+Una revisión rápida realizada por Brooks et al. evidenció que los/las profesionales que habían sufrido medidas de confinamiento presentaban una probabilidad significativamente mayor de experimentar síntomas de agotamiento, desapego, ansiedad, irritabilidad, insomnio, mala concentración e indecisión. Otros estresores reportados en el mismo estudio fueron la falta de información por parte de las autoridades de salud pública, el miedo a la posibilidad de infectarse y el propio confinamiento, y la falta de una rutina y de actividad social.
+Las medidas de confinamiento pueden impactar psicológicamente también en la población general y en cualquier grupo de edad. La preocupación por el efecto que estas medidas pueden tener en la salud mental y física de los/las escolares es creciente. A pesar de no existir antecedentes de una situación similar, diversos estudios sugieren que los/las escolares desarrollan menos actividades cuando están fuera de la escuela (fines de semana, vacaciones de verano, etc.). El tiempo delante de una pantalla aumenta, así como la alteración de los patrones de sueño y la adherencia a dietas menos saludables, lo que puede acarrear efectos negativos en su salud. Este riesgo podía aumentar exponencialmente durante el confinamiento y el cierre de los colegios, situación que se prorrogó en nuestro país durante meses. Por otro lado, la población escolar no siempre tiene desarrolladas habilidades para expresar abiertamente sus sentimientos. La Organización Mundial de la Salud recomienda que los/las escolares puedan describir sus emociones a través de actividades creativas, como juegos o dibujos.
+Al tratarse de una situación totalmente extraordinaria en nuestra sociedad, no existen estudios que hayan analizado el impacto que puede tener en la población escolar la instauración de medidas estrictas de confinamiento. El objetivo de este estudio fue explorar, a través de ilustraciones, las experiencias y las vivencias de escolares de entre 7 y 8 años del País Vasco en el periodo de confinamiento (del 8 al 25 de abril de 2020).
+
+
+- MÉTODO
+
+Se trata de un estudio cualitativo exploratorio. Durante el proceso de captación de participantes se realizó un primer contacto a través de las direcciones de los centros educativos, siendo necesaria después la difusión en las redes sociales. Se facilitaba un tríptico informativo, dirigido a padres, madres y tutores legales, que explicaba en qué consistía el proyecto y cómo recoger los datos. El periodo de recogida de datos se extendió desde el 8 hasta el 25 de abril de 2020, momento en que finalizó el confinamiento estricto de los/las menores de 14 años y dio comienzo la desescalada en la que podían salir de casa, aunque con horarios restringidos.
+
+
+-- PARTICIPANTES
+
+Se invitó a participar a escolares de edades comprendidas entre 7 y 8 años (correspondientes a segundo curso de educación primaria) de las tres provincias del País Vasco. Se seleccionó este rango de edad porque en otros estudios, como el de Gordillo et al., se considera que es el momento de inflexión a partir del cual se empezarían a perfeccionar las capacidades de reconocimiento de la expresión emocional, y coincide con el inicio del periodo de las operaciones concretas. Participaron también sus responsables legales, a través de los cuales se vehiculizó el proyecto, ya que fueron quienes realizaron la recogida de datos.
+
+
+-- RECOGIDA DE DATOS
+
+Se optó por el análisis de ilustraciones, que permite comunicar opiniones y creencias, facilita la resolución de problemas complejos y permite examinar la complejidad de las relaciones y el comportamiento social del ser humano. La participación consistió en dibujar en un folio en blanco con rotuladores de colores cómo se sentían por la situación de confinamiento causada por la COVID-19. Los datos se recogieron en un formulario Google doc en el que los/las participantes adjuntaban el dibujo y describían en un máximo de tres palabras (en español o euskera) sus sentimientos. Se recogieron como variables sociodemográficas el sexo, la provincia y el código postal; mediante este último se realizó una aproximación a la clase social del núcleo familiar, tomando como base los informes reportados por el Instituto Vasco de Estadística, .
+
+
+-- ANÁLISIS
+
+Se realizó análisis descriptivo de los datos sociodemográficos y de las palabras con que expresaban sus sentimientos. Se utilizó el software SPSS 21. Se hizo un análisis del contenido de las imágenes considerando su composición: color, contenido, organización espacial de la imagen y contexto social y político en que la imagen se produce, según el marco metodológico de Rose. Este método se basa en una serie de normas y procedimientos que deben ser sistemáticamente cumplidos para que el análisis sea riguroso y fiable. Consta de cuatro pasos: la selección de las imágenes que dan respuesta a la pregunta en estudio, el diseño de las categorías para su codificación, la codificación y el posterior análisis de las imágenes. Primero se seleccionaron las imágenes que daban respuesta a la pregunta en estudio. Se retiró una imagen que no cumplía los criterios para su inclusión, ya que era una fotografía de una niña. Después se codificaron las categorías. Para la codificación y el análisis pormenorizado, las imágenes se redujeron a un número de componentes (color, distribución del espacio, figuras predominantes…). Es necesario analizar lo que la imagen está mostrando, las relaciones que se establecen entre sus componentes, qué se está representando y los colores que se utilizan de manera predominante. Los códigos utilizados deben incluir la conexión teorizada entre la imagen y el contexto y el momento sociocultural en que se crea su significado. Los dibujos en este estudio muestran los sentimientos de los escolares en un momento y un contexto concretos.
+
+
+-- RIGOR
+
+El rigor del estudio se garantizó siguiendo las recomendaciones de los criterios consolidados para la presentación de informes sobre investigaciones cualitativas (COREQ). Se utilizó la reflexividad, estableciendo el posicionamiento del equipo investigador con respecto a sus creencias y su experiencia previa. Con el fin de asegurar el rigor del análisis, se realizó triangulación entre dos investigadoras independientes.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Los datos recogidos fueron tratados según la Ley de Protección de Datos de Carácter Personal y anonimizados con el fin de garantizar la confidencialidad de los/las participantes. El estudio dispone del informe favorable del CEIm Euskadi con el código PI2020055.
+
+
+- RESULTADOS
+
+Participaron 71 escolares, de quienes el 58,3% (42) eran niñas. El 13% (18) residían en la provincia de Álava, el 11,1% (8) en Guipúzcoa y el 66,7% (48) en Vizcaya. Tras el análisis del código postal y relacionándolo con la renta media de la zona, se puede afirmar que los participantes pertenecían a barrios de clase social media y media-alta, , .
+En respuesta a la pregunta «Describe en tres palabras cómo te sientes ante la situación del coronavirus», el sentimiento que más afloró fue la tristeza, en el 47,88% (34). El miedo fue el segundo sentimiento más frecuente, en el 18,3% (13), seguido del aburrimiento en el 14,08% (10). Otros sentimientos referidos fueron pena y soledad, ambos en el 5,63% (4). Si bien la mayoría de los sentimientos expresados por los/las escolares mostraban connotaciones negativas, el 7,04% (5) refería sentirse «bien» y estar tranquilo/a, cómodo/a y seguro/a, a pesar de que también manifestaban sentimientos de tristeza (tabla 1 ).
+Del análisis del contenido se desprendieron cinco categorías principales: 1) sentimientos de tristeza y miedo; 2) importancia del núcleo familiar, seguridad y protección; 3) hábitos de vida sedentarios durante el confinamiento; 4) infraestructuras de las viviendas y desigualdades sociales (la vida tras una ventana); y 5) respuesta social, lucha colectiva o del personal sanitario.
+
+
+-- SENTIMIENTOS DE TRISTEZA Y MIEDO
+
+Veinticinco dibujos mostraban claros sentimientos de tristeza (fig. 1 ). La nota imperante era la soledad ante la imposibilidad de interactuar con los/las amigos/as, como se puede observar en los dibujos en que el/la escolar aparecía solo/a, con rostro y gesto tristes. Se caracterizan por ser dibujos en blanco y negro, con trazos irregulares, desordenados, amplios y con intensidad variable, aumentando la presión en zonas como los ojos. Estos hechos pueden estar indicando niveles de ansiedad elevada, que sería necesario confrontar con una valoración conductual y emocional más profunda.Figura 1
+
+
+-- IMPORTANCIA DEL NÚCLEO FAMILIAR, SEGURIDAD Y PROTECCIÓN
+
+Algunos escolares vivieron la situación de confinamiento como una oportunidad para estrechar lazos con su familia, tal como mostraron 13 dibujos en los que aparecía el núcleo familiar unido, lo que brindaría a los escolares la sensación de seguridad y bienestar. Se identificaban con claridad los miembros de la unidad familiar, con brazos y manos abiertos, separados del cuerpo, y expresión positiva en la cara de todos, indicativo de autoestima y seguridad en el seno familiar. Asimismo, dibujaban su casa, cuyo tamaño destacaba sobre el resto de la composición del dibujo, siendo claramente el elemento más importante.
+Estos dibujos se caracterizan por ser de vivos y variados colores, con cierta tendencia hacia los tonos fríos como el azul y el verde, lo que refleja el estado de equilibrio y bienestar emocional (fig. 2 ).Figura 2
+
+
+-- HÁBITOS DE VIDA SEDENTARIOS DURANTE EL CONFINAMIENTO
+
+Siete dibujos vislumbraban también los peligros del confinamiento en la salud de los/las escolares al propiciar hábitos sedentarios. Así se mostraba en dichos dibujos, en los que la mayor parte del espacio era ocupado por un gran sofá o aparecía el niño, solo, sentado en una mesa. Destacaban los colores llamativos, con tendencia hacia las paletas cálidas (naranja, rojo), posible reflejo de unos niveles elevados de ansiedad que no podían liberar de otra manera (fig. 3 ).Figura 3
+
+
+-- INFRAESTRUCTURAS DE LAS VIVIENDAS Y DESIGUALDADES SOCIALES (LA VIDA TRAS UNA VENTANA
+
+Diez dibujos sugerían las desigualdades sociales existentes en cuanto a la infraestructura del hogar. A pesar de que no se recogió explícitamente información sobre el tipo de vivienda, se observaron diferencias entre aquellos/as escolares que se dibujaban en casas con jardín o en pisos sin balcón ni terraza. Los/las escolares que disponían de jardín se mostraban a sí mismos/as disfrutando y jugando al aire libre, acompañados/as de animales domésticos, mientras que los que no disponían de él se dibujan mirando por la ventana de espaldas al espectador o bien ocultando el rostro, o con gesto triste, con la boca curvada hacia abajo y con manos enlazadas, en señal de preocupación. Existía un predominio de colores intensos (por ejemplo, el color rojo en las ventanas) (fig. 4 ).Figura 4
+
+
+-- RESPUESTA SOCIAL, LUCHA COLECTIVA O DEL PERSONAL SANITARIO
+
+Dieciséis dibujos representaban la lucha social frente a un enemigo común: el coronavirus. Mostraban por un lado la lucha contra el coronavirus desde las casas como comunidad, y por otro lado la lucha de los/las profesionales de la salud desde los hospitales y las ambulancias. El arcoíris y la cruz sanitaria se repetían como símbolo. Estos dibujos se caracterizaban por tener vivos colores y una distribución compensada, y las personas se dibujaban con gesto amable y los brazos abiertos (fig. 5 ).Figura 5
+
+
+- DISCUSIÓN
+
+Los resultados de este estudio sugieren que la situación de alarma sanitaria por la COVID-19 en nuestro contexto sociosanitario ha tenido un impacto negativo en la población escolar. La tristeza es el sentimiento que más ha aflorado, seguido del miedo al virus. El análisis de las ilustraciones pone al descubierto las posibles desigualdades sociales existentes en relación al tipo de vivienda, así como ciertos hábitos poco saludables, como el sedentarismo. El núcleo familiar es clave y ofrece a los/las escolares sensación de bienestar y seguridad. En algunos casos se observa cómo el confinamiento se ha vivido como una oportunidad para estrechar los lazos familiares.
+La población escolar ha sufrido uno de los confinamientos más estrictos en comparación con otros grupos poblacionales, a pesar de que podría presentar menor incidencia de la infección y de que esta se manifiesta con formas más leves o asintomáticas. Diversos autores subrayan que el confinamiento de la población infantil en situación de pandemia puede acarrear consecuencias físicas, además de las psicológicas. La pérdida de hábitos y de rutinas, y el estrés psicosocial, son factores de riesgo que pueden afectar a la salud física y mental, , , , . Ello coincide con los resultados obtenidos en este estudio, en el que los/las escolares mostraban sentimientos de tristeza. La ansiedad, la depresión, el letargo y el deterioro de la interacción social son algunas de las manifestaciones que pueden aparecer, según otras investigaciones, . Las rutinas diarias en esta población se han visto totalmente alteradas con la supresión de las clases, lo que llevaría implícita la instauración de hábitos de ejercicio y sueño poco saludables, y el consiguiente aumento del uso de pantallas, .
+En este escenario, tal como se desprende del análisis de los dibujos, el núcleo familiar facilita los sentimientos de seguridad y de protección en los/las escolares, aumentando así su capacidad de afrontamiento ante el conjunto de estresores nuevos que provoca la COVID-19 en la población infantil. Mantener conversaciones directas acerca de la pandemia puede aliviar su ansiedad, ya que están continuamente expuestos a las noticias acerca de la COVID-19, por lo que el papel de sus responsables es fundamental. Como se observa en nuestro estudio, las medidas de confinamiento en el hogar han presentado en algunos casos una oportunidad de mejora de la interacción con los padres y las madres, involucrando a los/las escolares en actividades familiares, con lo que las necesidades psicológicas han podido ser satisfechas. Sin embargo, autores como Vélez et al. advierten de que en los/las escolares con discapacidad, necesidades especiales o situación de nivel socioeconómico bajo, la brecha y las desigualdades sociales se han hecho aún más patentes.
+Por otro lado, no se debe olvidar que los centros educativos adquieren un papel clave para satisfacer tanto necesidades psicológicas como sociales de la población escolar, ya que en las aulas no solo adquieren conocimientos, sino que interactúan con otros iguales y con el profesorado. Si bien se han desarrollado alternativas telemáticas durante este tiempo, esta metodología no sustituye algunas de las funciones más importantes del proceso de comunicación, como son la regulación del comportamiento y el posterior perfeccionamiento de habilidades sociales que tiene lugar a través del feed-back que se recibe durante el proceso interactivo, o la satisfacción de las necesidades relacionales que el componente afectivo del proceso comunicativo vehiculiza, y que se ven afectadas al tener lugar a través de dispositivos electrónicos. Por otro lado, las desigualdades sociales existentes hacen que las clases más desfavorecidas no hayan podido acceder siquiera a este tipo de comunicación digital, ya que, según estima el Instituto Nacional de Estadística, en España una de cada cinco familias no dispone de ordenador y aproximadamente el 10% de los/las escolares no han podido seguir las clases.
+El tipo de vivienda se ha convertido en un claro diferenciador social. Uno de los aspectos que se ha puesto en entredicho en esta pandemia son las infraestructuras de los hogares, que no disponen en todos los casos de espacios adecuados al aire libre. Esta diferencia social repercute también en el bienestar de los/las escolares, tal como ha quedado patente en algunos dibujos, en los que se observan diferencias entre los/las escolares que se dibujaban mirando a través de la ventana y aquellos/as que lo hacían jugando al aire libre. La vivienda no es solo un ambiente físico, sino también un concepto cognitivo, afectivo y social. En consecuencia, una vivienda no es lo mismo que un hogar, tal como propone Gifford. Una vivienda es una estructura física, mientras que un hogar es un conjunto de significados culturales, demográficos y psicológicos que las personas asocian a dicha estructura física. Expresa tanto la identidad personal como la identidad social de aquellas personas que la habitan, reflejando su pertenencia a un determinado grupo o estatus. La pandemia de COVID-19 ha puesto de manifiesto las limitaciones de nuestras actuales viviendas para nuevas funciones como el teletrabajo, y se enfatiza la importancia de las zonas exteriores, necesidad que se ha hecho aún más patente durante el confinamiento.
+Como aplicabilidad práctica, es necesario el desarrollo de recursos formativos que faciliten información veraz y adaptada al nivel de desarrollo cognitivo, y que promuevan hábitos de vida saludables en el hogar. Los/las escolares necesitan sociabilizar y hacer deporte como parte de un desarrollo psicomotor y psicosocial saludable. Es necesario desarrollar un plan de contingencia para futuras situaciones de alarma que garantice el bienestar físico y psicológico de los/las menores, así como la homogeneización y la regulación de la actividad no presencial y la interacción de los diferentes centros educativos con el alumnado durante el confinamiento en el hogar.
+Se hace necesario el desarrollo de nuevos estudios que profundicen en el impacto psicosocial que puede tener a largo plazo la pandemia en esta población.
+Como principal limitación de este estudio, el sistema de recogida de datos (a través de Google form) ha limitado la participación de las clases sociales más desfavorecidas, como se puede apreciar en las características sociodemográficas de los/las participantes. Otra posible limitación es el hecho de que la recogida de datos se haya vehiculizado a través de los responsables legales, quienes han podido influir en la interpretación de los sentimientos y en la recogida de datos, motivo por el que no todos los menores han utilizado tres palabras para expresar sus sentimientos.¿Qué se sabe sobre el tema?No hay antecedentes recientes en nuestro contexto sociosanitario de situaciones de alarma sanitaria con medidas de confinamiento, por lo que se desconoce el impacto que dichas medidas pueden tener en los/las menores.¿Qué añade el estudio realizado a la literatura?La infraestructura del hogar se ha mostrado como un claro diferenciador que ahonda en las desigualdades sociales durante la pandemia. El núcleo familiar cobra especial relevancia, haciendo sentir a los/las escolares protegidos/as y seguros/as. Es necesario desarrollar un plan de contingencia y recursos formativos que faciliten información veraz y adaptada a la población infantil, y que promuevan hábitos de vida saludables en el hogar.
+
+
+- EDITORA RESPONSABLE DEL ARTÍCULO
+
+Erica Briones Vozmediano.
+
+
+- DECLARACIÓN DE TRANSPARENCIA
+
+La autora principal (garante responsable del manuscrito) afirma que este manuscrito es un reporte honesto, preciso y transparente del estudio que se remite a Gaceta Sanitaria, que no se han omitido aspectos importantes del estudio, y que las discrepancias del estudio según lo previsto (y, si son relevantes, registradas) se han explicado.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+V. Tíscar-González ha sido la responsable de la concepción y el diseño metodológico del estudio, su desarrollo, recogida de datos, análisis, interpretación del contenido y redacción del artículo. T. Moreno-Casbas ha participado en el diseño y la recogida de datos, y ha contribuido en la redacción del artículo. J. Santiago-Garín ha participado en el diseño, la recogida de datos, el análisis y la interpretación del contenido, y ha contribuido en la redacción del artículo. I. Zorrilla-Martínez ha participado en el diseño y la recogida de datos, y ha contribuido en la redacción del artículo. M. Nonide-Robles ha participado en la recogida de datos y ha revisado y dado su aprobación a la versión final del artículo. J. Portuondo-Jiménez ha participado en el diseño y la recogida de datos, y ha contribuido en la redacción del artículo.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

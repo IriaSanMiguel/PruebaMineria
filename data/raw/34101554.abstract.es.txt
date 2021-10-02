@@ -1,0 +1,6 @@
+Se reunieron 30 pacientes, con una edad promedio de 51.97 ± 17.77 años. La principal razón de ingreso a la UCI fue sepsis abdominal. La gravedad de la enfermedad por APACHE II tuvo una mediana de 14 puntos y por SOFA una mediana de 4.5 puntos. La letalidad en la UCI fue del 46.7%.
+El abdomen abierto es una estrategia quirúrgica de manejo en pacientes con incremento de la presión intraabdominal o cuando la pared abdominal no puede ser cerrada.
+Describir las características y el resultado clínico de un grupo de pacientes quirúrgicos con abdomen abierto que han ingresado a una unidad de cuidados intensivos (UCI).
+Estudio retrospectivo en una UCI de un hospital público de referencia, con pacientes que ingresaron con abdomen abierto. Se registraron las características clínicas y demográficas al ingreso a la UCI y se asociaron con el riesgo de muerte en la UCI.
+La letalidad de pacientes con abdomen abierto en la UCI es alta. Los sujetos que sobreviven tienen un mayor número de reintervenciones quirúrgicas y un mayor riesgo de fístulas enterocutáneas.
+

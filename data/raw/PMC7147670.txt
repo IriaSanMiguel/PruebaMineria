@@ -1,0 +1,287 @@
+INFECCIONES NOSOCOMIALES EN PEDIATRÍA
+
+
+- INTRODUCCIÓN
+
+La higiene hospitalaria es una disciplina que emplea los datos epidemiológicos y los principios científicos de control del riesgo, con el fin de reducir la tasa de infecciones nosocomiales y prevenir la aparición de epidemias .
+Para responder a su misión principal de prevención del riesgo infeccioso y de reducción de la tasa de infecciones nosocomiales, los equipos de higiene ponen en marcha un programa que incluye varias facetas, desde la vigilancia hasta la intervención.
+Los campos de aplicación de este tipo de programa de control son amplios e incluyen todas las especialidades médicas y quirúrgicas y las diferentes profesiones hospitalarias. Requiere una colaboración del cuerpo médico y demás personal sanitario, de la administración y la participación de la microbiología y la farmacia hospitalaria, así como del servicio de salud laboral.
+Este programa incluye un epígrafe sobre el control de las principales infecciones nosocomiales, una parte de formación continuada, un plan de intervención en caso de epidemia y un control del consumo de antibióticos y el seguimiento de las resistencias. Además, es importante subrayar la necesidad de establecer recomendaciones basadas en los datos de la literatura y adaptadas a los problemas específicos de cada especialidad.
+Se debe subrayar aquí la importancia del programa de control en la lucha contra las infecciones nosocomiales. Este epígrafe, a menudo olvidado, subestimado por el cuerpo médico, desempeña un importante y primordial papel en el control del riesgo infeccioso. Los objetivos del control son:•informar al clínico de la aparición de episodios infecciosos poco comunes, por su frecuencia, su naturaleza o incluso su gravedad;•permitir establecer comparativas a largo plazo en el servicio y con otras unidades con la misma actividad. Se trata probablemente de un buen indicador (entre otros) de la implicación de los sanitarios en el control del riesgo infeccioso.
+Para empezar, se revisarán los principales campos de acción de la higiene hospitalaria y se abordarán después algunas especificidades de la pediatría.
+
+
+- PRINCIPIOS GENERALES DEL CONTROL DEL RIESGO EN MEDIO HOSPITALARIO
+
+El control del riesgo infeccioso y las medidas de prevención están dictadas por los modos de transmisión de los agentes patógenos, los cuales se distribuyen en tres categorías: transmisión por contacto manual, transmisión aérea o transmisión por gotitas .
+Las medidas para limitar la transmisión cruzada son de intensidad creciente. El elemento básico sigue siendo las precauciones estándar, que consisten en respetar:•la higiene de las manos antes del contacto con el paciente o su entorno inmediato;•el uso de guantes cuando haya contacto con líquidos biológicos;•el uso de mascarilla y/o blusa en caso de curaciones contaminantes.
+A las precauciones estándar se añaden las precauciones complementarias, que tienen como objetivo mejorar el comportamiento de los sanitarios. Se establecen tras identificar a los pacientes portadores de agentes patógenos particulares (por ejemplo, las bacterias multirresistentes).
+
+
+- PRECAUCIONES ESTÁNDAR
+
+Todos los agentes patógenos son transmisibles, independientemente de su naturaleza (vírica, fúngica o bacteriana, etc.), su virulencia o su resistencia a los antiinfecciosos. Este riesgo de transmisión interhumana, ambiental y a través de las manos del personal, justifica la instauración y la incitación al respeto de las precauciones estándar. Cada paciente y sanitario, ya sea portador o esté infectado por una bacteria sensible o resistente, es un reservorio potencial y cada paciente es un receptor potencial.
+Las precauciones estándar corresponden, por lo tanto, a las precauciones que hay que respetar en cada momento y en todas las situaciones. Se basan en:
+
+
+-- PRECAUCIONES EN RELACIÓN CON EL CONTACTO
+
+La transmisión de algunos agentes patógenos que se realiza a través de las manos del personal sanitario a partir del paciente o de su entorno, sobre todo en caso de situaciones particulares, justifica la aplicación de recomendaciones complementarias de tipo «contacto».
+Estas precauciones se añaden a las precauciones estándar, afectan a los agentes patógenos de alto potencial de transmisión como el Staphylococcus aureus resistente a meticilina (SARM), el enterococo resistente a la vancomicina (ERV), las enterobacterias secretoras de betalactamasa de amplio espectro y Clostridium difficile.
+Implican:
+
+
+-- PRECAUCIONES EN RELACIÓN CON LAS GOTITAS
+
+Se recomiendan las precauciones de tipo gotitas cuando el agente patógeno es de tamaño superior a 5 μm. En estas condiciones, a los riesgos ligados al entorno y a las manos del personal médico se añade el riesgo ligado a las gotitas respiratorias. El agente patógeno puede transmitirse, por lo tanto, por las expectoraciones a una distancia de 1,5-3 m del reservorio, por lo que en la zona de riesgo se recomienda, como complemento a las precauciones estándar, el uso de mascarilla quirúrgica. Estas precauciones afectan a los siguientes agentes patógenos: Neisseria meningitidis, Bordetella pertussis, virus de la gripe, adenovirus, Haemophilus influenzae, Mycoplasma pneumoniae, virus de la rubéola y virus respiratorio sincitial (VRS).
+
+
+-- PRECAUCIONES EN RELACIÓN CON EL AIRE
+
+Se recomiendan las precauciones referentes al aire cuando el agente patógeno es de tamaño inferior a 5 μm. En estas condiciones, se recomienda aislar al paciente en una habitación con un tratamiento de aire con una presión negativa y un nivel de renovación del aire del orden de 6-12 volúmenes por hora. La habitación tiene que disponer de una cámara de entrada. Se recomienda el uso de la mascarilla de tipo FFP2 (mascarilla de protección respiratoria) para el personal médico y las visitas. Estas precauciones afectan a la tuberculosis , el sarampión, la varicela y la gripe. Todo el personal médico debe llevar la mascarilla, independientemente de su estado inmunitario.
+
+
+-- AISLAMIENTO DE TIPO PROTECTOR
+
+Este aislamiento se dirige a los pacientes inmunodeprimidos y principalmente a los pacientes neutropénicos. Consiste en proteger a los niños de los riesgos de transmisión procedentes de los sanitarios y de las visitas y el entorno. A los riesgos habituales se añade el riesgo de infecciones fúngicas y, sobre todo, aspergilares .
+En este caso, se recomienda hospitalizar al paciente en habitación individual, implantar las precauciones complementarias y el uso sistemático de la mascarilla. Algunas situaciones (neutropenia intensa, riesgo aspergilar) justifican la hospitalización en habitación individual con cámara de entrada y tratamiento de aire. El nivel de tratamiento de aire en esta situación específica incluye un filtrado particular (filtro de alta eficacia), una presión positiva y una renovación del aire de un volumen equivalente a 20 volúmenes por hora .
+
+
+- MÉTODOS E IMPORTANCIA DEL CONTROL
+
+La vigilancia es la piedra angular del control del riesgo infeccioso. Esta vigilancia efectuada en tiempo real permite al equipo de prevención del riesgo infeccioso seguir la evolución del control del riesgo y detectar posibles epidemias. Consiste en el cálculo de la relación de un numerador representado por las infecciones y un denominador representado por la población expuesta al riesgo. Una política de vigilancia y de retroinformación regular parece ser un importante elemento de éxito de un programa de control del riesgo infeccioso , , .
+
+
+- PARTICULARIDADES PEDIÁTRICAS
+
+Antes de describir los problemas y los medios específicos de lucha contra las infecciones nosocomiales, es importante subrayar algunos puntos relativos a la práctica de la prevención del riesgo infeccioso en pediatría , .
+
+
+-- DIFERENTES RIESGOS EN FUNCIÓN DE LA EDAD Y DEL TERRENO
+
+El niño está expuesto a diferentes riesgos infecciosos en función de la edad. No se puede hablar de control del riesgo en pediatría sin mencionar las especificidades en función de la edad. La pediatría no es por sí misma una especialidad, sino la suma de varias especialidades. Así como el niño mayor está expuesto a los mismos riesgos que el adulto, el lactante está más expuesto al riesgo viral, sobre todo en el período invernal, mientras que el recién nacido, cuyo riesgo es variable en función de su peso al nacimiento, está más expuesto a los riesgos ambientales.
+El riesgo de aparición de infecciones nosocomiales en el niño depende no sólo de la exposición a un reservorio determinado (riesgo existente a cualquier edad), sino también de la madurez del sistema inmunitario y de la existencia o no de una protección materna residual.
+Al contrario que el adulto, el niño presenta con menor frecuencia comorbilidades. La ausencia de estas comorbilidades le protege de la aparición y de la intensidad de algunas infecciones nosocomiales. Las consecuencias en términos de mortalidad y morbilidad suelen ser menos importantes que en el adulto.
+
+
+-- DIFERENTES RIESGOS SEGÚN EL SERVICIO DE INGRESO
+
+Como en el adulto, el riesgo de infección nosocomial aumenta con las «rupturas de barreras naturales»; este riesgo es por lo tanto mucho mayor en las unidades de cuidados intensivos y en cirugía que en el servicio de pediatría general. No obstante, una de las especificidades del mundo pediátrico es la presencia de otras fuentes de infecciones nosocomiales representadas por las personas llamadas «externas» que son los padres, los hermanos y los acompañantes, como los profesores, los payasos y otros animadores. Estas diferentes personas aumentan el riesgo de transmisión intrahospitalaria, sobre todo durante los períodos estacionales en los cuales estas personas pueden transportar agentes patógenos circulantes comunitarios hacia el hospital.
+
+
+-- ALGUNAS ENFERMEDADES PREDOMINAN, MIENTRAS QUE OTRAS SON MUCHO MÁS RARAS
+
+La particularidad del mundo pediátrico y fundamentalmente la del recién nacido es el predominio de las infecciones víricas en período epidémico o no. Dada la diversidad y las múltiples situaciones de intercambios, los niños hospitalizados están más expuestos a los riesgos de infección vírica. Así mismo, algunas enfermedades parecen ser menos frecuentes que en el adulto. Mientras que los niños, como los adultos, están expuestos al reservorio hídrico y al riesgo de legionelosis, esta enfermedad es muy rara en el niño. Estas nociones no carecen de consecuencias y se piensa que deberían tenerse en cuenta en el control del riesgo infeccioso en pediatría.
+Es indispensable subrayar, independientemente de la gravedad de la enfermedad por la que el niño está hospitalizado, la necesidad de mantener la relación social, de estimularlo y garantizar su desarrollo socioafectivo. Esta necesidad expone al niño a numerosas personas y situaciones que es indispensable controlar con el fin de no reemplazar un riesgo por otro. Reglas que hay que establecer en el medio pediátrico •Los infectados sintomáticos y asintomáticos son reservorios potenciales; la excreción viral en el niño es prolongada•El respeto de las precauciones estándar es indispensable. Esta necesidad es aún mayor en el período invernal, cuando la prevalencia de estado de portador y de infecciones víricas es muy elevada•Aislamiento geográfico: esta noción, admitida en algunas unidades (reanimación), resulta indispensable en pediatría, sobre todo porque los vectores de infecciones víricas no son sólo los niños infectados sintomáticos, sino también los infectados en período de incubación, así como los portadores llamados sanos•Vacunación: en pediatría, las vacunas deben ser obligatorias para todo el personal médico (gripe, sarampión, varicela, tos ferina). También deben administrarse a los padres jóvenes a la salida de la maternidad si no se ha hecho antes•Las visitas, sean quienes sean (familia, acompañantes, etc.) deben ser imperativamente integradas en esta política. Es fundamental informar a los padres (sobre todo en el período invernal) acerca de los riesgos de transmisión vírica. Debe prohibirse a los miembros de la familia (padres o hermanos) cualquier visita en caso de que presenten una sintomatología de aspecto infeccioso. Además, el respeto de las precauciones estándar debe ser una regla absoluta•Las actividades comunes deben estar reguladas y condicionadas por los riesgos no sólo de transmisión sino también de adquisición 
+
+
+- EPIDEMIOLOGÍA DE LAS INFECCIONES NOSOCOMIALES EN PEDIATRÍA
+
+La encuesta de prevalencia de 2001 en Francia que incluyó 21.596 niños hospitalizados demostró que el 2,4% de los niños hospitalizados presentaba al menos una infección activa. Esta prevalencia fue del 1,3% en los recién nacidos, mientras que el 3,5% de los niños o adolescentes estaba infectado .
+Así mismo, la prevalencia variaba en función del tipo de servicio. En este estudio, fue del 13,2% en hematología, variable en reanimación: 7,8% en neonatología, 16,2% en los niños y 30,8% en reanimación cardíaca. Igualmente, el 1,9% de los niños hospitalizados en cirugía estaba infectado, de ellos el 2,4% estaba hospitalizado en ortopedia, el 0,7% en cirugía infantil y el 8,1% en neurocirugía.
+La prevalencia en neonatología dependía en este estudio del tipo de servicio de ingreso: el 0,2, 5,5 y 7,7% de los recién nacidos de maternidad, cirugía y reanimación, respectivamente, fueron considerados como infectados.
+En pediatría, la tasa global de incidencia de infecciones nosocomiales es de 8,8-17,5 infecciones por 1.000 días-pacientes ; no obstante, estas tasas por foco de infección, exceptuadas las infecciones ligadas a los catéteres, siguen siendo inferiores a las de los adultos.
+Es importante mencionar la relación entre incidencia y peso del recién nacido. En una revisión general de 2008, los autores subrayaron las variaciones de incidencia, en función de la edad, de las neumonías adquiridas bajo ventilación mecánica y de las infecciones ligadas al catéter .
+
+
+-- INCIDENCIA EN REANIMACIÓN
+
+En reanimación predominan dos puertas de entrada: pulmonar e infección ligada al catéter. En ambos casos, la incidencia varía en función del peso del recién nacido y de su término. En el estudio Néocat del Comité Local de Lutte Contre les Infections Nosocomiales (CLLIN) de París Norte, la incidencia de las infecciones ligadas a los catéteres era superior a 30 casos/1.000 días-catéteres en los recién nacidos con peso inferior a 750 g, mientras que sólo era de 14 casos/1.000 días-catéteres para aquéllos con un peso entre 750 y 1.000 g. En general e independientemente de los estudios realizados en Europa o en Norteamérica, la incidencia global de las infecciones nosocomiales en reanimación pediátrica oscila entre 9 y 12 infecciones/1.000 días de hospitalización .
+
+
+-- INCIDENCIA EN CIRUGÍA
+
+La incidencia de las infecciones nosocomiales en cirugía varía en función de la especialidad quirúrgica. En el estudio de Onen et al , los autores demostraron una incidencia del 2,6% en caso de cirugía del píloro, del 7,3% en caso de cirugía de gastrostomía y del 50% en caso de cirugía oncológica.
+En relación con la neurocirugía, la incidencia de las meningitis nosocomiales es variable según el tipo de cirugía, entre el 0,8 y el 1,5% poscraneotomía, mientras que puede alcanzar el 17% en caso de cirugía lumbar.
+
+
+- FOCOS Y AGENTES PATÓGENOS
+
+En un estudio de Raymond et al , los autores subrayaban la heterogeneidad de las puertas de entrada en función del tipo de servicio de ingreso. Así, en este trabajo, en pediatría general, la puerta de entrada más frecuentemente observada fue intestinal, en el 76% de los casos, mientras que en reanimación, las infecciones pulmonares representaron más del 50% de las infecciones nosocomiales. En hematología oncológica y neonatología predominaron las bacteriemias primarias, que supusieron el 50-71% de las infecciones nosocomiales.
+En la encuesta de prevalencia de 2001 , se demostró el predominio de las infecciones oculares, las bacteriemias y las infecciones respiratorias en el recién nacido, que representaron, respectivamente, el 19, 19 y 14% del conjunto de las infecciones. En el niño y el adolescente, las tres puertas de entrada más frecuentes fueron la respiratoria, la urinaria, y la digestiva en, respectivamente, el 19, 13 y 11% de los casos.
+En relación con los agentes patógenos, la encuesta de prevalencia de 2001 demostró el predominio de los grampositivos, que representaron el 50,4% de los patógenos, con un predominio de los estafilococos coagulasa-negativos (21,9% de los agentes patógenos aislados). Es importante observar que Staphylococcus aureus supuso el 18,6% de las infecciones por grampositivos y que el 26,7% de ellos eran SARM. En nuestra reciente experiencia (datos personales no publicados), los SARM representaban el 10% de los S. aureus aislados de bacteriemias nosocomiales aparecidas entre 2007 y diciembre 2010 en el centro hospitalario universitario (CHU) Necker- Enfants Malades.
+Entre las enterobacterias (que representaban el 22% de los agentes patógenos aislados), predominaba la especie Escherichia coli. Pseudomonas aeruginosa, Candida albicans y rotavirus se aislaron respectivamente en el 10, 4 y 4% de las infecciones nosocomiales .
+Es importante observar el aumento de las infecciones ligadas a Candida albicans y C. parapsilosis en el niño. Candida es el segundo agente patógeno aislado de los hemocultivos en Estados Unidos y el 50% de las candidiasis se diagnostica en el niño. Su incidencia en el niño es de 50 casos por cada 100.000 ingresos. Este aumento en el niño está ligado a la difusión de C. parapsilosis en hematología y neonatología , , , .
+
+
+-- BACTERIEMIAS
+
+Las bacteriemias representan en total el 20% de las infecciones asociadas a la atención pediátrica, pero pueden alcanzar la cifra del 36% en pediatría y del 45% en neonatología . La incidencia es de 1,1 casos/1.000 pacientes ingresados en pediatría general y oscila entre 2 y 15 casos/1.000 días-catéter en reanimación. Esta incidencia varía en función del tipo de catéter (más frecuente en caso de catéter de Hickman en comparación con las cámaras implantables) , .
+Entre las bacterias detectadas en las infecciones ligadas a los catéteres, es importante subrayar el predominio de los cocos grampositivos y, entre ellos, Staphylococcus coagulasa-negativos, que representan hasta el 58% de las septicemias nosocomiales en reanimación pediátrica.
+
+
+--- NEUMONÍAS ADQUIRIDAS BAJO VENTILACIÓN MECÁNICA
+
+Las neumonías adquiridas bajo ventilación mecánica representan entre 2,5 y 9 casos/1.000 días de ventilación mecánica. Su incidencia es variable y en neonatología depende no sólo del peso del recién nacido, sino también de su término. Es importante observar que el método diagnóstico utilizado en pediatría es variable de un centro a otro, lo que dificulta la comparación entre diferentes unidades .
+Los agentes patógenos detectados con más frecuencia son S. aureus, P. aeruginosa y enterobacterias.
+
+
+--- INFECCIONES URINARIAS
+
+Las infecciones urinarias representan el 6-18% de las infecciones nosocomiales en pediatría general, con una incidencia de 6-7,8 casos/1.000 ingresos. Los principales patógenos responsables son E. coli (39% de los casos), P. aeruginosa (12%) y Enterococcus spp. (12%). Estas infecciones están relacionadas con el sondeo urinario y su duración .
+
+
+--- GASTROENTERITIS VÍRICAS
+
+Las gastroenteritis víricas representan, en función de los períodos del año, hasta el 76% de las infecciones asociadas a la atención pediátrica. El agente patógeno aislado con más frecuencia es el rotavirus, sobre todo en invierno. No obstante, se observan nuevas epidemias de adenovirus y de norovirus , , .
+
+
+- INFECCIONES VÍRICAS
+
+La frecuencia de los virus en las infecciones nosocomiales no está suficientemente estudiada. Parece estar en crecimiento y afecta a muchas poblaciones de pacientes hospitalizados. Así como en la mayoría de los casos su sintomatología es benigna, las infecciones víricas pueden ser responsables de sobremortalidad y sobremorbilidad, sobre todo en los pacientes más frágiles (niños, inmunodeprimidos). Además, son responsables de grandes epidemias hospitalarias que originan, en algunas situaciones, una interrupción de la actividad .
+La incidencia y la prevalencia hospitalarias son el reflejo de la actividad vírica comunitaria. Están estimadas en el 5-35% del conjunto de las infecciones asociadas a los cuidados y la prevalencia varía en función de la estación del año: pueden alcanzar dos tercios de las infecciones asociadas a los cuidados en el período invernal . Se estima que son cinco veces más frecuentes que en el adulto. No obstante, estas cifras son ampliamente inferiores a la realidad. Estos datos se basan en la definición habitual de las infecciones nosocomiales (aparecidas a partir de 48 horas de hospitalización), lo que no corresponde con la realidad de las duraciones de incubación de las principales infecciones víricas. Además, a diferencia de las infecciones bacterianas, existen muchas formas latentes y los pacientes infectados asintomáticos representan un reservorio potencial que contribuye a la diseminación de la epidemia.
+Estas infecciones afectan no sólo a los recién nacidos y a los lactantes, sino también a los niños portadores de una enfermedad crónica como la mucoviscidosis o el asma y a los niños inmunodeprimidos .
+
+
+- GENERALIDADES
+
+Los virus responsables de las infecciones comunitarias y nosocomiales son numerosos. Si el control de la difusión en la ciudad es difícil, incluso imposible (excepto en caso de vacunación masiva), el control de las epidemias en medio hospitalario es posible y se basa en algunas reglas fundamentales.
+Ante cualquier riesgo sanitario es indispensable identificar el reservorio potencial, el vector o vectores posibles y la población receptiva al riesgo. Estos tres factores permiten responder a las siguientes preguntas:•¿a quién debo aislar?;•¿qué medidas hay que poner en marcha?;•¿quiénes son los pacientes de riesgo?
+Los virus son múltiples y sus modos de transmisión, diferentes y variados. La elevada infectividad de los virus contribuye a la diseminación rápida de las infecciones en los servicios donde los pacientes receptivos están hospitalizados.
+Las unidades pediátricas están particularmente expuestas al riesgo de epidemia vírica, sobre todo en período estacional. En pediatría, las infecciones víricas representan hasta más del 30% de las infecciones nosocomiales y el VRS sigue siendo el más frecuente responsable de epidemias intrahospitalarias. Hay que recordar que las epidemias hospitalarias son concomitantes con la difusión en la comunidad.
+
+
+-- ALGUNAS NOCIONES
+
+Al contrario que en las infecciones bacterianas o fúngicas, el personal médico y sanitario está particularmente expuesto al riesgo de infección vírica. Pueden ser los vectores no sólo dentro de la estructura hospitalaria, sino también en su círculo familiar. Además, en el mundo pediátrico es importante subrayar el riesgo antes citado que representan los padres y las visitas.
+La transmisión es la consecuencia de un portador transitorio (ropa, manos) o crónico; puede estar provocada por portadores sintomáticos o no. De hecho y como ejemplo, la excreción viral del VRS aparece como media durante 6,7 días y puede llegar hasta 21 días, lo que explica por qué niños asintomáticos o curados pueden ser contaminantes . La excreción vírica parece ser más larga en los niños inmunodeprimidos. Así mismo, en el período epidémico del VRS, hasta el 60% de los sanitarios pueden ser portadores .
+
+
+-- MEDIDAS GENERALES DE LUCHA CONTRA EL RIESGO VIRAL NOSOCOMIAL
+
+Dado el número de contactos repetidos con los pacientes, el único modo de prevención es respetar escrupulosamente las precauciones estándar. La medida principal sigue siendo el respeto de la higiene de las manos realizando una fricción hidroalcohólica lo más cerca posible del paciente y en caso de contacto con su entorno. Es obligatorio el uso de una mascarilla en caso de contacto con un paciente sintomático. El aislamiento geográfico (habitación individual) es necesario en caso de riesgo de transmisión aérea. La vacunación es la única medida (cuando está disponible) que permite evitar la enfermedad en el paciente.
+
+
+-- MEDIDAS EXCEPCIONALES DE LUCHA CONTRA EL RIESGO VIRAL NOSOCOMIAL
+
+El control de algunas epidemias requiere en ocasiones una reagrupación (cohorting) de pacientes sintomáticos para aislar geográficamente a los pacientes sintomáticos y sus cuidadores de los pacientes asintomáticos. Esta medida, cuyo objetivo es reducir al máximo el riesgo de transmisión, requiere en ocasiones la habilitación de una tercera zona de aislamiento que consiste en aislar a los pacientes contactos asintomáticos durante el período de incubación. Esta situación, difícil de llevar a cabo y costosa, requiere un rigor extremo en el respeto de las precauciones estándar. Sin embargo, esta práctica ha demostrado ser eficaz en la lucha contra las epidemias por VRS y se lleva a cabo habitualmente en los hospitales pediátricos .
+
+
+-- VECTORES DE LAS INFECCIONES NOSOCOMIALES VÍRICAS
+
+Son posibles varios vectores en función del tipo de infección. Como en las infecciones bacterianas, los modos de transmisión pueden ser: aéreo (varicela, sarampión), por gotitas (VRS, gripe) o por contacto (todos los virus) a través de las manos.
+Independientemente del tipo de transmisión teórica, es importante precisar que la transmisión se incrementa si no se respeta la higiene de manos y por el riesgo ambiental (superficie inerte).
+El personal médico, debido a la multiplicidad de los contactos y a la variabilidad de los pacientes hospitalizados, son los principales vectores de las infecciones víricas. Sin embargo, el paciente (sintomático o no) puede también ser el origen de una transmisión, que es directa en caso de una hospitalización en la que se comparte habitación con un paciente sano. Así mismo, el entorno puede ser origen de una transmisión indirecta. Un paciente o el personal médico pueden infectarse o transmitir el virus a partir de una superficie inerte con partículas virales, depositadas por un paciente o por el personal médico sintomático. Las actividades comunes (colegio, sala de juegos, etc.) participan activamente en la transmisión e incrementan el riesgo.
+
+
+-- POBLACIONES EXPUESTAS AL RIESGO
+
+Cualquier persona no inmunizada está expuesta al riesgo de infección vírica. Dos poblaciones están particularmente expuestas al riesgo:•los pacientes no inmunes, población frecuente en pediatría;•los pacientes que han perdido su inmunidad debido a la presencia de una inmunosupresión ligada a su enfermedad o por los tratamientos empleados.
+
+
+-- INFECCIONES VÍRICAS DE TRANSMISIÓN POR GOTITAS
+
+El modo de transmisión de estos virus es respiratorio; se produce mediante las gotitas de Pflügge, de tamaño superior a 5 μm. Estas gotitas, presentes en las vías respiratorias superiores y en la orofaringe de las personas infectadas (sintomáticas o no), se transmiten durante el esfuerzo de la tos o el estornudo y dispersan las partículas infectantes. El tamaño de este tipo de gotitas explica el modo de transmisión y las medidas necesarias para controlar este riesgo. Las gotitas infectantes se dispersan en un perímetro cercano al paciente que no supera un radio de 3 m.
+Los principales virus que presentan esta clase de riesgo son los adenovirus, el VRS, el virus de la gripe y de la parainfluenza, los rinovirus y los coronavirus.
+
+
+--- VIRUS DE LA GRIPE
+
+Los virus de la gripe A y B son responsable de grandes epidemias comunitarias y susceptibles de diseminarse en la población hospitalaria. Las poblaciones expuestas al riesgo son las personas no inmunizadas, aunque con frecuencia los síntomas son benignos.
+Destacan dos poblaciones de riesgo:•los pacientes con riesgo de padecer una enfermedad grave, como los inmunodeprimidos y los pacientes con insuficiencias cardíaca y respiratoria;•las personas expuestas a un mayor riesgo de adquisición por la multiplicidad de los posibles contactos, como los sanitarios hospitalarios y las personas que viven en comunidad (guarderías).
+La prevención incluye esencialmente la vacunación de las poblaciones de riesgo y, en caso de epidemia, la implantación de medidas protectoras que permitan respetar las precauciones estándar (uso de mascarilla, higiene de las manos).
+En un reciente estudio efectuado durante la epidemia de gripe H1N1, los autores destacaban que sólo el 50% de los hospitales pediátricos intentaba identificar a los niños de riesgo que requirieran vacunación . Así mismo, un estudio más antiguo demostró que el 25% de los niños que contrajeron una gripe nosocomial habían sido hospitalizados el mes anterior al episodio y podrían haberse beneficiado de una vacunación previa .
+
+
+--- VIRUS RESPIRATORIO SINCITIAL
+
+En el origen de las epidemias invernales, los pacientes más expuestos siguen siendo los niños. En el período invernal, esta enfermedad puede ser responsable del 45% de los ingresos por insuficiencia respiratoria en pediatría. Esta infección es estacional y aparece generalmente de noviembre a marzo. Se transmite por vía directa o indirecta a través de las superficies contaminadas. Los portadores asintomáticos (40% de los sanitarios durante el período de riesgo) pueden ser también el origen de la transmisión.
+Las medidas de prevención se basan en el aislamiento de los pacientes (niños) sintomáticos y en la limitación de las visitas durante el período de riesgo. La piedra angular de la prevención sigue siendo el respeto de las medidas de precaución estándar (uso de mascarilla, higiene de las manos, uso de guantes). Se debe administrar un anticuerpo monoclonal por vía intramuscular a los prematuros y a pacientes con insuficiencia cardíaca. Para esta indicación y en período epidémico, algunos autores han subrayado la importancia de proceder sistemáticamente al reagrupamiento (cohorting). Consiste en aislar a los pacientes sintomáticos en una unidad con personal dedicado. En este contexto, destacan dos limitaciones: organizativa, debida a la falta de una suficiente zona geográfica, y humana, por falta de personal. Como el riesgo de transmisión se debe no sólo a los pacientes sintomáticos sino también a los pacientes asintomáticos, cabe la posibilidad, en período epidémico, de que las medidas fracasen .
+
+
+--- ADENOVIRUS
+
+A diferencia de los demás virus de transmisión respiratoria y orofecal, la aparición de un caso de infección por adenovirus no es obligatoriamente secundaria a una transmisión exógena. Con frecuencia, la aparición de una infección está ligada a una reactivación de origen endógeno. Existen 40 serotipos diferentes que pueden ser responsables de neumonías, queratoconjuntivitis y diarreas. Pueden aparecer infecciones graves en los pacientes trasplantados de un órgano sólido o de médula .
+La particularidad (en relación con la higiene) del adenovirus es su resistencia a los detergentes desinfectantes disponibles.
+Otros virus de transmisión por gotitas son los rinovirus y coronavirus, responsables del catarro simple, cuyo modo de transmisión justifica el uso de mascarilla en caso de síntomas o en caso de contacto con un paciente sintomático.
+
+
+-- VIRUS DE TRANSMISIÓN «AÉREA»
+
+La particularidad de los virus que pertenecen a esta clase de riesgo proviene del hecho de que el tamaño de las gotitas es inferior a 5 μm, lo que permite, al emitirse, que se dispersen a distancias mucho mayores que en el caso de los descritos previamente. En este grupo, es indispensable el aislamiento geográfico y todo paciente infectado debe ser aislado en una habitación con la puerta cerrada.
+A esta clase de riesgo pertenecen dos virus: el virus de la varicela-zóster y el virus del sarampión.
+
+
+--- VIRUS DE LA VARICELA-ZÓSTER
+
+Este virus es responsable de manifestaciones que raramente se complican en el niño. La incidencia de neumonías, encefalitis y fallecimientos es mucho mayor en la población adulta en comparación con la población pediátrica. Otras poblaciones están expuestas a manifestaciones graves, como las mujeres embarazadas y los pacientes inmunodeprimidos. La contagiosidad de este virus es extremadamente elevada, con una tasa de ataque del 80% en los miembros de una misma familia. En medio hospitalario, el riesgo de transmisión cruzada parece ser menor . Son posibles dos modos de transmisión: aérea y cutánea. La transmisión aérea es peculiar debido a que el período de riesgo comienza 48 horas antes de los primeros signos cutáneos. Además, el aislamiento geográfico debe mantenerse hasta la desaparición de las lesiones vesiculosas (y la aparición de lesiones costrosas).
+El control del riesgo incluye el aislamiento de los pacientes sintomáticos, mediante la identificación de los sanitarios no inmunizados con el fin de ofrecerles la vacunación. La vacuna disponible es una vacuna de virus vivos atenuados, por lo que su uso está contraindicado en inmunodeprimidos .
+En caso de contacto con un paciente con varicela, se puede recomendar, en las primeras 96 horas tras el contacto, la administración de una inyección de inmunoglobulinas específicas que permita atenuar la enfermedad. En el niño, la vacunación postexposición administrada en las 72 horas siguientes al contacto permite obtener cierta protección, pero en la actualidad el interés de esta vacunación postexposición no ha sido demostrado. El estudio epidemiológico tras un contacto con un paciente con varicela debe tener en cuenta a los pacientes contactos y a los sanitarios no inmunizados. Durante el período de incubación, éstos últimos deben ser separados de las unidades con pacientes inmunodeprimidos; los pacientes contactos no inmunizados deben mantenerse aislados durante el período de incubación.
+
+
+--- VIRUS DEL SARAMPIÓN
+
+El virus del sarampión está en aumento en Francia desde 2008. Los recientes datos epidemiológicos muestran que existen comunidades de niños y adolescentes insuficientemente vacunados propicias a la aparición de focos epidémicos con posibilidad de transmisión de sarampión grave a personas de riesgo. El sarampión es una enfermedad con un fuerte potencial epidémico, ya que es muy contagiosa. Esta enfermedad puede ser grave, responsable de encefalitis (sobre todo en el adulto, 1/1.000), de neumonía (sobre todo en el niño, del 2-7%) y de fallecimiento. La transmisión se efectúa por vía aérea a partir de secreciones nasofaríngeas. La contagiosidad comienza 5 días antes de la erupción cutánea y se extiende hasta al menos 5 días tras la erupción.
+El control del riesgo consiste en respetar las precauciones estándar durante el tratamiento de un paciente con sintomatología respiratoria (cf síntomas durante la fase invasiva) o en caso de erupción cutánea en un paciente no vacunado o insuficientemente vacunado.
+En caso de contactos cercanos a un caso clínico o confirmado biológicamente, se recomienda administrar una dosis de vacuna.
+
+
+-- VIRUS DE TRANSMISIÓN OROFECAL
+
+El modo de transmisión en medio hospitalario es fundamentalmente a través de las manos, que se contaminan de forma directa a partir de las heces o indirecta por la contaminación del entorno (objetos o superficies sucias [bateas, termómetros, mangos de las puertas]). Son posibles otros modos de contaminación, como el agua y la alimentación, pero son menos frecuentes en el hospital. La tasa de ataque de estos virus es elevada, sobre todo en las unidades de larga estancia y pediátricas.
+En los siguientes epígrafes se describen los principales virus en medio hospitalario.
+
+
+--- ROTAVIRUS
+
+Es una causa importante de gastroenteritis nosocomial en el niño; la tasa puede alcanzar hasta el 27% de los niños hospitalizados . En este caso particular, el riesgo de transmisión está ligado a los pacientes sintomáticos, asintomáticos y a los sanitarios, y está debido sobre todo a la duración de la excreción viral y de la supervivencia en el entorno; este riesgo persiste mucho tiempo tras la curación clínica. En un estudio realizado en pediatría, el impacto de la infección nosocomial por rotavirus estaba estimado en una prolongación de la duración de la estancia de 4-9 días .
+
+
+--- NOROVIRUS
+
+Los norovirus son responsables de epidemias hospitalarias cada vez más frecuentes y cuyo modo de transmisión, debido a la frecuencia de los vómitos, incluye las manos y una transmisión «por gotitas». Las epidemias nosocomiales son principalmente invernales y presentan una prevalencia aproximada del 10%. En Estados Unidos, el 90% de las epidemias de gastroenteritis cuyo agente infeccioso no se identifica se atribuye a los norovirus. Tras un contacto con un paciente sintomático, el período de incubación es corto, no superior a 50 horas. La prevención consiste en identificar y aislar geográficamente al paciente con una diarrea de características infecciosas sin esperar al diagnóstico etiológico y respetar las precauciones estándar con el paciente y su entorno. El control de las epidemias resulta más difícil, ya que el reagrupamiento geográfico de los pacientes (cohorting) con frecuencia es necesario y se requiere una particular atención en el mantenimiento del entorno , .
+Otros virus comparten este modo de transmisión, como los enterovirus y los virus de la hepatitis A y E. Aunque el enterovirus se detecta con frecuencia, la prevalencia de las hepatitis A y E parece menor en los países industrializados. La identificación de los pacientes sintomáticos y el respeto de la higiene de las manos permiten controlar este riesgo (Cuadro 1 ).
+
+
+- INFECCIONES BACTERIANAS
+
+Como el adulto, el niño representa un reservorio de bacterias multirresistentes. Mientras que en Francia la prevalencia de estado de portador de enterobacterias secretoras de betalactamasa de amplio espectro es del 6%, según la experiencia de estos autores esta prevalencia es del 14% en los niños ingresados en pediatría general en el CHU Necker- Enfants Malades (datos personales). La frecuencia de portador en esta población pediátrica no parece sorprendente. Debido a la difusión de las bacterias multirresistentes en la ciudad y al papel de la presión de selección antibiótica en la amplificación del fenómeno, puede explicarse esta prevalencia en la población pediátrica.
+El niño y el lactante que viven en grandes comunidades y que toman múltiples antibióticos, sobre todo en período invernal y en la primera infancia, parecen estar particularmente expuestos a este riesgo.
+El control del riesgo de difusión de las bacterias multirresistentes (BMR) en medio hospitalario se basa, como en el adulto, en respetar las precauciones estándar, en mejorar el cumplimiento de la higiene de manos y en la implantación de medidas complementarias en los niños portadores o infectados.
+En el medio pediátrico, se plantea un problema ligado al aislamiento. La implantación de precauciones complementarias no sólo consiste en aislar al niño geográficamente, sino también en limitar las actividades comunes, lo que tiene consecuencias en el desarrollo y estimulación del niño y resulta difícilmente valorable.
+
+
+-- OTROS RIESGOS
+
+--- TOS FERINA
+
+Bordetella pertussis es una bacteria cuya transmisión se realiza por gotitas. Se han descrito en la literatura numerosas epidemias. El lactante y sobre todo el recién nacido representan un riesgo particular. El control del riesgo incluye la generalización de la vacunación de los sanitarios .
+
+
+--- TUBERCULOSIS
+
+El niño, como el adulto, está expuesto al riesgo de tuberculosis. Sin embargo, la aparición de epidemia en medio hospitalario por lo general se debe a la presencia de un paciente adulto contaminante. Habitualmente se considera que los niños son poco tosedores y poco contaminantes. Sin embargo, como en el adulto, se recomienda mantener el aislamiento aéreo en los niños sintomáticos (tosedores), con pruebas de imagen sugestivas o incluso excretores .
+
+
+- POBLACIÓN Y SITUACIÓN ESPECÍFICA EN PEDIATRÍA
+
+-- RECIÉN NACIDO
+
+Se trata de una población de riesgo particular, debido a la inmadurez del sistema de defensas inmunitario y de las barreras naturales. Debido a su entorno (incubadora, reanimación), los recién nacidos están frecuentemente expuestos al riesgo de infección por bacterias ambientales. Dos puertas de entrada son frecuentes: las neumonías y las bacteriemias, con frecuencia ligadas a los catéteres. Staphylococcus coagulasa-negativos son los agentes patógenos aislados con más frecuencia en caso de infecciones demostradas .
+
+
+-- SERVICIO DE INGRESO DE URGENCIAS
+
+Debido a la diversidad y densidad de la carga de trabajo, los servicios de urgencias están particularmente expuestos al riesgo de transmisión cruzada, sobre todo viral en período invernal. En este caso, no existen soluciones milagrosas, pero, sin embargo, es imperativo garantizar una cobertura vacunal del personal médico y proponer:
+
+
+-- JUGUETES <XREF RID="BIB0225" REF-TYPE="BIBR">[45]</XREF>, <XREF RID="BIB0230" REF-TYPE="BIBR">[46]</XREF>, <XREF RID="BIB0235" REF-TYPE="BIBR">[47]</XREF
+
+Potencial riesgo infeccioso, el juguete se asemeja al riesgo ambiental. Los juguetes tienen como objetivo «humanizar» la hospitalización, pero hasta el 98% de ellos está contaminado en neonatología. Su retirada está incluida en el control de las epidemias.
+La supervivencia de los agentes patógenos en las superficies inertes explica el potencial papel de los juguetes en la aparición de las epidemias. El control del riesgo incluye la biolimpieza sistemática de los juguetes sólidos. En cuanto a los «peluches», según los autores, excepto los peluches individuales y con la condición de que se laven regularmente en la lavadora, debido al riesgo de contaminación, deben prohibirse en medio hospitalario.
+En caso de epidemia y con independencia del servicio afectado (reanimación, medicina, otros), se deben prohibir los juguetes y la sala de juegos hasta controlar la epidemia.
+
+
+-- TERAPIA CON ANIMALES <XREF RID="BIB0240" REF-TYPE="BIBR">[48]</XREF>, <XREF RID="BIB0245" REF-TYPE="BIBR">[49]</XREF
+
+Algunas situaciones clínicas requieren el inicio de una terapia con la ayuda de animales. Esta actividad, posible en medio hospitalario, debe estar estrechamente regulada. En la medida en que los animales pueden constituir un riesgo de transmisión viral o de mordedura, y por lo tanto de transmisión bacteriana (algunas especies están colonizadas por Staphylococcus aureus sensible a meticilina [SASM]), el control del riesgo consiste en:•identificar a los niños de riesgo y prohibirles el contacto con los animales;•vacunar y realizar un estricto seguimiento veterinario a los animales.
+
+
+-- VISITAS
+
+Como se ha comentado previamente, el riesgo de transmisión vírica y bacteriana ligado a las visitas, debido a la frecuencia y a la duración de los contactos, es mucho más importante que en el adulto. El control del riesgo consiste en:•sensibilizar mediante carteles a los padres en la primera visita sobre el riesgo y las consecuencias de adquirir un agente bacteriano;•reforzar las medidas, incluso alejar a los padres sintomáticos;•en relación con los hermanos, es importante subrayar que el riesgo de transmisión es elevado, por lo que no se recomienda su presencia, la cual, en el peor de los casos, debe estar muy controlada.
+
+
+- CONCLUSIÓN
+
+El control del riesgo infeccioso en pediatría, debido a su complejidad y a los múltiples factores implicados, no puede basarse en recomendaciones adultas, demasiado sencillas y por desgracia poco sensibles. Debe basarse estrictamente en la generalización de algunas medidas de prevención eficaces (como la vacunación), que deberían ser obligatorias.

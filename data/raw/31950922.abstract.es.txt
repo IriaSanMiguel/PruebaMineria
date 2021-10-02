@@ -1,0 +1,5 @@
+INTRODUCCIÓN: El estándar de tratamiento en el CVMI es la cistectomía radical, aunque la RTUv + RTP+ quimioterapia sistémica demuestra resultados comparables a la cistectomía radical en términos de control local y supervivencia global.
+Evaluar nuestros resultados en terapia trimodal en cáncer de vejiga músculo-invasivo que rechazan la cistectomía radical. MÉTODOS: Análisis retrospectivo de 23 pacientes con estadio T3 TVMI tratados con preservación vesical (RTUv +3 ciclos de gemcitabina, cisplatino+ 64Gy RTP adyuvante). KM estimados y log Rank fueron calculados.
+Nuestra serie de tratamiento preservación vesical demuestra que el uso de este tratamiento en pacientes debidamente seleccionados que no quieren cistectomía radical es apropiado.
+La mediana de seguimiento fue de 58 meses (15-158). El intervalo libre de enfermedad y la supervivencia global a los 5 anos fue de 56% y 64%, respectivamente. La Supervivencia cáncer especifica fue de 67%. No se objetivaron complicaciones grado 3 o más.
+

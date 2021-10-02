@@ -1,0 +1,5 @@
+La RV es un método de enseñanza de RCP capaz de mejorar los conocimientos teóricos y habilidades prácticas.
+Estudio experimental, analítico, transversal para analizar el aprendizaje en RCP a través de la RV, en el que los participantes fueron asignados aleatoriamente en grupo control (GC) y grupo RV (GRV).
+La nota del test fue de GRV fue 9,28 (DE 0,91) y el de GC 7,78 (DE 1,63) [diferencia de medias 1,49 (IC95% 0,96-2,02), p < 0,001]. El ritmo medio de las compresiones fue 97,5 (DE 9,7) compresiones/min para el GRV y 80,9 (DE 7,7) compresiones/min para el GC [diferencia de medias 16,6 (IC95% 15,0-18,2), p = 0,003]. La profundidad media fue 34,0 (DE 6,5) mm para el GRV y 27,3 (DE 4,9) mm para el GC [diferencia de medias 6,7 (IC95% 5,7- 7,8), p < 0,001].
+Analizar la eficacia de la realidad virtual (RV) en la formación en reanimación cardiopulmonar (RCP).
+

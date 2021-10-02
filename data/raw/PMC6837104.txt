@@ -1,0 +1,129 @@
+ADECUACIÓN DEL TRATAMIENTO DE LA OSTEOPOROSIS EN PREVENCIÓN PRIMARIA. ESTUDIO CUANTITATIVO Y CUALITATIVO
+
+
+- INTRODUCCIÓN
+
+La osteoporosis es un factor de riesgo de fracturas caracterizado por una serie de cambios óseos que comportan una disminución de la resistencia de los huesos y un incremento de la fragilidad ósea. La prevalencia de osteoporosis en España se calcula que es del 17,2% en las mujeres de entre 50 y 60 años, y este porcentaje aumenta hasta el 40% en las mujeres de entre 60 y 70 años de edad.
+Uno de los principales objetivos del abordaje de la osteoporosis es la identificación y el seguimiento de los pacientes con factores de riesgo de fractura por fragilidad y establecer medidas preventivas para evitarlas, , , . No se recomienda el cribado poblacional de la osteoporosis mediante el cálculo de la densidad mineral ósea (DMO), ya que no ha demostrado una relación coste-efectividad favorable. No obstante, se deben seleccionar aquellas pacientes que más se beneficien de recibir un tratamiento para prevenir las fracturas y disminuir el número de pacientes de bajo riesgo tratadas. Aunque no hay consenso unánime, las diferentes guías describen los factores que presentan una fuerte asociación con el riesgo de fractura, , , , , , . Actualmente se han desarrollado fórmulas y herramientas que estiman el riesgo de padecer una fractura osteoporótica en 10 años, como las recomendaciones de la Comunidad de Madrid, la escala FRAX de la OMS o el QFracture, desarrollado en el Reino Unido, , .
+En el tratamiento farmacológico de la osteoporosis existen también aspectos sin resolver. No está establecida la duración del tratamiento ni la repercusión real de los fármacos sobre la osteoporosis, , , , . Los bisfosfonatos son los fármacos de primera línea en la prevención de las fracturas por fragilidad en mujeres posmenopáusicas, pero no están exentos de riesgos. Publicaciones recientes los relacionan con reacciones adversas identificadas después de años de tratamiento, , , .
+Por tanto, el diagnóstico y el tratamiento de la osteoporosis primaria son susceptibles de mejora. Un estudio realizado en atención primaria (AP) puso de manifiesto discrepancias tanto en la indicación de las densitometrías como del tratamiento farmacológico en prevención primaria. Otro estudio piloto realizado en nuestra zona mostró que el grado de inadecuación del tratamiento en mujeres de 60 a 74 años era del 70%.
+Por otra parte, existen pocos estudios que valoren los conocimientos sobre osteoporosis de los médicos en nuestro entorno.
+Teniendo en cuenta estos aspectos, se planteó realizar un plan de mejora para conocer la prevalencia de la inadecuación del tratamiento (estudio cuantitativo), conocer los criterios de tratamiento de los médicos (estudio cualitativo) y realizar posteriormente una intervención. En este artículo presentamos los resultados de ambos estudios. El objetivo del estudio cuantitativo fue conocer la prevalencia de inadecuación del tratamiento para la osteoporosis en prevención primaria en mujeres de 60 a 74 años a partir del análisis del tratamiento activo instaurado y los factores de riesgo asociados. El objetivo del estudio cualitativo fue conocer los criterios diagnósticos y de tratamiento de la osteoporosis en prevención primaria y su variabilidad en los médicos de AP y especialistas.
+
+
+- MATERIAL Y MÉTODO
+
+-- ESTUDIO CUANTITATIVO
+
+--- DISEÑO Y ÁMBITO DE ESTUDIO
+
+Estudio observacional, transversal y retrospectivo. Se analizaron los datos de la historia clínica desde el año 2004 hasta el año 2012. Se incluyeron pacientes de 48 centros de AP (CAP) de la Dirección de Atención Primaria Metropolitana Nord (DAP MN) del Institut Català de la Salut (ICS), que cubre una población de 997.946 personas, de las cuales el 52,5% son mujeres.
+El estudio fue aprobado por el Comité de Ética e Investigación Clínica de la IDIAP Jordi Gol.
+
+
+--- POBLACIÓN DE ESTUDIO
+
+Se incluyeron mujeres de 60 a 74 años que recibían tratamiento farmacológico para la osteoporosis en mayo de 2012, independientemente de si constaba o no el diagnóstico de osteoporosis en prevención primaria (ICD10: M81). Se excluyeron las pacientes con antecedentes personales de fracturas osteoporóticas, tratamiento hormonal sustitutivo, con diagnóstico de osteoporosis con fractura (ICD10: M80) y osteoporosis secundaria asociada a hiperparatiroidismo, trastorno de conducta alimentaria, enfermedad de Paget, malnutrición crónica y malabsorción, diabetes mellitus tipo 1, artritis reumatoide, hipertiroidismo, menopausia precoz (entre 40 y 45 años) o tratamiento con glucocorticoides, tratamientos oncológicos, litio y heparina. También se excluyeron las pacientes ingresadas en residencia geriátrica y las que no habían sido visitadas en el CAP los últimos dos años.
+
+
+--- VARIABLES
+
+Las variables analizadas fueron edad, antecedentes familiares de fracturas por osteoporosis, índice de masa corporal (IMC) o peso y talla, diagnóstico registrado, valor inicial de la DMO (técnica DXA), tratamiento prescrito, duración del tratamiento y especialidad del profesional que lo inició. Si no constaba explícitamente el médico que iniciaba el tratamiento, se consideró que la prescripción era del médico de familia.
+La variable principal fue la prevalencia de la inadecuación del tratamiento. Se realizó en función de los criterios de adecuación de la guía de osteoporosis de la Comunidad de Madrid. Como el registro de los antecedentes familiares podía ser escaso, se consideró tratamiento no adecuado las pacientes con 2 o menos factores de riesgo sin DXA o con DXA T-score ≥ −2,4. De este último subgrupo se valoró qué pacientes presentaban osteopenia (DXA T-score de −1,5 a −2,4). Se consideró que el tratamiento era adecuado en aquellas pacientes que al revisar la historia clínica se detectó una DXA ≤ −2,5, independientemente de los factores de riesgo. Se calculó la prevalencia de la inadecuación del tratamiento para la osteoporosis como el número de mujeres con tratamiento inadecuado (según criterios establecidos) para la osteoporosis, dividido por el número total de mujeres tratadas con un fármaco para la osteoporosis.
+Los datos se obtuvieron de la revisión de la historia clínica informatizada del ICS (e-cap), que está implementada en nuestro territorio desde 2004
+
+
+--- PROCEDIMIENTO
+
+Se realizó un corte transversal en mayo de 2012 de las pacientes tratadas con fármacos para la osteoporosis y se valoraron retrospectivamente las distintas variables hasta la fecha del diagnóstico o el inicio del tratamiento o hasta el año 2004 (lo que ocurriera antes). No se tuvieron en cuenta datos anteriores al 2004.
+
+
+--- MUESTRA
+
+El tamaño muestral se calculó para un riesgo alfa de 0,95 y una precisión de ± 0,10 unidades, en un contraste bilateral para una proporción estimada de inadecuación del tratamiento para la osteoporosis del 60%. La muestra fue de 455 mujeres. Este tamaño de muestra permite detectar una diferencia igual o superior al 5% entre antes y después de la aplicación del plan de mejora. La muestra se seleccionó mediante un muestreo aleatorio estratificado por territorio no proporcional.
+
+
+--- ANÁLISIS ESTADÍSTICO
+
+Se realizó una depuración de los datos para los valores no habituales, errores de registro y respuestas incongruentes, para asegurar de esta manera la calidad de los datos. Se realizó un análisis descriptivo univariante de las variables sociodemográficas, de las variables relacionadas con los problemas de salud, de las relacionadas con los medicamentos y de las relacionadas con el registro en la historia clínica informatizada, de manera que para cada una de estas variables se calculó la frecuencia, el porcentaje y el intervalo de confianza si se trataba de variables categóricas, y la media, desviación estándar o mediana de las variables continuas.
+Todas las pruebas estadísticas se realizaron con una confianza del 95% y para un contraste bilateral. Se utilizó el programa STATA14.
+
+
+-- ESTUDIO CUALITATIVO
+
+--- DISEÑO
+
+Estudio cualitativo utilizando la técnica Delphi con 2 rondas de consulta.
+
+
+--- POBLACIÓN DE ESTUDIO
+
+Se incluyeron 570 médicos de los 48 CAP, 7 hospitales y 5 centros de atención secundaria del territorio. Se excluyeron los médicos que llevasen menos de 2 años de experiencia laboral o médicos no jerarquizados.
+
+
+--- MUESTRA
+
+Se realizó un muestreo aleatorio y se invitó a participar a 251 profesionales (86% médicos de AP, 8% traumatólogos y 6% reumatólogos).
+
+
+--- PROCEDIMIENTO
+
+La unidad de farmacia de la DAP MN y 4 médicos del territorio, expertos en osteoporosis, tras la revisión de la literatura, diseñaron una encuesta de 15 ítems o variables de opinión que recogía criterios sobre cribado, diagnóstico, tratamiento y seguimiento de la OPP. Los ítems se detallan en la figura 1.Figura 1
+Los participantes debían puntuarlas de 0 (totalmente en desacuerdo con la variable de opinión) a 10 (totalmente de acuerdo).
+Las encuestas se enviaron el 17 de marzo 2014 por correo electrónico a médicos de familia de atención primaria (MAP) y especialistas de traumatología y reumatología junto a una carta donde se explicaba la finalidad del estudio y la voluntariedad de su participación. Una vez cumplimentada la podían devolver vía email o correo interno. A la semana de enviar la encuesta se hizo un recordatorio a los profesionales que no habían respondido y el 31 de marzo se dio por terminada la primera ronda del estudio, considerándose pérdidas los profesionales que no habían contestado y los que manifestaron que no querían participar. Los resultados fueron analizados y sintetizados por el equipo investigador y el 22 de abril se envió el cuestionario para la segunda ronda a aquellos profesionales que habían respondido el primero. En esta segunda ronda los ítems iban acompañados de los percentiles 25, 50 y 75 (que informaban de la puntuación del grupo) y de la respuesta individual de la primera ronda para cada profesional, para que este pudiese modificar, si lo creía conveniente, su primera respuesta. Tras realizar un recuerdo a la semana del segundo envío, se cerró la segunda ronda el 6 de mayo del 2014.
+
+
+--- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo, determinando los percentiles 25 (p25), 50 (p50) y 75 (p75) de las respuestas. Según el resultado de dichos percentiles se calculó la dispersión (número de puntuaciones englobadas desde el p25 hasta el p75, ambos incluidos) y la puntuación mediana (p50). La dispersión se clasificó como «alta» (≥ 4 puntos englobados), «media» (3 puntos) o «baja» (< 3 puntos). La puntuación mediana (p50) podía ser: «desacuerdo» (puntuación del 0 al 4), «acuerdo» (5-6) o «total acuerdo» (7-10).
+
+
+- RESULTADOS
+
+-- ESTUDIO CUANTITATIVO
+
+De las 455 pacientes seleccionadas, 4 se registraron dos veces y otras 27 estaban en tratamiento por prevención secundaria, por lo que finalmente se incluyeron 424 pacientes. De las mujeres incluidas, en el 43,2% no constaba el diagnóstico de osteoporosis. La media de edad de las pacientes fue de 67 años (DE: 5).
+Al revisar los factores de riesgo, únicamente constó el registro de antecedentes familiares de osteoporosis en el 2%. En el 31% no constaba el IMC o faltaba el peso o la talla que permitiera calcularlo. En el 82,3% (n = 349) de las pacientes no constaba ningún factor de riesgo. No se detectaron diferencias del número de factores de riesgo entre las pacientes que tenían (n = 198) o no (n = 226) una DXA registrada .
+Al valorar la adecuación en el momento de inicio del tratamiento fue considerado inadecuado en 269 pacientes (63,4%, IC 95%: 58,8-67,9) y adecuado en 155 (36,6%, IC 95%: 32,1-41,2).
+De las pacientes de las que se disponía densitometría, el 22,9% (IC 95%: 17,0-30,1) presentaban osteoporosis de cadera y el 52,1% (IC 95%: 44,5-59,7) osteoporosis vertebral en el momento del diagnóstico .
+Los valores medios de la DXA inicial en las pacientes con diagnóstico registrado de osteoporosis eran inferiores (cadera t-score: −1,9 [IC 95%: −2,1 a −1,7]; vertebral t-score: −2,6 [IC 95%: −2,7 a −2,4]) a los de las pacientes sin diagnóstico registrado (cadera t-score: −1,2 [IC 95%: −1,5 a −1,0]; vertebral t-score:−1,4 [IC 95% −1,8 a −1,1]), siendo las diferencias estadísticamente significativas (p < 0,001) .
+El 40,3% (IC 95%: 35,8-45,1) de las pacientes recibían tratamiento con bisfosfonatos (en el 81,8% de los casos asociado a calcio y/o vitamina D) y el 47,9% (IC 95%: 43,2-52,6) estaban en tratamiento solo con calcio y/o vitamina D. La duración media del tratamiento fue de 3,8 años (DE: 2,8), en el momento del corte.
+El tratamiento de las pacientes fue diferente según si constaba o no el diagnóstico de osteoporosis. Las pacientes con diagnóstico registrado fueron tratadas preferentemente con bisfosfonatos solos o asociados a calcio y vitamina D, mientras que las pacientes sin diagnóstico lo fueron solo con calcio y vitamina D, siendo la diferencia estadísticamente significativa (p < 0,001) .
+Se recogió la especialidad del médico que iniciaba la prescripción en 423 pacientes. El 66,4% de las prescripciones iniciales eran del médico de familia, y el resto correspondían a otras especialidades . Se observan diferencias significativas entre la elección del tratamiento y la especialidad médica. Los traumatólogos presentaron una mayor tendencia a iniciar el tratamiento con bisfosfonatos, mientras que los médicos de familia con calcio y/o vitamina D. El grado de inadecuación del tratamiento fue mayor en los médicos de familia (68%) y en los ginecólogos (66,7%) que en el resto de especialidades.
+
+
+-- ESTUDIO CUALITATIVO
+
+Respondieron la primera ronda de la encuesta 57 médicos (23%), y de estos, 38 (67%) respondieron la segunda ronda. El porcentaje de MAP y especialistas que respondieron fue similar, del 15%.
+La figura 1 muestra los resultados para cada ítem y para las dos rondas de encuestas.
+La mediana se mantiene igual en todas las variables de opinión entre la primera y la segunda ronda. Los ítems con mayor acuerdo fueron la valoración de los factores de riesgo en el cribado de la OPP (9 puntos) y los bisfosfonatos como tratamiento de elección (9 puntos).
+En cuanto a la dispersión, se mantiene igual en 8 de los 15 ítems entre la primera y la segunda ronda, disminuye en 7 ítems y no aumenta en ningún caso.
+En los ítems que hacen referencia al cribado y diagnóstico de la OPP se observa que la dispersión es alta en la utilización de la herramienta FRAX y la densitometría. En los ítems sobre tratamiento, la dispersión es alta en cuanto si un valor patológico en la DXA es suficiente para iniciar el tratamiento, en determinar los fármacos de primera línea en pacientes < 65 años y si el tratamiento con calcio y vitamina D solos son aceptables en cualquier edad.
+En los ítems sobre el seguimiento de la OPP se observa que la dispersión es menor en todos los ítems, excepto en el tiempo en que deberían realizarse las densitometrías de control.
+
+
+- DISCUSIÓN
+
+Los resultados del estudio cuantitativo nos muestran que la mayoría de las pacientes que reciben tratamiento para la osteoporosis no deberían recibirlo, ya que no presentan osteoporosis establecida, ni densitometrías patológicas o factores de riesgo que impliquen el tratamiento. Por lo tanto, nos encontramos ante un elevado número de pacientes que reciben tratamiento para la osteoporosis y que son pacientes con osteopenia o sin patología osteoporótica. Los resultados de inadecuación obtenidos en nuestro estudio son inferiores a los obtenidos en el estudio de Amaya et al. (63,4% vs 75%), donde valoraban la adecuación del tratamiento en mujeres posmenopáusicas en prevención primaria, pero en su estudio también consideran inadecuación el no iniciar el tratamiento con ácido alendrónico, aspecto que nosotros no hemos tenido en cuenta. En cambio, en el estudio de Arana et al., con población similar a la nuestra, detectaron una inadecuación del 45%, y en el estudio de De Felipe et al., del 42,6%.
+El registro de los factores de riesgo de las pacientes en nuestro estudio es muy bajo: en el 82,3% no constaban. Los factores de riesgo son necesarios para calcular el riesgo de fractura de la paciente y, por lo tanto, para valorar la necesidad de tratamiento farmacológico. A pesar del bajo registro de estas variables, en el estudio cualitativo los profesionales están altamente de acuerdo en que estas son necesarias para el diagnóstico. En el estudio de De Felipe et al. también se detectan unos niveles de registro de antecedentes familiares de fractura del 16,1%, y el valor de la DXA no constaba en el 73,1%.
+El registro de factores de riesgo por parte de los profesionales médicos es un aspecto a mejorar. Las herramientas para estimar el riesgo de presentar una fractura osteoporótica que han aparecido en los últimos años, se basan en los factores de riesgo de las pacientes, y es de esperar que actualmente el registro de estos factores sea mejor.
+Se realizaron DXA en la mitad de las pacientes, aunque prácticamente no presentaban factores de riesgo. A pesar de que las recomendaciones en AP apuntan que solo debería solicitarse una DXA en aquellas pacientes con riesgo alto de osteoporosis, , cuando se revisan distintas guías o recomendaciones se detecta que no existe un acuerdo unánime. Este aspecto queda reflejado en el estudio cualitativo, ya que la dispersión es media y el acuerdo no es total cuando se pregunta por el papel de las densitometrías para el diagnóstico de la enfermedad. Valores parecidos a los nuestros presentaron Arana et al., quienes detectaron que se había realizado una DXA en el 59,6% de las pacientes sin factores de riesgo y sin indicación de DXA.
+En nuestro estudio destaca que en más de la mitad de las pacientes no constaba el registro de diagnóstico de osteoporosis, pero el diagnóstico se correlacionaba con valores medios de osteoporosis en las DXA y con el tratamiento. Así, las pacientes con DXA patológicas presentaban mayor registro del diagnóstico y mayor tratamiento con bisfosfonatos. En el estudio de Amaya et al., con valores del registro de diagnóstico parecidos a los nuestros (42,3%), también encuentran una correlación similar entre los pacientes en que consta el diagnóstico y la adecuación del tratamiento. Estos datos sugieren que en muchos casos el tratamiento se inicia sin un diagnóstico de patología. Este hecho se refleja en el estudio cualitativo, donde la utilización de la herramienta FRAX y el resultado de la densitometría presentan una alta dispersión y un menor acuerdo entre los profesionales que contestaron la encuesta. En cambio, recientemente Fogelman et al. realizaron una encuesta a MAP sobre los conocimientos de diagnóstico y tratamiento de la osteoporosis y encontraron que los conocimientos en cuanto al diagnóstico eran mejores que los de los tratamientos.
+El tratamiento más frecuente prescrito ha sido el calcio con vitamina D, aunque prácticamente igual al tratamiento con bisfosfonatos. Últimamente se han publicado diferentes estudios y revisiones sistemáticas donde se cuestiona la relevancia del efecto de los suplementos de calcio y vitamina D no asociados a otro fármaco para la osteoporosis, teniendo en cuenta también el perfil de seguridad de estos suplementos, , . Por este motivo sería importante plantear la necesidad real de estos tratamientos cuando no van asociados a ningún otro tratamiento para la osteoporosis, sobre todo en pacientes no institucionalizados y con una ingesta correcta de estos suplementos en la dieta habitual.
+La duración del tratamiento es larga, aproximadamente de 3,8 años, siendo parecida para los distintos fármacos. Estos resultados coinciden con los resultados del estudio cualitativo, donde el acuerdo en cuanto a la duración del tratamiento y a los fármacos de elección es total y con poca dispersión. En cambio, existe un menor acuerdo y una mayor dispersión con relación a cómo debe hacerse el seguimiento de las pacientes. En el estudio de Amaya et al. la duración del tratamiento era de 1,8 años.
+Se ha detectado una diferencia significativa entre cuál es el tratamiento inicial en función de la especialidad médica. La mayoría de los tratamientos son iniciados por los MAP, y estos establecen en la mitad de los casos tratamiento con calcio y vitamina D. Los traumatólogos y los reumatólogos inician más tratamientos con bisfosfonatos y ranelato de estroncio. Arana et al. evalúan la adecuación de los tratamientos en función de la especialidad médica, y los resultados de inadecuación en medicina de familia son inferiores a los de nuestro estudio (30,4%). En el estudio de Amaya et al., el 47,9% de los tratamientos fueron iniciados por los MAP y eran adecuados solo en el 25,7% de los casos. En las otras especialidades la adecuación era del 36,8%. A diferencia de nuestro estudio, no encontraron diferencias en cuanto al principio activo con el que inician el tratamiento según especialidades. En el estudio de De Felipe et al. el tratamiento fue iniciado por los MAP en un 44% de los casos. Estas diferencias entre estudios en la adecuación del tratamiento en los MAP podrían deberse a que en nuestro estudio, si no constaba explícitamente qué especialidad médica había iniciado la prescripción, se consideraba que era del médico de familia.
+Entre las limitaciones del estudio hay que destacar que se trata de un estudio transversal a partir de las pacientes en tratamiento para la osteoporosis, por lo que no hemos explorado si existen pacientes con diagnóstico de osteoporosis y que no están recibiendo tratamiento.
+Otra limitación es el infrarregistro del diagnóstico de osteoporosis, que puede ser motivado porque la paciente se controla en el ámbito privado y solo acude al sector público para obtener la medicación. Esto también podría explicar el infrarregistro de los factores de riesgo. El diseño del estudio (transversal y retrospectivo) también puede influir en la menor detección de factores de riesgo o de datos de la historia clínica. Así mismo, a pesar que e-cap está implementado en nuestra zona desde 2004, podría ser que los datos registrados en esa época no fuesen completos.
+Por otra parte, el estudio transversal se realizó el año 2012, y como hemos comentado anteriormente, desde entonces han aparecido distintas herramientas para determinar el riesgo de presentar fractura a partir de los factores de riesgo, , así como nuevas guías y consensos, por lo que los resultados de nuestro estudio transversal podrían no ser coincidentes con la práctica actual.
+Con los resultados de nuestro estudio podemos concluir que el grado de inadecuación del tratamiento de la osteoporosis en prevención primaria en nuestra zona es alto; así mismo, el grado de registro tanto del diagnóstico como de los factores de riesgo tampoco no es adecuado. Los bisfosfonatos son los fármacos más utilizados. El estudio Delphi nos permite detectar discrepancias entre la práctica clínica y los conocimientos teóricos de los médicos.
+Consideramos que sería conveniente iniciar un programa de formación para implementar FRAX como herramienta para el diagnóstico de la osteoporosis primaria y establecer protocolos de manejo de la osteoporosis consensuados entre la AP y la atención especializada con el objetivo de aumentar la adecuación de los tratamientos para esta patología.Lo conocido sobre el tema•La inadecuación del tratamiento para la osteoporosis en prevención primaria en los estudios realizados en atención primaria es alta.•En los últimos años se han desarrollado distintas herramientas para estimar el riesgo de fractura osteoporótica y, por lo tanto, conseguir una mejor adecuación al tratamiento en función del riesgo.Qué aporta este estudio•Este estudio evidencia que la inadecuación del tratamiento de la osteoporosis en prevención primaria en nuestra área es alta.•No obstante, los conocimientos teóricos de los médicos sobre esta patología son correctos. Este estudio permite detectar aspectos de mejora tanto en el diagnóstico y en el tratamiento como en el seguimiento de las pacientes en la prevención primaria de la osteoporosis.
+
+
+- FINANCIACIÓN
+
+Este estudio ha sido financiado con el premio de investigación de la Fundació Mutuam Conviure 2011, presentado por profesionales de Cataluña dentro del ámbito de gerontología clínica.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

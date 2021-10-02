@@ -1,0 +1,113 @@
+RECOMENDACIONES PARA EL MANEJO DEL PACIENTE CON ENFERMEDAD RENAL CRÓNICA ANTE EL SARS-COV-2
+
+
+- INTRODUCCIÓN: ENFERMEDAD RENAL CRÓNICA Y COVID-19
+
+Los pacientes con enfermedad renal crónica (ERC) en etapa terminal tienen más riesgo de contraer enfermedades infecciosas por la disminución de su función inmunológica, por su fragilidad y por la alta comorbilidad, constituyendo, por tanto, un grupo vulnerable frente al COVID-19. Además de la edad avanzada de este grupo de pacientes, los sometidos a tratamiento renal sustitutivo en hemodiálisis (HD) tienen una mayor predisposición frente al virus por dializarse en espacios cerrados periódicamente durante varias horas y acudir al centro habitualmente en transporte sanitario colectivo. Por ello, es prioritario identificar y tratar precozmente los casos de infección y contener, en la medida de lo posible, la diseminación a otros pacientes y al personal sanitario, ya que una vez infectados son fuente móvil de nuevos contagios. De este modo, podría considerarse a la unidad de diálisis como un lugar de riesgo, desde un punto de vista epidemiológico.
+Según el Registro de la Sociedad Española de Nefrología (SEN) en su Informe 2 (18 marzo-4 de abril de 2020), en España se registran 637 casos de COVID-19 confirmados en pacientes con enfermedad renal. El 36% de los casos se encuentran en Madrid, el 20% en Cataluña y el 10% en Andalucía, siendo mayor la frecuencia de COVID-19 positivo en pacientes que acuden a centros de HD (64%), seguida de los pacientes trasplantados (32%); los sometidos a diálisis peritoneal son los que menos han enfermado (4%).
+El 81% de los pacientes positivos por COVID-19 con ERC precisaron ingreso hospitalario; de ellos, el 5% llegaron a la unidad de cuidados intensivos (UCI).
+
+
+-- MANIFESTACIONES CLÍNICAS DE LA COVID-19 EN PACIENTE CON ERC
+
+En los datos obtenidos hasta el momento se observa que hay una diferencia en relación a las manifestaciones clínicas de la población en general y de la población que sufre ERC en cualquiera de sus vertientes. Es decir, el 81% de la población con ERC y COVID-19 positivo ha precisado ingreso hospitalario, y el porcentaje de asintomáticos es menor que en el resto de la población: mientras que en la población general el 80% de los pacientes se recuperan de forma espontánea, sin precisar hospitalización, solo el 9% de pacientes con ERC y COVID-19 positivo permanecen asintomáticos.
+Las manifestaciones clínicas son las mismas que en la población general; sin embargo, el porcentaje de aparición de estas es mayor. La SEN indica que manifestaciones como fiebre (75%), síntomas respiratorios de vías altas (69%) y disnea (42%) son parámetros semejantes a la población general. Las diferencias se encuentran en la aparición de neumonía y de linfopenia, ya que el 71% de los pacientes con ERC y COVID-19 positivos padecerán neumonía y el 80%, linfopenia.
+
+
+- DESARROLLO
+
+A continuación se resumen las principales recomendaciones de actuación en los pacientes con ERC, tanto desde el punto de vista preventivo, para evitar contagios, como en relación al manejo de pacientes positivos (COVID-19) y necesiten someterse a las distintas terapias renales sustitutivas.
+
+
+-- MEDIDAS PREVENTIVAS EN LA TRANSMISIÓN DE COVID-19 EN PACIENTES CON ERC
+
+Para el correcto manejo de la epidemia deben tomarse desde el inicio medidas de protección, detección, aislamiento y distribución del paciente renal, disminuyendo así el riesgo de contagio. Según indica la SEN, las medidas generales para la prevención de la transmisión en ERC coinciden con las del resto de la población.
+
+
+-- TRANSPORTE SANITARIO COLECTIVO PARA PACIENTES SOSPECHOSOS O CONFIRMADOS DE COVID-19 EN HEMODIÁLISIS
+
+Se aconseja que sea la propia familia la encargada del transporte de pacientes al centro de HD. Si no fuese posible, se utilizará una ambulancia colectiva, siguiendo las siguientes recomendaciones:-El número de pacientes transportado no debe ser superior a 4.-Recordar la necesidad del lavado de las manos antes de salir de casa con agua y jabón, y el uso de solución hidroalcohólica antes de entrar en la ambulancia y en el centro hospitalario.-No usar transporte colectivo si existen síntomas o se ha estado en contacto con un caso positivo de COVID-19.-Enfatizar el uso de mascarilla quirúrgica y de guantes.-Si es posible, incorporar una mampara de separación con el habitáculo trasero de la ambulancia.-Preguntar por la existencia de síntomas a los pacientes (febrícula o tos).-Realizar una correcta desinfección tras el uso de la ambulancia por estos pacientes.
+
+
+-- PROTOCOLO DE ACTUACIÓN EN PACIENTES QUE PRECISEN HEMODIÁLISIS
+
+Como ya se ha mencionado, los pacientes sometidos a HD constituyen un grupo de riesgo que potencialmente pueden sufrir complicaciones en caso de tener infección por el coronavirus por estar inmunodeprimidos y por presentar determinadas connotaciones relevantes desde el punto de vista epidemiológico. Por tanto, se hace necesaria la elaboración de unas normas de actuación para identificar y tratar precozmente los casos de infección y contener, en la medida de lo posible, la diseminación a otros enfermos y al personal sanitario.
+
+
+--- GUÍA DE ACTUACIÓN EN LA UNIDAD DE HEMODIÁLISIS
+
+A los pacientes en HD se les proporcionará información específica sobre los síntomas de la infección por COVID-19, facilitando los teléfonos de contacto y advirtiéndoles de que, ante la aparición de cualquiera de ellos, deben comunicarlo a la unidad para recibir las instrucciones oportunas antes de salir del domicilio. En la figura 1 se describe el flujograma que debe seguirse en cada situación.Figura 1
+En el Documento técnico de 25 de marzo de 2020 de la SEN y de la Sociedad Española de Enfermería Nefrológica (SEDEN) se especifican, además, las recomendaciones para seguir en la unidad de HD:•Debe existir una cartelería informativa a la entrada de la unidad y en las salas de espera sobre higiene de manos, respiratoria y manejo de la tos.•Debe mantenerse una distancia de seguridad aproximada de 2 m entre los pacientes.•Uso obligatorio de mascarillas quirúrgicas, tanto por parte de los pacientes como del personal sanitario, mientras estén dentro de las instalaciones. También deben usarla durante el traslado.•Lavado de manos frecuente con agua y jabón o con solución hidroalcohólica al 60-95%.•Debe emplearse material desechable, siempre que sea posible, para cualquier acción sanitaria.•Antes de salir de casa el paciente debe realizar un lavado con agua y jabón de la fístula arteriovenosa para diálisis.
+
+
+--- PREPARACIÓN DE LA UNIDAD DE HEMODIÁLISIS
+
+•Asegurar la infraestructura necesaria para que sea posible llevar a cabo las recomendaciones generales.•Mantener una ventilación y una desinfección adecuadas de la zona.•Disponer de una habitación/box de aislamiento con buena capacidad de ventilación y en la que se pueda mantener la distancia de seguridad entre pacientes con sospecha de infección.•Organizar los horarios de HD según la disponibilidad de cada centro, teniendo en cuenta la necesidad de separar a los pacientes según sean negativos, probables positivos o confirmados en COVID-19, y de agrupar a los positivos en el mismo turno para dializarlos al final.•Los pacientes que precisen cirugía de acceso vascular deben someterse a pruebas de detección de COVID-19; si son positivas, la cirugía se realizará en una habitación designada con la protección necesaria para el personal sanitario.
+
+
+--- IDENTIFICACIÓN DE CASOS SOSPECHOSOS DE COVID-19 EN LA UNIDAD DE HEMODIÁLISIS
+
+•Triaje preventivo en todos los centros, a la llegada y a la salida de los pacientes, de sintomatología y de temperatura.•Si presentan síntomas compatibles se clasificarán como casos posibles y se les tomará una muestra de exudado nasofaríngeo y/o orofaríngeo para PCR, comunicando los casos confirmados a medicina preventiva o a las autoridades sanitarias de cada comunidad.•Disminuir la espera hasta el turno de cada paciente e intentar que esta sea fuera del centro/sala/instalación. Si no es posible, debemos asegurar una zona de espera en la que se permita respetar las recomendaciones generales (distancia de seguridad, lavado de manos, etc.).•Las diálisis de estos pacientes se realizarán preferiblemente en habitaciones o box, si se dispone de tomas de agua o tratamiento portátil, en condiciones de aislamiento de contacto y gotas.•En las unidades que no dispongan de salas aisladas físicamente con un circuito de entrada independiente, los pacientes infectados o sospechosos se dializarán en un lugar de la sala general de crónicos, fuera de las zonas de paso, con una distancia superior a 2 m entre ellos.•Se deberá habilitar un turno de HD específico con personal sanitario fijo para pacientes en situación de sospecha pero que no cumplan criterios para confirmar el diagnóstico, cumpliendo 14 días en esta condición.
+
+
+--- PACIENTE POSITIVO PARA COVID-19 EN HEMODIÁLISIS
+
+•Valorar el criterio de ingreso y la gravedad.•Siempre que se pueda, dializarlos de manera aislada o en su habitación con monitor de ósmosis portátil, si están hospitalizados. Si el número de pacientes afectados aumenta, teniendo en cuenta los recursos existentes, se debe utilizar para este fin la zona distal (extremos) de la sala, en el último turno, con el menor tráfico sanitario posible y siempre manteniendo 2 m de distancia con otros pacientes. Si se encuentra en un centro periférico, derivar a su hospital de referencia, siempre que sea posible.•Las salas de aislamiento de pacientes con hepatitis B solo deberán emplearse para dializar a pacientes con infección por COVID-19 que sean HBsAg positivo.•El material no desechable, como aparatos de presión arterial, saturómetros, bombas de infusión, etc., se limpiarán y desinfectarán adecuadamente.•Se reforzará la higiene ambiental, con desinfección de la sala antes y después de la sesión de diálisis.•Adecuada desinfección externa de la máquina de HD con hipoclorito de sodio en caso sospechoso o confirmado.•No se realizarán nebulizaciones durante la sesión de HD.•Los pacientes hospitalizados, una vez finalizada la sesión de diálisis, serán trasladados a su servicio de origen con una mascarilla quirúrgica, al igual que el personal responsable del traslado. Seguir las normas de aislamiento establecidas una vez que el paciente esté ubicado en su servicio de origen.•Los pacientes que están en aislamiento domiciliario, una vez finalizada la sesión de diálisis, se trasladarán a su domicilio con mascarilla quirúrgica, en una ambulancia individual que tenga la cabina del conductor físicamente separada del área de transporte del paciente.•Una vez en casa, el paciente seguirá las normas de aislamiento domiciliario.•El personal que intervenga en el traslado deberá ser previamente informado del riesgo y deberá llevar equipo de protección individual (EPI) (bata, guantes, mascarilla quirúrgica).•La limpieza y la desinfección de la ambulancia se harán de acuerdo con los procedimientos habituales de la empresa. A los trabajadores encargados de la limpieza se les facilitarán los EPI necesarios.
+
+
+--- PERSONAL AL CUIDADO DE PACIENTES EN HEMODIÁLISIS CON COVID-19
+
+•El personal sanitario que atienda a casos de infección por SARS-CoV-2 o las personas que entren en la habitación o en la zona de aislamiento deben llevar un EPI para la prevención de infección por microorganismos transmitidos por gotas y por contacto, que incluya bata, mascarilla (quirúrgica o FFP2, según el tipo de procedimiento a realizar), guantes y protección ocular. Es especialmente importante asegurar el buen funcionamiento y sellado adecuado de las mascarillas de protección respiratoria utilizadas.•Por otra parte, el EPI para realizar HD en un paciente con sospecha o infección confirmada por COVID-19 incluye: bata de aislamiento sobre el pijama que use el profesional, guantes largos para garantizar el cierre de las mangas de la bata, mascarilla FFP2 y protección ocular, utilizando lentes de protección ocular o una pantalla de protección facial. No se consideran protección las gafas personales o las lentes de contacto.•Los procedimientos que generen aerosoles se deben realizar únicamente si se consideran estrictamente necesarios para el manejo clínico del caso. Para la realización de dichos procedimientos se deberá reducir al mínimo el número de personas en la habitación, y todos deberán llevar: mascarilla autofiltrante FFP2 o FFP3 si hay disponibilidad, protección ocular ajustada de montura integral o protector facial completo, guantes, batas de manga larga (si la bata no es impermeable y se prevé que se produzcan salpicaduras de sangre u otros fluidos corporales, añadir un delantal de plástico).•Estricta higiene de manos antes y después del contacto con el paciente y de la retirada del EPI.•Es importante llevar un registro de cada uno de los profesionales que han entrado en contacto con el paciente, a efectos de control y seguimiento.
+
+
+--- PACIENTE CON ERC HOSPITALIZADO POR COVID-19
+
+Pacientes sospechosos o positivos de COVID-19 son tratados de la misma forma: todos son «positivos» hasta que se descarte con un test diagnóstico.-Agrupar a los pacientes en la misma unidad. Si no es posible, dejarlos en una habitación en aislamiento.-Se actuará bajo el protocolo de aislamiento por gotas y de contacto.-El aislamiento se hace extensible a las familias; el paciente no puede tener acompañantes, ni visitas.-El paciente debe tener mascarilla quirúrgica (evitar mascarillas con válvulas de exhalación) y guantes, sobre todo cuando el personal sanitario entre en la habitación.-No se recomienda el traslado a unidades agudas de HD.-Uso correcto del EPI para entrar en la habitación, tanto del personal sanitario como del de limpieza.-La administración de aerosoles queda restringida a nebulizaciones con campana.-Si el paciente precisa oxigenoterapia, se usarán gafas nasales o reservorios (un solo compartimento).-La unidad debe tener un circuito «limpio» y un circuito «sucio», indicado en el suelo para disminuir el número de contagios.-El material se desechará en contenedores biosanitarios.-La ropa de cama se retirará conforme el protocolo del hospital de referencia para aislamientos de contacto.-La limpieza de la habitación la realizará el personal de limpieza, de la forma habitual para un aislamiento de contacto.
+
+
+-- PROTOCOLO DE ACTUACIÓN EN DIÁLISIS PERITONEAL
+
+Los pacientes con técnicas domiciliarias de diálisis, tanto peritoneal como HD, deben seguir las mismas recomendaciones de protección que la población en general.
+No hay datos sobre la eliminación del virus. En el efluente peritoneal solo existe alguna notificación en un estudio en China, donde refieren no haber encontrado virus en nueve casos estudiados.
+Lo ideal es la asistencia domiciliaria a estos pacientes, siempre que sea posible; en su defecto, es necesario que exista una comunicación fluida mediante teleasistencia y otros recursos electrónicos para el manejo clínico. Hay que resaltar que esta población es la menos afectada por COVID-19, ya que según la SEN, en su Informe 2, al practicar una técnica de tratamiento renal sustitutivo domiciliaria la exposición es menor.
+Debemos asegurar el abastecimiento de material como mínimo para 15 días y, si es posible, para 30 días, por si necesitan aislarse o por si surge algún fallo en la cadena de suministro.
+La International Society for Peritoneal Dialysis (ISPD) establece un marco de estrategias para el manejo de la pandemia COVID-19 en pacientes en diálisis peritoneal, algunas de las cuales se relacionan con las medidas a seguir antes del traslado al hospital del paciente sospechoso, entre las que se encuentran:•Realizar triaje a todo paciente antes de acudir al hospital, preguntando por sintomatología, sobre todo fiebre, tos o disnea, y por posibles contactos con personas COVID-19 positivas. En caso de presentar síntomas debe ponerse en contacto con su centro de referencia de coronavirus.•Si es necesario acudir a la unidad de diálisis peritoneal de forma urgente por algún problema relacionado con la técnica, por ejemplo, peritonitis, será atendido según el protocolo descrito a continuación: 
+
+
+-- PROTOCOLO DE ACTUACIÓN ANTE PACIENTES TRASPLANTADOS RENALES
+
+Debido al estado de inmunosupresión en el paciente trasplantado renal, las manifestaciones clínicas, el tratamiento y el pronóstico de la neumonía por COVID-19 pueden diferir de los de la población general, de ahí la importancia de un diagnóstico precoz mediante el cribado de SARS-CoV-2 en los casos en que se sospeche la infección. Se sabe que los receptores de trasplantes pueden tener una mayor carga viral y eliminación, lo que resulta en una mayor infectividad y potencial de propagación a otras personas; de ahí también la premura en la realización del test diagnóstico.
+
+
+--- RECOMENDACIONES GENERALES PARA PACIENTES TRASPLANTADOS RENALES
+
+Los pacientes receptores de un trasplante renal, debido a su estado de inmunosupresión, se consideran un grupo de riesgo, por lo que es necesario extremar las medidas de prevención ante el contagio por COVID-19. Entre estas recomendaciones se encuentran:•Mantener una higiene correcta, lavado de manos de al menos 20 segundos con agua y jabón o solución hidroalcohólica.•Limpieza y desinfección de las superficies de la casa, objetos y superficies que se toquen con frecuencia.•Mantener distancia de seguridad de 2 m con personas que presenten sintomatología y no compartir pertenencias personales.•Seguir una alimentación correcta, evitando el tabaco y el alcohol.•Para el seguimiento del paciente con trasplante renal se recomienda la teleconsulta para evitar estancias innecesarias en el hospital.
+
+
+--- RECOMENDACIONES ESPECÍFICAS PARA PACIENTES TRASPLANTADOS RENALES SOSPECHOSOS DE INFECCIÓN POR SARS-COV-2
+
+Se recomienda a todo paciente trasplantado renal con síntomas compatibles con COVID-19 contactar con su médico especialista de trasplante o con el de atención primaria (preferiblemente mediante comunicación telefónica), indicando claramente cuáles son sus enfermedades crónicas y el tipo de tratamiento que toma de forma habitual. En función de la clínica que presente se recomienda:•Sintomatología leve (sin disnea/taquipnea) y temperatura < 38 °C, contactar con las autoridades sanitarias para la realización del test diagnóstico y permanecer en domicilio bajo vigilancia telefónica por parte del equipo de trasplante.•Sintomatología moderada/grave, con temperatura > 38 °C, o receptor frágil: se indicará al paciente que acuda a urgencias para ser evaluado clínicamente.
+
+
+-- SEGUIMIENTO DESDE LA CONSULTA DE ENFERMEDAD RENAL CRÓNICA AVANZADA (ERCA
+
+El protocolo de actuación en la consulta de ERCA se basa sobre todo en las medidas generales de actuación frente a la prevención de COVID-19 descritas por las autoridades sanitarias, tanto para los pacientes como para los profesionales que los atienden.
+Se recomienda el seguimiento por vía telemática siempre que sea posible, para minimizar los desplazamientos al hospital y facilitar por correo ordinario todo lo referente a analíticas, siguientes citas o medicación prescrita, para asegurar el tratamiento domiciliario y mantener comunicación fluida por parte de todo el equipo multidisciplinar.
+En caso de asistencia es necesario realizar triaje telefónico antes del desplazamiento a la consulta. Ante un caso sospechoso de COVID-19 en la consulta hay que seguir el circuito establecido en cada centro hospitalario, según la correspondiente unidad de medicina preventiva.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+El paciente con ERC, por su fragilidad intrínseca y la comorbilidad añadida, presenta una vulnerabilidad especial frente al virus SARS-CoV-2. Hay que añadir además la inmunosupresión a la que están sometidos los pacientes trasplantados y la mayor exposición a la infección en el caso de los pacientes en diálisis, sobre todo los que siguen tratamiento de HD, por la complejidad y por las características de la atención en unidades cerradas de tratamiento ambulatorio. Es por ello que debemos proteger a esta población y a los profesionales dedicados a su cuidado. Tenemos que realizar un mayor esfuerzo en la realización de protocolos adaptados y en el establecimiento de circuitos claramente establecidos para operativizar todas las situaciones posibles dadas por la pandemia y, sobre todo, garantizar los niveles adecuados de prevención y control de la infección por COVID-19 en estos pacientes.
+Es necesario implementar las medidas de aislamiento para reducir el riesgo de contagios y proceder de forma inmediata ante pacientes con sospecha o confirmación de la infección, practicando la HD y el resto de técnicas depurativas en entornos adecuados, según la infraestructura y los recursos de cada centro hospitalario, extremando las medidas de prevención e higiene y los circuitos establecidos.
+En todo momento, debemos asegurar el bienestar psicosocial del paciente renal manteniendo la esperanza, la seguridad, la calma y la conexión social en cada una de las intervenciones que se realicen, ya que una adecuada atención a estos aspectos ayudará a disminuir la angustia, el miedo y la ansiedad por la situación de aislamiento y evitará posibles complicaciones tras la pandemia. La información al paciente y a sus familiares se considera un pilar fundamental en la atención clínica, por lo que debe existir una comunicación fluida y veraz sobre su estado de salud, utilizando los recursos telemáticos disponibles y prestando especial atención a las medidas de escucha activa.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras no declaran ningún conflicto de intereses.

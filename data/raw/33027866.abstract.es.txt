@@ -1,0 +1,5 @@
+Presentar resultados globales de la deserción, reprobación y satisfacción de los usuarios del Curso Masivo en Línea Abierto (MOOC, por sus siglas en inglés), así como los cambios en conocimientos y prácticas del personal de salud inscrito al MOOC “Salud sexual y reproductiva y prevención del embarazo en adolescentes”.
+El MOOC es una herramienta útil para generar mejoras en conocimientos y competencias. Es necesario ampliar la cobertura a profesionales que tienen trato con población adolescente, con el fin de mejorar la salud sexual y reproductiva y prevenir embarazos en la adolescencia.
+Se analizaron 45 549 registros y se ajustaron modelos de regresión logística para la deserción y reprobación del curso.
+Finalizó el curso 57.8% de los usuarios, mientras que 15.1% reprobó. Los modelos logísticos muestran que la edad y el cargo ocupado se asocian tanto con la deserción como con la reprobación.
+

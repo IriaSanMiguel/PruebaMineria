@@ -1,0 +1,107 @@
+PREVALENCIA Y CARACTERÍSTICAS CLÍNICAS DE LOS SÍNTOMAS DEPRESIVOS Y ANSIOSOS DE LOS TRABAJADORES DE UNA INSTITUCIÓN DE SALUD EN MEDELLÍN DURANTE LA PANDEMIA POR COVID-19
+
+
+- INTRODUCCIÓN
+
+El 30 de enero de 2020, la Organización Mundial de la Salud (OMS) declararó estado de emergencia mundial por el sugimiento de una nueva cepa de coronavirus, el SARS-CoV-2, reportado 1 mes antes en Wuhan, China, a partir de un brote de neumonía. En general, el modo de vida de cada persona se ha visto afectada, de diversas maneras, en todos los continentes, en todos los países y en todos los grupos socioeconómicos.
+Más de 6 meses después del primer caso reportado, aún no se dispone de una vacuna o un tratamiento específico para la COVID-19 y no se vislumbra el fin de la propagación de la enfermedad. La implementación de cuarentenas prolongadas, el distanciamiento físico y otras estrategias de salud pública destinadas a disminuir la tasa de contagio al parecer tienen un impacto negativo en la salud mental de un grupo importante de la población.
+Desde esta perspectiva, el personal de salud se enfrenta a un reto extraordinario: cuidar de otros, exponiéndose a sí mismos al contagio. A médicos, enfermeras, terapeutas y demás personal asistencial y no asistencial en clínicas y hospitales, se les pide que estén preparados para trabajar en situaciones extraordinariamente complejas de exposición permanente a la COVID-19, , . Así, el personal de salud parece ser la categoría más expuesta a los desafíos psicológicos de una nueva normalidad. Es probable que esta carga psicológica se deba a la reorganización del personal, el aumento de la intensidad del trabajo y la ansiedad de estar expuesto al virus en el hospital y, a su vez, de llevar la infección a casa.
+Poco tiempo después de declararse la pandemia, comenzaron a publicarse estudios que reportaban altos niveles de estrés en personal de salud, denominado ahora «la primera línea» de atención, lo cual se ha visto reflejado en una mayor prevalencia de insomnio y síntomas ansiosos y depresivos, además de un probable incremento en las tasas de suicidio en esta población, . Continuar investigando sobre este tema permite generar información que ayude a fortalecer la capacidad de respuesta de los sistemas sanitarios, además de monitorizar e influir positivamente en los descelaces de salud mental de los trabajadores de la salud. El objetivo de este estudio es determinar la prevalencia y las características clínicas de los síntomas depresivos y ansiosos de los trabajadores de una institución de salud en Medellín, Colombia.
+
+
+- MÉTODOS
+
+Se realizó un estudio observacional, descriptivo y transversal. Auna es un grupo de salud de ámbito regional, con cerca de 6.000 colaboradores, que cuenta con una red de clínicas y centros médicos en Perú y Colombia. La Clínica Las Américas Auna es una institución sanitaria ubicada en Medellín y dispone de 304 camas para atender a niños y adultos que requieren servicios de urgencias, hospitalización y cuidados intensivos para pacientes con enfermedades médicas y quirúrgicas de alta complejidad.
+A partir de la declaración de la pandemia de COVID-19, el área de salud mental de la Clínica Las Américas Auna quiso alinear sus esfuerzos con las propuestas de la New Health Foundation (institución sin ánimo de lucro de observación y optimización de los sistemas de salud) para fortalecer, apoyar e intervenir al personal sanitario en tiempo de crisis.
+Este programa incluyó: a) formación sobre cuidados para prevenir el contagio del coronavirus y técnicas de regulación emocional; b) identificación de personas con síntomas ansiosos y depresivos de importancia clínica, a quienes se ofrece intervención individual por psicología y psiquiatría, y c) sesiones cortas de acupuntura y realización de pautas activas como promoción de bienestar.
+
+
+-- PARTICIPANTES
+
+Se invitó a participar en el estudio a los 2.100 empleados de la institución de las áreas asistenciales y administrativas. Entre el 1 de marzo y el 31 de mayo de 2020, el Departamento de Comunicadiones, a través de los diferentes canales de comunicación internos como la intranet, carteleras, voz a voz, líderes de grupos de trabajo y el correo electrónico de cada empleado, motivó la participación en el estudio. La encuesta estuvo disponible durante 8 semanas, tiempo que duró la recolección de la muestra; 1.247 empleados realizaron las encuestas y aceptaron participar en el estudio. Se tuvo un criterio de inclusión: ser empleado de la institución durante el tiempo de recolección de la muestra. Se excluyó a quienes no dieron su consentimiento informado.
+
+
+-- VARIABLES
+
+Se incluyeron variables sociodemográficas: edad, sexo, oficio —asistencial, administrativo—, modalidad de trabajo —presencial, teletrabajo— y clínicas psiquiátricas: 9 síntomas depresivos, 7 síntomas ansiosos y puntuaciones de las escalas Cuestionario de Salud del Paciente-9 (PHQ-9) y Trastorno de Ansiedad Generalizada (GAD-7).
+
+
+-- FUENTES DE DATOS
+
+La información se recogió de una encuesta, diseñada por los investigadores para este estudio, que incluyó 22 preguntas con opciones de respuesta tipo Likert de fácil comprensión y respuesta; para completarla se necesitaba 10-15 min. No se realizó prueba piloto.
+
+
+-- INSTRUMENTOS EMPLEADOS
+
+Este estudio incluyó 2 escalas psicométricas disponibles para aplicar a población colombiana y de uso libre: el PHQ-9 y la GAD-7. El PHQ-9 consta de 9 preguntas tipo Likert con respuestas entre 0 y 3 puntos. Las puntuaciones posibles van de 0 a 27. Los puntos de corte 5, 10, 15 y 20 son para depresión leve, moderada, moderadamente grave y grave. Con un punto de corte > 10 se tiene una sensiblidad del 88% y una especificidad del 88%. La GAD-7 consta de 7 preguntas tipo Likert, con respuestas entre 0 y 3 puntos. Las puntuacines posibles van de 0 a 21. Los puntos de corte propuestos de 5, 10 y 15 son para síntomas leves, moderados y graves; se recomienda evaluación clínica con puntuaciones > 10. Con estos puntos de corte, la escala tiene una sensibilidad del 89% y una especificidad del 82%. Ambos cuestionarios cuentan con validación al español, , .
+
+
+-- SESGOS
+
+Los investigadores tuvieron en cuenta los siguientes sesgos: a) de selección; se realizó una amplia campaña de divulgación de la investigación a través de los canales de comunicación de la institución y a cada persona se le brindaron numerosas oportunidades para participar del estudio; b) de información; los datos fueron anonimizados y solo los trataron los investigadores garantizando privacidad y uso de la información con fines estrictamente clínicos y de investigación; además se emplearon instrumentos válidos, que exploraron síntomas mentales ocurridos en las últimas 2 semanas, lo que disminuye el sesgo de memoria, y c) confusión; el alcance del estudio es de tipo descriptivo, por lo que su objetivo no es buscar asociaciones. Sin embargo, no se incluyeron otras variables que clasifiquen según el encuestado la causa o el origen de los síntomas ansiosos y depresivos reportados.
+
+
+-- TAMAÑO MUESTRAL
+
+El tamaño de la muestra fue 1.247 individuos. El número de personas que respondieron a la encuesta durante el periodo de estudio determinó el tamaño muestral, de modo que se trata de una muestra no probabilística, no representativa, en la cual no todos los individuos tuvieron la misma probabilidad de ser elegidos.
+
+
+-- ANÁLISIS DE LA INFORMACIÓN
+
+La información se analizó con el software estadístico SPSS® versión 21 (SPSS Inc.; Estados Unidos), licencia amparada. Las variables cualitativas categóricas se presentaron mediante frecuencias absolutas y relativas. Las variables cuantitativas se presentan como media ± desviación estándar, la mediana [intervalo intercuartílico], según los supuestos de normalidad (prueba de Shapiro-Wilk). Se hizo análisis por subgrupos de edad, sexo y oficio mediante el estadístico χ2 de Pearson o Fisher, asumiendo diferencias significativas a partir de p < 0,05. Se determinó la prevalencia de síntomas depresivos (PHQ-9 > 10) y ansiosos (GAD-7 > 5) clínicamente significativos. Se completaron todas las encuestas, por lo que no hubo datos ausentes.
+
+
+-- ASPECTOS ÉTICOS
+
+Esta investigación fue aprobada por el Comité de Investigación Institucional. Según la normativa colombiana, se clasifica con un riesgo menor que el mínimo. Se tomó el consentimiento informado a cada participante. Se tuvieron en cuenta los principios de la Declaración de Helsinki de la Asociación Médica Mundial. Se garantizó la confidencialidad y el respeto por la información brindada. Este manuscrito se construyó siguiendo las directrices de la Declaración STROBE.
+
+
+- RESULTADOS
+
+El 59,09% de las personas invitadas a participar respondieron a la encuesta. De las 1.291 encuestas diligenciadas, el 3,5% (n = 44) no autorizó el uso de la información para investigación, por lo que se las excluyó de la muestra. Se presentan resultados a partir de 1.247 encuestas diligenciadas en su totalidad. La mediana de edad fue 36 [15] (intervalo, 18-80) años; las demás características se presentan en la tabla 1 .
+
+
+-- PREVALENCIA DE SÍNTOMAS ANSIOSOS
+
+Se indagó por la presencia de síntomas ansiosos en la población de estudio en las últimas 2 semanas. El 49,9% de la población estudiada no tuvo síntomas ansiosos de importancia clínica. Se identificaron síntomas ansiosos leves (GAD-7 > 5) en el 31,7%, síntomas moderados (GAD-7 > 10) en el 13,4% y graves (GAD-7 > 15) en el 5,1% de los participanes. En la tabla 2 se presentan los síntomas ansiosos agrupados en síntomas de menor importancia clínica (ningún día-algunos días) y de mayor importancia clínica (más de la mitad de los días-casi todos los días).
+
+
+-- PREVALENCIA DE SÍNTOMAS DEPRESIVOS
+
+Se indagó por síntomas depresivos en la población de estudio en las últimas 2 semanas. El 59,4% de los participantes no tuvo síntomas depresivos; se identicaron síntomas leves (PHQ-9 = 5-9) en el 26,0%, moderados (PHQ-9 = 10-14) en el 8,2%, moderadamente graves (PHQ-9 = 15-19) en el 4,7% y graves (PHQ-7 > 20) en el 1,7%. En la tabla 3 se presentan los síntomas depresivos agrupados en síntomas de menor importancia clínica (ningún día-algunos días) y de mayor importancia clínica (más de la mitad de los días-casi todos los días).
+
+
+-- SÍNTOMAS NEUROVEGETATIVOS E IDEACIÓN SUICIDA SEGÚN SEXO
+
+Se encontró que el 19,3% de las mujeres y el 12,5% de los varones presentaban problemas relacionados con el apetito. En tanto que el 25,7% de las mujeres y el 19,8% de los varones tenían problemas relacionados con el sueño. En cuanto a la ideación de muerte o suicido, 62 mujeres (6,4%) y 19 varones (6,6%) admitieron este tipo de ideas en las últimas 2 semanas.
+
+
+- SÍNTOMAS DEPRESIVOS Y ANSIOSOS ENTRE MODERADOS Y GRAVES
+
+El 14,6 y el 18,5% de los encuestados reportaron, respectivamente, síntomas depresivos y ansiosos clínicamente significativos (de intensidad moderada y grave). Estos se compararon según sexo, franjas de edad y modalidad de trabajo (a distancia-virtual). Se encontró mayor proporción una de síntomas depresivos y ansiosos moderados a graves en mujeres, modalidad de trabajo presencial y en los más jóvenes (18-25 años) (Figura 1, Figura 2, Figura 3 ).Figura 1Figura 2Figura 3
+Se exploraron posibles asociaciones de los síntomas depresivos y ansiosos con las demás variables de estudio. La presencia de síntomas ansiosos se asoció con el sexo femenino (p = 0,004) y la modalidad de trabajo presencial (p = 0,004). Los síntomas depresivos se asociaron con sexo femenino (p = ,005), pero no con la modalidad de trabajo presencial (p = 0,1 33). Asimismo la presencia de ansiedad moderada fue mayor en el personal que desempeñaba labores asociadas con el cuidado de la salud que en aquellos con labores administrativas (p = 0,046).
+
+
+- DISCUSIÓN
+
+Durante 2020 los trabajadores del sector salud han afrontado situaciones inéditas: atender a pacientes con COVID-19, sortear los cambios sociales, afrontar fuertes estresores como la muerte de sus pares y tomar decisiones en escenarios clínicos de gran incertidumbre. Esto ha hecho que los profesionales de la salud sean descritos en términos heroicos. Sin embargo, la potencial crisis de salud mental que podría desarrollarse entre los trabajadores de salud no ha recibido suficiente atención. El estrés al que se exponen actualmente puede afectar a la salud física y mental de la fuerza laboral sanitaria y, a su vez, reducir su capacidad para enfrentarse eficazmente a la actual emergencia de salud.
+El principal hallazgo de este estudio es que 1 de cada 5 personas encuestadas mostraba síntomas ansiosos y 1 de cada 6, síntomas depresivos de importancia clínica. En en la población general de Medellín, la prevalencia de trastorno depresivo mayor en los últimos 30 días es del 2,20% (la de cualquier trastorno del estado del ánimo, el 2,82%) y la del trastorno de ansiedad generalizada, del 0,46% (cualquier trastorno de ansiedad, el 5,08%). Por lo tanto, las prevalencias de síntomas depresivos y ansiosos en nuestro estudio con población del sector salud fueron 7 veces mayores para depresión y los de ansiedad, hasta 40 veces.
+Nuestros hallazgos coinciden con estudios recientes realizados en otros países, que han arrojado resultados alarmantes respecto a la salud mental del personal sanitario, . Por ejemplo, la encuesta realizada por el equipo de Jianbo Lia et al., en 1.257 sujetos pertenecientes al personal de salud de China, encontró síntomas depresivos y ansiosos (entre moderados y graves) en un 14,8 y un 12.,3% de los encuestados respectivamente. Asimismo, en una revisión sistemática y metanalítica reciente que incluyó 13 estudios y 33.062 participantes, Pappa et al. encontraron unas prevalencias de ansiedad del 23,2%, de depresión del 22,8% y de insomnio del 38,9%, lo cual muestra la elevada prevalencia de estos síntomas mentales en los trabajadores de la salud.
+Otros autores han querido determinar cómo se relacionan algunos síntomas de salud mental según el trabajo realizado durante la pandemia. En China, Zhang et al. realizaron un estudio con 2.182 personas con el objetivo de comparar los problemas psicosociales y de salud mental durante el brote de la COVID-19 en 2 grupos de trabajadores. Encontraron mayores prevalencias de insomnio (el 38,4 frente al 30,5%; p < 0,01), ansiedad (el 13,0 frente al 8,5%; p < 0,01), depresión (el 12,2 frente al 9,5%; p < 0,04), somatización (el 1,6 frente al 0,4%; p < 0,01) y síntomas obsesivos compulsivos (el 5,3 frente al 2,2%; p < 0,01) en el grupo médico. De modo similar, en nuestro estudio se observó que los individuos con trabajos relacionados con el cuidado de la salud reportaron síntomas ansiosos de intensidad moderada con mayor frecuencia que los trabajadores de áreas no clínicas. Así, los diferentes factores estresantes durante las largas horas de trabajo, la privación de sueño, además de los síntomas ansiosos y depresivos, podrían constituir una fuente importante de fatiga y mal juicio clínico, lo cual tiene impacto negativo no solo en la calidad de vida del personal de salud, sino también en la adecuada atención de los pacientes en necesidad.
+Además, es importante tener el cuenta que, aun en tiempo previos a la pandemia de COVID-19, el personal de salud constituye una población vulnerable en sí misma en cuanto a problemas de salud mental. De hecho, la tasa de suicidio de los médicos es un 44% mayor que la de la población general; el personal de enfermería y otros trabajadores de la salud también están en alto riesgo. Algunos autores señalan que este riesgo podría aumentar ante la situación actual. En concordancia, el 6,5% de los individuos de nuestro estudio admitieron haber tenido ideas de muerte o suicidio en las últimas 2 semanas. Otros estudios no han reportado hallazgos en este aspecto en particular, que se debe abordar lo antes posible.
+
+
+-- LIMITACIONES
+
+Entre las limitaciones de este estudio, se encuentran las siguientes: primero, por tratarse de un estudio de tipo transversal, no se puede establecer con exactitud la relación temporal entre la exposición y la enfermedad; segundo, los instrumentos empleados para identificar tanto los síntomas depresivos como los ansiosos, si bien son instrumentos válidos y de amplio uso en investigación, no permiten hacer los diagnósticos de trastorno depresivo o ansioso; tercero, los datos que se presentan solo describen lo ocurrido en un tiempo específico y no son generalizables a otro tiempo incluso en la misma población de estudio; cuarto, los sesgos de memoria son posbiles en este tipo de estudio; quinto, la participación de los empleados estuvo cerca pero fue < 60%, y sexto, los criterios de inclusión y exclusión mencionados previamente no tuvieron en cuenta factores como el tiempo de contrato laboral, las incapacidades o el tiempo vacacional, lo se reflejará en una muestra más heterogénea y por sí misma no representativa. Sin embargo, este estudio aporta información importante frente a síntomas depresivos y ansiosos en un grupo grande de empleados de una institución de salud en la ciudad de Medellín durante la pandemia de COVID-19.
+
+
+- CONCLUSIONES
+
+Se identificaron síntomas ansiosos y depresivos de alta prevalencia en trabajadores de una institución de salud durante la pandemia de COVID-19 en la ciudad de Medellín, Colombia. No se observó un claro predominio de síntomas ansiosos y depresivos según el sexo como es habitual en la población general. Si bien son necesarios más estudios para medir el impacto de estos síntomas en el personal del sector salud, su alta prevelencia ya es preocupante.
+Los ejecutivos y gerentes de atención médica deben conocer el potencial aumento del estrés psicológico al que se enfrenta el personal de salud durante los tiempos de la COVID-19. El apoyo al personal del sector salud y sus familias podría proteger de los resultados psicológicos adversos. Dado el papel vital de esta población en tiempos de pandemia, el desarrollo de programas de salud mental que aborden los problemas de sector salud debería considerarse una prioridad.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno

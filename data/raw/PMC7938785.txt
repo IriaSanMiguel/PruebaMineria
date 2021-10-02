@@ -1,0 +1,25 @@
+IMPACTO DE LA TERAPIA CON CORTICOIDES EN LA SUPERVIVENCIA DE LOS PACIENTES CRÍTICOS CON COVID-19 INGRESADOS EN UNA UNIDAD DE CUIDADOS INTENSIVOS
+
+
+El beneficio potencial de los corticoides en el tratamiento de la sepsis o el síndrome de dificultad respiratoria aguda se ha evaluado en numerosos ensayos clínicos con efectos contradictorios sobre la mortalidad. Recientemente el trabajo de Villar et al. evidenciaba la eficacia de la dexametasona en enfermos con síndrome de dificultad respiratoria aguda de diversos orígenes.
+En el contexto actual de pandemia, la mayoría de los estudios iniciales de corticoides para COVID-19 habían sido de baja calidad. Sin embargo, los datos publicados del ensayo RECOVERY consolidaban la confianza del empleo de los corticoides en estos pacientes, al reducir la mortalidad en los enfermos que requirieron ventilación mecánica.
+A raíz de estos hallazgos, hemos querido analizar el impacto de la instauración de tratamiento corticoideo en la supervivencia a corto plazo (28 días) de los enfermos ingresados en nuestra UCI por SARS-CoV-2. Para ello, realizamos un estudio retrospectivo de todos los casos hospitalizados por infección por SARS-CoV-2 ingresados entre el 15 de marzo y el 5 de diciembre de 2020. Se registró el uso de corticoide como una variable binaria (sí o no) si al menos los pacientes recibían 40 mg de metilprednisolona o su equivalencia durante un período de al menos 5 días con el fin de tratar la inflamación asociada con la neumonía viral.
+Se hizo un análisis descriptivo de la muestra y después un análisis de supervivencia a 28 días con el método de Kaplan-Meier para la variable tiempo de muerte. Ambas curvas de supervivencia se compararon mediante el test de log-rank.
+En el período estudiado, ingresaron un total de 254 enfermos. Fueron excluidos 28 pacientes en los que no se confirmó la presencia de SARS-CoV-2. Se analizaron 228 enfermos, de los cuales 122 recibieron tratamiento con corticoides y 106 no lo recibieron.
+Los enfermos que recibieron tratamiento corticoideo presentaban mayor edad (diferencia de 4 años; IC 95%: 0,47-7,53; p = 0,02) y mayor obesidad (p = 0,03). No se evidenciaron diferencias en el valor de la PaO2/FiO2 al ingreso (p = 0,34) ni en la necesidad de ventilación mecánica durante el ingreso en UCI entre los 2 grupos comparados.
+El uso de corticoides durante el ingreso se asoció a una mayor probabilidad de supervivencia a los 28 días de forma significativa (HR: 1,8; IC 95%: 1,04-3,2).
+Por último, el análisis de supervivencia mediante la curva de Kaplan-Meier evidenció mayor supervivencia a 28 días estadísticamente significativa (log-rank p = 0,0345) en el grupo de pacientes que recibieron tratamiento corticoideo (fig. 1 ).Figura 1
+Durante esta pandemia, un gran número de pacientes han recibido una gran variedad de terapias experimentales en todo tipo de combinaciones, a menudo con un mínimo apoyo científico de eficacia, de una manera tan azarosa que dificulta cualquier evaluación de su efecto. Para algunos autores esto ha supuesto que los médicos dilapiden décadas de progreso en la medicina basada en la evidencia frente a un nuevo desafío por un deseo desesperado de «hacer algo».
+En este sentido, si hablamos del posible impacto de los corticoides en la evolución de los enfermos con infección por SARS-CoV-2, el ensayo RECOVERY es uno de los estudios más sólidos que podemos analizar: es un estudio abierto y aleatorizado en el que se comparó a más de 2.000 pacientes tratados con corticoides frente a más de 4.000 pacientes que recibieron tratamiento estándar. Entre sus resultados, se puso de manifiesto que la dexametasona (6 mg al día) reducía la mortalidad significativamente en pacientes con ventilación mecánica, pero no en pacientes sin insuficiencia respiratoria. Estos resultados, a pesar de lo cuestionable de su metodología, precipitaron el anuncio de que los corticoides eran el tratamiento estándar para la COVID-19.
+No obstante, en un reciente metaanálisis (con datos agrupados de 7 estudios), el efecto en la disminución de la mortalidad desaparecía cuando los datos del ensayo RECOVERY eran excluidos, lo que indica un sobrepeso de estos datos en el metaanálisis. Lo que parece evidente es que la heterogeneidad de los ensayos realizados hasta el momento (compuestos, dosis, gravedad de los enfermos, momento de administración…) limita la validez de la interpretación de los resultados.
+En este sentido, aunque nuestros datos reflejan una mejor supervivencia en aquellos enfermos que recibieron tratamiento con corticoides, se necesitan estudios de mayor potencia que aclaren qué enfermos se beneficiarán en mayor medida de esta terapia, puesto que la administración de corticoides puede ser perjudicial porque parece retrasar la eliminación viral y favorecer las sobreinfecciones y la hiperglucemia.
+
+
+- FINANCIACIÓN
+
+El presente manuscrito no ha recibido financiación alguna.
+
+
+- CONFLICTO DE INTERESES
+
+Todos los autores reconocen no presentar conflicto de intereses en la realización del presente trabajo.

@@ -1,0 +1,5 @@
+Estimar cambios en la prevalencia de síntomas depresivos (SD) y en la cobertura de detección y tratamiento entre 2006 y 2018, e identificar los factores sociodemográfi-cos asociados con estos últimos.
+Este trabajo brinda evidencia sobre las brechas que existen en el acceso a servicios de salud mental entre regiones y diferentes niveles de marginación, y resalta la necesidad de encaminar esfuerzos para incrementar acceso de servicios de salud que permitan el diagnóstico y tratamiento oportunos de SD y la depresión.
+La prevalencia de SD fue respectivamente de 15.4, 13.7, 13.6 y 15.0%. Vivir en municipios con muy alto y alto grado de marginación se asoció con menor cobertura de detección y tratamiento de depresión.
+Se utilizaron datos de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2006, 2012, 2018-19 y 100k. Usamos regresión logística para explorar factores demográficos asociados con detección y tratamiento de depresión.
+

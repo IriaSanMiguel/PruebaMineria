@@ -1,0 +1,5 @@
+La elevada sensibilidad de la Escala de Alvarado para puntuación mayor o igual de 5 hace aconsejable su aplicación en todo paciente que acude al Servicio de Urgencias con dolor en la fosa iliaca derecha. Puntuaciones mayores o iguales a 7 disminuyen la TAN hasta el 3%. La ecografía abdominal es una prueba rápida y barata con una TAN baja.
+Establecer la tasa de apendicectomía negativa (TAN) y evaluar las diferencias entre la Escala de Alvarado y la ecografía abdominal en los pacientes con apendicitis aguda (AA) y aquellos con apendicectomía negativa.
+Estudio descriptivo, retrospectivo de corte transversal. Se recogieron los pacientes intervenidos de urgencia bajo sospecha de AA durante un año en un hospital de tercer nivel.
+Se incluyeron 225 pacientes. La TAN fue de 7,11%. Una puntuación en la Escala de Alvarado mayor o igual de 5 obtuvo una odds ratio (OR) de 7,46 (p = 0,0002) para padecer AA, con una sensibilidad del 94,2%. La ecografía compatible con AA obtuvo una OR 3,58 (p = 0,0125) y una TAN del 5%.
+

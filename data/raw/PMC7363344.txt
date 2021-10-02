@@ -1,0 +1,80 @@
+PREVALENCIA DE COLONIZACIÓN VAGINORRECTAL POR STREPTOCOCCUS AGALACTIAE Y SU PERFIL DE SENSIBILIDAD EN MUJERES EMBARAZADAS ATENDIDAS EN UN HOSPITAL DE TERCER NIVEL
+
+
+Streptococcus agalactiae o estreptococo del grupo B coloniza habitualmente las vías genitourinarias y gastrointestinales del humano. Esta bacteria se considera de gran importancia por ser el principal agente etiológico de la infección invasiva del recién nacido -, pues se adquiere en el momento del nacimiento a través del canal vaginal.
+Generalmente, la colonización materna es asintomática y muestra prevalencias variables, entre el 5 y el 30 %, a nivel mundial ,. Las mujeres gestantes colonizadas pueden transmitir esta bacteria a sus hijos, lo cual favorece el desarrollo de infección neonatal temprana en 1 a 2 % de los neonatos -.
+En los Estados Unidos, se ha descrito que la infección por S. agalactiae es la principal causa de mortalidad y morbilidad neonatal. En la década de 1970, alcanzó una tasa de letalidad de 50 %, aproximadamente, la cual ha disminuido a partir del año 1990 hasta el 5 %, gracias a la implementación de las medidas de prevención por parte del American College of Obstetricians and Gynecologists (ACOG) y los Centers for Disease Control and Prevention (CDC) .
+Estas medidas están basadas en la tamización mediante cultivos vaginorrectales en mujeres embarazadas con 35 a 37 semanas de gestación y en la profilaxis antibiótica intraparto ,,. Los CDC sugieren el uso de medios de cultivo selectivos y específicos, para aumentar significativamente las tasas de detección de S. agalactiae; para la profilaxis, recomiendan administrar penicilina G y, en las mujeres gestantes alérgicas a los betalactámicos, se debe usar clindamicina como antibiótico de segunda línea .
+En Colombia, son pocos los estudios de prevalencia de colonización por estreptococo del grupo B; se han encontrado tasas variables: de 5,7 %, 8,6 % y 17,6 % en Medellín ,,, de 0,38 %, 16,4 % y 15,2 % en Bogotá ,,, de 36,6 % en Cartagena , y de 3,9 % en Cali . En el departamento de Santander, no se encontraron reportes sobre la prevalencia de colonización y los perfiles de sensibilidad de este microorganismo en mujeres gestantes, y es importante la realización de estudios en la región, no obstante, en el futuro se espera tener tasas de prevalencia globales de colonización en Colombia, al encontrarse la tamización de búsqueda de S. agalactiae, dentro de los lineamientos de obligatorio cumplimiento de la ruta materno-perinatal y en la Ruta Integral de Atención en Salud (RIAS).
+La tamización y la vigilancia de los perfiles de sensibilidad a los antibióticos son cruciales para una prevención adecuada en las mujeres con alto riesgo de anafilaxis y, especialmente, por el aumento de cepas no sensibles a la penicilina, la cual se usa empíricamente. La falta de atención médica y el uso abusivo de estos fármacos, han incrementado el número de aislamientos resistentes que reducen las alternativas de profilaxis .
+Considerando lo anterior y teniendo en cuenta la falta de datos en Santander, el objetivo de este estudio fue estimar la prevalencia de colonización vaginorrectal de S. agalactiae y establecer su perfil de sensibilidad antimicrobiana en mujeres embarazadas atendidas en un hospital de tercer nivel.
+
+
+- MATERIALES Y MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+El estudio es de tipo observacional, descriptivo y de corte transversal.
+
+
+-- POBLACIÓN Y MUESTRA
+
+Se muestrearon 121 mujeres con 35 a 37 semanas de gestación, atendidas en los servicios de consulta externa o urgencias de un hospital de tercer nivel. El 68,5 % de las pacientes provenía de Bucaramanga y de otros municipios del área metropolitana, y la edad promedio era de 25,09 años, con una mediana de 23 años. Se incluyeron pacientes adultas y menores de edad que cumplían con los criterios de inclusión, previa firma del consentimiento informado.
+Como criterio de exclusión, se tuvieron en cuenta: ruptura prematura de membranas; infección bacteriana vaginal o rectal; infección urinaria o bacteriuria asintomática diagnosticada en los ocho días anteriores a la toma de la muestra, administración de antibiótico en el mes previo a su valoración y tratamiento local tópico con óvulos o cremas vaginales al momento de tomar la muestra.
+
+
+-- AISLAMIENTO E IDENTIFICACIÓN
+
+Se tomó un hisopado del introito vaginal y uno de la región anorrectal, los cuales fueron transportados en medio Amies Portagerm™ (bioMerieux, France). Las muestras se cultivaron directamente en caldo selectivo de ToddHewitt (bioMerieux, France), con suplemento de los antibióticos gentamicina (8 µg/ml) y ácido nalidíxico (15 µg/ml). Se incubaron durante 18 a 24 horas a 37±2 ºC en condiciones de aerobiosis.
+Posteriormente, se cultivaron en medio cromogénico ChromID Strepto B™ (bioMerieux, France) y en agar sangre de cordero al 5 % (Agar Columbia, bioMerieux, France). Las placas se incubaron de 18 a 24 horas, las de agar sangre, en atmósfera con 5 % de CO2 y, aquellas con medio cromogénico ChromID Strepto B™ en atmósfera aerobia y protegidas de la luz.
+Se consideraron colonias indicativas de S. agalactiae las de color rosa pálido o rojo en el medio cromogénico, colonias medianas o pequeñas β-hemolíticas en agar sangre o ambas. Se identificaron mediante tinción de Gram, prueba de catalasa, prueba de CAMP con Staphylococcus aureus ATCC 25923, y mediante el panel de pruebas bioquímicas automatizadas BD Phoenix™ (Becton Dickinson, USA).
+
+
+-- CEPAS CONTROL
+
+Se utilizaron las cepas de S. agalactiae ATCC 12403 para el control de calidad del medio cromogénico y del agar sangre, y S. pneumoniae ATCC 49619, como control de los antibiogramas por el método de Kirby-Bauer.
+
+
+-- SENSIBILIDAD ANTIMICROBIANA
+
+El antibiograma se obtuvo mediante el método de difusión en disco en medio de Mueller-Hinton con 5 % de sangre, y se emplearon sensidiscos con 10 U de penicilina G, 15 µg de eritromicina, 2 µg de clindamicina, 30 µg de tetraciclina y 5 µg de levofloxacina (Oxoid, UK), siguiendo las normas establecidas por el Clinical Laboratory Standards Institute (CLSI, 2016). Se practicó el test D usando discos de 15 µg de eritromicina y 2 µg de clindamicina, a una distancia de 12 mm uno del otro, siguiendo la guía del CLSI para determinar los fenotipos de resistencia a los antibióticos MLSB.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+La base de datos se generó en Microsoft Office Excel 2013 y se analizó en Stata 12.1™. Se hizo un análisis univariado para la descripción de las características sociodemográficas, los antecedentes ginecoobstétricos, la gestación actual y los resultados de laboratorio clínico, con intervalos de confianza del 95 %.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Este estudio fue evaluado y aprobado por el Comité de Ética en Investigación Científica de la Universidad Industrial de Santander (CEINCIUIS) y del Hospital Universitario de Santander. Esta investigación fue considerada de riesgo mínimo para las pacientes, según lo establecido en el artículo 11 de la Resolución 008430 de 1993 del Ministerio de Salud.
+
+
+- RESULTADOS
+
+De las 121 mujeres muestreadas, en 25 mujeres gestantes se obtuvo, al menos, un cultivo positivo para S. agalactiae, lo que corresponde a una prevalencia global de 20,66 %. Del total de mujeres gestantes con cultivos positivos, 19 (15,7 %) eran portadoras de S. agalactiae en la vagina, 21 (17,36 %), en la zona anorrectal y, 15 (12,4%), tanto en la región anorrectal como la vaginal. Se obtuvieron 40 aislamientos de S. agalactiae, entre los cuales se encontró una cepa con fenotipo no hemolítico, la cual se detectó en el agar cromogénico y se identificó posteriormente como S. agalactiae.
+El análisis de las variables sociodemográficas de las pacientes colonizadas por S. agalactiae, no mostró diferencias estadísticamente significativas en comparación con la población no colonizada. En este estudio, no se observó una relación significativa entre las pacientes con antecedentes ginecoobstétricos de riesgo de colonización y las pacientes colonizadas, lo cual concuerda con la guía de los CDC, donde refieren que la mayoría de las mujeres colonizadas no tienen factores de riesgo. Las características de las mujeres gestantes a quienes se les practicó el cultivo, se resumen en el cuadro 1.
+Frente a los resultados obtenidos según el perfil de sensibilidad, se encontró que el 87,5 % fueron sensibles a la penicilina, mientras que el 12,5 % no lo fueron. La sensibilidad a la levofloxacina, la clindamicina y la eritromicina fue de 100 %, 92,5 % y 87,5 %, respectivamente .
+Figura 1.
+El fenotipo iMLSB se expresó en tres aislamientos y el M en dos . No se encontró sensibilidad a la tetraciclina en las cepas estudiadas.
+
+
+- DISCUSIÓN
+
+Streptococcus agalactiae puede producir infección intrauterina o infección neonatal de instalación temprana o tardía. La infección se adquiere de manera vertical por contacto del feto con secreciones vaginales en el momento del parto o por ascenso de la bacteria a través de las membranas ovulares rotas ,,. Se hace importante detectar mujeres portadoras mediante el cultivo vaginorrectal entre las semanas 35 y 37 de gestación, ya que permite una aproximación más real al estado de colonización de la mujer en el momento del parto ,.
+Se reporta que el cultivo sistemático de tamización ofrece mayor efectividad en la prevención de la transmisión vertical, en comparación con la prevención basada solo en factores de riesgo, como el embarazo de menos de 37 semanas, la ruptura prematura de membranas de más de 18 horas y la fiebre por encima de los 38 ºC ,. En el estudio de Scharg, et al. (2002), se encontró que hasta el 18 % de las mujeres gestantes portadoras no presentaban factores de riesgo. Por esta razón, esta metodología permitiría la identificación precoz en estas pacientes .
+Para la tamización, los CDC recomiendan el cultivo en caldo de Todd-Hewitt con suplemento de antibióticos, y sugiere el uso de medios cromogénicos para aumentar la detección de portadoras de S. agalactiae.
+Siguiendo esta metodología, se estimó una prevalencia de colonización del 20,66 % en este estudio, similar a la encontrada en varios países de Europa y en los Estados Unidos -. En países como Argentina, Perú, Uruguay, Venezuela, Brasil, México y Chile, se han reportado prevalencias que oscilan entre 1,4 % y 62,7 % -.
+La mayor prevalencia hallada en este trabajo, en comparación con otros reportes del país -,,,-, puede explicarse por el sitio de toma de la muestra (rectal, vaginal o ambas), la población estudiada y el uso de medios de cultivos específicos, ya que se ha reportado que un escaso porcentaje de S. agalactiae (menor del 2 %) no produce betahemólisis . Además, al usar solo medios convencionales, se pasarían por alto estos aislamientos que pueden ser de difícil identificación, como se confirmó en este estudio al encontrar S. agalactiae de un fenotipo no hemolítico y que solo pudo ser detectado con el medio cromogénico.
+Asimismo, el cultivo fue positivo para S. agalactiae en la muestra anorrectal del 17,36 % de las mujeres gestantes y, a su vez, en 71 % de ellas, el cultivo de la muestra vaginal fue positivo; por lo tanto, se hace importante hacer cultivos de ambos sitios para disminuir el riesgo de transmisión con una profilaxis oportuna .
+En el presente estudio, no se hizo seguimiento a los recién nacidos de madres colonizadas, para determinar el grado de transmisión y colonización neonatal.
+Del total de mujeres gestantes con el antecedente de parto prematuro, solamente en una (4 %) el cultivo fue positivo para S. agalactiae .
+Se ha reportado que entre el 40 y el 70 % de las mujeres gestantes colonizadas por S. agalactiae transmiten el microorganismo a sus hijos durante el parto y que 1 a 2 % de los recién nacidos colonizados desarrollan la infección neonatal ,,. Es así que los CDC recomiendan que toda mujer con el antecedente de un hijo con diagnóstico de enfermedad invasiva por S. agalactiae, reciba profilaxis .
+La profilaxis intraparto se ha convertido en una estrategia eficaz que ha logrado disminuir la infección neonatal temprana por S. agalactiae. Cabe destacar que el 12,5 % las cepas encontradas no fueron sensibles a la penicilina (figura 1); debe tenerse en cuenta que los estreptococos siempre se han considerado sensibles a los antibióticos betalactámicos y que, hasta el momento, no se han establecido criterios de resistencia de este microorganismo contra estos fármacos por parte del CLSI.
+La presencia de aislamientos fenotípicamente no sensibles a la penicilina, crea la necesidad de llevar a cabo estudios de vigilancia epidemiológica, de caracterizar los cinco aislamientos encontrados en este trabajo, determinar el serogrupo y la concentración inhibitoria mínima (CIM) a la penicilina, y practicar las pruebas moleculares para dilucidar la razón del perfil encontrado.
+Se ha informado S. agalactiae con tolerancia o sensibilidad disminuida a la penicilina desde 1994 . En un estudio en Japón, se identificaron cepas de aislamientos clínicos de S. agalactiae con una CIM por encima de los criterios establecidos por el CLSI (≤0,12 µg/ml) , lo cual demostró que la reducción de la sensibilidad se debía a la sustitución de aminoácidos en la proteína fijadora de penicilina, PBP2X ; y, en otro estudio más reciente en el noroeste de Etiopía, se encontró una sensibilidad de 89,6 % a este antimicrobiano . Sin embargo, aún predominan las cepas sensibles y, por ello, no se hace necesario verificar de forma rutinaria la sensibilidad a este antibiótico.
+Por otra parte, se han reportado algunas mujeres gestantes que pueden presentar procesos alérgicos a la penicilina, por lo cual se recomienda la clindamicina como tratamiento hasta finalizar el parto . Entre los aislamientos analizados en este estudio, 3 (7,5 %) cepas presentaron sensibilidad in vitro a la clindamicina y fueron positivas con el test D, por lo cual se reportaron como resistentes y su fenotipo fue iMLSB.
+La capacidad de estas cepas para adquirir este tipo de resistencia radica en la presencia de metilasas, enzimas que están codificadas por los genes erm (Erythromycin Ribosome Methylase), cuya producción se ve favorecida por inductores fuertes, como la eritromicina, o por inductores débiles, como la clindamicina ,.
+Teniendo en cuenta que la clindamicina se considera un inductor débil a largo plazo, se hace muy importante detectar este mecanismo de resistencia en estos aislamientos, antes de administrarla, pues podría tener como consecuencia la falla terapéutica .
+En este trabajo se encontró una prevalencia de colonización vaginorrectal por S. agalactiae del 20,66 %, lo cual evidencia la importancia de su búsqueda activa en mujeres embarazadas para establecer la profilaxis durante la gestación. Asimismo, se resalta la importancia de la utilización de medios cromogénicos, ya que permite detectar cepas S. agalactiae con fenotipo no hemolítico.
+Las cepas aisladas presentaron fenotipo con sensibilidad a la penicilina y resistencia a los macrólidos y lincosamidas. Esto demuestra la necesidad de la vigilancia epidemiológica, pues estos antibióticos se emplean como tratamiento en la profilaxis intraparto y, a su vez, la necesidad de caracterizar las cepas aisladas en este estudio.

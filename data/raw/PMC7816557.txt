@@ -1,0 +1,62 @@
+CARACTERÍSTICAS CLÍNICAS Y COMORBILIDADES ASOCIADAS A MORTALIDAD EN PACIENTES CON COVID-19 EN COAHUILA (MÉXICO
+
+
+- INTRODUCCIÓN
+
+En diciembre del 2019, se notificó a la Organización Mundial de la Salud (OMS) la presencia de casos de neumonía de causa desconocida detectados en la ciudad de Wuhan, China. Las autoridades identificaron, posteriormente, un nuevo coronavirus (SARS-CoV-2) como agente causal de esta enfermedad (COVID-19). La OMS declaró esta patología como urgencia de salud pública global el 30 de enero del 2020; comunicándose aproximadamente un mes después el primer caso en América Latina.
+La primera persona con COVID-19 en México se detectó el 27 de febrero de ese mismo año. Dos días después, se comunicó en el estado de Coahuila el primer caso de infección por SARS-CoV-2 (el cuarto en México). El 30 de marzo se decretó una emergencia de salud en el país.
+Los altos índices de hipertensión, obesidad y diabetes en México son preocupantes. Se ha demostrado que la existencia de comorbilidades asociadas con la infección por SARS-CoV-2 incrementan el riesgo de mortalidad; sin embargo, la mayoría de la evidencia proviene de estudios realizados en Asia, por lo que son necesarias otras investigaciones que analicen estos datos en otras regiones, .
+El objetivo de este estudio es describir las características de los pacientes con COVID-19 en un estado del norte de México y determinar las comorbilidades asociadas con la mortalidad, con el fin de aplicar mejores medidas encaminadas a salvaguardar a la población en riesgo.
+
+
+- MÉTODOS
+
+El diseño del estudio es una cohorte retrospectiva. Los datos fueron obtenidos de la plataforma del Sistema de Vigilancia de Enfermedades Respiratorias (SISVER) en el Sistema Nacional De Vigilancia Epidemiológica (SINAVE) de la Dirección General de Epidemiología de la Secretaría de Salud de México. Este estudio fue aprobado por el comité de ética en investigación, y no se utilizaron datos que pudieran identificar a los pacientes de forma individual.
+Se incluyeron los pacientes del estado de Coahuila de Zaragoza (México) con resultado positivo para SARS-CoV-2 mediante la prueba de reacción en cadena de la polimerasa en tiempo real, registrados del 17 de marzo al 12 de agosto del 2020.
+La reacción en cadena de la polimerasa en tiempo real fue realizada en los pacientes que cumplieron con la definición operativa de caso sospechoso de COVID-19: «persona de cualquier edad que, en los últimos 10 días, haya presentado al menos uno de los siguientes síntomas: tos, disnea, fiebre o cefalea. Acompañado de al menos uno de los siguientes signos o síntomas: mialgias, artralgias, odinofagia, escalofríos, dolor torácico, rinorrea, polipnea, anosmia, disgeusia o conjuntivitis». Esta definición se encuentra en el Lineamiento estandarizado para la vigilancia epidemiológica y por laboratorio de la enfermedad respiratoria viral de la Secretaría de Salud de México.
+Para el análisis estadístico se consideraron: la edad, el sexo, la necesidad de tratamiento intrahospitalario, el requerimiento de administrar oxígeno suplementario, la sintomatología reportada (fiebre, tos, rinorrea, dolor faríngeo, conjuntivitis, anosmia, cefalea, evacuaciones diarreicas, vómito, dolor abdominal, mialgias, artralgias, afectación del estado general, dolor torácico, disnea y cianosis), así como comorbilidades asociadas (diabetes mellitus, enfermedad pulmonar obstructiva crónica, asma, hipertensión arterial sistémica, enfermedad cardiaca, obesidad, daño renal crónico, tabaquismo e infección por el virus de la inmunodeficiencia humana).
+Como variable de desenlace, se consideró la mortalidad, por lo que se dividió a los pacientes en dos grupos: supervivientes y no supervivientes.
+Los datos cuantitativos se expresaron como media y desviación estándar; las variables cualitativas, mediante frecuencia y porcentaje. Para la comparación entre grupos, se utilizaron la prueba de X 2 y la t de Student independiente.
+Para determinar los factores de riego de mortalidad, se tuvieron en cuenta la edad y las comorbilidades asociadas mediante el modelo de regresión de Cox, tanto en su forma univariada como multivariada. Se consideró estadísticamente significativo un valor de p < 0,05.
+Para el análisis estadístico, se utilizó el programa IBM SPSS Statistics (IBM Corp. Released in 2013. IBM. SPSS Statistics for Windows, Version 21.0. Armonk NY: IBM Corp.).
+
+
+- RESULTADOS
+
+Se incluyeron en el estudio 17.479 pacientes, de los cuales 8.720 fueron mujeres (49,9%) y 8.759 hombres (50,1%) con una media de edad de 41,8 años. El 13,7% requirió tratamiento intrahospitalario; el 23,5% del total de los participantes necesitó la administración de oxígeno suplementario.
+La mortalidad reportada fue de 6,3% (1.094 pacientes) y el 60,5% de estos tenía más de 60 años.
+Los síntomas presentados con mayor frecuencia fueron: cefalea (75,2%), tos seca (69,5%) y fiebre (58,4%); el 23% presentó disnea y el 1,2%, cianosis. La hipertensión arterial sistémica, la obesidad y la diabetes mellitus fueron las comorbilidades más frecuentemente reportadas: 13,5; 11,6 y 10,9%, respectivamente.
+La edad, la necesidad de tratamiento intrahospitalario y el requerimiento de oxígeno suplementario demostraron diferencias significativas al comparar los supervivientes con los no supervivientes (p < 0,0001).
+En el grupo de los no supervivientes, el 34,1% presentó diabetes mellitus, el 39,9%, hipertensión arterial sistémica y el 19,8%, obesidad; vs. 9,4; 11,7 y 11%, respectivamente en el grupo de los supervivientes (p < 0,0001).
+El resto de las características de la población general, así como su comparación entre grupos, se muestran en la tabla 1 .
+De los datos examinados mediante el modelo de regresión de Cox univariado, se asociaron con un incremento estadísticamente significativo en el riesgo de mortalidad (p < 0,0001): edad mayor de 60 años, padecer diabetes mellitus, enfermedad pulmonar obstructiva crónica, hipertensión arterial sistémica, enfermedad cardiaca, obesidad y daño renal crónico. Estas variables se analizaron en conjunto mediante el modelo de regresión de Cox multivariado; la edad mayor a 60 años presentó una razón de riesgo (HR) de 8,04, con un intervalo de confianza del 95% (IC 95%) de 7,03 a 9,19.
+Entre las comorbilidades, los factores de riesgo asociados con la mortalidad en pacientes con COVID-19 fueron: diabetes mellitus (HR = 1,63; IC 95% 1,40 a 1,89), hipertensión arterial sistémica (HR = 1,48; IC 95% 1,28 a 1,72), obesidad (HR = 1,37; IC 95% 1,18 a 1,60) y daño renal crónico (HR = 2,06; IC 95% 1,64 a 2,59) (tabla 2 ).
+
+
+- DISCUSIÓN
+
+En cuanto a las características clínicas, de forma similar a nuestro estudio, los síntomas más frecuentes comunicados en la literatura mundial son: fiebre, tos y fatiga; asimismo, las comorbilidades más frecuentemente asociadas son hipertensión, enfermedad cardiovascular y diabetes. Sin embargo, aunque estas características son similares entre los distintos países y regiones, la mortalidad difiere en gran medida, .
+Una probable explicación es que, si bien las comorbilidades vinculadas a la infección por SARS-CoV-2 incrementan la mortalidad, la edad es un factor de riesgo determinante para un desenlace fatal en pacientes con COVID-19, .
+En un estudio en Brasil, con 2.070 pacientes con esta patología, aunque la proporción de diabetes (7,3%), obesidad (0,2%) y enfermedad renal (1%) fue menor que en nuestro trabajo, la mortalidad reportada fue del 6%, y el 75% de los pacientes con desenlace fatal era del grupo de más de 60 años, muchos de ellos con comorbilidades asociadas.
+En una cohorte de 13.842 pacientes en México, el 18% se encontró en el grupo de edad de más de 60 años; las personas con comorbilidades tuvieron un riesgo mayor de desenlace fatal, sin embargo, la mortalidad reportada fue del 9,4 vs. 6,3% de nuestro estudio. Una explicación probable sobre la diferencia en la letalidad podría ser la menor proporción de mayores de 60 años en nuestros pacientes (14%).
+Asimismo, en un estudio transversal, en el que se incluyeron 1.456 pacientes de diferentes países, con 26,4% de mortalidad, el 80% de los fallecidos era mayor de 65 años, y las enfermedades cardiovasculares y metabólicas asociadas incrementaron la mortalidad.
+Al comparar nuestro estudio con el realizado por Parra et al. encontramos algunos puntos interesantes. Si bien la media de edad de la población estudiada fue similar, la mortalidad es significativamente distinta: 11,5 vs. 6,3% en nuestro análisis.
+Esto puede deberse a la proporción menor de personas mayores de 60 años con COVID-19 en nuestro estudio (14 vs. 18,5%), así como el menor porcentaje de individuos en nuestro análisis con: diabetes (10,9 vs. 16,2%), hipertensión (13,5 vs. 20%), obesidad (11,6 vs. 19,2%) y enfermedad renal crónica (1,4 vs. 2%).
+Estas diferencias con respecto a la población con infección por SARS-CoV-2 en nuestra región, comparada con el resto de México, podrían deberse a las estrategias implantadas por las autoridades sanitarias para proteger a la población de riesgo.
+Podemos observar que, independientemente de la región geográfica, la presencia de comorbilidades en pacientes con COVID-19 es un factor de riesgo para la mortalidad y un factor asociado importante, que incrementa sustancialmente este riesgo en las personas con edad mayor a 60 años.
+
+
+- CONCLUSIONES
+
+En conclusión, la diabetes mellitus, la hipertensión arterial sistémica, la obesidad y el daño renal crónico incrementan la mortalidad en pacientes con COVID-19 en la población de Coahuila (México); sin embargo, la edad mayor a 60 años es el factor que más contribuye para el riesgo de muerte. Es importante continuar aplicando estrategias encaminadas a proteger a esta población vulnerable.
+Reconocemos que nuestro estudio tiene limitaciones, como su naturaleza retrospectiva y que las variables analizadas fueron obtenidas de una base de datos electrónica, lo que obstaculiza el seguimiento de los pacientes. Por ello, son necesarios más estudios en diferentes poblaciones para identificar factores modificables e implantar estrategias que impacten en la supervivencia de los pacientes.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

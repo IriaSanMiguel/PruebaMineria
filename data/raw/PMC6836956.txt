@@ -1,0 +1,197 @@
+HACIENDO EQUILIBRIOS ENTRE LOS RIESGOS Y BENEFICIOS DEL TRATAMIENTO FARMACOLÓGICO EN DEMENCIA, DOLOR CRÓNICO Y ANTICOAGULACIÓN EN PERSONAS MAYORES
+
+
+- CÓMO EVITAR EL SOBRETRATAMIENTO EN DEMENCIA
+
+La demencia o trastorno neurocognitivo mayor (DSMV) engloba un conjunto de enfermedades neurodegenerativas de carácter crónico y progresivo que prácticamente en su totalidad no tienen curación. Los objetivos del tratamiento deben ser realistas y adaptados a cada paciente, según la fase de la enfermedad, los síntomas y el entorno socio-familiar.
+El tratamiento es un «plan integral» que incluye fármacos y medidas no farmacológicas dirigidas individualizadamente a la tríada paciente-cuidador-entorno.
+La efectividad de los tratamientos ha de medirse en resultados de función cognitiva, mantenimiento de la funcionalidad, mejoría de los síntomas del comportamiento, el estado de ánimo, la calidad de vida del paciente e incluso el retraso en la institucionalización.
+Los tratamientos farmacológicos tienen un resultado modesto e incluso algunos síntomas, especialmente los trastornos de conducta, no responden, añadiendo en muchos casos efectos secundarios que empeoran la situación.
+
+
+- FÁRMACOS ESPECÍFICOS<XREF RID="BIB0125" REF-TYPE="BIBR">1</XREF>, <XREF RID="BIB0130" REF-TYPE="BIBR">2</XREF>, <XREF RID="BIB0135" REF-TYPE="BIBR">3</XREF
+
+Los inhibidores de la colinesterasa (donepezilo, rivastigmina y galantamina) y la memantina son el tratamiento farmacológico para la enfermedad de Alzheimer (EA). Los primeros están indicados en enfermedad de Alzheimer leve a moderada, demencia por cuerpos de Lewy, demencia asociada a Parkinson y demencia mixta. No están indicados en demencia vascular y están contraindicados en demencia frontotemporal. La memantina está indicada en e. Alzheimer moderada-severa sola o asociada a IACE. La eficacia de estos tratamientos es limitada y algunos efectos secundarios pueden contraindicar su uso o justificar su retirada en el curso de la enfermedad.
+En el momento del diagnóstico se debe informar al paciente y familia estableciendo objetivos clínicos basados en la mejora del manejo de las situaciones de la vida diaria. El seguimiento del paciente contando con los familiares para evaluar la respuesta ayudará al juicio clínico individualizado necesario para decidir sobre si continuar o suspender estos medicamentos. Aunque hay limitada evidencia científica sobre discontinuación de anticolinesterásicos, según las diferentes guías los motivos de retirada serían:•Si no está indicado (deterioro cognitivo leve, demencia frontotemporal, demencia vascular).•Si está contraindicado: úlcera activa, bradicardia (sin marcapasos), enfermedad pulmonar obstructiva crónica (EPOC) severa, IMC < 20.•Si lo pide el paciente o el familiar informados de la efectividad y efectos secundarios.•Por falta de eficacia:-Ausencia de respuesta a las 12-18 semanas.-Velocidad del deterioro cognitivo, síntomas del comportamiento o deterioro de función mayor al esperado. (Si demencia leve: disminución > 2 puntos/año en MMSE; si demencia moderada: disminución > 4 puntos/año MMSE-Si se llega a estadio de demencia severa, GDS 7 de la escala de Reisberg (capacidad de comunicación de tan solo 4-7 palabras e incontinencia urinaria), o CDR 3 (Clinical Dementia Rating)•Si hay efectos secundarios intolerables. Para IACE: síncope, bradicardia, caídas de repetición, aumento de reagudizaciones EPOC/neumonía, pérdida de peso. Para memantina: confusión, mareo.•Coexistencia de otras comorbilidades: Insuficiencia cardiaca, descompensación de la EPOC, aumento de infecciones urinarias con riesgo de sepsis.•Situación de final de la vida o enfermedad grave.
+Se aconseja retirar poco a poco, 25 a 50% cada 1-2 semanas, supervisar y reevaluar en tres meses. Si empeoramiento claro, reintroducir, supervisar y reevaluar en tres meses.
+
+
+- FÁRMACOS PARA LOS SÍNTOMAS PSICOLÓGICOS Y CONDUCTUALES
+
+Los síntomas psicológicos y conductuales (SPCD) son una serie de síntomas relacionados con la alteración de la percepción (alucinaciones, falsas identificaciones), el contenido del pensamiento (delirios), el ánimo (depresión, ansiedad) y la conducta (apatía, agitación, quejas repetidas, deambulación, insomnio, alteración del comportamiento alimentario y sexual, irritabilidad) que pueden presentarse en las personas con demencia.
+Estos síntomas producen gran malestar en el paciente y los cuidadores y son difíciles de corregir. Algunos de ellos, sobre todos las alteraciones de conducta, responden mal a los fármacos. Es necesario involucrar al cuidador, tener en cuenta sus opiniones, dudas, sentimientos y capacidad para buscar soluciones a las diversas situaciones, así como enseñarle las técnicas de cuidado y comunicación con el paciente. Los pasos a seguir en el abordaje de estos síntomas son:1.Diagnosticar correctamente el síntoma (su intensidad, frecuencia, duración y repercusión en el paciente y el cuidador).2.Identificar los factores desencadenantes para actuar sobre ellos: Dependientes del paciente: Fármacos: introducción de fármacos con efecto anticolinérgico, retirada brusca de algún fármaco, tratamiento analgésico inadecuado. Descompensación de enfermedad previa: insomnio en paciente con hipertrofia prostática, nicturia en paciente con insuficiencia cardiaca, dolor. Enfermedades intercurrentes: deshidratación en paciente que no solicita ingesta hídrica con desequilibrio hidroelectrolítico, impactación fecal. Frustración del paciente ante la imposibilidad de expresarse o realizar una tarea. Cambios en el entorno: ruidos (televisión, vecinos), espejos, obstáculos (bañeras), elementos «invitadores» (fuegos de gas, ventanas o puerta de entrada con pestillos, batidoras, afeitadoras, pequeños electrodomésticos…), cambios en las rutinas. Dependientes del cuidador: cuidador sobrecargado con ansiedad, depresión; mala relación previa con el paciente; falta de comunicación y aceptación de la enfermedad por escasa comunicación con el equipo asistencial o factores previos.3.Priorizar el/los síntomas a tratar fijando objetivos realistas pues es difícil corregirlos todos o hacerlos desaparecer.4.Planificar la intervención: comenzar siempre por intervenciones no farmacológicas: técnicas de modificación de conducta, adaptación del entorno, terapias específicas. Si es necesario, utilizar fármacos sin abandonar las intervenciones no farmacológicas.5.Evaluar los resultados de las intervenciones y modificar continuamente los planes.
+En la tabla 1 se recogen las técnicas que pueden ser aplicadas por el cuidador según el síntoma.
+
+
+- NEUROLÉPTICOS<XREF RID="BIB0145" REF-TYPE="BIBR">5</XREF>, <XREF RID="BIB0150" REF-TYPE="BIBR">6</XREF>, <XREF RID="BIB0155" REF-TYPE="BIBR">7</XREF
+
+Únicamente risperidona y aripripazol han demostrado eficacia modesta en agitación y síntomas psicóticos (falsas identificaciones, ideas delirantes, alucinaciones). Quetiapina ha demostrado a dosis moderadas mejoría en ansiedad y alteraciones del sueño, debido seguramente a su efecto sedante. Solo risperidona tiene incluida en ficha técnica indicación para síntomas psicóticos graves y agitación en pacientes con demencia. Haloperidol sería el indicado en agresividad aguda. Los efectos secundarios más frecuentes son síntomas extrapiramidales (13%); efectos anticolinérgicos (17%) (sedación, confusión, deterioro cognitivo, retención e ITU), y alteración en la marcha (10%). Comparando pacientes en tratamiento con los que no lo toman el riesgo de efectos secundarios muy graves fue para ictus (OR 2,13) y muerte por todas las causas (OR 1,54) comparando uso versus no uso. Quetiapina presenta menor riesgo de efectos secundarios, incluida muerte.
+
+
+-- RECOMENDACIONES DE USO
+
+Antes de prescribir: evaluar el síntoma, los posibles factores desencadenantes y la gravedad de los síntomas; valorar riesgo/beneficio del antipsicótico con la familia.
+Si se prescriben fuera de indicación, informar al paciente y familia y seguir el protocolo disponible.
+Si un paciente tiene prescrito un antipsicótico: repasar el listado de fármacos, indagar por qué y cuándo se le prescribió y evaluar su eficacia y efectos secundarios junto con la familia. Los síntomas no cognitivos son fluctuantes, con tendencia a la remisión con y sin tratamiento a medio plazo (unos 2-3 meses).
+
+
+-- DESPRESCIPCIÓN
+
+Si a dosis adecuada no hay respuesta clínicamente significativa en una o dos semanas y/o hay efectos secundarios: retirar completamente.
+Si se ha obtenido respuesta: retirar paulatinamente a los 3-4 meses del inicio del tratamiento, a menos que el paciente hubiera tenido una recurrencia en una retirada anterior. No hay evidencia de pauta de retirada. Se recomienda tener en cuenta la gravedad de los síntomas por los que se prescribieron, la dosis y duración del tratamiento y las presentaciones farmacéuticas disponibles. Si síntomas graves, dosis y duración elevadas, retirar un 25% de la dosis inicial cada dos semanas. Monitorización: reevaluar la situación telefónicamente a los dos días, semanal el primer mes, cada dos semanas hasta retirada (segundo mes).
+En el resto de situaciones, sobre todo si la dosis utilizada era baja, puede realizarse la retirada más rápidamente. Tras la retirada completa revisar al mes y advertir a la familia de que avise si reaparición de los síntomas.
+En todos los casos aconsejar medidas no farmacológicas como alternativa al tratamiento.
+Si reaparecen los síntomas con gravedad suficiente, reiniciar a la dosis eficaz más baja posible.
+
+
+- FARMACOTERAPIA PARA EL INSOMNIO
+
+El insomnio acompañado de hipersomnolencia diurna es multifactorial: afectación del ciclo sueño-vigilia en la demencia, la inactividad, la permanencia en cama muchas horas, la comorbilidad (nicturia en prostatismo y en insuficiencia cardiaca). Hay estudios sobre el efecto de intervenciones no farmacológicas como los diarios de sueño, la actividad física y social durante el día y la exposición a la luz con resultados contradictorios. Una revisión Cochrane de estudios con trazodona, raneleon y melatonina concluyó que hay poca evidencia para recomendar un tratamiento farmacológico en los trastornos del sueño en estos pacientes.
+Las benzodiacepinas y zolpidem, por sus efectos secundarios, deben restringirse, y si se utilizan, optar por las de vida media corta a la dosis mínima eficaz durante periodos cortos. La retirada debe ser paulatina reduciendo un 50% semanalmente.
+
+
+- ANTIDEPRESIVOS EN LA DEMENCIA
+
+En pacientes con depresión mayor, distimia grave o labilidad emocional severa y los que no hubieran respondido a medidas no farmacológicas, debe utilizarse un antidepresivo a dosis habituales. Los estudios realizados con sertralina y mirtazapina versus placebo han demostrado mejoría en los primeros meses de tratamiento, igualándose los resultados con placebo a las 32 semanas. Los tricíclicos y algunos IRSR con efecto anticolinérgico como paroxetina estarían menos indicados.
+
+
+-- RETIRADA DE ANTIDEPRESIVOS
+
+Los antidepresivos pueden tener un intenso efecto rebote en su retirada, por lo que se recomienda reducir la dosis diaria a la mitad en las primeras dos semanas y posteriormente a días alternos en las siguientes dos semanas.Puntos clave•Los fármacos específicos (donepezilo, rivastigmina, galantamina y memantina) tienen una eficacia modesta.•Los criterios de retirada incluyen la falta de respuesta en términos de cognición, función y calidad de vida y los efectos secundarios.•En los SPCD: antes de prescribir un fármaco evaluar la duración, gravedad y repercusión del síntoma, los posibles factores desencadenantes y la posibilidad de intervención no farmacológica.
+Solo en caso de síntomas psicóticos graves iniciar tratamiento farmacológico con neurolépticos, evaluando la respuesta y los efectos secundarios. Pasados tres o cuatro meses intentar retirada.
+
+
+- DOLOR CRÓNICO EN EL ANCIANO
+
+El dolor se define como «una experiencia sensorial o emocional desagradable asociada a una lesión tisular real o potencial o descrita en términos de dicho daño».
+Existen varios tipos de dolor. Según la duración:
+Según la fisiopatología:–Nociceptivo, que se subdivide en dolor somático superficial, somático profundo y visceral.–Neuropático.–Mixto.–Psicógeno.
+El dolor crónico en ancianos es predominantemente nociceptivo, pero también neuropático y mixto.
+Según la intensidad:–Leve: de 1 a 3 sobre 11 (0 = sin dolor, 10 = mayor dolor imaginable).–Moderado: de 4 a 7.–Intenso: ≥ 8.
+
+
+- TRATAMIENTO DEL DOLOR
+
+El dolor en el anciano suele ser estudiado y tratado peor y más tarde y los ensayos clínicos raramente los incluyen, .
+El infratratamiento del dolor se asocia a un aumento de la morbimortalidad.
+Debemos comenzar con tratamientos no farmacológicos (intervenciones físicas y educacionales) para llegar al farmacológico si es necesario, prefiriendo los tratamientos locales sistémicos.
+El objetivo terapéutico en el dolor crónico no oncológico (DCNO) es mejorar la funcionalidad física y psíquica del paciente, conseguir un control aceptable del dolor con los mínimos riesgos; pocas veces se conseguirá un alivio total.
+
+
+-- TRATAMIENTO FARMACOLÓGICO
+
+Los fármacos son la opción terapéutica más utilizada y pilar fundamental del tratamiento multidisciplinario del dolor en ancianos. Se clasifican en analgésicos primarios, secundarios y coadyuvantes.
+Para el tratamiento del dolor oncológico la Organización Mundial de la Salud estableció un protocolo terapéutico secuencial, «escalera analgésica», asumido para el tratamiento del DCNO, que se refiere al tratamiento del dolor nociceptivo y no al neuropático, ni dolores agudos y postoperatorios. Observó que seguir esta estrategia podía prolongar el sufrimiento del paciente, adoptando el sistema «ascensor terapéutico», que permite una escalada del tratamiento, evitando peldaños intermedios y prescribiendo así el analgésico según la intensidad del dolor.
+Normas de tratamiento racional:
+
+
+--- FÁRMACOS ANALGÉSICOS PRIMARIOS
+
+Son, junto con los opioides, pilar básico del tratamiento del dolor. Tienen actividad analgésica, antiinflamatoria y antipirética. Útiles para dolor leve-moderado. Sus principales limitaciones son: el efecto techo de analgesia y los efectos secundarios a nivel gastrointestinal (GI), renal, hematológico y hepático.
+Salicilatos. Analgésico, antipirético, antiinflamatorio y antiagregante. Con factores de riesgo o edad superior a 70 años, dar gastroprotección. No dar conjuntamente con ibuprofeno porque inhibe el efecto antiagregante del ácido acetilsalicílico (AAS).
+Paracetamol. De elección en el tratamiento del dolor leve-moderado y persistente (recomendación de las principales guías de práctica clínica), por su eficacia demostrada y buen perfil de seguridad.
+En disfunción hepática o renal o consumo excesivo de alcohol reducir la dosis en un 50-75% o cambiar de fármaco.
+Metamizol. Eficacia analgésica superior al paracetamol y similar a AAS.
+Antinflamatorios no esteroideos (AINE). Usar cuando paracetamol o AINE tópicos son ineficaces o proporcionan un alivio insuficiente. Los AINE y los coxibs: usarlos rara vez y con precaución en ancianos (GR. A) debido al alto riesgo de efectos secundarios potencialmente graves y mortales, tanto GI como renales y cardiovasculares, evaluándose periódicamente. El riesgo GI disminuye asociándose protector gástrico y aumenta administrando conjuntamente con aspirina.
+Es preferible el uso de AINE de acción rápida y corta (ibuprofeno, diclofenaco), el tiempo más breve posible, y evitar dosis acumulativas (GR. A).
+Los coxibs están contraindicados en pacientes con cardiopatía isquémica establecida y enfermedad cerebrovascular, y se deben usar con precaución en pacientes con factores de riesgo de enfermedad cardiovascular.–El AINE indicado en casos de riesgo GI bajo: ibuprofeno o naproxeno. Si hay riesgo GI mayor, pero no cardiovascular, elegir un coxib.–Si hay riesgo GI y cardiovascular y debe usarse AINE, utilizar naproxeno más ibuprofeno. El naproxeno es el fármaco con menor riesgo cardiovascular.
+Se debe tener cuidado con el efecto nefrotóxico que puede llevar a fallo renal agudo cuando utilizamos inhibidores de la enzima conversora de angiotensina, diuréticos y AINE conjuntamente en ancianos (triple whammy).
+
+
+--- OPIOIDES
+
+Principal arma terapéutica del dolor moderado e intenso en ancianos (GR. A) o dolor que reduce la funcionalidad o calidad de vida. Alto perfil de seguridad.
+En dolor continuo usar preparados de liberación retardada (GR. A). La titulación será lenta y progresiva, realizando ajuste de dosis con monitorización individual. Es fundamental la prevención de efectos secundarios como estreñimiento (GR. A), iniciando profilaxis precozmente. Hay que realizar valoraciones frecuentes del paciente (GR. A). Recomendar a los cuidadores que estén alerta por el riesgo de caídas (GR. A), . Los opioides de administración transdérmica son de gran utilidad en ancianos por su seguridad (no picos plasmáticos), biodisponibilidad adecuada (sin primer paso hepático) y comodidad de aplicación (cada 72 h). Reducir dosis en todos los opioides excepto en buprenorfina, aumentando el intervalo entre dosis y monitorizando el aclaramiento de creatinina.
+
+
+---- MENORES O DÉBILES
+
+Indicados en dolor leve-moderado. El dolor nociceptivo responde bien a estos analgésicos, siendo la respuesta dependiente de la dosis. Tener precaución por depresión respiratoria en pacientes debilitados, con enfermedad respiratoria, hipertensión intracraneal o tratados con depresores del sistema nervioso central. No usar en caso de íleo paralítico por disminución de motilidad GI.
+Codeína. Evitar en insuficiencia hepática. Puede ser ineficaz en el 10% de la población (metabolizadores lentos de debrisoquina).
+Tramadol. Sinergismo analgésico asociado con paracetamol, sin aumento de efectos secundarios, al complementarse uniendo un rápido comienzo de acción del paracetamol con el efecto prolongado del tramadol. En mayores de 75 años, las concentraciones plasmáticas se elevan y el periodo de eliminación se prolonga hasta 7 h, teniendo que ajustar las dosis; produce menor estreñimiento y sedación que el resto de los opiáceos.
+Se debe tener precaución si hay antecedentes de crisis epilépticas. Puede precipitar un síndrome serotoninérgico al usarlo conjuntamente con inhibidores selectivos de la recaptación de serotonina.
+
+
+---- MAYORES O POTENTES
+
+Indicados para tratamiento del dolor moderado-severo (GR. A).
+Morfina. Opioide de referencia. No tiene techo analgésico. Es el patrón usado para equivalencia de opioides. Presentación oral, subcutánea o parenteral. Se produce acumulación de metabolitos de la morfina en casos de deterioro renal, pudiendo causar efectos secundarios, requiriendo ajustes de dosis o cambio de opioide.
+Los preparados de acción retardada no pueden masticarse ni machacarse por peligro de sobredosis por rápida absorción.
+Oxicodona. Opioide semisintético con potencia superior a la morfina 2/1. Contraindicado en insuficiencia hepática grave; hay que disminuir la dosis en casos con insuficiencia renal (IR), hepática leve y paciente caquéctico a la mitad o a un tercio de la dosis habitual.
+Se ha desarrollado una nueva formulación oral de liberación prolongada que combina oxicodona y naloxona (OXN-LP). Según la evidencia, esta combinación en dosis bajas puede ser eficaz y bien tolerada en el tratamiento de ancianos con dolor crónico de moderado a intenso, con respuesta insuficiente a paracetamol, AINE u opioides débiles, pudiendo considerarse como opción analgésica segura en población frágil.
+Hidromorfona. Reducir la dosis en casos de IR e incluso aumentar intervalos entre dosis. En insuficiencia hepática, iniciar tratamiento con 50% de la dosis habitual.
+Tapentadol. Beneficio clínico general relativamente pequeño.
+Buprenorfina. Disponible por vía sublingual, parenteral y transdérmica. En mayores de 65 años la utilización transdérmica de liberación retardada es efectiva y tan segura como en jóvenes.
+No usar con opioides agonistas puros por riesgo de síndrome de abstinencia. Ajustar la dosis en casos de insuficiencia hepática. Aunque la depresión respiratoria es rara, es la única que no puede revertirse con naloxona, precisando empleo de ventilación mecánica.
+Fentanilo. Ajustar dosis en pacientes con IR e insuficiencia hepática. Cómodo uso, con mayor adherencia. De sustituir por otro opioide, iniciar con dosis del 50% el primer día, aumentándola gradualmente hasta dosis elegida.
+No utilizar para inicio de opiáceos y solo usar en contexto de rotación o cambio de opiáceos, .
+Metadona. Por sus mecanismos de acción y farmacocinética inusual, restringir a aquellos con experiencia en su uso.
+En la tabla 2 se refleja la eficacia de la liga de analgésicos de Oxford 2007.
+
+
+--- FÁRMACOS COANALGÉSICOS O SECUNDARIOS Y COADYUVANTES
+
+Con indicación inicial diferente del dolor, pero con propiedades analgésicas. Útiles para dolor crónico, en especial neuropático.
+Antidepresivos. Los antidepresivos tricíclicos deben evitarse en el anciano (GR. A) por efectos anticolinérgicos y cardiovasculares.
+La guía NICE recomienda duloxetina como opción en el tratamiento inicial de la neuropatía periférica diabética. Otros estudios indican su eficacia en el dolor nociceptivo de la osteoartrosis. La venlafaxina se ha asociado a toxicidad cardiovascular.
+Antiepilépticos. Eficaces tanto gabapentina como pregabalina en neuralgia postherpética, neuropatía periférica diabética y síndromes centrales de dolor. La pregabalina potencia la acción del etanol y loracepam. Se debe hacer un ajuste de dosis en casos de IR para ambas.
+Relajantes musculares. Evitar en mayores de 65 años. No usar benzodiacepinas porque pueden originar dependencia física y psíquica, y por mayor sensibilidad del anciano. Si es necesario, usar loracepam y oxacepam.
+Otros serían los glucocorticoides, analgésicos tópicos para evitar los efectos adversos sistémicos (GR. A), como la capsaicina y los parches de lidocaína al 5%, y los AINE tópicos.
+
+
+-- TRATAMIENTO NO FARMACOLÓGICO
+
+Pueden ayudar a controlar el dolor temporalmente y usarse como coadyuvantes (GR. C). Son terapias cognitivo-conductuales, terapia física (GR. A) y terapias intervencionistas.
+
+
+- CLASIFICACIÓN DE LOS GRADOS DE RECOMENDACIÓN
+
+A: Buena evidencia para respaldar el uso de una recomendación.
+B: Moderada evidencia para respaldar el uso de una recomendación.
+C: Poca evidencia tanto para respaldar la recomendación como para rechazarla.
+D: Moderada evidencia contra el uso de una recomendación.Puntos clave-El objetivo terapéutico en el dolor crónico no oncológico es mejorar la funcionalidad del paciente anciano (tanto física como psíquica) y conseguir un control aceptable del dolor con los mínimos riesgos ya que en pocas ocasiones se conseguirá un alivio total del mismo.-Los fármacos son la opción terapéutica más utilizada y se siguen considerando el pilar fundamental del tratamiento multidisciplinario del dolor en ancianos. Los fármacos analgésicos primarios, junto con los opioides, son el pilar básico del tratamiento farmacológico del dolor.-El paracetamol es de elección en el tratamiento del dolor leve-moderado y persistente en el anciano, según las recomendaciones de las principales GPC, debidas a la eficacia demostrada y al buen perfil de seguridad.
+
+
+- FIBRILACIÓN AURICULAR. ANTICOAGULACIÓN ORAL: EXCESOS Y DEFECTOS
+
+La fibrilación auricular (FA) afecta al 17,7% de ≥ 80 años, es la arritmia cardíaca más frecuente y se asocia a riesgo embólico y de insuficiencia cardíaca. Su prevalencia aumenta con la edad y está infradiagnosticada por lo que en mayores de 65 años se recomienda hacer cribado «oportunista» mediante toma del pulso y confirmación electrocardiográfica.
+El riesgo embólico, similar para cualquier tipo de FA o flúter, puede reducirse mediante anticoagulación oral (ACO) con dicumarínicos (AVK) o con anticoagulantes orales directos no antagonistas de la vitamina K (ACOD) confirmando los análisis de subgrupos eficacia al menos similar en prevención de ACV. Para estimar el riesgo tromboembólico en FA o flúter no valvular las guías recomiendan la escala CHA2DS2-VASc, con puntuación ≥ 2 necesita ACO. Para el riesgo de sangrado la escala HAS-BLED, con ≥ 3 necesita control más estricto del INR o valorar ACOD por riesgo de hemorragia. No se ha establecido la aplicabilidad de ninguna escala de hemorragia para ACOD, todas se desarrollaron para warfarina .Figura 1
+
+
+- INDICACIÓN DE ACO
+
+Las guías clínicas recomiendan ACO en pacientes con FA mayores de 65 años salvo contraindicación; sólo lo recibe el 40-60% por la percepción de riesgo elevado de caídas y sangrado por hemorragia intracraneal (HIC), relacionada más con niveles supraterapéuticos, . No estar correctamente anticoagulado se asocia con tener edad avanzada y sexo femenino.
+El AAS disminuye su eficacia con la edad y aumenta el riesgo de sangrado. No es la alternativa, las guías de 2014 le dan recomendación muy limitada (clase IIB, nivel de evidencia C) como tratamiento único alternativo a los anticoagulantes sistémicos, solo en pacientes con CHA2DS2-VASc = 1, lo que excluye a ≥ 75 años.
+La incidencia de caídas, al igual que la FA, aumenta con la edad. El riesgo es mayor en mujeres y las consecuencias, más graves, . La percepción de alto riesgo de caídas no debe justificar la suspensión de la ACO en pacientes mayores candidatos a ser tratados. Su origen es multifactorial y parte de los factores asociados son modificables, por eso la valoración del riesgo se recomienda en diferentes consensos nacionales e internacionales sobre fragilidad y prevención de caídas en la persona mayor.
+
+
+- CONTRAINDICACIONES DE ACO
+
+Absolutas. HIC o neurocirugía con alto riesgo de sangrado en el mes previo, neoplasias intracraneales o malformaciones con alto riesgo de sangrado, hemorragias gastrointestinales recurrentes y otras graves, trombocitopenia severa, alcoholismo, demencia, falta de cumplimiento terapéutico o de seguimiento, hepatopatía avanzada (grado C de Child-Pugh) e hipertensión arterial (HTA) mal controlada (presión arterial sistólica [PAS] > 180 mmHg).
+En pacientes con caídas frecuentes, incluyendo agresiones, los beneficios de ACO suelen superar los de sangrado, en el tratamiento hay que incorporar intervenciones enfocadas a disminuir las mismas. En la historia clínica debe figurar valoración geriátrica integral y número de caídas en el último año.
+En pacientes terminales los riesgos y cargas de la ACO pueden superar los beneficios, habría que plantear su interrupción y hacerlo constar en la historia clínica.
+
+
+- ELECCIÓN DEL TRATAMIENTO ANTICOAGULANTE
+
+Las opciones actuales son AVK y ACOD.
+Los resultados de los estudios BAFTA y ATRIA confirman la eficacia de fármacos AVK en prevención de ictus isquémico y hemorrágico en cualquier grupo de edad, incluso muy ancianos. Reducción de 64% del riesgo relativo frente a placebo, en prevención primaria y secundaria, para ictus incapacitantes o no; del 26% en todas las causas de mortalidad y del 2,7% de riesgo absoluto anual. Número necesario a tratar (NNT), 37 en prevención primaria y 12 en secundaria.
+La anticoagulación con AVK es bien tolerada, el grado de control está en torno al 60% según estudios realizados en condiciones reales, tiene buena relación coste-eficacia, experiencia de uso y un antídoto -vitamina K- universalmente disponible. Para ser eficaz hay que alcanzar y mantener el rango terapéutico entre 2-3, International Normalized Ratio (INR), lo que exige revisión periódica.
+La escala SAMe-TT2R2 identifica pacientes cuyo INR no estará en rango, en los que los ACOD pueden ser la alternativa ante controles subóptimos como porcentaje de tiempo en rango terapéutico < 65% (método de Rosendaal), < 60% de INR en rango terapéutico o imposibilidad de acceso a este control, también si existe hipersensibilidad, contraindicación específica, antecedentes de HIC, ictus isquémico con riesgo elevado de sangrado o si presentan episodios tromboembólicos arteriales graves a pesar de tener INR en rango. El antídoto de dabigatrán, el idarucizumab, revierte su efecto anticoagulante en pocos minutos tras su administración, siendo útil en hemorragias mayores y en caso de requerir cirugía de urgencia, pero su elevado coste dificulta la disponibilidad . El andexanet alfa, antídoto específico de los inhibidores del factor Xa (apixabán, rivaroxabán y endoxabán), está pendiente de aprobación por la FDA y la EMEA.
+Los ensayos iniciales con ACOD no estaban dirigidos a personas mayores, han sido subanálisis posteriores (RE-LY, ROCKET AF, ARISTOTLE) los que muestran su posible aplicabilidad. En FA no valvular han sido evaluados en estudios clínicos fase III, comparando su eficacia y seguridad con warfarina en prevención del ictus y embolismo sistémico resultando en general más eficaces en prevención de ACV en pacientes mayores de 75 años, sin causar más hemorragias. Los ACOD simplifican la profilaxis tromboembólica y posiblemente permitan que cada vez más ancianos se beneficien de ACO, incluyen el inhibidor del factor II (dabigatrán) y los inhibidores del factor Xa (rivaroxabán, apixabán y edoxabán). Son, en general, igual de eficaces que la warfarina, tienen menor riesgo de hemorragia mayor, en particular HIC, requieren monitorización de la función renal y del hematocrito 1-2 veces al año y seguimiento clínico.
+
+
+- PRECAUCIONES EN ACO
+
+En pacientes anticoagulados es fundamental controlar la función renal, sobre todo en ancianos con enfermedad renal crónica (ERC). La nefropatía relacionada con la anticoagulación (NRA) es una complicación poco diagnosticada, descrita con AVK/ACOD, consiste en insuficiencia renal aguda e INR > 3, y se asocia a corto plazo con rápida progresión de la ERC y a largo, con aumento de mortalidad. En ERC estadio 3, frecuente en ancianos, y factor de riesgo de ictus en la FA la warfarina reduce el riesgo de ictus con seguridad y eficacia similar a población general; pero ha estado presente en < 20% de los estudios realizados con ACOD, y no existen en estadio 4-5. En fases avanzadas con CHA2DS2-VASc ≥ 2 se recomienda prescribir un AVK.
+Contraindicaciones de ACOD. Hipersensibilidad, insuficiencia renal muy grave (FG < 15 ml/minuto), insuficiencia hepática grave, sangrado activo, coagulopatías, tratamiento simultáneo con ketoconazol, itraconazol, ciclosporina o tacrolimus, menores de 18 años, embarazo y lactancia. Interaccionan con inhibidores de la glucoproteína-P (amiodarona, rifampicina, fenitoína, quinidina, verapamilo, claritromicina); en caso necesario se recomienda utilizar dosis bajas. Su uso contraindica el tratamiento prolongado con antiinflamatorios no esteroideos (AINE) o AAS por riesgo de hemorragia; en caso necesario reducir dosis de dabigatrán y rivaroxabán, con apixabán y edoxabán no está claro. Solo rivaroxabán y apixabán se pueden administrar por sonda.
+Los AVK son de elección en situaciones no evaluadas con ACOD como enfermedad valvular cardiaca, válvulas protésicas mecánicas, peso corporal extremo (< 60 kg y > 120 kg), enfermedad hepática activa o transaminasas que duplican el límite superior de la normalidad.
+Los ACOD pueden ayudar a mejorar las tasas de anticoagulación en ancianos con FA no valvular. Algunas sociedades científicas defienden el uso extensivo de ACOD en detrimento de AVK; para esta recomendación son necesarios más estudios que valoren estos fármacos en vida real.
+La mayor parte de las complicaciones hemorrágicas y tromboembólicas con ACOD se relacionan con dosificación inadecuada, mala cumplimentación, seguimiento inadecuado del paciente y retirada antes de un procedimiento invasivo con demasiada antelación. La dosis fija puede resultar inconveniente en personas mayores con mayor prevalencia de función renal alterada y comorbilidad importante, porque dosis subterapéuticas o excesivas son difíciles de detectar y la omisión de una dosis, al tener semivida corta, puede tener mayor trascendencia.
+Las comparaciones entre fármacos no son directas, derivan de resultados de estudios con poblaciones estudiadas no superponibles, , . En el análisis de costes es necesario cuantificar morbimortalidad total evitada.
+Todas las personas mayores de 80 años con FA deben recibir TAO en función de su riesgo embólico, en ausencia de contraindicaciones. En el proceso de toma de decisiones la evaluación del riesgo embólico es clave, sin enfatizar excesivamente en los riesgos de sangrado y caídas. Las opciones se deben valorar con los pacientes y sus cuidadores; la mayoría son conscientes de las secuelas de un ACV y estarían dispuestos a aceptar un modesto riesgo de sangrado para prevenirlo. Sin embargo, esto es en última instancia una decisión personal individual de acuerdo con el principio de autonomía del paciente.Puntos clave-En FA no valvular los pacientes muy mayores están infradiagnosticados e infratratados.-La valoración geriátrica integral es crucial y cuando el riego embólico es alto las alternativas son los AVK y los ACOD.-En pacientes anticoagulados hay que hacer seguimiento de la función renal.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no existe conflicto de intereses.

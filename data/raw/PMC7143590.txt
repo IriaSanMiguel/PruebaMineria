@@ -1,0 +1,407 @@
+PATOLOGÍA INFECCIOSA AGUDA DE FOCO OTORRINOLARINGOLÓGICO
+
+
+- OTITIS MEDIA AGUDA
+
+-- DEFINICIÓN
+
+La otitis media aguda (OMA) es un proceso infeccioso del recubrimiento mucoperióstico del oído medio con acumulación de efusión retrotimpánica, habitualmente debida a etiología bacteriana y que se puede asociar con otorrea purulenta cuando se produce perforación timpánica.
+La OMA es una enfermedad propia de lactantes y niños pequeños, aunque también puede aparecer en adultos. Tiene una incidencia muy alta en los niños pequeños (60-70%), mientras que en adultos es de menos de 1%. Se estima que la incidencia ha disminuido tras la introducción de la vacuna pneumocócica.
+
+
+-- ETIOPATOGENIA
+
+La patogénesis es multifactorial, desempeñando un papel primordial la ventilación de la trompa de Eustaquio, la madurez del sistema inmune del niño y los factores ambien-tales.
+Los patógenos más frecuentes de la OMA son Streptococcus pneumoniae, Haemophilus influenzae y Moraxella catarrhalis, siendo los patógenos similares en los adultos y los niños. En total, S. pneumoniae y H. influenzae juntos son responsables del 50-60% de los casos pediátricos de OMA, mientras M. catarrhalis del 3-14%. Otros patógenos menos implicados son: Streptococcus pyogenes grupo A (en OMA grave), Staphylococcus aureus (más frecuente en adultos), E. coli y Pseudomonas aeruginosa , .
+La infección vírica de vías respiratorias es un factor favorecedor de la OMA, aunque se considera la OMA como un proceso fundamentalmente bacteriano.
+
+
+--- FACTORES DE RIESGO
+
+Los factores de riesgo son los siguientes:1.Disfunción de la trompa de Eustaquio. Es el factor más importante en el desarrollo de la OMA tanto en el niño como en el adulto. Los cambios anatómicos de la adolescencia, como el descenso del paladar blando, mejoran la función de la trompa y contribuyen a la disminución de la incidencia de la OMA en la vida adulta.2.Obstrucción de la trompa de Eustaquio.3.Enfermedades inmunológicas.4.Factores de riesgo epidemiológicos: antecedentes familiares (hermano con historia de OMA), sexo (más frecuente en varones), alimentación con lactancia artificial, asistencia a guardería, fumadores en el medio familiar, clima frío.
+
+
+-- SINTOMATOLOGÍA
+
+La OMA se manifiesta como otalgia intensa asociada a signos inflamatorios, con/sin hipertermia, frecuentemente durante una infección respiratoria vírica. Los adultos pueden referir también hipoacusia o sensación de taponamiento ótico. Los signos clásicos en la exploración física son: tímpano inflamado con engrosamiento y abombamiento del mismo, opacidad, a veces presencia de bullas (miringitis bullosa). Si se produce perforación de la membrana timpánica, el paciente presenta otorrea purulenta con mejoría inmediata del dolor.
+
+
+-- DIAGNÓSTICO
+
+El diagnóstico de OMA se basa en los signos y síntomas más específicos, como los descritos anteriormente. En los niños pequeños, es muy característico el despertar brusco y el llanto desconsolado o la irritabilidad diurna injustificada y prolongada.
+Los criterios diagnósticos para la OMA definidos por la Asociación Española de Pediatría y la Sociedad de Otorrinolaringología se recogen en la tabla 1 .
+Este diagnóstico debe estar muy restringido e individualizado y valorado dentro de la presencia de factores de riesgo.
+En los adultos, la sospecha de OMA se confirma con la presencia de signos característicos en la otoscopia y movilidad reducida de la membrana timpánica al aumentar la presión con el neumatoscopio (si está disponible). Otros signos que pueden o no estar presentes en el adulto son: tímpano deslustrado y eritematoso.
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+El diagnóstico diferencial de la OMA se realiza con la otitis media serosa, la otitis media crónica y la otitis externa (fig. 1 ), infección por el virus herpes zoster y otras infecciones de cabeza y cuello:1.Otitis media serosa. Líquido en el oído medio sin signos de infección, normalmente tras catarro vírico reciente, barotrauma o alergia. Se caracteriza por sensación de hipoacusia y taponamiento ótico. Se suele resolver sin tratamiento en menos de 12 semanas.2.Otitis media crónica. Perforación timpánica crónica o subaguda que facilita la infección crónica del oído o infecciones repetidas, también pueden acompañarse de colesteatoma (otitis media crónica colesteatomatosa).3.Miringitis bullosa. Presencia de bullas o vesículas en la membrana timpánica, que no afecta el contenido del oído medio, pero es especialmente dolorosa.4.Otitis externa aguda (ver más adelante).5.Herpes zoster. Dermatoma con vesículas, puede acompañarse de parálisis facial, otalgia o vértigo (síndrome de Ramsay Hunt). Fig. 1
+
+
+-- EVOLUCIÓN CLÍNICA
+
+La OMA tiende a evolucionar hacia la resolución espontánea en hasta el 60% de los casos, por lo que se han desarrollado diversos protocolos de manejo conservador y la observación de pacientes de bajo riesgo. Sin embargo, la OMA puede tener complicaciones muy graves tanto intrapetrosas en el 0,24% de los casos (mastoiditis, laberintitis, parálisis facial), como meningoencefálicas agudas (meningitis, abscesos extradurales y abscesos cerebrales). Estas complicaciones eran muy frecuentes en la era preantibiótica (2%).
+
+
+--- FORMAS CLÍNICAS DE LA OTITIS MEDIA AGUDA
+
+Son las siguientes:
+OMA recurrente: mínimo 3 episodios de OMA durante los últimos 6 meses.
+OMA persistente: realmente es una recaída del mismo episodio anterior. Cualquier episodio antes de pasadas 2 semanas del anterior se debe considerar como una OMA persistente causada por el mismo microorganismo.
+
+
+-- TRATAMIENTO
+
+--- SINTOMÁTICO
+
+El dolor suele ser intenso e invalidante y suele provocar angustia en el paciente y en los familiares, por lo que debe ser evaluado y manejado. Se recomienda prescribir analgésicos, los más utilizados son acetaminofeno e ibuprofeno.
+
+
+--- ANTIBIOTERAPIA
+
+El tratamiento antibiótico para la OMA tanto para niños como para adultos está presentado en la tabla 2 , .
+Si se produce una perforación timpánica el paciente presentará otorrea y alivio del dolor. No hay datos claros sobre si la asociación de gotas óticas al tratamiento antibiótico oral tiene beneficios. Si se utilizan gotas óticas, es preferible que no tengan ototoxicidad conocida (evitar aminoglucósidos), durante 7-10 días. Mientras no se haya resuelto la perforación timpánica, el paciente debe evitar la entrada de agua en el oído. En la mayoría de los casos, la perforación timpánica se resuelve espontáneamente.
+
+
+- OTITIS EXTERNA
+
+-- DEFINICIÓN
+
+La otitis externa es una inflamación que compromete la piel del conducto auditivo externo, generalmente de causa infecciosa. En el 90% de los casos tiene una etiología bacteriana y se denomina otitis externa difusa u oído del nadador. Esta se caracteriza por una celulitis de la piel y subdermis del conducto auditivo externo con inflamación aguda y edema variable. A pesar de no ser una enfermedad grave, produce una gran morbilidad, principalmente por el dolor y la discapacidad transitoria.
+
+
+-- EPIDEMIOLOGÍA
+
+La otitis externa puede aparecer a cualquier edad y se estima que llega a afectar hasta al 10% de la población al menos una vez en su vida. Aparece con más frecuencia en verano y en personas que practican la natación.
+
+
+-- ETIOPATOGENIA
+
+En condiciones normales, el cerumen del conducto auditivo externo constituye una barrera protectora oleosa, de pH levemente ácido, además, contiene lisozimas con actividad antibacteriana y antifúngica. La ruptura de los mecanismos protectores del conducto produce una alteración en la capa lipídica protectora del cerumen. El conducto se alcaliniza favoreciendo la proliferación de microorganismos comensales y patógenos.
+Factores de riesgo para el desarrollo de otitis externa son:1.Natación o exposición a exceso de humedad.2.Trauma local o exceso de limpieza del conducto auditivo externo.3.Dispositivos que ocluyen el conducto auditivo externo como los audífonos, auriculares, gorra de buceo.4.Dermatitis alérgica de contacto.5.Enfermedades dermatológicas (psoriasis, dematitis atópica).6.Radioterapia previa.
+La otitis externa suele ser una infección polimicrobiana. Los agentes etiológicos más frecuentes son Pseudomonas aeruginosa (38%), S. epidermidis (9%) y S. aureus (8%).
+La infección por hongos representa el 2-10% de los casos de otitis externa y aparece, en la mayoría de los casos, tras el tratamiento antibiótico.
+
+
+-- SINTOMATOLOGÍA
+
+Los síntomas más frecuentes de la otitis externa son: otalgia, prurito, otorrea e hipoacusia. Los pacientes suelen asociar calor local y dolor al masticar. Es importante preguntar por antecedentes de exposición a agua, uso de dispositivos intracanaliculares, tratamiento con radioterapia o enfermedades dermatológicas.
+El examen físico puede evidenciar sensibilidad a la presión del trago, a la tracción del pabellón auricular o ambos. La otoscopia puede ser difícil por el dolor del paciente al contacto del otoscopio con la piel del conducto, que puede estar estenosado por el edema difuso. Puede haber otorrea, aunque no es un signo necesario para el diagnóstico. Suelen existir adenopatías sensibles pre- o retroauriculares. La membrana timpánica en estados iniciales es normal, en estadios avanzados presenta eritema y está deslustrada . En cuadros avanzados produce eritema y edema del pabellón auricular y la piel adyacente. La presencia de fiebre sugiere un compromiso más allá del conducto.
+
+
+-- DIAGNÓSTICO
+
+Otalgia de instauración rápida en menos de 48 horas, asociando signos y síntomas de inflamación del canal auditivo externo (dolor al presionar el trago o el pabellón auricular), o edema difuso o eritema del conducto auditivo, con o sin otorrea, eritema de la membrana timpánica, o celulitis de la piel del pabellón auricular o adyacente. El cultivo se realiza solo en los casos severos de otitis externa.
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+Se realizará con:1.Otomicosis. Infección fúngica el canal auditivo externo, generalmente tras tratamiento antibiótico. Los gérmenes más frecuentes son Candida albicans y Aspergillus niger. Los pacientes suelen referir picor, molestias locales y sensación de cuerpo extraño y otorrea. La otalgia es más leve que en caso de la otitis externa bacteriana. El conducto auditivo externo está normalmente ocupado por material blanco algodonoso en caso de infección por Candida albicans o de color negro en caso de infección por Aspergillus niger.2.Otitis media crónica supurada.3.OMA supurada.4.Dermatitis seborreica, psoriasis.5.Dermatitis de contacto.6.Herpes zoster ótico (Ramsay Hunt).7.Carcinoma del conducto.
+
+
+-- COMPLICACIONES
+
+Las complicaciones de la otitis externa incluyen celulitis periauricular y otitis externa maligna.
+
+
+--- OTITIS EXTERNA MALIGNA (OTITIS EXTERNA NECROTIZANTE
+
+Es una enfermedad agresiva y potencialmente fatal que se origina en el conducto auditivo externo, produce una osteomielitis del hueso temporal y puede extenderse a tejidos blandos circundantes y base del cráneo y comprometer nervios craneales. Se sospecha en pacientes diabéticos, geriátricos y/o inmunocomprometidos.
+Generalmente se produce por una infección por Pseudomonas aeruginosa, pero también se han aislado cepas de Staphylococcus aureus resistente a meticilina. Los hongos son poco frecuentes, pero se han identificado en casos de otitis externa invasiva por Aspergillus fumigatus en pacientes inmunocomprometidos.
+La enfermedad se manifiesta con curso típicamente subagudo y progresivo. Se produce una inflamación del conducto auditivo externo asociado a otorrea purulenta y maloliente y granulaciones. La otalgia es muy intensa y se asocia a cefalea occipital o temporal.
+Las pruebas de imagen urgentes (tomografía computadorizada –TC– o resonancia magnética –RM–) son útiles para el diagnóstico, detectando la afectación de estructuras óseas y tejidos blandos. Es importante derivar al especialista cuando se sospeche el diagnóstico de otitis externa maligna.
+
+
+-- TRATAMIENTO
+
+El manejo de la otitis externa aguda incluye la limpieza del conducto auditivo externo, el tratamiento de la inflamación y la infección y el control del dolor.
+La limpieza del conducto auditivo es un paso fundamental en el tratamiento, que permite una mejor penetración de las gotas óticas.
+El tratamiento de la inflamación y la infección depende de la magnitud de la enfermedad. Se presenta en la tabla 3 . La terapia tópica debe administrarse en 3 gotas dos o tres veces al día, según su composición. Es necesario enseñar al paciente a colocar las gotas óticas en forma correcta y mantenerlas de 2 a 3 minutos en cada oído. En pacientes que presentan perforación timpánica o tubos de ventilación se debe evitar el uso de gotas con aminoglucósidos (neomicina, gentamicina) por su demostrada ototoxicidad. El tratamiento se presenta en la tabla 3 , .
+El control del dolor se realiza con antiinflamatorios y calor local.
+La derivación al otorrinolaringólogo es recomendable en todos aquellos casos en los que no se logra visualizar adecuadamente el tímpano. El especialista puede acelerar la curación de la infección con el aseo del detritus del conducto auditivo externo bajo visión con microscopio y, en casos de edema obstructivo del conducto, puede colocar una mecha de gasa o una esponja quirúrgica (Merocel®) durante 48-72 horas para permitir la entrada del tratamiento tópico.
+Considerar siempre indicar antibióticos orales en casos de compromiso cutáneo adyacente (celulitis de pabellón auricular, cara o cuello), en pacientes con riesgo de complicaciones (diabéticos, inmunodeprimidos) y en aquellos pacientes con compromiso profundo de la piel del conducto, siendo de elección las quinolonas. En casos de no mejoría o aparición de complicaciones como osteítis o absceso, debe considerarse el tratamiento antibiótico endovenoso hospitalizado.
+
+
+--- CONSEJOS GENERALES PARA LOS PACIENTES
+
+Es importante insistir a los pacientes con otitis externa que deberían evitar introducir instrumentos en el conducto auditivo externo, y también evitar el contacto con agua hasta la resolución del cuadro infeccioso. Las prótesis auditivas o auriculares no deberían utilizarse hasta que no se haya curado la otitis.
+
+
+- RINOSINUSITIS AGUDA
+
+-- INTRODUCCIÓN
+
+La rinosinusitis aguda (RSA) es una patología común en Atención Primaria, benigna en la mayoría de los casos. Su diagnóstico es esencialmente clínico. La dificultad de su tratamiento consiste en diferenciar las formas víricas, más frecuentes, de las formas bacterianas, que pueden desarrollar complicaciones graves.
+
+
+-- EPIDEMIOLOGÍA
+
+La tasa de prevalencia de RSA es del 6-12%. Se estima que en un período de 12 meses un adulto puede presentar una media de 2-5 episodios de rinitis aguda vírica (o resfriado común), y un niño escolarizado 7-10 episodios. La mayor incidencia se presenta entre los 45 a 64 años.
+
+
+-- DEFINICIÓN
+
+La RSA se define como la inflamación de la mucosa que recubre la cavidad nasal y los senos paranasales (SPN).
+
+
+-- CLASIFICACIÓN DE LA RINOSINUSITIS AGUDA EN ADULTOS Y NIÑOS
+
+Según la temporalidad, se clasifica como aguda con un período menor de 12 semanas y crónica si supera las 12 semanas.
+
+
+-- ETIOPATOGENIA
+
+--- RINOSINUSITIS VÍRICA AGUDA
+
+La mayoría de los casos se deben a una infección vírica. Los virus más comunes son el rinovirus, el virus de la influenza y de la parainfluenza. El virus se disemina en toda la mucosa de la cavidad y los SPN, generando inflamación, vasodilatación e hipersecreción a la cavidad nasosinusal, con alteración del aclaramiento ciliar. La mucosa edematosa, la rinorrea densa y la discinesia ciliar producen obstrucción nasal y perpetúan el proceso de la enfermedad.
+
+
+--- RINOSINUSITIS BACTERIANA AGUDA
+
+La infección bacteriana ocurre solo en el 0,5 a 2% de los episodios de RSA. Las bacterias infectan una cavidad sinusal ya inflamada. Ocurre en la mayoría de los casos como una complicación de una infección vírica, pero también puede estar en relación con rinitis o afecciones que obstruyen la nariz o afectan la función inmunitaria local o sistémica, esto incluye obstrucción nasal mecánica, como por ejemplo desviación septal, infecciones dentales, alteración del aclaramiento mucociliar (por ejemplo, fibrosis quística, disfunción ciliar), inmunodeficiencias y otros factores que perjudiquen el drenaje sinusal.
+Las bacterias más comunes son Streptococcus pneumonia, Haemophilus influenzae y Moraxella catarrhalis. Cuando se debe a una infección dental se pueden identificar bacterias anaerobias .
+
+
+-- FACTORES DE RIESGO
+
+Los factores de riesgo incluyen: edad avanzada, tabaquismo, exposición a cambios en la presión atmosférica, buceo, asma, alergias, enfermedades dentales e inmunodeficiencias.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+Los síntomas se presentan de forma súbita con sensación de obstrucción o congestión nasal, secreción nasal (anterior o posterior) frecuentemente purulenta, presión o dolor facial, cefalea y reducción del olfato. Otros síntomas incluyen tos, fiebre y sensación de presión o plenitud ótica.
+
+
+-- DIAGNÓSTICO
+
+--- EXPLORACIÓN CLÍNICA
+
+La rinoscopia anterior por sí sola es limitada en el diagnóstico, pero debe realizarse en Atención Primaria y buscar datos como edema de la mucosa, rinorrea purulenta, hipertrofia de cornetes, desviación septal obstructiva y, en ocasiones, pólipos. La inspección o palpación de los SPN puede revelar eritema o edema en la región maxilar o periorbitaria, dolor referido y a la palpación. La endoscopia nasal generalmente no está disponible en Atención Primaria de rutina, y no se requiere para el diagnóstico clínico de la RSA, .
+
+
+--- PRUEBAS DIAGNÓSTICAS
+
+Las pruebas de imagen, cultivos y aspirado sinusal y otras pruebas microbiológicas están reservados para pacientes con sospecha de complicaciones.
+
+
+--- PRUEBAS DE IMAGEN
+
+La radiografía simple carece de interés diagnóstico y no se recomienda realizarla.
+La TC es la prueba de imagen de elección para confirmar la patología y valorar la anatomía; sin embargo, no debe considerarse como primer paso para el diagnóstico. A continuación, enumeramos alguna de sus indicaciones:
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+Incluye la rinosinusitis fúngica invasiva aguda, donde sus síntomas son similares a los de la RSA, pero presentan una rápida progresión con extensión de la infección fuera de los SPN. La mayoría de los pacientes están inmunosuprimidos. El diagnóstico precoz es de suma importancia.
+En el resfriado común, sus síntomas a menudo se superponen; sin embargo, no presentan algias faciales y tienen mayor clínica de rinitis con estornudos, rinorrea y tos.
+Otros diagnósticos son: rinitis no infecciosa (alérgica y vasomotora), dolor facial, migraña o cefalea en racimos.
+
+
+-- COMPLICACIONES
+
+Las complicaciones más frecuentes de las RSA bacterianas son las orbitales, con aproximadamente el doble de frecuencias que las intracraneales, seguidas de la afectación ósea.
+
+
+-- TRATAMIENTO
+
+El tratamiento inicial va a depender de la intensidad de los síntomas (fig. 2 ). El tratamiento sintomático es de elección en síntomas leves (analgésicos, lavados nasales con solución salina y descongestionantes). En la RSA posvírica o moderada se añaden corticoides tópicos nasales, sumado a antibióticos en casos seleccionados de RSA bacteriana. Los antihistamínicos H1, descongestionantes y mucolíticos no han demostrado beneficio.Fig. 2
+Si se sospecha sinusitis aguda bacteriana no complicada se debe pautar tratamiento sintomático y control evolutivo. Considerar la opción de tratamiento antibiótico solo en caso de empeoramiento de la clínica a los 7-10 días, sintomatología grave, por las características basales del paciente (inmunosupresión) o en presencia de sinusitis frontal o esfenoidal (mayor riesgo de complicaciones).
+Se sugiere iniciar tratamiento antibiótico empírico con amoxicilina (500 mg vía oral cada 8 horas o 875 mg cada 12 horas) o amoxicilina-clavulánico (500 mg/125 mg cada 8 horas o 875/125 mg cada 12 horas). En pacientes alérgicos a penicilina, doxiciclina (100 mg vía oral cada 12 horas o 200 mg al día). Cefalosporinas de tercera generación (cefixima 400 mg al día) prescrita con o sin clindamicina (300 mg cada 6 horas).
+
+
+- SIALOADENITIS AGUDA
+
+-- DEFINICIÓN
+
+La inflamación de las glándulas salivales se denomina sialitis de manera general. De forma concreta, se denominará sialoductitis (cuando afecta específicamente al conducto excretor) o sialoadenitis (cuando afecta específicamente al parénquima). Dado que la afectación es predominantemente parenquimatosa, el término generalizado es sialoadenitis.
+
+
+-- SÍNTOMAS
+
+El paciente con una sialoadenitis aguda referirá dolor intenso en la región submandibular (submaxilitis) o preauricular (parotiditis), asociado a tumoración facial, la mayoría de las veces unilateral, de evolución progresiva o fluctuante. Puede desencadenarse con la alimentación.
+
+
+-- EPIDEMIOLOGÍA
+
+Representan aproximadamente del 0,01% al 0,02% de los ingresos hospitalarios. Del 30-40% son pacientes posoperados. La gandula parótida se afecta con más frecuencia que la glándula submaxilar. Se presenta predominantemente en hombres, entre la sexta y séptima década de la vida.
+
+
+-- ETIOPATOGENIA Y MANIFESTACIONES CLÍNICAS
+
+--- SIALOADENITIS AGUDA EPIDÉMICA O PAPERAS
+
+Es una infección vírica y sistémica causada por la familia Paramyxovirus, generalmente bilateral en parótidas (90%) y aparece, sobre todo, en adolescentes. Es poco frecuente gracias a la vacunación. De curso agudo y contagioso, es transmitida por vía respiratoria o contacto directo de las secreciones salivales. La enfermedad cursa con tumefacción parotídea dolorosa, fiebre, otalgia, xerostomía y eritema del conducto de Stenon. Sin drenaje purulento a través del ducto principal. El pronóstico es bueno, con un curso autolimitado en 15 días, salvo complicaciones como hipoacusia neurosensorial, epididimitis y orquitis (30%) o la meningoencefalitis (10%).
+
+
+--- SIALOADENITIS BACTERIANAS O SUPURADAS
+
+La infección se desarrolla por vía retrógrada, por gérmenes como S. aureus o Streptococcus spp. (pyogenes o pneumoniae). Son generalmente unilaterales y típicas del adulto. Se ven favorecidas por factores que disminuyen el flujo salival, tales como la deshidratación, fármacos anticolinérgicos, enfermedades crónicas o procesos que bloquean el paso de salida a través del conducto secretor, mala higiene bucal y tabaquismo. En el área se presenta con dolor intenso y piel eritematosa y tensa, con tumefacción de la glándula, fiebre elevada, alteración del estado general y salida a través del conducto excretor de secreción purulenta, espontánea o con la compresión glandular.
+
+
+--- SIALOADENITIS OBSTRUCTIVA O SIALOLITIASIS
+
+Patología relativamente frecuente, pero infradiagnosticada, secundaria a la impactación de un cálculo salival en el sistema excretor de la glándula, unilateral. En el 80-90% de los casos afecta a la glándula submaxilar y en el 6-20% a la glándula parótida. Se presenta con dolor e inflamación glandular, de carácter episódico, que usualmente aparece o se agravan con la comida. Puede ser un hallazgo incidental en una prueba de imagen. Si presenta empeoramiento del dolor, eritema y/o fiebre es indicativo de infección secundaria. Episodios recurrentes de sialolitiasis pueden desencadenar sialoadenitis crónica y disfunción glandular.
+
+
+-- EXAMEN FÍSICO
+
+Se debe realizar una inspección de la piel y la mucosa que recubre la glándula, y la salida del conducto (carúncula). Se debe realizar una palpación bimanual de la glándula y su conducto, donde se puede palpar el cálculo o, en ocasiones, visualizarlo impactado en la salida del mismo. En condiciones normales, la compresión de la glándula produce una salida de saliva clara a través del conducto, si esto no ocurre, es probable que la piedra este ocluyendo el mismo, mientras que la salida de secreción purulenta orienta al diagnóstico de sialoadenitis supurada (fig. 3 ).Fig. 3
+
+
+-- DIAGNÓSTICO
+
+En la anamnesis se debe interrogar sobre el estado de malnutrición o deshidratación. Estudiar antecedentes de inmunosupresión, sequedad de mucosa oral y ocular (sugerente del síndrome de Sjögren). La analítica sanguínea da información sobre el patrón infeccioso en el hemograma y en caso de parotiditis epidémica permite detectar la IgM frente al virus.
+
+
+--- PRUEBAS DE IMAGEN
+
+Son las siguientes:
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+Realizar el diagnóstico diferencial con neoplasias de glándulas salivales, infecciones dentales, linfomas, adenitis cervical e infección de quistes branquiales.
+
+
+-- TRATAMIENTO
+
+--- RECOMENDACIONES A LOS PACIENTES
+
+Son las siguientes:
+
+
+- FARINGOAMIGDALITIS AGUDA
+
+La faringoamigdalitis aguda (FAA) es una de las patologías más frecuentes en la práctica diaria. La mayoría de los casos son producidos por virus respiratorios y son autolimitados. Sin embargo, los síntomas de la FAA vírica pueden aparecer en faringitis por otras causas tratables, como las bacterianas causadas por el estreptococo betahemolítico del grupo A (SBGA) (S. pyogenes)25. Un manejo clínico adecuado puede ayudar a reducir el uso inadecuado de antibióticos y a identificar a pacientes con posibles complicaciones serias, como una obstrucción de la vía aérea.
+
+
+-- EPIDEMIOLOGÍA
+
+Es uno de los principales motivos de consulta en Urgencias tanto de Atención Primaria como a nivel hospitalario. La incidencia es mayor en la infancia y la adolescencia, presentándose el 50% de los casos en pacientes menores de 18 años. En adultos, la incidencia disminuye a partir de los 40 años.
+
+
+-- ETIOLOGÍA Y MANIFESTACIONES CLÍNICAS
+
+En todos los casos se presenta como dolor de garganta que empeora con la deglución. Es frecuente que se acompañe de dolor cervical o aumento de volumen por adenopatías. De presentación variable son la fiebre, la cefalea, la fatiga y el malestar. Aunque ciertos síntomas pueden orientarnos hacia determinados diagnósticos etiológicos, a menudo la clínica no es suficiente para determinar la causa.
+
+
+--- CAUSAS INFECCIOSAS
+
+Virus respiratorios. Son la causa más frecuente de faringitis aguda (25-45%), , . Los más frecuentes son adenovirus, rinovirus y coronavirus. Suelen acompañarse de otros síntomas de infección de la vía respiratoria superior como congestión nasal y tos. Otros síntomas que sugieren infección vírica son estornudos, conjuntivitis, disfonía, otalgia, aftas orales, molestias sinusales y exantema vírico. La fiebre suele ser baja salvo en pacientes con gripe. Aunque puede haber linfadenitis, no suele ser muy prominente.
+Estreptococo betahemolítico del grupo A. Es la bacteria que con mayor frecuencia produce FAA. En niños representa el 15-30% de los casos, aunque en invierno y a principios de primavera hay dos picos de incidencia durante los cuales los casos ascienden hasta el 35-40%. Es raro que afecte a niños menores de 3 años y, si lo hace, la presentación es atípica, con congestión nasal, rinorrea y febrícula (estreptococosis). En mayores de 3 años el inicio de los síntomas es abrupto, con odinofagia, fiebre, edema faríngeo, exudado purulento amigdalar y linfadenitis cervicales. También pueden aparecer petequias palatinas, un exantema escarlatiniforme (que se inicia característicamente en las axilas y la ingle y que se extiende a tronco y extremidades y se sigue de descamación) y lengua aframbuesada. Aunque ninguno de estos síntomas permite individualmente identificar con seguridad la FAA por SBGA, es preciso realizar un correcto diagnóstico y tratamiento para prevenir las posibles complicaciones locales, como abscesos, o sistémicas, como la fiebre reumática aguda (FRA). Para ello, se dispone del test de detección rápida del antígeno (TDRA) que es muy específico.
+Otras bacterias. Son las siguientes:
+Infecciones de transmisión sexual. Distinguimos las siguientes:
+Herpesvirus. Distinguimos:
+
+
+--- CAUSAS NO INFECCIOSAS
+
+Son las siguientes:1.Reflujo gastroesofágico.2.Tabaco.3.Esfuerzo vocal excesivo.4.Fármacos: inhibidores de la enzima convertidora de angiotensina (IECA), algunos quimioterápicos.5.Enfermedades autoinmunes: enfermedad de Kawasaki, síndrome PFAPA (fiebre periódica con estomatitis aftosa, faringitis y adenitis); responde a una dosis única de corticoide. Síndrome de Behçet.
+
+
+-- EVALUACIÓN DEL PACIENTE
+
+El principal objetivo es descartar posibles complicaciones que amenacen la vida del paciente e identificar las causas tratables.
+Los síntomas y signos de posible complicación son aquellos que sugieren obstrucción de la vía aérea superior o la formación de abscesos profundos de la faringe o el cuello y son lo primero a evaluar cuando vemos una FAA (tabla 4 ).
+En caso de presentar alguna de estas características, el paciente debe ser derivado de manera urgente para su valoración por parte de un otorrinolaringólogo ante la posible necesidad de realizar una cirugía urgente.
+Una vez se descartan signos de complicación, debemos intentar identificar las causas tratables de faringitis (fig. 4 ).Fig. 4
+
+
+-- TRATAMIENTO
+
+En caso de confirmarse infección por SBGA, el antibiótico de elección es la penicilina.
+En adultos, 500 mg de penicilina V vía oral 2-3 veces al día durante 7 días. También es posible usar amoxicilina.
+En niños, se puede usar tanto penicilina V (si menos de 27 kg de peso, 250 mg cada 12 horas; más de 27 kg como adultos) como amoxicilina, aunque se suele preferir esta última porque los preparados tienen mejor sabor y los niños aceptan mejor la toma.
+En pacientes con antecedente de FRA, se puede considerar como alternativa administrar una dosis única de penicilina benzatina intramuscular de 600.000 UI si el peso es ≤ 27 kg y de 1.200.000 UI si es > 27 kg, para asegurarnos de que no hay administración irregular del tratamiento.
+
+
+- INFECCIONES ODONTÓGENAS AGUDAS
+
+Se trata principalmente de las caries dentales y la enfermedad periodontal (gingivitis y periodontitis). Son frecuentes y pueden tener complicaciones locales (pérdida del diente) o, en algunos casos, sistémicas. Además de producir dolor y molestias, se pueden extender más allá de las barreras naturales y dar lugar a situaciones de riesgo vital, como infecciones de los espacios profundos de la cara y el cuello.
+
+
+-- EPIDEMIOLOGÍA
+
+La causa principal de pérdida dental varía con la edad: en menores de 35 años las caries son la causa principal, mientras que después de los 35 años lo es la enfermedad periodontal.
+
+
+-- ETIOPATOGENIA
+
+Las infecciones odontógenas se originan de placas bacterianas que colonizan las superficies del diente. El tipo de infección varía en función de la localización de la placa:1.Las placas localizadas en la superficie por encima del margen gingival (placas supragingivales) producen caries que pueden invadir la pulpa (pulpitis o infecciones endodónticas) y, con el tiempo, perforar el hueso alveolar (abscesos periapicales).2.Las placas localizadas en la superficie por debajo del margen gingival (placas subgingivales) producen infecciones periodontales (gingivitis, periodontitis y abscesos periodontales) que pueden llegar a penetrar en los espacios fasciales de la cara y el cuello (infecciones del espacio orofacial).
+Las infecciones de partes blandas de origen odontogénico tienden a extenderse por los planos de menor resistencia desde las estructuras de soporte del diente afectado hacia los espacios potenciales de la vecindad. Las barreras anatómicas locales de hueso, músculo y fascia predeterminan las rutas de extensión y las manifestaciones clínicas.
+Los microorganismos que producen las caries dentales se encuentran en la placa supragingival e incluyen Gram positivos facultativos y cocos y bacilos microaerófilos. El grupo mutans de estreptococos, principalmente S. mutans y S. sobrinus, son los organismos que más se asocian a las caries dentales. La ingesta de hidratos de carbono, sobre todo monosacáridos y disacáridos, también es importante.
+En la enfermedad periodontal hay un cambio en la flora de la placa subgingival hacia una flora periodontopática predominantemente anaerobia. Cuando la periodontitis está bien establecida, aumenta la complejidad de la flora con predominancia de bacilos anaerobios Gram negativos y organismos móviles. Las especies predominantes son Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis, Prevotella intermedia, Treponema denticola y Tannerella forsythensis.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+La presentación clínica de una nueva lesión cariosa es la aparición de un defecto descolorido en la superficial dental de textura blanda o gomosa.
+El síntoma precoz y dominante de una pulpitis aguda es el dolor dental intenso que puede desencadenarse con cambios térmicos, especialmente bebidas frías. El diente implicado también puede ser sensible a la palpación y la percusión. Según progresa la enfermedad, el dolor se vuelve más intenso y continuo, con aumento de la intensidad al tumbarse.
+La enfermedad periodontal incluye la gingivitis y la periodontitis. La principal complicación de la enfermedad periodontal es la pérdida del diente, aunque también puede existir extensión local y sistémica de la infección.
+La gingivitis puede producir inflamación y coloración azulada-violácea de la encía, así como una tendencia a sangrar después de comer o cepillarse. No suele haber dolor y se puede acompañar de fetor oral.
+La periodontitis crónica del adulto se caracteriza por inflamación gingival acompañada de pérdida de los tejidos conectivos de soporte, incluido el hueso alveolar, con el resultado de la pérdida de la fijación del ligamento periodontal al cemento. El proceso destructivo es lento, probablemente debido a años de poco cuidado dental y gingivitis crónica. Son abundantes las placas y cálculos tanto supra- como subgingivales y puede aparecer pus franco en los bolsillos periodontales.
+
+
+-- COMPLICACIONES
+
+Las infecciones odontogénicas supuradas pueden extenderse a los espacios fasciales del área orofacial o a los espacios profundos de cabeza y cuello (infecciones del espacio perifaríngeo), que se trata de una complicación de riesgo vital. También pueden producir osteomielitis de la mandíbula o diseminación hematógena que, a su vez, puede producir endocarditis o infección de prótesis articulares.
+En caso de sospecharse una complicación locorregional, la prueba de elección a realizar será una TC de cara y cuello.
+
+
+-- TRATAMIENTO
+
+La estrategia más importante para el control efectivo de la placa supra- y subgingival es la higiene oral meticulosa para prevenir la formación de caries y para tratar la periodontitis, utilizando pastas fluoradas y usando seda dental. La medida más costo-efectiva es la fluorización de los suministros de aguas para prevenir la formación de caries.
+La pulpitis puede tratarse con extracción de la pieza afectada o realizando una endodoncia, que consiste en perforar un acceso al diente, retirar la pulpa inflamada con el nervio y limpiar el canal radicular.
+La gingivitis aguda simple rara vez necesita más tratamiento que una buena higiene oral y enjuagues con clorhexidina al 0,12%. En caso de enfermedad de progresión rápida, dolor intenso o infección por el VIH se puede pautar tratamiento antibiótico con penicilina más metronidazol, amoxicilina-clavulánico o clindamicina.
+La gingivitis aguda necrotizante ulcerada (angina de Vincent o «boca de trinchera») debe ser tratada con antimicrobianos como metronidazol, amoxicilina-clavulánico, ampicilina-sulbactam o clindamicina.
+En ciertos tipos de periodontitis severa se utiliza tratamiento antibiótico, además de realizar un desbridamiento mecánico. En la periodontitis crónica, además del curetaje, se puede aplicar antibiótico tópico.
+En las infecciones odontogénicas piógenas hay que realizar un drenaje quirúrgico del absceso, desbridamiento del tejido necrótico y administrar tratamiento antibiótico intravenoso. Si se toman muestras para cultivo es preferible hacerlo por vía extraoral para evitar contaminar la muestra con la flora habitual oral. El tratamiento antibiótico se realiza con ampicilina/sulbactam, penicilina más metronidazol o con clindamicina (opción para alérgicos a las penicilinas).
+
+
+- INFECCIONES CERVICALES PROFUNDAS
+
+Las infecciones del espacio cervical profundo se originan con mayor frecuencia en focos sépticos amigdalares, dentales, mandibulares, parotídeos, de ganglios cervicales profundos, del oído medio o de los SPN. Dado que estas complicaciones a menudo tienen un comienzo rápido y pueden progresar a complicaciones de compromiso vital, es importante reconocerlas y no subestimar su gravedad.
+
+
+-- ETIOLOGÍA
+
+Suelen ser típicamente polimicrobianas y consistentes en la flora habitual de la mucosa superficial contigua al origen de la infección.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+Dependen de la localización afectada, pero suelen incluir dolor intenso cervical o faríngeo y edema con fiebre y toxicidad sistémica. En las infecciones parafaríngeas y retrofaríngeas se puede observar abombamiento faríngeo.
+Los abscesos cervicales según progresan pueden presentar mayores complicaciones: afectación de la vaina carotídea en las infecciones parafaríngeas; extensión al mediastino en las infecciones retrofaríngeas o formación de abscesos epidurales medulares e infecciones del espacio prevertebral con osteomielitis cervical.
+
+
+-- DIAGNÓSTICO
+
+La prueba de elección para confirmar el diagnóstico, estudiar la extensión y el origen de la infección y planificar la cirugía es la TC. La RM puede ser útil para valorar la afectación de partes blandas y posibles complicaciones vasculares.
+
+
+-- TRATAMIENTO
+
+De inicio se realiza un tratamiento antibiótico empírico que puede ajustarse más adelante según el antibiograma obtenido. La cobertura para anaerobios se mantendrá, aunque no se aíslen en el cultivo. La duración total del tratamiento será de 2-3 semanas, aunque en función de las complicaciones puede ser más prolongado.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

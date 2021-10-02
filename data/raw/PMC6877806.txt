@@ -1,0 +1,84 @@
+EFECTOS DE LA SATISFACCIÓN CON EL TIEMPO DE OCIO EN PERSONAS CUIDADORAS DE FAMILIARES MAYORES DEPENDIENTES
+
+
+- INTRODUCCIÓN
+
+El cuidado de las personas mayores dependientes es un importante reto en las sociedades desarrolladas, debido fundamentalmente al aumento del envejecimiento y la dependencia y a que dicho cuidado recae fundamentalmente en la familia.
+El hecho de cuidar no queda exento de consecuencias para la salud de la persona cuidadora, tanto positivas (sentimiento del deber cumplido, autosatisfacción) como negativas (sobrecarga subjetiva, depresión, ansiedad, conflictos familiares, y otros problemas de salud derivados del estrés que produce el hecho de cuidar).
+La teoría transaccional del estrés de Lazarus y Folkman es uno de los modelos teóricos que explica el efecto del estrés en las personas cuidadoras, según el cual el estrés es el resultado de la interacción entre los individuos y su entorno, siendo crucial la interpretación individual y personal de los estresores potenciales. De este modo, la idea central es que las demandas de cuidado no son estresantes por sí mismas, sino que su valoración como perjudiciales o no (valoración primaria), así como de los recursos personales y sociales para afrontarlas (valoración secundaria), es lo que hace que el cuidar sea percibido como una sobrecarga. En este marco teórico, la carga objetiva se ha definido como las distintas tareas que la persona cuidadora realiza para satisfacer las demandas de cuidado, mientras que la sobrecarga subjetiva o percibida es definida como un estado resultante de la interpretación que la persona cuidadora hace de las demandas del cuidado de una persona dependiente y de sus propias capacidades para hacerles frente, caracterizado por la presencia de malestar en varias áreas (salud del cuidador, bienestar psicológico, finanzas, vida social y relación entre cuidador y receptor del cuidado) y que amenaza la salud física y mental del cuidador. Las demandas de cuidado dependen del nivel de dependencia de la persona cuidada, de su estado cognitivo y de la existencia de comportamientos problemáticos o perturbadores.
+Uno de los aspectos que se ha relacionado con las consecuencias de cuidar es el tiempo de ocio, tanto la frecuencia de actividades de ocio como la satisfacción con dicho tiempo. Pueden encontrarse estudios que encuentran una relación inversa entre la sobrecarga subjetiva y la frecuencia, y la satisfacción con el tiempo de ocio, entre la depresión y la frecuencia y la satisfacción, y entre la ansiedad y el tiempo de ocio medido tanto como frecuencia que como satisfacción. No obstante, el número de estudios de cada uno de los resultados es escaso, sobre todo en lo que respecta a la satisfacción con el tiempo de ocio.
+Profundizar en la relación que existe entre la satisfacción con el tiempo de ocio de las personas cuidadoras y las consecuencias negativas que resultan de la acción de cuidar puede proporcionar información relevante para el desarrollo y aplicación de intervenciones para dichas personas, que ayuden a reducir su sobrecarga subjetiva, la ansiedad y la depresión que experimentan, o a incrementar su bienestar. Además, el establecimiento de una adecuada relación entre satisfacción con el tiempo de ocio y las consecuencias negativas de cuidar permitiría identificar perfiles de riesgo útiles para la prevención de las consecuencias.
+El presente estudio tiene como objetivo analizar la relación entre la satisfacción con el tiempo de ocio y la sobrecarga subjetiva, la depresión y la ansiedad de las personas cuidadoras. La hipótesis a contrastar es que la satisfacción con el tiempo de ocio se acompaña de menor sobrecarga subjetiva, menor ansiedad y menor depresión.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Se ha utilizado un diseño descriptivo transversal.
+
+
+-- PARTICIPANTES
+
+El estudio se llevó a cabo en la zona geográfica de Bujalance y Montoro, en la comarca cordobesa del Alto Guadalquivir, que tiene 46.560 habitantes. El marco de muestreo lo conformaron los censos de personas cuidadoras principales de familiares mayores dependientes de dicha zona (1.182 sujetos). El criterio utilizado para considerar a una persona como dependiente era que lo fuera al menos para una actividad de la vida diaria, tanto básica como instrumental. Se realizó un muestreo estratificado con afijación proporcional por núcleo de población, con selección aleatoria sistemática a partir del censo declarado de personas cuidadoras de cada núcleo.
+Se eligió un tamaño muestral de 200 unidades. Según Cohen, dicho tamaño muestral ofrece una potencia mínima del 96% para detectar una r2 de entre el 7 y el 32%, atribuible a una variable independiente en una regresión lineal que ha sido ajustada por 4 variables adicionales con una r2 de entre el 3 y el 9%, todo ello con un nivel de significación estadística del 5% (cálculos realizados con el programa PASS 11).
+
+
+-- RECOGIDA DE DATOS
+
+La recogida de datos fue llevada a cabo en 2013, mediante entrevista en el domicilio de la persona cuidadora, por una enfermera adiestrada a tal efecto y que contaba con formación y experiencia previas en atención a personas dependientes y a cuidadoras. Previamente, las personas cuidadoras fueron contactadas por su enfermera de familia, informándolas del estudio coincidiendo con una visita domiciliaria, confirmando su participación y concretando la fecha de la entrevista. La entrevistadora no tenía ninguna relación previa con las personas cuidadoras ni con las personas cuidadas. La privacidad de los datos de identificación se garantizó tanto en el proceso de muestreo como en el contacto inicial y la posterior entrevista. De las personas cuidadoras seleccionadas, solo una se negó a participar en el estudio, siendo sustituida por otra elegida aleatoriamente.
+Se desarrolló un estudio piloto (n = 20) para evaluar el procedimiento de recogida de datos con vistas a mejorar su calidad y uniformidad.
+El estudio fue aprobado por el Comité de Ética de la Investigación de la provincia de Córdoba. Todos los participantes en el estudio firmaron el consentimiento informado.
+
+
+-- MEDICIONES
+
+Como variables sociodemográficas para describir la muestra se recogieron la edad y el sexo de la persona cuidadora, el parentesco con la persona cuidada, la residencia en común con la persona cuidada y la antigüedad de la labor cuidadora.
+Como variables relacionadas con la hipótesis de estudio se midieron: 1) la satisfacción con el tiempo de ocio, medida mediante 4 ítems del cuestionario de Calidad de Vida de Ruiz y Baca que miden la percepción de la persona acerca de su tiempo de ocio, y que han sido adaptados al contexto del cuidado por Losada et al.; 2) la sobrecarga subjetiva, medida mediante el Índice de Esfuerzo del Cuidador de Robinson, validado en población española por López Alonso y Moral Serrano; 3) ansiedad y depresión, medidas mediante la Escala de Ansiedad-Depresión de Goldberg, validada en la población española por Montón et al. y 4) variables potenciales de confusión, relacionadas con la carga objetiva y definidas en base a la evidencia disponible sobre los principales factores relacionados con la sobrecarga subjetiva, la depresión y la ansiedad, : necesidades de cuidado de la persona cuidada (índice de Barthel para la capacidad funcional, test de Pfeiffer para el deterioro cognitivo, e Inventario Neuropsiquiátrico de Cummings para los problemas de conducta) y dedicación de la persona cuidadora, medida con la Escala de Dedicación al Cuidado (DeCuida), que mide frecuencia de los cuidados teniendo en cuenta el nivel de dependencia de la persona cuidada en cada actividad de la vida diaria básica.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Para el análisis descriptivo se han utilizado la frecuencia absoluta y relativa (porcentaje) para las variables cualitativas, y la media y la desviación típica (DT) para las variables cuantitativas. Para el análisis bivariante se ha utilizado el coeficiente de correlación de Pearson (r), cuyos intervalos de confianza (IC) se han calculado mediante la transformación de Fisher. Para analizar la relación entre satisfacción con el tiempo de ocio y sobrecarga subjetiva, ansiedad y depresión, controlando por potenciales factores de confusión, se ha utilizado la regresión lineal múltiple (pasos sucesivos), analizando el cumplimiento de los supuestos del modelo mediante los siguientes procedimientos: a) normalidad: test de Kolmogorov-Smirnof y gráficos P-P Normal, b) linealidad: gráficos de regresión parcial, c) homocedasticidad: gráficos de dispersión de residuos tipificados y pronósticos tipificados, d) independencia de errores: estadístico de Durbin-Watson y e) no colinealidad: diagnósticos de colinealidad. El nivel de significación estadística se fijó en el 5%. Se utilizó el programa estadístico SPSS v15.0 para los distintos análisis.
+Esquema general del estudio: Estudio descriptivo de una muestra de personas cuidadoras principales de familiares mayores dependientes en la zona geográfica de Bujalance y Montoro (Córdoba).
+
+
+- RESULTADOS
+
+La muestra de estudio estuvo formada por 200 personas cuidadoras familiares, con una media de edad de 58,5 años (DT: 12,9) y una antigüedad en el cuidado promedio de 6,1 años (DT: 5,3), y de los cuales un 88% eran mujeres, el 83% compartía residencia con la persona cuidada y el 58.5% eran hijas o hijos de dicha persona, el 26% cónyuges y el 12% yernos o nueras. Los datos descriptivos de las variables del estudio se resumen en la tabla 1.
+
+
+-- SATISFACCIÓN CON EL TIEMPO DE OCIO Y SOBRECARGA SUBJETIVA
+
+En el análisis bivariante , la satisfacción con el tiempo de ocio presentó una correlación lineal, inversa y moderada con la sobrecarga subjetiva (r = −0,55; IC95%: −0,45 a −0,64; p < 0,001). Tras controlar por la carga objetiva (capacidad funcional, deterioro cognitivo y problemas de conducta de la persona cuidada, y dedicación al cuidado de la persona cuidadora) mediante una regresión lineal múltiple, se mantuvo la asociación entre la satisfacción con el tiempo de ocio y la sobrecarga subjetiva (β = −0,42; p < 0,001). El modelo final, en el que también aparecen como variables predictoras la capacidad funcional y los problemas de conducta, explicó un 46% de la varianza de la sobrecarga subjetiva . La satisfacción con el tiempo de ocio explica un 23% de dicha variación (coeficiente de correlación parcial al cuadrado). No se detectaron incumplimientos de los supuestos del modelo de regresión (Durbin-Watson de 1,9 y tolerancias entre 0,45 y 0,85).
+
+
+-- SATISFACCIÓN CON EL TIEMPO DE OCIO Y ANSIEDAD
+
+En el análisis bivariante , la satisfacción con el tiempo de ocio y la ansiedad presentaron una correlación lineal, inversa y débil (r = −0,30; IC95%: −0,17 a −0,4; p < 0,001). Tras controlar por las variables de carga objetiva, se mantuvo la asociación entre la satisfacción con el tiempo de ocio y la ansiedad (β = −0,21; p = 0,004). El modelo final, compuesto por la satisfacción con el tiempo de ocio y los problemas de conducta, explicó el 12% de la varianza de la ansiedad , y un 6% correspondía a la satisfacción con el tiempo de ocio (coeficiente de correlación parcial al cuadrado). No se detectaron incumplimientos de los supuestos del modelo de regresión (Durbin-Watson de 2,2 y tolerancias entre 0,45 y 0,85).
+
+
+-- SATISFACCIÓN CON EL TIEMPO DE OCIO Y DEPRESIÓN
+
+En el análisis bivariante , la satisfacción con el tiempo de ocio presentó una correlación lineal, inversa y débil con la depresión (r = −0,25; IC95%: −0,11 a −0,37; p < 0,001). Dicha asociación se mantuvo tras controlar por las variables de carga objetiva mediante regresión lineal múltiple (β = −0,25; p < 0,001). El modelo final solo incluyó la satisfacción con el tiempo de ocio, que explicó el 12% de la varianza de la depresión . No se detectaron incumplimientos de los supuestos del modelo de regresión (Durbin-Watson de 2,2 y tolerancias entre 0,45 y 0,85).
+
+
+- DISCUSIÓN
+
+En nuestro estudio, el perfil de la persona cuidadora se correspondió con una mujer de una media de edad de 58.5 años, hija o esposa de la persona receptora de cuidados, con la que comparte domicilio. Estos datos coinciden con el perfil de persona cuidadora de nuestro país.
+Al realizar nuestro estudio sobre una muestra probabilística, hemos conseguido controlar los posibles sesgos de selección. Al realizar los análisis ajustando por carga objetiva (necesidades de cuidado de la persona cuidada y dedicación de la persona cuidadora), hemos conseguido controlar el sesgo de confusión relacionado con este factor, que es uno de los principales predictores de las consecuencias negativas del cuidado, . El empleo de cuestionarios validados que han demostrado suficiente consistencia interna en la muestra estudiada, el adiestramiento de las personas encargadas de la recogida de datos y el hecho de que no tuvieran relación con los participantes en el estudio, así como la realización de un estudio piloto, han servido para controlar los sesgos de clasificación.
+En nuestro estudio, hemos encontrado que la satisfacción con el tiempo de ocio se relaciona de forma inversa con la sobrecarga subjetiva, la ansiedad y la depresión, manteniéndose la asociación estadística al controlar por carga objetiva.
+Respecto de la relación entre satisfacción con el tiempo de ocio y sobrecarga subjetiva, nuestros resultados coinciden con los encontrados por Losada et al., si bien nuestros resultados amplían la evidencia disponible al provenir de una muestra probabilística con suficiente tamaño muestral. Nuestros resultados indican que la satisfacción con el tiempo de ocio puede tener un efecto protector sobre la sobrecarga subjetiva de forma independiente al nivel de necesidad de la persona cuidada y a la dedicación de la persona cuidadora. Dado que el porcentaje de explicación de la sobrecarga subjetiva por parte de la satisfacción con el tiempo de ocio encontrado en nuestro estudio es del 23%, puede que dicha satisfacción sea un buen predictor de la aparición de sobrecarga subjetiva.
+Respecto de la relación de la satisfacción con el tiempo de ocio con la ansiedad y la depresión, nuestros resultados coinciden con los de Romero-Moreno et al., si bien amplían la evidencia disponible al estar ajustados por carga objetiva y provenir de una muestra probabilística con suficiente tamaño muestral. Nuestros resultados sugieren que la satisfacción con el tiempo de ocio puede tener un efecto protector sobre la ansiedad y la depresión de forma independiente al nivel de necesidad de la persona cuidada y a la dedicación de la persona cuidadora.
+Nuestros resultados son compatibles con la hipótesis protectora de la satisfacción con el tiempo de ocio frente a las consecuencias negativas del cuidado y ponen de manifiesto la importancia de tener en cuenta dicha satisfacción para la adecuada comprensión de la situación de la persona cuidadora. Dicho posible efecto protector podría explicarse por su relación con la valoración primaria y secundaria de la situación de cuidado, de manera que las personas cuidadoras que están satisfechas con su tiempo de ocio tengan un mejor grado de ajuste entre las necesidades internas y las exigencias externas.
+Nuestro estudio tiene como limitación el ser descriptivo transversal, por lo que no pueden extraerse de él conclusiones de tipo causal. Sería interesante confirmar los resultados con estudios longitudinales.Lo conocido sobre el tema•Cuidar a un familiar mayor dependiente puede provocar consecuencias negativas en la salud de la persona cuidadora.•Existen algunos estudios que relacionan la satisfacción con el tiempo de ocio de la persona cuidadora con las consecuencias negativas en su salud emocional. No obstante, dichos estudios son escasos y el nivel de evidencia que aportan es bastante insuficiente.Qué aporta este estudio•El análisis de la relación entre la satisfacción con el tiempo de ocio y las consecuencias negativas del cuidado de mayores dependientes puede permitir la identificación de perfiles de riesgo para dichas consecuencias.•La satisfacción con el tiempo de ocio puede tener un efecto protector sobre la sobrecarga subjetiva, la ansiedad y la depresión de forma independiente a la carga objetiva.
+
+
+- FINANCIACIÓN
+
+El presente estudio se ha realizado con financiación del Servicio Andaluz de Salud (subvenciones excepcionales para el desarrollo de proyectos considerados de interés, para las anualidades 2012-2013).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

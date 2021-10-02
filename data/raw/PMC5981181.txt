@@ -1,0 +1,73 @@
+QUISTE NEUROENTÉRICO INTRAMEDULAR: REPORTE DE CASO Y REVISIÓN BIBLIOGRÁFICA
+
+
+- INTRODUCCIÓN
+
+Descriptos por primera vez por Puuseep en 1934, los QNE, también conocidos como quistes endodermales enterogénicos, quistes entéricos, quistes gastroenterogénicos, gastrocitomas e intestinomas, son lesiones congénitas y benignas del sistema nervioso central originadas por epitelio endodermal. Afectan más al conducto espinal y la médula que al cráneo, la base del cráneo y el cerebro. Suelen asociarse a otras anomalías congénitas como disgenesias vertebrales, mielomeningocele y malformaciones congénitas del tracto respiratorio y digestivo, siendo muy rara su presentación sin anomalías en huesos o tejidos asociados. La mayoría de los QNE son de localización intradural extramedular (95%) y suelen ubicarse ventrales a la medula espinal. Los intramedulares son muy raros, y ocurren en menos del 5% de todos los casos reportados de QNE. Hasta el año 2012 se encontraban publicados en la literatura 38 casos de QNE intramedulares, siendo en su mayoría reportes de caso, pero en el año 2015 Yang y cols. publican la primera serie con 13 casos y un seguimiento a largo plazo. Pese a que el tratamiento óptimo de esta patología no ha sido completamente determinado debido a su baja frecuencia, la resección total es actualmente el tratamiento de elección. Presentamos un caso de QNE intramedular cervical en un paciente joven, describimos su tratamiento y analizamos la bibliografía pertinente.
+
+
+-- CASO CLÍNICO
+
+Paciente masculino de 39 años de edad con antecedentes de cervicalgia, debilidad en los 4 miembros y dificultad en la marcha lo que impide su deambulación independiente. Al examen neurológico se evidencia cuadriparesia espástica e hipoestesia superficial en los 4 miembros, con nivel sensitivo cervical medio (C4). Asociado a un síndrome cordonal posterior responsable de la ataxia en la marcha sumado a hiperreflexia, clonus y Babinski bilateral, lo que constituye un McCormick Modificado Grado III según la escala modificada por Aghakhani y cols. . En RMN se observa una imagen hiperintensa en T2 e hipointensa en T1 de limites netos y topografía intramedular, a nivel C5-C6-C7, de características similares al LCR, que no realza luego de la administración de contraste . Los Estudios radiológicos no revelan anomalías en la columna vertebral . Se descartaron otras malformaciones concomitantes.
+
+
+-- INTERVENCIÓN
+
+Se realizó una laminectomía de C4 a C7 incluyendo el borde superior de la lámina de T1. Tanto las partes blandas como el arco posterior de las vértebras y las meninges eran de apariencia normal. La médula espinal se observó ensanchada con una coloración grisácea . Se realizó la mielotomía en línea media y se aspiraron 3 ml de líquido transparente. Se pudo realizar la resección completa de la lesión quística . Por último, se efectuó una artrodesis instrumentada de C4 a C7 con barras y tornillos a las masas articulares de dichas vértebras cervicales . Los exámenes citológicos del líquido obtenido fueron negativos para marcadores y células tumorales, sin identificación de gérmenes en el mismo.
+
+
+-- INFORME HISTOPATOLÓGICO
+
+Descripción macroscópica: fragmento parduzco que mide 1.5 × 0.9 cm .
+Técnica histológica: fijación en formol buffer al 10%. Deshidratación alcohólica. Inclusión en parafina. Cortes a 5 micrones. Coloración con Hematoxilina-Eosina y Alcian Blue-Pas.
+Descripción microscópica: las secciones muestran médula espinal con área quística compuesta por pared fibrosa y revestimiento cilíndrico simple en sectores con células caliciformes y en otros ciliados .
+Diagnóstico: Quiste Neuroentérico.
+
+
+-- EVOLUCIÓN POSTOPERATORIA
+
+El paciente mostró mejoría notable del cuadro neurológico, recuperando la fuerza en los 4 miembros y logrando además una marcha normal (McCormick Modificado Ib). Los controles de imágenes con RMN a los 6 meses de la intervención evidencian la resección completa de la lesión preoperatoria .
+
+
+- DISCUSIÓN
+
+Solo 38 casos de QNE intramedular habían sido publicados hasta el año 2015 cuando T. Yang y cols. realizan la primera publicación de una serie de 13 casos con un amplio seguimiento. Actualmente se han reportado, tan solo, 51 casos de QNE intramedular desde la primera publicación en el año 1934 por Puuseep. Representan el 0,7 al 1,3% de los tumores primarios de la médula espinal. Los QNE espinales son en su mayoría intradurales extramedulares, ubicándose casi invariablemente por delante de la médula espinal. Su ubicación intramedular es muy infrecuente (menos del 5%). Hay una mínima predominancia en el sexo masculino (29 hombres y 22 mujeres) y suelen presentarse en la 2da y 3ra década de la vida, aunque existen casos de presentación al mes del nacimiento y en la séptima década. Son en su mayoría cervicales y del cono medular, lo cual podría tener relación con el cierre imperfecto del tubo neural. Se observaron en total 14 casos cervicales, 9 cervicotorácicos, 14 casos torácicos y 14 casos a nivel del cono medular. Su asociación con otras malformaciones fue del 27.4% de los casos (14 pacientes). Los métodos quirúrgicos utilizados fueron desde la punción aspiración percutánea hasta la resección completa, pasando por la marsupialización del quiste y la derivación cisto-subaracnoidea. De los 51 casos presentados, 46 fueron tratados quirúrgicamente, lográndose resecciones totales en 25 casos. La recurrencia fue del 23% (11 casos). En cuanto a la presentación clínica, los síntomas son casi invariablemente mielopáticos y dependen de la ubicación y el tamaño del quiste, siendo en su mayoría déficit motor, trastornos sensitivos, dolor y trastornos esfinterianos. Estos pacientes suelen consultar cuando presentan algún déficit neurológico o síntoma mielopático, pero al interrogatorio refieren severo dolor axial durante meses o años previos a la consulta (media 41.5 meses), lo que refleja el lento patrón de crecimiento de estos tumores. En algunas ocasiones, el curso clínico se caracteriza por exacerbación y remisión de los síntomas. Esto puede ser atribuible a aumentos súbitos del tamaño del quiste (por desequilibrio en la producción y reabsorción del líquido), así como a la ruptura del quiste, vertiéndose su contenido al espacio subaracnoideo. La meningitis química por ruptura del quiste ha sido también descripta, así como la infección del mismo, sin embargo, no todos estos eventos se acompañan de meningismo.
+Aunque estas hipótesis necesitan ser confirmadas, los síntomas intermitentes pueden dar una pista para el diagnóstico de QNE intramedular.
+
+
+-- PATOGÉNESIS
+
+Los QNE intramedulares son tumores benignos extremadamente raros, y aunque existen diferentes teorías para explicar su formación, su patogénesis no está completamente aclarada. Existen cuatro teorías: la primera considera la existencia de un canal neuroentérico persistente o accesorio, la segunda propone de una división anormal de la notocorda y adhesiones entre endodermo y ectodermo, la tercera teoría plantea un ascenso incompleto o aberrante de la notocorda y, por último, la cuarta teoría considera la existencia de células endodérmicas o ectópicas remanentes como causa originaria. Algunas de estas teorías y las diferentes formas de presentación del QNE fueron resumidas en el mecanismo más aceptado actualmente, propuesto por Bentley y Smith, quienes bajo el título de síndrome de notocorda dividida postularon que el evento primario es la división de la notocorda con una deficiencia asociada en la placa neural suprayacente lo que permitiría a un divertículo endodérmico herniarse a través de la columna vertebral y hacer contacto con el ectodermo de superficie. Sin embargo, esta teoría no explica la formación de QNE en su totalidad, como en las localizaciones intracraneales.
+
+
+-- DIAGNÓSTICO
+
+La RMN es el método diagnóstico de elección, ya que permite la localización exacta y evalúa la extensión del quiste. La TC es útil para descartar anomalías óseas asociadas. Sin embargo, Yang y cols. sugieren la utilización de RMN de alto campo y Rx simples, recurriendo a la utilización de TC solamente cuando se observa alguna anomalía ósea en los estudios previos. En RMN los QNE intramedulares son generalmente de márgenes bien definidos, forma regular, isointensos o levemente hiperintensos en T1, isointensos o hiperintensos en T2, y no realzan luego del contraste. Estas variaciones de la intensidad en RMN dependen del contenido proteico del líquido del quiste, pudiendo este ser de aspecto transparente, citrino, viscoso o lechoso durante su visualización en la cirugía. Generalmente, la falta de captación de contraste y la ausencia de nódulo mural permite diferenciarlo de otras neoplasias. Sin embargo, algunos autores reportan captación del contraste endovenoso, que quizás se deba a una reacción inflamatoria por ruptura de la pared del quiste. Otras patologías como el ventrículo terminal, los quistes ependimarios y la siringomielia, que son isointensos con respecto al LCR en RMN pueden presentar dificultad en el diagnóstico diferencial, por lo tanto, el diagnóstico depende en última instancia de la anatomía patológica. La Hematoxilina-Eosina revela una capa de epitelio columnar o cuboide ciliado o no, que se parece al de los tractos respiratorio y digestivo. En la Inmunohistoquímica, el QNE tiene EMA y Citokeratina positiva y el GFAP y S100 son negativos, lo que permite diferenciarlo del quiste ependimario.
+
+
+-- TRATAMIENTO
+
+El tratamiento de los QNE intramedulares es motivo de discusión, debido a que la historia natural se desconoce. Se han reportado lesiones neurológicas irreversibles en conductas expectantes por irritación crónica radicular, compresión medular o ruptura del quiste, y por lo tanto la cirugía es el tratamiento apropiado y curativo cuando se logra la resección total. La mayoría de estos quistes presentan un claro plano de clivaje; en estos casos, la resección total se puede lograr, con una estabilización o mejora neurológica.
+Se han propuesto diferentes estrategias quirúrgicas, desde la punción aspiración percutánea hasta resección total del quiste, pasando por resecciones subtotales con marsupialización o derivaciones cistosubaracnoideas. La mayoría de los autores proponen la resección total del quiste como objetivo ya que esta sería curativa, pero si el quiste está muy adherido o el plano de disección no se encuentra, las resecciones muy agresivas de los QNE intramedulares son peligrosas y deben evitarse. El monitoreo neurofisiológico intraoperatorio es sumamente útil para disminuir el riesgo de déficit neurológico postoperatorio.
+La simple aspiración se asocia a recurrencias tardías y a la dificultad de hacer diagnóstico anatomopatológico, y la marsupialización y el shunt cistosubaracnoideo son controversiales, por la eventual irritación meníngea que podría causar el contenido quístico. Sin embargo, es importante destacar que las resecciones subtotales (aspiración, marsupialización o shunt cistosubaracnoideo) han demostrado mejoría a corto y largo plazo en algunos pacientes.
+La presencia de epitelio residual secretante podría perpetuar la lesión, por lo tanto, es necesario el seguimiento a largo plazo con RMN, debido al riesgo de recurrencia. Se ha reportado ausencia de recurrencia en resecciones totales y del 23.3 al 30.8% en resecciones subtotales con un periodo medio de seguimiento del 23.6 meses. Se recomienda la reoperación cuando el quiste muestra marcado crecimiento asociado a déficit neurológico.
+
+
+- CONCLUSIONES
+
+Los QNE intramedulares son lesiones raras, congénitas y benignas. Su diagnóstico debe plantearse en pacientes que presentan síntomas medulares intermitentes, asociados a malformaciones vertebrales, meníngeas o del tracto digestivo y respiratorio. La RMN es el método diagnóstico de elección, asociada eventualmente a Rx simples o TC cerebral. La cirugía debe ser indicada inmediatamente a la presentación de los síntomas ya que demorar el tratamiento podría causar signos y síntomas neurológicos permanentes. La resección quirúrgica completa es frecuentemente curativa, ayudada por el plano de separación que presentan estas lesiones con respecto a la médula. Sin embargo, en situaciones donde el plano es poco claro la disección agresiva debe evitarse ya que puede asociarse a déficit neurológico permanente, teniendo en cuenta, además, que las resecciones subtotales se acompañan de buenos resultados neurológicos a corto y largo plazo. En todos los casos deben realizarse controles estrictos con RMN debido a la alta tasa de recurrencia. Si se observa aumento de tamaño en un quiste residual asociado a déficit neurológico se aconseja la reoperación.
+
+
+-- DECLARATION OF PATIENT CONSENT
+
+The authors certify that they have obtained all appropriate patient consent forms. In the form the patient(s) has/have given his/her/their consent for his/her/their images and other clinical information to be reported in the journal. The patients understand that their names and initials will not be published and due efforts will be made to conceal their identity, but anonymity cannot be guaranteed.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

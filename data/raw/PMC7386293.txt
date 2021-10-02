@@ -1,0 +1,58 @@
+TRATAMIENTOS HABITUALES UTILIZADOS EN CEFALEAS, NEURALGIAS Y SARS-COV-2. POSICIONAMIENTO DEL GRUPO DE ESTUDIO DE CEFALEAS DE LA SOCIEDAD ESPAÑOLA DE NEUROLOGÍA
+
+
+- INTRODUCCIÓN
+
+Ante las múltiples consultas realizadas en los últimos meses por pacientes, médicos de familia y neurólogos sobre la posibilidad de que algunos de los fármacos que habitualmente se utilizan en cefaleas y neuralgias puedan favorecer o complicar la infección por el SARS-CoV-2, el Grupo de Estudio de Cefaleas de la Sociedad Española de Neurología quiere expresar lo siguiente:
+Actualmente los escasos estudios publicados de los que derivan estas informaciones no han analizado esta cuestión como objetivo principal y son estudios de modelos in vitro o experimentales de escasa calidad que no suministran evidencias científicas. No obstante, sus conclusiones han sido sobredimensionadas por algunos medios de comunicación, ocasionando alarma a la población y los profesionales sanitarios.
+Ningún estamento científico neurológico se ha posicionado en la actualidad sobre el tratamiento de las cefaleas que tenían previamente los pacientes afectados por la COVID-19 y en la literatura sólo hay artículos de opinión publicados hasta el momento. Por otra parte, consideramos importante aportar luz sobre esta cuestión ante los datos aportados últimamente sobre la presencia de cefalea de nueva aparición en pacientes que sufren COVID-19, , y las implicaciones en su tratamiento. Por ello, realizamos las siguientes recomendaciones detalladamente respecto a los fármacos involucrados en esta cuestión:
+
+
+- LISINOPRIL Y CANDESARTÁN
+
+Son fármacos indicados en el tratamiento preventivo de la migraña con nivel de evidencia II y recomendación de grado B. Lisinopril es un inhibidor de la enzima convertidora de angiotensina (IECA) mientras que candesartán pertenece al grupo de los antagonistas de los receptores de angiotensina II (ARA II). Son los únicos fármacos inhibidores del sistema renina-angiotensina utilizados en migraña.
+La inhibición de la enzima convertidora de angiotensina (ECA) previene la conversión de angiotensina I en angiotensina II, un potente vasoconstrictor que, además, regula la liberación de aldosterona por parte de la glándula adrenal.
+La ECA es producida en distintos tejidos corporales como el sistema nervioso central, los riñones y los pulmones. La ECA2 es una enzima homóloga a la ECA encargada de la degradación de angiotensina II a angiotensina por lo que tiene un efecto fisiológico contrario a ECA. La ECA2 es una enzima de membrana que regula el paso del SARS-CoV-2 al interior las células. Los IECA inhiben la ECA en humanos, pero no la ECA2, aunque a altas dosis en estudios con animales se ha observado que tanto IECA como ARA II regulan al alza la expresión de la ECA2, , , .
+Sociedades internacionales, europeas y americanas, , , se han posicionado y defienden que los IECA y ARA II no están contraindicados en pacientes hipertensos con sospecha o diagnóstico de COVID-19, ya que incluso podrían tener un efecto beneficioso si la expresión al alza de ECA2 conlleva a unos niveles inferiores de angiotensina II a nivel pulmonar. Además, la suspensión de estos fármacos en algunos pacientes puede exacerbar la enfermedad cardiovascular o renal de base y conducir a una mayor mortalidad. Por lo tanto, tampoco está indicada su retirada en pacientes con migraña.
+No obstante, nos parece recomendable no indicarlos de novo como tratamiento preventivo de la migraña durante la pandemia COVID-19, pues hay otras opciones terapéuticas cuando se agotan las opciones de Nivel I, como son venlafaxina (nivel de evidencia II, grado de recomendación B), zonisamida (nivel de evidencia IV) o lamotrigina (nivel de evidencia IV). En pacientes con migraña que ya tomen lisinopril o candesartán y riesgo de COVID-19 grave (tabla 1 ), recomendamos igualmente valorar otras opciones terapéuticas.
+
+
+- IBUPROFENO
+
+Indicado en el tratamiento del ataque agudo de dolor de intensidad moderada de migraña con nivel de evidencia I y recomendación de grado A.
+Sin duda, es el fármaco más polémico y que ha generado más alarma, pues es uno de los fármacos de uso más extendido a nivel mundial como tratamiento sintomático del ataque de migraña. La alerta fue generada a raíz de un artículo publicado el 11 de marzo de 2020 en la revista The Lancet donde se advertía de que el ibuprofeno podría elevar la expresión de ECA2 y con esto provocar empeoramiento clínico en caso de COVID-19. Ocho días después, la Organización Mundial de la Salud (OMS) advirtió de esta noticia para hacer una rectificación poco después, afirmando que no hay evidencias científicas que soporten esta afirmación. La Food and Drug Administration (FDA), la European Medicine Agency (EMA) y la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS), , se han manifestado en el mismo sentido y recomiendan realizar una investigación al respecto. La posible relación entre la exacerbación de la infección por SARS-CoV-2 con ibuprofeno y ketoprofeno está siendo evaluada en el Comité de Evaluación de Riesgos en Farmacovigilancia europeo (PRAC) de la EMA. El ibuprofeno incrementa los niveles de la ECA2 exclusivamente en el corazón de las ratas, sin haberse observado en otros órganos, . Cabe decir que la dosis empleada en los animales de experimentación corresponde a 3 g de ibuprofeno en humanos, siendo la dosis máxima recomendada en migraña de 1.800 mg/día.
+De esta manera, se recomienda exclusivamente evitar la indicación de novo de ibuprofeno en pacientes con migraña y riesgo de COVID-19 grave , pero no en el resto. En los pacientes que ya lo toman, no se recomienda cambiarlo, insistiendo en la recomendación de evitar el exceso de consumo de ibuprofeno: más de 15 comprimidos al mes.
+Asimismo, cabe recordar que hay otros fármacos alternativos a ibuprofeno en el tratamiento del ataque moderado de migraña como son naproxeno, indometacina o diclofenaco. Por último, también se pueden emplear los triptanes, fármacos indicados en el ataque de intensidad moderada-grave de migraña.
+
+
+- CORTICOIDES
+
+Indicados por vía oral como tratamiento preventivo de transición en la cefalea en racimos con nivel de evidencia IV y recomendación de grado C y en el tratamiento del estatus migrañoso con nivel de evidencia IV y grado de recomendación C.
+Su indicación como tratamiento de la COVID-19 es controvertida. El Centers for Disease Control and Prevention de Estados Unidos (CDC) contraindicaba su uso, basándose en la experiencia previa de la epidemia del SARS-CoV en 2003, cuando varios estudios objetivaron que el uso temprano de corticoides se asociaba a una mayor carga viral en plasma y un aclaramiento viral retrasado. Sin embargo, pueden ser beneficiosos en la fase temprana de la infección por SARS-CoV-2, reduciendo la duración de la ventilación mecánica y la mortalidad general en pacientes con síndrome de distrés respiratorio del adulto (SDRA) establecido de moderado a grave, aunque no existen estudios aleatorizados.
+Es conocido el efecto inmunodepresor de los corticoides, por lo que recomendamos evitar su indicación oral habitual de 1 mg/kg en pacientes con cefalea en racimos durante la pandemia y extender el uso de los bloqueos de los nervios occipitales con triamcinolona, metilprednisolona o betametasona; que tienen el mismo nivel de evidencia y carecen prácticamente de efectos sistémicos al inyectar el corticoide localmente. Asimismo, en las guías existen otras opciones terapéuticas como prevención retardada como el verapamilo (nivel de evidencia I, grado de recomendación A), el carbonato de litio (nivel de evidencia II, grado de recomendación B), topiramato (nivel de evidencia II, grado de recomendación B), el ácido valproico (nivel de evidencia IV, grado de recomendación C), la gabapentina (tratamiento de tercera línea), o la toxina botulínica A.
+Los corticoides también se usan por vía parenteral u oral en el estado migrañoso en urgencias, pero son pautas muy cortas por lo que no están desaconsejados, salvo en pacientes con alta sospecha o diagnóstico de COVID-19 grave , en los que se recomienda evitar su uso.
+
+
+- CARBAMAZEPINA
+
+Indicada en la neuralgia del trigémino con nivel de evidencia I y recomendación de grado A.
+Ningún estudio la ha relacionado con la COVID-19, pero dado su potencial efecto adverso de leucopenia, recomendamos valorar otras opciones si se tiene que indicar de novo, sobre todo en pacientes de riesgo de COVID-19 grave . La COVID-19 cursa habitualmente con linfopenia por lo que el efecto leucopénico de la carbamazepina podría incrementar dicha linfopenia. En pacientes sin factores de riesgo de sufrir COVID-19 grave que ya lo tomen desde hace más de tres meses, recomendamos realizar la monitorización analítica sanguínea habitual. Esta recomendación también debe hacerse extensible de forma individualizada a los bloqueantes de los canales del sodio que se utilizan en la terapia de la neuralgia del trigémino: acetato de eslicarbazepina, oxcarbazepina (nivel de evidencia IV, grado de recomendación C) y lamotrigina (nivel de evidencia II, grado de recomendación B). Se recuerda que hay otras opciones terapéuticas como son pregabalina, gabapentina, baclofeno (nivel de evidencia IV, grado de recomendación C) o toxina botulínica A.
+
+
+- ANTICUERPOS MONOCLONALES CONTRA CGRP
+
+A partir de los ensayos clínicos y el uso en la práctica clínica, se ha objetivado que el tratamiento con anticuerpos monoclonales contra el CGRP en migraña no condiciona un mayor riesgo de infecciones o inmunosupresión, ya que parece no comprometer el sistema inmunitario de los pacientes. Por este motivo, se recomienda no discontinuar la medicación durante la pandemia.
+En la literatura encontramos descrita la experiencia previa de infección por MERS y SARS-CoV en pacientes en tratamiento inmunomodulador o inmunosupresor. No se informó ni peor evolución ni mayor mortalidad en pacientes inmunosuprimidos, en tratamiento con quimioterapia ni en pacientes trasplantados.
+En la pandemia actual hay publicadas series de pacientes trasplantados, o con tratamientos inmunomoduladores por esclerosis múltiple que no presentan peor pronóstico.
+Además, se está planteando la hipótesis de que este tipo de tratamientos pudieran actuar como un factor protector dado que, al influir sobre los linfocitos, podrían bloquear la tormenta de citoquinas implicada en la peor evolución de la infección. Es más, está en marcha un ensayo clínico para el tratamiento de la COVID-19 con fingolimod, fármaco que provoca linfopenia por secuestro. No obstante, aún no disponemos de información suficiente para apoyar o desmentir esta teoría.
+
+
+- INTERACCIÓN DE FÁRMACOS PREVENTIVOS EMPLEADOS EN CEFALEAS CON FÁRMACOS PARA LA COVID-19
+
+Se debe tener precaución con las potenciales interacciones entre fármacos preventivos de la migraña como amitriptilina, betabloqueadores adrenérgicos, verapamilo, mirtazapina y ácido valproico, con fármacos empleados en enfermos con COVID-19 como lopinavir/ritonavir, hidroxicloroquina, cloroquina y azitromicina.
+La mayoría de estas interacciones son de categoría C, haciendo que no se contraindique su utilización conjunta pero sí requiriendo una monitorización estrecha para evitar la aparición de efectos adversos o la pérdida de eficacia.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen conflicto de intereses.

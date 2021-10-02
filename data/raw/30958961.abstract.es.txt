@@ -1,0 +1,5 @@
+Análisis de frecuencia de indicadores reportados, calidad de los datos y comparación de valores reportados en el entorno OCDE.
+Se analizan 191 indicadores. México reportó anualmente (2010-2016) 52.9% de ellos. Nunca reportó 45.5%. La mayor frecuencia de no reportados (84%) es en el grupo “Calidad de la atención”. En los reportados, la información es de calidad deficiente en 28.7%. Comparativamente, México ostenta los peores resultados de OCDE en indicadores sobre tamizaje de cáncer, mortalidad infantil e intrahospitalaria por infarto de miocardio y hospitalización por diabetes, entre otros.
+México tiene problemas de carencia y calidad de la información reportada y valores frecuentemente desfavorables en el entorno OCDE. Se requiere mejorar el sistema de información incidiendo tanto en cantidad como en calidad de los datos, y su utilización efectiva.
+Analizar cantidad y calidad de la información sobre indicadores de salud reportada por México a la Organización para la Cooperación y el Desarrollo Económicos (OCDE).
+

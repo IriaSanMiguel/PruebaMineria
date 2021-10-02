@@ -1,0 +1,55 @@
+RECOMENDACIONES ÉTICAS Y CLÍNICAS PARA LA TOMA DE DECISIONES EN EL ENTORNO RESIDENCIAL EN CONTEXTO DE LA CRISIS DE COVID-19
+
+
+- INTRODUCCIÓN
+
+La actual pandemia por coronavirus SARS-CoV-2 (causante de la enfermedad COVID-19) se ha ensañado especialmente con las personas mayores, grupo en el que se han concentrado más del 85% de casos de muerte por esta enfermedad. En este contexto, la COVID-19 ha irrumpido de forma severa en las residencias geriátricas, donde viven y se concentran un gran número de personas de edad avanzada (87 años de edad media), con gran multimorbilidad (46% de personas con demencia), complejidad (51% de grupos de morbilidad ajustados [GMA] de alto riesgo), y una alta prevalencia de situación de final de vida (54%), con una mortalidad anual global superior al 20%, .
+Este hecho, conjuntamente con las particularidades en la presentación clínica en este grupo poblacional —que frecuentemente se manifiesta con presentaciones clínicas atípicas—, la convivencia de múltiples residentes en espacios cerrados, el modelo de atención sanitaria en estos centros y la precariedad de recursos humanos y de otra índole del sector han proporcionado una situación de tormenta perfecta que ha impactado tanto a nivel sistémico como a nivel individual. A nivel sistémico, las respuestas asistenciales en estos centros han estado fuertemente condicionadas por el impacto de la pandemia en todos los demás recursos de los sistemas de salud y social, que se han visto desbordados en su capacidad de respuesta. A nivel individual, la complejidad clínica de estas personas y el contexto epidemiológico han generado dificultades importantes en la toma de decisiones, tanto para las persones residentes como para sus familias y para los profesionales que las atienden.
+A falta de datos definitivos, se estima que en los países desarrollados más de la mitad de todas las muertes por COVID-19 se concentran en las residencias geriátricas —que en el caso de España se podría elevar a prácticamente las 2/3 partes (17.848 del total de los 26.920 fallecidos, a fecha de 12 de mayo)—. Teniendo en cuenta que en España existen unas 5.450 residencias, con más de 270.000 residentes, se hace evidente la necesidad de medidas concretas, criterios sólidos y principios éticos fundamentales con el fin de guiar y dar apoyo a los profesionales y a las organizaciones en esta situación tan compleja, . Con este fin, desde las cátedras de Cuidados Paliativos y de Bioética de la UVic-UCC, el Centro de Estudios Sociales y Sanitarios (CESS) y el grupo de investigación en cronicidad de la Cataluña Central (C3RG), se ha promovido un consenso con múltiples organizaciones, que se presenta en este artículo.
+
+
+- METODOLOGÍA
+
+Condicionados por la falta de evidencia publicada, así como por la necesidad de un consenso rápido de recomendaciones, se ha diseñado una propuesta metodológica ágil en 3 etapas: 1) revisión rápida de literatura a cargo de los editores, en un proceso de revisión por pares; 2) creación de un grupo redactor y de un grupo revisor, formados ambos por un conjunto de profesionales interdisciplinario y de distintos ámbitos del sistema de salud y social, y 3) consenso de las recomendaciones con sociedades científicas y otras organizaciones del documento marco (tabla 1 ).
+
+
+- RESULTADOS
+
+-- SÍNTESIS RÁPIDA NARRATIVA DE LITERATURA Y DATOS DISPONIBLES
+
+En primer lugar se realizó una búsqueda rápida no sistemática, destacando 5 artículos sobre COVID-19 en el ámbito residencial que fueron considerados especialmente relevantes a criterio de los editores, , , , , así como otros 3 artículos relacionados con atención paliativa y con la ética en la toma de decisiones en este entorno, , . Para contextualizar el trabajo en nuestro ámbito resultó necesario revisar los datos relacionados con la pandemia COVID-19 y con la situación de las residencias geriátricas en España, , , , .
+
+
+-- ELABORACIÓN DE LAS RECOMENDACIONES
+
+A partir de estas evidencias y de la experiencia de los respectivos profesionales, el grupo redactor elaboró un primer borrador, que posteriormente fue valorado y mejorado por el grupo revisor. En el documento pre-definitivo fruto de este proceso, y pendiente de las aportaciones finales por parte de sociedades científicas y otras organizaciones, se consensuaron las siguientes recomendaciones:
+
+
+-- A) RECOMENDACIONES GENERALES
+
+Se identificaron 5 pasos de valoración e intervención (persona, familia, equipo, recursos del territorio y criterios de derivación), para los que se describieron: 1) los pasos (qué hacer); 2) el método (cómo hacerlo); 3) los resultados esperados, y 4) una serie de recomendaciones prácticas relacionadas (comentarios) (fig. 1 ).Figura 1
+En la evaluación de la persona se incluyó el diagnóstico de situación previa —que debe ir mucho más allá de la edad cronológica de las personas—, así como la identificación de sus valores y preferencias. En el apartado sobre la familia destacó también la necesidad de explorar sus valores, preferencias y expectativas; en el apartado sobre el equipo, se identificó la necesidad de fomentar su participación, así como de soporte en la valoración y en la toma de decisiones. En la exploración de los recursos territoriales se puso de relieve la necesidad de identificación de los recursos externos disponibles, así como la necesidad de intervención de equipos de soporte o de criterios de admisión e intervención en los ajenos.
+Esta información debía proporcionar la identificación de criterios facilitadores del proceso de toma de decisiones, entre las que destacaba el lugar preferente de atención (centro residencial con recursos internos o soporte adicional externo, o bien derivación a otro recurso).
+
+
+-- B) RECOMENDACIONES ESPECÍFICAS
+
+En este apartado se diseñaron 4 fichas de vocación pragmática, con el objetivo de dar respuesta a situaciones específicas y prevalentes: la primera propuso medidas de atención paliativa en aquellos casos en los que se haya identificado una situación de enfermedad avanzada o terminal sin criterios de derivación, y propuesta de atención en el propio centro. La segunda ficha explicitó una serie de recomendaciones para el apoyo y acompañamiento de la familia, con criterios de soporte, de presencia y de atención del duelo. Se complementaron con recomendaciones para la atención y la toma de decisiones de personas con demencia, así como con las medidas de apoyo al equipo para la prevención del estrés, el burnout, la fatiga por compasión o la culpabilidad .
+
+
+-- PROCESO DE CONSENSO CON SOCIEDADES CIENTÍFICAS Y ORGANIZACIONES
+
+El documento pre-definitivo se sometió a la revisión y aceptación por parte de las 12 sociedades científicas, 5 entidades de bioética o de sus presidentes, así como 15 organizaciones —incluidos colegios profesionales, patronales, grupos de investigación y administración— , que realizaron también aportaciones de valor, obteniendo finalmente un consenso definitivo .
+
+
+- DISCUSIÓN
+
+Ante la actual pandemia de COVID-19, las decisiones éticas y clínicas en el entorno residencial suponen el elemento nuclear sobre el que erigir una atención de calidad, centrada en las personas y equitativa. En este contexto, resultan fundamentales recomendaciones específicas que permitan orientar a los profesionales en el difícil proceso de toma de decisiones, hecho que puede ayudar finalmente a reducir los daños colaterales, .
+El presente documento refleja y ordena un proceso que empieza por la valoración individualizada de las personas residentes (y de sus necesidades y preferencias), incorporando a la familia y al equipo como protagonistas relevantes, así como una evaluación de los recursos territoriales y su accesibilidad y criterios de derivación.
+A pesar de las limitaciones derivadas de la escasa bibliografía específica sobre la toma de decisiones en entorno residencial en la actual pandemia de COVID-19, así como la multitud de entidades y profesionales participantes en el presente trabajo, el diseño metodológico en tres etapas ha permitido desarrollar amplio consenso en menos de dos semanas. No existen precedentes en la literatura publicada de un documento de estas características, con un consenso tan amplio y con una vocación tan pragmática y orientada a la práctica cotidiana. La mayor parte de artículos revisados o bien se focalizan es aspectos muy específicos (epidemiología, características clínicas, aspectos organizativos, atención paliativa, , opiniones individuales, por ejemplo) o están publicados por grupos de trabajo o sociedades científicas aisladas, .
+Las decisiones tomadas en este incierto presente, condicionarán, a corto y a medio plazo, un impacto significativo para los pacientes, las familias y los profesionales asistenciales, que a veces puede resultar tanto o más catastrófico que la propia enfermedad. Esperemos que estas recomendaciones aporten luz para ayudar a edificar un futuro que esperemos que sea mejor y más colaborativo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

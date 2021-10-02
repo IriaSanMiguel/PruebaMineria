@@ -1,0 +1,91 @@
+EFECTIVIDAD DE LAS INTERVENCIONES PARA MEJORAR LA PRESCRIPCIÓN DE MEDICAMENTOS EN ATENCIÓN PRIMARIA<SUP
+
+
+- INTRODUCCIÓN
+
+La prescripción de medicamentos es el acto médico más frecuente, a la vez que los medicamentos son la tecnología médica más utilizada en todo el mundo. Esta tiene como finalidad contribuir a la restauración de la salud perdida entre las personas demandantes de servicios sanitarios en cualquier nivel, sin embargo, para que se cumpla este propósito, la prescripción de medicamentos debe ser racional o adecuada. La prescripción adecuada de un medicamento es aquella en la que el médico indica «el medicamento correcto para la enfermedad, a la dosis correcta, por la vía correcta, en el intervalo correcto y durante el tiempo correcto, al menor costo posible».
+No obstante, se reconoce que en todo el mundo más del 50% de los medicamentos son prescritos inadecuadamente por los médicos en todos los niveles de atención a la salud, . Esto disminuye la efectividad de los medicamentos y aumenta la exposición de los usuarios de los servicios de salud a los efectos secundarios y adversos de los medicamentos, así como a interacciones entre estos, lo que se suma a otros problemas relacionados con los medicamentos que tienen su origen en los pacientes, como la automedicación y la falta de adherencia al tratamiento farmacológico, .
+Este conjunto de problemas tiene una serie de repercusiones de gravedad variable a mediano y largo plazo. En el caso de medicamentos de uso crónico, como los hipoglucemiantes, se perpetúa el descontrol de las enfermedades y se adelanta la aparición de sus complicaciones agudas y crónicas, . Mientras que en el caso de los antibióticos se gesta y promueve la resistencia antimicrobiana, lo que tiene impacto directo sobre la morbimortalidad por enfermedades de origen infeccioso. Este conjunto de problemas tiene un impacto negativo directo sobre los sistemas de salud, en términos de uso inadecuado de recursos materiales, planeación ineficiente de los servicios y financiamiento insuficiente de los mismos, que son reconocidas desde hace más de 2 décadas, .
+Este problema es especialmente importante en atención primaria a la salud, dado que en este nivel de atención se atienden y deben resolver el 85% de los problemas de salud de la población, en tanto que al segundo le corresponde el 10% y al tercero el 5%.
+Se han realizado y documentado diversas intervenciones para mejorar la calidad de la prescripción de medicamentos en atención primaria que han demostrado efectividad variable, sin que se conozca un consenso sobre cuál es la más efectiva para la solución de este problema. Por consiguiente, se realizó la presente investigación con el objetivo de determinar la efectividad de las intervenciones para mejorar la calidad de la prescripción de medicamentos en unidades de atención primaria de salud.
+
+
+- MATERIAL Y MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Revisión sistemática y meta-análisis.
+
+
+-- BÚSQUEDA BIBLIOGRÁFICA
+
+La búsqueda de estudios publicados se realizó en las bases de datos: MedLine, ScienceDirect, Springer, SciELO, Dialnet, RedALyC e Imbiomed; desde el comienzo de la indexación de cada una hasta agosto de 2014. Se utilizaron los descriptores clave «calidad de la prescripción» o «auditoría médica» o «errores de prescripción» o «errores de medicación» o «manejo de medicamentos» para describir el objeto, «estudios de intervención» o «estudios experimentales» o «estudios cuasi-experimentales» para el diseño del estudio, y «atención primaria» o «atención primaria a la salud» para el escenario de la investigación, con sus respectivas traducciones al inglés, conjugando las categorías con el operador booleano and, mismos que se buscaron en el cuerpo de los documentos. Posteriormente se realizó una búsqueda de las referencias bibliográficas de los estudios seleccionados, así como de las citas de estos últimos.
+
+
+-- CRITERIOS DE SELECCIÓN DE LOS ESTUDIOS
+
+Se incluyeron reportes de investigación cuantitativa que emplearon diseños experimentales o cuasi-experimentales. Se seleccionaron a partir del título, resumen y texto completo, según los siguientes criterios: a) título: contener por lo menos 2 palabras clave; b) resumen: contener 3 palabras clave y no presentar criterios de exclusión; c) texto completo: contener datos crudos. Se excluyeron protocolos publicados, revisiones sistemáticas y reportes de investigación cualitativa, así como reportes de investigación cuantitativa en los que el objeto del estudio fue la calidad de la prescripción de tratamientos no farmacológicos y/o la calidad del recetado o elaboración de la receta. Estos criterios de inclusión y exclusión se aplicaron en 3 rondas de búsqueda: a) búsqueda inicial; b) búsqueda de las referencias bibliográficas de las referencias incluidas en la búsqueda inicial; y c) búsqueda de las citaciones de las referencias incluidas en la búsqueda inicial.
+
+
+-- ANÁLISIS DE VALIDEZ
+
+Cada artículo fue valorado por 2 revisores de forma independiente para decidir su inclusión, usando la valoración por un tercer revisor en los casos en los que hubo discordancia entre los pares iniciales. Para la valoración crítica de los estudios identificados se utilizó la guía Critical Appraisal Skills Programme Español para ensayos clínicos, que consta de 11 ítems, de los cuales los 3 primeros son de eliminación. Se seleccionaron los artículos con puntuación mayor a 5 puntos, por considerar que cubrían más del 50% de los criterios de calidad definidos por este instrumento. Para el caso de los estudios cuasi-experimentales no se consideraron las preguntas número 2 y 4 de esta guía, referentes a la aleatorización de los sujetos de estudio y el cegamiento de los participantes.
+
+
+-- EXTRACCIÓN DE DATOS
+
+Se extrajeron datos generales y de efectividad para cada artículo incluido. Los datos generales fueron: autores y año de publicación, país, idioma, diseño, enfermedades tratadas, medicamentos prescritos, unidad de observación, tamaño de la muestra, tipo de intervención, descripción de la intervención y tiempo de seguimiento. Los datos de efectividad de la intervención fueron: número y porcentaje de errores de prescripción de medicamentos pre- y post-intervención, tasa de reducción de errores de prescripción de medicamentos y significancia estadística.
+
+
+-- SÍNTESIS DE DATOS
+
+Se obtuvieron las medidas de efecto estimado para cada estudio incluido, mediante odds ratio (OR) con un intervalo de confianza de 95% (p ≤ 0,05). Posteriormente, se agruparon las intervenciones identificadas de acuerdo a su tipología y se realizó una síntesis cuantitativa de los datos mediante meta-análisis para grupo, empleando la misma medida estadística. Para efectos de meta-análisis se consideraron las siguientes definiciones: a) caso: prescripciones adecuadas; b) no caso: prescripciones inadecuadas o erróneas; c) expuestos: sujetos que recibieron intervención; d) no expuestos: sujetos que no recibieron intervención. Este análisis se llevó a cabo empleando StatCalc® de Epi Info© versión 7.1.4.0 (freeware desarrollado y distribuido por el Center for Disease Control and Prevention de EE. UU., a través de http://wwwn.cdc.gov/epiinfo/7/).
+Esquema del estudio 
+
+
+- RESULTADOS
+
+-- REVISIÓN DE LA LITERATURA
+
+En la primera ronda de búsqueda se encontraron 522 artículos publicados, de los que se excluyeron 513 y se incluyeron 9 a texto completo, , , , , , , , . En la segunda ronda de búsqueda se encontraron 205 referencias bibliográficas de las referencias, de las que se excluyeron 202 y se incluyeron 3 a texto completo, , . En la tercera ronda de búsqueda no se encontraron citaciones de las referencias incluidas en la primera ronda. En total se incluyeron 12 artículos objeto de análisis.
+
+
+-- CARACTERÍSTICAS DE LOS ESTUDIOS
+
+En la tabla 1 se exponen las características de los 12 artículos seleccionados. La mayoría correspondió a estudios cuasi-experimentales, realizados en EE. UU., publicados en inglés, en los que se evaluó la calidad de la prescripción de todos los medicamentos del cuadro básico de la institución objeto de estudio para todas las enfermedades motivo de consulta o prescripción.
+
+
+-- EFECTIVIDAD INDIVIDUAL DE LAS INTERVENCIONES
+
+Los 12 artículos seleccionados reportaron los resultados de 17 intervenciones: 64,7% educativas (n = 11), 23,5% consistentes en la incorporación de farmacéuticos al equipo de salud (n = 4) y 11,8% en las que se usaron aplicaciones informáticas o software (n = 2). Las fuerzas de asociación «intervención/mejora de la prescripción» obtenidas para cada intervención se exponen en la figura 1, en donde se observa que la efectividad de las intervenciones educativas es heterogénea, mientras que el uso de software y la incorporación de farmacéuticos al equipo de salud son intervenciones que exhiben generalmente una asociación significativa con la mejora de la calidad de la prescripción de medicamentos en atención primaria de salud (p < 0,05).Figura 1
+
+
+-- EFECTIVIDAD GRUPAL DE LAS INTERVENCIONES
+
+Al agrupar las intervenciones de acuerdo a su tipología, las fuerzas de asociación «intervención/mejora de la prescripción» obtenidas para cada grupo fueron: intervenciones educativas OR = 2,47 (IC 95%: 2,28 a 2,69), incorporación de farmacéuticos al equipo de salud OR = 3,28 (IC 95%: 2,58 a 4,18) e intervenciones informáticas OR = 10,16 (IC 95%: 8,81 a 11,71).
+
+
+- DISCUSIÓN
+
+Desde que se identificóa la prescripción irracional de medicamentos como un problema de salud pública mundial en 1985 y hasta la fecha, se ha asumido que su raíz se encuentra en las escuelas y facultades de medicina, a nivel tanto de pregrado como de posgrado, en donde se ha reconocido que la enseñanza de las ciencias farmacéuticas es deficiente en variados aspectos, tales como los contenidos curriculares y los métodos de enseñanza empleados, entre otros, pese a que la prescripción de medicamentos es uno de los aspectos medulares de la práctica de la medicina, . Por lo que la tendencia general, al parecer, es invertir en estrategias educativas, , , , , .
+Sin embargo, en contraste, las intervenciones educativas que se han llevado a cabo para tratar de solucionar el problema entre los médicos practicantes de la atención primaria de salud, , , , , han demostrado poca efectividad frente a otras intervenciones, como la integración de la figura del farmacéutico en el equipo de salud, , , y el uso de software de apoyo para la prevención de prescripciones inadecuadas, , sin que ninguna logre constituirse como una solución 100% satisfactoria del problema. En este sentido, es menester hacer hincapié en que los resultados del meta-análisis al que fueron sometidos los estudios que reportan intervenciones educativas deben ser tomados con mesura, en tanto que estas son heterogéneas, y el estadístico obtenido por tanto no puede ser aplicable al potencial efecto conjugado de cada subtipo (conductista, constructivista, tutorial, etc.) que en el futuro deberán ser analizadas según sus similitudes. Empero, más allá de esta limitación, existen varios aspectos discutibles en cada una de las 3 categorías definidas en este estudio.
+Por un lado, las intervenciones educativas que se han documentado son muy heterogéneas entre sí, pudiendo ir desde la simple difusión pasiva de guías de práctica clínica, pasando por la evaluación continua y la retroalimentación de los médicos, hasta llegar a estrategias más complejas, como la asesoría personalizada vía acompañamiento tutorial y talleres. En este sentido, hay varios vacíos por llenar respecto a las herramientas docentes por aplicar, como la educación participativa basada en problemas, que al parecer no ha sido empleada en este contexto y habría que valorar su utilidad en la solución de este problema. En este orden de ideas es necesario incrementar el acervo sobre las intervenciones educativas analizadas y por cubrir, en aras de poder construir categorías más homogéneas entre sí que permitan una mejor estimación de su efectividad a través de las herramientas estadísticas del meta-análisis.
+Por otra parte, en cuanto a la incorporación del farmacéutico al equipo de salud y el uso de software para prevenir los errores de medicación, si bien han demostrado una mayor efectividad, habría que sopesar mediante estudios económicos la relación coste-beneficio a mediano y largo plazo. Si bien, a primera vista parecen soluciones ideales, en una reflexión un poco más profunda surgen cuestionamientos como el número requerido de farmacéuticos para constituir su inclusión en el equipo de salud como una solución universal y la suficiencia de estos recursos humanos en el mediano plazo, que ya han sido planteadas recientemente por la Organización Panamericana de la Salud, así como la infraestructura y equipamiento necesarios para que el uso de software adquiera el mismo estatus. En este sentido, las intervenciones educativas dirigidas a los médicos parecen continuar perfilándose como las estrategias con mejor relación coste-beneficio a corto y mediano plazo, al menos, hasta que se documente y demuestre lo contrario mediante las investigaciones pertinentes. En este orden de ideas los autores del presente manuscrito reconocen que existen diversos reportes de investigación que informan resultados de intervenciones de diversa índole, posiblemente igual o más exitosas que las incluidas en este meta-análisis, que no fueron incluidas en esta revisión, bien sea por encontrarse publicados solo en medios impresos, y por consiguiente no aparecer en los motores de búsqueda, o por no contener las palabras clave utilizadas para su identificación, existiendo términos alternativos no utilizados en este caso, o por la estrechez de los criterios de inclusión definidos en el estudio, que condicionaron la exclusión de reportes que no ofrecen datos crudos.
+Finalmente, a juzgar por los resultados de las intervenciones, , , , , , , , , , , , el enfoque que se ha estado dando durante la última década al problema de la prescripción inadecuada de medicamentos parece dejar pasar desapercibidos elementos que podrían ser cruciales para su solución, como el punto de vista de los prescriptores como actores de este fenómeno, por lo que valdría la pena explorar este problema desde otros enfoques, como la metodología cualitativa, con la cual ya se han llevado a cabo aproximaciones, que han revelado cuestiones importantes como la percepción del riesgo atribuido por el médico a los medicamentos, el significado que este y la institución le otorgan a las guías de práctica clínica, y la relevancia que el prescriptor le otorga a su práctica empírica por encima de la medicina basada en evidencias, que son útiles para la reorientación de los programas de entrenamiento y educación médica continuada.
+Se puede concluir, teniendo en cuenta las limitaciones y sesgos de este estudio, que son relativamente escasas las intervenciones bien documentadas para mejorar la calidad de la prescripción médica de medicamentos en el primer nivel de atención a la salud, y que las más efectivas parecen ser las que involucran el uso de software, pero que no obstante, dados los requerimientos necesarios de estas y la insuficiencia de recursos humanos para emplear farmacéuticos como segunda opción, las intervenciones educativas ostentan una mejor relación coste-beneficio, pese a ser las menos efectivas en el plano general, por lo que habrán de realizarse investigaciones en el futuro, orientadas a mejorar la efectividad de estas a través de enfoques metodológicos mixtos.
+Lo conocido sobre el temaLa prescripción inadecuada o irracional de medicamentos es un problema frecuente en atención primaria de salud, que afecta a más de 50% de sus usuarios.La elevada prevalencia de prescripción inadecuada o irracional de medicamentos en atención primaria de salud es un problema relevante, dado que en este nivel se atienden el 85% de los problemas de salud de la población.La literatura científica reporta diversas intervenciones para la reducción de las prescripciones inadecuadas en atención primaria, con una efectividad variable.Qué aporta este estudioLas intervenciones documentadas para la reducción de las prescripciones inadecuadas en atención primaria se agrupan en 3 categorías: educativas, de recursos humanos (integración del farmacéutico en el equipo de salud) e informáticas (diseño e implementación de software especializado).Las intervenciones informáticas demuestran mayor efectividad para la solución del problema, frente a las opciones de incorporación de recursos humanos y educación del personal médico. Empero, ningún estudio reporta la relación coste-beneficio de las intervenciones documentadas.Las intervenciones documentadas para la reducción de las prescripciones inadecuadas en atención primaria no toman en consideración las opiniones ni experiencias de los médicos prescriptores, que serían útiles especialmente para las intervenciones de tipo educativo.Se recomienda que los futuros estudios de intervención incorporen variables económicas para documentar y difundir la relación coste-beneficio.
+
+
+- FINANCIACIÓN
+
+Trabajo realizado gracias a la beca número 329959 para estudios de posgrado nacionales, del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México.
+
+
+- AUTORÍA
+
+MAZG, CECP, MJOV e IMRH concibieron y diseñaron la investigación. CECP e IMRH aportaron el material de estudio. MAZG recolectó y sistematizó la información. MAZG y CECP analizaron los datos. MAZG, CECP, MJOV e IMRH interpretaron los datos y redactaron el artículo. MAZG realizó enmiendas y condujo el proceso editorial. Todos los autores realizaron la revisión crítica del artículo y aprobaron su versión final.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

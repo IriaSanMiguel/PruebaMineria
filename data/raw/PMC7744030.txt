@@ -1,0 +1,170 @@
+RECOMENDACIONES DE ACTUACIÓN EN CIRUGÍA ONCOLÓGICA HEPATOBILIOPANCREÁTICA DURANTE LA PANDEMIA COVID-19
+
+
+- INTRODUCCIÓN
+
+Los pacientes oncológicos presentan un estado de inmunosupresión sistémica, derivado del proceso neoplásico subyacente y de los tratamientos administrados, mostrando por ello una mayor susceptibilidad a las infecciones. El manejo de este grupo de pacientes presenta dos problemas mayores a tener en cuenta en la situación actual de pandemia por SARS-CoV-2 (COVID-19). Primero, el mayor riesgo de contraer la infección, con tasas mayores de morbimortalidad en el caso de ser intervenidos, . Segundo, la limitación de recursos en determinados momentos, que obligarán a la priorización del uso de los mismos para pacientes más críticos.
+Generalmente el manejo de los pacientes con neoplasias del área hepatobiliopancreática (HBP) es complejo, siendo necesario diseñar la estrategia terapéutica más adecuada en Comité Multidisciplinar (CM). En el contexto actual es determinante minimizar el riesgo de infección por SARS-CoV-2 en este grupo de pacientes, así como optimizar los tratamientos y recursos disponibles, ofreciendo las alternativas mejores y más seguras. Todas las decisiones que se tomen deben ser consensuadas en CM, sabiendo que en determinados momentos puede ser necesario modificar los protocolos habituales. Es importante establecer planes de actuación en donde se contemplen la priorización, la demora e incluso la cancelación de los diferentes tratamientos oncológicos.
+
+
+- DESPISTAJE PERIOPERATORIO DE INFECCIÓN POR SARS-COV-2 EN EL PACIENTE ONCOLÓGICO HEPATO-BILIO-PANCREÁTICO
+
+Los datos emanados de la literatura existente, indican que los pacientes oncológicos presentan un mayor riesgo de infección por SARS-CoV-2, desarrollando complicaciones mayores o falleciendo a causa de la misma. Yu et al. describen la incidencia y los resultados en una cohorte de pacientes oncológicos en un centro terciario en Wuhan, reportando una mortalidad en este grupo del 25%.
+Es importante extremar la protección frente a la infección en este tipo de pacientes para evitar la alta morbimortalidad que conlleva. Además, se deberán tomar las medidas necesarias para la protección del personal sanitario. Las instituciones sanitarias deben comprometerse a facilitar los medios para que se apliquen las medidas de prevención establecidas según la normativa vigente.
+La recomendación actual es el despistaje de infección por virus SARS-CoV-2 a los pacientes oncológicos 24-48 h antes de recibir tratamientos quimioterápicos, radioterápicos o intervenciones quirúrgicas, y aconsejarles la limitación de contactos o el autoaislamiento.
+El cribado de infección se fundamentará en criterios clínicos, epidemiológicos, analíticos, serológicos y microbiológicos mediante test para COVID-19 (test de reacción en cadena de la polimerasa o PCR / test serológicos de detección de anticuerpos). Si no hay disponibilidad de test y se tiene una alta sospecha de infección, se podrá plantear la realización de tomografía computarizada (TC) de tórax en las 24-48 h previas a la cirugía.
+Si el paciente presentara infección por COVID-19 y la cirugía no se pudiera posponer, todo el equipo quirúrgico deberá actuar con los equipos de protección individual (EPI), que deberán ser proporcionados por el centro de trabajo. Estos EPI constarán de bata impermeable, mascarillas tipo N95, o FFP2/FFP3, gafas, pantalla de cobertura facial, guantes de nitrilo largos (un par), gorro y calzado exclusivo para la zona y sin perforaciones.
+En el caso de que se programe la cirugía y el paciente no presente infección evidente por SARS-CoV-2 o sospecha de contacto, se establecerá un «circuito limpio» en el centro para preservar la seguridad del paciente y minimizar al máximo el riesgo de infección.
+
+
+- EVALUACIÓN DEL PACIENTE ONCOLÓGICO HEPATO-BILIO-PANCREÁTICO EN EL CONTEXTO DE LA INFECCIÓN COVID
+
+En el contexto excepcional actual, dependiendo del impacto de la pandemia y del nivel de alerta en cada centro, puede ser necesario modificar los protocolos. Además de los factores habituales a tener en cuenta, se suman los recursos disponibles, la ocupación hospitalaria y el hecho de que el paciente pueda presentar infección por SARS-CoV-2. Por lo tanto, se tendrá que hacer una evaluación detallada del paciente, la enfermedad, el equipo quirúrgico, los recursos del hospital y el área sanitaria.
+En esta situación, la planificación de tratamientos adyuvantes, neoadyuvantes, quirúrgicos y otros se basará en criterios de máximo beneficio de los mismos, frente a la minimización de los riesgos de infección por SARS-CoV-2, optimizando los recursos disponibles en cada momento, . Se coordinarán los diferentes servicios implicados: oncología médica, oncología radioterápica, cirugía, anestesia, cuidados intensivos, radiodiagnóstico y endoscopia.
+El objetivo siempre será preservar la seguridad del paciente, sin comprometer la eficacia de los tratamientos empleados contra el proceso neoplásico.
+Los factores que se deben examinar son los siguientes:
+Relativos al paciente: evaluar riesgo/beneficio relativo a la exposición al coronavirus y sus potenciales consecuencias, frente a las diferentes alternativas terapéuticas, .
+Relativos a la enfermedad neoplásica: estadificación clínica del tumor (cTNM), teniendo en cuenta la biología (tiempo de duplicación, ritmo de crecimiento estimado, riesgo de evolución a enfermedad diseminada) y los síntomas provocados por el mismo.
+Grado de inmunodepresión inducido por el tipo de tratamiento elegido (neoadyuvancia o adyuvancia) u otras causas (inmunodeficiencias, tratamientos inmunosupresores, desnutrición, enfermedad tumoral per se), prefiriendo esquemas que reduzcan el número de visitas, la vía oral en vez de la intravenosa; dejando esquemas cortos para casos consensuados por el CM.
+Infección presente o no por SARS-CoV-2: a los pacientes con sospecha o con infección por COVID-19 se recomienda no administrar tratamientos quimioterápicos; tampoco a aquellos que hayan tenido contactos recientes hasta garantizar la ausencia de infección. En el caso de la radioterapia, se deberá evaluar de manera individualizada. Los pacientes que tengan que ser intervenidos electivamente de manera inaplazable, con alta sospecha de infección, se les realizará pruebas de detección de COVID-19 (PCR o test serológico…) según los protocolos establecidos en cada centro. En caso de paciente confirmado positivo, se utilizará EPI junto a la indumentaria quirúrgica, que asegure una adecuada protección de los profesionales. Sobre el EPI se colocará el equipo estéril necesario para la intervención. Se realizará una lista de comprobación (check list) de todo el procedimiento incluyendo explícitamente la situación COVID-19 del paciente.
+Recursos sanitarios disponibles: optimizar los tratamientos teniendo en cuenta los registros sobre la infección y los recursos disponibles, que pudieran ser diferentes entre áreas sanitarias e incluso áreas geográficas:•Porcentaje de pacientes ingresados con COVID-19.•Urgencias definidas para pacientes respiratorios vs. el resto.•Disponibilidad de quirófanos.•Disponibilidad de respiradores.•Disponibilidad de camas de críticos/reanimación.
+Consumo de recursos estimado: será importante hacer una estimación de los recursos hospitalarios que serán necesarios como, por ejemplo, la necesidad de estancia en la Unidad de Cuidados Intensivos (UCI) durante el postoperatorio, el cálculo de la estancia media hospitalaria, la morbilidad asociada a la cirugía más frecuente, etc.
+
+
+- CIRUGÍA, RADIOTERAPIA Y QUIMIOTERAPIA EN EL ESCENARIO COVID
+
+Las decisiones terapéuticas se tomarán en CM con dos objetivos: ofrecer la mejor alternativa terapéutica al proceso neoplásico del paciente y limitar la exposición del paciente a la infección por SARS-CoV-2.
+Respecto al abordaje laparoscópico, aunque en investigaciones previas se demostró que determinados virus de transmisión sanguínea podían diseminarse a través de procedimientos productores de aerosoles, en el caso del virus SARS-CoV-2 esta forma de diseminación es aún controvertida, no existiendo evidencia científica suficiente al respecto. En este sentido, la AEC (Asociación Española de Cirujanos) y la SAGES (Society of American Gastrointestinal and Endoscopic Surgeons) no desaconsejan su uso, cuando esté indicado, debiéndose tomar las medidas de precaución pertinentes (baja presión de neumoperitoneo, evacuación continua de humos en circuito cerrado, succión completa del neumoperitoneo al final del procedimiento) y los equipos de protección pertinentes, para evitar de manera eficaz el contagio de profesionales.
+El ACS (American College of Surgeons) mencionó que los procedimientos de generación de aerosol podrían aumentar el riesgo para el personal de quirófano, pero en la actualidad la falta de evidencia impide hacer una clara recomendación o desaconsejar la cirugía mínimamente invasiva, poniendo en valor los beneficios de esta vía de abordaje para reducir la morbilidad postoperatoria y la estancia hospitalaria.
+Cuando la radioterapia esté indicada, se recomiendan esquemas de hipofraccionamiento siempre que sean posibles. Estos esquemas permitirán tratamientos más cortos, con una toxicidad similar a los tratamientos convencionales y una eficacia de tratamiento igual o mayor. De esta manera se limitará el tiempo de permanencia de los pacientes en el centro hospitalario, minimizando el posible riesgo de contagio, tanto de los pacientes como del personal sanitario. La decisión de iniciar o continuar el tratamiento con radioterapia, en pacientes que presenten infección activa por SARS-CoV-2, deberá ser tomada de manera individualizada y consensuada.
+Las recomendaciones generales sobre la administración de quimioterapia en sus distintas modalidades es, según la SEOM-TTD-GEMCAD, la de no administrar tratamientos en pacientes con sospecha de infección o historia de contacto de riesgo de virus SARS-CoV-2, debiéndoles hacer cribado de infección antes de comenzar ningún tratamiento, y en general se establecen como recomendaciones la priorización de tratamientos (neo) adyuvantes en pacientes con cáncer de alto riesgo en los que se espera un beneficio significativo de la supervivencia. Se recomiendan regímenes o esquemas que reduzcan el número de visitas al hospital (esquemas quincenales o cada 3 semanas en vez de semanales y la administración oral en vez de intravenosa). Se han de consensuar con los oncólogos radioterápicos esquemas cortos para el tratamiento quimioterápico. También se recomienda el uso de profilaxis primaria con G-CSF en regímenes con riesgo de neutropenia febril ≥ 10-15%.
+
+
+- REESTRUCTURACIÓN DE LA ACTIVIDAD
+
+-- CONSIDERACIONES GENERALES PARA PACIENTES ONCOLÓGICOS HBP
+
+Recientemente se han publicado diferentes trabajos en los que se pone de manifiesto cómo la pandemia por SARS-CoV-2 ha tenido un impacto negativo en el manejo terapéutico de los pacientes con neoplasias del área HBP, . Habitualmente, la complejidad de estas intervenciones expone a los pacientes a complicaciones postoperatorias, que pueden ser más o menos frecuentes, en función del volumen de los centros. Las relaciones volumen-resultado en la cirugía HBP están bien establecidas, con una estancia hospitalaria más corta y una menor mortalidad en los centros de alto volumen, .
+Se reportan tasas de morbilidad en la cirugía hepática del 10-15%, , , siendo mayor en la cirugía pancreática, con tasas de morbilidad > 50% y tasas de reintervenciones próximas al 10%, , , , . Algunas de las complicaciones (fístulas biliares, fístulas pancreáticas, abscesos) conllevan largas estancias hospitalarias, que en ocasiones requieren medidas invasivas o reintervenciones quirúrgicas. Esto, sumado al elevado riesgo de complicaciones postoperatorias graves reportadas, en pacientes COVID-19 positivos, puede hacer necesario diferir la cirugía y modificar los diferentes tratamientos oncológicos, . Por ello la cirugía HBP compleja, en pacientes de alto riesgo, no debe realizarse en centros de bajo volumen durante la pandemia de COVID-19, con el objetivo de reducir estancias prolongadas en el hospital y complicaciones mayores que requieran atención en la UCI.
+Además, es importante establecer un sistema de priorización de pacientes en lista de espera. El documento de la AEC de gestión para la vuelta a la normalidad recomienda la escala de puntuación adaptada de Pranchard et al. Así pacientes con una puntuación acumulada de 60 o menor, se considerarán idóneos para asumir el beneficio de la cirugía.
+En caso de limitación de recursos se planteará la posibilidad de derivación a otro centro.
+
+
+-- ESCENARIOS/FASES DE PANDEMIA
+
+La organización de la actividad quirúrgica oncológica vendrá determinada por el escenario de la pandemia en el que nos encontremos. La AEC propone una escala que define de modo dinámico 5 fases en la evolución de la pandemia COVID-19 (tabla 1 ), atendiendo al crecimiento o decrecimiento de la misma.
+En función de estas fases establecemos una serie de recomendaciones en el campo de la cirugía oncológica HBP, teniendo en cuenta el órgano afecto y el tipo de neoplasia.
+
+
+-- RECOMENDACIONES TERAPÉUTICAS PARA CIRUGÍA ONCOLÓGICA DEL PÁNCREAS Y ÁREA PERIAMPULAR
+
+Se establecen las siguientes recomendaciones (tabla 2 ):
+Los pacientes que presenten ictericia obstructiva y se prevea una demora de la cirugía, se realizará drenaje biliar (endoscópico o percutáneo).
+
+
+--- CÁNCER DE PÁNCREAS LOCALIZADO/RESECABLE<XREF RID="BIB0400" REF-TYPE="BIBR"><SUP>34</SUP></XREF
+
+
+
+
+--- ENFERMEDAD BORDELINE/LOCALMENTE AVANZADO<XREF RID="BIB0400" REF-TYPE="BIBR"><SUP>34</SUP></XREF
+
+
+
+
+--- ENFERMEDAD AVANZADA Y/O METASTÁSICA
+
+• Fases I-V: en función del estado funcional y comorbilidades, se priorizará el inicio de una primera línea de quimioterapia. El inicio de una segunda línea queda relegado a la situación funcional y respuesta/tolerancia de la primera línea.
+
+
+--- ENFERMEDADES PANCREÁTICAS PREMALIGNAS Y TUMORES NEUROENDOCRINOS PANCREÁTICOS (PANCREATIC NEUROENDOCRINE TUMORS [PNET
+
+Se recomienda posponer la cirugía de enfermedades pancreáticas premalignas, incluyendo las neoplasias mucinosas papilares intraductales (intraductal papillary mucinous neoplasm [IPMN]) y de pNET.
+Las excepciones comprenden pNET sintomáticos sin opciones de tratamiento alternativas efectivas, o pNET o IPMN con sospecha de malignidad, en cuyo caso se debería actuar como un adenocarcinoma de páncreas resecable.
+
+
+--- ADENOCARCINOMA AMPULAR Y DUODENAL
+
+Debido a que la evidencia disponible hasta el momento sobre la eficacia de la quimioterapia neoadyuvante es limitada para este tipo de neoplasias y no se puede considerar como una enfermedad estable, se recomienda la resección quirúrgica, si la fase de la pandemia y los recursos sanitarios están disponibles.
+En presencia de complicaciones, como hemorragia u obstrucción, se podría intentar el tratamiento endoscópico para el control de la hemorragia o la colocación de un stent duodenal para la obstrucción, hasta que se pueda realizar la intervención quirúrgica.
+
+
+-- RECOMENDACIONES TERAPÉUTICAS PARA CIRUGÍA ONCOLÓGICA DEL COLANGIOCARCINOMA HILIAR
+
+Este tipo de neoplasia, por su agresividad, va a requerir intervención quirúrgica en pocas semanas, debido al riesgo de progresión. En estos pacientes, el riesgo de progresión equivale al riesgo de muerte en el futuro cercano y se espera que el beneficio neto de la cirugía sea elevado.
+Si el paciente presenta ictericia se debe priorizar el drenaje biliar y/o embolización portal si lo precisa, para la preparación para la hepatectomía.
+
+
+--- COLANGIOCARCINOMA HILIAR RESECABLE (<XREF RID="TBL0015" REF-TYPE="TABLE">TABLA 3</XREF>)<XREF RID="BIB0415" REF-TYPE="BIBR"><SUP>37</SUP></XREF
+
+
+
+
+--- COLANGIOCARCINOMA HILIAR LOCALMENTE AVANZADO
+
+Se recomienda terapia neoadyuvante independientemente de la fase si el estado funcional del paciente lo permite .
+
+
+--- COLANGIOCARCINOMA HILIAR IRRESECABLE Y/O METASTÁSICO
+
+Tratamiento paliativo (drenaje biliar) +/− tratamiento quimioterápico .
+El trasplante hepático podría indicarse en casos muy seleccionados.
+
+
+-- RECOMENDACIONES TERAPÉUTICAS PARA LA CIRUGÍA DEL CÁNCER DE VESÍCULA BILIAR
+
+Debido a que la evidencia disponible hasta el momento sobre la eficacia de la quimioterapia neoadyuvante es limitada para este tipo de neoplasias, se recomienda la resección quirúrgica, si la fase de la pandemia y los recursos sanitarios están disponibles.
+
+
+-- RECOMENDACIONES TERAPÉUTICAS PARA CIRUGÍA ONCOLÓGICA DE HÍGADO
+
+--- HEPATOCARCINOMA (HCC) (<XREF RID="TBL0020" REF-TYPE="TABLE">TABLA 4</XREF
+
+Siguiendo la clasificación de BCLC y dependiendo de la fase de alerta en la que se encuentre el centro se decidirá el tratamiento más adecuado, siempre consensuado en CM.
+
+
+---- BCLC 0/A
+
+• Fases I-II: cirugía/ablación/trasplante según el caso.• Fases III-V: retrasar los tratamientos definitivos como la cirugía o el trasplante. Considerar ablación/ quimioembolización transarterial (TACE).
+
+
+---- BCL B/C
+
+• Fases I-III: TACE/ tratamiento oral (sorafenib/regorafenib/cabozatinib).• Fases IV-V: tratamientos orales.
+Para garantizar la protección de los receptores de trasplante, se recomienda cribado microbiológico universal de receptores y donantes en el momento del trasplante. Se descartarán aquellos receptores con alta sospecha tras el screening clínico o PCR positiva. Teniendo en cuenta que el escenario de la pandemia es cambiante con el tiempo, las directrices a seguir, respecto a los trasplantes hepáticos, vienen marcadas por la información aportada por la Organización Nacional de Trasplantes (ONT), que se va actualizando de manera periódica.
+
+
+--- COLANGIOCARCINOMA INTRAHEPÁTICO RESECABLE
+
+• Fases I-II: cirugía /ablación.• Fases III-V: ablación y retraso de tratamientos definitivos.
+
+
+--- COLANGIOCARCINOMA INTRAHEPÁTICO IRRESECABLE Y/O METASTÁSICO
+
+En cualquiera de las fases: soporte paliativo/ tratamiento oral, individualizando los casos.
+
+
+--- METÁSTASIS HEPÁTICAS DE CÁNCER COLORRECTAL (MHCCR) (<XREF RID="TBL0025" REF-TYPE="TABLE">TABLA 5</XREF
+
+En la práctica habitual, el tratamiento de los pacientes con metástasis hepáticas se debe planear en CM, debido a la complejidad de esta patología y la cantidad de servicios implicados en el manejo de los mismos. En esta situación excepcional de pandemia, con mayor motivo han de evaluarse minuciosamente y de manera individualizada los casos.
+La combinación de terapia sistémica y resección quirúrgica cuenta con la mayor supervivencia en este tipo de patología. Además, se pueden aplicar diferentes métodos de ablación local (radiofrecuencia, microondas, radioterapia, etc.) en casos seleccionados.
+Existen diferentes esquemas de quimioterapia en relación con la cirugía, como son: quimioterapia neoadyuvante, de inducción o conversión, perioperatoria o adyuvante, que siempre deben ser consensuados, , , .
+En esta situación de pandemia el esquema «cirugía + adyuvancia» como primera opción, especialmente en los escenarios de alerta de II a V, se deberá evitar o reconsiderar, ya que los recursos sanitarios van a estar mermados (quirófanos, respiradores, etc.), así como por el riesgo elevado de contagio para el paciente en el periodo perioperatorio. Por lo tanto, se optará por esquemas de quimioterapia y cirugía.
+En el escenario o fase de alerta I, no habrá modificaciones a la hora de la toma de decisiones en los esquemas de quimioterapia y cirugía.
+
+
+--- NEOADYUVANCIA COMPLETADA EN MHCCR
+
+En los casos en que el paciente haya completado la neoadyuvancia y se encuentre a la espera de la cirugía, tendrá un periodo ventana de 6-8 semanas en los que la cirugía podrá planificarse, , , sin que el paciente pierda la oportunidad potencial de cura. Así pues, dependiendo del nivel de alerta en el que se encuentre el centro, planificaremos la cirugía consensuándolo en CM.•Fases I-II: cirugía.•Fase III: valorar con oncología la posibilidad de añadir uno o 2 ciclos adicionales, tiempo para que lo peor de la crisis haya pasado y se minimice al máximo el riesgo de contagio para el paciente.•Fases IV-V: como en nivel III y/o terapias locales en pacientes potencialmente curables.
+
+
+- CONCLUSIONES
+
+En este momento de pandemia por SARS-CoV-2 es necesario generar una planificación de la cirugía oncológica HBP atendiendo a los diferentes escenarios evolutivos en que se encuentre el centro, con el objetivo de proteger a pacientes y profesionales de la infección COVID-19, sin que ello vaya en detrimento del tratamiento neoplásico que requiera el paciente.
+En general, se entiende que la cirugía oncológica HBP por su complejidad podría precisar modificar su planificación, especialmente en fases III-V de pandemia. En estos casos se plantean alternativas terapéuticas puente mientras dure la situación.
+Los resultados derivados de la aplicación de estas recomendaciones podrán ser valorados en futuros análisis puestos en marcha desde la sección HBP de la AEC, que pretenden evaluar el impacto de la pandemia en las unidades HBP y la aplicación de los protocolos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de interés.

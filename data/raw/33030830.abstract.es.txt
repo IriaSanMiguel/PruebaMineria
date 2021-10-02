@@ -1,0 +1,6 @@
+Introducción. Triatoma recurva es un vector de Trypanosoma cruzi cuya existencia y desarrollo biológico están determinados por factores que pueden influir en la transmisión de la tripanosomiasis a los seres humanos.
+Objetivo. Determinar una posible distribución espacial de Triatoma recurva y algunos factores sociales que determinan su presencia.
+Materiales y métodos. El modelado de nicho ecológico se hizo con el programa MaxEnt empleando las variables bioclimáticas (WorldClim) derivadas de los valores mensuales de temperatura y precipitación para generar variables biológicamente significativas. La cartografía resultante evidenció áreas adecuadas para la presencia de T. recurva.
+Resultados. Los resultados indicaron que la precipitación del mes más seco (Bio 14), la temperatura máxima del mes más cálido (Bio 5), y la altitud (Alt) y la temperatura media del trimestre más seco (Bio 9), determinaron en mayor porcentaje el área de distribución de T. recurva, observándose que es una especie con una acentuada relación con las estructuras domésticas y circundantes.
+Conclusión. Esta metodología puede emplearse en otros contextos geográficos para localizar posibles sitios de muestreo de estos triatominos.
+

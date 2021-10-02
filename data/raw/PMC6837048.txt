@@ -1,0 +1,117 @@
+¿ES ÚTIL LA IMPLANTACIÓN DE PROGRAMAS DE GESTIÓN CLÍNICA DE LOS PACIENTES CON ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA? COMPARACIÓN DE LA EFECTIVIDAD DE DOS INTERVENCIONES SOBRE LA EVOLUCIÓN CLÍNICA Y LA ATENCIÓN RECIBIDA
+
+
+- INTRODUCCIÓN
+
+La enfermedad pulmonar obstructiva crónica (EPOC) constituye, en los países desarrollados, una de las enfermedades respiratorias más frecuentes, con una elevada morbimortalidad que se prevé empeorará en los próximos años, . Se trata de una enfermedad infradiagnosticada y supone una carga social y económica importante, .
+La EPOC se caracteriza por su cronicidad y por presentar frecuentes exacerbaciones que empeoran la función pulmonar y la calidad de vida, con un aumento del riesgo de eventos futuros y de mortalidad, , . Su manejo requiere una buena coordinación entre los profesionales que atienden a estos pacientes. Para ello se han desarrollado algunos programas integrales que engloban múltiples actuaciones, y muy pocos han evaluado su impacto en la enfermedad. Algunos estudios han demostrado un efecto positivo en la mejora de determinadas áreas de la calidad de vida del paciente, en las consultas no programadas, en la reducción de los ingresos y/o en los días de estancia hospitalaria, , , , , , . Otros, en cambio, no han demostrado un beneficio.
+En España se han llevado a cabo algunos programas, como el proyecto CHRONIC o el programa PRICE, con intervenciones y enfoques diversos, . En el primer caso los estudios muestran una reducción significativa en el uso de recursos hospitalarios (admisiones, readmisiones y duración de los días de estancia hospitalaria) y en la satisfacción del paciente. Del segundo programa todavía no se dispone de resultados publicados.
+A pesar de los estudios realizados todavía conocemos poco sobre los programas integrales de la EPOC. Sin embargo, la evidencia disponible muestra que es factible desarrollar nuevos modelos organizativos y de gestión que permitan una atención sanitaria más coste-efectiva y más capaz de proporcionar mayores beneficios en la salud de los pacientes. El objetivo de este estudio es evaluar los cambios clínicos (función pulmonar, grado de disnea, exacerbaciones y calidad de vida) y de la atención sanitaria recibida (medidas preventivas, sesiones educativas, tratamientos) de los pacientes EPOC de dos áreas sanitarias que han implantado programas para la asistencia de estos pacientes.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio cuasi-experimental que compara la efectividad de dos tipos de intervenciones para la asistencia de los pacientes con EPOC en dos áreas de la ciudad de Barcelona: el Servicio de Atención Primaria Dreta (I1) y el Servicio de Atención Primaria Muntanya (I2).
+Se realizó una evaluación basal (febrero-octubre 2008) y una evaluación final (septiembre-diciembre de 2010) al cabo de una media de 31,2 meses. Los detalles del estudio se han descrito en una publicación previa.
+
+
+-- SUJETOS DE ESTUDIO
+
+La I1 se implantó en un área con 17 equipos de atención primaria (AP): 10 gestionados por el Institut Català de la Salut (ICS) y 7 por otros proveedores. La I2 se correspondió también con un área de 17 equipos de AP, todos pertenecientes al ICS. Los sujetos elegibles fueron los pacientes atendidos por los equipos de AP que en la historia clínica tuvieran registrado alguno de los códigos correspondientes a EPOC, y que en la evaluación basal cumplieran los siguientes criterios de inclusión: a) diagnóstico de EPOC confirmado mediante espirometría, b) sin problemas técnicos para realizar una espirometría, c) pronóstico de vida superior a 6 meses, d) no padecer insuficiencia cardíaca avanzada, e) sin secuelas de tuberculosis pulmonar, y f) no padecer cáncer de pulmón. Los pacientes con otras enfermedades distintas a las mencionadas se incluyeron, siempre que estas no interfirieran con el estudio. Si en el momento del estudio se encontraban en periodo de reagudización de su EPOC, se pospuso su inclusión hasta un mes tras la estabilización.
+Para el cálculo del tamaño muestral se consideró un contraste bilateral, con un riesgo alfa de 0,05 y un riesgo beta de 0,2, para detectar como estadísticamente significativa una diferencia en las dimensiones del cuestionario de la enfermedad respiratoria crónica (CRQ) de 0,5 puntos entre ambas áreas. Se asumió una desviación estándar (DE) homogénea de 1,7 y unas pérdidas de seguimiento del 10%, y se precisaron 220 pacientes en cada área. Los sujetos se seleccionaron mediante muestreo aleatorio simple.
+
+
+-- INTERVENCIONES EN CADA ÁREA (<XREF RID="SEC0100" REF-TYPE="SEC">ANEXO 2</XREF
+
+La I1 consistió en un programa de gestión integral centrado en el paciente EPOC y ordenaba, optimizaba y coordinaba los recursos disponibles para mejorar el control de los pacientes. El programa, llamado «Proceso EPOC», se consensuó entre los profesionales de AP y del hospital, se estableció la figura de referente en EPOC en cada equipo de AP, se creó un grupo de enfermería para la educación y cuidados de los pacientes, y se realizó un programa de formación continuada e implantación y control de calidad de la espirometría.
+La I2 no consistió en un programa integral estructurado sino en el cuidado al paciente EPOC que se realizaba normalmente en el área. Sus profesionales gestionaban la EPOC de manera coordinada entre la atención primaria y la especializada, ya que los centros de AP y el hospital de referencia pertenecían a la misma entidad proveedora. Compartían circuitos asistenciales, sistemas de información y la historia clínica informatizada, lo que les permitía llevar a cabo programas asistenciales, como el diagnóstico precoz de la EPOC. También disponían de un centro de llamadas para fomentar la educación sanitaria, el cumplimiento terapéutico y la detección precoz de una agudización, y se constituyó un grupo formado por profesionales sanitarios, tanto de centros de AP como del hospital, sensibilizados en la patología respiratoria.
+En el momento de la implantación de I1 e I2 coexistían otras intervenciones de carácter general: a) se definió la Estrategia en EPOC del Sistema Nacional de Salud y el Plan Director de Enfermedades del Aparato Respiratorio del Departamento de Salud de Cataluña; b) las sociedades científicas publicaron normativas de práctica clínica; c) proliferó la instauración de gestoras de casos, y d) se crearon grupos de pacientes expertos en EPOC. Estas iniciativas fueron más evidentes en los centros del ICS.
+
+
+-- VARIABLES DE ESTUDIO
+
+La información de los pacientes fue recogida por dos enfermeras con experiencia en el manejo de la EPOC que se desplazaron a cada centro de salud. Obtenían la información de la historia clínica y visitaban a cada paciente para comprobar sus criterios de inclusión, firmar el consentimiento informado, hacer la espirometría con prueba broncodilatadora (Datospir 120 SIBEL, S.A.) y realizar el cuestionario de salud y calidad de vida. Si el paciente cumplía algún criterio de exclusión se era sustituido por otro también seleccionado al azar.
+Las variables del estudio se clasificaron en: a) sociodemográficas y de estilos de vida; b) función pulmonar y grado de disnea con la escala modificada del Medical Research Council; c) tratamiento inhalado y administración de vacunas; d) número y gravedad de las exacerbaciones; se consideró que el paciente padecía una exacerbación si cumplía dos o más de los criterios de exacerbación según Anthonisen et al., es decir: aumento de la disnea, del esputo y/o la purulencia de este, y e) calidad de vida evaluada con el cuestionario CRQ, que es un cuestionario de calidad de vida de 20 ítems dividido en 4 dominios: disnea, fatiga, función emocional y control de la enfermedad.
+El proyecto fue aprobado por el Comité Ético y de Investigación Clínica del Hospital de la Santa Creu i Sant Pau y todos los pacientes del estudio firmaron el consentimiento informado.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se describen las variables obtenidas en la evaluación basal y en la evaluación final con estadísticos de tendencia central y dispersión. El análisis estadístico se basó por un lado en el cambio experimentado por los pacientes de cada área antes y después del período de intervención (diferencias pre-post dentro de un mismo programa). Para las variables categóricas se utilizó el test de McNemar cuando eran dicotómicas y el test de McNemar-Bowker cuando eran ordinales; para las variables continuas se utilizó el test de la t de Student para muestras relacionadas cuando eran normales y el test de Wilcoxon para muestras relacionadas cuando eran no normales. Por otro lado, se analizaron las diferencias en la evolución pre-post de los pacientes entre ambos programas (diferencias de I1 vs de I2). Para las variables dicotómicas se utilizó el test de Mantel-Haenzel; las variables categóricas de 3 o más categorías se transformaron según su evolución a mejorar, empeorar o mantenerse igual y se analizaron con una χ2 (chi cuadrado); para las variables continuas se utilizó el test de la t de Student para muestras independientes y el test U de Mann-Whitney para las variables normales y no normales, respectivamente.
+
+
+- RESULTADOS
+
+-- SELECCIÓN Y SEGUIMIENTO DE LOS SUJETOS DEL ESTUDIO
+
+Para la evaluación basal se contactó con 2.760 pacientes presuntamente EPOC, de los que solo el 14,2% (393 pacientes) entraron en el estudio: 195 en la I1 y 198 en la I2. Los motivos de exclusión se presentan en el esquema del estudio. Las causas de exclusión fueron similares para ambos grupos y no hubo diferencias estadísticamente significativas en los pacientes incluidos en ambos programas.
+En la evaluación final se contactó con todos los participantes de la evaluación basal. El seguimiento medio (DE) fue de 32,5 (2,7) y 29,8 (2,6) meses desde la fecha de la evaluación basal para los pacientes de la I1 e I2, respectivamente. De la evaluación final se excluyó el 43,0% de los pacientes, y los motivos de pérdida del seguimiento fueron en general parecidos en ambos grupos . Los pacientes excluidos tenían un peor pronóstico, con un volumen espirado en el primer segundo (FEV1) menor y puntuaciones de calidad de vida peores, lo cual se asoció a una elevada mortalidad.
+
+
+-- CARACTERÍSTICAS SOCIODEMOGRÁFICAS Y ESTILOS DE VIDA (<XREF RID="TBL0015" REF-TYPE="TABLE">TABLA 2</XREF
+
+El 90,0% de los pacientes de la I1 y el 91,3% de la I2 eran varones con una media (DE) de edad de 72,1 (8,1) y 72,5 (7,7) años, respectivamente. El número de comorbilidades tendió a aumentar de forma similar en los dos grupos.
+El número de pacientes fumadores que abandonaron el hábito durante el estudio solo fue significativo con la I1. No obstante, el número medio de paquetes-año se incrementó durante el seguimiento en ambos grupos de forma similar. El índice de masa corporal y la actividad física no se modificaron durante el periodo de seguimiento.
+Los consejos médicos preventivos sobre estilos de vida disminuyeron tras el seguimiento en los dos grupos, especialmente con la I1.
+
+
+-- FUNCIÓN RESPIRATORIA Y NIVEL DE GRAVEDAD (<XREF RID="TBL0020" REF-TYPE="TABLE">TABLA 3</XREF
+
+Aunque los parámetros de función pulmonar y estadio no mostraron un deterioro, la disnea sí mostró un empeoramiento en ambos grupos.
+
+
+-- TRATAMIENTO (<XREF RID="TBL0025" REF-TYPE="TABLE">TABLA 4</XREF
+
+Poco más del 50% de los pacientes en ambos programas llevaban una medicación adecuada a su nivel de gravedad según la guía de la Global Initiative Obstructive Lung Disease (GOLD) 2004 que se mantuvo con I1 y empeoró ligeramente con I2. El porcentaje de pacientes que realizaban la técnica de inhalación de forma correcta aumentó de forma significativa con ambas intervenciones. Aun así, en la evaluación final la técnica de inhalación correcta solo alcanzó el 48,0 y el 60,9% con la I1 y la I2, respectivamente. Finalmente, se incrementaron las sesiones de educación en ambas áreas y se mantuvo una cobertura alta de las vacunaciones indicadas en estos pacientes.
+
+
+-- EXACERBACIONES Y ACTIVIDAD ASISTENCIAL EN EL ÚLTIMO AÑO (<XREF RID="TBL0030" REF-TYPE="TABLE">TABLA 5</XREF
+
+Durante el periodo de seguimiento el porcentaje de pacientes exacerbados se redujo ligeramente con la I1, mientras que aumentó con la I2. No obstante, el número total de exacerbaciones aumentó significativamente en ambos grupos y sin diferencias entre ellos. El porcentaje de pacientes que requirió ingreso hospitalario por exacerbación y el total de ingresos aumentaron ligeramente con la I1 y disminuyeron con la I2.
+
+
+-- CALIDAD DE VIDA (<XREF RID="FIG0010" REF-TYPE="FIG">FIG. 1</XREF
+
+La calidad de vida de los pacientes fue buena en la evaluación basal y se mantuvo prácticamente estable después de la intervención. Solo hubo un empeoramiento estadísticamente significativo en el área de disnea con la I1, pero fue clínicamente irrelevante.Figura 1
+
+
+- DISCUSIÓN
+
+El presente estudio de base poblacional en dos áreas sanitarias de Barcelona, y con un seguimiento medio de 31,2 meses, comparó los efectos de dos tipos de intervención para la atención de la EPOC. A pesar del deterioro progresivo propio de esta enfermedad, no se detectó una pérdida significativa de la función pulmonar ni un empeoramiento clínicamente relevante de la calidad de vida a lo largo del seguimiento. Además, el porcentaje de pacientes con exacerbaciones se redujo con la I1 y las hospitalizaciones por agudización con la I2.
+Ambas intervenciones consiguieron modificar algunos estilos de vida. Específicamente, en cuanto al tabaquismo, el porcentaje de fumadores disminuyó con la I1. Otros programas de deshabituación, con programas específicos para ello, han demostrado reducir el hábito en un porcentaje superior a las áreas estudiadas.
+De acuerdo con los resultados de otros autores, , el grado de obstrucción de los pacientes no mostró variaciones significativas a lo largo del seguimiento. En situación basal las dos poblaciones eran poco sintomáticas, tan solo el 12,5 y el 20,2% de los pacientes de la I1 e I2, respectivamente, tenían MRC ≥ 2, si bien esta proporción empeoró con el tiempo. Por otro lado destaca una baja adecuación del tratamiento en función del estadio GOLD. Por contra, el correcto uso de los inhaladores mejoró de forma importante y significativa aunque sin llegar a ser óptimo. Los estudios que evalúan la técnica de inhalación demuestran que un porcentaje muy bajo de pacientes utiliza de forma correcta los dispositivos. A eso se suma la baja adherencia al tratamiento en estos pacientes. Aunque algunos programas multiintervención, , hacen hincapié en la educación de la terapia inhalada, la mayoría no evalúan su correcto uso.
+Tras el seguimiento, el porcentaje de pacientes exacerbados disminuyó en la I1 respecto la I2, pero el número total de exacerbaciones aumentó en ambos grupos. Por el contrario, el porcentaje de pacientes exacerbados que requirieron ingreso disminuyó con la I2 respecto a la I1. El centro de llamadas de la I2 y el hecho de pertenecer todos los centros al mismo proveedor podría explicar esta diferencia. En la literatura encontramos tanto programas que reducen las hospitalizaciones, , como programas que no lo consiguen, . Boland et al. encontraron una reducción en los costes por hospitalización con los programas de más de 12 meses de duración y con 3 o más componentes de intervención. Así pues, parece que las intervenciones específicas, personalizadas en pacientes complejos con EPOC y dirigidas a reducir hospitalizaciones, podrían tener un mayor impacto.
+La calidad de vida de los pacientes en ambos territorios en situación basal fue similar y buena, y tras la intervención prácticamente no se modificó. En el metaanálisis de Kruis et al. sí detectaron una mejora en todos los dominios del CRQ, pero partían de una peor calidad de vida basal y la intervención incluía entrenamiento muscular. En los dos estudios con datos a largo plazo esta mejora se perdía con el tiempo. Es destacable, pues, que a pesar del tiempo transcurrido la calidad de vida de nuestros pacientes se mantuvo por debajo del cambio mínimo clínicamente significativo.
+Los dos programas evaluados se caracterizan por la complejidad de implementar múltiples intervenciones en áreas poblacionales amplias y por involucrar un número elevado de profesionales de distintas especialidades y niveles asistenciales. Además, del total de pacientes con diagnóstico de EPOC en la historia clínica solo un 14% se pudo confirmar e incluir en la evaluación basal. Ello pone de manifiesto las dificultades de los registros clínico-administrativos como fuente de información válida para estudiar la EPOC. Tras el seguimiento, el 43,0% de los pacientes se perdieron o se tuvieron que excluir, sobre todo por peor pronóstico, estadio más avanzado y peor calidad de vida, con una mortalidad de hasta el 27%. Ello podría inducir a que nuestros resultados fueran más optimistas de lo esperado. Sin embargo, no afectaría a la comparación entre grupos, ya que los motivos de las pérdidas fueron parecidos y no hubo diferencias significativas en las características de los pacientes. En el esquema del estudio se muestran las causas de abandono de cada uno de los dos grupos. Finalmente, la pérdida y exclusión de casos, mayor a lo esperado, pudo comportar una reducción de la potencia estadística del estudio.
+En conclusión, los resultados obtenidos muestran que es posible mejorar los parámetros clínicos y la atención sanitaria recibida, sin hallar grandes diferencias en los dos tipos de intervenciones. Dado que prácticamente no existen estudios publicados sobre este tipo de intervenciones, es necesario investigar más en la efectividad de estos programas mediante estudios de base poblacional antes y después de su implantación y determinar cuál es la población que más podría beneficiarse de ellas, aunque estos programas deberían ser útiles en todos los niveles de gravedad, desde la educación de la población y prevención de la EPOC hasta la fase terminal y cuidados paliativos
+Las intervenciones evaluadas en el presente trabajo pueden ser aplicables, como punto de partida, en otras áreas sanitarias para mejorar el manejo clínico y la coordinación entre niveles asistenciales de los pacientes con EPOC. También ponen de manifiesto la necesidad de aspectos tan básicos como intensificar la cobertura de los consejos preventivos para reducir todavía más los fumadores activos y promover el ejercicio físico, adecuar los tratamientos a las guías establecidas y promover la formación y educación de la terapia inhalada. Es de esperar que si se mejoran estos aspectos de la atención sanitaria se obtengan todavía más beneficios en la evolución clínica y en la calidad de vida de estos enfermos.Lo conocido sobre el tema•No hay suficientes estudios de programas de gestión para el manejo de los pacientes con EPOC.•Los programas que incluyen entrenamiento muscular son los que han mostrado mejores resultados.Qué aporta el estudio•Diseño de estudio original para evaluar una intervención a nivel poblacional en el manejo de pacientes con EPOC.•Los programas de gestión, multiintervención, en pacientes con EPOC pueden suponer una reducción de las exacerbaciones y/o ingresos hospitalarios, reducción del tabaquismo y mejoría en el uso de los dispositivos de inhalación.
+
+
+- FINANCIACIÓN
+
+Agradecemos el soporte económico recibido del «Àmbit d’Atenció Primària» (ICS) y de las becas recibidas de FIS y SEPAR: Módulos de investigación del Àmbit d’Atenció Primària (ICS), 2008; BECA FIS 2007: PI07/90116; Beca SEPAR para proyecto 2006.
+
+
+- AUTORÍA
+
+Ingrid Solanes: diseño del estudio, participación en la intervención, supervisión y seguimiento, redacción del artículo.
+Ignasi Bolíbar: diseño del estudio, participación en la intervención, supervisión y seguimiento, análisis estadístico, redacción del artículo.
+Maria Antònia Llauger: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Meritxell Peiro: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Pepi Valverde: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Mar Fraga: diseño del estudio, participación en la intervención, supervisión y seguimiento, trabajo de campo, revisión del artículo.
+Casimira Medrano: diseño del estudio, participación en la intervención, supervisión y seguimiento, trabajo de campo, revisión del artículo.
+Teresa Bigorra: trabajo de campo, revisión del artículo.
+Montserrat Freixas: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Iskra Liguerre: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Maria Antònia Pou: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Leandra Domínguez: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Carles Valero: diseño del estudio, participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Judit Solà: análisis estadístico, revisión del artículo.
+Jordi Giner: participación en la intervención, supervisión y seguimiento, revisión del artículo.
+Vicente Plaza: diseño del estudio, participación en la intervención, supervisión y seguimiento, redacción del artículo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

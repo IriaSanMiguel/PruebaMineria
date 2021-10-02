@@ -1,0 +1,126 @@
+ESTADO DE SALUD EN EL ADULTO MAYOR EN ATENCIÓN PRIMARIA A PARTIR DE UNA VALORACIÓN GERIÁTRICA INTEGRAL
+
+
+- INTRODUCCIÓN
+
+En el año 2002 la Organización Mundial de la Salud (OMS) estimó una cifra de 629 millones de personas de 60 años o más; se prevé el aumento a casi 2.000 millones en el año 2050, repercutiendo en los ámbitos económico, político y social, y en el sistema de salud, quien debe otorgar servicios a una población cada vez mayor y con más demandas acorde a sus necesidades.
+Los adultos mayores son vulnerables principalmente a enfermedades crónicas, alteraciones médicas sensoriales como visión y audición, malnutrición, incontinencia urinaria, uso de polifarmacia, deterioro cognitivo, depresión, dependencia en actividades básicas e instrumentales de la vida diaria, alteración en la marcha y deficiencia en apoyo social, , , .
+Es frecuente que el adulto mayor no exprese todos sus malestares por el concepto erróneo de que las alteraciones en su estado de salud son normales debido a su edad, por vergüenza o por el tipo de atención en la consulta clásica, donde cada vez es menor el tiempo del que se dispone para la misma; todo ello dificulta el reconocimiento de diagnósticos. La valoración geriátrica integral (VGI) es un proceso diagnóstico dinámico y estructurado que permite detectar y cuantificar problemas, necesidades y capacidades en el adulto mayor para identificar la necesidad de cuidados o tratamientos con el objetivo de mejorar su estado de salud, , .
+Actualmente se dispone de diversos instrumentos para el desarrollo de la VGI; se aprecian diferencias dependiendo el país, del tipo de intervención y del nivel de atención sanitaria. A pesar de que la VGI aborda al adulto mayor en todas sus dimensiones, resalta que gran parte de los estudios no analizan la dimensión social, .
+Ante el reto de atender a un grupo poblacional cada vez mayor resulta indispensable conocer a este grupo, por lo que el objetivo del estudio es determinar el estado de salud en el adulto mayor con 60 o más años de edad que acude a la consulta de atención primaria a partir de una valoración geriátrica integral.
+
+
+- METODOLOGÍA
+
+Estudio transversal descriptivo, en adultos mayores con 60 años o más, usuarios ambulatorios, de ambos sexos, derechohabientes del Instituto Mexicano del Seguro Social (IMSS), en atención primaria de 5 unidades de medicina familiar de Querétaro, México, de abril a julio de 2012.
+El tamaño de la muestra se calculó con fórmula de porcentajes para población infinita (n = 300), nivel de confianza del 95% (Z alfa = 1,64), poder de prueba 80% (0,84).
+La técnica muestral fue bietápica; en la primera se identificaron conglomerados, definidos proporcionalmente de acuerdo a la población derechohabiente de cada unidad de atención primaria; en la segunda etapa la selección del paciente al interior de la unidad médica fue por cuota, se acudió en horario y días de consulta a la sala de espera y se capto el número de pacientes requerido para cada unidad.
+Se invitó a los adultos mayores que acudieron a consulta médica a participar, se registró el consentimiento informado, y la aplicación de la encuesta se realizó por uno de los investigadores durante el tiempo de espera de la consulta y en caso necesario posterior a esta; el tiempo promedio de realización fue 30 a 40 min y se dispuso de un consultorio para la realización de la VGI.
+Se analizaron variables sociodemográficas (edad y sexo) y VGI en 4 dimensiones:
+
+
+-- DIMENSIÓN MÉDICA
+
+--- VISIÓN
+
+Valoración de la agudeza visual con carta de Snellen. Se consideró disminución visual al valor ≥ 20/60 a pesar del uso de lentes.
+
+
+--- AUDICIÓN
+
+Se administró el cuestionario Hearing Handicap Inventory for the Elderly (HHIE); indicadores de 0-8 puntos corresponden a ausencia de alteración auditiva autopercibida, 10 a 22 dificultad leve a moderada y 24 a 40 dificultad auditiva significativa.
+
+
+--- INCONTINENCIA URINARIA
+
+Valorada con el Consultation on Incontinence Questionarie (ICIQ-SF) que identifica a pacientes con incontinencia de orina y su impacto en su calidad de vida.
+
+
+--- ESTADO NUTRICIONAL
+
+Se efectuó el Mini Nutritional Assessment (MNA). Se considera desnutrición la puntuación menor de 17 y normalidad por encima de 23,5, y los valores intermedios son indicativos de riesgo nutricional.
+
+
+--- ANTECEDENTES PERSONALES PATOLÓGICOS
+
+Se consideró el número de enfermedades crónicas, no se consideró el control de las mismas.
+
+
+--- EVALUACIÓN FARMACOLÓGICA
+
+Se determinó polifarmacia en función de la definición de la OMS, siendo el uso de más de 3 medicamentos de forma simultánea por lo menos en un mes.
+
+
+-- DIMENSIÓN MENTAL
+
+--- EVALUACIÓN COGNITIVA
+
+La evaluación cognitiva se efectuó mediante el Mini Mental State Examination, que considera no tener deterioro cognitivo al valor mayor o igual a 24 puntos, 18 a 23 deterioro cognitivo medio y 17 o menos deterioro cognitivo grave.
+
+
+--- DEPRESIÓN
+
+Se desarrolló la escala de depresión de Yesavaje versión reducida de 15 preguntas en español mexicano con categorías: depresión establecida 10 o más puntos, probable depresión 6 puntos y 5 puntos o menor corresponde a no padecer depresión.
+
+
+-- DIMENSIÓN FUNCIONAL
+
+--- EVALUACIÓN ACTIVIDADES BÁSICAS DE LA VIDA DIARIA
+
+Se realizó el índice de Katz para actividades básicas de la vida diaria (ABVD) (comer, uso de inodoro, contención de esfínteres, asearse, vestirse, caminar). Con valor de 0 la actividad donde fuera el paciente capaz de realizarla, 1 cuando requería asistencia y 2 cuando fuera dependiente. El punto de corte para considerar deterioro fue igual o mayor a 6, .
+
+
+--- EVALUACIÓN DE ACTIVIDADES INSTRUMENTALES DE LA VIDA DIARIA
+
+Se aplicó la escala de Lawton y Brody incluyendo capacidad para uso del teléfono, uso de medios de transporte, realización de compras, preparación de alimentos, control de sus medicamentos y manejo de sus asuntos económicos; no se incluyó la preparación de alimentos, el lavado de ropa y el cuidado de la casa en varones, por ser considerados ítems influidos por factores culturales y de género. A cada ítem se asignó un valor numérico 1 para independencia de la actividad y 0 en caso de dependencia, .
+
+
+--- MARCHA
+
+Se efectuó la prueba «levántate y anda» (timed up and go). La prueba se inicia con el paciente sentado, con la espalda recostada en el respaldo de la silla, los brazos en descanso y con ayuda técnica a mano en caso necesario (bastón); se solicita que se levante de la silla, camine 3 m, gire y regrese a sentarse hasta apoyar su espalda. Se considera alteración en la marcha un tiempo de realización ≥ 20 seg.
+
+
+-- DIMENSIÓN SOCIAL
+
+--- EVALUACIÓN DE RECURSOS SOCIALES
+
+Se aplicó la escala para calificar recursos sociales OARS, que proporciona información sobre estructura familiar, patrones de amistades, visitas sociales, disponibilidad de cuidados en caso de enfermedad, considera 4 categorías desde recursos sociales excelentes, medianamente deteriorados, muy deteriorados y sin red de recursos sociales.
+El plan de análisis incluyó porcentajes e intervalos de confianza.
+
+
+- RESULTADOS
+
+El promedio de edad corresponde a 72,32 años (IC 95%: 67,3-77,4), predomina el sexo femenino con 63,3% (IC 95%: 57,8-68,8).
+El 42,3% (IC 95%: 36,7-47,9) de la población tiene alteración de la agudeza visual en ambos ojos. El 27,7% (IC 95%: 22,6-32,8) presenta dificultad leve a moderada para la audición. El 68,3% (IC 95%: 63,0-73,6) refiere incontinencia urinaria. Se presenta desnutrición en el 37,0% (IC 95%: 31,5-42,5) de la población. Predomina tener diagnóstico de 3 enfermedades crónicas con 32,3% (IC 95%: 27,0-37,6), seguido por 2 enfermedades crónicas con 30,3% (IC 95%: 25,1-35,5). Las principales enfermedades referidas son diabetes mellitus, hipertensión arterial, osteoartrosis, cardiopatías y dislipidemias. La prevalencia de polifarmacia es 54,7% (IC 95%: 49,1-60,3) .
+El 4,0% (IC 95%: 1,8-6,2) de la población presenta deterioro cognitivo grave y el 11,0% (IC 95%: 7,5-14,5) depresión establecida .
+El 2,0% (IC 95%: 0-4-3,6) presenta dependencia total en actividades básicas de la vida diaria. El 14,3% (IC 95%: 10,3-18,3) tiene una dependencia moderada en actividades instrumentales de la vida diaria .
+La alteración en la marcha se encuentra en el 29,0% (IC 95%: 23,9-34,1) de los pacientes .
+Predomina tener recursos sociales medianamente deteriorados en el 48,0% (IC 95%: 42,3-53,7) .
+
+
+- DISCUSIÓN
+
+El incremento de población geriátrica y la morbimortalidad que la caracteriza requiere de un análisis de información, con el fin de disponer de datos que permitan proponer programas de salud que propicien mejor calidad de vida y salud, de ahí la importancia del presente trabajo, en el que se determinan las capacidades y alteraciones en adultos mayores que acuden a la consulta de atención primaria, lo que confiere ciertas características a la población; otro escenario es en población de casas asistenciales u hospitalaria.
+Hablar de estado de salud resulta interminable; se reconoce dentro de las debilidades del estudio no incluir una valoración geriátrica integral de mayor amplitud, reconociendo una exploración física detallada, inmunizaciones, alteraciones en el sueño, riesgo de úlceras por presión, debilidad muscular, tipo de familia y más síndromes geriátricos. Se debe considerar que este estudio se llevó a cabo en el tiempo de espera de consulta, y los investigadores no son sus médicos de familia, por lo que se contempló que el tiempo requerido para el desarrollo de una VGI de mayor amplitud sobrepasaba el tiempo en que estaba dispuesto a cooperar el paciente. Un aspecto importante es lo reportado en la literatura respecto a la ventaja de la VGI en comparación con la historia clínica, permitiendo una mayor detección de problemas. Dentro de las fortalezas de la investigación está la incorporación de 4 dimensiones: médica, mental, funcional y social en el adulto mayor que acude a la consulta de atención primaria en la mayor institución de salud de México, lo que permite una perspectiva global de necesidades y capacidades en este grupo poblacional.
+La VGI permite el cribado de diferentes alteraciones y no sustituye pruebas diagnósticas consideradas estándar de oro para cada padecimiento; sin embargo, ha demostrado en diferentes niveles de atención primaria, hospitalaria y asistencial ser una excelente herramienta para búsqueda de padecimientos.
+Al realizar el estudio llama la atención la buena disposición de los pacientes para la participación en el mismo, siendo menos del 2% los pacientes que no aceptaron participar, argumentando no tener la disponibilidad de tiempo; resalta la necesidad del adulto mayor de ser escuchado y valorado en algunos aspectos, que como ellos refieren no son buscados en su consulta médica habitual.
+Al igual que otros estudios la población que asiste en el primer nivel de atención es en promedio de 70 a 75 años, predominando sexo femenino, , .
+En la dimensión médica resulta importante que 2 terceras partes de la población presentaron disminución de agudeza visual, lo cual puede ser riesgo para presentar accidentes o caídas, si a esto se agrega que un tercio de la población presenta problemas auditivos, torna un peor escenario para el paciente, quien al tener una disminución en la percepción necesitará de algún apoyo para el desarrollo de sus actividades diarias. El valorar la agudeza visual por medio de carta de Snellen puede ofrecer diferencias con otros estudios donde realizaron preguntas de percepción para ver la televisión o leer, sin embargo se reporta que dichas preguntas presentan baja sensibilidad y especificidad para detectar deficiencia visual.
+El método empleado para la valoración auditiva ofrece la ventaja de que el paciente refiere disminución en la audición y la incorpora a la vida cotidiana. Se concuerda con otros estudios que una tercera parte de la población presenta algún grado de alteración en audición, siendo de importancia pues se asocia a aislamiento, deterioro en la calidad de vida, sentimiento de inseguridad, depresión y riesgo de accidentes, .
+Más de la mitad de los pacientes sufren de incontinencia urinaria, lo que coincide con González; cifras menores registran Yañez-Luis y Cortés, lo que pudiera atribuirse al instrumento de medición y al tipo de población. No obstante, es un hecho que la incontinencia urinaria puede predisponer a infecciones, alterar actividades sociales y generar problemas económicos, personales y familiares.
+La prueba MNA ha sido comparada con la evaluación de la ingesta calórica, parámetros antropométricos, bioquímicos e inmunológicos, es sensible y específica para evaluar el riesgo de malnutrición, incluso antes de que este se refleje en el peso, y las proteínas séricas, . Resalta que el 37,0% de la población presenta desnutrición, sin embargo el estudio no permite identificar si su causa es la comorbilidad o la situación socioeconómica.
+Al igual que otros estudios preocupa la alta prevalencia de polifarmacia, provocando mayor riesgo de efectos adversos, iatrogenia, incremento de ingresos hospitalarios y mayor consumo de recursos económicos.
+El 4% de la población presenta deterioro cognitivo grave, lo que puede tener una relación con que solo el 2% de la población presentó dependencia en las actividades de la vida diaria y dentro del desarrollo de las actividades instrumentales de la vida diaria la cifra es mayor, con 14,3% con dependencia moderada coincidiendo con diversos estudios, , .
+En la literatura se ha descrito que el adulto mayor presenta depresión hasta en un 42% de la población, sin embargo este estudio determinó depresión solo en un 11%. Esta diferencia podría explicarse debido a que dicha referencia determinó depresión por medio de la pregunta ¿tiene usted sensación de tristeza?, otro aspecto a considerar es que este estudio fue realizado en pacientes con cierto grado de independencia que acuden a consulta y con una red social mayor al paciente domiciliario.
+La alteración en la marcha en más de 1/4 de la población infiere mayor riesgo de caídas en los pacientes, lo que supone una llamada para integrar al paciente en los servicios de rehabilitación.
+El adulto mayor al presentar comorbilidades, deterioro funcional, sensorial y mental enfrenta cambios en el rol social, en especial en la familia, la cual es la principal red de apoyo que recibe el paciente. Los latinoamericanos se caracterizan por mantener al adulto mayor en casa; la mujer es la cuidadora, principalmente las hijas y en menor proporción las esposas; sin embargo, actualmente se observan cambios en la dinámica familiar y en los roles, predominando las familias pequeñas y las madres trabajadoras, reduciéndose las opciones para otorgar cuidados al adulto mayor en el hogar.
+Poco menos de la mitad de los pacientes tiene recursos sociales medianamente deteriorados; cifras similares se reportan en países latinos.
+Resulta clara la necesidad de creación de programas sistemáticos de detección del estado de salud en población de atención primaria, con intervención multidisciplinaria del equipo de salud de forma oportuna para mejorar la calidad de vida del adulto mayor.
+El estado de salud en el adulto mayor que acude a atención primaria se caracteriza por pacientes independientes con diferente grado de alteraciones en la dimensión médica, bajo grado de alteración mental y recursos sociales medianamente deteriorados.
+El estudio expone un panorama amplio donde se aprecia que el adulto mayor padece una serie de alteraciones en su estado de salud que predisponen a sufrir una deficiencia en su calidad de vida; los resultados ofrecen la visión al médico de familia de una realidad que en la consulta habitual a veces no se contempla, ofrece a directivos información para determinar acciones futuras de prevención primaria y secundaria que pudieran modificar las alteraciones de los pacientes actuales y futuros.
+Ante la necesidad de una mayor demanda de servicios de este grupo poblacional y menor disposición de tiempo de consulta médica se propone la necesidad de generación de instrumentos sencillos y fiables que consuman menor tiempo o puedan ser autoadministrados para que el paciente pueda realizarlo en su domicilio.Lo conocido sobre el temaA nivel mundial la población de adultos mayores aumenta, repercutiendo en los ámbitos económico, social y principalmente en el sistema de salud, quien deberá ofrecer mayores servicios, acorde a sus necesidades.Por medio de la consulta médica clásica resulta infravalorado el deterioro que puede llegar a tener el adulto mayor; tanto es así que la valoración geriátrica integral resulta una herramienta para detectar y cuantificar problemas, necesidades y capacidades del adulto mayor en la dimensión médica, mental, funcional y social.Qué aporta este estudioEl estudio muestra un panorama de algunas condiciones del estado de salud en el adulto mayor a través de la valoración geriátrica integral en atención primaria; los resultados reflejan la importancia de abarcar las 4 dimensiones: médica, mental, funcional y social.Los resultados son una fuente de información que podrán ser en un futuro un marco de referencia para proponer programas de prevención en salud que propicien mejor calidad de vida y salud para el adulto mayor en atención primaria.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

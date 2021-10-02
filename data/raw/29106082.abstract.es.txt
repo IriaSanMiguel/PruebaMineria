@@ -1,0 +1,9 @@
+Se incluyeron 624 residentes. La prevalencia de SARM fue del 25,8%. Un total de 64 residentes necesitaron
+ser atendidos en el SUH en los tres meses previos al estudio. En el análisis multivariante se observó que ser atendido en el SUH en los tres meses previos [odss ratio (OR): 2,05 IC 95%: 1,29-3,26, p = 0,002] y la presencia de lesiones en la piel [OR: 1,65; IC 95% (1,11-2,44), p = 0,013] fueron las variables relacionadas con la colonización por SARM. El clon predominante fue ST–5 SARM-IVa (75,8%), estrechamente relacionado con la asistencia sanitaria.
+Los residentes de centros de larga estancia (CLE) son población de riesgo para la colonización por Staphylococcus aureus resistente a meticilina (SARM) debido a la morbilidad asociada a la edad y la alta tasa de contactos hospitalarios, especialmente en el servicio de urgencias hospitalario (SUH). El objetivo del estudio fue determinar la prevalencia y los factores asociados a la colonización por SARM en los residentes de CLE.
+Se realizó un estudio descriptivo transversal entre abril y junio de 2014. Como criterio de inclusión se consideró
+ser residente de un CLE del área norte de la isla de Tenerife. Se recogieron variables clínico-epidemiológicas y
+muestras nasales que se sembraron en agar chromID®MRSA, que discrimina entre colonizados por SARM o no. El tipado molecular se realizó mediante electroforesis en campo pulsante. Se realizó un análisis de regresión logística sobre la variable SARM como dependiente.
+Los CLE de nuestra área constituyen un importante reservorio de SARM. Haber sido atendido en el
+SUH se comportó como factor predictor de colonización por SARM, por lo que es necesario de reforzar las medidas preventivas de transmisión cruzada de microorganismos multirresistentes e implantar sistemas vigilancia activa de SARM en el SUH
+

@@ -1,0 +1,97 @@
+DISEÑO Y PILOTAJE DE UN PROCESO ESTRUCTURADO PARA EL SERVICIO DE DISPENSACIÓN DE MEDICAMENTOS
+
+
+- INTRODUCCIÓN
+
+La morbimortalidad asociada al uso de medicamentos tiene tal prevalencia que se considera un auténtico problema de salud pública, , , y es necesario abordarlo con actuaciones decididas para la promoción de su uso adecuado y la prevención de los efectos adversos del uso inadecuado. En España se estima que en torno al 35% de las visitas a los servicios de urgencia hospitalaria se deben a un resultado negativo asociado a la medicación (RNM) y alrededor de un 80% son evitables.
+Es necesario poner en marcha medidas que controlen la utilización de medicamentos, con el fin de mejorar la seguridad del paciente, lo que redundará en la salud de los mismos y tendrá un impacto directo en los recursos sanitarios.
+Las medidas sanitarias destinadas a minimizar la aparición de RNM deben pasar por la actuación del farmacéutico, como profesional implicado en el proceso de uso del medicamento. Varios estudios han demostrado que tienen un papel vital en la gestión de la farmacoterapia, mejorando así los resultados generales de salud de los pacientes, , , , , , .
+En el servicio de dispensación, el farmacéutico constituye el último contacto del paciente con el sistema sanitario antes de la utilización ambulatoria del medicamento prescrito. Además constituye el primer y único contacto del paciente con el sistema sanitario en las automedicaciones. Por tanto, la entrega del medicamento no puede realizarse como una mera transacción mercantil, sino que debe ser una actividad clínica cuyo centro y objetivo sea la salud del paciente.
+Las instituciones sanitarias, instan a los farmacéuticos a utilizar protocolos de trabajo, para favorecer la eficacia y eficiencia del proceso de dispensación, contribuyendo a la agilidad, oportunidad y continuidad del servicio en la práctica habitual de la farmacia.
+Se han encontrado diferentes protocolos. Sin embargo, no son aplicables a cualquier entrega de medicamentos o son excesivamente generalistas y ninguno ha demostrado su eficacia y operatividad, , .
+El objetivo de este trabajo es diseñar y pilotar un proceso estructurado de trabajo para el servicio de dispensación de medicamentos, que sea operativo y permita prevenir la aparición de RNM mediante la detección de sus posibles causas.
+
+
+- MATERIAL Y MÉTODOS
+
+
+
+
+-- DISEÑO DEL ESTUDIO
+
+Estudio descriptivo transversal realizado durante los meses de marzo a junio de 2009.
+
+
+-- CENTROS DONDE SE REALIZÓ EL ESTUDIO
+
+Farmacias comunitarias de 24 provincias españolas, que aceptaron participar voluntariamente.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Los pacientes que solicitaron uno o varios medicamentos concretos con o sin receta médica para uso propio o para alguien a su cuidado.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Quedaron excluidos aquellos con dificultades de entendimiento del lenguaje o que tenían disminuida su capacidad psíquica.
+
+
+- PROCEDIMIENTO DE TRABAJO
+
+Cada farmacéutico aplicó el proceso estructurado de dispensación a cinco pacientes seleccionados por muestreo consecutivo y que aceptaron el consentimiento informado. Realizaron el protocolo diseñado para cada uno de los medicamentos solicitados por el paciente, cumplimentando simultáneamente las carencias de información y los posibles PRM y RNM detectados. Una vez finalizada cada dispensación el farmacéutico rellenaba un formulario autoadministrado de operatividad del servicio donde se recogía cómo había transcurrido el servicio protocolizado. Los farmacéuticos participantes recibieron formación básica (adaptada a cualquier nivel de conocimiento de AF) sobre las normas de aplicación del proceso estructurado de dispensación antes del trabajo de campo y dispusieron de material escrito de apoyo y de un teléfono tutorial para la resolución de posibles dudas.
+
+
+-- VARIABLES DEL ESTUDIO
+
+Las variables dependientes fueron:
+Dificultad. A cada ítem del protocolo se asociaron 3 preguntas con escala de repuesta continua de cinco categorías tipo Likert y una pregunta abierta para recoger las alternativas de reformulación del ítem. Para medir la dificultad se sumaron las 3 puntuaciones Likert y el número de reformulaciones necesarias para que el paciente contestara adecuadamente a lo que el ítem del protocolo le preguntaba. La dificultad se categorizó en: fácil (0-3); dificultad intermedia, , , , , y difícil (mayor de 4)
+Aplicabilidad. Se utilizaron dos preguntas sobre el protocolo en general, con escala de respuesta continua de cinco categorías tipo Likert.
+
+
+-- FUENTES DE INFORMACIÓN
+
+-Formulario de dispensación. Incluye las preguntas del proceso estructurado de dispensación y sirvió de guía para que el farmacéutico, en el mismo instante de la dispensación, recogiese la IPM, los PRM y sospechas de RNM, además de otras variables como el tiempo empleado, el número de medicamentos dispensados, las derivaciones a otros servicios o profesionales sanitarios.-Formulario de operatividad. Mide la percepción del farmacéutico sobre la operatividad del protocolo de dispensación. Consta de 3 preguntas con escala 1-5 tipo Likert y una pregunta abierta para cada uno de los ítems del protocolo propuesto y 4 preguntas abiertas (ventajas/inconvenientes/sugerencias/satisfacción) sobre el protocolo general y una cerrada tipo Likert sobre la integración del protocolo en la práctica diaria.
+Se recogieron dos variables independientes referentes a la farmacia participante; el tipo de farmacia (en base a la población que abastece y a su ubicación geográfica) y el nivel socioeconómico de la población a la que suministra.
+Referente a los farmacéuticos participantes se recogió la formación en AF.
+Las características de la dispensación recogidas fueron: tipo de dispensación «primera dispensación» (cuando el paciente solicita un medicamento de inicio de tratamiento) o «dispensación repetida» (si el medicamento solicitado es de continuación de tratamiento), el tiempo por servicio/paciente, el número de medicamentos dispensados por paciente y el resultado de la dispensación en derivaciones del paciente a otro servicio sanitario (médico de atención primaria, enfermera, especialista…) o a otro servicio de AF (indicación, seguimiento farmacoterapéutico, educación para la salud).
+
+
+-- ANÁLISIS DE LOS DATOS
+
+Para realizar la codificación y definición de variables, para el cálculo de variables agregadas y para el análisis estadístico se utilizó el paquete estadístico SPSS 17.0.
+Se realizó un análisis descriptivo univariante, mostrando la frecuencia de aparición de las distintas variables en la población de estudio.
+
+
+- RESULTADOS
+
+I)Diseño del proceso estructurado para la dispensaciónEl proceso estructurado de dispensación diseñado consta de:-Cuatro preguntas generales, 2 al inicio del proceso para determinar qué tipo de dispensación debe realizarse al paciente y 2 al final de todo el proceso estructurado que persiguen detectar si el medicamento no debe ser utilizado por el paciente (interacciones, contraindicaciones, duplicidades y teratogenia).-Cinco preguntas para los medicamentos que utiliza el paciente por primera vez (primera dispensación), para verificar el conocimiento del paciente sobre su medicamento y aportar, si es necesario, IPM.-Dos preguntas para la continuación de tratamientos (dispensación repetida) que buscan determinar la percepción del paciente sobre la efectividad y seguridad del medicamento que utiliza.-Redirección de la dispensación repetida a la primera dispensación al detectar una posible inefectividad/inseguridad (para descartar que esta se deba a la falta de conocimiento del medicamento)Figura 2II)Pilotaje del protocolo diseñado
+El pilotaje del protocolo diseñado se realizó en 53 farmacias de 24 provincias españolas con la participación de 69 farmacéuticos. La mitad de las farmacias participantes fueron de «barrio» y de nivel socioeconómico «medio» .
+Tan solo un 4,3% de los farmacéuticos participantes carecían de formación en ella y un 40,6% habían realizado formación especializada en ella.
+Se recibieron 345 formularios de protocolo y se rechazaron 16 (7 incompletos, 3 en blanco y 6 mal cumplimentados). Se registraron 870 dispensaciones de medicamentos de las que 592 fueron de continuación de tratamiento. La media de medicamentos dispensados por paciente fue 2,62 (DE: 1,39). El tiempo medio que empleó el farmacéutico por servicio/paciente fue 15,9 minutos (DE: 11,05). La dispensación concluyó en derivación solo en el 14% de los formularios, de los que 16 fueron al servicio de seguimiento farmacoterapéutico y 30 al médico de atención primaria.
+Se detectaron 423 (48,6%) casos de falta de información en los que se ofreció la IPM correspondiente .Figura 3
+En un 10,11% de las dispensaciones realizadas se detectaron PRM, distribuyéndose como se muestra en el figura 4.Figura 4
+En los 870 medicamentos dispensados se detectaron 68 sospechas de RNM (7,81%): de seguridad (n = 35; 51,5%), efectividad (n = 29; 42,6%) y necesidad (n = 4; 5,8%).
+De los 69 farmacéuticos participantes 66 opinaron que el protocolo era fácil (95,7%), mientras que el resto lo puntuaron como dificultad intermedia (4,3%).
+En cuanto a la distribución de la aplicabilidad se encontró que el 68,11% afirmó qué protocolo era aplicable, mientras que 22 farmacéuticos opinaron qué no era aplicable.
+Categorizando las variables de dificultad y aplicabilidad en operativo y no operativo, se encontró que 45 farmacéuticos (65,21%) afirmaron que el proceso estructurado es operativo, mientras que 24 (34,78%) afirmaron que el protocolo no es operativo, de los cuales 21 lo definieron como fácil pero no aplicable, uno como aplicable pero de dificultad media y 2 como no aplicable y de dificultad media.
+
+
+- DISCUSIÓN
+
+Se puede asegurar que el proceso estructurado diseñado consta de validez de contenido por la metodología utilizada en la fase de diseño. Los resultados obtenidos en el pilotaje permiten afirmar que se ha alcanzado la primera sistemática de trabajo para el servicio de dispensación que ha permitido detectar PRM y sospechas de RNM, así como las necesidades de información individuales de cada paciente y que se adapta a los requisitos del trabajo diario del farmacéutico. Los resultados obtenidos corresponden al pilotaje de una herramienta de trabajo y se necesita realizar estudios de intervención para determinar la efectividad del servicio de dispensación con este proceso estructurado. Sin embargo, se puede intuir que el protocolo diseñado podrá contribuir a minimizar los errores de dispensación, pudiendo mejorar la seguridad del paciente y generando un impacto directo en los recursos sanitarios
+Proporcionar al farmacéutico una sistemática de trabajo fácil, general y aplicable al universo de pacientes que acuden a la farmacia, reforzará su práctica clínica, su «profesionalidad» que es uno de los facilitadores para la implantación de servicios profesionales farmacéuticos.
+Con el fin de contemplar diferentes puntos de vista para el diseño del protocolo se congregaron profesionales de diferentes niveles asistenciales, obteniendo pluralidad en los planteamientos expuestos para minimizar los sesgos en la información disponible en el panel de expertos.
+Han estado representados en el estudio todos los tipos de farmacia y niveles socioeconómicos, lo que induce a pensar que el protocolo se puede adaptar a las distintas peculiaridades de cada farmacia. Esto es uno de los requisitos contemplados en el diseño, poder integrarlo en la rutina diaria de la farmacia.
+La limitación principal del estudio es la voluntariedad y la formación en AF de los farmacéuticos participantes que podía sobrestimar los resultados de operatividad por la predisposición positiva hacia la herramienta a pilotar. Sin embargo, consideramos que estos resultados podrían estar infravalorados porque el farmacéutico no tiene desarrollada la destreza en actuación del servicio y al formar parte de una investigación la intervención realizada se ralentiza por tener que cumplimentar diferentes formularios. Por ello se ha obtenido un tiempo medio por servicio elevado, que se reducirá con la práctica al no tener que cumplimentar formularios de investigación.
+Para asegurar la validez externa del protocolo diseñado son necesarios estudios futuros que permitan evaluar la efectividad de la dispensación protocolizada frente a la dispensación «clásica».
+
+
+- FINANCIACIÓN
+
+Este estudio ha sido financiado por el Laboratorio Farmacéutico Stada S.L. y la Sociedad Española de Farmacéuticos comunitarios (SEFAC).Lo conocido del temaLas instituciones sanitarias y las necesidades clínicas de la población demandan la existencia de protocolos de actuación farmacéutica que permitan, en cada entrega del medicamento, verificar qué es adecuado para las necesidades clínicas del paciente. Se han encontrado algunos protocolos para este servicio, sin embargo, ninguno que haya sido diseñado siguiendo el patrón de consenso del Ministerio de Sanidad y que se hayan medido sus resultados.Qué aporta este estudioPresentamos la primera sistemática de trabajo para el servicio de dispensación de medicamentos, pilotado por farmacéuticos distribuidos por toda España, que ha demostrado ser útil para detectar problemas relacionados con los medicamentos y sospechas de resultados negativos asociados a la medicación, así como las necesidades de información individuales de cada paciente y que se adapta a los requisitos del trabajo diario del farmacéutico.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

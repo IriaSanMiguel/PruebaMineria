@@ -1,0 +1,47 @@
+SEGURIDAD EN EL USO DE LA ECOGRAFÍA EN REUMATOLOGÍA DURANTE LA PANDEMIA COVID-19. DOCUMENTO DE POSICIONAMIENTO DE LA SOCIEDAD ESPAÑOLA DE REUMATOLOGÍA
+
+
+- INTRODUCCIÓN Y JUSTIFICACIÓN
+
+Desde su aparición en diciembre de 2019, la epidemia de la COVID-19, causada por el nuevo coronavirus SARS-CoV-2, se ha extendido rápidamente hasta convertirse en una pandemia mundial. Esta situación excepcional hace necesario un cambio en nuestra práctica clínica diaria, en relación con la adopción de nuevas estrategias que permitan la asistencia integral de nuestros pacientes, garantizando la seguridad tanto de los pacientes como de los profesionales sanitarios.
+La ecografía, modalidad de imagen ampliamente implantada en la práctica reumatológica, es una de las técnicas en la que mayor interacción existe entre médico y paciente, lo cual constituye una de las grandes ventajas ya que permite una visualización en tiempo real de la estructura a explorar y una comunicación interactiva en forma de diálogo con el paciente. Sin embargo, durante la pandemia COVID-19, este aspecto asistencial positivo de la ecografía se ha convertido en un potencial factor de riesgo para la trasmisión de la infección. En un estudio realizado en el epicentro de la pandemia en Wuhan por Wang et al., la tasa de infección por COVID-19 en ecografistas fue aproximadamente del 3,4%, considerablemente mayor que la tasa de infección general entre el personal sanitario (2,2%), independientemente de su especialidad, . Por ello, es fundamental la creación de recomendaciones específicas para garantizar la seguridad durante la exploración. En este contexto ya se han publicado recomendaciones y guías de actuación específicas para reducir el riesgo de exposición del personal de servicios de radiología implicados en el diagnóstico de los pacientes con COVID-19 en otros ámbitos como la TC y la radiología simple, .
+Recientemente, la Sociedad Española de Reumatología (SER) ha publicado un documento de posicionamiento sobre el funcionamiento y restablecimiento de la actividad de los servicios de reumatología ante la COVID-19, en el que se establecen medidas generales y específicas de seguridad para pacientes y profesionales. A pesar de que la ecografía es una práctica extendida en la mayor parte de los servicios de reumatología de nuestro país, solo es mencionada en la recomendación 6 con un grado de acuerdo del 71% en la que se expone: «Si hubiera necesidad de realizar técnicas específicas (artrocentesis, infiltración, ecografía, capilaroscopia) se necesitaría utilizar mascarilla tipo FFP2, protección facial (gafas o pantalla facial) y protección corporal con pijama, guantes y calzado cerrado». No se proporcionan, sin embargo, recomendaciones específicas para pacientes y profesionales para la realización de ecografía, ni tampoco información sobre desinfección de los equipos ecográficos.
+
+
+- OBJETIVO
+
+Desarrollar unas recomendaciones prácticas, consensuadas entre un panel de expertos, sobre el uso y seguridad de la ecografía reumatológica durante la pandemia por la COVID-19.
+
+
+- MÉTODOS
+
+La metodología de este trabajo consistió en las siguientes fases consecutivas:-Selección por parte de las coordinadoras científicas (EN, LM) y de la Comisión de Asuntos Internos de la SER de un panel de 14 especialistas en reumatología, radiología y tecnología, expertos y usuarios de la ecografía del aparato locomotor y con distribución geográfica española.-Revisión narrativa de la literatura (JMC, FMFH).Se realizó una revisión bibliográfica de la literatura en PubMed y Embase hasta 1/6/2020 utilizando las palabras claves «ultrasound OR echography OR sonography» AND «viral infection OR viral transmission OR SARS OR coronavirus» AND «security measures OR risk assessment OR security», y sus respectivos sinónimos en términos MeSH y libres, y excluyendo otras infecciones virales (hepatitis, CMV, papilomavirus). Asimismo, se recurrió a la búsqueda de información en páginas web de recomendaciones o guías de las principales Sociedades Científicas de Radiología y Ecografía, nacionales e internacionales, sobre el modo de actuación y seguridad durante la pandemia COVID-19, así como las recomendaciones de las principales casas comerciales de ecografía sobre utilización y mantenimiento del ecógrafo y sus elementos para evitar transmitir infecciones sin deterioro de los equipos.-Distribución del resultado de la búsqueda narrativa de la literatura entre los miembros del panel, los cuales trabajaron en parejas, a las que se asignó una sección del contenido del proyecto.
+Las secciones fueron las siguientes: A) Principios fundamentales; B) Indicación de ecografía reumatológica durante la pandemia COVID-19; C) Cribado, citación y circuito de pacientes; D) Recibimiento y preparación del paciente; E) Realización de la ecografía y medidas de protección de los pacientes y los profesionales sanitarios; F) Protección, limpieza y desinfección de los equipos de ecografía; G) Intervencionismo guiado por ecografía.-Elaboración de las recomendaciones preliminares por el panel.-Supervisión de las recomendaciones preliminares por los coordinadores científicos y metodológicos.-Propuesta de acuerdo de las recomendaciones resultantes a todos los componentes del panel mediante el método Delphi, aplicado de forma telemática, con las rondas necesarias para llegar al consenso del grupo, previa reformulación o reconsideración de cada recomendación en caso de desacuerdo. Se consideró consenso del panel cuando el 75% de sus componentes puntuaron su acuerdo con cada recomendación ≥ 4 en una escala Likert de 1 a 5 (1. absolutamente en desacuerdo; 2. bastante en desacuerdo; 3. ni acuerdo ni desacuerdo; 4. bastante de acuerdo; 5. absolutamente de acuerdo).-Elaboración del documento final.
+
+
+- RESULTADOS
+
+-- REVISIÓN DE LA LITERATURA
+
+Hasta la fecha no existen publicaciones que establezcan recomendaciones específicas de seguridad para el uso de la ecografía en reumatología durante la pandemia COVID-19, por lo que la información relativa a este campo ha sido extraída de recomendaciones de sociedades nacionales o internacionales, en su mayor parte de ecografía y radiología.
+Se analizaron 30 referencias que cumplían total o parcialmente los objetivos de la revisión, así como sus citas bibliográficas. Con los resultados obtenidos, , , , , , , , , , , , , , , , , , , , se elaboró un documento narrativo de la seguridad en la utilización de la ecografía y se presentó al panel de expertos para su discusión y consenso.
+
+
+-- PRINCIPIOS FUNDAMENTALES Y RECOMENDACIONES
+
+El 100% de los miembros del panel respondieron a las dos rondas del cuestionario Delphi que se llevaron a cabo. Se elaboraron y consensuaron entre el panel 5 principios fundamentales y 28 recomendaciones, expuestos en los respectivos cuadros de la tabla 1 . El consenso del grupo se logró con una sola ronda Delphi. Dos recomendaciones, sin embargo, obtuvieron un desacuerdo sólidamente argumentado por algunos miembros del panel, por lo que se reformularon y se volvieron a someter a acuerdo, junto a las originalmente aceptadas por el grupo, mediante una escala de Likert de 1 a 5 y a simple votación entre ambas, en una segunda ronda Delphi; se eligieron como recomendaciones finales, entre las dos alternativas de estas dos recomendaciones, aquellas versiones que obtuvieron acuerdo entre el panel y, en caso de obtener acuerdo ambas alternativas, la más votada por los miembros del grupo.
+
+
+- DISCUSIÓN
+
+Estas recomendaciones se refieren a medidas preventivas en el uso de la ecografía durante la pandemia COVID-19, técnica ampliamente difundida en la práctica reumatológica. Sin embargo, podrían ser aplicables a otras técnicas reumatológicas en las que exista un contacto estrecho con el paciente y se utilice algún vehículo transmisor (gel o aceite) como en el caso de la capilaroscopia o en las que exista posibilidad de contacto con fluidos biológicos (artrocentesis o infiltraciones no necesariamente guiadas por ecografía). Estas recomendaciones deberán ser adaptables y dinámicas en función de las circunstancias del medio y la evolución de la pandemia, primando la máxima protección del paciente y el profesional que permita mantener una calidad óptima de la prueba. En cuanto a la docencia ecográfica, tan importante para nuestra sociedad reumatológica, necesariamente afectada en aras de la seguridad, cada servicio de salud y departamento docente podría considerar realizar adaptaciones en función de las circunstancias epidemiológicas de la pandemia.
+
+
+- CONCLUSIONES
+
+Este documento proporciona información de utilidad acerca de medidas preventivas en la práctica de ecografía en reumatología en tiempos de pandemia COVID-19 en base a la experiencia y literatura disponible hasta el momento. La pandemia COVID-19 supone un reto en nuestra práctica reumatológica ecográfica habitual. El panel de expertos propone con un alto grado de acuerdo unas recomendaciones que, adaptadas a la disponibilidad de medios, ayuden a planificar y realizar las exploraciones ecográficas necesarias de forma segura para pacientes y profesionales, con la intención de minimizar el riesgo de transmisión de la infección sin menoscabo de la calidad diagnóstica de la prueba.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

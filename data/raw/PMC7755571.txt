@@ -1,0 +1,22 @@
+PCR PARA COVID-19 POSITIVA, LUEGO NEGATIVA Y OTRA VEZ POSITIVA ¿REINFECCIÓN A LOS 55 DÍAS
+
+
+Sr. Editor:
+En el contexto del avance de la pandemia actual producida por el SARS-CoV-2, la posibilidad de reinfección es un tema que preocupa a la sociedad, a los profesionales sanitarios y a las instituciones. Presentamos un caso de resultado positivo para la prueba de reacción en cadena de la polimerasa (PCR) para el SARS-CoV-2 en una paciente que ya había resultado positivo 55 días antes para dicha prueba (fig. 1 ).Figura 1
+Mujer de 40 años, profesional sanitario, sin antecedentes destacables, que tras control rutinario se realiza una PCR en exudado nasofaríngeo para el SARS-CoV-2 con resultado positivo. Ese día comienza con sintomatología compatible para la enfermedad COVID-19: tos irritativa, sensación distérmica (temperatura máxima: 37,3 °C), odinofagia, diarrea y dolor costal pleurítico, durante cinco días. Para reincorporarse a su trabajo, tras el periodo de cuarentena, se repite la PCR a los 12 días con resultado negativo. La paciente continúa asintomática hasta que transcurridos 55 días desde su primera cita en el centro de salud se vuelve a realizar control laboral mediante PCR con resultado positivo. Presenta rinorrea acuosa y cefalea de predominio occipital de cinco días de duración, que se inicia dos días antes de la prueba. Además, se pone de manifiesto un brote en su ámbito laboral, ya que varios compañeros también resultan positivos. Se solicita a nuestra paciente prueba de anticuerpos IgG e IgM en sangre para SARS-CoV-2 con resultado negativo. Se decide aislamiento de la paciente y estudio de sus cinco contactos estrechos mediante la prueba PCR que resultan todos negativos. A los seis días se repite la prueba PCR con resultado negativo.
+La recurrencia de resultados positivos para PCR después del alta puede ser del 2,1% al 16,7%, según algunos estudios realizados, y se ha descrito la persistencia hasta 37 días después del alta del proceso. La opción que consideramos más probable para explicar nuestro caso es que se trate de una diseminación viral prolongada y que el resultado de la prueba al alta se tratase de un falso negativo. La posibilidad de falso positivo de la prueba a los 55 días, aunque menos probable, también existe sobre todo por contaminación de la muestra o error en el proceso preanalítico. No obstante, son posibles otros escenarios, como la reactivación viral, teniendo en cuenta la ausencia de anticuerpos específicos (podrían no haberse formado desde un inicio, o bien, haber desaparecido tras ocho semanas); o la reinfección por otra cepa del SARS-CoV-2, dada la exposición prolongada de la paciente en el ámbito laboral. Para afirmar que existe reinfección es necesario secuenciar el genotipo viral y comprobar que son diferentes genomas en cada una de las pruebas, ya que clínicamente resulta difícil de diferenciar de una reactivación de la misma infección vírica. El aspecto positivo de este caso es que no se ha evidenciado contagiosidad, al igual que en otro estudio realizado en pacientes con PCR positiva recurrente en Corea del Norte. Es necesario analizar datos a mayor escala para comprender mejor la recurrencia de PCR positiva del SARS-CoV-2.
+
+
+- REQUERIMIENTOS ÉTICOS
+
+Se ha contado con el consentimiento de la paciente y se han seguido los protocolos de los centro de trabajo sobre tratamiento de la información de los pacientes.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

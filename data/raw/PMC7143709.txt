@@ -1,0 +1,156 @@
+VIRIASIS RESPIRATORIAS. GRIPE
+
+
+- INTRODUCCIÓN
+
+Las viriasis respiratorias constituyen un amplio abanico de procesos infecciosos que abarca todo el árbol respiratorio, desde nasofaringe (rinitis, sinusitis, etc.) hasta los alveolos (neumonía). En su mayoría, las infecciones respiratorias agudas son procesos benignos que no condicionan una alta tasa de complicaciones, excepto en pacientes inmunodeprimidos o en las edades extremas de la vida. Sin embargo, debido a su frecuencia, sí tienen una repercusión socioeconómica muy importante (en EE. UU. se estima un total de 21 millones de días de escuela y 20 millones de días de trabajo perdidos anualmente).
+Una de las características de los virus respiratorios es su variabilidad serotípica (tabla 1 ). Este es uno de los motivos por los que la frecuencia de las infecciones respiratorias víricas es tan elevada. Por otro lado, alguno de estos agentes, con menor número de serotipos (virus respiratorio sincitial -VRS-, virus parainfluenza, metapneumovirus), interaccionan con el sistema inmunológico de tal modo que no se produce una inmunidad adaptativa duradera y completa, y en consecuencia no se previene la reinfección. Sin embargo, la inmunidad adquirida durante la infección por ellos sí disminuye la gravedad de las reinfecciones.
+Epidemiológicamente, se caracterizan por tener una estacionalidad muy marcada, limitada a los meses fríos del año, y una distribución prácticamente mundial. La diseminación es horizontal por 3 mecanismos fundamentalmente: a) pequeñas partículas en aerosol (gotas de Pflügge), con capacidad de transmitirse a grandes distancias por el aire; b) partículas mayores en aerosol (gotas de Wells) que recorren distancias mayores y c) contacto directo, a través de fómites contaminados o contacto persona-persona.
+
+
+- GRIPE
+
+-- CONCEPTO
+
+La gripe es una infección respiratoria vírica causada por el virus influenza altamente contagiosa. En condiciones normales, su presentación clínica es indistinguible de otras infecciones respiratorias víricas y suele ser autolimitada. Tanto la gravedad de la infección como la mortalidad se relacionan con la afectación de pacientes inmunodeprimidos, con enfermedades crónicas subyacentes y ancianos , .
+
+
+-- CLASIFICACIÓN ETIOLÓGICA Y ESTRUCTURA
+
+El virus de la influenza pertenece a la familia Orthomyxoviridae, que es una familia de virus ARN segmentado de sentido negativo con estructura helicoidal rodeada de una membrana de fosfolípidos. La segmentación del ARN permite el desarrollo de nuevas cepas por mutación y reorganización de los segmentos genéticos.
+Los viriones de la gripe son pleomorfos, esféricos o tubulares con un diámetro que oscila entre 80 y 120 nm. Posee en la membrana fosfolipídica externa dos glicoproteínas espiculadas: HA (hemaglutinina) y NA (neuraminidasa) que son los determinantes antigénicos mayores. Otras dos proteínas que forman parte del virus son la M2 (un canal iónico transmembrana) y la proteína de la matriz M1, necesaria para el ensamblaje del virus , .
+El virus influenza se clasifica en 3 tipos distintos: influenza A, influenza B e influenza C. Además, las características epidemiológicas, huéspedes y clínica difieren entre los 3 grupos (tabla 2 ).
+Desde el punto de vista patogénico, la HA es la proteína que se une al ácido siálico de las superficies epiteliales, fundamentalmente del tracto respiratorio superior; es la responsable de que se produzca la respuesta inmunitaria mediante anticuerpos neutralizantes. La NA tiene capacidad enzimática, escindiendo el ácido siálico de las proteínas del virión (evitando así el agrupamiento de estos) y facilitando la liberación del virus de las células infectadas y la infección de células adyacentes.
+El género influenza A está formado por distintos subtipos, dependiendo de las variaciones de los antígenos principales (H1 a H16 y N1 a N9). Tiene capacidad para producir infección en seres humanos y animales (principalmente cerdos y aves).
+Tanto influenza A como influenza B presentan capacidad de deriva (en inglés shift) antigénica (cambios menores en sus antígenos H o N, por acumulación de mutaciones puntuales), hecho que facilita la aparición de brotes epidémicos cada 1-3 años en una población, a pesar de que existan individuos con anticuerpos contra las cepas previas del virus. Además de esta deriva antigénica, el virus influenza A puede producir variaciones antigénicas, entendidas como cambios antigénicos mayores (H y/o N), determinando la aparición de un nuevo subtipo vírico, para el que no existe inmunidad en la población. Esta capacidad es la que condiciona la aparición de pandemias mundiales. Las nuevas cepas de virus pandémicos ocurren por reordenación genética entre virus influenza A animales y humanos o por transmisión directa de cepas animales a seres humanos. Por su parte, la variabilidad genética del virus influenza C es escasa, por lo que no produce epidemias (tampoco pandemias) , .
+Aunque existen descripciones de epidemias de gripe desde la antigüedad, el primer registro de pandemia de gripe oficial es de los años 1889-90, conocida como la gripe rusa (H3N2). Posteriormente tuvo lugar la gripe española en 1918-20 (H1N1), con la mayor tasa de letalidad de todas las pandemias de gripe registradas hasta la actualidad. Habría que esperar hasta los años 50 (1957-58) para una nueva pandemia, esta vez la gripe asiática (H2N2). En los años 1968-69 ocurre la pandemia por gripe de Hong-Kong (H3N2). La última pandemia, en el siglo XXI, fue la nueva gripe A H1N1 que si bien poseía una hemaglutinina H1, sus características eran bastante distintas de la H1 circulante desde finales de los años 70, debido a su origen porcino; aunque la mortalidad de esta última pandemia no fue elevada, los años de vida perdidos fueron sumamente altos, debido a que la mayor letalidad se centró en población joven (los ancianos poseían cierta inmunidad residual de la pandemia de 1918), , , .
+
+
+-- MANIFESTACIONES CLÍNICAS E HISTORIA NATURAL
+
+El síndrome gripal típico es el producido por los virus de la gripe A y B. El virus de la gripe C ocasiona infecciones respiratorias altas leves indistinguibles de otros procesos catarrales.
+Aunque no existen unos criterios diagnósticos establecidos para la gripe, los síntomas asociados con más frecuencia a este proceso y que nos deben hacer sospechar la enfermedad son: fiebre asociada a escalofríos, cefalea, deterioro del estado general, artromialgias (con predominio de las mialgias), síntomas respiratorios e hiporexia , .
+Las mialgias suelen afectar a grandes grupos musculares (extremidades, espalda) y las artralgias suelen ser menos llamativas. Los síntomas respiratorios son variables, dependiendo de la virulencia del virus, la edad y las características propias del paciente (tabaquismo, inmunodepresión, etc.). Fundamentalmente son tos seca, secreción mucopurulenta nasal y odinofagia. El inicio de la enfermedad suele ser brusco, tras una incubación corta de 48-72 horas, con la aparición de fiebre elevada (38-41 °C) y quebrantamiento del estado general muy marcado. Habitualmente la fiebre es continua, de difícil control a pesar del tratamiento antitérmico; ocasionalmente se puede presentar de forma intermitente e incluso con una curva bifásica tras una remisión temporal. La tos seca y la cefalea aparecen con posterioridad al inicio de la fiebre. En la exploración clínica pueden aparecer pequeñas adenopatías en los territorios cervicales de características benignas (blandas, no adheridas, rodaderas) así como roncus y sibilancias en un pequeño porcentaje de pacientes (10 %). De forma menos frecuente pueden aparecer síntomas extrarrespiratorios; hasta en un 3 % de los casos pueden aparecer síntomas gastrointestinales (especialmente vómitos).
+Los datos de laboratorio son muy inespecíficos, sin diferencias con otros procesos respiratorios víricos, con la leucocitosis como alteración más prevalente, así como una moderada elevación de la proteína C reactiva y del fibrinógeno, como reactantes de fase aguda.
+En población general, la duración total del cuadro suele ser en torno a 5 días (3-7 días) si no hay complicaciones, si bien síntomas como la tos o la astenia pueden permanecer hasta dos semanas.
+
+
+-- COMPLICACIONES
+
+Aunque poco frecuentes, en ocasiones pueden aparecer complicaciones, sobre todo en pacientes con comorbilidades respiratorias (enfermedad pulmonar obstructiva crónica -EPOC-, asma grave) o cardiovasculares (insuficiencia cardiaca congestiva) e individuos inmunodeprimidos o de edad avanzada , , .
+
+
+-- COMPLICACIONES RESPIRATORIAS
+
+La neumonía vírica primaria es una complicación que se asocia a una elevada mortalidad. Suele tener lugar al poco tiempo del síndrome gripal, con la aparición de tos productiva con expectoración sanguinolenta, taquipnea, crepitantes finos en la auscultación pulmonar e insuficiencia respiratoria. En la radiografía se tórax pueden aparecer infiltrados intersticiales, aunque no es rara la presencia de infiltrados alveolares como cualquier otro proceso neumónico típico. La respuesta a la antibioterapia empírica suele ser escasa. Más frecuente que la neumonía primaria es la sobreinfección bacteriana, típicamente por Streptococcus pneumoniae, Staphylococcus aureus, Haemophilus influenzae y estreptococos del grupo B. En pacientes con patología pulmonar crónica, como los pacientes con EPOC, fibrosis quística o asma bronquial puede producirse una exacerbación de la misma.
+
+
+-- COMPLICACIONES NEUROLÓGICAS
+
+El síndrome de Reye consiste en una encefalopatía aguda con edema cerebral, elevación de la presión del líquido cefalorraquídeo pero con recuento celular y análisis bioquímico del mismo normales, asociada a degeneración grasa hepática. Se ha descrito en pacientes que han consumido ácido acetilsalicílico (AAS) en el contexto de una infección gripal, afectando especialmente a los niños. También se han descrito casos de encefalitis postinfluenza (con detección por reacción en cadena de la polimerasa -PCR- de ARN de influenza en el líquido cefalorraquídeo), mielitis transversa y síndorme de Guillain-Barré , .
+
+
+-- OTRAS COMPLICACIONES
+
+Se han descrito casos de miositis con elevación de la creatinfosfoquinasa (CPK) y de la transaminasa aspartato aminotransferasa (AST), siendo una complicación más frecuente en niños que en población adulta y más frecuente en el caso de infección por el virus influenza B.
+También existen casos descritos de miocarditis por influenza, más frecuentes en casos de brotes pandémicos. El espectro abarca desde la alteración exclusivamente analítica, con elevación de marcadores de sufrimiento miocárdico (troponina I y E, CPK) hasta el shock cardiogénico fulminante. Más frecuente que la miocarditis es la descompensación de la patología cardiaca de base, como consecuencia de un aumento de la demanda cardiaca en el contexto de la infección gripal.
+
+
+-- DIAGNÓSTICO DE LA GRIPE
+
+No suele requerirse el diagnóstico etiológico del síndrome gripal causado en condiciones de epidemia estacional en pacientes adultos o niños sin gravedad que no requieren ingreso ni son inmunodeprimidos, asumiendo el diagnóstico de gripe si el paciente presenta los síntomas típicos en dicho contexto epidemiológico , . En pacientes de alto riesgo para complicaciones derivadas de la gripe sí estaría indicado, así como en condiciones de pandemia (tabla 3 ).
+El diagnóstico se realiza a partir del cultivo vírico y/o técnicas moleculares e inmunológicas. Estas últimas permiten un resultado en un tiempo relativamente rápido (entre 15 minutos y 48 horas). La rentabilidad diagnóstica depende, además de la técnica microbiológica empleada, del tiempo desde el inicio de la enfermedad y la toma de muestra, disminuyendo rápidamente a partir de las 48 horas del inicio de los síntomas, al ser técnicas dependientes de la carga vírica existente en la faringe (oro y nasofaringe).
+
+
+--- TEST ANTIGÉNICOS RÁPIDOS
+
+Son inmunoensayos que identifican en muestra respiratoria antígenos de la nucleoproteína vírica de influenza A y B. Son test rápidos (15-30 minutos) y tienen una sensibilidad del 60-90 % en comparación con el cultivo vírico. La muestra se debe tomar mediante torunda nasofaríngea y orofaríngea.
+
+
+--- REACCIÓN EN CADENA DE LA POLIMERASA
+
+La RT-PCR es la técnica más sensible y específica, incluso más rentable que el cultivo vírico. Se obtiene el resultado en 5-6 horas y permite diferenciar entre influenza A y B y los distintos subtipos.
+
+
+--- CULTIVO VÍRICO
+
+Se emplea para estudios de vigilancia epidemiológica, pero no en el manejo clínico de los pacientes con sospecha de gripe. El resultado tarda entre 48 y 72 horas. Se puede realizar a partir de muestra nasal, faríngea, esputo o lavado broncoalveolar.
+
+
+--- DIAGNÓSTICO SEROLÓGICO
+
+El diagnóstico serológico requiere de dos muestras: una inicial durante el cuadro agudo y una posterior en el periodo de convalecencia (10-14 días tras enfermedad) para ver la evolución de los títulos de anticuerpos. Una diferencia en los títulos 4 veces superior en el periodo de convalecencia respecto a la fase aguda se considera diagnóstica. No es útil en el diagnóstico clínico, siendo empleado especialmente con fines de investigación.
+
+
+-- TRATAMIENTO DE LA GRIPE
+
+El tratamiento específico para pacientes sin riesgo de complicaciones y con presentación clínica no grave no está indicado. En estos individuos se prescribe un tratamiento sintomático (antitérmicos, analgésicos, reposo).
+En situaciones graves o con complicaciones viscerales, está indicado el tratamiento. El tratamiento precoz antivírico (menos de 48 horas) de la gripe ha demostrado disminuir los síntomas de la infección y parece estar relacionado con una disminución discreta del riesgo de complicaciones , . Existen cuatro antivíricos disponibles que describimos a continuación.
+
+
+--- INHIBIDORES DE LA PROTEÍNA M2
+
+Amantadina y rimantadina son fármacos que inhiben el canal iónico de la proteína M2. Son fármacos útiles frente a influenza A pero no frente a influenza B o C, cuya proteína M2 es distinta. Ambos fármacos se administran en una pauta de 100 mg al día durante 3-5 días (en el caso de amantadina requiere ajuste por función renal).
+Pueden dar lugar a efectos secundarios neurológicos (insomnio, mareo, dificultad para la concentración) y gastrointestinales, estos últimos algo menos frecuentes. Son más habituales con amantadina que con rimantadina. Otro factor limitante es la aparición de resistencias, especialmente en niños.
+
+
+--- INHIBIDORES DE LA NEURAMINIDASA
+
+Los fármacos de esta familia son zanamivir y oseltamivir. Inhiben la actividad de la neuraminidasa vírica, con lo que se evita la liberación y difusión de nuevos virus infectantes.
+Zanamivir está indicado en pacientes mayores de 7 años y se administra por vía inhalatoria (2 inhalaciones cada 12 horas durante 5 días) y no requiere ajuste en función del aclaramiento de creatinina. Su principal efecto secundario es el desarrollo de broncoespasmo.
+Oseltamivir se administra por vía oral (75 mg cada 12 horas), requiriendo ajuste por función renal. Sus principales efectos secundarios son gastrointestinales. Debería evaluarse de forma individualizada la relación riesgo-beneficio de la administración de inhibidores de la neuraminidasa en mujeres gestantes (categoría C de la FDA). Aunque menos frecuente que con los inhibidores de la proteína M2, también se han descrito resistencias.
+Un nuevo agente dentro de este grupo es peramivir, actualmente en fases preclínicas de investigación, de administración intravenosa y que estaría indicado en pacientes ingresados con infección confirmada por el virus influenza A H1N1 pandémico con alta sospecha de resistencia a oseltamivir.
+
+
+-- PROFILAXIS
+
+Existen dos estrategias profilácticas para la prevención de la gripe: vacunación y quimioprofilaxis.
+
+
+--- VACUNACIÓN
+
+Es la medida más efectiva para la prevención y control de las epidemias gripales. Las vacunas más empleadas son las desarrolladas a partir de virus inactivados. La vacuna que se emplea actualmente se formula a partir de muestras de los siguientes virus: influenza A (H1N1) no pandémico, influenza A (H3N2) e influenza B. De este último se emplea el subtipo que se considera que más probablemente sea el que cause enfermedad en la siguiente estación fría. Para ello existe una red de centros centinela, en los que se toman muestras de pacientes, con el objetivo de intentar anticipar cuál será la variación antigénica predominante en la próxima temporada gripal. Para aumentar la inmunogenicidad de la vacuna, se emplean adyuvantes (MF59 y AS03). Las vacunas inactivadas son generalmente bien toleradas en la población general. Ocasionalmente en torno al 2-10 % de los casos se describe un proceso autolimitado pseudogripal leve de 1-2 días de duración. La vacunación con virus inactivados obtiene una elevación de los anticuerpos en un 90 % de los adultos sanos, con solo una dosis administrada. En pacientes ancianos o inmunodeprimidos, dicho resultado es menor.
+Las vacunas vivas atenuadas, administradas por vía intranasal, aportan ventajas con respecto a la vacuna inactivada clásica: en primer lugar, mejoran las tasas de inmunidad adquirida con la vacuna clásica (consiguen unos títulos de anticuerpos superiores hasta en un 50 %); en segundo lugar, aportarían tanto inmunidad sistémica como local, al administrarse por vía intranasal. La vacuna se ha probado en pacientes con infección por virus de la inmunodeficiencia humana (VIH) muy inmunodeprimidos, sin que se hayan descrito eventos adversos relacionados con la propia infección por el VIH o con la gripe.
+Las indicaciones la para vacunación anual se dividen en dos grupos: a) personas con riesgo para padecer complicaciones y b) personas con riesgo de transmitir la infección a miembros del grupo 1 (personal sanitario, personal de residencias geriátricas, personas del entorno familiar de miembros del grupo 1). En niños (6 meses a 8 años) se administran dos dosis separadas 4 semanas. En adultos, se administra una sola dosis. La única complicación grave asociada a la administración de la vacuna es el desarrollo del síndrome de Guillain-Barré, ocurrida durante la temporada de gripe de 1976 en EE. UU.; posteriormente no se ha confirmado en las sucesivas campañas de vacunación en todo el mundo.
+
+
+--- QUIMIOPROFILAXIS
+
+Los cuatro agentes antivíricos anteriormente descritos se han empleado como prevención en distintos esquemas: profilaxis estacional (administración de forma continua durante la temporada gripal), profilaxis familiar, profilaxis institucional y profilaxis en pacientes de alto riesgo que se vacunan durante la temporada de gripe. Los beneficios de estas estrategias son discutibles.
+
+
+- OTRAS VIRIASIS RESPIRATORIAS
+
+Además del virus de la gripe, existen otros virus que producen enfermedad respiratoria aguda. Los más frecuentes se exponen a continuación.
+
+
+-- ADENOVIRUS
+
+Es un virus ADN sin envoltura con un tamaño de los viriones activos entre 70 y 90 nm de diámetro. Se han aislado más de 100 adenovirus en animales, siendo 51 los serotipos con actividad en los seres humanos, divididos en 6 subgrupos (de la A a la F) en función de sus características de hemaglutinación.
+Aunque pueden causar un amplio espectro de infecciones, habitualmente leves, a nivel respiratorio se caracterizan por ser los responsables de hasta el 5 % de las infecciones respiratorias altas y el 10 % de las neumonías en niños. En el caso de la infección respiratoria alta, se presenta como faringitis o traqueítis y suelen ser de intensidad leve. El periodo de incubación oscila entre los 2 y los 14 días. Puede acompañarse de síntomas sistémicos (cefalea, malestar general, mialgias). Los serotipos más implicados son el 1, 2, 3, 5, 6 y 7. También puede presentarse como una faringoamigdalitis indistinguible de la producida por los estreptococos del grupo B. Los serotipos que producen con mayor frecuencia neumonía son del 1 al 5, 7, 14 y 21. Ocasionalmente, pueden dejar como secuelas bronquiectasias. Aunque la diana fundamental son los niños, se han documentado brotes de infección respiratoria aguda en entornos militares con escasa afectación del tracto respiratorio inferior.
+
+
+-- RINOVIRUS
+
+Pertenecen a la familia de los Picornaviridae. Es un virus ARN envuelto en una cápside con un diámetro de 30 nm. Se han descrito hasta 101 serotipos distintos. El virus tiene capacidad para sobrevivir durante horas y días en superficies no biológicas, si la temperatura se encuentra entre 24 y 37 °C. Por ello, la vía de transmisión, además de la aérea, es por contacto con dichas superficies u otros fómites contaminados.
+Es el agente etiológico más frecuente del resfriado común (30-40 % de los casos). Predomina en las épocas de transición del verano al otoño y de la primavera al verano. La incubación es corta (1 a 4 días). La clínica de rinorrea, picor nasal, obstrucción nasal, tos (30 %), estornudos, cefalea, fiebre y odinofagia puede durar entre uno y 33 días (habitualmente 5-7 días). No se asocia con complicaciones directas salvo reagudizaciones de enfermedades respiratorias crónicas (asma, EPOC), aunque sí puede acontecer la sobreinfección bacteriana del tracto respiratorio superior, siendo rara la afectación directa o sobreinfección bacteriana del tracto inferior.
+
+
+-- CORONAVIRUS
+
+De la familia de los Coronaviridae, son virus ARN con envoltura circular de 30 kilobases de longitud, con una morfología de corona estrellada debida a unas proyecciones en forma de palillo de tambor. Constituyen la segunda causa más frecuente de resfriado común (15 %). Tienen diseminación mundial y estacionalidad, siendo más frecuentes en invierno y primavera. En EE. UU. se han descrito brotes epidémicos de resfriado común cada 2-3 años causados por este agente.
+Además del resfriado común, se han descrito casos de neumonía y bronquiolitis en niños, otitis y exacerbaciones de asma en jóvenes y adultos, así como neumonía y bronquitis grave en ancianos e inmunodeprimidos.
+En 2002 se describió un cuadro conocido como síndrome respiratorio agudo grave (SARS) en la provincia china de Guangdong, que se diseminó a varios países (fundamentalmente Canadá). Este cuadro se iniciaba con cefalea, malestar general y mialgias, seguido por tos seca y disnea. En la radiología simple de tórax se observaban opacidades alveolares periféricas. Hasta el 25 % desarrollaron un cuadro de distrés respiratorio del adulto, más frecuente en individuos mayores de 50 años. La mortalidad global fue del 9-12 %.
+
+
+-- VIRUS RESPIRATORIO SINCITIAL
+
+Es un virus de la familia de los Paramyxoviridae, de tipo ARN con envuelta y un tamaño de 120 a 300 nm. Su nombre se debe a que produce sincitios por fusión de las células que infecta. Tiene capacidad para sobrevivir en superficies inertes hasta 30 horas a temperatura ambiente. Tiene una distribución mundial y produce epidemias estacionales en los meses fríos.
+Es el agente causal más frecuente de la bronquiolitis aguda del lactante, aunque también produce con frecuencia traqueítis y neumonía en lactantes y niños pequeños. En estudios de seroprevalencia, hasta un 98 % de los niños menores de un año han sido infectados por el VRS. Las infecciones recurrentes suelen ser menos agresivas que la primoinfección. La clínica consiste habitualmente en bronquiolitis (en torno al 2-10 % de los casos pueden desarrollar crup laríngeo), aunque inicialmente puede cursar con sintomatología de la vía aérea superior (rinorrea, tos, laringitis) que progresa a la vía inferior con la instauración de la bronquiolitis con disnea progresiva. En ese momento la tos se hace más prominente y productiva. La fiebre puede aparecer pero es de baja intensidad y no se correlaciona con la gravedad de la infección. Tan solo en el 1 % de los casos se evidencia una consolidación parenquimatosa pulmonar. En niños pequeños es frecuente el desarrollo de otitis media aguda como complicación del cuadro anterior (serosa en el 74 % de los casos). Un alto porcentaje de niños (30-50 %) que requieren ingreso como consecuencia de la infección por este virus tienen a largo plazo episodios de sibilancias recurrentes que pueden perdurar hasta la adolescencia.
+En adultos se desconoce la importancia que tiene la infección por VRS, si bien en los casos documentados la tasa de complicaciones es relativamente elevada: un 82 % de los pacientes desarrollan infección respiratoria baja, un 18 % ingresan en la Unidad de Cuidados Intensivos (UCI) y un 10 % fallecen. En la población adulta el diagnóstico de esta infección debe buscarse activamente mediante cultivo vírico de secreciones respiratorias.
+
+
+-- VIRUS DE LA PARAINFLUENZA
+
+Es un virus de la familia Paramyxoviridae. Son virus ARN con envuelta y un diámetro de 150 a 200 nm. Son miembros de dos géneros distintos dependiendo del tipo: respirovirus (tipos 1 y 3) y rubulavirus (tipos 2, 4A y 4B). Tiene una proteína espiculada que le permite unirse al ácido siálico de las células del tracto respiratorio superior (hemaglutinina-neuraminidasa). En niños, la infección por virus parainfluenza la produce más frecuentemente el tipo 3. La variabilidad estacional depende del serotipo: el tipo 3 es endémico durante todo el año con algún pico los meses de abril y mayo; los tipos 1 y 2 producen epidemias en otoño de crup laríngeo (el tipo 1 es el agente causal más frecuente de esta entidad, en el caso del tipo 2 la presentación es más leve); finalmente los tipos 4A y 4B no tienen una clara estacionalidad (producen una enfermedad leve).
+El espectro clínico de la infección por este virus es amplio, desde infección respiratoria alta hasta un cuadro clínico indistinguible de la bronquiolitis ocasionada por el VRS, siendo el segundo agente causal en frecuencia. Además, es el agente causal más frecuente del crup (laringotraqueítis) en niños. La clínica consiste en tos metálica, voz ronca y estridor laríngeo. En la radiografía es típico el signo del campanario a nivel laríngeo (imagen en punta de lápiz). El cuadro puede progresar a neumonía.

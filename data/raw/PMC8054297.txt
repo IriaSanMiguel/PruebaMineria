@@ -1,0 +1,36 @@
+CUESTIONARIO SCOFF EN ESPAÑOL Y GUARANÍ: UNA ALTERNATIVA DE PREVENCIÓN PRIMARIA EN PARAGUAY
+
+
+- OBJETIVOS
+
+La delgadez como estereotipo de belleza actual trae aparejado desorden de la imagen corporal y desequilibrio alimentario. Las mujeres reportan mayor insatisfacción con su cuerpo y, aunque los trastornos de la conducta alimentaria (TCA) son menos comunes en varones, revisten trazos similares.
+En los países desarrollados su prevalencia oscila entre 1 y 8%, siendo más frecuente la bulimia que la anorexia. Los pocos estudios sistematizados en América Latina apuntan a confirmar dichas cifras.
+Un estudio de 2005, en Asunción, sobre 208 estudiantes del nivel básico y medio, halló alto nivel de perfeccionismo en 68,24% de las mujeres, alto nivel de insatisfacción con la imagen corporal en 38,82% y 52,94% de obsesión por la delgadez, siendo todos factores predisponentes al desarrollo de TCA.
+El cuestionario SCOFF es un instrumento breve y sencillo, factible de ser administrado en instituciones sanitarias y educativas, con sensibilidad y especificidad adecuadas para cribar pacientes con TCA en población inglesa.
+Lo expresado sirve de base e interés para desarrollar los objetivos: i) traducir el cuestionario SCOFF al guaraní, para administrarlo en la lengua materna del evaluado; ii) verificar si el punto de corte específico del cuestionario original es aplicable a Paraguay.
+
+
+- MÉTODO
+
+El instrumento consta del cuestionario SCOFF, datos demográficos, educativos, personales (como talla y peso) para verificar objetivamente el cumplimiento del criterio A para anorexia nerviosa del DSM-IV: «rechazo a mantener el peso corporal igual o por encima del valor mínimo normal considerando la edad y la talla», que implica el aspecto cognitivo-emocional de una conducta manifiesta de restricción. El peso corporal se clasificó con relación al índice de masa corporal (IMC) y su percentil. La versión en guaraní fue consensuada por tres traductores independientes. El marco muestral surgió de la proyección de población 2000-2025 y de este la muestra aleatoria simple de 470 unidades, 30% hombres y 329 mujeres de 13-23 años.
+El estudio se considera transversal, retrospectivo, no experimental y descriptivo.
+Se estimó la confiabilidad con alfa de Cronbach; se describió la puntuación de la escala SCOFF y sus componentes; se comparó por grupo clínico, idioma, sexo, edad y actividad física aceptándose diferencias significativas con p < 0,05; como características diagnósticas se calcularon la sensibilidad, la especificidad y el área bajo la curva ROC (Receiver Operating Characteristic) con IC al 95%.
+
+
+- RESULTADOS
+
+El 82,6% contestó en español; la edad promedio fue 19,5 años (DE: 3,5 años); 90,2% estudiaba entre nivel básico y universidad y 62% realizaba actividad física.
+La escala SCOFF es sesgada por acumulación del 68% de los casos en los valores 0 y 1. El elemento 5 correlaciona significativamente con los restantes, el elemento 2 con el 1 y el 4, resultando una confiabilidad de 0,4.
+Hay mayor frecuencia de respuesta afirmativa en los elementos 2 (temor a la ingesta descontrolada 36,17%); 4 (alteración de la imagen corporal 34,26%) y 5 (la comida domina mi vida 23,62%) en general, los grupos no clínico y clínico, la versión en español, hombres, participantes que realizan actividad física, los de 18 o 20-23 años. En cambio, se invierte el orden de los primeros elementos en la versión guaraní, los de 13-17 o 19 años y quienes no realizan actividad física, pero 39,82% de las mujeres contestó ambos por igual.
+Hay diferencia significativamente mayor del grupo clínico (p < 0,01) en la escala SCOFF y sus elementos 1, 2, 4 y 5; de mujeres (p < 0,05) en la escala y los elementos 1, 2, 4; de los que no realizan actividad física (p < 0,01) en el elemento 4 y significativamente menor de los jóvenes con 13-17 años (p < 0,05) en la escala.
+De 64 participantes no clínicos y con IMC bajo, 12 dieron positivo al SCOFF. Agregados al grupo clínico, la ROC cubre un área de 0,86 (IC 95%: 0,81-0,91); el valor 1,5 puntos o mayor arroja sensibilidad 92,31% y especificidad 73,09%.Figura 1
+
+
+- CONCLUSIÓN
+
+La aplicación oral del SCOFF resultó fácil y rápida. La confiabilidad resultó aceptable. Como el área bajo la curva ROC es superior a 0,75, ambas versiones idiomáticas tienen capacidad diagnóstica. En el punto de corte dos o superior se logró muy buena sensibilidad, mayor al 90% como se espera en pruebas de cribado. La especificidad inferior a la esperada podría deberse a que los jóvenes se someten más a las dietas que los adultos. El cuestionario SCOFF (en español y guaraní) es un instrumento adecuado para cribar casos de TCA en el Paraguay.
+
+
+- CONFLICTO DE INTERESES
+
+La autora declara no tener ningún conflicto de intereses.

@@ -1,0 +1,157 @@
+EFECTOS DE MEDIANO PLAZO DE UN PROGRAMA DE INTERVENCIÓN PARA MADRES ADOLESCENTES
+
+
+- INTRODUCCIÓN
+
+Durante las últimas décadas se han invertido recursos importantes en programas para madres adolescentes y sus hijos/as, como la visita domiciliaria (VD). Las VD han mostrado impacto sobre la salud física y mental de la madre y el desarrollo de los niños/as. Sin embargo, ¿es este un efecto que se mantiene en el tiempo?
+Algunos autores, reportan que los efectos a corto plazo de las VD en adolescentes embarazadas son: mejoramiento de habilidades parentales y calidad del ambiente familiar; mejoramiento del bienestar materno (mayor percepción de apoyo social o mejor manejo de la depresión posparto), e impacto en la salud física y mental del niño/a y disminución de problemas conductuales.
+Los programas que utilizan VD tienen distintos focos de interés dependiendo de quién sea el prestador de los servicios. En general, cuando las VD son realizadas por profesionales, el foco ha sido el desarrollo infantil, en cambio cuando se ejecutan por paraprofesionales el foco ha estado puesto en la mujer como persona, , . En los primeros, se han comunicado mejores resultados.
+No todos los programas de VD mantienen sus efectos a mediano y/o largo plazo. Algunos efectos se mantienen solo para grupos específicos de mujeres y/o sus hijos/as y en áreas específicas del desarrollo infantil, como por ejemplo el lenguaje expresivo, , .
+En Chile, se evaluó el efecto de las VD en adolescentes embarazadas de sectores vulnerables de la ciudad de Santiago. Se encontró que entre los 12 a 15 meses de edad de los hijos/as, el grupo intervenido tuvo una mejor salud mental y nutricional materna y un mayor desarrollo del lenguaje en los hijos/as. Con estos antecedentes, el objetivo de este estudio fue evaluar, a mediano plazo, si estos efectos en madres e hijos/as se mantienen, y luego determinar si se presentan nuevos efectos en el curso vital de las madres, y en la relación madre-hijos/as. El propósito de este estudio es conseguir información sobre la mantención de efectos a mediano plazo en la población vulnerable de un país en desarrollo como es Chile.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+El presente estudio utilizó un diseño de seguimiento de 2 cohortes de la muestra de un estudio cuasi experimental.
+
+
+-- PARTICIPANTES
+
+Esta muestra corresponde a adolescentes embarazadas de 2 centros de salud del sistema público de Santiago de Chile. Los criterios de ingreso fueron: ser adolescentes primíparas y residir en barrios de extrema pobreza. Los criterios de exclusión fueron: tener más de 20 años, estar casada en el momento del primer control de salud prenatal, y presentar uno o más problemas crónicos de salud. Las adolescentes que cumplían estos criterios, y aceptaron voluntariamente incorporarse al estudio, fueron asignadas al azar a los grupos experimental o control.
+El tamaño mínimo de la muestra se estimó en 100 sujetos (50 intervenidos y 50 controles), estableciendo como criterio que el estudio fuera capaz de detectar diferencias de 0,5 (DE) entre ambos grupos, considerando una potencia de 0,07.
+La muestra inicial estuvo compuesta por 104 adolescentes. Entre los 12-15 meses de edad de los hijos/as, se evaluaron 90 madres y 79 hijos/as. La pérdida muestral entre ambas mediciones obedeció a: cambio de domicilio (11 madres, esto contempla cambio de domicilio o traslado a residir junto con la pareja), madres que no pudieron ser evaluadas, y solo una participante rechazó explícitamente formar parte de la intervención. El seguimiento se realizó a los 48 meses de edad de los niños/as, contactándose a 69 madres y 66 de sus hijos/as.
+
+
+-- PROCEDIMIENTO
+
+La intervención evaluada corresponde a un protocolo de VD realizadas a embarazadas adolescentes. El programa tuvo las metas de: a) fomentar en la joven el desarrollo de su identidad como mujer, adolescente y madre; b) incentivar la elaboración de su proyecto de vida; c) fortalecer sus competencias maternales; d) promover las prácticas y cuidados básicos de salud para la madre y el hijo/a, y e) fortalecer las relaciones de la madre adolescente con su entorno.
+Los 3 ejes centrales del programa de intervención fueron: la capacitación y supervisión permanente de las monitoras de salud; el uso de material educativo especialmente elaborado para la intervención, y las VD a las madres adolescentes.
+La VD se realizó en promedio una vez al mes, con una duración aproximada de una hora cronológica. A partir de la conversación de problemas cotidianos de la adolescente e inquietudes propias de su etapa del desarrollo, durante las visitas se revisaban los contenidos del programa. Los temas abordados por el manual son: a) adolescencia; b) identidad, autoestima y proyecto de vida; c) cuidado del cuerpo; d) el cuidado del niño y la niña; e) crecimiento del niño y la niña, y finalmente,, f) alternativas para solucionar problemas.
+La intervención completa tuvo una duración promedio de 12 meses. Una vez ingresadas las adolescentes al programa regular de los centros de salud, las del grupo experimental recibieron la primera VD durante el tercer trimestre de embarazo. El acompañamiento se realizó hasta que el hijo/a cumplió, como media, 9 meses de vida. Durante el estudio, las participantes recibieron 12 visitas en promedio.
+Las madres de la muestra del estudio cuasi experimental fueron contactadas telefónicamente, y luego en su domicilio, a través de una paraprofesional debidamente capacitada para el estudio a través de protocolos, solicitándoles su consentimiento informado para hacer el seguimiento. En el hogar se les aplicó una Encuesta de Bienestar Psicosocial y el Cuestionario de Salud de Goldberg (Goldberg's General Health Questionnaire).
+La evaluación de los niños/as y la observación de la relación madre-hijo/a fue realizada por psicólogos/as entrenados/as para ello. Dado que la madre se encontraba presente, el evaluador observó también cómo se comportaba e interactuaba con el niño/a y con ello completó una pauta de observación. A todas las evaluaciones realizadas se les hizo un control de calidad previo a su registro en una base de datos.
+
+
+-- INSTRUMENTOS
+
+Las variables de efecto de la intervención son:a)En la madre: salud mental (resultado primario), eventos vitales, actitudes asociadas al maltrato.b)En los niños/as: desarrollo de lenguaje y socioemocional.c)En la interacción madre-hijo/a: responsividad y hostilidad materna.
+
+
+--- EVALUACIÓN DE LAS MADRES
+
+---- SALUD MENTAL DE LAS MADRES
+
+Se utilizó el Goldberg's General Health Questionnaire de 12 ítems, cuya sensibilidad alcanza el 76%, especificidad de 73% y 26% de error en la clasificación. Puntuaciones elevadas indican deterioro de la salud mental.
+
+
+---- EVENTOS VITALES DE LA MUJER
+
+Respecto de los eventos vitales de la madre, se consultó específicamente sobre la cantidad de hijos/as nacidos en el periodo temporal comprendido entre los 12/15 meses y 48 meses de edad del hijo/a en estudio, estimándose así el intervalo intergestacional. Además, se midió la estabilidad de la relación de pareja con el padre de su primer hijo/a, al preguntar si este continuaba siendo su pareja (a los 48 meses de edad del niño/a). Estas preguntas fueron diseñadas específicamente para el presente estudio.
+
+
+---- ACTITUDES ASOCIADAS AL MALTRATO INFANTIL
+
+Se utilizaron 2 factores del Child Abuse Potential Inventory (CAP), los que corresponden a «Expectativas rígidas hacia los niños/as» y «Percepción del propio hijo/a como problemático». El instrumento presentó buena consistencia interna (0,98 y 0,95) y estructura factorial similar al instrumento original en inglés.
+
+
+--- EVALUACIÓN DE LOS NIÑOS/AS
+
+---- DESARROLLO DE LENGUAJE EN LOS NIÑOS/AS
+
+Se utilizó el instrumento Preschool Language Scale, tercera edición, que evalúa, mediante aplicación directa, el desarrollo del lenguaje comprensivo y expresivo en los niños/as entre 2 semanas y 6 años de edad. La prueba permite identificar a niños/as con desarrollo normal, en riesgo o retraso. La fiabilidad interna del instrumento varía entre 0,74 y 0,94 y suele ser menor a edades menores.
+
+
+---- DESARROLLO SOCIOEMOCIONAL DEL NIÑO/A
+
+Se utilizó la subescala personal/social del Inventario de Desarrollo Battelle. La medición se obtuvo mediante autorreporte materno; los resultados permiten identificar a niños/as con desarrollo normal o retraso.
+
+
+--- EVALUACIÓN DE LA INTERACCIÓN MADRE-HIJO/A
+
+Se evaluó la calidad de la interacción madre-hijo/a mediante una pauta de observación, diseñada por el equipo de investigación, basada en el Home Observation for the Measurement of the Environment (inventario HOME). La pauta permite evaluar el ambiente y contexto familiar que rodea al niño/a. Fueron incluidos ítems de las subescalas de «respuesta emocional y verbal de la madre», «evitación de restricción y castigo» y «compromiso materno con el niño/a». A través de un análisis factorial exploratorio (para datos dicotómicos) de los ítems y rotación Promax se obtuvo una solución plausible de 2 factores relacionados, denominados «responsividad» y «hostilidad materna».
+La responsividad abarca la conducta materna de inicio y mantención del contacto visual y verbal con el hijo/a, también la demostración de interés y afecto por el niño/a, mientras este desarrolla una actividad. El evaluador marcó la presencia/ausencia en 9 ítems. La fiabilidad de la escala fue adecuada (0,84). La hostilidad materna se refiere al enojo manifiesto y las críticas de la madre durante la interacción con el niño/a. El evaluador marcó la presencia/ausencia de 3 ítems. La fiabilidad de la escala alcanzada fue 0,54.
+
+
+-- ANÁLISIS DE DATOS
+
+Los datos fueron analizados utilizando estadística inferencial. Para establecer diferencia en los promedios, se utilizó la prueba de la t de Student para muestras independientes, comparando las mediciones en los grupos intervenido vs control (específicamente, en las mediciones de salud mental materna, intervalo intergestacional, actitudes de riesgo de maltrato infantil e interacción madre-hijo/a). Las diferencias en los porcentajes fueron estimadas con la prueba de diferencia de porcentajes (prueba Z) y ji al cuadrado (número de hijos nacidos). Se utilizaron contrastes de una cola según las hipótesis planteadas. Para estos efectos, se usó el paquete estadístico SPSS 17.0.
+
+
+- RESULTADOS
+
+Las características de ambos grupos comparados se muestran en la tabla 1.
+
+
+-- SALUD MENTAL MATERNA
+
+La salud mental de las madres se presenta en la tabla 2. No se encontraron diferencias estadísticamente significativas en la evaluación a los 48 meses, t(67) = −1,14, p = 0,13, entre los grupos experimental y control.
+
+
+-- EVENTOS VITALES MATERNOS: PAREJA E HIJOS/AS
+
+En el grupo experimental, un 75% de las mujeres (N = 31) continuó una relación de pareja con el padre de su primer hijo/a (nacido cuando ella era adolescente), mientras que en el grupo control (N = 26) solo un 58% (Z = 1,60, p = 0,055).
+En ambos grupos, la mayoría de las mujeres no han sido madres por segunda vez . No hubo diferencias significativas entre los grupos, en las proporciones de madres que tienen 1 versus 2 o más hijos/as nacidos/as (χ2 [1, N = 69] = 0,59, p = 0,44).
+Del conjunto de madres que han tenido más de un hijo/a, se estimó el intervalo inter-gestacional. En el grupo experimental, el tiempo promedio entre el primer y segundo hijo/a fue de 34,62 meses (DE = 11,57, N = 13); en el grupo control dicho intervalo fue de 36,30 meses (DE = 7,67, N = 9; t[20] = −0,38, p = 0,35), por lo que no hay diferencias entre los grupos.
+
+
+-- DESARROLLO DEL NIÑO/A
+
+La frecuencia de niños/as con desarrollo de lenguaje normal es similar en ambos grupos a los 48 meses (Z = 0,57, p = 0,28). Lo mismo sucede en desarrollo social (Z = 0,69, p = 0,27).
+
+
+-- ACTITUDES DE RIESGO DE MALTRATO INFANTIL
+
+Las actitudes maternas de riesgo de maltrato infantil son similares entre el grupo control y experimental a los 48 meses. No hubo diferencias significativas entre los grupos control y experimental en el nivel medio de expectativas rígidas hacia los niños/as, t(61) = 0,86, p = 0,20, ni en la percepción del propio hijo/a como problemático, t(67) = 0,26, p = 0,40.
+
+
+-- INTERACCIÓN MADRE-HIJO/A
+
+Finalmente, el estudio mostró que las interacciones madre-hijo/a a los 48 meses de edad son similares entre el grupo control y experimental, ya que no hubo diferencias estadísticamente significativas en el nivel de responsividad, t(63) = −0,40, p = 0,69, ni en hostilidad materna, t(64) = −0,41, p = 0,68.
+
+
+- DISCUSIÓN
+
+Las VD constituyen una estrategia eficaz para la promoción de la salud de madres adolescentes y sus hijos/as al corto plazo, , . Sin embargo, el seguimiento realizado a los 48 meses en este estudio mostró que los efectos encontrados no se mantuvieron en el tiempo, lo que ha sido reportado en otros estudios, en contextos sociales diferentes, , .
+Las causas de la falta de estabilidad de los efectos pueden ser organizadas en torno a 3 ejes: las características del grupo objetivo; las características del programa mismo, y las características metodológicas de las evaluaciones de los programas, .
+
+
+-- ¿PARA QUÉ TIPO DE USUARIAS/OS LAS VISITAS DOMICILIARIAS PUEDEN SER EFECTIVAS A MEDIANO PLAZO
+
+En relación con el primer eje se ha planteado que, en familias de gran vulnerabilidad, las VD deberían durar al menos 2 años, prolongándose hasta los 5 años para mantener los efectos a mediano plazo. Los metaanálisis en VD realizados por Elkan et al. y Sweet y Appelbaum reportan que, de acuerdo al nivel de riesgo de las familias y los objetivos de estas, los resultados son diferenciales a mediano plazo, siendo en poblaciones de menor riesgo, mayor la estabilidad.
+Así por ejemplo, resulta más complejo obtener resultados, a mediano plazo, cuando las madres y sus hijos/as viven en condiciones de alta precariedad social, lo que hace que una intervención específica como la VD no sea suficiente para contrarrestar todos los efectos nocivos a que está expuesta la familia.
+Al mismo tiempo, Strasser plantea que las características de las madres también podrían contribuir a explicar el éxito o fracaso de las intervenciones a mediano plazo, incluyéndose en estas variables el nivel educacional y la edad. Por ejemplo, se ha mencionado que dado que existe un mayor riesgo cuando las madres son adolescentes, , se requerirían otras intervenciones adicionales para contrarrestar los efectos a largo plazo.
+Otra línea explicativa para entender la no mantención de los resultados a los 48 meses se relaciona con los estresores contextuales o procesos familiares que viven las personas que participan del programa. Se ha planteado que el apoyo social modera las respuestas ante el estrés y favorece una actitud positiva frente a las necesidades del niño/a, . Por tanto, interrumpir la intervención después del año de vida de los niños/as, en el caso de la presente investigación, podría explicar la falta de efectos a mediano plazo.
+
+
+-- CARACTERÍSTICAS DEL PROGRAMA DE VISITA
+
+El nivel de intensidad óptima de las intervenciones ha sido un tema muy estudiado. La mayoría de los programas de VD que han mostrado efectos importantes y duraderos han sido muy intensos. Sin embargo, este tema también está abierto a discusión. McNaughton comunica que aún no hay consenso en la dosis requerida para mantener resultados a mediano plazo. Lo anterior implicaría evaluar modelos y dosis en función de temáticas específicas (op. cit.). Al respecto, y a fin de evaluar programas específicos, Gurung recomienda no solo incluir el grupo experimental y de control, sino además grupos de intensidades intermedias para poder estudiar cuál es la condición óptima para que el programa sea efectivo. Esta alternativa debería ser considerada en nuevos estudios.
+Existe controversia sobre el significado de un efecto inmediato que luego desaparece en el tiempo. Este desvanecimiento podría reflejar no una falta de eficacia de la intervención, sino más bien el efecto sostenido de otros estímulos negativos después de que esta termina. Esto puede suceder cuando las madres egresan de una intervención y se insertan en ambientes pobres. Acerca de este tema, Ramey y Ramey han propuesto el principio de la continuidad del apoyo educativo. Este principio propone que los efectos de una intervención disminuyen con el paso del tiempo si no existen apoyos educativos que mantengan las actitudes y conductas aprendidas.
+
+
+-- ASPECTOS METODOLÓGICOS DE LAS EVALUACIONES
+
+Un aspecto que puede producir errores en la interpretación de los resultados de los estudios son las características del muestreo. Gurung plantea que si la muestra es heterogénea —en variables que podrían interactuar con la intervención— al solo considerar el promedio se pueden ocultar efectos significativos. Si bien este estudio controló las características demográficas de las participantes, no consideró distintos niveles de riesgo de estas. Por otra parte, el seguimiento a 3 años postintervención dificultó el acceso a las jóvenes, obteniéndose una muestra reducida que impidió realizar análisis de subgrupos específicos.
+Otro aspecto que se debe considerar es la previsión de la mortalidad experimental a mediano plazo. En este caso, el diseño experimental original no contemplaba este seguimiento. Little, citado en Ahern y Le Brocque, señala que todos los estudios tienen algún grado de deserción, y que este se incrementa en estudios longitudinales, y en estudios clínicos de medidas repetidas. Por lo tanto, las muestras deberían ser lo suficientemente grandes para soportar la pérdida de sujetos, de modo que conserve la potencia para detectar los efectos de la intervención, .
+Las limitaciones más relevantes del estudio se relacionan con las características de la muestra. Tal como se ha señalado previamente, no hubo control del nivel de riesgo de las mujeres que ingresaron en el estudio, la muestra fue reducida para un seguimiento de 3 años y fue necesario emplear distintos instrumentos de medición para evaluar el desarrollo infantil.
+
+
+- CONCLUSIÓN
+
+Teniendo en consideración que la VD es una estrategia, como también una intervención propiamente, un primer desafío para poder conocer los efectos a mediano plazo se relacionan con el modelo que hay detrás de la VD. Es por ello que hay que considerar cuidadosamente en futuros estudios la elección de los resultados esperables tanto en el niño/a como en la madre (en distintos momentos del desarrollo) considerando el modelo de la VD empleada. Por otra parte, es necesario tener en cuenta factores como: el tipo de riesgo de las madres, la utilización de los mismos instrumentos de evaluación durante todo el estudio, y la inclusión de una muestra que permita extraer conclusiones significativas y soportar las pérdidas, entre otros.
+Es importante destacar el hecho de que realizar estudios de seguimiento en VD es un gran desafío en países como Chile, que dispone de recursos económicos limitados para llevar a cabo investigaciones con muestras amplias que permitan el análisis de subgrupos y consideren diferencias entre grupos de visitadores, , .
+A pesar de lo anterior, los aprendizajes logrados en este estudio arrojan luz para países con características similares, vale decir, cuyas poblaciones sean comparables en cuanto a nivel socioeconómico. En países en vía de desarrollo, el recurso monitora comunitaria podría ser una gran alternativa en materias de salud materno-infantil.
+Surgen muchas líneas de investigación a partir de este estudio. Entre ellas, la pregunta sobre la dosis óptima de visitas para riesgo moderado versus alto; diferencias en la efectividad de los profesionales y los no profesionales en materia de salud materno-infantil para América Latina, y el rol que tiene el modelo de salud en la incorporación de la VD como estrategia e intervención complementaria para países con vulnerabilidad social significativa.
+Mayores detalles del programa de intervención y sus resultados a corto plazo se pueden encontrar en Aracena et al..Lo conocido sobre el tema:•Las visitas domiciliarias aportan a un equilibrio en la salud mental materna a los 12-15 meses de edad del niño/a.•Las visitas domiciliarias mejoran el lenguaje del niño/a a los 12-15 meses de edad del niño/a.•Las visitas domiciliarias aportan al mantenimiento de la relación de pareja de los padres de un niño/a, a los 12-15 meses de edad.Lo que aporta este estudio:•Los efectos positivos de la visita domiciliaria en la familia, a los 12-15 meses del niño/a, en general no se mantienen a los 48 meses de este.•Uno de los efectos que sí se mantiene es el aporte de la visita domiciliaria a la estabilidad de la pareja de padres del niño/a, a sus 48 meses.
+
+
+- FINANCIACIÓN
+
+Fondo Nacional de Ciencias y Tecnología, FONDECYT.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

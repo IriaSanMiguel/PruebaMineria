@@ -1,0 +1,6 @@
+La apendicitis aguda (AA) es una de las principales causas de abdomen agudo. Un retraso en su diagnóstico y tratamiento elevan la morbimortalidad.
+82 casos de enero a mayo de 2017. El 80.8% de los casos con peritonitis generalizada presentaron un INL > 12 (p = 0.002). El 66% de los casos con perforación apendicular presentaban un INL > 12 (p = 0.024). El 70% de los casos graves por BT mostraron un INL > 12 (p = 0.004). El 75% de los casos graves por PCT presentaban un INL > 12 (p = 0.006). El 50% de los casos con SOFA > 6 mostraron un INL > 12 (U de Mann-Whitney, p = 0.023).
+Evaluar el índice de neutrófilos/linfocitos (INL), la escala SOFA (Sequential Organ Failure Assessment), la procalcitonina (PCT) y la bilirrubina total (BT), y ver si existe relación como determinantes de la gravedad de la AA.
+Estudio retrospectivo, observacional, para comparar el INL contra biomarcadores (PCT, BT) y contra escalas de gravedad (APACHE II [Acute Physiology and Chronic Health Evaluation] y SOFA) y quirúrgica (Mannheim).
+Existe una relación entre el INL tanto con SOFA, BT y PCT, lo cual indica que un INL > 12 puntos podría estar relacionado con peritonitis generalizada y apendicitis perforada.
+

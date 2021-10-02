@@ -1,0 +1,21 @@
+CONTROL DEL ASMA DESDE LA ATENCIÓN PRIMARIA CON UN ENFOQUE DE GÉNERO Y FAMILIA<SUP
+
+
+Cuando se han tomado las medidas de saneamiento ambiental, y a pesar de la buena adherencia terapéutica al mejor tratamiento disponible, continúa el asma fuera de control debe explorarse la dinámica familiar. Este estudio se hizo con el objetivo de evaluar el nivel de control del asma respecto a percepción de la dinámica familiar y la respuesta a salbutamol entre varones y mujeres con asma. Se incluyeron adultos entre 14 y 80 años de edad, de sexo indistinto y con diagnóstico confirmado de asma en una clínica universitaria. No se incluyeron pacientes con otras enfermedades crónicas. El tamaño de la muestra se calculó para población finita, con la fórmula:n=N×Za2×p×qd2×(N−1)+Za2× p×q 
+Se partió de 239 pacientes y de un error de estimación del 10%. Participaron en el estudio 115 pacientes con una edad media de 41,35 ± 19,2 años de edad. Los pacientes se asignaron a 4 grupos, asma no controlado mujeres, asma controlado mujeres, asma no controlado varones y asma controlado varones. No hubo diferencias en cuanto a edad entre los grupos (mujeres p = 0,582 y varones p = 0,583). Se realizaron espirometrías antes y después del uso de 2 disparos de 100 g de una suspensión de 0,1176 g de salbutamol. El nivel de control del asma se midió con el cuestionario asthma control test y se clasificaron como asma controlada a aquellos pacientes con puntajes 20-25 y asma no controlada con puntajes menores. Se midió la dinámica familiar con la prueba de percepción del funcionamiento familiar FF-SIL, previamente validada con alfa de Cronbach = 0,937. En esta prueba se evalúan las siguientes áreas: cohesión, roles, armonía, comunicación, afectividad, permeabilidad y adaptabilidad (tabla 1).
+Los pacientes con asma controlado tendieron a percibir un mejor funcionamiento familiar que aquellos con asma no controlada en todas las áreas evaluadas excepto mujeres con asma no controlado que mostraron mayores puntajes en afectividad que aquellas con asma controlado, aunque en ninguno de los casos las diferencias fueron estadísticamente significativas excepto en cohesión que resultó mayor en mujeres con asma controlado que en aquellas con asma no controlado (p = 0,011). Las mujeres con asma controlada tuvieron mejor percepción del funcionamiento familiar que los varones con asma controlada (p = 0,013). La adaptabilidad y la permeabilidad fueron mayores en mujeres que en varones 7,98 ± 1,33 versus 7,49 ± 1.25 (p = 0,043) y 7,50 ± 1,65 versus 6,75 ± 2,11 (p = 0,039), respectivamente.
+La variabilidad entre el VEF1 y en la relación VEF1/CVF antes y después del uso de salbutamol fueron útiles para detectar diferencias entre asma controlado y no controlado para ambos sexos, pero el VEF1 fue el indicador más sensible para detectar diferencias entre varones con asma controlado y no controlado (p < 0,001) y la relación VEF1/CVF fue el indicador más sensible para detectar diferencias entre mujeres con asma controlado y no controlado p = 0,001.
+Se ha propuesto que las mujeres con asma tienden a tener mayor percepción de la disnea que los varones, y experimentar en forma más notoria que estos los cambios en la calidad de vida, lo cual se ha asociado a mayor impacto del componente subjetivo de la enfermedad que en los varones. Lograr estas mayores puntajes en adaptabilidad y permeabilidad que los varones significa que perciben más que los varones el cambio en las estructuras de poder de la familia y en las relaciones intrafamiliares producidos por la enfermedad y que son más capaces para brindar y recibir apoyo externo que los varones. Aspectos como la distribución de la autoridad en la pareja, el empoderamiento de la mujer y el mayor uso por estas de redes de apoyo continúan moviendo los cimientos del comportamiento psicosomático clásico de las familias latinas con un miembro con asma, .
+
+
+- AUTORÍA
+
+Rocío Elizabeth Duarte Ayala: diseño, base de datos y análisis de datos.
+Alain Raimundo Rodríguez-Orozco: diseño, asesoría metodológica, redacción del artículo y análisis de datos.
+Humberto Ruiz Vega†: diseño, asesoría metodológica y estadística.
+José Jesús Alejandre García: revisión de pacientes y asesoría en la clínica universitaria.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.

@@ -1,0 +1,23 @@
+VACUNAS COVID-19 E INFECCIÓN POR HERPES
+
+
+Sr. Editor:
+Actualmente en España se encuentran comercializadas cuatro vacunas: Comirnaty (BioNTech/Pfizer), COVID-19 Vaccine Moderna, Vaxzevria (AstraZeneca) y COVID-19 Vaccine Janssen. Las vacunas de Pfizer y Moderna utilizan tecnología RNAm, mientras que las de AstraZeneca y Janssen son de vector adenovirus.
+Hasta la fecha, se han descrito numerosas reacciones adversas, la gran mayoría de las cuales son de carácter leve (fiebre, cefalea, mialgias, dolor en el punto de inyección, etc.) y autolimitadas en el tiempo. La trombocitopenia inmune es el efecto adverso más grave de los descritos, con una incidencia muy baja, aunque las consecuencias pueden ser fatales. Esta reacción adversa ha sido la responsable de que se suspendieran temporalmente las campañas de vacunación. El posible mecanismo de esta trombocitopenia no está claro, aunque se ha postulado un posible mecanismo autoinmune frente al factor plaquetario 4, similar al de la trombocitopenia inducida por heparina, .
+Revisando los informes de farmacovigilancia de la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS), hasta el mes de abril no se refleja ningún caso de enfermedad por herpes tras la vacunación con alguna de estas tres vacunas que han sido utilizadas (Pfizer, Moderna y AstraZeneca). De los casos descritos en esta carta, cuatro han sido notificados a https://www.notificaram.es y tres por el tradicional método de la tarjeta amarilla (el resto se encuentran pendiente de notificación).
+En esta carta se describen 29 casos de infección por herpes virus en pacientes recientemente vacunados con la vacuna Comirnaty y COVID-19 Vaccine Moderna en la Gerencia de Atención Integrada (GAI) de Albacete. Este dato supone una incidencia de 0,836 casos por cada 1.000 personas vacunadas. El 55% de los casos se han visto en mujeres y la edad media de los pacientes ha sido de 66 años (34-95 años). En 15 pacientes, los síntomas aparecieron tras la primera dosis de vacuna (8,7 días de media) y en 14 pacientes aparecieron tras la segunda dosis de vacuna (24,7 días de medía tras la segunda dosis). La localización de las lesiones es la siguiente: 13 pacientes presentaron herpes zóster en la región torácica, ocho en la zona abdominal, tres herpes zóster en primera rama del trigémino con afectación ocular, dos queratitis herpéticas y un caso en cada una de las siguientes localizaciones, glúteo, pierna en dermatosoma S1 y pelvis dermatosoma L1.
+En uno de los casos de queratitis herpética, tras tratamiento con valaciclovir, y tras notable mejoría, se produjo un empeoramiento importante tras la administración de la segunda dosis de la vacuna. Este paciente se encontraba en tratamiento con un inhibidor de la interleuquina 17A, secukinumab.
+En esta GAI se habían vacunado hasta la fecha del estudio 34.672 personas, de las cuales, el 93,1% de los pacientes que han desarrollado herpes han sido vacunados con la vacuna Comirnaty y el 6,1% con la COVID-19 Vaccine Moderna. Este resultado es acorde con los datos de vacunación, ya que el 85,6% de la población de esta área de salud ha sido vacunado con Comirnaty, el 3,1% con Moderna y el 11,3% con AstraZeneca. A la vista de estos resultados, no parece que el desarrollo de infección por herpes esté relacionado específicamente con una de las vacunas utilizadas, aunque es de resaltar que no se ha encontrado ningún paciente vacunado con AstraZeneca.
+Nuestros datos están en concordancia con una serie de casos recientemente publicada en Israel, con seis pacientes que desarrollaron herpes tras la vacunación con Comirnaty, aunque su estudio está realizado únicamente con pacientes reumatológicos.
+Es bien conocido que las situaciones de inmunosupresión pueden favorecer la reactivación del herpes, aunque este mecanismo no parece el producido por la vacuna frente a la COVID-19. La reactivación pudiera estar relacionada con el proceso inflamatorio que se desarrolla tras la vacunación.
+Son pocos pacientes, y este hecho tendrá que ser confirmado con una serie más amplia de casos, pero esta carta pretende ser un toque de atención para que todos los profesionales sanitarios permanezcan atentos a cualquier reacción adversa que pueda producirse (aunque solo sea una sospecha) y que muestre una relación causal y temporal con la administración de la vacuna. Estos resultados preliminares se complementarán con un seguimiento hasta que finalice la campaña de vacunación, especialmente la implicación o no, de la vacuna Vaxzevria en la aparición de este evento adverso.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,5 @@
+La Encuesta Nacional de Salud Pública y Nutrición 2018-19 evaluó el DIT mediante el Índice de Desarrollo Infantil Temprano (ECDI) y el nivel de desarrollo de lenguaje. Se estimaron modelos multivariados de acuerdo con la variable de resultado, usando modelos de regresión logística o lineal.
+Estimar el nivel de desarrollo infantil temprano (DIT) y sus factores asociados en población mexicana de 19 a 59 meses.
+Los niños/as de hogares con mayor nivel socioeconómico y que cuentan con libros infantiles en el hogar tienen mayores posibilidades de DIT adecuado, mientras que los/as niños/as educados con métodos de disciplina violenta tienen menores posibilidades. Además,los niños/as residentes de áreas rurales, hijos/as de madres con mayor escolaridad, sin desnutrición y con oportunidades de aprendizaje tienen un mayor puntaje de lenguaje.
+Las políticas públicas encaminadas a mejorar el desarrollo en la primera infancia deben tomar en cuenta los factores modificables asociados.
+

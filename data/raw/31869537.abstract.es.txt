@@ -1,0 +1,5 @@
+En México prevalecen desigualdades en acceso a servicios de salud para la población en condiciones de pobreza. Es necesario desarrollar intervenciones públicas con mayor granularidad para incidir de forma efectiva en la desigualdad.
+Estimar la desigualdad en acceso a servicios de salud en poblaciones de localidades menores de 100 000 habitantes en México.
+Análisis de la Encuesta Nacional de Salud y Nutrición 100k 2018. Se estimó el acceso con base en la afiliación a un esquema de aseguramiento (acceso potencial) y la atención para el más reciente problema de salud (acceso a atención) mediante el índice de concentración, utilizando una imputación del ingreso per cápita.
+La afiliación a algún esquema de ase- guramiento en salud fue de 82.42% y el acceso a atención de 60.03%. Se identificaron desigualdades en ambos indicadores, marginales para acceso potencial y con mayor concentración entre la población de menor ingreso; para acceso a atención se encontró desigualdad con mayor concentración entre la población de mayor ingreso.
+

@@ -1,0 +1,5 @@
+Analizar la prevalencia de uso de métodos anticonceptivos (MAC) modernos en adolescentes de 12 a19 años en 2012 y 2018-19, y factores asociados con su uso consistente.
+El uso de ARAP en la última relación se incrementó entre encuestas (4.1 a 6.3%). Tener mayor edad, no embarazo y asistencia escolar incrementaron la posibilidad de uso consistente en mujeres; en hombres, la asistencia escolar la incrementó, y vivir en unión, inicio temprano de vida sexual y consumir >100 cigarrillos la disminuyeron.
+Es necesario fomentar el acceso y uso de MAC de manera consistente, basado en el respeto a los derechos sexuales y reproductivos.
+A partir de las Encuestas Nacionales de Salud y Nutrición 2012 y 2018-19, se construyeron variables de interés: uso de anticonceptivos reversibles de acción prolongada (ARAP), protección dual y uso consistente de MAC. Se calcularon prevalencias y modelos logísticos para uso consistente de MAC.
+

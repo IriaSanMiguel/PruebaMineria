@@ -1,0 +1,77 @@
+ACTITUDES DE MÉDICOS Y ENFERMERAS ANTE LAS ACTIVIDADES PREVENTIVAS Y DE PROMOCIÓN EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En los últimos años, en los países con altos ingresos per cápita se ha conseguido un incremento muy notable de la esperanza de vida, pero esta prolongación se ha hecho fundamentalmente aumentando los años de vida con peor calidad y alta prevalencia de problemas de salud crónicos. Además, en estos países las principales causas de muerte están relacionadas con inadecuados estilos de vida y otros factores de riesgo cardiovascular, , . Sin duda, esta situación representa uno de los principales retos a los que tienen que hacer frente los sistemas sanitarios.
+Los profesionales de atención primaria disponen de intervenciones preventivas y de promoción de salud (PPS) efectivas para disminuir la morbimortalidad de las causas de muerte anteriormente mencionadas, . No obstante, existen situaciones paradójicas, como el caso del tabaquismo, en el que, a pesar de que los profesionales disponen de intervenciones efectivas para disminuir el consumo, su aplicación es escasa. Parece existir una separación importante entre las recomendaciones sobre PPS que ofrecen los resultados de la investigación y el comportamiento de los profesionales en la práctica clínica, , incluso de los que están en formación.
+Para explicar las intenciones de comportamiento y la conducta de los profesionales de la salud, la teoría de la conducta planificada (TCP) se considera una de las más adecuadas, , . De acuerdo con ella, la intención de conducta se explica por 3 factores: a) actitudes, que hacen referencia a la evaluación general del comportamiento y están determinadas por las creencias acerca de ese comportamiento y las percepciones sobre las consecuencias de la conducta; b) norma subjetiva, que se refiere a la aprobación social percibida sobre ese comportamiento y está determinada por las expectativas con respecto a si los grupos de referencia importantes aprobarían esa conducta, y c) control conductual percibido, que se refiere a la confianza que se tiene acerca de la propia capacidad para llevar a cabo una conducta específica y está determinado por la percepción de oportunidades, barreras y recursos necesarios para hacerlo.
+Distintos autores consideran las actitudes de los profesionales sanitarios de atención primaria como uno de los factores determinantes que pueden facilitar u obstaculizar la realización de actividades de PPS. A pesar de ello, se sabe poco sobre las actitudes que estos profesionales tienen ante la PPS y las variables que pueden afectarlas. Por tanto, conocerlas es un aspecto decisivo si pretendemos reducir la distancia entre las recomendaciones clínicas basadas en la evidencia y su aplicación por los profesionales sanitarios de atención primaria. A partir de estos datos y de su interpretación, desde la TCP mejoraremos nuestra comprensión de los factores que determinan el comportamiento de estos profesionales y se podrán definir intervenciones que ayuden a modificarlo.
+Por ello, el objetivo principal del presente estudio fue conocer la actitud de los profesionales de medicina y enfermería del sistema sanitario público andaluz ante las intervenciones preventivas y de promoción de salud en el contexto de la atención primaria. También, nos propusimos estudiar la relación entre dicha actitud y distintas variables sociolaborales (categoría profesional, ubicación del centro de trabajo y situación laboral), así como las competencias autodeclaradas en PPS.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Se diseñó un estudio multicéntrico, observacional, descriptivo transversal.
+
+
+-- ÁMBITO Y POBLACIÓN DE ESTUDIO
+
+Se incluyeron los 282 profesionales (médicos y enfermeras) que habían participado en la validación del cuestionario sobre las actitudes ante PPS en atención primaria (CAPPAP). Dichos profesionales trabajaban en atención primaria y pertenecían al Servicio Andaluz de Salud (SAS).
+Los criterios de inclusión fueron estar desarrollando labor asistencial en atención primaria en el momento de la recogida de datos, pertenecer a la categoría profesional de medicina o enfermería, y aceptar participar en la investigación.
+
+
+-- TAMAÑO DE LA MUESTRA Y TIPO DE MUESTREO
+
+Se calculó el tamaño de la muestra necesario para estimar una media en una población infinita, ya que el número de médicos y enfermeras de atención primaria en el SAS en el año 2010 era de 10.913. Así, con una potencia del 80%, para un nivel de confianza del 95%, suponiendo un valor de desviación estándar en la población igual a 0,75 y una precisión de la estimación de ± 0,09, se determinó que era necesaria una muestra de 267 profesionales. Se realizó un muestreo por conveniencia, en el que se incluyeron todas las provincias andaluzas.
+
+
+-- VARIABLES DEL ESTUDIO
+
+
+
+
+-- PROCESO DE RECOGIDA DE DATOS
+
+El trabajo de campo se realizó entre abril y junio de 2010. El cuaderno de recogida de datos incluía una explicación de los objetivos y fines del estudio y aseguraba el anonimato, la confidencialidad y el resto de garantías éticas. Fue remitido a un responsable en cada distrito sanitario, que lo distribuía entre los profesionales para que lo cumplimentasen de forma voluntaria.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Para el análisis descriptivo se utilizaron porcentajes, medias y desviaciones típicas. Para el análisis bivariado se aplicó la prueba χ2 y el test de Fisher para comparar proporciones, y las pruebas t de Student y ANOVA (o las pruebas no paramétricas Kruskall-Wallis y U de Mann Whitney cuando no se cumplían los criterios de aplicación) para el contraste de medias. Se calculó la Rho de Spearman para analizar la relación entre variables cuantitativas. Los análisis estadísticos se realizaron con el paquete estadístico SPSS v. 21.0.
+
+
+- RESULTADOS
+
+Se obtuvieron 282 cuestionarios válidos de 22 centros de salud de las 8 provincias andaluzas. Las provincias en las que se obtuvo mayor número de cuestionarios son Málaga, Jaén y Córdoba, representando un 78% del total . Las variables sociolaborales y la respuesta a las competencias autodeclaradas en PPS de los profesionales encuestados se muestran en la tabla 2.
+En la tabla 3 se muestra la puntuación media obtenida de cada una de las dimensiones del cuestionario. Se puede observar que todas ellas superan el valor medio de la escala, oscilando sus valores entre 3,06 (DT: 0,76) en la dimensión «Necesidad de mejora en la realización de las actividades en el centro» y 4,39 (DT: 0,49) en la dimensión «Importancia concedida a las actividades de PPS». En la tabla 4 se muestran los 2 ítems con las puntuaciones más altas y más bajas de cada dimensión.
+En la tabla 5 se muestran las variables sociolaborales y de competencias autodeclaradas que presentan una relación estadísticamente significativa con las variables categoría profesional, ubicación del centro y situación laboral, mostrando 6 perfiles profesionales diferentes: según la categoría profesional, médicos y enfermeras; según la ubicación del centro de trabajo, profesionales de centros urbanos y centros rurales; y según la situación laboral, profesionales estatutarios y eventuales.
+Con respecto a la relación entre las actitudes de los profesionales y las variables sociolaborales y de competencias autodeclaradas, se observan asociaciones estadísticamente significativas en todas ellas, a excepción de los años de experiencia en atención primaria, la formación en PPS y en la realización de PPS planificadas .
+
+
+- DISCUSIÓN
+
+Los profesionales encuestados tienen una actitud favorable ante las actividades de PPS. En términos generales conceden importancia a este tipo de actividades, aprecian una actitud favorable en el resto de compañeros, perciben que la necesidad de mejora en sus centros es moderada, y a su vez consideran que hay oportunidades de mejora. Finalmente, perciben una existencia moderada de barreras y obstáculos para la realización de estas actividades.
+Las principales barreras percibidas son la carga de trabajo adicional y el tiempo que requieren su realización, resultados similares a los de otros estudios, , y que podrían explicarse por la separación entre el sistema asistencial y las actividades de PPS, más cercanas a los servicios de salud pública, y percibidas por el profesional como un trabajo «extra». En un estudio que obtuvo hallazgos diferentes se señalaba que los médicos perciben más barreras para la realización de actividades preventivas que las enfermeras, lo que podría explicarse por tratarse de contextos sanitarios distintos donde los roles de médicos y enfermeras pueden ser diferentes. Podría ocurrir que los médicos perciban más necesidad de mejora, y a su vez más barreras, si estos tienen más responsabilidades y deben realizar intervenciones más complejas que las enfermeras.
+El aspecto peor puntuado en la dimensión oportunidad se refiere a que «los pacientes quieren que se les den servicios de PPS». En este sentido, hay autores, que indican que los pacientes se resisten a cambiar sus comportamientos y esperan una prescripción en lugar de un consejo, e incluso algunos, , señalan que más de la mitad de los médicos se sienten escépticos frente a la capacidad de ayudar a sus pacientes a mantener algunos estilos de vida saludables.
+El estudio de la asociación entre la actitud y las variables sociolaborales y las competencias autodeclaradas no ha mostrado grandes diferencias. Aun así, podemos hacer apreciaciones de interés que pueden ayudar a entender ciertas conductas ante las actividades de PPS y, por otra parte, servir en la planificación de estrategias dirigidas a mejorar la implementación de estas actividades. Los hallazgos muestran que las enfermeras son quienes perciben más oportunidades para mejorar y a su vez más necesidad de mejora y más barreras, y ello a pesar de que realizan más formación y más actividades de PPS. Es posible que la explicación se deba a que enfermeras con mucha experiencia en atención hospitalaria vayan a atención primaria con poca experiencia y formación en PPS, lo que podría influir en los resultados y las señalaría como un colectivo al que dirigir intervenciones específicas.
+Por otra parte, se observa claramente un perfil profesional que tiene una percepción más favorable de la actitud de los compañeros hacia actividades de PPS y percibe mayores oportunidades de mejora. Corresponde a una profesional de sexo femenino, entorno rural, que obtuvo la titulación hace menos de 5 años y con poca experiencia profesional. Este patrón tiene una alta concordancia con el perfil profesional que trabaja en el entorno rural (a excepción de la variable sexo) y con profesionales con contratos eventuales, que representan perfiles especialmente sensibles y que podrían actuar como agentes de cambio para la mejora.
+Reconociendo la TCP como un marco conceptual adecuado para explicar el comportamiento de los profesionales, a partir de nuestros resultados podemos señalar que el componente actitudes se encuentra en un nivel aceptable. Las intervenciones para disminuir la brecha existente entre las recomendaciones basadas en la evidencia y el comportamiento de los profesionales deberían focalizarse en mantener estas actitudes y mejorar los 2 elementos restantes de la TCP: la norma subjetiva y el control conductual percibido.
+Dentro de la norma subjetiva, sería interesante realizar cambios en la cultura organizacional para que la propia organización sanitaria promueva estas actividades; así como dar un apoyo sistemático y realizar auditorías y retroalimentación, con la finalidad de que exista una presión entre iguales, así como la aprobación por parte de los compañeros de trabajo, ya que la institución legitima el valor de estas actividades.
+Con respecto al control conductual percibido, sería interesante realizar formación y reuniones educativas para que los profesionales adquieran la suficiente habilidad para llevarlas a cabo. También, para reducir las barreras, se deberían ofrecer incentivos y recordatorios computarizados a los profesionales, así como realizar cambios en la cultura organizacional que fomenten oportunidades para realizar este tipo de actividades. Por último, sería interesante realizar formación, reuniones educativas, auditorías y retroalimentación para que los profesionales tengan el conocimiento acerca del qué, cuándo y dónde deben realizar este tipo de intervenciones.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+Aunque el tamaño muestral es suficiente para unas adecuadas precisión y potencia estadísticas, la muestra no es aleatoria. Además, el sistema de recogida de datos no ha permitido conocer la tasa de respuesta, ya que desconocemos el número total de profesionales contactados.
+Con respecto a las variables edad y sexo, la distribución de las mismas en la muestra estudiada se aproxima bastante a la de la población de estudio (edad media: 42,3 vs 47 años) (sexo masculino: 59% vs 53%), por lo que pensamos que los resultados obtenidos, con cierta prudencia, pueden ser extrapolables. No obstante, se sugieren investigaciones con muestras aleatorizadas por estratos con los perfiles obtenidos .
+Otra limitación, habitual de este tipo de estudios, es que quienes han respondido voluntariamente pueden tener una actitud más favorable, y además las actividades de PPS poseen una alta deseabilidad social, por lo que los resultados pueden estar sobreestimados.
+Finalmente, debido a la escasez de literatura identificada acerca del tema estudiado, existe una débil triangulación y comparación de los resultados obtenidos en esta investigación con otros que pudieran existir, de manera que solamente se han podido comparar aspectos relacionados con las barreras y las oportunidades.
+Podemos concluir que las actitudes de los profesionales ante las actividades de PPS son aceptables y se debe trabajar en su mantenimiento. Las organizaciones sanitarias deberían implementar intervenciones adaptadas a los distintos perfiles identificados, como los profesionales de enfermería de más edad y los de sexo femenino que trabajan en el entorno rural con un contrato eventual. Así mismo deberían planificar intervenciones destinadas a poner en valor las actividades de PPS, así como a mejorar la pericia y la seguridad del profesional a la hora de llevarlas a cabo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.Lo conocido sobre el tema-La teoría de la conducta planificada (TCP) se considera adecuada para explicar los comportamientos de los profesionales de la salud.-Las actitudes, además de ser parte integrante de la TCP, pueden facilitar u obstaculizar la realización de actividades promotoras de salud.-Se conoce poco acerca de las actitudes de profesionales de medicina y enfermería de atención primaria ante las actividades preventivas y de promoción de la salud.Qué aporta este estudio-Las actitudes de profesionales de medicina y enfermería ante las actividades preventivas y de promoción son aceptables.-Las organizaciones sanitarias deberían implementar intervenciones adaptadas a los profesionales de enfermería de más edad y a profesionales de sexo femenino que trabajan en el entorno rural con un contrato eventual.-Las organizaciones deberían planificar intervenciones destinadas a poner en valor las actividades preventivas y de promoción, así como a mejorar la pericia y la seguridad del profesional a la hora de llevar a cabo dichas intervenciones.

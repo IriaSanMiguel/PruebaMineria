@@ -1,0 +1,53 @@
+FRECUENCIA DE RX DE TÓRAX INDICATIVAS DE AFECTACIÓN POR SARS-COV-2 DE MARZO A MAYO DE 2020 EN LA POBLACIÓN DE UN ÁREA DE SALUD URBANA
+
+
+- INTRODUCCIÓN
+
+La radiografía de tórax convencional (RxT) ha jugado en esta pandemia por el virus SARS-CoV-2 un papel fundamental como medio de cribado en el diagnóstico inicial de la infección por SARS-CoV-2 tanto en Atención Primaria como hospitalaria.
+La confirmación de infección por SARS-CoV-2 se realiza mediante reacción en cadena de la polimerasa con transcriptasa inversa (PCR-RT).
+Las pruebas de imagen RxT y tomografía computarizada (TC) de tórax pueden dar imágenes similares en infecciones víricas pulmonares. La prueba de elección es la TC.
+Los primeros estudios publicados provenientes de China se basaban en pacientes diagnosticados por TC, mucho más sensible que la RxT.
+Las sociedades científicas europeas como la Sociedad Española de Radiología Médica establecieron al inicio de la pandemia que no estaba aconsejada la realización de pruebas de imagen de forma sistemática en estos pacientes. La indicación sería individualizada y siempre valorando que los hallazgos radiológicos pueden condicionar el manejo clínico del paciente.
+Dada la alta sensibilidad de la TC y que podría demostrar hallazgos antes de que la PCR-RT sea positiva, su utilización en el diagnóstico de la enfermedad está en debate, pero su realización en este contexto no estaba establecida.
+La experiencia publicada se basa en los estudios realizados en China, donde se acumulan un mayor número de casos, y más recientemente en Corea del Sur.
+La enfermedad más importante en la infección por SARS-CoV-2 es la neumonía. La RxT presenta hallazgos variados e inespecíficos y una baja sensibilidad en fases iniciales comparada con la TC.
+La TC presenta una elevada sensibilidad para la detección de la neumonía, pero una baja especificidad. Estos hallazgos varían en el transcurso de la enfermedad.
+El 50% de los pacientes con infección por SARS-CoV-2 pueden tener TC normales de 0 a 2 días después de la aparición de síntomas.
+Al principio existían pocas publicaciones con RxT, . Una de ellas mostraba que en hospitales italianos y británicos estaban comenzando a emplear RxT como una herramienta de clasificación de primera línea debido a los largos tiempos de respuesta de la PCR-RT para SARS-CoV-2.
+Ante la sospecha clínica con signos de gravedad o alarma se solicita confirmación con PCR-RT, pero en nuestro medio, ante la escasez de test al inicio de la pandemia y las demoras para los resultados, y la escasa disponibilidad de TC (por dificultad logística, limpieza, saturación, reservar la TC para casos graves o dudosos, etc.), se ha utilizado la RxT como herramienta de filtro, a pesar de su baja sensibilidad (69% frente al 91% con la PCR-RT inicial según Wong et al.). Además, la RxT puede no mostrar afectación durante los síntomas iniciales, pero si detecta la presencia de infiltrados evidentes nos puede alertar de un mayor riesgo de mala evolución.
+Se han ido realizando diversos protocolos de indicaciones de pruebas de imagen y actualizaciones de las diferentes sociedades científicas a medida que esta pandemia avanzaba, , , , , .
+Creemos que es relevante conocer la prevalencia de la RxT indicativa de infección por SARS-CoV-2 en un ámbito de Atención Primaria, ya que es un tema no estudiado y ha sido una herramienta de apoyo diagnóstico de primera línea en esta pandemia.
+
+
+- MATERIAL Y MÉTODOS
+
+Diseño: estudio descriptivo longitudinal.
+Selección de la muestra: se estudian todas las RxT derivadas para descartar afectación pulmonar por SARS-CoV-2.
+Los criterios radiológicos para catalogar de probable infección pulmonar por SARS-CoV-2 RxT(+) son: 1) opacidad focal; 2) tenue opacidad focal; 3) tenue aumento de densidad difuso; 4) patrón intersticial focal o difuso, y 5) patrón alveolointersticial focal o difuso.
+Criterios de inclusión y exclusión: se incluyen todas las RxT derivadas para descartar afectación pulmonar por SARS-CoV-2. Se excluyen las RxT derivadas por otras causas (por ejemplo, dolor torácico mecánico, neumotórax, insuficiencia cardiaca, etc.).
+Variables: -Número de RxT(+) total derivadas tanto al Servicio de Radiodiagnóstico como al Centro de Urgencias de Atención Primaria para descartar SARS-CoV-2 desde el 16 de marzo al 15 de mayo del 2020.-Número total de RxT(+) indicativas de infección pulmonar por SARS-CoV-2 realizadas tanto en el Servicio de Radiodiagnóstico como en el Centro de Urgencias de Atención Primaria desde el 16 de marzo al 15 de mayo del 2020.-Número total de RxT(−) sin afectación pulmonar por SARS-CoV-2 realizadas en ambos centros.
+
+
+- RESULTADOS
+
+Análisis (Tabla 1, Tabla 2, Tabla 3, Tabla 4, Tabla 5 ). Encima de discusión y conclusiones va: El porcentaje de RxT(+) fue del 31,4%. El porcentaje de RxT(−) totales fue del 68,6%.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+El pico de RxT(+) se dio sobre la segunda semana de abril de 2020 en nuestra área de referencia de la ciudad de Barcelona (fig. 1 ).Figura 1
+En la figura 2 se observa la correlación entre los pacientes con RxT(+) y los pacientes esperados en una epidemia aplicando una función sigmoidea, donde se aprecia que la correlación entre casos esperados en una epidemia, y los observados en nuestra área, no existen diferencias valorables.Figura 2
+Los picos de afluencia se aprecian entre las 10 y las 13 horas de la mañana, y son menores por la tarde, a las 16 y a las 18 horas (fig. 3 ).Figura 3
+Se debe mantener la RxT como método útil de cribado en las etapas medias de la enfermedad, cuando la RxT es más sensible para detectar afectación pulmonar por SARS-CoV-2.
+
+
+-- POSIBLES LIMITACIONES
+
+Se trata de un estudio en un ámbito de Atención Primaria, por lo que se pierden los pacientes que acuden directamente al hospital.
+No hemos encontrado en la bibliografía estudios similares en un ámbito de Atención Primaria.
+Hemos tenido variaciones en la derivación de pacientes, ya que durante un tiempo el Servicio de Radiodiagnóstico se convirtió en un centro de derivación de RxT «limpio», sin sospecha de afectación pulmonar por SARS-CoV-2, ya que las sospechas de afectación pulmonar eran derivadas al Centro de Urgencias de Atención Primaria de nuestra área de referencia, también dependiente de nuestro Servicio de Radiodiagnóstico.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran estar empleados por la Generalitat de Catalunya, Departamento de la Salud.

@@ -1,0 +1,113 @@
+CARACTERÍSTICAS, EVOLUCIÓN CLÍNICA Y FACTORES ASOCIADOS A LA MORTALIDAD EN UCI DE LOS PACIENTES CRÍTICOS INFECTADOS POR SARS-COV-2 EN ESPAÑA: ESTUDIO PROSPECTIVO, DE COHORTE Y MULTICÉNTRICO
+
+
+- INTRODUCCIÓN
+
+El 31 de diciembre del 2019, la oficina china de la Organización Mundial de la Salud (OMS) reportó una serie de casos de neumonía de origen desconocido en la ciudad de Wuhan, China. El 11 de febrero del 2020 se identificó el agente causante de la enfermedad, denominada enfermedad por coronavirus 2019 (COVID-19), un nuevo tipo de coronavirus denominado síndrome respiratorio agudo severo por coronavirus 2 (SARS-CoV-2). El 13 de marzo del 2020, 3 meses después del primer caso, y coincidiendo con la llegada de los primeros casos a las unidades de Cuidados Intensivos (UCI) españolas, se realizó la declaración de pandemia.
+Dentro del espectro clínico de los pacientes infectados por COVID-19, algunos desarrollan una neumonía vírica con hipoxemia severa e infiltrados pulmonares característicos que pueden evolucionar a síndrome de distrés respiratorio agudo (SDRA), la forma más grave de insuficiencia respiratoria aguda. El escenario de la pandemia llevó al límite los recursos de muchas UCI en diferentes países a nivel mundial. Los datos retrospectivos procedentes de China, Italia y Estados Unidos describieron las características clínicas de los pacientes críticos, los factores pronósticos para SDRA o muerte, así como las estrategias ventilatorias comúnmente utilizadas, , , , , , . Como se ha reflejado, muchos de estos pacientes presentan una situación clínica extremadamente grave, asociada a menudo a disfunciones orgánicas no respiratorias, o exhibiendo superinfecciones secundarias. Sin embargo, hasta la fecha, no se ha reportado prospectivamente la evolución clínica, incluyendo complicaciones médicas o terapias de soporte en los pacientes de UCI. El presente estudio describe prospectivamente la evolución clínica, el tratamiento recibido, los resultados y los factores de riesgo de mortalidad en UCI de los pacientes críticos de COVID-19 ingresados en diferentes UCI del territorio español.
+
+
+- MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Estudio prospectivo, multicéntrico, observacional y de cohorte, que incluyó a pacientes críticos con COVID-19 ingresados en 30 UCI en España y Andorra (los centros participantes se relacionan en el ). El estudio fue aprobado por el Comité de Ética de referencia de Euskadi, España. La necesidad de un consentimiento informado de los participantes fue considerada por cada centro participante. El estudio siguió las directrices establecidas en Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) para estudios observacionales de cohortes.
+
+
+-- POBLACIÓN DE ESTUDIO Y RECOPILACIÓN DE LOS DATOS
+
+Los datos de las historias médicas electrónicas de los pacientes fueron recabados por parte de los facultativos especializados en cuidados críticos, conforme a un protocolo común previamente estandarizado. Cada investigador tenía un nombre de usuario y contraseña personal e introdujo los datos en un sistema de adquisición de datos online específicamente prediseñado (CoVid19.ubikare.io). La confidencialidad del paciente se protegió asignando un código de paciente anónimo. Se incluyó en la base de datos a todos los pacientes consecutivos de COVID-19 desde el 12 de marzo hasta el 16 de mayo del 2020 si cumplían los criterios siguientes: 1) ≥ 18 años de edad, y 2) infección por SARS-CoV-2 confirmada mediante muestra del tracto respiratorio. Los criterios de exclusión fueron: 1) pacientes sin infección por SARS-CoV-2 conforme a las directrices de la OMS, y 2) pacientes que no habían cumplido los resultados de muerte o alta de UCI a día 26 de mayo del 2020.
+Los datos registrados incluyeron: datos demográficos, síntomas al ingreso en UCI, signos vitales, marcadores de laboratorio (analítica, coagulación, bioquímica), terapias de soporte de cuidados críticos (ventilación mecánica [VM], terapia de reemplazo renal, oxigenación de membrana extracorpórea, etc.), terapias farmacológicas, complicaciones médicas durante la estancia (las definiciones se incluyen en el , material adicional), cronología de la enfermedad (tiempo transcurrido desde la aparición de los síntomas y desde el ingreso hospitalario hasta el ingreso en UCI, hasta la iniciación de soporte respiratorio, y hasta el inicio de complicaciones, así como duración de la estancia en UCI). También se reportaron las puntuaciones de las escalas Sequential Organ Failure Assessment (Evaluación de fallo orgánico secuencial [SOFA]) y APACHE II, así como los resultados a 26 de mayo del 2020.
+Definimos la base de referencia como el primer día de estancia en UCI, recabándose una serie de datos ese mismo día. También reunimos toda la información diaria y reportamos los «peores» valores durante el periodo en UCI (máximo o mínimo, dependiendo de la variable). Nuestro cuaderno de recogida de datos recopiló los datos a diario, desde el ingreso en la UCI hasta el alta o la muerte, lo que sucediese primero. También nos permitió recabar retrospectivamente los datos anteriores al ingreso en la UCI, incluyendo los síntomas al ingreso o la terapia farmacológica recibida. Antes de analizar los datos, 2 investigadores independientes y un estadístico realizaron un cribado de datos erróneos frente a rangos estandarizados y contactaron con los investigadores locales en caso de valores dudosos.
+
+
+-- MEDIDAS Y RESULTADOS
+
+El objetivo de este estudio fue describir las características clínicas y la evolución de los pacientes de COVID-19 ingresados en una UCI y determinar los factores de riesgo de mortalidad en UCI de dichos pacientes.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Para este estudio no se calculó un tamaño de muestra predefinido. Las variables descriptivas se expresan como porcentaje, media y desviación estándar (DE), o mediana y rango intercuartílico (RIC), según lo adecuado para cada variable. Para comparar las variables entre los grupos, se utilizaron la prueba t de Student o de Mann-Whitney para las variables numéricas y la prueba de la χ2 o la exacta de Fisher para las variables categóricas. No se imputaron los datos ausentes. Los análisis se realizaron sobre la base de un caso completo. Todas las pruebas fueron bilaterales, considerándose estadísticamente significativo un valor p < 0,05. Además, para explorar los factores de riesgo asociados a la mortalidad en la UCI, se calcularon modelos de regresión logística multivariable. En el análisis univariante se incluyeron los parámetros con valor p inferior a 0,1, excluyéndose las variables con más del 30% de datos ausentes. Se realizaron 2 análisis diferentes: 1) investigamos factores basales, tales como datos demográficos, comorbilidades, síntomas y signos vitales, marcadores de laboratorio, y puntuaciones de severidad al ingreso, y 2) exploramos los factores relacionados con la evolución clínica, que incluyeron complicaciones médicas e infecciosas, y marcadores de laboratorio. Seudo-R se presenta como medida de idoneidad del modelo. Todos los análisis se realizaron utilizando STATA versión 16.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS
+
+A lo largo de un periodo de 80 días (entre el 12 de marzo y el 26 de mayo del 2020), se ingresó en 30 UCI de España y Andorra a 663 pacientes con resultado definitivo de alta de UCI o muerte. La inclusión de pacientes sigue en curso y, a 26 de mayo del 2020, 297 (30%) pacientes permanecen en la UCI y, por tanto, no han sido incluidos en el análisis. Los datos demográficos, las comorbilidades y las terapias farmacológicas previos de los pacientes se reflejan en la tabla 1 . La estancia media de días desde el inicio de los síntomas hasta el ingreso hospitalario en UCI fue de 7 (RIC 5-9) y 9 (RIC 7-13), respectivamente, sin diferencias entre supervivientes y no supervivientes . Fiebre (83%) y disnea (71%) fueron los síntomas más frecuentes durante el ingreso en la UCI. Entre otros síntomas, no se encontraron diferencias entre supervivientes y no supervivientes. Al ingreso en la UCI, los no supervivientes estaban más enfermos, según reflejan las diferencias sustanciales encontradas en las puntuaciones de severidad (APACHE II, 17 [RIC 13-21] vs. 11 [RIC 8-15]; p < 0,001 y SOFA 7 [RIC 5-9] vs. 4 [RIC 3-7]; p < 0,001). La gasometría arterial durante el ingreso en UCI reflejó que el SDRA severo (PaO2/FiO2 < 100 mmHg) era más frecuente en los no supervivientes (43% vs. 28%; p = 0,006] . El modelo de regresión multivariable reflejó que la edad avanzada estaba asociada a un mayor riesgo de mortalidad en UCI (OR 1,05 [intervalo de confianza [IC] del 95%: 1,011-1,099), p = 0,014) y que por cada incremento de 5 puntos en la escala APACHE II el riesgo de mortalidad se incrementaba en un 51% (OR 1,508 [1,081, 2,104], p = 0,015] (tabla 2 ). Los peores valores durante el ingreso, así como su relación con la mortalidad en la UCI, se presentan en las tablas S1 y S2.
+
+
+-- HALLAZGOS DE LABORATORIO
+
+Los marcadores inflamatorios importantes eran significativamente más altos en los no supervivientes al ingreso en la UCI (tabla 1): ferritina (1.480 [RIC: 918-2.358] vs. 1.174 [RIC: 553-1.882]; p = 0,010), dímero D (1.599 [697-3.810] vs. 940 [RIC: 576-2.030]; p = 0,002), procalcitonina (PCT) (0,28 [RIC: 0,13- 0,86] vs. 0,18 [RIC: 0,09-0,50]; p < 0,001) y lactato deshidrogenasa (487 [RIC: 393-643] vs. 404 [RIC: 339-514]; p < 0,001). Los valores de troponina de alta sensibilidad i (16 [RIC: 5-53] vs. 11 [RIC: 4-22]; p = 0,006], prohormona N-terminal del péptido natriurético cerebral (603 [RIC: 288-1.638] vs. 326 [RIC: 123-896]; p = 0,034), lactato (1,6 [RIC: 1,1-2,2] vs. 1,4 [RIC: 1,1-1,8]; p = 0,002) y creatinina (0,96 [RIC: 0,72-1,42] vs. 0,83 [RIC: 0,67-1,04]; p < 0,001) fueron también significativamente más altos en los no supervivientes. El mismo hallazgo fue observado entre supervivientes y no supervivientes en cuanto a los peores valores máximos para cada marcador de laboratorio (tabla S1). El modelo de regresión multivariable reflejó que, durante la estancia en la UCI, los valores de PCT (OR 1,06; IC del 95%: 1,01-1,11, p = 0,010) y plaquetas (OR 0,97; IC del 95%: 0,993-1,000, p = 0,045) estuvieron asociados a un mayor riesgo de muerte (tabla S2).
+
+
+-- SOPORTE RESPIRATORIO Y ESTRATEGIAS COMPLEMENTARIAS
+
+En 199 de los 667 pacientes se eligió oxigenoterapia de alto flujo por cánula nasal (HFNT) o ventilación no invasiva (VNI) como primera opción terapéutica para soporte respiratorio, siendo HFNT (165, 24%) más común que VNI (34, 5,1%). Además, se utilizó HFNT como primera línea de tratamiento para soporte respiratorio en el 30% de los supervivientes y en solo el 11% de los no supervivientes (p < 0,001). Se necesitó soporte respiratorio invasivo en 494 (74%) pacientes, siendo necesario en 182 de los 203 no supervivientes (89%), lo cual fue significativamente superior (p < 0,001) que en los supervivientes (312, 67%). Los 19 no supervivientes que no recibieron soporte respiratorio tenían orden de no intubar. El tiempo medio desde el inicio de los síntomas y el ingreso hospitalario hasta la VM fue de 10 días (RIC: 8-14) y 3 (RIC:1-6), respectivamente, sin diferencias entre supervivientes y no supervivientes .
+
+
+-- TERAPIA FARMACOLÓGICA
+
+Los tratamientos administrados se muestran en la tabla 3. No observamos diferencias en cuanto a terapia farmacológica entre supervivientes y no supervivientes, excepto en lo que se refiere al uso de fármacos vasoactivos (273 [59%] vs. 183 [80%]; p < 0,001) . Entre los antivirales utilizados, destacó el uso de hidroxicloroquina, administrada a 597 (90%) pacientes. El uso de remdesivir 19 (3%) fue anecdótico. En cuanto a antiinflamatorios, se administraron a menudo corticoides 506 (76%) y tocilizumab 282 (42%). Debe resaltarse que se utilizaron dosis totales anticoagulantes de heparina en 106 (15%) de los pacientes, siendo más utilizados en pacientes fallecidos (23% vs. 13%, p < 0,001).
+
+
+-- COMPLICACIONES MÉDICAS E INFECCIOSAS
+
+Las complicaciones se reflejan en la tabla 4 . El SDRA fue la complicación más comúnmente diagnosticada en 597 (90%) pacientes, seguido de insuficiencia renal aguda (IRA) (227; 34%). Complicaciones menos comunes, pero clínicamente relevantes, fueron shock (150; 23%), arritmias (97; 15%) y embolia pulmonar (72; 11%). Algunas de ellas fueron más frecuentes en los no supervivientes, tales como SDRA (95% vs. 89%; p = 0,009), IRA (58% vs. 24%; p < 10–16), shock (42% vs. 14%; p < 10–13) y arritmias (24% vs. 11%; p < 10–4). También fueron más frecuentes en los no supervivientes las superinfecciones respiratorias, bacteriemias y los shocks sépticos (33% vs. 25%; p = 0,03, 33% vs. 23%; p = 0,01 y 15% vs. 3%, p = 10–7), respectivamente. Sin embargo, la embolia pulmonar no reflejó diferencias entre los grupos (12% vs. 10%, p = 0,59). La superinfección respiratoria bacteriana/fúngica (176; 26%) y la bacteriemia (172; 25%) fueron muy frecuentes y destacaron entre el resto de infecciones reportadas. Ambas complicaciones, junto con el shock séptico, fueron más frecuentes en los no supervivientes (33% vs. 25%; p = 0,029, 33% vs. 23%; p = 0,010 y 15% vs. 3%, p < 0,0001). Los pacientes con IRA (OR: 2,468 [1,628, 3,741], p < 10–4), paro cardiaco (OR: 11,099 [3,389, 36,353], p = 0,0001) y shock séptico (OR: 3,224 [1,486, 6,994], p = 0,002] tuvieron un riesgo incrementado de muerte .
+La cronología de las complicaciones y tratamientos se refleja en la figura 1 y la figura S1.Figura 1
+
+
+-- RESULTADOS
+
+La mortalidad global en UCI fue del 31% (203 pacientes). La estancia media en la UCI fue de 12 (6-21) días, sin diferencias entre supervivientes y no supervivientes 12 (6-21) vs. 13 (6-20); p = 0,56.
+
+
+- DISCUSIÓN
+
+En este estudio prospectivo de cohorte nacional, realizado en pacientes críticos de COVID-19, los varones mayores con comorbilidades prevalentes tales como hipertensión, obesidad y diabetes fueron predominantes, lo cual está en línea con los estudios previos, , , , , , . Los no supervivientes estaban más enfermos, según reflejan las puntuaciones de las escalas APACHE II y SOFA y los parámetros basales de oxigenación, así como el alto uso de VM. Sin embargo, en el análisis multivariable, utilizando los datos recabados como referencia, solo la edad y APACHE II permanecieron como factores predictivos de la mortalidad en UCI, dificultando por tanto la predicción basal de la mortalidad. De hecho, un número significativo de los pacientes que recibieron VM podrían haber recibido el alta exitosa de UCI tras 2 semanas de ingreso. La mortalidad global en UCI fue del 31%, lo cual es similar a los reportes de SDRA no producido por COVID-19.
+Se registraron una gran variedad de complicaciones. IRA estadio ii o iii se situó entre las más comunes, diagnosticándose en una de cada 3 pacientes, asociándose a un mayor riesgo de mortalidad. El 50% de los pacientes que presentaban esta complicación fallecieron en la UCI, un valor que se elevó al 70% cuando se precisaron técnicas de reemplazo renal. En el análisis multivariable, IRA estadio ii-iii confirió una odds ratio de 1,9 para la mortalidad en la UCI. Considerando que la predicción de la mortalidad como referencia fue débil y que esta complicación apareció a menudo de forma temprana, IRA podría representar un intensificador para caracterizar realísticamente el cuadro clínico de un paciente individual de COVID-19. Las complicaciones cardiacas tuvieron una prevalencia similar a los estudios previos, sin diferencias entre los grupos, . Además, la embolia pulmonar, aunque fue frecuente, no incrementó el riesgo de muerte. La embolia pulmonar es una complicación difícil de confirmar, ya que se precisa una prueba radiológica. Se desconoce si esta última subestimó la incidencia de los casos más graves. De hecho, los no supervivientes recibieron frecuentemente el doble de anticoagulación, hecho que podría haberse desencadenado por los altos niveles de dímero D en este subgrupo. Sin embargo, ni los dímeros D basales o máximos predijeron de manera independiente la mortalidad en esta cohorte, hallazgo que es diferencial con respecto a otros estudios. Nuestros resultados refuerzan la necesidad de caracterizar mejor este fenómeno y de abordar debidamente el efecto de utilizar anticoagulación terapéutica profiláctica en los pacientes más graves, lo cual fue común en nuestra cohorte, una estrategia no exenta de complicaciones potenciales. Aunque la tasa de hemorragia no era significativamente diferente entre los grupos, nuestra metodología no nos permite afirmar si esta estrategia podría considerarse segura o efectiva en esta población. Por último, el 26% de los pacientes fueron diagnosticados de superinfección respiratoria y el 25% de bacteriemia, ambas prevalentes en los no supervivientes. Cuando dichas complicaciones evolucionaron a shock séptico, la odds ratio de mortalidad se triplicó.
+En cuanto a los marcadores de laboratorio, únicamente el máximo nivel de PCT y el recuento plaquetario fueron predictivos de la mortalidad en el análisis multivariante. Los niveles máximos de interleucina-6 fueron superiores en los no supervivientes, pero los niveles máximos se alejaron de los descritos en el síndrome de tormenta de citocinas, una entidad que han utilizado muchos investigadores para defender el uso de la terapia antiinflamatoria, . En esta misma línea, los niveles de ferritina fueron también muy inferiores a los previamente reportados en las formas graves de linfohistiocitosis hemofagocítica (LHH), lo cual sugiere que estos 2 procesos no desempeñan un papel significativo en el resultado de los pacientes con COVID-19. A pesar de ello, ambos grupos recibieron a menudo terapia farmacológica, administrándose esteroides a 3 de 4 pacientes, y tocilizumab a prácticamente el 40%, sin diferencias entre grupos. En nuestra opinión, esto es altamente preocupante, dada la escasez de datos sobre la eficacia y la seguridad de estos tratamientos.
+Este estudio tiene diversos puntos fuertes. En primer lugar, este estudio multicéntrico aportó una descripción altamente detallada del cuadro clínico de los pacientes de COVID-19 en la UCI, tras incluir a 663 pacientes con datos completos de resultados. En segundo lugar, a nuestro mejor entender, se trata del primer estudio que explora prospectivamente la asociación entre las características al ingreso y la mortalidad en UCI, así como la asociación entre la evolución clínica en UCI y el riesgo de muerte. Sin embargo, reconocemos ciertas limitaciones. En primer lugar, los estudios observacionales, especialmente de naturaleza multicéntrica, tienden a inducir errores al recabar los datos. Por tal motivo, se suministró un manual conciso a todos los investigadores al inicio del estudio. De igual modo, 2 investigadores revisaron la precisión de los datos y descartaron los valores ocasionales no fiables. En segundo lugar, es plausible que, debido a la carga de los cuidados experimentada por los facultativos participantes durante el periodo de estudio, algunos de los pacientes ingresados en la UCI no hubieran sido incluidos en la base de datos. Sin embargo, dada la naturaleza del registro, consideramos que no se favoreció un sesgo de selección. En tercer lugar, en el momento de este análisis, como esta información no estaba inicialmente recabada, carecíamos de datos sobre los diferentes tratamientos farmacológicos administrados antes del ingreso en la UCI. Por último, en el momento del análisis, 297 (30%) pacientes no tenían resultado definitivo con respecto al alta de UCI o la muerte y, por tanto, no fueron incluidos en el análisis.
+
+
+- CONCLUSIONES
+
+Los pacientes críticos de COVID-19 presentan a menudo insuficiencia respiratoria aguda con alta mortalidad en UCI, lo cual es similar a otros casos de SDRA no producido por COVID. La IRA y el shock séptico son comunes y confieren un riesgo incrementado de mortalidad.
+
+
+- DECLARACIONES
+
+-- APROBACIÓN ÉTICA Y CONSENTIMIENTO DE PARTICIPACIÓN
+
+El estudio fue aprobado por el Comité de Ética de Euskadi, España. La necesidad de consentimiento informado de los participantes fue considerada por cada centro participante.
+
+
+-- CONSENTIMIENTO PARA PUBLICACIÓN
+
+No aplicable.
+
+
+-- DISPONIBILIDAD DE LOS DATOS Y MATERIALES
+
+Pueden solicitarse razonablemente los conjuntos de datos utilizados o analizados durante el presente estudio al autor de correspondencia.
+
+
+- AUTORÍA
+
+RMA participó en las cuestiones de investigación y fue el responsable de la redacción del documento.
+CA participó en las cuestiones de investigación, contribuyó al análisis de los datos y corrigió el documento.
+AG fue el responsable del análisis de los datos y corrigió el documento final.
+EA fue el responsable del diseño del conjunto de datos, participó en las cuestiones de investigación y corrigió el documento final.
+CF y MH participaron en la generación de las cuestiones de investigación, contribuyeron al análisis de los datos y corrigieron el documento. Tuvieron pleno acceso a todos los datos de estudio y asumen la responsabilidad de la integridad de los datos y la precisión del análisis de los mismos.
+
+
+- FINANCIACIÓN
+
+La colaboración de un escritor médico ha sido financiada por MSD España. Merck y Sharp no han participado en el diseño, la elaboración, el análisis y las conclusiones del estudio.
+
+
+- CONFLICTO DE INTERESES
+
+C. Ferrando, C. Aldecoa, F. Ramasco, G. Tamayo y E. Maseda son miembros del Comité Editorial de la REDAR. No han participado en el proceso de revisión del manuscrito.

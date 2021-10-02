@@ -1,0 +1,71 @@
+CÁNCER DE MAMA EN SEIS FAMILIAS DEL TOLIMA Y EL HUILA: MUTACIÓN <ITALIC>BRCA1</ITALIC> 3450DEL4
+
+
+El cáncer de mama se considera un problema de salud pública a nivel mundial. Es la primera causa de morbilidad y la segunda de muerte, por cáncer en mujeres. En Colombia, es la principal causa de morbimortalidad por cáncer en mujeres, con una tasa de incidencia del 44,1 % y una mortalidad del 11,9 % .
+Todos los tipos de cáncer presentan un componente genético que incide en la predisposición a desarrollar la enfermedad. Este puede ser de origen germinal, que genera la agregación familiar, o esporádico, de origen somático y sin agregación familiar . En el cáncer de mama, la agregación familiar, explicada por la presencia de variantes patogénicas de origen germinal de alto riesgo, ocurre aproximadamente en 5 a 10 % de los casos, en tanto que en el 90 % restante se considera de origen esporádico -.
+La mayor parte de las variantes germinales de riesgo corresponde a genes supresores de tumores, entre los que se cuentan el BRCA 1 y el BRCA 2, cuyas variantes, consideradas de alto riesgo, se han asociado con una historia familiar que responde al patrón de herencia autosómica dominante ,,. Se estima que en las mujeres portadoras de variantes en el BRCA1 y el BRCA2, el riesgo de desarrollar cáncer de mama se incrementa en 87 % y, el de cáncer de ovario, en un 68 % -. Además, se considera que las mutaciones en el BRCA explican entre el 16 y el 40 % de este tipo de cáncer con agregación familiar ,.
+En el gen BRCA1 del cromosoma 17q21, se han descrito 600 variantes alélicas, aproximadamente, entre ellas, la patogénica 3450del4, ubicada en el exón 11, como resultado de la deleción del codón Gln 1111 (CAA) y el primer nucleótido (G) del codón 1112, lo que produce un codón de terminación anticipada en la posición 1115 . Esta es una de las mutaciones fundadoras de riesgo presentes en el país: en 12 de los 766 casos de cáncer de mama estudiados por Torres, e tal., en el 2009 y en 11,5 % de los casos de cáncer de ovario estudiados por Rodríguez, et al., en tanto que en el artículo de revisión de Ossa, et al., se reporta en Brasil y Chile .
+En este estudio, se hizo un análisis descriptivo para determinar la asociación de la mutación BRCA1 3450del4 con la presencia de cáncer germinal en seis familias de los departamentos del Tolima y Huila.
+
+
+- MATERIALES Y MÉTODOS
+
+-- ANTECEDENTES METODOLÓGICOS
+
+Los casos índice se tomaron de los proyectos Genetic analyses of breast cancer in admixed populations y de una tesis de maestría , trabajos desarrollados por el Grupo de Investigación Citogenética, Filogenia y Evolución de Poblaciones (GCFEP) de la Universidad del Tolima, en asociación con el Instituto Nacional de Cancerología, la Universidad de California-Davis y la Universidad de Oxford, y financiados por Glaxo Smith Kline Oncology (GSK), parte de cuyos datos genotípicos fueron publicados en el 2014 en otro artículo .
+
+
+-- MUESTRA
+
+Se seleccionaron seis casos índice de los 28 con agregación familiar provenientes del del Tolima y el Huila que presentaron la mutación BRCA1 3450del4, siguiendo tres de los criterios de inclusión propuestos por Jalkh, et al., en el 2017: 1) pacientes con cáncer de mama de menos de 40 años de edad en el momento del diagnóstico; 2) dos o más integrantes de la familia afectados con cáncer, y 3) por lo menos, un familiar afectado con este tipo de cáncer.
+
+
+-- TOMA DE MUESTRAS
+
+Se tomaron dos muestras de sangre periférica de 4 ml a los familiares del caso índice que se pudieron contactar y aceptaron participar.
+
+
+-- CONSTRUCCIÓN DE ÁRBOLES GENEALÓGICOS
+
+La ampliación de los árboles genealógicos de los seis casos índice se basó en: a) la entrevista del caso índice; b) las visitas a las familias; c) la revisión de registros eclesiásticos; d) las entrevistas a diferentes parientes, y e) el uso del programa GenoPro™, versión 2016.
+
+
+-- EXTRACCIÓN DE ADN Y GENOTIPIFICACIÓN DE LA MUTACIÓN
+
+Se aisló el ADN de cada uno de los miembros muestreados en las seis familias portadoras de la mutación BRCA1 3450del4 a partir de 430 µl de sangre total, empleando el equipo automatizado Maxwell™ y el estuche de extracción Maxwell 16 Blood DNA Purification Kit™ (Promega). La cuantificación se hizo con el espectrofotómetro Nanodrop ND-2000™. Para la genotipificación, se utilizó una reacción en cadena de la polimerasa (PCR) competitiva específica para alelo con el sistema de genotipificación KASP™ (LGC Genomics, Londres, Inglaterra) y las condiciones de reacción establecidas por el fabricante.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Se presentó una carta de información para resolver preguntas, y los pacientes y familiares que voluntariamente decidieron participar firmaron el consentimiento informado. El consentimiento familiar fue firmado por el paciente del caso índice autorizando al grupo de investigación ponerse en contacto con los parientes, indagar sobre su historia familiar e invitarlos a participar en el estudio.
+Un consentimiento informado también fue firmado por los familiares del caso índice (sanos o afectados) que aceptaron participar libremente en el estudio.
+Las entrevistas, protocolos y la propuesta de investigación se sometieron al Comité de Bioética de la Universidad del Tolima y cumplían a cabalidad con las normas nacionales e internacionales para la protección de la identidad.
+
+
+- RESULTADOS
+
+Se seleccionaron por conveniencia 78 personas incluyendo los casos índice de las seis familias portadoras de la variante patogénica BRCA1 3450del4; 30 de ellas fueron positivas y sus análisis se repitieron y validaron en un centro de diagnóstico del exterior; los resultados se entregaron al médico tratante para iniciar el trámite de asesoría genética. De las 30 personas positivas para la variante patogénica, nueve habían desarrollado cáncer y 21 no presentaban ninguna neoplasia. Entre las 48 personas negativas para la mutación, dos tenían cáncer de mama y, uno, cáncer de próstata; a las otras 45 no se les había diagnosticado cáncer. Los resultados por familia se resumen en el cuadro 1.
+Las figuras 1 a 6 corresponden a los árboles genealógicos de los seis casos índice estudiados e incluyen la información molecular directa únicamente de las personas seleccionadas que voluntariamente aceptaron participar en el estudio y del caso índice con la variante patogénica BRCA1 3450del4; esta información se complementó con los datos indirectos derivados de las entrevistas anexas a cada una de las muestras, especialmente en cuanto a los diferentes tipos de cáncer.
+Figura 1
+Figura 2
+Figura 3
+Figura 4
+Figura 5
+Figura 6
+En la figura 7 se presenta la asociación del cáncer con la presencia de la variante patogénica BRCA1 3450del4 en cada una de las seis familias, y se evidencia que los tipos más comunes de cáncer en estas familias eran el cáncer de mama y el cáncer de ovario.
+Figura 7CM: cáncer de mama; CO: cáncer de ovario; CP: cáncer de próstata; sano: persona no afectada por ninguno de estos tipos de cáncer
+Por otra parte, los datos revelaron que el 70 % de los individuos seleccionados que presentaban la mutación no tenía cáncer en el momento del análisis de los datos; por esta razón, se estudió la distribución de los tipos de cáncer en relación con la edad y se evidenció que el 52 % de los 21 individuos positivos para la mutación que no habían desarrollado ningún tipo de neoplasia eran menores de 30 años; además, cinco de esas 21 personas positivas eran hombres.
+Figura 8CM: cáncer de mama; CO: cáncer de ovario; CP: cáncer de próstata; sano: persona no afectada por ninguno de estos tipos de cáncer
+
+
+- DISCUSIÓN
+
+Entre los factores involucrados en el desarrollo del cáncer de mama, se cuentan los genéticos y los ambientales . Los primeros incluyen la historia familiar de cáncer y la predisposición debida a la presencia de genes supresores de tumores, como el BRCA1 y el BRCA2, ampliamente conocidos , por el riesgo que entrañan para desarrollar este cáncer y el de ovario. Las mutaciones de estos genes se han asociado con 5 a 10 % de todos los casos con agregación familiar y, de este porcentaje, aproximadamente, el 30 % está conformado por los casos de inicio de la enfermedad a edad temprana ,.
+Los datos derivados de este estudio en seis familias del Tolima y del Huila confirmaron la asociación de la mutación deletérea 3450del4 del gen BRCA1 con el cáncer de mama con agregación familiar, lo que coincide con: los reportes de Mahfoudh, et al., quienes la señalan como una de las cuatro encontradas en un estudio de 16 familias en Oriente medio y África del norte; los de Durocher, et al., quienes la encontraron en una de las 23 familias con cáncer de mama y cáncer de ovario que estudiaron; los de Torres, et al., que la encontraron en cinco de las 44 familias que estudiaron y la reportaron como una de las mutaciones fundadoras en Colombia de posible origen europeo y que explica buena parte del cáncer de mama con agregación familiar; estos autores afirman que en la base de datos del Breast Cancer Information Core (BIC) se reportan 21 familias europeas con la variante y una sola americana.
+En un estudio de Briceño, et al. de 853 pacientes con cáncer de mama se reportaron 13 casos provenientes de Bogotá con la mutación BRCA1 3450del4 y dos del departamento del Tolima con las mutaciones C5214T y 5221 del T en el gen BRCA1; Hernández, et al.,, por su parte, identificaron en 244 pacientes con cáncer de mama en una zona de Medellín tres mutaciones deletéreas de las cuales una es la que nos ocupa. En otros estudios, entre ellos uno realizado en Chile en 64 familias con cáncer de mama y cáncer de ovario, se identificaron en siete de las familias analizadas seis variantes patogénicas del gen BRCA1, entre estas, Ia3450del4 ,; por último, en el norte de Brasil, a partir de datos de 106 pacientes con síndrome hereditario de cáncer de mama y ovario, se reportó la variante patogénica en cuatro de los individuos analizados ,.
+Las mutaciones del BRCA1 no solo están asociadas con el riesgo de cáncer de mama y cáncer de ovario, sino que presentan una fuerte asociación con el riesgo de cáncer de páncreas y de próstata en los ancestros fundadores, por ejemplo, los judíos ashkenazí, los islandeses y los fineses .
+En las investigaciones realizadas por el Grupo de Investigación Citogenética, Filogenia y Evolución de Poblaciones, se ha detectado la mutación BRCA1 3450del4 en 28 casos de cáncer de mama con agregación familiar en el departamento del Tolima y del Huila, de los cuales se seleccionaron los seis casos índice de este estudio y en cuyas familias se muestrearon 78 individuos, 30 de ellos positivos para la deleción, nueve que habían desarrollado cáncer de mama, de ovario o de próstata, en tanto que los 21 restantes estaban sanos.
+Frente a estos resultados cabe agregar que cinco de los 21 portadores sanos son hombres, lo que hace que el fenotipo tumoral sea más raro; además, ocho de las mujeres son menores de 30 años, lo que también llama la atención, pues, el cáncer se diagnostica con mayor frecuencia después de la menopausia, es decir, después de los 50 años . Además, para que la enfermedad se desarrolle, se requiere una segunda mutación (pérdida de heterocigocidad), pues el fenotipo que controla el genotipo heterocigoto es, en este caso particular, el resultado de una codominancia que permite que el alelo funcional produzca la proteína supresora normal de tumores, mientras el producto del gen mutado es una proteína truncada no funcional. Cabe resaltar que los individuos afectados por la pérdida de heterocigosis podrían presentar una penetrancia incompleta y una expresividad variable, pues, aparte de los factores genéticos, también los ambientales influyen de manera significativa en el desarrollo de este cáncer ,.
+En este sentido, Caldés postula que, aunque se herede un alelo mutado en el gen BRCA1, que teóricamente eleva de forma considerable el riesgo de desarrollar cáncer de mama y de ovario, existe una variabilidad genética y ambiental entre individuos que, en determinadas circunstancias, puede llevar a la reducción de la penetrancia del gen, es decir, el porcentaje de personas con el genotipo mutado que finalmente desarrolla la enfermedad.
+Una de las posibles causas de la mutación BRCA1 3450del4 en los 28 casos con agregación familiar estudiados en el departamento del Tolima y del Huila por el Grupo de Investigación Citogenética, Filogenia y Evolución de Poblaciones, es el efecto fundador previamente reportado por Torres, et al., entre otros ,. Asimismo, es importante tener en cuenta que, en las localidades muestreadas, especialmente en las huilenses, se observan cruces endogámicos frecuentes. Por último, los resultados del análisis de las seis familias extendidas, aunados a la mutación en los casos índice de las otras 22, confirman que la deleción estudiada es un factor importante de predisposición genética germinal para el desarrollo del cáncer de mama en la muestra regional.
+Se recomienda seguir haciendo estudios en familias con historia de cáncer de mama para identificar esta deleción y continuar rastreando su posible efecto fundador.

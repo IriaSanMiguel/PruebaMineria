@@ -1,0 +1,10 @@
+FE DE ERRORES A “TRATAMIENTO INMUNOSUPRESOR EN PULSOS EN ESCLEROSIS MÚLTIPLE DURANTE EL DESESCALADO DE LA EPIDEMIA POR SARS-COV-2. ALGORITMO DE SEGURIDAD” [NEUROLOGIA. 2020;35(6):357–362
+
+
+En este artículo ya publicado, se ha detectado que por error no se incluyó el texto completo en el apartado “Protocolo clínico”, listado de comprobación de síntomas en las últimas dos semanas (página 360 del pdf). El texto completo es:
+— ¿Tiene o ha tenido alguno de los siguientes síntomas en las últimas dos semanas?:
+Fiebre
+Dolor de garganta
+Tos persistente
+Diarrea
+Anosmia

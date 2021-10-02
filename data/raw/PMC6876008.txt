@@ -1,0 +1,19 @@
+REGISTRO DE PARTICIPACIÓN EN ENSAYO CLÍNICO EN EL INFORME DE ALTA HOSPITALARIA
+
+
+Sr. Editor:
+En la actualidad ante una sociedad cada vez más exigente de nuevas opciones terapéuticas los ensayos clínicos (EC) son la herramienta fundamental en el desarrollo de nuevos fármacos.
+La mayoría de las nuevas moléculas en estudio no consiguen superar las fases de investigación, . Es fundamental que la comunidad científica entienda la importancia del registro en cuanto a la participación en dichos EC y el registro de antecedentes médicos en los futuros informes clínicos.
+El objetivo del estudio fue analizar desde el Comité de Ética de Investigación con Medicamentos (CEIm) los informes médicos al alta hospitalaria (IAH) de pacientes ingresados que han participado en un ensayo clínico (EC) y comprobar que conste dicha participación. Como objetivo secundario se comprobó que esta información consta en los informes de posteriores ingresos.
+Se clasificaron los IAH en 3 grupos: medicina interna y oncología (grupo 1), unidad de cuidados intensivos (grupo 2) y cirugía general y traumatología (grupo 3).
+Se diseñó una hoja de recogida de datos con las siguientes variables: sexo, edad, servicios médicos implicados, IAH en que consta la participación del paciente en un EC y si consta como:–Nombrado: consta su participación en el EC–Descrito: además de constar su participación incluye una explicación del EC–Ausente: no consta la participación en el EC
+Se registró el número de informes de ingresos posteriores y aquellos en los que consta la participación en el EC.
+Se clasificaron 40 pacientes en el grupo 1, con una media de edad de 67 años (DE: 18), el 52% eran varones. En un 45% de los pacientes el ensayo constaba como descrito, en un 30% constaba como nombrado y en un 25% no se registró su participación en el ensayo.
+Dieciocho pacientes tuvieron un ingreso hospitalario posterior a su participación en el EC de los cuales solo un 11% quedó registrada dicha participación en el informe de ingreso.
+Se clasificaron 34 pacientes en el grupo 2 con una media de edad de 65 años (DE: 15), el 65% eran varones. En un 29% de los pacientes el ensayo constaba como descrito, en un 12% constaba como nombrado y en un 59% no se registró su participación en dicho ensayo.
+Diecinueve pacientes tuvieron un ingreso hospitalario posterior a su participación en el EC de los cuales solo en un 5% quedó registrada dicha participación en el informe de ingreso.
+Se clasificaron 57 pacientes en el grupo 3 con una media de edad de 57 años (DE: 17), el 65% eran varones. En un 7% de los pacientes el ensayo constaba como descrito, en un 7% constaba como nombrado y en un 86% no se registró su participación en dicho ensayo.
+Doce pacientes tuvieron un ingreso hospitalario posterior a su participación en el EC de los cuales solo en un 17% quedó registrada dicha participación en el informe de ingreso.
+Existen diferencias estadísticamente significativas (p < 0,001) en cuanto a que conste en los IAH la participación en EC. El grupo 3 (bloque quirúrgico) fue el que peores resultados obtuvo seguido del grupo 2 (UCI) y del grupo 1 (medicina interna y oncología).
+En el caso de que figure la participación de los EC en los reingresos no hay significación estadística (p = 0,546) entre los 3 grupos.
+A pesar de no estar legislado que conste la participación del paciente en un EC en el IAH por el Real Decreto (RD) 1093/2010, consideramos que, tratándose de un tratamiento médico, debería constar como mínimo el principio activo en los antecedentes de los pacientes para favorecer la comunicación transversal entre equipos asistenciales.

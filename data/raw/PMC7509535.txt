@@ -1,0 +1,147 @@
+REGISTRO ESPAÑOL DE ABLACIÓN CON CATÉTER. XIX INFORME OFICIAL DE LA ASOCIACIÓN DEL RITMO CARDIACO DE LA SOCIEDAD ESPAÑOLA DE CARDIOLOGÍA (2019
+
+
+- INTRODUCCIÓN
+
+La complejidad progresiva de las técnicas de ablación con catéter y el aumento del número de laboratorios y profesionales hacen cada vez más necesario disponer de datos fiables e independientes sobre los medios con que se realizan y sus resultados. El Registro Español de Ablación con Catéter, Informe Oficial de la Asociación del Ritmo Cardiaco (antes Sección de Electrofisiología y Arritmias) de la Sociedad Española de Cardiología, cuya decimonovena edición se presenta en este artículo, representa la mayor experiencia existente y llevada a cabo sin interrupción desde 2001, , , , , , , , , , , , , , , , , . Es un registro anual de ámbito nacional y carácter voluntario, en el que participan la práctica totalidad de las unidades de arritmias de nuestro país.
+Sus objetivos principales son describir de modo independiente la evolución del tratamiento intervencionista de las arritmias cardiacas en España y proporcionar información fiable sobre la actividad y las dotaciones de nuestras unidades de arritmias.
+
+
+- MÉTODOS
+
+La recogida de datos fue retrospectiva y con una metodología similar a la del año previo. En enero de 2020, se remitió a todos los laboratorios de electrofisiología que constan en la Asociación el formulario de recogida de datos estandarizado, disponible en la página web de la Asociación. Los formularios cumplimentados fueron anonimizados. La información recogida comprende los recursos técnicos y humanos de las unidades de arritmias, el tipo de procedimientos realizados y sus resultados y complicaciones.
+Desde el primer registro, los sustratos arrítmicos se han agrupado en 10 categorías: taquicardia intranodular (TIN), vía accesoria (VAC), nódulo auriculoventricular (NAV), taquicardia auricular focal (TAF), istmo cavotricuspídeo (ICT), taquicardia auricular macrorreentrante (TAM), fibrilación auricular (FA), taquicardia ventricular idiopática (TVI), taquicardia ventricular (TV) relacionada con cicatriz posinfarto (TV-IAM) y TV asociada con cardiopatía y no relacionada con cicatriz posinfarto (TV-NIAM). Para todos los sustratos, se ha analizado una serie de variables comunes: número de pacientes y procedimientos efectuados, detallando el número en pacientes pediátricos (menores de 15 años), éxito obtenido, tipo de catéter de ablación utilizado y complicaciones con su descripción en relación con el procedimiento, incluida la muerte periprocedimiento. Asimismo se han registrado en todos los sustratos el número de procedimientos realizados con la asistencia de un navegador electroanatómico y aquellos realizados sin fluoroscopia. En algunos sustratos particulares se solicitaron ciertas variables específicas.
+El criterio de éxito utilizado se ha mantenido referido al final del procedimiento (agudo). De las complicaciones, solo se solicitaron las ocurridas durante el periodo hospitalario tras el procedimiento.
+
+
+- RESULTADOS
+
+El número de centros participantes en el registro en 2019 ha vuelto a marcar un máximo histórico, ascendiendo a 102 centros ( y anexo 2), un incremento del 2% respecto del año pasado (figura 1 ). De estos, 69 (67,7%) pertenecen al sistema sanitario público y 33 (32,3%), al privado, proporciones similares a las del registro previo (figura 2 ).Figura 1Figura 2
+El número de procedimientos de ablación en 2019 (18.549) también supera de manera significativa al del registro anterior, con un aumento del 12,0% .
+
+
+-- INFRAESTRUCTURA Y RECURSOS
+
+En la tabla 1 y la tabla 2 se detallan los recursos técnicos y humanos disponibles en los laboratorios participantes en el registro, así como las actividades realizadas en ellos.
+Un total de 61 centros (63,7%) disponen de al menos 1 sala con dedicación exclusiva para electrofisiología. La mayoría de los centros (73) disponen de 1 sala (77%), 28 centros (27,4%) disponen de 2 y 1 centro sigue siendo el único que dispone de 3 salas (1%). La media de tiempo que la sala está disponible es de 3,4 ± 1,7 (mediana, 4) días por semana.
+En todos los centros se realizan implantes de algún tipo de dispositivos cardiacos, además de electrofisiología con catéter .
+Se dispone de al menos 1 sistema de fluoroscopia de arco fijo en 71 centros (71%) y de al menos 1 equipo de fluoroscopia portátil en 40 centros (40%). La mayoría de los centros (86%) disponen como mínimo de 1 sistema de navegación no fluoroscópica, el 25% de los centros disponen de 2 y el 12% tiene 3 navegadores. Asimismo, el 29% de los centros disponen de 1 navegador fluoroscópico (angiografía rotacional) integrado en el equipo de rayos X. Los centros que disponen de ecocardiografía intracardiaca son 42 (41,8%). La técnica de ablación distinta de la radiofrecuencia disponible mayoritariamente es la crioablación, sin cambios respecto al anterior registro (el 77 frente al 78% de 2017). El uso de otras fuentes de energía alternativas como el láser es anecdótico.
+El personal dedicado a los laboratorios de electrofisiología este año ha retrocedido ligeramente y vuelve a los 3,2 médicos de plantilla de media, con solo 2,1 a tiempo completo. El 77,5% de los centros tiene al menos 1 médico a tiempo completo y el 61,8% tiene 2 o más. Un total de 39 centros (38%) disponen de personal en formación (becarios), la mayoría con 1 becario (intervalo, 1-10).
+
+
+-- RESULTADOS GENERALES
+
+La figura 1 refleja la evolución de la participación en este registro. Destaca un fuerte incremento (del 12% con respecto a 2018) del número de ablaciones (18.549), y la media de procedimientos realizados por centro fue de 181,9 ± 137,0 (mayor que en 2018, 165,5 ± 127,9) y la mediana, 144,5 (intervalo, 4-570). Hay 17 centros (15 públicos) con más de 300 ablaciones y 10 (8 públicos) con más de 400 (figura 3 ).Figura 3
+Respecto de los sustratos abordados . La evolución desde 2009 de la frecuencia relativa de los diferentes sustratos se refleja en la figura 5 . Durante 2019 se ha observado un aumento del tipo de sustratos abordados por cada laboratorio (figura 6 ). Todos los centros (102) han comunicado haber realizado ablación de TIN durante 2019, 101 (99%) de VAC y 100 (98%) del ICT. El sustrato que más centros nuevos han empezado a tratar es la TAF (74 centros en 2018 y 87 este año). Finalmente se ha vuelto a observar un aumento del número de centros que realizan ablación de FA (84%), que se había mantenido estable (en torno al 75%) durante los últimos 3 años. La tasa general de éxito fue del 91%, idéntica a la de 2018, si bien en bastantes sustratos ha habido ligeras reducciones, como puede observarse en la figura 7 (los datos de éxito en FA se recogen solo desde 2016, cuando se actualizó el formulario de recogida de datos).Figura 4Figura 5Figura 6Figura 7
+La figura 8 muestra la evolución temporal de las complicaciones por sustrato durante los últimos 10 años. El número de complicaciones fue de 348 (1,9%), ligeramente inferior que en los 2 años previos. Las más frecuentes siguen siendo las vasculares, seguidas del derrame pericárdico/taponamiento. El bloqueo auriculoventricular (BAV) ocurrió en 25 pacientes.Figura 8
+En cuanto a la mortalidad, se han comunicado 6 muertes periprocedimiento (0,03%); 3 de ellas se produjeron en ablaciones de TV y las otras 3, en procedimientos en la aurícula izquierda (2 en FA y 1 en TAM) y se describen en sus apartados correspondientes.
+A continuación se describen los datos analizados en los diferentes sustratos.
+
+
+--- TAQUICARDIA INTRANODULAR
+
+La TIN es el único sustrato abordado en todos los centros que han participado en el registro. El leve incremento del número absoluto de casos (3.768; 243 casos más que el año pasado) no se ve reflejado en el porcentaje relativo, que sigue descendiendo paulatinamente (el 20% del total de ablaciones). La media de procedimientos fue 36,9 ± 24,5 (intervalo, 2-130), con una tasa de éxito del 99%. Además, el 57% de los centros comunicaron el 100% de éxito.
+El catéter de ablación de radiofrecuencia de punta de 4 mm sigue siendo el más empleado (94%). Aunque el uso de otros catéteres y fuentes de energía es minoritario, este año se ha incrementado el uso de la crioablación, que pasa al segundo puesto (2,5%), a expensas de un centro que realizó el 73% de sus procedimientos con esta fuente de energía. El uso de otros catéteres es anecdótico. Es destacable la utilización cada vez más frecuente de sistemas de navegación para evitar el uso de fluoroscopia (el 25% de los casos, respecto al 10,9% en 2018), y se prescinde totalmente de ella hasta en el 82,1%.
+Se han comunicado 26 complicaciones graves (0,7%): 12 BAV (uno de ellos transitorio), 11 complicaciones vasculares, un episodio de insuficiencia cardiaca y un fenómeno embólico.
+
+
+--- ISTMO CAVOTRICUSPÍDEO
+
+La ablación del ICT, con 3.925 procedimientos (21%), vuelve a ser el segundo sustrato tras la FA, por delante de la TIN. Se llevó a cabo en 100 centros, con una media de 39,2 (intervalo, 4-117) procedimientos por centro, con un éxito medio del 96% de los casos. Los catéteres de punta irrigada convencionales siguen siendo los más utilizados (1.842; 46,9%), aunque los irrigados con tecnología de contacto se han triplicado respecto a 2018 (932; 23,7%). El uso catéteres de 8 mm se mantiene estable (973; 24,8%). Se observa un ligero crecimiento en el empleo de navegador, con 1.272 procedimientos (32,4%), así como los casos sin fluoroscopia, 678 (17,2%). Se han comunicado en total 30 complicaciones mayores no mortales (0,8%), entre las que destacan 23 complicaciones vasculares (0,6%), 3 derrames pericárdicos, 1 BAV, 1 embolia y 1 infarto de miocardio.
+
+
+--- VÍAS ACCESORIAS
+
+Las VAC se mantienen como cuarto sustrato más tratado. Este año se produce un ligero decremento en el número absoluto de procedimientos (124 menos): 2.024 procedimientos para un total de 1.904 VAC, que se agruparon en 101 centros (3 centros más que el año previo). Se realizó una media de 20,1 ± 15,5 (intervalo, 1-65) casos por centro. Se obtuvo una tasa de éxito del 89% y 31 centros comunicaron el 100% de éxito.
+Las vías de pared libre izquierda continúan siendo las más frecuentes (51,7%), con una tasa de éxito del 94%, seguidas por las inferoseptales (28,1%), con éxito del 98%. Las vías perihisianas/anteroseptales y las derechas de pared libre tienen una frecuencia superponible (10%) y tasa de éxito similar (el 84 y el 85% respectivamente).
+El acceso fue epicárdico en 31 VAC, y en la ablación de vías izquierdas, el abordaje retroaórtico sigue siendo el más utilizado (66%).
+Los porcentajes de vías de conducción bidireccional y conducción exclusivamente retrógrada fueron muy similares (el 41,4 y el 39,5%). El catéter de ablación de 4 mm es el preferido en este sustrato (54%). El uso de catéteres irrigados sigue incrementándose (33,5%), aunque solo en el 7,1% se disponía de información de contacto. La crioablación se usó en el 4,9%, mientras que la utilización de catéteres de 8 mm fue marginal (solo 14 casos).
+Es muy notable también el incremento de uso de los sistemas de navegación en este último año, que ha pasado del 21,5% en 2018 al 44,5% en 2019. Sin embargo, a diferencia de lo que ocurre en las TIN, la intervención de casos sin escopia aún no sobrepasa el 23% (el 10,2% del total de ablaciones de VAC).
+Las complicaciones se han reducido drásticamente este año (a la mitad respecto a 2018). Se han comunicado 18 complicaciones mayores (0,9%): 8 vasculares, 2 derrames pericárdicos, 1 infarto agudo de miocardio, 5 BAV (uno de ellos transitorio), 1 embolia y 1 bradicardia e hipotensión transitorias.
+
+
+--- ABLACIÓN DEL NÓDULO AURICULOVENTRICULAR
+
+El número de procedimientos en este sustrato se mantiene estable, con 811 ablaciones (4%) realizadas en 89 centros, y con un éxito del 93%. Se han comunicado 3 complicaciones no graves (0,3%), todas vasculares. La mayoría de los procedimientos se efectuaron con catéteres convencionales de 4 mm (465; 57,3%), y la distribución del resto fue: 209 catéteres irrigados convencionales (25,7%), 165 de 8 mm (20,3%) y 17 irrigados de contacto (2,1%).
+
+
+--- TAQUICARDIA AURICULAR FOCAL
+
+Se realizaron 574 procedimientos (3%) en 87 centros, con una tasa de éxito mantenido del 85%. Este sustrato estaba situado en la aurícula derecha en 370 casos (éxito del 90,5%) y en la izquierda en 204 (éxito del 74,1%). Se han comunicado 6 complicaciones (1%), de las que destacan 2 complicaciones vasculares (0,3%), 2 derrames pericárdicos (0,3%) y 1 parálisis transitoria del nervio frénico. El empleo de catéteres de punta irrigada ha bajado a 197 casos (34,3%) y se ha documentado un importante crecimiento en el uso catéteres con tecnología de contacto (218; 37,9%). Se observa un notable incremento en el uso de navegadores, en 367 procedimientos (63,9%), y en 78 de estos (el 13,5% del total) se ha prescindido totalmente de la fluoroscopia.
+
+
+--- TAQUICARDIA AURICULAR MACRORREENTRANTE
+
+La TAM (incluido el aleteo auricular atípico) es uno de los sustratos menos abordados, con un total de 678 casos (4%) en 75 centros. De los 475 casos en que se ha comunicado la etiología, la mayoría (244 casos; 51,3%) han ocurrido tras una ablación previa de FA, 96 (20,2%) en cardiopatías congénitas, 79 (16,6%) tras atriotomía y el resto son una miscelánea. Es el procedimiento con menor tasa de éxito, el 74,4%, y poco a poco va aumentando el empleo de un navegador, que ya alcanza el 81,7% de casos. Un total de 35 casos (5,1%) se realizaron sin fluoroscopia. Los catéteres de punta irrigada con tecnología de contacto (67,4%) se utilizan con frecuencia mucho mayor que los de punta irrigada convencional (14,3%), y es anecdótico el uso de otros tipos. Se produjeron 22 complicaciones no mortales (3,2%), entre las que destacan 10 complicaciones vasculares femorales, 6 derrames pericárdicos y 2 BAV.
+
+
+--- FIBRILACIÓN AURICULAR
+
+La FA se consolida como el sustrato más tratado, con 5.164 procedimientos en 4.771 pacientes (el 26% del total de ablaciones). Se han incorporado 7 nuevos centros, lo que hace un total de 84. El número de procedimientos por centro ha superado por primera vez las 50 ablaciones (media, 61,5; intervalo, 1-230), con una tasa de éxito agudo del 92,3%. Han superado 100 casos por año 19 centros (22,6%) y, de estos, 2 superaron los 200 procedimientos. Según los datos disponibles (en 4.604 ablaciones), la distribución por tipos fue 2.886 procedimientos (62,7%) de FA paroxística, 1.486 (32,3%) de FA persistente y 232 (5%) de FA persistente de larga duración.
+El objetivo del procedimiento sigue siendo mayoritariamente el aislamiento eléctrico de las venas pulmonares (91%). Se han comunicado 37 casos en los que se ha intentado la reducción de electrogramas en los antros, 50 dirigidos a la abolición de electrogramas complejos fraccionados, y 116 aislamientos de la vena cava superior. Se realizaron líneas en la aurícula izquierda en 193 procedimientos. Entre otros objetivos, destacan 24 ablaciones de cicatriz guiadas por resonancia magnética en 2 centros y 22 ablaciones de rotores en otros 2. También se describen algunos casos de ablaciones de plexos ganglionares, de focos extrapulmonares y realización de un box posterior en la aurícula izquierda.
+La técnica más utilizada para la ablación de FA sigue siendo la radiofrecuencia punto a punto, con 2.925 procedimientos (57%); la crioblación no crece, pero se consolida como alternativa (2.144; 42%). Es anecdótico el empleo de otras técnicas como el catéter multielectrodo circunferencial (pulmonary vein ablation cathether [PVAC]) o el láser.
+El catéter irrigado con tecnología de contacto es el de referencia (el 84,8% de las ablaciones punto a punto). La utilización de vainas deflectables ha experimentado un moderado incremento hasta los 1.510 casos (el 29,2% del total, limitada a 40 centros). Sigue siendo minoritario el uso del ecocardiograma intracardiaco (445 procedimientos; 8,6%) en 15 centros. En 2.938 casos se ha utilizado un navegador, y 5 centros han comunicado la realización de casos sin escopia (115 procedimientos).
+Se mantiene estable el número de complicaciones (178; 3,4%). Fueron mortales 2 (una fístula auriculoesofágica y una perforación de orejuela). La distribución del resto fue: 63 complicaciones vasculares (1,2%), 44 derrames pericárdicos (0,8%), 34 parálisis frénicas (0,6%), 14 embolias (0,2%), 6 infartos (0,1%), 3 perforaciones (0,06%, de las que 1 requirió cirugía) y 14 miscelánea (pericarditis, cuadro neurológico transitorio, tromboembolia pulmonar, etc.).
+
+
+--- TAQUICARDIA VENTRICULAR IDIOPÁTICA
+
+Se han comunicado 807 procedimientos de ablación de TVI (4%) en 762 pacientes y distribuidos en 88 centros (4 más que en 2018). La media de procedimientos por centro fue de 9,2 ± 8 (intervalo, 1-46).
+De los casos con localización comunicada, tenemos 354 taquicardias de tracto de salida del ventrículo derecho, 155 de tracto de salida del ventrículo izquierdo, 71 de la raíz aórtica, 40 fasciculares, 36 epicárdicas, 3 de la arteria pulmonar y una miscelánea de otras 63 localizaciones, entre las que cabe destacar 13 casos originados en los músculos papilares, 4 en el ápex del ventrículo izquierdo y 6 perihisianas.
+El éxito general comunicado es del 81,4%. Los mayores porcentajes de éxito son en la arteria pulmonar (100%), las cúspides aórticas (94%) y el tracto de salida del ventrículo derecho (91%). Las del tracto de salida del ventrículo izquierdo y las fasciculares presentan unas tasas de éxito algo más bajas (del 83 y el 82,5% respectivamente) y aún menores las del grupo mixto (76%). Las de peores resultados fueron las originadas en el epicardio/seno coronario (53%).
+El catéter más usado fue el irrigado con información de contacto (62%) que, sumado a los irrigados convencionales, alcanzaron el 85,4% de los casos. Casi todos los demás casos se realizaron con catéteres de 4 mm.
+El uso de sistemas de navegación ha llegado este año al 78%, y son infrecuentes los casos en que se prescinde totalmente de la fluoroscopia (7%).
+Aumentan notablemente las complicaciones (5%; 40 casos), fundamentalmente complicaciones vasculares y derrames pericárdicos: 13 complicaciones vasculares, 21 derrames/taponamientos, 1 pericarditis, 4 BAV y 1 complicación no especificada.
+
+
+--- TAQUICARDIA VENTRICULAR ASOCIADA CON CICATRIZ POSINFARTO
+
+Es el sustrato en el que se ha producido un mayor incremento del número de laboratorios que lo realizan (17 más que en 2018). Sin embargo, el número absoluto de procedimientos se ha estabilizado (532 ablaciones en 497 pacientes). Se realizó una media de 8,3 ± 7,4 procedimientos por centro (intervalo, 1-43 casos).
+El éxito total comunicado es del 85%, lo que continúa la progresión ascendente, pues de nuevo es el año con mayor tasa comunicada. El planteamiento del 70% de los casos fue una ablación de sustrato arritmogénico.
+El abordaje mayoritario sigue siendo el endocárdico (82,6%), tanto retroaórtico como transeptal (302 frente a 282 casos). El abordaje combinado sigue al alza y vuelve a batir un nuevo récord este año (el 17,4%, muy superior al 11,2% de 2018). No sigue esa tendencia la tasa de abordajes exclusivamente epicárdicos, que se mantiene muy estable y es excepcional (2,4%).
+Es mayoritario el uso de sistemas de navegación (el 91,2%, muy superior al 84% de 2018), aunque tan solo en 2 casos se prescindió de la fluoroscopia. El uso de vainas deflectables es alto (44,2%) y prácticamente todos los casos se realizan con catéteres irrigados (96,7%), fundamentalmente con información de contacto (76,5%).
+Se ha comunicado también un leve incremento de las complicaciones (40; 7,5%): 20 complicaciones vasculares (3,8%), 1 BAV (0,2%), 8 derrames pericárdicos (1,5%), 7 episodios de insuficiencia cardiaca (1,3%), 1 IAM, 1 perforación colónica durante el acceso epicárdico, 1 posterior amputación de extremidad inferior por isquemia crítica y 1 tormenta arrítmica posterior al procedimiento. También se ha comunicado 1 muerte (0,2%) por shock cardiogénico días después de la intervención.
+
+
+--- TAQUICARDIA VENTRICULAR NO ASOCIADA CON CICATRIZ POSINFARTO
+
+Se realizaron 266 procedimientos de ablación en 247 pacientes, distribuidos en 51 centros (12 hospitales más que el año pasado). A pesar de ello, sigue siendo el sustrato menos abordado tanto en números absolutos (el 1,5% de los casos) como en número de centros (solo la mitad de los laboratorios del registro), con una media de 5,2 ± 5,5 (intervalo, 1-30) procedimientos.
+Con un 80% de éxito general, los sustratos comunicados siguen la siguiente distribución: 155 casos de miocardiopatía dilatada no isquémica (éxito del 77%), 40 pacientes con miocardiopatía arritmogénica (éxito del 90%), 26 en cardiopatías congénitas (éxito del 100%), 9 pacientes con miocardiopatía hipertrófica (éxito del 78%), 9 taquicardias ventriculares rama-rama (éxito del 89%) y una miscelánea de 24 casos más (éxito del 92%), entre los que destacan 7 pacientes valvulares, 5 miocarditis, 2 pacientes con enfermedad de Chagas y 1 FV incesante.
+El abordaje sigue siendo predominantemente endocárdico, con ligera preferencia por el retroaórtico respecto al transeptal (el 36 frente al 29%), pero se duplican los abordajes exclusivamente epicárdicos respecto al año previo (10,5%) y se mantiene la tendencia ascendente del abordaje combinado (27,4%). El uso de catéteres de punta irrigada es mayoritario (95%), habitualmente con tecnología de contacto (73%).
+Al igual que para las demás TV, la navegación supone una ayuda inestimable y se incrementa respecto a años previos (el 90,6 frente al 81,4% de 2018). Los procedimientos sin fluoroscopia siguen siendo puntuales (8 casos).
+Se han comunicado 15 complicaciones (5,6%): 4 complicaciones vasculares (1,5%), 3 derrames/taponamientos (1,1%), 2 BAV (0,7%), 1 fenómeno embólico (0,3%), 1 IAM (0,3%) y 3 episodios de insuficiencia cardiaca (1,1%) y 1 laceración miocárdica. Además, se ha comunicado 1 muerte por shock cardiogénico, que sucedió en las horas siguientes a una ablación de FV incesante, y 1 muerte de un paciente en shock cardiogénico previo, en asistencia circulatoria mecánica y con tormenta arrítmica.
+
+
+--- ABLACIÓN SIN FLUOROSCOPIA
+
+La utilización de navegadores no fluoroscópicos se ha comunicado en 8.336 procedimientos (44,9%). La TV (90,9%) y la TAM (81,7%) son los sustratos en que se ha empleado el navegador con mayor frecuencia. Desde hace unos años, el registro recoge los datos de procedimientos realizados prescindiendo completamente de la fluoroscopia. Como en años anteriores, se ha duplicado el número de casos realizados sin fluoroscopia respecto al año previo, hasta los 1.967 procedimientos (el 11% del total). Por primera vez, la TIN es el sustrato abordado con mayor frecuencia (768 procedimientos, el 20,4% del total de ablaciones de TIN), seguida del ICT (678 procedimientos, el 17,3% del total de procedimientos de ICT).
+
+
+--- ABLACIÓN EN PACIENTES PEDIÁTRICOS
+
+Se reducen este año el número de centros y los procedimientos pediátricos. Se han comunicado 286 procedimientos de ablación (1,5%) realizados en 39 centros (7 menos que en 2018).
+La ablación de VAC (figura 9 ) sigue siendo el sustrato más frecuente (el 58% del total de ablaciones pediátricas y el 8,2% del total de VAC), pero en menor proporción que en 2018 (el 70,5 y el 11,6% respectivamente).Figura 9
+Las demás ablaciones en pacientes pediátricos comunicadas fueron: 72 TIN, 1 TAM, 12 TAF y 5 TVI. En general, suponen el 8,2% de las vías, el 1,9% de las TIN, el 0,1% de los aleteos atípicos, el 2,1% de las TAF y el 0,6% de las TVI. Este año no se han comunicado ablaciones del ICT.
+
+
+- DISCUSIÓN
+
+El Registro Español de Ablación con Catéter sigue recogiendo, por decimonoveno año consecutivo y de manera sistemática, los procedimientos de ablación realizados en España, y por su carácter ininterrumpido y exhaustivo, su elevada participación y la consistencia de sus datos, es un registro único en el mundo. Prácticamente no existen experiencias similares publicadas, ya que las pocas asociaciones nacionales de electrofisiología que han publicado datos han descrito solo la actividad (registros portugués e italiano), sin detallar tasas de éxito o complicaciones, o se limitan a arritmias concretas, como el registro alemán, . El Swedish Catheter Ablation Registry ha ofrecido recientemente una información integral y amplia sobre la mayoría de procedimientos de 10 años (2006-2015), aunque faltan sustratos como las taquicardias macrorreentrantes o no se diferencian las diferentes formas de TV como en el nuestro. Finalmente, en Japón se está incluyendo a pacientes en un registro similar al español, aunque está aún en proyecto.
+Nuestro registro constituye una plataforma privilegiada para conocer la realidad de la terapia de ablación por catéter de arritmias cardiacas fundamental, entre otras misiones, para ajustar los criterios de mejora de cada centro. El año 2019 ofrece un número récord de centros participantes y número de procedimientos realizados (18.549). Se puede pronosticar que al menos hasta 2021 no serán superados debido a la marcada reducción de actividad que ha impuesto la pandemia de la enfermedad coronavírica de 2019 (COVID-19) por SARS-CoV-2, que ha obligado durante más de 2 meses a realizar solo procedimientos urgentes.
+El incremento de los procedimientos por centro ha sido más uniforme que otros años, tanto la media como la mediana.
+El aumento de la ablación de FA la aleja de los valores de los otros sustratos, y destaca que por primera vez en los últimos años la crioablación de venas pulmonares no ha crecido y se ha reducido al 42% de los procedimientos desde el 44% de 2018. Probablemente, la adopción mayoritaria del catéter irrigado con tecnología de contacto como catéter de referencia para la ablación de venas pulmonares (el 84,8% de las ablaciones punto a punto) haya influido en estos resultados. En realidad no solo en la FA, sino en el resto de sustratos complejos (TAM y todas las TV), los catéteres con información de contacto se han convertido en los más utilizados.
+Todos los sustratos han aumentado en número de procedimientos durante 2019, aunque no de un modo tan marcado. La única excepción son las VAC, cuyos procedimientos se han reducido 114 casos.
+Las tasas de éxito, complicaciones y mortalidad no han variado de manera relevante con respecto a los anteriores registros. La FA sigue siendo el sustrato con mayor número de complicaciones, aunque los de más riesgo siguen siendo la TV-IAM (7,5%) y la TV-NIAM (5,6%), lo que refleja también las situaciones de mayor gravedad cuando se indica la ablación de estos pacientes y la gran complejidad de los procedimientos.
+Las muertes periprocedimiento han sido 6 (el mismo número del año anterior), relacionadas con sustratos complejos, FA, TAM y TV, y en el caso de estas, con pacientes en muy alto riesgo, aunque siempre es conveniente recordar que todos los procedimientos pueden complicarse y no hay enemigo pequeño.
+Los navegadores siguen manteniendo su ascenso imparable tanto en los sustratos complejos como en otros más simples como la TIN. En la FA, la tasa de empleo casi coincide, con el 99% de las ablaciones realizadas con radiofrecuencia, y superan el 90% en las ablaciones de TV con cardiopatía. El uso del navegador permite seguir avanzando en el objetivo de «escopia 0», especialmente a medida que se confirman su seguridad y su eficacia. Este año los procedimientos sin apoyo de fluoroscopia han doblado la cifra de 2018 hasta el 11% de todos los casos comunicados en el registro actual. El caso de la TIN es muy representativo de esta tendencia, ya que la ablación se realizó sin fluoroscopia en 3/4 casos en que se usó navegador.
+Para terminar, la ablación pediátrica ha reducido ligeramente sus cifras tanto en procedimientos como en centros (7 menos que en 2019), lo que indica que quizá se ha iniciado el camino, comentado en el anterior informe, hacia la situación probablemente más idónea de una concentración de estos procedimientos en centros seleccionados.
+
+
+- CONCLUSIONES
+
+El Registro Español de Ablación con Catéter, por su periodicidad, su carácter exhaustivo y la calidad y la relevancia de sus datos, sigue siendo un registro único en el mundo. El número de procedimientos en general, salvo los de VAC, y los de ablación de FA en particular vuelven a alcanzar su máximo histórico en 2019, manteniendo una muy elevada tasa de éxito y unos porcentajes de complicaciones bajos. De nuevo se ha superado el número de centros participantes del año anterior, lo que permite mantener la confianza en que el registro sigue siendo representativo de la realidad de los procedimientos de ablación en España.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

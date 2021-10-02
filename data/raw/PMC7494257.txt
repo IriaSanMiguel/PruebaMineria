@@ -1,0 +1,22 @@
+CONSIDERACIONES SOBRE EL ARTÍCULO «PROPIEDADES ANTIVIRALES Y ANTIINFLAMATORIAS DE IVERMECTINA Y SU POTENCIAL USO EN COVID-19»
+
+
+Estimada Editora:
+Hemos leído con gran interés la carta al director escrita por Portmann-Baracco et al. y publicada en la revista Archivos de Bronconeumología bajo el título «Propiedades antivirales y antiinflamatorias de ivermectina y su potencial uso en COVID-19», en la que manifiestan que la ivermectina podría ser una alternativa para el tratamiento contra el SARS-CoV-2, basándose en un estudio in vitro que no fue realizado con el virus SARS-CoV-2 (Wagstaff et al.) y en un estudio observacional publicado como pre-print por Patel et al.. Los autores citaron el estudio de Patel et al. bajo la referencia 3, cuya descripción es inexacta y no se ajusta a la realidad al indicar que fue publicado en la revista New England Journal of Medicine (NEJM), cuando en realidad no llegó a publicarse en una revista revisada por pares. Dicho esto, la carta puede inducir al lector a un error de interpretación, debido a que presenta los posibles beneficios de la ivermectina a partir de un estudio publicado como pre-print, que fue seriamente cuestionado sobre la veracidad de sus datos y que llegó a ser retractado por el repositorio SSRN. Al respecto, cabe precisar que desconocemos la fecha de envío o recepción de la carta comentada que nos indique si su redacción fue antes o después del retiro del pre-print.
+Por otro lado uno de los autores de la carta es miembro del Comité de Expertos del Ministerio de Salud del Perú (MINSA), encargado de proponer tratamientos eficaces contra la COVID-19. Sin embargo, luego de discutir las posibles alternativas de tratamiento y pese al bajo nivel de evidencia, el 95% de los miembros de dicho comité opinó a favor de proponer el uso de la ivermectina a dosis de 200 μg/kg de peso corporal. No obstante, Portmann-Baracco et al. manifiestan en su publicación que no tienen conflictos de intereses por declarar, lo que puede contravenir a las buenas prácticas en investigación, dado que, como es de público conocimiento, la declaración de conflictos de intereses tiene la finalidad de transparentar el hecho de que la investigación no se ha visto influida por intereses externos. Dada la coyuntura que atraviesa el país, donde desoyendo las recomendaciones internacionales se siguen aconsejando medicamentos que no han demostrado utilidad (hidroxicloroquina) ni eficacia y seguridad (ivermectina) para tratar la COVID-19, consideramos que se debe hacer hincapié en la rigurosidad de las investigaciones y evitar así debates innecesarios entre clínicos, investigadores y académicos sobre tratamientos ineficaces e inseguros.
+En conclusión, invocamos a la práctica de la ciencia responsable en el contexto de la pandemia por la COVID-19, teniendo en cuenta que debe prevalecer el principio primun non nocere ante la recomendación de tratamientos cuyo perfil de riesgo-beneficio es incierto. Asimismo, los usuarios de la información deben tener en cuenta que toda publicación científica o no debe analizarse críticamente a fin de evidenciar potenciales sesgos o conflictos de intereses que puedan representar posturas o preferencias frente al uso o no de medicamentos para tratar enfermedades. Solo así podemos garantizar que cada vez más profesionales de la salud adopten medidas basadas en evidencias para el tratamiento y la seguridad de sus pacientes.
+
+
+- FINANCIACIÓN
+
+Autofinanciado.
+
+
+- AUTORÍAS
+
+Todos los autores buscaron información, discutieron los estudios, redactaron el manuscrito, lo revisaron críticamente y aprobaron su versión final.
+
+
+- CONFLICTO DE INTERESES
+
+Akram Hernández-Vásquez y Diego Azañedo han realizado evaluaciones de tecnologías sanitarias sobre la COVID-19 para la seguridad social peruana. Rodrigo Vargas-Fernández declara no tener ningún conflicto de intereses.

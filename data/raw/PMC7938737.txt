@@ -1,0 +1,102 @@
+CONOCIMIENTO DE LA TROMBOPROFILAXIS-COVID-19 EN LOS PROFESIONALES SANITARIOS EN ESPAÑA<SUP
+
+
+- INTRODUCCIÓN
+
+La pandemia provocada por la COVID-19 representa un tipo de infección vírica por un nuevo coronavirus (SARS-CoV-2), responsable de un síndrome respiratorio agudo severo asociado a una respuesta inflamatoria sistémica con activación plaquetaria y disfunción endotelial, entre otros mecanismos, , . Los pacientes que padecen infección por coronavirus presentan un riesgo aumentado de enfermedad tromboembólica venosa (ETEV); se ha descrito la oclusión local de vasos de tamaño pequeño y mediano, que ha causado trombosis venosa, embolia e ictus isquémico y hemorrágico, pudiendo aparecer alteraciones en la hemostasia como alteración del tiempo de protrombina, plaquetas, fibrinógeno y dímero D, mostrando un riesgo aumentado de desarrollar coagulopatía asociada a la COVID-19, lo cual confiere un mayor riesgo de mortalidad, .
+Actualmente, hay escasez de datos sobre la verdadera incidencia de la ETEV, se estima que está alrededor del 25% de los pacientes hospitalizados en la unidad de cuidados intensivos por COVID-19, incluso bajo tratamiento anticoagulante a dosis profilácticas, .
+La inmovilización prolongada durante la enfermedad, la deshidratación, el estado inflamatorio agudo, la presencia de otros factores de riesgo cardiovascular (hipertensión arterial [HTA], diabetes mellitus [DM], tabaquismo, obesidad), los antecedentes de ETEV y trombofilia, son comorbilidades frecuentes en pacientes con COVID-19, pudiendo todo ello incrementar el riesgo de la ETEV. La presencia de estas alteraciones, en estos pacientes COVID-19, hace necesario plantear estrategias antitrombóticas usando heparinas de bajo peso molecular (HBPM), de acuerdo a los diferentes factores de riesgo valorados, .
+En un reciente estudio Tang et al. observaron una reducción de la mortalidad con la HBPM en los pacientes que adquirían criterios de coagulación intravascular diseminada (CID) o elevación de dímero D mayor a 6 veces el límite superior de la normalidad. En un análisis retrospectivo de 449 pacientes con COVID y 104 pacientes sin COVID en el Hospital de Tongji también se mostró que la terapia de anticoagulación profiláctica reducía la mortalidad, en comparación con aquellos que no la recibían.
+Sin embargo, a nivel ambulatorio, no hay evidencia disponible sobre si la tromboprofilaxis con anticoagulantes en etapas más precoces puede suponer una reducción de los eventos trombóticos o mejorar el pronóstico de los pacientes.
+El seguimiento en los primeros meses de la pandemia se ha hecho en gran medida de forma telefónica, basándonos en criterios clínicos, sin disponer en la mayoría de ocasiones de datos analíticos e imágenes objetivables, recayendo la mayor parte de la responsabilidad del tratamiento y seguimiento en los profesionales de atención primaria.
+Por ello es necesario analizar el conocimiento y las diferentes actuaciones en el manejo de la tromboprofilaxis en los diferentes entornos laborales, ya que existe una gran variabilidad en el momento actual.
+
+
+- OBJETIVOS
+
+-- OBJETIVO GENERAL
+
+Analizar el conocimiento y la actitud del manejo de la tromboprofilaxis en pacientes COVID-19 en la práctica clínica diaria.
+
+
+-- OBJETIVOS ESPECÍFICOS
+
+Describir los datos sociodemográficos de los médicos participantes.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio observacional, descriptivo y transversal con recogida de datos a través de una encuesta de opinión de 19 preguntas cumplimentadas electrónicamente a través de un formulario Google® estando disponible desde el 24/04/2020 al 27/06/2020. Este documento ha sido valorado favorablemente por el Comité de Ética del Hospital 12 de Octubre con el n.° CEIm 20/194 y por la Comisión Nacional de Validación de la Sociedad Española de Atención Primaria (SEMERGEN) con el aval n.° 0078-2020.
+
+
+-- SUJETOS DE ESTUDIO
+
+Profesionales médicos del territorio español implicados en el manejo de pacientes COVID-19 de diferentes centros de salud y hospitales.
+
+
+-- MÉTODO
+
+Se ha elaborado una encuesta de opinión de 19 preguntas por un grupo de expertos del Grupo de trabajo de Vasculopatías de la Sociedad Española de Médicos de Atención Primaria (SEMERGEN), que ha sido cumplimentada electrónicamente a través de un formulario Google®. A todos los participantes se les ha informado de las características del estudio, garantizando la confidencialidad de la información aportada, que ha sido utilizada únicamente para los fines indicados. Previamente a la difusión de la encuesta se realizó un pilotaje con el fin de poder detectar posibles problemas en la idoneidad del cuestionario. La encuesta se ha enviado por correo electrónico utilizando la base de datos de los socios facilitada por SEMERGEN, un total de 15 000 usuarios registrados, con acceso a la página web, previa autorización de difusión, y estos a su vez la redistribuyeron a través de distintos foros médicos. Su cumplimentación se ha realizado de forma anónima y autoadministrada. Se enviaron varios recordatorios hasta conseguir el número de encuestas previstas. Los datos personales no serán utilizados por la SEMERGEN para la elaboración de perfiles comerciales. El tratamiento de la información personal se ha llevado a cabo de forma lícita, leal, transparente, adecuada, pertinente, limitada, exacta y actualizada.
+
+
+-- VARIABLES
+
+La encuesta se estructura en forma de cuestionario con preguntas cerradas dicotómicas o de respuesta múltiple. Se incluyeron en una segunda parte variables sociodemográficas y profesionales de los encuestados. En el anexo se expone una copia de la encuesta con las variables incluidas que se utilizó en la invitación enviada.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Para un total de 15 000 usuarios registrados, a los que se les envió la encuesta en su totalidad, se calculó un tamaño muestral de 375 encuestas, ajustado a pérdidas de hasta un 30% (IC 95%, margen 5%). La muestra analizada final ha sido de 414 encuestas.
+Para el análisis estadístico se han utilizado estudios descriptivos y test de hipótesis. Las variables cuantitativas se representaron con medias y desviación estándar y las cualitativas con porcentajes e intervalos de confianza. La base de datos y los análisis estadísticos se ejecutaron sobre el programa SPSS® 20 (SPSS Inc., Chicago, Illinois, EE. UU.).
+
+
+- RESULTADOS
+
+Se recibieron 414 encuestas. De los médicos que respondieron a la encuesta el 58,2% eran mujeres. La franja de edad más participativa correspondió a la comprendida entre 56-65 años (35,5%), seguida de la franja de 46-55 años (31,2%). La mayoría de los profesionales encuestados (68,6%) trabajaba en centros urbanos (mayor de 15.000 habitantes) y con labor asistencial en la sanidad pública (85,3%). La categoría profesional más representativa fue medicina de familia (78,8%), seguida de urgencias-emergencias (5,8%). El mayor número de encuestas se recibieron de las comunidades de Madrid (28,3%), Baleares (14,7%) y Comunidad Valenciana (11,8%).
+Con relación a la evaluación del riesgo trombótico de los pacientes COVID-19, de las 411 respuestas, el 64,5% indicaron que sí lo evaluaban frente al 35,5% que no lo tenían en cuenta (fig. 1 ).Figura 1
+A la pregunta ¿consideras que los pacientes COVID-19 presentan mayor riesgo de sufrir ETEV y microtrombosis arteriales periféricas?, la gran mayoría de los encuestados (95,2%) respondió afirmativamente.
+Evaluando el conocimiento de protocolos de riesgo trombótico en pacientes COVID-19, el 60,5% de los médicos que contestaron no conocían ningún protocolo frente al 39,5% que sí conocían alguno (fig. 2 ). Este desconocimiento era mayor en los médicos de familia y menor entre el resto de médicos; aun así, en estos últimos el porcentaje de desconocimiento era importante (superior al 40%).Figura 2
+El 75,6% de los encuestados estimaron que la ETEV está infradiagnosticada en los pacientes COVID-19. El 85,3% consideraron los fenómenos trombóticos como una manifestación más de sospecha de COVID-19.
+A la pregunta ¿qué antecedentes crees que pueden influir en el riesgo tromboembólico de los pacientes COVID-19?, la mayoría de los médicos encuestados (95,9%) consideraron las comorbilidades asociadas (HTA, DM, insuficiencia cardíaca congestiva, neoplasias, obesidad, etc.) como causa de un mayor riesgo tromboembólico, así como la inmovilización (89,1% de los participantes) y la presencia de trombofilias y alteraciones de la coagulación (87,4%). También afirmaron que la edad (71,9%), una cirugía reciente (71,9%), el uso de anticonceptivos o terapia hormonal sustitutiva (75,3%) podrían ser causa de mayor riesgo. Sin embargo, el embarazo, el puerperio y las infecciones agudas solo fueron considerados por un 65% de los médicos como factor de riesgo tromboembólico (fig. 3 ).Figura 3
+Respecto a ¿qué condicionantes asociados a la COVID-19 pueden suponer un mayor riesgo tromboembólico?, la inmovilización fue considerada en un 85,2%, la comorbilidad cardiovascular en un 83,2%, la deshidratación en un 45% y los procesos neurológicos fueron considerados en un 29% (fig. 4 ).Figura 4
+El 93,6% de los médicos que respondieron a la encuesta se plantearon que los pacientes COVID-19 de manejo ambulatorio deberían recibir tromboprofilaxis. De estos, el 60,7% consideraron que debían recibir la profilaxis según valoración del cálculo de riesgo trombótico y hemorrágico frente al 32,9% que afirmaron que hay que dar tromboprofilaxis sin tener en cuenta las escalas de riesgo (fig. 5 ).Figura 5
+El 9,2% de los encuestados opinó que no sería necesario implantar un tratamiento profiláctico tras el alta hospitalaria. El 90,8% pautaría tromboprofilaxis al alta, de los cuales el 42,7% afirmó que deberían de recibir la tromboprofilaxis según la valoración del riesgo aplicando las escalas y el 48,1% realizaría profilaxis sin valoración trombótica.
+La HBPM fue considerada el tratamiento que la mayoría de los profesionales (97,8%) utilizaría para realizar la tromboprofilaxis, seguido de las medidas higiénico-dietéticas (11,2%) y el ácido acetilsalicílico en un 8,8% (fig. 6 ).Figura 6
+El 51,3% de los encuestados consideró que la duración óptima del tratamiento antitrombótico debía darse entre los 7-14 días posteriores al alta en caso de riesgo trombótico alto, mientras que el 41,1% opinó que debería de tener una duración de 7-14 días independientemente de la valoración del riesgo. El 17,3% consideró que la tromboprofilaxis tendría que ir asociada a la duración del proceso agudo en el domicilio.
+
+
+- DISCUSIÓN
+
+Nos enfrentamos a una infección vírica producida por un nuevo coronavirus (SARS-CoV-2) de la que se desconocen todavía muchos aspectos, pero de la que sí se tiene evidencia de que se asocia a una respuesta inflamatoria sistémica con activación de la coagulación y aparición de fenómenos trombóticos tanto a nivel arterial como venoso. Por eso es necesario plantear estrategias antitrombóticas en pacientes de riesgo para intentar reducir su morbimortalidad, .
+Tenemos constancia de que en el momento actual no existen protocolos unificados de actuación en el manejo de la tromboprofilaxis de los pacientes COVID-19, siendo esta carencia mucho más evidente si nos referimos al manejo del paciente desde el ámbito ambulatorio.
+La encuesta sobre tromboprofilaxis y COVID-19 acerca de que, si tenemos presente esta relación en nuestra práctica clínica, se realizó como una estrategia para poder conocer la situación actual del manejo de la tromboprofilaxis en pacientes COVID-19, detectar déficits, las posibles necesidades formativas de los médicos en este ámbito y así poder plantear posibilidades de mejora.
+La encuesta se distribuyó a todos los socios de SEMERGEN mediante un formulario Google® y estos a su vez la redistribuyeron a través de diferentes foros médicos. En la muestra obtenida hay representación de todas las comunidades autónomas más Ceuta y Melilla, aunque es una muestra muy heterogénea, siendo las más representadas las comunidades de Madrid, Baleares y Valencia. La mayoría de los encuestados son médicos de familia (78,8%), habiendo participado otros profesionales, como: anestesiología, angiología, cardiología, hematología, medicina interna, medicina intensiva, neumología, neurología, urgencias y emergencias.
+Consideramos que nuestro proyecto de investigación es innovador. Según nuestro conocimiento este uno de los primeros estudios que se realiza para conocer la opinión y el entendimiento de las distintas líneas de actuación de los médicos en España en el manejo de la tromboprofilaxis en los pacientes COVID-19, lo que hace que este proyecto pueda llegar a ser un referente a nivel nacional, pero tiene limitaciones. El cuestionario planteado por el equipo investigador, aunque testado previamente para ver su idoneidad, no tiene la validación necesaria mediante la evaluación de propiedades métricas (fiabilidad, consistencia, estabilidad temporal, concordancia, validez de contenido, de constructo y de criterio); no obstante, reunía una amplia variedad de temas relacionados con los principales objetivos y ha sido contestado por una muestra significativa. Esta muestra es muy heterogénea, aunque han participado todas las categorías profesionales, la representación hospitalaria es menor, así como la representación muestral de algunas autonomías.
+La inmensa mayoría de los médicos (más de 95%) considera que los pacientes COVID-19 presentan mayor riesgo de sufrir ETEV y microtrombosis arteriales periféricas que la población general. Llama la atención que más del 60% de los facultativos afirman no conocer protocolos para evaluar el riesgo trombótico en los pacientes infectados por el SARS-CoV-2 ya que a lo largo de todo este tiempo los protocolos han sido cambiantes por falta de conocimiento de la propia enfermedad.
+No se dispone de una escala de valoración de riesgo trombótico validada específica para pacientes con COVID-19 a nivel ambulatorio. Si bien hay que tener en cuenta que López et al. evaluaron la aplicabilidad en el ámbito ambulatorio de las escalas disponibles para pacientes hospitalizados con patología médica no quirúrgica, mostrando cómo el perfil de riesgo en pacientes ambulatorios no difiere de forma importante del observado en estudios en pacientes hospitalizados por patología médica aguda (no quirúrgicos), concluyeron que las escalas validadas para la predicción de riesgo trombótico en pacientes hospitalizados por enfermedad médica aguda (no quirúrgicos), como la escala de Padua recomendada por la American College of Chest Physicians y la escala IMPROVE, podrían ser utilizadas en pacientes ambulatorios en cualquier ámbito asistencial, por lo que es imperativo realizar una evaluación individualizada del riesgo trombótico de la ETEV en todos los pacientes COVID-19 mediante las escalas de Padua e IMPROVE, y también del riesgo hemorrágico mediante la escala IMPROVE, .
+En la pregunta referida a los antecedentes personales que pudieran ser la causa de un mayor riesgo tromboembólico en los pacientes COVID-19, las respuestas más frecuentes son las comorbilidades asociadas (HTA, DM, insuficiencia cardíaca congestiva, neoplasias, obesidad, enfermedad venosa crónica, etc.), la inmovilización, la presencia de trombofilia y otras alteraciones de la coagulación. La mayoría también opina que podrían ser causas la edad, una cirugía reciente y el uso de anticonceptivos o tratamiento hormonal sustitutivo. Pero solo el 65% de los facultativos considera también como factores de riesgo el embarazo, el puerperio y la enfermedad aguda (infecciones, deshidratación, traumatismo reciente, etc.), a pesar de que la evidencia científica así los avala como tales. En estos procesos se produce un flujo sanguíneo enlentecido, alteración de los factores de la coagulación sanguíneos y lesión del endotelio de la pared vascular (componentes de la tríada de Virchow), favorecedores de un estado de hipercoagulabilidad sanguínea.
+Más de la mitad de los encuestados considera que la deshidratación no es un factor condicionante de riesgo trombótico, pero cabe recordar que en la deshidratación aparece una hemoconcentración sanguínea que favorece la estasis venosa, la hipercoagulabilidad sanguínea y, por tanto, el riesgo de trombosis.
+Tan solo un 29% de los encuestados considera los procesos neurológicos como condicionantes de mayor riesgo trombótico. Hay que tener en cuenta que las neuropatías que cursan con parálisis, atrofias musculares e inmovilización también predisponen a la estasis venosa, favoreciendo la hipercoagulabilidad sanguínea.
+Al preguntar a los participantes acerca de si los pacientes COVID-19 de manejo ambulatorio deberían recibir tromboprofilaxis, la mayoría afirma que sí, pero siempre después de valorar sus riesgos. No obstante, los pacientes hospitalizados a menudo son ancianos, están inmóviles y muestran signos de coagulopatía y se considera que su enfermedad es más grave y el riesgo tromboembólico mayor, por lo que se debe pautar tromboprofilaxis, siempre que no haya contraindicación para su uso.
+La mayoría de los encuestados cree conveniente mantener la tromboprofilaxis farmacológica al alta hospitalaria en pacientes COVID-19, y casi por unanimidad lo harían utilizando HBPM. Así lo recomiendan la mayoría de las guías y recomendaciones publicadas hasta ahora, . Las HBPM son de elección por presentar efecto antiinflamatorio, mayor biodisponibilidad y vida media más larga con menor variabilidad interindividual que las heparinas no fraccionadas, permitiendo su administración a dosis fijas. Solo en caso de alergia a HBPM o trombocitopenia inducida por heparinas se recomienda el uso de fondaparinux.
+Asimismo, siempre es conveniente promover una serie de medidas generales como aconsejar la movilización temprana, evitar el sedentarismo, realizar cambios de posición frecuentemente, practicar ejercicios de movilidad con los pies en los pacientes encamados, y cuidar la deshidratación, sobre todo cuando se asocia a fiebre o diarreas, .
+Al preguntar por la duración del tratamiento antitrombótico, la mayoría de los encuestados afirma que sería conveniente mantenerla durante los 7-14 días posteriores al alta en caso de ingreso hospitalario. Tras el alta hospitalaria el médico de familia deberá continuar la profilaxis pautada, evaluando periódicamente el riesgo trombótico y hemorrágico, manteniéndola mientras persistan los factores de riesgo transitorios, un mínimo de 7 días, asegurando una correcta adherencia y cumplimentación del tratamiento, debiendo tenerse en cuenta la situación individual de cada paciente y el conjunto de condicionantes biopsicosociales, .
+
+
+- CONCLUSIONES
+
+Los resultados de la encuesta son consistentes, pues se ha conseguido un tamaño muestral significativo, la representación de varios profesionales implicados en la atención a los pacientes COVID-19, así como una distribución a lo largo de toda la geografía española con las limitaciones expuestas.
+La mayoría de los médicos (más de 95%) considera que los pacientes COVID-19 presentan mayor riesgo de sufrir ETEV y microtrombosis arteriales periféricas que la población general. Sin embargo, más de un tercio de los encuestados no valora el riesgo trombótico y un porcentaje importante (60,5%) afirman no conocer protocolos para evaluar dicho riesgo en la COVID-19.
+La encuesta pone de manifiesto las necesidades de formación de nuestros profesionales en materia de tromboprofilaxis para que nuestros pacientes reciban una asistencia sanitaria con la mayor calidad posible, de forma individualizada, atendiendo a sus necesidades, siendo eficaz y coste-efectiva, para alcanzar un mayor grado de excelencia.
+
+
+- FINANCIACIÓN
+
+Los autores declaran que no hay financiación en este artículo original de beca o ayuda de entidad financiadora.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

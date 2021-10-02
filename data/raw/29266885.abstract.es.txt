@@ -1,0 +1,7 @@
+La Evaluación Funcional Endoscópica de la deglución (EFED) es un método reconocido para evaluar alteración en la mecánica de la deglución (AMD), con experiencia anecdótica en niños, y con resultados no concluyentes.
+La EFED tuvo una sensibilidad del 80,8% y especificidad 85,3% en lactantes con diagnóstico de AMD. Una concordancia del 0,696 con respecto a la VFD en el diagnóstico de la AMD, y para identificar derrame y aspiración tuvo una kappa de 0,815.
+De los 60 pacientes incluidos, el EFED presentó una alta sensibilidad para la presencia de aspiración y penetración (94 y 98%), y una alta especificidad para la detención de derrame y residuo (94% y 95%). El reflujo gastroesofágico para hacer el diagnóstico de AMD con el EFED tuvo una sensibilidad del 80% y especificidad del 84%. Derrame y penetración tuvieron la más alta concordancia con respecto al estándar de oro de 0.81.
+Se realizó la estimación de sensibilidad y especificidad de la EFED, así como cálculo de valor predictivo positivo (VPP), valor predictivo negativo (VPN) y razones de verosimilitud.
+Se compararon los resultados y hallazgos por EFED y VFD de 66 niños con diagnóstico clínico de AMD.
+Comparar la exactitud de la EFED en lactantes con alta sospecha de alteración en la mecánica de la deglución atendidos en un hospital de tercer nivel, con el estándar de oro, la Vídeo Fluoroscopia de Deglución (VFD). Tipo de estudio: transversal, analítico, observacional, ambilectivo. Diseño: Prueba diagnóstica.
+

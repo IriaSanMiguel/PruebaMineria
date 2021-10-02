@@ -1,0 +1,110 @@
+ANTECEDENTES PERSONALES Y VACUNALES COMO FACTORES ASOCIADOS A LA INFECCIÓN POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+La mayoría de las pandemias descritas en las últimas décadas han tenido origen a partir de virus de origen animal. Los coronavirus representan una familia de virus con gran capacidad de recombinación de material genético entre genomas de coronavirus diferentes. En el año 2003, fue descrito en Asia el síndrome respiratorio agudo severo (SARS) y, en 2012, el síndrome respiratorio de Oriente Próximo (MERS-CoV), ambos originados a partir de variantes de coronavirus no conocidas hasta ese momento. En enero del 2020, la Organización Mundial de la Salud (OMS) declaró la emergencia de salud pública internacional con motivo de la aparición en China, un mes antes, de una nueva variante de coronavirus denominada SARS-CoV-2, al mismo tiempo que el 11 de marzo se declaró la situación de pandemia tras registrarse a nivel mundial más de 118.000 casos.
+El SARS-CoV-2 ha supuesto un importante reto a nivel mundial desde el punto de vista de la salud pública al mismo tiempo que pone a prueba la capacidad del sistema sanitario. A nivel clínico, la infección por SARS-CoV-2 (COVID-19) da lugar a cuadros de aparición y evolución muy variada, desde casos asintomáticos o paucisintomáticos, síntomas leves compatibles con resfriado común o cuadro pseudogripal, hasta su manifestación más severa en forma de síndrome respiratorio agudo grave neumónico con compromiso multiorgánico y finalmente letal.
+Al igual que ocurre con otras enfermedades infecciosas, la variabilidad clínica se explica, en gran medida, en función de las características intrínsecas del huésped. Así pues, desde el inicio de la pandemia, se han postulado diferentes comorbilidades o factores de riesgo que se han asociado con espectros de mayor gravedad y mortalidad. En general, todo apunta a que este virus afecta, de manera prioritaria, a poblaciones envejecidas, pluripatológicas y, posiblemente, también polimedicadas. En este sentido, con los datos disponibles hasta el momento, existe cierto consenso sobre el papel que ejercen como factores de riesgo la edad, la obesidad, la dislipemia, la enfermedad cardiovascular, la diabetes mellitus, la hipertensión arterial (HTA) y la enfermedad crónica pulmonar, hepática o neurológica, entre otras, . Sin embargo, desde el inicio de la pandemia, se encuentra en discusión el efecto de algunos tratamientos antihipertensivos debido a la penetración del virus en la célula a través del receptor de la enzima convertidora de la angiotensina 2 (ACE-2) presente fundamentalmente en riñón, pulmones y corazón, , .
+La mayor limitación para el abordaje global del SARS-CoV-2 es la escasa inmunidad natural por parte de la población, así como la ausencia de herramientas preventivas ligadas a la vacunación. Por ello, a día de hoy, se está llevando a cabo una importante carrera científica para la obtención de una vacuna eficaz, al mismo tiempo que se explora si alguna de las vacunas disponibles para la prevención de otras enfermedades, tales como la vacuna BCG contra formas graves de tuberculosis, podría tener propiedades heterólogas sobre la prevención de SARS-CoV-2.
+Por tanto, y teniendo en cuenta todo lo anterior, los objetivos de la presente investigación son: 1) analizar los factores asociados a la infección por SARS-CoV-2 en un área sanitaria del norte de España; 2) conocer el posible papel de la vacunación antigripal y la antineumocócica en el desarrollo de la infección por SARS-CoV-2.
+
+
+- MATERIAL Y MÉTODOS
+
+-- ÁMBITO DE ESTUDIO
+
+El estudio ha sido desarrollado en un hospital comarcal del norte de España con una población de referencia de 61.267 habitantes que muestra una tendencia decreciente progresiva en los últimos años (pérdida aproximada de 750 a 1.000 habitantes/año). Se trata de una población envejecida, pluripatológica y polimedicada con más de un 26% de personas mayores de los 65 años. El hospital está dotado con más de 120 camas y dispone de una Unidad Materno-Infantil y Unidad de Psiquiatría, .
+
+
+-- TIPO DE ESTUDIO
+
+Se ha realizado un estudio de casos y controles de test negativo.
+
+
+-- DEFINICIÓN DE CASO
+
+Pacientes que desde el 28 de febrero del 2020 (fecha de inicio de la vigilancia epidemiológica de SARS-CoV-2 en el área sanitaria en la que se desarrolla la investigación) hasta el 08 de mayo del 2020 cumplían con la definición de caso de infección por el nuevo coronavirus SARS-CoV-2 y, tras realizar la prueba de reacción en cadena de la polimerasa (PCR) para este virus, el resultado fue positivo.
+Es importante señalar que la definición de caso de infección por el nuevo coronavirus SARS-CoV-2 fue modificándose en conformidad con las actualizaciones publicadas por el Servicio de Vigilancia Epidemiológica de la Consejería de Salud de la Comunidad Autónoma de referencia, en consonancia con la información publicada por el Centro de Coordinación de Alertas y Emergencias Sanitarias del Ministerio de Sanidad, Consumo y Bienestar Social, siendo la definición inicial la correspondiente al día 31 de enero del 2020. Esta definición ha sido la siguiente:
+Se investigará la infección por el 2019-nCoV, en los casos que cumplan, al menos, un criterio epidemiológico y el criterio clínico que se exponen a continuación.
+
+
+-- A. CRITERIOS EPIDEMIOLÓGICOS
+
+A.1 Cualquier persona con historia de viaje a la provincia de Hubei (China), en los 14 días previos al inicio de los síntomas o A.2 cualquier persona que, en los 14 días antes de la aparición de síntomas, haya estado en contacto estrecho con un caso probable o confirmado.
+Se define como contacto estrecho:-Cualquier persona que haya proporcionado cuidados a un caso probable o confirmado*: trabajadores sanitarios que no han utilizado las medidas de protección adecuadas, familiares o amigos, así como las personas que hayan tenido otro tipo de contacto físico similar.-Cualquier persona que estuviera en el mismo lugar que un caso probable o confirmado* a una distancia < 2 m (por ejemplo, convivientes, visitas).-Se considera contacto estrecho en un avión a los pasajeros situados en un radio de dos asientos alrededor de un caso probable o confirmado* y a la tripulación que haya tenido contacto con dichos casos.
+* En este momento, y siguiendo las recomendaciones de la OMS y del Centro Europeo para la Prevención y Control de Enfermedades (ECDC), hasta que se disponga de mayor información epidemiológica, el contacto se considerará con casos probables o confirmados en un período comprendido entre 14 días antes y 14 días después del inicio de los síntomas de dichos casos.
+
+
+-- B. CRITERIO CLÍNICO
+
+Cualquier persona con síntomas clínicos compatibles con una infección respiratoria aguda, de cualquier gravedad, que presente fiebre y alguno de los siguientes síntomas: disnea, tos o malestar general.
+
+
+-- SELECCIÓN DE LOS CONTROLES
+
+Se seleccionaron dos controles por cada caso. Se tuvieron en cuenta pacientes que desde el 28 de febrero del 2020 hasta el 08 de mayo del 2020 cumplían con la definición de caso de infección por el nuevo coronavirus SARS-CoV-2 y, tras realizar la prueba PCR para este virus, el resultado fue negativo.
+Con el fin de minimizar posibles sesgos de selección, se realizó un apareamiento de los controles con test negativo con cada caso, con base en las variables «sexo» (hombre/mujer), «edad» (edad en años) y «gravedad» (ingreso hospitalario/domicilio).
+
+
+-- SELECCIÓN Y DEFINICIÓN DE LAS VARIABLES
+
+Se llevó a cabo una búsqueda bibliográfica en la base de datos PubMed para identificar artículos escritos en inglés publicados en los últimos tres meses relacionados con el coronavirus. Se tuvieron en cuenta, principalmente, las variables incluidas en el metaanálisis publicado por Yang et al.. Además, se añadieron otras que, a pesar de no estar ampliamente exploradas, se consideraron relevantes desde el punto de vista clínico. Finalmente, las variables seleccionadas fueron:
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se efectuó un análisis estadístico descriptivo de cada variable (análisis univariante), calculando frecuencias absolutas y relativas para las variables cualitativas, y medias y desviaciones estándar (DE), como medidas de tendencia central y dispersión, para las variables cuantitativas. Se crearon variables secundarias a partir de las iniciales, principalmente para organizarlas en rangos («edad» y «copias de ARN viral en el momento del diagnóstico») o combinarlas («síndrome metabólico», «vacuna gripe 2019/20», «vacuna antineumocócica conjugada 13 v» y «vacuna antineumocócica polisacárida 23 v»). Se realizó un análisis bivariante para valorar la asociación entre las variables seleccionadas. Para las cualitativas dicotómicas, se empleó la prueba X 2. Para las cuantitativas estudiadas, se usó la t de Student. Por otro lado, se calculó el coeficiente de correlación de Pearson para medir la relación estadística entre las variables continuas «número de días de estancia», «número de copias de ARN viral» y «número de enfermedades crónicas».
+El análisis se realizó con las aplicaciones Statistical Package for the Social Sciences versión 23.0 y EPIDAT versión 3.1.
+
+
+-- ASPECTOS ÉTICOS
+
+La presente investigación fue aprobada por el Comité de Ética de la Investigación de la Comunidad Autónoma (referencia 2020.260).
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN GENERAL DE LA MUESTRA
+
+La muestra se compuso de 188 pacientes, de los cuales 63 fueron casos y 125 controles. De ellos, el 52,1% fueron mujeres y la media de edad fue 64,66 años (DE ± 19,97). No se observaron diferencias estadísticamente significativas entre la variable edad (IC 95% -5,75 a 6,44), sexo (IC 95% 0,53 a 1,80) y localización del paciente (IC 95% 0,48 a 1,74) entre los casos y los controles.
+
+
+-- DESCRIPCIÓN DE LOS CASOS
+
+De los 63 casos registrados, el 47,6% fueron hombres. El grupo de edad más frecuente fue el de ≥ 65 años (55,6%), seguido del de 15 a 49 años (23,8%), 50 a 64 años (17,5%) y 0 a 14 años (3,2%). La media de edad fue de 64,89 años (DE ± 20,13). La figura 1 muestra la curva epidémica según la fecha de diagnóstico. En cuanto a la necesidad de ingreso hospitalario, 42 pacientes (66,7%) requirieron hospitalización. La media de la estancia hospitalaria en este grupo fue 13,05 días (DE ± 9.326 días). En cuanto al número de copias de ARN viral en el momento del diagnóstico, el 69,8% fue superior a 50.000 copias/mL. Finalmente, la letalidad global fue 14,28% mientras que para los pacientes ingresados ascendió a 21,42%.Figura 1
+La tabla 1 muestra la distribución de los principales antecedentes personales de los pacientes con la COVID-19, así como los antecedentes vacunales (contra gripe y neumococo) en aquellos con edad ≥ 65 años o pacientes crónicos. En general, la obesidad se constató como el antecedente más frecuente (52,4%) seguido de la dislipemia (47,6%). El 49,2% cumplía con la definición de «polifarmacia» y, de forma global, el 52,4% presentaba alguna enfermedad crónica.
+No se observaron diferencias estadísticamente significativas entre los días de estancia hospitalaria y la presencia de cualquiera de los antecedentes personales y vacunales.
+En cuanto al vínculo entre las variables continuas, se comprobó una relación positiva entre el número de enfermedades crónicas y los días de estancia hospitalaria (r = 0,251; IC 95% -0,05 a 0,51), sin embargo, no se observó esta relación entre la cantidad de enfermedades crónicas y el número de copias de ARN viral en el momento del diagnóstico (r = 0,128; IC 95% -0,12 a 0,36) ni entre el número de copias de ARN viral y los días de estancia hospitalaria (r = 0,032; IC 95% -0,27 a 0,33).
+
+
+-- ANTECEDENTES PERSONALES Y VACUNALES
+
+Los principales factores de riesgo relacionados con la infección por coronavirus fueron la obesidad y el tratamiento activo con antihipertensivos ARA-2. Así pues, en el análisis bivariante se observa que ser obeso aumenta 2,4 veces el riesgo de padecer esta infección (IC 95% 1.301 a 4.521) y los ARA-2 lo incrementan 2,2 veces (IC 95% 1.256 a 6.982). Al mismo tiempo, se comprobó que tanto la obesidad como la polifarmacia se identificaban como factores de riesgo de complicaciones clínicas tales como derivación a UCI y exitus, con una odds ratio (OR) = 3,1 (IC 95% 1,4 a 7,2) para la obesidad y una OR = 2,3 (IC 95% 1.004 a 5.249) para la polifarmacia. La tabla 2 muestra el resto de los resultados.
+Con respecto a los antecedentes vacunales, la vacunación antineumocócica conjugada de 13 serotipos mostró resultados cercanos a la significación estadística con una OR = 0,4; (IC 95% 0,170 a 1.006) .
+
+
+- DISCUSIÓN
+
+La infección por SARS-CoV-2 en la presente población de estudio ha mostrado afectar más a los grupos de edad avanzada, al igual que se registra en otras investigaciones similares, publicadas sobre otro tipo de coronavirus como el SARS y el MERS, , , . Además, en la mayoría de las ocasiones, esta situación va ligada al aumento del número de enfermedades crónicas y, por ende, a la polimedicación que, a pesar de no haberse hallado como factor de riesgo de la COVID-19 tal y como lo está con otro tipo de infecciones, los resultados apuntan a una asociación entre polimedicación y complicaciones entre las que se encuentra el exitus. Estos hallazgos concuerdan con los de otros autores que relacionan la polifarmacia con el aumento de la mortalidad en personas mayores de 65 años, aunque también podría explicarse a sabiendas de la elevada prevalencia de enfermedades crónicas en la muestra de estudio (52,4%) y de polimedicación (49,2%), esta última muy superior a la descrita en los estudios nacionales donde no se supera el 30% para el año 2017.
+La obesidad ha sido, en los últimos meses, una variable que numerosos autores han explorado en sus investigaciones relacionadas con la COVID-19 y parece lógico pensar que pueda tener un papel relevante en el desarrollo de esta infección. Se sabe que los pacientes obesos presentan alteraciones en la función pulmonar, una disminución de la distensibilidad toraco-pulmonar y, como consecuencia, un aumento del trabajo respiratorio. Asimismo, se observa una disminución de la presión inspiratoria máxima. Como consecuencia de ambos fenómenos, se produce un incremento del trabajo respiratorio y una mayor fatiga muscular. Además, en pacientes con obesidad se ha objetivado una respuesta disminuida del centro respiratorio a la hipercapnia, . Por otro lado, la obesidad se asocia con un bajo grado de inflamación crónica, así como con un mayor riesgo de trombosis que pueden verse incrementados por el SARS-CoV-2, y con una peor respuesta inmune y mal pronóstico de las infecciones respiratorias con mayor riesgo de hospitalización y muerte, como se ha demostrado en el caso de la infección por el virus gripal, , . En el caso del presente trabajo, y al igual que indican los resultados de autores como Simonnet et al., Richardson et al. o Caussy et al. en diferentes partes del mundo, el análisis bivariante indica que la obesidad es un factor de riesgo importante para el desarrollo de la infección por SARS-CoV-2 (OR = 2,4; IC 95% 1,30 a 4,52), además de producir un aumento significativo del riesgo de complicaciones (OR = 4,1; IC 95% 1,81 a 9,46).
+El efecto de los antihipertensivos sobre el desarrollo de la COVID-19, así como sus complicaciones, también ha sido sometido a un amplio debate desde el inicio de la pandemia. Se han postulado teorías que apoyan un efecto perjudicial y otras en dirección opuesta que abogan por un efecto beneficioso. El hipotético efecto perjudicial de estos fármacos que apoya la presente investigación está basado en que el tratamiento crónico con ARA-2 produciría una sobrexpresión de enzima convertidora de angiotensina 2 (ECA-2), enzima utilizada por el virus para la endocitosis. Esta situación favorecería la entrada del virus en las células pulmonares, agravando la infección, . En sentido contrario, el hipotético efecto beneficioso se postula a través de que los ARA-2, uniéndose al receptor de angiotensina II tipo 1 (AT1), evitaría los efectos profibróticos y proinflamatorios que conllevarían a la estimulación de dicho receptor, y la sobrexpresión de ECA-2 degradaría la angiotensina II en péptidos con propiedades antinflamatorias y antifibróticas, .
+Al contrario de lo que cabría esperar, haber estado hospitalizado por cualquier causa en los últimos tres meses se identificó como un posible factor protector de SARS-CoV-2 (OR = 0,4; IC 95% 0,170 a 1.006). A pesar de que, hasta el momento, no se han encontrado publicaciones que evalúen esta situación específica en el contexto de la actual pandemia, se sabe que el SARS-CoV-2 afecta, al igual que otras enfermedades infecciosas, de manera más importante a personas pertenecientes a grupos vulnerables y a colectivos con gran interacción social, , por lo que estos resultados podrían interpretarse como la necesidad de recuperación domiciliaria tras dicha hospitalización y, por tanto, una menor exposición a reuniones o actividades sociales que impliquen contacto con otras personas.
+El estudio del posible efecto de la vacunación antigripal y antineumocócica sobre la infección por SARS-CoV-2 le aporta un carácter novedoso a esta investigación ya que, hasta el momento, salvo alguna referencia puntual sobre la posible relación inversa entre cobertura de vacunación antigripal y mortalidad por COVID-19 en Italia, no parece existir en la literatura ningún estudio de campo sobre la temática. A sabiendas de que no se espera encontrar ningún tipo de beneficio o perjuicio de estas vacunas sobre el desarrollo de la COVID-19, sorprende observar que la vacuna antineumocócica conjugada de 13 serotipos se propone como un posible factor protector para el desarrollo de COVID-19 (OR = 0,4; IC 95% 0,170 a 1.006). En los últimos años, se ha profundizado a través de numerosas investigaciones en los efectos heterólogos o no específicos de algunas vacunas vivas atenuadas, más allá de los microorganismos diana de cada una de ellas. Estos trabajos se han centrado en la vacuna BCG y la vacuna frente al sarampión, , principalmente.
+Cabe decir que lo encontrado en la presente investigación puede tratarse de un hallazgo casual que para nada debe hacer pensar en un verdadero efecto heterólogo de esta vacuna sobre la infección por SARS-CoV-2, pero que, en este momento, plantea la necesidad de llevar a cabo nuevos estudios de mayor magnitud que exploren de manera específica el papel de esta herramienta preventiva. Así pues, los autores desconocen si estos resultados pudieran tener algún tipo de relación con los datos recientemente publicados sobre la coinfección del SARS-CoV-2 con otros virus y bacterias donde, en una investigación realizada en China, se indica que el 94,2% de los pacientes presentaban coinfección con uno o más patógenos, siendo el más frecuentemente identificado el Streptococcus pneumoniae . Con base en estos resultados y pensando también en un escenario en el que el virus de la gripe y el SARS-CoV-2 puedan cocircular en el próximo otoño-invierno en el hemisferio norte, algunos autores independientes así como la OMS se posicionan a favor de la vacunación generalizada contra la gripe y la intensificación de la vacunación antineumocócica en grupos especialmente vulnerables como son los institucionalizados en centros socio-sanitarios. El objetivo de estas intervenciones responde a ser capaces de combatir y minimizar la posible sobrecarga del sistema sanitario dado que dichas vacunas protegen contra infecciones que suponen una contribución importante a la mortalidad por causas respiratorias en las personas mayores, .
+El presente trabajo no se encuentra exento de limitaciones. Por un lado, a pesar de que el diseño epidemiológico (estudio de casos y controles con diseño de test negativo) implique ciertos sesgos metodológicos, cabe decir que, actualmente, es el diseño más utilizado en los estudios observacionales sobre la efectividad de las vacunas, , , siendo este el motivo principal de su elección. Además, se trata de un estudio realizado a nivel local cuya muestra puede no ser representativa de la población general. Como prospectiva de futuro, parece necesario seguir profundizando en el estudio de los factores de riesgo y protección para el desarrollo de esta infección al mismo tiempo que, mientras no se disponga de vacunas eficaces y seguras frente al propio SARS-CoV-2, el papel que pueden ejercer sobre el mismo otras vacunas conocidas.
+
+
+- CONCLUSIONES
+
+El tratamiento con fármacos antihipertensivos ARA-2 y la obesidad se identifican como factores de riesgo, mientras que la hospitalización en los tres meses previos por cualquier causa y, posiblemente, la vacunación antineumocócica conjugada de 13 serotipos se postulan como factores protectores.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

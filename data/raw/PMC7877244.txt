@@ -1,0 +1,50 @@
+OPTIMIZACIÓN Y ADECUACIÓN DE LA CAPACIDAD DIAGNÓSTICA PARA LA REALIZACIÓN DE GRANDES VOLÚMENES DE RT-PCR DE SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+Durante primera ola pandémica, se comprobó que la capacidad diagnóstica mediante Reverse Transcription Polymerase Chain Reaction (RT-PCR) de SARS-CoV-2 en los centros hospitalarios eran insuficientes para dar respuesta a la enorme demanda asistencial generada. En parte, porque se pasó de la realización de la PCR-RT como herramienta de diagnóstico clínico a emplearla como una herramienta de diagnóstico epidemiológico.
+A comienzos de septiembre de 2020, antes de la publicación de la recomendación de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (SEIMC) sobre sobre la organización del diagnóstico del SARS-CoV-2, detectamos un aumento del número de muestras para el diagnóstico por RT-PCR del SARS-CoV-2, que coincidía con una posible evolución desde un escenario 2 (circulación viral con brotes localizados) a un escenario 3 (transmisión comunitaria) en nuestra área sanitaria con base en los criterios del Centers for Disease Control . En ese momento se inició una optimización en la toma de decisiones diagnósticas mediante la planificación de los posibles escenarios evolutivos.
+
+
+- MÉTODOS Y FUNCIONALIDADES
+
+-- ANÁLISIS Y PREDICCIÓN DEL FLUJO DE TRABAJO
+
+El análisis incluyó el número de pruebas de RT-PCR semanales desde el inicio de la pandemia, e incluyó 31.971 registros. Atendiendo a la presencia de tendencia en este periodo, se calculó un modelo de predicción mediante la técnica de doble suavizado exponencial de Holt para la previsión del número de muestras esperadas para las semanas 37 a 44 (meses de septiembre y octubre). La selección del modelo se realizó mediante el mínimo Bayesian Information Criterion (BIC) y la confirmación de ausencia de autocorrelación residual mediante Ljung-Box test . El análisis se efectuó mediante el programa estadístico IBM SPSS v.21 (IBM, Armonk).
+
+
+-- PLANIFICACIÓN DE LA NECESIDAD DE UNA ESCALADA PROGRESIVA DE LA CAPACIDAD DIAGNÓSTICA
+
+La planificación de la capacidad y de las opciones diagnósticas disponibles se plantearon de acuerdo con los posibles escenarios derivados de las predicciones efectuadas y de las recomendaciones del Innovative Genomics Institute SARS-CoV-2 Testing Consortium .
+
+
+- RESULTADOS
+
+-- ANÁLISIS Y PREDICCIÓN DEL FLUJO DE TRABAJO
+
+La predicción efectuada sugería, conforme a sus valores medios y sus intervalos de confianza, tres escenarios de pronóstico (optimista, probable y pesimista). Los valores pronosticados por el modelo junto con su IC 95% se reflejan en la tabla 1 y en la figura 1 A.Figura 1
+
+
+-- DISEÑO DEL SISTEMA
+
+De acuerdo con las predicciones obtenidas, se optó por una solución automatizada y escalable basada en el empleo de robots de manipulación de líquidos de código abierto OT-2 (Opentrons), para configurar un flujo de trabajo reproducible para las pruebas RT-PCR de SARS-CoV-2. Este diseño, permitió la optimización del número de robots utilizados por línea de trabajo (fig. 1B).
+En la fase analítica se procedió a una automatización y estandarización del flujo de trabajo mediante un software externo que garantizó en todo momento la trazabilidad. El diseño de la fase analítica implicó el empleo de procesos manuales y robotizados, conforme a los términos de rendimiento de tiempo.
+El proceso de inactivación se realizó externamente a los OT-2, de forma manual en cabina de bioseguridad, debido a la gran variedad de viales de muestra recibidos.
+El proceso automatizado implicó la puesta en funcionamiento de cinco líneas de trabajo con dos módulos OT-2 por línea. Los OT-2 fueron configurados en modo asincrónico, utilizándose de forma progresiva en base a la demanda de pruebas. En cada línea, el primer OT-2 (estación A) se configuró para automatizar dos procesos independientes: por un lado, la dispensación de la mezcla de lisis en los pocillos de muestra y, por otro lado, la dispensación tanto de los reactivos necesarios para el proceso de extracción, como la mezcla de reacción. El segundo OT-2 (estación B) se configuró para realizar el proceso de extracción del ARN y la preparación de las placas de reacción de 96 pocillos. Los procesos de retrotranscripción y amplificación se realizaron externamente en termocicladores QuantStudio5 (Thermofisher Scientific). En este proceso, un programa intermedio (aplicación in house programada en VBA) conectaba con el programa de trazabilidad, y permitía programar las mismas posiciones en el software del termociclador.
+En la fase post-analítica, los resultados generados por los termocicladores se volvieron a exportar al programa intermedio, y luego se transformaron en una tabla fácil de usar, la cual incluía una interpretación automática de los resultados.
+
+
+-- RENDIMIENTO DEL SISTEMA
+
+En términos de rendimiento, una vez que se solaparan los tiempos de trabajo, se podrían procesar y validar 94 muestras cada dos horas por línea OT-2, lo que llevaría a un rendimiento máximo por línea de, aproximadamente, 1.128 muestras/día. El sistema de 5 OT-2 (5 xestación A, 5 xestación B) trabajando en paralelo arrojaría un rendimiento máximo de 5.640 muestras/día, por encima de la estimación proporcionada por el modelo.
+Este protocolo de trabajo permitió procesar y validar el gran volumen de muestras recibidas al día del área sanitaria en poco tiempo. Según el método de comunicación de resultados al área sanitaria que fue establecido, el 21,6% fue informado en las primeras ocho horas desde su recepción en el laboratorio, y el 90% en las primeras 24 horas.
+
+
+- DISCUSIÓN
+
+Desde el punto analítico, la pandemia ha puesto en evidencia dos grandes problemas: la capacidad diagnóstica de los laboratorios y otro muy importante de logística, . Para responder a esta demanda, la mayoría de los laboratorios se han apoyado en plataformas comerciales «cerradas». Estos sistemas responden mal a grandes incrementos en la demanda al no ser escalables, o a la necesidad de inclusión de nuevas pruebas. Por otro lado, ante un incremento importante de la demanda, estos sistemas pueden tener problemas de logística si el fabricante tiene escasez en cualquier parte de la cadena de suministro de fabricación de reactivos. Sin embargo, las plataformas de código abierto, como los OT-2, tienen importantes ventajas en comparación con las plataformas comerciales, , sobre todo por su flexibilidad y rápida adaptación a las necesidades diagnósticas y la adaptación a los reactivos disponibles, así como por su rentabilidad.
+No obstante, el establecimiento de un flujo de trabajo reproducible basado en OT-2 tiene una serie de puntos críticos. Desde el punto de vista organizativo, la necesidad de integrar procesos externos a los OT-2. La inactivación de las muestras es un paso que fácilmente se podría integrar en los OT-2, pero fue imposible por la variedad de tipos de viales de transporte que se recibían. Además, otro punto crítico es su integración con los sistemas de amplificación, aspecto que fue solventado utilizando un software de trazabilidad que permitía la programación automática de los termocicladores. Desde el punto de vista analítico, un punto crítico es la extracción de ARN, aspecto que puede marcar la diferencia entre utilizar los OT-2 como sistemas de dispensación de líquidos a convertirlos en plataformas de diagnóstico molecular. La adaptación de módulos magnéticos a los OT-2 permitió incluir este proceso en el flujo de trabajo y disminuir el empleo de equipamiento externo. Otro punto limitante ocurre en la fase post-analítica, con la revisión y validación de un gran volumen de resultados, que en nuestro caso fue resuelto mediante la implementación de una solución informática que facilitaba y automatizaba el proceso.
+A pesar de la mejora en el procesamiento de grandes volúmenes de muestras, y como se indica en los resultados, no conseguimos informar el 100% de las muestras en las primeras 24 horas. Esto se debe a que las muestras se recibían en grandes volúmenes (en tandas de más de 1.000 muestras), por lo que, en ocasiones, las cinco líneas estaban ocupadas, quedando muestras a la espera de ser procesadas. Además, todas las muestras debían estar correctamente registradas antes de ser procesadas para asegurar la trazabilidad.
+Pese al punto anterior, el flujo de trabajo con los OT-2 permitió adaptarnos al escenario esperado. A modo de ejemplo, cuando se compara nuestra solución basada en módulos OT-2 frente a otras plataformas comerciales, se observa que los tiempos de respuesta son ligeramente superiores, cuatro horas frente a las 3,5 horas del Cobas SARS-CoV-2 RT-PCR (Roche Diagnostics) o las 2,5 horas (aunque requiere inactivación previa) del Panther Fusion SARS-CoV-2 RT-PCR (Hologic, Inc). Sin embargo, la capacidad diagnóstica, es mucho más versátil, trabajando a pleno rendimiento, los módulos OT-2 permiten procesar 5.640 muestras/día, frente a las 1.440 y 1.150 de las plataformas Cobas y Panther respectivamente a no ser que se emplearan varias plataformas de forma conjunta.
+Nuestro diseño apoya el uso de plataformas abiertas de PCR, las cuales están asumiendo actualmente una parte significativa de las pruebas de RT-PCR de SARS-CoV-2 que se procesan en algunos hospitales y centros de investigación.

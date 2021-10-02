@@ -1,0 +1,15 @@
+HIDROXICLOROQUINA EN EL TRATAMIENTO DEL COVID-19: CÓMO UTILIZARLA A LA ESPERA DE EVIDENCIA CIENTÍFICA CONCLUYENTE
+
+
+Sr. Editor:
+No existe hasta la fecha un tratamiento eficaz contra el nuevo coronavirus tipo 2 del síndrome respiratorio agudo grave (SARS-CoV-2), responsable de la enfermedad COVID-19. Numerosos estudios clínicos están evaluando la utilidad de fármacos antivirales e inmunomoduladores, donde los antimaláricos como cloroquina e hidroxicloroquina (HCQ) son una de las alternativas estudiadas.
+Hasta el momento, la experiencia clínica en el uso de HCQ surge principalmente del tratamiento en pacientes con lupus eritematoso sistémico (LES), cuyos efectos a largo plazo muestran múltiples beneficios. Sin embargo, las dosis acumuladas elevadas se han asociado a efectos adversos graves, sobre todo a nivel de la retina y el miocardio.
+Muchos protocolos asistenciales proponen el uso de HCQ en el tratamiento de la COVID-19. Sin embargo, es importante considerar los efectos adversos miocárdicos, como el desarrollo de arritmias graves, .
+En el paciente con COVID-19, la posible afectación cardíaca está relacionada principalmente con 4 factores: 1) cardiopatía subyacente (muchas veces silente en pacientes de mayor edad); 2) afectación miocárdica producida por la infección y la propia respuesta inflamatoria, lo que da lugar a una miocarditis con elevación de troponinas; 3) toxicidad aguda probablemente asociada al uso de los antimaláricos en dosis elevadas, más evidente en tratamientos con cloroquina y 4) uso concomitante de otros tratamientos que junto a la HCQ, prolongan el intervalo QT corregido (QTc), con riesgo de arritmias ventriculares graves, , .
+¿En ausencia (a la espera) de evidencia científica concluyente, qué consideraciones se deben tener en cuenta al utilizar la HCQ en el tratamiento de la COVID-19? Es necesario cambiar la forma en la que habitualmente se usa la HCQ en pacientes con LES, adaptando su prescripción y control de potenciales efectos adversos a este nuevo escenario terapéutico. Las siguientes consideraciones persiguen optimizar el tratamiento con HCQ de la COVID-19:
+En definitiva, en la prescripción de HCQ en la COVID-19 se deben tomar precauciones distintas hasta las ahora consideradas en pacientes con LES. Debe indicarse en su ventana de oportunidad y considerar la afectación miocárdica multifactorial existente, buscando evitar efectos adversos cardiovasculares. El resultado de diferentes estudios controlados y aleatorizados que refrenden o refuten la utilidad de la HCQ en el tratamiento de COVID-19 servirán para definir su rol en este escenario clínico.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.

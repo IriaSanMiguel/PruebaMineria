@@ -1,0 +1,110 @@
+RECOMENDACIONES DE ACTUACIÓN EN CIRUGÍA TORÁCICA ELECTIVA Y URGENTE EN CONTEXTO DE PANDEMIA POR SARS-COV-2 DE LA SOCIEDAD ESPAÑOLA DE CIRUGÍA TORÁCICA (SECT
+
+
+- INTRODUCCIÓN
+
+Durante la expansión del coronavirus SARS-CoV-2 la asistencia sanitaria se ha visto desbordada y gran parte de la actividad habitual, y de forma muy especial la quirúrgica programada, ha quedado suspendida. La Sociedad Española de Cirugía Torácica (SECT), a través de su Comité Científico, ha desarrollado el presente documento orientado a colaborar en la reorganización de la actividad con el fin de minimizar los riesgos para pacientes y profesionales sanitarios derivados de la propia asistencia sanitaria, minimizar los efectos colaterales por no poder prestar la atención sanitaria que precisan los pacientes con patología diferente a la producida por SARS-CoV-2, optimizar al máximo los recursos sanitarios para alcanzar la máxima eficiencia posible e investigar y ofrecer soluciones a los procesos propios de la especialidad que aparecen de forma novedosa en estos pacientes.
+La evolución de la extensión y de la afectación por el coronavirus SARS-CoV-2 es dinámica y los escenarios son cambiantes en espacios de tiempo muy breves y en ámbitos geográficos distintos. Por ello, las recomendaciones, hasta el momento soportadas por un débil nivel de evidencia, están sujetas a continuas modificaciones y deberán ser flexibles.
+En el momento de plantear este documento se parte de la premisa de que la expansión del coronavirus SARS-CoV-2 está generalizada y no es posible seguir la trazabilidad del mismo. Se trata, pues, de un documento de máximos, que entendemos aplicable a potenciales amenazas similares que pudieran producirse. En el caso de pequeños brotes limitados, aun cuando obligasen a tomar medidas puntuales de reajuste transitorio de la actividad asistencial, muchas de las recomendaciones establecidas en este documento pueden no ser necesarias. Se ha desarrollado pues este manuscrito para un momento en que cualquier persona deba entenderse como un potencial portador y transmisor del virus. Asimismo, se enfoca a unas circunstancias en las que no se dispone de herramientas certeras que nos permitan descartar a pacientes portadores asintomáticos del virus. En relación con el coronavirus SARS-CoV-2, no ha transcurrido el tiempo suficiente para poder conocer cómo se desarrolla la inmunidad en estos pacientes, si esta es completa y cuál es su duración en el tiempo.
+Los centros sanitarios son potenciales focos de expansión del coronavirus SARS-CoV-2. Conocer la situación de infección o el estado inmunológico del paciente y del profesional sanitario en cada acto médico es prioritario para establecer circuitos asistenciales libres de COVID que permitan optimizar la asistencia a otras patologías.
+
+
+- MÉTODOS
+
+Para la elaboración de este documento se ha realizado una revisión bibliográfica a través de PubMed (con las palabras clave «COVID-19», «SARS-CoV-2» y «Thoracic Surgery») y se han consultado, entre otras, las páginas web del Ministerio de Sanidad de España, del Centro para el Control de Enfermedades (CDC), de la Organización Mundial de la Salud (OMS), del American College of Surgeons (ACS) y otras correspondientes a diversas sociedades científicas nacionales e internacionales. Dicha búsqueda fue realizada por el comité científico de la SECT para, tras la puesta en común por medio de reuniones telemáticas, redactar las recomendaciones extraídas de forma conjunta en el presente documento. No se utilizó ninguna técnica reglada de consenso formal.
+El texto definitivo fue revisado por cada miembro del comité científico de la SECT, así como por los miembros de la sección de Cirugía Torácica de la Asociación Española de Cirujanos (AEC) y su comité científico. La primera versión del documento fue publicada en la página web de la SECT y de la AEC el 29 de abril de 2020. Se ha tratado de establecer recomendaciones sobre cirugía programada y urgente: organización interna de un Servicio de Cirugía Torácica (SCT), medidas en los diferentes ámbitos de atención sanitaria, organización de la actividad quirúrgica programada en función del escenario epidemiológico y requisitos mínimos exigibles para llevar a cabo procedimientos programados con seguridad para pacientes y profesionales. Dentro de la actividad quirúrgica urgente se analizó el manejo del espacio pleural (drenajes torácicos) y de la vía aérea (traqueostomías), haciendo finalmente una breve referencia al trasplante pulmonar.
+
+
+- RESULTADOS
+
+-- ORGANIZACIÓN INTERNA DE UN SCT
+
+El objetivo debe ser optimizar los recursos humanos y materiales de cara a garantizar la continuidad de la actividad asistencial a corto, medio y largo plazo. En este sentido, la AEC establece unas recomendaciones generales que son extrapolables a cualquier servicio quirúrgico (tabla 1 ).
+
+
+-- MEDIDAS EN LOS DIFERENTES ÁMBITOS DE ATENCIÓN SANITARIA CON PACIENTES DE RIESGO INTERMEDIO O BAJO DE SER PORTADORES TRANSMISORES DEL VIRUS SARS-COV-2
+
+Cada centro sanitario establece medidas y recomendaciones orientadas a reducir el riesgo de expansión del virus en los diferentes ámbitos de asistencia. Una protocolización de la actividad y las medidas básicas de higiene son fundamentales para este objetivo (material suplementario).
+
+
+-- ACTIVIDAD QUIRÚRGICA PROGRAMADA EN UN SCT
+
+Es importante definir posibles escenarios de actuación de cara a establecer recomendaciones acerca de la manera de actuar. La evidencia actual acerca de las patologías y los efectos colaterales (tanto a nivel individual como en términos de salud pública) derivados de la infección por SARS-CoV-2 es muy limitada. Sí parece que la realización de un procedimiento quirúrgico en pacientes en período de incubación de enfermedad COVID-19 no conocida conlleva un elevado riesgo de complicaciones postoperatorias, con casi un 45% de necesidad de ingreso en UCI y hasta un 20% de mortalidad según pequeños estudios preliminares. Aun así, las recomendaciones actuales se basan hasta el momento en opiniones consensuadas de profesionales en base a la información publicada y a la propia experiencia colectiva, en este caso, de los cirujanos torácicos.
+La SECT tiene establecidos canales de comunicación en tiempo real con sus socios de cara a recabar la experiencia que van acumulando en aspectos relacionados con SARS-CoV-2 y la cirugía torácica, a través de correos electrónicos, redes sociales o el diseño de encuestas. Asimismo, a través de la SCT de la AEC y de otras sociedades científicas se intenta obtener toda la información complementaria que permita ir extrayendo conclusiones y transmitirlas a la comunidad científica.
+
+
+-- ESCENARIOS DE ACTUACIÓN EN FUNCIÓN DE LA INCIDENCIA Y LA PREVALENCIA DE PATOLOGÍA POR SARS-COV-2 EN LOS CENTROS HOSPITALARIOS
+
+La AEC ha establecido una clasificación de cinco posibles escenarios de la pandemia SARS-CoV-2 en un centro hospitalario (tabla 2 ). A lo largo de las primeras semanas de pandemia, según una encuesta realizada por la SECT y que actualmente está pendiente de publicación, se estima que hasta en un 75% de los hospitales con SCT en España la situación en los momentos pico de la pandemia ha correspondido a los escenarios IV y V. La cirugía oncológica torácica es, por definición, cirugía preferente, y entendemos que en determinadas situaciones no se pueden posponer cirugías preferentes no urgentes a pesar de un escenario considerado como de «alerta alta» o incluso de «emergencia». Dado el riesgo de rebrotes, deben permanecer actualizados protocolos de actuación que contemplen todos los escenarios posibles.
+Una gran mayoría de pacientes sometidos a cirugía oncológica torácica no generan estancias postoperatorias en UCI. La utilización de este tipo de recursos humanos y materiales es relativamente baja. Por este motivo, en fases de desescalada este tipo de pacientes deben ser considerados como prioritarios en la gestión de procesos quirúrgicos hospitalarios. Presentamos un posible orden de priorización de las patologías oncológicas torácicas y los requisitos que deben cumplirse para su realización.
+
+
+--- PRIORIZACIÓN DE INTERVENCIÓN QUIRÚRGICA PROGRAMADA EN PACIENTES CON PROCESOS TORÁCICOS
+
+Basamos nuestras recomendaciones en las establecidas por el American College of Surgeons (ACS), la American Association of Thoracic Surgery (AATS) y la Society of Thoracic Surgeons (STS), adaptándolas a las realidades actuales a lo largo de la evolución de la pandemia en España.• Nivel I. Pacientes que deben ser intervenidos de forma preferente.1)Carcinoma broncogénico (CB), confirmado histológicamente o no, sólido o predominantemente sólido (componente mayor del 50%) > 2 cm sin afectación ganglionar (cN0).2)CB, confirmado histológicamente o no, con afectación ganglionar sin indicación de neoadyuvancia.3)Tumores de estirpe neuroendocrina con afectación ganglionar mediastínica sin indicación de neoadyuvancia.4)CB que ha terminado el tratamiento neoadyuvante. En estos casos valorar riesgo/beneficio de prolongar dicho tratamiento neoadyuvante en casos individuales y en contexto de decisión por comité multidisciplinar.5)Tumores de pared torácica de alto grado. Valorar riesgo/beneficio de tratamiento neoadyuvante en casos individuales y en contexto de decisión por comité multidisciplinar.6)Procedimientos quirúrgicos diagnósticos o de estadificación en neoplasias o posibles neoplasias que precisan inicio de tratamiento preferente.7)Tumores mediastínicos que producen clínica. Valorar estudio histológico por punción transtorácica o endoscópica y tratamiento neoadyuvante en casos resecables en contexto de decisión por comité multidisciplinar.8)Casos seleccionados de pacientes con mesotelioma pleural resecable tras tratamiento neoadyuvante. Se recomienda individualizar los casos y valorar el potencial beneficio de la resección quirúrgica en comparación con un tratamiento sistémico radical con quimiorradioterapia. Valorar también en función del tipo de cirugía propuesta, considerándose de alto riesgo la realización de pleuroneumonectomía extrapleural.9)Complicaciones infecciosas de procesos oncológicos, como un absceso pulmonar, en los que el tratamiento médico ha fracasado o no es viable y que requieren resección quirúrgica para su resolución.• Nivel II. Pacientes en quienes la cirugía puede demorarse, aunque no más de tres meses desde la indicación quirúrgica.10)CB confirmado histológicamente o no, de predominio en vidrio deslustrado o con componente sólido inferior al 50%.11)CB confirmado histológicamente o no, de predominio sólido o predominantemente sólido de hasta 2 cm.12)Nódulo pulmonar sospechoso de malignidad de lento crecimiento, documentado por estudios radiológicos seriados retrospectivos.13)Neoplasias pulmonares de histología diferente a CB, conocida o sospechada de forma razonada, como metástasis pulmonares en contexto oligometastásico o tumores carcinoides sin afectación ganglionar mediastínica.14)Tumores tímicos poco agresivos confirmados por punción transtorácica sin sintomatología asociada. Ante la confirmación de carcinoma tímico o estadio B3 puede plantearse iniciar tratamiento de inducción y cirugía de rescate posteriormente.15)Pacientes que por su situación clínica o características de su patología presenten un alto riesgo de complicaciones postoperatorias. Se reevaluará de forma continua el riesgo/beneficio de la intervención quirúrgica.16)Procedimientos sobre vía aérea, como traqueostomías no urgentes, broncoscopias, cirugías traqueales salvo neoplasias malignas sin alternativa a la cirugía.• Nivel III. Pacientes en quienes la cirugía puede demorarse con bajo riesgo de complicaciones derivadas de ello: el resto de patologías.
+En el caso de las lesiones puras en vidrio deslustrado, el National Lung Screening Trial mostró que el riesgo de malignidad tras reevaluación con TC a los 6 meses es de apenas el 1,1%. Sin embargo, para lesiones de más de 2 cm el riesgo de malignidad en TC de reevaluación a los 3 meses es del 10,9%, . En estos casos, la interpretación de la evolución de las imágenes en vidrio deslustrado puede verse dificultada por las lesiones radiológicas propias de la neumonía por SARS-CoV-2, de distribución más difusa pero con aspecto de vidrio deslustrado, imágenes que se han descrito en pacientes asintomáticos y sin historia conocida demostrada de enfermedad COVID-19. Parece razonable esperar en estos casos al menos 3 meses para la reevaluación radiológica en lesiones de diámetro inferior a 2 cm.
+
+
+-- ALTERNATIVAS TERAPÉUTICAS A CONSIDERAR EN FUNCIÓN DE LA DISPONIBILIDAD Y LA EXPERIENCIA, PREVIA VALORACIÓN EN COMITÉ MULTIDISCIPLINAR
+
+Se ha propuesto en guías internacionales que en determinadas situaciones se pueden plantear tratamientos alternativos previa valoración del balance entre riesgo y beneficio:
+La aplicación de estas sugerencias debe ser muy cuidadosa y estar avalada por un comité multidisciplinar. Entendemos que deben reservarse para situaciones extremas y estar precedidas de una información exhaustiva al paciente, ya que pueden suponer un tratamiento oncológico subóptimo. No hay evidencia que permita recomendarlas desde una sociedad científica.
+Se deberá individualizar cada caso por parte de todo el SCT, reevaluando la lista de espera quirúrgica semanalmente en los casos de patologías de niveles I y II, y quincenalmente en las patologías de nivel III. Se recomienda contactar telefónicamente con los pacientes en lista de espera para actualizar su situación clínica y su posible evolución con una frecuencia de entre una y cuatro semanas en función del nivel de su patología. Se recomienda repetir una prueba de imagen que permita valorar los cambios en las lesiones objeto de la cirugía de modo que no transcurran más de 3 meses entre la última realizada y la intervención.
+
+
+-- REQUISITOS EXIGIBLES PARA PODER REALIZAR UNA INTERVENCIÓN QUIRÚRGICA PROGRAMADA MINIMIZANDO EL RIESGO AÑADIDO DE COMPLICACIONES EN UN CONTEXTO DE PANDEMIA COVID-19
+
+
+
+
+-- ACTIVIDAD QUIRÚRGICA TORÁCICA URGENTE
+
+--- GENERALIDADES
+
+El profesional que atiende a pacientes quirúrgicos torácicos urgentes suele no ser un cirujano torácico, en función del entorno sanitario y del centro hospitalario.
+
+
+--- RECOMENDACIONES PARA LA COLOCACIÓN Y MANEJO DE DRENAJES TORÁCICOS EN CONTEXTO DE PANDEMIA COVID-19
+
+
+
+
+--- REALIZACIÓN DE TRAQUEOSTOMÍA
+
+Es una indicación frecuente para favorecer el destete en pacientes con intubación prolongada por afectación pulmonar grave por SARS-CoV-2. Existe poca evidencia respecto a si resulta más segura en estos casos la realización de una traqueostomía percutánea o abierta. Será recomendable en cualquier caso realizar un procedimiento rápido por personal entrenado. Si bien no hay evidencia para recomendar la traqueostomía quirúrgica sobre la percutánea, esta última puede implicar un mayor tiempo de apertura de la vía aérea y de forma menos controlada. Existen ya publicadas recomendaciones generales en este sentido.
+
+
+--- PROCEDIMIENTOS QUIRÚRGICOS TORÁCICOS DE EMERGENCIA
+
+En situaciones en que el paciente presenta un riesgo vital en muy corto espacio de tiempo el abordaje general será igual al habitual, tomando las mayores medidas de seguridad posibles para el paciente y para los profesionales que lo atienden.
+
+
+--- SITUACIONES QUE REQUIEREN UN TRATAMIENTO QUIRÚRGICO PRECOZ, NO URGENTE
+
+Sería el caso de neumotórax con fuga aérea persistente sin complicaciones respiratorias, o la presencia de empiemas que pueden manejarse de forma conservadora. En estos casos la evolución debe ser monitorizada por un SCT, y si el manejo conservador es viable en condiciones de seguridad, optar por este.
+
+
+-- RECOMENDACIONES RELATIVAS AL TRASPLANTE PULMONAR
+
+La actividad de donación y trasplante se ha visto reducida desde una media diaria de 7 donantes y 15 trasplantes realizados a 1,1 donantes notificados y 2 trasplantes realizados al día en España. La Organización Nacional de Trasplantes (ONT) ha emitido sucesivas circulares estableciendo las recomendaciones en cada momento en función de la situación epidemiológica de la pandemia:
+El equipamiento de los profesionales será el propio de un procedimiento de riesgo moderado-alto.
+
+
+--- PROTOCOLO DE PROTECCIÓN DE PROFESIONALES EN QUIRÓFANO
+
+La AEC ha desarrollado un protocolo de actuación al respecto que resulta extrapolable a toda actividad quirúrgica. La cirugía con apertura de vía aérea o parénquima pulmonar se considera de especial riesgo de transmisión, . La cirugía mínimamente invasiva podría conllevar un menor riesgo de transmisión intraoperatoria del virus. No existe evidencia acerca del papel del CO2 utilizado intraoperatoriamente en la transmisión del virus.
+
+
+-- ACTUALIZACIONES DEL PRESENTE DOCUMENTO
+
+El comité científico de la SECT publicará actualizaciones del presente documento en las páginas web tanto de la SECT como de la AEC.
+
+
+- CONCLUSIONES
+
+La escasa evidencia a la hora de analizar los datos disponibles sobre los temas tratados, así como la rápida evolución de una situación epidemiológica de este tipo, hace difícil establecer recomendaciones sólidas desde una sociedad científica. Sin embargo, la puesta en común de los datos disponibles, adecuadamente interpretados por profesionales la cirugía torácica, en el seno de un comité científico, ha permitido la elaboración del presente documento, que puede ser adaptado a la situación clínico-epidemiológica particular de cada servicio y profesional en función de la realidad geográfica y temporal de la pandemia por SARS-CoV-2. Sirve asimismo como eje a partir del cual puedan, de manera prospectiva, validarse las hipótesis aquí presentadas.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

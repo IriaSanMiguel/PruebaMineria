@@ -1,0 +1,6 @@
+Estudio observacional, longitudinal, prospectivo y analítico. Se incluyeron pacientes con enfermedad renal crónica candidatos a diálisis peritoneal. Se les aplicó el cuestionario Palliative Care Outcome Scale-Symptoms Renal (POS-S Renal) en prediálisis y a los 3 meses de DPCA. Se determinó la carga sintomática residual a los 3 meses de DPCA con un valor ≥ 8 puntos del cuestionario POS-S Renal. Las variables clínicas y bioquímicas codificadas de forma dicotómica fueron comparadas con la carga sintomática residual. Se calcularon el riesgo relativo (RR), los intervalos de confianza del 95% y los modelos de regresión logística.
+Los pacientes en diálisis peritoneal presentan síntomas residuales que reducen su calidad de vida.
+Determinar los factores asociados a la carga sintomática residual en pacientes con diálisis peritoneal continua ambulatoria (DPCA).
+Se incluyeron 70 pacientes. La media de la tasa de filtrado glomerular fue de 4.7 ± 2 ml/min/1.73 m<sup>2</sup>. La mediana de la puntuación POS-S Renal en prediálisis fue de 30 puntos y a los 3 meses de la DPCA fue de 8 puntos. La carga sintomática leve prediálisis presentó un RR de 0.18.
+La carga sintomática leve prediálisis es un factor protector independiente de la carga sintomática residual a los 3 meses de la DPCA.
+

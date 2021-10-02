@@ -1,0 +1,329 @@
+PREVENCIÓN DE LAS ENFERMEDADES INFECCIOSAS. ACTUALIZACIÓN EN VACUNAS, 2020<SUP
+
+
+En medicina, el desarrollo de vacunas es uno de los sectores que mayor expansión está teniendo y va a tener en el futuro, como estamos viviendo con la emergencia sanitaria por el coronavirus SARS-CoV-2.
+En esta edición se hace especial hincapié en el calendario común de vacunación propuesto por el Ministerio de Sanidad en el que, por fin, ya no discrimina entre pediatría y adultos, sino que propone un calendario a lo largo de toda la vida .
+A día de hoy las novedades principales en el campo de la vacunología se centran en la consolidación de la vacuna nonavalente frente al virus de papiloma humano (VPH) y en el cambio de la dosis de vacuna antimeningocócica monovalente C por la tetravalente ACWY a los 12 años de edad. La pandemia que estamos viviendo ha pospuesto la mayoría de actividades preventivas. El retorno a la «normalidad» ha de examinar el calendario vacunal y completarlo si fuera el caso.
+
+
+- NORMAS GENERALES PARA LA ADMINISTRACIÓN DE VACUNAS (<XREF RID="TBL0010" REF-TYPE="TABLE">TABLA 2</XREF>, <XREF RID="TBL0015" REF-TYPE="TABLE">TABLA 3</XREF
+
+Antes de administrar una vacuna se debe revisar si está indicada, la pauta de vacunación recomendada, si presenta contraindicaciones o si se deben tomar precauciones especiales. Se deben revisar los antecedentes vacunales para evitar oportunidades perdidas de vacunación.
+El registro vacunal debe estar disponible en la historia clínica e idealmente complementarse con un documento de registro individual. Existen protocolos para las personas con calendarios incompletos o que comienzan la vacunación tardíamente. No se ha de reiniciar una pauta de vacunación si ya se han administrado dosis previas, sino completarla independientemente del intervalo máximo transcurrido desde la última dosis.
+Dosis puesta = dosis contada, siempre que se respete el intervalo mínimo entre dosis.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Comisión de Salud Pública. 25 de marzo de 2020. Prioridades del programa de vacunación durante el estado de alarma debido a COVID-19. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/COVID-19_Vacunacionprioritaria.pdf
+Ponencia de Programa y Registro de Vacunaciones. Calendario acelerado de vacunaciones. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Consumo y Bienestar Social; julio 2019. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/calendario-y-coberturas/docs/Calendario_Acelerado_Vacunaciones.pdf
+Estrategia MenACWY en adolescentes y jóvenes. Ministerio de Sanidad, Consumo y Bienestar Social. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/adolescentes-meningo/home.htm
+
+
+- RECOMENDACIONES DE VACUNACIÓN DEL PERSONAL SANITARIO (<XREF RID="TBL0020" REF-TYPE="TABLE">TABLA 4</XREF
+
+Se considera personal sanitario a los profesionales sanitarios y a cualquier personal que pueda estar en contacto con pacientes, con materiales potencialmente infecciosos o expuesto a infecciones transmitidas hacia y desde los profesionales sanitarios: personal de limpieza, seguridad, administrativo, estudiantes, mantenimiento, voluntarios.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en trabajadores sanitarios. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad; 2017. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/docs/Vacunacion_sanitarios.pdf
+Swift MG, Behrman AJ. Vaccines for Health Care Personnel. Mayo Clin Proc. 2019;94:2127-2141. Disponible en: https://www.mayoclinicproceedings.org/article/S0025-6196(19)30127-2/pdf
+
+
+- VACUNA TRIPLE VÍRICA (TV): SARAMPIÓN, RUBEOLA, PAROTIDITIS
+
+Es una vacuna de virus vivos atenuados, segura e inmunógena, que produce seroconversión en el 95-100% de los vacunados a los 28 días tras la vacunación.
+El sarampión es una enfermedad vírica extremadamente contagiosa que puede ocasionar graves complicaciones como neumonía y encefalitis, con secuelas graves y alta mortalidad. En el 2017 la OMS certificó la eliminación del sarampión en España, pero se debe. Se debe alcanzar coberturas de vacunación superiores al 95% para su eliminación a nivel mundial, ya que los flujos migratorios y el aumento de la movilidad de las personas propician la circulación del virus dando lugar a brotes entre nuestra población sin vacunar o con vacunación incompleta.
+Respecto a la rubeola, la incidencia en España se encuentra en niveles de eliminación gracias a las altas coberturas alcanzadas con la vacuna triple vírica. El mayor riesgo de esta enfermedad se centra en su teratogenicidad, ya que cuando afecta a una gestante puede provocar en el feto el síndrome de rubeola congénita. Desde el 2005 no se ha notificado ningún caso en España.
+La incidencia de la parotiditis ha ido en aumento desde 2006 en nuestro ámbito con ondas epidémicas cada 4-5 años como consecuencia de la evanescencia de la inmunidad inducida por la vacuna jugando esta un papel central en el resurgimiento de las paperas entre adultos jóvenes vacunados, tanto los vacunados con la cepa Rubini en los años 90 como los que reciben desde el 2001 la vacuna con la cepa Jeryl Lynn o su derivada, la RIT 4385, que aunque proporciona una seroconversión por encima del 95% ya con una sola dosis, también disminuye su efectividad con el tiempo. Actualmente se está considerando implementar una tercera dosis de triple vírica especialmente durante los periodos epidémicos.
+
+
+-- RECOMENDACIONES DE VACUNACIÓN CON TRIPLE VÍRICA
+
+--- BIBLIOGRAFÍA RECOMENDADA
+
+Instituto de Salud Carlos III. CIBERESP y Ministerio de Sanidad. Plan Nacional de Eliminación del Sarampión y de la Rubeola. Informe anual 2018. Madrid; febrero de 2020. Disponible en: https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Documents/archivos%20A-Z/RUB%C3%89OLA/Resultados_Vigilancia/Informe%20anual%20del%20Plan%20Nacional%20de%20Eliminaci%C3%B3n%20del%20Sarampi%C3%B3n%20y%20de%20la%20Rubeola.%20Espa%C3%B1a,%202018_publicado_V2.pdf
+Cardemil CV, Dahl R, James L, Wannemuehler K, Gary HE, Shah M, et al. Effectiveness of a third dose of MMR vaccine for mumps outbreak control. N Engl J Med. 2017; 377:947-956. https://doi.org/10.1056/NEJMoa1703309
+Kaaijk P, Wijmenga-Monsuur AJ, van Houten MA, Veldhuijzen IK, Ten Hulscher HI, Kerkhof J, et al. A third dose of measles-mumps-rubella vaccine to improve immunity against mumps in young adults. J Infect Dis. 2020;221:902-909. https://doi.org/10.1093/infdis/jiz188
+Marlow MA, MarinM, Moore K. CDC guidance for use of a third dose of MMR vaccine during mumps outbreaks. J Public Health Manag Pract. 2020;26:109-115. https://doi.org/10.1097/PHH.0000000000000962
+
+
+- VACUNAS ANTIVIRUS DE LA VARICELA-ZOSTER
+
+-- VACUNA FRENTE A LA VARICELA
+
+La varicela es una enfermedad producida por el virus varicela-zoster (VVZ). La primoinfección provoca la varicela, y una vez infectado el organismo, el virus permanece latente durante años y puede producir en algunos casos un segundo cuadro clínico que es el herpes zoster.
+El reservorio del VVZ es exclusivamente humano, y cualquier persona es susceptible de padecerla. Es una enfermedad muy contagiosa, y el 85% de los casos se producen antes de los 10 años de edad. Las personas inmunodeprimidas y las embarazadas presentan un mayor riesgo de varicela grave. Existe la transmisión intrauterina (varicela congénita) en madres infectadas durante el embarazo y la transmisión perinatal.
+Existen dos vacunas monovalentes y dos combinadas con la triple vírica. Todas son atenuadas. Las monovalentes están autorizadas tanto en niños como en adultos y son intercambiables. Las tetravíricas están autorizadas hasta los 11 años de edad. Son efectivas, seguras y generalmente bien toleradas.
+El impacto de la vacunación infantil frente al VVZ en la incidencia del herpes zoster o el desplazamiento de la varicela a adultos no se ha constatado.
+Las indicaciones/recomendaciones de vacunación frente a varicela se presentan en la tabla 6.
+
+
+-- VACUNA FRENTE AL HERPES ZOSTER
+
+Actualmente solo hay una vacuna frente al herpes zoster comercializada en España. Es de virus atenuados de la misma cepa que la varicela, pero con más cantidad de antígeno. Existe otra vacuna inactivada de subunidades obtenida por técnica de recombinación de ADN recientemente autorizada en la Unión Europea y disponible en los próximos años.
+En el momento actual y en nuestro ámbito, no se recomienda la vacunación frente a herpes zoster en adultos sanos.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Gabutti G, Bolognesi N, Sandri F, Florescu C, Stefanati A. Varicella zoster virus vaccines: an update. Immunotargets Ther. 2019;8:15-28. Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6689529/
+Bernal Lopez J, Hobbelen P, Amirthalingam G. Burden of varicella complications in secondary care, England, 2004 to 2017. Euro Surveill. 2019;24(42):pii = 1900233. https://doi.org/10.2807/1560-7917.ES.2019.24.42.1900233
+Sauboin C, Holl K, Bonanni P, Gershon AA, Benninghoff B, Carryn S, et al. The impact of childhood varicella vaccination on the incidence of herpes zoster in the general population: modelling the effect of exogenous and endogenous varicella-zoster virus immunity boosting. BMC Infect Dis. 2019;19:126. doi:10.1186/s12879-019-3759-z. https://bmcinfectdis.biomedcentral.com/track/pdf/10.1186/s12879-019-3759-z
+Civen R, Marin M, Zhang J, Abraham A, Harpaz R, Mascola L, et al. Update on incidence of herpes zoster among children and adolescents after implementation of varicella vaccination, Antelope Valley, CA, 2000 to 2010. Pediatr Infect Dis J. 2016;35:1132-1136.
+
+
+- VACUNAS FRENTE A HEPATITIS VÍRICAS
+
+-- VACUNAS FRENTE A HEPATITIS A (HA) Y HEPATITIS B (HB
+
+España es un país de baja endemicidad de hepatitis A. Todas las vacunas frente a HA son inactivadas, seguras y muy inmunógenas ya con una dosis, aunque para protección a largo plazo se recomienda una dosis de recuerdo con pauta 0, 1 meses. No se recomienda la vacunación sistemática salvo en las comunidades autónomas (CC.AA.) de Cataluña, Ceuta y Melilla. No se recomienda en personas inmunocompetentes. Se recomienda en los grupos de riesgo recogidos en la tabla 7.
+En el año 1996 todas las CC.AA. tenían implantada la vacunación frente a HB en adolescentes y en el 2002 en recién nacidos. Podemos considerar a los nacidos en España a partir de 1982 vacunados frente a HB. Son vacunas inactivadas, inmunógenas y seguras, recomendadas, con pauta de 3 dosis (0, 1, 6 meses) a los < 18 años que no se hayan vacunado con anterioridad y en grupos de riesgo . Debemos revisar la susceptibilidad en > 19 años con riesgo personal u ocupacional de adquirir la infección y en profilaxis postexposición percutánea a fluidos corporales infectados . Es importante ver la respuesta a la vacuna frente a HB a los 1-2 meses de la última dosis y si anti-HBs < 10 mUI/ml se considera negativa y se recomienda una nueva serie completa de 3 dosis y nueva determinación de anti-HBs en 1-2 meses. Si persiste negativa (<10 mUI/ml) se considera a la persona como no respondedora y susceptible, pero no debe aplicársele más dosis y en caso de exposición al virus HB se indicará IgG anti-HB.
+Disponemos de vacunas combinadas bivalentes frente a la HA y HB con menor carga antigénica de HA que en las monovalentes. Indicada en susceptibles de grupos de riesgo que precisen protección que coincida tanto frente a HA como frente a HB con pauta de 3 dosis (0, 1, 6 meses).
+
+
+--- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Recomendaciones de vacunación frente a hepatitis A en grupos de riesgo. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional; 2017. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_HepatitisA.pdf
+World Health Organization. WHO position paper on hepatitis A vaccines-June 2012. Wkly Epidemiol Rec. 2012;87:261-276.
+Freedman MS, Hunter P, Ault K, Kroger A. Advisory Committee on Immunization Practices Recommended Immunization Schedule for Adults Aged 19 Years or Older — United States, 2020. MMWR Morb Mortal Wkly Rep. 2020;69:133-135. https://doi.org/10.15585/mmwr.mm6905a4
+Urbiztondo L Pérez-Martin JJ, Borràs-López E, Navarro-Alonso JA, Limia A. Immunization recommendations against hepatitis A in Spain: Effectiveness of immunization in MSM and selection of antigenic variants. EBioMedicine. 2019;45:19-20. https://www.thelancet.com/action/showPdf?pii=S2352-3964%2819%2930408-6
+Das S, Ramakrishnan K, Behera SK, Ganesapandian M, Xavier AS, Selvarajan S. Hepatitis B vaccine and immunoglobulin: Key concepts. J Clin Transl Hepatol. 2019;7:165-171. https://doi.org/10.14218/JCTH.2018.00037
+Borrás E, Urbiztondo L, Carmona G, Jané M, Barrabeig I, Rosa Sala M, et al. Working Group for the Study of Hepatitis B in Catalonia. Effectiveness and impact of the hepatitis B vaccination program in preadolescents in Catalonia 21 years after its introduction. Vaccine. 2019;37:1137-1141. https://doi.org/10.1016/j.vaccine.2019.01.024
+https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html#note-hepa
+
+
+-- VACUNAS FRENTE AL VIRUS DEL PAPILOMA HUMANO
+
+La infección por el VPH es la infección de transmisión sexual más frecuente en Occidente. Infecta piel y mucosas tanto genitales, anales como orofaríngeas. Se estima que el 75% de mujeres y el 85% de varones sexualmente activos se infectarán a lo largo de su vida. La prevalencia está en relación inversa a la edad, siendo cercana al 29% en los más jóvenes y disminuyendo al 7% en los mayores de 60 años.
+La mayor parte de las infecciones se resuelven (aclaran) espontáneamente en 2 años. Del 10% que persisten, un 1% puede evolucionar a lesiones preneoplásicas y neoplasias. El riesgo de malignización es mayor en inmunocomprometidos.
+Existen unos 200 genotipos de VPH que podemos clasificar en: bajo riesgo oncogénico o no oncogénicos, relacionados con condilomas (los tipos 6 y 11, en el 90%), y otros de alto riesgo oncogénico, relacionados hasta la actualidad con cánceres de cérvix, vagina, vulva, ano, pene y orofaríngeo. Los tipos 16 y 18 se relacionan con ≈ 65% de cánceres de cuello uterino (CCU) y una fracción variable de los otros tumores relacionados con el VPH, y los tipos 31, 33, 45, 52 y 58 a los que se les atribuye un 20% de CCU.
+La prevención de la infección y de las lesiones ocasionadas por el VPH incluye el uso de preservativo masculino y femenino (aunque sin asegurar protección completa), la vacunación y el cribado con citologías cervicales.
+La vacunación no modifica la historia natural de la infección si esta ya se ha producido por alguno de los genotipos incluidos en la vacuna.
+Las vacunas disponibles son seguras, eficaces y eficientes ya que han demostrado disminuir la carga de la enfermedad asociada al VPH. Los efectos adversos son habitualmente locales y similares a los descritos en cualquier otra vacuna.
+
+
+--- INDICACIONES (<XREF RID="TBL0060" REF-TYPE="TABLE">TABLA 12</XREF
+
+Existe evidencia sobre la eficacia valorada en la prevención de lesiones precursoras de cáncer de cérvix (displasia alto grado, CIN 2+, neoplasias vaginales VAIN y vulvares VIN1-3). Se demuestra mayor eficacia en mujeres vacunadas previamente al contacto con el virus, por lo que es más eficiente vacunar antes del inicio de relaciones sexuales.
+La respuesta inmunógena, medida en cifra media geométrica de títulos de anticuerpos, es mayor tras la vacunación que tras la infección natural.
+En varones han demostrado eficacia y seguridad para lesiones intraanales. Se recomiendan en hombres que tienen sexo con hombres. Se prefieren las tetra- y nonavalentes que cubren además los genotipos 6 y 11 relacionados con los condilomas.
+
+
+--- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo vacunación en población adulta y grupos de riesgo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Consumo y Bienestar Social; julio 2018. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/riesgo/docs/VacGruposRiesgo_todas_las_edades.pdf
+Grupo de trabajo vacunación en población adulta y grupos de riesgo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en población adulta. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Consumo y Bienestar Social; septiembre 2018. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Vacunacion_poblacion_adulta.pdf
+Documento técnico «Calendario de vacunación del adulto 2019». Dirección General de Salud Pública, Consejería de Sanidad de la Comunidad de Madrid. Disponible en: https://www.comunidad.madrid/servicios/salud/vacunas#profesionales
+Aldaz Herce P, Morató Agustí ML, Gómez Marco JJ, Javierre Miranda AP, Martín Martín S, Moreno Millán N, et al. Grupo de expertos del PAPPS. Prevención de las enfermedades infecciosas. Actualización en Vacunas 2018. Aten Primaria. 2018;50(Supl. 1):66-82.
+Javierre Miranda AP, Aldaz Herce P. Novedades en: Vacunación frente al virus del papiloma humano. AMF. 2018;14:2304.
+Gómez Marco JJ, Morató Agustí ML, Robles Raya P, Moreno Jiménez J y Javierre Miranda AP. Estado actual de las nuevas indicaciones de la vacuna del Papiloma Humano. FMC. 2019;26:459-463.
+
+
+- VACUNA ANTITETÁNICA, ANTIDIFTÉRICA Y ANTIPERTUSSIS
+
+-- VACUNA ANTITETÁNICA (<XREF RID="TBL0065" REF-TYPE="TABLE">TABLA 13</XREF
+
+El tétanos puede afectar a cualquier persona no vacunada, independientemente de la edad y/o clase social, con elevada tasa de mortalidad incluso en nuestro ámbito. La vacunación no conlleva inmunidad de grupo, por lo que la indicación de vacunar frente al tétanos es universal.
+
+
+-- VACUNA ANTIDIFTÉRICA
+
+En países industrializados la enfermedad es excepcional, afectando a personas mal vacunadas y la experiencia demuestra que, tras la importación de casos, no se han mantenido cadenas de transmisión si la cobertura de vacunación infantil es elevada. El último caso de difteria en España se declaró en mayo de 2015 y afectó a un niño no vacunado.
+
+
+-- VACUNA ANTIPERTUSSIS O TOSFERINA
+
+En España, como en los países industrializados, a pesar de mantener elevadas coberturas de vacunación infantil, se observan ciclos epidémicos de tosferina cada 3-5 años, con un aumento sostenido de casos desde el año 2010. Afectan a niños menores de un año, sobre todo a lactantes menores de 2 meses que todavía no han recibido la vacuna. La evidencia disponible muestra que las vacunas acelulares frente a tosferina son efectivas para prevenir la enfermedad, aunque solo proporcionan una protección a corto plazo. Solo se comercializa combinada con dT (dTpa) y añadiendo el componente antipolio. El ministerio y las sociedades científicas recomendamos dirigir los esfuerzos a prevenir las hospitalizaciones y los fallecimientos en niños menores de 3 meses de edad, manteniendo el actual esquema de vacunación al lactante con un recuerdo a los 6 años de edad y vacunar a la embarazada en el último trimestre de su gestación. La efectividad de estas medidas es elevada y está en función de las coberturas de vacunación alcanzadas. En el embarazo depende también de la semana de gestación al vacunar. No se han observado problemas de seguridad en la gestación, en el parto, ni en el neonato.
+La vacuna dTpa se administrará en cada embarazo independientemente de su estado previo de vacunación.
+En España no están comercializadas las vacunas monocomponente. Sí como vacunas combinadas y según el preparado comercial están autorizadas para la primovacunación o para dosis de refuerzo. Para el adolescente y adulto se administra la Td con toxoide antitetánico (T) y con baja carga antigénica de toxoide antidiftérico (d) o la tribacteriana (dTpa) a la que se añade el componente antitosferina también de baja carga antigénica (pa). La pauta se presenta en la tabla 13. Se comercializa también junto con el componente inactivado antipoliomielitis (dT-PI y dTpa-PI) como dosis de recuerdo en adolescentes y adultos cuando además se precise un refuerzo de VPI.
+Debemos contraindicarla a personas que presentaron trombocitopenia transitoria o alteraciones neurológicas a dosis anteriores de anatoxina tetánica o diftérica y las que llevan pa si presentaron encefalopatía de etiología desconocida en la semana posterior a recibir una vacuna con el componente antipertussis.
+Las reacciones adversas locales en el punto de inyección son pródigas y las generales (fiebre, cefalea, somnolencia, vómitos, mialgias y sudoración) suelen presentarse con mayor frecuencia con las dosis de recuerdo.
+Recordemos unos puntos clave en la tabla 14 y las recomendaciones de la profilaxis antitetánica en la tabla 15.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo recomendaciones Td 2017. Ponencia de Programa y Registro de Vacunaciones. Recomendaciones de utilización de vacunas Td. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad; 2017. Disponible en: https://www.mscbs.gob.es/ca/profesionales/saludPublica/prevPromocion/vacunaciones/docs/TetanosDifteria_2017.pdf
+The immunological basis for immunization series: module 3: tetanus. Geneva: World Health Organization; 2018. https://apps.who.int/iris/bitstream/handle/10665/275340/9789241513616-eng.pdf?ua=1
+Summary of WHO Position Paper on Diphtheria Vaccines; August 2017. Disponible en: http://www.who.int/immunization/policy/position_papers/diphtheria_summary.pdf?ua=1
+Jané M, Vidal MJ, Camps N et al. A case of respiratory toxigenic diphtheria: contact tracing results and considerations following a 30-year disease-free interval, Catalonia, Spain, 2015. Euro Surveill. 2018;23(13):pii = 17-00183. https://doi.org/10.2807/1560-7917.ES.2018.23.13.17-00183
+WHO vaccine position papers. Pertussis. Disponible en: http://www.who.int/immunization/position_papers/PertussisGradeTable1.pdf
+Adenda. Actualización en: Revisión del programa de vacunación frente a tos ferina en España. Vacunación frente a tos ferina en embarazadas. Ponencia de Programas y Registro de Vacunaciones; junio 2015. Disponible en: http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Adenda_TosFerinaEmbarazo.pdf
+
+
+- GRIPE
+
+Las epidemias anuales de gripe se asocian a una importante tasa de hospitalizaciones, mortalidad y aumento de la demanda de recursos en salud. Hay relación entre la infección de gripe y procesos como infarto de miocardio o ingresos hospitalarios en grupos de riesgo para la vacunación, como los diabéticos.
+Hay dos tipos de vacunas antigripales: la vacuna de virus vivos atenuados no está financiada en España. Las inactivadas pueden ser de virus enteros, de virus fragmentados (fraccionadas) o de antígenos de superficie (subunidades) y trivalentes (con 2 cepas del virus A y 1 del virus B) o tetravalentes (con 2 cepas del virus A y 2 del virus B).
+Para mayores de 64 años, especialmente pacientes institucionalizados, se recomienda la vacuna inactivada trivalente con adyuvante MF59.
+La disponibilidad y el uso de unas u otras están sujetos a las compras y recomendaciones de las autoridades sanitarias. Las vacunas de la gripe deben modificarse año a año, y su composición debe adaptarse a las cepas que se prevé que van a circular en la temporada siguiente. La eficacia/efectividad de la vacuna antigripal está sujeta a factores como la concordancia anual de la vacuna con los virus circulantes, el nivel de inmunidad y la cobertura vacunal de la población, las características personales de los pacientes (como edad, enfermedades de base, vacunaciones antigripales previas, etc.), el diseño de los estudios sobre resultados de la vacunación o los indicadores a los que se aplica (p. ej., gripe confirmada por laboratorio, ingresos hospitalarios, ingresos en unidades de cuidados intensivos o mortalidad). Se debería considerar su efectividad aplicándola para un objetivo concreto y como el promedio de los resultados obtenidos en sucesivas epidemias de gripe estacional. A pesar de estas limitaciones, la vacuna de la gripe es el medio más eficaz disponible para prevenir las consecuencias graves o mortales de la gripe en grupos de riesgo con morbilidades subyacentes o grupos de edad más susceptibles de padecerlas. En mayores de 60 años reduce la gripe confirmada por laboratorio y sus hospitalizaciones. Es efectiva para prevenir la infección y sus complicaciones en niños y en mujeres embarazadas, tanto para la madre como para el recién nacido hasta los 6 meses de edad. Ha demostrado reducción de eventos cardiovasculares (infarto de miocardio, accidente cerebrovascular) relacionados con la infección gripal.
+La vacuna es segura; está contraindicada es caso de reacción alérgica grave previa a la vacuna, en menores de 6 meses de edad y en alérgicos a excipientes contenidos en la vacuna. La tradicional contraindicación por alergia al huevo ha pasado a ser una precaución para la administración de la vacuna.
+La vacuna antigripal, en cualquiera de sus presentaciones, no puede causar enfermedad gripal. Los grupos de riesgo para los que se recomienda la vacuna antigripal aparecen en la tabla 16.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Consejo Interterritorial del Sistema Nacional de Salud. Ponencia de Programa y Registro de Vacunaciones. Recomendaciones de vacunación frente a la gripe. Temporada 2019-20. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomendaciones_vacunacion_gripe.pdf
+European Centre for Disease Prevention and Control (ECDC). Seasonal influenza - Annual Epidemiological Report for 2018–2019. Disponible en: https://www.ecdc.europa.eu/sites/default/files/documents/AER_for_2018_seasonal-influenza-corrected.pdf
+Osterholm MT, Kelley NS, Sommer A, Belongia EA. Efficacy and effectiveness of influenza vaccines: a systematic review and meta-analysis. Lancet Infect Dis. 2012;12:36-44.
+Global influenza strategy 2019-2030. Geneva: World Health Organization; 2019. Licence: CC BY-NC-SA 3.0 IGO. Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+
+
+- VACUNAS ANTINEUMOCÓCICAS
+
+Streptococcus pneumoniae o neumococo es un patógeno del que se han identificado más de 90 serotipos. Cada uno de ellos presenta diferencias en cuanto a manifestaciones clínicas, epidemiología, virulencia y resistencia a los antibióticos. Produce patología a cualquier edad; su incidencia y gravedad son más importantes en los dos extremos de la vida. En niños se manifiesta como otitis media aguda, neumonía, bacteriemia-sepsis y meningitis. En adultos, la manifestación clínica más frecuente es la neumonía no bacteriémica (75%), la neumonía bacteriémica, la bacteriemia y la meningitis. El ser humano es el único reservorio. El neumococo coloniza la nasofaringe y desde este emplazamiento puede producir distintas patologías. Se transmite de persona a persona a través de las secreciones respiratorias. La edad aumenta la incidencia y la gravedad del cuadro. Se han identificado diferentes situaciones de base que predisponen a sufrir la enfermedad, como estados de inmunosupresión, tabaquismo, enfermedad pulmonar obstructiva crónica y diabetes; la edad es un factor fundamental para su aparición.
+
+
+-- VACUNAS DISPONIBLES
+
+a) Vacuna antineumococica 23 v. Recomendada en personas de 2 años de edad o mayores que presenten un mayor riesgo de morbilidad y mortalidad por la enfermedad neumocócica. Está incluida en el calendario vacunal de las diferentes CC.AA. desde el año 2003 para la vacunación de adultos. Es una vacuna inactivada de polisacáridos capsulares que contiene 23 serotipos, que cubre un 60-70% de los serotipos circulantes causantes de la enfermedad. No erradica la colonización nasofaríngea ni produce efecto rebaño. Produce una respuesta inmunitaria basada en la producción de inmunoglobulinas por linfocitos B que decae con el tiempo y en pocos años desaparece. No produce memoria inmunológica. Induce el fenómeno de tolerancia inmune o hiporrespuesta con las revacunaciones, por lo que los refuerzos no son eficaces.
+b) Vacuna antineumocócica 13 v conjugada. Incluye 13 serotipos. No existe protección cruzada, por lo que su nivel de protección depende de los serotipos circulantes. Produce memoria inmunológica. La inmunidad se mantiene varios años. Tiene capacidad para erradicar la bacteria de la nasofaringe y produce efecto rebaño. La debilidad de esta vacuna radica en que produce reemplazo de serotipos, con lo que con los años los serotipos que producen enfermedad son diferentes a los incluidos en la vacuna, y pierde su capacidad de protección. Los últimos datos publicados en Gran Bretaña indican que se ha producido un rápido reemplazo y como consecuencia del mismo la vacuna apenas cubre un tercio de los serotipos productores de enfermedad. Además, puede seleccionar serotipos resistentes a antibióticos. Se puede utilizar en adultos.
+c) Vacuna conjugada 10 v. Vacuna frente a 10 serotipos utilizada para la prevención de enfermedad invasora y otitis media aguda causada por neumococo en lactantes y niños desde las 6 semanas hasta los 5 años de edad.
+
+
+-- COMPOSICIÓN
+
+Consultar:•https://www.aemps.gob.es/cima/pdfs/en/ft/63828/FT_63828.pdf•https://ec.europa.eu/health/documents/community-register/2015/20150226131086/anx_131086_es.pdf•http://www.ema.europa.eu/docs/es_ES/document_library/EPAR_-_Product_Information/human/000973/WC500054346.pdf
+
+
+-- PAUTA (<XREF RID="TBL0085" REF-TYPE="TABLE">TABLA 17</XREF>), INDICACIONES Y VÍA DE ADMINISTRACIÓN
+
+•Vacuna 23 v: vía intramuscular o subcutánea. Se recomienda una dosis única a cualquier persona de 65 años o más y mayores de 2 años inmunodeprimidos o inmunocompetentes con patología de base como enfermedades crónicas, asplenia anatómica o funcional, insuficiencia renal crónica, cirrosis hepática, diabetes, alcoholismo, fístulas de líquido cefalorraquídeo, implantes cocleares, VIH, enfermedades inmunosupresoras y tratamiento quimioterápico. No se recomienda la revacunación de forma rutinaria, salvo a personas con alto riesgo de infección neumocócica grave y vacunadas antes de los 65 años si han pasado más de 5 años de la anterior dosis.•Vacuna 13 v: vía intramuscular. Incluida en el calendario vacunal de todas las CC.AA. en la infancia. Se utiliza con una pauta de primovacunación de 2 dosis: la primera a los 2 meses de edad y la segunda a los 4 meses de edad. La tercera dosis o dosis de refuerzo se administra entre los 11 y los 15 meses de edad. En adultos, una sola dosis. En el caso de estar indicada una pauta secuencial con ambas vacunas se pondrá primero la 13 v y en el periodo de 8 semanas a un año la 23 v. Si ha recibido con anterioridad una dosis de 23 v se deja pasar al menos un año para iniciar la pauta secuencial.•Vacuna 10 v: vía intramuscular. Cuando Synflorix se administra como parte de un programa rutinario de inmunización infantil, se puede utilizar una pauta de inmunización de 3 dosis, de 0,5 ml cada una. La primera dosis a partir de las 6 semanas de edad, la segunda dosis, 2 meses más tarde y la tercera dosis (de recuerdo) al menos 6 meses después a partir de los 9 meses de edad (preferiblemente, entre los 12 y los 15).
+Déficit de la inmunidad innata: una dosis de VNC13 seguida de una dosis de VNP23 con intervalo recomendado de 12 meses (mínimo 8 semanas) después de VNC13 y una dosis de refuerzo 5 años después.
+Déficit del sistema de complemento: se recomienda la vacunación secuencial con ambas vacunas conjugada y polisacárida (VNC + VNP23), respetando los intervalos mínimos entre dosis y tipo de vacuna.
+La pauta de vacunación depende de la edad de la persona y de si se ha vacunado previamente. En menores de 2 años se recomienda VNC13 por ser la que cubre mayor número de serotipos. El número de dosis depende de la edad de inicio: pauta 3 + 1 si comienzan antes de los 6 meses de vida seguida de VNP23 a partir de los 2 años de edad; entre los 2 y 6 años de edad, se administrarán 2 dosis de VNC13 y una dosis de VNP23 a los 12 meses (intervalo mínimo de 8 semanas) de haber recibido la última dosis de VNC13; a partir de los 6 años, se administrará pauta secuencial (VNC13 + VNP23) con un intervalo recomendado de 12 meses (mínimo de 8 semanas). En todas las situaciones se administrará una dosis de VNP23 que se repetirá 5 años después.
+Los estudios sobre pautas secuenciales VNC13 + VNP23 sugieren que los intervalos cortos entre ambas (p. ej., 8 semanas) pueden asociarse con un incremento de reactogenicidad local al compararlos con intervalos más amplios y que intervalos iguales o superiores a un año pueden dar lugar a una respuesta inmune mejorada frente a los serotipos de ambas vacunas, al compararlos con respuestas a dosis únicas de cualquiera de ellas. Aunque el intervalo mínimo entre las vacunas VNC13 y VNP23 es de 8 semanas, se recomienda, por lo anteriormente expuesto, un intervalo de 12 meses entre ambas.
+En caso de que hubieran recibido previamente VNP23, se administrará una dosis de VNC13 al menos 12 meses más tarde desde la última dosis.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Ministerio de Sanidad. Vacunación frente a neumococo en grupos de riesgo. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/docs/Neumococo_Gruposriesgo.pdf
+Falkenhorst G, Remschmidt C, Harder T, Hummers-Pradier E, Wichmann O, Bogdan C. Effectiveness of the 23-Valent Pneumococcal Polysaccharide Vaccine (PPV23) against pneumococcal disease in the elderly: systematic review and meta-analysis. PLoS One. 2017;12: e0169368. http://doi.org/10.1371/journal.pone.0169368
+
+
+- VACUNAS ANTIMENINGOCÓCICAS
+
+La enfermedad meningocócica invasiva (EMI) (sepsis o meningitis) es letal hasta en un 10-14% de los casos, aunque su tasa de incidencia es baja y su tendencia en España en las últimas temporadas, descendente.
+Los serogrupos A, B, C, W135, X e Y son los principales responsables de la EMI, ya sea esporádica o en brotes. En los países industrializados, en los que predominan los serogrupos B y C, tras la introducción de la vacuna frente al serogrupo C en el calendario de vacunación sistemática infantil, el serogrupo B se ha convertido en el principal responsable. Los grupos más vulnerables son los lactantes, niños de 1 a 4 años y adolescentes de 15 a 19 años. Se estima una presencia de portadores asintomáticos en torno al 10%. Después de la infección, así como tras el estado de portador, se suele producir inmunidad específica de grupo de duración desconocida. En las últimas temporadas epidemiológicas se observa, principalmente en adultos > 65 años y en el grupo de jóvenes de 15 a 19 años, un aumento de la tasa de incidencia de EMI debida a los serogrupos W e Y y un ligero aumento de los casos por serogrupo C.
+
+
+-- TIPOS DE VACUNAS
+
+Se dispone de 4 vacunas conjugadas, 2 monovalentes frente al serogrupo C (MenC) y 2 multivalentes frente a los serogrupos A, C, W135 e Y (MenACWY). Todas tienen capacidad de producir anticuerpos circulantes desde los primeros meses, memoria inmunológica y protección de grupo. Las vacunas son inactivadas y el antígeno es el oligosacárido/polisacárido capsular de los diferentes serogrupos unido a una proteína transportadora.
+También se dispone de 2 preparados comerciales de vacuna recombinante multiantigénica frente al serogrupo B (MenB). Los datos muestran que no desarrolla protección comunitaria y hay incertidumbres acerca de su efectividad y duración de los niveles protectores de anticuerpos a medio y largo plazo. Tampoco se dispone de datos de administración concomitante con las vacunas conjugadas antimeningocócicas ni antineumocócicas ni en mayores de 50 años. La vacunación desde el 2015 en Inglaterra en la población infantil, sugiere en ese país un impacto directo sobre la EMI por MenB en determinadas edades. Debido a diferencias en la expresión de las lipoproteínas de las cepas circulantes en España y el Reino Unido, resulta difícil extrapolar los efectos observados.
+En la actual situación epidemiológica no se considera la vacunación sistemática frente a serogrupo B aunque debe reevaluarse en función de la aparición de nuevos datos.
+A lo largo del año 2019 se ha sustituido la dosis de MenC que se administra a los 12 años por MenACWY en todas las CC.AA., siendo la pauta actual de la vacunación sistemática:•MenC: a los 4 y 12 meses de edad.•MenACWY: a los 12 años de edad. Una dosis de rescate hasta los 19 años. La pauta de rescate depende de las dosis, del preparado comercial y de la edad en que se administraron las anteriores dosis. No está indicada a partir de los 20 años de edad salvo en grupos o situaciones de riesgo. En la tabla 18 vemos los grupos o situaciones de riesgo con indicación de vacuna antimeningocócica.
+
+
+-- EFECTOS ADVERSOS
+
+Reacciones locales leves (enrojecimiento e hinchazón en el punto de inyección) hasta en un 50% de los vacunados. La MenB es la vacuna más reactógena del calendario vacunal. Es frecuente el dolor y eritema locales. Fiebre y/o irritabilidad son más frecuentes al administrar MenB con otras vacunas.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo vacunación frente a EMI de la Ponencia de Programa y Registro de Vacunaciones. Recomendaciones de vacunación frente a enfermedad meningocócica invasiva. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Consumo y Bienestar Social; marzo 2019. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/adolescentes-meningo/docs/MenACWY_ProfSanitarios.pdf
+Ladhani SM. Vaccination of infants with meningococcal group B vaccine (4CMenB) in England. N Engl J Med. 2020;382:309-317. http://doi.org/10.1056/NEJMoa1901229
+https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Documents/archivos%20A-Z/Enfer_Meningoc%C3%B3cica/Ladhani_Vaccination%20of%20Infants%20with%20Meningococcal%20Group%20B%20Vaccine.pdf
+Ministerio de Sanidad. Dirección General de Salud Pública, Calidad e Innovación. Vacunación frente a MenACWY a adolescentes y jóvenes (catch up). Preguntas y respuestas dirigido a profesionales sanitarios; enero 2020. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/MenACWY_ProfSanitarios.pdf
+European Centre for Disease Prevention and Control. Expert opinion on the introduction of the meningococcal B (4CMenB) vaccine in the EU/EEA. Stockholm: ECDC; 2017. Disponible en: https://www.ecdc.europa.eu/sites/default/files/documents/Introduction-of-4CMenB-vaccine.pdf
+Ponencia de Programas y Registro de Vacunaciones. Adenda. Modificación en «Recomendaciones de utilización de la vacuna frente a enfermedad meningocócica por serogrupo B». Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad; 2015. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/comoTrabajamos/docs/Adenda_MenB_situacEspeciales.pdf
+
+
+- MUJER: EDAD FÉRTIL Y EMBARAZO
+
+Toda mujer en edad fértil debería tener al día su calendario vacunal y planear un embarazo estando inmune frente al tétanos para la prevención del tétanos neonatal, frente a la rubeola para evitar el síndrome de rubeola congénita y frente a la hepatitis B, pero sobre todo frente a las enfermedades inmunoprevenibles con vacunas atenuadas —varicela, sarampión, parotiditis y varicela cuya administración está contraindicada durante el embarazo. La decisión de vacunar a una mujer embarazada se debe basar en la valoración de la probabilidad real de infección, del riesgo que supone la enfermedad para la madre y el feto y de los efectos de la vacuna sobre ellos y poder inmunizar al recién nacido a través de la vacunación de la madre hasta que el lactante inicie su calendario vacunal.
+Las vacunas de gérmenes muertos o inactivados, toxinas o polisacáridos se pueden administrar durante el embarazo, aunque se recomienda preferentemente que sea durante el segundo y tercer trimestre, debido a la falta de estudios en el primer trimestre y para evitar la asociación coincidente con el aborto espontáneo, que ocurre más frecuentemente al inicio de la gestación.
+Están contraindicadas las vacunas de gérmenes vivos atenuados, que deben evitarse incluso durante las 4 semanas previas a la concepción, aunque no se han evidenciado efectos adversos para la gestación o para el feto en el caso de la administración inadvertida y no justifica la interrupción del embarazo. No es necesario realizar serología de rubeola en mujeres con historia documentada de recepción de al menos una dosis de vacuna triple vírica.
+La vacuna de la gripe se debe recomendar a todas las embarazadas en las que la gestación coincida con el periodo epidémico, por un mayor riesgo de complicaciones por gripe en el embarazo. Asimismo, los anticuerpos maternos protegerán al recién nacido durante los 6 primeros meses de vida, en los que aún no puede aplicarse la vacuna antigripal.
+Para proteger al recién nacido contra la tosferina antes de que este inicie su vacunación se debe vacunar a partir de la semana 27 de gestación (preferentemente entre la 28 y la 32) a todas las embarazadas con una dosis de Tdpa, independientemente de las dosis previas contabilizadas de Td o de dTpa y en cada embarazo.
+El puerperio es un momento idóneo para completar la inmunización que no pudo realizarse en el periodo gestacional.
+En el periodo de lactancia se puede administrar cualquier tipo de vacuna de nuestro calendario, tanto a la madre como al niño. Se puede administrar cualquier vacuna de gérmenes vivos atenuados a los convivientes de las embarazadas.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Ministerio de Sanidad, Servicios Sociales e Igualdad. Información sobre vacunación frente a tosferina en embarazadas; 2015. Disponible en: http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomendaciones_vacuna_diTeBooster.pdf
+Grupo de Trabajo tos ferina 2015 de la Ponencia de Programa y Registro de Vacunaciones. Adenda al programa de vacunación frente a tos ferina en España: vacunación en el embarazo. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad; 2015. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/comoTrabajamos/docs/Adenda_TosFerinaEmbarazo.pdf
+Rouse CE, Eckert LO, Babarinsa I, Fay E, Gupta M, Harrison MS et al. The Brighton Collaboration Abortion Working Group. Spontaneous abortion and ectopic pregnancy: Case definition & guidelines for data collection, analysis, and presentation of maternal immunization safety data. Vaccine. 2017;35(48 Part A): 6563-6574. http://doi.org/10.1016/j.vaccine.2017.01.047
+Grant GB, Reef SE, Patel M, Knapp JK, Dabbagh A. Progress in Rubella and Congenital Rubella Syndrome Control and Elimination — Worldwide, 2000–2016. MMWR Morb Mortal Wkly Rep. 2017;66:1256-1260. https://doi.org/10.15585/mmwr.mm6645a4
+Moroa PL, Zheteyeva Y, Barash F, Lewis P, Cano M. Assessing the safety of hepatitis B vaccination during pregnancy in the Vaccine Adverse Event Reporting System (VAERS), 1990–2016. Vaccine. 2018;36:50-54. https://doi.org/10.1016/j.vaccine.2017.11.039
+Zhang C, Wang X, Liu D, Zhang L, Sun X. A systematic review and meta-analysis of fetal outcomes following the administration of influenza A/H1N1 vaccination during pregnancy. Int J Gynaecol Obstet. 2018;141:141-150. https://doi.org/10.1002/ijgo.12394
+Furuta M, Sin J, Ng ESW, Wang K. Efficacy and safety of pertussis vaccination for pregnant women – a systematic review of randomised controlled trials and observational studies. BMC Pregnancy Childbirth. 2017;17:390. https://doi.org/10.1186/s12884-017-1559-2
+
+
+- VACUNACIÓN EN PACIENTES INMUNOCOMPROMETIDOS
+
+Los pacientes inmunocomprometidos son una población muy heterogénea que abarca no solo las deficiencias inmunitarias primarias o secundarias a tratamientos inmunosupresores; incluye también a los pacientes con patologías crónicas que tendrán una respuesta inmune menor y a aquellos con conductas/situaciones de riesgo que incrementan la susceptibilidad a determinadas infecciones.
+Es fundamental la coordinación entre Atención Primaria y Especializada para elegir el momento óptimo en que se administrará la vacuna, completando el calendario sistemático vigente con pautas aceleradas si es preciso.
+En general, las vacunas inactivadas, toxoides y de polisacáridos se administran con las mismas recomendaciones. Las vacunas atenuadas (varicela, triple vírica, polio oral, fiebre tifoidea oral, cólera oral, fiebre amarilla, herpes zoster y gripe intranasal) están contraindicadas en inmunodepresión grave.
+Es preferible vacunar en fases tempranas o estables de la enfermedad, de 2 a 4 semanas antes del inicio del tratamiento inmunosupresor y de 1 a 6 meses después si la inmunodepresión es transitoria.
+Conviene solicitar serologías pre- y posvacunales (varicela, sarampión, rubeola y parotiditis) y hepatitis B (±hepatitis A) en función de los antecedentes clínicos y/o vacunales del paciente, con el objetivo de programar dosis de refuerzo si fuesen necesarias.
+El personal sanitario que atiende a estos pacientes, los cuidadores y los convivientes deberían ser inmunes a hepatitis A, polio, varicela, sarampión, parotiditis, triple vírica, tosferina y gripe.
+
+
+-- VACUNACIÓN EN PACIENTES CON ENFERMEDADES CRÓNICAS (<XREF RID="TBL0095" REF-TYPE="TABLE">TABLA 19</XREF
+
+La frecuencia de pacientes con patologías crónicas es cada vez mayor, y presentan un mayor riesgo de adquisición y mayor gravedad de infecciones, que pueden alterar el curso de su enfermedad de base. En la tabla 19 se indican las recomendaciones vacunales adaptadas a las principales patologías crónicas.
+Las personas con enfermedad cardiovascular y/o enfermedad respiratoria crónica tienen un mayor riesgo de padecer gripe y enfermedad neumocócica invasora, así como mayor riesgo de tener cuadros más graves y de desarrollar complicaciones. Se recomienda la vacunación anual frente a la gripe, excepto en HTA aislada y enfermedad respiratoria crónica, incluyendo asma, así como en los convivientes y cuidadores.
+En las personas con enfermedades neurológicas y neuromusculares graves que hayan desarrollado una enfermedad neurológica inflamatoria autoinmune tras la recepción de alguna vacuna (síndrome de Guillain-Barré, encefalomielitis, etc.) debe realizarse una valoración individual de la administración de más dosis de esa vacuna.
+La enfermedad renal crónica conlleva mayor grado de inmunosupresión en estadios avanzados de la enfermedad. Se debe realizar la vacunación preferiblemente al inicio del declive de la función renal, para lograr una mejor respuesta autoinmune y siempre antes de empezar con diálisis. En vacunados previamente es necesario realizar seguimiento serológico. No respondedores: en caso de exposición a VHB, deberán recibir inmunoglobulina específica anti-hepatitis B. En pacientes en diálisis y prediálisis ≥ 15 años administrar vacuna con 20 μg de AgHBs y adyuvante, pauta 0-1-2-6 meses o vacuna de 40 μg de AgHBs 0-1-6 meses.
+Las personas con enfermedad hepática crónica (incluyendo pacientes con esteatosis hepática, en terapia hepatotóxica y con alcoholismo crónico) y cirrosis, tienen mayor susceptibilidad a infecciones, sobre todo bacterianas. Además, tienen mayor riesgo de hepatitis fulminante por VHA y VHB.
+Los diabéticos presentan una menor respuesta de anticuerpos ante infecciones, alteración de la función fagocítica y de los leucocitos, y mayor predisposición a la colonización bacteriana. Al poder tener alterada la función de otros órganos por la propia enfermedad, está aumentado el riesgo de complicaciones tras infecciones.
+En las personas con trastornos de la coagulación y en las que reciben tratamiento anticoagulante es importante realizar control tras vacunación por el riesgo de formación de hematomas tras la inyección. La administración vía subcutánea podría considerarse como alternativa, pero es preferible la administración intramuscular porque para algunas vacunas podría haber disminución de la inmunogenicidad. En pacientes con hemofilia o en tratamiento con factores de coagulación o terapia similar, la administración de la vacuna intramuscular debe realizarse tan pronto como sea posible después de recibir la medicación.
+En las personas con hemoglobinopatías y anemias se recomienda la vacunación anual frente a la gripe. La beta talasemia minor y la presencia de rasgo falciforme no suponen inmunosupresión, por lo que recibirán la misma pauta de vacunación que la población general.
+Las personas con obesidad mórbida tienen mayor riesgo de hospitalización por complicaciones respiratorias por infección por el virus de la gripe.
+El tabaquismo afecta tanto a la inmunidad innata como a la adaptativa, jugando un doble papel en la regulación de la inmunidad, exacerban la respuesta inmunitaria a los patógenos o la atenúan. Se recomienda vacunación anual frente a la gripe.
+Entre las enfermedades inflamatorias crónicas se incluyen la enfermedad inflamatoria intestinal, las artropatías inflamatorias (lupus eritematoso sistémico, artritis reumatoide, etc.) y determinadas condiciones dermatológicas inflamatorias. La evidencia científica es limitada sobre la respuesta y seguridad vacunal ya que el número de estudios es limitado y el tamaño muestral reducido.
+La enfermedad celiaca se ha asociado con cierto grado de hipoesplenismo asociado a la duración de la exposición al gluten que suele revertir tras la retirada del mismo de la dieta. En caso de disfunción esplénica, el riesgo de enfermedad invasora neumocócica es mayor. En edad adulta, no es necesaria la vacunación frente al VHB si hay buen control dietético y sin asociación de enfermedad autoinmune o maligna.
+
+
+-- VACUNACIÓN EN PACIENTES INMUNODEPRIMIDOS
+
+--- DEFICIENCIAS INMUNITARIAS PRIMARIAS Y CONGÉNITAS
+
+Síndromes habitualmente causados por mutaciones genéticas diversas, muchas de las cuales son hereditarias. Se caracterizan por la ausencia o deficiencia en alguno de los componentes del sistema inmune innato o adaptativo. Las personas con este tipo de patologías presentan respuestas a las vacunas menos robustas y de menor duración, existiendo además el riesgo de que se produzca una infección diseminada cuando se administran vacunas de microorganismos vivos.
+Por tratarse de entidades muy específicas conviene revisar las últimas evidencias de que se disponga (ver documento de la Ponencia de Programas y Registro de Vacunaciones «Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones»).
+
+
+--- DEFICIENCIAS INMUNITARIAS SECUNDARIAS A TERAPIAS INMUNOSUPRESORAS
+
+Se considera terapia inmunosupresora:-El tratamiento con esteroides si se utilizan ≥ 20 mg diarios de prednisona o equivalente durante ≥ 2 semanas (o ≥ 2 mg/kg/día en personas de menos de 10 kg). Para administrar vacunas atenuadas se recomienda esperar un mes después de finalizar el tratamiento para garantizar inmunogenicidad óptima.-Tratamiento con antimetabolitos, anti-TNF y otros fármacos biológicos: cualquier dosis y duración del tratamiento. Se recomienda no administrar vacunas atenuadas durante los siguientes 3-6 meses si tratamiento con antimetabolitos y con la mayoría de fármacos biológicos y 12 meses si tratamiento con anti-CD20 y anti-CD52. El tratamiento con eculizumab (anticuerpo monoclonal contra el factor C5 del sistema del complemento, que inhibe la activación de la cascada terminal del complemento) comporta un riesgo elevado de padecer enfermedad meningocócica, por lo que se recomienda vacunación con MenACYW y MenB, además de realizar quimioprofilaxis durante el tratamiento e iniciar antibioterapia precoz en caso de aparición de síntomas de enfermedad meningocócica.
+En la tabla 20 se muestra la necesidad de realización de estudio serológico, si no aporta documentación de vacunación previa antes de tratamiento con inmunosupresores y actuación. No se recomienda de manera general la realización de serología de rubeola y parotiditis por problemas de sensibilidad de las técnicas y su interpretación.
+
+
+--- ASPLENIA, VIH Y NEOPLASIAS (<XREF RID="TBL0105" REF-TYPE="TABLE">TABLA 21</XREF
+
+Las personas con asplenia anatómica o funcional presentan un riesgo aumentado de infección grave por algunos microorganismos entéricos gramnegativos y bacterias encapsuladas, especialmente neumococo, meningococo y H. influenzae tipo b, incluso a pesar de haber sido correctamente vacunadas.
+En el caso del VIH la presencia de elevada carga viral puede disminuir la efectividad de algunas vacunas, aunque esto no supone una razón para retrasar la vacunación, y en general, la respuesta presenta una relación directa con el nivel de linfocitos T-CD4. Las vacunas inactivadas son seguras. En la vacunación frente a las hepatitis se realizará una determinación de anticuerpos pre- y posvacunación. Frente al VHB se usará vacuna con mayor carga antigénica o adyuvantes más potentes. Si no respondedor, se administrarán 3 dosis adicionales con intervalos de 4 semanas. Las vacunas atenuadas triple vírica y varicela están contraindicadas en los estadios de inmunodepresión grave y se debe realizar serología pre- y posvacunación. En el caso de seronegativos frente a sarampión y varicela y en mujeres en edad fértil seronegativas frente a rubeola deben vacunarse si los CD4 > 200 células/mm3 mantenidos durante al menos 6 meses. Es necesaria la determinación de anticuerpos pre- y posvacunación.
+Las personas con cáncer pueden presentar inmunosupresión como resultado de su enfermedad subyacente y/o por el tratamiento quimioterápico con o sin radioterapia (esta situación puede durar hasta unos meses tras la suspensión del tratamiento). Además, pueden perder total o parcialmente la protección conferida por las vacunas administradas antes del proceso mórbido. Esta inmunosupresión puede revertirse no antes de los 6 meses para los linfocitos B y de 9 a 12 meses para las células T, tras la finalización del tratamiento.
+
+
+--- TRASPLANTE DE ÓRGANO SÓLIDO (TOS), TRASPLANTE DE PROGENITORES HEMATOPOYÉTICOS (TPH
+
+Las personas con trasplante de órgano sólido (TOS) requieren un tratamiento inmunosupresor permanente para evitar posibles rechazos, por lo que su inmunidad humoral y celular está disminuida y su riesgo de infección es mayor. La inmunosupresión suele ser mayor durante los 3 a 6 primeros meses tras el trasplante y menor después del primer año. Nuestra aportación como profesionales de Atención Primaria ha de consistir en revisar y poner al día su calendario vacunal, preferiblemente pretrasplante. Se vacunará después del trasplante en aquellos casos que no se haya podido hacer con anterioridad o en casos que se requiera repetir la vacunación. Se recomienda respetar un intervalo de 6 meses tras el trasplante para reiniciar la vacunación. En relación con la vacunación antigripal, este intervalo puede ser de un mes si coincide con la temporada de gripe. Si el trasplante es urgente se puede valorar la administración de una dosis de triple vírica en el mismo momento de la extracción para la determinación de anticuerpos. La administración de la segunda dosis dependerá del resultado de la serología previa. Para la inmunización frente a neumococo usaremos pauta secuencial: VNC13 + VNP23 con intervalo mínimo de 8 semanas.
+En los trasplantes progenitores hematopoyéticos (TPH) la inmunidad previa se pierde total o parcialmente porque la ablación de las células hematopoyéticas en la médula ósea elimina la memoria inmune y requieren repetición completa de la vacunación. La enfermedad injerto contra huésped crónica se asocia con una hipoesplenia funcional de intensidad variable, aumentando el riesgo de infección por bacterias encapsuladas, especialmente neumococo.
+
+
+-- BIBLIOGRAFÍA RECOMENDADA
+
+Grupo de trabajo vacunación en población adulta y grupos de riesgo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Consumo y Bienestar Social; julio 2018. Disponible en: https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/programasDeVacunacion/riesgo/Vac_GruposRiesgo_todasEdades.htm
+
+
+- VACUNAS EN EL VIAJERO
+
+Se revisará su carné vacunal para ponerlo al día si fuese necesario y se decidirá si precisa alguna vacuna específica por sus condiciones personales, de salud o de su viaje .
+La mayoría de vacunas, así como otros consejos para la prevención de enfermedades durante el viaje, son asumibles en una consulta de atención primaria. Podemos apoyarnos en las recomendaciones del Ministerio de Sanidad y consultarlas en: https://www.mscbs.gob.es/profesionales/saludPublica/sanidadExterior/salud/home.htm
+Otras webs recomendadas son:
+Ministerio de Asuntos Exteriores:•http://www.exteriores.gob.es/Portal/es/ServiciosAlCiudadano/SiViajasAlExtranjero/Paginas/RecomendacionesDeViaje.aspx
+Organización Mundial de la Salud (OMS/WHO):•https://www.who.int/ith/en/•https://www.who.int/ith/ith-country-list.pdf
+Centro Europeo para el Control de las Enfermedades (ECDC):•https://www.ecdc.europa.eu/en/travellers-health
+Centro para el Control de las Enfermedades de Estados Unidos (CDC):•https://wwwnc.cdc.gov/travel
+
+
+- CONFLICTO DE INTERESES
+
+Los autores del documento PAPPS de prevención de enfermedades infecciosas declaran no presentar ningún conflicto de intereses en la elaboración de las nuevas recomendaciones.

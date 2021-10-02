@@ -1,0 +1,56 @@
+LESIONES RESIDUALES EN RADIOGRAFÍA SIMPLE DE TÓRAX TRAS NEUMONÍA POR SARS-COV-2: IDENTIFICACIÓN DE FACTORES DE RIESGO
+
+
+- INTRODUCCIÓN
+
+La pandemia por la enfermedad por el coronavirus-19 (COVID-19) está sometiendo a una extrema presión a los sistemas sanitarios, siendo aún desconocidas las complicaciones a largo plazo en los pacientes afectados.
+Las similitudes entre la COVID-19 y el SARS y MERS hacen pensar que puede haber una comparable evolución a fibrosis pulmonar, , , aunque la mayoría de los estudios que analizan secuelas en la COVID-19 incluyen pacientes con neumonías graves, que requerían ingresos en unidades de cuidados intensivos (UCI), desconociéndose la evolución de formas más leves que constituyen la mayor proporción de pacientes hospitalizados, . Si se confirmara la existencia de lesiones pulmonares crónicas en este grupo de pacientes sería fundamental identificar factores de riesgo y marcadores precoces para implementar estrategias preventivas y tratamientos adecuados.
+En el presente trabajo se valora la evolución radiológica en un seguimiento a medio plazo de pacientes con diagnóstico clínico-radiológico de neumonía por COVID-19 que requirieron ingreso hospitalario, pero no atención en UCI. El objetivo es identificar posibles indicadores de lesiones pulmonares residuales valoradas en las radiografías de tórax (RxTx), realizando un análisis de factores epidemiológicos, comorbilidades, patrones radiológicos y tratamientos aplicados a estos pacientes.
+
+
+- PACIENTES Y MÉTODO
+
+Los casos se seleccionaron retrospectivamente a través de la revisión en la historia clínica informatizada de pacientes consecutivos que requirieron ingreso por neumonía por COVID-19 en el Complejo Hospitalario de Navarra del 15 marzo al 1 abril de 2020. Se presentó el estudio al comité de ética de nuestro centro, que autorizó la realización del estudio con el número de referencia PI_2020/72.
+Los criterios de inclusión fueron: pacientes con diagnóstico clínico-radiológico de neumonía por COVID-19 que requirieron ingreso hospitalario y que dispusieran de RxTx inicial y de control tardío. Se definió la RxTx de control tardío como la radiografía realizada como mínimo 30 días tras la primera RxTx al inicio de los síntomas.
+Se desestimaron los pacientes que no se pudieron seguir por fallecimiento u otro motivo, los que no tenían RxTx de control tardío (RxTxT) y los que ingresaron en UCI. Estos últimos no se incluyeron, ya que solo se quería valorar las lesiones residuales por la COVID-19 y los pacientes en UCI podrían tener otras causas de lesiones residuales, como el distrés respiratorio, las sobreinfecciones o la ventilación mecánica. Se seleccionó la RxTx como técnica de imagen de valoración, al ser la más globalmente utilizada en la práctica habitual en nuestro medio en el diagnóstico inicial y seguimiento, reservándose la tomografía computarizada (TC) solo a algunos casos.
+Se valoraron como comorbilidades la diabetes mellitus, la hipertensión arterial, la obesidad, la enfermedad pulmonar obstructiva crónica-asma y la existencia de cardiopatía isquémica y se recogieron los tratamientos recibidos.
+Se definieron los patrones radiológicos de inicio y de la evolución aguda y la persistencia de lesiones residuales en la RxTxT mediante consenso entre 2 radiólogas torácicas. La revisión radiológica se hizo por separado, resolviendo por consenso las discrepancias.
+Como patrones de inicio se consideraron: RxTx normal, opacidad única, opacidades múltiples, patrón reticular, patrón intersticio-alveolar y como patrones radiológicos de evolución aguda: estabilidad radiológica, mejoría radiológica, progresión radiológica, pirámide (empeoramiento y mejoría radiológica en ese período). Se objetivó la afectación uni o bilateralidad y la existencia en la evolución aguda de consolidaciones periféricas, ya que estas constituyen una característica distintiva de estas neumonías.
+Para el presente estudio se define como lesión residual radiológica cualquier opacidad visible en la RxTx que se considere como lesión persistente de neumonía por la COVID-19 previa. En el seguimiento los pacientes que presentaban lesiones residuales, independientemente de la extensión, se consideraban con resolución parcial radiológica (RP) y los que no presentaban ninguna lesión residual se consideraban como resolución completa radiológica (RC).
+Se revisaron los datos de la sintomatología respiratoria de los pacientes en los controles tardíos.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se analizó la asociación de las variables estudiadas con la presencia de lesiones residuales mediante test de Chi-cuadrado o test Fisher para las variables categóricas y con el test «t» de Student para comparación de medias para la variable edad.
+En todos los casos se estimó la odds ratio univariante junto con su intervalo de confianza al 95%. Se estimó un modelo logístico multivariante incluyendo todas las variables de comorbilidades, sexo y edad, se ajustaron por todas las comorbilidades los efectos de los tratamientos y finalmente se estimó un modelo con las variables radiológicas junto a sexo y edad. Todos los contrastes fueron bilaterales, con un nivel de significación de α = 0,05. Todos los análisis se realizaron con el software IBM SPSS Statistics v.24.
+
+
+- RESULTADOS
+
+La muestra inicial fue de 231 casos, desestimándose 88 pacientes por no cumplir los criterios de inclusión. La población a estudiar incluyó 143 pacientes (52 mujeres, 91 hombres) con edad media de 64 años (desviación estándar [DE]: 13). La demora media de la RxTxT fue de 67 días (DE: 36). En 104 casos (73%) hubo una RC radiológica y en 39 (27%) una RP radiológica. Los datos de RC y RP detallados según todas las variables analizadas y el análisis estadístico se recogen en las Tabla 1, Tabla 2, Tabla 3, Tabla 4 .
+De los factores de riesgo solo la edad aparece claramente como relacionada con la variable de lesiones residuales en el control tardío (OR: 1,06; IC 95%: 1,02-1,10). En las otras variables no había diferencias significativas. Cabe destacar la obesidad, que parece tener un efecto protector, pero no estadísticamente significativo (OR: 0,42 [0,15-1,14]).
+En relación con los tratamientos se encontraron diferencias significativas en los tratamientos con tocilizumab y glucocorticoides, donde los pacientes tratados tenían un riesgo mayor de lesiones residuales (OR: 2,44 [1,03-5,80] y 3,05 [1,43-6,51]) respectivamente.
+En el análisis de los hallazgos radiológicos detallados en la tabla 4 no se encontraron diferencias en la persistencia de lesiones residuales según los distintos patrones de afectación inicial radiológica (RxTx normal, opacidad única o múltiple, patrón reticular, patrón intersticio-alveolar), ni se encontraron diferencias si la afectación inicial radiológica había sido uni o bilateral. Sí se encontraron diferencias significativas según el tipo de evolución radiológica en el período agudo inicial (progresión, pirámide, estabilidad o mejoría). Los pacientes que sufrían una progresión o empeoramiento radiológico en los primeros días tenían más lesiones residuales en la RxTx de control tardío, hasta en un 39,6% de los casos, así como los pacientes que tenían en la evolución condensaciones periféricas, los cuales presentaban lesiones residuales en un 37,15% de los casos, frente al 17,1%de los que no las tenía.
+En la valoración de la sintomatología respiratoria no se evidenció relación entre la existencia de lesiones residuales y síntomas respiratorios. De los pacientes que presentaban lesiones residuales el 83% no tenía síntomas.
+
+
+- DISCUSIÓN
+
+El seguimiento a largo plazo de los pacientes que han padecido neumonía por la COVID-19 está por determinar. Existe ya en la bibliografía alguna guía que plantea distintos seguimientos a los pacientes según la gravedad de la neumonía por la COVID-19. Cabe señalar que en este seguimiento la RxTx es la prueba de imagen básica inicial de valoración de lesiones residuales.
+Este estudio añade a la literatura científica actual datos preliminares sobre la evolución de las neumonías por COVID-19 que no requirieron ingreso en UCI, comprobando su completa resolución radiológica en el 73% de los casos en el control al mes, hallazgo descrito previamente en casos de SARS y MERS a las 12 semanas y similar al 70% de resolución al mes de las neumonías extrahospitalarias.
+La resolución radiológica fue más lenta en pacientes de mayor edad, dato que coincide con lo descrito en la bibliografía, , . También se apreció una resolución más lenta en los pacientes con tratamiento de tocilizumab y glucocorticoides, lo cual se podría justificar por el sesgo derivado de la indicación de estos tratamientos por aumento de los parámetros analíticos de inflamación y gravedad de la neumonía.
+En relación con el análisis radiológico, la progresión radiológica en el control agudo y la existencia de condensaciones periféricas se relacionó significativamente con la persistencia de lesiones, constituyendo posibles indicadores radiológicos de lesiones residuales.
+Se evidenció una disociación clínico-radiológica en nuestra serie, ya que no existía relación entre la existencia de lesiones residuales radiológicas y la persistencia de síntomas respiratorios, lo que podría llevar a cuestionar la significación clínica de dichas lesiones residuales.
+Nuestro estudio tiene ciertas limitaciones, siendo las más importantes el limitado número de pacientes analizados, la naturaleza retrospectiva del estudio, que la existencia de lesiones residuales se realiza con RxTx y no con TC, que no hay correlación con pruebas de función respiratoria y que no hay un seguimiento a largo plazo.
+Con los datos obtenidos se concluye que las neumonías por COVID-19 que no requirieron ingreso en UCI pueden tener una lenta mejoría radiológica en pacientes de mayor edad y con progresión radiológica y condensaciones periféricas en la fase aguda, pero que no conlleva necesariamente persistencia de sintomatología respiratoria, observándose además una tasa de resolución completa radiológica similar a otras neumonías, por lo que la evolución a fibrosis pulmonar en este grupo de pacientes es poco probable, siendo necesarios más estudios a largo plazo y con mayor número de pacientes para confirmar estas conclusiones.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,93 @@
+UTILIDAD DE LAS ESCALAS DE GRADACIÓN EN EL TRATAMIENTO QUIRÚRGICO DE MALFORMACIONES ARTERIOVENOSAS CEREBRALES
+
+
+
+
+
+- INTRODUCCIÓN
+
+Las malformaciones arteriovenosas cerebrales comprenden una patología que se caracteriza por una comunicación anómala entre arterias y venas sin lecho capilar interpuesto. Afecta principalmente mujeres de edad joven, su forma de presentación más frecuente es el sangrado, siendo responsables del 38% de las hemorragias cerebrales en pacientes de entre 15 a 45 años de edad. La historia natural es de un riesgo anual acumulativo de sangrado de 4% y 1% de mortalidad, aumentando a 6-10% el riesgo de resangrado en el primer año luego del episodio de ruptura. Cada episodio de hemorragia acarrea en sí mismo un 25-50% de morbilidad y un 10-20% de mortalidad.
+Existen distintas estrategias en cuanto a las posibilidades de tratamiento de este tipo de malformaciones: la exéresis microquirúrgica, embolización y radiocirugía, o meramente su observación. Todas ellas se encuentran sujetas a cierta controversia, debido a que el tratamiento, independientemente de su modalidad, no está exento de riesgos.
+La decisión terapéutica en estos pacientes debe contemplar los riesgos del procedimiento y los propios de la historia natural.
+
+
+- OBJETIVO
+
+Evaluar la utilidad para predecir riesgo quirúrgico de diferentes escalas de gradación de MAV cerebrales según nuestra experiencia en una serie de casos.
+
+
+- MATERIAL Y MÉTODOS
+
+Se realizó un análisis bibliográfico, utilizando pubmed como motor de búsqueda incluyendo como palabras clave: Malformación arterio venosa cerebral y escala de gradación (brain arteriovenous malformation and grading scale). Se tomaron en consideración los artículos mas relevantes.
+Se realizó un análisis retrospectivo de 90 pacientes intervenidos quirúrgicamente en nuestro centro por malformaciones arteriovenosas cerebrales, agrupándolos acorde a las escalas analizadas y comparando los resultados obtenidos con los previstos en ellas. Se utilizó como referencia la escala de Rankin modificada considerando buenos resultados a un valor igual o menor a 2.
+
+
+-- ESCALAS DE GRADACIÓN
+
+--- SPETZLER MARTIN
+
+En 1986 proponen una escala que estima el riesgo quirúrgico de las malformaciones arteriovenosas cerebrales agrupándolas en cinco grados luego de analizar tres variables: 
+el tamaño de nido determinado por angiografía como pequeño (menor a 3 cm), mediano (3 a 6 cm) y grande (mayor a 6 cm);
+el patrón de drenaje venoso, entendiendo como drenaje superficial a aquel que drena hacia el sistema venoso cortical, y profundo si el drenaje es a través de las venas cerebrales internas, vena basal o precentral del cerebelo. En fosa posterior solo las venas cerebelosas hemisféricas que drenan al seno recto o transverso son consideradas superficiales;
+la elocuencia del cerebro adyacente a la malformación, entendiéndose como aquellas áreas que de producirse un daño resultaran en un déficit neurológico invalidante. Considera específicamente a las áreas sensitivomotoras, del lenguaje y visual, hipotálamo y tálamo, capsula interna, tronco encefálico, pedúnculo cerebeloso y núcleos cerebelosos profundos.
+Asigna un valor numérico a cada categoría y el grado de la lesión se deriva de la suma de puntos de cada categoría .
+Siendo las de grado uno y dos de bajo riesgo quirúrgico (0% y 5% de déficit neurológico respectivamente), las cuatro y cinco de alto riesgo (27% y 31% de déficit respectivamente), y las de grado tres, intermedio (16%).
+
+
+--- SPETZLER PONCE
+
+En 2011 los autores proponen simplificar la escala clásica de Spetzler Martin de 5 grados a 3 clases (A, B y C) debido a la equivalencia estadística entre los resultados al alta entre grados I y II, y las IV y V25.
+En la clase A se combinan los grados I y II de SM, la clase B contempla las MAV grado III, y la clase C agrupa los grados IV y V .
+Las MAV clase A presentaron bajo riesgo quirúrgico (déficit < 2%). Aquellas clase B, el grupo más heterogéneo, el autor refiere la necesidad de individualizar cada caso para elegir la modalidad de tratamiento, y en la clase C reporta 20-29% de nuevo déficit neurológico.
+Reconoce a su vez variables adicionales que afectan riesgo quirúrgico como edad, estado clínico y presencia de aferencias de arterias perforantes, que, si bien no las incluye en la escala, sugiere tener un rol fundamental al momento de tomar la decisión de tratar un paciente.
+
+
+--- ESCALA SUPLEMENTARIA DE LAWTON-YOUNG
+
+En 2010 los autores analizan una serie de 300 pacientes intervenidos quirúrgicamente por MAV considerando factores de riesgo adicionales a las variables contempladas por SM. Encontrando asociación significativa con peor resultado quirúrgico (mRs ≥ 3) a la edad, antecedente sin sangrado y morfología difusa del nido de MAV15.
+De manera análoga a la escala de SM se asignan puntos a estas variables . Estos puntos son sumados en una escala llamada suplementaria en un rango de 1 a 5.
+Esta escala puede utilizarse sola o combinada con SM (puntaje de escala suplementaria sumada al puntaje en la escala SM) en un rango de 1 a 10 puntos. Una MAV con valor de 3 puntos o menor en la escala suplementaria, o de 6 puntos o menor en la escala combinada con SM, tiene bajo a moderado riesgo quirúrgico, con aceptable baja morbilidad quirúrgica.
+Identifica además como predictores de buenos resultados en la resección quirúrgica a la presencia de hemorragia previa, edad joven, nido compacto y ausencia de aferencias por arterias perforantes.
+
+
+--- MALFORMACIONES GRADO 3
+
+En 1998 de Oliveira analiza 141 pacientes con MAV SM 3 y desglosa las características morfológicas que constituyen dicho grupo de MAVs, subdividiéndolas en tipo “A” y “B”. Las tipo “A” son aquellas MAVs que a expensas de su tamaño, se encuentran en el grado 3 de SM, reportando un 95.5% de buenos resultados. En ellas propone realizar tratamiento combinado con embolización seguido de cirugía. Las tipo “B” las constituyen aquellas pequeñas, con drenaje venoso profundo y/o de área elocuente. De Oliveira reportó buen resultado en el 70% y propone en ellos la radiocirugía. Cabe aclarar que en su serie el 90% de MAV 3B poseía déficit neurológico previo debido a sangrado.
+Lawton y cols.16 analizan en 2003 76 casos con MAV SM 3 y los divide en 3, 3-y 3+ .
+Reporta riesgo quirúrgico (nuevo déficit o muerte) en: el 2.9% de aquellas 3-, por lo que tendrían similar comportamiento a las de bajo grado (SM I y II); el 7.1% de las tipo 3, proponiendo selección juiciosa e “individualizar” el tratamiento; y en el 14.8% del grupo 3+, similar a MAVs de alto grado, sugiriendo tratamiento conservador.
+
+
+- RESULTADOS
+
+-- NUESTRA SERIE QUIRÚRGICA
+
+Se intervinieron quirúrgicamente 90 MAVs cerebrales en el periodo comprendido desde enero 2009 a agosto 2015 en nuestro centro. Similar distribución de sexo (49 hombres y 41 mujeres). Con un rango etario de 4 a 70 años. La forma de presentación más frecuente fue por sangrado (n: 44) seguido de convulsiones (n: 32). Se clasificó a las malformaciones acorde a las escalas analizadas y a la evolución postquirúrgica.
+En cuanto al grado de SM . Se obtuvo buen resultado en el 100% de MAV grado I y 91.7% de las grado II, en las grado III se alcanzó en el 80% y solo en el 42.9% de aquellas MAV grado IV .
+Esto mismo se traslada a la escala de Spetzler Ponce con 93.7% de buen resultado en tipo A, 80% en tipo B y 42.9% en las tipo C .
+Evaluando la escala suplementaria de forma aislada, observamos buen resultado en el 100% de los casos de grado I, 71,4% grado II, 94,4% grado III, 78,6% grado IV . Utilizándola de forma combinada con SM buen resultado en 100% grados II y III, 85,7% grado IV, 87.6 grado V, 80% grado VI, 75% grado VII y 66,6% grado VIII .
+Considerando las MAV grado III de SM (n:36) se subclasificaron tomando referencia en la escala de de Oliveira y la escala de Lawton.
+84% de buenos resultados se obtuvieron en las tipo 3A, 71.3% en las 3B, 92% en MAV 3-, 72.1% en las 3+, 60% de aquellas tipo 3 .
+Es importante destacar que aquellas MAV que sangraron, (n: 44) presentaron, independientemente de la clasificación utilizada, un mRs de 3 o mayor en un 24,9%, debido a que el 90,9% ya tenía algún déficit posterior al sangrado y previo a la cirugía. A su vez aquellas que no sangraron (n: 46) presentaron un 95.6% buenos resultados .
+
+
+- DISCUSIÓN
+
+La escala de Spetzler Martin demostró ser simple, reproducible y aplicable, motivo por el cual ganó amplia aceptación y se convirtió en la escala más frecuentemente utilizada para estimar el riesgo quirúrgico en MAV. A pesar de ello, presenta cierta controversia en cuanto a las MAV grado 3, debido a que éste representa un grupo heterogéneo que abarca desde MAV grandes y en áreas elocuentes, a MAV pequeñas y profundas.
+En la modificación propuesta por Spetzler-Ponce no se ofrece nueva información ni ventajas significativas, más allá de simplificar la escala de cinco grados a tres, así como tampoco ofrece claridad con respecto al grupo III o B.
+Lawton y Young proponen el concepto de que hay factores modificadores de la evolución del paciente tras la resección, más allá de los enumerados en la escala original de Spetzler Martin.
+Así como un grado SM I-II favorece la indicación quirúrgica, una puntuación de 1 a 3 en la escala suplementaria refuerza esta conducta. De forma similar una MAV grado IV o V SM en que puede ser desfavorable la resección, una puntuación mayor a 3 en la escala suplementaria puede reforzar la decisión de no operar.
+La escala suplementaria alcanza mayor relevancia en los casos en que no exista congruencia con la escala de SM, es decir, en ciertos casos, un puntaje en la escala suplementaria menor a 3 puede influenciar a favor de la cirugía en un paciente con MAV grado III a V de SM, así como en un paciente con MAV grado I o II de SM, pero con puntaje mayor a 3 en la escala suplementaria, puede sugerir mayor probabilidad de morbilidad quirúrgica y desaconsejar la intervención.
+Este mismo autor encuentra asociación entre el tratamiento de malformaciones no rotas y mayor morbilidad quirúrgica, así como también mejores resultados en pacientes jóvenes.
+En cuanto al grado 3 de SM, los autores Evandro de Oliveira y Michael Lawton evalúan su casuística y crean escalas en las que intentan dilucidar cuales son las que podrían beneficiarse de tratamiento quirúrgico. Ambas escalas soportan el concepto de que la evolución varía ampliamente con los subtipos del grado 3, sin embargo, encuentran en sus series resultados diametralmente opuestos, Lawton propone tratamiento en MAV pequeñas con drenaje venoso profundo (3-) y de Oliveira lo desaconseja.
+Otros autores apoyan la capacidad en predecir la morbilidad y evolución clínica al clasificar MAV grado 3 de acuerdo con la escala de Lawton, sin embargo ninguno realizó la comparación entre la utilidad de esta escala y la propuesta por de Olivera.
+En la serie de este servicio el 100% de MAV grado I y el 91.7% de las grado II presentaron buenos resultados, similar a las grandes series publicadas y a lo propuesto en la escala por Spetzler.
+Se observó de forma retrospectiva al subclasificar las MAV grado III de SM, mejor resultado (92%) al haber intervenido aquellas 3-de la escala propuesta por Lawton, que en las 3A de la escala propuesta por de Olivera (84%).
+Al igual que propone Lawton, en nuestra casuística aquellos pacientes con MAV que sangraron ya tenían algún déficit posterior al sangrado y previo a la cirugía . Este autor encontró mayor posibilidad de nuevo déficit en aquellas MAV que no sangraron, sin embargo en nuestra serie, en el grupo de MAV no rotas (n:46) observamos un 95.6% de buenos resultados.
+En cuanto las MAV de alto grado (IV y V de SM, clase C de SP, mayor a 3 puntos de la escala suplementaria) observamos tanto en las escalas analizadas como en la serie de casos presentados, un alto porcentaje de morbimortalidad quirúrgica. Debido a ello, la conducta en estos pacientes suele ser conservadora, reservando la indicación terapéutica a aquellos pacientes con deterioro neurológico progresivo por fenómeno de robo vascular o la existencia de aneurismas intranidales.
+Proponemos un algoritmo guía para el tratamiento microquirúrgico de las MAVs utilizando los diferentes sistemas de gradación analizados .
+
+
+- CONCLUSIONES
+
+La toma de decisión de tratar a un paciente con MAV es un proceso complejo, contemplando los riesgos terapéuticos y los propios de la enfermedad. La utilidad de las escalas subyace en la simplificación de dicho proceso.
+Reafirmamos la utilidad en predecir riesgo quirúrgico de la escala de Spetzler-Martin y su posterior modificación de Ponce, así como al utilizar la escala suplementaria de Lawton-Young. Esta última considera variables adicionales no contempladas previamente, y debido a ello podría ofrecer utilidad en ponderar riesgo quirúrgico en pacientes en los que persistan dudas, y particularmente en MAVs que sangraron.

@@ -1,0 +1,6 @@
+Introducción. Ixodes tropicalis es una especie de garrapata poco conocida que se había reportado parasitando únicamente roedores silvestres en Colombia y Perú.
+Objetivo. Reportar un caso de infestación por I. tropicalis en un ser humano del sur del área metropolitana del Valle de Aburrá (Antioquia) y reportar la detección molecular de Rickettsia bellii en esta especie.
+Materiales y métodos. La garrapata se identificó usando claves morfológicas y mediante la secuenciación de su gen 16S ARNr mitocondrial. Además, se evaluó la presencia de agentes patógenos bacterianos y protozoos usando PCR para la detección de Rickettsia spp., la familia Anaplasmataceae, Borrelia spp. y piroplásmidos.
+Resultados. La garrapata se identificó como una hembra de I. tropicalis, según la descripción de Kohls, 1956, y la secuencia parcial del gen 16S ARNr, la cual mostró una divergencia de mínimo 5 % en la comparación con las secuencias de Ixodes. Además, se detectó el gen gltA de R. bellii en esta garrapata con una similitud del 99,87 %.
+Conclusión. Este es el primer reporte en Colombia de una especie del género Ixodes parasitando a un humano y el primer reporte de la detección de R. bellii en esta especie de garrapata.
+

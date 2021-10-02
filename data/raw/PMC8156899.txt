@@ -1,0 +1,25 @@
+SEROPOSITIVIDAD FRENTE AL SARS-COV-2 EN PACIENTES EN HEMODIÁLISIS
+
+
+Sr. Director:
+Presentamos una serie de 52 pacientes con enfermedad renal crónica (ERC) en hemodiálisis que presentaron infección por SARS-CoV-2, diagnosticándose mediante reacción en cadena de polimerasa (PCR) de frotis nasofaríngeo. El periodo de inclusión fue entre el 8 de marzo de 2020 hasta el 21 de febrero de 2021, en los cuales se realizó determinación de anticuerpos frente al SARS-CoV-2 durante el seguimiento.
+La media de edad fue de 74,7 (± 13,7) años, el 80,7% son mayores de 65 años; el sexo masculino fue el más prevalente (73%), el consumo activo de tabaco fue del 7,6% y exfumadores del 28,8%. Entre las principales comorbilidades, la hipertensión arterial (HTA) fue del 96,1%, diabetes (DM) el 69,2%, enfermedad pulmonar previa el 32,6%, enfermedad coronaria el 25%, insuficiencia cardiaca el 23%, cáncer activo el 3,8%. La etiología de la enfermedad renal crónica (ERC) más frecuente fue la diabética y la vascular tras la de etiología no filiada. El 15,8% habían recibido un trasplante renal y el 3,8% se encontraban activos en la lista de espera para recibir trasplante renal.
+En cuanto a las manifestaciones clínicas, la fiebre fue el signo más frecuente (75%), seguido de tos (42,3%), disnea (40,3%) y clínica digestiva (diarrea 9,6%, náuseas 5,7%). La media de linfocitos al ingreso fue de 1,23 (± 2,0) x 10E9/L y la proteína C reactiva de 9,3 (± 9,2) mg/dL.
+El tratamiento recibido, fue con lopinavir/ritonavir (57,6%), azitromicina (34,6%), hidroxicloroquina (30,7%), tocilizumab (9,6%), no recibiendo remdesivir ni altas dosis de corticoides. fig. 1 Figura 1
+De los 52 pacientes, uno paciente fue manejado de forma ambulatoria. Un paciente ingreso en la Unidad de Cuidados Intensivos. La mortalidad fue del 31,3% (16 pacientes) debido a la neumonía por SARS-CoV-2 (31,3%), asociándose el sexo masculino y el consumo de tabaco. No hubo diferencias estadísticamente significativas en relación con las variables clínicas y analíticas (tabla 1 ).
+De los sobrevivientes (36 pacientes, 68,6%), 19 pacientes (54,2%) fueron dados de alta a domicilio y 16 pacientes (45,6%) fueron trasladados a un centro sociosanitario para continuar su recuperación. En 33 pacientes se realizó determinación de anticuerpos SARS-CoV-2 mediante (Ac IgG, Roche Cobas), 31 pacientes desarrollaron anticuerpos frente a SARS-CoV-2 (91,6%), a los 39 días (21-104) tras la infección.
+Es conocido que los pacientes con enfermedad renal crónica en hemodiálisis tienen infecciones frecuentes, así como respuesta subóptima a las vacunas, en parte debido a las alteraciones tanto de la inmunidad innata como adaptativa, .
+La ERC constituye uno de los factores de riesgo que se han asociado con mayor mortalidad por infección por SARS-CoV-2, , ya que no solo presentan alteraciones del sistema inmunitario, sino que además la exposición a centros hospitalarios hace que sean más vulnerables de adquirir la infección.
+Poco se sabe sobre la respuesta humoral frente a la infección por SARS-CoV-2 en los pacientes en hemodiálisis, Sakhi et al. informaron que la seroconversión se presentó en el 89% de los casos a una mediana de 67 días tras el diagnóstico, si bien estos datos son similares a e nuestra población en cuanto a la seroconversión, sin embargo, el desarrollo de anticuerpos en nuestra cohorte se presentó de forma más temprana a una mediana de 39 días.
+En conclusión, la respuesta inmunológica a la infección por SARS-CoV-2 en nuestros pacientes en programa de hemodiálisis fue buena con una seroconversión de la mayoría de los pacientes. No obstante, la respuesta futura que tenga dicha población a la vacuna del SARS-CoV-2 es desconocida.
+
+
+- CONFLICTOS DE INTERÉS
+
+MJ Soler declara asesoría científica o presentaciones con Mundipharma, Fresenius, Bayer, Novo Nordisk, Janssen, Boehringer, Eli Lilly, AstraZeneca y Esteve, no relacionadas con la realización del trabajo.
+Nestor Toapanta, Zaira Castañeda, José Zúñiga, Natalia Ramos, María Azancot, declaran no tener conflictos de interés.
+
+
+- FINANCIACIÓN
+
+MJS es actualmente beneficiario de becas de investigación del Fondo de Investigación Sanitaria-Feder – Instituto de Salud Carlos III (PI17/00257) y REDinREN (RD16/0009/0030).

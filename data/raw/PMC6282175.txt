@@ -1,0 +1,105 @@
+CIRUGÍA FETAL DE MIELOMENINGOCELE: EVOLUCIÓN OBSTÉTRICA Y RESULTADOS PERINATALES A CORTO PLAZO DE UNA COHORTE DE 21 CASOS
+
+
+- INTRODUCCIÓN
+
+Los defectos del tubo neural (DTN) son un grupo importante de anomalías congénitas graves que se asocian con una alta morbimortalidad perinatal, así como grados considerables de discapacidad a largo plazo, con los consiguientes costos emocionales, psicológicos y económicos.
+Dentro de este grupo, la espina bífida (y su variedad más común, el mielomeningocele, MMC) tiene en nuestro país una prevalencia estable cercana a 1 en 2000 recién nacidos. Un 80% de los casos son aislados, es decir, que no forman parte de secuencias polimalformativas o síndromes genéticos.
+A pesar de que la suplementación periconcepcional de las harinas con ácido fólico (Ley No 25.630 de julio de 2002) ha reducido significativamente su prevalencia en la primera década de este siglo, se estima que en nuestro país nacen más de 400 recién nacidos afectados al año.
+Según datos oficiales, esta patología se encuentra dentro de las 10 primeras causas de mortalidad neonatal y se asocia a una significativa morbilidad, incluyendo los efectos de la hidrocefalia (80%), distintos grados de parálisis de los miembros inferiores de acuerdo con el nivel vertebral afectado e incontinencia mixta (50-90%). En la primera infancia, la mortalidad llega a ser del 35% en aquellos pacientes con síntomas de disfunción del tronco del encéfalo secundaria a malformación de Chiari II.
+Aunque en los últimos años se han descripto técnicas mini-invasivas para el tratamiento de la hidrocefalia, tales como la tercerventriculostomía endoscópica (ETV) y la cauterización del plexo coroideo (CPC), éstas no han demostrado ser particularmente efectivas en el lactante con mielomeningocele, por lo que la derivación ventriculoperitoneal (DVP), con todos sus problemas asociados (infección, disfunción valvular, etc.) siguen siendo la base del tratamiento.
+Estudios a largo plazo muestran que, para los 30 años, la mayoría de los casos más gravemente afectados han fallecido, siendo los principales predictores de morbimortalidad el déficit neurológico en la infancia y el antecedente de DVP. Aproximadamente el 70% de las personas afectadas tienen un coeficiente intelectual superior a 80, pero sólo el 37% puede vivir de forma independiente como adultos y un tercio necesita atención diaria. El costo económico de cuidar a estos pacientes es enorme. Una estimación reciente de los costos médicos directos incrementales en Estados Unidos para el primer año de vida de un niño con espina bífida en comparación con aquellos sin ella fue de 52.415 dólares (560.000 dólares a lo largo de toda la vida).
+Los primeros casos de reparación de espina bífida en el útero se realizaron en 1994 utilizando un acceso endoscópico. Esta técnica resultó insatisfactoria y fue rápidamente abandonada. En 1997, se realizó por primera vez una reparación a útero abierto de un mielomeningocele en la Universidad de Vanderbilt y en el Hospital de Niños de Filadelfia (CHOP). La experiencia inicial en estas instituciones sugirió que, en comparación con los niños tratados postnatalmente, los operados intraútero tenían una menor incidencia de herniación romboencefálica al nacer, y que este ascenso de las estructuras de la fosa posterior se podía demostrar dentro de las tres semanas postquirúrgicas por resonancia magnética fetal.
+Los sesgos inherentes a la evaluación de los resultados de la cirugía fetal en comparación con los controles históricos llevaron a que se diseñara un ensayo aleatorizado en febrero de 2003 para responder a esta controversia.
+El estudio controlado aleatorizado MOMS realizado en 3 centros de EEUU y publicado en febrero de 2011, demostró definitivamente que la cirugía fetal es capaz de reducir un 50% la necesidad de DVP postnatal (40% vs 82%, P = 0.01) y de duplicar la probabilidad de deambulación independiente sin órtesis a los 30 meses de vida postnatal (42% vs 21%, P = 0.01). Sin embargo, estos beneficios se asociaron a un mayor riesgo de nacimiento prematuro (edad gestacional media al nacer 34.1 vs 37.3 semanas) y mayor morbilidad materna (dehiscencia de la cicatriz uterina, necesidad de transfusiones postcesárea, etc.).
+Luego de realizar un entrenamiento intensivo en modelos animales en centros de Europa y Estados Unidos entre los años 2010 y 2014, el Programa de Cirugía Fetal del Hospital Universitario Austral, comenzó a ofrecer esta intervención a un grupo seleccionado de pacientes con disrafias espinales abiertas desde marzo de 2015.
+El objetivo de este estudio es describir la técnica quirúrgica, lq evolución obstétrica, y los resultados perinatales de una cohorte de pacientes sometidas a cirugía intrauterina para reparación de una disrafia fetal abierta.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Se trata de un estudio de cohorte prospectivo conformado por 21 casos consecutivos de fetos con disrafias espinales abiertas con diagnóstico, cirugía intrauterina, seguimiento postoperatorio y postnatal en nuestro centro, entre marzo de 2015 y diciembre de 2017.
+
+
+-- CRITERIOS DE ELEGIBILIDAD
+
+Utilizamos una versión ampliada de los criterios de elegibilidad descriptos en el estudio MOMS, basándonos en que una cohorte histórica propia de 32 fetos con disrafias fetales (datos no publicados), revelaba que un 32% de las mujeres tenía como contraindicación una cesárea anterior y un 40% de los casos eran derivados después de las 25 semanas (ventana terapéutica MOMS). La ampliación de los criterios de elegibilidad permitió incluir un 46% adicional de casos.
+Adicionalmente, estudios recientes sugieren que la realización de la cirugía antes de las 24 semanas se asocia a un riesgo significativamente mayor de separación corioamniótica, lo cual reduce aún más la ventana terapéutica prenatal.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Embarazo simpleEdad gestacional 24.0 a 27.6 semanasNivel vertebral entre T1-S1.Evidencia de malformación de Chiari II en la resonancia fetalCariotipo/QF-PCR normalEdad materna mayor o igual a 18 añosCapacidad de alojarse cerca del hospital entre la cirugía y el nacimiento.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Defectos estructurales mayores no relacionados con la disrafiaCifosis severaRiesgo aumentado de parto prematuroÍndice de masa corporal >40Historia de desprendimiento de placentaAntecedente de más de una cesárea anterior o una cesárea previa con período inter-genésico menor a 18 meses.
+
+
+-- TÉCNICA QUIRÚRGICA
+
+El equipo quirúrgico está conformado por un anestesista entrenado en anestesia maternofetal, un obstetra especialista en medicina fetal, un cirujano pediátrico/fetal, un neurocirujano infantil, el obstetra de cabecera, dos instrumentadoras entrenadas y personal médico de apoyo en quirófano.
+Utilizamos anestesia mixta (general y peridural), con la intención de lograr por un lado un mejor control del tono uterino y perfusión placentaria intraoperatoria, y al mismo tiempo una adecuada analgesia en el postoperatorio.
+Luego de una ecografía preoperatoria para determinar localización placentaria y establecer las dosis anestésicas para el feto, se realiza una incisión tipo Pfannenstiel ampliada con disección de los planos hasta exponer el útero . Una vez expuesto el útero, se realiza mapeo ecográfico de la placenta con la intención de decidir el sitio exacto de la histerotomía . Se diseña el sitio de incisión uterina siempre en sentido paralelo a la inserción de la placenta, y de acuerdo a tres parámetros: margen de cuatro centímetros del borde placentario, posición fetal y estructuras uterinas (cuernos, miomas, etc.). De acuerdo al tipo y extensión de la lesión fetal se establece la longitud de la apertura a realizar. Se colocan dos puntos de anclaje de membranas y se procede a la apertura hemostática puntual del útero con electrobisturí convencional . Durante la histerotomía se tiene especial cuidado de mantener la membrana unida a la pared uterina. utilizando un asa bipolar con corte incorporado que facilita la hemostasia y sella la unión de la membrana a la pared uterina.
+El especialista en medicina fetal localiza la espalda del feto e inyecta un cocktail anestésico (compuesto por vecuronio, fentanilo y atropina) en uno de los glúteos con posterior control de la frecuencia cardíaca . Se expone a continuación la disrafia fetal a través de la histerotomía para comenzar el cierre de la misma . Se realiza posteriormente el cierre de la lesión por el neurocirujano, separando la placoda de la aracnoides y el cierre de duramadre. En algunos casos, cuando no fue posible cerrar la duramadre, se colocó parche de duramadre sintético no suturable. A continuación, se realiza cierre de la piel fetal . En los casos en los que la piel no pudo cerrarse en la línea media de primera intención-por ejemplo, en algunas raquiquisis amplias-se realizaron unas pequeñas incisiones laterales de descarga con la intención de lograr un cierre libre de tensión. Sólo en un caso, el primero, se colocó parche en la piel. Una vez terminada la cirugía del defecto, se constata vitalidad fetal y se procede a amnioinfusión ecoguiada para completar el volumen de líquido amniótico que se desea (habitualmente bolsillo máximo vertical de 6 cm) con solución fisiológica tibia y antibiótico. Se realiza por último histerorrafia en tres planos y cierre de pared abdominal materna prestando especial atención a la hemostasia .
+En resumen, la técnica quirúrgica es similar a la descripta en el ensayo MOMS, a excepción de:
+Apertura uterina con asa bipolar a partir del segundo casoDosis única de sulfato de magnesio intraquirúrgica (neuroprotección fetal)Uso de Atosiban además de indometacina y nifedipina como agentes tocolíticosHisterorrafia en 3 planos.
+Después de la cirugía y la recuperación anestésica, la paciente pasa a una terapia intermedia obstétrica con enfermeras entrenadas en manejo del postoperatorio de cirugía fetal.
+Luego del alta se realizan controles ecográficos semanales, una resonancia postquirúrgica al mes y controles obstétricos cada dos semanas. En aquellas pacientes sin rotura prematura de membrana o trabajo de parto espontáneo, se realiza cesárea programada con inspección dirigida de la histerorrafia a las 37 semanas.
+El seguimiento postoperatorio, nacimiento y cuidados neonatales se realizaron en la misma institución. No hubo pérdidas de datos en el seguimiento de los pacientes.
+
+
+-- VARIABLES ANALIZADAS
+
+Se analizaron las siguientes variables:
+
+
+--- MATERNAS
+
+Edad gestacional de cirugíaMuerte materna o complicaciones postoperatorias severasTiempo quirúrgicoTiempo de internaciónRotura prematura de membranas (RPM)Corioamnionitis.
+
+
+--- PERINATALES
+
+Sobrevida perinatalEdad gestacional al nacerNecesidad de cierre cutáneo postnatal (CCP)Necesidad de tratamiento de la hidrocefalia con DVP o ETVEvolución de la herniación romboencefálica (por resonancia fetal pre y postquirúrgica)Diferencia entre el nivel motor anatómico prenatal (por ecografía y resonancia magnética) y nivel motor funcional neonatal (clínico).
+
+
+- RESULTADOS
+
+La cirugía fetal se realizó en una edad gestacional media de 25.8 semanas (24–27.6 semanas de gestación).
+El tiempo quirúrgico medio fue de 138 minutos (rango: 101–187 min) con tendencia descendente, dependiente de la curva de aprendizaje .
+El tiempo medio de internación materna fue 7.1 días (rango: 4–32).
+La sobrevida perinatal fue del 95% (20/21). Hubo una muerte fetal secundaria a una banda amniótica en el cordón umbilical a los 60 días de la cirugía (semana 34 de gestación) .
+La edad gestacional media al nacer fue de 34.2 semanas (rango: 29.2–37.1). No hubo ninguna muerte materna ni complicaciones obstétricas severas, como desprendimiento de placenta o rotura uterina. El 52% (11/21) de las pacientes experimentó rotura prematura de membrana a una edad gestacional media de 30.6 sem. (26.6–35.0). Una paciente tuvo corioamnionitis (4.7%).
+La necesidad de cierre cutáneo postnatal fue de 5% (1/20) (primer caso, en el que se colocó parche sintético cutáneo que tuvo que ser removido) . El resto de los casos (95%) tuvo una cicatrización cutánea normal [Figuras 10 y 11]. Dos casos (9.5%) requirieron descargas laterales (raquisquisis). Ningún caso tuvo fístula de líquido cefalorraquídeo.
+La mejoría o resolución prenatal de la herniación romboencefálica fue del 95% (20/21) .
+El 70% (15/20) de los pacientes no requirió ningún tratamiento para la hidrocefalia,
+4 pacientes requirieron DVP (20%) y 2 ETV (10%) . La edad media de los pacientes al momento del análisis fue 10.2 meses (rango: 2–36).
+El nivel funcional motor neonatal (evaluado a los 28 días) fue mejor que el nivel anatómico prenatal en 45% de los casos (9/20; 1 nivel: 30%, 2 niveles: 5%, 3 niveles: 5%, 4 niveles: 4%), igual en 50% de los casos (10/20), y peor en 5% (1/20) .
+
+
+- DISCUSIÓN
+
+La cirugía fetal requiere del esfuerzo coordinado de muchos especialistas, incluidos los cirujanos pediátricos, neurocirujanos, especialistas en medicina materno-fetal, obstetras, imagenólogos con experiencia en resonancia fetal, neonatólogos, anestesiólogos, genetistas, enfermeras, trabajadores sociales y psicólogos.
+Los recursos necesarios para comenzar un programa de cirugía fetal no deben subes-timarse. Se requiere de un equipo multidisciplinario con experiencia para evaluar a los pacientes, llevar a cabo los procedimientos y realizar el seguimiento postquirúrgico. El equipo y las instalaciones requeridas son costosos, y resultan difíciles de justificar si se va a realizar un número muy pequeño de estos procedimientos, lo cual complica además la adquisición y mantenimiento de las destrezas quirúrgicas necesarias, con lo que la paciente “paga” la curva de aprendizaje del equipo. No está claro aún qué porcentaje de los nuevos centros sin experiencia en este procedimiento podrán replicar los resultados del ensayo MOMS.
+En los últimos años, ha crecido el interés en lograr un acceso uterino menos invasivo para la madre mediante cirugía fetoscópica. Es esperable que, en el futuro cercano, los centros con mayor experiencia comiencen a flexibilizar los criterios de elegibilidad originales y a explorar técnicas mini-invasivas. Por el momento, estas modificaciones de la técnica son experimentales y resta llegar a un consenso respecto de la mejor técnica adaptada, que garantice los beneficios neonatales reduciendo al mismo tiempo la morbilidad materna.
+Es importante recordar que la cirugía prenatal no constituye una “cura” para la espina bífida, pero no obstante esta alternativa terapéutica temprana ha superado los rigores de un ensayo clínico diseñado correctamente y confiere un claro beneficio a mediano plazo para fetos seleccionados adecuadamente. Sigue existiendo una pregunta legítima: para una condición grave no letal, ¿qué tan importantes son estas mejoras en la calidad de vida, en comparación con el riesgo y el costo de la cirugía fetal? Para el obstetra, que no suele ocuparse del cuidado y seguimiento del paciente con mielomeningocele durante la infancia y la edad adulta, la relación riesgo-beneficio puede parecer cuestionable. Para el neurocirujano, urólogo, ortopedista, padre o paciente, las mejoras significativas en la deambulación y los beneficios derivados de evitar las complicaciones asociadas al tratamiento de la hidrocefalia proporcionadas por la cirugía fetal, pueden ser de enorme importancia. Estudios futuros proporcionarán datos sobre calidad de vida a largo plazo y análisis de costo-beneficio que ayuden a responder estas preguntas.
+Mientras tanto, es esencial que los especialistas que atienden al feto comuniquen los beneficios y riesgos potenciales de la cirugía fetal de una manera honesta y equilibrada, para que los padres puedan tomar una decisión autónoma e informada.
+
+
+- CONCLUSIÓN
+
+El presente estudio confirma que la cirugía intrauterina de disrafias fetales abiertas se asocia a un mayor riesgo de parto prematuro y rotura prematura de membranas, pero reduce significativamente la necesidad de tratamiento postnatal de hidrocefalia y mejora la función motora a corto plazo. Nuestros resultados se encuentran en línea con los del estudio MOMS, ofreciendo en nuestro medio una alternativa al tratamiento convencional neonatal, con resultados neurológicos significativamente superiores para el recién nacido afectado.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

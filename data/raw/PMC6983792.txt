@@ -1,0 +1,123 @@
+ANÁLISIS DE COSTE-EFECTIVIDAD DE DAPAGLIFLOZINA EN COMPARACIÓN CON LOS INHIBIDORES DE LA DPP4 Y OTROS ANTIDIABÉTICOS ORALES EN EL TRATAMIENTO DE LA DIABETES MELLITUS TIPO 2 EN ESPAÑA<SUP
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus tipo 2 (DM2) es una enfermedad crónica, con una alta prevalencia y cuyas complicaciones microvasculares y macrovasculares incrementan la morbilidad y la mortalidad relacionadas con la enfermedad, reducen la calidad de vida de los pacientes y generan un elevado gasto para el Sistema Nacional de Salud (SNS). Los resultados del estudio SECCAID mostraron que el coste total directo generado por la DM en España es de 5.809 millones de euros. El coste total por paciente con DM2 a 2 años se sitúa en los 4.458 €, y se incrementa con la presencia de factores de riesgo.
+El abordaje inicial de la DM2 se basa en medidas sobre el estilo de vida y tratamientos antidiabéticos individualizados. La elección del tratamiento farmacológico depende principalmente de su potencia en el control glucémico y de los factores de riesgo cardiovascular, así como de las complicaciones y del riesgo de efectos adversos (EA) que presente, siendo lo más habitual empezar con metformina (MET). Según la Agencia Europea del Medicamento, sigue existiendo la necesidad de nuevas opciones terapéuticas para la DM2 dada la prevalencia global en aumento de la enfermedad, su progresión (que eventualmente lleva a la necesidad de una combinación de terapias en la mayoría de los pacientes) y los EA indeseables de los tratamientos disponibles (como ganancia de peso o eventos de hipoglucemia).
+Dapagliflozina es un antidiabético oral (ADO) inhibidor del cotransportador sodio-glucosa tipo 2 (sodium-glucose co-transporter 2 [SGLT-2]), un mecanismo de acción independiente de la insulina, que aporta un control sostenido de los parámetros glucémicos, reduce el peso y la presión arterial, produce menos episodios hipoglucémicos comparado con las sulfonilureas y no aumenta el riesgo de presentar episodios cardiovasculares. La eficacia y la seguridad de dapagliflozina han sido demostradas en diversos ensayos clínicos, , evaluando un total de 6.144 pacientes con DM2, 4.164 de estos tratados con dapagliflozina.
+La evaluación económica es hoy en día un instrumento necesario en la toma de decisiones sanitarias. El análisis de coste-efectividad (ACE) permite comparar los costes y los beneficios adicionales en salud que proporcionan las nuevas tecnologías sanitarias, estimando hasta qué punto su incorporación supone un uso eficiente de los recursos.
+El objetivo del presente trabajo fue analizar la eficiencia de dapagliflozina en el tratamiento de la DM2, siempre en combinación con MET, en comparación con los principales tipos de ADO disponibles en España: inhibidores de la dipeptidil peptidasa 4 (iDPP4), sulfonilureas (SU) y tiazolidindionas (TZD), mediante un modelo de simulación de la historia natural de la DM2.
+
+
+- MÉTODOS
+
+Se realizó un ACE adaptando al entorno español un modelo estocástico de simulación de eventos discretos, desarrollado y validado previamente por McEwan et al.. El modelo simuló la historia natural de la DM2 teniendo en cuenta la práctica clínica habitual española, la eficacia de los tratamientos, la ocurrencia de complicaciones microvasculares y macrovasculares, los EA y los costes asociados. Se calcularon las consecuencias clínicas, medidas en años de vida ajustados por calidad (AVAC), y económicas (coste total del manejo del paciente) para cada opción de comparación.
+
+
+-- ESTRUCTURA DEL MODELO Y TIPO DE ANÁLISIS
+
+El modelo simuló una cohorte de 30.000 individuos tratados con cada uno de los tratamientos antidiabéticos comparados. Los pacientes recibían este tratamiento hasta que alcanzasen de nuevo el nivel de HbA1c que tenían al iniciar el propio tratamiento, lo que se consideró como control inadecuado de la glucemia y conllevó el cambio a la siguiente línea de tratamiento (introducción de insulina). Durante la simulación se evaluaron los eventos microvasculares, macrovasculares, hipoglucemias, EA y mortalidad. Las simulaciones se prolongaron para todos los individuos hasta el final del horizonte temporal considerado (40 años) o hasta la muerte del paciente, acumulándose los costes y los AVAC de cada opción comparada y obteniéndose así la razón de coste-efectividad incremental (RCEI) de dapagliflozina y MET frente a cada opción de comparación.
+
+
+-- OPCIONES DE COMPARACIÓN
+
+--- ANÁLISIS PRINCIPAL
+
+•Dapagliflozina + MET vs. iDPP4 + MET
+Los iDPP4 fueron el comparador elegido en el análisis principal porque, entre las opciones contempladas en doble terapia con MET en las guías españolas, son en la actualidad tanto el tratamiento con mayor impacto en el gasto farmacéutico como el más utilizado en la práctica clínica en términos absolutos.
+
+
+--- ANÁLISIS ADICIONALES
+
+•Dapagliflozina + MET vs. SU + MET
+Las SU se utilizaron como uno de los comparadores adicionales del análisis por ser también uno de los tratamientos más utilizados en doble terapia con MET, .•Dapagliflozina + MET vs. TZD + MET
+Finalmente, se consideró la opción de la adición de TZD al tratamiento con MET como análisis adicional, al ser otra alternativa de tratamiento de la DM2 en estos pacientes.
+Para todas las opciones comparadas, y tras el fracaso de la asociación de dapagliflozina, iDPP4, SU o TZD con MET, se consideró la terapia combinada de MET e insulina basal. En última instancia, se consideró que todos los pacientes eran tratados exclusivamente con insulina en régimen intensivo.
+
+
+-- POBLACIÓN, EFICACIA Y SEGURIDAD
+
+En el análisis principal del ACE dapagliflozina + MET vs. iDPP4 + MET y en el análisis dapagliflozina + MET vs. TZD + MET se utilizaron tanto los datos demográficos y clínicos basales como los de eficacia de una comparación indirecta, , mientras que para el análisis dapagliflozina + MET vs. SU + MET se utilizaron los datos del ensayo clínico pivotal de Nauck et al. .
+El parámetro principal de eficacia considerado en el modelo fue la reducción del nivel de HbA1c. Asimismo, se consideró el efecto de los tratamientos en la modificación de los principales factores de riesgo asociados a la DM2 (peso corporal, colesterol total, colesterol HDL, presión arterial sistólica), y la tasa de EA (hipoglucemias, infecciones genitales y del tracto urinario) y de discontinuación de cada tratamiento . En el caso de TZD + MET, debido a cuestiones metodológicas, el metaanálisis no pudo proporcionar datos acerca de su efecto en el peso, por lo que se asumió el valor descrito en la ficha técnica de pioglitazona (incremento de 1,5 kg). Se consideró que el efecto de los tratamientos en la HbA1c y en los factores de riesgo tiene lugar durante el primer año de tratamiento, que es el periodo de seguimiento en los estudios en los que se basan los datos de eficacia, , . Tras el primer año se asumió que estos valores evolucionan según los datos del estudio UKPDS 68. De este estudio también se utilizaron las ecuaciones de riesgo de eventos para relacionar los cambios en los factores de riesgo con la ocurrencia de complicaciones microvasculares y macrovasculares.
+En segunda línea de tratamiento (insulina basal + MET) se utilizaron los datos del estudio de Monami et al., y para tercera línea de tratamiento (insulinización intensiva), los estudios de Waugh et al. y Fajardo et al..
+
+
+-- UTILIDADES
+
+A través de las utilidades se valoró el impacto de la DM2, de las complicaciones y del tratamiento sobre la calidad de vida de los pacientes, , , , , expresándose en una escala numérica entre 0 (utilidad del estado «muerte») y 1 (utilidad del estado «salud perfecta») . Además, el modelo también tuvo en cuenta la reducción de utilidad, independiente de la DM2, relacionada con el envejecimiento del paciente durante la simulación.
+
+
+-- COSTES
+
+--- COSTE DE LAS COMPLICACIONES DE LA DIABETES MELLITUS TIPO 2
+
+Se consideraron los costes asociados a las complicaciones macrovasculares (cardiopatía isquémica, infarto de miocardio, insuficiencia cardiaca congestiva, ictus) y microvasculares (amputación, ceguera y enfermedad renal terminal), , , , , tanto del año en que acontecen como para cada año subsiguiente (coste de mantenimiento) .
+
+
+--- COSTE DE HIPOGLUCEMIAS Y EFECTOS ADVERSOS
+
+Como EA se consideraron las infecciones de tracto urinario y genital, y los costes de las hipoglucemias graves, ya que se estimó que los episodios no graves no conllevan uso de recursos sanitarios.
+Además, también se incluyeron el coste del inicio del tratamiento con dapagliflozina (monitorización de la función renal) y el coste de la discontinuación del tratamiento .
+
+
+--- COSTES FARMACOLÓGICOS
+
+La dosis media utilizada de cada fármaco se estimó a partir de la dosis diaria definida. Para los costes farmacológicos se utilizó el PVP + IVA y aplicación del descuento según Real Decreto-Ley 8/2010 .
+
+
+--- COSTES ASOCIADOS A LA GANANCIA DE PESO
+
+El coste anual asociado al valor del índice de masa corporal (IMC) de cada individuo en función del sexo se calculó a partir de un estudio del Reino Unido donde se observó que el coste de la prescripción de los fármacos fue mayor a medida que aumentó el IMC.
+
+
+-- ANÁLISIS DE SENSIBILIDAD
+
+Se realizaron diversos análisis de sensibilidad univariantes para valorar la robustez de los resultados . Los parámetros analizados fueron: nivel umbral de HbA1c para cambio de línea de tratamiento, utilidades asociadas al IMC, costes farmacológicos, coste asociado a la ganancia de peso, tasa de descuento y el horizonte temporal del análisis.
+Asimismo se realizó un análisis de sensibilidad probabilístico, donde todos los parámetros estudiados del modelo se modificaron simultáneamente, imputando una distribución beta para las utilidades y probabilidades, una distribución gamma para los costes y distribuciones normales para el resto de parámetros del modelo.
+Además, para la comparación frente a TZD + MET se realizó un escenario donde esta opción tuviese un impacto nulo en el peso, ya que el metaanálisis de referencia para esta comparación no pudo proporcionar una estimación del mismo.
+
+
+-- PERSPECTIVA, HORIZONTE TEMPORAL Y DESCUENTO
+
+El análisis se realizó desde la perspectiva del SNS considerando los costes sanitarios directos. Para evaluar la eficiencia de dapagliflozina comparada con las restantes opciones de tratamiento analizadas dentro del contexto español, se consideró la RCEI resultante de los análisis realizados así como el umbral de disposición a pagar, aceptado comúnmente en España de 30.000 € por AVAC ganado.
+El horizonte temporal fue toda la vida del paciente (hasta un máximo de 40 años). Todos los costes se expresaron en euros del año 2013 y se utilizó una tasa de descuento del 3% tanto para los costes como para los resultados en salud.
+
+
+- RESULTADOS
+
+-- DAPAGLIFLOZINA VS. IDPP4 (ANÁLISIS PRINCIPAL
+
+Dapagliflozina mostró mayor efectividad que iDPP4 (ambas asociadas con MET), aportando 0,019 AVAC adicionales, y reduciendo los costes totales en 42 € .
+
+
+--- ANÁLISIS DE SENSIBILIDAD
+
+En la mayoría de los escenarios considerados en el análisis de sensibilidad univariante, dapagliflozina + MET fue una opción terapéutica coste-efectiva en comparación con iDPP4 + MET . Además, en los resultados del análisis probabilístico, dapagliflozina + MET obtuvo una probabilidad del 76% de ser un tratamiento coste-efectivo, es decir, de presentar un coste por AVAC ganado inferior a 30.000 €.
+
+
+-- DAPAGLIFLOZINA VS. SULFONILUREAS O TIAZOLIDINDIONAS (ANÁLISIS ADICIONALES
+
+Dapagliflozina + MET incrementó los AVAC en 0,430 frente a SU y obtuvo un aumento de 1.531 € en los costes totales. Dapagliflozina + MET proporcionó un incremento de 0,411 AVAC en comparación con TZD, con un aumento en los costes de 825 €. Considerando el umbral de referencia español de 30.000 €/AVAC ganado, dapagliflozina + MET fue una opción coste-efectiva en las comparaciones frente a SU + MET y TZD + MET, con valores de RCEI de 3.560 € y 2.007 €/AVAC ganado, respectivamente . En el análisis frente a TZD + MET, en el escenario donde se consideró que este tratamiento no incrementaba el peso, la RCEI obtenida fue de 35.156 € por AVAC ganado.
+
+
+- DISCUSIÓN
+
+El presente trabajo sugiere que dapagliflozina + MET es una opción que aporta un ligero aumento de efectividad y disminución de costes en el manejo de la DM2 frente a iDPP4 + MET (aumento de 0,019 AVAC y reducción de 42 € en los costes totales). Estos resultados se explican fundamentalmente por el efecto beneficioso de dapagliflozina en la reducción de peso. En el análisis adicional frente a SU + MET, dapagliflozina + MET parece ser una opción de tratamiento coste-efectiva considerando el contexto español (RCEI ≤ 30.000 € por AVAC ganado) al obtener una RCEI de 3.560 €/AVAC ganado. Los resultados de esta comparación vienen determinados principalmente por el mayor coste farmacológico de dapagliflozina + MET frente a SU + MET, compensado con la mayor ganancia en AVAC que proporciona dapagliflozina. Finalmente, en el análisis adicional que ha comparado dapagliflozina + MET frente a TZD + MET, la RCEI resultante es de 2.007 €/AVAC ganado, por lo que de nuevo parece ser una tecnología eficiente en el contexto español. Los análisis de sensibilidad univariantes y probabilístico efectuados confirmaron la robustez de estos resultados.
+En el metaanálisis de Goring et al., dapagliflozina proporcionó un control similar de la HbA1c a los iDPP4, las SU o las TZD, pero con el beneficio adicional de una pérdida significativa de peso, lo que originó que en el presente estudio dapagliflozina se asociase a una mejora de la calidad de vida y a un descenso de los costes totales.
+Dapagliflozina ha sido destacada desde la literatura científica por su buen perfil de eficacia y seguridad, señalando su utilidad en pacientes con DM2 de larga duración en los que otros fármacos como las SU son menos efectivos dada la pérdida, con el tiempo, de la capacidad de las células beta de producir insulina.
+El presente trabajo representa un avance en la evaluación económica de dapagliflozina por tratarse de una de las primeras publicaciones de un ACE de este nuevo hipoglucemiante oral, y la primera en el contexto español. Hasta la fecha solo se ha publicado un ACE comparando el tratamiento con insulina frente a insulina más dapagliflozina en Holanda. La opción con dapagliflozina mostró menos complicaciones micro y macrovasculares y fue coste-efectiva con una RCEI de 5.502 €/AVAC ganado.
+Una de las limitaciones de este estudio es la utilización de un metaanálisis para la comparación con iDPP4 y TZD. No obstante, en ausencia de ensayos clínicos comparativos, esta es la mejor aproximación disponible para estimar la eficacia relativa. Asimismo, este metaanálisis no proporcionó una estimación sobre el cambio que produce en el peso la opción TZD + MET, pero para superar esta limitación se recurrió al dato descrito en la ficha técnica de este tratamiento y, además, se ha aportado el resultado obtenido si no se considerase efecto alguno de TZD en el peso.
+Otra limitación es el uso de datos del Reino Unido para las utilidades relacionadas con la edad y el IMC, y para costes asociados al IMC, , , , pero es una limitación común en las evaluaciones económicas españolas, debido a la falta de datos nacionales. En el caso particular referente a las utilidades asociadas al IMC, la falta de consenso en la cuantificación de la relación entre las variaciones de IMC y la calidad de vida representa una limitación adicional. Sin embargo, el análisis de sensibilidad muestra que dapagliflozina es también coste-efectivo en el escenario en el que no se considera que cambios en el IMC tengan impacto en la calidad de vida del paciente.
+El ACE representa una extrapolación de la realidad mediante un modelo de simulación estocástico, y como tal, sus resultados deben ser considerados con cautela para la toma de decisiones. No obstante, en el presente trabajo se consideraron las características representativas de la DM2 y de los pacientes que afecta para paliar esta limitación. Una de las fortalezas de este estudio es el uso de un modelo validado y previamente publicado. Asimismo, el modelo que se utilizó en el actual análisis fue aceptado por el NICE en la evaluación de dapagliflozina, que culminó con la recomendación positiva para su uso en tratamiento combinado con MET.
+En resumen, los resultados de este análisis sugieren que dapagliflozina, en combinación con MET, representa una alternativa eficiente para el tratamiento de la DM2 en el contexto español, tanto en comparación con iDPP4 como con el resto de los principales ADO.Lo conocido sobre el tema•La elevada prevalencia de DM2 y sus complicaciones relacionadas tienen un importante impacto económico en el Sistema Nacional de Salud.•Son necesarios nuevos tratamientos en el manejo de la DM2 debido a la elevada prevalencia de la enfermedad, su progresión y los efectos adversos indeseables de los tratamientos existentes.•Dapagliflozina representa una nueva opción de tratamiento en el manejo de la DM2, pero todavía no se han publicado trabajos sobre su eficiencia en el contexto español.Qué aporta este estudio•Este estudio compara la eficiencia entre dapagliflozina y otros tratamientos disponibles para la DM2.•La comparación ha tenido en cuenta para cada tratamiento la eficacia del mismo y las principales partidas de costes que genera.•Dapagliflozina, en combinación con metformina resulta una opción eficiente para el SNS en el tratamiento de la DM2.
+
+
+- FINANCIACIÓN
+
+Estudio realizado con la colaboración económica de Bristol Myers-Squibb y AstraZeneca. Oblikue Consulting ha realizado el análisis de forma independiente, y el Dr. Abad Paniagua, Dr. Casado Escribano, Dr. Fernández Rodríguez y Dr. Morales Escolar han participado también como asesores independientes.
+
+
+- CONFLICTO DE INTERESES
+
+L. Betegón trabaja en el Departamento de Economía de la Salud de Bristol Myers Squibb; J. Sánchez-Covisa trabaja en el Departamento de Economía de la Salud de AstraZeneca. M. Brosa trabaja en la consultora Oblikue Consulting, que recibió financiación para la realización del estudio por parte de las empresas promotoras. Los demás autores declaran no tener conflicto de intereses.

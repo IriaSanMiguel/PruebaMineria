@@ -1,0 +1,45 @@
+¿CÓMO SE FALLECE POR INFECCIÓN POR SARS-COV-2?: ANÁLISIS DEL PROCESO DE MUERTE EN PACIENTES INGRESADOS EN UN HOSPITAL DE AGUDOS
+
+
+- INTRODUCCIÓN
+
+El 11 de marzo de 2020 la Organización Mundial de la Salud (OMS) consideró que la propagación de SARS-CoV-2 cumplía criterios epidemiológicos para ser declarada oficialmente pandemia, con más de 118.000 casos en 114 países y 4.291 muertes. Desde entonces, un número significativo de pacientes ha ingresado en un hospital con una enfermedad grave, en el contexto de edad avanzada y comorbilidades subyacentes (el 20% de los casos totales), con un compromiso respiratorio grave, con necesidad de un tratamiento activo completo y con una tasa de mortalidad 10 veces superior a la de la gripe normal, según la OMS.
+Aunque los cuidados paliativos han supuesto un importante componente de la atención en pandemias al haber contribuido al control de síntomas, apoyo psicológico y toma de decisiones complejas, la OMS no ha mencionado la atención paliativa en su guía de actuación sobre el mantenimiento de los servicios esenciales de salud durante esta crisis, a pesar de que proporcionar cuidados seguros y efectivos al final de la vida son parte esencial de la asistencia al SARS-CoV-2.
+Con el propósito de identificar estrategias complementarias para que sean incorporadas a las ya implantadas y que mejoren la atención sanitaria ofrecida al final de la vida, el objetivo de este estudio fue analizar el proceso de muerte de los pacientes fallecidos por SARS-CoV-2 en un hospital de agudos.
+
+
+- MATERIAL Y MÉTODOS
+
+Se presenta un estudio descriptivo observacional de corte transversal en el que se analizaron los registros clínicos electrónicos de todos los pacientes ingresados en el Hospital Costa del Sol (Marbella, Málaga) fallecidos con SARS-CoV-2 desde febrero hasta abril de 2020.
+Se examinaron las órdenes de prescripción farmacéutica, evoluciones médicas, de enfermería y los informes de fallecimiento, en busca de un conjunto de variables de proceso, que se establecieron atendiendo a las disposiciones de la Ley 2/2010, de 8 de abril, de Derechos y Garantías de la Dignidad de la Persona en el Proceso de la Muerte, consensuadas previamente por el equipo investigador. Para garantizar la homogeneidad de la investigación se estableció un sistema secuencial de revisión de documentos.
+Los datos se registraron de forma anónima siguiendo estrictamente las leyes y normas de protección de datos en vigor (Ley 41/2002 de 14 de noviembre, básica reguladora de la Autonomía del Paciente y de Derechos y Obligaciones en Materia de Información y Documentación Clínica y Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, adaptada al Reglamento UE 2016/679 del Parlamento Europeo y el Consejo, de 27 de abril de 2016).
+El estudio fue revisado y autorizado por Comité de Ética de Investigación Costa del Sol, que concedió la exención de consentimiento informado a familiares de fallecidos, dado el interés de salud pública y la evaluación de resultados en el manejo de pacientes con esta enfermedad.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+El análisis estadístico consistió en un estudio descriptivo del total de la muestra utilizando medidas de posición mediana y rango intercuartílico (diferencias entre percentil 75 y 25, RIQ) para variables cuantitativas, dado que la potencia estadística no permitía utilizar medidas de tendencia central, y distribución de frecuencias para las variables cualitativas. El programa estadístico utilizado fue el IBM SPSS Statistics 20.0.
+
+
+- RESULTADOS
+
+De un total de 103 pacientes ingresados con positividad para la infección por SARS-CoV-2 se contabilizaron 16 fallecidos en el periodo de estudio. El 75% fueron varones con una edad mediana de 80,5 años (RIQ: 16,5). La estancia mediana hasta la defunción fue de 3 días (RIQ: 7,8); fueron neumología (6), medicina interna (5) y críticos (5) los servicios donde se registraron los ingresos.
+El índice de Charlson fue superior a 2 en el 44,7% de los pacientes fallecidos, y el 87,5% presentó dependencia total o severa (Barthel ≤ 60). De ellos, 5 (31,2%) fueron atendidos en el hospital (urgencia o ingreso) en los 3 meses previos a la defunción (tabla 1 ).
+Ningún fallecido había declarado voluntades anticipadas. Se prescribió limitar el esfuerzo terapéutico al 68,8% (dicha limitación fue constatada en la historia clínica por más de un profesional en un paciente) y en todos se acordó con la familia. En uno de los pacientes se prescribieron maniobras de reanimación cardiopulmonar y en 9 (56,3%) se desestimó el ingreso en la unidad de cuidados intensivos.
+El día del fallecimiento, 7 de los 16 pacientes contaban con medidas de soporte (4 con apoyo ventilatorio no invasivo mediante terapia de alto flujo, 2 con intubación orotraqueal más nutrición parenteral y a uno de ellos se le realizaron maniobras de reanimación e intubación). A ninguno se le retiró el dispositivo de apoyo. Al 25% de los pacientes se les suspendió la medicación. De los fallecidos, 9 (43,8%) contaban con sedación paliativa y 3 (18,8%) estaban en coma inducido. De los 13 pacientes a quienes correspondía, 11 recibieron analgesia de tercer escalón (84,6%), con una mediana de 2 días de aplicación. A todos se les midió el dolor diariamente, a excepción de a un paciente; se registró ausencia de dolor en 11 y un valor máximo de 2, según la escala EVA (tabla 2 ).
+La comunicación del equipo sanitario con la familia se realizó telefónicamente, a diario y en situaciones de empeoramiento vital. Todos los pacientes fallecieron en situación de aislamiento y sin la presencia de sus seres queridos.
+
+
+- DISCUSIÓN
+
+La mortalidad intrahospitalaria por SARS-CoV-2 en nuestro centro (tiempo desde el ingreso hospitalario hasta la muerte) fue de 3 días (RIQ: 7,8), menor a la reflejada en estudios europeos, que la sitúan en 7 días. Los fallecidos tenían edad media avanzada (80,5 años) y comorbilidades preexistentes significativas (por encima de 2 en la mitad de los casos), datos similares a los de otros estudios, que establecen la edad media en 81 años y la comorbilidad en 4.
+Los pacientes fallecidos en las unidades de hospitalización murieron sin dolor, recibiendo tratamiento sintomático y atención compasiva, y los fallecidos en los servicios críticos lo hicieron considerando que se aplicaban cuidados con criterios de proporcionalidad y adecuación. No obstante, a pesar de indicarse limitación del esfuerzo terapéutico en la historia clínica de 11 pacientes, 7 contaban con medidas de soporte el día del fallecimiento y tan solo a 4 se les retiró la medicación. Como señalan diferentes autores, la suspensión de soportes terapéuticos, aun en los servicios intensivos, debe estar enmarcada en la necesidad de aplicar cuidados paliativos, para evitar intervenciones inútiles y aliviar el sufrimiento.
+Por otro lado, aunque se informó diariamente a los familiares y se consensuaron las medidas aplicadas, no pudieron acompañar a su ser querido en el proceso de muerte. Los pacientes fallecieron solos y con medidas de aislamiento, y los rituales que normalmente brindan consuelo y oportunidades de apoyo tras la muerte no fueron posible, lo que pudo aumentar el sentimiento de pérdida y desesperación. Y es que la falta de preparación, la muerte hospitalaria y la muerte en unidades de cuidados intensivos son considerados factores de riesgo para un duelo deficiente: se estima que aproximadamente el 10% de las personas presenta riesgo alto de desarrollar duelos complejos, que requieren la intervención de un profesional de salud mental.
+En este escenario de crisis sanitaria pudimos apreciar que en la muestra analizada de pacientes fallecidos por SARS-CoV-2 se mantuvieron los estándares de calidad en el proceso de la muerte, aunque con aspectos susceptibles de mejora.
+Como limitaciones de este trabajo debemos considerar que se trata de un estudio local y que los resultados están sujetos a la situación epidemiológica del ámbito del estudio, el periodo analizado y los recursos existentes. No obstante, se analizaron todos los pacientes fallecidos por SARS-CoV-2 ingresados en diferentes servicios y especialidades, y se aporta información sobre cómo murieron los pacientes hospitalizados.
+Es obvio que los cuidados paliativos son un componente esencial en la respuesta al SARS-CoV-2 que deben incorporarse en todos los ámbitos de la atención sanitaria y que los equipos deben adaptarse rápidamente a nuevas formas de trabajo. El alivio de ese sufrimiento en todas sus formas debe ser una parte clave de la respuesta sanitaria.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

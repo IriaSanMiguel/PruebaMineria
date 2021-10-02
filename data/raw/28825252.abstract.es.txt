@@ -1,0 +1,5 @@
+Se registraron 241 episodios de PAB. La edad media fue de 63 (DE: 16) años. Presentaron disuria el 73%, fiebre el 64% y antecedentes de cáncer, manipulación previa de la vía urinaria o adenoma prostático entre el 15,4- 22,4%. El 48,1% de los urocultivos y el 17,6% de los hemocultivos resultaron positivos. Escherichia coli fue el aislamiento mayoritario, presentando con resistencias en el 27,7% a ciprofloxacino y amoxicilina/clavulánico. A los 30 días reconsultaron 29 pacientes (12%). El tacto rectal, con odss ratio (OR) 9,23 (IC 95%: 1,12-75,82), y la bacteriemia, con OR de 3,81 (IC 95%: 1,31-11,04), fueron las únicas variables asociadas a la reconsulta (p <0,05).
+Los factores relacionados con la reconsulta del enfermo con PBA fueron la presencia de bacteriemia y el tacto rectal.
+Estudio analítico de cohorte observacional con seguimiento prospectivo de las PAB atendidas en el SUH durante un año.
+Analizar los factores asociados a la reconsulta del paciente con prostatitis aguda bacteriana (PAB) atendido en el servicio de urgencias hospitalario (SUH).
+

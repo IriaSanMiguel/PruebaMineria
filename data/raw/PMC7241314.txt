@@ -1,0 +1,91 @@
+MANEJO SEGURO DE LA ROPA E HIGIENE DE LA PIEL EN PACIENTES Y PROFESIONALES SANITARIOS FRENTE A LA COVID-19: <ITALIC>SCOPING REVIEW</ITALIC
+
+
+- INTRODUCCIÓN
+
+En enero de 2020 las autoridades chinas identificaron como agente causante de un brote de neumonía un nuevo tipo de virus de la familia Coronaviridae, que posteriormente ha sido denominado SARS-CoV-2.
+El virus SARS-CoV-2 se ha detectado en secreciones respiratorias (tracto respiratorio superior e inferior), saliva y heces. Se considera que la ruta principal de transmisión es por inhalación de grandes gotas respiratorias, por deposición en las mucosas y las manos, o los fómites contaminados con estas secreciones, seguidas del contacto con la mucosa de la boca, nariz u ojos. Se ha detectado ácido ribonucleico (ARN) viral en la sangre, pero no hay evidencia de que el SARS-CoV-2 pueda transmitirse a través del contacto con la sangre. También se han considerado los modos fecal-oral y aerotransportado, pero su papel en la transmisión del SARS-CoV-2 es actualmente desconocida, .
+Dado que la vía de transmisión son las gotas que impactan en el entorno de los pacientes y que el tiempo de supervivencia en la ropa es menor a 8 h a una temperatura de 10-15 °C, es preciso tener en cuenta estos aspectos en el manejo de los enseres que están en contacto con la piel de pacientes, esto es, en pijamas y batas, ropa de cama y toallas. Las intervenciones relacionadas con la higiene del paciente deben realizarse con seguridad durante todo el proceso: desde los profesionales que la realizan, hasta la limpieza del material no desechable.
+El objetivo de esta revisión es identificar las intervenciones a realizar para lograr un manejo correcto y seguro de la ropa e higiene de los pacientes y profesionales sanitarios.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Debido a la novedad del tema y el escaso margen de tiempo para la publicación de artículos científicos que aporten evidencia para la práctica, se opta por una scoping review (o también llamada revisión panorámica), con la finalidad de sintetizar recomendaciones que contribuyan al mejor entendimiento y manejo del tema abordado.
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+Se realizó una búsqueda en las bases de datos PUBMED y Cochrane sin límites temporales ni de idioma, con los siguientes términos: (COVID-19 OR SARS-CoV-2 OR 2019-nCoV OR Coronavirus); Clothing (Fomites OR clothing OR laundry); antisepsis (antisepis OR asepsis), ampliando la búsqueda con términos en castellano, en el resto de recursos consultados: textiles, ropa, prendas, ropa de cama, ropa de hogar, piel, higiene, antisepsia.
+También se han revisado normas, recomendaciones y documentación científica elaborada por sociedades científicas españolas y entidades gubernamentales nacionales (Ministerio de Sanidad) e internacionales, como los Centers for Disease Control and Prevention (CDC), CDC Europa y la World Health Organization (WHO).
+Por último, se ha llevado a cabo un rastreo y una búsqueda de documentación científica (artículos, libros y otros tipos de documentos) recogida en la sección de «Recurso de evidencia científica COVID-19» de la Biblioteca Sanitaria Online de Castilla y León y de la página de recursos sobre coronavirus SARS-COVID19, creada por un grupo de profesionales de bibliotecas de Ciencias de la Salud.
+Se incluyeron los registros sobre el manejo de ropa y aseo en pacientes infectados ingresados en hospitales y del personal sanitario. Se excluyen las indicaciones para ámbito domiciliario.
+
+
+-- EVALUACIÓN CRÍTICA
+
+No se ha realizado ninguna valoración sistematizada de la calidad de los estudios para su inclusión, al tratarse, principalmente, de una síntesis de normas y recomendaciones para su aplicación inmediata.
+
+
+-- EXTRACCIÓN Y SÍNTESIS DE LA INFORMACIÓN
+
+El análisis de los datos fue realizado en 2 etapas. En la primera, se ha procedido a un identificación y categorización de los estudios recopilados. En la segunda, se ha llevado a cabo un análisis de contenido como criterio clasificatorio, de acuerdo con la estructura del presente trabajo. Se asigna a cada indicación el grado de recomendación y el nivel de evidencia propuesto por el Joanna Briggs Institute.
+
+
+-- LIMITACIONES
+
+Debido a la novedad del tema que nos ocupa y el escaso margen de tiempo para la publicación de artículos científicos que aporten evidencia para la práctica, se opta por la recopilación de indicaciones recogidas por entidades gubernamentales, principalmente, las realizadas por el Ministerio de Sanidad de España, hasta la fecha de realización de la presente revisión.
+Por lo expuesto, las recomendaciones recogidas pueden variar a corto plazo, en función de nuevos informes técnicos que surjan de futuras investigaciones.
+
+
+- RESULTADOS
+
+Se han incluido para esta revisión 14 documentos: 9 de organismos gubernamentales (4 del Ministerio de Sanidad de España, uno de la WHO, 3 de los CDC y uno emitido por el Gobierno de Canadá), 2 revisiones de la Cochrane, una recomendación de una sociedad científica, un artículo científico y una monografía.
+Las recomendaciones recogidas en esta revisión están dirigidas tanto a enfermos infectados, como al personal sanitario. Se agrupan en 5 apartados con el fin de facilitar su identificación y aplicabilidad: tratamiento de la ropa personal de pacientes ingresados con coronavirus, tratamiento de la ropa usada por pacientes infectados (toallas, sábanas, etc.), tratamiento de la ropa del personal sanitario (uniformes), higiene de la piel del paciente e higiene de la piel de los profesionales.
+Se presenta un resumen de los niveles de evidencia y grados de recomendación de la síntesis de resultados en la tabla 1 .
+
+
+-- RECOMENDACIONES Y ACTIVIDADES
+
+--- TRATAMIENTO DE LA ROPA PERSONAL DE PACIENTES INGRESADOS CON CORONAVIRUS
+
+
+
+
+--- TRATAMIENTO DE LA ROPA USADA POR PACIENTES INFECTADOS (TOALLAS, SÁBANAS, ETC
+
+
+
+
+--- TRATAMIENTO DE LA ROPA DEL PERSONAL SANITARIO (UNIFORMES
+
+
+
+
+--- HIGIENE DE LA PIEL DEL PACIENTE
+
+
+
+
+--- HIGIENE DE LA PIEL EN LOS PROFESIONALES
+
+
+
+
+- CONCLUSIÓN
+
+La ropa de los pacientes y del personal sanitario pueden ser vehículos transmisores de la enfermedad. Su correcto tratamiento ayuda a mejorar el control de la misma y a una correcta utilización de los recursos disponibles en estos momentos.
+La adecuada higiene de la piel, en especial la limpieza de las manos, constituye uno de los pilares básicos para la prevención y el control de la infección.
+A pesar de la semejanza de algunas de las pautas recogidas y proporcionadas por los diferentes organismos consultados, creemos necesario recoger las actuaciones y adaptarlas de un modo claro e inequívoco, con el objetivo de ayudar al personal sanitario en el manejo de los pacientes ingresados con COVID-19.
+
+
+- FINANCIACIÓN
+
+No existe fuente de financiación pública ni privada.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras declaran no tener ningún conflicto de intereses.

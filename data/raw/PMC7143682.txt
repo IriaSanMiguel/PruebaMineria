@@ -1,0 +1,49 @@
+PROTOCOLO DIAGNÓSTICO DEL SÍNDROME FEBRIL IMPORTADO
+
+
+- INTRODUCCIÓN
+
+La definición de fiebre en el viajero que procede de zonas tropicales incluye a enfermos con fiebre de más de 38 °C durante más de un día, con o sin clínica focal. Antes de abordar el estudio de estos pacientes es importante destacar que el concepto de «infecciones tropicales» no es estricto. Así por ejemplo, la fiebre de chikungunya, infección causada por un Arbovirus «tropical» transmitido por mosquitos Aedes aegypti y albopictus, se identificó por primera vez en Tanzania en 1953 y desde entonces se consideraba endémico en África, isla Mauricio, isla Reunión, islas Seychelles y Madagascar, así como en el Sudeste Asiático. En Europa se habían registrado casos importados por turistas que habían viajado a estas regiones, pero nunca se habían dado casos de transmisión local por mosquitos de la zona. En el verano de 2007 se describieron casos de transmisión local por el vector en la provincia italiana de Rávena. Más recientemente, en septiembre de 2010, se comunicó el primer caso de transmisión local del virus del dengue en Niza (Francia); el vector era también Aedes albopictus, un vector menos eficaz en la transmisión de esta viriasis que Aedes aegypti. En agosto de 2016 se produjo un primer caso de transmisión local de virus Crimea-Congo en la provincia de Ávila. Así pues, el mapa de infecciones propias de los trópicos no es estático y el médico que evalúe a estos pacientes debe tener conocimiento sobre la epidemiología cambiante y sobre la posibilidad de transmisión local de infecciones no presentes hasta la fecha en una determinada región geográfica (fig. 1 ).Fig. 1
+
+
+- CLASIFICACIÓN CLÍNICA
+
+A efectos diagnósticos, podemos considerar 3 grandes grupos de pacientes con fiebre procedentes del trópico:1Aquellos que tienen fiebre de causa no infecciosa, entre los que cabe destacar el grupo con fiebre por hipersensibilidad a alguno de los fármacos empleados en las pautas de profilaxis.2Los que tienen fiebre en relación con una infección originada por un microrganismo «cosmopolita», sin relación con una patología específica del trópico.3Los que tienen fiebre en el contexto de una infección «específica» (con las salvedades que antes hemos comentado) del trópico.
+Es en este tercer grupo en el que nos centraremos en este protocolo, que a su vez se divide en aquellos que tienen fiebre sin foco aparente y los que además de fiebre presentan clínica focal: diarrea, infección respiratoria, infección urinaria o cualquier otro foco que resulte obvio en la anamnesis, exploración física o pruebas diagnósticas básicas.
+En la anamnesis es imprescindible interrogar sobre: país o países visitados o de procedencia; razón y duración de la estancia; actividades desarrolladas; ingesta de alimentos preparados en puestos callejeros; consumo de agua embotellada o de cubitos de hielo; consumo de alimentos crudos (frutas, verduras, pescado, carnes) o de lácteos; baños en aguas dulces; visitas a cuevas; caminar con calzado cerrado; tiempo transcurrido desde el regreso y profilaxis realizadas, tanto vacunaciones como quimioprofilaxis de malaria.
+
+
+- DIAGNÓSTICO ETIOLÓGICO
+
+A la hora de realizar la aproximación diagnóstica a los microorganismos potencialmente causantes de fiebre, es importante tener en cuenta el tiempo transcurrido desde el regreso del viaje. En la tabla 1 resumimos los microorganismos principales según el periodo de incubación.
+Dado que, tras la malaria, las infecciones por Arbovirus (dengue, chikungunya, zika) se encuentran entre las más frecuentes y que todas ellas tienen un cuadro clínico similar, en la tabla 2 resumimos algunas características que pueden ayudar a diferenciar estos cuadros.
+En nuestra experiencia, las etiologías más frecuentes en los pacientes que consultan por fiebre tras una estancia en zonas tropicales/subtropicales sin ninguna focalidad clara son: malaria (confirmación mediante gota gruesa), dengue (confirmación serológica), fiebre tifoidea (confirmación mediante hemocultivos o cultivo de médula ósea), hepatitis vírica (confirmación mediante serología), absceso hepático amebiano (confirmación mediante ecografía abdominal y aspi-ración) y ricketsiosis (diagnóstico serológico). En la tabla 3 se resumen los estudios necesarios en estos pacientes.
+
+
+- CRITERIOS DE INGRESO
+
+Son los siguientes:1.La existencia de criterios de sepsis (hipotensión arterial, alteración del nivel de conciencia, taquipnea, etc.).2.La procedencia de un área endémica de Plasmodium (es aconsejable el ingreso hasta descartar al menos con 3 gotas gruesas la posibilidad de que el paciente sufra un paludismo).3.Sospecha de fiebre hemorrágica. En este caso es necesario el aislamiento estricto (habitación individual con baño y control de la dirección del flujo de aire; empleo de bata, mascarilla, guantes y polainas; equipo de protección individual EPI, riesgo biológico de nivel 4).4.Fiebre con focalidad infecciosa que requiera ingreso (neumonía, sepsis urinaria, absceso hepático, etc.).
+
+
+- RESPONSABILIDADES ÉTICAS
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología
+
+
+- REFERENCIAS NO CITADAS
+
+, , , , , , , , .

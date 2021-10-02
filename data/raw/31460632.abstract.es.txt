@@ -1,0 +1,5 @@
+. Evaluar el nivel de alfabetización en salud y el grado de adherencia al tratamiento en pacientes hipertensos que acuden al consultorio externo en un hospital de Lima, Perú.
+Se realizó un estudio transversal en 276 pacientes, quienes llenaron un cuestionario con características generales, el test de SAHLSA-50 y el test de Morisky-Green. Se utilizó la prueba de Chi Cuadrado para evaluar la asociación entre las variables independientes con la adherencia al tratamiento y con la alfabetización en salud.
+Se encontró un 36% de inadecuada alfabetización sanitaria en salud y un 15% de adherencia al tratamiento. No se halló asociación entre estas variables (p=0,155). Hubo asociación entre ser jefe de familia (p=0,033) y tener pareja (p=0,044) con el grado de alfabetización en salud.
+El porcentaje de alfabetización en salud fue similar al de estudios peruanos y latinoamericanos, y el grado de adherencia al tratamiento fue una de las más bajas reportadas. No se encontró asociación significativa entre éstas dos variables.
+

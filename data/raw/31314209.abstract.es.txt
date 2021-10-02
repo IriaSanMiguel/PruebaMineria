@@ -1,0 +1,5 @@
+Monitorear el consumo de drogas a través de la medición de sus metabolitos en aguas residuales.
+Se obtuvieron muestras de 31 plantas de tratamiento de agua residual y de 95 sitios con poblaciones específicas (38 escuelas, 42 unidades de tratamiento de adicciones y 15 centros de readaptación social). Usando cromatografía líquida de ultra-alta resolución, se midieron nueve metabolitos de seis drogas.
+Ocho de nueve metabolitos de drogas fueron identificados en aguas residuales. Los metabolitos de marihuana (THC-COOH), cocaína (benzoilecgonina) y metanfetamina fueron identificados en escuelas, centros de readaptación social y de tratamiento de adicciones. En Nuevo Laredo, Culiacán y Torreón se encontraron los consumos per cápita más elevados de cocaína, marihuana, anfetamina y metanfetamina.
+El monitoreo del uso de drogas a través de aguas residuales es factible en México y podría constituir un sistema de vigilancia para identificar cambios de su consumo en el tiempo.
+

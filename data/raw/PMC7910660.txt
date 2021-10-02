@@ -1,0 +1,46 @@
+¿SON LAS ALTERACIONES EN LA MUCOSA ORAL UN SIGNO DE COVID-19? ESTUDIO TRANSVERSAL EN UN HOSPITAL DE CAMPAÑA
+
+
+- INTRODUCCIÓN
+
+La enfermedad por coronavirus-19 (COVID-19) se ha relacionado con múltiple sintomatología; no solo la respiratoria o trombótica descrita desde el inicio, poco a poco se han ido reportando nuevos hallazgos como la anosmia, la disgeusia o la ageusia, síntomas neurológicos o digestivos. Respecto a las manifestaciones cutáneas relacionadas con la COVID-19, se han clasificado en 5 tipos: lesiones acrales o acroisquémicas, lesiones vesiculares o variceliformes, erupción urticarial, exantema maculopapular o lesiones livedoides o necróticas, .
+Sin embargo, se han descrito mucho menos los hallazgos en mucosa oral asociados a la COVID-19, .
+Sabemos que el virus SARS-CoV-2, causante de la COVID-19, se une al receptor de la angiotensina 2 (ACE-2). Recientemente, se ha demostrado la existencia de este receptor en el dorso de la lengua y en las glándulas salivales. Esto confirma la infectividad del virus en la mucosa oral, , .
+El objetivo de nuestro trabajo es describir los hallazgos en la mucosa oral encontrados en los pacientes ingresados por neumonía por COVID-19 en el Hospital de Campaña de IFEMA. Algunos de estos casos han sido publicados con anterioridad; el objetivo de este trabajo es describir todos los hallazgos en la mucosa oral y discutir la posible fisiopatología del SARS-CoV-2 en la cavidad oral.
+
+
+- PACIENTES Y MÉTODOS
+
+Durante el primer pico de la pandemia por COVID-19 los Servicios de Salud de toda España estuvieron colapsados, por ello se hizo necesario la apertura de hospitales de campaña. En concreto, en la Comunidad de Madrid se habilitó el recinto ferial IFEMA. Se atendió a más de 4.500 pacientes con COVID-19 desde el 21 de marzo del 2020 hasta el 30 de abril del 2020. Un grupo de dermatólogos voluntarios decidió realizar un estudio transversal para explorar las mucosas de los pacientes que ingresaban en IFEMA, procedentes de otros hospitales de la Comunidad de Madrid. Se incluyeron los casos con neumonía y PCR positiva o criterios diagnósticos radiológicos de COVID-19 y sin datos de neumonía de otro origen. El personal sanitario no necesitaba cambiar el equipo de protección individual entre pacientes, todos ellos ingresados en una sala de atención exclusiva a casos COVID-19; esto facilitó la exploración. El estudio fue aprobado por el Comité de Ética del Hospital La Paz.
+
+
+- RESULTADOS
+
+En total se examinaron las mucosas de 715 pacientes. De estos, 666 de ellos cumplieron criterios de inclusión. Los resultados se presentan en la tabla 1 .
+En total, 78 pacientes (11,7%) presentaron alteraciones en la mucosa oral. La más frecuente fue una papilitis lingual transitoria anterior en forma de U, en 35 pacientes (11,5%); 20 de estos presentaban también edema lingual (6,6%) (fig. 1 ).Figura 1
+Encontramos una característica inflamación de la lengua denominada glositis con depapilación en parches en 12 pacientes (3,9%) (fig. 2 ). En ellos realizamos cultivo para hongos, siendo todos negativos.Figura 2
+También fue frecuente la estomatitis aftosa en 21 pacientes (6,9%) o mucositis en 12 (3,9%).
+Encontramos también boca urente o sensación de ardor lingual en 16 pacientes (5,3%), lengua saburral en 5 pacientes (1,6%) y enantema en 2 pacientes (0,5%).
+
+
+- DISCUSIÓN
+
+Se han descrito manifestaciones cutáneas asociadas a la enfermedad por COVID-19 con una prevalencia variable dependiendo de los estudios, desde un 7,8% en el estudio de de Giorgi et al., un 20% según Recalcati y un 45,6% publicado previamente por los autores de este mismo estudio. Sin embargo, las manifestaciones orales relacionadas con la COVID-19 han sido poco descritas, probablemente por el temor al contagio durante la exploración o la escasez de equipos de protección durante la primera ola. De las manifestaciones orales, el enantema fue de las primeras documentadas. En el estudio de Galván-Casas et al., en el que describen 5 patrones cutáneos, ya mencionan que algunos pacientes presentaban enantema. Posteriormente, Jimenez-Cahue et al. recogen que un 29% de los pacientes con exantema asociado a COVID-19 presentaba enantema, sobre todo aquellos con exantema de tipo vesiculopapular, purpúrico o tipo eritema multiforme.
+El síntoma oral asociado con más frecuencia a COVID-19 hasta la fecha es la disgeusia, con un porcentaje que varía de un 5,6% en los estudios iniciales de China a un 88,8% de un estudio realizado por otorrinolaringólogos; este síntoma es muy específico de la infección por SARS-CoV-2 asociado o no a anosmia. Otro síntoma muy frecuente es la boca seca, cuya causa puede ser la unión el virus a los receptores ACE-2 de las glándulas salivales, que provocaría su destrucción.
+Nosotros hemos encontrado hallazgos que consideramos característicos en la lengua, como es el edema lingual, con una característica indentación en los laterales de la lengua, por el aumento del tamaño de la misma y el roce con los dientes. Y por la misma razón se produce una inflamación de las papilas anteriores que hemos denominado papilitis lingual transitoria en forma de U. Este aumento del tamaño de la lengua se ha reportado en otro paciente con COVID-19 que requirió corticoterapia. El aumento del tamaño de la lengua y la irritación secundaria de las papilas puede deberse a un origen multifactorial: inflamación directa de la mucosa oral por el SARS-CoV-2, la sequedad de la mucosa provocada por el virus o la oxigenoterapia, o incluso una peor higiene oral debida a la situación de los pacientes.
+Otro hallazgo muy característico es la glositis con depapilación en parches en un 3,9% de los pacientes. Este hallazgo ha sido reportado previamente en algún caso aislado, curiosamente asociado a boca urente. Recientemente, se ha denominado a este tipo de lengua «lengua COVID»; se parece a la lengua geográfica pero su incidencia está aumentada en pacientes con COVID-19. Su aparición puede deberse a la infección directa del virus en la lengua por los receptores ACE-2 o por el aumento de interleucina-6 que presentan los pacientes con COVID-19 pero también los pacientes lengua geográfica; hacen falta futuros estudios para conocer mejor esta relación y su posible etiopatogenia.
+Previamente, ya habían sido descritas la aparición de úlceras o aftas orales en relación con la COVID-19, incluso como un signo precoz de la infección, ; la mucositis y las aftas orales se han relacionado con otras infecciones víricas, como el herpes simple o el citomegalovirus.
+La sensación de ardor lingual, en toda la cavidad oral o boca urente, ya ha sido previamente relacionada con la COVID-19. En un estudio italiano sobre manifestaciones orales por COVID-19 en 20 pacientes, un 15% presentaba boca urente, algo superior a nuestro estudio, 5,3%. En otro estudio procedente de Irán, los autores agrupan los síntomas orales en dolor, ardor o prurito, y refieren que hasta el 68% de los pacientes con COVID-19 pueden presentar estos síntomas. Esto puede estar en relación con la afectación neurológica que produce el COVID-19; también se ha publicado la presencia de ardor en las palmas y las plantas, o eritrodisestesia. Este ardor tanto en boca como en palmas o plantas puede ser un signo de infección por SARS-CoV-2.
+Una hipótesis para explicar estos síntomas en la cavidad oral es que el SARS-CoV-2 puede provocar hemólisis (los eritrocitos tienen receptores ACE-2) y competir con la hepcidina, provocando aumento de ferritina sérica y, paradójicamente, anemia y ferropenia; al igual que con la ferropenia, los pacientes con COVID-19 podrían presentar aftas y boca urente.
+Otro dato publicado asociado a la COVID-19 es la aparición de halitosis en pacientes que previamente no la presentaban, los autores miden con un halímetro el nivel de compuestos de sulfuro y los pacientes COVID-19 lo tienen aumentado durante la enfermedad, volviendo posteriormente a niveles normales. Esto puede deberse a la afectación directa de la mucosa oral por el SARS-CoV-2 o indirectamente a la destrucción de glándulas salivales y boca seca.
+Como sesgos de nuestro estudio, al ser transversal, desconocemos la evolución de las lesiones en estos pacientes; además, solo recogimos casos de pacientes con neumonía por COVID-19, por lo que no sabemos si los pacientes asintomáticos o paucisintomáticos presentan sintomatología parecida. Tampoco hemos encontrado estudios sobre pacientes ingresados, en tratamiento antibiótico, fluidoterápico y ventilación asistida, que presentan este tipo de manifestaciones.
+
+
+- CONCLUSIONES
+
+Existen lesiones en cavidad oral asociadas a COVID-19 y algunas pueden ser la sintomatología inicial de la enfermedad. Además de la disgeusia o la boca seca, la mucositis, las aftas o el enantema, debemos tener en cuenta las alteraciones linguales como la papilitis lingual transitoria en forma de U asociada o no a edema lingual y la glositis con depapilación en parches. La boca urente es otro signo que nos puede alertar de enfermedad por COVID-19.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

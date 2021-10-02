@@ -1,0 +1,75 @@
+COMPARACIÓN DE LOS PERFILES DE RESISTENCIA ANTIMICROBIANA DE <ITALIC>ESCHERICHIA COLI</ITALIC> UROPATÓGENA E INCIDENCIA DE LA PRODUCCIÓN DE BETALACTAMASAS DE ESPECTRO EXTENDIDO EN TRES ESTABLECIMIENTOS PRIVADOS DE SALUD DE PERÚ
+
+
+La incidencia de infecciones urinarias es una de las principales razones por las que los médicos prescriben tratamientos con antibióticos. Estas infecciones son causadas por enterobacterias, principalmente Escherichia coli y las del género Klebsiella.
+A nivel mundial, se registra una alta tasa de resistencia de las enterobacterias a los antibióticos en las infecciones urinarias. El interés clínico se concentra en un grupo de estas bacterias con actividad enzimática de betalactamasas de espectro extendido (BLEE) resistentes a las cefalosporinas de tercera generación . Dichas betalactamasas son muy eficientes en la regulación de los genes que confieren resistencia a los antibióticos.
+La prevalencia de las cepas con BLEE varía según la ubicación geográfica y, en Latinoamérica, la prevalencia es mayor que en los Estados Unidos y en Europa . Se han reportado más de 200 variantes de BLEE en casi todas las especies de enterobacterias asociadas con los genes CTX-M, SHV, TEM, PER y OXA 4. Algunas de estas enzimas son específicas para hidrolizar penicilinas o cefalosporinas, en tanto que otras tienen un espectro amplio de actividad, incluida la inactivación de la mayoría de los antibióticos betalactámicos .
+La familia de las enzimas CTX-M se subdivide en 124 variantes y constituye el grupo de BLEE más predominante. Esta familia de enzimas de E. coli es la que se ha diseminado más rápidamente a nivel mundial y está asociada con brotes hospitalarios e infecciones adquiridas en la comunidad . La mayoría de los microorganismos productores de BLEE constituye un problema cotidiano en las instituciones hospitalarias; sin embargo, en diversos estudios también se las ha encontrado en la comunidad, en sedimentos de ríos urbanos y en letrinas privadas y de uso común en algunas zonas ,. Factores de riesgo como el uso de catéter urinario, la hospitalización, las comorbilidades, una edad de más de 65 años y la presencia de enfermedades serias, también juegan un papel muy importante en la aparición de bacterias uropatógenas con capacidad hidrolítica por BLEE .
+En estas condiciones de gran resistencia bacteriana, es necesario impulsar el uso racional y apropiado de los antibióticos, es decir, disminuir la automedicación y cumplir los tratamientos de manera responsable . En Perú, hay subestimación de la prevalencia de las bacterias productoras de BLEE debido a su difícil detección en el laboratorio y a la escasa implementación de metodologías moleculares para la identificación de los genes relacionados con la actividad hidrolítica de algunos antibióticos. Hasta ahora, los estudios se han enfocado en los departamentos de la costa, por lo que es necesario analizar los perfiles de resistencia de estos agentes patógenos en otros establecimientos de salud de las zonas andina y de selva .
+En este contexto, el objetivo del estudio fue comparar los perfiles de resistencia antibiótica y la incidencia del fenotipo de las BLEE en cepas de E. coli aisladas de muestras de orina de pacientes ambulatorios procedentes de tres establecimientos privados de salud localizados en diferentes departamentos de Perú.
+
+
+- MATERIALES Y MÉTODOS
+
+-- PACIENTES Y MATERIAL BIOLÓGICO
+
+Durante el 2016, se llevó a cabo un estudio descriptivo en pacientes de 1 a 91 años de edad con infección urinaria, atendidos de manera ambulatoria en tres establecimientos privados de salud : en Lima, la Clínica Good Hope; en Puno, la Clínica Americana Juliaca, y en Iquitos, la Clínica Ana Stahl. Se analizaron 98 muestras de orina con aislamiento microbiológico de E. coli.
+
+
+-- DETERMINACIÓN DE LA RESISTENCIA ANTIBIÓTICA MEDIANTE MÉTODOS MICROBIOLÓGICOS
+
+Los aislamientos de E. coli obtenidos de los urocultivos se enviaron al Laboratorio de Microbiología de la Escuela de Medicina de la Universidad Peruana Unión para confirmar, mediante pruebas bioquímicas convencionales y el sistema automatizado Vitek 2™ (bioMérieux, Inc., Hazelwood, MO, USA), la sensibilidad a ceftazidima (CAZ), ceftriaxona (CRO), ciprofloxacina (CIP), gentamicina (GEN), trimetoprim-sulfametoxazol (SXT), imipenem (IPM), amikacina (AK) y nitrofurantoína (NIT). La presencia de BLEE se detectó en placas de agar Mueller-Hinton y se emplearon discos de cefotaxima (CTX), cefotaxima-ácido clavulánico (CTX/CXT-CLA), ceftazidima (CAZ) y ceftazidima-ácido clavulánico (CAZ/CAZ-CLA).
+Para el control de calidad de las pruebas de sensibilidad, se usaron las cepas Staphylococcus aureus ATCC 25923, E. coli ATCC 25922, Pseudomonas aeruginosa ATCC 27853 y Klebsiella pneumoniae ATCC 700603 como controles positivos para la producción de BLEE, y E. coli ATCC 25922 como control negativo. Todos los procedimientos se ajustaron a los estándares del Clinical and Laboratory Standards Institute (CLSI) .
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Los datos obtenidos de las variables microbiológicas y clínicas se procesaron en Microsoft Excel 2013, y el cálculo de la proporción de cepas sensibles y resistentes a antibióticos, se ajustó a las normas del CLSI.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Los tres establecimientos de salud aprobaron el protocolo de estudio. Se garantizó la confidencialidad de los datos de los pacientes. El estudio fue aprobado por el Comité de Investigación y Ética de la Universidad Peruana Unión.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS DE LOS PACIENTES AMBULATORIOS
+
+De los 98 pacientes atendidos ambulatoriamente, el 26,5 % entre los 31 y los 45 años de edad, y el 24,5 % mayores de 61 años, tuvieron cultivos positivos. En cuanto al establecimiento de salud, el 38,8 % de los cultivos positivos procedía de Puno, el 35,7 % de Lima y el 25,5 % de Iquitos.
+
+
+-- PERFILES DE RESISTENCIA ANTIBIÓTICA EN AISLAMIENTOS DE ESCHERICHIA COLI
+
+Se identificaron microbiológicamente 18 perfiles diferentes de resistencia antimicrobiana . El fenotipo ‘pansensible’ (perfil XVIII) fue el más frecuente (27,6 %) en los aislamientos, seguido del perfil XVII de resistencia a un antibiótico (18,4 %), del perfil XVI sensible a dos antibióticos (16,3 %), de la combinación de los perfiles IV, V, VI, VII, VIII y IX resistente a cinco antibióticos (15,3 %), de los perfiles X, XI y XII resistentes a cuatro antibióticos (9,2 %), de los perfiles XIII, XIV y XV resistentes a tres antibióticos (7,1 %), y de los perfiles II y III resistentes a seis antibióticos (5,1 %). Solamente se presentó un caso con el perfil I de resistencia a siete antibióticos. Entre los perfiles con resistencia a cinco antibióticos, el perfil IV, resistente a ceftazidima, ceftriaxona, ciprofloxacino, gentamicina y trimetoprim-sulfametoxazol, fue el más frecuente (9,2 %).
+
+
+-- COMPARACIÓN DE LA RESISTENCIA ANTIBIÓTICA POR ESTABLECIMIENTO DE SALUD
+
+Con respecto al número de casos, se observó que la resistencia contra trimetoprim-sulfametoxazol fue más frecuente, 61,2 % de los casos, en los tres establecimientos de salud. El establecimiento de salud de Puno presentó el 26,5 % de los casos, seguido del de Lima con el 18,4 % y el de Iquitos con el 16,3 %.
+La ciprofloxacina fue el segundo antibiótico con más casos de resistencia en los tres establecimientos (48,0 %). Los establecimientos de salud de Puno y Lima presentaron 18,4 % casos cada uno, en tanto que el 11,2 % de los casos se presentó en Iquitos.
+La resistencia a ceftazidima se encontró en 31,6 % de los casos y en Puno se presentó el 15,3 % de ellos, seguido de Lima con 9,2 %, e Iquitos con 7,1 %.
+En cuanto a la ceftriaxona, la resistencia se presentó en 30,6 % de los casos: en Puno, se presentó el 14,3 % de ellos, seguido de Lima con el 9,2 %, e Iquitos con el 7,1 %.
+La resistencia a la gentamicina se dio en el 31,6 % de los casos. En Puno, se presentó el 13,3 % de ellos, seguido de Lima e Iquitos con 92 % de casos en cada establecimiento.
+Con los antibióticos imipenem, nitrofurantoína y amikacina, se presentó la resistencia más baja en las cepas analizadas. La resistencia a imipenem estuvo presente en el 9,2 % de los casos y, en Iquitos y Puno, se presentaron 6,1 y 3,1 % de los casos, respectivamente. No se encontraron casos de resistencia en Lima. La resistencia a nitrofurantoína se registró en el 9,2 % de los casos. En Puno se presentó el 6,1 % de ellos, seguido de Iquitos con el 2,0 % y Lima con el 1,0 %. La resistencia a amikacina se encontró en el 2,0 % de los casos, todos procedentes del establecimiento de salud de Puno .
+Figura 1
+
+
+-- PERFILES DE RESISTENCIA CON EL FENOTIPO DE LAS BLEE
+
+En 28 (28,6 %) cepas de E. coli con el fenotipo de las BLEE, se identificaron 10 perfiles de resistencia . El perfil IV, resistencia a cinco antibióticos (ceftazidima, ceftriaxona, ciprofloxacino, gentamicina y trimetoprim-sulfametoxazol), se identificó en el 32,1 % de las cepas. El perfil XI a cuatro antibióticos (ceftazidima, ceftriaxona, ciprofloxacino y trimetoprim- sulfametoxazol) se identificó en el 25,0 % de las cepas. Se identificaron seis perfiles resistentes (III, V, VII, IX, X y XVI), tres de los cuales fueron resistentes a seis y cinco antibióticos, y otros tres perfiles presentaron resistencia a cuatro y dos antibióticos.
+Por otro lado, se observó una acentuada diferencia entre los perfiles de resistencia antibiótica de las cepas de E. coli productoras de BLEE y aquellas no productoras . El fenotipo de las BLEE registró un mayor porcentaje de resistencia a los antibióticos ceftazidima, ceftriaxona, ciprofloxacina y gentamicina, en comparación con los aislamientos sin ese fenotipo. Los porcentajes de resistencia a los antibióticos mencionados fueron de 28,6, 27,6, 26,5 y 20,4 % en las cepas con el fenotipo de las BLEE, en tanto que en los otros fenotipos fueron de 3,1, 3,1, 21,4 y 11,2 %, respectivamente.
+Figura 2
+Los resultados se invirtieron con los antibióticos nitrofurantoína y trimetoprim-sulfametoxazol. Los fenotipos de las BLEE registraron porcentajes de resistencia de 4,1 y 23,5 %, respectivamente, en tanto que en los otros, los porcentajes de resistencia fueron de 5,1 y 37,8 %, respectivamente.
+
+
+- DISCUSIÓN
+
+En este estudio se presenta un reporte preliminar de la alta tasa de multirresistencia en establecimientos de salud ubicados en las zonas de la costa, la sierra y la selva de Perú. Se confirmó la existencia de cepas de E. coli productoras de BLEE en los tres establecimientos de salud estudiados, específicamente en pacientes ambulatorios. La tasa encontrada (28,6 %) es menor que las de algunos estudios previos, en los que solo se consideró la zona de la costa (principalmente Lima) .
+MacGowan, et al., evaluaron los patrones de sensibilidad de las enterobacterias en 23 centros de 10 países latinoamericanos, entre ellos, Perú. Sus datos confirmaron la creciente frecuencia de microorganismos con el fenotipo productor de BLEE: 31,4 % de ellos en infecciones adquiridas en la comunidad y 24,9 % en las hospitalarias .
+Algunos estudios de la zona costera de Perú han evidenciado la gran prevalencia de bacterias productoras de betalactamasas de espectro extendido. Arce, et al., analizaron 66 cepas de E. coli con el fenotipo de las BLEE en pacientes hospitalizados, y confirmaron que el 60,6 % de ellas presentaba el gen blaTEM, el 12,2 % el gen blaSHV y el 27,2 % no presentaba ninguno de los dos genes estudiados . Rivera, et al., por su parte, determinaron el genotipo de 15 cepas de enterobacterias productoras de betalactamasas de tipo TEM y CTX-M, aisladas de superficies de ambientes hospitalarios. En 11 cepas se identificaron ambos genes, tres presentaron solamente el CTX-M y una no presentó ninguno de los genes analizados . Arce, et al., analizaron 35 cepas de E. coli, de las cuales el 51,4 % presentó el fenotipo de las BLEE y el genotipo CTX-M en urocultivos de pacientes mayoritariamente ambulatorios . Yábar, et al., determinaron la incidencia de cepas productoras de BLEE en 353 muestras provenientes de diversos servicios en hospitales, incluidos los de urgencias.
+En la población pediátrica, la incidencia de BLEE fue del 16,3 % en tanto que en la población adulta fue de 31,1 %. Además, el 63,6 % de las muestras provenía de pacientes ambulatorios. La presencia del fenotipo de las BLEE se asoció con la hospitalización en pediatría y con el uso de pañal, y con vejiga neurogénica en adultos . Más recientemente, Grandez, et al., analizaron la frecuencia del fenotipo de las BLEE en E. coli durante tres años consecutivos y encontraron valores de 37,5, 47,0 y 50,1 %, respectivamente, en muestras de pacientes hospitalizados en un hospital de referencia en Lima .
+En cuanto a la resistencia a los antibióticos, con los aminoglicósidos se encontraron bajas tasas de resistencia (menores de 15 %) en los tres establecimientos de salud estudiados. La resistencia a amikacina solo se registró en el 2,0 % en el establecimiento de salud de Puno. Considerando estos resultados, la gentamicina y la amikacina podrían usarse como tratamiento de primera línea en los pacientes con infección urinaria por cepas de E. coli multirresistentes. La nitrofurantoína, indicada en el tratamiento de primera línea en casos de infecciones urinarias , fue otro de los antibióticos con baja tasa de resistencia (menor de 10 %) en los tres establecimientos de salud. Por otro lado, en la actualidad el uso de fosfomicina como tratamiento para cepas con el fenotipo de las BLEE puede ser una alternativa terapéutica frente a cepas multirresistentes, ya que la sensibilidad puede ser de más del 70 % .
+Una de las limitaciones del estudio fue el bajo número de muestras de orina de cada establecimiento de salud; sin embargo, los resultados son importantes al evidenciar la diferencia de perfiles de resistencia a los antibióticos según la zona geográfica y la disponibilidad de los medicamentos más adecuados para el tratamiento de las infecciones urinarias.
+La importancia del estudio de los perfiles de resistencia antibiótica en diferentes áreas geográficas es que es una herramienta útil para vigilar el comportamiento de las bacterias en brotes locales. Asimismo, brinda información clínica para el tratamiento empírico de la infección urinaria .
+En conclusión, los resultados preliminares de este estudio en establecimientos privados de salud en tres diferentes zonas geográficas de Perú deben considerarse como una alerta nacional sobre la necesidad de determinar la tasa de incidencia real en todo el país, implementar las acciones necesarias para controlar la circulación de cepas multirresistentes y llevar a cabo nuevos estudios sobre los factores de riesgo en pacientes ambulatorios, con el fin de desarrollar políticas de prevención.

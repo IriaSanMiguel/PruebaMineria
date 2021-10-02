@@ -1,0 +1,110 @@
+TRADUCCIÓN Y ADAPTACIÓN TRANSCULTURAL AL ESPAÑOL, CATALÁN Y GALLEGO DE LA ESCALA HOPKINS SYMPTOM CHECKLIST-25 PARA LA DETECCIÓN DE DEPRESIÓN EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La depresión es un problema de salud frecuente en la población general. Según el estudio ESEMed, su prevalencia en la población española a lo largo de la vida es del 10,6%; en el año 2017, su prevalencia fue del 10,2% en mayores de 45 años. Estudios realizados con pacientes de Atención Primaria (AP) sitúan esta prevalencia entre un 9,6 y un 20,2%, , siendo más elevada en mujeres mayores de 50 años, asociada a condiciones de viudez, soledad y aislamiento social.
+El diagnóstico de trastornos mentales desde AP es complejo, siendo la depresión una de las enfermedades mentales mejor detectadas por los médicos de familia (MF). La variabilidad en su diagnóstico entre facultativos es amplia debido a factores personales, sociales y culturales, que pueden llevar a sobrevalorar o infravalorar el malestar psicológico de los pacientes. A pesar de que el Diagnostic and Statistical Manual of Mental Disorders (DSM-5) es el referente para su diagnóstico clínico, raramente se utiliza en AP y el debate sobre qué cuestionario/s utilizar para ayudar a su identificación resulta controvertido. Se han publicado diferentes cuestionarios que cuentan con traducciones al español, , , , , sin embargo, suele haber insuficiente información sobre el procedimiento de adaptación transcultural, a pesar de que la International Society for Pharmacoeconomics and Outocomes Research (ISPOR) especificó estas cuestiones metodológicas.
+En este contexto, el grupo Family Practice Depression and Multimorbidity (FPDM) del European General Practice Research Network (EGPRN) se planteó seleccionar una herramienta para detectar la depresión en pacientes adultos que permitiera su comparación en el ámbito de la AP de diferentes países europeos.
+Inicialmente, se efectuó una revisión sistemática con el fin de identificar las escalas validadas para el cribado y la detección de la depresión en adultos y ancianos que hubiesen sido comparadas con una entrevista psiquiátrica basada en la clasificación DSM, con resultados cuantitativos, y que hubiesen contado con la participación de profesionales de AP. Como resultado de la revisión sistemática, se seleccionaron 7 escalas diferentes.
+En segundo lugar, la escala Hopkins Symptom Checklist-25 (HSCL-25) fue elegida por consenso. Entre los criterios cuantitativos, se analizaron la validez, la fiabilidad y la reproducibilidad. Se analizó la validez predictiva, es decir, la capacidad de detectar correctamente a pacientes con depresión (sensibilidad) y a los que no la presentan (especificidad). La fiabilidad hace referencia a la precisión de las mediciones. Para valorar la ergonomía, se atendió a la autoadministración de la escala, al grado de facilidad de su cumplimentación y a la sencillez de su interpretación.
+Puesto que la expresión emocional está intrínsecamente ligada al entorno lingüístico y cultural de los pacientes, parece relevante ofrecerles un cuestionario escrito en su lengua materna. Para poder utilizar la escala HSCL-25 en el entorno de AP de nuestro país, es necesaria su traducción y posterior adaptación a la cultura española, garantizando la equivalencia con la versión original. Este proceso se ha realizado simultáneamente en 13 idiomas de los equipos integrantes del grupo FPDM del EGPRN.
+El objetivo de este estudio es traducir y adaptar transculturalmente la escala HSCL-25 al español, catalán y gallego.
+
+
+- MATERIAL Y MÉTODOS
+
+La escala HSCL-25 es una versión acortada que proviene de la escala Hopkins Symptom Checklist-58 (HSCL-58), diseñada por Derogatis. Es un cuestionario de 25 ítems con 2 dimensiones conocidas: la primera de ellas corresponde a los ítems del 1 al 10 que hacen referencia a síntomas de ansiedad; la segunda dimensión, comprendida por los ítems 11 a 25, es relativa a síntomas de depresión. Cada ítem se responde según una escala tipo Likert de 1 a 4: «en absoluto» (1), «un poco» (2), «bastante» (3) o «mucho» (4). Se calculan 2 puntuaciones: la puntuación total (media de 25 ítems) y la de depresión (media de 15 ítems de la subescala de depresión). La puntuación final se calcula sumando las puntuaciones de cada ítem y dividiendo la suma entre el número de ítems, obteniendo una puntuación numérica entre 1 y 4. El diagnóstico de sospecha de depresión se considera si la puntuación total es ≥ 1,75, . Se necesitan entre 5 y 10 min para completar la escala.
+La traducción y la adaptación transcultural se basó en las recomendaciones de la ISPOR y se diseñó un protocolo común para todo el grupo FPDM. El presente estudio se realizó en las Unidades de Investigación de AP de Barcelona y Vigo. Se constituyeron equipos de 4 investigadores para el gallego y el catalán, que participaron conjuntamente en la traducción al español. Se tradujeron los ítems de la escala y las categorías de respuesta, así como las instrucciones necesarias para su uso.
+
+
+-- TRADUCCIÓN DIRECTA
+
+La escala fue traducida al gallego y al español por una graduada en Traducción e Interpretación y al catalán por un licenciado en Filología inglesa.
+
+
+-- ESTUDIO PILOTO CON METODOLOGÍA DELPHI
+
+La traducción realizada fue analizada con metodología Delphi. Se realizó una selección a conveniencia de MF de diferentes equipos de AP de Cataluña y Galicia que hubieran colaborado en estudios de Salud Mental. Se solicitó evaluación a 134 expertos: 73 para el español, 28 para el catalán y 45 para el gallego. Los profesionales debían tener nivel medio de lengua inglesa, actividad clínica e investigadora en AP, y acreditación de publicaciones en lengua inglesa o actividad como tutores. Se solicitó, mediante encuesta electrónica, que emitiesen su grado de acuerdo sobre la adecuación de la traducción respecto a la escala original, puntuando entre 1 (totalmente en desacuerdo) y 9 (totalmente de acuerdo) cada ítem, incluyendo las observaciones que considerasen pertinentes. Las puntuaciones inferiores o iguales a 3 indicaron que la traducción no se consideró apropiada; entre 4 y 6 se estimaron dudosas, y entre 7 y 9, apropiadas. Se definió como traducción consensuada aquella a la que un porcentaje mínimo del 70% de MF le otorgaba una puntuación igual o superior a 7. De no alcanzar este valor umbral, se planteaba una segunda traducción y una nueva ronda Delphi hasta obtener consenso.
+Se analizaron de forma paralela las respuestas en los 3 idiomas. Se calculó la mediana para el grado de adecuación de la traducción, así como el grado de consenso alcanzado para cada ítem.
+
+
+-- RETROTRADUCCIÓN
+
+Realizada por una filóloga para el español y el gallego, y por un filólogo para el catalán. Ninguno de ellos había participado en la fase inicial ni conocía la escala original.
+
+
+-- CLASIFICACIÓN DE EQUIVALENCIAS
+
+Se clasificaron las equivalencias de las traducciones como semánticas, idiomáticas, experienciales y conceptuales. Existe equivalencia semántica cuando hay correspondencia de significado entre el cuestionario en la lengua de partida y su versión correspondiente en la lengua final. Por equivalencias idiomáticas se entienden aquellas expresiones idiomáticas y coloquiales, que muchas veces entrañan dificultades a la hora de traducir, puesto que no cuentan con un equivalente fácil en la lengua materna. Las equivalencias experienciales tienen que ver con aspectos socioculturales y pueden diferir considerablemente con respecto a la cultura de la lengua del cuestionario original. Finalmente, en las equivalencias conceptuales se deberá atender a si las palabras del cuestionario original denotan el mismo concepto en ambas lenguas. Este proceso fue realizado por otra filóloga que no había trabajado en las fases previas.
+
+
+-- ARMONIZACIÓN EUROPEA
+
+Se armonizaron las traducciones en todas las lenguas participantes del grupo FPDM y se compararon las retrotraducciones con la versión original. En aquellos ítems en los que había discrepancia entre las diferentes versiones, se valoró si estas eran culturales o semánticas.
+
+
+-- ENTREVISTA COGNITIVA A PACIENTES
+
+Se entrevistó a 10 pacientes en cada idioma, mayores de 50 años, captados por profesionales de AP en días sucesivos. Los pacientes debían ser nativos del idioma de la escala. Se preguntó para cada ítem: «¿Tiene alguna dificultad para entender esta pregunta?», «Si tiene alguna dificultad, ¿cómo lo diría usted?». Los pacientes debían responder sí o no a la primera pregunta. En caso de presentar alguna dificultad, podían escribir una redacción alternativa del ítem en cuestión.
+
+
+- RESULTADOS
+
+-- TRADUCCIÓN DIRECTA
+
+Se realizó una versión para cada idioma (español, catalán y gallego).
+
+
+-- ESTUDIO PILOTO CON METODOLOGÍA DELPHI
+
+Respondieron 31 MF al español, 22 al catalán y 20 al gallego. Algunos participaron tanto en la traducción al español como en la traducción a la lengua de uso habitual en su entorno geográfico. En la tabla 1 se describen las características de los participantes.
+Los participantes en la traducción al español contaron con una media de 23 años de experiencia como MF (rango intercuartílico [RIC] = 19-26), 10 años como tutores (RIC = 5-20) y 9 como investigadores (RIC = 1-15). Los participantes catalanes fueron los más jóvenes, con una experiencia médica e investigadora también inferior.
+La traducción al español y al catalán alcanzó el consenso para todos los ítems en la primera ronda. La traducción al gallego requirió una segunda ronda para consensuar los ítems 6 (ten tremores), 10 (séntese inquedo) y 25 (alteracións do sono). En la tabla 2 se detallan los porcentajes de respuesta considerados aceptables para la traducción de cada ítem en cada uno de los idiomas.
+
+
+-- RETROTRADUCCIÓN
+
+La retrotraducción fue similar a la versión original en todos los idiomas. En gallego, el ítem que más difirió del original fue el 9 (feeling panic), traducido como sente pánico y retrotraducido como having panic attacks; en catalán fue el 18 (thinking of ending onés life), traducido como pensaments de suïcidi y retrotraducido como thoughts of suicide. Por último, en español fue el ítem 5 (heart racing), traducido como palpitaciones y retrotraducido como palpitations, el que más divergió del original.
+
+
+-- CLASIFICACIÓN DE EQUIVALENCIAS
+
+Todas las opciones fueron semánticamente equivalentes; aunque en una lengua se utilice una expresión adjetival (inquedo en el ítem 10 del gallego) y en otra un sustantivo (inquietud en español), ya que se trata de equivalencias de sentido.
+
+
+-- ARMONIZACIÓN EUROPEA
+
+Los miembros del grupo FPDM discutieron y resolvieron por consenso cualquier posible ambigüedad y discrepancia, tanto de la escala como de las instrucciones. En estas reuniones se modificó la traducción directa de distress en las 3 lenguas presentadas en este estudio. Distress se tradujo inicialmente como angustia/angustia/angoixa, pero en la versión final se optó por malestar psicológic/psicolóxico/psicològico. Este término, sin embargo, no forma parte del cuestionario, sino de las aclaraciones necesarias para su interpretación. En el catalán se cambió la traducción de pensaments de suïcidi por pensa en treure's la vida.
+
+
+-- ENTREVISTA COGNITIVA A PACIENTES
+
+Se utilizó una muestra de 10 pacientes para cada idioma, las características de los pacientes participantes se muestran en la tabla 3. En la entrevista cognitiva no se detectaron dificultades en la comprensión de los ítems que justificaran la modificación de la escala. Expresaron alguna dificultad de interpretación al menos 2 personas en el ítem 11 de la versión española, los ítems 11, 18 y 21 de la escala catalana y el 3 de la versión gallega.
+Finalmente, se flexionaron aquellos sustantivos y adjetivos que admiten morfemas de género. En la tabla 4 se expone la traducción final en los 3 idiomas.
+
+
+- DISCUSIÓN
+
+Se ha obtenido una versión adaptada al español, catalán y gallego de la escala HSCL-25 para medir síntomas de depresión.
+El diagnóstico de depresión es fundamentalmente clínico y basado en los criterios DSM. Sin embargo, los cuestionarios son herramientas de cribado que ayudan a la identificación y medida de la intensidad de síntomas, a veces difíciles de reconocer a través de la anamnesis. A pesar de que existen otros instrumentos validados en español para un fin similar, esta escala se ha considerado mejor en cuanto a su comodidad para utilizarla en el contexto de AP debido a la facilidad para llevarla a cabo durante la consulta habitual del MF, así como por sus adecuadas propiedades psicométricas, . En la versión francesa, se ha objetivado una sensibilidad del 59,1% y una especificidad del 91,4%. La escala HSCL-25 evalúa síntomas de depresión y ansiedad, esto supone una ventaja ya que es frecuente encontrar síntomas de ansiedad en pacientes diagnosticados de depresión y a que muchas veces ansiedad y depresión se presentan como comorbilidades asociadas entre sí. Asimismo, se trata de una herramienta fácil de comprender para los pacientes, aspecto fundamental dado que es un cuestionario autoadministrado. Por este motivo, se decidió traducirla a 3 idiomas oficiales de nuestro país, realizando también la adaptación cultural. Este paso es indispensable para poder analizar las propiedades psicométricas y validar posteriormente los instrumentos para su uso en un contexto concreto, tal y como se ha realizado en otros idiomas y en diferentes contextos, , , , . Por tanto, antes de poder utilizarla en nuestro entorno, se requiere su validación para comprobar su efectividad.
+Las recomendaciones ISPOR deben equilibrar la rigurosidad asegurando que la traducción sea comprensible para sus usuarios y a su vez evitar criterios estrictos de difícil cumplimiento en situaciones del mundo real. Los MF son conocedores del lenguaje de sus pacientes, que utilizan muchas veces términos y expresiones dialectales, sobre todo en comunidades mayoritariamente bilingües. Por este motivo, se optó por seleccionar un número importante de MF en un paso intermedio de la traducción, para trabajar con metodología Delphi.
+La selección de los expertos se presenta como una de las principales limitaciones en los métodos de consenso debido a la posibilidad de sesgo en su elección. Se pretendió minimizar este efecto con los criterios de inclusión. El grupo europeo sugería incluir «profesores de universidad de AP», puesto que se entiende que estos cuentan con la experiencia necesaria para el diagnóstico de la depresión y dominan la lengua inglesa. En España, considerando la escasa atención que recibe la Medicina Familiar y Comunitaria (MFyC) en las Facultades de Medicina, se optó por seleccionar tutores de MFyC o clínicos con gran experiencia y publicaciones en revistas con impacto, pretendiendo que se aproximasen en la mayor medida al referente establecido. Se escogió su actividad como tutor de residentes especialistas en MFyC, asegurando así su formación continua y actualización en el campo de investigación y docencia.
+La convergencia en la retrotraducción se explica por la proximidad lingüística (lenguas latinas), por la brevedad de los ítems y por el escaso número de preguntas.
+Como puntos fuertes de este proyecto cabe destacar que se siguió rigurosamente la metodología ISPOR y que se tuvo en cuenta el ámbito de trabajo de AP como el futuro emplazamiento de utilización de la escala. Se consideró la perspectiva de los profesionales que la interpretarán en el futuro y se llevó a cabo una prueba con una muestra de pacientes en cada idioma. La entrevista cognitiva demostró que los potenciales usuarios de la escala comprenden su uso y la redacción de los ítems, y que no muestran incomodidad frente a ninguno de ellos. Otros estudios similares también han utilizado la entrevista cognitiva para este fin, .
+Finalmente, cabe resaltar que este estudio forma parte de un proyecto internacional cuya metodología en la traducción ha sido común con otros idiomas europeos; por ello, su desarrollo y su posterior validación permitirán obtener datos comparables de muestras de población con diferencias culturales. Una de las limitaciones de este proyecto es que no hubo ningún integrante del grupo FPDM de habla euskera; a pesar de que el proyecto estuvo abierto, no se consiguió incluir un nodo en el País Vasco para obtener una traducción de la escala en vasco.
+
+
+- IMPLICACIONES PARA LA PRÁCTICA CLÍNICA Y CONCLUSIONES
+
+La escala HSCL-25 ha sido traducida al español, al catalán y al gallego, y las traducciones son equivalentes con la versión original inglesa. Los MF que han participado en el proceso de traducción y los pacientes de AP la han considerado aceptable y fácil de utilizar. Se realizará la validación de la escala en una fase posterior para poder generalizar su uso en AP.Lo conocido sobre el tema-La depresión es un problema de primer orden en la población general.-La escala HSCL-25 se considera útil para el cribado de depresión en el entorno de Atención Primaria y es fácilmente comprensible para los pacientes.Qué aporta este estudio-Versión traducida y adaptada transculturalmente en español, catalán y gallego de la escala HSCL-25 para medir depresión, a partir de la versión original en inglés.
+
+
+- FINANCIACIÓN
+
+Este trabajo recibió financiación de la Sociedad Española de Medicina de Familia y Comunitaria (semFYC) al resultar ganador de una ayuda para la realización de tesis doctorales Isabel Fernández 2019. Este proyecto ha recibido una beca de la Fundación Instituto Universitario de Investigación en Atención Primaria de Salud Jordi Gol i Gurina (IDIAP Jordi Gol 7Z19/019) para la capacitación en investigación y realización del doctorado en Atención Primaria y otra beca de la cátedra de la Universidad Autónoma de Barcelona-Novartis de investigación en Medicina Familiar y Comunitaria, ambas en la convocatoria 2019. Estas ayudas han sido otorgadas a la autora M. Rodríguez-Barragán.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

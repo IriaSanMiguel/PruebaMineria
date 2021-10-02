@@ -1,0 +1,71 @@
+CUIDADOS ENFERMEROS ORIENTADOS A MITIGAR LA TRANSMISIÓN DEL CORONAVIRUS EN CASOS POSITIVOS: UNA REVISIÓN NARRATIVA
+
+
+- INTRODUCCIÓN
+
+Ante la pandemia por SARS-CoV-2, las enfermeras comenzaron a enfrentarse a numerosos casos, en un contexto de incertidumbre, ante el desconocimiento del nuevo virus, de manifestaciones respiratorias potencialmente graves e incluso mortales.
+El control del contagio es uno de los puntos clave para evitar una expansión más rápida que produzca mayor letalidad y bloqueo, a nivel hospitalario, de las unidades de cuidados intensivos (UCI), paralizando los sistemas sanitarios. Ante este panorama, el rol de las enfermeras es clave para controlar casos confirmados, sin y con sintomatología, su aislamiento, así como el seguimiento y control de los contactos.
+Esta revisión propone mapear la evidencia científica disponible sobre cuidados enfermeros para controlar infecciones por coronavirus.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Revisión narrativa de la literatura. Se llevó a cabo una búsqueda bibliográfica amplia, para hallar evidencias científicas sobre cuidados enfermeros dirigidos a controlar contagios por coronavirus.
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+Se diseñó una estrategia de búsqueda que se adaptó a cada una de las bases de datos seleccionadas: Medline, CINAHL, Scopus y la colección principal de la Web of Science. Se buscaron publicaciones en inglés y español, en los campos título y resumen, sin límite de fecha, utilizando palabras clave y términos MeSH. La estrategia de búsqueda fue: ((transmission OR infection OR contagious OR spreads OR “Person-to-person spread” OR “Professional-to-Patient Disease Transmission” OR “Patient-to-Professional Disease Transmission” OR “Disease Transmission, Vertical”) AND (nurses OR nursing) AND (coronavirinae OR coronavirus OR “covid 19” OR “sars cov 2”)).
+
+
+-- EVALUACIÓN CRÍTICA
+
+Como sistema de clasificación de evidencias se emplearon los criterios del Joanna Briggs Institute (JBI).
+
+
+-- EXTRACCIÓN DE DATOS
+
+Se recuperaron 214 referencias, gestionadas mediante el programa Refworks. Dos revisores independientes evaluaron la adecuación de los estudios según título y resumen, procediendo a excluir aquellos que no cumplían criterios de selección, acorde al objetivo de la búsqueda. Las publicaciones que fueron seleccionadas por ambos revisores pasaron a analizarse a texto completo, mientras que en las que se observaron discrepancias, un tercer revisor valoró y decidió su pertinencia.
+
+
+-- ANÁLISIS Y SÍNTESIS
+
+El contenido de los estudios fue clasificado por consenso, tras la lectura de los textos completos, en categorías lógicas para los objetivos de la revisión.
+
+
+-- LIMITACIONES
+
+Esta revisión no está exenta de limitaciones. Una de ellas es la escasez de producción científica sobre cuidados enfermeros relacionados con el nuevo coronavirus SARS-CoV-2. Otra de las limitaciones es que los estudios disponibles no presentan altos niveles de evidencia científica. Por último, se puede comprobar un ritmo importante de producción de nuevas publicaciones debido a la magnitud del problema para la salud pública mundial. Estos estudios podrían arrojar resultados diferentes o contradictorios a los existentes hasta el momento, lo cual es normal en la medida en la que se va acumulando nuevo conocimiento.
+
+
+- RESULTADOS
+
+La búsqueda produjo, tras eliminar duplicados, 154 artículos. De ellos, se excluyeron 136 que no cumplieron criterios de elegibilidad. Seguidamente, se revisaron textos completos de los 18 restantes, descartando otras 2 publicaciones. La muestra final quedó compuesta por 16 estudios con diseños: descriptivos de casos (6), transversales (3), retrospectivos (2), revisión sistemática (1), cuasiexperimental (1), descriptivo (1) y no clasificables (2) (fig. 1 ).Figura 1
+El 50% de publicaciones corresponde a los últimos 5 años. Un 81,3%, a 3 contextos geográficos (Arabia Saudita, China y Corea del Sur) y un 87,5%, al ámbito hospitalario. El agente patógeno sobre el que se identificaron más evidencias fue el MERS-CoV (50%), seguido de SARS-CoV-1 (37,5%) y SARS-CoV-2 (6,3%).
+La evidencia disponible sobre cuidados enfermeros orientados a mitigar transmisiones por SARS-CoV-2 es escasa. No obstante, existen estudios sobre MERS-CoV y SARS-CoV-1 de interés para esta revisión.
+En el estudio de Adhikari et al. se evidenció el intercambio de aire en la habitación como medida efectiva de reducción del riesgo para pacientes (NDE4.d.GR.A) no para profesionales, debido a rutas aéreas cortas. El uso de mascarillas fue la estrategia más efectiva, reduciendo la transmisión en más del 90%. Las mascarillas quirúrgica y N95 demostraron alta efectividad para prevenir enfermedades respiratorias, aunque menos del 50% de profesionales las utilizaban. Al-Dorzi et al. indicaron la conveniencia de reforzar medidas de prevención y control de infecciones en UCI, mejorando ratios enfermera/paciente e incorporándolas al control de prácticas y contagios, mediante medidas de higiene y adiestramiento en equipo de protección individual (EPI) (NDE4.c.GR.A). Otras pautas para enfermeras en UCI son (NDE4.c.GR.A):1.Protección con mascarilla N95, gorro, cubierta del cabello, calzas, gafas, guantes y bata desechable (manga larga).2.Limpieza de unidades con lejía cada 4 h.3.Lavado de manos con gluconato de clorhexidina, evitando tocar ojos, nariz y boca.4.Mantener distancia de 1 m mínimo entre pacientes.5.Evitar nebulizaciones.6.En pacientes con ventilación mecánica, usar tubos con eliminación de gases desechables y respiradores sometidos a desinfección de alto nivel.7.Higiene de manos diaria, de pacientes.8.Evitar salpicaduras de líquidos corporales.9.Desechar, como residuos clínicos, la ropa de cama muy sucia.
+Las enfermeras de salud laboral pueden liderar la capacitación de profesionales ante nuevos brotes. Desde los primeros casos con SARS-CoV-1 se indicaba usar, ante sospecha, mascarilla N95, enfatizando en el tamaño apropiado y la formación para su uso.
+Los estudios de casos sugieren revisiones de procedimientos de control de infección y análisis del papel de los profesionales en la transmisión, rastreando contactos y estableciendo cuarentenas, si no era segura la protección adecuada, (NDE4.c.GR.A; NDE4.d.GR.A).
+Se recomiendan sistemas de vigilancia electrónica para reducir propagaciones, así como formación para colocarse EPI, medidas de aislamiento y controlar infecciones, (NDE4.b.GR.A; NDE4.c.GR.B). Estos programas formativos deben combinar métodos: demostraciones prácticas, discusión grupal, visualizar vídeos y acompañamiento en lugares clínicos (NDE4.b.GR.B). Las competencias adquiridas deben ser reevaluadas periódicamente por las instituciones. Igualmente, en las facultades de enfermería se debe formar a estudiantes y profesores (NDE2.d.GR.B).
+La guía de Jin et al. identifica a enfermeras y convivientes como contactos cercanos a casos positivos. Recomienda (NDE4.a.GR.A) que todo el personal que acceda a zonas de riesgo debería evaluarse, según exposición, mediante un listado de comprobación de necesidades. Además, señala que, ante pacientes críticos, las enfermeras deben usar gafas o protector facial para reducir la exposición y, respecto a la oxigenación, cuando existe vía artificial, se deben utilizar sistemas de succión cerrados para reducir la propagación del virus.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+Seis estudios trataron sobre prácticas de prevención y control de contagios. Adhikari et al. evaluaron el riesgo de infección hospitalaria asociado a la exposición al MERS-CoV por aerosoles. Las enfermeras presentaron niveles más altos que otros profesionales, pacientes y acompañantes, debido a la alta exposición y estrechas rutas de transmisión durante los cuidados. Al-Dorzi et al. describen medidas de prevención y control en UCI, aumentando el uso de gel hidroalcohólico, mascarillas N95 y restringiendo las visitas, con el papel clave de las enfermeras en la supervisión de los procedimientos. Colatrella y Clair identificaron zonas hospitalarias de riesgo, describiendo altos porcentajes de uniformes de enfermeras y guantes contaminados. Otros autores enumeraron acciones para mitigar complicaciones en pacientes graves, mientras que en otro estudio se describe la eficacia de las mascarillas quirúrgicas y el lavado de manos.
+Cuatro estudios trataron el seguimiento de casos. Alfaraj et al. identificaron patrones de transmisión del MERS-CoV en grupos de enfermeras de centros de salud. El artículo de Nam et al. expone el contagio de una enfermera infectada durante maniobras de reanimación cardiopulmonar a un paciente aislado. Las rutas de transmisión potenciales fueron por aerosoles, exposición de mucosas y durante la retirada del EPI. Antes de ser diagnosticada, esta enfermera mantuvo contacto con 169 personas. En otro estudio se presentaron medidas de aislamiento a profesionales, tras contactar con casos positivos.
+Tres estudios consistieron en mediciones de conocimientos y actitudes (utilizando cuestionarios) sobre prevención y control de infecciones. Rabaan et al. encuestaron 607 profesionales, entre ellos enfermeras, identificando como factor mayor contribuyente a la aparición de brotes el descuido de los trabajadores y como factores propagadores la infraestructura hospitalaria, insuficiente personal y ausencia de formación. Alsahafi y Cheng comprobaron, entre 1.216 profesionales (56,5% enfermeras), que casi dos tercios desconocía los protocolos, más de la mitad declaró no estar formado en higiene de manos y uso de mascarillas N95, describiéndose prácticas inadecuadas. Igualmente, la cobertura de inmunizaciones era deficiente. El 72,3% reclamó capacitación en el manejo de enfermedades contagiosas ante nuevos brotes, percibiendo más ansiedad. Lai et al. encuestaron profesionales hospitalarios (62% enfermeras) tras el brote de SARS-CoV-1, identificando los procedimientos de mayor riesgo.
+Otros 2 estudios describieron experiencias formativas. Uno con metodología multifacética para la gestión de casos, triajes, aislamientos y prevención de infecciones nosocomiales por coronavirus, con resultado de impacto positivo sobre la actitud y el alivio de ansiedad y miedo en los trabajadores. Stirling et al. exponen la importancia de formar a profesores universitarios, alumnos de enfermería y familiares para reducir contagios, impartiendo contenidos sobre medidas de protección e higiene de manos.
+Como conclusión, podemos destacar que los artículos incluidos en la revisión resaltan la importancia de unas adecuadas medidas de prevención y control en casos de infección por coronavirus por parte de los profesionales sanitarios y, en particular, de las enfermeras.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran ningún conflicto de intereses.

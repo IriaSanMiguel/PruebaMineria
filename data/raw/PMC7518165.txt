@@ -1,0 +1,43 @@
+EVALUACIÓN SUBJETIVA DE LAS ALTERACIONES DEL OLFATO Y DEL GUSTO EN PACIENTES CON AFECTACIÓN LEVE POR COVID-19 EN ESPAÑA
+
+
+- INTRODUCCIÓN
+
+La presentación clínica de los pacientes afectados por la COVID-19 de forma leve-moderada ha consistido principalmente en tos (46,6-83,3%), astenia (63,3-72,9%), cefalea (60-71%), anosmia (51,5-70,2%), obstrucción nasal (58,6-67,8%) y alteraciones del gusto (47,1-67,8%), , . Además, la presencia de comorbilidades como la hipertensión arterial, la edad avanzada y la obesidad se han asociado a una peor evolución.
+El objetivo principal de este estudio consistió en investigar la prevalencia de las alteraciones subjetivas del olfato (ASO) y el gusto (ASG) en pacientes con SARS-CoV-2 leves-moderados. Los objetivos secundarios se centran en evaluar el impacto en la calidad de vida producido por estas disfunciones y la tasa de recuperación de ambos sentidos.
+
+
+- PACIENTES Y MÉTODOS
+
+Se trata de un estudio prospectivo en el que los pacientes incluidos con enfermedad leve-moderada por COVID-19 respondieron a un cuestionario diseñado para el análisis de las alteraciones del olfato y/o gusto.
+Los criterios de inclusión y exclusión considerados, así como los datos clínicos y/o subjetivos se obtuvieron mediante la realización de un cuestionario online, estos, así como el diseño se describen en la figura 1 . A todos los pacientes se les pidió que completasen una versión corta del cuestionario de alteraciones olfatorias (sQOD-NS). El resto de las preguntas sobre el olfato y el gusto se obtuvieron del cuestionario nacional norteamericano de salud y nutrición.Figura 1
+Se evaluó la media de recuperación del olfato entre los días: 1-4; 5-8; 9-14 y >15. Haciendo referencia a los estudios que han demostrado que la carga viral desciende significativamente pasados los 14 días del inicio de los síntomas.
+Para realizar los análisis estadísticos se usó el programa Statistical Package for the Social Sciences (SPSS versión 21.0; IBM Corp, Armonk, NY, EE. UU.). El contraste de normalidad entre las variables continuas se realizó empleando la prueba de Shapiro-Wilk. Las asociaciones potenciales entre los resultados epidemiológicos, clínicos, olfatorios y gustativos fueron evaluadas mediante tablas cruzadas entre dos variables (variables dicotómicas o categóricas) y la prueba chi cuadrado. Las respuestas incompletas fueron excluidas del análisis. Las diferencias en el sQOD-NS en cuanto a alteraciones olfatorias entre pacientes se analizaron mediante la prueba de Kruskal-Wallis. Se aplicó un modelo de regresión logística multivariante para estimar la asociación entre la alteración del olfato y el gusto con un grupo de variables independientes (edad, sexo, síntomas, comorbilidades). Un nivel de p< 0,05 se determinó como estadísticamente significativo.
+
+
+- RESULTADOS
+
+Del total de 1.411 pacientes con RT-PCR positiva para infección por COVID-19, 1.043 pacientes completaron el estudio. Respecto al sexo, 663 (63,6%) eran mujeres y 380 (36,4%) hombres. La edad media fue de 39 ± 12 años (rango 19-78). Las comorbilidades más frecuentes aparecen recogidas en la tabla 1 . El 42% de los pacientes estaban en la fase aguda de la infección.
+En cuanto a la ASO, 826 pacientes (79,2%) describían algún tipo de pérdida relacionada con la infección. De estos, 662 describían su alteración como total y 164 como parcial. Además, el 16,6% asociaban cambios sugestivos de parosmia, y el 18,2% fantosmia. La ASO apareció antes (17,1%), después (47,8%) o al mismo tiempo que el resto de los síntomas generales y/o otorrinolaringológicos (23,9%).
+La tasa de recuperación del olfato tras 4 semanas evaluada en 462 pacientes curados, 315 (68,2%) manifestaron una recuperación parcial o total. El 57,5% recuperaron la función olfativa en los primeros 7 días posteriores a la resolución de la enfermedad con una media global de 9 ± 6 días (rango 5-29).
+Con respecto al impacto de la ASO en la calidad de vida, pacientes que percibían una pérdida total del olfato presentaron una puntuación (sQOD-NS) significativamente menor en comparación con aquellos individuos con una pérdida parcial (p = 0,001) o que no notaron ninguna alteración del olfato (p = 0,001) .
+Con respecto a la ASG, 718 pacientes (68,8%) informaron de trastornos gustativos. La ASG consistió en una capacidad reducida (48%) o distorsionada (22,9%) para percibir los sabores. De los 286 pacientes sin disfunción gustativa, 52 (5%) no presentaron disfunción olfatoria, mientras que 194 (18,6%) presentaban una alteración total del olfato y 40 (3,8%) una parcial.
+El análisis multivariante demostró que las mujeres (OR = 0,924; IC95%: 0,876 a 1,69) o mayores de 60 años (OR = 0,980; IC95%: 0,723 a 1,113) tenían un riesgo mayor de sufrir ASO o ASG. Además, entre los síntomas se demostró una correlación significativa entre la presencia de fiebre (OR = 0,981; IC95%: 0,434 a 1,396) o cefalea (OR = 1,160; IC95%: 0,917 a 1,313) y la ASO o la ASG. Mientras que no encontramos una correlación entre los síntomas otorrinolaringológicos y la presencia de comorbilidades con la aparición de alteraciones sensoriales (tabla 2 ).
+
+
+- DISCUSIÓN
+
+Tras la expansión del SARS-CoV-2 en Europa, múltiples autores han descrito la elevada incidencia de ASO y ASG en pacientes con COVID-19, incluso como única manifestación clínica.
+Varios estudios han observado una alta tasa de recuperación del olfato en el periodo de 1 a 2 semanas después del inicio de la anosmia o hiposmia, y una recuperación del gusto entre la segunda y tercera semana después del inicio de la ageusia o hipogeusia. Así como una mayor prevalencia de la ASO y la ASG en mujeres, jóvenes y con síntomas leves o asintomáticos3.
+La identificación y aislamiento de los pacientes con SARS-CoV-2 es la estrategia más importante para disminuir la expansión de la enfermedad. Ante la escasez de pruebas diagnósticas, es importante determinar cuáles son los síntomas iniciales más frecuentes para un aislamiento precoz. Dentro de nuestra población, hemos investigado en especial los casos leves-moderados y hemos confirmado la presencia de anosmia o disgeusia en un alto porcentaje de los pacientes.
+Destacamos como puntos fuertes de este estudio el tamaño de la muestra y la reproducibilidad que tiene el cuestionario realizado. A pesar de tratarse de un estudio con tiempo de seguimiento reducido (máximo un mes), consideramos que los hallazgos tienen valor en la medida en que pueden definir actitudes precoces de prevención al mismo tiempo que ayudan a definir líneas de trabajo para futuros estudios. Mientras que la limitación principal de este estudio corresponde al uso de un cuestionario por vía telemática el cual podemos tender a subestimar el umbral olfativo.
+
+
+- CONCLUSIÓN
+
+En la actualidad múltiples publicaciones han encontrado relación entre la infección por SARS-CoV-2 (COVID-19) y las alteraciones del olfato y/o gusto. Estos datos sugieren que existe una asociación significativa entre la infección viral y la alteración olfatoria o gustativa y que esa información podría ayudar en el diagnóstico precoz de la enfermedad por SARS-CoV-2.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

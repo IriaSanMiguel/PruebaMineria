@@ -1,0 +1,95 @@
+REFLEXIONES SOBRE CÓMO EVALUAR Y MEJORAR LA RESPUESTA A LA PANDEMIA DE COVID-19
+
+
+- INTRODUCCIÓN Y JUSTIFICACIÓN
+
+El Sistema Nacional de Salud (SNS) español ha venido siendo bien valorado por la ciudadanía, presentando buenos indicadores en términos de morbimortalidad y esperanza de vida, . Además, el año previo a la pandemia nuestro SNS recibió una alta puntuación en el índice de seguridad sanitaria global.
+Aun así, nuestra población se ha visto extraordinariamente afectada por la COVID-19 en términos de incidencia acumulada, mortalidad asociada y disrupción social y económica. Lo cierto es que la crisis financiera iniciada en 2008 supuso un serio revés para el SNS, el gasto en salud está bajo la media de los países de la Unión Europea y no se ha invertido suficiente en salud pública. Todo eso ha lastrado su efectividad ante esta pandemia.
+Lo anterior justifica una evaluación independiente de la pandemia de COVID-19 en España, buscando comprender qué ha pasado, proponiendo soluciones y con una visión multidisciplinaria en la esfera sanitaria, política y socioeconómica.
+Y lo mismo ocurre más allá de España: el Reino Unido, Australia y los Estados Unidos, , , además de la propia Organización Mundial de la Salud (OMS), han decidido promover comisiones evaluadoras, que constituyen ejemplos de referencia para nuestro propósito.
+A continuación, proponemos objetivos, principios, metodología y dimensiones evaluables, y esbozamos el tipo de resultados y las conclusiones esperadas.
+
+
+- OBJETIVOS. APLICABILIDAD Y UTILIDAD PRÁCTICA
+
+De acuerdo con la Resolución WHA 73.1 de la Asamblea Mundial de la Salud que explicita la necesidad de «revisar las experiencias y las lecciones aprendidas», proponemos estos objetivos para España:•Caracterización de disposiciones del Gobierno de España y de sus comunidades autónomas y gobiernos de administraciones locales, y valoración del cumplimiento y la adherencia a las recomendaciones por parte de la población.•Procesos de planificación, programación y articulación de acciones de gobierno.•Impacto en los servicios sanitarios y sociales, y en resultados en salud de la población con atención a grupos vulnerables.•Nivel de colaboración con las instituciones europeas (fundamentalmente el Centro Europeo para la Prevención y Control de Enfermedades [ECDC]) y con la OMS (tanto con su oficina europea como con la sede central).•Formulación de bases para la acción no solo a corto plazo, sino también para consolidar y fortalecer la preparación de la salud pública española ante futuras situaciones de emergencia.
+
+
+- PRINCIPIOS DE LA EVALUACIÓN Y POSIBLE ARTICULACIÓN ORGANIZATIVA DEL PANEL EVALUADOR
+
+Siguiendo los requerimientos en la evaluación de la OMS, la valoración debe consistir en un examen imparcial, independiente e integral.
+El panel evaluador se debe adaptar al contexto y las circunstancias. Aquí señalamos el siguiente modelo:•Elección de presidentes del panel de reconocido prestigio, independientes y sin implicación en el proceso de decisión sobre la pandemia en España.•Elección posterior de un grupo de expertos/as (paritario, interdisciplinario e intersectorial) por los/las presidentes, acreditando independencia para formar parte del panel.•Constitución de un secretariado independiente (como mínimo una persona responsable o gestora de proyecto; tres analistas, una persona responsable de edición y otra de comunicación).
+Son posibles otros modelos organizativos, siempre que se preserven los principios especificados.
+
+
+- METODOLOGÍA DE EVALUACIÓN
+
+Se deberá partir de las fuentes para recoger la información (revisión documental en profundidad, entrevistas a responsables en la toma de decisiones y a informantes clave). Además, se puede complementar con el encargo de informes sobre temas específicos, estudios más detallados y, si procede, apertura de una línea de aportación abierta de ideas a través de una página web habilitada al efecto. Se recomienda incluir el análisis de la cronología precisa de los acontecimientos y las actividades en relación con la pandemia de COVID-19.
+
+
+- DIMENSIONES QUE PROPONEMOS ESTUDIAR DE FORMA SISTEMÁTICA
+
+Una evaluación de estas características debe ser multidimensional por naturaleza. La tabla 1 recoge los aspectos que deben valorarse.
+
+
+-- GOBERNANZA, PREPARACIÓN Y PROCESO DE TOMA DE DECISIONES
+
+Las consideraciones relativas a la gobernanza, la preparación y el proceso de toma de decisiones abarcan la arquitectura institucional y la coordinación entre administraciones, entre servicios asistenciales y de salud pública, y entre atención primaria y hospitales, además de con organizaciones sociales y comunitarias, públicas y privadas, en el ámbito sanitario y social.
+También hay que revisar la preparación (materiales y adiestramiento) para amenazas biológicas de diferente naturaleza, examinando la colaboración bidireccional con el ECDC y con la OMS, y comprobando el grado de cumplimiento del Reglamento Sanitario Internacional.
+Adicionalmente, habría que evaluar la gobernanza respecto a las consecuencias económicas y sociales de la pandemia, así como frente al impacto en la desigualdad.
+Debe incluirse la valoración de los principios de buen gobierno en la gestión de la pandemia (transparencia, rendición de cuentas, integridad, participación, capacidad y cumplimiento de la legislación vigente).
+
+
+-- FUENTES Y USO DE INFORMACIÓN
+
+El apartado de fuentes y uso de información contempla la organización práctica de la vigilancia y la metodología epidemiológica para el diagnóstico de la situación; conocer las definiciones de caso y la modelización explicativa y predictiva de morbilidad y mortalidad.
+Debe incluir el uso actual y potencial de Big Data Science y de aplicaciones basadas en Digital Health e inteligencia artificial, además de otras aproximaciones científicas imprescindibles, como las ciencias sociales.
+Paralelamente hay que monitorizar los determinantes sociales, comerciales y ecológicos de la salud y de variables conductuales en la población.
+De manera complementaria, es básico conocer la metodología seguida para la fundamentación científica en la toma de decisiones (incluyendo la asesoría científica).
+
+
+-- ACCIONES REALIZADAS Y RAZONAMIENTO SOBRE ALTERNATIVAS
+
+En relación con las acciones realizadas y el razonamiento sobre alternativas disponibles, se debe examinar el impacto económico, social y en desigualdades sociales en salud. También hay que cuantificar el impacto en las condiciones de trabajo, teletrabajo, teleformación y la posible brecha digital.
+Igualmente son cruciales las acciones relacionadas con los/las profesionales de la salud, incluyendo la formación en aspectos clínicos, epidemiológicos, de gestión de la pandemia, de rastreo y aislamiento, y otros aspectos.
+La organización y la función de la salud pública merecen especial atención, así como la atención primaria y la atención hospitalaria, considerando las acciones en telemedicina y la asistencia a distancia.
+Además, es esencial poner el foco en las residencias de mayores y en los centros educativos.
+Procede también examinar la investigación en general y sobre la COVID-19 en particular.
+
+
+-- ASPECTOS SOCIALES
+
+En cuanto a los aspectos sociales básicos, habría que examinar el nivel de equidad, dado que las desigualdades sociales han contribuido a la transmisión del virus y a su vez se han exacerbado con la COVID-19. Merece consideración estudiar el grado de participación ciudadana.
+Para concluir este apartado, debe examinarse la intersectorialidad, teniendo en cuenta que esta crisis es también una sindemia con amplias repercusiones económicas y sociales.
+
+
+-- COMUNICACIÓN DE RIESGOS
+
+Se ha de comprender la coherencia de la estrategia comunicativa, tanto en prensa, radio y televisión como en redes sociales, incluyendo cómo se han afrontado las noticias falsas (fake news) y sin olvidar la comunicación mediada por los científicos.
+
+
+- RESULTADOS ESPERADOS DE LA EVALUACIÓN Y RECOMENDACIONES POTENCIALES
+
+Esta evaluación pretende obtener resultados que permitan comprender aspectos clave en los ámbitos estudiados: preparación, gobernanza, reformas legales/jurídicas para la toma de decisiones en contexto de pandemia, cambios para el fortalecimiento de las estructuras del SNS (atención primaria, hospitalaria y de salud pública), esquemas de protección social, minimización de impacto económico, educación, reformas en el sector trabajo/industria y otros.
+Se espera que la evaluación contribuya a diagnosticar e identificar mejoras de cara al futuro.
+Como consideración final, debemos ocuparnos de mitigar el enorme impacto de la pandemia en términos de salud, disrupción social y sufrimiento en la población, mediante políticas públicas efectivas dirigidas a toda la población (universales) y a aquellas más desfavorecidas (selectivas). Pero a su vez esto debe ser una herramienta para que en el futuro estemos mejor preparados y con más ágil capacidad de recuperación ante las amenazas pandémicas que puedan surgir.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Carlos Álvarez Dardet.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+J.M. Martín-Moreno ha coordinado el manuscrito. Todas las personas firmantes han participado en la concepción, el diseño y la escritura del trabajo, y han aprobado la versión final tras las necesarias revisiones y discusión.
+
+
+- FINANCIACIÓN
+
+Ayuda referencia: PI 18/01937 del Fondo de Investigación Sanitaria- Instituto de Salud Carlos III, España, con cofinanciación de Fondos FEDER.
+
+
+- CONFLICTOS DE INTERESES
+
+A. Arenas ha asesorado a los departamentos relacionados con la gestión de la pandemia en los gobiernos de España y de la Generalitat de Catalunya. C. Borrell es la gerenta de la Agència de Salut Pública de Barcelona, lo que conlleva responsabilidades directas en la responsabilidad de la gestión de la epidemia en la ciudad de Barcelona. B. González López-Valcárcel es miembro del grupo de trabajo multidisciplinario sobre COVID-19 para el Ministerio de Ciencia e Innovación de España, es miembro del comité científico de COVID-19 para los gobiernos de las Islas Canarias y del Principado de Asturias, y colabora con el grupo COVID-19 de la Fundación de la Organización Médica Colegial de España. I. Hernández Aguado ha asesorado en materia de COVID-19 a los gobiernos de la Comunidad Valenciana y de Islas Baleares, y colabora con el grupo COVID-19 de la Fundación de la Organización Médica Colegial de España. Todos/as los/las demás autores declaran ausencia de afiliación o papel de asesoría institucional, financiación o participación financiera que pueda afectar a la objetividad de este artículo.

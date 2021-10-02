@@ -1,0 +1,5 @@
+La media del nivel de eficiencia de la región considerando la esperanza de vida es mayor que al utilizar la mortalidad infantil.
+Aplicando la metodología del análisis de frontera estocástica se estiman los índices de eficiencia de los países, utilizando datos de los años 1995, 2000, 2005, 2010 y 2012. Se consideran dos variables alternativas de resultado de salud, la esperanza de vida y la mortalidad infantil. Para este último caso, se analizan los determinantes de la ineficiencia.
+Los resultados sugieren que los países aún pueden mejorar el uso de los recursos y que orientar una política de gasto hacia programas de inmunización y que garantice que los partos sean atendidos por un personal capacitado es una manera eficiente de salvar la vida de los neonatos.
+Comparar los niveles de eficiencia del gasto sanitario para 25 países de América Latina y el Caribe.
+

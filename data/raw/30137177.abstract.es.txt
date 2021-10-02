@@ -1,0 +1,5 @@
+Mediante el un método estadístico de regresión lineal se encontró un coeficiente de correlación de 0,99.
+Ambos métodos pueden contribuir al análisis clínico de los pacientes a quienes se les solicitó la prueba con fines de diagnóstico, control y seguimiento de diferentes patologías.
+Se tomaron 407 pacientes asistentes a un laboratorio de tercer nivel a quienes en forma simultánea se les realizó las dos pruebas en estudio.
+Establecer la correlación entre los métodos de Wintrobe y de micro-hematocrito.
+

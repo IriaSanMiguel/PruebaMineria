@@ -1,0 +1,6 @@
+La técnica mini-open mostró mejor costo-resultado, con una ganancia en la funcionalidad de hombro similar a la que se obtiene con la técnica más costosa.
+Se realizó una evaluación económica parcial de tipo costo-resultado a 113 pacientes con LMR intervenidos mediante técnica mini-open (n = 6) o artroscopía (n = 91) o ambas (n = 16). Los costos directos incluyeron: estancia, días de incapacidad laboral, cirugía, implantes (anclas), valoraciones médicas, laboratorio e imagen. Se evaluó la funcionalidad del hombro a un año mediante la escala de Constant-Murley (EscC-M).
+La técnica MO fue la más económica (X = $42,950.60 MXN) y la más costosa fue la artroscopía + MO con anclas (X = $89,594.80 MXN); con una diferencia no significativa en la funcionalidad del hombro (EscC-M = 56.33 ± 7 vs 64.25 ± 9 puntos, respectivamente) (p 0.05; Kruskal-Wallis; post hoc Mann-Whitney). Una diferencia de $46,644.10 MXN entre técnicas correspondió a 7.92 puntos. Hubo relación leve entre la técnica y la funcionalidad del hombro (rs = 0.26; p = 0.005; Spearman).
+Analizar el costo-resultado de las técnicas quirúrgicas para la LMR.
+Actualmente, para manejar la ruptura del manguito de los rotadores (LMR), se prefiere la artroscopía sobre técnicas abiertas (mini-open [MO]), con resultados y costos controversiales.
+

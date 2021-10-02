@@ -1,0 +1,5 @@
+Describir la prevalencia de hipertensión arterial (HTA) en adultos, el porcentaje de ellos con diagnóstico previo y la proporción que tuvo un control adecuado.
+Un alto porcentaje de adultos desconocen tener HTA y de ellos casi la mitad tiene un control inadecuado. Debería evaluarse la pertinencia de los actuales programas de diagnóstico de HTA y la efectividad de sus estrategias de control.
+La prevalencia de HTA en adultos fue de 25.5%, de los cuales, 40.0% desconocían tener HTA. De los hipertensos que tenían diagnóstico previo de HTA y que recibían tratamiento farmacológico (79.3%), 45.6% tuvo tensión arterial bajo control.
+Se midió la tensión arterial a 8 352 adultos que participaron en la Ensanut MC 2016. Se clasificó como hipertensos a quienes reportaron haber recibido previamente el diagnóstico de HTA, o presentaban cifras de tensión arterial sistólica (TAS) ≥140mmHg o tensión arterial diastólica (TAD) ≥90mmHg. Se consideró tensión arterial controlada cuando la TAS <140mmHg y la TAD <90mmHg.
+

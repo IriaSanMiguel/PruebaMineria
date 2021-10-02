@@ -1,0 +1,5 @@
+Se analizaron 3 700 adultos participantes en la Encuesta Nacional de Salud y Nutrición de 2016. Se estimaron las prevalencias con ponderadores poblacionales y los factores asociados con diabetes total y descontrol glucémico con modelos de regresión de Poisson.
+La prevalencia total de diabetes fue de 13.7% (9.5% diagnosticada, 4.1% no diagnosticada); 68.2% de los diagnosticados presentó descontrol glucémico. Mayor tiempo de diagnóstico, vivir en el centro/sur del país y ser atendido en farmacias se asoció con descontrol glucémico, mientras que ser atendido en los servicios de seguridad social se asoció con mejor control glucémico.
+Estimar la prevalencia de diabetes (total, diagnosticada y no diagnosticada), de descontrol glucémico en México y sus factores asociados.
+Se requieren esfuerzos multisectoriales para fortalecer el tamizaje, diagnóstico oportuno y control de la enfermedad, considerando las diferencias por región y tipo de servicio de salud.
+

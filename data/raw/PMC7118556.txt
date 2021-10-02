@@ -1,0 +1,82 @@
+ANÁLISIS DESCRIPTIVO DE LOS ERRORES DE MEDICACIÓN NOTIFICADOS EN ATENCIÓN PRIMARIA: APRENDIENDO DE NUESTROS ERRORES
+
+
+- INTRODUCCIÓN
+
+Desde la publicación del informe To err is human, la seguridad del paciente se ha convertido en una prioridad de los sistemas sanitarios. La importancia de los errores de medicación (EM) ha sido ampliamente descrita, , , , y existen numerosos estudios específicos, la mayoría en el ámbito hospitalario, aunque los EM en atención primaria también han sido ampliamente estudiados, quedando patente su importancia, , , , .
+Es cierto que los sistemas de notificación no reflejan la prevalencia real de los incidentes de seguridad pero suponen una fuente de información acerca de áreas de riesgo. Por este motivo, han sido utilizados como base para estudios de seguridad en EM, . A nivel nacional existen también estudios centrados en EM en atención primaria, y trabajos que utilizan como fuente de datos los sistemas de notificación.
+Los EM tienen peculiaridades importantes en atención primaria que matizan sustancialmente cómo ocurren y cómo prevenirlos, por lo que parece oportuno un análisis orientado a las peculiaridades de la atención primaria y las medidas para prevenir errores en este ámbito.
+El objetivo del presente estudio es describir los EM notificados en atención primaria analizando el ámbito, el daño real y potencial, y las causas y orientando el análisis a las medidas para prevenir estos errores.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio descriptivo observacional transversal.
+
+
+-- POBLACIÓN DE ESTUDIO Y ÁMBITO
+
+Se analizaron todas las notificaciones de EM realizadas desde atención primaria en el sistema de notificación del Servicio Madrileño de Salud (CISEMadrid) entre el 1 de enero y el 17 de noviembre de 2016.
+
+
+-- MEDICIONES PRINCIPALES
+
+En el sistema de notificación, la persona que realiza una notificación puede registrar directamente el lugar en que se produjo el error, la causa del error y el impacto en el paciente (daño) en sendos campos consistentes en listas cerradas en los que el notificador puede seleccionar una de las opciones. Estas clasificaciones son revisadas y en ocasiones modificadas por los profesionales que valoran y analizan los errores notificados, habitualmente los farmacéuticos pertenecientes a las unidades de gestión de riesgos de atención primaria. Además, el notificador registra en campo de texto la descripción del error y el medicamento implicado.
+De cada notificación se recogieron directamente las siguientes variables: a) ámbito en el que ocurrió el EM (centro de salud [CS], entorno del paciente, atención hospitalaria, oficina de farmacia), b) causa del EM (categorías en , basado en la clasificación de tipos de EM del grupo Ruiz-Jarabo 2000) y c) daño real producido (categorización según clasificación internacional de la OMS: sin daño en el paciente, daño leve, daño moderado y daño grave; definición en )
+Además del ámbito, causa y daño real, en las notificaciones en las que fue posible se estimó la potencialidad de producir daño, con la misma categorización de la variable «daño real», a partir de la descripción del error y del medicamento implicado al no ser una variable registrada directamente por el notificador. La estimación de potencialidad de daño del error se hizo en base a los siguientes criterios:, a) si se trataba de un medicamento de alto riesgo, b) el tipo de error (error de dosis, de indicación, contraindicaciones no tenidas en cuenta…), c) la detectabilidad del error antes de llegar al paciente en función de la causa de este (equivocaciones del paciente, error de dispensación, error de prescripción, falta de información…), d) el efecto esperable del error en el paciente y e) la presencia y funcionamiento de barreras sistémicas o fortuitas. La estimación de potencialidad de daño del error fue llevada a cabo por parte de investigadores entrenados. Se realizó análisis de concordancia interobservador en una submuestra obteniéndose un índice kappa de 0,94.
+
+
+-- ANÁLISIS
+
+Se realizó un análisis global y a continuación se llevó a cabo un subanálisis de causas en aquellos EM del ámbito del CS o del paciente (por ser los ámbitos abordables desde atención primaria). También se realizó un subanálisis de los EM con potencialidad de daño grave (por considerarse los más prioritarios de abordar). El esquema de los diferentes análisis y subanálisis se muestra en el diagrama del . Para el tratamiento estadístico, se calculó el intervalo de confianza de los porcentajes mediante el cálculo del error estándar de una proporción. Se utilizó el paquete SPSS vs. 21.0.
+
+
+- RESULTADOS
+
+El total de notificaciones de incidentes de seguridad del paciente en el periodo de estudio fue de n = 3.019. Se analizaron las 1.839 notificaciones que eran EM, las cuales representaban el 61% del total.
+
+
+-- ANÁLISIS GLOBAL DEL ÁMBITO EN EL QUE SE PRODUJO EL ERROR Y DEL DAÑO
+
+En la tabla 1 se describen las características demográficas de los pacientes a los que corresponden las notificaciones de la muestra así como el ámbito en que se produjo el EM.
+De las 677 notificaciones analizables para daño (ver diagrama en ), se pudo recoger información sobre daño real en 526 (77,7%). La distribución de gravedad en este grupo se presenta en la figura 1.Figura 1
+Se pudo estimar la potencialidad de daño en 677 notificaciones de EM. De estos, el 29,8% (IC95%: 26,4-33,3%) no tenían potencialidad de producir daño; el 19,4% (IC95%: 16,4-22,3%) tenían potencialidad de producir daño leve; el 23,3% (IC95%: 20,1-26,5%), daño moderado; y el 27,5% (IC95%: 24,1-30,8%), daño grave.
+
+
+-- SUBANÁLISIS DE CAUSAS EN LOS ERRORES DE MEDICACIÓN DEL ÁMBITO DEL CENTRO DE SALUD Y DEL ENTORNO DEL PACIENTE
+
+La distribución por causas de los EM notificados que habían tenido lugar en el ámbito del CS y en el entorno del paciente se muestra en la tabla 2. En el ámbito del CS la causa más frecuente fue prescripción inadecuada. En el entorno del paciente, la causa más frecuente fue el fallo en la comunicación profesional-paciente seguida por equivocaciones y despistes del paciente.
+
+
+-- SUBANÁLISIS DE ERRORES DE MEDICACIÓN CON POTENCIALIDAD DE DAÑO GRAVE
+
+Los EM notificados en los que se estimó potencialidad de daño grave fueron n = 186.
+El ámbito en el que se produjeron los EM con potencialidad de daño grave fue el siguiente: en el CS ocurrieron el 39,8% (IC95%: 32,4-47,1%) de los EM con potencialidad de daño grave; en el entorno del paciente tuvo lugar el 32,2% (IC95%: 25,1-39,2%); en el ámbito de atención hospitalaria y otros, el 19,9% (IC95%: 13,9-25,9%); y, en el ámbito de las oficinas de farmacia, el 8,2% (IC95%: 4,1-12,3%).
+Se analizaron las causas implicadas en aquellos EM con potencialidad de daño grave que habían ocurrido en el ámbito del CS o en el entorno del paciente.
+La distribución por causas se muestra gráficamente en la figura 2. En el ámbito del CS, la causa más frecuente de EM con potencialidad de daño grave fue la prescripción inadecuada; de los errores de prescripción inadecuada, el 48,5% (IC95%: 31,2-65,8%) eran despistes durante la prescripción. En el entorno del paciente, fueron los fallos de comunicación profesional-paciente y los despistes en la autoadministración.Figura 2
+
+
+- DISCUSIÓN
+
+Aun no siendo un objetivo de este estudio, cabe comentar que la proporción de EM sobre el total de incidentes encontrados en el presente trabajo fue ligeramente superior a la encontrada en otros estudios (61 vs. 48%), , lo que podría deberse a la inclusión de los fallos de comunicación profesional-paciente dentro de EM mientras que en otros estudios podrían haber sido clasificados como problemas de comunicación, siendo estos una proporción importante del total (6-67%), .
+En el presente estudio, la proporción de EM con daño real en el paciente es superior a la encontrada en otros, tanto de forma global (19,2 vs. 8-11%), , , como los EM con daño grave (3,8% del total de EM vs. 0,18-0,35%, ; 19% de los EM con daño vs. 5,7-7,3%, ). Estas discrepancias están descritas en la literatura por la gran heterogeneidad de diseños, , . Las diferencias encontradas con estudios basados en sistemas de notificación podrían deberse a que el sistema de clasificación del daño no fue el mismo y el efecto de variabilidad entre codificadores podría suponer un factor importante. Por ejemplo, la ineficacia del tratamiento podría considerarse daño o no dependiendo del codificador (es identificada como EM en unos estudios y en otros no) y puede ocurrir entre el 10% y el 66% de los tratamientos prescritos, , . La necesidad de sistemas de clasificación estandarizados y universales en seguridad del paciente ha sido ampliamente identificada, , , , , , .
+En el presente estudio se identificó la potencialidad del daño. A pesar de las limitaciones que implica estimar el daño potencial, se consideró útil añadir esta variable al estudio por complementar la variable daño real con el enfoque a «medidas para prevenir errores» descrito en el objetivo del estudio ya que el gap entre daño real y potencial representa los errores que producirán daño en algún momento si no se implantan barreras sistémicas. No se han encontrado apenas estudios en este sentido y ninguno con medidas comparables: en un trabajo se encontró una potencialidad de daño media de 2,6 sobre 10. En el presente trabajo se encontró que el 70,2% de los EM tenían potencialidad de producir daño y que el 27,5% tenían potencialidad de producir daño grave. Esta cifra, que contrasta con el 3,8% de daño grave real, pone de manifiesto que en la práctica funcionaron muchas barreras no sistematizadas, en muchos casos casuales. No obstante, no parece tranquilizador dejar la seguridad del paciente en manos del azar.
+En cuanto al origen de los EM encontrados en el presente estudio, el conjunto de errores de prescripción (que serían la suma de prescripción inadecuada, prescripción de medicamento no disponible y error por el uso de la historia electrónica), representaron 586 EM de los 1.353 en los que se analizó la causa. Este hallazgo coincide con lo descrito en la literatura, , , , , , , , , , , y supone una proporción sobre la totalidad de EM similar a otros estudios sobre sistemas de notificación. En este estudio se encontró que la prescripción inadecuada (incluye fármaco mal indicado o con dosis pautada incorrecta, contraindicaciones, interacciones y alergias) suponía la principal causa de errores de prescripción con potencialidad de daño grave. Hallazgos en este sentido se han encontrado en estudios sobre ingresos hospitalarios motivados por EM, siendo la indicación incorrecta y las contraindicaciones las causas de más de la mitad de los ingresos por EM.
+La proporción de errores de administración por parte de profesional sanitario encontrados fue similar a lo descrito en estudios sobre sistemas de notificación y no tuvieron un peso importante entre los EM con potencialidad de daño grave (la mayoría fueron errores de administración de vacunas con bajo riesgo de producir daño).
+Los EM del paciente fueron la cuarta parte de los EM notificados, cifra que se elevó hasta un tercio entre los EM con potencialidad de daño grave. En trabajos similares se encontró una cifra inferior (26,5 vs. 6,5%). No obstante, en estudios de prevalencia se encontró que los EM del paciente son muy frecuentes y con daño potencial grave: en torno al 40% de los EM son EM del paciente, entre el 30% y el 50% de los pacientes no tienen una buena adherencia terapéutica, el 75% de los ingresos hospitalarios por EM fueron por equivocación de medicamento… Los fallos en la comunicación profesional-paciente fueron la causa de 2 tercios de los EM del paciente. En otros estudios representan entre el 6% y el 67% de todos los incidentes de seguridad, , , , , , . La comunicación profesional-paciente en algunos estudios es clasificada como errores de comunicación y no como EM, lo que también podría explicar cifras inferiores de EM del paciente. Como se ha comentado, parece necesario un sistema de clasificación estandarizado y universal con categorías mutuamente excluyentes y validado para el uso por múltiples codificadores.
+En el presente trabajo se encontró que los despistes en la autoadministración son una causa frecuente de EM del paciente especialmente entre los de potencialidad de daño grave. La importancia de los despistes de autoadministración y sus factores ha sido descrita en otros estudios, .
+Las principales fortalezas del presente estudio son el tamaño de la muestra, el ámbito de estudio de una comunidad autónoma, el foco en atención primaria, y la orientación a medidas que prevengan el error. Una limitación de este trabajo es la fuente de datos (un sistema de notificación) que conlleva un riesgo de sesgo de infrarrepresentación, ya descrito anteriormente en la literatura, aunque se trata de una fuente de datos utilizada en otros trabajos publicados, . Otras limitaciones son la no homogeneidad de la recogida de datos, las pérdidas por imposibilidad de clasificar el daño y la falta de estandarización de los criterios para la variable de potencialidad de daño (aunque se ha utilizado en otros trabajos publicados y la concordancia con otro observador fue alta).
+Las implicaciones de los hallazgos de este trabajo para la práctica se orientan a la implantación de barreras estructurales y prácticas seguras sistematizadas en atención primaria, muchas de ellas con estudios de efectividad que las avalan. Parece prioritaria la implantación de un sistema de prescripción asistida en la historia clínica electrónica (que alerte de indicaciones o dosis incorrectas así como de contraindicaciones, interacciones y alergias), la definición e implantación de prácticas seguras en la comunicación profesional-paciente en relación con el tratamiento farmacológico, y la implantación de ayudas a los pacientes que eviten los despistes. Además, parece prioritario un sistema de clasificación estandarizado validado para múltiples codificadores.
+En cuanto a las implicaciones para la investigación del presente trabajo, se sugiere la realización de más estudios de prevalencia de EM en atención primaria, especialmente en el entorno del paciente, por ser un campo poco estudiado. También se sugieren estudios de impacto de las medidas comentadas. Por último, parecen necesarios trabajos de estandarización y validación de una clasificación de EM.
+
+
+- CONCLUSIÓN
+
+En resumen, la mitad de los EM notificados desde atención primaria tiene lugar en el CS mientras que los EM del paciente son la cuarta parte. Uno de cada 4 es un error potencialmente grave. Las causas más importantes son la prescripción inadecuada (incluyendo indicación o dosis incorrecta, interacciones, contraindicaciones y alergias), los fallos en la comunicación profesional-paciente y los despistes en la autoadministración del paciente. Parece prioritario implantar sistemas de ayuda a la prescripción, prácticas seguras efectivas en comunicación profesional-paciente y ayudas que eviten los despistes en la autoadministración del paciente. Tal como apuntan Vincent y Amalberti, debemos evitar que el progreso en la seguridad del paciente se vea limitado por la infrautilización de las estrategias e intervenciones disponibles.Lo conocido sobre el tema•Los errores de medicación suponen en torno a la mitad del total de incidentes de seguridad en atención primaria.•Aunque existen estudios de tipificación de los errores de medicación en el ámbito de la atención primaria la mayoría son hospitalarios.•La atención primaria presenta peculiaridades que determinan y diferencian las causas, la forma en que se producen y el tipo de errores de mediación.Qué aporta este estudio•La mitad de los errores de medicación notificados desde atención primaria tiene lugar en el centro de salud mientras que los errores de medicación del paciente son la cuarta parte.•Uno de cada 4 errores de medicación es un error potencialmente grave.•Las causas más importantes son la prescripción inadecuada (incluyendo indicación o dosis incorrecta, interacciones, contraindicaciones y alergias), los fallos en la comunicación profesional-paciente y los despistes en la autoadministración del paciente.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

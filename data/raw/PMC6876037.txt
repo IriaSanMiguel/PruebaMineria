@@ -1,0 +1,172 @@
+MANEJO DE LAS INFECCIONES ODONTOGÉNICAS EN LAS CONSULTAS DE ATENCIÓN PRIMARIA: ¿ANTIBIÓTICO
+
+
+- INTRODUCCIÓN
+
+La cavidad oral es el primer segmento del aparato digestivo y comunica directamente con el exterior, por lo que no es una cavidad aséptica. Recubierta por mucosa, encontramos las glándulas salivales y los dientes. Posee una variada flora comensal —microbiótica o microbioma oral— aerobia y anaerobia en equilibrio con el huésped. Este complejo ecosistema, único para cada individuo, está compuesto por más de 50.000 millones de bacterias de más de 700 especies, con unas 200 predominantes, de las cuales un 53% aún no tienen un nombre definido y un 35% aún no se han podido siquiera cultivar in vitro. Alberga además virus, hongos y parásitos.
+Como en el resto de la naturaleza, en el microbioma oral tan solo una muy pequeña fracción de las bacterias se encuentra en forma planctónica o de libre flotación. La mayoría existen en calidad de biofilm o biopelícula. Esta película está compuesta por una matriz polimérica extracelular producida por las propias bacterias que forma una estructura en la que permanecen coagregados los diferentes microorganismos y que se adhiere a sustratos o superficies permanentes.
+La cavidad oral ofrece las condiciones idóneas para que esta abundante flora oral genere las biopelículas. Por un lado, facilita la multiplicación bacteriana con condiciones favorables de temperatura, humedad y aporte de nutrientes por parte de la saliva y del líquido gingival crevicular originado en el epitelio libre de la encía; y por otro lado, ofrece una amplia superficie dental a la que adherirse. La saliva contiene gran cantidad de agentes antibacterianos, antivirales y antifúngicos que modulan la flora, ayudan a mantener una microbiota equilibrada y contribuyen a la curación de las heridas. Además tiene otras funciones, como facilitar la masticación, la deglución y el habla, y enzimas para iniciar el proceso de la digestión de nutrientes.
+La mayoría de las bacterias de la microbiótica oral ejercen una relación simbiótica con el huésped. Aunque en individuos sanos se puedan detectar algunas con potencial cariogénico o periodontogénico generalmente adquiridas por contacto íntimo, su «carga» es muy baja en una boca sana. Para que se produzca la enfermedad es necesario un aumento en la proporción de las bacterias cariogénicas o periodontogénicas (disbiosis). Se ha propuesto que para que esto ocurra es necesario un cambio en las condiciones fisiológicas del individuo (edad, cambios hormonales puberales, gestación, etc.) o cambios locales de las características de la saliva (por disfunción glandular, mala higiene oral, tabaquismo, etc.). Todos estos cambios alteran el equilibrio flora/huésped, modificando la competitividad de las bacterias en el biofilm y seleccionando las especies más adaptadas al nuevo entorno. En la mayoría de los casos, el individuo sano es capaz de adaptarse a los cambios de la flora sin padecer enfermedad.
+La disrupción de este frágil equilibrio comporta la formación de patología infecciosa odontogénica sumamente frecuente, como la caries, la gingivitis o la periodontitis.
+
+
+- INFECCIONES ODONTOGÉNICAS
+
+Son las que afectan a las estructuras que forman el diente y el periodonto. Se caracterizan por su carácter polimicrobiano. La utilización del cultivo como método diagnóstico hacía complicado atribuir a uno o a varios microorganismos una determinada etiología. El uso de técnicas de diagnóstico inmunológico y molecular para la identificación de los microorganismos, independientes del cultivo (PCR, inmunoensayo, ADN, etc.), desde la década de 1990 ha permitido conocer mejor la flora de la cavidad oral, la asociación de especies en la formación de biopelícula y la relación de algunas bacterias subgingivales en el origen de las periodontitis. Se ha demostrado la presencia de una mayor densidad microbiológica en la cavidad oral enferma que en una sana, y su eliminación implica la regresión o el final de la enfermedad.
+
+
+- FORMAS CLÍNICAS
+
+-- CARIES Y PULPITIS
+
+La caries es la destrucción del esmalte dental por la acidificación ocasionada por la fermentación de los hidratos de carbono de la dieta. Su prevalencia es muy alta, hasta un 90% en adultos. Inicialmente es asintomática, hasta que alcanza tejidos dentales profundos —pulpitis—, causando dolor intenso al cepillado dental, con los cambios térmicos o con los azúcares de la dieta.
+
+
+-- PERICORONARITIS
+
+Infección en la mucosa que recubre la corona del diente parcialmente erupcionado. Es frecuente en la erupción del tercer molar inferior, hacia los 20- 30 años de edad.
+
+
+-- GINGIVITIS
+
+Inflamación de la encía por acúmulo de placa dental. Se limita a la encía sin afectar a la estructura de sujeción del diente. Produce sangrado al cepillado. Es un proceso frecuente en adultos (50%) pero reversible.
+
+
+-- PERIODONTITIS
+
+Progresión de la inflamación gingival que afecta a las estructuras de soporte del diente. Inicialmente asintomática, su avance supone la destrucción de las estructuras que fijan el diente, pérdida de hueso maxilar y, finalmente, la caída de la pieza dental. Afecta al 30% de los adultos.-Crónica o del adulto. Por su evolución en el tiempo y no a su imposibilidad de curación. Progresa lentamente. Se da en personas sanas, aunque se han descrito factores de riesgo como una pobre higiene oral, el estrés, el tabaquismo, etc.-Agresiva, de rápida evolución. Se suele dar en adultos jóvenes y sanos. Se ha descrito agregación familiar-Como manifestación de enfermedades sistémicas.Figura 1
+
+
+-- ENFERMEDADES PERIODONTALES NECROSANTES
+
+Engloba a las entidades antes llamadas gingivitis ulcerativa necrótica (GUN), periodontitis ulcerativa necrótica (PUN) y estomatitis necrosante (EN). Se diferencian entre ellas en el grado de severidad de la afectación. Fue muy frecuente durante e inmediatamente después de la Segunda Guerra Mundial, tanto en la población civil como militar, pero actualmente su prevalencia en nuestro ámbito es muy baja y se asocia a VIH+.
+Características:-GUN: infección de las encías, con ulceración dolorosa de las papilas interdentales. Cursa con halitosis característica.-PUN: progresión de la GUN que afecta las estructuras de fijación del diente, el ligamento periodontal y el hueso alveolar.-EN: cuando la necrosis progresa a planos profundos por debajo de la línea mucogingival e incluye la mucosa orofaríngea, el labio o la lengua, produciendo osteítis y fístulas.
+
+
+-- MUCOSITIS PERIIMPLANTARIA O «GINGIVITIS DE LOS IMPLANTES»
+
+Es un proceso reversible de inflamación de las encías periimplante por el acúmulo de placa dental. Puede aparecer hasta en el 50% de los implantes. La colonización bacteriana sobre los implantes sigue el mismo patrón que sobre los dientes, así como la respuesta de la mucosa periimplantaria a periodos iniciales y prolongados de exposición a la placa bacteriana. Cursa con sangrado al sondaje por el odontólogo y tiene un valor predictivo negativo para la progresión de la enfermedad. Su ausencia indica una estabilidad de los tejidos periodontales.
+
+
+-- PERIIMPLANTITIS
+
+Proceso inflamatorio destructivo alrededor de un implante osteointegrado que conduce a la formación de una bolsa periimplante y a la destrucción del hueso circundante, desencadenado por la formación de biofilm en la superficie del implante. Ocurre en el 16% de los implantes y en el 26% de los pacientes. Cursa con dolor, inflamación y a veces supuración. Es muy característico el sangrado durante el sondaje realizado por el profesional para medir la profundidad de la bolsa periimplante. En la radiografía se aprecia pérdida ósea periimplante.Figura 2
+
+
+-- ABSCESOS PERIODONTALES
+
+Infección purulenta localizada en los tejidos periodontales. Pueden ser causados por necrosis pulpar, por infecciones periodontales, por pericoronaritis, por un trauma o por cirugía. Son una causa frecuente de consulta urgente. Según su origen, los clasificamos en:-Absceso gingival : doloroso, localizado en la encía marginal e interdental, generalmente asociado al impacto de cuerpos extraños.Figura 3-Absceso periapical o dentoaveolar: afecta a los tejidos circundantes a la raíz dental tras la afectación pulpar originada por una caries. Puede cursar con exudado purulento. Se caracteriza por dolor intenso, constante y a la percusión de la pieza dental afectada dolorosa. Es característica la sensación de «diente largo» (el paciente refiere que el diente le ha crecido).-Absceso periodontal: al alcanzar la pared gingival de una bolsa profunda periodontal. Puede cursar de forma aguda o cronificarse. Puede ser asintomático si drena espontáneamente.-Absceso pericoronal: sobre la mucosa que cubre un diente parcialmente erupcionado.
+
+
+-- CELULITIS ODONTOGÉNICA
+
+Afectación de los espacios cervicofaciales por extensión de un absceso odontogénico, con afectación del estado general y fiebre. La clínica dependerá de los espacios afectados e implica la derivación para tratamiento hospitalario.
+
+
+- PREVENCIÓN DE LAS INFECCIONES ODONTOGÉNICAS
+
+La salud bucodental es esencial para la salud general y la calidad de vida. La mayoría de las infecciones odontogénicas pueden prevenirse en gran medida con una buena higiene oral y teniendo en cuenta otros factores que se enumeran a continuación.
+
+
+-- HIGIENE DENTAL
+
+La deficiente higiene es el primer factor de riesgo de enfermedad odontológica. Podemos controlar la progresión del biofilm mediante procedimientos mecánicos como el cepillado dental, y mediante procedimientos químicos como el uso de colutorios.
+El cepillado a diario de forma correcta elimina el 50% de la placa. Al asociarle el uso de hilo dental, la placa se reduce hasta un 70%. Cepillos interproximales e irrigadores completan y mejoran la limpieza, ya que las zonas interdentales representan un 40% de la superficie dental. Todas estas prácticas realizadas a diario tienen como objetivo reducir la carga bacteriana y evitar su progresión hacia una placa dental calcificada, también denominada sarro o tártaro dental.
+Los tratamientos preventivos realizados por profesionales logran eliminar más cantidad de placa y sarro. La aplicación de barniz o geles de flúor en la prevención de la caries en adultos tiene menos evidencia que en niños y adolescentes. La aplicación de sellados dentales ha demostrado prevenir la caries hasta en un 80% de los niños y adolescentes.
+El control químico de la placa mediante el uso de fluoruros es la medida con mayor evidencia para evitar tanto la aparición como la progresión de la caries.
+La clorhexidina a bajas concentraciones se indica en pacientes con periodontitis o periimplantitis.
+
+
+-- TABACO
+
+Fumar es el segundo factor de riesgo mayor para la enfermedad periodontal. La nicotina favorece la formación del biofilm y el posterior desarrollo de enfermedad periodontal. Se asocia con menor sangrado gingival, por la acción vasoconstrictora de la nicotina, lo que dificulta el diagnóstico precoz.
+
+
+-- DIETA
+
+Hemos de potenciar una dieta que evite las sustancias cariogénicas (azúcares) y los depósitos interdentales favorecidos con las dietas blandas.
+Sustancias como el xilitol, un alcohol natural del azúcar, administrado en forma de jarabe o en gomas de mascar, ha demostrado efectividad clínica significativa en la prevención de caries, como resultado de reducir los mecanismos de adhesión bacteriana de la biopelícula.
+
+
+-- FÁRMACOS
+
+Se deben tener en cuenta los medicamentos que producen una disminución en la cantidad y calidad de la saliva, así como los que alteran la mucosa gingival (corticoides y AINE, ciertos antihipertensivos, antiepilépticos, inmunosupresores, anticonceptivos orales, etc.), dificultando la higiene y facilitando la enfermedad periodontal.
+Los bifosfonatos, y los fármacos antiplaquetarios pueden desencadenar efectos adversos severos tras extracciones o técnicas odontológicas invasivas.
+
+
+-- MALPOSICIONES DENTALES
+
+Tanto de dientes naturales como protésicos. Dificultan la correcta higiene.
+
+
+-- BRUXISMO
+
+Provoca un desgaste acelerado del esmalte dental, lo que debilita al diente. No se ha encontrado relación con la periodontitis ni con la supervivencia de los implantes osteointegrados.
+
+
+-- EMBARAZO
+
+Los cambios fisiológicos y hormonales que ocurren durante el embarazo contribuyen a padecer gingivitis y periodontitis. Hay cambios en la composición de la saliva y puede aparecer xerostomía. La gingivitis es más frecuente en el segundo y tercer trimestres, pero desaparece tras el parto. Asociada a la gingivitis puede aparecer una tumoración benigna de rápido crecimiento y que también desaparece tras el parto. La hiperemesis gravídica expone al esmalte dental a mayor erosión. Las ingestas más frecuentes han de ser seguidas de correcta higiene oral.
+
+
+-- ENFERMEDADES SISTÉMICAS
+
+Existe evidencia de relación entre algunas enfermedades sistémicas y la periodontitis, considerándose esta como manifestación de ciertas patologías sistémicas, entre ellas las leucemias y el síndrome de Down.
+
+
+-- ENFERMEDADES CRÓNICAS
+
+Existe alguna evidencia sobre la relación las infecciones odontogénicas y ciertas enfermedades crónicas: enfermedades de base inmunológica, alergias alimentarias, Alzheimer, síndrome metabólico, ateroesclerosis y ciertas enfermedades cardiovasculares. Parece que hay consenso en que no existe una forma especial de periodontitis en pacientes con diabetes mellitus tipo 1 (DM1), si no que la DM1 actúa como factor modificador de la enfermedad periodontal, sobre todo cuando coexiste con mal control metabólico. La evolución y las complicaciones de los implantes en DM1 bien controlada son similares a las de las personas sanas.
+
+
+-- BASE FAMILIAR Y GENÉTICA
+
+Se considera que hay suficiente base científica a favor de la presencia de factores genéticos y la aparición de periodontitis agresiva, no así en la periodontitis crónica.
+
+
+- TRATAMIENTO DE LA INFECCIÓN ODONTOGÉNICA
+
+Hemos visto que a día de hoy se precisa un nuevo enfoque en el tratamiento de las infecciones odontogénicas con predominio de medidas físicas o químicas que impidan la formación, reduzcan o eliminen el biofilm o placa dental tanto de los dientes naturales como de los implantes, más allá del tratamiento actual con antibióticos.
+
+
+-- COLUTORIOS
+
+Se indican en la gingivitis y la periodontitis durante un corto periodo de tiempo. Los de clorhexidina son los de primera elección (poseen la mayor evidencia sin que se hayan encontrado diferencias en cuanto a efectividad con las distintas concentraciones comercializadas), y los de aceites esenciales serían la alternativa. Los de fluoruro tienen indicación para prevenir las caries y evitar su progresión.
+
+
+-- ANTIBIÓTICOS SISTÉMICOS
+
+Son la tercera causa de consumo de antibióticos en España, generando un 10% de las prescripciones de antibióticos.
+Actualmente su uso como terapia adjunta al tratamiento odontológico solo se indica cuando el riesgo de diseminación microbiológica regional, a distancia o sistémica sea significativo (celulitis/flemón, adenopatías regionales, inflamación difusa con afectación del estado general y fiebre) y en pacientes inmunocomprometidos.
+No existen criterios establecidos sólidos sobre qué antimicrobiano usar y las recomendaciones proceden de consensos de expertos, . La elección del antimicrobiano debe estar dirigida a la restauración del equilibrio ecológico de la cavidad oral y minimizar la emergencia de cepas resistentes. Actualmente el antibiótico de elección en nuestro ámbito es la amoxicilina.
+Quedan muchos aspectos por investigar. ¿Cuál es la dosis óptima? ¿Cuál es la duración del tratamiento? ¿Quiénes se van a beneficiar de la antibioterapia? ¿En qué momento del desbridamiento se deben administrar para tener el mejor resultado?, etc.
+En la afectación de la zona apical, la descompresión y el drenaje por el especialista suelen ser curativos, con alivio sintomático, y si se circunscribe únicamente al diente, no precisa antibioterapia. La exodoncia estará indicada cuando no exista la posibilidad de tratamiento odontológico conservador.
+Empiezan a publicarse estudios que demuestran un cierto beneficio de asociar antibioterapia sistémica al tratamiento odontológico en la periodontitis crónica, aunque ninguno de ellos ha reducido el número de piezas dentarias perdidas.
+En las Tabla 1, Tabla 2 se muestran las recomendaciones respecto al tratamiento antibiótico. Se recomienda una duración del tratamiento antimicrobiano de 5 días o prolongarlo 3 días tras desaparecer la clínica.
+Para finalizar, en la tabla 3 pueden verse los criterios de derivación hospitalaria.
+
+
+-- ¿A QUIÉN DEBEMOS RECOMENDAR PROFILAXIS ANTIBIÓTICA
+
+Para recomendar profilaxis antibiótica ante un procedimiento dental, debemos valorar el tipo de procedimiento y las características del paciente.
+La cirugía bucal no complicada tiene un bajo riesgo de infección. Los factores que pueden incrementar dicho riesgo son: el tiempo de intervención, si la cirugía es invasiva, si ha habido una infección previa o si se coloca un cuerpo extraño. Los procedimientos no invasivos no requieren profilaxis en ningún caso, mientras que en los invasivos dependerá del tipo de procedimiento y de su duración. En personas sanas solo se recomienda la profilaxis en caso de manipulación del tejido gingival, de la mucosa oral o de la región periapical (extracción dentaria con cirugía, cirugía periapical, cirugía ósea, cirugía implantológica, injertos óseos y cirugía de tumores benignos).
+La profilaxis se recomienda de forma rutinaria en pacientes con elevado riesgo de infección como los afectados por patologías que comporten una situación de inmunocompromiso: DM1; artropatías y enfermedades gastrointestinales inflamatorias; asplenia anatómica o funcional; insuficiencia renal o hepática no controlada; inmunodepresión por enfermedad o por tratamiento; los que posean riesgo de endocarditis, y la desnutrición severa.
+Existe controversia respecto a la profilaxis en la exodoncia del tercer molar y en los implantes en el sujeto sano. La profilaxis en la extracción del tercer molar en una persona sin comorbilidades disminuye un 70% la probabilidad de infección y un 38% la probabilidad de desarrollar una alveolitis seca, pero aumenta los efectos secundarios, por lo que no se recomienda en una persona sana. En los implantes, la evidencia sobre la profilaxis antibiótica sugiere una reducción en los fallos de implantación (aunque el grado de trauma quirúrgico y las condiciones anatómicas del paciente son factores más importantes para el fallo a corto plazo de los implantes) pero no de la infección.
+La profilaxis de la infección odontogénica en adultos se realizará con 2 g de amoxilicina una hora antes del momento de la incisión. En caso de alergias se realizará con clindamicina. No se recomienda en ningún caso profilaxis postintervención.
+
+
+- CONCLUSIONES
+
+El elevado consumo de antibióticos derivado de los procesos odontogénicos hace necesario realizar estudios con evidencia científica suficiente que protocolicen su indicación, tipo de antibiótico y posología y que sustituyan a los actuales consensos.
+Por otro lado, la consulta a su médico de familia derivada de estos procesos se convierte en una buena oportunidad para reevaluar el proceso y al enfermo, y decidir si es necesario ese antibiótico.
+En todos los casos debemos recomendar una buena higiene bucal personal y profesional.Puntos clave-La mejor prevención de las infecciones odontogénicas es una correcta higiene oral.-Los implantes dentales requieren las mismas medidas de higiene que los dientes naturales.-El tabaco es determinante en la enfermedad periodontal.-Los antibióticos NO mejoran el DOLOR dental.-La antibioterapia NUNCA debe ser el ÚNICO tratamiento.-La decisión no debe ser qué antibiótico instaurar, sino ¿PROCEDE la antibioterapia?-Ante un fracaso terapéutico con antibioterapia recomendamos primero reevaluar el diagnóstico antes que instaurar un nuevo antibiótico.-Indicar antibioterapia en pacientes inmunocomprometidos o con elevado riesgo de progresión de la afectación a los espacios aponeuróticos del cuello y tejidos circundantes.
+
+
+- FINANCIACIÓN
+
+Los autores declaran que no tienen relación económica con ninguna fuente de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen ningún conflicto de intereses.

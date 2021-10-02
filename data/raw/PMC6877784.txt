@@ -1,0 +1,84 @@
+EVALUACIÓN DE LA GESTIÓN ENFERMERA DE LA DEMANDA EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+Una resolución publicada en el Diario Oficial de la Generalitat de Catalunya (DOGC) el 8 de julio del 2013 establece de manera consensuada las directrices para el ejercicio de las actuaciones enfermeras en la gestión de la demanda, y permite que las enfermeras puedan resolver situaciones de salud sin tener que derivar a otros profesionales. En ella se define la gestión enfermera de la demanda (GED) como la respuesta que da la enfermera a un paciente que presenta un problema de salud y que precisa una resolución preferente. Se diferencia del «triaje» porque mientras que la gestión de la demanda pretende dar una solución al problema de salud planteado, el triaje se refiere a la recepción, acogida y clasificación de pacientes (RAC), que llevan a término las enfermeras y los enfermeros en los servicios de urgencias.
+Las dolencias atendidas pueden variar desde dolor de columna, molestias al orinar, hasta signos y síntomas respiratorios de vías altas.
+En el año 2005 el equipo de atención primaria de Can Bou puso en marcha una experiencia pionera de GED, y para ello se editó la Guía de intervenciones de enfermería a problemas de salud, que mostró que las enfermeras son una puerta de entrada en el sistema sanitario, con un alto poder de resolución de problemas de salud. En la guía se describen los problemas de salud según los signos y síntomas, y priorizado a partir de una selección de los problemas más frecuentes. En el año 2012 se ha realizado una segunda edición revisada y actualizada. La guía se elaboró de forma consensuada por un grupo de trabajo interdisciplinar y avalada por todo el equipo de salud del centro.
+El objetivo del estudio es evaluar los resultados de la GED de los pacientes no programados en el centro de atención primaria, siguiendo el circuito y la reciente guía clínica diseñada y consensuada.
+
+
+- MÉTODOS
+
+-- DISEÑO
+
+Estudio descriptivo transversal.
+
+
+-- EMPLAZAMIENTO
+
+Equipo de atención primara «Can Bou», que atiende a una población de 27.000 habitantes en el área de Castelldefels, Barcelona.
+
+
+-- PERÍODO DE ESTUDIO
+
+Pacientes atendidos entre el 1 mayo de 2011 y el 31 enero de 2012.
+
+
+-- TAMAÑO DE LA MUESTRA
+
+Aceptando un riesgo alfa de 0,95 para una precisión de ±0,04 unidades en un contraste bilateral para una resolución de los problemas por parte de la enfermera del 64%, se precisa una muestra aleatoria poblacional de 554 sujetos (cálculos realizados con el programa GRANMO versión 7.11).
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Durante el periodo incluido, en el centro se atendieron 41.037 visitas, 21.167 fueron visitas espontáneas (no programadas), de las cuales 10.832 fueron atendidas por las enfermeras, ya que presentaban un problema de salud agudo. De estas visitas se seleccionaron de forma aleatoria 1.000, de las cuales 558 visitas correspondían a los 13 problemas de salud agudos más prevalentes atendidos en la GED: diarrea y vómitos, dolor de muelas, síntomas respiratorios de vías altas, lumbalgia, dolor de garganta, heridas y quemaduras, contusiones, molestias al orinar, ansiedad, anticoncepción de urgencia, reacciones alérgicas y elevación de la presión arterial.
+Se extrajo un listado del programa de agendas utilizado en el centro (SISAP), de las visitas realizadas en el período de estudio, y se realizó la aleatorización por muestro simple, utilizando la fórmula aleatoria de Excel.
+
+
+-- VARIABLES DE ESTUDIO
+
+Motivo de consulta, edad, sexo, intervenciones realizadas, indicación farmacológica, derivación hospitalaria (sí/no), concordancia con el triaje administrativo (sí/no), tiempo de espera y resultados obtenidos. Durante la aplicación de la guía se distinguieron 4 resultados posibles: a) resolución del problema de salud sin consulta con otro profesional ni realización de una derivación fuera de lo establecido por los protocolos; b) derivación del paciente a otro centro para visita o realización de una prueba complementaria; c) consulta con otro profesional y resolución del problema; y d) derivación al médico de guardia del centro. Se consideró resolución del problema de salud por parte de la enfermera en las 3 primeras opciones. También se determinó si se habían producido visitas por el mismo problema de salud en un plazo de 72 h en el mismo centro de atención primaria, urgencias hospitalarias o centro de urgencias de atención primaria (CUAP) analizando aquellos casos en los que el paciente efectuó una nueva visita por falta de mejoría, dudas sobre el tratamiento o por otros motivos.
+Se evaluó la satisfacción con la atención recibida mediante un cuestionario, a una muestra de 246 pacientes, a los 15 días de ser atendidos por la enfermera por los problemas de salud descritos.
+Las variables del estudio se obtuvieron de forma global y anonimizada a partir del registro del centro, garantizando la confidencialidad de los datos de todos los participantes en el estudio conforme lo que dispone la Ley orgánica de Protección de Datos de Carácter Personal (15/1999 del 13 de diciembre).
+
+
+-- DESCRIPCIÓN DE LA INTERVENCIÓN
+
+La guía desarrollada describe 23 problemas de salud de posible resolución autónoma por parte de la enfermera, y 18 de posible intervención de urgencia, con una resolución compartida con el médico . En este estudio se han valorado 13 problemas de salud de posible resolución autónoma que coinciden con una mayor prevalencia con otros estudios similares, , . En la guía se especifica, para cada problema de salud, la anamnesis, valoración, intervenciones a seguir y los motivos de derivación a otro profesional. También contiene las pruebas complementarias que deben solicitarse según el motivo de consulta y los fármacos indicados.Figura 1
+El administrativo sanitario recibe al usuario que pide ser atendido de forma preferente y lo clasifica según el problema de salud, y es programado en una agenda creada para este fin.
+Todos los pacientes son informados de que serán atendidos por una enfermera, así mismo, todo el personal sanitario presenta las identificaciones con el nombre y profesión, y en el área donde los pacientes son atendidos por estos problemas de salud existe un cartel: «Gestión enfermera de la demanda». Desde el inicio de la instauración de este circuito, año 2007, hasta la actualidad solamente 3 pacientes han solicitado ser visitados por el médico después de ofrecerles ser visitados por la enfermera.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cuantitativas se describen mediante media y desviación estándar y las variables cualitativas mediante porcentajes. Las características basales cuantitativas se comparan mediante la prueba «t» de Student. Para las variables cualitativas se utiliza la prueba de la Chi-cuadrado de Pearson. Para determinar la concordancia entre la clasificación del motivo de salud realizada por el administrativo y la enfermera se calculó el índice de Kappa. En todos los cálculos se aceptó como nivel de significación un valor inferior a 0,05. El análisis se realizó con el paquete estadístico SPSS 19.0.
+Esquema general del estudio: Estudio descriptivo transversal para evaluar la gestión enfermera de la demanda de pacientes no programados en atención primaria. 
+
+
+- RESULTADOS
+
+Se estudiaron 558 visitas espontáneas para atención de la enfermera que pertenecían a las enfermedades estudiadas. La edad media de los pacientes atendidos fue de 42,5 (DE: 17,7) años y el 67,4% fueron mujeres. En el 73,3% de los casos se produjo la resolución del problema de salud por parte de la enfermera . El problema de salud que se atendió más frecuentemente fueron síntomas respiratorios de vías altas (19,4%), seguido de diarreas y vómitos (16,5). Los problemas que resuelven más frecuentemente de forma autónoma las enfermeras son la anticoncepción de urgencias (90%), el dolor de muelas (85,7%), el dolor de garganta (83,%) y las heridas/quemaduras (82,9%).
+Entre las intervenciones realizadas por la enfermera el 65,8% de los pacientes atendidos recibieron consejos de salud y en un 51% de los casos se les realizó una indicación farmacológica . Los fármacos más indicados fueron los analgésicos y antiinflamatorios (56%), seguido de los antibióticos (13%). El analgésico o antiinflamatorio más indicado fue el ibuprofeno (48%), seguido del paracetamol (32%). El antibiótico más indicado fue la amoxicilina (41% de los casos).Figura 2
+Un 10,9% (59) de pacientes atendidos volvieron al centro dentro de las 72 h posteriores a la visita, 14 pacientes acudieron al hospital y 3 requirieron ingreso hospitalario. El porcentaje más elevado de visitas por el mismo problema de salud en el centro de atención primaria fue en el grupo que realizó consulta + derivación, con 28,6% de visitas en los centros de atención primaria (p < 0,001) . El índice de Kappa obtenido para evaluar la concordancia entre la clasificación que realiza el administrativo y la realizada por la enfermera fue de 0,86, y el tiempo medio de espera para ser atendido fue de 9,11 min.
+Respecto a la satisfacción por la atención recibida el 87,2% contestó entre bien-muy bien a la pregunta de cómo solucionamos el problema de salud, el 61,4% de los pacientes refirió que le era indiferente ser visitado por la enfermera o el médico y la valoración global de la atención (1-10), siendo el 1 mala valoración y el 10 una buena valoración, fue del 8,43.
+
+
+- DISCUSIÓN
+
+Los resultados del presente estudio muestran que el modelo de GED resuelve la mayoría de problemas de salud agudos atendidos en la atención primaria. La capacidad de resolución de la enfermera depende del tipo de consulta. La enfermera resuelve de forma autónoma y con mayor frecuencia la anticoncepción de urgencias, dolor de garganta y de muelas, heridas/quemaduras, y es menos resolutiva en las reacciones alérgicas, síntomas respiratorios de vías altas y elevaciones de la presión arterial. Se observó que la actuación más realizada por las enfermeras era dar consejos de salud y, tan solo a la mitad de los pacientes se les indicaba medicamentos, siendo el grupo de analgésicos y antiinflamatorios los fármacos más frecuentemente indicados. Los resultados son similares a los que se obtuvieron en un estudio previo en el que se evaluó la primera edición de la guía donde la resolución fue del 80%. La diferencia en el porcentaje de resolución con el estudio anterior se atribuye al aumento de situaciones de salud estudiadas.
+Un reciente ensayo clínico aleatorizado controlado, realizado en diversos equipos de atención primaria de Cataluña, mostró una resolución del 86% con un alto nivel de satisfacción de los usuarios, comparable al de las visitas resueltas por el médico. Otro estudio descriptivo realizado en nuestro medio presentó una resolución por parte de la enfermera del 70%, y un estudio prospectivo observó que el número de casos resueltos por las enfermeras se incrementó a lo largo del seguimiento, disminuyendo el número de revisitas desde el inicio hasta el final del seguimiento. Diversos estudios anglosajones demuestran el papel fundamental de la enfermera en el abordaje de problemas agudos de salud, e indican, en relación con las visitas médicas, un alto nivel de satisfacción de los usuarios, visitas más largas, dan más información, realizan más intervenciones de educación sanitaria e indican menos medicamentos que los médicos, , , .
+Las investigaciones disponibles en nuestro medio son bastante limitadas, y si bien el empleo de enfermeras puede disminuir los costes salariales, podría existir la posibilidad de que las enfermeras ordenen más pruebas de laboratorio y usen otros servicios, con lo cual se reduciría el ahorro de costes generado por la utilización de enfermeras en lugar de médicos. No obstante, en nuestro estudio encontramos que entre las intervenciones realizadas se solicitó un 1,1% de radiografías, siendo la prueba complementaria más solicitada una tira de orina en un 4,8% de los casos.
+Existen varias limitaciones en el estudio, en primer lugar, la información sobre las visitas por el mismo problema de salud se obtuvo a través de la historia clínica compartida informatizada, por lo que no se pudo obtener datos si el paciente había acudido a un centro de salud u hospitalario fuera de Cataluña para recibir una nueva asistencia. En segundo lugar, la naturaleza transversal del estudio no permite determinar los efectos de la atención a largo plazo, por lo que serán necesarios más estudios prospectivos, así como ensayos clínicos aleatorizados.
+La elaboración de la Guía y el plan de formación específico permitieron construir un perfil resolutivo a nivel de excelencia de modo homogéneo para todo el equipo de enfermería. En nuestro modelo es esencial la incorporación e implicación del personal administrativo sanitario en el circuito asistencial, con una alta concordancia con la clasificación que realiza el administrativo y el problema real de salud. Esta estrategia ha potenciado la figura del administrativo sanitario como puerta de entrada de la demanda espontánea, lo que implica cambios importantes a nivel organizativo y redistribución de roles profesionales. En este sentido, existen autores y gestores que ya proclaman la necesidad de cambios importantes en la organización de nuestros equipos, que incluye una redistribución más racional de tareas, con participación más activa de las enfermeras y del área de atención al cliente, , , . Es preciso diversificar la oferta asistencial propiciando la prestación de los servicios por el profesional más adecuado, incluido personal administrativo, enfermería y médicos de familia que, a su vez, podrían asumir el control de algunos procesos que actualmente se derivan al segundo nivel, o dedicarse a otras actividades que no se pueden asumir por falta de tiempo, como la investigación, docencia y formación, .
+Un estudio previo realizado en nuestro medio mostró que una de cada 5 consultas realizadas es por motivos no médicos, que agrupan los síntomas menores y procesos autolimitados, de las cuales un 60% no requieren ser realizadas por un médico. Un modelo de atención excesivamente intervencionista refuerza la percepción de los ciudadanos de haber actuado correctamente cuando acuden al médico por procesos banales. La evidencia muestra que una atención no medicalizadora obtiene los mismos resultados clínicos, reduciendo por otro lado los efectos secundarios y con una elevada satisfacción. Las enfermeras, por su perfil profesional y por su rol basado en los cuidados, están bien posicionadas para atender estos motivos de consulta.
+La implantación normalizada de la GED a los centros de salud quedará reforzada por los estudios de grado y el desarrollo de la especialidad de enfermería familiar y comunitaria, que en ambos aumentan la formación en GED, .
+Por otra parte, el desarrollo del Real Decreto de la Ley 28/2009, de 30 de diciembre, sobre garantías y uso racional de los medicamentos y productos sanitarios, permitirá prescribir de forma autónoma a las enfermeras, aumentando la resolución por parte de la enfermera. Podemos afirmar que la enfermera se consolida como una puerta de entrada normalizada al sistema de salud con una resolución autónoma del 74% de los problemas de salud estudiados.
+Como líneas de futuro la elaboración de la Guía de intervenciones de enfermería en la infancia y la Guía de intervenciones de enfermería en el CUAP, recientemente editadas siguiendo el mismo modelo, ayudarán a desarrollar las competencias y a aumentar la resolución por parte de las enfermeras, aunque siguen siendo necesarios estudios que evalúen el coste-efectividad de estas intervenciones.
+En conclusión, la aplicación de la GED ha demostrado presentar una alta resolución de las enfermedades atendidas, aportando, a la vez, un porcentaje elevado de consejos de salud y de educación sanitaria en las visitas atendidas. Paralelamente, el desarrollo de este modelo ha contribuido al aumento de coordinación y trabajo en equipo entre los distintos profesionales del centro de salud, incorporando al administrativo sanitario en el circuito asistencial.Lo conocido sobre el tema•Las enfermeras son una puerta de entrada al sistema sanitario.•Una primera edición de laGuía de intervenciones de enfermería a problemas de salud sirvió de primera experiencia para la gestión de la demanda enfermera.Qué aporta este estudio•El modelo de gestión enfermera de la demanda permite una alta resolución de los problemas de salud de forma autónoma por la enfermera con una elevada satisfacción de los usuarios.•La actuación más frecuentemente realizada ha sido ofrecer consejos de salud y educación sanitaria.•Se han indicado fármacos en la mitad de los casos. Los utilizados con mayor frecuencia han sido los analgésicos, seguidos de los antibióticos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

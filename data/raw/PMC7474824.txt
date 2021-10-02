@@ -1,0 +1,24 @@
+PRESENCIA DE ANTICUERPOS ANTIFOSFOLÍPIDOS IGA EN PACIENTES CON LESIONES PERNIÓTICAS ASOCIADAS A COVID-19
+
+
+Sr. Director:
+En el mes de abril, y por la información en los medios de posible asociación de lesiones cutáneas y SARS-CoV-2, nos han consultado por una gran cantidad de lesiones acrales purpúricas autolimitadas.
+Se abren numerosos campos de estudio en los que el laboratorio debe jugar un papel fundamental y las manifestaciones cutáneas pueden explicar en muchos ámbitos el comportamiento diferente del virus en los organismos, tanto en el diagnóstico, como en el seguimiento de la enfermedad. Creemos que en la fase inicial de la infección, la mucosa puede jugar un papel fundamental con anticuerpos IgA.
+Hemos revisado retrospectivamente 11 pacientes con lesiones pernioticas, estudiados en el Hospital de Almansa (Albacete, España) (fig. 1 ), alguno de ellos había tenido manifestaciones clínicas relacionadas con SARS-CoV-2 hasta dos semanas antes de la aparición de las lesiones cutáneas, las edades entre dos y 40 años. Las lesiones eran pápulas y máculas purpúricas eritematosas acrales, , con edema acompañante, en ocasiones evolucionando a ampollas, vesículas, pseudopústulas y costras (fig. 2 ).Figura 1Figura 2
+Solicitamos: Hemograma, hepático, Ferritina, ANA, anticoagulante lúpico, inmunoglobulinas, IgA, IgG e IgM anticardiolipina, . Antiglucoproteínas, complemento C3 y C4, Test de inmunocromatografía lateral «COVID-19 IgG/IgM Rapid Test Cassette» de Zhenjiang Orient Gene Biotech Co., Ltd.*
+La PCR n Cov2019 (ex nasofaríngeo), se realizó sólo en dos, por presentar clínica activa y fue positiva en uno, y la prueba rápida para anticuerpos IgM / IgG*, realizada en todos, sólo positiva en tres de ellos, uno con clínica activa (PCR+), y otros dos asintomáticos, que habían presentado un cuadro de infección durante dos semanas autolimitado, al final de las cuales mostraron la perniosis. Las pruebas de laboratorio, revelaron disminución de complemento C3 en cinco pacientes y elevación de IgA anticardiolipina en todos estos, aunque discretamente elevados no se consideran positivos por los parámetros marcados por el laboratorio externo.
+Analizando las similitudes de la infección SARS CoV-2, con los síndromes dermatológicos donde intervienen los autoanticuerpos se puede concluir:
+Papel de los anticuerpos IgA neutralizantes en la resolución de la infección, sobre todo de los pacientes con síntomas leves, ya que el virus SARS-CoV-2 afecta en las primeras etapas de la infección a las mucosas respiratorias, este análisis puede abrir estrategias diagnósticas y terapéuticas tempranas.
+El documento de interpretación de las pruebas diagnósticas frente a SARS-CoV-2 del 24 de abril del Ministerio de Sanidad, distingue cuatro fases:1.Presintomática (PCR+).2.Fase inicial (de uno a siete días). La PCR+, y pueden ser positivos los anticuerpos IgA/IgM. Son infectivos tanto los sintomáticos como los asintomáticos.3.2ª fase (de ocho a 14 días). La IgA se negativiza y la PCR puede negativizarse. La IgM es positiva y la IgG puede serlo. En esta fase la infección suele estar resuelta, riesgo mínimo de infección, en los asintomáticos y leves.4.3ª fase (> 15 días). La PCR puede ser positiva y hay aumento de anticuerpos IgG e IgM. La infección está pasada en asintomáticos y leves. Hasta los 50 días no se considera resuelta en los pacientes graves.
+En nuestros pacientes, las pruebas de anticuerpos anticardiolipinas se realizan tras cuatro a ocho semanas de iniciar la clínica cutánea, por las dificultades del momento.
+Como conclusión, la presencia de anticuerpos antifosfolípidos, ya sea en el contexto de un lupus eritematoso sistémico o de un síndrome antifosfolípido primario, se ha asociado al desarrollo de perniosis. En este caso sería síndrome antifosfolipídico secundario a la infección por coronavirus u otro virus de forma aguda y transitoria. Este sorprendente cuadro clínico es atípico por tener una clara relación con una infección en los días previos, y no con temperaturas frías extremas y aunque tiene una relación temporal con la pandemia, en ninguno de los pacientes, excepto en tres hay evidencia demostrable de infección por SARS-CoV-2. Aumentos transitorios de inmunoglobulinas, de ahí la importancia de hacer las analíticas en la fase inicial, fase más infectiva, la generación de micro partículas (fosfolípidos, glicoproteínas) que generen anticuerpos/autoanticuerpos que si son IgA, desaparecen con rapidez.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

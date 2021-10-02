@@ -1,0 +1,5 @@
+Durante el periodo de años 2010 a 2016 hubo 726 946 nacidos vivos (NV) y fallecieron 7 681 niños menores de 1 año, con un aseguramiento del 94,7% de los cuales el 75% pertenecen al regimen contributivo. La tasa de mortalidad infantil disminuyó siendo 9,11 en el año 2016, pero aumentó en las localidades Tunjuelito, Antonio Nariño y Ciudad Bolivar siendo >12 por mil NV.
+Los servicios de salud tienen una distribución inetquitativa con un GINI de 0,44 para PSUP y de 0,701 para RCAM. Existe una correlación con mortalidad infantil en las localidades con menor RSUP tiene un r(-0,340) y para PCAM un r(-0,648) en el año 2016.
+Describir la relación entre la disponibilidad de servicios de salud y la mortalidad infantil en Bogotá.
+Se tomaron los datos de tasa mortalidad infantil (TMI) y razón de camas de hospitalización pediatricas (RCAM) y centros de servicios urgencias por localidad (RSUP) para los años 2010-2016, se estimo un GINI de distribución y un coeficiente de correlación de Pearson (r) entre las variables.
+

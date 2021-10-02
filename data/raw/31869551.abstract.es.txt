@@ -1,0 +1,5 @@
+Con información de la Encuesta Nacional de Salud y Nutrición 100k (Ensanut 100k), se obtuvieron dos modelos de regresión logística: no realizar las cinco acciones básicas en la última consulta médica y no realizar acciones prioritarias de autocuidado.
+Caracterizar la atención médica y las acciones de autocuidado en población con diabetes, en localidades de menos de 100 000 habitantes.
+Tener baja escolaridad, pertenecer al estrato económico bajo y hablar lengua indígena incrementan las posibilidades de no realizar acciones de autocuidado. Por el contrario, al incrementarse la edad, se disminuyen las posibilida- des de autocuidado en 3%. Pertenecer a un hogar indígena y al tercil bajo incrementan las posibilidades de que el personal de salud no realice las cinco acciones básicas durante la consulta.
+Es indispensable que se establezca un programa de control de diabetes que incluya educación a pacientes y cursos de actualización al personal médico.
+

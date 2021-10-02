@@ -1,0 +1,22 @@
+INCORPORACIÓN DE LOS ANTICOAGULANTES DE ACCIÓN DIRECTA AL ARSENAL TERAPÉUTICO DISPONIBLE: ¿PROGRESA ADECUADAMENTE
+
+
+Sr. Editor:
+La anticoagulación oral se ha realizado tradicionalmente con fármacos antagonistas de la vitamina K (AVK), acenocumarol y warfarina. Su principal indicación es la prevención del ictus asociado a la fibrilación auricular, habiendo demostrado una gran efectividad en la reducción de la morbimortalidad asociada. La limitación de estos fármacos es que presentan una ventana terapéutica estrecha, además de interacciones frecuentes que obligan a monitorizar a los pacientes mediante el control del international normalized ratio (INR).
+Los anticoagulantes de acción directa (ACOD), tanto inhibidores directos de la trombina (dabigatrán) como inhibidores directos del factor Xa (rivaroxabán, apixabán y edoxabán), han demostrado ser al menos tan eficaces como los AVK pero con un mejor perfil de seguridad, por lo que las guías europeas recomiendan su utilización. Su principal ventaja se centra en un amplio margen terapéutico, haciendo innecesarios los controles sistemáticos que requieren los AVK, pero su gran inconveniente es el importante incremento del coste del tratamiento anticoagulante, aunque estudios internacionales justifican su coste-efectividad.
+En la actualidad se recomienda reservar los ACOD para situaciones específicas, como pacientes en tratamiento con AVK con mal control de INR a pesar del buen cumplimiento terapéutico, lo que se situaría en alrededor del 40% de los pacientes tratados con AVK.
+Con la intención de conocer la evolución del perfil de prescripción de anticoagulantes orales (ACO) y el impacto económico de la aparición de los ACOD en el Área VII de Salud de Murcia, que atiende a unos 200.000 habitantes, se planteó un estudio de utilización desde la comercialización del primer ACOD (2011) hasta el año 2017. Se obtuvieron los datos de consumo de ACO a partir de los registros de dispensación por receta de las farmacias comunitarias, analizando el consumo para los diferentes principios activos y también en función del tipo de ACO (AVK o ACOD). El consumo se expresó en DHD (número de dosis diarias definidas por 1.000 habitantes/día). El coste se calculó en base al precio de facturación.
+Durante los 7 años de estudio se efectuaron 200.825 dispensaciones de ACO a un total de 6.913 pacientes. El 50,8% fueron mujeres, y la media de edad fue de 77,52 ± 13,18 años. El análisis de la evolución de consumo de ACO se muestra en la figura 1, en la que se puede observar un incremento en el consumo de todos los fármacos, excepto en el acenocumarol. Por tipo de ACO, se detecta un discreto incremento en el consumo de AVK, debido a la warfarina, y un aumento muy marcado en el consumo de ACOD (desde 0,04 DHD en 2011 a 3,35 DHD en 2017).Figura 1
+De forma paralela al aumento de la prescripción de ACOD se produce un importante incremento en el gasto. El importe de la factura de ACOD a lo largo del estudio fue de 2.888.423 euros, frente a 429.989 euros de los AVK. El coste por paciente anticoagulado/año ha ido aumentando de 24,2 euros en 2011 hasta 223,1 en 2017, lo que ha supuesto un incremento del 821,9%.
+El presente estudio ha demostrado el importante impacto de la aparición de los ACOD en la anticoagulación oral. En nuestra área están desplazando gradualmente a los AVK, ocupando actualmente un 36,8% del consumo, con un 92,8% del gasto. Una de las limitaciones del estudio ha sido no determinar el coste asociado a la monitorización del INR en los pacientes tratados con AVK.
+Desde nuestro punto de vista, es urgente realizar estudios de eficacia y seguridad, de manera que las regulaciones de uso y el cumplimiento de objetivos de gestión no impidan el tratamiento óptimo para la población que precisa anticoagulación.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

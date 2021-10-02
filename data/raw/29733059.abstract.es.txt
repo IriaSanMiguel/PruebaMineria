@@ -1,0 +1,6 @@
+Se realizó subcultivo de fibroblastos del ligamento periodontal con una densidad de 1:2 (3 × 10<sup>5</sup> células/mL), que fueron incubados por 48 horas. Se integraron dos grupos de células, que se colocaron en leche y solución isotónica durante 24 horas a 5 % de CO<sub>2</sub>, a 37°C y 95 % de humedad. El número de células viables fue determinado por colorimetría rápida por reducción de MTT y actividad mitocondrial. Los datos fueron sometidos a pruebas de normalidad de Shapiro-Wilk, t de Student y t de Student pareada (significación de 0.05).
+Las células expuestas a la leche por 24 horas mostraron citotoxicidad estadísticamente significativa a concentraciones de 0.09, 0.39, 0.78, 1.56, 3.125, 6.25 y 50 %. Los HPLF expuestos a solución isotónica no mostraron reducción significativa del número de células a concentraciones de 25 y 50 %.
+La solución isotónica parece mejor para el almacenamiento de HPLF en 24 horas, comparada con la leche entera.
+Comparar el efecto citotóxico para conservar los HPLF de la leche y la solución isotónica para almacenamiento de dientes avulsionados.
+El medio de almacenamiento de los dientes avulsionados hasta su reimplante es vital para conservar los fibroblastos del ligamento periodontal humano (HPLF).
+

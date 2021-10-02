@@ -1,0 +1,18 @@
+RETENCIÓN EN LOS PRIMEROS MESES DESPUÉS DE UN CURSO DE LAS HABILIDADES EN SOPORTE VITAL BÁSICO
+
+
+Las guías internacionales del European Resuscitation Council (ERC) y la American Heart Association (AHA) están basadas en las investigaciones publicadas en los 5 años anteriores, y sostienen que los conocimientos y habilidades en soporte vital básico (SVB) y desfibrilación externa automática (DEA) se deterioran al cabo de unos meses de su entrenamiento, y que los beneficios de las estrategias de reentrenamiento, aun no conociendo los intervalos óptimos, radica en formaciones muy cortas y frecuentes.
+El objetivo principal de nuestro estudio fue encontrar el punto de inflexión en el que las habilidades técnicas en SVB/DEA se deterioran de tal manera que el rescatador deja de ser competente para la realización de una reanimación cardiopulmonar (RCP) de calidad y recomendar un reciclaje.
+Para ello se realizó un estudio analítico longitudinal. La muestra estaba compuesta por alumnos de primer curso de la Facultad de Medicina y Ciencias de la Salud de una universidad española del año académico 2019-2020. Inmediatamente después de recibir una formación acreditada de 6 h según las directrices del ERC, se evaluaron las habilidades prácticas de los alumnos (puntuación control) tras un caso simulado durante 2 min de RCP mediante el maniquí QCPR de Laerdal®. Posteriormente se realizaron, sin previo aviso y de forma no aleatorizada, nuevas evaluaciones (puntuación retención) con idéntica metodología que en la puntuación control al primer, segundo, tercer y cuarto mes del curso de formación. El estudio fue aprobado por el comité de ética y los alumnos firmaron el consentimiento informado.
+Los datos se obtuvieron a partir de la puntuación general que el maniquí inteligente ofrece tras la práctica. Estos fueron analizados con el programa estadístico SPSS® con su versión 25, utilizando el test de la t de Student para datos apareados y el ANOVA.
+Participaron en el estudio 82 estudiantes, el 79,3% fueron mujeres con una media de edad de 19,4 años.
+No hubo diferencias estadísticamente significativas (p = 0,77) entre los valores obtenidos en la puntuación control entre los grupos que fueron evaluados posteriormente cada mes .
+Los valores medios de la puntuación de habilidades se mantuvieron comparables en la evaluación a un mes y disminuyeron significativamente a partir del segundo mes.
+Aunque el deterioro de los conocimientos y habilidades en SVB/DEA en el tiempo ya se estudia hace más de 40 años, es complicado establecer un momento en el tiempo para la recertificación, necesaria, del alumnado. El ERC debe replantearse las actuales recertificaciones a los 24 meses y apostar por refrescos regulares para mantener las acreditaciones. También deben reflexionarlo las comunidades autónomas españolas que tienen delegada la competencia sanitaria y recomiendan la recertificación entre el primer y tercer año tras la formación recibida.
+En este estudio hemos podido observar que a partir del segundo mes las habilidades en RCP decaen significativamente. Igual que otros autores creemos que antes de los 3 meses es necesario la realización de un refresco para mantener las competencias en esta disciplina.
+Los refrescos orientados en «bajas dosis y alta frecuencia» como sustentan las guías, basados en metodología online y simulación pueden ser la mejor alternativa para mantener las competencias y abaratar costes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen ningún conflicto de intereses.

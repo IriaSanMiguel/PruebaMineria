@@ -1,0 +1,65 @@
+PROPIEDADES DE UNA ESCALA DE PREOCUPACIÓN POR LA COVID-19: ANÁLISIS EXPLORATORIO EN UNA MUESTRA PERUANA
+
+
+- INTRODUCCIÓN
+
+La COVID-19 es una enfermedad que ha generado preocupación en la población por su rápida propagación y letalidad, y porque la transmisión desde personas enfermas asintomáticas incrementa las posibilidades de diseminación y es difícil identificarla; por tanto, es considerada un problema de salud pública. Esta enfermedad se produce a causa de una nueva cepa de coronavirus (SARS-CoV-2) y ocasiona daños pulmonares severos, neumonía e incluso la muerte. Por eso, es necesario el establecimiento de medidas de salud pública y control de infecciones para limitar la propagación global del virus y que todas las personas con síntomas indicativos de COVID-19 se adhieran a las medidas básicas de prevención.
+Sin embargo, con el acceso a Internet, las personas pueden adquirir información verdadera o falsa y, en consecuencia, sobrestimar o subestimar la enfermedad. Además, la incertidumbre acerca del tratamiento, los síntomas y duración de la enfermedad pueden generar distintos grados de preocupación en la población.
+Si bien se menciona que la preocupación que tienen las personas por la posibilidad de enfermarse puede traer cambios en sus actitudes y conductas, no existen suficientes estudios que demuestren esta hipótesis. Tampoco se han desarrollado instrumentos de medición del grado de preocupación de las personas frente a una enfermedad, especialmente la COVID-19. Por lo tanto, es necesario desarrollar o adaptar instrumentos para evaluar la preocupación de las personas ante la posibilidad de enfermarse de COVID-19, de modo que puedan ser utilizados en nuevos estudios que proporcionen mayor conocimiento del problema y así realizar acciones que contribuyan en la salud mental de la población. El objetivo de este estudio es analizar las propiedades psicométricas de una escala unidimensional de preocupación por el COVID-19 (EPCov-19).
+
+
+- MATERIALES Y MÉTODOS
+
+-- PARTICIPANTES
+
+Este estudio es de tipo instrumental. Se recolectó información de 224 personas de nacionalidad peruana, 116 mujeres (51,7%) y 108 hombres (48,3%), las edades fluctúan entre los 16 y los 74 años (media = 32,14 [DE = 11,6]). De acuerdo con el nivel de instrucción, 22 fueron del nivel básico (9,8%), 36 del superior técnico (16,1%) y 167 tenían estudios universitarios (74,5%).
+
+
+-- PROCEDIMIENTO
+
+El estudio se desarrolló en el contexto de aislamiento social decretado por el gobierno peruano. Se elaboró un cuestionario en un formulario de Google (disponible del 13 al 22 de marzo del 2020) y a través de las redes sociales (Facebook y WhatsApp) se solicitó la participación voluntaria de las personas, quienes tuvieron acceso a la información sobre los fines de la investigación, el compromiso de respeto a su privacidad y el consentimiento informado. Solo respondieron al cuestionario quienes aceptaron participar en el estudio y aprobaron el consentimiento informado.
+
+
+-- INSTRUMENTOS
+
+La EPCov-19 contiene 6 preguntas que miden: la frecuencia en que las personas se preocupan por adquirir la COVID-19; su impacto en el humor y las actividades diarias y la preocupación de infectarse en el futuro, y la importancia que tiene la preocupación por la enfermedad en el individuo. Es una adaptación de la escala de preocupación por el cáncer (EPC), validada en una población inglesa y traducida al español. Las preguntas fueron adaptadas en tiempo y contexto por un comité de 3 expertos y solo las opciones de respuestas fueron conservadas.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se hizo un análisis descriptivo, se consideraron los coeficientes de asimetría y curtosis para la elección de la matriz de correlaciones o eliminación de ítems (> o < 1 en valor absoluto). Se evaluó la adecuación de la muestra a través de la prueba de esfericidad de Bartlett, donde un valor de p < 0,05 indicaría que la matriz es adecuada debido a las correlaciones altas entre las variables y la prueba KMO, donde un valor de 0.7 como mínimo indicaría que las correlaciones parciales entre las variables son aceptables. Se utilizó el análisis paralelo, el método de mínimos cuadrados ponderados y una rotación oblicua promin. Se calcularon índices consistentes, tales como el índice de ajuste comparativo (CFI), índice de bondad de ajuste (GFI), índice de Tucker Lewis (TLI), donde valores superiores a 0,90 indicarían un ajuste aceptable, y el error cuadrático medio de aproximación (RMSEA), que considera un ajuste aceptable con valores inferiores entre 0,5 y 0,8. Los descriptivos y las estimaciones del AF fueron realizados con el programa Factor Analysis, versión 10.1 (Rovira i Virgili University, Tarragona), y las correlaciones entre las preguntas y sus respectivos coeficientes de confiabilidad se calcularon con el programa SPSS 24.0 (IBM).
+
+
+- RESULTADOS
+
+La EPCov-19 es una versión adaptada en tiempo y contexto. En los ítems 1-3, las frases introductorias «Durante el mes pasado…» fueron reemplazadas por «Durante la última semana…» y en los ítems 1-6, las frases «desarrollar cáncer» fueron reemplazadas por «ser infectado con coronavirus» (tabla 1 ).
+
+
+-- ANÁLISIS DESCRIPTIVO
+
+Debido a que los ítems 2, 3 y 6 presentan coeficientes de asimetría o curtosis por encima de 1 en valor absoluto (tabla 2 ), se consideró realizar un AFE con una matriz de correlaciones policóricas y, por lo tanto, ningún ítem fue eliminado. Las correlaciones de los ítems con el total de la escala fueron superiores a 0,3. Los coeficientes de fiabilidad de los ítems fueron superiores a 0,8. La escala total presenta una medida de alfa de Cronbach de 0,866 (IC del 95% = 0.83-0.89), indicando así una adecuada consistencia interna del instrumento.
+
+
+-- ANÁLISIS FACTORIAL
+
+Los estadísticos de KMO (0,864) y Bartlett (p < 0,000) permiten realizar el análisis factorial. El análisis paralelo sugiere la unidimensionalidad de la EPCov-19. La varianza explicada fue del 79,7%, lo cual sustenta la propuesta unidimensional.
+Las correlaciones policóricas entre los ítems fluctúan entre 0,390 y 0,809, los cuales son adecuados (tabla 3 ). A su vez, todos los ítems presentan saturaciones superiores a 0,4 en un solo factor y la varianza común de los ítems muestra valores superiores a 0,3. Los índices consistentes para el análisis factorial son satisfactorios (CFI = 0,995, GFI = 0,997, TLI = 0,991 y RMSEA = 0,059 [IC del 95% = 0,012-0,077]).
+
+
+- DISCUSIÓN
+
+En este estudio se analizaron las propiedades psicométricas de la EPCov-19. El estudio presenta evidencias de validez de constructo. Los resultados del AFE son similares a los que se reportaron en el estudio de validación de la EPC, versión española. En ambos estudios, por ejemplo, se establece la unidimensionalidad de las escalas, donde los ítems presentan cargas factoriales superiores a 0,5 y coeficientes de confiabilidad superiores a 0,8. Sin embargo, la varianza total de la EPCov-19 es superior a la EPC en un 26,63%, y proporciona mayor evidencia de la unidimensionalidad.
+Por otro lado, se debe considerar que los métodos de análisis en ambos estudios difieren entre sí. Actualmente, es reconocido que la validación de un instrumento requiere de un proceso de análisis y para lo cual existen diversos métodos que pueden ser usados. La EPC fue estudiada a través de un análisis de componentes principales con rotación varimax. Sin embargo, en el análisis psicométrico de la EPCov-19 se utilizó un matriz de correlaciones policóricas tomando como criterio el comportamiento de los ítems (asimetría y curtosis) y la unidimensionalidad se estableció a través del análisis paralelo, el método de mínimos cuadrados no ponderados con rotación oblicua promin. Las diferencias entre estas metodologías están claramente discutidas en la literatura psicométrica, por lo que se recomienda evitar el uso el método de análisis de componentes principales y recurrir al análisis paralelo, con el método de mínimos cuadrados no ponderados.
+Las limitaciones de este estudio se enfocan en la ausencia del análisis de validez de contenido, porque solo se adaptaron los 6 ítems de la EPC (con validez de contenido) al contexto de la COVID-19. Esto no subestima su capacidad de medición, porque conceptualmente, la preocupación es un estado de inquietud o intranquilidad producida por algún suceso o situación que amenaza el bienestar del ser humano. Los 6 ítems de la EPCov-19 miden específicamente la frecuencia, el impacto y la importancia que asignan las personas a la posibilidad de enfermarse de la COVID-19.
+Si bien este estudio se realizó con participantes voluntarios a través de redes sociales, los resultados son similares al estudio de la EPC que se hizo con participantes que acudieron presencialmente a consulta médica. Con esto, se apertura una nueva línea de investigación y futuros estudios podrían demostrar la validez de la escala en diferentes poblaciones y contextos epidemiológicos. Además, por ser una escala breve y de fácil aplicación, puede ser utilizada en diversos estudios enfocados en la prevención de la COVID-19 y su impacto en la salud mental.
+Este estudio proporciona, con base sólida, una alternativa para la medición de la preocupación por la COVID-19. También se recomienda realizar estudios que demuestren la validez predictiva y discriminante a través de un análisis factorial confirmatorio.
+
+
+- FINANCIACIÓN
+
+Este estudio fue autofinanciado por los investigadores.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

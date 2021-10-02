@@ -1,0 +1,31 @@
+EL MANEJO DE LOS EPISODIOS DE DIARREA ATENDIDOS EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En los países industrializados la gastroenteritis aguda sigue siendo una de las primeras causas de morbilidad infantil y demanda de atención sanitaria. Nuestro objetivo fue conocer el manejo diagnóstico y terapéutico de los episodios de diarrea atendidos en Atención Primaria de la Organización Sanitaria Integrada (OSI) de Álava.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio descriptivo transversal, multicéntrico, basado en registros pseudoanonimizados de la Historia Clínica Informatizada, de todos los episodios diarreicos de los pacientes atendidos por Médico de Familia o Pediatra en Atención Primaria de la OSI de Álava durante 2018.
+El análisis estadístico se realizó con el programa SPSS, mediante distribuciones de frecuencias para las variables cualitativas y medidas de tendencia central y dispersión para las cuantitativas. La relación entre variables cualitativas se analizó con pruebas de X2, la comparación de medias a través de t de Student o ANOVA. El nivel de significación fue 0,05 y los intervalos de confianza del 95%.
+
+
+- RESULTADOS
+
+Se estudiaron 4.174 episodios de diarrea, 50,8% en hombres, con edad media de 33,8 años (DE: 27,7); el grupo quinquenal más frecuente fue el de los menores de cinco años (23,6%). El 67,7% de los episodios fueron atendidos por Médicos de Familia y el 30,9% por Pediatras.
+Globalmente, se prescribió Solución de Rehidratación Oral (SRO) en el 12,9% de los episodios (IC 95%: 11,9%-13,9%), antibióticos en el 3,8% (3,2%-4,4%) y se solicitó coprocultivo en el 27,4% (26,0%-28,7%). La prescripción de SRO y de antibióticos, así como la petición de coprocultivo fue similar por sexo, pero diferente por edad. En los menores de cinco años las prescripciones fueron del 19,8% para la SRO (17,3%-22,4%) y el 6,2% para los antibióticos (4,6%-7,8%); se solicitó coprocultivo en el 33,4% (30,4%-36,4%) .
+La prescripción de SRO fue mayor en las edades extremas; entre Centros varió desde el 3,5% hasta el 32,1% y por meses desde el 8,5% en agosto hasta el 17,8% en marzo. En Medicina de Familia se prescribió en el 9,2% de los casos (IC 95%: 8,1%-10,3%) y el 22,4% en Pediatría (20%-24,7%). No hubo diferencias significativas (p = 0,801) entre los Centros Urbanos (12,9%) y los Rurales (12,4%).
+La prescripción de antibióticos varió desde el 0,9% para el grupo de 30-34 años hasta el 7,9% para el grupo de 75-79 años; desde el 0% hasta el 11,8% entre los Centros de Salud; desde el 2,1% en el mes de agosto hasta el 6,4% en junio. En Medicina de Familia fue del 3,2% (IC 95%: 2,5%-3,9%) y del 5,6% en Pediatría (4,3%-6,9%). No hubo diferencias significativas (p = 0,300) entre los Centros Urbanos (3,9%) y los Rurales (2,6%). Globalmente, los antibióticos más utilizados fueron la azitromicina (29,7%) y la amoxicilina (20,3%) y se solicitó coprocultivo en el 63% de los casos en los que se prescribió antibiótico.
+La petición de coprocultivo varió significativamente por edad entre el 20,6% para el grupo de 40-44 años hasta el 33,4% para el de 0-4 años; entre los Centros desde el 12,0% hasta el 43% y por meses desde el 21,3% de diciembre hasta el 37,5% de septiembre. En Medicina de Familia fue del 27,2% (IC 95%: 25,5%-28,8%) y del 30,4% en Pediatría (27,8%-33%). Las peticiones fueron significativamente mayores (p = 0,031) en los Centros Urbanos (27,8%) que en los Rurales (22,4%).
+
+
+- CONCLUSIONES
+
+El manejo de los episodios de diarrea atendidos en Atención Primaria, de la OSI de Álava durante el año 2018, tiene aspectos mejorables: la prescripción de SRO, el tratamiento principal de la diarrea, debería incrementarse y la petición de coprocultivo debería disminuirse dada su utilidad limitada a casos concretos. La prescripción de antibióticos, sobre todo en menores de cinco años, es adecuada.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

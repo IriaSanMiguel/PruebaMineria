@@ -1,0 +1,4 @@
+Se obtuvo una reducción a la exposición de riesgos de carga física, se pasó de posturas que pueden tener efectos dañinos sobre el sistema musculoesquelético (categoria 4) a posturas neutrales (categoría 1). También se redujo la carga estática en las articulaciones y la carga intradiscal por debajo del valor límite de 3400 N según la National Institute for Occupational Safety and Health (NIOSH).
+Realizar un análisis ergonómico comparativo de un nuevo dispositivo diseñado (MSILT) con el Banco MTN actual. MÉTODOS: Por medio de OWAS se evaluaron las tareas con mayor riesgo, luego se realizó la simulación digital humana en un entorno virtual y se evaluaron los esfuerzos y la carga estática articular. Asimismo, se realizó un análisis comparativo utilizando el software Jack de Siemens.
+El estudio establece que la propuesta de diseño del dispositivo (MSILIT) es viable y puede ser implementada en aquellas empresas del sector de hidrocarburos.
+

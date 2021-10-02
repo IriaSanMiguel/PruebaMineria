@@ -1,0 +1,92 @@
+FACTORES ASOCIADOS AL ASMA EN LOS NIÑOS Y ADOLESCENTES DE LA ZONA RURAL DE NAVARRA (ESPAÑA)<SUP
+
+
+- INTRODUCCIÓN
+
+El asma es definida como a un síntoma más que como una enfermedad en sí misma, siendo la enfermedad crónica más frecuente en la infancia, . La Organización Mundial de la Salud (OMS) ha estimado que esta enfermedad es responsable de más de 3 millones de años de vida ajustados por discapacidad (AVAD), .
+El aumento de la prevalencia del asma por todo el mundo ha llevado a numerosos estudios, como el International Study of Asthma and Allergies in Childhood (ISAAC) y otro entre adultos jóvenes (European Community Respiratory Health Survey).
+En cuanto al asma atópica y no atópica, a partir de un estudio realizado en la zona rural de Ecuador con la metodología ISAAC se obtuvo una prevalencia del 10,5% de niños con sibilancias recientes, de los cuales el 14,4% presentaban una prueba cutánea positiva. Se estimó que en España afecta entre el 5 y el 15% de la población infantil. A nivel mundial, estatal y local se realizaron investigaciones con el estudio ISAAC en zonas urbanas, , . A partir de estos estudios se supo que la prevalencia de asma mundial ascendió al 11,7% en niños y al 14,1% en adolescentes. En Navarra concretamente, en un estudio realizado en 2015 se observó una prevalencia de «asma alguna vez» del 10,1% en niños y del 10,6% en adolescentes. Sin embargo, actualmente apenas se hallaron datos sobre la prevalencia y los factores asociados del asma en zonas rurales. Destacó un estudio realizado en Galicia, que contempló parte de la zona rural con un 10,5% de niños diagnosticados de asma alguna vez y un 15,5% de adolescentes.
+Los factores de riesgo incluyeron factores genéticos, prenatales, de la infancia y ambientales. Varios estudios asociaron el asma al sexo y al tabaquismo, , y hablaron de la lactancia materna como un factor protector. En cuanto al humo de tabaco, se asoció tanto al asma como a las sibilancias, . Por otro lado, el uso de antibióticos también se asoció con sibilancia precoz y el asma en varios estudios, . Por último un estudio trasversal llevado a cabo en Brasil afirmó que el consumo de pescado puede promover un efecto protector, dentro el patrón de dieta, contra sibilancias atópicas y no atópicas y asma.
+Por lo tanto, teniendo en cuenta lo anterior, el asma es una enfermedad prevalente que ha sido estudiada en varios países del mundo y se la ha relacionados con varios factores.
+Sin embargo, son escasos los estudios realizados en zonas rurales. Por ello los objetivos del estudio son conocer la prevalencia de asma referida y de los síntomas de asma en niños/as de 6 a 7 años y 13-14 años en la zona rural y aportar datos en relación con los factores asociados al asma infantil.
+
+
+- SUJETOS Y MÉTODOS
+
+El estudio ISAAC es un estudio multicéntrico e internacional que tiene como objetivo estudiar la epidemiología del asma y las enfermedades alérgicas. Consta de un cuestionario de 85 preguntas con varias opciones de respuesta a elegir.
+Se utilizaron cuestionarios diferentes para cada grupo de edad y según el modelo lingüístico. Se repartieron en euskera (lengua vasca) y en castellano. Se seleccionaron los escolares de 6-7 años y 13-14 años pertenecientes a los centros escolares de las siete zonas básicas de salud (ZBS) de parte de la población rural de Navarra.
+En España la escolarización es obligatoria a partir de los 6 hasta los 16 años. Por lo tanto, a través de los centros educativos se llegó al 100% de la población a estudiar. Cabe recordar que, pese a preguntar sobre el diagnóstico de asma previo, no se realizó ninguna prueba diagnóstica adicional, por lo que no diagnostica los casos actuales de asma. Los datos se refieren a la prevalencia de escolares que refieren haber sido diagnosticados de asma alguna vez. Además, se obtuvieron datos sobre prevalencia de síntomas asociados al asma y se destacan las sibilancias recientes, al ser el síntoma que actualmente más se asocia al asma. En este sentido, se realizó una selección sobre las variables estudiadas aportando datos sobre síntomas de asma y diagnóstico previo de asma.
+El trabajo de campo se desarrolló entre los meses de septiembre de 2014 a febrero de 2015.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Intervalos de confianza (IC) al 95%, prueba de chi-cuadrado, análisis ajustados, odds ratio (OR) y egresión logística no condicionada.
+
+
+- RESULTADOS
+
+En total se repartieron 969 cartas: 607 (62,6%) en el grupo de 6-7 años y 362 (37,4%) en el grupo de 13-14 años. En el grupo de 6-7 años, de las 607 cartas con los cuestionarios a rellenar por los padres y madres, se rellenaron 449 (74%). Los que declinaron participar en el estudio argumentaron tener razones de tiempo, idioma o nivel cultural.
+En el grupo de 13-14 años, de los 362 cuestionarios repartidos se rellenaron 348 (96,1%). En realidad, todos los estudiantes rellenaron los cuestionarios, pero el 3,9% lo rellenaron de forma ilegible.
+Al ser un cuestionario con varias variables que no se dan en todos los escolares, el tamaño de la muestra para ciertas asociaciones se redujo considerablemente. Por ejemplo, en el caso de la asociación entre padecer asma y el tiempo de duración de episodios de bronquitis, el tamaño de la muestra válido fue 85. En otros casos se produjeron pérdidas de tamaño muestral porque los alumnos y padres/cuidadores no contestaron a todas las preguntas del cuestionario. Se pueden consultar los n válidos para cada asociación en la tabla 1, en el caso del asma, y en la tabla 2 para las sibilancias.
+La población que finalmente se incluyó en el estudio está formada por un total de 797 escolares. Su distribución fue la siguiente:•Según el grupo de edad: 449 (56,9%) de 6-7 años y 348 (43,1%) de 13-14 años.•Según el sexo: 405 (52%) varones y 374 (48%) mujeres.
+En cuanto a la relación entre el asma referida y las sibilancias recientes con la edad y el sexo de los escolares, la prevalencia de asma referida fue del 11,7% en la infancia y del 13,4% en la adolescencia. En cuanto al sexo, el porcentaje de asma referida en las niñas ascendió al 13,7%, frente al 10,9% en los niños. Las sibilancias recientes se dieron en el 9,1% en la infancia y en el 8,3% en la adolescencia, y en el 10,4% de las niñas frente al 7,6% de los niños . Sin embargo, no había relación entre padecer asma referida y el grupo de edad de los escolares, ni con el sexo de los escolares (las dos p > 0,3). Del mismo modo, el grupo de edad y el sexo no tenían relación con padecer sibilancias recientes (las dos p > 0,2).
+La relación de asma referida y sibilancias recientes con sus factores asociados explorados en este estudio se detallaron en las Tabla 4, Tabla 5, respectivamente.
+
+
+-- FACTORES ASOCIADOS AL ASMA
+
+--- OTROS SÍNTOMAS DE ASMA
+
+El asma referida se relacionó con otros síntomas de asma, como sibilancias, sibilancias durante la actividad física, tos, rinitis reciente y tos seca (todas las p ≤ 0,001). En los escolares que referían haber sido diagnosticados de asma se daban todos estos síntomas en mayor proporción que en los escolares que no padecían asma. En concreto, los OR (IC 95%) para estos síntomas fueron: 9,2 (5,9-15,5) para las sibilancias, 7,2 (4,2-12,4) para las sibilancias durante el ejercicio, 3,9 (2,4-6,1) para la tos, 3,5 (2,5-5,5) para las rinitis recientes y 2,9 (1,8-4,8) para la tos seca.
+El resto de asociaciones no fueron significativas, como se puede observar en la tabla 4. Para la interpretación de la asociación entre asma referida y sibilancias graves hay que tener en cuenta que de un total de 142 casos válidos, solo 6 (12%) de los escolares con asma referida padecían también sibilancias graves, y solo 7 (7,1%) de los escolares sin asma padecieron también sibilancias graves.
+
+
+--- INFECCIONES
+
+El asma referida se relacionó significativamente con padecer rinitis (OR = 3,5, IC 95%: 2,2-5,5; p < 0,001).
+
+
+--- UTILIZACIÓN DE LOS SERVICIOS DE URGENCIAS
+
+Los escolares con asma referida utilizaron más los servicios de urgencias que los escolares sin asma (OR = 5,1; IC 95%: 1,9-13,7; p = 0,001).
+
+
+-- FACTORES ASOCIADOS A LAS SIBILANCIAS RECIENTES
+
+--- OTROS SÍNTOMAS DE ASMA
+
+Las sibilancias se relacionaron con la presencia de otros síntomas de asma, tales como despertares (OR = 11,5 [4,9-26,7]); tos (OR = 4,4 [2,4-8]) y disnea (OR = 3,4 [1,8-6,2]) (todas las p < 0,001). Además, la probabilidad de padecer asma era 5 veces mayor en escolares con sibilancias que en escolares sin sibilancias (OR = 4,9 [2,7-9]; p < 0,001).
+
+
+--- INFECCIONES
+
+Bronquitis (fiebre y duración), otitis y rinitis.
+La presencia de sibilancias recientes se relacionó significativamente con a la rinitis (OR = 3,9; IC 95%: 2,2-6,9; p < 0,001) y con la bronquitis (OR = 2,9; IC 95%: 1,2-6,7; p = 0,013). La relación entre las sibilancias y la otitis no fue significativa (p > 0,6).
+
+
+- DISCUSIÓN
+
+El porcentaje de escolares que refirieron haber sido diagnosticados alguna vez de asma presentó una alta prevalencia en los niños y adolescentes de la zona rural. Estos porcentajes se situaron en torno a los valores de la prevalencia de asma mundial y fueron superiores a los de otras zonas urbanas de Navarra. Comparando con los escasos estudios en zonas rurales de nuestro país, la prevalencia de «asma alguna vez» en Navarra fue ligeramente superior en los niños e inferior en los adolescentes. En la misma línea de dichos estudios, fue más prevalente en varones durante la niñez y en mujeres durante la adolescencia. Sin embargo, no hubo asociación significativa con las variables edad y sexo.
+En cuanto a los síntomas de asma tales como sibilancias recientes, el porcentaje fue inferior a la de otras zonas rurales de España, así como el número de ataques de sibilancias y las «sibilancias alguna vez». Sin embargo, el porcentaje de escolares que sufrieron sibilancias graves o sibilancias durante el ejercicio fue superior respecto a otras zonas rurales de España. Por otra parte, comparando con datos de zonas urbanas de Navarra, el porcentaje de escolares que padecieron sibilancias graves fue menor, así como las sibilancias durante el ejercicio. Sin embargo, el porcentaje de escolares que padecieron sibilancias alguna vez fue notablemente superior en la zona rural de Navarra respecto a la zona urbana.
+En ningún caso se realizó ninguna prueba diagnóstica que pudiera determinar ni confirmar su diagnóstico, por lo que los resultados se obtuvieron a través de un estudio descriptivo en torno al asma referida y síntomas compatibles con asma. En concreto, las sibilancias fueron uno de los síntomas que con más frecuencia se asociaron al asma. Como hemos podido observar en el estudio, las sibilancias recientes presentaron una menor prevalencia en los niños y adolescentes de la zona rural en comparación con el asma. En este sentido, se observó, al igual que en el diagnóstico previo de asma, una prevalencia mayor en la adolescencia y en las mujeres. Sin embargo, tampoco hubo asociación significativa entre las sibilancias recientes y la edad y el sexo.
+
+
+-- FACTORES ASOCIADOS AL ASMA
+
+El asma referida se asoció significativamente con la presencia de otros síntomas de asma, como sibilancias, sibilancias y actividad física, tos y tos seca. La aparición de sibilancias en escolares asmáticos fue 9 veces mayor que en escolares no asmáticos. Sin embargo, el asma referida no se asoció con sibilancias graves (descritas en el cuestionario como las que interrumpen el habla normal del niño o el adolescente) y las que producen despertares durante el sueño.
+En cuanto a las infecciones, padecer asma se relacionó con padecer también rinitis, de forma que la ocurrencia de rinitis en escolares con asma referida fue tres veces mayor que en escolares sin asma. Sin embargo, no se halló una relación con la otitis o la bronquitis. En relación con la utilización de los servicios de urgencias, los niños que referían haber sido diagnosticados de asma acudieron cinco veces más a los servicios de urgencias que los niños sin asma.
+Por otro lado, no se encontró relación entre el asma referida y que la madre fumara durante el embarazo (en escolares de primaria). Como tampoco la hubo entre asma referida y fumadores en el domicilio del niño y adolescente. En cuanto al sedentarismo y el asma infantil, no se observó una relación significativa. En este sentido, tampoco se asoció la prematuridad al asma infantil.
+Por último, no se observó una relación significativa de lactancia materna vs. artificial y asma.
+
+
+-- FACTORES ASOCIADOS A LAS SIBILANCIAS RECIENTES
+
+Se observó una relación significativa entre sibilancias recientes e infecciones como bronquitis y rinitis. Por ejemplo, la bronquitis se dio tres veces más en escolares con sibilancias que en escolares sin sibilancias, y la rinitis cuatro veces más. Respecto a otros síntomas de asma, las sibilancias recientes se relacionaron con el número de ataques de sibilancias, despertares, asma y tos seca. Por ejemplo, los despertares nocturnos se dieron 11 veces más en escolares con sibilancias que en escolares sin sibilancias, y los escolares con sibilancias padecieron cuatro veces más ataques de tos seca que los escolares sin sibilancias. La relación entre sibilancias y asma se dio de forma que el diagnóstico referido de asma fue cinco veces más frecuente en escolares con sibilancias que en escolares sin sibilancias.
+Por otra parte, no se halló asociación entre padecer sibilancias y las siguientes variables: animales en el domicilio, consumo de tabaco durante el embarazo, presencia de fumadores en el domicilio, prematuridad, tipo de alimentación durante los primeros seis meses de vida.
+Finalmente, cabe destacar que este estudio se llevó a cabo en una zona muy específica, la zona rural de Navarra, y con una gran dispersión. Esto dio lugar a que para determinados eventos el tamaño de la muestra se redujera considerablemente. Los motivos de la reducción del tamaño muestral fueron fundamentalmente por el número limitado de aparición de uno de los síntomas (por ejemplo, los episodios de sibilancias graves), en otros casos porque solo se preguntó a un grupo de edad (tabaquismo de la madre en el grupo infantil y tabaquismo del niño en el grupo de adolescentes), y finalmente porque al ser un estudio en el que se utilizaron cuestionarios, algunos participantes no contestaron a todas las preguntas. Esto puede llevar a que determinados resultados necesitaran de más investigación para poder ser confirmados. Un ejemplo fue la asociación entre asma referida y sibilancias graves, dado que las sibilancias graves solo se dieron en 6 (12%) de los escolares asmáticos y en 7 (7,1%) de los escolares no asmáticos. Sin embargo, cabe recordar que se enviaron casi 1.000 cartas a niños y adolescentes y que finalmente participaron casi 800 escolares en el estudio. Por lo tanto, se considera que la participación en este estudio fue alta y representativa de la población rural de Navarra y útil para estudiar los factores asociados al asma en la población rural.Lo conocido sobre el temaEl asma es la enfermedad crónica más prevalente en la infancia y en la adolescencia, con un 11 y un 9%, respectivamente. Dentro de los pocos estudios en zonas rurales, se encuentra el del noroeste de la zona rural de España, con un 6,3% en niños y un 15,3% en adolescentes. El asma se ha relacionado con factores intrínsecos —infecciones, genética, prematuridad— y externos —síntomas de asma, tabaco, lactancia materna, animales en el domicilio o sedentarismo.Qué aporta este estudioLa prevalencia de asma referida en la zona rural es ligeramente superior en niños y en adolescentes (11,7 y 13,4%, respectivamente) frente a la de la zona urbana y mayor en la población femenina y en el grupo de 13-14 años. Infecciones respiratorias y otros síntomas de asma están relacionados con el asma referida y con las sibilancias, así como con la utilización de los servicios de urgencias en el caso del asma.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

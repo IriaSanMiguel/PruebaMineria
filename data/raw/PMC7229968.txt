@@ -1,0 +1,220 @@
+RECOMENDACIONES SOBRE REANIMACIÓN CARDIOPULMONAR EN PACIENTES CON SOSPECHA O INFECCIÓN CONFIRMADA POR SARS-COV-2 (COVID-19). RESUMEN EJECUTIVO<SUP
+
+
+- INTRODUCCIÓN. ANTECEDENTES Y PROPÓSITO
+
+La situación creada por la pandemia por SARS-CoV-2 ha generado nuevos escenarios que requieren modificaciones de los protocolos habituales de reanimación cardiopulmonar (RCP), manteniendo el objetivo de que aquellos pacientes que sufran una parada cardiorrespiratoria (PCR) reciban la mejor atención sin que esto comprometa la seguridad de los reanimadores.
+Las guías clínicas vigentes sobre el manejo de la PCR del European Resuscitation Council (ERC), de la American Heart Association (AHA) o del International Liaison Committee on Resuscitation (ILCOR) no recogen recomendaciones para situaciones aplicables a este contexto. Con el objetivo de cubrir este nuevo escenario, el Plan Nacional de Reanimación Cardiopulmonar (PNRCP) de la Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias (SEMICYUC), en colaboración con el Grupo Español de RCP Pediátrica y Neonatal y con el programa de Enseñanza de Soporte Vital en Atención Primaria (ESVAP) de la Sociedad Española de Medicina Familiar y Comunitaria (SEMFyC), ha redactado las siguientes recomendaciones sobre el abordaje de la PCR en un paciente con infección sospechada o confirmada por SARS-CoV-2, en cualquier localización y aplicables a todo el personal sanitario, basadas en la revisión de la evidencia científica disponible y como consenso de opinión de expertos, sin dejar de ser conscientes de que no es sino un punto de partida que precisa ser adaptado a los medios locales y actualizado en función de la nueva evidencia que surja en el futuro, dado lo dinámico de la pandemia.
+
+
+- PARTE 1. ASPECTOS DE SEGURIDAD DURANTE LA REANIMACIÓN CARDIOPULMONAR EN PACIENTES CON SOSPECHA O INFECCIÓN POR SARS-COV-2
+
+-- TIPOS DE TRANSMISIÓN Y PRECAUCIONES
+
+La transmisión de infecciones respiratorias se puede vehiculizar a través de gotas respiratorias (con diámetro entre 5 y 10 μm) o núcleos goticulares (con diámetro inferior a 5 μm). La transmisión por gotas se produce por los siguientes mecanismos: contacto directo/cercano (inferior a 1-2 m) con una persona sintomática, debido al riesgo de exposición a gotas respiratorias de las mucosas conjuntival y de las vías respiratorias; contacto indirecto, con fómites contaminados por gotas respiratorias en el entorno del paciente.
+La transmisión aérea por núcleos goticulares es diferente y está relacionada con la permanencia en el aire de estos durante periodos prolongados de tiempo.
+Según los datos disponibles publicados por la OMS, el SARS-CoV-2 puede transmitirse principalmente entre personas a través de gotas respiratorias y del contacto. En este contexto, las medidas de protección a tomar deben incluir, además de precauciones estándar, medidas específicas de protección frente a transmisión por contacto y transmisión por gotas respiratorias. En el caso del SARS-CoV-2, esta transmisión puede ocurrir en unas condiciones específicas que impliquen actividades generadoras de aerosoles, por procedimientos que puedan inducir mecánicamente su generación y dispersión (ventilación manual con mascarilla y balón autoinflable, nebulización, aspiración de secreciones o ventilación mecánica no invasiva) o aquellos que generen aerosoles de manera directa sobre el tracto respiratorio (intubación orotraqueal, compresiones torácicas durante las maniobras de RCP), , .
+
+
+-- RECOMENDACIONES SOBRE ESTRATEGIAS DE PROTECCIÓN
+
+Las medidas específicas de protección durante la evaluación de la situación periparada y durante la PCR de un paciente con sospecha o infección confirmada por SARS-CoV-2 deben incluir, además de las medidas estándar, medidas frente a transmisión por contacto y por gotas respiratorias y en relación con actividades generadoras de aerosoles, .
+En cuanto a los equipos de protección individual (EPI), deben contemplar los mecanismos de transmisión descritos anteriormente e incluir:
+
+
+--- ROPA DE PROTECCIÓN Y GUANTES
+
+El objetivo de estos elementos es la protección del trabajador frente a salpicaduras de fluidos biológicos o secreciones durante las maniobras de reanimación. Además, en situaciones de alto riesgo de transmisión vírica, intensificar las medidas de protección parece razonable y prudente, .
+
+
+--- MEDIDAS DE PROTECCIÓN RESPIRATORIA
+
+
+
+
+--- MEDIDAS DE PROTECCIÓN OCULAR Y FACIAL APLICABLES EN CUALQUIER UBICACIÓN DEL PACIENTE
+
+Recomendamos siempre la utilización de dispositivos desechables de protección ocular, como gafas integrales (idealmente), pantallas o caperuzas, tanto durante la valoración del paciente con infección por SARS-CoV-2 sospechada o confirmada que sufre deterioro clínico como durante las maniobras de RCP, que pueden implicar la generación de aerosoles. Recomendamos la utilización de dispositivos de protección ocular, dado el riesgo de contaminación ocular a través de salpicaduras o gotas, .
+Idealmente recomendamos la utilización de equipos desechables. De no ser posible, los equipos de protección deberán depositarse en bolsas o contenedores adecuados y descontaminarse según las instrucciones del fabricante, , , .
+
+
+--- CONSIDERACIONES GENERALES
+
+
+
+
+- PARTE 2. ASISTENCIA A LA VÍCTIMA EN SITUACIÓN DE PARADA CARDIORRESPIRATORIA EN LA COMUNIDAD DURANTE LA PANDEMIA POR SARS-COV-2. RECOMENDACIONES EN SOPORTE VITAL BÁSICO
+
+En el contexto de la pandemia por infección por SARS-CoV-2, se considera caso posible aquel que presente signos de infección respiratoria aguda leve al que no se le ha realizado prueba de diagnóstico microbiológico. En el ámbito de la comunidad, las recomendaciones y la prudencia nos dictan a considerar a cualquier víctima en situación de PCR como si fuera una víctima con posible infección por SARS-CoV-2. Teniendo en cuenta que el 70% de las PCR extrahospitalarias suceden en el domicilio, es posible que el primer interviniente haya estado expuesto al SARS-CoV-2. A partir de estas premisas las recomendaciones, que proponemos son las que aparecen en la tabla 1 y ).
+
+
+- PARTE 3. REANIMACIÓN CARDIOPULMONAR DURANTE LA PANDEMIA POR SARS-COV-2: RECOMENDACIONES
+
+-- PLANIFICACIÓN DE CUIDADOS Y ADECUACIÓN DE RECURSOS
+
+Ante cualquier paciente bajo ingreso hospitalario debería contemplarse, desde su llegada al centro, la planificación de una estrategia de cuidados individualizada para cada enfermo en función de sus condiciones clínicas, las recomendaciones generales adaptadas al ámbito local, los deseos del paciente y el criterio de los especialistas de todos los niveles asistenciales implicados en su cuidado y que incluya la valoración de órdenes de no reanimación, , , , .
+La SEMICYUC y otras sociedades científicas han propuesto un modelo de prioridad de asistencia en función de la capacidad de supervivencia de la persona según la situación clínica, comorbilidad y disponibilidad de recursos, buscando conseguir el mayor beneficio posible en el mayor número de individuos según los principios de proporcionalidad y justicia distributiva. En la tabla 2 se resume este modelo, añadiendo las consideraciones específicas acerca de las órdenes de no reanimación para cada prioridad.
+Dada la complejidad de la infección por SARS-CoV-2 y la sobrecarga de las unidades de cuidados intensivos (UCI), no es infrecuente encontrar fuera de las zonas de críticos enfermos más graves que en la práctica habitual, que deben ser estrechamente vigilados para detectar un deterioro clínico, proporcionar en tiempo los tratamientos oportunos y no diferir su traslado a la UCI como parte de las medidas de prevención de la PCR en un paciente de alto riesgo.
+Frente a la práctica clásica de aviso al equipo de guardia cuando existen valores extremos de los parámetros de monitorización, la vigilancia basada en escalas de alerta precoz, en especial la escala NEWS2, puede contribuir a la detección precoz del paciente con riesgo de mala evolución y necesidad de cuidados críticos, .
+
+
+-- ASISTENCIA AL PACIENTE CON DETERIORO CLÍNICO DURANTE LA PANDEMIA COVID-19
+
+El primer paso al proceder a la valoración de un paciente es la puesta en marcha de las medidas generales y específicas de protección pertinentes, ya comentadas en apartados previos, que permitan una aproximación segura al paciente en deterioro, limitando la intervención al mínimo personal necesario para reducir los contactos, , .
+En el momento en el que se detecte el deterioro, se solicitará ayuda al compañero más próximo y se realizará una evaluación de los signos de vida , .
+En caso de que no estén presentes, se avisará de inmediato al equipo de apoyo informando del estatus COVID del paciente en situación de PCR y se iniciará la RCP según el protocolo intrahospitalario.
+En caso de que existan signos de vida, se completará la exploración mediante la aproximación D-ABCDE , que propone la evaluación y manejo estructurado de los problemas clínicos por orden prioritario de sistemas vitales, para poder detectar y tratar cuanto antes aquellos que pueden causar la muerte a corto plazo, frenando el deterioro y la entrada en PCR y ganando tiempo para que un equipo especialmente entrenado inicie el tratamiento definitivo, , , .
+
+
+- PARTE 4. ADAPTACIÓN DE ALGORITMO Y TÉCNICAS EN EL ÁMBITO DEL SOPORTE VITAL AVANZADO (SVA) EN PACIENTES CON SOSPECHA O INFECCIÓN CONFIRMADA POR SARS-COV-2
+
+Un esquema de esta adaptación se encuentra en la .
+
+
+-- RECONOCIMIENTO DE LA PARADA CARDIORRESPIRATORIA
+
+
+
+
+--- PARADA CARDIORRESPIRATORIA EXTRAHOSPITALARIA
+
+•Garantizar un entorno seguro.•Los integrantes del equipo de reanimación serán el personal esencial para atender al paciente. Si se precisa de la intervención de otro personal no sanitario deberán protegerse con el EPI si van a entrar en contacto con la víctima.•Tras la confirmación de la PCR, recomendamos activar de manera precoz el equipo de soporte vital avanzado (SVA) y priorizar la oxigenación y el aislamiento de la vía aérea con un tubo endotraqueal con neumotaponamiento.
+
+
+--- PARADA CARDIORRESPIRATORIA INTRAHOSPITALARIA: PLANTA DE HOSPITALIZACIÓN/URGENCIAS
+
+•Aproximación D-ABCDE.•Activar de manera precoz el equipo de SVA: priorizar la oxigenación y un manejo avanzado de la vía aérea, idealmente, con un tubo endotraqueal con neumotaponamiento.•Es recomendable tener un kit/bolsa de RCP con el material necesario para realizar SVA dedicado exclusivamente para esa área de atención COVID.•Los integrantes del equipo de reanimación serán el personal esencial para atender al paciente.
+
+
+--- PARADA CARDIORRESPIRATORIA INTRAHOSPITALARIA: UCI/REANIMACIÓN/UNIDADES DE CUIDADOS INTERMEDIOS
+
+
+
+
+-- TÉCNICAS EN EL ÁMBITO DEL SOPORTE VITAL AVANZADO
+
+--- COMPRESIONES TORÁCICAS
+
+
+
+
+--- DESFIBRILACIÓN
+
+El desfibrilador (manual o automatizado) debe ser colocado a la mayor brevedad posible. En la PCR presenciadas y monitorizadas por ritmo desfibrilable y en aquellas en las que es posible colocar un desfibrilador de forma inmediata para la desfibrilación y el reanimador aún no ha conseguido ponerse el EPI correspondiente para iniciar la RCP, es razonable mantener la recomendación de proporcionar 3 descargas consecutivas sin compresiones torácicas previas ni entre ellas. No se ha demostrado que durante la desfibrilación puedan generarse aerosoles infecciosos por lo que puede ser aplicada por personal con EPI que no incluya medidas frente a actividades generadoras de aerosoles, mientras el equipo de reanimación se dota del EPI correspondiente para iniciar la atención de la PCR a continuación.•Usar parches adhesivos para evitar el contacto directo con el paciente.•Ante una parada presenciada por un ritmo desfibrilable, se priorizará la colocación del EPI del reanimador y luego se procederá a la colocación de los parches adhesivos y conexión al desfibrilador.•Se recomienda la colocación de parches en pacientes con alteraciones de la conducción y/o antecedentes de riesgo. El riesgo tanto de taquiarritmias como de bradicardia puede ser más elevado en relación con los fármacos usados en el tratamiento de la infección por SARS-CoV-2 (QT alargado) y la inestabilidad clínica de estos pacientes con SDRA severo (hipoxemia, necesidad de sedación profunda y parálisis, compromiso hemodinámico).
+
+
+--- MANEJO AVANZADO DE LA VÍA AÉREA DURANTE EL SOPORTE VITAL AVANZADO
+
+En el contexto del manejo avanzado de la vía aérea durante la RCP, recomendamos:
+
+
+-- REANIMACIÓN CARDIOPULMONAR EN DECÚBITO PRONO
+
+La idea de la reanimación cardiopulmonar en prono (P-RCP) fue propuesta por primera vez por McNeil en 1989. Desde entonces se han publicado diversos estudios y experiencias, , , , .
+
+
+--- COMPRESIONES TORÁCICAS
+
+
+
+
+--- DESFIBRILACIÓN EN PRONO
+
+Seguiremos las recomendaciones referidas en las consideraciones generales respecto a la desfibrilación del paciente con infección por SARS-CoV-2 sospechada o confirmada. En este caso, la disposición de los parches autoadhesivos variará y deberemos aplicarlos en la línea media axilar izquierda y en la escápula derecha o en ambas regiones axilares.
+
+
+-- REANIMACIÓN CARDIOPULMONAR EN ECMO
+
+No hay suficientes datos del uso de ECMO para el rescate de pacientes con infección por SARS-CoV-2. Dependerá de la experiencia del centro y de la situación del centro con respecto al número de camas disponibles en UCI, ya que en esta situación de pandemia hay una gran presión asistencial y escasa disponibilidad de recursos.
+
+
+-- FÁRMACOS
+
+No hay evidencia que sugiera un cambio en las indicaciones, momentos de administración o dosis de los fármacos con respecto al algoritmo general.
+Es importante recordar que es frecuente que los pacientes con infección por SARS-CoV-2 estén siendo tratados con medicaciones que prolonguen la duración del intervalo QT (hidroxicloroquina, antirretrovirales, azitromicina, levofloxacino, metoclopramida…) o que predisponen a la aparición de bloqueos avanzados (darunavir/cobicistat) por sí solos o en combinación con la amiodarona.
+Aunque la contraindicación para amiodarona con estos fármacos se asienta en tratamientos crónicos, debemos considerar el uso alternativo de lidocaína, . Si existe la sospecha de que la PCR es secundaria a FV/TVSP por prolongación de QT o torsade de pointes, la amiodarona estaría contraindicada y se sugiere el uso de sulfato de magnesio.
+
+
+-- CAUSAS REVERSIBLES
+
+A la hora de considerar y corregir la causa de la PCR, la hipoxia, la trombosis y la toxicidad por fármacos, sobre todo por efecto directo de los antivíricos e interacciones con los mismos, adquieren una especial relevancia. La sospecha clínica y la ecografía son la base del diagnóstico, en especial en el tromboembolismo pulmonar. Su manejo no difiere del aplicado en otros enfermos, más allá de las apreciaciones indicadas en el apartado de fármacos en relación con la toxicidad del tratamiento de la infección. La tabla 3 resume las causas reversibles más prevalentes en los pacientes con infección por SARS-CoV-2.
+
+
+-- ¿CUÁNDO FINALIZAR LA REANIMACIÓN CARDIOPULMONAR
+
+La finalización de la RCP se guía por las mismas normas que las PCR de otras causas. La decisión se debe tomar en el momento en el que está claro que continuar la RCP no tendrá éxito.
+
+
+- PARTE 5. ASISTENCIA A LA PARADA CARDIORRESPIRATORIA DE LA VÍCTIMA EN EDAD PEDIÁTRICA DURANTE LA PANDEMIA POR SARS-COV-2
+
+Estas recomendaciones son complementarias a las establecidas en la hoja de ruta y el documento genérico de la SEMICYUC. Para todo lo que no se incluya en esta parte, ante la duda, se seguirán las recomendaciones establecidas para los adultos, salvo en lo relativo a los recién nacidos.
+
+
+-- ANTES DE LA PARADA CARDIORRESPIRATORIA
+
+Respecto a las consideraciones iniciales a tener en cuenta antes de la PCR, nuestras recomendaciones son las siguientes, , :•El inicio de la RCP puede retrasarse por la dificultad para la vigilancia presencial continua y la necesidad de colocación del EPI.•El personal debe saber que, en caso de PCR el número de reanimadores será limitado a un máximo de 4 personas. Solo deberá iniciarse la RCP cuando los reanimadores se hayan puesto el EPI, que debe ser eficaz para proteger contra los aerosoles.•Recomendamos disponer de material de RCP y de intubación difícil cerca de todo niño críticamente enfermo con infección por coronavirus. Cada unidad establecerá el lugar adecuado y se asegurará de que todo el personal conozca su localización y contenido.•Sugerimos realizar sesiones de simulación de PCR y RCP en niños con infección por SARS-CoV-2, de forma ideal en el entorno de trabajo y con los equipos humanos y materiales habituales.•En el caso de que haya acuerdo de adecuación-limitación de la terapia que incluya no iniciar la RCP, dicha decisión debe figurar en la historia clínica y ser conocida por el personal asistencial.
+
+
+-- DURANTE LA PARADA CARDIORRESPIRATORIA
+
+De cara a adecuar los cuidados del niño en PCR, establecemos diferentes escenarios, que describimos a continuación, , :
+
+
+--- EN LA COMUNIDAD: ATENCIÓN POR CIUDADANOS. SOPORTE VITAL BÁSICO
+
+
+
+
+--- EN UN CENTRO SANITARIO: ATENCIÓN POR PROFESIONALES CON MEDIOS. SOPORTE VITAL AVANZADO
+
+•La persona que esté atendiendo al niño alertará a sus compañeros e iniciará de inmediato la RCP. Recomendamos limitar el número de reanimadores al mínimo imprescindible. En general, se recomienda limitar el equipo a 4 personas, quienes deben colocarse un EPI a prueba de aerosoles antes de iniciar la RCP y se irán incorporando según vayan estando preparados.
+Ejemplo de distribución de roles con 4 reanimadores:
+
+
+--- DURANTE UN PARTO EN UN CENTRO SANITARIO: ATENCIÓN POR PROFESIONALES CON MEDIOS. SOPORTE VITAL AVANZADO
+
+La asistencia general en el paritorio al recién nacido hijo de madre con infección sospechada o confirmada por SARS-CoV-2 seguirá los algoritmos vigentes de estabilización, soporte a la transición, reanimación y oxigenoterapia, teniendo en cuenta las siguientes particularidades:
+
+
+-- ALGORITMO DE TRATAMIENTO DE SOPORTE VITAL AVANZADO DEL PACIENTE EN EDAD PEDIÁTRICA CON SOSPECHA O INFECCIÓN CONFIRMADA POR SARS-COV-2
+
+--- PACIENTE CON ACUERDO DE «NO INICIAR LA RCP»
+
+•Tras verificar el acuerdo, se informará a los familiares (en general los padres), a uno de los cuales (o si es posible, a los 2) se permitirá estar al lado del niño para despedirse, para lo cual deberá colocarse un EPI.
+
+
+--- PACIENTE EN EL QUE ESTÁ INDICADA LA RCP
+
+
+
+
+-- SITUACIONES ESPECIALES
+
+--- PACIENTE POSICIONADO EN PRONO
+
+•Si el niño es pequeño y se puede colocar en posición supina, de forma rápida y sin riesgos, se hará la RCP en supino.•En los demás casos, aunque la eficacia de la RCP en prono es poco conocida, se colocarán los parches de desfibrilación en posición anterior-posterior y se iniciarán las compresiones torácicas en prono, colocando las manos a la altura de los cuerpos vertebrales T7-10.
+
+
+--- INTUBACIÓN DIFÍCIL
+
+•En caso de imposibilidad para la intubación precoz, se podrá considerar la utilización de dispositivos supraglóticos, asegurando un buen sellado.
+
+
+--- COMPRESIONES TORÁCICAS MECÁNICAS
+
+•En adolescentes, si el equipo está entrenado en su uso, se puede considerar la utilización de un sistema mecánico de compresiones torácicas.
+
+
+--- ECMO-RCP
+
+•No se ha establecido una recomendación para la RCP mediante soporte cardiopulmonar extracorpórea en esta situación, cuya indicación será individualizada.
+
+
+- FINANCIACIÓN
+
+Este manuscrito no ha sido financiado.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran conflicto de intereses.

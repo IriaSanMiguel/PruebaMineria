@@ -1,0 +1,97 @@
+AUDITORÍAS EN SEGURIDAD CLÍNICA PARA CENTROS DE ATENCIÓN PRIMARIA. ESTUDIO PILOTO<SUP
+
+
+- INTRODUCCIÓN
+
+La seguridad clínica está en la agenda de profesionales, políticos y pacientes. El estudio APEAS, puso de relieve que la prevalencia de las consultas de atención primaria en las que se presentó algún evento adverso fue del 10,11% de las consultas y que la mayoría estaban relacionados con el uso de medicamentos, con los cuidados y con la comunicación. El 40% de estos eventos adversos se consideraron evitables siendo más evitables cuanto más graves.
+Por otro lado, en un estudio cualitativo previo sobre la experiencia de errores percibidos por los profesionales de primaria, se mostraba que cada médico reconocía una media de 10 errores por año, .
+Sin embargo, determinar los niveles de seguridad clínica de un centro de salud no es tarea fácil. Las estrategias que se han probado han sido variadas:-Acreditar a los centros mediante una batería de indicadores objetivos determinados por auditores externos. No existe una acreditación específica en seguridad clínica, pero los protocolos de la Joint Commission International, así como la ISO, contienen aspectos relevantes al respecto.-Determinar el nivel de cultura grupal en seguridad del paciente como un indicador intermedio fiable y específico de los niveles de seguridad de un servicio asistencial concreto. Numerosos son los trabajos que parten de esta premisa y aplican instrumentos estandarizados para determinar estos niveles de cultura grupal.-Realizar estudios de percepción mediante grupos nominales. En este caso son los profesionales quienes a partir de sus vivencias determinan los aspectos organizativos o de procedimientos en los que en alguna ocasión han detectado casi errores o eventos adversos. La notificación de eventos adversos a bases de datos ad hoc es una variante de esta perspectiva. Este tipo de estudios deben basarse en una taxonomía que asegure que los informantes tienen en cuenta toda la variedad de eventos adversos posibles, y sepan distinguir aquellos que son prevenibles de los que no lo son.
+El presente estudio se propone examinar 4 áreas relevantes en la seguridad de los EAPS: procedimientos, formación, comunicación y cultura de la seguridad, sobre las que existe evidencias de su impacto en la prevención de riesgos, , , , , , , , , , , , , . Así mismo, se adhiere al esfuerzo que realiza el ICS y la Conselleria de Sanitat de Cataluña para llegar a un diseño para la acreditación de centros de salud, en concreto en el apartado de seguridad clínica.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Estudio descriptivo transversal realizado durante los meses de julio de 2008 hasta febrero de 2010.
+
+
+-- CENTROS DONDE SE REALIZÓ EL ESTUDIO
+
+Se seleccionaron un total de 13 centros de las SAP Baix Llobregat Centre, L’Hospitalet i l’Alt Penedès sobre un total de 53 centros de equipos de atención primaria del área de Costa de Ponent, de los cuales 2 centros eran rurales y 11 centros eran urbanos. Por otro lado, 6 centros estaban acreditados para la docencia, 3 centros tenían un tamaño inferior a 20 profesionales sanitarios y 3 parejas de centros compartían el mismo edificio.
+La selección de centros se hizo sobre un total de 53 centros, aparejando cada centro acreditado para la docencia con un centro no acreditado de características similares y procurando que, como mínimo, 3 centros fueran grandes. Respecto a la selección de los centros rurales se escogieron los 2 centros con la población más dispersa del área de estudio.
+
+
+-- CRITERIO DE EXCLUSIÓN DE LOS CENTROS
+
+No colaborar o poner obstáculos para realizar el estudio.
+
+
+-- SELECCIÓN DE PARTICIPANTES
+
+Se seleccionaron los representantes de cada estamento profesional con plaza estable en el centro en el momento de la entrevista. La selección del médico/a centinela fue a cargo del director del equipo y fue escogido en función de su disponibilidad siempre que cumpliera los siguientes requisitos: tener plaza en propiedad o en su defecto llevar más de 5-10 años en el centro y tener entre 40-55 años.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Aceptar colaborar en la entrevista individualizada por estamentos.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+No colaboración o resistencia a proporcionar toda la información.
+
+
+-- METODOLOGÍA
+
+El estudio se basaba en entrevistas individuales realizadas en un corto espacio de tiempo, para evitar que los diferentes participantes compartiesen las respuestas y contaminasen los resultados del estudio. La encuesta recoge información pero también solicita en algunos casos que el profesional muestre habilidades o recursos de tipo material (instrumental, medicación, manual, etc.).
+
+
+-- DISEÑO DE LA ENCUESTA
+
+La encuesta utilizada puede consultarse en Internet y se componía de los siguientes elementos: a) indicadores de seguridad clínica; b) fuentes de información, y c) contraste de las fuentes.
+
+
+-- DEFINICIÓN DE LAS VARIABLES ANALIZADAS
+
+Se recogieron como variables dependientes las características del centro y de los profesionales que actuaban como fuente de información, y como variables independientes los 33 indicadores que se han descrito en la tabla 1.
+Para cada indicador se definió qué resultado expresaba seguridad y qué resultado expresaba un nivel adecuado de seguridad o de riesgo clínico. Con ese fin se agruparon, para cada indicador, todas las respuestas de los profesionales encuestados del mismo estamento de los 13 centros de atención primaria. Si los informantes declaraban en < 50% que el indicador era positivo a seguridad clínica, se consideró por consenso grupal que se trataba de un indicador con necesidad de mejora. Unos niveles entre 50 y 79% fueron considerados aceptables. Un porcentaje mayor del 80% de los informantes se consideró óptimo.
+
+
+-- ANÁLISIS DE LOS DATOS
+
+Los ítems del cuestionario eran variables cualitativas nominales dicotómicas o cualitativas ordinales politómicas y fueron analizadas por el programa SPSS versión 15.0. Para cada indicador se definieron, por consenso grupal, una gradación de óptimo, aceptable o inseguridad.
+El análisis estadístico se basó en una descripción de frecuencias y la comparación de las mismas, que se resume en la tabla 3, así como la descripción de la concordancia entre los siguientes grupos: urbano/rural, docente/no docente, pequeños/grandes, médicos centinelas/directores y entre los 4 estamentos.
+
+
+- RESULTADOS
+
+Como media, auditar un centro de salud con los 4 informantes supuso 1 h y 46 min.
+En la tabla 4 resumimos las características de los participantes.
+Se detectaron niveles de seguridad aceptables (≥ 50%) en la mayoría de indicadores estudiados excepto:•Recepción de nuevos profesionales médicos.•La administración de inyectables de enfermería. Ante la posibilidad de un shock, enfermería manifestó insuficiente formación.•Gestión de interconsultas urgentes a especialistas y de pruebas complementarias. Una derivación realizada por el médico de familia como preferente o urgente puede ser cambiada de prioridad por el especialista sin notificación. El extravío de derivaciones y resultados de pruebas complementarias de carácter urgente también se incluyen en este indicador.•Verificación del cumplimiento de domicilios urgentes y sistema de recogida de domicilios de enfermería en fines de semana: Este indicador se refiere a si algún profesional verifica que no quede ningún domicilio por realizar en el día a día de los centros y los fines de semana.•Presencia de incidentes críticos sobre las agendas de los médicos. Por ejemplo tener que hacer un turno laboral extra sin aviso previo o que se dupliquen el número de visitas de la agenda con el consiguiente exceso de presión asistencial.•Interacciones con pacientes agresivos.•No comprensión por parte de los pacientes del plan terapéutico.•Barreras idiomáticas con pacientes inmigrantes.
+
+
+-- CONCORDANCIAS ENTRE MÉDICOS CENTINELAS Y DIRECTORES
+
+Se detectó un sesgo más crítico para parte de los médicos centinelas en lo que se refiere a los indicadores estudiados.
+
+
+-- PERCEPCIÓN DE SEGURIDAD SEGÚN EL TIPO DE CENTRO
+
+Mostraron mejor percepción los centros rurales, los centros docentes y los centros pequeños.
+
+
+- DISCUSIÓN
+
+El deseo de una práctica clínica libre de riesgos es utópico, pero esforzarnos en su mejora no es solo nuestra responsabilidad profesional sino un deber moral. Ahora bien, no resulta un camino fácil si atendemos a las fuentes de inseguridad (reflejadas en el estudio previo APEAS). Son múltiples y obligan a diferentes estrategias: programas de ayudas a la prescripción farmacológica segura, acreditación de competencias y mejoras organizativas. Nuestro estudio se inscribe en este último enfoque como prolongación del análisis de riesgos con métodos cualitativos realizado en el año 2006, . El citado estudio nos ha permitido definir las variables de la tabla 2, agrupadas en 4 epígrafes que responden a los modelos de seguridad clínica vigentes. La auditoría externa se pensó en un formato mixto, de encuesta y actuarial, en la que unos informantes autorizados por la empresa (director del equipo, adjunto de enfermería y responsable de la atención al usuario) tenían el contrapunto de un informante sin responsabilidades directivas (médico centinela). En síntesis: contraste entre informantes, y entre la información verbal y lo efectivamente mostrado por el informante (por ejemplo, localizando un desfibrilador, mostrando una determinada medicación, etc.).
+Los resultados que hemos encontrado demuestran que los médicos que se incorporan por primera vez a su lugar de trabajo carecen en general de un procedimiento de acogida o período de tutorización; los médicos también perciben riesgo en los incidentes críticos sobre sus agendas, (por ejemplo, que les inserten las visitas de un colega que está de baja); finalmente expresan preocupación por derivaciones urgentes sobre las que no se tienen mecanismos para detectar si se extravían o demoran en exceso. Las enfermeras por su parte temen encontrarse con un shock anafiláctico debido a la administración de inyectables, así como la carencia de un mecanismo de supervisión sobre domicilios a cubrir en fin de semana. De manera más general, en el apartado de comunicación emerge el abordaje del paciente agresivo, con dificultades para comprender un plan terapéutico y la comunicación con el paciente inmigrante.
+Si estas son las carencias merece la pena denotar las fortalezas: a priori pensábamos que aspectos como el avituallamiento de maletines, la comunicación médico-enfermera, los turnos de guardia o la reanimación cardíaca, entre otros, serían problemáticos. No ha sido así, y en este resultado no es ajena cierta cultura de la seguridad que se ha extendido por el conjunto del ICS gracias a iniciativas lideradas por la Alianza para la Seguridad del Paciente (Dirección General de Recursos Sanitarios), y por la propia dirección asistencial. Por todo ello, creemos que se ha superado el umbral de sensibilización profesional sobre la seguridad clínica, y que el principal obstáculo es la resistencia a cambios organizativos.
+Se detectó un sesgo más crítico de los médicos centinelas en relación con la opinión de los directivos cuando valoraban idénticos temas. Posiblemente ello se deba a un mayor grado de compromiso de los directivos con los resultados del centro, aunque no supone automáticamente que el médico centinela deba ser más objetivo. En ocasiones el directivo conoce con mayor profundidad cambios que se han iniciado y que aún no los perciben los profesionales. Los directivos sabían que la encuesta contrastaría su opinión con la de un médico centinela, lo que sin duda añadió esfuerzo de objetividad a su testimonio. Por otro lado se detectaron mejores niveles de seguridad en los centros docentes, no en vano están sujetos a un proceso de reacreditación bianual que afecta al conjunto del centro como a los profesionales. Resulta más problemático explicar el mejor nivel de seguridad de los centros rurales y de pequeño tamaño: puede deberse a un sesgo del estudio (pocos centros), a una mejor comunicación interna de los mismos o incluso a una percepción más idealizada de su funcionamiento.
+Durante la realización de este estudio, el Departament de Salut de la Generalitat de Catalunya ha dado a conocer los criterios que regirán en la acreditación de los centros de salud a los efectos de calidad y seguridad clínica. El documento recoge la mayor parte de las variables consideradas por nosotros, no en vano pudimos participar en el mismo. La realización práctica gravitará sobre el equipo directivo de cada centro (auditoría interna), con verificación externa puntual. Las acreditaciones de la Joint Comission tienen una verificación sobre el terreno exhaustiva, lo que aumenta su coste y disminuye su factibilidad. Otras estrategias evalúan aspectos puntuales de la seguridad clínica basándose en la percepción de los profesionales. En este sentido, se ha propuesto determinar la cultura en seguridad clínica de los equipos asistenciales como un indicador global de dicha seguridad clínica, , , . Por nuestra parte, el instrumento que proponemos aprovecha la información de los profesionales pero verifica y contrasta estas informaciones, todo ello en menos de 2 h.
+La principal limitación de nuestro trabajo estriba en que nos basamos en indicadores no suficientemente validados (podríamos alegar que el origen de dichos indicadores por consenso experto apoya una validez de contenido, ) y sobre una muestra relativamente pequeña de centros de salud. La encuesta debe ganar en consistencia interna, manteniendo unos temas fijos y otros variables, lo que debería permitir que se adapte a la evolución de los centros de salud. En este sentido abogamos por una metodología que constaría de 3 fases: fase cualitativa en la que profesionales clínicos aportan sus percepciones de riesgo mediante grupos focales en función de su experiencia clínica; fase de encuestas sobre centros de salud escogidos que constataría la presencia de un problema episódico o estructural, y, finalmente, trasvase de estas experiencias al protocolo de acreditación donde los indicadores más relevantes se incorporarían a los estándares de calidad obligatorios u optativos. Ello permitiría valorar adecuadamente temas emergentes, como pueden ser de ergonomía física y cognitiva, uso de las TIC, etc.
+En conclusión, se trata de un trabajo exploratorio que permite bosquejar un cuadro inédito de nuestros centros de salud. Contra lo que suele suponerse podemos afirmar que la seguridad clínica está presente en las agendas de los centros de salud, y que existen lagunas organizativas, de procedimientos y comunicación que son fácilmente subsanables si las instituciones ponen en marcha programas específicos. La presencia de un complemento retributivo variable, la historia clínica electrónica y el sistema de «referentes» expertos en diferentes materias son instrumentos capaces de garantizar una mejora importante en la seguridad clínica en el próximo quinquenio. Una encuesta basada en informantes internos, pero con contraste actuarial y entre las fuentes, puede ser adecuada para complementar y orientar la estrategia institucional de acreditación de centros.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

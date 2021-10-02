@@ -1,0 +1,5 @@
+La utilización de una vía de alta resolución del manejo del CRU en un SUH es eficaz, segura y reduce el tiempo de estancia en urgencias.
+Evaluar una vía de alta resolución (vía POC) que utiliza análisis en el punto de atención (point-of-care testing –POCT–) y ecografía en el punto de atención (point-of-care ultrasonography –POCUS–) en la sospecha del cólico renoureteral (CRU) no complicado y compararla con la vía estándar (vía STD).
+Entre noviembre de 2018 y octubre de 2019, se reclutaron 140 pacientes de los que se analizaron 124. El tiempo de estancia total en el SUH de la vía POC fue de 112 minutos (DE 45) y en la vía STD 244 minutos (DE 102) (p 0,001). No hubo diferencias en el tratamiento administrado en urgencias, en el número de diagnósticos alternativos, ni en las complicaciones a 30 días.
+Ensayo clínico aleatorizado, controlado, no ciego, realizado en un servicio de urgencias hospitalario (SUH). Incluyó pacientes con sospecha clínica de CRU agudo y se aleatorizaron 1:1 a seguir vía POC o vía STD. Se analizó el tiempo de estancia en el SUH, el tratamiento administrado, la proporción de diagnósticos alternativos a CRU y las complicaciones a 30 días.
+

@@ -1,0 +1,68 @@
+ALTA PREVALENCIA DE INFECCIÓN POR SARS-COV-2 EN PACIENTES PROGRAMADOS PARA ENDOSCOPIA DIGESTIVA DESPUÉS DEL PICO DE LA PRIMERA ONDA PANDÉMICA
+
+
+- INTRODUCCIÓN
+
+A principios de diciembre, una serie de casos de neumonía de origen desconocido fueron identificados en Wuhan, China, . China lo notificó a la Oficina de la Organización Mundial de la Salud (OMS) el 31 de diciembre de 2019. El 7 de enero de 2020 las autoridades de salud chinas confirmaron la identificación de un nuevo betacoronavirus (SARS-CoV-2) de la misma familia que los que causaban el síndrome respiratorio agudo severo (SARS) y el síndrome respiratorio del Medio Este (MERS). El 30 de enero, el Director General de la OMS declaró la Emergencia de Salud Pública de ámbito internacional. El 11 de marzo la OMS declaró el brote causado por el nuevo betacoronavirus como pandémico, .
+Desde el 31 de diciembre de 2020 hasta el 28 de diciembre de 2021 han sido reportados 76.103.424 casos en el mundo de COVID-19 con 1.694.717 muertes. Durante ese periodo se han notificado en España 1.819.249 casos y 49.260 muertes y en Cataluña 341.109 casos con 16.942 defunciones.
+La vía de transmisión primaria es la inhalación de microgotas, pero pueden existir otros mecanismos, como la conjuntival: un estudio mostró la detección del RNA del virus en la conjuntiva; fecal: varios estudios han demostrado RNA viral en heces y la presencia de receptores ACE-2 (puerta de entrada del virus a la célula) en el tracto gastrointestinal, , , ; y fómites: se aisló RNA viral en diferentes superficies de la habitación de un paciente infectado.
+En esta situación, los profesionales de salud que trabajan en Unidades de Endoscopia (PSUE) tienen un incremento en el riesgo de infección por SARS-CoV-2 por la inhalación de microgotas, contacto conjuntival y posible transmisión feco-oral, . La endoscopia alta provoca aerosoles durante su práctica, siendo éste un procedimiento de alto riesgo, , , , , , . Además, el RNA del virus se ha detectado en heces, , , , . El mecanismo de entrada del virus a la célula humana es el receptor del enzima conversor de la angiotensina 2 (ACE2), que está altamente expresado en el tracto gastrointestinal, lo que hace que el riesgo de trasmisión en endoscopia baja sea incierto. Si los PSUE adquieren la infección pueden trasmitirla a sus compañeros, familias y otros pacientes, generando un brote hospitalario como se ha comunicado en otros países europeos.
+La primera ronda del estudio de seroprevalencia en España realizado el 13 de mayo de 2020 estimó una prevalencia de anticuerpos IgG contra SARS-CoV-2 del 5,9% (IC 95%: 4,9-6,9) en Cataluña y del 2,5% (IC 95%: 4,9-6,9) en Girona.
+Nuestro objetivo fue estimar la prevalencia de la infección por SARS-CoV-2 en una serie de pacientes asintomáticos previa a la realización de endoscopia digestiva después del pico de la primera onda epidémica en España.
+
+
+- MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Siguiendo las recomendaciones de la Societat Catalana de Digestologia (SCD), la Sociedad Española de Endoscopia Digestiva (SEED) y la Asociación Española de Gastroenterología (AEG), así como la posición de The European Society of Gastrointestinal Endoscopy (ESGE) y la Sociedad Europea de Enfermeras y Asociados (ESGENA), que desarrollaron estrategias para el reinicio de la actividad endoscópica programada en las Unidades de Endoscopia Digestiva, en el mes de mayo se comenzó la programación electiva en la Unidad de Endoscopia del Hospital de Santa Caterina (Salt, Girona).
+Una vez superada la primera fase de la pandemia (pico pandémico), en la que únicamente se realizaron procedimientos endoscópicos urgentes (segunda quincena de marzo y abril de 2020), en el mes de mayo se inició la fase 2 (transición), procediendo a programar endoscopias digestivas. Para ello, nos basamos en las recomendaciones preventivas de infección y priorización anteriormente señaladas. En primer lugar, se hizo un triaje telefónico sobre síntomas (fiebre, tos, disnea) y/o contactos con un positivo los 14 días anteriores y si las respuestas fueron negativas se realizó una RT-PCR para SARS-CoV-2 por aspirado nasofaríngeo 48-72 horas previas al procedimiento. Si el resultado era negativo se practicó la exploración endoscópica gastrointestinal con las medidas de prevención recomendadas.
+Se incluyeron en el estudio todos los procedimientos programados entre el 1 y el 31 de mayo de 2020. Un total de 110 pacientes fueron reclutados.
+
+
+-- RECLUTAMIENTO DE PACIENTES, RECOGIDA DE MUESTRAS Y TÉCNICA DEL LABORATORIO
+
+Las muestras biológicas para el diagnóstico de SARS-CoV-2 fueron recogidas vía nasofaríngea de acuerdo con las guías establecidas, .
+Se tomaron muestras de exudados nasofaríngeos tomados con un hisopo flocado que fueron depositadas en un tubo con 3 mL de medio de transporte universal (UTMTM), medio de transporte viral estable a temperatura ambiente y especialmente diseñado para la recolección, transporte, mantenimiento y almacenamiento de muestras para ensayos moleculares, hasta su procesamiento.
+La extracción del ARN de la muestra se realizó con un kit de Qiagen adaptado, BiosSprint® 96 DNA Blood Kit (384), que utiliza tecnología de partículas magnéticas por la purificación de los ácidos nucleicos.
+El «gold estándar» actual para el diagnóstico de la infección por SARS-CoV-2 es la reacción en cadena de la polimerasa con transcriptasa inversa (RT-PCR). El laboratorio utilizó, de forma indistinta, dos ensayos para la amplificación/detección del nCoV SARS-2 con las siguientes metodologías:1.El método recomendado por la OMS, con tres dianas moleculares, una común a todos los coronavirus, el gen E (gen de la Envoltura), y dos específicas del nCoV SARS-2, el gen RdRp (gen de la RNA polimerasa RNA dependiente) y el gen N (gen de la Nucleocápside). Se usó el kit AllplexTM 2019-nCoV Assay de Seegene, que detecta las tres dianas simultáneamente en un único tubo. La amplificación y la lectura se ha realizado en un sistema CFX96™.2.El método del Center for Prevention and Control Diseases (CDC), con tres dianas moleculares específicas del nCoV SARS-2 (N1, N2 y N3) del gen N. En este método se emplearon reactivos de Applied Biosystems TM y para la amplificación y la lectura del resultado el equipo QuantStudio TM 7 Flex Real-Time PCR System, de Applied Biosystems TM.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Todos los datos medidos se muestran en tablas e histogramas. Se aplicó estadística descriptiva para resumir los datos. Los resultados se reportan como medias y rangos según precise. El análisis fue realizado con SPSS v24.0.
+
+
+-- ÉTICA
+
+La investigación se realizó de acuerdo con la General Data Protection Regulation (Regulation (EU) 2016/679 y directiva 95/46/EC) y el Acta Española de Datos Personales (BOE-A-2018-16673. https://www.boe.es/eli/es/lo/2018/12/05/3/con).
+
+
+- RESULTADOS
+
+Los datos demográficos y características basales de todos los pacientes asintomáticos para infección SARS-CoV-2, sin contactos con positivos los 14 días previos y que fueron programados para endoscopia digestiva en el Hospital de Santa Caterina Salt. (Girona) entre el 1 y el 31 de mayo se muestra en la tabla 1 . Se programaron durante este periodo 110 pacientes. Se detectó mediante RT-PCR la presencia de SARS-CoV-2 en aspirado nasofaríngeo en 5 (4,5%) y no fue detectado en 105 (96,4%). Se realizaron 39 gastroscopias, 53 colonoscopias y 13 gastroscopia más colonoscopia. El tiempo medio de la realización de las exploraciones endoscópicas fue de 6,6 minutos (mn) (R:3-10) en gastroscopia, 20,7 mn (R:6-60) en colonoscopias y de 32 mn (R:18-60) en gastroscopia más colonoscopia.
+Las características clínicas de los pacientes en cuenta a edad, sexo, fecha de programación, presencia de comorbilidades e indicación de la exploración, se muestran en la tabla 1.
+Se detectaron cinco casos positivos. Dos pacientes desarrollaron sintomatología leve-moderada de la infección por SARS-CoV-2 en días posteriores al diagnóstico. El paciente 3, presentó tos durante dos días y el paciente 4 disnea y dolor de cabeza durante 15 días. El resto de los pacientes permanecieron asintomáticos durante todo el seguimiento. Todos ellos fueron aislados durante 14 días y se hizo seguimiento epidemiológico de contactos. La endoscopia fue pospuesta en estos cinco casos.
+Las principales características clínicas y epidemiológicas de los cinco pacientes positivos se presentan en la tabla 2 . El gen N fue detectado en todos los pacientes positivos.
+
+
+- DISCUSIÓN
+
+La detección del material genético del virus SARS-CoV-2 en muestras del tracto respiratorio superior sugieren un riesgo alto de transmisibilidad en sujetos asintomáticos y presintomáticos durante la realización de una endoscopia digestiva alta por la generación de aerosoles durante el procedimiento o bien en la toma de muestras y potencialmente en la endoscopia baja por eliminación fecal. Así, los pacientes programados para la realización de una endoscopia digestiva pueden representar una ruta potencial de transmisión.
+Por otro lado, debido a que los procedimientos endoscópicos se realizan en una distancia corta con el paciente y otros PSUE, parece lógico que pacientes y PSUE están expuestos al riesgo de infección de enfermedades con transmisión aérea. Este hecho toma más relevancia en épocas y zonas de alta prevalencia.
+La enfermedad por SARS-CoV-2 (COVID-19) puede presentarse en un alto porcentaje con síntomas gastrointestinales y su presencia implicar la posibilidad de evolución más grave. Esta sintomatología podría ser un factor de confusión en la indicación de la endoscopia y sugerimos incluir en el cribaje telefónico sintomatología gastrointestinal aguda como parte de la COVID-19. Sobre la epidemiología de las manifestaciones entéricas y la posible transmisión fecal-oral de la COVID-19 hemos publicado un estudio de revisión sistemática recientemente.
+La pandemia ha limitado de forma severa la posibilidad de realizar en un tiempo adecuado los procedimientos endoscópicos para el diagnóstico precoz del cáncer colorrectal y se debe realizar un rediseño imaginativo de los servicios de endoscopia, usando la cuantificación de la sangre oculta en heces en la priorización de las endoscopias como un nuevo método y la revisión de la indicación y/o priorización de las exploraciones.
+A diferencia de nuestro estudio, en el que se ha obtenido mediante RT-PCR una alta prevalencia de infección por SARS-CoV-2, un estudio reciente ha obtenido una baja seroprevalencia (1,9%) mediante la determinación de anticuerpos IgG e IgM, pero éste, se realizó en una zona de baja prevalencia.
+En nuestro estudio se ha detectado una alta prevalencia de infección por SARS-CoV-2 (4,5%) en pacientes asintomáticos programados para la realización de endoscopia digestiva electiva durante el mes de mayo de 2020. Este hecho contrasta con el estudio de seroprevalencia realizado en España y publicado el 13 de mayo en que estimaba en Girona la presencia de 2,5% de personas con IgG positiva.
+El estudio muestra la importancia del cribado de la infección por SARS-CoV-2 previo a la realización de estudios endoscópicos, especialmente en zonas y épocas de alto nivel de prevalencia. El valor predictivo negativo de la RT-PCR no es del 100% y por tanto los PSUE deben mantener las medidas de protección, especialmente en procedimientos endoscópicos altos.
+La pandemia de COVID-19 ha afectado la práctica clínica habitual de la endoscopia gastrointestinal (tanto diagnóstica como terapéutica) y lo hará de forma previsible en un futuro. Por tanto, los endoscopistas deben adaptarse mientras continúan brindando atención y, al mismo tiempo, protegiendo tanto a los pacientes como a sí mismos adoptando las medidas de prevención y control de infecciones, entre las que estarían la detección previa de la infección por SARS-CoV-2 y un uso adecuado de equipos de protección personal en situación de pandemia.
+
+
+- CONCLUSIONES
+
+Se ha detectado una alta tasa de prevalencia RNA de SARS-CoV-2 testado por RT-PCR en muestras nasofaríngeas de pacientes programados de forma electiva, según guías de priorización, para la realización de una endoscopia digestiva.
+
+
+- CONFLICTOS DE INTERÉS
+
+Los autores declaran no tener ningún conflicto de intereses.

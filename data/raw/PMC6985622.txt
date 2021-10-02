@@ -1,0 +1,87 @@
+IMPACTO DE UNA INTERVENCIÓN PSICOSOCIAL EN LA CARGA DEL CUIDADOR DE NIÑOS CON PARÁLISIS CEREBRAL
+
+
+- INTRODUCCIÓN
+
+La parálisis cerebral infantil (PCI) consiste en un trastorno del desarrollo del tono postural y del movimiento de carácter persistente secundario a una lesión no progresiva en un cerebro inmaduro.
+Es la causa más frecuente de discapacidad física pediátrica, con una prevalencia mundial de 1 a 5 casos por cada 1.000 habitantes. En México no se han publicado datos de su prevalencia, aunque se estima que son afectadas 500.000 personas y sus familias.
+El diagnóstico de PCI trae consigo cambios en la familia, donde las costumbres de sus integrantes se deberán adaptar a las necesidades del niño; la actitud que adopten los padres ante esta experiencia dependerá de factores personales y sociales.
+Comúnmente una persona de la familia cubrirá las necesidades de atención de estos niños, coincidiendo con la definición de Wilson de cuidador informal (CI), quien lo define como aquella persona procedente del sistema de apoyo del paciente, familiar o amigo quien asume la responsabilidad absoluta del enfermo en todo lo que respecta a su atención básica. Esta función es cubierta en la mayoría de los casos por la madre, quien a lo largo de esta tarea se ve afectada tanto física como emocionalmente.
+Ser CI supone una carga para la persona que ejerce este rol; Trudley refiere que esta carga es consecuencia del estrecho contacto del familiar con su paciente; además, posee un componente objetivo y otro subjetivo, por lo que la sobrecarga del CI es un concepto multidimensional que considera la tensión existente en los aspectos emocionales, físicos y sociales de los CI.
+Un metaanálisis realizado sobre 84 estudios diferentes en los que se comparaba a cuidadores y no cuidadores demuestra que los cuidadores están más estresados, deprimidos y tienen peores niveles de bienestar subjetivo y salud física que los no cuidadores. Bristol demostró que los padres de niños con discapacidad presentan fatiga, depresión, baja autoestima e insatisfacción interpersonal. Por lo anterior es de esperar que los CI de niños con PCI presenten características similares.
+Martínez et al. llevaron a cabo un estudio descriptivo en un centro de rehabilitación con CI de niños con PCI. Reportaron un 88% de sobrecarga en la población utilizando el cuestionario Zarit, por lo que plantearon la necesidad de implementar intervenciones con el fin de elevar la calidad de vida de los CI. Además se ha reportado que en las familias con sobrecarga los niños con PCI se encuentran menos motivados para emprender nuevas tareas dentro en su terapia. Otros estudios también toman en cuenta el bienestar de los padres dentro de los programas de rehabilitación de los niños y señalan la importancia de disminuir su estrés como parte de las metas de terapia dirigidas al infante.
+En la literatura se reportan diversas intervenciones con este fin, en su mayoría dirigidas a cuidadores de adultos dependientes; un metaanálisis agrupó estas intervenciones en: grupos de apoyo, intervenciones psicoeducativas y programas de intervención clínica, entre otras intervenciones psicosociales; se considera que las intervenciones psicoeducativas son de los procedimientos más efectivos para reducir el malestar de los cuidadores; dentro de las intervenciones psicoeducativas podemos agrupar a la terapia de resolución de problemas en su forma para atención primaria, la cual ha demostrado su eficacia para disminuir los síntomas de ansiedad, depresión y aumentar el bienestar percibido en los CI, tal y como demostraron Leal et al. en su estudio donde el nivel de sobrecarga se redujo en los CI mediante este tipo de intervenciones.
+Debido al alta prevalecía de la PCI y a que los CI influyen directamente sobre la calidad de vida de los infantes, consideramos conveniente elaborar una investigación en un ambiente de atención primaria cuyo objetivo principal sea demostrar que la terapia de resolución de problemas es eficaz para disminuir la carga en los cuidadores de niños con parálisis cerebral.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Ensayo clínico aleatorizado.
+
+
+-- PARTICIPANTES
+
+Esta muestra corresponde a CI de niños con PCI que se encuentran recibiendo atención por parte del Instituto Nuevo Amanecer (INA); al ser un instituto, a los niños se les considera alumnos. El INA pertenece al área metropolitana de Monterrey, México. Como institución privada no lucrativa ofrece educación a nivel maternal, preescolar y primaria junto a terapia física y médica a niños con diagnóstico de PCI o algún trastorno psicomotor; el área médica brinda atención primaria. Los criterios de ingreso fueron: ser CI mayor de edad, ser CI a cargo de uno o más niños con diagnóstico de PCI, ser CI con carga leve, moderada o severa mediante el cuestionario de Zarit. Los criterios de exclusión fueron: ser personas con orientación profesional acerca de cómo desenvolverse como CI o ser CI que no acude al INA. Los criterios de eliminación fueron: abandonar el estudio, no contestar de manera completa los instrumentos o no completar la intervención psicosocial.
+Contando con un diagnóstico previo de carga del CI que acude a el INA y a partir de una población de 219 cuidadores, se estimó el tamaño de muestra con una confiabilidad del 95% y una variabilidad máxima probable del 50% mediante la fórmula de tamaños muestrales en poblaciones finitas, obteniendo un tamaño estimado de 70 CI para el grupo control (GC) y 70 CI para el grupo experimental (GE); los cuidadores fueron asignados mediante un muestreo aleatorizado simple utilizando tarjetas selladas para la asignación de los participantes en dichos grupos.
+
+
+-- PROCEDIMIENTO
+
+Se invitó a la población a participar en el estudio previa obtención de consentimiento informado. Una semana previa a la intervención aplicamos un cuestionario que incluía datos sociodemográficos, preguntas hacia los CI acerca de dicho rol y por el instrumento llamado «Entrevista de sobrecarga del cuidador de Zarit». A partir de este instrumento se catalogó a la población en carga nula si arrojaba menos de 23 puntos, carga leve a partir de 24 a 30 puntos, carga moderada en un rango de 31 a 40 puntos y carga severa cuando se puntuó más de 41. Cada grupo fue abordado por un médico residente de tercer año de la especialidad de medicina familiar con experiencia en intervenciones familiares.
+La intervención en el GE fue basada en la terapia de resolución de problemas en su modelo para atención primaria; esta terapia es un modelo utilizado por Mynors-Wallis et al. y creado por D’Zurilla y Goldfried en 1971; consiste en un tratamiento breve de 6 sesiones centrado en la práctica de habilidades, y su objetivo es que el paciente recupere el control de su vida. Se retomó este modelo en una forma breve llevada a cabo con éxito en otras investigaciones, por lo que reducimos a 3 el número de sesiones; cada sesión incluyó 7 pasos: explicación, racionalización, definición del problema, establecimiento de metas, generación de soluciones, selección de la mejor solución, e implementación y evaluación del resultado. Las sesiones se orientaron hacia la carga del CI y se realizaron con material de apoyo visual mediante diapositivas facilitando la identificación de los problemas al definir cada uno de los ítems del cuestionario Zarit como un problema a resolver mediante la terapia de resolución de problemas. En el GC se trató el manejo y prevención de infecciones respiratorias altas siguiendo el mismo formato, tiempo y sesiones que en el GE, para evitar el efecto Hawthorne. Las sesiones fueron grupales, con 10 CI por grupo y un total de 7 grupos tanto en el GC como en el GE, se realizaron dentro de un consultorio médico perteneciente al INA en una frecuencia de una sesión por semana a completar 3 sesiones y con una duración total de 120 min. Al término de la intervención se midió de nuevo la carga experimentada por los CI mediante el mismo cuestionario Zarit.
+
+
+-- INSTRUMENTOS
+
+Se elaboró un cuestionario conformado por 3 secciones. La primera sección correspondió a datos sociodemográficos de los CI, tales como: edad y género, tanto del alumno como del CI, procedencia, escolaridad, estado civil, ocupación y parentesco de los CI; incluimos una sección en el cuestionario con 4 preguntas orientadas a conocer si la población identificaba el término CI o les gustaría participar en alguna capacitación como CI. La última sección incluía el instrumento «Entrevista de sobrecarga del cuidador de Zarit», que consiste en una encuesta autoaplicada tipo Likert de 22 reactivos con puntuaciones de 0 a 88 puntos y un alfa de Cronbach de 0,90. Este instrumento ha sido probado y validado en población mexicana.
+
+
+-- ANÁLISIS DE DATOS
+
+Se utilizó estadística inferencial mediante el paquete estadístico SPSS versión 20 para Windows. En la comparación de las variables sociodemográficas de ambos grupos se utilizó la Chi cuadrado. Además, para establecer diferencia en los promedios se utilizó la prueba de la t de Student para muestras independientes, comparando las mediciones en los GE y GC posterior a la intervención psicosocial; así mismo se utilizó la prueba de Wilcoxon para establecer diferencias en la carga de los cuidadores.
+
+
+-- ASPECTOS ÉTICOS
+
+Se contó con el aval del Comité de Ética de la Facultad de Medicina de la Universidad Autónoma de Nuevo León, con registro MF13-001.
+
+
+- RESULTADOS
+
+No se reportaron pérdidas durante el estudio. En el GE los CI tenían una edad media de 34,1 años (mínima de 21, máxima de 60) y una edad media del alumno de 5,9 años (mínima de 1, máxima de 13) dedicando entre 4 a 24 h al día a actividades de cuidador (media de 8,3 h). En el GC encontramos que los CI tenían una media de edad de 34,8 años (mínima de 18, máxima de 66), la media de edad del alumno fue de 5,8 años (mínima de 1, máxima de 12), y dedicaban entre 4 a 24 h al día a actividades del cuidador (media de 8,5 h). Ambos grupos poseían características similares . Se realizó la prueba de Chi cuadrado y fueron comparables.
+Ambos grupos (100% del total de la muestra) mostraron interés en tomar una capacitación como CI, ya que no contaban con información acerca de lo que implicaba ejercer este rol. Solo el 2,9% de los CI tanto del GE como del GC conocían el término de CI o algún sinónimo; el 100% de la población declaró que desconocía los cuidados que requerían para proteger su propia salud como CI.
+Para evaluar el impacto de la intervención en el promedio de la carga del cuidador se utilizó la prueba t de Student, dado que la prueba de Kolmogorov Smirnov reveló normalidad. El promedio preintervención en el GE fue de 45,0 puntos según el cuestionario Zarit. Posterior a la intervención, en el GE se obtuvo una puntuación de 29,8, con un intervalo de confianza del 95% y un valor mínimo y máximo de 12,6-17,7 (p < 0,0001); en el GC se obtuvo un promedio preintervención de 43,5 puntos, y el promedio posterior a la intervención fue de 44,3 (p < 0,01).
+Para medir el impacto de la intervención en los diversos grados de carga de los CI realizamos la prueba de Wilcoxon, obteniendo diferencias en el contraste del GC respecto al GE; para el GC no obtuvimos diferencias significativas, en tanto para el GE se obtuvo un valor de Z = –6,281; esto se aprecia en el GE al aparecer CI con carga nula, a diferencia del GC, donde no aparecen CI sin carga posterior a la intervención .
+
+
+- DISCUSIÓN
+
+Con nuestro estudio mostramos que una intervención basada en la terapia de resolución de problemas disminuye la carga de los CI de niños con PCI; esto coincide con estudios similares donde se ha utilizado este tipo de intervenciones para mejorar la calidad de vida del CI, tal como el efectuado por Ferré-Grau et al., donde, al igual que en nuestra investigación, se demostró el impacto positivo sobre el bienestar de los CI. En este caso la intervención se concentró en el aprendizaje de una nueva habilidad, ya que se han observado buenos resultados con este tipo de intervenciones, .
+
+
+-- INTERVENCIÓN PSICOSOCIAL
+
+Al formar grupos durante nuestra intervención se brindó la oportunidad de conocer a otras personas con problemáticas similares; de esta manera se exploraron diferentes alternativas de solución en base a la experiencia de los mismos CI. Otros estudios ya han señalado estas ventajas, como en los grupos de entrenamiento intensivo dirigidos a padres y niños con PCI, donde los padres adquieren habilidades para apoyar el funcionamiento de sus hijos, pues el reunir a un grupo de personas que pasan por situaciones similares tiende a normalizar la vida de los CI. Otra ventaja fue que el equipo médico que se encarga de la atención regular de los niños realizara la intervención, pues se facilitó la integración de un modelo biopsicosocial donde el equipo no solo enfocó sus cuidados al bienestar del niño, sino también a quien lo cuida; sabemos que la carga del cuidador es un concepto multifactorial que no depende solo del grado de PCI, y existen estudios en la literatura que demuestran que a pesar de la mejoría en la función motora del paciente, la calidad de vida de sus CI no mejora. En base a esto, otros investigadores ya han señalado la importancia de aplicar un modelo integrador que oriente las intervenciones a disminuir el estrés de los CI, tal y como lo demuestra nuestra intervención, y no solo orientarse a los cuidados del infante, .
+Los CI de niños con discapacidad presentan una gran carga de estrés, como observamos en nuestro estudio. Asumimos que es probable que requieran un seguimiento e intervenciones posteriores, pero al ser la continuidad una de las características de la medicina familiar, creemos que los médicos encargados de estas familias podrían resolver este tipo de situaciones al contar con intervenciones efectivas para aliviar la carga de los CI. Es necesario prestar atención a esta población y desarrollar técnicas eficaces dirigidas a disminuir el malestar de esta población; creemos que es importante que futuras investigaciones lleven a cabo un seguimiento a un mayor plazo.
+
+
+-- CUIDADORES INFORMALES Y CARGA DEL CUIDADOR
+
+El perfil de CI del presente estudio es similar al reportado por la literatura, donde se han determinado las características de los CI de pacientes con PCI. Un estudio llevado a cabo en el estado de México muestra un perfil similar al nuestro, con la diferencia que en su poblacion los CI presentaban con mayor frecuencia carga moderada (47%). Esto contrasta con nuestra población, que presentó mayor carga severa en ambos grupos (52,8%). Otro estudio llevado a cabo en Guadalajara (México) encontró una mayor prevalencia de carga leve en el 46,8% de los CI de PCI. Sin embargo, al igual que el estudio de Martínez et al., coincidimos en que la carga severa, tal y como lo es en nuestro estudio, se reporta con mayor frecuencia en la literatura.
+
+
+- CONCLUSIONES
+
+El presente estudio demuestra que la terapia de resolución de problemas disminuye la carga del cuidador, más específicamente en el cuidador de niños con parálisis cerebral, por lo que dada su practicidad puede ser utilizada por médicos en su consultorio. Sería de utilidad realizar un estudio posterior para determinar en qué tipo de carga (leve, moderada o severa) tiene mayor eficacia.
+
+
+- FINANCIACIÓN
+
+Recursos propios.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.Lo conocido sobre el tema•La carga es frecuente en los cuidadores informales.•La carga del cuidador afecta la salud de los cuidadores informales.•Las intervenciones psicosociales son efectivas para disminuir la carga en los cuidadores informales.Qué aporta este estudio•La terapia de resolución de problemas es efectiva para disminuir la carga del cuidador informal.•La terapia de resolución de problemas puede aplicarse en el consultorio de atención primaria.

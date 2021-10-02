@@ -1,0 +1,55 @@
+SOBREDIAGNÓSTICO EN LA SALUD DE LA MUJER: EL CASO DE LA OSTEOPOROSIS
+
+
+- INTRODUCCIÓN
+
+En el año 1994 se adoptó como criterio diagnóstico de osteoporosis el valor densitométrico, definiéndose como osteoporosis una densidad mineral ósea (DMO) menor o igual de –2,5 DS y como osteopenia una DMO < –1 DS y > –2,5 DS; según estos criterios, en España, el 17,2% de las mujeres entre 50 y 60 años serían osteoporóticas, aumentando al 35,2% en el grupo de 60-70 años y a un 52,5% en las mayores de 70 años. El criterio utilizado para la medición de la masa ósea (T-score) supone comparar la DMO individual con la de una mujer joven (20-25 años), en lugar de la razonable comparación con mujeres de su misma edad (Z-score). De esta forma, se favorece el sobrediagnóstico y como consecuencia también el sobretratamiento y la iatrogenia.
+
+
+- CRIBADO DE LA OSTEOPOROSIS
+
+Ninguna sociedad científica se ha pronunciado a favor del cribado poblacional de osteoporosis en mujeres posmenopáusicas; sin embargo, la National Osteoporosis Foundation (NOF) justifica la realización de densitometría a toda mujer mayor de 50 años que presente determinados factores de riesgo muy prevalentes en la sociedad (historia de fracturas por fragilidad, fumadora, menopausia precoz, baja ingesta de calcio, baja actividad física, etc.), lo que supone preconizar un cribado «de facto».
+A la hora de plantear una estrategia de cribado poblacional, hay que tener en cuenta 3 aspectos: la validez de la herramienta de cribado, la eficacia de los tratamientos disponibles y la magnitud del problema.a.La validez de la herramienta de cribado, en este caso la DMO :
+
+
+
+
+
+- CRITERIOS DE CRIBADO Y ESCALAS DE RIESGO
+
+La osteoporosis es una enfermedad de mujeres mayores de 65 años, si hablamos de fractura vertebral, y por encima de 75 años si hablamos de fractura de cadera, por lo que parece que la estrategia más razonable es plantear la indicación de cribado densitométrico en función del riesgo de fracturas, no a lo largo de la vida, sino en los próximos 10 años. En este sentido:
+Por lo tanto, salvo excepciones, la mayoría de sociedades científicas asumen la estrategia de calibrar el riesgo de fracturas en los próximos 10 años. A continuación, se enumeran algunas de las escalas de riesgo más utilizadas:
+
+
+- DEFINICIÓN DE UMBRALES
+
+Una vez establecida la posible herramienta de cribado, el punto clave es establecer los umbrales de riesgo y de intervención.
+Las recomendaciones de la NOF son tenidas en cuenta por la comunidad científica, a pesar de sus conflictos de interés con la industria. Defienden el cribado a mujeres por encima de los 65 años, y por encima de los 50 si tienen factores de riesgo de fractura, y a hombres por encima de los 70 años. Recomiendan, independientemente de la edad y de los factores de riesgo, el tratamiento en todo paciente con DMO < –2,5 DS de T-score, otorgando categoría de enfermedad a lo que tan solo es un factor de riesgo. Si hay un riesgo mayor del 20% de fracturas totales o del 3% de fracturas de cadera en los próximos 10 años, el tratamiento se aconseja si la DMO está en rango de osteopenia (< –1 DS y > –2,5 DS), a pesar de que no hay datos de eficacia de tratamiento farmacológico en mujeres con osteopenia. Se sigue primando la DMO sobre otros factores de riesgo a pesar de que el efecto de la edad es mucho mayor que la reducción de la DMO, . Considerando estos criterios de intervención, el 75% de las mujeres americanas de más de 65 años y el 95% de las mujeres mayores de 75 años deberían realizar tratamiento farmacológico. Con algunas modificaciones, estas recomendaciones se siguen en otras partes del mundo como por ejemplo Canadá o Japón; en algunos países se establecen diferentes niveles de intervención en función de la edad, pero en términos muy parecidos.
+
+
+- SITUACIÓN EN ESPAÑA
+
+-- VALIDACIÓN DE LAS TABLAS FRAX
+
+Una de las limitaciones de la aplicación de las escalas de riesgo es la variabilidad de la prevalencia de fracturas en los diferentes países. Esto hace que el criterio densitométrico de riesgo varía ampliamente dependiendo de cada país. Por dicha razón, es importante que las tablas de riesgo de cada país estén suficientemente validadas en la población referenciada.
+En España, Azagra et al., tras analizar una selección de paciente sin tratamiento osteoporótico de la cohorte FRIDEX, llegan a la conclusión de que la capacidad predictiva para fractura principal es baja, siendo del orden del 1,72 (IC del 95%: 1,27-2,27) para FRAX® sin DMO y de 1,61 (IC del 95%: 1,19-2,12) para FRAX® con DMO del cuello femoral, lo que conduce a una infraestimación de las fracturas principales y de fémur proximal. La herramienta FRAX® muestra, igualmente, una pobre capacidad discriminativa para fracturas principales y buena para fracturas proximales de fémur.
+Con el fin de ajustar los resultados de las tablas a la realidad, el modelo de Azagra establece como rangos de riesgo: menos del 5% riesgo bajo, riesgo entre 5 y 7,5% riesgo intermedio, y riesgo alto mayor o igual a 7,5%. El umbral para realizar la densitometría sería un riesgo mayor o igual al 5%. Una vez hecha la densitometría, habría que reclasificar el riesgo, incluyendo esos valores, y plantear intervención a partir de un riesgo mayor o igual al 7,5%, es decir, un riesgo alto. Con esta adecuación, el análisis de precisión diagnóstica mejora la especificidad en más de 6 puntos y el VPP en casi 10 puntos respecto al modelo de diagnóstico tradicional, sin que se modifiquen la sensibilidad ni el valor predictivo negativo.
+Aunque el modelo de Azagra está construido con rigor y es un modelo mejorado con respecto al modelo de criterio densitométrico, hay que tener en cuenta una serie de aspectos. En primer lugar, la selección de la muestra de los 816 pacientes no es aleatoria y, además, el escaso número de fracturas limita las conclusiones (46 fracturas mayores —15 de cadera, 3 vertebrales, 15 de humero proximal y 17 de muñeca— de las 816 que componían la muestra, de las cuales el 49% de las mujeres fracturadas tenían antecedentes previos de fractura versus el 18,5% de las no fracturadas). Por otro lado, el modelo Azagra desatiende la edad como factor limitante para plantear la intervención a pesar de que la edad (media en el grupo fracturado de 63 años versus 56 del grupo no fracturado), junto con el antecedente de fracturas previas y la presencia de osteoporosis densitométrica, son las variables claramente significativas entre las mujeres que han sufrido fracturas frente a las que no.
+
+
+-- UTILIZACIÓN DE LOS PROPIOS DATOS Y CAMBIO DE PARADIGMA: Z-SCORE
+
+Recientemente, la Comunidad de Madrid ha presentado una actualización de la guía de Recomendaciones para la valoración y tratamiento de la osteoporosis, aplicando el modelo matemático del estudio de Rotterdam a los datos de fractura de cadera de la Comunidad de Madrid . Las nuevas recomendaciones suponen un cambio de paradigma, ya que en la valoración de los resultados de la densitometría se tiene en cuenta: tan solo la fractura de cadera (sobre la que existen datos y provoca mayor morbimortalidad), y el Z-score en lugar del T-score, pareciendo razonable utilizar la variable que compara mujeres de la misma edad, y no con otras más jóvenes como ocurre con el T-score .
+A la hora de plantear el punto de intervención, el riesgo considerado para indicar tratamientos farmacológicos es de un riesgo mayor del 10% de fractura de cadera en los próximos 10 años. Con estos resultados, y valorando una reducción de fracturas con los tratamientos disponibles de un 0,4-0,5% al año, el NNT se situaría en torno a los 200-250 pacientes. Si consideramos un riesgo de fractura mayor del 3%, como plantean algunas guías (como la NOF), el NNT sería de 570, que se antoja demasiado alto y poco coste-efectivo.
+El umbral a partir del cual se recomienda considerar la densitometría es un riesgo del 2,8% . Tras realizar la densitometría en los casos indicados, habría que recalibrar el riesgo para considerar tratamiento farmacológico, una vez informada la paciente del balance beneficio riesgo del mismo. El cálculo de los factores de riesgo se hace otorgando un punto a los factores de riesgo con un riesgo relativo igual o mayor a 2, y 2 puntos a los que tienen un riesgo relativo mayor o igual a 4 .
+En el modelo propuesto, el Z-score, además, no obra como variable cualitativa (osteoporosis o no osteoporosis), sino como variable cuantitativa: en cada nivel de riesgo considerado, se analiza el valor del Z-score necesario para que la mujer tenga (sumando el riesgo acumulado según edad y factores de riesgo, y el riesgo que supone un Z-score disminuido) un 10% de riesgo de fractura de cadera, y así justificar un tratamiento farmacológico. Con ellos se previenen no solo fracturas de cadera, sino todo tipo de fracturas, al igual que en riesgo cardiovascular la aplicación del score (que predice muerte cardiovascular) evita no solo muerte, sino eventos cardiovasculares.
+
+
+- CONCLUSIÓN
+
+La osteoporosis densitométrica quizás sea uno de los ejemplos más palmarios de promoción de enfermedad. Los esfuerzos dirigidos a racionalizar su abordaje, evitando el etiquetado injustificado de enfermedad, la realización de pruebas innecesarias y los sobretratamientos redundarán en una mejor utilización de las tecnologías sanitarias. No es una cuestión baladí el que la mayoría de las estrategias vayan dirigida, no tanto a la promoción de estilos de vida saludables, sino a la implantación de tratamientos farmacológicos. Dado que 1/3 de las mujeres mayores de 65 años se caen una vez al año, y hasta el 50% de las mujeres mayores de 80 años, porque no se ponen los esfuerzos en disminuir las caídas que predicen un 40% del total de las fracturas, mientras que la DMO solo predice menos del 30%. Sobre todo, que la fractura de cadera, por muy baja que sea la DMO, si no hay caída, no hay fractura.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener conflictos de interés.

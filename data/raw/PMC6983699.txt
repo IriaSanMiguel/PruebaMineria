@@ -1,0 +1,125 @@
+PREVALENCIA Y FACTORES ASOCIADOS A CAÍDAS EN ADULTOS MAYORES QUE VIVEN EN LA COMUNIDAD
+
+
+- INTRODUCCIÓN
+
+Las caídas en personas mayores constituyen un hecho muy frecuente, con un alto protagonismo en su estado de salud y una elevada morbimortalidad tanto por el traumatismo como por las secuelas psicosociales que produce. No obstante, sus cifras tienden a minusvalorarse, existiendo cierta pasividad ante el anciano que cae, cuando representan un importante problema de salud y repercuten en costes elevados.
+Aproximadamente el 30% de los adultos mayores de 65 años que viven en la comunidad cae al menos una vez al año. De estos, el 50% volverá a sufrir una nueva caída, mostrando un incremento progresivo de las mismas al aumentar la edad del mayor. La prevalencia de caídas varía en función de la edad, de su fragilidad y de su entorno; y aunque muchas de las caídas manifestadas en la población mayor tienen un factor precipitante conocido, la mayor parte de las mismas están motivadas por la asociación de numerosos factores. La mayoría de los estudios revisados concuerdan en que la contribución relativa de cada factor de riesgo difiere según el estado de salud individual subyacente, la situación funcional y las características del entorno, .
+A pesar del avance en el conocimiento epidemiológico y preventivo de las caídas a nivel mundial, las publicaciones existentes indican que en España no hay tendencia lineal que apunte hacia la disminución de la incidencia de caídas en los últimos años. Los resultados evidencian que las intervenciones preventivas de caídas necesitan ser implantadas, mejoradas o adaptadas a la realidad de nuestra población, apreciándose la necesidad de estudios con información más completa, que hagan énfasis en la información cuantitativa descriptiva.
+Por este motivo, el objetivo principal del presente estudio fue estimar la prevalencia de caídas e identificar los factores asociados a ellas, en función de sus características sociodemográficas, del estado de salud, del miedo a caer y de la calidad de vida relacionada con el estado de salud, en los adultos de 75 o más años de edad que residen en la comunidad, en la ciudad de Lleida.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Estudio descriptivo y transversal. Los datos provienen del estudio longitudinal Evolución del proceso de fragilidad de las personas mayores de Lleida (encuesta FRALLE).
+
+
+-- MEDIDA DE LA MUESTRA Y TIPO DE MUESTREO
+
+La muestra resultante fue de 628 individuos. Se trata de un estudio de base poblacional obtenida a partir de los registros de las tarjetas sanitarias de los individuos de 75 años o más de todos los centros de Atención Primaria de la ciudad de Lleida. El muestreo fue de tipo aleatorio. Cuando no se encontró al individuo seleccionado aleatoriamente, no se tuvo acceso a él o no quiso formar parte del estudio, fue reemplazado por el individuo siguiente de la lista, a fin de mantener el tamaño muestral establecido.
+
+
+-- CRITERIOS DE SELECCIÓN
+
+Se incluyeron en el estudio hombres y mujeres de 75 años o más, residentes en viviendas unifamiliares, con tarjeta sanitaria. Quedaron excluidos aquellos que en el periodo de estudio se encontraban institucionalizados y aquellos con evidencias de deterioro cognitivo de los que no podía obtenerse información subrogada de familiares o cuidadores.
+
+
+-- VARIABLES E INSTRUMENTOS DE MEDIDA
+
+--- CAÍDAS
+
+La experiencia de caída fue descrita por la definición de la OMS –«consecuencia de cualquier acontecimiento que precipita al individuo al suelo en contra de su voluntad»– y se utilizó para su medida la pregunta: «¿ha caído en el último año?». Se consideró la presencia de caídas en los 12 meses previos a la recogida de datos.
+
+
+--- MIEDO A CAER
+
+Fue determinado por la pregunta: «¿tiene usted miedo a caer?», en su clasificación dicotómica (sí o no).
+
+
+--- DATOS SOCIODEMOGRÁFICOS
+
+Edad, sexo, estado civil, nivel de estudios, convivencia e ingresos mensuales.
+
+
+--- OTRAS VARIABLES E INSTRUMENTOS DE MEDIDA
+
+
+
+
+-- RECOGIDA DE DATOS
+
+Cada evaluación consistió en una entrevista personal dirigida por enfermeras previamente entrenadas en el procedimiento de recogida de datos, que se realizaba en el centro de Atención Primaria de referencia, o en su domicilio en los casos en los que el sujeto no podía desplazarse.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo de la muestra, utilizando para los datos cuantitativos medidas de tendencia central y de dispersión, y para los datos cualitativos, medidas de distribución de frecuencias.
+Para el análisis bivariado de los posibles factores de riesgo asociados se utilizó la prueba de χ2 o, en su caso, el test exacto de Fisher para los datos cualitativos, y la prueba t de Student para los cuantitativos.
+Posteriormente, todas las variables explicativas que habían quedado asociadas a caídas tras el análisis bivariado fueron incluidas en el análisis multivariado, presentándose a través de la odds ratio, el intervalo de confianza del 95% (IC 95%) y el grado de significación (p) de aquellos factores que se mantuvieron después de la regresión logística múltiple.
+Se consideraron significativos todos aquellos valores de p < 0,05.
+
+
+-- CUESTIONES ÉTICAS
+
+Previamente al comienzo del estudio, el Comité Ético de Investigación Clínica del Hospital Universitario Arnau de Vilanova de Lleida informó favorablemente la solicitud del proyecto. Todos los participantes ofrecieron su consentimiento informado al inicio de la entrevista.
+
+
+- RESULTADOS
+
+Un total de 640 individuos (60,3% mujeres), con una media de edad de 81,3 ± 5,0 (rango de edad de 75 a 105), fueron incluidos en el estudio. Las características de la muestra, que se presentan en la tabla 1, ya han sido publicadas en un artículo anterior.
+
+
+-- PREVALENCIA DE CAÍDAS
+
+Considerando aquellos individuos que habían sufrido al menos una caída en el último año, la prevalencia de caídas fue del 25% (IC 95% 24,8-25,1), siendo la prevalencia en hombres del 21,7% (IC 95% 21,3-22,0), y en las mujeres, del 27,1% (IC 95% 26,8-27,3).
+
+
+-- FACTORES ASOCIADOS A CAÍDAS
+
+En la tabla 2 se presentan los resultados del análisis bivariado para las variables sociodemográficas, siendo la edad el único factor asociado a la experiencia de caídas. Atendiendo al estado de salud, se observó que la comorbilidad, los síntomas depresivos, la discapacidad básica e instrumental para las actividades de la vida diaria, los problemas de audición, de visión y de sueño, una peor percepción del estado de salud, el consumo de más de 3 fármacos al día, un mayor riesgo de desnutrición y el miedo a caer fueron factores asociados a caídas en el último año. Por último, se observó una mayor prevalencia de caídas en aquellos individuos de la muestra que declararon peor calidad de vida relacionada con la salud .
+Tras introducir todos los factores asociados en la regresión logística, los únicos factores que quedaron independientemente asociados a las caídas acontecidas en el último año fueron la discapacidad básica, los síntomas depresivos y el miedo a caer .
+
+
+- DISCUSIÓN
+
+-- PREVALENCIA DE CAÍDAS
+
+La prevalencia de caídas en el presente estudio fue del 25%. Estudios publicados en nuestro medio, , , concuerdan en que uno de cada 3 mayores del medio comunitario cae al menos una vez al año. Así, Varas-Fabra et al. mostraron una prevalencia superior, del 31,78%, Pujiula y Quesada del 28,9% y Salvà et al. del 24,1%. Se observan también prevalencias inferiores, como la registrada por Méndez Rubio et al., del 15%, o la de Séculi et al., del 17,9% en población mayor de 65 años. Si bien este último consideró únicamente las caídas que habían ocasionado una mayor restricción de la actividad habitual o habían requerido asistencia sanitaria. En cualquier caso, las diferencias reveladas respecto a estudios anteriores pueden relacionarse con los grupos de edad seleccionados, ya que la frecuencia de aparición de caídas tiende a aumentar con la edad del mayor. Por su parte, Gómez Rodríguez et al. observaron una prevalencia del 50%, tasa muy superior a la alcanzada en el presente estudio. Sin embargo, sus autores no consideraron la experiencia de caídas en el último año, sino que incluyeron a todos aquellos que habían sufrido al menos una caída a partir de los 75 años. En el marco internacional se observan similitudes con el estudio presentado por Friedman et al., que con una media de edad de 72,6 años evidenciaron una prevalencia de caídas del 27,8%, siempre experimentadas en los 12 meses previos a la recogida de datos. Otros estudios publicados fueron realizados en poblaciones diferentes a nuestra muestra, obteniendo, por tanto, resultados más discriminatorios. En rasgos generales, la prevalencia de caídas en los mayores incluidos en la investigación actual sigue un comportamiento similar al presentado por otros autores, pudiendo concluir que se mantiene la misma tendencia que en la población española.
+
+
+-- FACTORES ASOCIADOS A CAÍDAS
+
+De acuerdo con los resultados obtenidos en el análisis bivariado y atendiendo a las características sociodemográficas del estudio actual, la frecuencia de aparición de caídas aumenta conforme avanza la edad del mayor, . En diversos estudios también se observa que la prevalencia de caídas está asociada con la situación de viudedad, el vivir solo, un nivel de estudios más deficitario y con menores ingresos económicos, . Sin embargo, nuestros resultados, como los de otros autores, demuestran que estos últimos factores probablemente no estén asociados con la presencia de caídas. En una revisión sistemática de caídas en España, Da Silva y Gómez-Conesa observaron una mayor prevalencia de caídas en mujeres. No obstante, en nuestro estudio no se encontraron diferencias significativas entre hombres y mujeres. Esta última circunstancia puede relacionarse con los criterios de inclusión de nuestro estudio, ya que a partir de los 75 años la frecuencia entre ambos sexos tiende a igualarse.
+Por otro lado, determinadas alteraciones del estado de salud, como son la presencia de comorbilidad, la existencia de síntomas depresivos, los problemas de audición y de visión, la polifarmacia y el riesgo de desnutrición, , , , así como una peor calidad de vida, y los problemas de sueño unidos a los fármacos utilizados para su tratamiento, se constituyen como factores asociados a la experiencia de caídas, en este y otros estudios consultados.
+Tras el análisis de regresión logística, el miedo a caer, la discapacidad básica y los síntomas depresivos fueron los únicos factores asociados de forma independiente a la presencia de caídas en el último año.
+Las caídas suponen en la población geriátrica una elevada morbilidad. Casi la mitad de los ancianos que se habían caído declaraban tener miedo a volver a caer. Tanto las caídas como el miedo a caer son experiencias comunes, serias y potencialmente prevenibles en adultos mayores de la comunidad, donde cada una por su parte constituye un factor de riesgo para desarrollar la otra.
+La caída es un factor básico que deteriora las actividades de la vida diaria en las personas mayores. Estudios recientes señalan que el nivel de independencia previo a la caída determina la recuperación poscaída. A día de hoy, siguen sin esclarecerse los efectos perjudiciales de las caídas en relación con otras condiciones de discapacidad, o si estos efectos son impulsados en gran medida por sus consecuencias directas. La tendencia actual evidencia que consecuencias más serias se asocian con peores resultados en discapacidad, que implican un mayor riesgo de institucionalización.
+Los síntomas depresivos son más comunes en personas con antecedentes de caídas, si bien entre la depresión y las caídas se observa una relación bidireccional significativa. Son varios los factores asociados a las caídas que también se interrelacionan con los síntomas depresivos, pero hasta la actualidad son pocos los estudios que controlan estos factores compartidos.
+Diversos autores demuestran que aquellos adultos mayores con miedo a padecer una caída se introducen en una espiral debilitante de pérdida de confianza, restricción de la actividad física, caídas y pérdida de independencia, . De la misma manera, la presencia de depresión es frecuente después de una caída, sobre todo en aquellas que se acompañaron de un daño físico considerable. A posteriori, estos pacientes frecuentemente presentan cambios del comportamiento y actitudes que van a provocar una disminución de las actividades físicas y sociales, llevando, como consecuencia, al aislamiento social y posterior discapacidad del adulto mayor. Este deterioro funcional duplica el riesgo de sufrir una caída, pudiendo dar lugar a caídas recurrentes si no se maneja adecuadamente. Esta última consideración resulta imprescindible para abordar dicha problemática en personas que todavía son funcionalmente autónomas, y poder así combatir los factores que pueden llevar a una situación de dependencia, .
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+En la edad de inclusión en el estudio es relativamente frecuente la aparición de problemas cognitivos. Por ello, cuando el Test de Pfeiffer evidenció deterioro cognitivo leve o grave, el cuestionario fue respondido por un acompañante, excluyendo a su vez parte de las preguntas subjetivas. En aquellos casos en los que no pudo obtenerse información subrogada de un acompañante, los sujetos seleccionados fueron excluidos del estudio. Este hecho puede justificar la ausencia de asociación significativa entre el deterioro cognitivo y la presencia de caídas accidentales, cuando diversas fuentes consideran el deterioro cognitivo entre sus factores asociados. Otra de las limitaciones queda relacionada con la historia de caídas. Al referirnos a la presencia de caídas en los 12 meses previos a la recogida de datos, puede que algunos individuos no recordaran el acontecimiento de la misma. Por último, y aunque las características metodológicas del estudio impiden averiguar si el estado de salud presentado por la muestra en el momento de la valoración inicial estaba determinado por una caída anterior, sí se puede dilucidar que los factores asociados independientemente a caídas en el último año pueden ser consecuencia de una caída anterior, de modo que otra posible limitación puede darse por el diseño transversal del estudio, dejando las conclusiones sujetas a interpretaciones alternativas de orden causal.
+
+
+-- CONCLUSIONES
+
+Una de cada 4 personas mayores de 75 años residentes en la comunidad sufrieron al menos una caída durante el año anterior. Los factores independientemente asociados a las mismas fueron el miedo a caer, los síntomas depresivos y la discapacidad básica. Estos 3 factores pueden dar lugar a una espiral favorecedora de caídas recurrentes si no se maneja adecuadamente. Estos hallazgos pueden ser de utilidad para investigaciones futuras a fin de desarrollar nuevas estrategias preventivas de caídas en la población mayor que reside de forma independiente en la comunidad.
+
+
+-- IMPLICACIONES SANITARIAS
+
+El proceso de investigación presentado hasta el momento confirma una prevalencia de caídas en nuestra comunidad que sigue un comportamiento similar al presentado por otros autores, y a pesar de haber sido intensamente investigadas en los últimos años, continúan siendo causa de pérdida funcional, de institucionalización precoz y de una elevada morbimortalidad, y por consiguiente, resulta una prioridad para los profesionales de enfermería al cuidado de este grupo poblacional tan vulnerable, los adultos mayores. Adicionalmente, conociendo los factores asociados a caídas en el último año y sabiendo de la relevancia de adaptar las intervenciones preventivas a cada población, y por la escasez de estudios en torno a las consecuencias indirectas de las caídas en ancianos, es relevante abordar esta cuestión para propiciar nuevos conocimientos de cara a elaborar métodos de cribado específicos y programas de prevención y gestión de riesgo eficaces.Lo conocido sobre el tema•Las caídas constituyen un hecho frecuente en la población mayor, con un alto protagonismo en su estado de salud y una elevada morbimortalidad.•La mayor parte de las caídas están motivadas por la asociación de numerosos factores.•Se da un incremento progresivo de las caídas al ir en aumento la edad del mayor.Qué aporta este estudio•Los resultados obtenidos no apuntan a una disminución de la prevalencia de caídas en la población mayor comunitaria.•La discapacidad básica, la presencia de síntomas depresivos y el miedo a caer se identifican como factores asociados de forma independiente a las caídas.•Los múltiples factores íntimamente implicados en la aparición de caídas son capaces de condicionar y repercutir en términos de calidad de vida y bienestar, consolidándolas como un síndrome geriátrico importante.
+
+
+- FINANCIACIÓN
+
+Vicerrectorado de Investigación de la Universidad de Lleida y AGAUR/Ayuntamiento de Lleida.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

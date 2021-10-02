@@ -1,0 +1,72 @@
+ACTUALIZACIÓN URGENTE: ALTERNATIVA TEMPORAL PARA EL DIAGNÓSTICO DE HIPER-GLUCEMIA GESTACIONAL Y EL SEGUIMIENTO DE ESTAS MUJERES Y AQUELLAS CON DIABETES PREGESTACIONAL DURANTE LA PANDEMIA COVID-19. CONSENSO DEL GRUPO ESPAÑOL DE DIABETES Y EMBARAZO (GEDE) DE LA SOCIEDAD ESPAÑOLA DE DIABETES (SED) Y LA SOCIEDAD ESPAÑOLA DE GINECOLOGÍA Y OBSTETRICIA (SEGO
+
+
+- INTRODUCCIÓN
+
+Los adultos con diabetes se han identificado como población en riesgo de sufrir formas graves de la COVID-19. Las gestantes se pueden exponer a un mayor riesgo de contagio durante los desplazamientos a los centros sanitarios, para las pruebas de cribado y/o diagnóstico de hiperglucemia gestacional así como para el seguimiento de la misma o de la diabetes pregestacional (DPG). El Grupo Español de Diabetes y Embarazo (GEDE) ha querido sumarse a otras sociedades médicas, , , para hacer unas recomendaciones específicas en estas dos poblaciones, basadas en la evidencia científica actual y mientras dure el periodo de la pandemia COVID-19, para minimizar riesgos.
+A ambos grupos de gestantes les recomendamos el uso de medidas de protección personal en sus desplazamientos, lo que incluye mascarilla, , y guantes así como una adecuada higiene de manos y mantener distancia de seguridad interpersonal de 2 m, , medidas que se recomiendan también al resto de la población.
+
+
+- DIABETES PREGESTACIONAL
+
+Se aconsejará a las pacientes en clínica preconcepcional que mantengan un método anticonceptivo seguro hasta que finalice por lo menos la fase aguda de la pandemia.
+Conviene establecer y mantener una comunicación regular remota, ya sea por teléfono o por e-mail, tanto con el equipo obstétrico como endocrinológico para asegurar un adecuado plan de cuidado y seguimiento.
+En general, se procurará que las visitas con el endocrinólogo/educadora se realicen de manera virtual. La mayoría de las visitas presenciales se harán coincidiendo con las visitas que realice en el Servicio de Obstetricia. No obstante, se podrán requerir más visitas presenciales según la situación individual de cada gestante, especialmente al inicio de la gestación, si no ha seguido control preconcepcional.
+Es importante que, durante este periodo, las pacientes:
+Se recomendará activamente mantener ejercicio físico diario, a pesar del confinamiento, en el domicilio (https://www.embactiva.es/).
+La evaluación del fondo de ojo solamente se solicitará para realizar a corto plazo en aquellas pacientes con alteraciones retinianas previas a la gestación, y en las demás se demorará para realizarla en una de las visitas posteriores.
+El algoritmo para la detección mediante PCR y/o test rápidos de la COVID-19 se definirá en cada centro según los recursos, basado en el documento técnico del Ministerio de Sanidad de COVID-19 y gestación.
+
+
+- HIPERGLUCEMIA GESTACIONAL
+
+-- DIAGNÓSTICO DE LA HIPERGLUCEMIA GESTACIONAL
+
+La primera recomendación sería mantener el protocolo de diagnóstico en dos fases propuesto en la Guía diabetes y embarazo del grupo GEDE siempre que las condiciones de la gestante y su entorno lo permitan, el volumen de trabajo del laboratorio lo permita, los profesionales implicados en el seguimiento de estas mujeres puedan asumir los nuevos diagnósticos y siempre que se garanticen las condiciones de seguridad de la gestante (sala de espera con distancia de seguridad, mascarilla, lavado de manos, uso preferente de vehículo privado para acudir al centro).
+Si esto no fuera posible, es necesario disponer de test alternativos, mientras dure esta situación excepcional. La utilización de test alternativos supone tener en cuenta estas consideraciones:
+
+
+--- PRIMER TRIMESTRE
+
+Durante el primer trimestre, se mantendrá el cribado de hiperglucemia gestacional en las gestantes de riesgo. El objetivo principal de este cribado es detectar a las gestantes con diabetes franca y a las gestantes con diabetes gestacional (DG) temprana, que presentan un riesgo de complicaciones de la gestación igual o superior al de la diabetes tipo 2 pregestacional.
+En aquellos casos en los que no sea posible realizar el test de cribado habitual (O'Sullivan), las posibilidades son determinar los niveles de HbA1c, de glucemia plasmática basal o una glucemia plasmática al azar (para hacer coincidir la analítica con la visita obstétrica, por ejemplo, y evitar un segundo desplazamiento al laboratorio para realizar un test de tolerancia oral a la glucosa). Algunos grupos recomiendan tratar como DG a todas las pacientes con DG previa sin realizar analítica.
+Estos criterios están consensuados de acuerdo con la evidencia científica obtenida de estudios previos y recomendaciones de otras sociedades médicas con datos propios, que indican que la probabilidad de detectar casos de DG más grave con peores resultados perinatales es mayor cuando se utilizan estos puntos de corte. Hemos de asumir que, probablemente, no se podrán detectar todos los casos de DG con este cribado, especialmente los más leves, pero sí detectaremos aquellos que tengan impacto en la morbimortalidad perinatal, que es lo que en este momento excepcional se requiere.
+Los puntos de corte establecidos para diabetes franca y propuestos para DG se presentan en la tabla 2 .
+La recomendación del GEDE, para el diagnóstico de hiperglucemia gestacional en el primer trimestre, cuando no se puede realizar el protocolo habitual, es determinar los niveles de HbA1c combinada con una glucemia plasmática (preferiblemente al azar por su mayor factibilidad, o en su defecto basal).
+El cribado utilizando HbA1c y glucemia al azar permite obviar la curva de glucemia y no requiere que la gestante esté en ayunas, pudiendo realizarse el mismo día que acude a control obstétrico.
+La glucemia plasmática tiene como objetivo detectar mujeres con hiperglucemia de inicio reciente y/o hemoglobinopatía.
+Las determinaciones de glucemia plasmática con fines diagnósticos tienen que tener en cuenta las medidas para minimizar la glucólisis anaerobia.
+
+
+--- SEGUNDO TRIMESTRE
+
+A las gestantes no diagnosticadas de diabetes previamente, se les propondrá el cribado universal alrededor de la semana 28 de gestación (visita obstétrica entre las semanas 28 y 32 de gestación).
+Al igual que en el primer trimestre, la primera recomendación es mantener el protocolo diagnóstico en dos fases en aquellos centros donde sea posible. En la situación actual de pandemia, se puede considerar como diagnóstico de DG un test de cribado ≥ 200 mg/dl. Fuera de pandemia, no se hace esta asimilación porque un test de O'Sullivan ≥ 200 mg/dl tiene un valor predictivo positivo de DG según criterios NDDG que oscila entre el 34 y el 100%; el 59,9% en nuestro medio.
+Las posibles alternativas para aquellos centros que no puedan realizar el diagnóstico en dos fases son determinar la HbA1c, la glucemia plasmática basal o la glucemia plasmática al azar. Los puntos de corte se indican en la tabla 3 . Nuevamente, estos puntos de corte se han establecido en base a la evidencia científica de la que se dispone para seleccionar las pacientes con hiperglucemia gestacional con mayor riesgo de complicaciones perinatales, , .
+Algunos grupos también recomiendan tratar como DG a las pacientes con DG previa sin realizar una analítica previa. Si bien con esta estrategia pueden incluirse un número bajo de pacientes que no tendrían DG, la mayoría de ellas sí la tendrán; se obvia la prueba diagnóstica, minimizando por tanto el riesgo de contagio de COVID-19 y se trata de mujeres en las que la necesidad de educación terapéutica será baja.
+La recomendación del GEDE para diagnóstico de hiperglucemia gestacional en el segundo trimestre, cuando no se puede realizar el protocolo habitual, es determinar HbA1c combinada con glucemia plasmática (preferiblemente al azar por factibilidad, o en su defecto la basal).
+El cribado utilizando HbA1c y glucemia al azar permite obviar la curva de glucemia y no requiere que la gestante esté en ayunas, pudiendo realizarse el mismo día que acude a control obstétrico.
+La glucemia plasmática tiene como objetivo detectar mujeres con hiperglucemia de inicio reciente y/o hemoglobinopatía.
+Las determinaciones de glucemia plasmática con fines diagnósticos tienen que tener en cuenta las medidas para minimizar la glucólisis anaerobia.
+Adicionalmente durante la gestación, en cualquier paciente con glucosuria severa, sospecha clínica de diabetes o feto grande para la edad gestacional polihidramnios en la ecografía, debe descartarse DG con cualquiera de las opciones descritas previamente. En ausencia de estas circunstancias, no se contemplará el cribado en el tercer trimestre de gestación, aunque no se haya realizado el cribado en el segundo trimestre.
+
+
+-- TRATAMIENTO
+
+El tratamiento y seguimiento de la DG se mantendrá en los centros habituales con visitas de Endocrinología/Atención Primaria y visitas obstétricas. Tras el periodo de educación terapéutica (presencial y/o distancia), se organizarán visitas presenciales combinadas similares a las descritas para las mujeres con DPG.
+La insulina es el fármaco de elección cuando no se cumplen criterios de buen control y se precisa tratamiento farmacológico. Sin embargo, cuando su inicio no sea factible, se podrá plantear inicialmente metformina para retrasar o evitarlo, .
+Se recomendará activamente mantener ejercicio físico diario, a pesar del confinamiento, en el domicilio (https://www.embactiva.es/).
+Tanto el seguimiento como la finalización de la gestación se individualizarán en función de cada gestante y de la situación del centro, pero manteniendo las recomendaciones establecidas por la última Guía GEDE siempre que la situación lo permita.
+El algoritmo para la detección mediante PCR y/o test rápidos de la COVID-19 se definirá en cada centro según los recursos, basado en el documento técnico del Ministerio de Sanidad de COVID-19 y gestación.
+
+
+- POSPARTO
+
+La lactancia materna se recomienda en todas las gestantes con DPG o DG, incluso COVID-19 positivas; en estos casos, se mantendrá el contacto entre madre y recién nacido y se realizará la lactancia con aislamiento respiratorio.
+El seguimiento de las puérperas con DPG se realizará vía telemática para el ajuste del control metabólico; las visitas obstétricas serán las mínimas imprescindibles para evaluar el correcto posparto de estas pacientes, fomentando al máximo las visitas telemáticas.
+En cuanto al postparto, en aquellas pacientes con diagnóstico de DG, se pospondrá hasta pasar este periodo de pandemia COVID-19, procurando no sobrepasar el primer año posparto. A las pacientes con diagnóstico de diabetes franca o con sospecha de diabetes tipo 1, se les puede recomendar que mantengan medidas de estilo de vida, así como la realización de glucemias capilares en ayunas, por ejemplo, cada 1-2 semanas para detectar patrones de alarma.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen conflicto de intereses.

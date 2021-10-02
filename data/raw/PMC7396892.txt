@@ -1,0 +1,94 @@
+COVID-19 Y LA PANDEMIA OLVIDADA: EL SEGUIMIENTO DE LAS ENFERMEDADES NEUROCOGNITIVAS DURANTE LA CUARENTENA EN ARGENTINA
+
+
+- INTRODUCCIÓN
+
+Varios países del mundo están sufriendo una grave carga en sus sistemas de salud como consecuencia de la pandemia COVID-19 relacionada con el nuevo coronavirus SARS-CoV-2. Los recursos e iniciativas se están redirigiendo con urgencia para enfrentar la pandemia, que impactará desproporcionadamente en países con economías débiles y poblaciones vulnerables, incluidas las personas con deterioro cognitivo y demencia. Los países de América Latina y el Caribe padecen un desarrollo económico inestable, sistemas de atención médica frágiles, disparidades económicas masivas y una alta prevalencia de demencia. El impacto selectivo del coronavirus en la patología cognitiva en la región será preocupante, creando tensiones en los sistemas de salud especializados y aumentando las desigualdades entre los pacientes.
+En estos momentos, las unidades de neurología han cambiado sus actividades; la mayoría de los neurólogos se dedican actualmente a colaborar con el manejo de pacientes con COVID-19, relegando, en muchos casos, el seguimiento de las patologías crónicas relacionadas con su especialidad.
+Es importante considerar la difícil situación de los adultos mayores y aquellos con enfermedades previas, como las demencias, que ahora están confinados en sus hogares experimentando una situación de mayor vulnerabilidad, teniendo en cuenta que los trastornos cognitivos muchas veces se asocian a alteraciones conductuales aún en etapas tempranas, impactando de manera variable al cuidador al cual sobrecargan.
+Los informes diarios de noticias, desde el inicio de la pandemia, describen situaciones caóticas y riesgosas, pudiendo atemorizar a la población, demorando así el acceso de los pacientes a los sistemas de salud, en detrimento del control de sus enfermedades de base y de la prevención de nuevas condiciones relacionadas.
+La demencia, especialmente en las etapas más avanzadas, representa un importante factor de riesgo en pacientes COVID-19, con una mortalidad mayor en comparación con pacientes COVID-19 sin demencia (62,2% vs. 26,2%). Por otro lado, la presentación clínica de los pacientes con demencia con COVID-19 puede ser atípica (cambios conductuales o empeoramiento del estadio evolutivo con escasa sintomatología febril), lo que reduce el reconocimiento temprano y la hospitalización, empeorando el pronóstico de esta población. Es por ello, entonces, que resulta importante poder realizar un adecuado seguimiento de esta población en este contexto sin precedentes.
+En Argentina estamos en cuarentena desde el 20 de marzo, en una fase crítica de la pandemia. El Ministerio de Salud, en un primer momento, determinó que las consultas externas en hospitales y otras instituciones de salud se cancelaran, restringiendo la atención solo a emergencias, medida que progresivamente fue logrando una reapertura gradual, redirigiendo las consultas a sistemas de atención presenciales con protocolos más estrictos y en ciertos lugares hacia la instalación de la moderna telemedicina. Esto ha resultado en un sistema de atención de salud drásticamente nuevo, que no está exento de dificultades para algunos de nuestros pacientes de edad avanzada, muchos de los cuales se encuentran solos en sus hogares sin el adecuado acceso a la tecnología.
+Lo mencionado previamente pone en evidencia grandes problemas: en primer lugar, la existencia de un elevado riesgo de interrupción del seguimiento de los pacientes con demencia, población considerada de mayor riesgo para COVID-19; y en segundo lugar, la dificultad para acceder a la atención ante nuevas demandas por cambios cognitivos o conductuales como consecuencia de la pandemia, el confinamiento prolongado o el estrés.
+
+
+-- OBJETIVO PRIMARIO
+
+Determinar la frecuencia de las distintas modalidades de consulta médica en relación con la patología neurocognitiva del paciente, realizada por los cuidadores desde el inicio de la cuarentena.
+
+
+-- OBJETIVOS SECUNDARIOS
+
+Definir las variables asociadas a la realización de la consulta médica durante la cuarentena, como también la consulta del cuidador a una guardia de emergencia (edad, sexo, escolaridad, grado de sobrecarga mediante la escala de carga del cuidador de Zarit, (tipo de demencia, estadio evolutivo medido por la escala Clinical Dementia Rating [CDR] y las manifestaciones conductuales evaluadas por el Inventario de síntomas neuropsiquiátricos [NPI]).
+Definir las variables asociadas a la realización de la consulta médica por la modalidad de videoconsulta (edad y escolaridad).
+
+
+- MATERIALES Y MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Realizamos un estudio descriptivo observacional, de carácter transversal basado en la recolección de datos a través de una encuesta.
+
+
+-- POBLACIÓN DEL ESTUDIO
+
+Se encuestó de manera voluntaria y anónima a cuidadores formales e informales de pacientes con trastornos cognitivos o demencia con diferentes estadios según CDR, sin restricción de edad o etiología, que asistieron en alguna oportunidad al Hospital Dr. César Milstein (por derivación a la especialidad, para realización de estudio neurocognitivo o solamente por consulta de segunda opinión, por asesoramiento a familiares, por haber asistido a charlas de difusión a la comunidad o a distintos talleres cognitivos, entre otros). También fueron encuestados familiares o cuidadores que concurrieron a los grupos de apoyo anexos a la Institución como la Asociación de Lucha contra el Mal de Alzheimer y alteraciones semejantes (A.L.M.A), de la Ciudad Autónoma de Buenos Aires y sus diferentes sedes. Fueron excluidos aquellos que no contaban con cuidadores mayores de 18 años, que no pudiesen ser contactados y/o que no tuviesen el acceso necesario para completar la encuesta.
+
+
+-- INSTRUMENTO: ENCUESTA
+
+La encuesta fue autoadministrada y enviada por correo electrónico y/o mensajería instantánea para celulares a los cuidadores. Se recabaron datos como sexo del cuidador y del paciente, edad del cuidador y del paciente, etiología del trastorno cognitivo del paciente, el parentesco del cuidador con el paciente, nivel educativo del cuidador, exacerbación de síntomas conductuales por NPI, sobrecarga del cuidador mediante la escala Zarit durante la cuarentena y modalidad de acceso a la consulta médica durante la cuarentena (teléfono, correo electrónico, videoconsulta, servicio de emergencias). Se recolectaron encuestas desde el 24 de abril hasta el 1 de julio. Durante este período en Buenos Aires se experimentaron las fases 1, 2 y 3 de la cuarentena.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se analizaron como variables independientes: características sociodemográficas (edad, sexo, escolaridad, parentesco del cuidador y edad, sexo, CDR y diagnóstico del paciente) y puntajes de escalas de sobrecarga al cuidador de Zarit, y NPI. La estadística descriptiva de la población en estudio se expresa en media y desvío estándar o mediana e intervalo intercuartil (RIC) según corresponda. Los análisis bivariados se realizaron de acuerdo al tipo de variables: en las no paramétricas se utilizó el test de Kruskal-Wallis y el test U de Mann-Whitney, y en las paramétricas el test t de Student o χ2, o el test de análisis de varianza (ANOVA). Se utilizó el software estadístico SPSS versión 25.
+
+
+-- ASPECTOS ÉTICOS
+
+En cuanto a los aspectos éticos del estudio, el mismo es considerado un estudio observacional de bajo riesgo, sujeto a las Reglas ICH de Buenas Prácticas Clínicas, a la última revisión de las declaraciones de Helsinki (1964, c/enmiendas Tokio, 1975; Venecia, 1983; Hong Kong, 1989, 2013) así como a las regulaciones sobre la protección de los derechos de sujetos en investigaciones de salud de las Autoridades de Salud del Gobierno de la Ciudad de Buenos Aires (GCBA). El estudio fue aprobado por el Comité de Ética de Investigación (CEI) del Hospital Dr. César Milstein.
+
+
+- RESULTADOS
+
+Nuestros resultados fueron los siguientes. Un total de 324 participantes completaron la encuesta. Las características de los cuidadores y de los pacientes se muestran en las Tabla 1, Tabla 2 , respectivamente.
+Consulta médica desde el inicio de la cuarentena: 165 participantes (50,9%) realizaron al menos una consulta, mientras que 45 (13,8%) pudieron realizar más de una modalidad de consulta médica.
+Frecuencia de las modalidades de consulta médica utilizadas. Los participantes utilizaron: 52,7% el teléfono (109 [33,6%]) y el correo electrónico (62 [19,1%]), 30 (9,3%) la videoconsulta y 23 (7,1%) el servicio de emergencias.
+
+
+-- VARIABLES ASOCIADAS A LA REALIZACIÓN DE CONSULTA MÉDICA
+
+1. Según el estadio evolutivo de la enfermedad del paciente por la escala CDR: CDR ≥ 1 122 (57,5%) vs. CDR: 0,5 43 (38,4%) (p < 0,001), χ2.2. Según el diagnóstico de la enfermedad del paciente: demencias tipo Alzheimer 71 (59%) vs. demencias no Alzheimer 94 (45,9%) (p = 0,017), χ2.Según el puntaje total del NPI: los pacientes que realizaron una consulta médica presentaron una media de puntaje total de NPI de 20 (RIC 34) vs. 9 (RIC 17) NPI total de los que no consultaron (p < 0,001), U de Mann-Whitney.3. Según la presencia de síntomas neuropsiquiátricos del NPI: los pacientes que realizaron una consulta médica presentaron una prevalencia mayor de alucinaciones (p = 0,008), agitación/agresividad (p < 0,001), depresión (p = 0,0017), ansiedad (p < 0,001), irritabilidad (p < 0,001), alteraciones del sueño (p < 0,001), χ2. Ver la figura 1 .Figura 14. Según la sobrecarga del cuidador medida por la escala Zarit: no hubo diferencias estadísticamente significativas en la sobrecarga de los cuidadores entre los que realizaron una consulta médica y los que no, medido a través del puntaje de la escala Zarit. Los cuidadores que realizaron una consulta médica presentaron una mediana de puntaje total de 53 (RIC 28) vs. 56 (RIC 26) de los que no consultaron (p = 0,37), U de Mann-Whitney.5. Según la edad, el sexo y la escolaridad del cuidador: no hubo diferencias significativas por t-Test.
+
+
+-- VARIABLES ASOCIADAS A CONSULTA A UN SERVICIO DE EMERGENCIAS
+
+1. Según el estadio evolutivo de la enfermedad del paciente por la escala CDR: CDR ≥ 1 20 (9,4%) vs. CDR: 0,5 3 (2,7%) (p = 0,02), χ2.2. Según el diagnóstico de la enfermedad del paciente: demencias tipo Alzheimer 11 (9,2%) vs. demencias no Alzheimer 12 (5,9%) (p = NS), χ2.3. Según el puntaje total del NPI: los pacientes que realizaron una consulta médica presentaron una media de puntaje total de NPI de 37 (RIC 59) vs. 12 (RIC 21) NPI total de los que no consultaron (p < 0,001), U de Mann-Whitney.4. Según la presencia de síntomas neuropsiquiátricos del NPI: los pacientes que realizaron una consulta médica presentaron una prevalencia mayor de alucinaciones (p = 0,008), agitación/agresividad (p = 0,003), ansiedad (p < 0,001), irritabilidad (p < 0,001), actividad sin propósito (p = 0,009), χ2.5. Según la sobrecarga del cuidador medida por la escala de Zarit: no se encontraron diferencias significativas entre las medianas de puntaje de la escala entre aquellos cuidadores que consultaron a emergencias y los que no lo hicieron. Los cuidadores que realizaron una consulta médica presentaron una mediana de puntaje total de 55 (RIC 17) vs. 53 (RIC 28) de los que no consultaron (p = 0,9), U de Mann-Whitney.6. Según la edad, el sexo y la escolaridad del cuidador: no hubo diferencias significativas por t-Test.
+
+
+-- VARIABLES ASOCIADAS AL USO DE VIDEOCONSULTAS
+
+1. Edad del cuidador: la media de edad de los cuidadores que realizaron videoconsultas fue menor en comparación con la edad media de los cuidadores que utilizaron otras modalidades de consulta (p = 0,03).2. Escolaridad del cuidador: no hubo diferencias significativas por t-Test.
+
+
+- DISCUSIÓN
+
+El brote de la enfermedad por coronavirus de diciembre de 2019 ha puesto a la población de varios países en aislamiento preventivo (cuarentena) y está siendo un verdadero reto para los sistemas sanitarios de todo el mundo, en especial para las regiones de Latinoamérica. La pandemia llegó a Argentina el 3 de marzo con la identificación del primer paciente, 64 días después del reporte del primer caso en China. Desde entonces, el gobierno argentino tomó varias medidas para mitigar el impacto y el 20 de marzo instaló la cuarentena preventiva y obligatoria que, con sus diferentes fases, rige hasta el día de la fecha en el área metropolitana de Buenos Aires (AMBA), donde viven 15 millones de personas y se registra un alto nivel de contagios. En este contexto los hallazgos de nuestro estudio reflejan una significativa prevalencia de síntomas neuropsiquiátricos en la población encuestada en cuarentena, tanto en los pacientes como en sus cuidadores, en la región del AMBA. Más del 90% de los pacientes presentaron alteraciones neuropsiquiátricas. El 63% de los cuidadores manifestaron signos de sobrecarga y cerca de la mitad, sobrecarga severa. Sin embargo, a pesar de la alta prevalencia de las alteraciones conductuales, solo el 50% de los encuestados pudieron realizar al menos una consulta médica durante este período.
+Cabe destacar que la mayoría de los estudios de la literatura evidencian impactos psicológicos negativos relacionados con la cuarentena, y algunos sugieren que los mismos podrían ser extensos, sustanciales e incluso duraderos en relación con la extensión del confinamiento. Sin embargo, estas investigaciones se han basado en estudios poblacionales y hasta el momento la literatura no cuenta con investigaciones sobre los efectos de la cuarentena en la población de adultos mayores con deterioro cognitivo y demencia. Paola Barbarino, directora ejecutiva de ADI (Alzheimer's Disease International), afirmó que cuando los países se apresuraron en establecer la cuarentena en la población, olvidaron las necesidades de las personas más vulnerables, exacerbando sentimientos de ansiedad y soledad en los pacientes.
+En relación con la modalidad de las consultas médicas, pudimos observar que los cuidadores mayores de 60 años utilizaron preferentemente llamados telefónicos y correo electrónico y solo el 9% pudo usar el sistema de videoconsulta; esta pequeña proporción correspondió a cuidadores menores de 60 años.
+Las consultas médicas se caracterizaron por la presencia de pacientes con demencia (CDR ≥ 1), de tipo Alzheimer, con predominancia de alucinaciones, depresión, ansiedad, irritabilidad, alteraciones del sueño, con puntajes de NPI más elevados que aquellas personas que no consultaron.
+Por otro lado, los pacientes que realizaron una consulta directamente a una emergencia médica (guardia) se caracterizaron por presentar puntajes más altos de NPI y mayor prevalencia de síntomas disruptivos, como tendencia a realizar actividades motoras repetitivas sin propósito y alucinaciones.
+Argentina, en estos momentos, atraviesa una etapa crítica de la pandemia con un notable incremento en el número de casos, de pacientes fallecidos por COVID-19 y de efectos secundarios relacionados con la pandemia y con la cuarentena prolongada. Resulta necesario que la población mayor con patología cognitiva y demencia, de alto riesgo para COVID-19, pueda continuar su tratamiento y acceder a algún tipo de consulta, más allá de la clásica modalidad presencial. La alta prevalencia de alteraciones en la salud mental de nuestros adultos mayores debería ser un tema prioritario en la agenda sanitaria de la región. Debemos considerar que la mitad de los pacientes encuestados y sus cuidadores confinados en cuarentena no realizaron consulta alguna, aun teniendo una elevada prevalencia de síntomas neuropsiquiátricos. La brecha digital y la escasez de recursos tecnológicos en los hogares podrían ser elementos de exclusión social en esta población a la hora de acceder a modalidades de consultas más complejas durante este contexto crítico.
+Los servicios de neurología deberían replantear su funcionamiento, para asegurar que las personas con trastornos neurológicos puedan recibir la atención necesaria, brindando protocolos de seguridad acordes y ofreciendo diferentes modalidades de consulta médica. Tenemos que considerar que la telemedicina por videoconsulta podría resultar útil tal vez solo a un número reducido de pacientes adultos mayores. Nosotros proponemos considerar la modalidad telefónica y por correo electrónico como herramientas sencillas y de fácil acceso para realizar el seguimiento de esta población durante la pandemia y poder, así, determinar algún tipo de intervención temprana con base en la clínica del paciente, mientras se programa la implementación de sistemas de telemedicina de mayor complejidad.
+
+
+- CONCLUSIÓN
+
+El manejo de la salud pública implica decisiones inmediatas y cambios profundos relacionados con estas nuevas situaciones, pero no se debe descuidar el manejo general de todos los pacientes ni subestimar el impacto en la esfera emocional que provoca la pandemia y la cuarentena en esta población de pacientes y su entorno.
+La investigación en tiempos de COVID-19 nos debe aportar conocimiento de calidad que redunde en una mejor atención de la salud de los ciudadanos en estos momentos de crisis.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no tienen conflicto de intereses que declarar en el desarrollo de este estudio y de este artículo.

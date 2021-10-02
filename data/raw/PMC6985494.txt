@@ -1,0 +1,81 @@
+IMPACTO DE LA ADMINISTRACIÓN DEL CUESTIONARIO ASTHMA CONTROL TEST EN ATENCIÓN PRIMARIA SOBRE LA PUNTUACIÓN DE CONTROL DEL ASMA<SUP
+
+
+- INTRODUCCIÓN
+
+El principal objetivo recogido en las actuales directrices para el manejo del asma (GINA) es alcanzar un buen control de la enfermedad. A pesar de ello y de la existencia de terapias eficaces, el asma continúa siendo una enfermedad infratratada, , . Diversos estudios multicéntricos han revelado un bajo porcentaje de pacientes con niveles adecuados de control de la enfermedad, , , , así como una falta de correlación entre una mayor cobertura sanitaria y un mejor nivel de control del asma.
+La falta de reconocimiento, por parte de médicos y pacientes, del nivel de control del asma, ha sido señalada como una de las razones de tratamiento inadecuado, . El cuestionario Asthma Control Test (ACT®) fue diseñado en 2004 como una herramienta para conocer el control del asma, . Se trata de un cuestionario simple autoadministrado de 5 ítems: 4 parámetros objetivos (síntomas diurnos y nocturnos, uso de medicación de rescate y grado de interferencia de la enfermedad con la actividad diaria) y una medida de la percepción del paciente sobre el nivel de control de su enfermedad. La puntuación se calcula como la suma de las respuestas de cada ítem en una escala de 1 (peor) a 5 (mejor), habiendo sido validado como punto de corte para un buen nivel de control las puntuaciones ≥ 20. El cuestionario ACT® ha sido validado en diferentes poblaciones, , , incluidos pacientes en España.
+Muchos de los parámetros espirométricos utilizados para la evaluación del asma, como la espiración forzada, la capacidad vital forzada o la medida del flujo espiratorio máximo no siempre están disponibles en atención primaria (AP), donde son tratados muchos pacientes asmáticos. En este ámbito, por tanto, el cuestionario ACT® tiene gran utilidad como herramienta simple y de fácil interpretación para la supervisión del control asmático. Sin embargo, se conoce poco acerca de la influencia que la experiencia de los médicos en la administración del cuestionario tiene sobre los niveles de control de la enfermedad obtenidos por sus pacientes. Este estudio compara la puntuación ACT® de control del asma bronquial obtenida por pacientes de AP cuyos médicos son usuarios habituales del cuestionario con la de aquellos de médicos que no lo son.
+
+
+- MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Se diseñó un estudio epidemiológico, multicéntrico y prospectivo, para comparar la puntuación indicativa del grado de control del asma, obtenida tras la administración del cuestionario ACT® por médicos de AP que lo utilizaban habitualmente y aquellos que no lo usaban habitualmente.
+
+
+-- MÉDICOS
+
+La selección de los centros se hizo tras la valoración, para cada centro candidato, de diferentes aspectos como: experiencia en la administración de la herramienta ACT®, disponibilidad de tiempo y dedicación para la ejecución del estudio, capacidad de reclutamiento, interés en participar, etc.
+Se definieron como usuarios habituales de ACT® aquellos médicos que lo habían utilizado para determinar el grado de control de la enfermedad en más del 60% de sus pacientes asmáticos en los últimos 6 meses. Se preguntó directamente a los investigadores invitados en qué porcentaje de pacientes asmáticos utilizaban el cuestionario.
+Todos los investigadores que tomaron parte en el estudio recibieron formación previa sobre los procedimientos del estudio, protocolo y cuaderno de recogida de datos.
+
+
+-- PACIENTES
+
+Se definieron 2 poblaciones de estudio: «usuarios ACT®», pacientes cuyos médicos de AP eran usuarios habituales del ACT®; y «no usuarios ACT®», pacientes cuyos médicos no utilizaban el ACT® en su práctica clínica de AP de manera habitual.
+Los criterios de inclusión fueron: asma diagnosticada con al menos 6 meses de antelación, edad mayor de 18 años, participación voluntaria, firma del consentimiento informado y capacidad para entender el estudio y cumplir con sus requisitos. Los criterios de exclusión fueron: enfermedad respiratoria distinta al asma que pudiera interferir con los objetivos del estudio y la inclusión en otro ensayo clínico en el momento de selección.
+
+
+-- PROCEDIMIENTOS
+
+El estudio consintió en una visita basal inicial (visita 1) y una visita de seguimiento a las 8 semanas (visita 2). En la visita 1 se obtuvo el consentimiento informado firmado y se recogieron los datos antropométricos (edad, sexo, peso, estatura e índice de masa corporal [IMC]), demográficos (grupo étnico, empleo, nivel académico, hábitat, hábito tabáquico), la fecha de diagnóstico y la clasificación de gravedad según los criterios de la Guía Española del Manejo del Asma GEMA 2009, así como los datos de historia familiar de asma, enfermedades concomitantes y medicación actual. Se entregó un diario para anotar semanalmente los síntomas (sibilancias/pitidos, tos, disnea, opresión en el pecho y dolor) y la medicación de rescate. En ambas visitas se registró la puntuación de la escala visual analógica (EVA) del estado de salud del paciente, del ACT® y el tratamiento en curso.
+
+
+-- ANÁLISIS ESTADÍSTICO Y VARIABLES DE VALORACIÓN DEL ESTUDIO
+
+La variable de valoración primaria del estudio fue la puntuación ACT® como medida del control del asma, tomando los valores ≥ 20 como indicativos de buen control.
+El análisis se llevó a cabo comparando el porcentaje de pacientes con asma bien controlada entre ambos grupos, en ambas visitas, mediante la prueba ji al cuadrado. Además, se comparó dicho porcentaje entre ambos grupos en la visita de seguimiento, mediante un análisis de regresión logística, ajustando los datos por el estado de control del asma en la visita basal, nivel de estudios universitarios y asma intermitente según los criterios GEMA 2009.
+Entre las variables de valoración secundarias se incluyeron: la distribución de los distintos fenotipos de asma según los criterios de gravedad GEMA 2009, la distribución de síntomas diurnos para cada paciente, el número de exacerbaciones del asma, la apreciación del investigador del nivel de control de asma (sin cambios/mejor control/peor control) y el ámbito del investigador (rural/urbano).
+Como una medida de la evolución del control del asma se comparó el cambio en la puntuación ACT® en la visita de seguimiento respecto la puntuación basal en cada grupo mediante la prueba no paramétrica de rangos con signo de Wilcoxon para datos pareados, y entre ambos grupos mediante la prueba no paramétrica de Kruskal-Wallis. El cambio en la puntuación ACT® respecto a los niveles basales en cada grupo fue analizado. La puntuación EVA en cada visita fue comparada entre los grupos mediante la prueba no paramétrica de Kruskal-Wallis. La correlación entre la puntuación EVA y la puntuación ACT®, al comienzo y al final del estudio, se analizó calculando el coeficiente de correlación de Pearson.
+Como análisis de subgrupo, se estudió la puntuación ACT® en función de si hubo o no un cambio de tratamiento entre las visitas basal y de seguimiento.
+Para el análisis estadístico se utilizó la versión 8.2 del programa SAS. Se consideró un nivel de significación de 0,05.
+El tamaño de muestra mínimo para detectar una diferencia del 15% en los pacientes que alcanzan un buen control del asma entre los 2 grupos del estudio, con un poder estadístico de 0,80, se calculó en 163 pacientes por grupo.
+
+
+- RESULTADOS
+
+Un total de 380 pacientes de 27 centros fueron incluidos en el estudio, entre julio de 2009 y mayo de 2010, de los que 361 (95%) completaron el estudio.
+Las características basales y sociodemográficas de los pacientes fueron similares para ambos grupos, siendo la mayoría de origen caucásico. La mayoría de los pacientes en situación laboral activa tenían trabajos sin factores de riesgo para enfermedad pulmonar (39,2% en el grupo usuario ACT® y 35,6% en el no usuario ACT®). En el grupo usuario ACT® se dio una mayor proporción de pacientes con estudios universitarios (32,6 vs. 22,2%) así como pacientes que convivían con animales domésticos (38,7 vs. 27,2%).
+En ambos grupos hubo mayoría de pacientes sin historia familiar de asma (61,3% en el grupo usuario ACT® vs. 55% en el no usuario ACT®). Al comienzo del estudio, la proporción de enfermedades concomitantes fue mayor en el grupo no usuario ACT® (71,1 vs. 61,3%), con una mayor frecuencia de afecciones de oído, nariz y garganta. Las alergias fueron las dolencias más frecuentes entre los pacientes de ambos grupos.
+El tratamiento asmático predominante al inicio del estudio fueron agonistas β2 de corta duración (74,5 y 82,4%), seguido por corticoides inhalados (14,6 y 13,3%) y antileucotrienos (13 y 11,7%) en los grupos de usuarios ACT® y no usuarios ACT®, respectivamente.
+El porcentaje de pacientes que habían contestado al cuestionario ACT® con anterioridad fue de 35,4 y 1,1% en los grupos de usuarios ACT® y no usuarios ACT®, respectivamente.
+El porcentaje de pacientes con valores de asma bien controlada fue similar en ambos grupos en la primera visita: 58,6% en el grupo usuarios ACT® y 51,7% en el grupo no usuario ACT® (p = 0,19). En la visita de seguimiento, este porcentaje aumentó en ambos grupos, siendo mayor en el grupo de usuarios ACT® que en el de no usuarios ACT® (68,5 vs 55,6%, p = 0,01). La significación estadística se mantiene tras ajustar, mediante un análisis de regresión logística, por el estado de control del asma en la visita basal, nivel de estudios universitario y asma intermitente según los criterios GEMA 2009 (p = 0,04) .
+Los datos de gravedad del asma según los criterios GEMA 2009 se muestran en la tabla 1. El grupo usuarios ACT® presentó un mayor porcentaje de asma intermitente y menor de asma persistente.
+Los síntomas diurnos (tos, sibilancias, opresión de pecho, disnea) fueron los más frecuentemente registrados en los diarios de pacientes, seguidos de trastornos del sueño. En ambos grupos se observó una tendencia a la disminución de todos los síntomas a lo largo del seguimiento .
+La frecuencia de exacerbaciones por semana fue muy baja en ambos grupos: 0,05 en el de usuarios ACT® y 0,07 en el de no usuarios ACT®. La percepción de los investigadores, en seguimiento, fue de peor control del asma en 14,9 y 10,6% de pacientes de ambos grupos, respectivamente.
+La evolución del control del asma se determinó mediante las diferencias en la puntuación ACT® entre las visitas del estudio. La puntuación ACT® media fue de 19,7 y 18,8 en la visita basal y, de 20,5 y 19,4 en la de seguimiento, para los grupos de usuarios ACT® y no usuarios ACT®, respectivamente. En ambos grupos se observaron aumentos significativos en la puntuación media entre ambas visitas: 0,8 (p = 0,002) y 0,7 (p = 0,004), respectivamente.
+La puntuación EVA media del estado de salud fue de 6,7 y 7,2 puntos en la visita basal y en la de seguimiento en el grupo de usuarios ACT®, y de 6,4 y 6,6 en el de no usuarios ACT®, con un aumento similar en ambos grupos (0,5 vs. 0,3, respectivamente, p = 0,18).
+Se halló una correlación lineal positiva entre la puntuación EVA y la ACT® para cada paciente, tanto en la visita basal (r = 0,57) como en la de seguimiento (r = 0,65) .Figura 1
+La puntuación ACT® aumentó significativamente 2,5 puntos (p = 0,001) y 3,8 puntos (p < 0,0001) en los grupos de usuarios ACT® y no usuarios ACT®, respectivamente, cuando hubo cambio de tratamiento tras la visita basal, mientras que no lo hizo cuando no hubo cambio de tratamiento: 0,3 puntos (p = 0,11) y 0,0 puntos (p = 0,60), respectivamente.
+
+
+- DISCUSIÓN
+
+En el presente estudio, el uso, en visitas consecutivas, del cuestionario ACT®, en el ámbito de la AP, estuvo asociado con un aumento de la puntuación indicativa de mayor control del asma. Esta observación parece estar relacionada con la experiencia de los médicos en el uso del ACT®.
+El cuestionario podría ejercer un efecto sobre el control de la enfermedad proporcionando una herramienta de medida de control del asma en cada visita y mejorando el manejo de la enfermedad al detectar cambios de una visita a otra. El hecho de que el número de pacientes con valores de asma bien controlada fuera mayor entre pacientes de médicos habituados al cuestionario podría ser una consecuencia de un ajuste de tratamiento más fino por parte de estos médicos en respuesta a la mejora/deterioro identificado por el ACT®. A pesar de que todos los investigadores recibieron la misma formación respecto a la aplicación del cuestionario, es posible que la experiencia previa en su manejo por parte de los investigadores del grupo de usuarios ACT® pudiera suponer una ventaja a la hora de identificar cambios revelados por el mismo.
+La puntuación de control del asma mejoró a las 8 semanas en aquellos pacientes en los que se modificó el tratamiento tras la prueba basal mientras que en aquellos con tratamiento continuado no hubo mejoría. El uso del cuestionario ACT® podría tener un efecto sobre la inercia terapéutica, ayudando a la revisión del tratamiento para adecuarlo a las necesidades del paciente. La integración de distintos elementos de evaluación en el ACT® proporciona una visión global del estado de la enfermedad, frente al tratamiento individual de síntomas aislados.
+De forma inesperada, se observó que un 81,4% de los pacientes seleccionados no habían sido probados con el ACT® con anterioridad, lo que suponía que un 64,1% de los pacientes asmáticos incluidos en el grupo de usuarios ACT® no habían cumplimentado el cuestionario previamente al estudio. Una explicación para este hecho podría ser la pertenencia de la mayoría de los investigadores de dicho grupo al ámbito urbano, donde la movilidad geográfica tanto de pacientes como de médicos es habitual y podría dar cuenta de la falta de historial clínico para algunos pacientes, aunque no existen datos confirmatorios.
+Los resultados podrían complementarse con otro estudio que comparara 2 poblaciones, no de médicos, sino de pacientes, según el uso del ACT®, con lo que el efecto acumulativo de repetidas aplicaciones del cuestionario podría determinarse comparando la estabilidad temporal del nivel de control del asma en los pacientes de ambos grupos. El concepto de que el cuestionario ACT® proporciona una puntuación transferible entre visitas clínicas, que permite la monitorización del nivel de control independiente del médico, también podría ser estudiado de esta manera. Este concepto podría resultar de utilidad para abordar el problema de la movilidad urbana de pacientes.
+En conclusión, en este estudio, la aplicación del cuestionario ACT® mejoró el valor del nivel de control de la enfermedad de forma general en pacientes de AP y esta mejoría fue mayor cuando el ACT® fue administrado por médicos con experiencia previa en el uso cuestionario.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha sido financiado por GlaxoSmithKline S.A.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

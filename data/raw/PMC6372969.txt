@@ -1,0 +1,24 @@
+DETECCIÓN DE PARECHOVIRUS HUMANOS EN MUESTRAS RESPIRATORIAS EN MENORES DE 2 MESES CON FIEBRE DE ORIGEN DESCONOCIDO
+
+
+Sr. Editor: Los parechovirus humanos (HPeV) son unos virus sin envoltura y altamente resistes a las condiciones ambientales que presentan un genoma ARN y pertenecen a la familia Picornaviridae. Se han descrito 16 tipos distintos aunque los HPeV-1, 2 y 3 parecen ser los que presentan un mayor tropismo por el ser humano. La mayoría de infecciones causadas por estos virus son leves (síndromes febriles, cuadros respiratorios) aunque pueden llegar a determinar procesos sépticos y afectaciones del sistema nervioso central. Afectan preferentemente a la población infantil con una edad inferior a los 2 meses .
+Existe en nuestro país todavía pocos estudios sobre la presencia de los HPeVs en la población infantil, por ello nos ha parecido interesante presentar nuestra experiencia en su detección en muestras respiratorias.
+Desde octubre de 2017 hasta septiembre de 2018 se ha estudiado de forma prospectiva la presencia de HPeV en las muestras respiratorias (aspirados nasofaríngeos) de menores de 2 meses con un síndrome de febril de origen desconocido (FOD).
+Las muestras fueron sometidas inicialmente a la detección de los principales virus respiratorios a través de una técnica RT-PCR en tiempo real que detecta de forma simultánea y diferencial 16 virus distintos (Allplex Respiratory Full Panel Assay; Seegen, Corea del Sur). Esta técnica detecta la mayoría de enterovirus a excepción de los HPeV.
+Las muestras que fueron negativas en este prueba molecular fueron sometidas a la detección específica de los HPeV mediante una PCR comercial destinada a los virus neurotropos (FTD Viral meningitis; Fast-Track diagnostics, Luxemburgo).
+A lo largo del estudio se han analizado 87 pacientes con FOD de los cuales 47 (54%) fueron positivos, detectándose en ellos virus respiratorios en 28 (32.1%), enterovirus en 18 (20.6%) y HPeV en 1 (1.1%). En ese mismo período se detectaron 5 HPeV en LCR de pacientes con FOD, siendo negativos las muestras respiratorias. En el caso positivo en la muestra respiratoria no se realizó punción lumbar. Todos los virus fueron identificados como HPeV-3.
+En un estudio multicéntrico realizado en España en 850 muestras de diferente origen se detectaron 47 HPeV (5.5%), pero sólo en un caso (1.09%) se pudo detectar en una muestra respiratoria . Sin embargo Sharp et al. detectaron una incidencia del 3% en Estados Unidos y Harvala et al. del 2.1% en Escocia en las muestras respiratorias analizadas. Nuestro dato es muy similar al obtenido en el estudio español lo que hace pensar que esta puede ser la incidencia en nuestro país. Sin embargo dado que estos virus no se investigan de una forma rutinaria es posible que su incidencia sea superior a la comunicada.
+En la mayoría de pacientes en los que se detecta la presencia del HPeV en muestras respiratorias la sintomatología es mínima o muy leve pudiendo postularse que la orofarínge podría ser la vía de entrada al ser humano, al igual que en los enterovirus, para luego diseminarse. En el estudio de Sharp et al. en el 35% de los casos se pudo detectar de forma simultánea el HPeV tanto en la muestra respiratoria como en el LCR, lo cual confirmaría este concepto.
+Los diferentes estudios epidemiológicos han demostrado que la mayoría de las infecciones por HPeV se producen en neonatos o lactantes menores de 2 meses ; nuestro paciente tenía 18 días en el momento del diagnóstico. En el estudio de Martín del Valle et al. el 83.7% de los casos se presentaron en menores de 2 meses y el 55.8% en neonatos. Por lo tanto este grupo de edad es el que debería ser sometido a estudio preferente para conocer el impacto real de los HPeV en la población infantil. Otro dato interesante de los HPeV es su presentación preferente durante los meses de primavera y verano, dato parecido al incremento en la circulación de los enterovirus .
+De acuerdo con algunos estudios parece que los HPeV se trasmiten por vía orofecal o por contacto directo con una fuente u objeto contaminado, por ello en las primeras fases de la infección pueden encontrarse en las muestras respiratorias o heces. La diseminación de estos virus probablemente dependa más de las características del huésped que del propio virus, aunque parece que el HPeV-3 podría ser el de mayor morbilidad .
+A pesar de la baja incidencia de los HPeV en las muestras respiratorias debería incluirse su detección en todos aquellos pacientes con una FOD y una edad inferior a los 2 meses. El conocimiento epidemiológico de los mismos nos dará la magnitud real de este tipo de infecciones víricas.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este estudio.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no presentan ningún conflicto de intereses

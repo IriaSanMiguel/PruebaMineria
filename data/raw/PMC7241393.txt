@@ -1,0 +1,79 @@
+DESINFECTANTES Y ANTISÉPTICOS FRENTE AL CORONAVIRUS: SÍNTESIS DE EVIDENCIAS Y RECOMENDACIONES
+
+
+- INTRODUCCIÓN
+
+Para garantizar la prevención y el control eficientes de infecciones de la magnitud del coronavirus (COVID-19) es preciso proporcionar medidas integrales de control de infecciones que incluyan control de contacto, higiene de manos, equipo de protección personal, desinfección y limpieza ambiental, .
+La evolución de la pandemia del COVID-19, durante el mes de marzo de 2020, está siendo muy rápida con recuentos mundiales de casos mortales no conocidos hasta la fecha. La Organización Mundial de la Salud (OMS) declaró al brote de COVID-19 como pandemia el 11 de marzo de 2020 y la calificó como riesgo global muy alto. Desde entonces se han llevado a cabo numerosos ensayos clínicos e investigaciones para obtener más información sobre el virus, su origen y cómo afecta a los humanos están en curso. Esta revisión tiene como objetivo la búsqueda y síntesis de la evidencia disponible sobre las recomendaciones relevantes y pertinentes a seguir en el uso de antisépticos ante el COVID-19.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Búsqueda documental para identificar revisiones bibliográficas sobre antisepsia en el COVID-19.
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+La búsqueda se realizó, durante la última semana del mes de marzo de 2020, en Bases de Web Of Science (incluye WOS, CCC, DIIDW, KJD, MEDLINE, RSCI, SCIELO), PubMed, BMJ Best Practice, Cochrane Library, UptoDate, OMS y Ministerio de Sanidad de España. Se utilizaron los siguientes términos, siempre en combinación con coronavirus o COVID-19: Antisep*, disinfect*, prophylaxis. Se filtró el tipo de documento para revisiones publicadas entre 2016 y 2020. Se han identificado además, documentos institucionales de la OMS y del Ministerio de Sanidad del Gobierno de España.
+
+
+-- VALORACIÓN CRÍTICA
+
+Dada la naturaleza exploratoria de esta revisión, la escasez de tiempo desde el inicio de la pandemia (pocos meses) y siguiendo las indicaciones de realización de las scoping review, no consideramos imprescindible realizar valoración de la calidad de los estudios.
+
+
+-- ANÁLISIS
+
+Se realizó la lectura del resumen y conclusiones de los documentos tomando en consideración el contexto para determinar la mayor pertinencia, descartando aquellos documentos en los que el tema principal no era la antisepsia en el coronavirus COVID-19.
+
+
+-- LIMITACIONES
+
+Dado que la pandemia de la COVID-19 está en curso, las limitaciones de esta revisión incluyen la falta de existencia de una clara evidencia científica, ya que los resultados se centran en aportaciones de los autores y en anteriores pandemias. Sería oportuno realizar revisiones futuras que incluyan guías de práctica clínica y proyectos de investigación en curso basados en la actual experiencia.
+
+
+- RESULTADOS
+
+Se identificaron 47 documentos (sin duplicados: 36) de los que se seleccionaron, según pertinencia concreta sobre el tema propuesto, 17 documentos. Posteriormente se obtuvo un documento pertinente durante la consulta de la bibliografía. De los 18 documentos finales se han usado 12 para nuestra revisión. En la figura 1 se puede ver un resumen a modo de flujograma.Figura 1
+Entre las principales aportaciones de los documentos analizados caben destacar tres líneas temáticas: Información relacionada con la permanencia del coronavirus en las superficies, distintos antisépticos que se utilizan para la desinfección de dichas superficies y antisépticos para la limpieza de manos.
+
+
+-- CORONAVIRUS Y SUPERFICIES
+
+En un análisis, cuyo objetivo fue revisar y resumir los datos disponibles sobre la persistencia de los coronavirus en diferentes tipos de superficies inanimadas y en la eficacia de los agentes biocidas comúnmente utilizados en desinfectantes de superficie contra coronavirus, los resultados revelaron que los coronavirus humanos pueden persistir en superficies inanimadas como metal, vidrio o plástico hasta nueve días. Según otra revisión, los factores que influyen en la supervivencia de este tipo de virus en las superficies incluyen el tipo de superficie, medio de suspensión, modo de deposición, temperatura y humedad relativa.
+Aunque Kampf et al. no encontraron en su revisión datos sobre la transmisibilidad de los coronavirus de las superficies contaminadas a las manos, en la realizada por Otter et al. se apunta a que una vez las superficies son contaminadas, las manos pueden iniciar la autoinoculación de las membranas mucosas de la nariz, los ojos o la boca. Los estudios de intervención sugieren, según esta revisión, que la transmisión por contacto es la ruta más importante en algunos escenarios. A esto se añade la falta de vacunas y agentes terapéuticos efectivos, por lo que se hace necesario explorar todas las estrategias terapéuticas y profilácticas plausibles que pueden estar disponibles para detener la propagación de la enfermedad. Es por ello que las implicaciones de prevención y control de infecciones incluyen la necesidad de higiene de manos y equipo de protección personal para minimizar la autocontaminación y proteger contra la inoculación de las superficies mucosas y el tracto respiratorio, y la limpieza y desinfección mejoradas de la superficie en entornos de atención sanitaria. Las implicaciones de prevención y control de infecciones de estos hallazgos incluyen la necesidad de usar equipo de protección (EPI) apropiado para tener en cuenta el contacto, las gotas y las rutas en el aire, prestando especial atención al riesgo de contaminación de las manos y la ropa durante la retirada del equipo.
+Para la prevención y control de la infección en el manejo de pacientes con COVID-19, a nivel institucional y como consecuencia de la emergencia sanitaria, el Gobierno de España, a través del Ministerio de Sanidad, recomienda desinfectar las superficies para detener la transmisión del virus entre personas.
+
+
+-- DESINFECCIÓN DE SUPERFICIES
+
+Según la revisión llevada a cabo, el hipoclorito de sodio al 0,1% en 1 minuto es el principal agente en la desinfección de superficies. Los datos sugieren que una concentración de 0,1% es efectiva para el coronavirus si se aplica en 1 minuto, por lo que parece apropiado recomendar una dilución 1:50 de blanqueador estándar para dicha desinfección.
+Otro agente empleado para la desinfección es el etanol, ya que el alcohol, en presencia de agua, desnaturaliza las proteínas de los microorganismos; Es bactericida frente a las formas vegetativas de las bacterias, micobacterias, hongos y virus. Según los resultados obtenidos en nuestra revisión, el virus se puede inactivar eficientemente mediante procedimientos de desinfección de superficie con etanol al 62-71%. Para la desinfección de pequeñas superficies, el etanol (62-71%; pruebas de portadores) reveló una eficacia similar a la del hipoclorito, contra el coronavirus. En esta línea, Rutala y Weber concluyen que, debido a su actividad viricida, y con base en su efectividad sobre otros tipos de coronavirus, el alcohol etílico diluido (p. ej., al 70%) se podría usar para desinfectar algunos materiales médicos contaminados por SARS-CoV-2.
+Además, respecto del uso del alcohol, la OMS recomienda que los equipos que deban ser usados con varios pacientes SARS (termómetros, tensiómetros o estetoscopios) se limpien y desinfecten entre paciente y paciente (p. ej., con alcohol etílico al 70%). Por su parte el Ministerio de Sanidad Español indica que el material que vaya a ser utilizado posteriormente con otro paciente deberá ser correctamente limpiado y desinfectado o esterilizado, dependiendo del tipo de material de que se trate, de acuerdo con los protocolos habituales del centro. Sin embargo, hay que tener en cuenta que el uso repetido de alcohol puede deteriorar la goma y el plástico y que el alcohol sólo ofrece una desinfección de nivel bajo o intermedio, estando indicado únicamente para desinfección de material semicrítico y determinado material no crítico, .
+La revisión llevada a cabo por Kampf et al. revela la eficacia de otros agentes como el peróxido de hidrógeno al 0,5%, aunque también apuntan que algunos agentes biocidas como el cloruro de benzalconio al 0,05-0.2% o el digluconato de clorhexidina al 0,002%, son menos efectivos.
+En relación a la importancia de asegurar una correcta limpieza de todas las superficies y de los espacios, el Ministerio de Sanidad de España ha publicado el documento Prevención y control de la infección en el manejo de pacientes con COVID-19, en el que se recomienda el uso de los agentes ya mencionados, explicando que «El procedimiento de limpieza y desinfección de las superficies y de los espacios en contacto con el paciente se hará de acuerdo con la política habitual de limpieza y desinfección del centro, ya que existe evidencia de que los coronavirus se inactivan en contacto con una solución de hipoclorito sódico con una concentración al 0,1%, etanol al 62-71% o peróxido de hidrógeno al 0,5%, en un minuto. Es importante que no quede humedad en la superficie cercana al paciente. Se emplearán los detergentes y desinfectantes habituales autorizados para tal fin». Estos productos están reflejados en el documento de productos virucidas autorizados en España del Ministerio de Sanidad y en el que figuran los productos virucidas autorizados y registrados en España que han demostrado eficacia frente al virus atendiendo a la norma UNE-EN 14476.
+
+
+-- LIMPIEZA DE MANOS
+
+Weber et al. remarcan que no se ha estudiado suficientemente la actividad del alcohol en los momentos utilizados por la mayoría de los profesionales de atención sanitaria, al realizar la higiene de manos (10-15 segundos). Los estudios sobre la actividad de otros antisépticos importantes como el gluconato de clorhexidina y la povidona yodada han producido resultados variables. Es probable, según los autores, que esta variabilidad se explique por las diferencias en las condiciones de la prueba, incluido el desafío in vitro vs. humano, la duración de la exposición y la presencia de una carga de proteína. Parece que el 10% de povidona yodada proporcionaría una adecuada antisepsia de la piel si se aplica durante al menos 1 minuto.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+Parece plausible reducir la carga viral en las superficies mediante la desinfección, especialmente de las superficies tocadas con frecuencia en el entorno inmediato del paciente, donde se puede esperar la mayor carga viral.
+La OMS recomienda «garantizar que los procedimientos de limpieza y desinfección ambiental se sigan de manera consistente y correcta. La limpieza a fondo de las superficies ambientales con agua y detergente y la aplicación de desinfectantes de uso común hospitalario (como el hipoclorito de sodio) son procedimientos efectivos y suficientes».
+En la bibliografía consultada no se aprecian claras evidencias basadas en experimentos o intervenciones o estudios experimentales, pero si recomendaciones que se han mencionado en los resultados de la búsqueda y que se pueden resumir en que resalta la acción del hipoclorito de sodio, el etanol y el peróxido de hidrógeno frente a otros como el cloruro de benzalconio, el digluconato de clorhexidina, la povidona yodada y el alcohol etílico diluido.
+No se identifican claras recomendaciones de usar uno u otro antiséptico, pero sí de la importancia de realizar medidas, entre las que destaca la importancia de la higiene de manos, del uso de equipos de protección y de la desinfección del entorno, sin que se identifique ningún producto o medio más efectivo y con evidencia.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran ningún conflicto de intereses.

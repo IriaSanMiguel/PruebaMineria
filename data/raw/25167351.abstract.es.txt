@@ -1,0 +1,5 @@
+el estudio revela una baja frecuencia del genotipo ancestral en población mexicana del polimorfismo rs1345365.
+estimar la frecuencia de alelos y genotipos del polimorfismo rs1345365 del gen ELMO1 en población mestiza del Occidente y de la región sureste de México. MATERIAL Y MÉTODOS: estudio descriptivo de alelos y genotipos del polimorfismo rs1345365 que se identificó con PCR-PASA y PAGE 7% teñida con nitrato de plata.
+se incluyeron 322 individuos y el alelo más frecuente en las dos poblaciones es el de referencia (A). Se encontró una distribución diferente a otras poblaciones respecto a los genotipos. En ambas poblaciones está en equilibrio de Hardy-Weinberg p< 0.05.
+el gen ELMO1 tiene su locus en 7p14.2-14.1 y codifica para una proteína que regula la fibrogénesis, migración celular, fagocitosis, y apoptosis. Tiene diferentes variaciones de cambio de una sola base asociadas con nefropatía diabética. En la población mexicana no hay estudios de variantes de este gen, y es necesario conocerlas porque pueden ser polimorfismos que posteriormente se usen en estudios de asociación.
+

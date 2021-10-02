@@ -1,0 +1,5 @@
+La cobertura es elevada en comparación con campañas similares en otros entornos, aunque existe un importante margen de mejora, por lo que nuestro estudio puede contribuir al diseño de estrategias para optimizar los resultados.
+En 2019, el Consejo Interterritorial del Sistema Nacional de Salud aprobó la modificación de la estrategia de vacunación frente a meningococo. El objetivo de este estudio fue evaluar la vacunación de rescate frente a meningococo A, C, W, Y en adolescentes nacidos en 2001 y 2002 en la Comunidad de Madrid.
+Se realizó un estudio transversal de base poblacional. Se determinó la cobertura vacunal y los factores asociados a la vacunación, utilizando modelos de regresión logística.
+La cobertura vacunal fue del 57,1% para nacidos en 2001 y del 51,9% para nacidos en 2002. La probabilidad de vacunación fue mayor en mujeres (ORa=1,18), adolescentes con alguna enfermedad crónica (ORa=1,38), residentes en el ámbito rural (ORa=1,76) y en zonas con menor nivel socioeconómico. Haber nacido en 2002 (ORa=0,78) y en el extranjero (ORa=0,35) se asociaron a una menor probabilidad de vacunación.
+

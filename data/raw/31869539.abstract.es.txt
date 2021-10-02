@@ -1,0 +1,5 @@
+Analizar en localidades menores de 100 000 habitantes la tendencia de la maternidad en la adolescencia y factores relacionados.
+Asistir a la escuela y usar anticonceptivos modernos disminuye la prevalencia de maternidad adolescente en ambos grupos de edad. Entre las adolescentes, contar con esquema de financiamiento en salud, y el inicio de vida sexual temprano para el caso de las adultas, se asocia positivamente con maternidad adolescente.
+Es necesario fortalecer las políticas públicas para modificar factores estructurales que proporcionen opciones de vida; es preciso mantener y fortalecer las acciones y cobertura propuestas por la Estrategia Nacional para la Prevención del Embarazo en Adolescentes (ENAPEA) focalizándolas en esta población.
+Análisis transversal de 16 686 mujeres en localidades menores de 100 000 habitantes a partir de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2006, 2012 y 100k 2018. Se ajustaron modelos Poisson robustos con variable dependiente maternidad adolescente para mujeres de 12-19 y 20-24 años.
+

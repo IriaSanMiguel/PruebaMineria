@@ -1,0 +1,5 @@
+Se evidenció una autoorganización matemática espacio temporal en la proporción de dengue grave respecto al total que permite establecer predicciones de utilidad para la toma de decisiones de salud pública.
+Se predijo correctamente el rango en el que se encuentra incluida la proporción de número de infectados de dengue grave sobre el total en cada departamento con una efectividad del 93,3% para el rango de 0,5 y de 86,7% para el de 0,3.
+Con base en los datos anuales de número de infectados por departamentos en el periodo 2005 -2010, se calculó la proporción entre casos de dengue grave respecto al total para cada año, y se construyeron espacios de probabilidad que evalúan estos eventos en rangos de 0,5 y 0,3. Se determinaron conjuntos de rangos y se calculó probabilidad, desviación media cuadrática y la diferencia entre ellas. Se realizó una predicción del rango de infectados para el 2011 con el promedio aritmético de los valores de los últimos dos años.
+Establecer una nueva metodología predictiva de la proporción de dengue grave respecto al total anual de infectados de dengue por departamento con base en la teoría de la probabilidad.
+

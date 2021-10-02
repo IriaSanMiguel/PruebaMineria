@@ -1,0 +1,98 @@
+DISEÑO Y VALIDACIÓN DE LA ESCALA PARA VALORAR LA FRAGILIDAD DE LOS PACIENTES CRÓNICOS<SUP
+
+
+- INTRODUCCIÓN
+
+Al final del siglo XX se produce una verdadera revolución demográfica, ocasionada por la caída de la natalidad, los avances sanitarios, el mejor control de las enfermedades y los evidentes progresos sociales, lo que se traslada en una mejor calidad de vida de la población. La consecuencia es una constante y elevada proporción de personas de mayor edad y un espectacular incremento de la esperanza de vida.
+El vertiginoso envejecimiento de la población ha modificado el escenario de la atención sanitaria, por el espectacular aumento del consumo de recursos sanitarios, al menos, el 40-50% del gasto sanitario en nuestro país y del 75% del total de los tratamientos de carácter crónico, , , .
+Además, el concepto de fragilidad ha ganado rápidamente la atención como un síndrome independiente con una alta prevalencia en los adultos mayores. La fragilidad se relaciona a menudo con ciertos resultados adversos como la mortalidad o discapacidad. Otro resultado adverso de esta fragilidad discutido es una mayor utilización de atención sanitaria. Sin embargo, solo unos pocos estudios examinaron el impacto de la fragilidad en la utilización de servicios sanitarios y los costes correspondientes, .
+En España, según datos del padrón municipal de 2009 están censadas 7.782.904 personas mayores de 65 años lo que supone aproximadamente el 17% de la población total. Este grupo de población presenta 2 características muy importantes que son la pluripatología, entendiendo como tal la presencia de 2 o más enfermedades crónicas, y la polimedicación, entendida como el consumo de 5 o más medicamentos durante 6 o más meses, , .
+Los datos de la Encuesta Nacional de Salud (ENSE 2006), publicada en 2008, indican una media de 3 enfermedades crónicas por paciente anciano en el medio comunitario.
+Nos encontramos, por tanto, ante una población con elevado consumo de los recursos sanitarios, lo que unido a la alta incidencia de enfermedades crónicas se traduce, en general, en una situación de fragilidad para el paciente, , .
+Desde el punto de vista de los clínicos, uno de los mayores problemas con que nos encontramos en la atención a personas con procesos crónicos, son las dificultades que estos tienen para poder cuidar de sí mismos, para lo cual sería muy interesante poder medir el grado fragilidad o complejidad, de tal forma que en función del grado observado se pueda aplicar unos cuidados más o menos complejos y hacer un uso más racional de los recursos, optimizándolos y adecuándolos en función de las necesidades de cada paciente.
+La fragilidad de los pacientes crónicos se ha puesto de manifiesto en los estudios realizados, constatándose que en atención primaria hasta el 40% de los pacientes pluripatológicos presentan 3 o más enfermedades crónicas, el 94% están polimedicados, el 34% presentan un índice de Barthel menor de 60, el 37% tienen deterioro cognitivo, más del 60% precisan cuidador y el 40% de estos tienen signos de sobrecarga. Sin embargo, también se ha puesto de manifiesto que el problema de la pluripatología no es exclusivo de la edad avanzada, ya que hasta el 14% de los pacientes pluripatológicos tienen menos de 64 años de edad.
+En general los usuarios crónicos presentan una especial fragilidad clínica por la concurrencia de más de una enfermedad, con síntomas continuos y reagudizaciones frecuentes. Se caracterizan por la disminución gradual de su autonomía y su capacidad funcional, y el consecuente aumento de sus necesidades de asistencia sanitaria; con importantes repercusiones personales, familiares, sociales, económicas y de salud, , . Se identifica así un punto de mejora a la hora de priorizar los recursos sanitarios para no solo optimizar su uso, sino incluso anticipar las potenciales complicaciones, con el objeto de que los distintos niveles de atención (sanitario, familiar y social) puedan reorganizarse para adaptarse a la evolución del paciente frágil. Por estos motivos nuestro equipo se planteó el diseño y la validación de una escala o herramienta que nos permita clasificar a los pacientes frágiles de una forma dinámica y sensible a los cambios que experimenta el paciente crónico (frágil), de tal forma que nos permita personalizar y priorizar la atención sanitaria dispensada.
+
+
+- OBJETIVOS
+
+-- OBJETIVO GENERAL
+
+•Crear una escala o herramienta que nos permita medir y clasificar la fragilidad del paciente crónico.
+
+
+-- OBJETIVOS ESPECÍFICOS
+
+•Establecer los criterios o variables que modulan en la fragilidad.•Diseñar una herramienta para medir la fragilidad = EPADI.•Validación de la escala EPADI.•Clasificar a los pacientes frágiles.
+
+
+- METODOLOGÍA
+
+Estudio observacional en Área Sanitaria Norte de Málaga, los datos se recogieron de la historia clínica Diraya (Historia Digital de Salud del Servicio Andaluz de Salud), de la aplicación expresa para el registro del paciente frágil y mediante entrevista, se realizó la recogida de 2011 a 2015.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Pacientes crónicos, se trabajó con 2.108 sujetos, los datos analizados para la validación de la escala fueron los de 789 y 790 sujetos correspondientes a M_EPADI1 y M_EPADI2, respectivamente.
+Criterios de inclusión:•Pacientes mayor de 18 años.•Paciente crónico (enfermedad de duración mayor a 6 meses), con registro en Diraya.•Movilidad reducida con un índice de Barthel menor de 60 puntos.
+Criterios de exclusión:•Paciente con enfermedad psiquiátrica.
+La definición de fragilidad es muy amplia, presenta múltiples connotaciones y es multifactorial, de tal forma que cada autor centra la atención en diferentes aspectos o características de los sujetos frágiles, y nosotros hemos querido centrarla en el consumo de recursos (que es lo que queremos gestionar), por otro lado, reconocemos que los pacientes más frágiles son los que habitualmente consumen más recursos, , , .
+La creación de la escala EPADI se realizó mediante reuniones de expertos, basados en exhaustivas búsquedas bibliográficas, tras varias rondas se creó la escala como confluencia y concreción del índice de fragilidad de HARP (edad, valoración del estado cognitivo y valoración de las actividades de la vida diaria); del índice de comorbilidad de Charlson abreviado, a la que se sumó la escala de valoración socio-familiar y la inclusión o no inclusión del paciente en el proceso de pluripatológico.
+La aplicación de dicha escala dio lugar a la creación de 4 niveles de clasificación de los pacientes frágiles según la puntuación obtenida al realizarle la escala:•No fragilidad: 0 puntos.•Nivel bajo de fragilidad: 1-3 puntos.•Nivel intermedio de fragilidad: 4-6 puntos.•Nivel alto de fragilidad: 7-10 puntos.
+
+
+-- DEFINICIÓN DE VARIABLES
+
+Variable principal de resultado: escala de fragilidad Antequera (EPADI).
+Se definió la variable utilización de recursos como la suma (en medias) de variables de resultado de accesibilidad:•Citas médico familia (MF) en domicilio por paciente que es la media de las visitas que realizan los médicos en los domicilios.•Citas enfermero familia (EF) en domicilio por paciente que es la media de las visitas que realizan los enfermeros en los domicilios.•Citas MF en centro por paciente que es la media de las consultas pasadas que realizan los médicos en la consulta.•Citas EF en el centro por paciente que es la media de las consultas pasadas que realizan los enfermeros en la consulta.•Ingresos en urgencias es la media de los ingresos o contactos que cada paciente inmovilizado tiene con las urgencias del hospital.•Ingresos en hospitalización es la media de los ingresos que cada paciente inmovilizado tiene en la hospitalización.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cuantitativas se describen mediante la media y desviación estándar. Las variables cualitativas las presentamos en frecuencias junto con sus porcentajes y fueron comparadas utilizando el test de la Chi-cuadrado. Para la construcción de un modelo predictivo de la utilización de recursos la muestra se dividió en 2 submuestras de igual tamaño en forma aleatoria («Split sampling analysis»), una muestra de predicción (M_EPADI1) y otra muestra de validación (M_EPADI2), en ningún caso un sujeto puede participar en las 2 muestras.
+A partir de las variables inicialmente marcadas como variables de interés en la reunión de expertos, se identificaron predictores univariantes en la utilización de recursos en la muestra M_EPADI1. Estas variables fueron utilizadas para la construcción de un modelo de regresión logística multivariante. Después de desarrollar el índice, se construyó un sistema de puntaje en el cual se le asignó una puntuación a cada factor de riesgo presente, en base a la importancia que le otorga la bibliografía y en función de los valores tomados por la variable z-score en el análisis de M_EPADI1. Para la validación de la escala se utilizó la muestra M_EPADI2. Los análisis fueron realizados utilizando el programa estadístico R Project versión 3.2.2.
+
+
+- RESULTADOS
+
+En la muestra M_EPADI1 constituida por 789 pacientes se realizó la construcción de la escala.
+La variable utilización de recursos, medida mediante el número de consultas realizadas en los años en estudio, se ha transformado en una variable dicotómica a partir del valor de la mediana con valor 30, rango intercuartílico: 17-48.
+Las asociaciones univariadas entre la utilización de recursos (la cual ha sido utilizada como medida de fragilidad) y las características socio-demográficas y clínicas se muestran en la tabla 3. Se obtuvo una asociación estadísticamente significativa entre la utilización de recursos y algunas variables clínicas: obteniéndose para el rango 0-20 del índice de Barthel p < 0,187; p < 0,001 para la escala de valoración socio-familiar y p = 0,006 para el estado pluripatológico.
+En el análisis univariante la edad y el índice de Charlson no tienen efecto sobre la utilización de los recursos.
+Para el índice de Barthel que se corresponde con la categoría valores entre 0 y 20 se observa una tendencia a la significación (p = 0,187).
+La escala de valoración socio-familiar resulta estadísticamente significativa (p < 0,001), de tal forma que los individuos que presentan valores en la escala de valoración socio-familiar superiores a 10 presentan 2,45 veces más de riesgo de realizar un mayor número de consultas que aquellos individuos que presentan valores en la escala de valoración socio-familiar inferiores a 10.
+La variable pluripatológico resulta estadísticamente significativa (p = 0,006), de tal forma que los individuos que presentan estado pluripatológico tienen 1,56 veces más de riesgo de realizar un mayor número de consultas.
+El modelo multivariante de predictores de una mayor utilización de recursos fue construido en la muestra M_EPADI1 , en este modelo se identificaron los siguientes factores: rango 0-20 en el índice de Barthel (p = 0,039), puntuación en la escala de valoración socio-familiar ≥ 10 (p < 0,001), pluripatológico (p = 0,002) y test de Pfeiffer > 3 (p = 0,046). En función de los valores tomados por la variable z-score, se le asignó un valor entero a cada uno de los factores predictores del modelo quedando constituida la escala EPADI .
+En el análisis multivariante los individuos con puntuaciones de la escala de valoración socio-familiar superiores a 10 presentan 2,62 veces más de riesgo de realizar una mayor utilización de recursos. Los individuos con estado pluripatológico presentan 1,68 veces más de riesgo de realizar una mayor utilización de los recursos. En individuos con puntuación del test de Pfeiffer superior a 3 el riesgo de una mayor utilización de recursos disminuye en un 30% con respecto a aquellos que presentan puntuaciones inferiores a 3. Además, los individuos con un índice de Barthel de 0-20, que en el análisis univariante se apreciaba una tendencia, se confirma la significación estadística de tal forma que estos sujetos presentan 1,54 veces más riesgo de realizar una mayor utilización de los recursos.
+Posteriormente, tras la obtención del modelo predictivo procedemos a comparar la submuestra M_EPADI1 con otra submuestra del mismo grupo de sujetos en estudio M_EPADI2.
+Con respecto a las características socio-demográficas y clínicas las 2 muestras resultaron similares no encontrándose una asociación estadísticamente significativa entre ninguna de ellas .
+La variable número de consultas presentó una media de 39,44 visitas (± 34,25).
+La edad de ambas muestras se distribuye de la siguiente forma: el 12,7% tiene menos de 75 años, el 37,1% tiene entre 75 y 84 años y el 50,2% tiene 85 o más.
+Con respecto a la dependencia para las actividades de la vida diaria (índice de Barthel) el 22,8% no presenta dependencia o la dependencia es leve, el 38,4% tiene una dependencia importante y el 38,8% presenta una dependencia severa. El 69,3% de los pacientes tienen algún deterioro cognitivo y el 75,9% presentan un índice de comorbilidad bajo, en el 53,7% presentan un riesgo social y el 74,9% no es pluripatológico.
+
+
+-- VALIDACIÓN DE LA ESCALA
+
+Para la validación de la escala se trabajó con la muestra M EPADI2 (790 usuarios), los resultados obtenidos en esta muestra se mostraron consistentes con los obtenidos en la muestra M EPADI1. Al analizar la bondad del ajuste (test de Hosmer y Lemeshow) se obtuvo p = 0,6, por lo que los datos no se desviaron significativamente del modelo de regresión logística obtenido. El área bajo la curva ROC fue de 0,643 con un intervalo de confianza de (0,605-0,681), indicando una buena capacidad del modelo para discriminar entre los pacientes frágiles en función de la utilización de recursos .Figura 1
+
+
+- DISCUSIÓN
+
+En primer lugar queremos señalar algunos aspectos interesantes de nuestro trabajo, por ejemplo en el análisis multivariante de la muestra M_EPADI1 el índice en los aspectos cognitivos y edad es negativo: es decir a mayor deterioro menor número de consultas que es la variable dependiente, y lo mismo ocurre con la edad, a mayor edad menor número de consultas, posiblemente debido a que esta situación se obtiene como consecuencia de la existencia de una cuidadora principal, que se hace cargo de los pacientes con deterioro cognitivo y de los más mayores. Concretamente en individuos con puntuación del test de Pfeiffer superior a 3 el riesgo de una mayor utilización de recursos disminuye en un 30% con respecto a aquellos que presentan puntuaciones inferiores a 3.
+El concepto de fragilidad ha ganando rápidamente la atención como un síndrome independiente, la fragilidad se relaciona a menudo con ciertos resultados adversos como la mortalidad o la discapacidad, .
+La fragilidad es un concepto amplio donde son múltiples los factores que influyen en el desarrollo del cuadro clínico y la calidad de vida, con este trabajo hemos concretado varios de ellos: la edad, el estado cognitivo, la independencia para las actividades de la vida diaria, la pluripatología, la comorbilidad y el estado social, estos son variables confluyentes con otros autores, aunque en distinto orden de priorización, , , .
+Además son muchas las escalas que hoy día disponemos para su aplicación en la práctica clínica diaria, pero son pocas las destinadas a medir la fragilidad o complejidad como es la escala HARP, aunque muy simple y poco utilizada, otras se dedican a valorar los síntomas de la fragilidad como: debilidad, lentitud, cansancio, pérdida de peso involuntaria y la inactividad física, además de las que más encontramos son de temas concretos y muy específicos como valoración de la demencia, el riego cardiovascular, es decir múltiples escalas o test para medir o clasificar diferentes estadios y además en muy diferentes perfiles de pacientes, por estos motivos presentamos una herramienta innovadora, fácil, simple y muy operativa para medir y clasificar a los pacientes frágiles.
+Esta herramienta nos permite continuar investigando, tras establecer una estrategia determinada para cada tipo de fragilidad, y ver los resultados en variables de resultados en accesibilidad, variables de resultados en salud, variables de resultados en gasto y variables de resultados de calidad.
+
+
+- CONCLUSIONES
+
+Concluimos que el concepto de fragilidad en un concepto muy amplio, se ha tratado desde diferentes perspectivas: complejidad, cronicidad, edad avanzada, dependencia, pluripatología, polimedicación, riesgo social,... Sin embargo, son pocos los estudios que se dedican a medir dicha fragilidad y pocas o pobres las escalas validadas que a día de hoy nos permiten medir con criterios objetivos y fiables que además nos permita comparar entre este tipo de pacientes y adecuar los recursos a las necesidades de los mismos.
+La escala EPADI ha sido validada y nos permite medir el nivel de fragilidad, comparar a pacientes crónicos y, por supuesto, redistribuir los recursos sanitarios en función de la fragilidad de los pacientes.
+Este estudio nos permite priorizar estrategias específicas y dirigidas de seguimiento, por parte del equipo de atención primaria en coordinación con los especialistas de atención hospitalaria, sobre el perfil de pacientes más vulnerables los FRÁGILES.
+Por lo tanto, esta herramienta ayudará en la toma de decisiones para la reestructuración de los recursos socio-sanitarios y detectará los factores que más influyen en la fragilidad, esto nos permite trabajar de forma personalizada esta estrategia, optimizar el uso finito de los recursos socio-sanitarios y equiparar la atención sanitaria entre los distintos usuarios.Lo conocido sobre el tema–El concepto de fragilidad es difuso y depende de varios factores al mismo tiempo.–Existen pocas escalas para medir la fragilidad en pacientes crónicos de todo tipo, sí existen algunas, pero para pacientes muy específicos.–Las escalas que clasifican a pacientes crónicos en general son muy pobres.Qué aporta este estudio–Se concreta sobre el concepto de fragilidad.–Se crea la primera escala (EPADI) para medir y clasificar la fragilidad de los pacientes crónicos, de forma sencilla y con una herramienta fácil, validada.–Identificamos los factores que más se relacionan con la fragilidad.–En base al grado de fragilidad permite establecer estrategias de atención sanitarias desde lo micro a lo macro a los pacientes que más lo requieren.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaramos no tener ningún conflicto de intereses.

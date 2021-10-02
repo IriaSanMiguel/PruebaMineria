@@ -1,0 +1,20 @@
+Salmonella Enteritidis es una de las mayores causas de salmonelosis en el mundo, siendo los huevos contaminados y la carne de pollo cruda sus principales fuentes de infección. En Ibagué, Colombia, se identificaron los principales serovares circulando en granjas, superficies de huevos y canales de pollo, sin embargo, se desconoce si esos serovares son responsables de gastroenteritis.
+
+Objetivo. Evaluar la relación genética entre aislamientos de Salmonella Enteritidis de aves de corral y humanos con gastroenteritis mediante multilocus sequence typing (MLST).
+
+Materiales y métodos. Se aisló Salmonella spp., de casos clínicos de gastroenteritis (n=110). Se realizó test de sensibilidad antibiótica, seguido de serotipificación y tipificación por medio de MLST y se comparó S. Enteritidis de humanos frente a S. Enteritidis de granjas ponedoras y de huevo comercializado (n=6).
+
+Resultados. Se aislaron 10 cepas de Salmonella spp., a partir de heces de humanos con gastroenteritis. Se obtuvo una prevalencia de Salmonella spp. de 9.09%, siendo S. Enteritidis (n=4), S. Typhymurium (n=2), S. Newport (n=1), S. Grupensis (n=1), S. Uganda (n=1) y S. Braenderup (n=1) los serotipos presentes en pacientes con gastroenteritis. El MLST indico que un tipo de secuencia común (ST11) de S. Enteritidis estuvo presente en todas las tres fuentes y mostraron el mismo patrón de resistencia antibiótica.
+
+Conclusión. S. Enteritidis ST11 constituye un vínculo entre el consumo/manipulación de huevos contaminados y gastroenteritis humana en Ibagué. Son necesarios estudios complementarios para conocer si otros serovares de Salmonella aislados de carne de pollo cruda también se asocian con la gastroenteritis humana.
+
+Introducción. Salmonella Enteritidis es una de las mayores causas de salmonelosis en el mundo, siendo los huevos contaminados y la carne de pollo cruda sus principales fuentes de infección. En Ibagué, Colombia, se identificaron los principales serovares circulando en granjas, superficies de huevos y canales de pollo, sin embargo, se desconoce si esos serovares son responsables de gastroenteritis.
+
+Objetivo. Evaluar la relación genética entre aislamientos de Salmonella Enteritidis de aves de corral y humanos con gastroenteritis mediante multilocus sequence typing (MLST).
+
+Materiales y métodos. Se aisló Salmonella spp., de casos clínicos de gastroenteritis (n=110). Se realizó test de sensibilidad antibiótica, seguido de serotipificación y tipificación por medio de MLST y se comparó S. Enteritidis de humanos frente a S. Enteritidis de granjas ponedoras y de huevo comercializado (n=6).
+
+Resultados. Se aislaron 10 cepas de Salmonella spp., a partir de heces de humanos con gastroenteritis. Se obtuvo una prevalencia de Salmonella spp. de 9.09%, siendo S. Enteritidis (n=4), S. Typhymurium (n=2), S. Newport (n=1), S. Grupensis (n=1), S. Uganda (n=1) y S. Braenderup (n=1) los serotipos presentes en pacientes con gastroenteritis. El MLST indico que un tipo de secuencia común (ST11) de S. Enteritidis estuvo presente en todas las tres fuentes y mostraron el mismo patrón de resistencia antibiótica.
+
+Conclusión. S. Enteritidis ST11 constituye un vínculo entre el consumo/manipulación de huevos contaminados y gastroenteritis humana en Ibagué. Son necesarios estudios complementarios para conocer si otros serovares de Salmonella aislados de carne de pollo cruda también se asocian con la gastroenteritis humana.
+

@@ -1,0 +1,70 @@
+UTILIDAD DE LAS ESCALAS DE SEPSIS PARA PREDECIR EL FALLO RESPIRATORIO Y LA MUERTE EN PACIENTES CON COVID-19 FUERA DE LAS UNIDADES DE CUIDADOS INTENSIVOS
+
+
+- INTRODUCCIÓN
+
+El coronavirus relacionado con el síndrome respiratorio agudo grave 2 (SARS-CoV-2) se notificó por primera vez en Wuhan, provincia de Hubei, China. Tras su rápida propagación mundial, la Organización Mundial de la Salud declaró la enfermedad por coronavirus 2019 (COVID-19) como pandemia el 11 de marzo de 2020. La actual pandemia de COVID-19 está suponiendo retos sin precedentes para los sistemas sanitarios de todo el mundo, especialmente en zonas con una elevada transmisión comunitaria, como en Madrid (España), donde el número de casos aumentó exponencialmente durante las tres primeras semanas de marzo de 2020.
+La repentina aparición de una infección, cuya principal manifestación clínica consiste en una neumonía grave, supone un enorme reto para garantizar el soporte respiratorio adecuado a todos los pacientes durante la hospitalización. En este contexto, parece esencial disponer de instrumentos validados que puedan determinar, lo antes posible, quiénes, de los pacientes infectados por el SARS-CoV-2, tienen un riesgo mayor de sufrir fallo respiratorio y fallecer.
+El grupo de trabajo Sepsis-3 recomienda utilizar la puntuación qSOFA (quick Sequential [Sepsis-Related] Organ Failure Assessment) para identificar a los pacientes con sospecha de infección que corren un riesgo mayor de evolución desfavorable. En publicaciones posteriores se constató que las puntuaciones generales de alerta temprana, como la escala NEWS (National Early Warning Score), eran más exactas que la puntuación qSOFA para predecir el deterioro clínico, . Algunos autores han propuesto el uso de una modificación simplificada de la puntuación NEWS denominada qNEWS (quick NEWS). Aún no se ha comunicado la exactitud de estas puntuaciones para predecir una evolución clínica desfavorable en los pacientes con COVID-19.
+El objetivo de este estudio consistió en evaluar el uso de dos puntuaciones centradas en la sepsis, SOFA y qSOFA, y dos puntuaciones generales de alerta temprana, qNEWS y NEWS, calculadas en el momento del ingreso para predecir la aparición de fallo respiratorio y la mortalidad en pacientes con COVID-19 confirmada.
+
+
+- MATERIALES Y MÉTODOS
+
+-- POBLACIÓN Y DISEÑO DEL ESTUDIO
+
+Estudio observacional retrospectivo en el que se incluyó a todos los pacientes adultos hospitalizados por COVID-19 el 16 de marzo de 2020. Este día señaló el comienzo de la peor ola de la epidemia en nuestra región hasta la fecha. El seguimiento de los pacientes fue hasta el 16 de abril de 2020 o hasta su muerte.
+La COVID-19 se diagnosticó mediante una reacción en cadena de la polimerasa con retrotranscripción en tiempo real (RT-PCR) positiva para SARS-CoV-2 a partir de un frotis nasofaríngeo o muestras de esputo.
+Las manifestaciones clínicas, las características radiológicas, los valores analíticos y las constantes vitales en el momento del ingreso se obtuvieron a partir de las historias clínicas electrónicas. Para validar cada caso se determinaron todas las constantes vitales y datos analíticos necesarios para calcular las puntuaciones qSOFA, SOFA, NEWS y qNEWS . Se emplearon los primeros datos disponibles de cada paciente para calcular las puntuaciones. Los valores qNEWS se calcularon utilizando únicamente los componentes de presión arterial, frecuencia respiratoria y grado de conciencia de la puntuación NEWS con las mismas ponderaciones para cada valor de corte que en la NEWS.
+El protocolo fue aprobado por el Comité de Ética de la Investigación con medicamentos del Hospital 12 de Octubre (referencia 20/117) y se concedió una exención del consentimiento informado debido al diseño observacional retrospectivo del estudio.
+
+
+-- DEFINICIÓN DE LOS CRITERIOS DE VALORACIÓN
+
+El fallo respiratorio se definió como un cociente PaO2/FiO2 ≤ 200 mmHg o la necesidad de ventilación mecánica (ventilación con presión positiva no invasiva [incluido oxígeno por cánula nasal a alto flujo] o ventilación mecánica invasiva). El fallo respiratorio pudo ocurrir en cualquier momento durante el ingreso hospitalario. Según se muestra en la , la mediana del tiempo transcurrido entre el ingreso y la insuficiencia respiratoria fue de tres días (rango intercuartílico: 1-5,7). Se registró la mortalidad intrahospitalaria durante el seguimiento de 30 días.
+
+
+-- MÉTODOS ESTADÍSTICOS
+
+El análisis descriptivo se realizó con medias ± desviación estándar o medianas con rangos intercuartílicos (RIC). Se utilizó la prueba de la U de Mann-Whitney para comparar variables continuas con distribución no normal y la prueba exacta de Fisher para comparar proporciones. La exactitud predictiva se determinó mediante sensibilidades, especificidades, valores predictivos negativos y positivos y cocientes de verosimilitudes negativos y positivos. Se realizó un análisis de área bajo la curva (ROC) en curvas de eficacia diagnóstica, para determinar los mejores valores de corte de las puntuaciones SOFA, qSOFA, NEWS y qNEWS asociados a la presencia de insuficiencia respiratoria o mortalidad intrahospitalaria mediante el índice de Youden. El análisis estadístico se llevó a cabo con el programa SPSS Statistics para Windows, versión 19.0 (IBM, Armonk, NY: IBM Corp).
+
+
+- RESULTADOS
+
+Se incluyeron un total de 237 pacientes. En la se indican las principales características demográficas y clínicas de los pacientes. La mediana del tiempo transcurrido entre el comienzo de los síntomas y la primera RT-PCR positiva fue de cinco días (rango intercuartílico: 3-7).
+Durante la hospitalización, el 70% de los pacientes precisó oxigenoterapia, mientras que se observó fallo respiratorio en el 32% de los casos. La necesidad de ingreso en UCI y la mortalidad intrahospitalaria global fueron, respectivamente, del 12,2 y 20,7%. La mortalidad fue mayor en el grupo con fallo respiratorio (47/77 [61%] frente a 2/160 [1,3%], p < 0,0001). La mortalidad en la UCI fue del 41,4% (12/29) en comparación con el 17,8% (37/208) en los pacientes no ingresados en la UCI (p < 0,0001).
+Los valores más frecuentes de las puntuaciones SOFA, qSOFA, NEWS y qNEWS en el momento del ingreso fueron 0 (35%), 0 (69%), 2 (15,6%) y 0 (57,8%), respectivamente. En la tabla 1 se presentan las medidas de la exactitud diagnóstica de las puntuaciones SOFA, qSOFA, NEWS y qNEWS en cuanto a la presencia de insuficiencia respiratoria o mortalidad intrahospitalaria. Los mejores valores de corte de las puntuaciones qSOFA, SOFA, NEWS y qNEWS para predecir fallo respiratorio y mortalidad fueron ≥ 1, ≥ 2, ≥ 4 y ≥ 2, respectivamente. Estos valores de corte se observaron en el 30,4, 45,5, 42,2 y 22,4% de la cohorte del estudio.
+La puntuación NEWS (AUC: 0,75; IC 95%: 0,69-0,8, p < 0,0001) fue la más exacta para predecir fallo respiratorio en el momento del ingreso y la diferencia con respecto a la qSOFA se aproximó a la significación estadística (AUC de qSOFA: 0,69; IC 95%: 0,62-0,74, comparación emparejada; p = 0,09).
+En cuanto a la mortalidad, la puntuación SOFA (AUC: 0,77; IC 95%: 0,72-0,83; p < 0,0001) fue algo más exacta que las otras puntuaciones . En la tabla 2 se presentan la especificidad y sensibilidad de diferentes valores de corte de las puntuaciones con IC 95%.
+
+
+- DISCUSIÓN
+
+En una situación como la pandemia de la COVID-19 resulta esencial predecir e identificar lo antes posible cuántos pacientes corren riesgo de sufrir fallo respiratorio o fallecer para garantizar una disponibilidad adecuada de los recursos hospitalarios y equipos de soporte ventilatorio. Por consiguiente, el uso de instrumentos sencillos, como las escalas de sepsis, que se basan principalmente en los signos clínicos, serían de gran utilidad para mejorar la gestión clínica de esta población. Sin embargo, hasta la fecha, estas puntuaciones no se han evaluado en pacientes con COVID-19. Además, estas puntuaciones se han validado para predecir la mortalidad y el traslado a la UCI, , pero no el fallo respiratorio.
+En nuestra experiencia, hasta el 30% de los pacientes hospitalizados por COVID-19 desarrolla fallo respiratorio, el 12% ingresa en la UCI y el 20% fallece.
+La escala NEWS sería el instrumento más adecuado para predecir el fallo respiratorio porque tiene el mejor AUC, una mayor sensibilidad y especificidad que qSOFA y valores similares a los de la puntuación SOFA, que es más compleja. En lo que respecta a ambos criterios de valoración, la puntuación SOFA presenta la máxima sensibilidad, mientras que qSOFA tiene la mayor especificidad. En general, nuestros resultados en pacientes con COVID-19 son similares a los comunicados por otros autores en pacientes sin COVID-19, .
+Un aspecto llamativo es que, en la COVID-19, el valor de corte de la puntuación NEWS fue ≥ 4, menor que las puntuaciones de 5 o 7 que se emplean normalmente en la sepsis, . Este valor de corte más bajo podría explicarse por el hecho de que los pacientes con COVID-19 no suelen tener hipotensión (en nuestro estudio, tan solo el 15% de los pacientes presentó una presión arterial sistólica ≤ 110 mmHg) y únicamente el 7% presentó una alteración del grado de conciencia.
+Por otro lado, hay que señalar que cada puntuación tiene un alto valor predictivo negativo en cuanto a la presencia de fallo respiratorio y la mortalidad, que oscila entre el 79-84% y el 88-93%, respectivamente. Por consiguiente, la inclusión de estas puntuaciones en la evaluación clínica inicial de los pacientes con COVID-19 podría resultar útil para descartar con exactitud la aparición de complicaciones graves.
+En general, nuestro análisis pone de manifiesto que el uso de estas escalas permite una identificación precoz de los pacientes de mayor riesgo. Esto tiene consecuencias clínicas directas en una pandemia tan devastadora como la de COVID-19, de modo que facilita la planificación de la asignación de unos recursos escasos y complejos, como camas de UCI y equipos de soporte respiratorio. Este hecho resulta especialmente útil porque la mediana del tiempo transcurrido entre el ingreso en el servicio de Urgencias y el traslado a la UCI fue de un día (RIC: 1-5), lo que implica que los pacientes pueden requerir ingreso en la UCI en las primeras horas de su atención.
+Uno de los puntos fuertes más importantes de nuestro estudio es que el seguimiento de los pacientes duró un mes o hasta su muerte. Ello incrementa la fiabilidad de nuestros datos, ya que los pacientes con COVID-19 grave pueden tener estancias hospitalarias prolongadas. De hecho, la mediana de la estancia hospitalaria en los supervivientes con fallo respiratorio e ingreso en la UCI fue de 21 (RIC, 16-28) y 28 (RIC, 22-33) días, respectivamente. La mediana del tiempo transcurrido hasta la muerte intrahospitalaria fue de nueve días (RIC, 7-12) . Estas estancias hospitalarias prolongadas de pacientes COVID-19 grave deben tenerse en cuenta para gestionar con prudencia los recursos hospitalarios.
+Nuestro análisis adolece de las limitaciones propias de los estudios retrospectivos. Sin embargo, las constantes vitales y los valores analíticos necesarios se obtuvieron en todos los casos. Además, este es un trabajo que comunica la experiencia de un único centro en el contexto particular de la primera ola de la pandemia. En consecuencia, estos datos han de ser validados externamente, en particular en lo que respecta al fallo respiratorio, dado que estas escalas se han utilizado antes para predecir la mortalidad.
+
+
+- CONCLUSIONES
+
+La precisión diagnóstica de las escalas de sepsis en relación con el fallo respiratorio y la mortalidad intrahospitalaria en la COVID-19 fueron útiles, de manera similar a las ya descritas en sepsis. De manera general, se constató que la determinación precoz de la puntuación NEWS constituye el mejor instrumento para predecir fallo respiratorio en los pacientes con COVID-19 y podría permitir a los médicos y gerentes de los hospitales garantizar la gestión adecuada de los pacientes infectados por el SARS-CoV-2 que no ingresan en la UCI.
+
+
+- FINANCIACIÓN
+
+Mikel Mancheño-Losa recibió financiación mediante un contrato de investigación «Río Hortega» del Instituto de Salud Carlos III (CM19/00226).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener conflicto de intereses.
+
+
+- CONTRIBUCIONES DE LOS AUTORES
+
+A. Lalueza, J. Lora-Tamayo, C. de la Calle y C. Lumbreras diseñaron el estudio. G. Maestro, J. Sayas, R. García y A. Lalueza seleccionaron a los pacientes. A. Lalueza, J. Lora-Tamayo, C. de la Calle, G. Maestro, J. Sayas, E. Arrieta, M. Mancheño, Á. Marchán, R. Díaz-Simón, A. García-Reyne y B. de Miguel se encargaron de la obtención de datos. A. Lalueza realizó el análisis estadístico. A. Lalueza y C. Lumbreras elaboraron el primer borrador del artículo. A. Lalueza, G. Maestro, M. Catalán, R. García y C. Lumbreras participaron en la interpretación de los datos y editaron el artículo. A. Lalueza y C. Lumbreras redactaron el borrador final del artículo e hicieron todos los cambios sugeridos por los coautores.

@@ -1,0 +1,5 @@
+Es necesario y urgente reforzar la prevención de lesiones accidentales, especialmente en grupos vulnerables.
+Estimar la prevalencia de lesiones accidentales no fatales en población mexicana y analizar los factores individuales, ambientales y del hogar asociados con su ocu-rrencia.
+Se analizó la prevalencia de lesiones accidentales a partir de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2018-19, diseñada con un muestreo probabilístico, estratificado y por conglomerados, en tres etapas. Se evaluó mediante regresión logística su asociación con distintas variables independientes.
+La pre-valencia de lesiones accidentales fue de 4.5% (IC95%: 4.2-4.7), equivalente a 5.6 millones de personas. De ellas, 22.3% o 1.2 millones sufrieron consecuencias permanentes en su estado de salud. La posibilidad de tener una lesión accidental fue mayor en región Norte, Centro y Ciudad de México-Estado de México, en hombres de 0 a 59 años, mujeres de 60 o más años, en personas con alguna discapacidad y en quienes reportaron sentir depresión.
+

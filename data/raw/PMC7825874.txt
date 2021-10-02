@@ -1,0 +1,29 @@
+PUPILA TÓNICA DESPUÉS DE LA INFECCIÓN POR COVID-19
+
+
+- INTRODUCCIÓN
+
+A finales de diciembre de 2019, las autoridades de salud pública chinas informaron de varios casos de síndrome respiratorio agudo en la ciudad de Wuhan, provincia de Hubei, China. Pronto se identificó un nuevo coronavirus como el principal agente causante. El virus se denominó oficialmente «Coronavirus 2 del síndrome respiratorio agudo severo» (SARS-CoV-2), es altamente contagioso habiéndose convertido rápidamente en un riesgo para la salud mundial, debido a su rápida expansión, la OMS lo declaró pandemia el 11 de marzo de 2020. En nuestro país, el primer caso se notificó el 6 de marzo del mismo año. Se han reportado diferentes síntomas neurológicos relacionados, como cefalea, mareos, alteración de la conciencia y anosmia, junto con algunos síndromes relacionados como el síndrome de Miller-Fisher, Guillain-Barré (GBS), mono o polineuritis craneal, que han ampliado el espectro neurológico. Presentamos el caso de una pupila tónica bilateral que surgió en el contexto postinfeccioso de COVID- 19. Tras explicar al paciente, se obtuvo el consentimiento informado por escrito.
+
+
+- CASO CLÍNICO
+
+Paciente femenina de 36 años que ingresa en nuestro servicio de oftalmología, refiriendo cuadro de 3 días de dilatación pupilar en ambos ojos y visión borrosa. No refirió dolor con los movimientos oculares ni alteración de la visión del color. La paciente se encontraba en fase de recuperación de una infección documentada con prueba molecular positiva por PCR para SARS-CoV-2 hace 17 días y presentaba secuelas neurológicas dadas por vértigo periférico, anosmia persistente y cefalea. La resonancia magnética cerebral era normal. El examen oftalmológico reveló agudeza visual: OD SC 20/400 CC 20/30 OS SC 20/200 CC 20/20; además, mostró una pupila midriática bilateral de aproximadamente 8 mm de diámetro, no reactiva a la luz, pero reactiva lentamente a la convergencia. Su examen neurológico, incluidos los reflejos profundos, el equilibrio, la fuerza y ??el tono, fueron normales. Los análisis de sangre fueron normales, incluidos tiroides, riñón, función hepática, serología para sífilis, VIH y enfermedad de Lyme; y los criterios de gravedad para COVID-19 mostraron valores dentro de los rangos normales. El análisis de LCR fue normal. Se realizó una prueba de pilocarpina diluida al 0,125%, que mostró constricción pupilar después de la primera instilación con efecto marcado a los 15 min, volviéndose ambas pupilas de igual tamaño y confirmando el diagnóstico de pupila tónica (fig. 1 ).Figura 1
+
+
+- DISCUSIÓN
+
+La pupila de Adie es el resultado de una lesión de las neuronas parasimpáticas posganglionares, que se encuentran desde el ganglio ciliar hasta el músculo del esfínter de la pupila y el músculo ciliar, lo que da como resultado la ausencia del reflejo fotomotor, pero con una respuesta tónica de la pupila a la vista cercana. Los pacientes también pueden mostrar una disminución de los reflejos tendinosos profundos en el síndrome de Holmes-Adie completo, así como enfermedades autoinmunes, entidades paraneoplásicas, enfermedades del tejido conectivo y afecciones postinfecciosas (es decir, sífilis, enfermedad de Lyme o la familia del virus del herpes). En la mayoría de los casos el compromiso es unilateral. Las pupilas tónicas bilaterales se han observado en pacientes con diabetes, alcoholismo, sífilis, disautonomía asociada con cáncer y amiloidosis.
+Han surgido varios informes sobre el síndrome de Guillain-Barré y el síndrome de Miller Fisher, que apuntan a un mecanismo postinfeccioso mediado por anticuerpos para las neuropatías craneales asociadas. La enfermedad cerebrovascular aguda parece ser la manifestación neurológica grave más común de COVID-19 y se presenta en el 2,8% de los pacientes, principalmente el ictus isquémico, pero también se producen hemorragias intracerebrales y trombosis del seno venoso. Un estudio inicial de las manifestaciones neurológicas de COVID-19 en China describió una alta prevalencia de síntomas neurológicos: 30,2% en general, incluidos síntomas virales inespecíficos, como mialgias, pero también cambios en la visión. Se han propuesto tres presuntos mecanismos principales de lesión neurológica: invasión viral directa del sistema nervioso central, disfunción endotelial y un efecto neurotóxico por inflamación excesiva y liberación de citocinas.
+Nuestro caso presenta una pupila tónica comprometida bilateralmente y se interpreta como secundario a una manifestación inmunomediada de la infección por COVID-19 que se confirmó por constricción pupilar tras la administración de pilocarpina al 0,125%. Tal como se informó en el primer caso publicado sobre mononeuropatía troclear y pupila tónica que ocurre poco después de una infección por SARS-CoV-2 con un supuesto mecanismo inmunomediado, creemos que posterior al compromiso inflamatorio sistémico desencadenado por el virus y el período de ventana inmunológica característica existe una reacción cruzada con ciertos determinantes antigénicos del organismo que nos lleva a considerar una manifestación inmunomediada relacionada con COVID-19.
+En conclusión, presentamos el caso de la pupila tónica bilateral tras una infección por SARS-CoV-2 con un presunto mecanismo inmunomediado. Las complicaciones postinfecciosas que también pueden afectar la visión deben ser monitoreadas para examinar de cerca los mecanismos por los cuales la infección desencadena manifestaciones neuro-oftálmicas.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

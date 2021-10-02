@@ -1,0 +1,55 @@
+CURB-65 COMO PREDICTOR DE MORTALIDAD A 30 DÍAS EN PACIENTES HOSPITALIZADOS CON COVID-19 EN ECUADOR: ESTUDIO COVID-EC
+
+
+- INTRODUCCIÓN
+
+La enfermedad COVID-19, provocada por el coronavirus tipo 2 causante del síndrome respiratorio agudo severo (SARS-CoV-2), es la principal causa de morbimortalidad en el 2020. Aproximadamente el 15% de los pacientes corresponden a casos graves y el 5% a enfermedad crítica, siendo la mortalidad en este último grupo de alrededor del 50%.
+Se han identificado varios factores de riesgo asociados con el desarrollo de síndrome de dificultad respiratoria aguda y muerte, como edad avanzada, disfunción orgánica medida por el Sequential Organ Failure Assessment (SOFA), coagulopatía y elevación de D-dímero, , . La detección temprana de pacientes con probabilidad de desarrollar enfermedad grave es de importancia, y puede ayudar a proporcionar atención adecuada y una conveniente distribución de recursos.
+Hasta el momento, existen pocas herramientas de evaluación de gravedad para pacientes con COVID-19, . En varios protocolos se ha propuesto utilizar escalas como la CURB-65 ?Confusion, Urea, Respiratory rate, Blood pressure and 65 years of age and older?, el Pneumonia Severity Index y el quick SOFA score; sin embargo, su utilidad en la COVID-19 se ha investigado poco, , , , , , . De dichas escalas, la CURB-65 es sencilla y útil para predecir la mortalidad a 30 días de pacientes adultos con neumonía bacteriana, .
+Por ello, este estudio multicéntrico valora la utilidad de la CURB-65 para predecir la mortalidad a 30 días de pacientes hospitalizados con COVID-19.
+
+
+- MÉTODOS
+
+Estudio de cohortes retrospectivo en el que se revisaron datos de pacientes adultos hospitalizados en alguno de los 6 hospitales participantes de la ciudad de Guayaquil entre el 1 de marzo y el 30 de abril de 2020, con diagnóstico confirmado o sospechoso de COVID-19, de acuerdo con los protocolos para el diagnóstico y el manejo de la COVID-19 en Ecuador, . Se incluyeron únicamente pacientes registrados por los investigadores del estudio y se excluyeron los casos con exudado nasofaríngeo para SARS-CoV-2 negativo. El registro contó con la aprobación ética del Instituto de Investigación e Innovación en Salud Integral de la Facultad de Medicina de la Universidad Católica de Guayaquil.
+Las variables del estudio COVID-EC se han publicado previamente. Los investigadores de cada centro recogieron datos demográficos y variables clínicas, analíticas, radiológicas, microbiológicas y terapéuticas.
+Se registró la muerte intrahospitalaria por cualquier causa, y en todos los pacientes se calculó la CURB-65 durante el primer contacto en Urgencias.
+La variable de resultado principal fue muerte intrahospitalaria y a 30 días por cualquier causa. Las variables cualitativas se expresaron como frecuencias absolutas y relativas. Las variables cuantitativas se expresaron como media y desviación estándar. Para las comparaciones se utilizó el test de Chi cuadrado o el test de Fisher para las variables cualitativas y el test t de Student para las variables cuantitativas. Se realizaron curvas de Kaplan-Meier para la variable principal de resultado en función de la clasificación por CURB-65, y se compararon mediante el método de log-rank.
+Para evaluar la asociación independiente de la CURB-65 con la mortalidad, se ajustó un modelo de regresión de Cox en el que se incluyeron variables asociadas a la variable resultado en el análisis univariable con una p < 0,10. Las medidas de efecto se mostraron con hazard ratio (HR) y su intervalo de confianza del 95% (IC 95%). Las áreas bajo las curvas (AUC) de los modelos de predicción se compararon utilizando el enfoque de DeLong y Clarke-Pearson. Se consideró que las diferencias eran estadísticamente significativas cuando el valor de la variable p era inferior a 0,05.
+Los análisis estadísticos se realizaron utilizando el paquete estadístico SPSS (IBM, North Castle, Nueva York, EE. UU.).
+
+
+- RESULTADOS
+
+En total se incluyeron 247 pacientes (edad media 60 ± 14 años; 70% varones; 47,4% ingresaron en la Unidad de Cuidados Intensivos; mortalidad global del 41,3%). La comorbilidad más frecuente fue la hipertensión arterial (48,6%), seguida de sobrepeso/obesidad, presente en el 28,3% de los casos.
+Los síntomas de COVID-19 más reportados fueron: disnea (90,7%), fiebre (85,4%), tos (84,2%) y astenia (81%). El hallazgo radiológico más común fue la presencia de neumonía bilateral (76,1% de los casos), y el 35,2% de los pacientes presentó afectación intersticial en la tomografía torácica. En el 22% de los pacientes se confirmó la infección mediante exudado nasofaríngeo para SARS-CoV-2 según la técnica de reacción en cadena de la polimerasa con transcriptasa inversa. En 193 pacientes no fue posible confirmar la infección mediante dicha técnica por falta de disponibilidad de las pruebas.
+Tras clasificar a los pacientes según la CURB-65 (0-1 vs. ≥ 2), aquellos con CURB-65 ≥ 2 presentaron edades más avanzadas (64 ± 13 vs. 54 ± 14,6 años, p < 0,001) y mayor comorbilidad (hipertensión 57 vs. 36,2%, p = 0,002; sobrepeso/obesidad 34 vs. 20,2%, p = 0,02; enfermedad coronaria 7,3 vs. 0%, p = 0,007). Estos pacientes presentaron saturaciones de oxígeno más bajas (81 ± 15% vs. 88 ± 9%, p < 0,001), requirieron mayor soporte con ventilación mecánica (55 vs. 36,2%, p = 0,005), presentaron más síndrome de dificultad respiratoria aguda (68,9 vs. 49,8%, p = 0,002) y muerte (57 vs. 17%, p < 0,001). Las características generales de la muestra se presentan en el anexo 1 .
+Las curvas de supervivencia de Kaplan-Meier mostraron diferencias significativas entre pacientes según CURB-65 (0-1 vs. ≥ 2) para la variable mortalidad a 30 días (fig. 1 ). En el análisis multivariable, la CURB-65 ≥ 2 se relacionó de forma independiente con la mortalidad a 30 días por COVID-19 (tabla 1 ).Figura 1
+La puntuación CURB-65 ≥ 2 presentó una capacidad discriminatoria adecuada para predecir la mortalidad a 30 días, con una sensibilidad del 84%, una especificidad del 54%, un VPP del 56% y un VPN del 83% (AUC 0,72, IC 95% 68-86; p < 0,001) .
+
+
+- DISCUSIÓN
+
+La CURB-65 es probablemente la escala de predicción de mortalidad de neumonía más utilizada a nivel mundial, ya que combina solo 5 variables para determinar la gravedad de la enfermedad, poniendo más énfasis en los parámetros fisiológicos y siendo más fácil de calcular que otras escalas, como el Pneumonia Severity Index. Por estos motivos la CURB-65 se ha incluido en protocolos hospitalarios para el manejo de pacientes con COVID-19.
+Estudios previos han identificado factores de riesgo de muerte en adultos hospitalizados con COVID-19; en particular, una edad mayor de 50 años, padecer enfermedades cardiovasculares, unos niveles de D-dímero > 1.000 ng/ml y una puntuación SOFA elevada al ingreso, .
+Además, se han observado con más frecuencia niveles aumentados en sangre de IL-6, troponina I y LDH en pacientes con enfermedad grave. En un estudio reciente con 681 pacientes se objetivó que una CURB-65 ≥ 2 presentó una adecuada capacidad discriminatoria para predecir la mortalidad a 30 días, similar a lo encontrado en nuestro estudio.
+Otras evidencias señalan que escalas como APACHE II y SOFA predicen mejor la mortalidad intrahospitalaria que CURB-65 (AUC 0,96, IC 95% 0,94-0,99 para APACHE II; AUC 0,86, IC 95% 0,81-0,93 para SOFA, y AUC 0,84, IC 95% 0,78-0,91 para CURB-65, utilizando puntos de corte de 17, 3 y 1, respectivamente). Esto se explicaría porque APACHE II incluye entre sus variables comorbilidad y edad, mientras que CURB-65 solo incluye la edad. Por ello, las escalas APACHE II y Pneumonia Severity Index podrían ser más adecuadas para estratificar el riesgo de mortalidad en pacientes con comorbilidades, .
+Nuestros hallazgos confirman que la CURB-65 es una herramienta útil en pacientes con COVID-19, pese a que originalmente fue diseñada como una herramienta para la neumonía bacteriana, , . Utilizando un punto de corte ≥ 2 hemos encontrado diferencias significativas en mortalidad en pacientes adultos hospitalizados con COVID-19. En nuestra serie, la mortalidad del grupo con CURB-65 0-1 fue del 17%, lo que contrasta con lo previamente reportado en neumonía bacteriana.
+En una serie francesa publicada recientemente con 279 pacientes se observó que el 21,1% de aquellos con CURB-65 0-1 presentó mala evolución. Esto permite inferir que la puntuación CURB-65 se relaciona con una mayor mortalidad, pero su aplicabilidad para guiar la toma de decisiones respecto al ingreso hospitalario de pacientes con COVID-19 es dudosa: no identifica adecuadamente a los que se pueden manejar de forma ambulatoria. Esto podría deberse a que existen diferencias en términos epidemiológicos y de severidad en pacientes con COVID-19 respecto a aquellos con neumonía bacteriana. Por esto, si se utiliza la CURB-65, antes de tomar la decisión de dar de alta al paciente directamente desde Urgencias, se debe considerar la probabilidad de presentar complicaciones directas de la neumonía, como insuficiencia respiratoria, derrame pleural, exacerbación de enfermedad subyacente, capacidad de tomar medicación oral y disponibilidad de un cuidador.
+Si bien ya se ha desarrollado y validado una puntuación de riesgo específica para predecir el desarrollo de enfermedad grave/crítica entre pacientes hospitalizados por COVID-19 (AUC 0,88, IC 95% 0,84-0,93), esta requiere de 10 variables, y la utilización de la CURB-65 continúa siendo más sencilla. A efectos prácticos, la simplificación de clasificar pacientes en grupos de riesgo intermedio-bajo o moderado-alto puede resultar adecuada y, por este motivo, consideramos que la utilización de la CURB-65 resulta más viable en la práctica clínica real.
+El presente estudio tiene varias limitaciones. En primer lugar, las inherentes a un estudio retrospectivo no aleatorizado. Segundo, el diagnóstico de COVID-19 no se pudo confirmar en todos los casos, dado que en Ecuador no hubo suficiente cantidad de pruebas para el diagnóstico y, al igual que en otros países, los criterios diagnósticos se modificaron a lo largo del tiempo. Tercero, no todas las pruebas radiológicas y/o de laboratorio estuvieron disponibles para todos los pacientes. Sin embargo, pese a las limitaciones señaladas, se trata de un registro de práctica clínica real, el único multicéntrico realizado en hospitales de Guayaquil, Ecuador.
+
+
+- CONCLUSIÓN
+
+La escala CURB-65 es una herramienta útil y sencilla para predecir la mortalidad a 30 días en pacientes hospitalizados con COVID-19, utilizando un punto de corte ≥ 2.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen ningún conflicto de intereses.

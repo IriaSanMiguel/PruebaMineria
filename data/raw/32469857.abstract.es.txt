@@ -1,0 +1,6 @@
+Identificar el nivel de empatía y factores relacionados con ésta, en estudiantes de la carrera de medicina en el año 2019.
+Los estudiantes de medicina tienen un nivel de empatía alta, por encima del promedio cuando se compara con otros estudios locales. Describimos mayores niveles de empatía según sexo y confesión religiosa del estudiante y una relación inversa con el año de estudio.
+La empatía médica es una característica que nos permite entender las experiencias internas y la perspectiva del paciente. Aplicándola a nuestro actuar médico, puede mejorar nuestros resultados clínicos. Sin embargo, no es una capacidad fácil de enseñar en el pregrado de la carrera de medicina.
+Se encuestó a 189 estudiantes de medicina. La media de puntaje fue de 118,01 (rango posible entre 20 y 140), con una desviación estándar de 11,61; mediana de 120 y un coeficiente α de Cronbach de 0,76. Se encontró que el año de estudio tiene una relación inversa con el nivel de empatía (p = 0,0095), que el sexo femenino (p = 0,0123) y practicar alguna religión (p = 0,0001), están relacionados con mayor nivel de empatía.
+El presente es un estudio descriptivo transversal. Se utiliza como herramientas un cuestionario con preguntas sociodemográficas y la Escala de Empatía Médica de Jefferson (Jefferson's Medical Empathy Scale).
+

@@ -1,0 +1,5 @@
+Existe concordancia sustancial entre los valores de gasto cardiaco medidos por el monitor Vigileo y la app Capstesia en pacientes sometidos a cirugía cardiaca.
+Se tomaron 332 muestras con su par. Los valores de gasto cardiaco obtenidos fueron 4.43 ± 1.37 L/min para el monitor Vigileo y 4.45 ± 1.38 L/min para la app Capstesia. El coeficiente de correlación-concordancia de Lin arrojó un valor de 0.966 con IC95% de 0.958 a 0.973.
+Capstesia es una aplicación (app) para smartphones que puede constituir una alternativa sencilla, accesible y económica a los dispositivos actuales de monitoreo hemodinámico avanzado. El objetivo de este trabajo fue establecer el grado de concordancia existente entre el monitor Vigileo y la app Capstesia, para medir el gasto cardiaco en pacientes sometidos a cirugía cardiaca.
+Se realizó un estudio de proceso, que incluyó 30 pacientes a los que se les determinó simultáneamente el gasto cardiaco con el monitor Vigileo y la app Capstesia. Para su análisis se utilizó el coeficiente de correlación-concordancia de Lin y la prueba t de Student, una p < 0.05 fue significativa. La información se procesó en SPSS v-22.0.
+

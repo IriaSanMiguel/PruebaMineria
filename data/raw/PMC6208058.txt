@@ -1,0 +1,54 @@
+HEMOLISIS COMO INFLUENCIA Y FACTOR DE INTERFERENCIA
+
+
+- INTRODUCCIÓN
+
+La hemólisis es un importante factor de interferencia para los resultados del laboratorio, por lo que este efecto no debería olvidarse. A causa de la mecanización analítica y al incremento de la automatización de la fase pre-analítica de los laboratorios, el examen de las muestras hemolizadas es a menudo insuficiente. Debido a la concentración de laboratorios las muestras de sangre sufren largos desplazamientos. Como consecuencia se produce un incremento de las muestras hemolízadas, y a pesar de que ésta hemólisis pueda no ser, en muchas ocasiones, apreciada visualmente, puede haberseproducido una descarga de los componentes intracelulares al plasma. Si hay muestras de pacientes con síndrome hemolítico (hemolisis in vivo), la separación de la hemólisis in vitro, en general debido a una inapropiada extracción de sangre, rara vez es posible.
+Las consecuencias son, a menudo, resultados erróneos en el análisis. Estas variaciones pueden ser muy altas o por el contrario muy bajas o también sorprendentes resultados patológicos, por ejemplo en la medida de las concentraciones de ion potasio, lactato-deshidrogenasalactato-deshidrogenasa, aspartato-aminotransferasaaspartato-aminotransferasa, fostatasa ácida, g,g-fosfopiruvato-hidratasa (enolasa específica de neurona).
+El objetivo de este estudio es precisar el alcance de la interferencia producida por la hemolisis en los resultados de laboratorio y la disminución de extracciones erroneas desangre.
+
+
+- HEMÓLISIS
+
+La hemólisis es la liberación de los componentes intracelulares de eritrocitos, trombocitos y leucocitos en el líquido extracelular, ej.dentro del plasma o suero //. La hemólisis es visible después de la centrifugación de la muestra; plasma o suero, muestran una coloración roja. La especificación, en el estudio, se encuentra en la concentración de hemoglobina libre, la cual viene indicada por una coloración roja en el plasma/suero que varía entre 100 y 300mg/l.
+La hemólisis puede dar alteraciones en magnitudes específicas de la muestra a analizar. Es un factor biológico que influye si la liberación de constituyentes de células sanguíneas tuvo lugarin vivo. La hemólisis es un factor de interferencia, si ésta tiene lugar después de la recolección de la muestra, esto puede producir cambios en los resultados./ 2/
+La lisis de trombocitos y granulocitos también puede influir en los resultados a pesar de que la hemólisis no sea visible //. Si observamos minuciosamente el proceso de coagulación, la trombocitolisis es la responsable de la alta concentración de componentes intracelulares en el suero en oposición a la del plasma. Una degradación intravasal de leucocitos puede conducir, por ej.: concentraciones elevadas de lisozima en leucemias mieloides y monociticas.
+
+
+- CAUSAS DE HEMÓLISIS
+
+Si observamos, en la fase preanalítica, el centrifugado de las muestras sanguíneas, la hemólisis representa el 60 % de las causas de rechazo de las muestras. En un estudio // el 3,3 % de las muestras que fueron enviados al laboratorio clínico presentaron hemólisis. Cuando se comprobó la causa, sólo el 3,2% de in vivolas hemólisis se produjeron in vivo.
+
+
+- HEMÓLISIS IN VITRO
+
+Durante la toma de mustras se pueden producir incorrecciones que conduce a hemólisis in vivo . En la tabla 2 se exponen con detalle nuevas posibilidades de incorrecciones.
+
+
+- HEMÓLISIS IN VIVO
+
+La hemólisis in vivo está provocada preferentemente por medio de anticuerpos, bioquímicamente a través de medicamentos, sustancias tóxicas, herencia (por ej. hemoglobinopatia, defectos enzimáticos, ictericia) o infecciones (por ej. malaria). Si se sospecha una hemólisis in vivo se deberá examinar el plasma para excluir una hemolisis in vitro añadida // causado por un proceso de la cogulación.
+
+
+- DETECCIÓN DE LA HEMÓLISIS
+
+La hemólisis es visible en muestras no ictericas. Una coloración roja en el suero y en el plasma es apreciada si la concentración de hemoglobina libre esta por encima de 300 mg/l. La medición de la concentración de hemoglobina libre por debajo de este valor se hace por inmunofelometria // o espectrometria usando doble longitud de onda (por.ej. ACA). El limite superior para plasma es 20 mg/l, para suero 50 mg/l.
+
+
+- CAMBIOS EN EL PLASMA/SUERO DEBIDOS A LA HEMÓLISIS
+
+La hemólisis in vivo o in vitro, con la consiguiente liberación de sustancias de las células sanguíneas, donde la concentración intracelular es 10 veces mayor que en el medio extracelular, puede incrementar los resultados de plasma y suero significativamente. Particularmente en lo corcerniente a ion potasio, lactato-deshidrogenasa y aspartato-aminotransferasa. Las sustancias cuyas concentraciones son más altas en suero que en plasma proceden de los trombocitos, por.ej. potasio, g,g-fosfopiruvato-hidratasa, fosfatasa ácida. Los indicadores de una hemólisis están expuestos en la tabla 3.
+
+
+- DIFERENCIACIÓN DE LA HEMÓLISIS IN VIVO E IN VITRO
+
+Aún cuando la hemólisis in vitro es más frecuente que la in vivo, ésta última tiene una importancia clínica mayor debido a su origen patológico y porque los parámetros, influidos por hemolisis, son importantes para el diagnóstico, seguimiento y monitorización terapeutica de las enfermedades. En caso de diagnosticar hemólisis in vivo no tiene ningún sentido rechazar una muestra. Por esta razón se ha de efectuar una diferenciación del tipo de hemólisis (in vitro, in vivo).
+La hemoglobina liberada in vivo, esta unida a la haptoglobina y transportada preferentemente al bazo hacia el sistema reticuloendotelial. La hemoglobina libre es sólo cuantificable en plasma si la capacidad de transporte esta en su límite. Por ello la haptoglobina no es cuantificable por métodos inmunonefelometricos o inmunoturbidimetricos. Pueden cuantificarse concentraciones de haptoglobina dentro del margen de referencia aunque al mismo tiempo haya una respuesta de fase aguda (aumento de CRP) en pacientes con hiperesplenismo. Aumentos de la concentración de haptoglobina y de hemoglobina libre es constatado en pacientes con plasmocitoma. //
+En el síndrome de HELLP la concentración haptoglobina del plasma puede ser normal durante el diagnóstico, sin embargo disminuirá en los diez días siguientes.//
+Cuando se sospecha un síndrome hemolítico, el descenso de haptoglobina y el aumento en lactato-deshidrogenasa, bilirrubina indirecta no esterificada e índice de reticulocitos dependerán del grado de hemólisis. Para estados de hemólisis avanzada, cambios en lactato-deshidrogenasa, bilirrubina no esterificada y haptoglobina pueden ocurrir durante las 24 horas siguientes, sin embargo, un aumento del índice de reticulocitos ocurre como muy pronto 2 días más tarde. Un aumento de la bilirrubina no esterificada puede ser cuantificable solo si la tasa de hemólisis que normalmente es 0,8 %, sube por encima del 5 %. Un aumento de lactato-deshidrogenasa en hemólisis intravasal es sólo medidada, si el índice de recticulocitos está por debajo del 10 %. En un sujeto con una actividad de lactato-deshidrogenasa de 165 U/l, una hemolisis in vtro de 800 mg de hemoglobina en suero, causa un 58% de aumento en la actividad de lactato-deshidrogenasa.//. Una hemólisis intravasal masiva con una disminución del hematocrito de más de una cuarta parte en 12 horas, puede causar una hipertrigliceridemia. Las causas pueden ser un reducido metabolismo de triglicéridos causado por una disminución de micro-circulación o movilización de ácidos grasos libres y su re-esterificación a trigliceridos. //.En la tabla 4 se exponen los criterios para distinguir la hemólisis in vitro e in vivo.
+
+
+- HEMÓLISIS COMO FACTOR DE INTERFERENCIA
+
+La liberación de sustancias de las células sanguíneas al plasma pueden producir cambios del valor de algunas magnitudes por las siguientes razones:
+Existen numerosas publicaciones sobre las interferencias casusadas por la hemoglobina en los análisis químic-clínicos.. //. En la tabla 5 se expone una relación de las magnitudes frecuentemente interferidas por la hemólisis.

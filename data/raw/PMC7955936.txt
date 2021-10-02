@@ -1,0 +1,102 @@
+CUIDADO DE LA SALUD MENTAL DEL PERSONAL DE SALUD DURANTE COVID-19: RECOMENDACIONES BASADAS EN EVIDENCIA Y CONSENSO DE EXPERTOS
+
+
+- INTRODUCCIÓN
+
+La infección por SARS-Cov-2 que causa la COVID-19 hasta el momento ha causado 13.200.550 contagiados y 575.178 muertes y fue catalogada como pandemia por la Organización Mundial de la Salud (OMS) en marzo de 2020. En esta enfermedad se sufre una afección respiratoria de leve a moderada, con recuperación espontánea en la mayoría de los casos. Se consideran grupos de riesgo de complicaciones de los síntomas e incluso de mayor mortalidad a las personas mayores o con problemas médicos subyacentes como enfermedades cardiovasculares, diabetes, enfermedades respiratorias crónicas y cáncer, si bien es poco lo que se conoce de ella, lo cual obliga a la generación rápida y constante de nueva información clínica para su tratamiento, a la toma de medidas de salud pública como el distanciamiento social y las cuarentenas y la adecuación de nuevos espacios de atención para el cuidado crítico de quienes se complican, lo que supone un reto para los sistemas de salud en su infraestructura y talento humano.
+En cuanto a las afecciones de la salud mental, entendida como las habilidades y capacidades psicológicas, emocionales y sociales, la situación de crisis generada por el COVID-19 y las medidas adoptadas han generado cambios sociales en las dinámicas normales de la población general que han propiciado el aumento de estrés agudo, frustración, soledad, abuso de sustancias, insomnio, pérdida del control ante la alta incertidumbre e incluso aparición de síntomas depresivos y ansiosos, . En los trabajadores de la salud que atienden al paciente con COVID-19 sospechada o confirmada, estudios recientes han detectado la aparición y vivencia de síntomas depresivos, ansiosos y síndrome de burnout , , , , , así como impactos personales y sociales, lo que podría afectar a su capacidad de respuesta durante la pandemia.
+Estas afecciones podrían no solo ser una respuesta inmediata y transitoria, sino tener efectos a mediano y largo plazo, como se encontró en una revisión sistemática rápida en la cual se sintetizó de manera retrospectiva la experiencia de los profesionales que atendieron el brote de la enfermedad del Ébola, la pandemia de gripe A (H1N1), y las epidemias producidas por el síndrome respiratorio agudo grave y el síndrome respiratorio del Medio Oriente afrontadas, identificando afectaciones después de superada la emergencia sanitaria a mediano plazo tales como sentir una mayor estigmatización, más enojo, molestia, miedo, frustración, culpa, impotencia, aislamiento, soledad, nerviosismo, tristeza y preocupación y menos felicidad en comparación con la población en general, y requiriron más tiempo para sobreponerse; a largo plazo se encontró abuso y dependencia del alcohol, síntomas de depresión y estrés postraumático.
+Así, la generación de acciones de promoción y protección de la salud mental son más que nunca necesarias para cuidar del trabajador de la salud como persona y en su capacidad de atender y responder a las demandas diarias en las instituciones sanitarias, mejorando su proceso de adaptación al estrés y toma de decisiones basadas en la solución de problemas más que en la emoción e incertidumbre, lo cual puede impactar positivamente en el proceso de atención sanitaria y en la capacidad institucional de mantener una respuesta prolongada de atención debido a la disponibilidad de todo el personal posible en las mejores condiciones.
+Por esto, se considera necesario generar recomendaciones de promoción y protección para el cuidado de la salud mental de los trabajadores y equipos de salud dispuestos como primera línea de atención durante la emergencia sanitaria por COVID-19 y después de ella.
+
+
+- MÉTODOS
+
+Se utilizaron 2 métodos: una búsqueda estructurada de literatura y un consenso de expertos.
+Se realizó una búsqueda rápida de literatura con los términos clave “Mental health”, “COVID-19” y “Coronavirus” en inglés y español en la base de datos PubMed y en Google Scholar, la cual se complementó con una búsqueda por bola de nieve en las referencias encontradas dentro de los resultados de la búsqueda estructurada. Se incluyeron todos los documentos que brindaran información sobre el impacto en la salud mental de los trabajadores de la salud durante la COVID-19 o en situación de crisis humanitarias y documentos que ofrecieran información o pautas para el cuidado preventivo o intervenciones en salud mental durante situaciones de crisis.
+Se excluyeron todos los documentos relacionados con el tratamiento de la enfermedad mental preexistente durante la COVID-19, los protocolos de investigación y los que no se pudo recuperar en texto completo.
+La búsqueda de información al 3 de marzo había arrojado 12 publicaciones: 1 revisión sistemática rápida, 2 estudios transversales, 2 artículos de opinión, 7 publicaciones de la OMS, los Centers for Deseases Control and Prevention, Mental Health Europe, Harvard Medical School y Center for the Study of Traumatic Stress.
+Una actualización de la búsqueda se realizó el 11 de abril: 88 publicaciones adicionales a las encontradas en la primera búsqueda, relacionadas con estudios transversales, opiniones de expertos y desarrollo de herramientas tecnológicas e intervenciones para el apoyo emocional y psicológico al trabajador.
+Se realizó un consenso para la revisión y la retroalimentación de las recomendaciones desarrolladas a partir de la literatura; la consulta fue electrónica y contó con la participación de 13 expertos en las áreas de psicología clínica, psiquiatría, enfermería, seguridad y salud laboral, psicología organizacional y antropología y médicos especialistas en familia y medicina interna.
+Estas recomendaciones fueron avaladas por la Sociedad Colombiana de Psiquiatría y el Colegio Colombiano de Psicólogos.
+Todas las recomendaciones de este documento tienen un nivel de evidencia 5b según los lineamientos internacionales del Joanna Briggs Institute (JBI) y una fuerza B o débil.
+
+
+- RESULTADOS
+
+-- RECOMENDACIONES
+
+--- RECOMENDACIONES PARA EL AUTOCUIDADO DEL TRABAJADOR DE LA SALUD DURANTE LA COVID-19
+
+Se propone que el trabajador desarrolle actividades individuales que le faciliten la adaptación a las nuevas exigencias laborales, la gestión emocional, el fortalecimiento de su área social y familiar y el uso del acompañamiento, servicios o materiales dispuestos por las instituciones para el cuidado o la atención de su salud mental (recomendación débil a favor).
+Como estrategias para la adaptación a las nuevas exigencias, se propone reorganizar la rutina diaria donde se incorporen actividades de ocio que le generen bienestar, alegría o felicidad y periodos de descanso entendido como la desconexión total del ambiente estresor por al menos 10 minutos (recomendación débil a favor).
+Se propone mantener en lo posible los hábitos de alimentación y sueño, ya que pueden tender a desmejorar o ignorarse en situaciones de agitación y estrés (recomendación débil a favor).
+La inclusión de actividades de periodos de descanso puede mejorar las funciones cognitivas de atención y concentración y la toma de decisiones en el proceso asistencial.
+La inclusión de actividades de ocio puede aumentar la motivación y favorecer el estado de ánimo regulado durante la jornada laboral.
+El estrés, los síntomas depresivos o ansiosos, el miedo y la incertidumbre se pueden experimentar como respuesta a la presión y la responsabilidad sentida en sus lugares de trabajo, al atender a una persona sintomática o encontrarse en el mismo espacio físico, ante la posibilidad de contagio y la propagación del virus a familiares, amigos, colegas y pacientes, por lo cual se propone realizar diariamente técnicas para la gestión emocional (recomendación débil a favor).
+Como estrategias para la gestión emocional, se proponen ejercicios diarios de respiración, de atención focalizada (mindfulness) antes de iniciar y al terminar las actividades asistenciales (recomendación débil a favor).
+Las situaciones atípicas que conlleva la pandemia de COVID-19 como la atención asistencial con recursos limitados, las continuas muertes y de un alto porcentaje de los pacientes y las exigentes jornadas de trabajo pueden generar frustración, agobio y enojo que afecten a la toma de decisiones y el bienestar del trabajador, por lo que se propone la participación activa en grupos de afrontamiento o en el desarrollo de técnicas de regulación emocional (recomendación débil a favor).
+Se propone evitar la transmisión de información sin sustento científico sobre la COVID-19, la sobrexposición a información sobre la COVID-19 fuera del ámbito laboral y la consulta de información sobre la COVID-19 varias veces al día con fines de entretenimiento, ya que esto puede aumentar la ansiedad y la incertidumbre del trabajador y los equipos de salud (recomendación débil a favor).
+Para el fortalecimiento del área social, se propone establecer espacios fijos en la semana de contacto social virtual a través de videollamadas u otros canales virtuales que permitan tener una comunicación verbal y no verbal con personas significativas e importantes (recomendación débil a favor).
+El contacto virtual continuo puede aumentar la motivación, disminuir la percepción de soledad, evitar el aislamiento en el trabajador y construir redes de apoyo cercanas.
+El contacto familiar también se considera un factor protector y una fuente de bienestar en momentos de crisis, por lo cual se propone mantener un contacto cercano a través de videollamadas semanales u otros canales virtuales que permitan tener una comunicación verbal y no verbal (recomendación débil a favor).
+Ante situaciones desbordantes o que dificultan al trabajador sus actividades asistenciales diarias, se propone identificar y utilizar las rutas y estrategias dispuestas por la institución sanitaria para el apoyo psicoterapéutico por personal especializado (psicólogos y psiquiatras). En ausencia de estas, se recomienda realizar una consulta con el prestador de servicios de salud u otras plataformas dispuestas en el país para el acompañamiento emocional y psicológico (recomendación débil a favor).
+Algunas de las situaciones que pueden motivar la consulta al profesional especializado se describen en la tabla 1 .
+Debido al contacto cercano con pacientes con sospecha o confirmación de COVID-19, los trabajadores de la salud pueden sufrir discriminación y rechazo social por la población general; para estos casos, se propone fortalecer el afrontamiento a partir de estrategias que aumenten la capacidad de resiliencia y la comunicación asertiva (recomendación débil a favor).
+
+
+--- RECOMENDACIONES PARA EL CUIDADO COMUNITARIO ENTRE LOS EQUIPOS DE SALUD
+
+Para el cuidado entre los miembros de los equipos de salud, se propone contar con estrategias de fortalecimiento de las relaciones y cohesión social, así como de detección y gestión del riesgo en salud mental (recomendación débil a favor).
+Para el fortalecimiento de las relaciones y la cohesión social, se propone establecer espacios virtuales periódicos para el diálogo en contextos diferentes de la situación sanitaria por la COVID-19 (recomendación débil a favor).
+El relacionamiento más cercano puede facilitar la búsqueda y obtención de apoyo entre los miembros del equipo, lo que favorecería la identificación oportuna de trabajadores que pueden requerir apoyo psicológico especializado.
+También puede favorecer al afrontamiento de situaciones de discriminación social, disminuir el aislamiento de los trabajadores que viven solos o están lejos de sus familias.
+La comunicación clara y oportuna favorece el desarrollo de las actividades en las instituciones sanitarias; por esto se propone generar canales específicos para asegurar la transmisión y el acceso a información relevante sobre la COVID-19 (recomendación débil a favor).
+La vivencia colectiva del distanciamiento físico debido a las exigentes jornadas y el alojamiento transitorio fuera del hogar pueden favorecer el aislamiento del trabajador de la salud o la generación de conductas inadecuadas de socialización cercana fuera del ámbito laboral, por lo cual se propone abrir espacios virtuales que puedan ser orientados a la gestión emocional como equipo de salud de las vivencias, emociones y dificultades tenidas en el servicio (recomendación débil a favor).
+La gestión comunitaria de las emociones puede mejorar la regulación emocional en las jornadas laborales y el desempeño y detectar situaciones comunes que puedan ser intervenidas o mejoradas dentro de las actividades asistenciales.
+Se propone que los espacios virtuales de gestión de emociones sean frecuentes, validantes, no punitivos y acompañados por un facilitador entrenado (recomendación débil a favor).
+Los líderes de equipos de salud proponen que se propicien las condiciones ambientales (permisos, tiempos específicos) para el desarrollo de estrategias de cuidado comunitario entre los equipos de salud (recomendación débil a favor).
+Se propone que el líder monitorice constantemente el cumplimiento de estas estrategias dentro de los equipos de salud (recomendación débil a favor).
+El acompañamiento cercano de los líderes puede facilitar las condiciones, la motivación y la participación para el óptimo desarrollo de las estrategias de cuidado comunitario.
+El reconocimiento de la situación actual por el equipo de salud y su afrontamiento pueden generar estrategias que mitiguen o disminuyan el desgaste en el personal y su rotación.
+Para el tratamiento del estrés entre los equipos, se propone rotar a los trabajadores de las funciones de mayor estrés a las de menor estrés, y reunir a trabajadores sin experiencia con sus colegas más experimentados (recomendación débil a favor).
+El sistema de «compañeros» ayuda a brindar apoyo, controlar el estrés y reforzar los estándares de calidad y seguridad.
+Los líderes de los equipos también afrontan factores estresantes similares a los del personal a su cargo y una presión correspondiente y agregada al nivel de responsabilidad de su cargo; por ello se propone desarrollar estrategias y adaptar las recomendaciones de autocuidado de salud mental (recomendación débil a favor).
+La resiliencia en los trabajadores de la salud puede ser muy alta, pero se propone realizar una evaluación sistemática y periódica de signos de alarma en salud mental para acciones oportunas de intervención (recomendación débil a favor).
+
+
+--- RECOMENDACIONES PARA EL CRIBADO DE SIGNOS DE ALARMA EN SALUD MENTAL
+
+Se propone enfocar el cribado en los signos de alarma en salud mental para depresión, ansiedad, estrés agudo, riesgo suicida y consumo de sustancias (recomendación débil a favor).
+Se propone cribar de manera constante y tener instrumentos de acompañamiento o apoyo específicas para los trabajadores que tienen algún tipo de discapacidad o antecedente de enfermedad mental o trastorno psicológico (recomendación débil a favor).
+Se propone que las vías acordes con los resultados del cribado incorporen rutas de acompañamiento e intervención dentro de la institución sanitaria, así como derivación al prestador de servicios del trabajador de salud (recomendación débil a favor).
+Para el diseño de rutas de atención y estrategias de acompañamiento en las instituciones sanitarias, se propone el acompañamiento cercano de los equipos psicosociales disponibles en cada entidad (recomendación débil a favor).
+Dada la escasez de talento en salud capacitado para estar en la primera línea de atención al paciente con COVID-19 sospechada o confirmada, se propone dar prioridad al apoyo psicológico y psiquiátrico que puedan requerir (recomendación débil a favor).
+
+
+--- RECOMENDACIONES PARA LAS INSTITUCIONES SANITARIAS
+
+Debido a que la situación sanitaria ocasionada por la COVID-19 se considera de larga duración, se propone planificar estrategias a mediano y largo plazo de promoción e intervención en la salud mental de los trabajadores de la salud (recomendación débil a favor).
+En la planificación, se propone identificar y priorizar servicios o grupos con alto riesgo, entre los cuales se encuentran servicios de urgencias, cuidados intensivos y hospitalización general a los cuales se puedan dirigir estrategias preventivas en salud mental (recomendación débil a favor).
+Se propone incluir en las estrategias la capacitación de trabajadores clave dentro de los servicios en técnicas de gestión emocional básicas como los primeros auxilios psicológicos (recomendación débil a favor).
+Para los trabajadores que se encuentran en aislamiento por contagio de COVID-19 o en incapacidad por otras causas, se propone establecer acciones concretas de apoyo y acompañamiento emocional (recomendación débil a favor).
+El aislamiento del trabajador de la salud puede exacerbar la preocupación por causar trabajo extra a sus compañeros o por la falta de personal en su lugar de trabajo; también puede aumentar la sensación de aislamiento y frustración al estar separado de su equipo o, por el contrario, experimentar sentimiento de alivio y culpa.
+Después de finalizada la emergencia sanitaria, se propone mantener un proceso sistemático de evaluación de signos de alarma dentro de los equipos de trabajo un mínimo de 6 meses, así como mantener activas las rutas de atención y acompañamiento por ese tiempo (recomendación débil a favor).
+
+
+- DISCUSIÓN
+
+El cuidado del trabajador de la salud en momentos de crisis es indispensable, por ende, todas las medidas generadas para garantizar su equipamiento de protección personal, el cumplimiento de los protocolos para la atención del paciente con infección sospechada o diagnosticada y la retención del personal dentro de las instituciones sanitarias son algunos de los principales desafíos en la pandemia; sin embargo, el componente de salud mental es otro que requiere especial atención y la toma de acciones concretas, ya que generan otro tipo de «protección» enfocada a la disposición óptima, la garantía de disponibilidad y el mejor desempeño del trabajador de la salud y su calidad de vida.
+Algunos esfuerzos en este ámbito se han realizado por ejemplo en China, donde para afrontar la COVID-19 se han realizado intervenciones de apoyo social para mejorar la calidad del sueño del personal médico en primera línea de atención o facilitar el acceso a materiales y atención de salud mental; el propio personal lo valoró como recursos importantes para aliviar los trastornos agudos de salud mental y mejorar sus percepciones de salud física.
+Estas acciones cobran mayor importancia al analizar su impacto en 3 vías: el propio sistema de salud, al mantener su capacidad de respuesta en la pandemia haciendo uso de todos los recursos humanos posibles; el propio proceso de atención que involucra a la institución sanitaria y al paciente y puede optimizarse y mejorarse por un equipo con adecuadas habilidades de afrontamiento y toma de decisiones, y por último, las propias personas que conforman ese «talento humano», lo cual vislumbra la necesidad de trabajar de manera articulada y desde la corresponsabilidad entre las instituciones sanitarias y los mismos trabajadores de salud.
+
+
+- CONCLUSIONES
+
+Las actividades de promoción y protección en salud mental para el afrontamiento de la emergencia sanitaria generada por la pandemia de COVID-19 pueden abarcar desde acciones individuales de autocuidado del trabajador y acciones de cuidado comunitario generado entre los miembros de los equipos de salud hasta las instituciones de salud a través de la disposición de rutas de acompañamiento organizacional durante la emergencia y después de ella articulándose como un cuidado integral, comunitario, corresponsable y mantenido.
+El bienestar derivado del cuidado activo, individual, comunitario e institucional de la salud mental del trabajador durante la pandemia de COVID-19 puede contribuir también a largo plazo en su calidad de vida y disminuir la probabilidad de suicidios, trastornos de depresión, trastornos de ansiedad y patrones de comportamiento como el consumo abusivo de sustancias que afectan significativamente a la sociedad.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

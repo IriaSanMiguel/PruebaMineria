@@ -1,0 +1,5 @@
+Las dimensiones económicas, políticas y sociales tuvieron una asociación positiva con el sobrepeso y la obesidad.
+Analizar la asociación entre la globalización total y sus diferentes dimensiones con el sobrepeso y la obesidad en 10 países de América Latina y el Caribe (ALC) entre el periodo 1995 y 2013.
+La globalización total presentó una asociación positiva con el sobrepeso y la obesidad. Las tres dimensiones de globalización (económica, política, social) indicaron un incremento del sobrepeso y obesidad a mayor puntaje de globalización.La globalización social presentó un comportamiento polinomial, mientras que en la globalización política y económica se ob- servó una relación cóncava.
+Se analizó una muestra de 848 405 mujeres de 20 a 49 años. Se utilizaron modelos de regresión logística múltiple, ajustando por factores de confusión a nivel individual y país.Para evaluar no linealidades se definieron cuatro niveles a través de cuartiles y se dividieron en cuatro variables indicadoras.
+

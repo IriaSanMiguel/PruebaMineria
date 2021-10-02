@@ -1,0 +1,5 @@
+Analizar la proporción del gasto y de su frecuencia en alimentos y bebidas consumidos dentro y fuera del hogar, en los ámbitos nacional y regional en México entre 1984 y 2014.
+Se encontraron cambios en patrones del gasto alimentario a nivel nacional y regional. Aumentó la proporción del gasto y de su frecuencia en bebidas no alcohólicas, alimentos preparados, comidas fuera de casa y cereales. Disminuyó la proporción del gasto y de su frecuencia en aceites y grasas, frutas, vegetales y azúcares y mieles.
+Los cambios detectados pueden estar relacionados con transformaciones políticas, económicas, sociales y culturales manifestadas en las últimas décadas.
+Se analizaron datos de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 1984, 1994, 2005 y 2014 sobre el gasto monetario de los hogares en alimentos y bebidas. Se utilizaron estadísticas descriptivas tales como porcentajes, tasas de crecimiento y tablas de contingencia.
+

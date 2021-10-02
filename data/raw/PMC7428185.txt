@@ -1,0 +1,75 @@
+USO DE TECNOLOGÍAS EN EL LUGAR DE ATENCIÓN PARA EL MANEJO DE LA PANDEMIA POR COVID-19 EN COLOMBIA
+
+
+La pandemia por COVID-19 causada por el virus emergente SARS-CoV-2 ha infectado alrededor de 1 millón 700 mil personas en más de 180 países de todos los continentes y ha causado más de 102 000 muertes .
+Desde la confirmación del primer caso a finales de diciembre del 2019 en China , hasta los tres primeros meses de la pandemia, los frentes políticos, científicos y tecnológicos se han focalizado en la preparación, contención y mitigación de la enfermedad, promoviendo principalmente el autocuidado (higiene) y el distanciamiento social (resguardo, cuarentena, distanciamiento físico y restricción de actividades cotidianas) . Paralelamente, se están buscando respuestas sobre el origen del virus, su patogenia, las vías de transmisión, el espectro clínico de la enfermedad, el desarrollo de técnicas y métodos de diagnóstico, y el desarrollo de tratamientos y vacunas que permitan disminuir el impacto de la pandemia .
+La búsqueda de técnicas y métodos de diagnóstico para la detección de infecciones es en la actualidad uno de los grandes desafíos, dado que se necesita con urgencia conocer el peso epidemiológico de la enfermedad, inclusive el número de personas infectadas, la morbilidad, la mortalidad y la tasa de letalidad. El conocimiento real de la epidemiología de la COVID-19 permitirá definir planes y políticas en salud pública acordes a la dimensión del problema. Para esto, la Organización Mundial de la Salud (OMS) ha hecho un llamado a que los países, además de promover el autocuidado y el distanciamiento social, refuercen sus capacidades en el diagnóstico masivo y oportuno, el aislamiento y la búsqueda de contactos. Estos aspectos son considerados fundamentales para responder a la pandemia .
+Para el diagnóstico se ha establecido como prueba de referencia la reacción en cadena de la polimerasa (PCR), que permite la detección directa del virus en pacientes en quienes se sospecha COVID-19 . Dada la demanda excesiva de insumos y reactivos de PCR para COVID-19 en todo el mundo, estos se han agotado . Esta situación es más evidente en los países de Latinoamérica, donde la falta de plataformas tecnológicas y reactivos para el diagnóstico está dificultando cumplir con el llamado de la OMS mencionado antes .
+Ante esta necesidad, las pruebas inmunológicas para buscar anticuerpos IgM/IgA e IgG dirigidos contra el SARS-CoV-2 son una alternativa complementaria a la PCR y sirven para el rastreo de casos asintomáticos y contactos de los casos índices (confirmados por PCR), lo que permitiría encontrar, aislar e interrumpir la cadena de transmisión en menor tiempo.
+La OMS y otros centros de investigaciones en salud han disponibilizado información de pruebas de diagnóstico rápido (PDR) para la detección de anticuerpos contra el coronavirus . Estas pruebas han sido validadas y priorizadas por los órganos oficiales dentro de los respectivos países productores.
+Para integrar estas dos técnicas de diagnóstico y responder a las limitaciones presentes en los países latinoamericanos, se propone aquí un modelo teórico que permitiría responder al llamado de la OMS (“pruebas, pruebas y más pruebas”) y hacer frente a la pandemia. Para este modelo teórico se ha seleccionado a Colombia por la dinámica en las políticas en salud pública con la que viene manejando la COVID-19.
+Colombia ha reportado 608 casos confirmados y 6 muertes asociados a COVID-19 . El país cuenta con un único laboratorio para efectuar las PCR, ubicado en el Instituto Nacional de Salud (INS), Bogotá. Con la demanda creciente de pruebas, al 22 de marzo el INS ha capacitado a 22 laboratorios de salud pública y de centros de investigación del país para el diagnóstico de COVID-19 a través de PCR .
+Actualmente es preocupante que los insumos necesarios para desarrollar las pruebas por PCR se encuentran agotados en los países de la región . El 25 de marzo el Ministerio de Salud de Colombia, apoyado por la Asociación Colombiana de Infectólogos y el INS, emitió la resolución 019, que permite aplicar pruebas de diagnóstico rápido para buscar anticuerpos como proceso de tamizaje previo a la PCR, que sigue siendo la prueba de referencia .
+En este contexto, es necesario definir los posibles modelos de atención en salud que permitan unir las pruebas de diagnóstico rápido y la PCR; el objetivo de este estudio es proponer un modelo que integra el concepto de atención en el lugar (point-of-care) y técnicas de inteligencia artificial.
+
+
+- MÉTODOS
+
+Desde una visión reduccionista, el abordaje de atención en el lugar busca que la atención médica y principalmente, el diagnóstico, sea de acceso inmediato, oportuno y con resultados en minutos, inclusive la atención directa en un laboratorio, un consultorio, el barrio, la vivienda o la cama del paciente. Su finalidad es garantizar el tratamiento oportuno y adecuado o las medidas correctivas acertadas en pro del bienestar del individuo y el beneficio colectivo . A pesar que este abordaje viene desde la década de los 80 , con los avances en la biotecnología, los sistemas de información geográfica y la inteligencia artificial, en la actualidad surge una visión holística e integradora entre salud y tecnología con implicaciones de mayor costo-efectividad . Este enfoque ha sido aplicado y recomendado por varios países de Asia para afrontar la COVID-19 .
+
+
+-- PROPUESTA DE MODELO DE ATENCIÓN EN EL LUGAR
+
+El modelo teórico parte de las siguientes premisas: 1. De cada 100 personas sanas (sin contacto con el SARS-CoV-2) fuera del epicentro de la pandemia en Wuhan, China , que tengan contacto con casos humanos de COVID-19 (infectivos), por lo menos 50 podrán adquirir la infección ; 2. De los 50 infectados con el coronavirus, 7 serán casos asintomáticos (no presentarán síntomas compatibles con COVID-19), entre 24 y 31 serán presintomáticos y entre 12 y 19 desarrollarán un cuadro agudo durante las dos primeras semanas de infección (sintomáticos) ; y 3. Más del 90,0% de las personas que tuvieron contacto con el SARS-CoV-2 desarrollarán anticuerpos contra el virus a partir del séptimo día de la infección primaria .
+El modelo de atención en el lugar consiste en seis etapas o filtros, cuatro de ellas de diagnósticos en series: dos de estas corresponden a diagnósticos por ciencia de datos y dos a diagnósticos biológicos (pruebas de diagnóstico rápido y PCR).
+
+
+-- ETAPA 1: ACCESO A LA APLICACIÓN MÓVIL
+
+Se basa en la hipótesis de que un millón de personas residentes en Colombia han tenido acceso a la aplicación móvil CoronApp-Colombia (https://play.google.com/store/apps/details?id=co.gov.ins.guardianes&hl=es-419). CoronApp-Colombia permite que los usuarios reporten su estado de salud a fin de identificar los lugares potenciales de circulación viral. Tras registrar los datos personales el usuario completa un cuestionario epidemiológico sobre los síntomas que presenta en el día de acceso y sus contactos en los últimos 14 días. La información obtenida puede ser analizada automáticamente por técnicas de ciencia de datos .
+
+
+-- ETAPA 2: CIENCIA DE DATOS Y ESTADÍSTICA ESPACIAL
+
+La información aportada por los usuarios de la app puede ser analizada por técnicas de aprendizaje automático (machine learning), análisis de árboles de decisión o redes neurales artificiales, entre otras técnicas de inteligencia artificial . Las técnicas de inteligencia artificial, combinadas con técnicas cartográficas, son herramientas útiles para buscar, predecir, vigilar y controlar focos de infecciones humanas . Se propone emplear estas técnicas porque permiten manejar mejor la cantidad de variables y el análisis de datos masivos en comparación con un agente humano.
+En esta etapa se sugiere la creación de un centro o comité de inteligencia artificial virtual para COVID-19, que puede estar integrado por profesionales expertos del área de biomedicina (médicos, bacteriólogos, biólogos, etc.), de ingeniería computacional (estadísticos, sistemas, electrónicos, geógrafos, etc.) y del área humana (psicología, comunicación social, periodismo, etc.), que pueden converger en una sala situacional virtual. En esta sala virtual se puede analizar masivamente los datos y hacer el primer filtro para la asignación de pruebas de diagnóstico rápido o asignación directa de PCR, así como el manejo psicosocial de los casos compatibles con COVID-19 .
+
+
+-- ETAPA 3: PRUEBA DE DIAGNÓSTICO RÁPIDO EN EL LUGAR DE ATENCIÓN
+
+Según la demanda observada en la etapa 2, es posible establecer lugares específicos para efectuar pruebas de diagnóstico rápido. En cada uno de ellos, profesionales del área de biomedicina administrarían las pruebas empleando un código único y con un horario estipulado de toma de muestra, asignados al usuario a través de la app. En este momento se puede iniciar la notificación al Sistemas de Vigilancia de Salud Pública de Colombia (SIVIGILA) , siguiendo los lineamientos de la entidad. En esta etapa los funcionarios de salud también pueden implementar el flujograma de diagnóstico establecido por la ACIN . Todos los pacientes que resulten serorreactivos para el coronavirus deben ser sometidos a la prueba confirmatoria con PCR .
+
+
+-- ETAPA 4: DIAGNÓSTICO POR PCR
+
+Las personas serorreactivas deberán ser remitidas a los sitios adecuados para la toma de la muestra según las directrices del INS . Las muestras se remitirán al laboratorio más próximo de la red nacional de Colombia habilitado para el diagnóstico de COVID-19 .
+
+
+-- ETAPA 5: CONFIRMACIÓN DE CASOS
+
+Tras aproximadamente 48 horas desde la toma de muestra, el SIVIGILA contará con la confirmación de los casos. Estos casos confirmados activarán una ruta inversa a la empleada en la etapa 2, con aplicación de técnicas cartográficas y de estadística espacial; esto permitirá definir los clusters epidémicos para encontrar otras personas infectadas, como se ha implementado en Asia .
+
+
+-- ETAPA 6: CERCO EPIDEMIOLÓGICO
+
+Esta etapa se concentrará en la búsqueda activa de los contactos de los casos confirmados; las pruebas de diagnóstico rápido pueden focalizarse a nivel de la vivienda o la manzana, según los mapas probabilísticos generados antes.
+
+
+- RESULTADOS Y DISCUSIÓN
+
+Con la implementación del modelo propuesto o uno similar, Colombia y los países de la región podrían conocer el impacto epidémico real de la enfermedad y efectuar diagnósticos más rápidos y costo-efectivo para afrontar la pandemia. La costo-efectividad de las pruebas de diagnóstico rápido frente a la PCR puede asociarse a que esta última requiere infraestructuras físicas complejas, equipos e insumos de laboratorio de mayor costo y personal altamente especializado. Además, la eficacia de la PCR depende en gran medida de la carga viral y de la presencia de cantidades suficientes de virus en el sitio y momento de la toma de muestra, así como del procesamiento y transporte de la muestra; estos factores pueden ocasionar falsos negativos, con pérdida de la oportunidad de aislar al paciente e interrumpir la cadena de transmisión viral .
+Según el reporte de la Procuraduría de Colombia , el costo de cada PCR es de 380 mil pesos colombianos (aprox. USD $93,99; TRM USD = 4 042 pesos colombianos). Hasta el 27 de marzo el INS ha realizado 11 384 pruebas de PCR con 5,9% de positividad para el SARS-CoV-2 ; estos datos permiten dimensionar el costo actual para el sistema de salud relacionado con la captación de los casos positivos de COVID-19.
+Algunos estudios, empleando técnicas ELISA, están demostrando que la respuesta humoral al coronavirus (específicamente, la producción de anticuerpos IgM/IgA e IgG después de 5 y 14 días del inicio de los síntomas, respectivamente) puede detectarse en 78,0% de los casos confirmados por PCR y 93,0% de los casos sospechosos . Este mismo estudio determinó que la tasa de detección positiva aumenta a 98,6% cuando se combina la detección de IgM con PCR para cada paciente en comparación con una sola prueba de PCR (51,9%). Por lo tanto, se demuestra que está ocurriendo seroconversión en los pacientes infectados con el SARS-CoV-2 y que es viable la implementación de estudios serológicos combinados con estudios moleculares. Recientemente se demostró una sensibilidad del 88,7% y una especificidad del 90,6% de una prueba de diagnóstico rápido (resultados en 15 minutos), usando como método de referencia la PCR .
+Si se considera el tiempo que conlleva obtener los resultados de las PCR en Colombia (mayor a 14 días) y la alta proporción de casos negativos (94,0%) , la integración de estas dos técnicas con inteligencia artificial, además de disminuir drásticamente el tiempo en entrega de resultados, puede ser más costo-efectiva al filtrar o disminuir el número de pacientes sospechosos que no están infectados con el SARS-CoV-2 e interrumpir la cadena de transmisión en menor tiempo. Una ventaja adicional es que el diagnóstico se realiza con una pequeña gota de sangre y el personal responsable de la aplicación de la prueba de diagnóstico rápido tiene menor exposición a adquirir el virus en comparación con la toma de muestras para PCR.
+La principal limitación del modelo de atención de salud propuesto es la validación de la reproducibilidad de las pruebas de diagnóstico rápido. El 28 de marzo las entidades competentes de Colombia aprobaron una prueba diagnóstica rápida (https://caracol.com.co/radio/2020/03/29/salud/1585439681_292078.html), pero no se encontró especificaciones técnicas de la misma, lo que imposibilitó evaluar su reproducibilidad. Si Colombia y los países de la región deciden adaptar o adoptar un modelo como el propuesto, deben validar las diferentes pruebas de diagnóstico rápido disponibles en el mercado y priorizarlas según los resultados encontrados. Una limitación adicional se asocia con al número de casos asintomáticos y presintomáticos que pueden no ser detectados durante el primer filtro , pero que puede ser abordado si se lleva a cabo un tamizaje al azar a por lo menos 10,0% de las personas sin síntomas. Las técnicas de inteligencia artificial junto a los agentes humanos de la sala virtual, pueden priorizar esas personas. Esta limitación también puede reducirse si se agiliza la entrega de resultados de las PCR y la ruta inversa .
+Finalmente se sugiere que, si se implementan pruebas de diagnóstico rápido para COVID-19 en los países de la región, por lo menos el 10,0% de estas se reserve para el recurso humano del área de biomedicina que actualmente se encuentra en el frente de atención y diagnóstico. Esto puede brindar información del estado serológico de los profesionales y proporcionar más confianza y seguridad en su trabajo frente a la pandemia del COVID-19.
+
+
+-- FINANCIACIÓN
+
+El autor.
+
+
+-- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.

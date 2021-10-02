@@ -1,0 +1,70 @@
+FLUORURO EN AGUAS MINERALES NATURALES ENVASADAS EN ESPAÑA Y PREVENCIÓN DE LA CARIES DENTAL
+
+
+- INTRODUCCIÓN
+
+En los últimos 60 años ha habido un descenso en la prevalencia de la caries dental (CD) en los países desarrollados atribuido fundamentalmente al empleo del flúor (F). El consumo de flúor en cantidades adecuadas logra aumentar la mineralización dental y la densidad ósea, reducir el riesgo y prevalencia de CD así como ayudar a la remineralización del esmalte dental.
+La principal fuente de ingesta de flúor es habitualmente el agua por lo que la fluoración del agua de consumo sigue siendo una importante medida preventiva colectiva si hay una prevalencia alta de CD. Con la finalidad de prevenir la CD y evitar la fluorosis dental, desde 2011 se recomienda una concentración óptima de flúor de 0,7 mg/L frente a los 0,7-1,2 mg/L recomendados previamente. Si durante la infancia la concentración de flúor en el agua de bebida es superior a 1,5 mg/L se puede producir fluorosis dental, mientras que si es superior a 4 mg/L puede dar lugar a fluorosis esquelética. Cuando no se fluoriza el agua, como ocurre en la mayor parte de España, los programas preventivos de CD como el del grupo de Expertos del Programa de la Infancia y la Adolescencia del Programa de Actividades Preventivas y de Promoción de la Salud (PAPPS), incluyen el empleo de suplementos orales de flúor cuyas dosis se establecen en función de la concentración de ión fluoruro del agua de bebida, la edad y el grado de riesgo de CD.
+Tradicionalmente, el agua del grifo ha sido la aportación más importante a la ingesta total de agua diaria, sin embargo, en los últimos años ha habido un aumento en el consumo de agua mineral natural (AMN). Según la última encuesta nacional de ingesta dietética de España, de 2011, cerca del 40% del agua total consumida es AMN y según los datos de consumo europeos, referidos a 2012, España era la quinta consumidora, con 116,9 L/habitantes/año tras Italia, Alemania, Bélgica y Hungría. Por otro lado, en España hay escasos estudios sobre el contenido en flúor de AMN y son anteriores a 2005, .
+El objetivo del presente trabajo es analizar el contenido en flúor de AMN consumidas en España para poder valorar la recomendación de suplementos orales de flúor sin el riesgo de producir fluorosis dental.
+
+
+- METODOLOGÍA
+
+-- DISEÑO
+
+Estudio descriptivo transversal.
+
+
+-- ÁMBITO
+
+AMN comercializadas en España en 2012.
+
+
+-- SELECCIÓN DE AGUAS MINERALES
+
+A partir de la lista completa de las 151 AMN españolas reconocidas por la CEE, se eligieron 97 muestras de las marcas españolas más consumidas y que estuviesen representando las áreas geográficas con mayor número de manantiales.
+
+
+-- MÉTODO DE RECOGIDA DE LAS MUESTRAS
+
+Se adquirieron botellas de estas 97 marcas españolas y 12 AMN importadas en supermercados y tiendas de comestibles de distintas ciudades españolas. Los firmantes del artículo FME e IVM adquirieron 3 botellas de cada marca con una fecha diferente de embotellado. Las muestras se almacenaron en la oscuridad, a temperatura ambiente hasta su análisis.
+
+
+-- MÉTODO DE ANÁLISIS DEL FLÚOR
+
+La determinación de la concentración en fluoruro de las AMN se realizó por cromatografía iónica mediante el cromatógrafo iónico, marca Dionex, modelo DX120, y la calibración se realizó entre 0,1-10 mg/L. Se siguió la técnica 4110-B recomendada por la American Public Health Association, la American Water Works Association y la Water Environment Federation.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+La descripción de la variable cuantitativa concentración de flúor se realizó con la mediana, rango, rango intercuartílico y coeficiente de variación. Se calculó la prueba de normalidad de Kolmogorov para el valor de flúor de todas las AMN y el coeficiente de correlación intraclase para los valores analizados y los contenidos en la etiqueta. Para el análisis se utilizó el software SPSS versión 18.0.
+
+
+- RESULTADOS
+
+En las Tabla 1, Tabla 2 se indica el contenido en F− (mg/L) de las marcas de AMN analizadas (97 procedentes de manantiales españoles y 12 de importación).
+La prueba de normalidad de Kolgomorov aplicada al conjunto de los valores de fluoruro de las 109 AMN indica que la distribución no es normal (D: 0,05; p < 001). La mediana de la concentración de fluoruro de las AMN envasadas en España es de 0,22 (rango 0,00-4,16; rango intercuartil: 0,37; coeficiente de variación 145%). La gran mayoría de aguas (61 marcas, 62%) contiene menos de 0,3 mg/L. Hay 19 marcas que contienen más de 0,6 mg/L y de ellas hay 8 que contienen más de 1 mg/L. Para las aguas importadas la mediana es de 0,35 (rango 0,10-1,21; rango intercuartil: 0,23; coeficiente de variación 81%). Hay 4 marcas de AMN importadas que contienen más de 0,6 mg/L.
+De las 97 AMN españolas y 12 importadas, solo 23 (24%) y 5 (41%), respectivamente, indican el contenido en flúor en la etiqueta. La fiabilidad entre el valor mostrado en la etiqueta y el valor analizado es alta (coeficiente de correlación intraclase = 0,970, p < 0,000) con la excepción de 3 marcas (especímenes 6, 26 y 44). En 23 de las 109 AMN estudiadas el contenido en flúor es mayor de 0,6 mg/L. Solo en 10 de estas 23 marcas consta la concentración en la etiqueta.
+
+
+- DISCUSIÓN
+
+Según los resultados obtenidos, hay una gran variación en la concentración de flúor en las AMN de España (entre 0,00-4,16 mg/L) y esto no es una excepción si se compara con los datos de otros países. Así, mientras las AMN del Reino Unido, Grecia, Líbano y México no llegan a contener más de 0,6 mg/L, hay otros países cuyas AMN contienen de 0,6-1 mg/L como ocurre en Turquía y Estados Unidos de América.
+En Australia y Arabia Saudí es posible elegir AMN con flúor entre 1-2 mg/L. Finalmente destaca la presencia de AMN con 2,04 mg/L en Brasil, 2,59 mg/L en los países nórdicos, 3,05 mg/L en Suecia, 3,48 mg/L en Alemania, 4,90 mg/L en Portugal y 7,93 mg/L en Italia. En Alemania un 5% (25 de 502 AMN analizadas) contienen más de 1,5 mg/L y en el estudio de Portugal, de 39 AMN estudiadas hay 12 (31%) que contienen más de 1,5 mg/L. Esta dispersión de concentraciones se pone de manifiesto en un amplio estudio de AMN que incluyó varios países europeos. En España, las escasas referencias previas sobre análisis de flúor en AMN destacaban algunas aguas con más de 5 mg/L, .
+En la legislación europea sobre etiquetado de las AMN se indica que aquellas cuya concentración de flúor sea superior a 1,5 mg/L deberán incluir en su etiqueta la indicación «contiene más de 1,5 mg/L de flúor: no adecuada para el consumo regular de los lactantes y niños menores de 7 años». Asimismo, se especifica que el agua que contenga más de 1 mg/L tendrá la mención de «fluorada». El valor máximo permitido es de 5 mg/L por lo que se establecen los métodos aceptados para eliminar el fluoruro excesivo en las AMN que superen dicho nivel máximo. Sin embargo, hay un vacío legal tanto en Europa como en España sobre la obligatoriedad de indicar el contenido en flúor de las AMN en sus etiquetas si el valor es menor de 1,5 mg/L. Este problema ha llevado a veces a casos de fluorosis dental como en un niño belga de 8 años que había estado bebiendo un AMN con 1,23 mg/L de flúor desde los primeros meses de vida. En relación con la información de la etiqueta, solo en un 24% de las AMN analizadas se indica la concentración de flúor en la misma. Esto es lo habitual también en muchos países salvo algunas excepciones como Líbano o Brasil. De las 23 marcas españolas que lo indican, hay 5 que contienen más de 1,5 mg/L y todas ellas lo especifican en la etiqueta. Además, hay una marca (n.° 81) que ha aplicado el método de disminución de flúor por debajo de 5 mg/L. La correlación entre los valores indicados en la etiqueta y los valores analizados ha sido buena excepto en 3 marcas (n.° 6, 26 y 44). En cuanto a las 12 AMN importadas, el valor máximo de flúor es de 1,02 mg/L. Se indica el contenido en flúor en la etiqueta en 5 de ellas.
+El flúor ingerido a lo largo del día tiene un efecto tópico posteruptivo sobre la superficie del esmalte dental, de ahí que el agua sea un excelente vehículo. Por otro lado, un aspecto importante en la prevención de la CD es la prevención selectiva de los grupos de riesgo. En este sentido, el empleo de suplementos orales de flúor, en las cantidades indicadas por la Academia Americana de Pediatría, en los niños con mayor riesgo, como establece el grupo de Expertos del PAPPS del Programa de la Infancia y la Adolescencia, exige conocer la concentración del flúor del agua que consumen, bien sea agua de consumo público o embotellada. El contenido en flúor de aguas potables españolas acaba de ser publicado y el presente estudio de AMN viene, pues, a completar el conocimiento de la mayoría de aguas de bebida.
+Según la Academia Americana de Pediatría, el límite inferior a partir del cual se recomienda suplementar con flúor oral en los niños es 0,3 mg/L y el límite superior 0,6 mg/L. De las 109 AMN analizadas, 67 contienen menos de 0,3 mg/L y 23 contienen más 0,6 mg/L, de las que 13 no lo indican en su etiqueta. Además, hay 12 que contienen más de 1 mg/L de F, cuyo consumo de forma continuada produciría una fluorosis dental. De estas 12 marcas, en 3 no se indica el contenido de flúor en la etiqueta.
+La utilización del flúor en la prevención de la caries dental, como medida de salud pública, fue avalada por los ensayos comunitarios de intervención iniciados en los Estados Unidos a partir de 1945. La Organización Mundial de la Salud y autoridades de salud de todo el mundo han invocado el uso continuado y adecuado de los fluoruros como un medio efectivo de reducir la caries dental. La utilización del flúor en el agua de bebida, en particular, y en sus distintas formas de presentación actuales, en general, ha contribuido notablemente a contrarrestar la epidemia de caries que ha acompañado a las sociedades desarrollas, por la escalada en el consumo de azúcar. No obstante, la administración simultánea de diversas formas de flúor de absorción sistémica puede dar lugar a efectos indeseables cuando se sobrepasa el umbral de ingesta recomendado.
+Es responsabilidad de los profesionales de la salud implicados en la Atención Primaria obtener los máximos beneficios de la utilización del flúor en la prevención de la caries dental, obviando los posibles efectos indeseables.
+Esquema general del estudio: Estudio descriptivo transversal. 
+
+
+- CONCLUSIÓN
+
+Se aporta el contenido en flúor de 109 AMN comercializadas en nuestro país. Hay una gran variabilidad en la concentración de flúor en las AMN. Conocer su valor es útil para establecer una estrategia preventiva de la CD con suplementos de flúor en la población de riesgo.Lo conocido sobre el tema•El consumo de flúor en cantidades adecuadas es una importante medida preventiva de la caries dental.•La principal fuente de ingesta de flúor es habitualmente el agua de bebida.•En los últimos años ha habido un aumento en el consumo de AMN en nuestro medio.Qué aporta el estudio•Es el estudio que analiza el contenido en flúor del mayor número de AMN comercializadas en España.•La mayoría de las AMN contienen menos de 0,3 mg/L de flúor pero hay 4 marcas con más de 2 mg/L.•Muy pocas AMN especifican en su etiqueta el contenido en flúor.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

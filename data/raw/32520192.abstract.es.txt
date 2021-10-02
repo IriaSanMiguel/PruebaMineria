@@ -1,0 +1,5 @@
+Se halló una sobreexpresión de miR-155 en personas con tuberculosis latente, respecto a los controles sanos (0,63 vs. 0,01; valor de p=0,032).
+El objetivo del estudio fue analizar la expresión diferencial de miR-21, miR-29a, miR-99b y miR-155 en muestras de suero de pacientes con tuberculosis (TB) latente y TB activa respecto a contro les sanos.
+El miR-155 podría ser considerado un biomarcador para diferenciar TB latente de enfermedad activa. Se requieren estudios con mayores tamaños muestrales para corroborar nuestros hallazgos.
+Se utilizaron 28 muestras de suero (nueve con TB activa, diez con TB latente y nueve controles sanos) para el análisis de expresión génica mediante RT-qPCR con Primers y sondas TaqMan. Se calculó la expresión diferencial por el método de Livak utilizando un gen norma lizador (RNU-48).
+

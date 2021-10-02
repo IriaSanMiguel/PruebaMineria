@@ -1,0 +1,348 @@
+INFECCIONES EN EL PACIENTE CRÍTICO
+
+
+- INTRODUCCIÓN
+
+La prevalencia de la patología infecciosa en los servicios de medicina intensiva (SMI) es elevada, siendo unas veces el motivo de ingreso en las Unidades de Cuidados Intensivos (UCI) y, en otras, la infección se adquiere durante su estancia en la misma. No obstante, existen marcadas diferencias, tanto en la frecuencia como en la etiología y la patogenia entre estas dos entidades infecciosas: la patología infecciosa comunitaria grave que requiere ingreso en la UCI y la infección nosocomial (IN) adquirida durante la estancia en la UCI.
+
+
+- INFECCIÓN COMUNITARIA GRAVE
+
+-- INTRODUCCIÓN
+
+La infección comunitaria grave es una de las principales causas de ingreso en los SMI, tanto por las necesidades terapéuticas inherentes a la gravedad intrínseca del cuadro infeccioso como por el requerimiento de una adecuada monitorización del proceso. Dentro del amplio campo de infecciones comunitarias que pueden requerir ingreso en los SMI, destacan por su gravedad y frecuencia las neumonías, las infecciones del sistema nervioso central (SNC) y las infecciones del tracto urinario (ITU).
+
+
+-- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+--- INCIDENCIA
+
+La neumonía adquirida en la comunidad (NAC) es una enfermedad infecciosa respiratoria aguda con una incidencia que oscila entre 3 y 8 casos por 1.000 habitantes por año, aumentando esta incidencia con la edad y las comorbilidades. El 40% de los pacientes con NAC requiere ingreso hospitalario, y alrededor del 10% necesitan ser admitidos en una UCI. La mortalidad global de la NAC se sitúa alrededor del 10%, si bien en el subgrupo de pacientes que precisan ingreso en la UCI la mortalidad es del 20-54%.
+
+
+--- ETIOLOGÍA
+
+La prevalencia de los diferentes microorganismos causantes de la NAC va a depender de diversos factores como la edad, la presencia de determinadas comorbilidades, los criterios diagnósticos utilizados o las pruebas diagnósticas empleadas. En la mayoría de los estudios, en cerca del 50% de los casos de NAC no se puede demostrar la etiología. De los organismos aislados, el más frecuente es Streptococcus pneumoniae, seguido de Legionella pneumophila (cuya incidencia ha disminuido en los últimos años probablemente debido al uso extendido de las nuevas quinolonas y los macrólidos) y Hamophilus influenzae. El tabaquismo y el tratamiento con corticoides son factores de riesgo para NAC por Legionella.
+Las enterobacterias (sobre todo Kebsiella pneumoniae) suelen provocar NAC en pacientes con comorbilidades o antibioterapia previa. Pseudomonas aeruginosa se identifica en un 3-5% de las NAC y generalmente en relación con la presencia de bronquiectasias, fibrosis quística, enfermedad pulmonar obstructiva crónica (EPOC) grave, neoplasia o neutropenia y Staphylococcus aureus se suele presentar tras infecciones víricas. Los microorganismos atípicos, Mycoplasma pneumoniae y Clamydophila pneumoniae, a menudo son patógenos y pueden ocasionar cuadros graves.
+La mejoría en las pruebas diagnósticas con técnicas de biología molecular ha dado lugar a un aumento en el aislamiento de virus como causa etiológica, principalmente rinovirus e influenza. Generalmente en adultos se presentan como copatógenos asociados a neumococo, H. influenzae y S. aureus. Hay que resaltar que en una tercera parte de los casos de NAC se aíslan dos o más patógenos, generalmente una combinación de bacterias y virus.
+En los últimos años, nuevos patógenos han emergido como causa de NAC. El metapneumovirus, aislado por primera vez en el año 2001, aunque típicamente se asocia con una enfermedad más leve, se ha relacionado con casos mortales de neumonía. Los coronavirus también han surgido como grandes amenazas epidémicas, primero como un síndrome respiratorio agudo severo (SRAS) y, más recientemente, con el síndrome respiratorio de Oriente Medio (MERS). El virus influenza también continúa siendo una amenaza, con la posibilidad de que varias cepas de influenza aviar, particularmente H5N1 y H7N9, muten lo suficiente como para permitir una transmisión sostenida de ser humano a ser humano con el resultado de pandemias. En pacientes que precisan ingreso en la UCI como patógenos causantes de la NAC son frecuentes el neumococo resistente, S. aureus y Legionella pp..
+
+
+--- CLÍNICA
+
+Las manifestaciones clínicas habituales son fiebre mayor de 38 °C y afectación del estado general, acompañada de tos, expectoración, dolor torácico, disnea o taquipnea.
+
+
+--- DIAGNÓSTICO
+
+El diagnóstico se basa en la existencia de clínica compatible, junto con presencia de ocupación del espacio alveolar en la radiografía de tórax. El hallazgo de un infiltrado en la radiografía es el patrón oro para establecer el diagnostico (fig. 1 ).Fig. 1
+Para el diagnóstico etiológico es necesaria la realización de hemocultivos, tinción de Gram y cultivo de esputo determinación de antígeno en orina de S. pneumoniae y L. pneumophila. La serología está indicada para el diagnóstico de neumonía por M. pneumoniae y Clamydophila pneumoniae (título elevado de anticuerpos IgM en el suero de la fase aguda y/o seroconversión del título de IgG en el suero de la fase de seroconversión). Igualmente la serología es la técnica diagnóstica en caso de que por contexto epidemiológico se sospeche infección por Coxiella burnetti (fiebre Q) o Francisella tularensis (tularemia).
+Las técnicas de biología molecular están indicadas en NAC graves, en las que no se ha logrado establecer el diagnóstico etiológico por los medios habituales. Asimismo, en determinados periodos epidémicos está indicada la detección de virus respiratorios, como el virus de la gripe en aspirado nasofaríngeo mediante inmunofluorescencia e inmunocromatografía, aunque el patrón oro sigue siendo el cultivo vírico.
+La toracocentesis diagnóstica con cultivo para aerobios y anaerobios está indicada en pacientes hospitalizados con derrame pleural significativo, no solo para el diagnóstico sino también porque el desarrollo de empiema es uno de los principales factores asociados a mala evolución de la NAC.
+
+
+--- CRITERIOS DE GRAVEDAD. CRITERIOS DE INGRESO EN LA UNIDAD DE CUIDADOS INTENSIVOS
+
+En pacientes con NAC retrasar el ingreso en la UCI en los pacientes que lo precisan se acompaña de un incremento considerable de la mortalidad. La Sociedad Americana del Tórax (ATS) y la Sociedad Americana de Enfermedades Infecciosas (IDSA) proponen el ingreso en la UCI de los pacientes que presenten shock séptico o insuficiencia respiratoria que precise ventilación mecánica (un criterio mayor), así como de los pacientes que presenten al menos 3 de los 9 criterios menores de la tabla 1 .
+Recientemente, las recomendaciones de la European Respiratory Society and European Society for Clinical Microbiology and Infections Diseases , aconsejan el ingreso en la UCI ante la presencia de al menos dos de las siguientes circunstancias: presión arterial sistólica menor de 90 mm Hg, presencia de insuficiencia respiratoria con PaO2/FIO2 < 250 o la afectación de 2 o más lóbulos en la radiografía de tórax, o bien uno de los siguientes: necesidad de ventilación mecánica o necesidad de vasopresores durante más de 4 horas (shock séptico), con un nivel de recomendación A3.
+
+
+--- TRATAMIENTO
+
+La administración precoz y efectiva de antibióticos puede disminuir la mortalidad de la NAC grave, por lo que debe ser prioritario su inicio precoz. El espectro del tratamiento antibiótico debe ser amplio, capaz de cubrir los gérmenes etiológicos más probables, valorando la gravedad del cuadro clínico, factores de riesgo para microorganismos específicos, los patrones epidemiológicos propios de cada área geográfica y los patrones de resistencia (tabla 2 ).
+
+
+-- INFECCIONES DEL SISTEMA NERVIOSO CENTRAL ADQUIRIDAS EN LA COMUNIDAD
+
+--- MENINGITIS ADQUIRIDA EN LA COMUNIDAD
+
+---- ETIOLOGÍA
+
+La incidencia de meningitis bacteriana comunitaria es de 1-3 casos por 100.000 habitantes, siendo Strepto-coccus pneumoniae y Neisseria meningitidis responsables del 80% de los casos. Son factores de riesgo la asplenia (neumococo y meningococo), agammaglobulinemia (neumococo) y el déficit del complemento (meningococo). En personas mayores de 50 años, alcohólicos o jóvenes con alteración de la inmunidad celular, Listeria monocytogenes suele ser el agente etiológico. En cuanto a las meningitis víricas, suelen tener una incidencia estacional, verano y otoño, y suelen estar causadas por enterovirus.
+
+
+---- MANIFESTACIONES CLÍNICAS
+
+La clínica habitual cursa con fiebre, dolor de cabeza, rigidez de nuca y alteración de la conciencia, pero hasta un 20% presenta focalidad neurológica o convulsiones (30%).
+
+
+---- DIAGNÓSTICO
+
+La base del diagnóstico es el análisis del líquido cefalorraquídeo (LCR). En caso de existir focalidad neurológica, papiledema o convulsiones, debe realizarse una tomografía computadorizada (TC) craneal previa a la punción para descartar la existencia de efecto masa. En las meningitis bacterianas se observa pleocitosis (1.000-5.000) de predominio polimorfonuclear (85-95%), glucosa baja (menos de 40 mg/dl) y una ratio glucosa en LCR/glucosa en sangre igual o inferior a 0,4 y proteínas elevadas (más de 50 mg/dl). Por el contario, en las meningitis víricas, la pleocitosis es menor (10-500 células/mm) de predominio linfocitario, glucosa normal y proteínas elevadas.
+Ante la sospecha de meningitis debe realizarse de forma urgente tinción de Gram del LCR, ya que permitirá una rápida identificación del germen en el 60-90% de los casos, aunque su sensibilidad se reduce en pacientes que están recibiendo tratamiento antibiótico.
+
+
+---- TRATAMIENTO
+
+El retraso en el tratamiento aumenta la morbimortalidad, por lo que este no debe demorarse por la realización de pruebas diagnósticas. Se recomienda en las últimas guías clínicas administrar el tratamiento en la primera hora. El tratamiento debe incluir una cefalosporina de tercera generación (ceftriaxona 2 g/12 horas por vía intravenosa) asociada a vancomicina (1 g por vía intravenosa/12 horas) debido a que el neumococo presenta un 20% de resistencia a las penicilinas y un 9% a las cefalosporinas. Si existen factores de riesgo para Listeria se añadirá al tratamiento anterior ampicilina 2 g por vía intravenosa cada 4 horas y, en caso de sospecha de etiología vírica, añadir aciclovir 10 mg/kg por vía intravenosa cada 8 horas en adultos. Debe administrarse en caso de sospecha de meningitis bacteriana, previo o de forma simultánea al tratamiento antibiótico, dexametasona en dosis de 0,1 mg/kg cada 6 horas (adultos 10 mg cada 6 horas) durante 4 días. Tras los resultados del cultivo del LCR se modificará el tratamiento según antibiograma.
+
+
+--- ENCEFALITIS ADQUIRIDA EN LA COMUNIDAD
+
+---- ETIOLOGÍA
+
+Hasta en un 75% de los casos de encefalitis no se logra identificar el agente etiológico, siendo los virus, sobre todo enterovirus, Herpex simple tipo I y virus del Nilo Occidental, los gérmenes principalmente implicados.
+
+
+---- MANIFESTACIONES CLÍNICAS
+
+En las encefalitis existe afectación del parénquima cerebral, por lo que a la fiebre y la cefalea se asocia una alteración del nivel de conciencia, junto con convulsiones y déficit motor.
+
+
+---- DIAGNÓSTICO
+
+El análisis del LCR es la base del diagnóstico, mostrando pleocitosis mononuclear moderada, glucosa normal y un aumento moderado de las proteínas, pero hasta en un 10% de los casos el LCR es normal. Para el diagnóstico etiológico, la determinación de reacción en cadena de la polimerasa (PCR) en el LCR es la base del diagnóstico para Herpes virus, virus de la varicela zoster (VVZ), citomegalovirus (CMV) y virus de Epstein-Barr.
+La neuroimagen es el segundo pilar diagnóstico. La presencia en la RM cerebral de hemorragia y edema cerebral a nivel del lóbulo temporal es muy sugestiva de encefalitis por herpes simple.
+
+
+---- TRATAMIENTO
+
+Un retraso en el tratamiento se asocia a un mal pronóstico, por lo que ante su sospecha debe iniciarse el tratamiento de forma precoz, con aciclovir 10 mg/kg cada 8 horas en caso de sospecha de infección por el virus herpes o VVZ. En caso de sospecha de infección por CMV, el tratamiento de elección es ganciclovir 5 mg por kilo cada 12 horas. Tras 14-21 días de tratamiento sin respuesta positiva se recomienda nueva PCR del LCR, prolongando el tratamiento en caso de ser positivo.
+
+
+-- INFECCIÓN URINARIA ADQUIRIDA EN LA COMUNIDAD
+
+Las ITU constituyen una de las patologías infecciosas más frecuentes tanto en la comunidad como en el ámbito hospitalario, siendo responsables del 5-7% de las sepsis graves que requieren ingreso en la UCI. Asimismo, son la causa más frecuente de bacteriemia secundaria de origen comunitario.
+
+
+--- ETIOPATOGENIA
+
+Los gérmenes que colonizan la uretra anterior o el introito vaginal ascienden hasta la vejiga dando lugar a la infección. La diseminación hematógena desde otros focos es rara, siendo en este caso Stafilococcus aureus el germen más frecuente, seguido de Cándida spp..
+Existen factores patogénicos que modulan el riesgo de ITU que dependen del huésped y/o del germen responsable. Los factores dependientes del huésped son: alteraciones del flujo urinario, alteraciones químicas u hormonales del epitelio uretral o genital, hábitos higiénicos, cateterismos y manipulación urinaria previas, embarazo y diabetes. En cuanto a los factores dependientes del germen, está la capacidad de adhesión de las bacterias al epitelio mediante los pili o fimbriae, la resistencia a los factores bactericidas del suero y la producción de hemolisinas, dando lugar a una gran virulencia.
+
+
+--- SÍNDROMES CLÍNICOS
+
+---- INFECCIÓN DEL TRACTO URINARIO INFERIOR
+
+Aunque habitualmente son de curso benigno, la cistitis enfisematosa puede cursar con un cuadro de shock fulminante. El diagnóstico se realiza mediante prueba de imagen, observándose la presencia de gas en la pared vesical. Los microorganismos responsables más frecuentes son E. coli y Klebsiella, siendo rara la infección por anaerobios.
+
+
+---- UROSEPSIS ALTAS
+
+Suele darse en pacientes jóvenes y, en ocasiones, evoluciona de manera fulminante a shock séptico, con una mortalidad del 30%. En la pielonefritis aguda, infección del parénquima renal y/o sistema pielocalicial, suele caracterizarse clínicamente por la presencia de fiebre y escalofríos asociados a dolor en fosa renal, habitualmente acompañados o precedidos de síndrome miccional y, con menor frecuencia, náuseas y vómitos. No es infrecuente que en pacientes ancianos la única manifestación sea confusión o letargo.
+Mediante prueba de imagen, ecografía de abdomen o TC se deberá descartar una causa obstructiva subyacente. Los gérmenes habituales por orden de frecuencia son: E. coli, Proteus mirabilis, Klebsiella pneumoniae y Enterococcus spp.. En los últimos años se ha producido un aumento en el número de aislamientos de bacterias productoras de betalactamasas de espectro extendido (BLEE) en las ITU comunitarias, principalmente por K. pneumoniae y E. coli. Los factores de riesgo para la presencia de BLEE son: sexo mujer, edad superior a 60 años, diabetes mellitus, ITU previas recurrentes, antecedentes de procedimiento invasivo urológico (cateterismo/sondaje) y el tratamiento previo con aminopenicilinas, cefalosporinas y fluorquinolonas.
+
+
+--- DIAGNÓSTICO
+
+Se realizará mediante el análisis del sedimento y la realización de tinción Gram y cultivo de la orina.
+
+
+--- TRATAMIENTO
+
+Deberá realizarse de forma empírica en espera de los resultados del urocultivo. En infecciones no complicadas: ceftriaxona 1-2 g por vía intravenosa cada 24 horas o tobramicina 5 mg por vía intravenosa por kg cada 24 horas. En caso de alergia, ciprofloxacino 400 mg por vía intravenosa cada 12 horas. La pielonefritis aguda deberá tratarse con un carbapenem (imipenen 1 g por vía intravenosa cada 8 horas) y en caso de alergia tigeciclina 100 mg por vía intravenosa cada 12 horas. Si existen factores de riesgo para BLEE, el tratamiento de elección es un carbapenem (imipenen 1 g intravenoso cada 8 horas).
+
+
+- INFECCIONES NOSOCOMIALES ADQUIRIDAS EN LA UNIDAD DE CUIDADOS INTENSIVOS
+
+Las IN son infecciones adquiridas durante la estancia en un hospital, no estando presentes ni en periodo de incubación al ingreso del paciente. Las IN constituyen un problema grave en los SMI, conllevando una mayor morbimortalidad, junto con un aumento de los costes (debido a la prolongación de la estancia, gastos de tratamiento, pérdida de productividad del paciente por un retraso en su incorporación a la vida laboral, costes de desplazamiento de los familiares, etc.), junto con el riesgo de generación de gérmenes multirresistentes.
+
+
+-- ETIOPATOGENIA
+
+El paciente crítico es especialmente vulnerable a la IN, estimándose que entre el 9% y el 20% de los pacientes sufrirá una infección durante la estancia en la UCI, frente a una frecuencia del 5% en los pacientes ingresados en planta de hospitalización, , . Esta mayor susceptibilidad en los pacientes críticos a la IN es debida a la convergencia de varios factores predisponentes:1.Factores de riesgo dependientes del paciente, como es la inmunosupresión, bien congénita o secundaria a fármacos (quimioterapia, corticoides, tratamiento inmunosupresor, etc.).2.Alteración de la inmunidad ligada a la patología aguda que motivó el ingreso en la UCI.3.La necesidad de uso de dispositivos invasivos (intubación, vía central, sonda vesical, etc.) que al romper la barrera natural de defensa facilitan la entrada de microorganismos.4.La gran complejidad de estos pacientes, precisando numerosas cuidados y procedimientos, favoreciendo las oportunidades de transmisión cruzada.
+Los gérmenes responsables más frecuentes de la IN en la UCI, aunque dependiendo del tipo de infección predominarán uno u otro germen, son los microorganismos Gram negativos (59,3%), seguidos de los Gram positivos (29%), hongos (10,6%) y otros microorganismos (2%).
+
+
+-- SÍNDROMES CLÍNICOS
+
+Las infecciones más frecuentes adquiridas en la UCI son las asociadas a dispositivos: la bacteriemia relacionada con catéter, la neumonía asociada a la ventilación mecánica (NAV) y la infección relacionada con el sondaje uretral. Estas tres entidades por su frecuencia y gravedad son motivo de seguimiento en el registro anual de Estudio Nacional de Vigilancia de la Infección Nosocomial en Servicios de Medicina Intensiva (ENVIN-HELICS) en las UCI españolas. La infección relacionada con dispositivos de derivación externa de líquido cefalorraquídeo es una complicación grave y frecuente en las UCI neuroquirúrgicas, por lo que también se abordará en esta actualización.
+En la figura 2 , se muestran los datos del estudio ENVIN-HELICS de las 3 infecciones asociadas a dispositivos en las UCI españolas.Fig. 2
+
+
+-- BACTERIEMIA RELACIONADA CON CATÉTER
+
+Se denomina bacteriemia a la presencia de microorganismos en la sangre. Cuando la causa de una bacteriemia es un catéter (bien de origen central o periférico) hablamos de bacteriemia relacionada con catéter. La bacteriemia relacionada con catéter venoso central (BRCVC) es la tercera IN en frecuencia en el registro ENVIN-HELICS. En el año 2016 supuso el 11,31% de todas la IN, con una densidad de incidencia (DI) de 2,29 bacteriemias por 1.000 días de uso de catéter venoso central (CVC).
+
+
+--- ETIOPATOGENIA
+
+La BRCVC puede originarse a partir de tres vías patogénicas que enumeramos a continuación.
+
+
+---- VÍA EXOLUMINAL
+
+Los gérmenes que colonizan la piel penetran a partir del punto de inserción por la superficie exoluminal formando una biopelícula, con posterior diseminación hematógena. Este mecanismo es más frecuente en la primera semana tras la inserción del catéter y está relacionada con la esterilidad en el proceso de inserción. La localización del CVC se relaciona con la frecuencia de infección, siendo mayor el riesgo para la localización femoral, seguida de yugular, subclavia y por último en las venas basílicas. Los patógenos implicados suelen ser los saprófitos cutáneos, mayoritariamente Gram positivos.
+
+
+---- VÍA ENDOLUMINAL
+
+La colonización del catéter se produce a través de las manipulaciones de las conexiones, migrando vía endoluminal formando una biopelícula. La bacteriemia es más tardía, generalmente a partir de las dos semanas de implantación del catéter y está relacionada con la higiene en la manipulación de las conexiones. En estas bacteriemias tardías o cuando la vía es de localización femoral suele haber mayor proporción de bacilos Gram negativos y hongos.
+
+
+---- VÍA HEMATÓGENA
+
+Es la menos frecuente, produciéndose la colonización del catéter a partir de un foco distal de infección vía hematógena.
+
+
+--- ETIOLOGÍA
+
+Los patógenos más frecuentes en las BRC son los Gram positivos (58,8%), seguidos de los bacilos Gram negativos (31,1%) y los hongos (9,8%). Dentro de los Gram positivos los más frecuentes son el Staphylococcus epidermidis (30%) y Staphylococcus coagulasa negativo (9%). Dentro de los bacilos Gram negativos, Klebsiella pneumoniae es el más frecuente (11,3%), seguido de E. coli (4,7%) y Pseudomonas aeruginosa (2,9%). Las bacteriemias por hongos son fundamentalmente especies de Candida (albicans y parapsilosis con la misma frecuencia y en menor proporción glabrata).
+
+
+--- CLÍNICA
+
+Las manifestaciones clínicas pueden ser focales con induración, eritema y dolor en el punto de inserción o trayecto del catéter o sistémicas acompañándose de fiebre, escalofríos e hipotensión. No obstante, las manifestaciones locales son inespecíficas y pueden existir en ausencia de BRCVC (sensibilidad menor al 3%).
+
+
+--- DIAGNÓSTICO
+
+El diagnóstico de BRCVC necesita la evidencia microbiológica de que el catéter es el origen de la bacteriemia y en ello reside la mayor dificultad diagnóstica. La retirada de un catéter implica la necesidad de una nueva canalización, técnica que no está exenta de riesgo. En los pacientes ingresados en la UCI es frecuente la presencia de coagulopatía o trombopenia (riesgo elevado de hematoma y sangrado) o accesos vasculares limitados (quemados o accesos trombosados), por lo que en la práctica habitual con frecuencia es necesario mantener el catéter hasta confirmar que este es el foco de la bacteriemia. Por tanto, la aproximación diagnóstica se divide en 2 grupos.
+Tras retirada del catéter venoso central. Se define bacteriemia o fungemia relacionada con el catéter como el aislamiento del mismo microorganismo en los hemocultivos extraídos por punción en una vena periférica y en el cultivo cuantitativo o semicuantitativo de la punta del CVC retirado, en un paciente con clínica de sepsis, y sin otro foco de infección aparente. En caso de aislamiento de estafilococos coagulasa negativos se requerirá el aislamiento en al menos 2 frascos de hemocultivos periféricos.
+Se considera positivo el cultivo semicuantitativo (técnica de Maki) de la punta del catéter si crecen más de 15 unidades formadoras de colonia (UFC) por mililitro de sangre o en el cultivo cuantitativo de la punta (tras sonicación) crecen más de 100 UFC.
+Si no se ha retirado el catéter. Se define bacteriemia o fungemia relacionada con el catéter como el aislamiento del mismo microorganismo en hemocultivos simultáneos cuantitativos en una proporción 5:1 en las muestras extraídas a través del catéter respecto a las obtenidas por venopunción. Dado que este procedimiento es caro y costoso, en la práctica el método más usado es comparar el tiempo de diferencia hasta la positivación, considerándose significativo si la muestra extraída a través del CVC positiviza al menos 2 horas antes que la extraída por venopunción.
+
+
+--- COMPLICACIONES
+
+Un 80% de las BRCVC cursan con sepsis y un 13% con shock séptico. Un estudio de casos-controles con datos extraídos del registro ENVIN-UCI demostró en pacientes críticos que la adquisición de una BRC produce un significativo incremento de la mortalidad y la estancia, con una mortalidad atribuible del 9,4% y una prolongación de la estancia de 13 días. Estos datos han sido corroborados por otros estudios, resaltando la mayor mortalidad y estancia en las bacteriemias por Staphylococcus aureus resistente a meticilina.
+
+
+--- PREVENCIÓN
+
+En 2006, Peter Provonost publicó la experiencia de aplicar un paquete de medidas preventivas en el estado de Michigan, consiguiendo una reducción de las BRCVC de 7,7 por mil días de catéter a 1,4 durante los 14-18 meses de seguimiento. Estos resultados impulsaron la puesta en marcha de un programa a nivel nacional denominado Bacteriemia ZERO. El proyecto se implantó en enero de 2009 hasta junio 2010 en 192 UCI españolas, siendo el objetivo una reducción en la DI a 4 o menos episodios de bacteriemias por mil días de CVC (reducción del 40% respecto a la tasa media de los últimos 5 años). El proyecto contaba con dos ramas: STOP-BRC y el Plan de Seguridad Integral con el objetivo de crear una red de UCI seguras en España.
+La rama STOP-BRC incluía 6 medidas de obligado cumplimiento relacionadas con la inserción y manejo de los CVC:1.Higiene de manos tanto durante la inserción como en la manipulación de los catéteres para evitar la colonización de la piel, conexiones o el propio catéter.2.Uso de máximas barreras durante la inserción con medidas de esterilidad máxima, incluido el uso de bata, gorro, guantes estériles y paño que cubra totalmente al paciente.3.Desinfección de la piel con clorhexidina.4.Preferencia a la hora de usar la localización en la subclavia.5.Retirada de catéteres innecesarios. La presencia de un catéter es el principal factor de riesgo para el desarrollo de bacteriemia, por lo que si se puede utilizar otra vía debe retirarse. No se recomienda la sustitución sistémica de los CVC ni el recambio con guía metálica.6.Manejo higiénico de los catéteres: antes de manipular un catéter (administrar medicación, cambiar sueros, etc.) debe realizarse la higiene de manos y la desinfección de las conexiones con clorhexidina. Cambio de las líneas de infusión a los 7 días, salvo en las perfusiones con lípidos o hemoderivados en las que se realizará diariamente.
+El proyecto fue un éxito, consiguiendo una reducción en la DI a 2,88 bacteriemias por 1.000 días de CVC (se pretendía bajar a 4), manteniéndose estos buenos resultados a lo largo en la actualidad. Así, en el año 2016 la tasa de BRCVC es de 2,29 bacteriemias por mil días de CVC, recomendándose que BZ deba ser de obligado cumplimiento en las UCI españolas.
+
+
+--- TRATAMIENTO
+
+El tratamiento empírico dependerá de la situación del paciente y del tipo de catéter (fig. 3 ).Fig. 3
+Los CVC de inserción periférica y los CVC no permanentes se han de retirar siempre que se sospeche que son el foco de origen de la bacteriemia.
+La existencia de signos locales de infección, aun sin bacteriemia relacionada, también es un criterio absoluto de su retirada.
+Los CVC de uso permanente, sean o no tunelizados, se han de retirar en caso de:1.Infección persistente del punto de inserción.2.Signos de infección a nivel del túnel subcutáneo.3.Complicaciones sépticas locales o metastásicas (endocarditis, tromboflebitis séptica o embolismos sépticos pulmonares).4.Bacteriemia producida por ciertos microorganismos: S. aureus, bacilos Gram negativos no fermentadores, hongos filamentosos, levaduras y micobacterias.5.Bacteriemia o candidemia persistente a pesar de haber transcurrido 3 días desde el inicio de un tratamiento antimicrobiano adecuado.
+La terapéutica antimicrobiana tendrá que basarse en la identificación del agente causal, mediante hemocultivos y según antibiograma.
+En situación de shock séptico es necesario administrar un tratamiento empírico que ha de incluir antimicrobianos activos frente a los microorganismos Gram positivos y Gram negativos que más a menudo causan estas infecciones. La flora predominante en el hospital o en una determinada área del mismo y la existencia de patógenos multirresistentes pueden condicionar la elección de la terapia empírica. La cobertura empírica para bacteriemia por hongos deberá realizarse ante la existencia de shock séptico en un paciente crítico con colonización por cándida múltiple previa o en enfermos con procesos hematológicos y neutropenia asociada. La elección de fluconazol (en dosis de 800 mg/día) o de una equinocandina (caspofungina, anidulafungina o micafungina en las dosis habituales) depende de la existencia o no de exposición previa a los azoles por parte del paciente (tabla 3 ).
+Una vez obtenido el germen, la antibioterapia irá dirigida según el antibiograma.
+En bacteriemia por estafilococo coagulasa negativa, se recomienda la retirada del catéter y valorar tratamiento 5-7 días.
+En las bacteriemias por S. aureus se recomienda la retirada del catéter, si esta opción no es posible, realizar un tratamiento local (sellado con vancomicina) y sistémico durante 2 semanas, pero si persisten los síntomas a las 72 horas se debe retirar el catéter y descartar la presencia de endocarditis o tromboflebitis séptica que, de estar presente, prolongará el tratamiento durante 1 mes.
+En la bacteriemia por Gram negativos se recomienda retirar el catéter y realizar tratamiento durante una semana.
+En la candidemia se debe retirar el catéter, y el tratamiento debe prolongarse hasta 2 semanas tras el último hemocultivo negativo. Debe realizarse un estudio del fondo de ojo para descartar la presencia de endoftalmitis (tratamiento durante 4 semanas).
+
+
+-- NEUMONÍA ASOCIADA A VENTILACIÓN MECÁNICA
+
+La NAV es la segunda infección más frecuente asociada a dispositivos, siendo responsable del 30% de las infecciones adquiridas en la UCI. Un 10% de los pacientes que precisan ventilación mecánica desarrollará una neumonía. En España, en el año 2016, según datos del registro ENVIN-HELICS, la DI fue de 6,26 neumonías por mil días de ventilación mecánica.
+
+
+--- ETIOPATOGENIA
+
+Se define como NAV aquella que se desarrolla tras 48-72 horas de intubación endotraqueal. La patogenia de la NAV h/ivtiene una estrecha relación con el tubo endotraqueal (TET). La NAV es más frecuente en los primeros días tras la intubación y existen determinadas comorbilidades (EPOC, paciente inmunodeprimido o enfermedad de base grave) o patologías agudas (traumatismo craneoencefálico, coma, sedación profunda o pacientes quemados con síndrome de inhalación) que favorecen el desarrollo de NAV.
+Existen tres vías en la patogenia de la NAV que se enumeran a continuación.
+Vía aspirativa. Por macro- o microaspiración de secreciones procedentes de orofaringe y/o estómago. En el espacio subglótico se acumulan secreciones procedentes de la orofaringe o del tracto gastrointestinal, existiendo una colonización posterior de estas secreciones por gérmenes endógenos o exógenos. La colocación del TET mantiene las cuerdas vocales abiertas y permite el paso de las secreciones subglóticas. Además, la pérdida de presión del neumotaponamiento permite el paso de dichas secreciones a la vía aérea inferior.
+Inoculación directa. A través del TET, durante la aspiración de secreciones, fibrobroncoscopias o nebulizaciones debido a una inadecuada higiene de manos, deficiente limpieza de los equipos o por condensación de agua en los circuitos del respirador.
+Otras vías. Por translocación bacteriana, al existir una disfunción de la mucosa intestinal que habitualmente actúa como barrera de protección entre los gérmenes de la luz intestinal y el torrente sanguíneo, se favorece el paso de bacterias y productos inflamatorios a la sangre.
+Vía hematógena a partir de un foco infeccioso extrapulmonar.
+
+
+--- ETIOLOGÍA
+
+El momento del inicio de la neumonía va a influir en el tipo de patógeno y en el pronóstico. En las de inicio precoz (menos de 4 días desde el inicio de la ventilación mecánica), el inóculo bacteriano se implanta en el momento de la intubación, suelen tener mejor pronóstico al ser producida por bacterias sensibles a los antibióticos. En las neumonías de inicio tardío (más de 4 días desde el inicio de la ventilación mecánica) suele producirse por patógenos multirresistentes (BMR) y se asocia con un aumento de la morbimortalidad. No obstante, pacientes con neumonía precoz, pero que han recibido tratamiento antibiótico en los 90 días previos o han estado hospitalizados, tienen un elevado riesgo de estar colonizados o infectados por BMR y deben ser considerados como si tuvieran neumonía tardía. Los factores de riesgo para BMR se describen en la tabla 4 .
+En general, en la NAV los gérmenes más frecuentes son los Gram negativos (74%), seguidos de Gram positivos (19%), hongos (4%) y otros (2%), siendo Pseudomonas aeruginosa el patógeno más frecuente (20%), seguido de Staphylococcus aureus (11%) y Klebsiella pneumoniae (10%). En la neumonía precoz, el patógeno más frecuente es Staphylococcus aureus y en las tardías Pseudomonas aeruginosa.
+
+
+--- CLÍNICA
+
+La clínica consiste en un aumento de secreciones, de aspecto purulento, acompañado de fiebre y leucocitosis, junto con imagen de consolidación en la radiografía de tórax, dando lugar a un empeoramiento en la oxigenación. Puede existir hipotensión si se acompaña de sepsis (58%), precisando un soporte hemodinámico si evoluciona a shock séptico (15% de las NAV) (fig. 4 ).Fig. 4
+La adquisición de una NAV tiene un importante impacto sobre el pronóstico del paciente, asociándose a un aumento de la mortalidad y de la estancia: la mortalidad atribuible es de un 13%, prolongación de la ventilación mecánica entre 7 y 11 días y de la estancia media hospitalaria de 13 días con un gasto total por cada episodio de NAV de 40.000 dólares, , .
+
+
+--- DIAGNÓSTICO
+
+El diagnóstico requiere la existencia de un diagnóstico clínico junto con la confirmación microbiológica.
+Diagnóstico clínico. Presencia de al menos 2 signos (purulencia de las secreciones, temperatura > 38 °C y leucocitosis > 12.000 c/mm o leucopenia < 4.000 c/mm), junto con la aparición de una opacidad en la radiografía de tórax.
+Confirmación microbiológica. Cultivo cuantitativo de 104 en el lavado alveolar o de 105 en una muestra de aspirado bronquial.
+
+
+--- PREVENCIÓN
+
+La primera medida es retirar la intubación en cuanto sea posible junto con una estricta higiene de manos y asepsia durante la intubación y posteriores manipulaciones del tubo en ventilación mecánica. Además, en la NAV existen unas medidas preventivas específicas dirigidas a disminuir la producción, colonización o entrada en el árbol bronquial de las secreciones subglóticas:1.Cabecero de la cama a 30° para dificultar el reflujo de las secreciones gastrointestinales y su acumulación en el espacio subglótico.2.Aspiración de las secreciones del espacio subglótico mediante un TET con canal de aspiración a nivel subglótico, siendo la medida con mayor evidencia científica.3.Descontaminación de las secreciones subglóticas mediante el uso de antibióticos no absorbibles. Su uso se asocia a una disminución de la incidencia de NAV y de la mortalidad. El riesgo de seleccionar gérmenes multirresistentes ha dificultado su uso generalizado.4.Evitar su entrada en el árbol bronquial manteniendo una presión del neumotaponamiemto entre 20 y 30 cm H2O.5.Disminuir el inóculo administrando en pacientes que se intuban en coma un tratamiento antibiótico profiláctico 2-3 días.
+En el año 2011, se puso en marcha el Proyecto Neumonía ZERO (NZ), en las UCI españolas, con el objetivo de disminuir la DI de NAV a 9 episodios por mil días de ventilación mecánica (reducción del 25% respecto a la tasa media de los 2 años anteriores). El proyecto contaba con unas medidas de obligado cumplimiento y otras altamente recomendables (tabla 5 ).
+El proyecto NZ, al igual que fue BZ, ha sido un éxito, consiguiendo disminuir (y mantener la disminución en el tiempo) las tasas de NAV. Actualmente se considera un estándar de calidad SMI con tasas por debajo de 7 neumonías por mil días de ventilación mecánica.
+
+
+--- TRATAMIENTO
+
+El tratamiento empírico debe cubrir S. aureus, Pseudomonas aeruginosa y otros bacilos Gram negativos. El antibiótico inicial dependerá de si existe riesgo de infección por patógenos multirresistentes :1.Sin factores de riesgo para patógenos multirresistentes: monoterapia con piperazilina-tazobactan (4 g/6 horas vía intravenosa) o cefepime o ceftazidima (2 g/8 horas vía intravenosa) o carbapenen (meropenem 1 g cada 8 horas o imipenen 500 mg/6 horas vía intravenosa) o levofloxacino (750 mg/ 24 horas vía intravenosa): si existe alergia a betalactámicos (aztreonan 2 g/8 horas vía intravenosa o levofloxacino).2.Si existe riesgo de SAMR el tratamiento debe incluir vancomicina 15 mg/kg/8-12 horas o linezolid 600 mg/12 horas.3.Si existe riesgo de Pseudomonas multirresistente asociar doble cobertura.4.Si hay riesgo de BLEE el tratamiento debe incluir un carbapenem.
+Una vez obtenido el germen y el antibiograma, se desescalará y se realizará antibioterapia dirigida.
+
+
+-- INFECCIÓN DEL TRACTO URINARIO RELACIONADA CON SONDA URETRAL
+
+En los pacientes ingresados en la UCI, la ITU relacionada con sonda uretral (SU) es la infección asociada a dispositivos más frecuente, representando el 32% del total de las infecciones. Su DI es de 3,8 infecciones por mil días de sondaje.
+
+
+--- ETIPATOGENIA
+
+La permanencia de una SU altera los mecanismos naturales de defensa del organismo. La SU pone en contacto una zona intensamente colonizada como es el periné con una zona estéril como es la vejiga, proporcionando una puerta de entrada de los microorganismos a través de su superficie interna y externa. Por otra parte, la SU facilita el anidamiento de los microorganismos en forma de biopelícula, proporcionando un entorno favorable y de resistencia a los antibióticos. Por tanto, la IU-SU se puede adquirir por 3 vías:1.Vía extraluminal. Es la más frecuente (66%), produciéndose a partir de microorganismos endógenos que colonizan el periné o el tracto gastrointestinal.2.Vía intraluminal (34%). Se adquiere por reflujo de microorganismos a través de desconexiones del sistema de drenaje o contaminación de la orina en la bolsa colectora.3.La diseminación hematógena al tracto urinario es rara, siendo habitualmente producida por Staphylococcus aureus.
+El factor de riesgo más importante para el desarrollo de IU-SU es la permanencia de la sonda. Este riesgo aumenta un 3-8% por cada día de sondaje, estimándose que el 100% de los pacientes sondados desarrollan una IU-SU a los 30 días de sondaje. Otros factores como sexo femenino, gravedad de la enfermedad de base, cirugía, edad mayor de 50 años, diabetes mellitus, creatinina de 2 m/dl y sondaje tras 6 días de estancia en el hospital se asocian con un mayor riesgo para su desarrollo. Cerca de un 4% de las IU-SU se complican con bacteriemia secundaria, siendo factores de riesgo para su desarrollo la presencia de neutropenia, el tratamiento inmunosupresor, el sexo masculino, la infección por Serratia y los días de hospitalización previa al desarrollo de la IU-SU.
+
+
+--- ETIOLOGÍA
+
+Los gérmenes más frecuentes son los Gram negativos (63%), seguido de Gram positivos (19%) y hongos (17%). Escherichia coli es el patógeno más frecuente (25%), seguido de Pseudomonas aeruginosa (12%), Enterococcus faecalis (11%) y Candida albicans (9%).
+
+
+--- CLÍNICA
+
+Los síntomas son variados e incluyen fiebre de nueva aparición, escalofríos, cambios en las características de la orina, hematuria, dolor en flanco o suprapúbico y alteración del estado mental en mayores de 65 años. Un 7% puede cursar con shock séptico y en un 13% existe bacteriemia secundaria.
+
+
+--- DIAGNÓSTICO
+
+Se basa en la presencia de signos o síntomas compatibles con infección urinaria, sin otro foco infeccioso, y el hallazgo de 103 o más UFC/ml de una o más especies bacterianas en una muestra de orina obtenida a través de la sonda vesical o muestra de orina obtenida a mitad de la micción en un paciente al que se le retiró la sonda en un plazo de 48 horas.
+
+
+--- PREVENCIÓN
+
+Entre un 20-70% de las IU-SU son evitables. Si bien la tasa de mortalidad asociada es muy baja, los costes por episodio son de 700 dólares, ascendiendo a 2.300 si se asocia bacteriemia. La mejor prevención es limitar su uso a los casos en los que exista verdadera indicación y su retirada lo antes posible.
+
+
+--- TRATAMIENTO
+
+El tratamiento empírico dependerá del estado clínico del paciente y del riesgo de presentar BMR. En caso de shock séptico o riesgo de multirresistentes, el tratamiento es un carbapenem (meropenem 1 g/8 horas intravenoso) más aminoglucósido (tobramicina 300 mg/24 horas intravenoso). En ausencia de las dos premisas anteriores estaría indicada la monoterapia con fosfomicina o un betalactámico antipseudomonas (cefepime o ceftacidima –2 g/8 horas intravenoso–; piperacilina-tazobactan –4 g/6 horas intravenoso–). Se debe recambiar la sonda siempre en la infección por Cándida y en el resto en caso de que la sonda lleve más de 2 semanas de permanencia.
+
+
+-- INFECCIÓN ASOCIADA A SISTEMA DE DERIVACIÓN DE LÍQUIDO CEFALORRAQUÍDEO
+
+La infección asociada a los sistemas de derivación de LCR externos (DVE) es una grave complicación con una elevada morbimortalidad. Su incidencia se sitúa entre el 4-25%.
+
+
+--- PATOGENIA
+
+La infección puede adquirirse por vía retrógrada intraluminal o por colonización tras la manipulación del catéter por vía extraluminal. Son factores de riesgo para la infección las manipulaciones repetidas, los sistemas abiertos y los drenajes de más de 7 días, .
+
+
+--- ETIOLOGÍA
+
+Las bacterias Gram positivas (S. aureus y estafilococos coagulasa negativos) suelen ser la etiología más frecuente, aunque los bacilos Gram negativos (Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter y Acineobacter baumanii), incluidos los multirresistentes, van aumentando.
+
+
+--- CLÍNICA
+
+Cursa con un empeoramiento neurológico (alteración del nivel de conciencia o disfunción neurológica), junto con fiebre o febrícula.
+
+
+--- DIAGNÓSTICO
+
+Se basa en las manifestaciones clínicas y el estudio del LCR (citobioquímico y microbiológico). Las características del LCR son pleocitosis moderada (con aumento de PMN), aumento de proteínas y lactato y disminución de la glucosa. Deberá realizarse tinción de Gram y cultivo tanto del LCR como de la punta del drenaje al retirarlo.
+
+
+-- TRATAMIENTO
+
+El tratamiento implica la retirada del drenaje. Si es preciso mantener un drenaje se colocará uno nuevo a ser posible por una vía de acceso diferente. La antibioterapia debe ser precoz debido a la elevada morbimortalidad, inicialmente guiada por el Gram y posteriormente por el cultivo. Si no se dispone de Gram; la terapia empírica se realizará con vancomicina más meropenem (1 g/8 horas intravenoso) o ceftazidima (2 g/8 horas intravenoso) y en casos de alergia: linezolid (600 mg/12 horas intravenoso) más aztreonan (2 g/8 horas intravenoso).
+La adición al tratamiento sistémico de antimicrobianos por vía intratecal es controvertida, no estando de momento aprobado su uso por la Food and Drugs Administration (FDA). En principio se recomendaría su uso en:1.Infecciones producidas por gérmenes multirresistentes.2.El antibiótico penetra mal o no alcanza una adecuada concentración en LCR.3.Cultivos de LCR persistentemente positivos.4.Cuando no es posible retirar el DVE.5.Los antibióticos intratecales más utilizados son: vancomicina (20 mg/día), aminoglucósidos (amikacina 30 mg/día, gentamicina 2-5 mg/día) y colistina (10 mg/día) disueltos en 2 ml de suero fisiológico al 0,9%, retirando previamente la misma cantidad de LCR, y manteniendo el drenaje cerrado 60-180 minutos.
+El tratamiento antibiótico deberá mantenerse 10-14 días o hasta la negativización de 3-4 cultivos de LCR.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

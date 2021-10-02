@@ -1,0 +1,6 @@
+identificar los principales factores de riesgo para lesión renal aguda en el anciano hospitalizado y a partir de ellos, calcular la probabilidad de presentación.
+se identificaron como factores de riesgo para lesión renal aguda la hipovolemia y la infección, se integraron al modelo de regresión logística múltiple (y = −1.111 + 1.063 [infección] + 1.422 [hipovolemia]) p = 0.002. La probabilidad más alta de presentar lesión renal aguda fue de 80%.
+se identificaron dos factores para lesión renal aguda y un modelo de predicción.
+estudio de casos y controles anidado en una cohorte que incluyó pacientes de 60 años o más, ingresados en el servicio de medicina interna de una institución de seguridad social en Querétaro, México. Se identificó como caso al paciente con lesión renal aguda y como control al paciente sin lesión renal aguda. La lesión renal aguda se diagnosticó cuando existió un incremento de la creatinina ≥ 0.3 mg/dL (≥ 26.4 mmol/L) en un tiempo < 48 horas.
+la lesión renal aguda en pacientes ancianos hospitalizados es un evento frecuente que los predispone a complicaciones e incluso a la muerte. Es así que al atender a un anciano es prioritario identificar los factores de riesgo para presentar tal evento.
+

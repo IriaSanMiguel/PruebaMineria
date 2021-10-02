@@ -1,0 +1,113 @@
+IMPACTO DEL BROTE DE COVID-19 EN LAS LISTAS DE ESPERA DE CIRUGÍA UROLÓGICA Y ESTRATEGIAS DE PRIORIZACIÓN EN LA ERA POST-COVID-19
+
+
+- INTRODUCCIÓN
+
+La pandemia de la enfermedad coronavirus 2019 (COVID-19) ha sido uno de los mayores retos al que se han enfrentado los sistemas sanitarios de todo el mundo. El alto grado de contagio y la consiguiente rápida propagación de la enfermedad, junto con su tendencia a causar neumonía grave, especialmente en las personas mayores, requiriendo hospitalización e ingreso a la unidad de cuidados intensivos (UCI), son algunos de los principales factores que contribuyeron al colapso del sistema de atención de la salud en cientos de ciudades de todo el mundo.
+España fue uno de los países más afectados por la COVID-19. El primer paciente diagnosticado en España se registró el 31 de enero de 2020 en la isla de La Gomera. Desde entonces, el número de pacientes con COVID-19 aumentó progresiva y exponencialmente, y el virus se extendió por todas las regiones españolas de manera rápida e inexorable. El 14 de marzo de 2020 se impuso el estado de alarma y el confinamiento nacional. La Comunidad de Madrid fue la zona más afectada de España, con 66.338 casos y 8.847 muertes relacionadas con la COVID-19 el 19 de mayo de 2020.
+Debido a la emergencia sanitaria, las prioridades médicas y quirúrgicas cambiaron drásticamente, con un profundo impacto en la organización hospitalaria. Casi todas las actividades electivas se suspendieron para ahorrar recursos para los casos de COVID-19, como resultado de la limitada disponibilidad de personal sanitario, dispositivos médicos y camas de hospital, , . Ello significó la cancelación de un gran número de cirugías (oncológicas y no oncológicas), así como de servicios ambulatorios.
+La suspensión de la mayoría de las cirugías electivas provocó el aumento de las listas de espera de cirugía urológica con posibles repercusiones en la salud de los pacientes, especialmente los que esperaban cirugía oncológica. Una vez superado el pico del brote de COVID-19 y reanudadas lentamente las actividades quirúrgicas normales, es necesario establecer una priorización meticulosa de las listas de espera para limitar el efecto de los tiempos de demora en el pronóstico de los pacientes, .
+El objetivo principal del presente estudio fue evaluar el impacto del brote de COVID-19 en la lista de espera de cirugía urológica en un hospital español de alto volumen. El objetivo secundario fue discutir la evidencia y recomendaciones actuales para una adecuada priorización de estas listas en el inicio de la era post-COVID-19.
+
+
+- MATERIALES Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Diseñamos un estudio observacional descriptivo, en el que se analizaron todos los pacientes incluidos en la lista de espera de cirugía urológica de nuestro centro (Hospital Universitario 12 de Octubre, Madrid, España) el 1 de mayo de 2020.
+
+
+-- CARACTERÍSTICAS DEL CENTRO Y REORGANIZACIÓN EN LA ERA COVID-19
+
+Nuestro hospital es un centro de tercer nivel, y uno de los principales hospitales de la Comunidad de Madrid, con 1.256 camas y un área sanitaria urbana de 445.550 habitantes. En condiciones normales, el departamento de Urología utiliza una media de 15 quirófanos por semana para las cirugías mayores, con una media de 150-200 procedimientos urológicos mayores realizados cada mes.
+Todos los procedimientos quirúrgicos electivos fueron suspendidos el 16 de marzo de 2020, por lo que el análisis de la lista de espera se realizó 46 días después de la suspensión de la cirugía electiva. A partir de esa fecha, sólo se pudieron intervenir los casos urgentes o potencialmente mortales. Entre el 16 de marzo y el 1 de mayo, se realizaron 24 procedimientos quirúrgicos urológicos, todos debido a la urgencia de los casos. Además, se interrumpió toda actividad ambulatoria no esencial presencial y se sustituyó por un seguimiento telefónico (telemedicina), para evitar visitas innecesarias al hospital.
+
+
+-- REUNIÓN DE DATOS Y VARIABLES
+
+Todos los datos se recogieron del registro médico electrónico. Las variables basales registradas para cada paciente fueron: edad, sexo, prioridad en la lista de espera, enfermedad urológica principal, tipo de cirugía programada y tiempo de espera.
+En cuanto a la prioridad, en el momento de la inclusión en la lista de espera quirúrgica, el paciente fue adjudicado a un grupo de prioridad entre el 1 y el 3. Los criterios de inclusión y el tiempo de espera recomendado para cada grupo se informan en la tabla 1 .
+Además, se recogieron las siguientes características de cada enfermedad:-Cáncer vesical y renal: número y tamaño de tumores-Cáncer de próstata: Puntuación de Gleason (GS) y PSA-Hiperplasia benigna de próstata (HBP): tamaño de la próstata-Urolitiasis: número, tamaño y ubicación de los cálculos
+Las variables adicionales registradas fueron: la presencia de catéter urinario (vesical o uretral), el número de visitas al servicio de urgencias debido a enfermedades urológicas, la evidencia de infección por COVID-19 en historial médico, el número de muertes y su causa.
+También recogimos los tiempos medios de espera hasta la cirugía (días desde la inclusión en la lista de espera hasta la cirugía) de los diferentes procedimientos.
+
+
+-- ESTADÍSTICA
+
+El análisis estadístico se realizó con IBM SPSS Statistics® (IBM SPSS Statistics for Windows, V 24.0. Armonk, NY). Las variables categóricas se describieron como frecuencias y porcentajes, mientras que las variables cuantitativas se presentaron como medias y desviaciones estándar (DE). Se utilizó la prueba t de Student para analizar las variables continuas, mientras que la prueba de X 2 se realizó para las categóricas. El análisis ANOVA y el coeficiente de correlación de Pearson se utilizaron para comparar grupos de prioridad y evaluar las relaciones entre las variables continuas, respectivamente. Un valor p de < 0,05 se consideró estadísticamente significativo.
+
+
+- RESULTADOS
+
+-- SERIE GLOBAL
+
+Un total de 350 pacientes fueron incluidos en la lista de espera quirúrgica el 1 de mayo de 2020. La edad media (DE) fue de 65,92 (14,62), 294 (84%) sujetos eran hombres y 56 (16%) mujeres. Cuarenta y tres pacientes (12,3%) tenían prioridad 1, 175 (50%) prioridad 2, y 132 (37,7%) prioridad 3. El tiempo medio (DE) en la lista de espera fue de 97,33 (55,47) días. La mayoría de los procedimientos fueron para el tratamiento de HBP (26,3%), urolitiasis (17,1%) y cáncer de vejiga (16,9%). Las principales enfermedades urológicas en la lista de espera se resumen en la figura 1 .Figura 1
+
+
+-- ANÁLISIS DE LOS GRUPOS DE PRIORIDAD
+
+El 1 de mayo de 2020, coincidiendo con la reanudación de la cirugía electiva, los pacientes de prioridad 1 que normalmente deberían someterse a cirugía en un plazo de 30 días, se encontraban en la lista de espera con un tiempo medio (DE) de 60,51 (20,14) días; más del doble del tiempo máximo recomendado. Los pacientes de prioridad 2, que normalmente deberían someterse a la intervención quirúrgica en un plazo de 90 días, estaban en la lista de espera por un tiempo medio (DE) de 91,94 (43,77) días. Por último, los pacientes de prioridad 3, que normalmente deberían someterse a una intervención quirúrgica en un plazo de 170 días, estaban en la lista de espera por un tiempo medio (DE) de 117,65 (67,9) días. El análisis completo de los grupos de prioridad se presenta en la tabla 2 .
+
+
+-- ANÁLISIS SEGÚN LAS ENFERMEDADES UROLÓGICAS PRINCIPALES
+
+--- CÁNCER DE VEJIGA
+
+Cincuenta y nueve (16,9%) pacientes estaban en la lista de espera por cáncer de vejiga. Cincuenta y dos (88,1%) sujetos esperaban una resección transuretral de la vejiga (RTUV) y siete (11,9%) una cistectomía radical. El tamaño medio (DE) del tumor era de 16,2 mm (10,3). Nueve (15,3%) pacientes estaban en el grupo de prioridad 1, y 50 (84,7%) en el grupo de prioridad 2. El tiempo medio (DE) en la lista de espera fue de 78,54 (53,70) días.
+
+
+--- CÁNCER RENAL
+
+Había once (3,1%) pacientes con cáncer renal. Seis (54,5%) sujetos esperaban una nefrectomía parcial y cinco (45,5%) una nefrectomía radical. El tamaño medio (DE) del tumor era de 36,6 mm (14,0). Cuatro (36,4%) pacientes estaban en el grupo de prioridad 1, mientras que siete (63,6%) se encontraban en el grupo de prioridad 2. El tiempo medio (DE) en la lista de espera fue de 68 (21,24) días.
+
+
+--- CÁNCER DE PRÓSTATA
+
+Veinte (5,7%) pacientes se encontraban en la lista de espera por cáncer de próstata, esperando una prostatectomía radical laparoscópica. La media (DE) del PSA fue de 8,1 (4,1) ng/mL. Tres (15%) pacientes tenían GS 3 + 3 o grupo de grado 1 (GG, clasificación de la ISUP), ocho (40%) GS 3 + 4 (GG 2), seis (30%) GS 4 + 3 (GG 3), y tres (15%) GS 4 + 4 (GG 4). Seis (30%) pacientes estaban en el grupo de prioridad 1, mientras que 14 (70%) pertenecían al grupo de prioridad 2. El tiempo medio (DE) en la lista de espera fue de 70,85 (26,25) días.
+
+
+--- HBP
+
+Noventa y dos (26,3%) pacientes con HBP estaban en la lista de espera. La resección transuretral de la próstata (RTUP) fue planeada en 37 (40,2%) pacientes (tamaño de la próstata < 70 cc) y la enucleación de la próstata con láser de holmio (HoLEP) en 55 (59,8%) pacientes (tamaño de la próstata ≥ 70 cc). El tamaño medio (DE) de la próstata fue de 72,5 cc (40,0). Veintidós sujetos (23,9%) tenían un catéter vesical. Dos (2,2%) pacientes estaban en el grupo de prioridad 1, 34 (36,9%) en el grupo de prioridad 2, y 56 (60,9%) en el grupo de prioridad 3. El tiempo medio (DE) en la lista de espera fue de 110,56 (68,25) días.
+
+
+--- UROLITIASIS
+
+Sesenta (17,1%) pacientes estaban en la lista de espera por urolitiasis. Veinte (33,3%) sujetos tenían cálculos renales, 12 de ellos (60%) esperaban una cirugía retrógrada intrarrenal (CRIR) y ocho (40%) una nefrolitotomía percutánea (NLPC). Treinta y nueve (65%) pacientes tenían litiasis ureteral y esperaban una ureteroscopia (URS), un (1,7%) sujeto presentaba litiasis vesical. Treinta y cuatro (56,7%) pacientes tenían un catéter doble-J. El tamaño medio (DE) de los cálculos fue de 11,7 mm (9,9). Quince (25,0%) sujetos estaban en el grupo de prioridad 1, 40 (66,7%) en el grupo 2, y cinco (8,3%) en el grupo 3. El tiempo medio (DE) en la lista de espera fue de 93,54 (41,85) días.
+
+
+-- ANÁLISIS DE LOS TIEMPOS DE ESPERA
+
+Los tiempos medios de espera para los tratamientos quirúrgicos del 1 de mayo de 2020 (días desde la inclusión en la lista de espera hasta el 1 de mayo de 2020) se compararon con los tiempos medios hasta la cirugía de 2019 (días desde la inclusión en la lista de espera hasta la cirugía). El tiempo medio de espera al 1 de mayo de 2020 ya había superado el tiempo medio hasta la cirugía en 2019 en la RTUV (75,50 vs 71,15 días; p = 0,56), cistectomía radical (89,86 vs 57,30 días, p = 0,04), URS (94,12 vs 75,0 días; p = 0,003), NLPC (87,71 vs 72,0 días; p = 0,4), CRIR (92,75 vs 91,70 días; p = 0,66), y cirugía de incontinencia urinaria (103,80 vs 70,36 días; p = 0,08). Todas las comparaciones de los tiempos se exponen en la figura 2 .Figura 2
+
+
+-- OTROS ANÁLISIS
+
+Desde su inclusión en la lista de espera quirúrgica, los pacientes visitaron el servicio de urgencias debido a su condición urológica una media (DE) de 0,2 (0,6) veces.
+Encontramos un mayor número de visitas a la sala de emergencias en los pacientes con un catéter urinario (p < 0,01). En total, 29 (8,3%) pacientes en la lista de espera tenían un catéter vesical y 51 (14,6%) un catéter doble J. No se encontró ninguna diferencia significativa entre los grupos de prioridad en cuanto al número de visitas al servicio de urgencias (p = 0,61). Se encontró una correlación estadísticamente significativa con las visitas a urgencias por el tamaño de la próstata (p = 0,01), pero no por el tamaño de los cálculos (p = 0,9).
+Seis (1,7%) pacientes murieron mientras estaban en la lista de espera, todos en abril de 2020. La causa de la muerte fue la infección por COVID-19 en tres (50%) pacientes, y desconocida en los otros tres (50%). La edad media (DE) de este subgrupo fue de 86,7 (5,4) años y la proporción hombre:mujer fue de 1:1. Tres (50%) de los sujetos fallecidos tenían litiasis ureteral, uno (16,7%) cáncer de vejiga, uno (16,7%) estenosis uretral y uno (16,7%) estenosis ureteral.
+Por último, 13 (3,7%) pacientes tenían evidencia en su historial médico de infección por COVID-19 diagnosticada con hisopo nasofaríngeo. La edad media (DE) de estos sujetos fue de 69,8 (12,0) años, nueve (69,2%) eran hombres y cuatro (30,8%) mujeres.
+
+
+- DISCUSIÓN
+
+La pandemia por COVID-19 ha representado un desafío para los sistemas sanitarios de todo el mundo. El aumento exponencial del número de casos dio lugar a la necesidad urgente de suspender la mayoría de las actividades médicas y quirúrgicas que no estaban directamente relacionadas con el tratamiento de los pacientes de COVID-19, en un intento por ahorrar recursos para este fin.
+La suspensión de la cirugía electiva parece ser una estrategia razonable para salvaguardar la salud de los pacientes. La mortalidad puede llegar al 20,5% en los portadores asintomáticos o durante período de incubación de pacientes sometidos a cirugía electiva, y los procedimientos quirúrgicos parecen acelerar la progresión de COVID-19. Además, parece que los pacientes de cáncer tienen un mayor riesgo de muerte por COVID-19 y la hospitalización por cirugía puede ser obviamente un factor de riesgo de infección. Por otro lado, existe una verdadera preocupación por el impacto que podría tener el retraso de los tratamientos, especialmente para los pacientes oncológicos que esperan una intervención quirúrgica, , .
+Se necesita un enfoque pragmático para afrontar este escenario y encontrar estrategias adecuadas para el manejo de las listas de espera quirúrgicas en la era post-COVID-19. Como la situación está evolucionando rápidamente durante la pandemia, los protocolos y recomendaciones se actualizan constantemente y los urólogos están «aprendiendo sobre la marcha». La estrategia de priorización de los pacientes quirúrgicos debe basarse en un análisis detallado de las listas de espera, así como en la mejor y más actualizada evidencia disponible, , .
+En este estudio se analiza el impacto de la pandemia COVID-19 en las listas de espera de cirugía urológica, proporcionando datos objetivos sobre las consecuencias de la suspensión de la cirugía electiva. Los pacientes de prioridad 1 que normalmente deberían someterse a una cirugía en un plazo de 30 días, estuvieron en la lista de espera durante un tiempo medio de 60,5 días, lo cual es más del doble del tiempo máximo recomendado. Se trataba principalmente de pacientes con litiasis ureteral (25,6%), cáncer de vejiga de alto riesgo o músculo-invasivo (20,9%) y cáncer de próstata de alto riesgo (13,9%). Los tiempos medios de espera de los grupos de prioridad 2 y 3 estaban justo por encima (91,9 frente a 90 días) e inferiores (117,6 frente a 170 días) al tiempo máximo recomendado, en el momento del análisis, respectivamente. Este resultado puede explicarse por los tiempos de espera recomendados más largos que en el grupo 1. El tiempo medio de espera al 1 de mayo de 2020 fue mayor que los tiempos medios de espera en 2019 para la cistectomía radical, URS, cirugía de incontinencia urinaria, NLPC, CRIR y RTUV, con diferencias estadísticamente significativas en los tres primeros. En cualquier caso, la lenta y gradual reanudación de la actividad quirúrgica electiva y la priorización de los pacientes seleccionados probablemente conducirán a un aumento de los tiempos de espera en todos los grupos, con mayores repercusiones en los grupos 2 y 3.
+La Oficina de Directrices de la EAU trabajó para establecer un Grupo de Reacción Rápida (GORRG [Guidelines Office Rapid Reaction Recommendations]), con el fin de proporcionar una guía visual para gestionar la situación sanitaria relacionada con la COVID-19, . En estos documentos, cada condición urológica se clasificó en cuatro grupos de prioridad diferentes para ayudar en la toma de decisiones diagnósticas y terapéuticas en los departamentos de urología.
+El American College of Surgeons creó un documento guía con recomendaciones generales durante la reanudación de la actividad quirúrgica electiva suspendida debido a la pandemia. En particular, elaboró un plan de priorización, en el que recomienda considerar el uso de sistemas de puntuación de prioridades objetivas (por ejemplo, el sistema de puntuación MeNTS (Medically Necessary, Time Sensitive Procedures [procedimientos medicamente necesarios, sensibles al tiempo]).
+Ficarra et al. clasificaron los procedimientos urológicos para tratar el cáncer durante la pandemia COVID-19 en cuatro grupos: inaplazables, semi-inaplazables, aplazables y reemplazables por otros tratamientos. Del mismo modo, Stensland et al. elaboraron una lista de cirugías a las que se debería dar prioridad en caso de cancelación de la mayoría de cirugías electivas debido al COVID-19.
+Las estrategias de priorización de la lista de espera quirúrgica deben basarse en la evidencia científica. Los pacientes con cáncer urológico de alto riesgo deben ser priorizados porque el retraso en el tratamiento podría afectar negativamente a su pronóstico, . Por ejemplo, se sabe que demorar a 90 días la cistectomía radical para el cáncer de vejiga músculo-invasivo aumenta la tasa de pN+, disminuye la supervivencia global y la supervivencia libre de progresión.
+En cualquier caso, el análisis de las listas de espera quirúrgicas para priorizar a los pacientes debe tener en cuenta no sólo las variables oncológicas, sino también las características del paciente, como la edad y las comorbilidades. Una forma de evaluar el impacto clínico del tiempo de espera es estudiar el número de visitas a los servicios de urgencias debido a la enfermedad urológica. En nuestra cohorte, encontramos que los pacientes con catéter urinario acudieron a urgencias más veces significativamente (p < 0,01), a pesar de que las urgencias urológicas en la era COVID-19 se habían reducido notablemente, .
+La principal limitación de nuestra investigación es el diseño descriptivo observacional. Otras limitaciones relevantes son la naturaleza unicéntrica del estudio y la incapacidad de analizar el pronóstico a largo plazo de los pacientes. Además, un posible sesgo podría derivarse de los tiempos de espera ya acumulados por los pacientes en el momento de la recogida de datos.
+
+
+- CONCLUSIONES
+
+La suspensión de la mayoría de las cirugías electivas debido al brote de COVID-19 tuvo un impacto significativo en la lista de espera de cirugía urológica. Es esencial aplicar estrategias de priorización apropiadas, basadas en un análisis profundo de las listas de espera quirúrgicas, para salvaguardar la salud de los pacientes en la era post-COVID-19.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

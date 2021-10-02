@@ -1,0 +1,6 @@
+Introducción. El serotipo 3 de Streptococcus pneumoniae es una causa importante de neumonía, bacteriemia y meningitis.
+Objetivo. Establecer los genotipos circulantes de aislamientos del serotipo 3 de S. pneumoniae recuperados de muestras de enfermedad invasiva de 1994 a 2015 en Colombia.
+Materiales y métodos. Se analizaron 117 de los 365 aislamientos del serotipo 3 de S. pneumoniae recuperados del programa nacional de vigilancia por el laboratorio. El genotipo se estableció con electroforesis en gel de campo pulsado y la tipificación se llevó a cabo mediante secuenciación multilocus en aislamientos representativos.
+Resultados. La frecuencia de este serotipo aumentó de 2,7 % entre 1994 y 1998 a 9,1 % entre 2011 y 2015 (p=0,000). El 91,7 % de los aislamientos evidenció una similitud genética superior al 77 % y se relacionó con el clon CC180 de Netherlands3-31 (PMEN31). Se identificaron varios subtipos, dos de los cuales mostraron resistencia a los antimicrobianos.
+Conclusión. En Colombia, la población neumocócica del tipo capsular 3 tiene una circulación continua y homogénea relacionada con el grupo clonal ST-180.
+

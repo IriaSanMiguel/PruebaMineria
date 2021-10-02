@@ -1,0 +1,5 @@
+. Caracterizar el uso de condón en la primera y última relación sexual en diferentes cohortes para observar posibles diferencias entre grupos generacionales.
+.Mediante la Encuesta Nacional de Niños, Niñas y Mujeres 2015, representativa a nivel nacional, se ajustaron modelos de regresión Poisson para buscar asociación de variables de interés con el uso del condón en la primera y última relación sexual.
+Existe un cambio generacional en el uso del condón en la primera y última relación sexual entre las más jóvenes. La utilización del condón en el debut sexual favorece su uso posterior.
+Las cohortes más jóvenes, con mayor educación y riqueza tienen mayores posibilidades de usar condón en su primera y última relación sexual; hablar lengua indígena se asocia con menores posibilidades de uso en ambos eventos. El uso de condón en el debut sexual incrementa la posibilidad de uso en la última relación sexua.
+

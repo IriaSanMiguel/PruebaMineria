@@ -1,0 +1,105 @@
+EVALUACIÓN DE LA EFECTIVIDAD DE UN PROGRAMA DE INTERVENCIÓN EN CUIDADORES NO PROFESIONALES DE PERSONAS DEPENDIENTES EN EL ÁMBITO DE LA ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+El cuidado de personas dependientes supone un reto para el sistema de atención sociosanitaria. Estos usuarios son atendidos principalmente por cuidadores no profesionales, es decir, aquellas personas que les complementan su falta de autonomía ayudándoles en la realización de tareas básicas. Así mismo juegan un papel esencial en la coordinación con los servicios sanitarios y cuidados profesionales.
+El perfil mayoritario del cuidador no profesional (CNP) en España se corresponde con el de una mujer que cuida a uno de sus progenitores afectado por la enfermedad de Alzheimer. El tiempo medio de dedicación diaria es de 6 h y 45 min, de los cuales un 47% está destinado a la ayuda de las actividades básicas de la vida diaria (ABVD).
+El desempeño de las tareas asociadas al cuidado no profesional supone, normalmente, la aparición de consecuencias negativas derivadas de la sobrecarga intrínseca a dicho rol, afectando tanto a la salud como a la esfera social y económica de quien lo ejerce. Los cuidadores padecen un agotamiento emocional y físico, con sentimientos y actitudes negativas hacia la persona cuidada, así como sentimientos de insatisfacción.
+Ante la detección de dichas consecuencias negativas se han incrementado las intervenciones educativas y de apoyo dirigidas a este colectivo, suponiendo un mecanismo indudable de mejora, puesto que la mayoría de los CNP no disponen de conocimientos previos. En general los resultados de eficacia descritos son modestos, y las intervenciones multicomponente son las que más impacto suelen mostrar sobre aspectos conductuales y psicológicos. En este sentido se observa que la mayoría de programas identificados se dirigen a mejorar las consecuencias emocionales, , , , , obviando problemas físicos claramente prevalentes en los CNP.
+Siguiendo esta tendencia, el Departament de Salut de Castelló ha implantado un programa de intervención en atención primaria (AP) dirigido a estos cuidadores con el objetivo de incrementar sus conocimientos relativos al cuidado de personas en situación de dependencia, así como generar una percepción de apoyo fundamental para afrontar sus tareas con mayor fortaleza. El contenido general del mismo recoge distintos campos del cuidado, con el objetivo de reforzar dichas áreas.
+El objetivo principal del presente trabajo es la evaluación de la efectividad de esta intervención, determinando si es capaz de modificar positivamente aspectos como la sobrecarga, el dolor lumbar, el apoyo social y la calidad de vida en CNP de personas dependientes.
+Los objetivos específicos son obtener el perfil sociodemográfico de los cuidadores y conocer cuál es la baseline de las variables a estudio.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio cuasiexperimental de tipo antes/después, sin grupo control.
+
+
+-- ÁMBITO DEL ESTUDIO
+
+La intervención se llevó a cabo en el Departament de Salut de Castelló, dependiente de la Conselleria de Sanitat Universal i Salut Pública de la Generalitat Valenciana. Participaron 5 Zonas Básicas de Salud (ZBS) situadas en la ciudad de Castelló, todas ellas urbanas y con características poblacionales sin diferencias significativas, sumando un cupo total de 78.576 pacientes.
+
+
+-- PERÍODO
+
+Entre el mes de enero de 2018 y el mes de enero de 2019.
+
+
+-- POBLACIÓN Y MUESTRA
+
+--- POBLACIÓN A ESTUDIO
+
+Un total de 81 CNP de personas dependientes.
+
+
+--- CRITERIOS DE INCLUSIÓN
+
+•Ser cuidador no profesional.•Tener personas dependientes a su cargo.•Ejercer sin remuneración y desde al menos 6 meses.
+
+
+--- CRITERIOS DE EXCLUSIÓN
+
+•Ser cuidador formal.•No ser el cuidador principal.
+
+
+--- SELECCIÓN DE LA MUESTRA
+
+Siguiendo un muestreo de conveniencia, basado principalmente en criterios de proximidad y accesibilidad, se seleccionaron las 5 ZBS mencionadas. Se incluyeron los cuidadores que participaron en los programas de intervención organizados en el periodo del estudio y que mostraron su interés en formar parte, previa firma de consentimiento informado. Adicionalmente se realizó un cálculo de tamaño muestral que permitió establecer, según las características metodológicas del estudio, el corte mínimo necesario (63 sujetos) para el hallazgo de diferencias estadísticamente significativas.
+
+
+-- INTERVENCIÓN
+
+La intervención surgió de un estudio interno realizado en el departamento sobre de las necesidades y problemas de salud presentes en este grupo poblacional. A la luz de los resultados y tomando como ejemplo experiencias similares en otros departamentos sanitarios, se decidió crear una intervención multicéntrica que tratase de abarcar de la forma más completa posible las diversas circunstancias que acarrean los CNP.
+De esta forma se llevaron a cabo una serie de reuniones entre los diversos docentes implicados (técnicos de salud pública, profesionales del equipo de AP, enfermeros gestores, etc.) que permitieron no solo acordar los contenidos curriculares de la intervención, sino también generar una guía metodológica (de acceso para los profesionales del departamento vía intranet) que garantizase al máximo la homogeneidad de los contenidos en las diferentes ZBS adheridas al programa.
+El programa consta de 10 sesiones grupales, de 120 min, un día a la semana, realizadas en cada uno de los centros de salud de las ZBS implicadas. Cada edición cuenta con un máximo de 12 participantes, llevándose a cabo a lo largo de la investigación un total de 8 ediciones. Las sesiones son: estilo de vida y hábitos saludables; higiene postural y ergomotricidad; emociones, asertividad y derechos de los cuidadores; control de signos y síntomas; circuito asistencial sanitario; atención sociosanitaria, recursos y prestaciones; alimentación e hidratación; higiene y aseo; prevención y tratamiento de las úlceras por presión; higiene del entorno.
+
+
+-- VARIABLES
+
+La evaluación de la efectividad del programa se analizó tomando las variables correlativas a los problemas de salud más prevalentes detectados en los CNP del departamento: nivel de sobrecarga, dolor lumbar (DL), empobrecimiento social y alteración de la calidad de vida relacionada con la salud (CVRS). En este sentido se utilizaron los siguientes instrumentos: Escala de Sobrecarga del Cuidador de Zarit (sobrecarga), Índice de Dolor de Espalda (presencia de DL), Escala Visual Analógica (nivel de DL), Escala Oswestry (incapacidad por DL), Escala Duke-UNK (apoyo social percibido) y EuroQol-5D (CVRS).
+Aunque la evaluación de todas las variables podía aportar una visión completa de la eficacia de la intervención, se estimó que el resultado sobre la variable sobrecarga fuera el apropiado para poder tasar el impacto global del despliegue del programa, según indican otros estudios, , .
+
+
+-- RECOGIDA DE DATOS
+
+Se realizó a través de un dosier de elaboración propia formado con una primera parte de recogida de datos sociodemográficos y una segunda compuesta por los instrumentos de medida correspondientes a cada una de las variables estudiadas. Se recogieron en la primera sesión de cada edición y a los 3 meses de la finalización de estas. La información sociodemográfica fue obtenida por los enfermeros gestores de cada ZBS a través de una entrevista y complementada gracias a los datos constituyentes de la historia clínica informática de cada uno de los participantes en el estudio. Por otra parte, los instrumentos de medida incluidos en el dosier fueron autoadministrados por los sujetos.
+
+
+-- ANÁLISIS DE DATOS
+
+El nivel de significación fue del 5%, considerándose las diferencias de p < 0,05, realizando todos los análisis con el software estadístico IBM-SPSS v.22. Primeramente se hizo un descriptivo de las variables según su naturaleza. Para las continuas se utilizó el cálculo de medias y medidas de dispersión; para las categóricas se contó con la distribución de frecuencias y proporciones.
+La cuantificación de la efectividad global de la intervención educativa se valoró con la disminución de la sobrecarga del cuidador y se calculó realizando un test de Wilcoxon para medidas relacionadas.
+Se usó el test de Kolgomorov-Smirnov para determinar si los datos se ajustaban a la distribución normal; las variables cuantitativas con una distribución normal se compararon con el test t de Student, y en los casos de no normalidad se utilizó la prueba U de Mann Whitney. Para comparar las diferencias entre los instantes pre y postintervención se optó por el test t de Student, y en los casos en que no hubo normalidad, el test de Wilcoxon. Para el análisis cualitativo se generaron tablas cruzadas y se analizó la significación estadística mediante el test de chi-cuadrado. En el análisis de coincidencias se utilizó el coeficiente kappa.
+
+
+- RESULTADOS
+
+Se contabilizaron 81 CNP participantes en la intervención. Todos ellos aceptaron participar en el estudio; sin embargo, 9 no cumplieron los criterios de inclusión, por lo que la muestra final fue de 72 CNP. No se produjeron pérdidas o abandonos a lo largo de la investigación. Estos sujetos estaban al cuidado de 79 personas dependientes.
+La muestra cuidadora fue mayoritariamente femenina (77,7%), con una media de edad de 59,75 ± 10,20 años. El 72,2% estaban casadas, el 50% tenían estudios primarios y eran pensionistas. El parentesco entre el cuidador y el dependiente fue de tipo familiar en el 92,3% de los casos, siendo fundamentalmente las hijas/os (48,7%) o las parejas (35,9%) quienes ejercían dicho rol. En relación con la dedicación cuidadora, más del 80% de los CNP llevaban ejerciendo como tal más de 2 años, considerando que en su momento fue la única opción de provisión de cuidados a la persona dependiente.
+Todos los CNP presentaban sobrecarga basal, con un nivel medio de 59,93 ± 14,71 (el 58,3% de los casos con sobrecarga «intensa» y el 41,7% con sobrecarga «leve»). El 73,3% de los CNP manifestaron tener dolor lumbar antes de la intervención, dato que se vio confirmado por un valor medio de 5,60 ± 3,72 en la escala Índice de Dolor de Espalda (IDE), cuyo valor predictivo positivo se sitúa por encima de 4. El nivel medio de DL observado fue de 5,13 ± 2,56 en una EVA y la incapacidad basal por DL se distribuyó en «mínima» (27,8%; n = 20), «moderada» (41,7%; n = 30) e «intensa» (30,6%; n = 22). En relación con el empobrecimiento social previo a la intervención, se obtuvo un valor medio de 32,00 ± 7,52, indicando porcentualmente que el 50% de la muestra percibían escaso apoyo social.
+Para evaluar la efectividad global de la intervención se analizaron las diferencias entre los resultados antes y 3 meses después para la variable sobrecarga; tras el programa se pasó de una media basal de 59,93 ± 14,71 a una media postintervención de 57,66 ± 11,74, lo cual no implicó cambios estadísticamente significativos (p > 0,05) .
+Para la variable DL, en su dimensión presencia y nivel no se halló significación estadística , mientras que en la dimensión incapacidad por DL se obtuvo un coeficiente kappa de 0,600 a los 3 meses ; los 32 cuidadores que en la medida basal indicaron una incapacidad «moderada» se mantuvieron en el test postintervención; para los cuidadores con un nivel «mínimo» se observó una reducción de los mismos en 4 CNP. Por último, en los sujetos con incapacidad «intensa» en la medida preintervención se observó una disminución, en 12 casos, en la medida postintervención.
+Al analizar la variable de apoyo social percibido encontramos una mejoría con significación estadística antes-después, pasando de una media basal de 32,00 ± 7,52 a 34,73 ± 6,90 tras la intervención. En la evaluación de las dimensiones de la CVRS se encuentra la menor concordancia para «dolor/malestar» y «ansiedad/depresión». En lo referente al estado de salud que perciben los cuidadores en comparación con los últimos 12 meses, destaca el hallazgo de un kappa = 0,077, correspondiente a una notable mejoría en las respuestas dadas a los 3 meses de la intervención con respecto a las basales. Por último, no se halló un valor de p significativo en la autopuntuación del estado de salud actual.
+
+
+- DISCUSIÓN
+
+El perfil sociodemográfico hallado en la muestra (mujer, de mediana edad, casada, con estudios primarios y pensionista) coincide con el de estudios de la misma índole, , . El parentesco familiar existente es el predominante, , y parece que la vinculación emocional es fundamental para que la dedicación sea proporcional a esta.
+Se encuentran pocos casos en los que el CNP no resida con la persona dependiente, aspecto que no hace más que aumentar las cargas personales ya de por sí importantes en estos cuidadores. En este sentido, se muestra un importante grado de entrega y altos índices de sobrecarga. Este dato confronta con algún estudio donde la dedicación es inferior, aparentemente, por el proceso o patología padecida por la persona dependiente.
+Al igual que en la literatura, la mayor parte de los participantes ejercen como cuidadores por no contar con otra alternativa. En contraste con esta opción «obligada», otros eligen voluntariamente hacerse cargo del cuidado aun pudiendo optar por otras opciones menos exigentes, aceptando el cuidado como una acción natural presumiblemente impuesta por la sociedad.
+Se observa que toda la muestra padecía sobrecarga al inicio del estudio, con niveles basales medios elevados, existiendo factores influyentes que podían justificarlo. Sin embargo, los análisis indican que la intervención no fue eficaz para mejorarla, al contrario que la literatura, pues suele reducirse tras la implementación de intervenciones específicas, al menos a corto plazo.
+El DL se estudió en tres dimensiones, ya que no solo interesaba saber si la intervención lograba reducirlo, sino también su efecto sobre el nivel y la incapacidad que produce. La prevalencia (73,3%) se acerca a la habitual en CNP, , , y es muy superior a la media de la población general. Sin embargo, la intervención no logró mejorar estos aspectos, a diferencia de otros trabajos donde se encontraron resultados positivos al evaluar intervenciones educativas en técnicas de movilización y traslado de pacientes.
+Más de dos terceras partes de la muestra se clasificaron en niveles de incapacidad por DL que limitaban de una forma moderada o intensa aspectos como permanecer de pie o la actividad sexual. Tras la intervención de observó una falta de concordancia asociada a una mejora exponencial, lo cual ofrece una visión esperanzadora; esta es una de las mayores fortalezas del estudio, pues no existe unanimidad en la literatura a cerca de este punto, a pesar de ser el DL uno de los problemas más prevalentes e incapacitantes en CNP.
+En general las intervenciones dirigidas a CNP rinden buenos resultados en términos de apoyo social. Los resultados obtenidos se acercan a este punto, confirmando la efectividad del programa para la mejora de la percepción social y reduciendo la carga y la angustia emocional a corto plazo, lo que sugiere que la aplicación de la intervención durante un período prolongado podría mantener su efecto positivo.
+La CVRS alcanza buenos resultados, principalmente en dimensiones inherentemente afectadas en los CNP; así mismo se obtiene poca concordancia en la autopercepción del estado de salud, lo cual indica (de una manera descriptiva) que la intervención mejora, al menos, la impresión que tienen los cuidadores de su salud. Existe consenso para afirmar que las intervenciones suelen dar buenos resultados sobre la CVRS en cuidadores, sobre todo porque este concepto se relaciona con otros aspectos como la sobrecarga del cuidador y el apoyo social.
+En definitiva, la intervención propuesta obtiene resultados dispares según la variable evaluada y no logra obtener mejora destacada en relación con la sobrecarga. En este sentido los resultados de eficacia descritos en la bibliografía también son modestos, , , , lo cual indicaría una posible limitación por tratarse de una intervención grupal. Parece que las realizadas de forma individual son más apropiadas para abordar la sobrecarga del cuidador en profundidad, trabajando conocimientos, actitudes y habilidades.
+A la luz de los resultados, se debería reconsiderar el contenido de la intervención mejorando su metodología, en busca de una mejora que revierta en el rendimiento de estudios futuros. No obstante, e independientemente de los resultados, la experiencia cualitativa extraída de la intervención señala que el cuidador se siente más seguro y puede desempeñar su papel lo mejor posible, ayudándole a hacer frente de forma más satisfactoria a los retos que se le plantean.Lo conocido sobre el tema•El cuidado no profesional es un problema de gran relevancia para la atención sociosanitaria en España, y especialmente para la salud de los CNP.•Presenta una alta morbilidad y un elevado consumo de recursos.•Existen múltiples experiencias en intervenciones específicas dirigidas a este colectivo, lideradas por la atención primaria.Qué aporta el estudio•El estudio ha permitido analizar cuáles son las características sociodemográficas de este colectivo en nuestro ámbito.•El cuidado no profesional se relaciona con altos índices de sobrecarga y DL, escaso apoyo social y afectación de la CVRS.•Se debe seguir indagando sobre cuáles son las mejores intervenciones que permitan mejorar la salud de los CNP.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

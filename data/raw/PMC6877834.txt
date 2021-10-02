@@ -1,0 +1,51 @@
+BAJA CONCORDANCIA ENTRE LA INFORMACIÓN CLÍNICA DE ATENCIÓN PRIMARIA Y HOSPITAL
+
+
+- INTRODUCCIÓN
+
+El progresivo envejecimiento que se observa en la mayor parte del mundo se acompaña, de un número cada vez mayor de personas con diversas enfermedades crónicas. La respuesta a las necesidades de esta población entraña nuevos retos para los servicios sanitarios, que deben dotarse de cauces de coordinación suficientes y fiables. Recorridos de ida y vuelta entre los distintos niveles asistenciales deben ser la norma, tanto para el paciente como para la información sobre su situación de salud.
+Sin embargo, en la actualidad, la existencia de diversos tipos de historia clínica, así como la falta de integración de la información registrada en los mismos, especialmente entre los niveles de atención primaria (AP) y hospitalario, constituyen una causa esencial de pérdida de información relevante. Esta situación dificulta que los profesionales sanitarios tengan una visión global de la salud del paciente. Además, disminuye el potencial que tienen para la investigación los registros asistenciales poblacionales, especialmente los de AP, que recogen información sociodemográfica y sanitaria de cada paciente. Ello pone de manifiesto la urgente necesidad de disponer de un sistema en el que se registren todos los episodios de enfermedad y que permita seguir la trayectoria de cada paciente a través del sistema sanitario.
+El objetivo de este estudio es medir el nivel de concordancia de los diagnósticos registrados en los niveles de AP y hospital, con el fin de valorar la fiabilidad de ambos registros asistenciales como fuentes de información para la investigación de enfermedades crónicas.
+
+
+- MÉTODOS
+
+Estudio transversal retrospectivo basado en la integración de la información diagnóstica, previamente anonimizada, contenida en la historia clínica electrónica de AP (OMI-AP) y en el Conjunto Mínimo de Datos Hospitalarios (CMBD) de la población de Aragón entre los años 2010 y 2011. Este estudio forma parte de un proyecto informado favorablemente por el Comité Ético de Investigación Clínica de Aragón.
+La población de estudio la compusieron los pacientes que ingresaron al menos una vez en 2010 en los hospitales de Aragón. Para cada paciente se analizaron variables demográficas (sexo y edad) y clínicas (diagnósticos activos en OMI-AP entre 2010 y 2011; y los registrados en CMBD en 2010, incluyendo tanto diagnóstico principal como secundarios). Se estableció un período de observación de 2 años para los datos de AP, con el fin de asegurar un tiempo suficiente que permita al paciente acudir a su centro de salud tras un ingreso en 2010 y ajustar por la intensidad de uso de AP.
+Se seleccionaron 8 enfermedades consideradas Ambulatory Care Sensitive Conditions sobre la base de: 1) su elevada prevalencia poblacional; 2) su riesgo de hospitalización por complicaciones; 3) su necesidad de atención urgente, y 4) que se tratara de enfermedades que, por su frecuente asociación con resultados adversos para la salud, requieran un seguimiento continuado desde AP: EPOC, diabetes, hipertensión, enfermedad cerebrovascular, cardiopatía isquémica, asma, epilepsia e insuficiencia cardiaca.
+Se realizó un mapeo unidireccional de la información clínica, desde el sistema de codificación diagnóstica más específico empleado en CMBD (CIE-9-MC) al más sintético empleado en OMI-AP (CIAP-1), asignando correspondencias unívocas para las enfermedades seleccionadas .
+Se calcularon prevalencias de las enfermedades seleccionadas por grupos de edad (i.e. 0-14, 15-44, 45-64, 65+) y sexo. Asimismo, se calcularon el porcentaje de individuos con diagnóstico registrado en CMBD que no lo tenían en OMI-AP y viceversa, así como el porcentaje de diagnósticos registrados en ambas bases de datos. Para valorar la fuerza de la concordancia entre los registros de ambos niveles asistenciales se calculó el índice kappa, considerándolo moderado entre 0,41-0,60; bueno entre 0,61-0,80; y muy bueno a partir de 0,80.
+Para el análisis de datos se utilizó el programa STATA 12.
+
+
+- RESULTADOS
+
+La población estuvo compuesta por 75.176 pacientes con al menos un ingreso hospitalario durante 2010. El 44,41% eran hombres con 55,41 ± 22,77 años de edad media ± DE. La edad media ± DE en las mujeres fue de 51,71 ± 22,59 años. Uno de cada 4 pacientes ingresados (24,64%) tenía más de 75 años.
+La prevalencia de las enfermedades estudiadas aumentó con la edad, con la excepción del asma, más prevalente en niños, y la epilepsia con prevalencia similar en los distintos grupos de edad .
+Para la mayoría de las enfermedades, la concordancia fue superior en hombres y en el grupo de edad de 45 a 64 años. La concordancia más elevada se observó para la diabetes (índice kappa: 0,75), aunque fue de solo 0,32 en el grupo de mujeres en edad fértil. El asma fue la enfermedad crónica con menor nivel de concordancia entre ambos niveles asistenciales (índice kappa: 0,34).
+
+
+- DISCUSIÓN
+
+La concordancia en el registro de enfermedades crónicas entre los niveles asistenciales de AP y hospital es baja. Además, se observan diferencias relevantes entre los diagnósticos «ausentes» en uno y otro nivel asistencial.
+Entre las enfermedades registradas en el hospital que con menor frecuencia «vuelven» a AP, encontramos algunas de presentación súbita y letalidad elevada (e.g. cardiopatía isquémica, ictus), rasgos que pueden justificar este hallazgo. Sin embargo, no es este el caso para todas las enfermedades identificadas. Tal y como señala Repullo, en ocasiones podría subyacer el denominado «secuestro de pacientes» en unidades específicas hospitalarias. Este sería el caso del asma en población infantil. Es probable, además, que exista un subgrupo de pacientes más graves o con mayor comorbilidad atendidos desde las consultas de atención especializada, que no ha sido posible analizar en este estudio exploratorio.
+En cuanto a los motivos por los que un diagnóstico identificado en AP no se registra durante el ingreso hospitalario está la posible baja severidad del proceso, que condiciona su omisión en la información autorreferida por el propio paciente.
+Enfermedades con amplios niveles de infradiagnóstico por su comienzo insidioso, como el asma, pueden dar lugar a imprecisiones diagnósticas, a las que se añaden diferencias de registro y codificación, incluso dentro de un mismo nivel asistencial. Este hecho, sumado al enfoque más generalista de la clasificación CIAP, podrían contribuir a las bajas concordancias halladas en este estudio. A modo de ejemplo, un dolor torácico se clasifica como inespecífico con mayor frecuencia en AP, y/o pacientes con diagnóstico de accidente cerebrovascular en AP son posteriormente diagnosticados de crisis comicial o amnesia global transitoria en el hospital.
+Los elevados niveles de concordancia hallados para la diabetes podrían deberse a que existen marcadores específicos que facilitan el diagnóstico y favorecen la continuidad asistencial de la enfermedad desde AP.
+Según Rodríguez-Caravaca, et al, las condiciones de presión asistencial, los medios técnicos disponibles, el tiempo disponible para cada paciente, etc. son factores que podrían explicar, al menos en parte, las diferencias detectadas.
+
+
+-- IMPLICACIONES PARA LA PRÁCTICA CLÍNICA Y CONCLUSIÓN
+
+Uno de los principales factores estructurales que facilita el seguimiento del paciente está relacionado con la utilización de una única historia clínica electrónica, que permita disponer de información exhaustiva y sistemas de codificación compatibles entre los diferentes niveles de atención. La baja concordancia entre los registros clínicos de AP y hospital —así como la bidireccionalidad de la misma—obligan a integrar la información contenida en los distintos registros asistenciales si queremos disponer de información completa sobre los problemas de salud que presenta un paciente.
+La historia clínica electrónica compartida permitirá, eventualmente, que toda la información clínica, básica y fundamental esté disponible tanto para profesionales sanitarios como para la comunidad investigadora. Sin embargo, es importante tener en cuenta que los datos son recogidos principalmente para uso clínico y no específicamente con propósitos de investigación, lo que inevitablemente afecta a su calidad y fiabilidad.Lo conocido sobre el tema–El envejecimiento poblacional y el incremento de enfermedades crónicas entrañan importantes retos en cuanto a la disponibilidad y acceso a la información clínica.–La actual falta de integración de los registros entre niveles asistenciales dificulta disponer de una visión global de la salud del paciente crónico.Qué aporta este estudio–Existe una baja concordancia entre las enfermedades crónicas registradas en atención primaria y hospitalaria.–Estas diferencias son bidireccionales existiendo diagnósticos «ausentes» en ambos niveles asistenciales.–Esta realidad cuestiona el uso aislado de registros de un único nivel asistencial en investigación epidemiológica de enfermedades crónicas.
+
+
+- FINANCIACIÓN
+
+Beca FIS 11/01126 del Instituto de Salud Carlos III.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

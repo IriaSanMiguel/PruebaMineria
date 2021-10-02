@@ -1,0 +1,87 @@
+EFECTIVIDAD DE UN NUEVO MODELO DE DERIVACIÓN TELEFÓNICA COMPARTIDA ENTRE ATENCIÓN PRIMARIA Y ATENCIÓN HOSPITALARIA
+
+
+- INTRODUCCIÓN
+
+La mejora de la continuidad asistencial es uno de los grandes objetivos del Sistema Andaluz de Salud desde el año 2000. Podemos dividirla en 3 niveles: continuidad de la gestión (es la coordinación de la atención, provisión de diferentes tipos de atención sanitaria de manera que se complementen entre sí y no se dupliquen), continuidad de información (se atribuye al flujo de información, o sea, la disponibilidad, utilización e interpretación de acontecimientos anteriores de un paciente) y continuidad de relación (permanencia de relación interpersonal, relación en el tiempo de un paciente con un proveedor).
+Uno de los principales problemas que existen para que se dé una correcta continuidad asistencial es la falta de comunicación entre los profesionales, siendo este problema detectado con frecuencia, . Esta falta de comunicación, favorecida por la falta de conocimiento del trabajo ajeno provoca unas convicciones erróneas y confrontación entre médicos de familia (MF) y médicos de atención hospitalaria (MAH).
+La mejora de la comunicación entre MF y MAH es una medida muy eficaz para mejorar las derivaciones, mejorando la priorización de los especialistas y la información obtenida por ambos médicos para manejar de forma idónea el cuidado de sus pacientes.
+Para mejorar dicha comunicación existen varias vías:
+En cuanto a telemedicina, que incluyen plataformas de consultas, consultas por vía email o telefónica a tiempo real o asincrónicas, se obtuvieron muy buenos resultados en los tiempos de espera, la disminución de citas presenciales en consulta especializada y la satisfacción de pacientes y profesionales, , , .
+Respecto a las consultas telefónicas, siempre a tiempo real y no programadas, mejoran el tiempo de respuesta, ofrece respuestas personalizadas, mejoran las relaciones entre compañeros, mejoran el conocimiento del médico consultante y, en los casos que no se puedan resolver las dudas en una consulta, se agilizan pruebas, impresiones y una posible consulta presencial, , , además de ser uno de los recursos preferidos para las respuestas de las preguntas clínicas que se hacen los MF. Pero también tiene varias barreras, como los problemas de comunicación, la información incompleta o fragmentada, , la dificultad para elegir al compañero al que consultar, interrupciones impredecibles con gasto de tiempo no programado, etc..
+Por todo ello, realizamos este estudio en el que creamos, como alternativa a la derivación física tradicional entre Atención Primaria (AP) y consultas externas de Medicina Interna (CCEE de MI), en la que el paciente se desplaza a la consulta del internista (derivación presencial), un sistema alternativo de derivación vía telefónica programada en el que el MF solicita una interconsulta telefónica, integrada dentro del horario de consulta de ambos médicos (derivación telefónica), con el objetivo de mejorar días de espera con respecto la consulta tradicional y eliminar las barreras de la consulta telefónica a tiempo real. También valoramos las causas por las que los pacientes y los MF no desearon emplear la derivación vía telefónica.
+Se eligieron las CCEE de MI porque en nuestra Área de Gestión Sanitaria, Norte de Huelva (AGSNH); esta especialidad asume interconsultas de otras especialidades que no existen en este área (p. ej., neurología o reumatología) u otras especialidades habitualmente saturadas (cardiología, neumología, digestivo, etc.), atendiendo a una gran cantidad de pacientes.
+
+
+- MATERIAL Y MÉTODO
+
+-- DISEÑO DEL ESTUDIO, CENTRO Y SELECCIÓN DE LOS PARTICIPANTES
+
+Ensayo clínico controlado y aleatorizado, sin enmascaramiento realizados con pacientes de las 6 zonas básicas de salud del AGSNH.
+Para la selección de los pacientes se realizó una aleatorización por bloques, aleatorizando a los MF que desearon participar por número decreciente de derivaciones realizadas a MI en 2014 y se los dividió, de forma aleatoria simple, a través de una tabla de números aleatorios, en grupo experimental o control. Una vez aleatorizados los MF, se abrieron huecos de 15 min en las agendas, tanto de MF como internistas, para interconsultas telefónicas (para las interconsultas presenciales los internistas disponen de 30 min por paciente) tras estimar el número de derivaciones telefónicas que se realizarían. Posteriormente, se comenzó con el periodo de derivación (del 1 de marzo al 10 de junio del 2016), donde cada MF derivó a sus pacientes mediante interconsulta telefónica o presencial en función de su grupo. El día de la cita, en el grupo experimental, el MF llamaba a un teléfono solamente dedicado a dicha interconsulta telefónica con el paciente presente y con el manos libres del teléfono conectado. En dicha consulta se consensuaban tratamientos, pruebas complementarias y previsibles revisiones por vía telefónica o presencial, dejando constancia de todo en la historia digital. Se enviaron al domicilio del paciente las solicitudes, los consentimientos y las citas correspondientes para las pruebas complementarias, que se tendrían que realizar bien en el centro de salud (analíticas, radiografías) o en el hospital.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Todos los pacientes derivados por su MF a CCEE de MI.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Criterios de exclusión para MF: MF que no participaron en el estudio y a cuyos pacientes, por tanto, nunca se les ofreció la posibilidad de la derivación telefónica:
+MF que aceptaron participar en el estudio, pero que finalmente no participaron en el mismo por cualquier motivo. Consideramos estos MF a aquellos que:–Perteneciendo al grupo control, no recogieron los datos de al menos el 50% de sus pacientes derivados a MI.–Perteneciendo al grupo experimental, no solicitaron ninguna interconsulta telefónica.
+Criterios de exclusión para pacientes: en este caso, sí se valoró la posibilidad de incluir a los pacientes en el estudio pero o el paciente o el MF consideraron que no era oportuna dicha inclusión.a.Pacientes cuyo MF, perteneciendo al grupo experimental, considere que no se beneficiará de la derivación telefónica por cualquier razón y solicite derivación presencial.b.Pacientes que no deseen la derivación telefónica, aun cuando su MF pertenezca al grupo experimental.
+
+
+-- VARIABLES REGISTRADAS, TÉCNICAS DE MEDIDA Y SEGUIMIENTO DE LOS PARTICIPANTES
+
+Como variables basales sociodemográficas de los pacientes registramos: sexo, edad, índice de ruralidad de la población en la que reside (índice que indica la cantidad de ruralidad, siendo cero el valor medio de ruralidad; para su elaboración se ha tenido en cuenta el envejecimiento de la población, la dependencia económica, la ocupación agropecuaria, la habitabilidad de las viviendas y la densidad de población) y distancia al Hospital de Riotinto desde su población.
+Para los MF registramos las mismas variables además de: número de derivaciones a CCEE de MI en 2014 y número de tarjetas sanitarias ajustadas por edad, que hace referencia a un número que se le aplica a cada paciente con tarjeta sanitaria en función de su edad siendo:–1 para pacientes de 7 a 64 años;–2 para pacientes de 65 a 74 años;–4 para pacientes mayores de 75 años, y–2 para pensionistas menores de 65 años.
+Como variable dependiente calculamos los días de espera para interconsulta con MI como el número de días transcurridos entre el día de la solicitud de interconsulta por parte del MF y el día de la misma.
+También se recogieron las causas de rechazos. Para ello creamos un cuestionario para los MF donde aparecían: rechazo del paciente y 6 posibles causas de rechazo de los MF , basándonos en las barreras más frecuentes detectadas en otros estudios, , , y en algunos problemas detectados por nosotros.Figura 1
+El registro de las variables se realizó por 2 vías, a través de una hoja de recogida de datos y a través de los datos existentes en el sistema de historia clínica digital DIRAYA del Sistema Andaluz de Salud.
+El seguimiento de cada paciente se realizó hasta el día de su consulta en MI.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se analizaron las variables independientes de los MF de los grupos experimental y control, y de los MF excluidos mediante el cálculo de la media (± desviación típica) para las variables que cumplen criterios de normalidad en los 3 grupos y de la mediana (± rango intercuartílico) en las que no los cumplen en alguno de los grupos.
+Para valorar la existencia diferencias estadísticamente significativas intergrupales en las variables independientes se aplicaron test de la chi al cuadrado para el sexo, el test de ANOVA para las variables que cumplían criterios de normalidad (se usa corrección de Welch para distancia al hospital por desigualdad de varianzas) y el test no paramétrico de Kruskall-Wallis para las que no lo cumplían, con un nivel de significación del 0,05 y un intervalo de confianza del 95%.
+De la misma manera, se trataron las variables independientes de los pacientes de los 3 grupos.
+Posteriormente, se compararon las medianas de los días de espera de las 2 muestras (grupo experimental y control) mediante la técnica no paramétrica de U de Mann-Whitney, con un nivel de significación del 0,01 y un intervalo de confianza del 99% al no cumplirse la condición de normalidad en dicha comparación, aplicando posteriormente la técnica de diferencia de medianas de Hodges-Lehman para muestras independientes.
+A nivel descriptivo también analizamos las causas de exclusiones, tanto de MF como de pacientes.
+
+
+- RESULTADOS
+
+De los 58 MF del AGSNH, 50 aceptaron participar y, de estos, fueron excluidos 6 del grupo experimental y 13 del grupo control, por reunir los criterios de exclusión. De estos 50 MF se excluyó a 6 del grupo experimental y a 13 del grupo control por reunir alguno de los criterios de exclusión para MF, quedando 14 MF en el grupo experimental y 17 en el control.
+Las variables sociodemográficas de los MF incluidos y excluidos en el estudio están descritas en la tabla 1, no encontrándose diferencias estadísticamente significativas entre los grupos.
+Los 17 MF del grupo control derivaron a 107 pacientes y los 14 MF del grupo experimental derivaron a 92 pacientes, de los cuales 46 (50%) se mandaron por vía telefónica y 46 pacientes (50%) por vía presencial. Estos últimos 46 pacientes fueron rechazados para el estudio por cumplir uno de los criterios de exclusión para pacientes , siendo «la complicación de los pacientes para el manejo desde AP» el criterio más frecuente.
+Con respecto a los MF excluidos, los 8 excluidos inicialmente rechazaron la participación en el estudio porque consideraban que les iba a consumir mucho tiempo o esfuerzo. La misma causa aportaron los 6 MF del grupo experimental que fueron excluidos posteriormente. De los 13 MF excluidos del grupo control, las causas fueron para uno de ellos, que la recogida de datos le iba a suponer mucho tiempo y esfuerzo, y los otros 12 médicos refirieron que no se acordaron de hacer la recogida de datos.
+Las variables sociodemográficas de los pacientes están descritas en la tabla 2, hallándose diferencias estadísticamente significativas entre los 3 grupos de pacientes con respecto a la distancia al Hospital de Riotinto desde su población. Pero al analizar los grupos 2 a 2, nos encontramos que el grupo que provoca las diferencias es el control, con una diferencia de mediana de 8 km con respecto al grupo experimental y al de pacientes excluidos.
+Con respecto a la comparación acerca de los días de espera para interconsulta con MI, obtenemos una diferencia estadísticamente significativa (p < 0,01), con una estimación de 27 (21-34) días de diferencia entre ambos grupos .
+Al final del estudio, se dedicó a la consulta telefónica el 9,3% del tiempo total dedicado a primeras consultas desde AP. Las derivaciones telefónicas supusieron alrededor de un 9% de todas las derivaciones a MI, con lo cual dicha organización no le dio más tiempo a ninguno de los 2 tipos de derivación.
+
+
+- DISCUSIÓN
+
+A tenor de los resultados expuestos, podemos afirmar que la derivación telefónica asincrónica reduce considerablemente el número de días de espera en 34 días (IC del 99%), con respecto al método de derivación presencial a MI, aunque la aceptación fue tan solo del 50% de los pacientes del grupo experimental.
+Comparado con estudios de consulta telefónica inmediata, se pierde la inmediatez pero se eliminan las importantes barreras de estas consultas comentadas en la introducción, , , , , , , . Además, con respecto al estudio de Moreno-Ramírez et al., en el cual se empleó un sistema asincrónico de derivación mediante telemedicina, la reducción media de demora que hemos registrado en nuestro estudio es mucho mayor (77% vs. 36%).
+Con relación a los motivos de rechazo a participar de los MF, el gasto de tiempo y esfuerzo excesivo fue la única causa, lo cual contrasta con la causas reales de exclusión que refirieron los MF del grupo experimental, los cuales solamente esgrimieron ese motivo en el 8,7% de los pacientes excluidos.
+Consideramos inicialmente que los pacientes que tuvieran cerca el hospital podrían rechazar más la derivación telefónica pero al no haber diferencias entre el grupo de excluidos y el grupo experimental, consideramos irrelevante la pequeña diferencia encontrada en el grupo control.
+En cuanto a la baja cobertura de la derivación telefónica (50% de los pacientes del grupo experimental), creemos que con una mejor organización para que los internistas puedan atender a los MF en la hora exacta de la cita, y con la normalización de dichas consultas en el tiempo, se puede disminuir los rechazos por todas las causas excepto en el caso de los pacientes complejos en los que no consideramos adecuada este tipo de derivación, lo cual nos hace valorar la derivación telefónica más como una derivación complementaria a la presencial que como una sustituta de la misma.
+Como principal implicación en la práctica clínica, aparte de la notable reducción de los días de espera para ser atendidos por un médico especialista, destacamos la petición precoz de pruebas complementarias, que lógicamente resultarán en un diagnóstico también lo más precoz posible, acortándose los tiempos de resolución de los problemas de salud.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+No consideramos beneficioso este tipo de derivación para pacientes complejos (34,8% de pacientes excluidos), cuyos diagnósticos no estén más o menos orientados desde AP o que precisan un manejo o una exploración clínica más especializada.
+La sobrecarga y la mala relación actual entre AP y hospital han provocado el rechazo a participar en el estudio de un buen número de médicos de AP que creen que les va a suponer un malgasto de tiempo y esfuerzo en beneficio de la administración y los internistas.
+Además, existieron algunos problemas en la comunicación telefónica, ya que las citas telefónicas se pactaron que estuviesen en mitad de la agenda de ambos médicos y, en algunas ocasiones, se retrasaban las llamadas cuando alguno de los médicos iba retrasado.
+Por tanto, creemos que nuevos estudios de mayor duración y con mayores facilidades para adaptar la derivación telefónica, tanto a las CCEE de MI como a consultas externas de otras especialidades, son necesarios para corroborar o mejorar los datos obtenidos en este estudio.
+Además, consideramos necesario realizar un seguimiento posterior de los pacientes para ver si esta derivación mejora a largo plazo los días de espera para resolución del problema por el que fue derivado.Lo conocido del tema–Las derivaciones presenciales tienen largas esperas, habitual falta de información y problemas de comunicación entre médicos que repercuten en el paciente.–Las consultas telefónicas inmediatas dan respuestas personalizadas y rápidas pero sobrecargan a los médicos y los consejos pueden partir de información incompleta entre otros problemas.¿Qué aporta este estudio?–Con la consulta telefónica programada se disminuye a más de la mitad los días de espera para consulta de Medicina Interna.–Se obtienen respuestas personalizadas, no suponen sobrecarga para los médicos, no existe información incompleta y se evitan desplazamientos innecesarios a los pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

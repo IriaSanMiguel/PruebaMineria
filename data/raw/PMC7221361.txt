@@ -1,0 +1,41 @@
+INFILTRACIÓN CON ONABOTULINUMTOXINA Y BLOQUEOS EN EL PACIENTE CON CEFALEA Y NEURALGIA: RECOMENDACIONES DE SEGURIDAD FRENTE A LA INFECCIÓN POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+El brote de neumonía viral que se inicia en la ciudad de Wuhan (China) en diciembre del pasado año se ha transformado en una pandemia de carácter global. La Organización Mundial de la Salud (OMS) declaró la epidemia como urgencia de salud pública de interés internacional el 30 de enero de 2020. En febrero de 2020 se establece una denominación taxonómica oficial para el nuevo virus, coronavirus (CoV) tipo 2 asociado al síndrome respiratorio agudo grave (SARS) o SARS-CoV-2, y para la enfermedad que causa, COVID-19 (coronavirus disease 2019), .
+Este virus se transmite por vía respiratoria mediante microgotas que se dispersan uno o 2 m al hablar o toser. Sabemos que permanece en superficies lisas durante un período de tiempo indeterminado, que puede llegar a ser de 72 h cuando el material es plástico o acero inoxidable. Tras la publicación del Real Decreto 463/2020 de 14 de marzo, con relación al estado de alarma para la gestión de la crisis sanitaria ocasionada por la COVID-19, nos hemos visto obligados a modificar nuestra práctica asistencial.
+Los datos del estudio PALM (Plan de Acción en la Lucha contra Migraña) indican que, en nuestro país, la migraña afecta aproximadamente al 12% de la población general (prevalencia a un año) (18% mujeres, 8% hombres). En su forma crónica, dicha cifra pasa a ser de un 2,4%, en dependencia del área geográfica estudiada y del método utilizado. A partir de este estudio se elabora un mapa nacional de migraña por comunidades autónomas, con variaciones geográficas significativas que oscilan desde un 7,6% en Navarra, la cifra más baja, hasta un 18% en Canarias. A día de hoy, el tratamiento con onabotulinumtoxinA (OnabotA) y bloqueos anestésicos (BAs) es necesario para reducir la frecuencia de los ataques de migraña, del número de días de cefalea al mes y, en definitiva, para mejorar la calidad de vida de nuestros pacientes.
+Nuestro objetivo es presentar una serie de recomendaciones que buscan garantizar un nivel adecuado de seguridad, tanto para los profesionales como para los pacientes, y están basadas en las medidas establecidas por nuestro sistema sanitario para evitar el contagio por SARS-CoV-2, adaptadas al medio de trabajo. Estas recomendaciones podrán modificarse en función de necesidades y/o aspectos locales de cada centro.
+Diferenciaremos entre aquellas medidas relacionadas con el paciente y el facultativo, con la técnica, con la infraestructura (sala de espera y consulta) y con la gestión asistencial (tabla 1 ).
+
+
+- MEDIDAS RELACIONADAS CON EL PACIENTE Y EL FACULTATIVO
+
+Debido a la alta capacidad de transmisión del SARS-CoV-2 es necesario guardar una distancia de seguridad mayor de 1,5 m para reducir el riesgo de contagio. La exploración del paciente con cefalea se realiza a menos de 30 cm, e incluso más cerca en algunas maniobras concretas (oftalmoscopia directa, palpación de estructuras cráneo-cervicales, entre otras). Por ello debe ser considerada de riesgo y manejada de acuerdo con las medidas estándares en esos casos, , . Además, los profesionales sanitarios podemos actuar como agentes transmisores de la enfermedad, por lo que debemos seguir estrictamente las medidas preventivas.1.Dado que la enfermedad se puede contagiar antes de que aparezcan los síntomas, y que en muchos pacientes es paucisintomática, todo sujeto debe ser considerado como potencial fuente de contagio.2.Es recomendable que todos los pacientes sean convenientemente evaluados antes de acceder a la consulta. Se busca de esta forma identificar la posible exposición al virus interrogando sobre la presencia de fiebre, malestar general, síntomas respiratorios (tos seca, disnea), ageusia, anosmia, diarrea o cefalea, así como la convivencia y/o contacto con algún individuo recientemente diagnosticado o en cuarentena por la COVID-19 en los últimos 14 días.3.El paciente, siempre que sea posible, debe acudir solo a la consulta y con mascarilla quirúrgica o higiénica desechable.4.Se recomienda el uso del pijama hospitalario por parte del facultativo.5.Se utilizarán guantes para la exploración de los puntos pericraneales y la aproximación deberá ser lateral al paciente. Además, es imprescindible disponer de mascarilla, siendo la más recomendable la tipo FFP2 (Filtering Face Piece) sin válvula de exhalación o FFP3. Si solo se dispone de mascarilla quirúrgica desechable, se recomienda el uso de dos. En pacientes de riesgo, es recomendable la utilización de bata desechable y pantalla plástica protectora. Podría utilizarse un equipo de protección individual (EPI) y/o bata quirúrgica.6.Es fundamental el lavado de manos y cambio de guantes entre pacientes. Nunca se tocará el material de la consulta con los guantes que se hayan utilizado para el procedimiento y/o exploración.7.Se debe desinfectar el material de exploración con solución alcohólica o, en su defecto, con agua y jabón.
+
+
+- MEDIDAS RELACIONADAS CON LA TÉCNICA
+
+Cuando se proceda a la aplicación terapéutica de OnabotA, BAs o punción seca se deben mantener, además de las recomendaciones descritas en el apartado anterior, las siguientes medidas:1.Utilizar pantallas plásticas protectoras o de metacrilato, mejor que gafas. Dada la persistencia del virus en las superficies plásticas, se limpiarán con algún desinfectante, como alcohol, y por ambas caras, tras cada uso.2.El paciente estará en decúbito supino y, de esta forma, la aproximación será cenital. En caso de no ser posible, el paciente permanecerá en sedestación. En el primer supuesto, se procederá posteriormente a sustituir el papel o sábana de la camilla.3.Se limitará el número de procedimientos por consulta en la medida de lo posible, priorizando aquellos con mayor nivel de evidencia.
+
+
+- MEDIDAS RELACIONADAS CON LA INFRAESTRUCTURA
+
+En este caso las recomendaciones pueden extrapolarse a cualquier consulta y sala de espera:1.Se aconseja un acompañante como máximo y solo cuando sea estrictamente necesario.2.La distancia entre individuos será de 2 m. Es conveniente evitar que los pacientes se acumulen.3.La desinfección de todas las superficies (pomos y manecillas, mostradores, teléfonos, equipo informático, bolígrafos, entre otras) se deberá realizar de forma continuada.4.Es importante la presencia de carteles informativos con las medidas higiénicas recomendadas por el Ministerio y los Servicios de Prevención de Riesgos Laborales.5.Los pacientes entrarán en la consulta solos y se lavarán las manos con gel hidroalcohólico antes y después de acceder a la consulta. Para ello se colocarán dispensadores en la sala de espera.
+
+
+- MEDIDAS RELACIONADAS CON LA GESTIÓN DE LA CONSULTA DE CEFALEA
+
+La situación de pandemia sin ninguna duda va a generar una importante demora en la atención de nuestros pacientes. Es por ello que, a partir de ahora, tendremos que diseñar estrategias que faciliten la gestión de la lista de espera, de acuerdo con los indicadores de calidad de las unidades de cefalea:
+
+
+- CONCLUSIONES
+
+La rápida propagación del SARS-CoV-2 y la situación de pandemia van a condicionar una serie de cambios en el manejo de los pacientes con migraña, en relación, fundamentalmente, con la gestión de las listas de espera y la adopción de nuevas herramientas que permitan una asistencia integral en el marco de la normativa de seguridad vigente.
+El tratamiento con OnabotA y BAs constituye una de las piedras angulares en el manejo de la migraña. La práctica de estos procedimientos con la mayor rigurosidad, de cara a garantizar la seguridad de nuestros pacientes, y preservando la normativa vigente, es un ejercicio de responsabilidad por nuestra parte.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,77 @@
+VARIABLES DEL CONFINAMIENTO POR COVID-19 PREDICTORAS DE SINTOMATOLOGÍA ANSIOSA Y DEPRESIVA EN MUJERES EMBARAZADAS
+
+
+- INTRODUCCIÓN
+
+La declaración de la pandemia por la COVID-19 en el mundo ha llevado a un importante aumento de sintomatología ansiosa en la población, debido al miedo al contagio, así como un empeoramiento en la calidad del sueño, .
+Poblaciones específicas como las mujeres embarazadas pueden ver acrecentada esta sintomatología, tanto por la etapa evolutiva en la que viven como por la creciente preocupación debido a la posible transmisión vertical del virus a su feto.
+Hasta el momento, no existen estudios que hayan comprobado las variables psicológicas y de confinamiento que se relacionan con la sintomatología ansiosa y depresiva derivada de la situación de confinamiento. Por ello, el objetivo de esta investigación fue comprobar qué variables de confinamiento (tipo de vivienda, soledad, miedo al contagio, frecuencia de videollamadas o dieta) y qué variables psicológicas (estrés específico del embarazo, estrés percibido, resiliencia e insomnio) predicen la sintomatología ansiosa (obsesiones y compulsiones, ansiedad y ansiedad fóbica) y depresiva en mujeres embarazadas durante el confinamiento impuesto en España con motivo de la pandemia de la COVID-19.
+
+
+- MATERIAL Y MÉTODOS
+
+-- PARTICIPANTES
+
+Un total de 131 mujeres embarazadas participaron en este estudio, con una media de edad de 32,95 años (DT = 4,75) y una media de 27,20 semanas de embarazo (DT = 8,74).
+Todas las participantes dieron su consentimiento informado de forma voluntaria, que se llevó a cabo de conformidad con la Declaración de Helsinki (Asociación Médica Mundial, 2013) y la Directiva sobre Buenas Prácticas Clínicas (Directiva 2005/28/CE) de la Unión Europea. El protocolo fue aprobado por el Comité de Ética de Investigación Humana de la Universidad de Granada (código de referencia 1580/CEIH/2020).
+
+
+-- INSTRUMENTOS
+
+En primer lugar, se recogieron variables sociodemográficas y obstétricas de las participantes, tales como edad, semana de gestación, nivel de estudios, etc.
+En lo relativo a las variables de confinamiento se recogieron las siguientes variables:-Situación en relación con la pandemia: tipo de vivienda (casa grande, casa mediana, piso pequeño), sentimiento de soledad y miedo al contagio.-Hábitos y actividades durante el confinamiento: frecuencia con la que se han realizado llamadas y/o videollamadas con seres queridos y frecuencia con la que se ha mantenido una dieta saludable.
+En segundo lugar, para evaluar la sintomatología ansiosa y depresiva se usó la Symptom Checklist-90 Revised (SCL-90-R, «Escala de 90 Síntomas Revisada».
+Para completar la evaluación psicológica, se usó el Prenatal Distress Questionnaire (PDQ, «Cuestionario de Preocupaciones Prenatales»; para evaluar estrés específico del embarazo, la Escala de Estrés Percibido (EEP-14); para estrés general, la Connor-Davidson Resilience Scale (CD-RISC, «Escala de Resiliencia Connor-Davidson») y la Athens Insommia Scale (AIS, «Escala de Insomnio de Atenas»).
+
+
+-- PROCEDIMIENTO
+
+Se elaboró una batería de preguntas usando la plataforma de encuestas Google Forms. La difusión del cuestionario comenzó tras el primer mes de confinamiento en España, y finalizó con la primera fase de la desescalada hacia la Nueva Normalidad, en la cual se permitía salir a dar paseos.
+
+
+-- ANÁLISIS DE DATOS
+
+En primer lugar, se realizó un análisis descriptivo y de frecuencias de las principales variables sociodemográficas.
+Con el objetivo de conocer qué características del confinamiento, así como qué variables psicológicas influyen en la sintomatología ansiosa y depresiva, se realizaron análisis lineales de regresión jerárquica, en los que las variables dependientes fueron las puntuaciones de la sintomatología ansiosa y la sintomatología depresiva. Las variables independientes fueron incluidas en el modelo por el método de introducir; en el primer paso se incluyeron las covariables edad y semana de gestación (Bloque 1); en el segundo paso, las variables del confinamiento (Bloque 2); finalmente, en el tercer paso, se incluyeron las puntuaciones psicológicas (Bloque 3).
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN DE LA MUESTRA
+
+Los resultados descriptivos pueden verse en la tabla 1 .
+
+
+-- VARIABLES PREDICTORAS DE LA SINTOMATOLOGÍA ANSIOSA Y DEPRESIVA EN MUJERES EMBARAZADAS DURANTE LA COVID-19
+
+En el primer modelo, con relación a las variables predictoras de las puntuaciones obtenidas en obsesiones y compulsiones, en el Bloque 3, este modelo mostró una varianza explicada hasta un 39% siendo las variables predictoras la frecuencia de videollamada (β = −0,170; p < 0,05), y las puntuaciones del PDQ (β = 0,255; p < 0,001), EEP (β = 0,195; p < 0,05) e insomnio (β = 0,003; p < 0,001).
+El modelo 2, cuya variable dependiente fue ansiedad, en el Bloque 3, el modelo tenía una varianza explicada del 43% siendo las variables predictoras la soledad (β = 0,215; p < 0,01), el miedo al contagio (β = 0,176; p < 0,05), las puntuaciones del EEP (β = 0,354; p < 0,001) e insomnio (β = 0,262; p < 0,01).
+En el modelo 3, el Bloque 3, con un 28% de la varianza explicada mostró el poder predictivo de la edad (β = 0,160; p < 0,05) y el miedo al contagio (β = 0,363; p < 0,001), incluyéndose además las puntuaciones del PDQ (β = 0,207; p < 0,05).
+Finalmente, el cuarto modelo tiene como variable dependiente la depresión. En el Bloque 3, la varianza explicada alcanzó el 45%, con la soledad (β = 0,207; p < 0,01) y el miedo al contagio (β = 0,139; p < 0,05) y las puntuaciones del EEP (β = 0,307; p < 0,001) como variables predictoras.
+Los estadísticos de tolerancia (> 0,70) y VIF (< 10) fueron adecuados, por lo que se descarta la existencia de colinealidad entre las variables independientes.
+Estos datos y el resto de variables y bloques de cada modelo pueden consultarse en la tabla 2 .
+
+
+- DISCUSIÓN
+
+El objetivo de este estudio fue comprobar qué variables de confinamiento y psicológicas predecían la sintomatología ansiosa y depresiva en mujeres embarazadas ocasionada por la pandemia.
+En primer lugar, las obsesiones y compulsiones en mujeres embarazadas aumentan según el grado de estrés específico del embarazo, estrés percibido e insomnio, y se ven paliadas por la frecuencia de las videollamadas con familiares. Las preocupaciones que componen el estrés específico, así como la cantidad de cuidados que estas mujeres precisan, se unen a la necesidad de mantener una higiene extrema para evitar el contagio, lo cual podría explicar que influya en el aumento de las obsesiones y compulsiones en esta población.
+En segundo lugar, en relación con la ansiedad, además del estrés percibido y el insomnio, aumenta con los sentimientos de soledad y el miedo al contagio. Estos resultados van en la línea de los encontrados por Wang et al., ya que se ha asociado el estrés generado por la pandemia provocada por el COVID-19 al miedo al contagio y sus adversas consecuencias. Además, la restricción de libertades que ha traído consigo el confinamiento ha aumentado los sentimientos de soledad en la población.
+En el caso de la ansiedad fóbica, en mujeres embarazadas aumentaría con la edad, el miedo al contagio y el estrés específico del embarazo. Según se incrementa el miedo al contagio y el número de preocupaciones, aumentaría la sintomatología fóbica, lo cual concuerda con los miedos experimentados por esta población, tanto a contagiarse, como a la transmisión vertical del virus al feto.
+Por último, la sintomatología depresiva en el confinamiento aumenta con la soledad, el miedo al contagio y el estrés percibido. Estos resultados se explican dada la estrecha relación que tiene la soledad y el estrés con la depresión.
+Por tanto, teniendo en consideración todos los modelos predictivos, parece que las variables que más se repiten en el empeoramiento de la sintomatología ansiosa y depresiva son el miedo al contagio, la soledad y el estrés experimentado, por encima de otras variables propias del confinamiento, como puede ser el tipo de vivienda.
+
+
+- CONCLUSIONES
+
+El embarazo es un período muy sensible y requiere de una atención especial, por lo que estos resultados tienen importantes implicaciones ya que conocer las variables relacionadas con el estado de ansiedad y depresión de esta población nos ayudaría a desarrollar medidas de carácter preventivo de cara a futuros rebrotes y confinamiento por causa de esta enfermedad u otras parecidas.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha sido financiado por el Proyecto Frontera «A-CTS-229-UGR18» de la Consejería de Economía, Conocimiento, Empresas y Universidad de la Junta de Andalucía, y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER). Además, el Sr. José Antonio Puertas-González cuenta con una beca de investigación individual (Ministerio Español de Ciencia, Innovación y Universidades de España, programa FPU, número de referencia 18/00617), así como el Dr. Borja Romero-González (Ministerio Español de Economía, Industria y Competitividad, Programa FPI, número de referencia BES-2016-077619).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen conflictos de intereses.

@@ -1,0 +1,81 @@
+ACTUACIONES INADECUADAS EN VACUNACIÓN DE ADULTOS
+
+
+- INTRODUCCIÓN
+
+Desde el inicio de las iniciativas «do not do», la semFYC ha intentado extender las recomendaciones a todas las áreas temáticas posibles. El área de vacunación de adultos no es ajena a dicha intervención.
+El hecho de considerar a las vacunas como armas terapéuticas preventivas no es óbice para que el uso inadecuado de las mismas o de las pruebas que su utilización conlleva pueda producir, en primer lugar, un riesgo para la salud de los pacientes y, en segundo lugar, un uso inadecuado de recursos, de máxima importancia en el contexto de limitación de recursos económicos que vivimos en la actualidad.
+El presente documento proporciona 9 recomendaciones concretas basadas en la revisión de todas las evidencias científicas disponibles hasta el momento.
+
+
+- RECOMENDACIÓN 1. NO UTILIZAR VACUNAS QUE HAYAN PODIDO ROMPER LA CADENA DEL FRÍO
+
+Las vacunas son fármacos termosensibles y esta termosensibilidad es muy variada. Para lograr el mejor efecto protector de las vacunas y minimizar sus posibles reacciones adversas, deben conservarse en frío (+2-8 ̊C) y protegidas de la luz directa del sol. La cadena de frío es un sistema organizado de transporte, almacenamiento y distribución de vacunas en las condiciones térmicas recomendadas, de modo que se garantice el mantenimiento de la potencia inmunizante desde su fabricación hasta su administración. Debe ser mantenida por personal adiestrado, pues de ella dependen la efectividad y la seguridad del programa de vacunaciones, .
+En los últimos años, debido a la demanda insatisfecha por desabastecimiento, muchas personas se han desplazado a Francia o Portugal para adquirir vacunas como la de la varicela o la antimeningocócica B. La utilización de neveras portátiles para su transporte debe ser excepcional y durante el menor tiempo posible. También estamos asistiendo a un comercio creciente de vacunas por Internet, con una dudosa trazabilidad y garantías de conservación.
+En el caso de viajeros que deban adquirir vacunas en farmacia para su posterior administración en el centro de salud se recomienda adquirirlas el mismo día del acto vacunal, a poder ser con escaso tiempo de antelación. Si no puede ser así, la vacuna se conservará en frigorífico en la zona que garantice +2-8 ̊C.
+
+
+- RECOMENDACIÓN 2. NO REINICIAR LA VACUNACIÓN UNA VEZ HAYA COMENZADO AUNQUE SE HAYAN ALARGADO LOS INTERVALOS ENTRE DOSIS MÁS DE LO RECOMENDADO EN FICHA TÉCNICA
+
+Las vacunas, en función de su composición y su capacidad para estimular la inmunidad y la duración de esta, pueden requerir pautas con una o más dosis, y en este segundo caso con intervalos mínimos y/o máximos según lo recomendado en ficha técnica, que siempre se debe basar en los correspondientes estudios que avalen dichas pautas.
+Una vez se haya iniciado una pauta de vacunación para una determinada vacuna, en el caso en el que el intervalo entre las dosis consecutivas se haya alargado más de lo recomendado en ficha técnica, no debe reiniciarse la vacunación, . Un intervalo mayor favorece la respuesta inmunológica. Se debe continuar con la pauta inicial siempre que se respete el intervalo mínimo entre dosis. Dosis puesta es dosis ya contada.
+
+
+- RECOMENDACIÓN 3. NO DEJAR DE VACUNAR PORQUE HAYA HABIDO REACCIONES LOCALES EN ANTERIORES OCASIONES
+
+Las reacciones adversas con las vacunas, al igual que sucede con cualquier fármaco, tienen una incidencia y un grado de severidad variables en función de múltiples circunstancias. Pueden ser reacciones debidas a la propia vacuna, al acto vacunal, a una administración incorrecta o a reacciones que simplemente coinciden con el acto vacunal pero no achacables a la vacuna. La mayoría de estas reacciones son leves y locales. No se debe dejar de vacunar a personas que en anteriores ocasiones hayan tenido reacciones locales en el acto vacunal. No se consideran reacciones alérgicas y no suponen una contraindicación para la vacunación, , .
+
+
+- RECOMENDACIÓN 4. NO REALIZAR DETECCIÓN POSVACUNAL DE ANTICUERPOS FRENTE A LA HEPATITIS A
+
+La hepatitis A está causada por un virus (VHA) transmitido a través de las heces de personas infectadas, por contacto de persona a persona o por ingestión de alimentos o bebidas contaminadas. En España, dadas las mejoras higiénico-sanitarias llevadas a cabo en las últimas décadas, ha disminuido la incidencia y la prevalencia de la hepatitis A (en menores de 20 años, menos del 20% presenta anticuerpos positivos, mientras que asciende al 70% en mayores de 50), siendo considerado actualmente un país de baja endemicidad. Sin embargo, aún se producen brotes que afectan a la población adulta, donde la clínica de la enfermedad es más acusada, con un aumento de la morbimortalidad. La infección por VHA, por lo general, produce una infección aguda y autolimitada, y raramente progresa a fallo hepático fulminante (≈ 0,2% de los casos clínicos), si bien este riesgo es más significativo en pacientes mayores de 50 años y con hepatopatías crónicas.
+En España la vacuna frente a la hepatitis A está recomendada en personas que viajen a zonas de alto riesgo de contagio, en determinados colectivos y profesiones y en brotes. Está incluida en calendario vacunal sistemático en algunas comunidades autónomas (Ceuta, Melilla y Cataluña).
+La inmunogenicidad de la vacuna es muy alta y ello confiere títulos protectores cercanos al 100% de los vacunados con 2 dosis, por lo que no se considera necesaria la detección posterior de anticuerpos en personas inmunocompetentes.
+
+
+- RECOMENDACIÓN 5. NO REALIZAR DE FORMA RUTINARIA LA DETERMINACIÓN POSVACUNAL DE ANTICUERPOS FRENTE A LA HEPATITIS B EN NIÑOS Y ADOLESCENTES
+
+En España la vacuna frente a la hepatitis B está incluida en el calendario vacunal oficial desde 1990 y tenemos coberturas por encima del 95% en la infancia.
+Hasta el momento actual no se han documentado casos de portadores crónicos del virus de la hepatitis B en personas vacunadas previamente. En cambio, está perfectamente documentada la desaparición del nivel de anticuerpos circulantes con el tiempo transcurrido desde la vacunación. A pesar de la disminución de Ac anti-HB o incluso de su indetección hay protección frente a la enfermedad clínica, demostrable por el rápido aumento de los títulos anti-HB con una dosis de refuerzo en personas previamente vacunadas. Este aumento es debido a la inmunidad celular que ante el Ag viral o vacunal provoca una respuesta celular anamnésica, .
+Por lo que no existe indicación para documentar la seroconversión anti-HB en personas sanas correctamente vacunadas.
+Solamente se recomienda el estudio de marcadores, cada 6-12 meses, en hijos de madres AgHB+, pacientes en hemodiálisis, personas portadoras del VIH, personas con riesgo ocupacional, pacientes inmunocomprometidos con riesgo de exposición al VHB, y personas en contacto con personas AgHB+. La serología posvacunación debe efectuarse entre 4 y 8 semanas después de la administración de la última dosis de la vacuna. Si se presentan niveles adecuados de anti-HB (> 10 mUI/mL), no hay que hacer nada más. No se deben realizar determinaciones seriadas de anticuerpos tras la vacunación.
+
+
+- RECOMENDACIÓN 6. NO ADMINISTRAR MÁS DE 2 TANDAS DE VACUNA FRENTE A LA HEPATITIS B EN PERSONAS SANAS CORRECTAMENTE VACUNADAS
+
+Hay tres grandes grupos de personas no respondedoras tras la vacunación:•Inmunodeprimidos.•Individuos sanos con falta de respuesta genéticamente determinada.•Mala respuesta por vacuna defectuosa o mala técnica en la administración de la misma.
+En personas sanas vacunadas con 3 dosis de vacuna que no hayan respondido con nivel suficiente de anticuerpos se realizará una segunda tanda de vacunación con 3 dosis y se realizará una segunda determinación de anticuerpos 1-2 meses después de la tercera dosis. Si esta segunda determinación también resulta con niveles insuficientes, se considerará a la persona no respondedora, , y no se le administrarán más dosis de vacuna frente a la hepatitis B.
+
+
+- RECOMENDACIÓN 7. NO INDICAR LA VACUNACIÓN CON VACUNA ANTITETÁNICA EN
+
+Adultos varones menores de 60 años y mujeres menores de 50 años que hayan nacido en España y que no dispongan de cartilla de vacunación o no se tenga constancia en registros de vacunación, pero que sean conscientes de haber recibido las vacunas correspondientes según edad, hayan estado escolarizados y/o se constate o recuerden que han recibido alguna dosis de vacuna con componente tetánico con anterioridad (bien en forma de vacunas combinadas tri/penta/hexavalentes) y/o recuerden haber experimentado una reacción local importante (fenómeno de Arthus) tras alguna vacuna recibida con anterioridad, .
+Personas extranjeras nacidas posteriormente a 1981; se pueden revisar los datos de cobertura en su país de origen publicados por la OMS.
+
+
+- RECOMENDACIÓN 8. NO ADMINISTRAR RECUERDOS DECENALES DE LA VACUNA ANTITETÁNICA EN ADULTOS CORRECTAMENTE VACUNADOS
+
+Un adulto vacunado correctamente con 5 dosis solo debe recibir una sexta dosis al cumplir los 65 años. No se deben administrar recuerdos decenales.
+Dosis de recuerdo en adultos:
+Vacunados en la infancia correctamente según calendario vigente: se recomienda la administración de una única dosis de recuerdo a los 65 años.
+Vacunados en la infancia de forma incompleta: se administrarán las dosis de recuerdo necesarias hasta alcanzar un total de 5 dosis (incluyendo la primovacunación con 3 dosis) .
+Primovacunados en la edad adulta:
+En personas primovacunadas en la edad adulta con 3 dosis, se administrarán 2 dosis de recuerdo con un intervalo de 10 años entre dosis hasta completar un total de 5 dosis.
+En cuanto al intervalo mínimo entre dosis en las dosis de recuerdo, el primer recuerdo (o cuarta dosis) se administrará al menos 12 meses después de la tercera dosis de primovacunación y el segundo recuerdo (o quinta dosis) se administrará al menos 12 meses después del primer recuerdo.
+No existen intervalos máximos entre dosis, por lo que procede contabilizar toda vacuna antitetánica que respete los intervalos mínimos.
+La recepción de excesivas dosis antitetánicas más allá de lo indicado en las últimas recomendaciones no aporta protección adicional alguna y aumenta el riesgo de una reacción local severa, junto a manifestaciones de hipersensibilidad tipo «Arthus».
+
+
+- RECOMENDACIÓN 9. NO REVACUNAR CON VACUNA ANTINEUMOCÓCICA 23V A MAYORES DE 65 AÑOS SIN PATOLOGÍA DE BASE
+
+La enfermedad neumocócica se manifiesta en adultos fundamentalmente como neumonía no bacteriémica. La vacuna 23v recomendada en calendario vacunal oficial a todos los mayores de 65 años se debe administrar una sola vez. No se recomienda la revacunación salvo en personas con alto riesgo de infección neumocócica grave vacunadas hace más de 5 años, , , , , , , , , , , , , , , , .
+
+
+- PUNTOS CLAVE
+
+•En vacunas es fundamental conservar la cadena del frío y conocer la trazabilidad.•Siempre consultar la ficha técnica para conocer los intervalos mínimos y máximos recomendados.•Las reacciones locales son muy frecuentes en el acto vacunal y no suponen una contraindicación.•La inmunogenicidad de la vacuna frente a la hepatitis A es muy alta con 2 dosis. No es necesaria la detección posterior de anticuerpos en inmunocompetentes.•Tras una correcta vacunación frente a la hepatitis B, no realizar determinaciones seriadas de anticuerpos en personas sanas.•No administrar más de 2 tandas de vacuna frente a la hepatitis B en personas sanas correctamente vacunadas.•No administrar recuerdos decenales de vacuna antitetánica en adultos correctamente vacunados.•La vacuna 23v se debe administrar una sola vez. No se recomienda la revacunación salvo en personas con alto riesgo de infección neumocócica grave vacunadas hace más de 5 años.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún tipo de conflicto de interés.

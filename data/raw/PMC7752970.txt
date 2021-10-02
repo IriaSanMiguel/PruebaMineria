@@ -1,0 +1,52 @@
+LA INTELIGENCIA ARTIFICIAL Y SUS APLICACIONES EN MEDICINA II: IMPORTANCIA ACTUAL Y APLICACIONES PRÁCTICAS
+
+
+- IMPORTANCIA ACTUAL
+
+Existen numerosos campos donde la inteligencia artificial (IA) y la robótica han tenido diversas aplicaciones. En esta sección explicaremos algunas de las más importantes:
+
+
+- APLICACIONES EN MEDICINA
+
+Recientemente la IA ha comenzado a incorporarse a la medicina para mejorar la atención al paciente al acelerar los procesos y lograr una mayor precisión diagnóstica, abriendo el camino para brindar una mejor atención médica en general. Las imágenes radiológicas, las preparaciones de anatomía patológica y los registros médicos electrónicos de los pacientes se están evaluando mediante aprendizaje automático ayudando en el proceso de diagnóstico y tratamiento de los pacientes.
+De esta manera existen proyectos en la actualidad dedicados a explorar las aplicaciones de la IA en todas las facetas sanitarias: asistencial (prevención de enfermedades, diagnóstico, tratamiento y seguimiento de pacientes), docente o formación continuada, investigadora y gestora. A continuación se comentan algunos ejemplos concretos en las diferentes áreas de aplicación sanitaria.
+
+
+-- ASISTENCIAL
+
+
+?Una vez que se haya adelantado en el reconocimiento facial e interpretación de gestos podría establecer comunicación con dispositivos de asistencia domiciliaria urgente y videoconferencias ante situaciones de alerta de salud de la persona a quien cuida.?Podría ser un sistema de comunicación automática con dispositivos sociosanitarios.?Podría ser un entrenador en habilidades y ejercicios de rehabilitación física o mental.
+
+
+-- DOCENCIA Y FORMACIÓN CONTINUADA
+
+En casos de docencia con información compleja, que requiere entrenamiento de habilidades, y cuya ejecución tiene trascendencia social (como es el caso de la formación en las ciencias de la salud), la IA puede ofrecernos numerosas ventajas formativas ya que, a través de sus diferentes subcampos (como el aprendizaje automático, la lógica difusa o la interpretación del lenguaje natural) o aplicaciones, puede:
+
+
+-- INVESTIGACIÓN
+
+Cuando hablamos de la aportación de la IA a la investigación lo hacemos desde una doble perspectiva:
+
+
+-- GESTIÓN
+
+La gestión de recursos materiales y humanos también se puede beneficiar de la IA ya que al examinar grandes cantidades de datos procedentes de registros históricos se ayuda a prever los recursos necesarios en una situación concreta de manera que se optimiza el rendimiento, se impulsa la productividad y se mejora el uso de los recursos disponibles. Por ejemplo, en un servicio determinado se puede establecer cuál es la plantilla óptima a partir de múltiples variables de las cuales el propio sistema va aprendiendo su ponderación (día de la semana, franja horaria, retransmisión simultánea de eventos deportivos o tiempo atmosférico).
+Partes de la IA como la lógica difusa (que permite clasificar eventos que hasta ahora eran difícilmente clasificables) o la comprensión por parte de las máquinas del lenguaje natural humano pueden mejorar la clasificación de información o documentos. Así es posible que una red neuronal sea capaz de interpretar palabras que determinen mayor o menor confidencialidad del contenido de un texto y generar diferentes perfiles de acceso al mismo.
+
+
+- IMPLICACIONES ÉTICAS
+
+La automatización y la inclusión de los robots y las máquinas en general en la toma de decisiones que afectan a los seres humanos conllevan una serie de consideraciones éticas de gran importancia. Por un lado, la capacidad de cálculo por parte de las máquinas es mucho más rápida y precisa que la humana, pero existen variables no numéricas relacionadas con aspectos no tangibles que las máquinas aún no son capaces de incluirlas en sus procesos de decisión.
+Tener robots que realizan tareas mecánicas en situaciones de gran riesgo para los seres humanos (entornos contaminados biológicamente o de gran toxicidad, desactivación de explosivos, reparaciones en entornos incompatibles con la vida humana como grandes profundidades o medición de variables en situaciones extremas como el viento en un huracán) suponen una ventaja considerable para la sociedad.
+Los robots que realizan actividades cotidianas y repetitivas (realización de cientos de tests analíticos de laboratorio) suponen una descarga de tareas para el ser humano, pero esto puede provocar la desaparición de puestos de trabajo.
+Disponer de robots que realizan tareas complejas para la toma de decisiones (por ejemplo, diagnósticos) tiene unas implicaciones éticas de gran importancia. La Unión Europea ha elaborado una guía de consideraciones éticas en la que se proponen 3 principios básicos para conseguir una IA fiable:1.Asegurarse de que la IA esté centrada en el ser humano: La IA se debe desarrollar, implementar y utilizar con un «propósito ético», fundamentado y que refleje los derechos fundamentales, los valores sociales y los principios éticos de la Beneficencia (hacer el bien), Maleficencia (no hacer daño), Autonomía de los seres humanos, Justicia y Explicabilidad.2.Confiar en los derechos fundamentales, principios éticos y valores para evaluar prospectivamente los posibles efectos de la IA en los seres humanos y el bien común. Prestar especial atención a las situaciones que involucran a los grupos más vulnerables, como niños, personas con discapacidades o minorías, o situaciones con asimetrías de poder o información, como entre empleadores y empleados, o empresas y consumidores.3.Reconocer y tener en cuenta el hecho de que, si bien aporta beneficios sustanciales a los individuos y a la sociedad, la IA también puede tener un impacto negativo. Permanecer atento a las áreas de preocupación crítica.
+Para asegurar estos principios se han elaborado una serie de recomendaciones .
+Además de la gran importancia de tener una normativa ética en la creación, desarrollo, implementación y evaluación de sistemas de IA hay otro proceso clave en este sentido.
+La mayoría de sistemas de IA se basan en técnicas de aprendizaje automático a través de grandes colecciones de datos. Por lo tanto, una posible manera de generar sesgos en la toma de decisiones de la IA puede tener en la recopilación y selección de datos de entrenamiento. Si los datos de capacitación no son lo suficientemente inclusivos y equilibrados, el sistema podría aprender a tomar decisiones injustas, por ejemplo, los sistemas de reconocimiento facial son más fiables en varones blancos que en mujeres negras hecho que se está corrigiendo gracias al Gender Shades Projetc.
+La clave no es si existe algún sesgo; sino si el sesgo creado por los datos, las preguntas y las prioridades o los valores es moralmente neutro. Si es así, entonces el resultado será equitativo.
+En EE. UU. el Instituto Future of Life ha desarrollado los Principios de Inteligencia Artificial en Asilomar (Monterrey, California) a través de una conferencia con un amplio panel de expertos en robótica, físicos, economistas, filósofos y otros expertos en sus áreas en enero de 2017 donde se ha generado un consenso en 23 recomendaciones .
+
+
+- FINANCIACIÓN
+
+Este artículo no ha recibido ningún tipo de ayuda o financiación de agencias del sector público, sector comercial o entidades sin ánimo de lucro.

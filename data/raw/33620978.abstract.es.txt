@@ -1,0 +1,5 @@
+Se utilizó la Encuesta Nacional de Salud y Nutrición 2018-19. Se utilizó un modelo Poisson para obtener la razón de prevalen-cias del uso de cigarros con cápsulas de sabor ajustando por sexo, edad, educación e índice de bienestar.
+Calcular la prevalencia de consumo de cigarros con cápsula de sabor, la proporción de uso entre los usuarios de tabaco en la población mexicana de 10 años o más, y los factores asociados a su consumo.
+México tiene una alta prevalencia de consumo de cigarros con cápsula de sabor. Para reducirla, se deben implementar políticas para prohibir la venta de cigarros con saborizantes y eliminar los diseños atractivos en las cajetillas de los cigarros.
+El 6.6% de los mexicanos fuma cigarros con cápsulas de sabor, lo que corresponde a 43% del total de usuarios de tabaco. Las mujeres, adolescentes y adultos jóvenes son los grupos con la mayor proporción de consumo.
+

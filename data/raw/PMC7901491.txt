@@ -1,0 +1,53 @@
+INVISIBILIDAD DE GÉNERO EN LA GESTIÓN DE LA COVID-19: ¿QUIÉN TOMA LAS DECISIONES POLÍTICAS DURANTE LA PANDEMIA
+
+
+- INTRODUCCIÓN
+
+En enero de 2021, la COVID-19 superó los dos millones y medio de casos en España y las 56.000 muertes, y sus efectos sobre los sistemas sanitarios y el ámbito socioeconómico son ya de gran envergadura. Las implicaciones que las desigualdades de género están teniendo en el desarrollo de la pandemia, tanto en la exposición al virus como en la vulnerabilidad a él y sus impactos sociales y en salud, han sido reconocidas por diferentes instituciones como indispensables para elaborar políticas que sean efectivas en el control de la pandemia, y, a la vez, que promuevan la equidad en sus impactos presentes y futuros, .
+A pesar de la evidente mayor proporción de mujeres entre la población sanitaria y en el conjunto de profesionales que prestan servicios relacionados con el estado de bienestar, las mujeres están infrarrepresentadas tanto en la generación de discurso público como en la toma de decisiones políticas sobre la pandemia, lo que obstaculiza claramente la sensibilidad de género en su gestión, . En todo el mundo, la presencia de mujeres en los grupos de trabajo o comités de crisis ha sido nula en algunos países y, en términos generales, no ha superado el 25%, , mientras que su presencia en los medios de comunicación y en las ruedas de prensa durante la pandemia ha sido también claramente inferior a la de los hombres, . Esta infrarrepresentación es consecuencia de la discriminación estructural que sufren las mujeres en el ámbito público y de las exigencias que deben asumir en el ámbito reproductivo, que las sitúa en una posición de clara desventaja e invisibilización respecto a los hombres.
+En España, desde el comienzo de la pandemia, los comités de personas expertas han destacado como una herramienta importante para la gestión de la toma de decisiones políticas en torno a esta crisis sanitaria, pero también socioeconómica, ecológica y de cuidados. Sin embargo, hasta ahora no se habían analizado dichos comités desde la perspectiva de su composición en términos de sexo, si bien son de gran relevancia las implicaciones que ello pudiera tener para la incorporación de una indispensable mirada feminista en las estrategias de abordaje y recuperación de la presente pandemia.
+
+
+- MÉTODO
+
+Se realizó una revisión por pares para identificar los comités de personas expertas destinados a la gestión de la COVID-19 de las comunidades autónomas y de ámbito estatal. Solo se consideraron aquellos comités que, estando o no en vigor en el momento de la búsqueda (13 de noviembre de 2020 a 15 de enero 2021), se hubieran constituido para el apoyo a la gestión epidemiológica de la pandemia, así como para gestionar los procesos de desescalada u otros impactos sociales. Se contactó por correo electrónico con todas las direcciones de Salud Pública de las Consejerías de Salud y del Ministerio de Sanidad, se revisaron las noticias de prensa sobre la creación de comités y se contactó con personas expertas del ámbito de la epidemiología o de la salud pública de cada comunidad autónoma para contrastar la información o solicitarla en caso de no contar con ella. Para cada caso se recogieron el nombre, el número de integrantes y su sexo, así como las fuentes de la información obtenida y la disponibilidad pública de la composición de los comités en las webs institucionales. Se calculó el porcentaje de mujeres en cada comité y en el conjunto de personas expertas que los componían, así como el porcentaje de casos en que la información estaba públicamente disponible en las webs oficiales de los gobiernos autonómicos y estatal.
+
+
+- RESULTADOS
+
+Del conjunto de las comunidades autónomas, 11 han creado un comité específico de personas expertas para la gestión epidemiológica de la pandemia. Tres no lo han constituido formalmente (Aragón, Cantabria y La Rioja) y de otras tres (Extremadura, Murcia y Castilla-La Mancha) fue imposible recabar la información (tabla 1 ). Prácticamente en la mitad de las comunidades autónomas (45,5%) con comités de este tipo no estaba públicamente disponible la información detallada de su composición en las páginas web institucionales.
+La representación de las mujeres en estos comités varió desde el 15,4% en Canarias hasta el 87,0% en Cataluña, valor atípicamente alto, ya que en promedio la representación de las mujeres en el conjunto de las comunidades autónomas se situó en un 39,2% (fig. 1 ). En el caso del comité estatal, la representación fue del 42,9%. El 75,0% de los comités de personas expertas en España infrarrepresentó a las mujeres por debajo del umbral de paridad, y en un 41,7% de ellos su representación no llegó ni al 40%.Figura 1
+De los 13 comités autonómicos para la gestión de la desescalada o de otros impactos relacionados con la pandemia, un 69,2% no publicó su composición en términos de sexo en las webs institucionales. La representación promedio de las mujeres fue del 35,8%, en un rango del 16,7% en Murcia al 60,0% en el Grupo Técnico de Seguimiento de Atención Primaria de Aragón. En los dos comités estatales, las mujeres tuvieron una representación muy dispar: un 73,3% en el Comité Técnico de Desescalada y un 25,5% en el Grupo de trabajo multidisciplinar para la COVID-19.
+
+
+- DISCUSIÓN
+
+La representación de las mujeres en la mayoría de los comités de personas expertas en la gestión de la COVID-19 en España es minoritaria, destacando sobre todo el caso del Comité de Gestión de Emergencia Sanitaria de Canarias (15,4%) y del Comité de Seguimiento Pos-Covid-19 de Murcia (16,7%). Esta invisibilización también se observa en el resto del mundo, tanto en lo que respecta a la participación en comités como a la aparición en prensa o en comparecencias públicas, . El nivel de transparencia sobre la composición individual de los comités en España es, asimismo, muy deficiente.
+La infrarrepresentación de las mujeres contraviene el artículo 54 de la Ley Orgánica 3/2007 para la igualdad efectiva de mujeres y hombres, que explícitamente indica que «la Administración General del Estado […] designarán a sus representantes en órganos colegiados, comités de personas expertas o comités consultivos, nacionales o internacionales, de acuerdo con el principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas […]».
+Esta falta de «representación descriptiva», en términos numéricos, se asocia a una falta de «representación sustantiva» que implica que ciertas necesidades, intereses o preocupaciones de las mujeres estarán con más probabilidad ausentes de las deliberaciones de estos comités. Cuando no se tienen en cuenta las voces de las mujeres expertas, o a estas no se les da una oportunidad equitativa de participar en la gestión y toma de decisiones, incluyendo los comités de respuesta a las emergencias sanitarias, la sociedad en su conjunto pierde, ya que también en la pandemia de COVID-19 una mayor equidad de género se relaciona con mejores resultados de salud pública.
+Una mirada feminista de la pandemia es indispensable para considerar que tanto la exposición como la vulnerabilidad, y sobre todo los impactos en salud y sociales de la pandemia, están atravesados por la posición social desigual que ocupan hombres y mujeres. Ignorar estos determinantes estructurales ligados al género en interacción con otros ejes de desigualdad social en la gestión de las crisis epidemiológicas puede reforzar las desigualdades ya existentes, tal como ocurrió en las crisis de los virus Ébola y Zika.¿Qué se sabe sobre el tema?Las mujeres se encuentran globalmente infrarrepresentadas en la generación de discurso público y en la toma de decisiones políticas sobre la pandemia. Esta invisibilización puede exacerbar las desigualdades de género preexistentes y las resultantes de la crisis por la COVID-19.¿Qué añade el estudio realizado a la literatura?Los resultados evidencian la infrarrepresentación de las mujeres en los comités de personas expertas para el abordaje y la gestión de la COVID-19 en España.¿Cuáles son las implicaciones de los resultados obtenidos?La escasa presencia de las mujeres en los comités dificulta la inclusión de la equidad de género en el abordaje de la pandemia y en sus impactos sanitarios y sociales. La gestión y la toma de decisiones en las crisis precisan una perspectiva feminista.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Carlos Álvarez Dardet.
+
+
+- DECLARACIÓN DE TRANSPARENCIA
+
+La autora principal (garante responsable del manuscrito) afirma que este manuscrito es un reporte honesto, preciso y transparente del estudio que se remite a Gaceta Sanitaria, que no se han omitido aspectos importantes del estudio, y que las discrepancias del estudio según lo previsto (y, si son relevantes, registradas) se han explicado.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+A. Bacigalupe concibió y diseñó el estudio. M. Jiménez Carrillo, A. Cabezas-Rodríguez y A. Giné March realizaron la recogida de datos. A. Bacigalupe y M. Jiménez Carrillo llevaron a cabo los análisis y redactaron los resultados. La primera versión del artículo fue escrita por A. Bacigalupe, con la ayuda del resto de firmantes. Todas las autoras revisaron el manuscrito, realizaron aportaciones y aprobaron su versión final.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

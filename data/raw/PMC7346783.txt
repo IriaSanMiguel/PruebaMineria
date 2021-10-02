@@ -1,0 +1,30 @@
+RIESGO DE INFECCIÓN POR SARS-COV-2 Y RESULTADOS CLÍNICOS EN PACIENTES CON ESCLEROSIS MÚLTIPLE EN LA RIOJA (ESPAÑA
+
+
+Durante el inicio del año 2020 hemos asistido a una pandemia causada por el virus SARS-CoV-2, que nos ha enfrentado a numerosos interrogantes especialmente en pacientes con características clínicas especiales, como los que padecen esclerosis múltiple (EM), muchos en tratamiento con fármacos inmunomoduladores o inmunosupresores que comprometen su sistema inmunitario, lo que podría implicar mayor riesgo de enfermar o de presentar peor curso clínico. Para verificar esta hipótesis se ha diseñado un estudio descriptivo mediante revisión de la historia de todos los pacientes diagnosticados de EM en la comunidad autónoma de La Rioja, obteniéndose datos clínicos y epidemiológicos.
+En el momento del estudio en La Rioja hay 316.798 habitantes, 330 diagnosticados de EM (1,04/1.000 habitantes), de los cuales 12 han sido afectados por SARS-CoV-2, (3,6%), nueve por PCR y tres por serología. El paciente tipo es mujer (75%), de 47,91 años (22-74), 75% con forma remitente recurrente y 25% secundaria progresiva. El valor medio de la Escala Expandida del Estado de Discapacidad (EDSS) fue 1,92 (0-8). El 25% no estaban tratados, dos (16.66%) lo estaban con cada uno de los siguientes: interferón beta-1a subcutáneo, dimetilfumarato y teriflunomida y uno (8,33%) con fingolimod, cladribina y alemtuzumab.
+Para la consideración del caso se tomaron los criterios del Instituto de Salud Carlos III, seguidos en la población general para poder establecer comparaciones, (presencia de síntomas y confirmación por PCR). Dicho criterio era cumplido por nueve pacientes. Al 27 de mayo de 2020 se habían realizado 31 PCRs para SARS-CoV-2, lo que supone 93,94/1.000 habitantes, similar al 99,81/1.000 habitantes en La Rioja. Fueron positivos el 29,03% (9/31) frente al 12.79% de la población general. La incidencia de casos COVID entre la población con EM fue 27,27/1.000 habitantes, frente al 12,76/1.000 habitantes en La Rioja (OR 2,17; 95% IC 1,12-4,21).
+La distribución etaria de los casos se presenta en la tabla 1 , destacando entre los pacientes con EM un 66,7% entre 40-59 años de edad, y escasa entre mayores de 60 que supone el 50% en la población general.
+Los pacientes con EM y COVID presentaron una media de 3,1 (1-6) síntomas, destacando tos y fiebre (66,7%), dolor faríngeo (55,6%), mialgias (44,4%), astenia (33,3%), cefalea (22,2%), disnea y anosmia (11,1%). La tasa de hospitalización acumulada para pacientes con EM fue de 22,2% frente al 36,63% del global de La Rioja (OR 0,47 IC5% 0,09-2,29).
+Sólo un paciente de nuestra serie falleció, varón de 74 años, EM secundaria progresiva, EDSS 7 y sin tratamiento. La tasa de letalidad resultó un 11,1% (vs. 8,91 en La Rioja, sin significación estadística). Al existir un porcentaje de positivos en PCR mucho mayor entre los afectados de EM, la tasa de mortalidad mostró mayor diferencia, 3,03/1.000 habitantes vs. 1,14 en La Rioja, pero sin alcanzar significación estadística (OR 2,67; IC95% 0,37-19,07).
+
+
+- DISCUSIÓN
+
+Está establecido que los pacientes con EM tienen un mayor riesgo de infecciones que requieren hospitalización, apuntándose un posible aumento en infecciones víricas, neumonía y gripe. Nuestros resultados muestran que los pacientes con EM han presentado una incidencia de COVID-19 mayor del doble que la población general, no pudiendo atribuirse a que hayan sido sometidos a más estudios PCR.
+Tenemos conocimiento de un estudio que no demostró aumento de riesgo de COVID entre pacientes con EM en China, si bien fue realizado mediante cuestionarios y comunicación personal de los pacientes, y los propios autores discuten que esto ha podido dejar fuera muchos pacientes con síntomas menores o que rechazaran la comunicación para evitar su cuarentena en las instalaciones designadas para ello.
+Entre los síntomas, en nuestra serie los más frecuentes fueron tos y fiebre, con una baja incidencia de anosmia, similar a lo pubilicado. La tasa de hospitalización en nuestra serie es ligeramente inferior (sin significación estadística) entre los pacientes con EM en contexto de una edad media menor.
+Por último, en cuanto a la letalidad entre nuestros pacientes con EM, 11,1%, no difiere mucho de la población general. En un estudio multicéntrico llevado a cabo en Italia se detectaron 57 pacientes con PCR positiva, de los cuales cinco fallecieron (8,77%), todos con EDSS ≥ 6,5 y en otra publicación con una serie de ocho casos en Estados Unidos fallecieron dos, con EDSS de 7,5 y 8,5, en consonancia con lo observado en nuestro trabajo.
+En conclusión, en nuestra serie, la incidencia de casos COVID entre pacientes con EM duplica a la general, a pesar de no haberse realizado mayor número de test.
+La tasa de hospitalización y la letalidad ha sido similar, afectando a un paciente de 74 años con EDSS elevada, en consonancia con la experiencia presentada por otros grupos.
+Dada la letalidad similar en un contexto de mayor incidencia de infección, la mortalidad asociada a la infección por COVID entre nuestros pacientes con EM tiende a ser mayor que en la población general, pero sin alcanzar significación estadística.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha tenido ningún tipo de financiación
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,163 @@
+LA ATENCIÓN AL PACIENTE CON PATOLOGÍA LINFÁTICA Y LIPEDEMA EN LA PANDEMIA COVID-19. RECOMENDACIONES DEL GRUPO ESPAÑOL DE LINFOLOGÍA (GEL
+
+
+- INTRODUCCIÓN
+
+Durante la pandemia por COVID-19 nos enfrentamos al reto de procurar los servicios sanitarios necesarios, no solo a los pacientes afectados por COVID-19, sino también a los pacientes que sufren otras enfermedades agudas y crónicas, y al mismo tiempo lograr que dichos servicios no contribuyan a la propagación de la infección.
+Pacientes afectados de enfermedades crónicas como el linfedema han visto retrasada su asistencia y su tratamiento de rehabilitación por el riesgo de contagio y el colapso del sistema sanitario.
+Con el fin de garantizar la asistencia de la patología linfática y el lipedema durante la pandemia, es necesario promover la asistencia telemática que minimiza el riesgo de transmisión de la infección COVID-19, definir qué pacientes pueden ser atendidos mediante esta modalidad y desarrollar un sistema que permita determinar la prioridad clínica. El objetivo es evitar que la demora y la atención no presencial supongan un deterioro o una complicación de la patología.
+En este sentido, la telemedicina ha mostrado su utilidad como una herramienta efectiva en la asistencia sanitaria durante la pandemia COVID-19. La pandemia ha puesto de manifiesto que una proporción considerable de visitas ambulatorias se pueden gestionar de manera efectiva desde la distancia, y puede ayudar a promover su mejor uso e integración en el arsenal de los servicios de salud. En el estudio de North et al. durante la pandemia del virus influenza H1N1 el triaje telefónico de pacientes agudos ofreció un ejemplo a corto plazo de cómo la telemedicina puede ayudar a gestionar la demanda de atención sin aumentar la capacidad de los recursos sanitarios. Diversos estudios elaborados en la Universidad de Granada demostraron que la evaluación del paciente con linfedema relacionado con cáncer de mama fue posible mediante un sistema de telemedicina con una buena fiabilidad, .
+La consulta telefónica o por videollamada tiene como ventajas el evitar desplazamientos a los centros de atención sanitaria y realizar la intervención en un entorno conocido y confortable para el paciente evitando tiempos muertos en las salas de espera. El horario de atención es más amplio y abierto a la disponibilidad del asistente y del paciente. En cuanto a la gestión de las listas de espera, el acceso es más rápido y la atención puede realizarse por prioridad de la patología y no por orden de llegada. Otras ventajas pueden ser la reducción del aislamiento del enfermo, la disminución de coste, la estimulación a la innovación, así como la satisfacción de pacientes, familias y profesionales.
+Entre las limitaciones se han identificado barreras tecnológicas como no disponer de dispositivos y conexión adecuados y la dificultad de manejo. Además, es necesaria la existencia de sistemas de comunicación seguros entre médico y paciente que tengan en cuenta la privacidad y el consentimiento informado.
+En el diseño de protocolos de telemedicina no debemos olvidar la importancia de la participación continua del paciente. Por ello, se hace imprescindible asegurar la mejor experiencia durante la asistencia. Es recomendable hacer sentir al paciente que nuestra prioridad es prestar la mejor atención posible, que las medidas que estamos tomando son para protegerle y que, aunque la atención presencial disminuya, seguimos estando disponibles por otros medios. Asimismo, deben establecerse procedimientos de autentificación de la identidad telefónica para garantizar la protección de datos y la validez del acto sanitario, según la normativa y legislación vigente.
+Por otra parte, la asistencia presencial debe minimizar el riesgo de transmisión de la infección COVID-19, . En este sentido se deben aplicar todas las medidas de control y prevención de la enfermedad, protegiendo al máximo a los pacientes y profesionales sanitarios, , .
+
+
+-- OBJETIVOS
+
+El presente documento es una guía de consenso elaborada por el Grupo Español de Linfología (GEL) que pretende orientar la asistencia de los pacientes con patología linfática y lipedema en el contexto de la pandemia COVID-19. Es un documento de criterios mínimos, ampliable según las características del paciente, la decisión del profesional sanitario y los recursos concretos de cada centro sanitario.
+Es un documento sujeto a modificación, según las capacidades de cada servicio, las nuevas recomendaciones que aparezcan de las sociedades médicas correspondientes, así como de la evidencia científica que vaya surgiendo al respecto. En función de la evolución de la pandemia, los principios generales podrán ser modificados.
+
+
+- METODOLOGÍA
+
+-- LA ASISTENCIA TELEMÁTICA Y PRESENCIAL DURANTE LA PANDEMIA Y EVALUACIÓN CLÍNICA DE LA PRIORIDAD
+
+Con el fin de disminuir el contagio de la infección COVID-19 se ha promovido la asistencia no presencial a través de la telemedicina. Los autores han establecido qué condiciones individuales pueden ser atendidas de forma telemática o presencial. También han definido cómo debe realizarse la asistencia presencial para disminuir la diseminación de la enfermedad y cómo desarrollar la asistencia telemática para garantizar su efectividad y la participación del paciente.
+El triaje de la urgencia y la priorización se define como la evaluación clínica de la urgencia con la que un paciente debería recibir asistencia, . Está basado en la historia natural de la enfermedad, la tasa de progresión y deterioro, y las complicaciones que podrían ocurrir si el tratamiento fuera retrasado o denegado. La justificación del triaje es «hacer lo mejor para el mayor número de personas». El cronograma apropiado para atender cada una de las condiciones individuales fue establecido por los autores siguiendo los criterios de la escala VELTAS (Triage of Patients with Venous and Lymphatic Diseases during the COVID-19 pandemic-The Venous and Lymphatic Triage and Acuity Scale).
+
+
+-- PROCEDIMIENTO DE CONSENSO
+
+El proyecto ha sido iniciado por el GEL, escrito por los autores y revisado por los miembros de la Junta Directiva de GEL, basándose en la evidencia actual hasta mayo de 2020. Cuando no hubo evidencia o era limitada, se aplicó el consenso. Se alcanzó el consenso cuando la recomendación fue apoyada por todos los autores y miembros de la junta directiva de GEL. En caso de opiniones diferentes, se discutieron las diferentes opciones hasta llegar al consenso. Al final del proceso, todos los autores aprobaron la versión final del documento.
+
+
+-- UTILIDAD Y A QUIÉN VA DIRIGIDO
+
+Este documento ha sido redactado para profesionales de la salud implicados en la atención de los pacientes con patología linfática y lipedema. Puede ser útil para personal implicado en la política de salud, especialmente en situación de pandemia.
+El documento será especialmente relevante durante pandemias como la actual por COVID-19, pero puede ser también útil en el desarrollo de la telemedicina y en la clasificación de la urgencia en la atención de la patología linfática, las malformaciones venolinfáticas y el lipedema.
+
+
+- SELECCIÓN Y CONSIDERACIONES SEGÚN EL TIPO DE CONSULTA MÉDICA
+
+Durante la pandemia se debe intentar realizar, siempre que se pueda, la atención del paciente de forma telemática mediante consulta telefónica o videollamada. El objetivo es garantizar la atención de los pacientes con patología linfática, malformaciones venolinfáticas y lipedema y minimizar el riesgo de contagio de la infección. La enfermedad linfática crónica es una enfermedad que puede manejarse a distancia siempre que esté estable.
+Debemos valorar el riesgo-beneficio de la consulta presencial para cada paciente. Para ello, es preciso determinar el riesgo individual de desarrollar una infección COVID-19 grave y limitar la afluencia de los pacientes especialmente vulnerables.∘Mayor de 60 años∘Cáncer activo∘Inmunodepresión primaria o secundaria a tratamientos farmacológicos∘Enfermedad respiratoria crónica∘Enfermedad cardiovascular∘Enfermedad renal crónica∘Enfermedad hepática∘Diabetes mellitus∘Obesidad∘Embarazo
+
+
+-- CONSULTA TELEFÓNICA O VIDEOLLAMADA
+
+Debemos fomentar la asistencia telemática frente a la presencial explicando al paciente los riesgos de acudir al centro hospitalario durante la pandemia.
+Hay que confirmar la posibilidad de acceso del paciente o la persona de apoyo a las nuevas tecnologías y obtener su conformidad para la consulta telemática.
+Insistiremos en los conocimientos que el paciente haya adquirido previamente sobre los autocuidados para mantener su linfedema estable.
+
+
+-- CONSULTA PRESENCIAL
+
+Debemos asegurar la protección frente al contagio del personal sanitario y de los pacientes. Para ello, se seguirán en todo momento las recomendaciones que efectúe la autoridad competente en relación con las medidas de prevención de propagación del virus (uso de mascarillas, distancia de seguridad, etc.), , .
+Se evaluará el perfil clínico y epidemiológico del paciente mediante un cuestionario para descartar la infección COVID-19 o el contacto con pacientes COVID-19 los 14 días previos. Esta entrevista debe realizarse de forma telefónica al menos 48-72 h antes del día de la consulta.
+Se considera caso sospechoso de infección COVID-19 a cualquier persona con fiebre, tos o sensación de falta de aire y cansancio generalizado. Otros síntomas que pueden aparecer son dolor de garganta, cefalea y dolor muscular generalizado. Otros síntomas menos frecuentes pero característicos son la pérdida del olfato y de gusto.
+Se adelantará en lo posible la recogida de información durante la consulta telefónica previa con el fin de acortar el tiempo del paciente en el centro sanitario.
+Se adaptará el tiempo de duración de consulta con el objetivo de evitar esperas a los pacientes y proceder a la limpieza y desinfección de las instalaciones tras la consulta.
+Se le pedirá puntualidad al paciente y que no venga acompañado, salvo en caso necesario como es el caso de menores o personas dependientes. El paciente y el acompañante acudirán con mascarilla quirúrgica y realizarán higiene de manos antes de entrar y al salir de la consulta.
+En caso de encontrarse enfermo, el paciente debe avisar y no acudir a la consulta.
+A su llegada, el paciente deberá responder de nuevo el cuestionario para descartar la infección COVID-19 y firmar un consentimiento informado de la atención sanitaria que va a recibir en el contexto de la pandemia COVID-19 . Dicho consentimiento debe informar del riesgo de contagio de la infección COVID-19 derivado de la asistencia sanitaria presencial.
+El profesional deberá usar los sistemas de protección que se recomienden en cada momento y acordes con la actividad que vaya a realizar (mascarilla, guantes, etc.). Todo ello según las recomendaciones de los Servicios de Prevención de Riesgos Laborales de cada centro y sujeta a los cambios que se produzcan.
+Se recomienda el lavado de la extremidad a explorar y el empleo de metro desechable de papel para la medición de volumen.
+
+
+-- SELECCIÓN DEL TIPO DE CONSULTA SEGÚN PATOLOGÍA
+
+Las recomendaciones que da GEL son una guía para ayudar a seleccionar el tipo de consulta y la urgencia en la asistencia según la patología (Tabla 1, Tabla 2 ). Para el triaje de la urgencia y el plazo de tiempo en la asistencia se ha aplicado la escala VELTAS. Entendemos que tanto la evolución de la pandemia como las circunstancias de los profesionales de diferentes ámbitos van a condicionar ajustes en su uso. Hemos de dar prioridad a la asistencia presencial de aquellos pacientes que más la necesiten.
+Presentamos un modelo de consulta telefónica para facilitar la recogida ordenada de la información más relevante ( miembro superior; miembro inferior).
+
+
+- TRATAMIENTO FISIOTERÁPICO DEL LINFEDEMA
+
+-- SELECCIÓN DEL TIPO DE TRATAMIENTO TELEMÁTICO O PRESENCIAL
+
+Recomendamos el tratamiento telemático en:
+Recomendamos el tratamiento presencial en:
+Si una única sesión de enseñanza fuera suficiente para el aprendizaje, el seguimiento se realizaría de forma telemática. En general, el seguimiento y mantenimiento se harán una vez a la semana/mes de forma telefónica o por videollamada.
+
+
+-- TRATAMIENTO FISIOTERÁPICO PRESENCIAL DEL LINFEDEMA
+
+Hay que asegurar la protección frente al contagio del personal sanitario y de los pacientes. Para ello, se seguirán en todo momento las recomendaciones que efectúe la autoridad competente en relación con las medidas de prevención de propagación del virus (uso de mascarillas, distancia de seguridad, etc.), , .
+Se evaluará el perfil clínico y epidemiológico del paciente mediante un cuestionario para descartar la infección COVID-19 o el contacto con pacientes COVID-19 los 14 días previos. Esta entrevista debe realizarse de forma telefónica al menos 48-72 h antes del día del tratamiento .
+Se considera caso sospechoso de infección COVID-19 a cualquier persona con fiebre, tos o sensación de falta de aire y cansancio generalizado. Otros síntomas que pueden aparecer son dolor de garganta, cefalea y dolor muscular generalizado. Otros síntomas menos frecuentes pero característicos son la pérdida del olfato y de gusto.
+Se adelantará en lo posible la recogida de información durante la consulta telefónica previa con el fin de acortar el tiempo del paciente en el centro sanitario.
+Se adaptará el tiempo de duración del tratamiento con el objetivo de evitar esperas a los pacientes y proceder a la limpieza y desinfección de las instalaciones tras el tratamiento.
+En caso de encontrarse enfermo, el paciente debe avisar y no acudir al tratamiento.
+Se le pedirá puntualidad al paciente y que no venga acompañado salvo en caso necesario como es el caso de menores o personas dependientes.
+El paciente deberá responder de nuevo el cuestionario para descartar la infección COVID-19 y firmar un consentimiento informado de la atención sanitaria que vaya a recibir informando de los riesgos de contagio de la infección como consecuencia del tratamiento durante la pandemia por COVID-19 .
+El paciente y el acompañante acudirán con mascarilla quirúrgica. El paciente vendrá duchado y con ropa limpia y sin joyas ni accesorios, entrará a la sala de tratamiento sin el dispositivo móvil y realizará higiene de manos antes de empezar y al terminar el tratamiento .
+El profesional deberá utilizar los sistemas de protección que se recomienden en cada momento y acordes con la actividad que vaya a realizar (mascarilla, guantes, bata desechable, etc.). Todo ello según las recomendaciones de los Servicios de Prevención de Riesgos Laborales de cada centro y sujeta a los cambios que se produzcan.
+
+
+--- DRENAJE LINFÁTICO MANUAL Y OTRAS TÉCNICAS DE TERAPIA MANUAL
+
+Debemos seleccionar al máximo los pacientes a los que prescribir drenaje linfático manual ya que no se puede respetar la distancia mínima de seguridad y el tiempo de duración es superior a 15 min.
+Los pacientes se lavarán la extremidad a tratar antes de iniciar la sesión de tratamiento. Después de secarse bien la zona aplicaremos solución hidroalcohólica si no hay lesiones cutáneas.
+El fisioterapeuta realizará el drenaje con mascarilla FPP2, pantalla o gafas protectoras estancas y bata desechable. El uso de guantes desechables, aunque es opcional, es recomendable.
+
+
+--- PRESOTERAPIA NEUMÁTICA Y DISPOSITIVOS EXTERNOS
+
+Debemos reducir, en la medida de lo posible, el uso de la presoterapia por la dificultad para garantizar la higiene.
+En caso de precisar tratamiento de presoterapia, se empleará una funda de protección para el paciente tanto en el miembro inferior como en el miembro superior. Después de cada tratamiento se desinfectará la prenda de presoterapia empleada.
+
+
+- TRATAMIENTO DE COMPRESIÓN
+
+-- GUANTELETE O MANGUITO CON EXTENSIÓN A MANO
+
+Si el paciente usa un guantelete o un manguito con extensión a la mano, damos las siguientes recomendaciones:
+Los fabricantes de prendas compresivas establecen unas recomendaciones para el lavado de las prendas de compresión. El paciente debe seguirlas y lavar su prenda a diario. La solución hidroalcohólica aplicada en la piel no estropea las prendas.
+La mayoría de las prendas compresivas se pueden lavar en la lavadora en un programa suave a 40 °C y secar en un programa especial de secadora o al aire libre. La mayoría de las prendas admiten más de 100 lavados y si se introducen dentro de una bolsa de lavado estarán aún más protegidas.
+El paciente puede optar por colocarse un guante desechable sobre el guantelete o la pieza de mano para salir fuera de su domicilio o durante su actividad laboral. Hay que recordar que el guante desechable protege al guantelete o pieza de mano de la contaminación, pero no protege al paciente de la infección. El virus puede contaminar el guante desechable igual que puede contaminar las manos, por lo que el paciente debe aplicar las mismas normas de higiene que la población general, como son el lavado frecuente de manos y el cambio frecuente de guantes desechables.
+Se aconseja que el paciente tenga al menos 2 prendas para permitir la limpieza diaria, teniéndolo en cuenta a la hora de recetarlas.
+Se recomienda que el paciente lleve consigo una prenda de recambio dentro de una bolsa sellada de plástico por si el guantelete se contaminase. En ese caso, introduciría la prenda contaminada en la bolsa sellada hasta su posterior lavado. El paciente deberá desechar la bolsa una vez usada.
+
+
+-- VENDAJES
+
+Se aconseja que el paciente disponga de 2 kits de vendas para permitir la limpieza diaria.
+Es recomendable sustituir los vendajes por un sistema de compresión autoajustable con velcros con el fin de disminuir el contacto entre profesionales y pacientes y disminuir el riesgo de transmisión de la infección COVID-19.
+
+
+-- DISPOSITIVOS AUTOAJUSTABLES DE VELCRO
+
+Recomendamos valorar esta opción de tratamiento reductor autoaplicable, una vez comprobada su correcta colocación, con el fin de reducir la asistencia al centro hospitalario.
+Estos dispositivos se han mostrado eficaces en reducir y mantener el volumen del miembro con linfedema, gracias a que favorecen la colocación de la compresión y mejoran la adherencia al tratamiento.
+Debemos facilitar el acceso de los pacientes a las plataformas de formación en el uso de estos dispositivos que ofrecen las sociedades científicas o las casas comerciales (links a páginas web, YouTube).
+Es recomendable realizar al menos una visita presencial para evaluar el uso que está haciendo el paciente del sistema de compresión y posibles incidencias (colocación y retirada, presión aplicada, estado de la piel y del dispositivo). Durante dicha asistencia se puede realizar un video individualizado de cómo se aplica y se retira el sistema para mejorar el entrenamiento del paciente.
+
+
+-- TOMA DE MEDIDAS
+
+Se valorará la posibilidad de la toma de medidas por el propio paciente, tras instruirle sobre el método.
+
+
+- TRATAMIENTO DE LINFEDEMA EN PACIENTES CON COVID
+
+No se recomienda realizar tratamientos intensivos en pacientes con COVID-19 moderado-severo con ingreso hospitalario por su inestabilidad hemodinámica.
+Se debe valorar de forma individualizada el riesgo/beneficio del uso de compresión en estos pacientes.
+Una vez superada la enfermedad, los pacientes con linfedema crónico podrán hacer uso de su prenda de compresión.
+La infección COVID-19 se asocia con una incidencia mayor de eventos tromboembólicos incluidos los venosos. En caso de producirse una trombosis venosa profunda, el paciente deberá ser tratado con terapia compresiva desde el momento del diagnóstico, y continuar con ella al menos 6 meses y hasta revisión por cirugía vascular con el fin de prevenir el síndrome postrombótico.
+El tipo de dispositivo, el grado de compresión y la rigidez del tejido de compresión se decidirá de forma individualizada para cada paciente.
+En caso de que el paciente tuviera un linfedema o flebolinfedema previo en la extremidad inferior o superior que sufra la trombosis venosa profunda, deberá aplicarse la compresión con el dispositivo de baja elasticidad que usa habitualmente, según tolere.
+
+
+- EDUCACIÓN TERAPÉUTICA TELEMÁTICA DE LOS PACIENTES
+
+Este nuevo escenario de la pandemia COVID-19 supone para la especialidad de Medicina Física y Rehabilitación un nuevo reto y una oportunidad.
+Se diseñarán y utilizarán plataformas telemáticas con la finalidad de la formación y educación de los pacientes en linfedema y lipedema, y como elemento de conexión no presencial entre el profesional sanitario y el paciente, , , , , .
+A través de dicha plataforma se dará acceso a la Escuela de Linfedema virtual y se desarrollarán textos y videos para la educación e información del paciente.
+La herramienta se desarrollará en Internet y empleará un lenguaje sencillo y accesible, basado en las últimas recomendaciones de las guías clínicas y con contenidos teoricoprácticos.
+Los contenidos serán esencialmente las bases fisiopatológicas del linfedema y lipedema, la dieta, los cuidados de la piel, el uso de prendas de vestir y calzado, programas de ejercicios específicos, el reconocimiento de complicaciones y lesiones en la piel, técnicas de autodrenaje y autovendaje, y el uso y cuidado de las prendas y dispositivos de compresión .
+La finalidad es conseguir la prevención y detección precoz de las complicaciones y el tratamiento efectivo de la enfermedad para evitar la progresión de la enfermedad y la necesidad de una rehabilitación intensiva.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

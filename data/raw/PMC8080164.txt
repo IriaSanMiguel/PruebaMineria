@@ -1,0 +1,20 @@
+LA INTELIGENCIA ARTIFICIAL EN EL CONTROL DE LA COVID-19
+
+
+Sr. Editor:
+La inteligencia artificial (IA) ha abierto una nueva disciplina en la medicina dentro del campo de la informática, por consecuencia, el uso de esta podría agilizar el desarrollo de un posible antiviral y crear medidas de prevención, contención y control de la pandemia. Por ello, la IA ha posibilitado secuenciar el genoma del virus, realizar diagnósticos más rápidos, llevar a cabo análisis de escáner o manejar robots. Por otro lado, ha permitido recrear medicamentos y opciones para el uso de materia prima existente y económica, a fin de producir vacunas antivirales a gran escala.
+En la creciente necesidad de localizar y analizar la propagación del virus, se han utilizado las capacidades de esta tecnología para crear herramientas y modelos computacionales, que contribuyen a predecir el número de infectados y la severidad de sus síntomas, que podrán ser utilizadas para futuras enfermedades y evitar así la pérdida de miles de vidas humanas.
+El artículo «La inteligencia artificial y sus aplicaciones en medicina II: importancia actual y aplicaciones prácticas», señala que esta tecnología tiene una gran importancia porque ayuda al diagnóstico y entrega de una evaluación pronóstica individualizada a los pacientes. No obstante, sus herramientas han realizado aportes para la rehabilitación, telemedicina, estimulación neurosensorial, la imagenología, entre otros, beneficiando el campo de la salud pública, desde el manejo de la gestión y logística en centros médicos, hasta la automatización de diagnósticos y designación de tratamientos personalizados en pacientes.
+Para complementar lo señalado en el artículo, es necesario indicar que la implementación de la IA ayuda a optimizar la atención y experiencia de los pacientes, del mismo modo impulsa la detección de casos a través de la interpretación de imágenes por computadora, por ello, el uso de esta tecnología tiene un papel importante al momento del diagnóstico, gracias a su habilidad de captar anomalías que se presenten en imágenes tales como radiografías, tomografías, ecografías, etc..
+Además, su impacto también se evidencia en el control de enfermedades mortales y algunos países emplean esta herramienta como parte del desarrollo de una posible solución. Inclusive, muchas instituciones respaldan a la comunidad científica el cual tiene esperanza en la IA, ya que actualmente acelera el diagnóstico de la COVID-19 mediante software que ayudan a detectar los síntomas de la enfermedad a tiempo, así como la computación inteligente a través del Deep Learning y Machine Learning .
+En síntesis, la IA se emplea en la creación de modelos computacionales para la predicción y detección de casos positivos, así como en la gestión de recursos médicos e interpretación de imágenes; también, permite una atención personalizada en los pacientes, del mismo modo, se evidencian avances significativos en el desarrollo de la vacuna.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

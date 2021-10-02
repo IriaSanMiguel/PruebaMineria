@@ -1,0 +1,72 @@
+ESCALA DE ANSIEDAD GENERALIZADA GAD-7 EN PROFESIONALES MÉDICOS COLOMBIANOS DURANTE PANDEMIA DE COVID-19: VALIDEZ DE CONSTRUCTO Y CONFIABILIDAD
+
+
+- INTRODUCCIÓN
+
+La ansiedad generalizada es un trastorno mental en el cual una persona a menudo está preocupada o ansiosa respecto de una o varias situaciones, y le parece difícil controlar sus síntomas. Aunque la etiología es desconocida, suelen causarla la exposición significativa a un evento estresante o la acumulación de situaciones estresantes. Se caracteriza por una reacción psicológica posterior, una vez ha cesado el factor estresante, y suele estar acompañada de depresión.
+La evidencia reciente informa de un aumento significativo en la carga mundial de ansiedad generalizada, entre otros trastornos mentales, del personal médico que está en contacto directo con pacientes con COVID-19, , . Las primeras descripciones fueron sobre trabajadores sanitarios chinos, con una prevalencia de ansiedad del 44,7%. El personal de salud que ha tenido contacto directo con pacientes con COVID-19, ha experimentado síntomas de ansiedad, mayor malestar psicológico que el resto de profesionales de la salud y el doble de probabilidad de sufrir ansiedad y depresión, , . Los efectos de la pandemia en la salud mental de estos profesionales pueden ser significativos, por lo que es necesario disponer de instrumentos breves y útiles que permitan detectar oportunamente los casos, teniendo en cuenta las opciones terapéuticas y la necesidad de mejorar la salud mental del personal médico, .
+Disponer de instrumentos breves, fáciles de aplicar y capaces de detectar alteraciones psicológicas en la actual pandemia ha tomado relevancia, , debido a las ventajas que ofrecen en los distintos entornos sanitarios, donde la carga laboral es alta y el tiempo es escaso. La Escala de Ansiedad Generalizada (GAD-7) se desarrolló originalmente en inglés como instrumento de detección breve capaz de detectar la ansiedad. Este estudio original reportó adecuados valores de confiabilidad (0,92) y validez (0,83). Desde entonces, sus propiedades psicométricas se han examinado en una variedad de países, , .
+No existen datos publicados en Colombia sobre las propiedades psicométricas del GAD-7. Salvo un estudio que utilizó el instrumento para analizar los factores psicosociales asociados con síntomas del trastorno de ansiedad generalizada en médicos generales durante la pandemia de COVID-19. Por ello, en este estudio se analizaron la validez de constructo y la confiabilidad de la escala GAD-7 en profesionales médicos colombianos durante la pandemia de COVID-19, con la premisa de que el personal sanitario cuente con un instrumento rápido y confiable que ayude a mejorar la identificación de la ansiedad generalizada.
+
+
+- MÉTODOS
+
+El estudio transversal eSalud incluyó a 1.030 médicos colombianos durante la pandemia de COVID-19, evaluados durante el segundo semestre de 2020 mediante un cuestionario en línea.
+
+
+-- PARTICIPANTES
+
+El personal médico fue reclutado mediante redes sociales, anuncios y correos electrónicos institucionales. Del total de la población, 610 eran profesionales que atendían a pacientes con COVID-19 y 420 no prestaban servicios clínicos a estos pacientes. Había 629 mujeres (61%), 377 varones (36,6%) y 24 de otro género (2,4%); la media de edad fue 37,18 ± 8,24 años. Se incluyó a 428 médicos especialistas (41,6%), 168 residentes (16,3%), 296 médicos generales (28,7%) y 138 internos (13,4%). El 61,7% (636) informó trabajar en clínicas privadas y el 38,3% (394), en hospitales públicos. Todos completaron un formulario de Google que contenía consentimiento informado. No recibieron compensación económica por su participación, salvo un informe de resultados junto a una guía de orientaciones clínicas para afrontar la ansiedad. La valoración en línea del instrumento empleó 2 min.
+
+
+-- INSTRUMENTO
+
+El GAD-7 es un instrumento autoaplicable de 7 ítems que se utiliza ampliamente para evaluar el trastorno de ansiedad generalizada durante las últimas 2 semanas según el DSM-5. Cada elemento se puntúa en una escala Likert de 4 puntos que indica la frecuencia de los síntomas, que van de 0 (nada) a 3 (casi todos los días). La puntuación total de GAD-7 puede variar de 0 a 21, y una puntuación ≥ 10 indica un trastorno de ansiedad generalizada. El estudio original reportó adecuados valores de sensibilidad (0,92) y especificidad (0,83). Desde entonces, se han informado buenas propiedades psicométricas del instrumento en todo el mundo, y se utiliza ampliamente en diferentes contextos de la salud mental, . Se empleó la versión adapta del GAD-7 para Perú, con las oportunas adecuaciones idiomáticas para la población colombiana.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis de validez de constructo a través de un análisis factorial exploratorio (AFE), siguiendo los criterios KMO y esfericidad según el método no ortogonal oblimin. Para el análisis factorial confirmatorio (AFC), se empleó el método de mínimos cuadrados ponderados ajustados a la media y a la varianza (WLSMV por sus siglas en ingles). Para los criterios de bondad y ajustes, se utilizaron los siguientes criterios: coeficiente de error medio cuadrático de aproximación de valores de población, con un valor adecuado de ajuste (RMSEA), índice de ajuste general (GFI) y el residuo cuadrático medio estandarizado (SRMR). Luego se analizó la fiabilidad a partir del coeficiente alfa de Cronbach y la correlación ítem-total con base en los ítems finales del instrumento. Se utilizó el programa R versión 1.3.1056.
+
+
+-- ASPECTOS FORMALES
+
+Los autores afirman que todos los procedimientos que contribuyen a este trabajo cumplieron con los estándares éticos de los comités nacionales e institucionales pertinentes sobre experimentación humana y con la Declaración de Helsinki de 1975, revisada en 2008. Se obtuvo online el consentimiento informado de todos los sujetos. Terminada la evaluación, se contactó con cada sujeto por correo electrónico para confirmar la participación en el estudio y entregar el informe de resultados junto con un documento con orientaciones psicológicas y clínicas. El estudio fue aprobado por el comité de ética de la Universidad de La Costa (Acta No 86-2020). Código del proyecto de investigación INV.140-02-004-15.
+
+
+- RESULTADOS
+
+En la tabla 1 se presentan los descriptivos de media ± desviación estándar, curtosis y asimetría y los intervalos de confianza con base en la media de los ítems que componen la escala GAD-7.
+
+
+-- ANÁLISIS FACTORIAL EXPLORATORIO
+
+El AFE mostró valores que permitieron un análisis factorial (KMO = 0,930; Bartlett < 0,001). El análisis no ortogonal con el método oblimin determinó una estructura factorial de 1 solo factor, conformado por los 7 ítems de la escala, con lo que se explicó el 73% de la varianza. En la tabla 2 se puede observar la carga factorial y la comunalidad del GAD 7.
+
+
+-- ANÁLISIS FACTORIAL CONFIRMATORIO
+
+Para reportar la unidimensionalidad del GAD-7, el AFC se realizó teniendo en cuenta los índices de bondad de ajuste (RMSEA = 0,080; CFI = 0,995; SRMR = 0,053; p < 0,001), y mostró una unidimensionalidad «aceptable». En la figura 1 se muestra la estructura factorial para los 7 ítems del GAD-7, donde todas las cargas factoriales fueron > 0,07.Figura 1
+
+
+-- ANÁLISIS DE FIABILIDAD
+
+Teniendo en cuenta los modelos de AFE y AFC, se procedió al análisis de consistencia interna, estimada mediante alfa de Cronbach. La consistencia interna del GAD-7 fue buena (α = 0,920; intervalo de confianza, 8,80-9,71). En la tabla 3 se observa que el valor del alfa no se incrementa aunque se elimine alguno de los ítems finales del instrumento. Las correlaciones ítem-total van de 0,674 hasta 0,732, por encima del nivel mínimo de 0,300.
+
+
+- DISCUSIÓN
+
+En nuestro estudio se ha querido analizar las propiedades psicométricas de la GAD-7 para identificar ansiedad generalizada en médicos colombianos durante la cuarentena por COVID-19. Los hallazgos preliminares revelaron que los 7 ítems del GAD-7 componen 1 solo factor: el constructo ansiedad generalizada. Además, cada uno de los ítems que conforman la escala poseen adecuados pesos factoriales y ningún ítem presentó comunalidades < 0,40 (intervalo, 0,67-0,83). Esto se ha informado en estudios previos, , , lo que demuestra la utilidad y la saturación de cada uno de los ítems de la escala para constituir el constructo teórico e identificar la ansiedad de manera rápida y confiable con un instrumento de pocos ítems. Asimismo los resultados que arroja el instrumento son coherentes con los hallazgos en otros cuestionarios que evalúan ansiedad.
+Respecto a los valores de consistencia interna, el GAD-7 reporta una alta confiabilidad (0,920), lo que la hace una excelente candidata para identificar la ansiedad generalizada en personal sanitario sin necesidad de reducir o eliminar ítems del instrumento. Actualmente, pocas son las escalas que cumplen estas condiciones: de administración rápida, no requerir suprimir ítems y altos valores de alfa de Cronbach. El DASS-21 es unas de las escalas más utilizadas para medir la ansiedad generalizada, fácil de responder y con adecuadas propiedades psicométricas, , pero, como mide otros constructos como el estrés y la depresión, completarla exige más tiempo, algo contraproducente en los contextos de presión laboral y contingencias virales actuales.
+A pesar de que nuestros hallazgos muestran unos adecuados valores psicométricos que validan y generan confianza para aplicar el GAD-7 a profesionales sanitarios colombianos, la investigación no está exenta de limitaciones. El muestreo no fue probabilístico, lo cual tiene impacto en las generalizaciones de los hallazgos. El uso de internet limita la oportunidad de participar a un número importante de profesionales médicos que laboran en regiones geográficas con poca cobertura. Sin embargo, las plataformas e-Salud y los soportes tecnológicos se han demostrado de gran utilidad para los contextos actuales de pandemia. Por último, es necesario realizar estudios de validez de criterio con muestras clínicas y analizar el instrumento en diversos contextos, con el fin de extrapolar con mayor seguridad los resultados del instrumento a la población general y aportar mayor evidencia a favor del instrumento.
+Con estas limitaciones en cuenta, se puede concluir que las propiedades psicométricas obtenidas demuestran que la GAD-7 refleja indicadores adecuados de validez y confiabilidad. Se concluye que la GAD-7 es un excelente instrumento, confiable y fácil de usar para la detección de los síntomas de ansiedad generalizada en personal médico, atienda o no a pacientes con COVID-19. En un próximo estudio multicéntrico internacional, donde se analizará la situación de salud, ansiedad, estrés y depresión del personal sanitario latinoamericano, esperamos que el GAD-7 ayude a anticipar el clima de salud mental de los médicos a medida que las tendencias globales a causa de la COVID-19 continúan evolucionando.
+
+
+- FINANCIACIÓN
+
+Universidad de La Costa. Código INV.140-02-004-15.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

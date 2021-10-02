@@ -1,0 +1,126 @@
+ADAPTACIÓN Y VALIDACIÓN EN CHILE DEL INSTRUMENTO DE IDENTIFICACIÓN DE PACIENTES CON NECESIDAD DE ATENCIÓN PALIATIVA: NECPAL-CCOMS-ICO 3.1©
+
+
+- INTRODUCCIÓN
+
+Dos tercios de los adultos que necesitan atención paliativa al final de su vida son personas con enfermedades crónicas avanzadas (ECA) no oncológicas. La Organización Mundial de la Salud recomienda la extensión de cuidados paliativos (CP) a este grupo de pacientes.
+Los médicos y el equipo de salud tienden a sobrestimar el tiempo de supervivencia de sus pacientes con ECA, lo que genera un retraso en la adopción de medidas paliativas. Identificar precoz y oportunamente la primera transición paliativa en la Atención Primaria (APS) es fundamental para la implementación de un enfoque que logre brindar una atención integral e integrada y mejorar la calidad de vida, , . Esta identificación temprana ha demostrado mejorar la satisfacción en la atención, disminuir las intervenciones desproporcionadas y los costos en salud, .
+El instrumento NECPAL fue creado a partir de una adaptación española de las escalas Prognostic Indicator Guidance (PIG) y el Supportive & Palliative Care Indicators Tool (SPICT), tiene por objetivo identificar oportunamente a personas con necesidades de atención paliativa y pronóstico de vida relativamente limitado. Está compuesto por 14 ítems de respuesta dicotómica (sí/no), estructurados en cuatro dimensiones: la pregunta sorpresa (PS), elección o demanda de CP, indicadores generales de severidad e indicadores específicos. Se considera NECPAL positivo, es decir, con necesidad de atención paliativa, a aquel paciente que cumple con la PS y un ítem extra positivos, .
+En la actualidad, no se cuenta en Chile con instrumentos validados para la identificación de pacientes con necesidad de atención paliativa. Por esta razón, el objetivo de este estudio es adaptar y validar en este país el instrumento NECPAL-CCOMS-ICO 3.1©.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio prospectivo, longitudinal y analítico para la validación de un instrumento. Siguiendo las directrices del International Test Commission, se diseñaron cinco etapas : 1) adaptación cultural, 2) validación de contenido, 3) pilotaje, 4) aplicación y 5) análisis estadístico. La autorización para la adaptación y validación transcultural fue obtenida de los autores.Figura 1
+
+
+-- ADAPTACIÓN CULTURAL
+
+Se realizaron entrevistas cognitivas a médicos que trabajan en Centros de Salud Familiar (CESFAM) de la APS, en las comunas de La Florida y Puente Alto (área sur oriente de Santiago) para explorar factibilidad y equivalencia semántica, es decir, las entrevistas buscaron determinar si los ítems en el instrumento original son aplicables en Chile y si los conceptos y palabras utilizadas son equivalentes en la realidad cultural chilena, . El muestreo fue por conveniencia hasta saturar la información y se realizó un análisis de contenido con codificación deductiva. De este proceso, se obtuvo la primera versión del instrumento.
+
+
+-- VALIDACIÓN DE CONTENIDO
+
+Se analizó la validez de contenido a través del método Delphi electrónico en un panel de expertos, obteniéndose la razón de validez de contenido (RVC) de Lawshe modificado para el instrumento, . La RVC es una medida de acuerdo sobre el grado en que cada uno de los ítems del instrumento son relevantes para lo que se propone medir, su valor mínimo para considerar un ítem aceptable es de 0,58, reflejando un 58% de grado de acuerdo entre el panel. Los criterios de inclusión utilizados fueron: ser profesional médico o de enfermería, con experiencia clínica de al menos tres años en CP y/o formación de post-título en el área, pertenecientes a los ámbitos público y privado del sistema de salud (nivel primario y secundario) y con ejercicio tanto en la Región Metropolitana como en otras regiones del país. La segunda versión del instrumento se obtuvo a partir del análisis de RVC para cada ítem, excluyéndose los ítems con RVC menor a 0,58.
+
+
+-- PILOTAJE
+
+Se realizó un pilotaje de la segunda versión del instrumento en el CESFAM Villa O’Higgins de la comuna de La Florida en Santiago. En una muestra de 14 pacientes con ECA identificados a través del Adjusted Clinical Groups (ACG) del Servicio de Salud Metropolitano Sur Oriente (SSMSO) y categorizados como Resource Utilization Bands (RUB 4 o RUB 5).
+ACG es una herramienta de clasificación de pacientes por carga de enfermedad, considerando aspectos como número de consultas a urgencias, comorbilidades y uso de recursos. Dentro de esta clasificación, RUB los agrupa en quintiles según la intensidad de consumo de recursos, considerándose a los RUB 4 y 5 de alto riesgo.
+El instrumento fue aplicado y respondido por personal médico y de enfermería que conocían a este grupo de sujetos y eran sus tratantes de cabecera. No se tomó contacto con los pacientes y su ficha clínica, solo fue revisada por su tratante en caso de duda. En el pilotaje se midió el tiempo de cumplimentación, la armonía interjueces y la estabilidad (test-retest) con una diferencia de 14 días.
+La armonía interjueces mide el grado de concordancia en la aplicación del test entre dos observadores. La estabilidad del instrumento, evalúa la constancia de las respuestas obtenidas en repetidas ocasiones, en las mismas condiciones y con los mismos sujetos. Se escogió una diferencia de 14 días en el retest por ser un tiempo en el que no se esperan cambios clínicos significativos en los pacientes y por ser lo suficientemente distanciado para evitar recordar las respuestas de la primera aplicación, . De este proceso, se obtuvo la tercera versión y final del instrumento .
+
+
+-- APLICACIÓN
+
+La versión final del instrumento fue aplicada en cuatro CESFAM de las comunas de La Florida, Puente Alto y La Pintana, pertenecientes al SSMSO en Santiago. La población diana fueron pacientes crónicos avanzados RUB 4-5 identificados a través del ACG del SSMSO.
+Se calculó una muestra de cinco veces el número de ítems, valor sobre el cual se estimó un 30% de pérdidas por no respuesta, resultando un mínimo de 91 pacientes. El instrumento fue aplicado por 14 profesionales (personal médico y de enfermería), estos profesionales recibieron una capacitación de 30 minutos sobre el objetivo del instrumento, población diana e instructivo de aplicación, la instancia permitió, además, resolver dudas.
+Se midió la percepción de los profesionales sobre el instrumento (factibilidad) a través de una encuesta electrónica, utilizando una escala tipo Likert sobre: comprensibilidad, lenguaje utilizado, formato y utilidad clínica del instrumento .
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo de las respuestas de la fase piloto y la aplicación. Para el análisis de la estabilidad del instrumento y de la armonía interjueces se calculó el índice de concordancia del test Kappa (κ) para cada uno de los ítems, se efectuó, además, un análisis complementario, correlacionando el puntaje total del instrumento en el tiempo cero y 14 días (test-retest) y entre profesionales, utilizando ρ de Spearman.
+En la validez de constructo, se realizó un análisis de la relación del resultado de la PS con los otros ítems del instrumento, empleando la prueba de X2 y el cálculo de odds ratio (OR). Se utilizó la prueba t de Student para muestras independientes para comparar el puntaje promedio del instrumento entre los grupos con PS positiva y negativa. Nuestra hipótesis fue que los pacientes con PS positiva deberían tener una mayor cantidad de ítems positivos en las preguntas 1 a la 9 del instrumento.
+Se utilizó la regresión logística binaria para el análisis de los ítems que contribuyen a la positividad de la PS, la selección del mejor modelo se hizo usando un método paso-a-paso, considerando inicialmente los ítems del 1 al 9 (anexo 1) como candidatos y seleccionando los significativos con el método stepwise. En el modelo, se incluyeron variables que fueran significativas con p<0,1 y se eliminaron las no significativas con p < 0,05.
+Los resultados obtenidos se analizaron en el programa SPSS (versión 24), se consideró significancia estadística con un valor p < 0,05.
+
+
+-- ASPECTOS ÉTICOS
+
+Esta investigación fue aprobada por el Comité de Ético Científico de la Pontificia Universidad Católica de Chile (código 180702001, 16 de agosto del 2018) y por el Comité Ético Científico del Servicio de Salud Metropolitano Sur Oriente (6 de diciembre del 2018). Todos los participantes del estudio firmaron el correspondiente consentimiento informado.
+
+
+- RESULTADOS
+
+-- ADAPTACIÓN CULTURAL
+
+Se saturó información con cinco entrevistas (60% personal médico y 40% personal de enfermería), experiencia clínica promedio de tres años. Las principales dimensiones que emergieron del análisis fueron: (1) nivel de conocimientos sobre escalas, (2) equivalencias semánticas, (3) discrepancias semánticas y (4) sugerencias . Del análisis del proceso se obtuvo una primera versión de NECPAL-Chile.
+
+
+-- VALIDACIÓN DE CONTENIDO
+
+El panel estuvo conformado por 11 expertos, en su mayoría mujeres (63%), médicos(as) (90,9%), con un promedio de experiencia de trabajo en CP de 12,3 años. Se obtuvo una RVC para cada uno de los ítems de NECPAL que fluctuó entre 0,545 y 0,91, con un RVC para el instrumento de 0,69 y de 0,753, eliminando los ítems con RVC menor a 0,58, después de dos rondas de trabajo.
+La segunda ronda se realizó para profundizar sobre los resultados de los ítems con RVC menor a 0,58 (necesidad de CP, declive cognitivo, malestar emocional y vulnerabilidad social), obteniéndose para todos ellos RVC inferiores a 0,58, por lo que, al no cruzar el umbral definido de Lawshe modificado, se eliminaron de la versión final. Además, el panel sugirió suprimir el índice de fragilidad de Rockwood y reemplazarlo por la escala FRAIL, dado que la primera no se usa en Chile.
+
+
+-- PILOTAJE
+
+El piloto se realizó en una muestra de 14 pacientes, con una media de 70,27±8,4 años, rango de edad de 56 a 86 años, con 60% mujeres y 40% hombres. El tiempo promedio de cumplimentación del instrumento en la primera vez que se aplicaba fue de 6,7±4,01 min, este tiempo disminuyó a 3,9 min (p = 0,00) en la segunda aplicación.
+La estabilidad del instrumento (test-retest por el mismo observador) obtuvo un índice de concordancia del test κ que fluctúo entre 0,632 y 1,0 . La concordancia interjueces obtuvo κ entre 0,192 y 0,692.
+La correlación del puntaje total del instrumento en el tiempo 0 y 14 días (test-retest), utilizando ρ de Spearman fue 0,905 para el personal de enfermería y 0,950 para el personal médico. La correlación del puntaje total entre ambos, utilizando ρ de Spearman fue 0,65 (test) y 0,703 (retest).
+
+
+-- APLICACIÓN
+
+La aplicación de la versión final de NECPAL-Chile fue realizada sobre 118 pacientes, de los cuales, 66,1% fueron mujeres y 33,9% fueron hombres, edad media de 71,92±10,18 años (mínimo 37 y máximo 90 años), de los aplicadores un 71,2% fueron enfermeros(as) y un 28,8% médicos(as) . De los 118 pacientes estudiados, 24 resultaron NECPAL positivo (20,3%) y 94 negativos (79,7%). La principales condiciones o enfermedades asociadas al ítem de severidad fueron fragilidad (23,7%), enfermedad cardiaca crónica (21,2%) y enfermedad pulmonar crónica (12,7%).
+La PS fue positiva (PS + ) en el 20,3% de los pacientes. El puntaje promedio de NECPAL con PS + fue 3,87 y 1,42 con PS negativa (PS -), diferencia de medias 2,44 (p 0,000) utilizando t de Student (IC 95% 1,71 a 3,17).
+Los tres ítems con mayor OR de positividad de la PS fueron los de demanda, declive nutricional y declive funcional, los que al estar presentes aumentan el riesgo de obtener una PS + . El análisis de regresión logística identificó un modelo de dos ítems (demanda + indicadores específicos de severidad) con mayor capacidad predictora sobre la positividad de la PS , con un área bajo la curva de 0,808 (IC 95% 0,697 a 0,918) .Figura 2
+Con relación a la percepción de profesionales, se observó un alto nivel de acuerdo en profesionales aplicadores sobre la sencillez en responder NECPAL, lenguaje comprensible, formato adecuado y utilidad clínica .
+
+
+- DISCUSIÓN
+
+Del proceso de adaptación cultural de NECPAL, se observó que una alta proporción de ítems tienen equivalencia semántica en Chile, sin embargo, fue necesario realizar adaptaciones de palabras, abreviaturas y formato para facilitar su comprensión, manteniendo la equivalencia conceptual con el instrumento original. En este sentido, adaptar un instrumento es necesario previo a su aplicación en una población distinta a la que fue diseñado, ya que una pregunta puede ser válida o no entre un medio cultural y otro, pese a compartir el mismo idioma.
+Cuatro ítems fueron eliminados durante el proceso de validación de contenido por no superar el valor mínimo de RVC. Algunos argumentos vertidos por el panel de expertos fueron el solapamiento de la pregunta de necesidad de CP identificada por profesionales miembros del equipo con la de demanda de atención paliativa que también incorpora la visión del equipo. Por otro lado, la utilidad del ítem se ve mermada por el bajo grado de conocimiento sobre la identificación de necesidades paliativas en profesionales chilenos, esto debido a la baja inclusión de los CP en la formación de pre y postgrado. Se estima que solo un 57% de los planes de estudio de medicina en Chile contienen al menos un curso o clase aislada en CP.
+
+
+-- SOBRE PILOTO
+
+El tiempo de cumplimentación resultó un poco mayor a la experiencia de NECPAL en España (4,77 min) y lo reportado en la validación del instrumento SPICT al español (4,45 min). Sin embargo, se observó una disminución significativa del tiempo en el pilotaje en la segunda aplicación, que podría deberse al aprendizaje y familiarización con el instrumento.
+La estabilidad obtuvo una fuerza de concordancia medida por el coeficiente κ que varió entre considerable a casi perfecta, sin embargo, la concordancia interobservadores (personal médico-enfermería) fue leve a moderada, lo que es concordante con otros estudios que muestran concordancia moderada entre ambos profesionales para la PS, . Este hallazgo puede hacer recomendable el consenso entre el equipo tratante al momento de responder la PS.
+
+
+-- SOBRE RESULTADOS
+
+En la población diana, la condición avanzada más frecuente fueron las insuficiencias crónicas de órgano y la fragilidad, este hallazgo es diferente a lo reportado en cohortes españolas donde predomina la fragilidad-demencia y edades medias mayores a las encontradas en nuestro estudio, aunque concuerdan en el predominio femenino, , . Encontramos que un 24% de los pacientes tenían PS y NECPAL positivos, vs. un 8,6 y 8% en los pacientes mayores de 65 años españoles, esta diferencia se podría deber a que la población diana de nuestro estudio fueron personas con ECA seleccionadas a través de RUB 4-5 de ACG y no la población general.
+
+
+-- LIMITACIONES DEL DISEÑO UTILIZADO
+
+El proceso de adaptación y validación se realizó solo en APS. NECPAL fue diseñado para ser aplicado en todos los niveles asistenciales y servicios sociales. Sin embargo, creemos que la versión validada es aplicable en otros niveles asistenciales, dado que la población diana tiene co-manejo con el nivel secundario-terciario y los profesionales del panel de expertos trabajan además en esos niveles del sistema de salud.
+No realizamos validez de criterio al no contar con otros instrumentos validados en Chile que midan el mismo concepto. El estudio no evaluó la efectividad predictiva de NECPAL, aunque el objetivo del instrumento no es predecir la mortalidad, diversos estudios han explorado esta relación, , , y puede ser un asunto de interés en futuras investigaciones en nuestro país.
+
+
+-- CUIDADOS PALIATIVOS COMO FUNCIÓN ESENCIAL DE LA APS
+
+Contar con una herramienta validada para la identificación precoz de personas con necesidades de atención paliativas en los servicios de salud es un paso fundamental en la implementación de una política pública que brinde atención multidimensional al paciente y su familia.
+Dicha identificación precoz puede tener nuevos desafíos e implicaciones bioéticas para los equipos, como son la comunicación de la identificación de necesidad paliativa, el respeto a los valores y preferencias de los pacientes en las voluntades anticipadas, la educación a los cuidadores y la atención del duelo.
+Se requiere futura investigación sobre los aspectos psicosociales contenidos en la versión original de NECPAL que permitan validar en el país las escalas de malestar emocional y definir las dimensiones de la vulnerabilidad social severa en nuestro contexto, ya que la evaluación psicosocial es un componente esencial del cuidado en este grupo de pacientes.
+En el contexto latinoamericano, nuestro país tiene un buen desarrollo de los CP. Sin embargo, la provisión de atención paliativa ha estado focalizada en los pacientes oncológicos, quedando aquellos con otras ECA sin cobertura. Esta situación representa un desafío para nuestro sistema de salud frente a la necesidad de integrar los CP para todas las personas que lo necesiten como una función esencial de la APS.
+
+
+- CONCLUSIÓN
+
+El instrumento NECPAL es factible de aplicar en Chile, ya que es de corta duración, de fácil aplicación y presenta adecuadas propiedades psicométricas. Esta herramienta permitirá realizar una pesquisa precoz de necesidades de atención paliativa en pacientes con ECA en APS y brindarles una atención integral e integrada.Lo conocido sobre el tema-En Chile, se desconoce la prevalencia de pacientes con enfermedades crónicas avanzadas y necesidad de atención paliativa.-La identificación precoz de la necesidad de atención paliativa a través de instrumentos validados es necesaria para activar la mirada paliativa.-La identificación precoz con instrumentos validados apoya a los profesionales de la salud en la toma de decisiones y en la planificación del cuidado, asegurando una atención de calidad.Qué aporta este estudio-El instrumento NECPAL es factible de aplicar en Chile y posee adecuadas propiedades psicométricas.-En esta validación, las condiciones avanzadas más frecuentes con necesidad de atención paliativa fueron las insuficiencias crónicas de órgano y la fragilidad.-Los ítems de demanda, indicadores específicos de enfermedad y síndromes geriátricos forman un clúster de mayor riesgo de obtener la pregunta sorpresa positiva.
+
+
+- FINANCIACIÓN
+
+Dirección de Postgrado de la Pontificia Universidad Católica de Chile (Fondo Becario Residente N° PB 20/19).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

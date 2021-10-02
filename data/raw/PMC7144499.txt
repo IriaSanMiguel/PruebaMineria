@@ -1,0 +1,657 @@
+TRATAMIENTO EMPÍRICO DE LAS INFECCIONES DEL ADULTO
+
+
+- INTRODUCCIÓN
+
+Las enfermedades infecciosas, sobre todo las respiratorias y las urinarias, son un motivo de consulta frecuente en Atención Primaria (AP). Para su manejo, no suelen ser necesarios métodos diagnósticos complejos, en pocas ocasiones requieren ingreso hospitalario y el tratamiento es fundamentalmente empírico, motivo por el cual no está siempre indicada la prescripción de un antibiótico, ya que la etiología viral es muy frecuente.
+Sin embargo, la resistencia a los antibióticos sigue en aumento y la aparición de nuevos va en descenso. El consumo elevado de antibióticos se reconoce como la principal causa de estas resistencias, con grandes diferencias entre los distintos países.
+La mayoría de las prescripciones de antibióticos (80-90%) se realizan en medicina de familia y en pediatría ambulatoria, y en la actualidad persiste un uso excesivo y un mal uso de los antibióticos en el tratamiento de las enfermedades infecciosas.
+En España sigue habiendo un consumo/prescripción de antibióticos elevado, sobre todo de los denominados de amplio espectro, con un aumento de resistencias actualmente más llamativo para bacterias gramnegativas.
+Según el informe anual del European Antimicrobial Resistance Surveillance Network 2011-2012, existe un aumento de resistencias a los antimicrobianos en toda Europa en los patógenos gramnegativos estudiados (Escherichia coli, Klebsiella pneumoniae y Pseudomonas aeruginosa), con tendencia al alza de resistencias combinadas de E. coli y K. pneumoniae; asimismo, se comprueba una estabilización de las resistencias a los gérmenes grampositivos (Streptococcus pneumoniae, Staphylococcus aureus y Enterococcus faecalis), .
+Es importante tener en cuenta que los pacientes a los que se prescribe un antibiótico en AP para una infección respiratoria o urinaria desarrollan una resistencia bacteriana a ese antibiótico y que el efecto es mayor en el mes siguiente al tratamiento, efecto que puede persistir durante 12 meses.
+Son numerosos los factores que intervienen en la elevada e incorrecta prescripción de antibióticos en nuestro país; entre otros, la presión asistencial del médico prescriptor, la formación continuada, el tiempo asignado para la atención de cada paciente, la educación sanitaria de la población y la presión del propio paciente para la obtención del citado antibiótico. A este respecto, según el eurobarómetro de noviembre de 2013, el 46% de los españoles todavía cree que los antibióticos son efectivos contra resfriados y gripe, y un 38% de los adultos (seguramente mucho más en niños) habían tomado antibióticos en el último año para tratar la gripe, el resfriado o el dolor de garganta.
+Por todo esto, es sumamente importante insistir y formar tanto a profesionales sanitarios como a la población general en el uso racional de los antibióticos. En los profesionales hay que evitar la sobreprescripción y fomentar las habilidades de comunicación para explicar claramente al paciente la evolución del proceso, teniendo en cuenta además que no por prescribir un antibiótico en procesos virales se va a disminuir la frecuentación ante los mismos procesos, y potenciar la entrega a los pacientes de material informativo por escrito que explique claramente la correcta utilización de estos medicamentos, .
+
+
+- INFECCIONES RESPIRATORIAS
+
+-- INFECCIONES RESPIRATORIAS DE VÍAS ALTAS
+
+--- FARINGOAMIGDALITIS AGUDA
+
+Se trata de la patología infecciosa más frecuente en AP. Consiste en la inflamación difusa de los folículos linfoides de la faringe y las amígdalas. Su principal etiología es viral (70-80%). Streptococcus betahemolítico del grupo A (S. pyogenes, EBHGA) es el causante del 5-10% de los casos y también de las complicaciones derivadas de su infección. Esto hace que sea una etiología importante no por su frecuencia, pero sí por sus implicaciones. Recientemente están en estudio otros agentes bacterianos, indistinguibles clínicamente del EBHGA, capaces de producir también complicaciones importantes y susceptibles de tratamiento antibiótico. Otras etiologías, también infecciosas, son menos frecuentes. Véase etiología en tabla 1 .
+
+
+--- MANIFESTACIONES CLÍNICAS
+
+En general, fiebre (> 38°), exudados faringoamigdalares y adenopatías laterocervicales inflamatorias como síntomas más frecuentes. Otros menos frecuentes son mialgias generalizadas, cefalea, náuseas y dolor abdominal.
+S. pyogenes (estreptococo betahemolítico del grupo A) es importante por las complicaciones supurativas (celulitis periamigdalina, absceso periamigdalino y retrofaríngeo y linfadenitis cervical supurativa) y no supurativas (fiebre reumática, glomerulonefritis postestreptocócica y escarlatina).
+Los estreptococos betahemolíticos C y G, de importancia creciente, están asociados a brotes de faringitis por alimentos (leche, ensalada de huevos y pollo) y causan brotes endémicos en adultos.
+Fusobacterium necrophorum causa brotes de faringoamigdalitis indistinguibles clínicamente de la producida por EBHGA en adolescentes y adultos jóvenes (15-24 años), con una incidencia estimada según algunas publicaciones del 10%, cuya complicación más temida de esta infección es el síndrome de Lemierre (tromboflebitis séptica de la vena yugular interna e infecciones metastásicas).
+
+
+--- MÉTODOS DIAGNÓSTICOS
+
+El diagnóstico clínico de una faringoamigdalitis es sencillo, lo complicado es el diagnóstico etiológico. Esto es importante porque el tratamiento se realiza de forma empírica en la consulta sin petición de exploraciones complementarias.
+Todo aquello que pueda contribuir a aumentar la certeza en el diagnóstico será de gran utilidad práctica.
+Los pilares del diagnóstico son: criterios clínicos, métodos de diagnóstico rápido y el cultivo faríngeo:
+1. Criterios clínicos. A los criterios clásicos de Centor y McIsaac (tabla 2 ) se asocian los aparecidos recientemente denominados FeverPAIN: fiebre en las últimas 24 horas (fever), pus (purulence), fiebre, acudir rápidamente al médico (atend rapidly), inflamación amigdalar importante (severe inflammation) y ausencia de tos y rinorrea (no cogh or coryza).
+Con el aumento del número de criterios clínicos clásicos aumenta la probabilidad de infección por EBHGA (u otras etiologías bacterianas) (más de 4 criterios: 51-57% de probabilidad de infección por EBHGA), .
+Los criterios FeverPAIN sugieren gravedad del cuadro clínico. Sin embargo, únicamente con los criterios clínicos no puede realizarse un diagnóstico etiológico de certeza. Se requiere confirmación bacteriológica (grado de recomendación A).
+2. Cultivo faríngeo. Es el método estándar para el diagnóstico etiológico. Realizado correctamente tiene una sensibilidad del 90-95% para detectar EBHGA u otros gérmenes (grado de recomendación A). Los problemas más importantes en cuanto a su aplicación en la consulta diaria son que los resultados tardan 24-48 h, que con el cultivo no se distingue infección aguda o portadores, y que para la identificación de anaerobios se requiere de unas condiciones técnicas muy estrictas, habitualmente no disponibles en las consultas de AP.
+3. Test de detección rápida de antígenos (TAR). Se llevan a cabo en la consulta, de fácil realización y de utilidad ante la duda clínica, tienen una especificidad del 94-98%, una sensibilidad del 60-86%, un valor predictivo negativo (VPN) del 98,5% y un valor predictivo positivo (VPP) del 79,2% (grado de recomendación A) (la validez depende de la técnica de recogida de la muestra).
+Actualmente, los test disponibles en la consulta solo aíslan el EBHGA (Strep. A). Sin embargo, hay otros gérmenes que producen faringoamigdalitis indistinguible clínicamente de la producida por EBHGA y que serían estreptococos A negativos (S. dysgalactiae, F. necrophorum, S. anginosus), por lo que en artículos recientes se hace referencia a que un porcentaje no despreciable de adultos con faringoamigdalitis, en los que el estreptococo A ha resultado negativo, podría beneficiarse de tratamiento antibiótico porque el cultivo faríngeo ha resultado positivo, siendo de utilidad igualmente los criterios clínicos expuestos anteriormente.
+
+
+--- MANEJO
+
+Las sociedades científicas más importantes en enfermedades infecciosas (NZ, IDSA, AHA, NICE, SIGN) recomiendan para el manejo de las faringoamigdalitis la utilización de los criterios clínicos expuestos anteriormente, y en la mayoría de los casos no iniciar tratamiento antibiótico si no se tiene confirmación microbiológica (cultivo o TAR) (grado de recomendación B).
+Si existe una elevada sospecha clínica de etiología bacteriana, no se dispone de TAR o sintomatología grave se podría iniciar tratamiento antibiótico de forma empírica.
+Si existe una fuerte sospecha clínica de etiología vírica (<2), estaría indicado prescribir tratamiento sintomático. Véase figura 1 .Figura 1
+
+
+--- TRATAMIENTO
+
+Tratamiento sintomático. Indicado para mejorar los síntomas. Analgésicos y antitérmicos para calmar el dolor y la fiebre (grado de recomendación C).
+Tratamiento antibiótico , . Indicado para la infección por EBHGA (5-10% de casos en adultos) y probablemente para las infecciones producidas por otros gérmenes que pueden ocasionar complicaciones, como S. dysgalactiae, F. necrophorum y S. anginosus. Los objetivos del tratamiento antibiótico serían: prevención de la fiebre reumática aguda, prevención de complicaciones supurativas y de otras complicaciones (síndrome de Lemierre), y disminución de la propagación de la enfermedad con reducción de la infectividad. Sin embargo, resultan modestamente eficaces para reducir los síntomas. En la tabla 3 podemos ver el tratamiento antibiótico indicado (grado de recomendación B).
+Tratamiento quirúrgico. La amigdalectomía está indicada en amigdalitis de repetición, más de 5 episodios al año, invalidantes (que impiden el desarrollo de una vida normal).
+
+
+--- CRITERIOS DE DERIVACIÓN
+
+Sospecha de complicaciones locales: absceso periamigdalino o parafaríngeo. Sospecha de difteria o angina de Lemierre.
+
+
+--- SINUSITIS AGUDA
+
+Es una enfermedad inflamatoria de uno o más senos paranasales. Los más frecuentemente afectados son los senos maxilares. Actualmente se acepta que la sinusitis es una parte inherente del síndrome del resfriado común. Así, el resfriado común es en realidad una rinosinusitis viral (RSV) que puede evolucionar hacia la curación o hacia una sinusitis aguda bacteriana (SBA).
+Por tanto, la etiología inicialmente será de etiología viral (RSV) y posteriormente (a los 7-10 días) bacteriana (SBA).(tabla 4 ).
+Son factores favorecedores: obstrucción del ostium de drenaje (tumores, pólipos, atopia), tabaco, asma, fibrosis quística, embarazo, infecciones dentales crónicas e inmunosupresión.
+
+
+--- MANIFESTACIONES CLÍNICAS
+
+Tienen baja sensibilidad y especificidad (69-64%), aunque son un pilar importante para el diagnóstico. No es fácil distinguir clínicamente la RSV de la SBA. La RSV es la misma enfermedad que el resfriado común (estornudos, rinorrea purulenta, obstrucción nasal, presión facial y cefalea). La mayoría mejora a los 7-10 días, y este es un rasgo esencial para distinguir la RSV de la SBA. La SBA se superpone a la RSV preexistente. No es posible separar los rasgos clínicos, excepto por la evolución. Las características más clásicas de la sinusitis aguda bacteriana extrahospitalaria (T ≥ 38 °C, dolor facial y eritema) se producen en algunos casos, pero son poco frecuentes.
+En la tabla 5 se exponen una serie de criterios clínico-exploratorios que pueden ser de utilidad.
+
+
+--- CRITERIOS DIAGNÓSTICOS
+
+Clínico. Mayor sensibilidad y especificidad. Son altamente sugestivos de SBA: la duración superior a 7- 10 días, el curso bifásico o el empeoramiento de los síntomas de RSV (grado de recomendación A).
+Determinación de PCR. Puede orientar al diagnóstico. Niveles > 40 en adultos después de siete o más días de síntomas se correlaciona con etiología bacteriana, con una especificidad del 78% y una sensibilidad del 52%. Valores inferiores a 10 hacen muy poco probable la etiología bacteriana.
+Cultivo de moco nasal. No sirve para el diagnóstico ni para evaluar el tratamiento.
+Cultivo de exudado por punción y aspiración del seno. Patrón de referencia para el diagnóstico, pero al ser una técnica muy invasiva no se utiliza rutinariamente (grado de recomendación A).
+Radiografía simple de senos. No presenta mayor sensibilidad que el diagnóstico clínico.
+Tomografía computarizada (TC) y resonancia magnética (RM). Reservadas para complicaciones, procesos crónicos y diagnósticos poco claros. De todas formas, no distinguen entre infección viral o bacteriana.
+En la figura 2 se muestra el manejo de la sinusitis aguda bacteriana del adulto.Figura 2
+
+
+--- TRATAMIENTO
+
+Medidas generales. No hay evidencias suficientes para avalar los tratamientos coadyuvantes, excepto los lavados nasales con soluciones salinas. No acortan la duración. Pueden aliviar la sintomatología (grado de recomendación A).
+Tratamiento antibiótico. El tratamiento antibiótico no está indicado inicialmente, sobre todo ante manifestaciones clínicas leves (grado de recomendación B). El tratamiento antibiótico no logra un cambio importante en las curaciones clínicas ni existen diferencias en las tasas de recidivas y recurrencias en los tratados con antibióticos (grado de recomendación A). Estaría indicado cuando se sospeche la presencia de SBA (grado de recomendación A).
+En la tabla 6 está reflejado el tratamiento antibiótico recomendado.
+
+
+--- CRITERIOS DE DERIVACIÓN
+
+Sinusitis crónica o recurrente.
+Sospecha clínica de complicaciones orbitarias o intracraneales, fiebre alta, estado tóxico, dolor facial intenso, inmunosupresión.
+
+
+--- OTITIS
+
+Proceso inflamatorio o infeccioso que afecta al oído externo (otitis externa) o al oído medio (otitis media); esta última es mucho más frecuente en niños.
+La etiología y manifestaciones clínicas de los distintos tipos de otitis se muestran en la tabla 7 .
+El diagnóstico es clínico (v. tabla 7). Ante una otitis no es necesario solicitar ninguna exploración complementaria.
+
+
+-- TRATAMIENTO
+
+A. Otitis externas , , .
+Medidas generales: evitar factores predisponentes (manipulaciones del conducto auditivo externo [CAE]). Intentar mantener seco el oído. No utilizar tapones.
+B. Otitis externa difusa. Tratamiento tópico en la mayor parte de los casos, , :•Antisépticos. Alcohol boricado de 70° o ácido acético en solución al 2%. Se utilizan sobre todo para profilaxis de otitis de repetición (instilar unas gotas tras el baño o la ducha). No se utilizan como tratamiento de la otitis externa.•Antibióticos:
+–Combinaciones de polimixina B + aminoglucósido + corticosteroide: 4-6 gotas/6-8 h durante 7 días. Tratamiento efectivo y barato. Puede producir dermatitis. Ototoxicidad (contraindicado en caso de perforación timpánica).–Ciprofloxacino: 4 gotas/12 h durante 7 días. Efectivo, no ototóxico (utilizar en caso de perforación timpánica).–Si hay edema del CAE: ciprofloxacino/fluocinolona tópico, 2-4 gotas/12 h durante 7 días.
+Si la otitis es persistente, se acompaña de afectación de tejidos blandos o del oído medio, está indicado el tratamiento antibiótico por vía oral (activos frente Pseudomonas y estafilococos). Los antibióticos a utilizar son:•Cloxacilina: 500 mg/6 h durante 7-10 días.•Amoxicilina-clavulánico: 500-875-125 mg/8 h durante 7-10 días.
+C. Otitis externa circunscrita. El tratamiento es por vía oral: analgésicos o antiinflamatorios en caso de dolor, aplicación de calor seco y cloxacilina 500 mg/ 6 h durante 7-10 días.
+Si existe afectación de tejidos blandos (celulitis): administrar amoxicilina/clavulánico 875-125 mg/8 h durante 7 días.
+En alérgicos a la penicilina: clindamicina 300 mg/8 h durante 7-10 días.
+D. Otomicosis. Inicialmente limpieza/aspiración del CAE (criterio de remisión a otorrinolaringología). Aplicación de 3-4 gotas/8 h durante 7 días de alcohol boricado o clotrimazol. Si la infección fuera por Aspergillus, el tratamiento indicado sería itraconazol por vía oral.
+E. Otitis externa maligna. Su sospecha es un criterio de derivación a hospital.
+F. Otitis media aguda , , .
+Medidas generales. Analgésicos o antiinflamatorios para la fiebre o el dolor (grado de recomendación A). No está indicada la utilización de gotas nasales, óticas, mucolíticos o antihistamínicos, y como medidas no farmacológicas podemos aconsejar: evitar la entrada de agua, hidratación adecuada y evitar el humo del tabaco y otros contaminantes.
+Tratamiento antibiótico. En mayores de 2 años con otitis media sin signos de gravedad se aconseja una actitud expectante (espera vigilante), no prescribiendo antibióticos de entrada o, en todo caso, realizar una prescripción diferida (grado de recomendación A).
+El tratamiento antibiótico estará indicado en casos graves: niños menores de 2 años, sintomatología grave (dolor intenso, vómitos y fiebre > 39 °C), otorrea, otitis media de repetición, otitis media bilateral, perforación timpánica o enfermedad grave de base (grado de recomendación A).
+En la tabla 8 se indica el tratamiento antibiótico recomendado (grado de recomendación A).
+
+
+--- CRITERIOS DE DERIVACIÓN
+
+•Otitis externa maligna.•Para aspiración del CAE en otomicosis.•Sospecha de complicación: mastoiditis o complicación endocraneal.•Mala evolución en otitis media aguda: otitis crónica o duración > una semana.
+
+
+-- INFECCIONES RESPIRATORIAS DE VÍAS BAJAS
+
+--- BRONQUITIS AGUDA
+
+La bronquitis aguda es una enfermedad inflamatoria que afecta al árbol traqueobronquial, asociada generalmente a una infección respiratoria. Etiología: viral en el 90-95% de los casos (virus respiratorio sincitial, parainfluenza, virus A y B de la gripe, coronavirus, adenovirus, rinovirus). Bacteriana: Chlamydophila pnemoniae, 5%; Mycoplasma pneumoniae, 1%; Bordetella pertussis, 1%.
+
+
+--- CLÍNICA, MÉTODOS DIAGNÓSTICOS Y EXPLORACIONES COMPLEMENTARIAS
+
+El síntoma más común es la tos aguda, que empeora por la noche, y persiste típicamente entre 2 y 3 semanas. Puede acompañarse de expectoración mucopurulenta, sin que ello indique etiología bacteriana, disnea, dolor torácico, febrícula y aumento de ruidos respiratorios. El diagnóstico es puramente clínico. No se recomienda la realización de cultivo viral, pruebas serológicas ni análisis de esputo (grado de recomendación C). La radiografía de tórax solo debe solicitarse ante la sospecha de un proceso neumónico; estertores o signos de consolidación en la auscultación pulmonar, signos vitales anormales (frecuencia cardiaca > 100 lat/min, frecuencia respiratoria > 24 resp/min, T.ª > 38 °C), persistencia de clínica infecciosa evidente tras tratamiento sintomático (7-10 días) en presencia de factores de riesgo de complicación bacteriana (edad > 75 años, pacientes con comorbilidad), persistencia de la tos tras 3-4 semanas, en ausencia de otra causa conocida, , .El diagnóstico diferencial debe realizarse con el resfriado común, el reflujo gastroesofágico, el asma y la exacerbación de la enfermedad pulmonar obstructiva crónica (EPOC). Si la tos persiste más de 21 días, deben realizarse otras pruebas para descartar tuberculosis, tumores, aspiración de cuerpo extraño u otros procesos crónicos del árbol traqueobronquial.
+
+
+--- TRATAMIENTO
+
+Al tratarse de un proceso autolimitado, la mayoría de pacientes requieren solo tratamiento sintomático. Se puede ofrecer paracetamol y antiinflamatorios no esteroideos (AINE), para la fiebre y el malestar general. Existen pocos datos que respalden el uso de antitusígenos, por lo que no se recomienda su uso generalizado (grado de recomendación C). Los resultados procedentes de revisiones sistemáticas no apoyan el uso rutinario de broncodilatadores agonistas beta2 para el tratamiento de la bronquitis. Puede ser útil el tratamiento a corto plazo en pacientes seleccionados con obstrucción del flujo aéreo (grado de recomendación C). No se aconseja el uso de mucolíticos (grado de recomendación D) , , . Existe recomendación de no tratar con antibióticos (grado de recomendación A); la actitud expectante y el uso diferido son buenas opciones para limitar el uso inadecuado de antimicrobianos, , , que se utilizarán si los síntomas no se resuelven o empeoran tras 7-14 días, . Las indicaciones de tratamiento inicial con antibioticoterapia se reservan para grupos de riesgo y en caso de sospecha de infección por B. pertussis . Véase tabla 9 .
+
+
+--- CRITERIOS DE DERIVACIÓN
+
+Criterios de gravedad: obnubilación, taquipnea > 35 resp/min, insuficiencia respiratoria atribuible a comorbilidad.
+
+
+--- EXACERBACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+Una exacerbación de la EPOC es un episodio agudo caracterizado por un empeoramiento de los síntomas respiratorios basales del paciente, que va más allá de la variación normal del día a día y conduce a un cambio en la medicación. Incluye uno o más de los siguientes síntomas: aumento de la disnea, aumento de la tos, cambios en la producción de esputo con aumento de la producción y/o purulencia.
+Etiología: El 50-70% de las exacerbaciones de la EPOC se deben a infecciones respiratorias (tabla 10 ). Otras causas son la contaminación ambiental, inadecuada cumplimentación del tratamiento inhalado de base, empeoramiento de enfermedades coexistentes y etiología desconocida.
+
+
+--- PRESENTACIÓN CLÍNICA, MÉTODOS DIAGNÓSTICOS Y EXPLORACIONES COMPLEMENTARIAS
+
+El diagnóstico es clínico, con empeoramiento de los síntomas respiratorios respecto a su situación basal previa. Debe constar en la anamnesis el diagnóstico previo de EPOC, los síntomas de la agudización incluyendo disnea, color del esputo y aumento de volumen del esputo, historial de agudizaciones previas (dos o más reagudizaciones en el último año, riesgo de fracaso terapéutico), comorbilidad y gravedad basal de la EPOC. Realizar exploración física con medición de la presión arterial, temperatura, frecuencia cardiaca y respiratoria, pulsioximetría, valoración de uso de musculatura accesoria, estado mental, cianosis y edemas periféricos. No se recomienda la realización de espirometría durante la exacerbación. No está indicada la práctica de un cultivo de esputo ni la radiografía de tórax de forma rutinaria. Realizar esta última si se sospecha neumonía. El diagnóstico diferencial debe plantearse con neumonía, embolia pulmonar, insuficiencia cardiaca congestiva, arritmia cardiaca, neumotórax y derrame pleural, .
+
+
+--- TRATAMIENTO
+
+Se debe ajustar el tratamiento broncodilatador con agonistas beta-2-adrenérgicos de acción corta con o sin anticolinérgicos de acción corta y abandonar el tabaco (grado de recomendación A). Administrar corticoterapia oral en las exacerbaciones moderadas (FEV1 basal < 50%, comorbilidad cardiaca no grave, historia de dos o más agudizaciones en el último año), y en las exacerbaciones graves o muy graves, 0,5 mg/kg/día (máximo 40 mg/día) por vía oral de prednisona o equivalente, . Estudios recientes recomiendan mantener la pauta de corticosteroides durante 5 días, por ser igual de efectivas que pautas más largas (grado de recomendación A) , .
+Antibioterapia. Se recomienda utilizar antibióticos durante una agudización siempre que aparezca un cambio de coloración del esputo, , , en las agudizaciones moderadas o graves, donde a pesar de ausencia de purulencia exista incremento de la disnea y del volumen del esputo, y en las agudizaciones muy graves que requieran asistencia ventilatoria, . El tratamiento de primera elección es amoxicilina-clavulánico (875-125 mg/8 h por vía oral durante 8-10 días), y el de segunda elección, o en caso de alergia a la penicilina, es el levofloxacino (500 mg/24 h por vía oral durante 7 días) o el moxifloxacino (400 mg/24 h por vía oral durante 5 días). Algunos autores plantean como alternativa también las cefalosporinas orales de 2.ª o 3.ª generación, . En la EPOC moderada-grave sin criterios de ingreso, pero con sospecha de infección por Pseudomonas aeruginosa, se recomienda tratamiento con ciprofloxacino (750 mg/12 h por vía oral durante 10 días) o levofloxacino (500 mg/24 h por vía oral durante 7 días), , . Véase figura 3 .Figura 3
+
+
+--- SEGUIMIENTO Y CRITERIOS DE DERIVACIÓN<XREF RID="BIB0245" REF-TYPE="BIBR"><SUP>49</SUP></XREF
+
+En todos los episodios de exacerbación se recomienda realizar un seguimiento a las 48-72 h de la primera consulta, para valorar la respuesta al tratamiento, realizar los ajustes necesarios de la medicación y valorar posibles síntomas o signos que indiquen derivación hospitalaria. Estos criterios de derivación se describen en la figura 3.
+
+
+--- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+---- DEFINICIÓN
+
+La neumonía adquirida en la comunidad (NAC) es una infección aguda del parénquima pulmonar que se manifiesta por signos y síntomas de infección respiratoria baja, asociados a un infiltrado nuevo en la radiografía de tórax no explicable por otra causa, y que se presenta en pacientes no hospitalizados o en aquellos pacientes hospitalizados que presentan esta infección aguda en las 24-48 horas siguientes a su ingreso, o en pacientes que no hayan sido ingresados en un hospital los 14 días previos al inicio de los síntomas. Quedarían excluidos los pacientes de menos de 16 años de edad, inmunodeprimidos, con neumonías nosocomiales, neumonía por aspiración, pacientes con fibrosis quística o tuberculosis, mujeres embarazadas o residentes en centros de larga estancia.
+
+
+---- ETIOLOGÍA<XREF RID="BIB0255" REF-TYPE="BIBR"><SUP>51</SUP></XREF
+
+Los hallazgos etiológicos más frecuentes en los pacientes ambulatorios y hospitalizados se muestran en la tabla 11 . Si bien en un gran número de casos el patógeno casual es desconocido, el más frecuente es S. pneumoniae, causante de las dos terceras partes de las bacteriemias por este proceso. La frecuencia del hallazgo de M. pneumoniae puede depender de si el estudio se ha efectuado o no en años epidémicos. En las personas mayores de 65 años o menores con ciertos trastornos subyacentes, como tabaquismo, EPOC, fibrosis quística, esplenectomizados, inmunosuprimidos, en tratamiento con corticosteroides, accidente cerebrovascular, consumo de alcohol, edema pulmonar, etc., es más frecuente la infección por Haemophilus influenzae y otros gérmenes menos habituales con evolución más grave.
+
+
+---- PRESENTACIÓN CLÍNICA, MÉTODOS DIAGNÓSTICOS Y EXPLORACIONES COMPLEMENTARIAS
+
+La presentación clínica es inespecífica, con signos y síntomas de una infección de vías respiratorias bajas y afectación del estado general, incluyendo fiebre, escalofríos, tos seca o productiva, dolor torácico tipo pleurítico, taquipnea, confusión mental y hallazgos en la auscultación de ocupación del espacio alveolar como matidez, diminución del murmullo vesicular, crepitantes localizados o soplo tubárico. Una auscultación normal no descarta una neumonía, y en ancianos no es infrecuente la ausencia de fiebre y la aparición de confusión y empeoramiento de enfermedades subyacentes.
+No existe ninguna característica ni signo clínico que permita determinar la etiología de una NAC con suficiente fiabilidad. Sin embargo, la infección por S. pneumoniae es más frecuente en pacientes de edad avanzada, con enfermedades subyacentes o con un comienzo súbito, fiebre alta y dolor torácico de características pleuríticas. Las bacteriemias en las NAC neumocócicas se producen con mayor frecuencia en pacientes del sexo femenino, consumidores de alcohol, pacientes con diabetes mellitus, EPOC y en aquellos que presentan tos no productiva. La NAC causada por Legionella pneumophila es más común en pacientes jóvenes, fumadores, sin comorbilidades asociadas y que presenten síntomas de diarrea, signos de infección grave y afectación neurológica multisistémica. La hiponatremia, la hipofosfatemia y la hematuria también se han relacionado con este microorganismo. La NAC causada por M. pneumoniae es más frecuente en pacientes jóvenes, y es menos habitual la afectación multisistémica y más común que los pacientes hayan sido tratados con antibióticos antes del diagnóstico de NAC. Las neumonías virales se han descrito con elevada frecuencia en pacientes con fallo cardiaco congestivo. No obstante, la distinción clásica entre neumonía típica, causada habitualmente por S. pneumoniae, y atípica, causada habitualmente por los géneros Mycoplasma y Chlamydophila, está en desuso y no debe utilizarse en la toma de decisiones terapéuticas.
+Tras el diagnóstico de sospecha, mediante anamnesis y exploración física, se debe realizar una radiología de tórax para establecer el diagnóstico de confirmación, . Al no existir un patrón radiológico exclusivo para cada microorganismo, la radiografía no nos va a permitir realizar un diagnóstico etiológico, pero sí que nos va a servir para detectar posibles complicaciones (derrame pleural, cavitación, afectación multilobar y/o bilateral), existencia de otras enfermedades pulmonares asociadas y valorar otros posibles diagnósticos alternativos, así como la posibilidad de reducir el uso de antibióticos en las infecciones del tracto respiratorio inferior, .
+En las neumonías tratadas en AP no se recomiendan estudios serológicos ni pruebas microbiológicas, como cultivos de esputo o tinción de Gram (grado de recomendación B) , . Sí está recomendado utilizar la proteína C reactiva (PCR) capilar para orientar la etiología bacteriana. La aplicación de la PCR en AP sería una prueba de cribado para diferenciar una infección del tracto respiratorio inferior como la bronquitis aguda de la NAC. No se deben ofrecer antibióticos si la concentración de PCR es inferior a 20 mg/l; considerar una prescripción diferida de antibióticos (receta para uso posterior si los síntomas empeoran) ante cifras entre 20 mg/l y 100 mg/l, y prescribir antibióticos si la PCR es mayor de 100 mg/l55. Actualmente, la prueba no está disponible en la mayoría de los centros de salud. Algunos autores recomiendan la medición de la saturación de oxígeno mediante pulsioximetría (grado de recomendación D), ya que saturaciones de oxígeno menores del 92% serían criterio de derivación hospitalaria.
+
+
+---- TRATAMIENTO
+
+En todo paciente con neumonía es importante saber el grado de gravedad que presenta para valorar el lugar más apropiado para su manejo, si en AP o en atención hospitalaria, y cuál será el tratamiento empírico más adecuado. Hay diversas escalas pronósticas para pacientes con neumonía; la más recomendada en atención primaria es el CRB65, que valora el riesgo de mortalidad dando un punto a las siguientes circunstancias: existencia de confusión, frecuencia respiratoria elevada (≥30 resp/min), presión arterial baja (diastólica ≤ 60 mmHg o sistólica < 90 mmHg) y edad ≥ 65 años (tabla 12 ). El juicio clínico junto con la puntuación CRB65 nos servirá para decidir el manejo más adecuado del paciente, considerando manejo ambulatorio en pacientes con puntuación 0, y la necesidad de evaluación hospitalaria en el resto de pacientes, especialmente en aquellos con una puntuación de 2 o más.
+El tratamiento de la neumonía debe contemplar siempre la administración de un antibiótico tan pronto como sea posible después del diagnóstico, ya que disminuye la morbimortalidad asociada al episodio. El tratamiento antimicrobiano debe ser empírico, conociendo las resistencias locales, y seguir un enfoque en función del riesgo de mortalidad, . Existen variaciones entre las recomendaciones de las diferentes sociedades y organismos sobre el tratamiento antibiótico, . Pero se debe cubrir siempre el neumococo resistente a penicilinas y macrólidos, por lo que se deberán administrar de primera elección betalactámicos a dosis elevadas y evitar macrólidos en monoterapia. Se debe considerar la posibilidad de infección por gérmenes atípicos, aunque no es necesario cubrirlos en todos los casos, por lo que no se debe administrar rutinariamente en NAC de baja gravedad una fluoroquinolona o terapia antibiótica dual (betalactámico más macrólido), aunque si se recomienda hacerlo en casos moderados-graves, . Una revisión Cochrane del año 2014 concluye que las pruebas disponibles de ensayos clínicos aleatorizados recientes no son suficientes para hacer nuevas recomendaciones basadas en la evidencia para la elección del antibiótico que se utiliza para el tratamiento de la NAC en pacientes ambulatorios. Y publicaciones recientes indican que el tratamiento con betalactámicos en monoterapia no es inferior a los tratamientos con una combinación de betalactámicos más macrólido o fluoroquinolonas en monoterapia, respecto a la mortalidad a los 90 días, ni se asoció a mayor estancia hospitalaria ni incidencia de complicaciones (tabla 13 ). Además de antibióticos, debe recomendarse a todos los pacientes reposo, hidratación adecuada, abstención de fumar y analgésicos simples como el paracetamol o los AINE para la fiebre o el dolor pleurítico (grado de recomendación C) .
+
+
+---- SEGUIMIENTO Y CRITERIOS DE DERIVACIÓN
+
+A las 48-72 h de iniciado el tratamiento empírico, debe realizarse un control clínico en todo paciente con neumonía. Si existe fracaso terapéutico, con persistencia de fiebre elevada o empeoramiento de los síntomas, se procederá al cambio de tratamiento antibiótico o derivación al hospital. Los criterios de derivación hospitalaria, se describen en la figura 4 y en la tabla 12. Se debe explicar al paciente que después de empezar el tratamiento los síntomas deben mejorar de manera constante, y aunque la tasa de mejoría variará con la gravedad de neumonía, a la semana la fiebre debería haber desaparecido; a las 4 semanas, el dolor pleurítico y la producción de esputo deberían haberse reducido sustancialmente; a las 6 semanas debería haber mejorado la tos y sensación de disnea; a los 3 meses la mayoría de los síntomas deberían haberse resuelto, aunque el cansancio puede persistir, y que a los 6 meses la mayoría de pacientes se encuentran completamente asintomáticos. A las 6 semanas se recomienda control mediante radiografía de tórax en aquellos pacientes con persistencia de síntomas o signos clínicos, y en pacientes con mayor riesgo de presentar enfermedad maligna subyacente (fumadores y mayores de 50 años) (grado de recomendación D) .Figura 4
+
+
+--- INFECCIONES DE PIEL Y TEJIDOS BLANDOS
+
+Las infecciones cutáneas y de tejidos blandos forman un conjunto muy amplio de cuadros clínicos que presentan distinto pronóstico y que afectan a piel y anejos cutáneos, tejido celular subcutáneo, fascia profunda y músculo estriado. Constituyen una de las infecciones más prevalentes en nuestro medio, junto con las infecciones respiratorias y urinarias. El 33% de los motivos de consulta en AP son procesos infecciosos; de ellos, el 13% son infecciones cutáneas, , .
+De entre todas las infecciones cutáneas, las más graves son las fascitis necrosantes y la mionecrosis, con rangos de mortalidad superiores al 70%.
+Así pues, por la alta prevalencia que presenta este tipo de infecciones en AP y por la gravedad que puede llegar a representar, consideramos fundamental que el médico de familia conozca y esté actualizado en su manejo correcto.
+Clasificación. En la tabla 14 se muestran las infecciones más frecuentes.
+
+
+-- INFECCIONES BACTERIANAS
+
+Etiología. Véase la tabla 15 .
+
+
+--- IMPÉTIGO
+
+Es una piodermitis superficial que afecta a la epidermis; se cura dejando mácula superficial y en ocasiones cicatriz. Se presenta en forma de ampolla epidérmica –visible en el caso del impétigo ampollar y no visible en el no ampollar– que se rompe fácilmente y el líquido al secarse forma costras melicéricas (que recuerdan a la miel). Afecta sobre todo a zonas corporales expuestas (cara y miembros). En cuanto a sus formas clínicas, la ampollar es producida siempre por S. aureus y la no ampollar tanto por S. pyogenes como por S. aureus, y representa más del 70% de los casos de impétigo. El impétigo producido por S. pyogenes puede sobreinfectarse con S. aureus y constituye el impétigo mixto. El diagnóstico suele ser clínico. Véase imagen en figura 5 .Figura 5
+
+
+--- ERITRASMA
+
+Conocido también como corinebacteriosis cutánea, causada por Corynebacterium minutissimum. Se considera residente habitual de la piel. Este bacilo produce una porfirina de la cual depende la fluorescencia de las lesiones. El eritrasma se localiza principalmente en pliegues inguinales, axilares o submamarios y se caracteriza por placas de color café claro o discretamente rojizo al principio, y después de un tono marrón. Normalmente son asintomáticas, aunque algunos pacientes pueden referir prurito leve. La evolución es crónica y sin tendencia a la remisión. Cuando afecta a los espacios interdigitales de pies se manifiesta por placas eritematosas, maceración, descamación, vesiculoampollas y olor fétido. Véase imagen en figura 6 .Figura 6
+
+
+--- ERISIPELOIDE
+
+Afecta a manipuladores de productos animales, carne y sobre todo pescado. Tiene la puerta de entrada en pequeñas erosiones. Placa similar a la erisipela, pero con crecimiento excéntrico y curación central. Afecta fundamentalmente a las manos y no suele existir clínica sistémica. Tiene tendencia a la curación espontánea. El diagnóstico es clínico, . Véase imagen en figura 7 .Figura 7
+
+
+--- ECTIMA
+
+Infección más profunda que el impétigo, producida también por estreptococos, estafilococos o la asociación de ambos. Se inicia como un impétigo, pero se extiende a la dermis dando lugar a la formación de una úlcera profunda bien delimitada recubierta de costras necróticas adheridas. Se acompaña de linfangitis y linfadenitis regional. Curan dejando una cicatriz residual. La localización más frecuente es en brazos y piernas. Véase imagen en figura 8 .Figura 8
+
+
+-- ERISIPELA
+
+Placa cutánea, roja, caliente, dolorosa a la palpación, de bordes delimitados y progresión rápida, que suele asociarse con adenopatías regionales. Los pacientes presentan también un síndrome febril, que se acompaña de mal estado general, con escalofríos y sudoración. Las zonas de localización más frecuentes son la cara y las piernas. El diagnóstico es clínico. En la cara, una complicación grave sería la trombosis de seno cavernoso. En las piernas puede producirse una tromboflebitis. Profilaxis de las recurrencias: penicilina G benzatina 1,2 MU por vía i.m. cada 4 semanas o 1 g de penicilina V cada 24 h de 6 a 12 meses (grado de recomendación B) . Véase imagen en figura 9 .Figura 9
+
+
+--- CELULITIS
+
+Infección que afecta a dermis y tejido subcutáneo. Lesiones en forma de placa eritematosa, caliente, dolorosa y de bordes poco definidos (en fases tempranas es difícil de diferenciar de la erisipela). Existe afectación del estado general, fiebre y linfadenopatías. El diagnóstico es clínico. Si presenta necrosis o invasión profunda, precisa tratamiento quirúrgico.
+Derivación hospitalaria si hay hipotensión y/o aumento de creatinina, aumento de bicarbonato, aumento de CPK (× 2-3), desviación a la izquierda y PCR > 13 mg/dl.
+
+
+--- INFECCIONES ADQUIRIDAS EN LA COMUNIDAD POR SARM-AC (<ITALIC>STAPHYLOCOCCUS AUREUS</ITALIC> RESISTENTE A METICILINA ADQUIRIDO EN LA COMUNIDAD
+
+Factores de riesgo para SARM-AC: contactos reiterados con el sistema sanitario, institucionalización, usuarios de drogas por vía parenteral y antecedentes de múltiples tratamientos con antibióticos de amplio espectro. Véase imagen en figura 10 .Figura 10
+
+
+--- FOLICULITIS
+
+Infección del folículo piloso. Se trata de pápulas no pruriginosas que en horas pasan a pústulas y están centradas por un pelo. Pueden ser superficiales o profundas:
+
+
+--- FORÚNCULOS
+
+Los forúnculos son las infecciones del folículo piloso donde la supuración se extiende a través de la dermis al tejido subcutáneo. Se diferencian de la foliculitis, en donde la inflamación es más superficial y el pus se limita a la epidermis. Clínicamente son nódulos inflamatorios con pústulas que los recubren a través del cual emerge el cabello. Los forúnculos a menudo se rompen y drenan espontáneamente o después del tratamiento con calor húmedo.
+Cuando varios forúnculos se unen entre sí, forman una masa nodular grande que se denomina “ántrax” (no debe confundirse con la zoonosis causada por Bacillus anthracis). Véase imagen en figura 12 .Figura 12
+
+
+--- ABSCESOS
+
+Colecciones de pus intradérmico y en tejidos profundos, dolorosos, blandos, fluctuantes, en forma de nódulos eritematosos, acabados en pústulas. El diagnóstico es clínico.
+Un absceso recurrente en un sitio anterior de la infección puede ser causado por factores locales como material extraño, hidradenitis supurativa o quiste pilonidal, la erradicación de los cuales puede ser curativa. Debe realizarse incisión y drenaje en los abscesos recurrentes. Se desconocen los beneficios de la terapia antimicrobiana coadyuvante en la prevención de recurrencias. Véase imagen en figura 13 .Figura 13
+
+
+--- HIDROSADENITIS
+
+La hidrosadenitis supurativa suele producirse en las zonas cutáneas con una gran densidad de glándulas apocrinas (axilas, ingles, región perianal, perineal, submamaria, etc.). Suele iniciarse en las mujeres durante la pubertad. Su etiología es desconocida, aunque puede considerarse un defecto primario del folículo piloso. Existen factores predisponentes de tipo genético y hormonal, y habría que considerar también otros desencadenantes controvertidos como: obesidad, tabaco, ropa ajustada, etc. Respecto al uso de desodorantes, no existen evidencias sobre su responsabilidad como desencadenante, tal y como ocurre con los anteriormente citados. El diagnóstico es básicamente clínico. El manejo de esta patología comprende diversas pautas: a) medidas generales (jabones antisépticos, baños templados, etc.), b) medidas farmacológicas (medicación tópica, inyecciones intralesionales o medicación oral), c) medidas quirúrgicas (cierre directo, cierre por segunda intención, injertos, colgajos, etc.), y d) otras medidas (láser de CO2, radioterapia, etc.).
+
+
+--- FASCITIS NECROTIZANTE
+
+La fascitis necrotizante es una infección subcutánea agresiva que afecta a la fascia superficial y que comprende todo el tejido entre la piel y los músculos subyacentes. La lesión inicial puede ser trivial, como una abrasión menor, picadura de insecto, lugar de la inyección (como en adictos a las drogas), y una pequeña minoría de los pacientes no tiene lesión visible de la piel. La presentación inicial es la de la celulitis, que puede avanzar rápida o lentamente. A medida que avanza, hay toxicidad sistémica, a menudo incluyendo fiebre, desorientación y letargo. El diagnóstico de fascitis puede no ser evidente al inicio del cuadro. Puede parecerse a la celulitis. Sin embargo, hay características que sugieren la implicación de los tejidos más profundos, como dolor intenso que parece desproporcionado a los hallazgos clínicos, y la falta de respuesta al tratamiento inicial con antibióticos. Véase imagen en figura 14 .Figura 14
+
+
+--- INFECCIÓN ASOCIADA A MORDEDURA
+
+La infección es muy frecuente en lesiones de la mano, en las que tengan gran amplitud y/o destrucción tisular y las que implican articulaciones, tendones etc., además de las que se produzcan en pacientes con comorbilidad añadida (diabetes, alteraciones vasculares, inmunosupresión, etc.). Existen algunas diferencias entre los gérmenes encontrados en las mordeduras humanas y de animales (véase tabla 15 sobre etiología). No obstante, el manejo general y el tratamiento son comunes a los diferentes tipos de mordedura. Se han de buscar siempre datos clínicos de infección (enrojecimiento, hinchazón, calor, supuración). La profilaxis antibiótica se recomienda siempre, salvo si han pasado más de 2 días de evolución y la herida no muestra signos de infección local o sistémica (grado de recomendación A). Véase imagen en figura 15 .Figura 15
+
+
+--- ENFERMEDAD POR ARAÑAZO DE GATO Y ANGIOMATOSIS BACILAR
+
+En la enfermedad por arañazo de gato clásico se desarrollará en la zona una lesión papulosa entre los 3 y los 30 días siguientes. Los ganglios linfáticos que drenan el área infectada se agrandan en unas 3 semanas tras la inoculación. El curso de la enfermedad es variable, pero en general, la linfadenopatía se resuelve entre 1 y 6 meses. En aproximadamente el 10% de los casos, las adenopatías supuran. Puede desarrollarse enfermedad generalizada en el 2% o más de los casos. Bartonella henselae causa la mayoría de los casos de enfermedad por arañazo de gato en huéspedes inmunocompetentes. La angiomatosis bacilar es otra forma de enfermedad que afecta comúnmente a pacientes inmunodeprimidos, especialmente con sida; puede ocurrir por B. henselae o Bartonella quintana. Puede presentar dos formas clínicas: pápulas rojas que varían en tamaño de un milímetro hasta varios centímetros o nódulos dolorosos, con la piel que los recubre de un tono normal u oscuro.
+Tratamiento de las infecciones bacterianas: véase tabla 16 .
+
+
+-- INFECCIONES VIRALES
+
+Microbiología: véase la tabla 17 .
+
+
+--- HERPES SIMPLE
+
+Se transmite por exposición directa al virus, herpes labial (VHS-1). Inicialmente presenta clínica de gingivoestomatitis, y en algunos casos la infección inicial podría ser asintomática. La forma genital/anal se acompaña en su forma inicial de lesiones dolorosas; posteriormente aparece una fase de latencia, donde el virus se encuentra en el ganglio regional, sin producir síntomas. Posteriormente se suelen producir (40% de incidencia) recidivas, que suponen reactivaciones de la clínica de unos 5-10 días de duración (dolor, quemazón, vesículas, costras, que curan sin dejar cicatriz). Los factores que suelen desencadenar las recidivas son: enfermedades infecciosas, menstruación, exposición solar intensa, situaciones estresantes, etc.. Véase imagen en figura 16 .Figura 16
+
+
+--- HERPES ZÓSTER
+
+El herpes zóster es causado por la reactivación del virus varicela-zóster, que permanece latente en las raíces nerviosas, con la posterior propagación del virus a lo largo del nervio sensorial al dermatoma.
+La clínica suele comenzar por unos pródromos con síntomas generales (náuseas, fiebre, cefalea, etc.) y dolor en el dermatomo afectado; sigue después (al cabo de unas 48-72 h) con la erupción eritematosa, que se continúa de vesículas o pústulas que después se recubren de costras. Pueden seguir apareciendo lesiones durante 3 semanas. Pueden existir complicaciones. Las más frecuentes son la neuralgia postherpética, la sobreinfección bacteriana y la afectación oftálmica; otras complicaciones más raras pueden ser la neumonía o la encefalitis. Véase imagen en figura 17 .Figura 17
+
+
+-- VERRUGAS
+
+Son una proliferación de tejido epitelial causada por el virus del papiloma. Los principales tipos de verrugas son: verrugas vulgares, rugosas, queratinizadas con puntos negros centrales, las verrugas planas (niños), las verrugas plantares y los condilomas acuminados. Véase imagen en figura 18 .Figura 18
+Tratamiento de las infecciones virales: véase tabla 18 .
+
+
+-- MICOSIS
+
+--- DERMATOFITOS
+
+Se transmiten por contagio desde personas, animales o desde el suelo; la infección se favorece por la humedad, el calor y estados de déficit inmunitario. Tienen afinidad por tejidos queratinizados (piel, pelo y uñas). Los diferentes cuadros clínicos y su etiología los encontramos en la tabla 19 y el tratamiento en la tabla 20 . Véase imagen en figura 19 .Figura 19
+
+
+--- CANDIDIASIS
+
+Son aquellas afecciones cutaneomucosas, y en ocasiones sistémicas, producidas por el género Candida, aunque la más frecuente es Candida albicans, y provocan lesiones en la piel, en las membranas mucosas y semimucosas, en la matriz de la uña y en órganos internos. El diagnóstico clínico muchas veces es evidente, máxime cuando se trata de un diabético o de un paciente con alguna enfermedad que favorezca la infección por Candida. En la piel se afectan fundamentalmente las superficies que retienen secreciones. Se observa eritema y maceración del espacio, muchas veces se constata exudación y el prurito acompañante es la regla. Los pliegues inguinocrurales submamarios, infraabdominales, interglúteos y axilares se afectan por Candida y aparece el llamado intertrigo. Véase imagen en figura 20 .Figura 20
+
+
+--- ONICOMICOSIS
+
+La onicomicosis es un término poco específico, usado para describir la enfermedad fúngica de las uñas. Algunos de los factores que contribuyen a causar esta enfermedad son el calzado oclusivo, el trauma repetido de uñas, la predisposición genética y la enfermedad concurrente, como diabetes, mala circulación periférica y la infección por VIH, así como otras formas de inmunosupresión. La onicomicosis es uno de los trastornos de las uñas más comunes en los adultos y representan el 15-40% de todas las enfermedades de las uñas. Es más frecuente en los adultos mayores. En cuanto a sus formas clínicas: la onicomicosis distal y lateral (fig. 21 ) es la presentación más común de infección de las uñas por dermatofitos. Afecta con más frecuencia a los pies. El hongo invade el lecho de la uña y penetra en los márgenes distales o laterales. En la onicomicosis blanca superficial (fig. 22 ), la infección suele comenzar en la capa de la superficie de la uña y se extiende a las capas más profundas. Presenta lesiones blancas en la superficie de la uña. La onicomicosis proximal subungueal (fig. 23 ) afecta sobre todo a las uñas de los pies. Esta infección puede originarse ya sea en el pliegue ungueal proximal, con la penetración posterior a la superficie de la uña de reciente formación, o por debajo de la lámina ungueal proximal. En la onicomicosis “endonyx” (fig. 24 ), el hongo, en vez de ir invadiendo el lecho a través del margen de la placa, penetra inmediatamente a través de la queratina de la lámina; la superficie de la uña esta descolorida y blanca en ausencia de onicólisis e hiperqueratosis. Cualquiera de las anteriores puede progresar a onicomicosis distrófica total (fig. 25 ), donde la superficie está completamente destruida.Figura 21Figura 22Figura 23Figura 24Figura 25
+Finalmente, pueden afectar a la uña levaduras filamentosas no dermatofitos (Aspergilus: A. terreus, versicolor, flavus, fumigatus, candidus, sidowii; Fusarium: solani, oxysporium; Scopulariopsis: brevicauilis; Scytalidium: hialinium, dimidiatum). Suelen afectar a uñas ya dañadas y son difíciles de erradicar. Muchas enfermedades no infecciosas pueden producir cambios en las uñas que imitan la onicomicosis; entre ellas están el trauma crónico, psoriasis, onicólisis, onicogrifosis, melanoma maligno subungueal y liquen plano.
+La confirmación de laboratorio del diagnóstico clínico debe obtenerse antes de iniciar el tratamiento.
+El manejo terapéutico de las onicomicosis se muestra en la figura 26 .Figura 26
+
+
+--- PITIRIASIS VERSICOLOR
+
+La pitiriasis versicolor fue considerada siempre como una dermatofitosis, incluso ha recibido el nombre de tiña versicolor. Sin embargo, es una afección producida por una levadura dimórfica y lipofílica saprofita de la piel humana que se denomina Pitirosporum orbiculare u ovale. Los factores predisponentes son la alta humedad relativa y las altas temperaturas, la piel grasienta, la hiperhidrosis, la herencia, el tratamiento con corticosteroides sistémicos, el tratamiento inmunosupresor, la malnutrición por defecto o exceso, y las deficiencias en la inmunidad mediada por células. El diagnóstico se basa en signos clínicos: signo de la uñada. Examen con lámpara de Wood: se observa una fluorescencia naranja. Examen micológico directo: presencia de esporas redondeadas entre mallas de micelios. Véase imagen en figura 27 .Figura 27
+
+
+-- PARASITOSIS
+
+--- ESCABIOSIS (SARNA
+
+Producida por el ácaro Sarcoptes scabiei. Contagiosa persona-persona en contacto íntimo. Aparición de pápulas y vesículas muy pruriginosas, los surcos típicos son difíciles de encontrar porque se enmascaran por las lesiones de rascado. Se localizan típicamente en muñeca, espacios interdigitales, axilas, pies, glúteos, abdomen y región genital. Para el diagnóstico se puede utilizar una tinción con tinta china, que revelará los surcos. El tratamiento se realiza con: antihistamínicos (por el prurito, que suele ser muy intenso), crema de permetrina al 5%, aplicada en todo el cuerpo excluyendo la cabeza durante 8-14 horas, o ivermectina 200 μg/kg por vía oral, repetidos a las 2 semanas (no utilizar en embarazadas, lactantes o menores de 15 kg de peso). Como tratamiento alternativo podemos emplear lindane al 1%, en toda la superficie corporal (excluyendo cabeza) durante 8 horas. No se recomienda de primera elección por su toxicidad. Está contraindicado en embarazadas, lactantes y en menores de 2 años.
+Tratar a todos los convivientes íntimos aunque estén asintomáticos, lavar la ropa a temperatura de más de 60° y/o guardar ropa en un recipiente (bolsa) hermética, más de 10 días para procurar la muerte de los ácaros. Véase imagen en figura 28 .Figura 28
+
+
+--- PEDICULOSIS
+
+La pediculosis es una infestación por piojos, pertenecientes a una de estas familias:
+
+
+- INFECCIONES DEL TRACTO URINARIO
+
+-- ETIOLOGÍA MÁS FRECUENTE
+
+La mayoría están causadas por un escaso número de especies bacterianas; E. coli es responsable del 80-90% de las infecciones del tracto urinario (ITU). Menos frecuente: Staphylococcus saprophyticus, enterobacterias, Proteus, Klebsiella pneumoniae. Enterococcus spp., en ancianos con hipertrofia de próstata, postoperados y en sondados. Streptococcus agalactie, en gestantes, diabéticos, ancianos y recién nacido.
+Existe un problema creciente de resistencias bacterianas a uropatógenos, por lo que es importante la elección racional de antibióticos, casi siempre empíricos, basándose en mapas de resistencias y datos epidemiológicos locales, evitando pautar de forma empírica antibióticos con tasas de resistencias superiores al 20%.
+Etiología y criterios diagnósticos generales de ITU, véase tabla 21 .
+
+
+--- BACTERIURIA ASINTOMÁTICA
+
+---- DIAGNÓSTICO
+
+Mujeres: la Sociedad Americana de Enfermedades Infecciosas (IDSA 2005) la define como dos aislamientos del mismo germen en orina del chorro medio de mujer asintomática, consecutivos en 24 h ≥ 105 UFC/ml. (Eliminar con aislamiento del mismo germen en orina del chorro medio según la IDSA 2005 en mujer asintomática) (grado de recomendación A).
+Mujer embarazada: La bacteriuria asintomática se considera ITU, con un recuento ≥ 102 UFC/ml en una muestra. Solo se indica cribado en el primer trimestre de embarazo.
+Se desaconseja cribado en el resto de población por no obtenerse ningún beneficio clínico.
+Hombres: 1 recuento ≥ 105 UFC/ml en orina de chorro medio.
+Pacientes sondados: un recuento ≥ 102 UFC/ml.
+Piuria con bacteriuria: no modifica la pauta a seguir.
+Manejo y tratamiento de la bacteriuria asintomática: véase tabla 22 .
+
+
+--- CISTITIS EN LA MUJER<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+---- PRESENTACIÓN CLÍNICA
+
+La presencia de disuria, polaquiuria, urgencia miccional, hematuria y dolor suprapúbico tiene una sensibilidad del 90% para el diagnóstico, por lo que esta situación no precisa de la realización de tira de leucocitoesterasa ni urinocultivo. La presencia de disuria y urgencia miccional sin vaginitis tiene una especificidad del 25%.
+
+
+---- FACTORES DE RIESGO
+
+Relación sexual reciente, uso de espermicidas o diafragma, historia de ITU o riesgo de ITU complicada por problema estructural de vías urinarias, inmunosupresión, litiasis u obstrucción, diabetes mellitus, hospitalización reciente, duración superior a 7 días, germen multirresistente y sondaje previo.
+Hay que tener en consideración que la hematuria no predice la existencia de complicación ni indica cambio de tratamiento.
+
+
+---- MÉTODOS DIAGNÓSTICOS
+
+1. Tira reactiva: •1-2 síntomas con nitritos y leucocitos positivos indica probable ITU en el 80% de los casos.•En ausencia de nitritos y leucocitos, buscar otro diagnóstico diferencial.
+2. Urinocultivo: solo indicado si persisten síntomas más de 7 días sin responder al tratamiento antibiótico indicado (grado de recomendación B).
+
+
+---- DIAGNÓSTICO DIFERENCIAL
+
+Conviene recordar que no todas las disurias son ITU (fig. 30 ). Hay que explorar ginecológicamente para descartar vaginitis, uretritis, enfermedad inflamatoria pélvica (grado de recomendación B), anormalidades estructurales de vía urinaria, cistitis intersticial, nefrolitiasis y pielonefritis.Figura 30
+La exploración vaginal y pélvica excepcionalmente precisa pruebas de imagen.
+Tratamiento: véase la tabla 23 .
+
+
+--- PIELONEFRITIS EN LA MUJER
+
+Diagnóstico: clínico. Dolor o sensibilidad en fosa renal, náuseas, vómitos, con o sin cistitis o disuria y fiebre. Excepcionalmente puede abocar en sepsis.
+Laboratorio: urinocultivo (URC) previo al inicio del tratamiento empírico.
+Manejo: en principio requiere tratamiento ambulatorio y control clínico evolutivo en 48-72 h, adecuando el antibiótico al antibiograma. Existe controversia sobre solicitar URC a las 2 semanas de finalizar el tratamiento.
+Se indica estudio urológico en dos situaciones:1.Antecedente de ingreso hospitalario por mala evolución;2.Tras dos recurrencias.
+Criterios de derivación: mal estado general, embarazo, mujeres inmunodeprimidas, dificultad para tratar por vía oral, incumplimiento terapéutico, presencia de complicaciones como diabetes mellitus mal controlada, antibioticoterapia previa o gérmenes resistentes, si no hay respuesta al antibiótico en 24-48 h o ante sospecha de sepsis (grado de recomendación D).
+Tratamiento de la pielonefritis en la mujer: véase tabla 24 .
+
+
+--- INFECCIÓN DEL TRACTO URINARIO RECURRENTE EN LA MUJER<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+Definición y diagnóstico: se habla de ITU recurrente cuando se dan dos ITU en 6 meses o más de tres en un año.
+Para su correcto manejo conviene distinguir entre recaída y reinfección:• Recaída: causada por el mismo germen en las 2 semanas siguientes al primer episodio de ITU. Indica fracaso terapéutico, alteraciones de la vía urinaria o complicación, lo cual aconseja estudio y tratamiento a más largo plazo.• Reinfección: ITU causada por distinto germen del que ocasionó el primer episodio de ITU después de 15 días del tratamiento. No suele deberse a complicaciones.
+Factores predisponentes: sequedad y alteración de flora vaginal, factores genéticos, biológicos, nueva pareja sexual y/o uso de diafragma o espermicida en el último año, haber tenido la primera ITU antes de los 15 años, historial de ITU, cistocele, incontinencia de orina, corta distancia de uretra a ano, virulencia de patógenos.
+En amplios estudios no se encuentra asociación con otras causas.
+Manejo clínico: la evaluación urológica de rutina no resulta costo-efectiva en mujeres jóvenes, por lo que hay que individualizar en aquellas que no respondan a la terapia.
+El estudio está indicado tras dos recurrencias de pielonefritis.
+Tratamiento de ITU recurrente en la mujer: véase tabla 25 .
+
+
+--- INFECCIÓN DEL TRACTO URINARIO/BACTERIURIA ASINTOMÁTICA EN MUJER EMBARAZADA<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+Diagnóstico: clínico. Clínica de cistitis o presencia de bacteriuria asintomática.
+Laboratorio: un URC positivo en embarazada asintomática o sintomática minimizando la contaminación en la muestra de orina y confirmación en un segundo URC (grado de recomendación A).
+No se considera de utilidad realizar tira de leucocitoesterasa para el diagnóstico ni cribado de ITU (grado de recomendación A). Realizar URC antes de comenzar tratamiento empírico.
+Se indica cribado de ITU en la 12-16 semana de gestación (grado de recomendación A).
+Diagnóstico diferencial: se realiza con pielonefritis, valorando la presencia de dolor lumbar, náuseas, vómitos, fiebre mayor de 38 °C o escalofríos.
+Manejo clínico de la ITU recurrente en la mujer embarazada: es importante tratarla, puesto que se asocia con riesgo de parto prematuro (grado de recomendación A), aborto, pielonefritis y aumento de la morbimortalidad materna. Se realizará URC pretratamiento. Comenzar tratamiento empírico durante 7 días y adecuar el antibiótico según antibiograma. Posteriormente, realizar URC una semana después de finalizar el tratamiento. En caso de que sea positivo, evaluar la causa del fracaso terapéutico y volver a tratar con antibiótico durante 7 a 14 días. Repetir el URC y, cuando sea negativo, a los 3 meses del parto realizar un estudio urológico.
+Si fuera negativo, pautar tratamiento profiláctico o terapia supresora con dosis baja de los antibióticos citados en dosis única nocturna o bien poscoital si guarda relación con el coito.
+Se consideran de elección: cefalexina 250 mg y fosfomicina 2-3 g/10 días. El cotrimoxazol en dosis de 400/80 mg únicamente podría usarse a mitad de embarazo; su uso está contraindicado en el primer trimestre por actuar como antagonista de los folatos y en los últimos días antes del parto por riesgo de ictericia en el niño (grado de recomendación D).
+En caso de existir factores de riesgo de complicación, como diabetes mellitus o litiasis, prescribir antibiótico profiláctico durante todo el embarazo.
+Si la mujer estuviera asintomática, no requiere solicitar urinocultivo mensual.
+Algoritmo de manejo: véase figura 31 .Figura 31
+Criterios de derivación. Ante una mujer embarazada con clínica de pielonefritis se indica derivación al hospital para hacer URC, toma de muestra para hemocultivos y administrar antibióticos intravenosos. Ante la persistencia de fiebre tras 48 h, hacer nuevo URC. Luego se pasa a la vía oral hasta completar antibióticos durante 10-14 días.
+Ante pielonefritis recurrente, dar profilaxis antibiótica hasta fin de embarazo.
+Tratamiento de ITU en mujer embarazada: véase tabla 26 .
+
+
+--- INFECCIÓN DEL TRACTO URINARIO EN EL HOMBRE
+
+Diagnóstico diferencial de ITU en el hombre: véase tabla 27 .
+Manejo de la disuria en el hombre: véase figura 32 .Figura 32
+
+
+--- CISTITIS EN EL HOMBRE<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+Etiología: E. coli (65%), K. pneumoniae 11% y Proteus mirabilis (6%).
+Diagnóstico: clínico. Disuria, frecuencia/urgencia miccional, seguido de tenesmo vesical y dolor suprapúbico o hematuria.
+Diagnóstico diferencial: en jóvenes con uretritis (predomina disuria) y en mayores de 50 años con patología prostática.
+Laboratorio: tira reactiva: leucocitos y/o nitritos positivos. URC antes y después del tratamiento.
+Pruebas complementarias: se considera siempre complicada y susceptible de estudio urológico, excepto si se trata de un primer episodio.
+Tratamiento de la cistitis en el hombre: véase tabla 28 .
+Criterios de derivación: 1.En caso de pielonefritis aguda o prostatitis bacteriana, derivar de forma urgente.2.En pacientes inmunodeprimidos, mal estado general o cuando se sospeche sepsis de origen urinario.3.De forma ordinaria, si se sospechan alteraciones estructurales del aparato urinario o son recurrentes.
+
+
+--- PIELONEFRITIS AGUDA EN EL HOMBRE<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+Es la que afecta a la pelvis y el parénquima renal. Es causa frecuente de bacteriemia y de shock séptico en el anciano. Existe riesgo de infección por microorganismos resistentes en los portadores de sonda urinaria permanente, tratamiento antibiótico previo, infección adquirida en el hospital y manipulación urológica reciente.
+Diagnóstico: clínico. Síntomas de vías altas son fiebre > 38 °C, escalofríos, dolor en fosa renal, náuseas y vómitos.
+Exploración física: percusión renal positiva, palpación abdominal dolorosa.
+Laboratorio: si en sedimento urinario hay cilindros leucocitarios, sugiere infección de vías altas.
+Urinocultivo antes y después del tratamiento.
+Pruebas complementarias: en todos los hombres con pielonefritis aguda está indicada una radiografía simple de abdomen y ecografía renovesical para descartar una alteración previa de la vía urinaria (grado de recomendación D).
+Tratamiento de la pielonefritis aguda en el hombre: véase tabla 29 .
+Criterios de derivación: sepsis grave, clínica de complicación (hematuria, dolor intenso, insuficiencia renal aguda, masa renal), ancianos, diabéticos, cirróticos, neoplásicos y trasplantados. Pacientes que no se estabilizan tras 6-12 h de observación una vez iniciado el tratamiento antibiótico y los que no pueden cumplir el tratamiento oral.
+
+
+--- PROSTATITIS
+
+Etiología: prostatitis aguda, 95% Escherichia coli. Otros: Klebsiella spp., Proteus spp. y en prostatitis crónica bacteriana: 80% enterobacterias. Prostatitis crónica abacteriana: Chlamydia spp., Micoplasma spp.
+Diagnóstico: clínico.
+A. Prostatitis aguda. Síndrome miccional, disuria, dolor lumbar, perineal, rectal, fiebre, escalofríos, taquicardia, artralgias. Síntomas obstructivos como el goteo de orina y posibles complicaciones de retención aguda de orina, abscesos prostáticos, epididimitis y pielonefritis.
+Exploración física: tacto rectal (contraindicado masaje prostático) con próstata caliente y dolorosa.
+Laboratorio: URC antes del tratamiento y URC postratamiento a los 15-30 días y 180 días.
+B. Prostatitis bacteriana crónica. Se presenta como una infección urinaria recurrente. Puede cursar con disuria, eyaculación dolorosa, hematospermia o dolor genital y pélvico.
+Laboratorio: Nickel ha propuesto una variante a la tradicional técnica de Meares-Stamey obteniendo solo dos muestras, antes y después del masaje prostático. Se considera positivo el cultivo de secreción prostática o de orina tras el masaje (si el número de colonias es 10 veces superior al recuentro en muestra antes del masaje).
+Pruebas complementarias: en prostatitis aguda se realizará una ecografía transrectal si no hay mejoría en 48 h para descartar abscesos prostáticos. Es más sensible para detectar lesiones prostáticas; en caso necesario permite dirigir la punción prostática y el estudio citológico y microbiológico (www.seram.es). No es útil en el diagnóstico de prostatitis crónica por su baja especificidad.
+Diagnóstico diferencial: véase tabla 26.
+Manejo de la prostatitis: véase figura 33 .Figura 33
+Tratamiento de la prostatitis aguda bacteriana: véase tabla 30 .
+Criterios de derivación: dudas en el diagnóstico, individuo > 65 años, clínica de bacteriemia, mala tolerancia oral, inmunodeprimidos, antecedentes de infección urinaria complicada o sospecha de no cumplimiento terapéutico.
+
+
+--- INFECCIÓN URINARIA EN PACIENTES CON SONDA VESICAL<XREF RID="BIB0200" REF-TYPE="BIBR">40</XREF>, <XREF RID="BIB0415" REF-TYPE="BIBR">83</XREF>, <XREF RID="BIB0420" REF-TYPE="BIBR">84</XREF>, <XREF RID="BIB0425" REF-TYPE="BIBR">85</XREF>, <XREF RID="BIB0430" REF-TYPE="BIBR">86</XREF>, <XREF RID="BIB0435" REF-TYPE="BIBR">87</XREF>, <XREF RID="BIB0440" REF-TYPE="BIBR">88</XREF>, <XREF RID="BIB0445" REF-TYPE="BIBR">89</XREF
+
+Etiología: P. aeruginosa, K. pneumoniae, E. faecalis y levaduras. Pacientes con cateterismo permanente y tratamiento antibiótico previo: Acinobacter, S. aureus resistente a meticilina y Candida spp.
+Diagnóstico: clínico. Dolor en fosa renal de nueva aparición, escalofríos, delirio de aparición reciente, fiebre mayor de 37,9 °C en dos ocasiones durante 12 h (grado de recomendación D).
+Hay que distinguir la ITU sintomática de la bacteriuria asintomática.
+Laboratorio: •URC pretratamiento: recuentos de 102 a 103 UFC/ml en orina obtenida de catéter es indicador de bacteriuria.•La tira reactiva no tiene valor diagnóstico (grado de recomendación B).•No se precisan URC periódicos en sondados asintomáticos, ni URC postratamiento a menos que los síntomas persistan o reaparezcan.
+Manejo clínico: •Ante la aparición de uno de los síntomas anteriores, considerar la prescripción de antibióticos.•No tratar la bacteriuria asintomática (grado de recomendación A).•No se precisa profilaxis antibiótica para prevenir la ITU sintomática en pacientes con sonda (grado de recomendación A).•Evitar antibiótico en cambios de sonda. Suficiente con técnica aséptica. Excepción: en personas con riesgo de endocarditis (ampicilina por vía i.m. 2 g + gentamicina i.m. 1,5 mg/kg, 30 min antes del sondaje) o de historia de ITU tras cambio de catéter. En el ámbito hospitalario puede estar indicada profilaxis antibiótica con gentamicina o quinolona para el cambio de sonda para disminuir el riesgo de infección por Clostridium difficile. •No se indica cribado de bacteriuria asintomática en mujeres tras retirar el sondaje (grado de recomendación B).•Cambiar la sonda antes de iniciar antibiótico ante una ITU sintomática.•Una vez indicado el sondaje, valorar diariamente la retirada de la sonda (el tiempo es el principal determinante de ITU), evitando en lo posible el sondaje permanente y utilizando un sistema de colector cerrado.•En los sondajes de larga evolución, valorar sondaje intermitente, autosondaje o colectores de pene que reducen las infecciones.
+Tratamiento de ITU en pacientes sondados: véase tabla 31 .
+
+
+--- INFECCIONES DE LA CAVIDAD ORAL
+
+Las infecciones de la cavidad oral son multifactoriales, polimicrobianas y mixtas (flora aerobia y anaerobia). Se clasifican en odontógenas, la mayoría (producidas en mayor frecuencia por bacterias anaerobias) cuando afectan a estructuras formadas por el diente y el periodonto, y no odontógenas, cuando afectan a mucosas o estructuras extradentales, , .
+No todas las infecciones odontógenas requieren tratamiento antimicrobiano. Casi siempre requerirán la combinación de procedimientos odontológicos y farmacológicos. Cuando lo requieren, se tiende a utilizar antibióticos de amplio espectro debido al carácter polimicrobiano y mixto, y a la falta de ensayos clínicos que comparen tratamientos con distintos antibióticos.
+
+
+-- INFECCIONES ODONTÓGENAS
+
+--- CARIES
+
+Infección de curso crónico causada por acidificación proveniente de la fermentación de los hidratos de carbono de la dieta por parte de los microorganismos de la placa dental, que destruyen los tejidos dentales.
+Diagnóstico: exploración dental; se aprecia destrucción dentaria. Asintomática generalmente.
+Tratamiento: por odontólogo. Retirar todo el tejido dental afectado y obturación posterior. Consejos: evitar azúcares refinados, cepillado y seda dental. Flúor. Véase tabla 32 .
+
+
+--- PULPITIS
+
+Cuadro de dolor agudo intenso que aumenta con la palpación, así como estímulo térmico o químico. Manifestación de una inflamación crónica.
+Diagnóstico: ortopantomografía.
+Tratamiento: si la afectación está localizada en tejido pulpar, no se aconseja la administración de antibióticos. Véase tabla 32.
+
+
+--- ABSCESO PERIAPICAL
+
+Inflamación de los tejidos alrededor de la raíz dental, con supuración purulenta. Se debe, generalmente, a una necrosis pulpar como consecuencia de una caries.
+Diagnóstico: dolor intenso al masticar y golpear la zona afectada. Puede haber fiebre, adenopatías regionales y área mandibular superior o inferior inflamada.
+Tratamiento: odontólogo. Drenaje de la supuración. Véase tabla 32.
+
+
+--- ABSCESO PERIODONTAL
+
+Acumulación de pus en la pared gingival de una bolsa periodontal.
+Diagnóstico: clínico. Puede haber afectación del estado general. En casos crónicos se puede hallar una fístula que se abre a la mucosa gingival.
+Tratamiento: odontólogo. Drenaje. Véase tabla 32.
+Criterios de remisión al hospital: celulitis rápidamente progresiva, fiebre, trismo, disnea, disfagia, extensión a espacios profundos, alteración del estado general, fracaso del tratamiento, pacientes inmunodeprimidos, mal cumplimiento terapéutico.
+
+
+--- PERIODONTITIS
+
+Destrucción del hueso alveolar de soporte, del cemento radicular y del ligamento periodontal. Aumento de la movilidad del diente. Curso crónico. Complicaciones: absceso periodontal, .
+Periodontitis del adulto: inflamación crónica gingival a partir de los 35 años. Pérdida del soporte periodontal, movilización y pérdida de dientes. Sensibilidad al frío y al calor. Puede existir supuración de bolsas peridentarias. Diagnóstico: clínico.
+Periodontitis prepuberal y juvenil: pérdida de encías rápidamente progresiva. El dolor puede ser intenso. Diagnóstico: clínico; se pueden realizar radiografías intraorales y sondaje periodontal.
+Tratamiento de ambas: odontólogo. Antibióticos si son resistentes al tratamiento convencional, manifestaciones sistémicas, profilaxis en pacientes médicamente comprometidos y profilaxis de endocarditis bacteriana. Véase tabla 32.
+
+
+--- PERICORONARITIS
+
+Inflamación de la encía que recubre un diente en erupción (tercer molar, el más frecuente). Puede haber dolor local y trismo.
+Diagnóstico: clínico.
+Tratamiento: odontólogo. Véase tabla 32.
+
+
+--- GINGIVITIS
+
+Inflamación y sangrado de las encías.
+Gingivitis marginal: asintomática. La encía está edematosa con cambio de coloración desde rojizo a azul oscuro. Diagnóstico: clínico.
+Gingivitis ulcerativa necrotizante: necrosis de la cresta de la papila interdental, sangrado espontáneo, dolor, halitosis, pseudomembrana gris-amarillenta removible que deja al descubierto una superficie sangrante y ulcerada. Diagnóstico: clínico. Tratamiento: véase tabla 32.
+
+
+-- INFECCIONES DE LA MUCOSA ORAL
+
+--- CANDIDIASIS ORAL
+
+Infección oportunista consistente en la inflamación de la mucosa orofaríngea debida a una infección por levaduras, principalmente C. albicans. Factores de riesgo: edad (infancia y ancianos), alteraciones endocrinas (hipotiroidismo, hipoparatiroidismo, diabetes), inmunodeficiencia (VIH, trasplantados), déficits nutricionales y vitamínicos, enfermedades malignas, tratamientos farmacológicos (antibióticos de amplio espectro, inmunosupresores, corticosteroides, fármacos productores de xerostomía, anticonceptivos orales), uso de prótesis dentarias, higiene oral deficiente, hábitos tóxicos, uso de colutorio indiscriminado, dieta rica en hidratos de carbono, alteraciones salivales, etc..
+Clínica: desde escasamente sintomática hasta sensación de quemazón en la boca o garganta, alteraciones del gusto, dificultad para tragar.
+Diagnóstico: clínico. Formas clínicas:•Forma aguda pseudomembranosa (muguet o algodoncillo): lesiones blanquecinas que se desprenden fácilmente al rasparlas. Puede haber escozor, prurito o ser asintomática.•Forma aguda atrófica o eritematosa: suele aparecer tras tratamiento con antibióticos de amplio espectro. Placas eritematosas en la lengua y en el paladar. Dolor y sensación de quemazón.•Candidiasis por prótesis: en pacientes portadores de prótesis extraíbles. Eritema crónico y edema bajo la prótesis.•Forma crónica pseudomembranosa: similar a la forma aguda.•Forma crónica eritematosa: áreas enrojecidas sobre la mucosa oral.•Queilitis angular (boqueras): generalmente polimicrobiana.•Diagnóstico: clínico. Habitualmente no precisan cultivo, solamente en caso de duda. Diagnóstico diferencial con la leucoplasia y el liquen plano.•Tratamiento: véase tabla 33 .
+
+
+--- GINGIVOESTOMATITIS HERPÉTICA
+
+Producida por el herpes simple 1 (HSV-1) en el 70-80% de los casos. Tratamiento: véase tabla 33.
+Gingivoestomatitis herpética primaria: en lactantes, niños y adultos jóvenes. Diagnóstico: clínico. Desde asintomática hasta gingivitis dolorosa, odinofagia, fiebre, adenopatías submaxilares y aparición de vesículas en zona anterior de la cavidad oral que evolucionan a erosiones muy dolorosas.
+
+
+--- HERPES RECURRENTE ORAL
+
+Desencadenado por estímulos tales como traumatismos, infecciones, menstruación, estrés, inmunodepresión, luz ultravioleta. Diagnóstico: clínico. Suele haber prurito y escozor como pródromos. Vesículas en la zona labial o comisura bucal que rompen evolucionando a costra, , .
+
+
+--- OTRAS
+
+Varicela zóster, virus Coxsakie A, sarampión, tuberculosis oral, sífilis oral, etc.
+
+
+-- PATOLOGÍA DE LAS GLÁNDULAS SALIVALES
+
+--- SIALOADENITIS AGUDA EPIDÉMICA
+
+Está producida generalmente por paramixovirus. Afecta a niños de 6 a 8 años. Cuadro clínico: inflamación brusca y dolorosa de la glándula salival sin secreción purulenta, afectación también de gónadas, sistema nervioso central, tiroides, páncreas y miocardio. Bilateralidad, aumento los 2-3 primeros días y remisión a la semana. Puede haber también fiebre, astenia y anorexia, . Diagnóstico: clínico. Tratamiento: véase tabla 34 .
+
+
+--- SIALOADENITIS AGUDA SUPURADA
+
+Etiología: estafilococo, estreptococo, gramnegativos (E. coli, H. influenzae) y anaerobios. Afectación difusa del parénquima glandular, generalmente unilateral, con mayor afectación parotídea. Más frecuente en pacientes postoperados, deshidratados, inmunodeprimidos, ancianos, prematuros o lactantes. El 20% de los casos son bilaterales. Cuadro clínico: síndrome febril, tumefacción, dolor, trismo, eritema, edema y calor cutáneo, salida de material purulento por el conducto excretor, . Diagnóstico: clínico. Tratamiento: véase tabla 34.
+
+
+--- SIALOLITIASIS CON SOBREINFECCIÓN
+
+Cuadro de litiasis en la glándula salival, que se obstruye, y se produce infección del material acumulado, . Diagnóstico: clínico. Tratamiento: véase tabla 34.
+
+
+--- PAROTIDITIS AGUDA O VIRAL
+
+Generalmente producida por virus de la parotiditis epidémica. Otros: virus Epstein-Barr, enterovirus, parainfluenza 1 y 3, adenovirus, virus A de la gripe, VIH. Cuadro clínico: síntomas prodrómicos inespecíficos (febrícula, malestar general, hiporexia, etc.) que se acompañan de otalgia y molestias en la parótida del mismo lado. El tamaño de la parótida aumenta en los 2-3 días siguientes, y el dolor es proporcional al crecimiento de la glándula. Puede haber fiebre alta y suele haber afectación bilateral, . Diagnóstico: clínico. Tratamiento: véase tabla 34.
+
+
+--- PROFILAXIS ANTIBIÓTICA DE LA ENDOCARDITIS BACTERIANA EN PROCEDIMIENTOS ODONTOLÓGICOS
+
+Tratamiento: véase tabla 35
+
+
+- INFECCIONES GASTROINTESTINALES
+
+-- GASTROENTERITIS AGUDA
+
+La gastroenteritis infecciosa aguda es una inflamación y/o disfunción del intestino producida por un microorganismo o sus toxinas, que suele manifestarse por diarrea, acompañada o no de vómitos y dolor abdominal. Los agentes infecciosos involucrados son múltiples. Es un problema de salud frecuente, de distribución mundial, con variaciones nacionales, locales y estacionales, presente en todas las edades de la vida. Habitualmente tiene un curso benigno y autolimitado, , .
+La mayoría de los agentes productores de gastroenteritis aguda (GEA) se transmiten por vía fecal-oral. La morbimortalidad suele ser mayor en niños y ancianos con malnutrición, hacinamiento, etc.
+
+
+-- ETIOLOGÍA
+
+Es difícil determinar el origen viral, bacteriano o parasitario de una diarrea infecciosa. El coprocultivo identifica el germen solamente en un 40% de los casos, y los resultados suelen obtenerse cuando la diarrea ya está curada. Es importante orientar el diagnóstico en función del contexto epidemiológico y de la sintomatología. Citamos según frecuencia algunos de los agentes etiológicos y sus características epidemiológicas (tabla 36 ).
+
+
+-- CLÍNICA
+
+La diarrea (más de 3 defecaciones al día líquidas y/o más de 200 g/día) es la manifestación clínica principal. Dura hasta 2-3 semanas. Otros síntomas pueden ser aumento del peristaltismo, vómitos, anorexia, malestar general y cefalea.
+Existen dos grandes formas clínicas de presentación de las GEA, y su distinción tiene repercusión desde el punto de vista terapéutico: la diarrea inflamatoria o invasiva y la diarrea no inflamatoria o toxigénica (en ocasiones pueden solaparse). Véase tabla 37 .
+Las toxiinfecciones alimentarias se definen por la aparición de dos o más personas afectadas por un cuadro clínico similar tras la ingestión de un alimento común (véase tabla 38 ). Existe otro tipo de intoxicaciones de tipo químico y/o físico (no biológicas).
+En la anamnesis de toda GEA es importante investigar sobre los siguientes aspectos: estancia o trabajo en centros institucionales, viajes recientes, contacto con animales enfermos, tratamientos recibidos (antibióticos, antiácidos, etc.), enfermedades predisponentes (inmunosupresión, VIH, gastrectomía, etc.), relaciones homosexuales, situaciones ocupacionales (manipuladores de alimentos), curso clínico y evolutivo de la enfermedad, manifestaciones extraintestinales (síndrome de Reiter, tiroiditis, pericarditis, glomerulonefritis, síndrome hemolítico-urémico, etc.).
+
+
+-- SIGNOS O SÍNTOMAS DE GRAVEDAD EN UNA GASTROENTERITIS AGUDA
+
+Presencia de diarrea invasiva, hipertermia o hipotermia, leucocitosis o leucopenia, deshidratación grave, hipoperfusión, aumento de la frecuencia cardiaca y respiratoria y/o petequias.
+
+
+-- DIAGNÓSTICO
+
+Exclusivamente clínico. La mayoría de las GEA son procesos leves y autolimitados que no requieren diagnóstico etiológico específico. No está indicado realizar ningún estudio complementario inicialmente en una GEA sin signos de gravedad.
+Exploraciones complementarias: •Tratamiento antibiótico previo (C. difficile).•Estudio de parásitos en heces: VIH, homosexuales, viajes recientes a zonas de riesgo.•Presencia de leucocitos en las heces (sospecha de gérmenes invasivos).•Toxiinfección alimentaria.•Inmunodeprimidos.•Parásitos: diarreas persistentes, guarderías, homosexuales, viajes recientes de riesgo.
+Serología: en caso de coprocultivos negativos, solicitar para: Yersinia enterocolitica, Salmonella, Shigella, Campylobacter jejuni y Entamoeba histolytica.
+
+
+-- MANEJO
+
+Véase figura 34 y tabla 39 .Figura 34
+
+
+-- TRATAMIENTO
+
+Medidas no farmacológicas: lavado frecuente de manos, , administrar una solución de rehidratación oral (SRO) – véase tabla– (solución oral de glucosa y electrólitos) (grado de recomendación A). Evitar la administración de medicamentos salvo en caso necesario. SRO recomendada por la OMS: 1 l de agua, 3,5 g de cloruro sódico, 2,5 g de bicarbonato, 1,5 g de cloruro potásico, 20 g de glucosa. Se recomienda tomar 250 ml de SRO cada 15 min hasta que el balance de fluidos se haya restaurado. Después se continuará con 1,5 l por litro de heces, , . La fluidoterapia intravenosa solo se recomienda en pacientes con deshidratación grave, con demora de traslado al hospital por lejanía. En caso de shock, administrar un bolo de 20 mg/kg de suero salino fisiológico.
+Dieta: se recomienda mantener un adecuado aporte calórico. La dieta absoluta es obsoleta y carece de fundamento. Se recomienda una alimentación temprana con una dieta astringente, intentando evitar las comidas grasas y los azúcares. Véase .
+
+
+-- MEDIDAS FARMACOLÓGICAS<XREF RID="BIB0550" REF-TYPE="BIBR"><SUP>110</SUP></XREF
+
+•Antieméticos: podrían ser útiles en caso de vómitos persistentes.•Antidiarreicos: uso controvertido. Útiles en diarrea por hipermotilidad y secretora. No utilizarlos en una diarrea invasiva sin tener clara la etiología.•Antiespasmolíticos: no se deben prescribir. Utilizar el paracetamol como analgésico.•Probióticos: los lactobacilos se pueden utilizar para repoblar la flora intestinal, sobre todo son útiles en GEA por rotavirus y asociada a antibióticos orales en los niños.
+Tratamiento antibiótico: véase Tabla 40, Tabla 41 .
+Criterios de derivación hospitalaria: véase tabla 42 .
+Diarrea crónica: La GEA con una duración superior a 15-30 días se cataloga como gastroenteritis crónica. La ausencia de un diagnóstico adecuado puede obstaculizar su manejo y tratamiento. Para la mayoría de estos pacientes se requerirá el diagnóstico microbiológico específico.•Sobrecrecimiento bacteriano: proliferación de la flora del colon en el intestino delgado que produce alteraciones en la digestión y absorción intestinal. Véase tabla 43 .•Parasitosis intestinales: cuadros clínicos variables según etiología. Transmisión habitualmente fecal-oral o agua/alimentos contaminados. Diagnóstico y tratamiento. Véase la tabla 44 .

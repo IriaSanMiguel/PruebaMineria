@@ -1,0 +1,122 @@
+FIEBRE CHIKUNGUNYA - UNA NUEVA AMENAZA GLOBAL
+
+
+- INTRODUCCIÓN
+
+Chikungunya es una virosis emergente que se manifiesta como un síndrome febril con artralgias intensas y exantema, causada por un alfavirus transmitido por mosquitos, el virus chikungunya.
+Esta enfermedad se ha diseminado globalmente en la última década, amenazando con hacerse pandémica y constituyendo una de las mayores virosis emergentes del siglo xxi.
+El riesgo de epidemias de chikungunya a partir de casos importados resulta especialmente elevado en las Américas, donde los vectores se hallan presentes en número suficiente y la población no posee inmunidad contra el virus.
+
+
+- EPIDEMIOLOGÍA
+
+Los primeros casos fueron originalmente descritos por Robinson en la excolonia británica de Tanganika (actual Tanzania) durante los años de la década de 1950.
+Tras su descubrimiento, chikungunya se diseminó rápidamente. El primer brote urbano afectó Bangkok en 1960, seguido por pequeños brotes en India entre 1963 y 1973. En 2004 ocurrió la primera gran epidemia en Kenia, , , y un año más tarde ocurrieron 250.000 casos en la Isla de La Reunión (océano Índico), a un ritmo de hasta 40.000 nuevos casos semanales.
+Desde la cuenca del Índico –importante destino turístico–, la enfermedad se introdujo en más de 18 países de Europa, América y Asia, estableciendo en algunos de ellos una circulación local endémica con numerosos casos autóctonos (fig. 1 ). En 2007 el virus chikungunya causó un brote local en Italia.Figura 1
+Desde entonces, la aparición de casos en Australia, Japón, Brasil, EE. UU., Canadá y el Caribe resalta la capacidad de este virus para ocupar nuevos nichos ecológicos y causar epidemias.
+Algunos factores, como una elevada tasa de ataque, una alta viremia (frecuentemente mayor a 15 log10 unidades formadoras de placas por mililitro de sangre) y la distribución global de los mosquitos vectores, favorecen la rápida diseminación de este agente.
+El riesgo de epidemias y endemicidad en las Américas parece muy elevado debido a la existencia de una población sensible a la enfermedad, la ubicuidad de los mosquitos vectores y la introducción cada vez más frecuente de casos importados. En efecto, entre 2006 y 2010 se confirmaron 106 casos de chikungunya en viajeros retornados a EE. UU., frente a solo 3 casos ocurridos entre 1995 y 2005. Durante el mismo período ocurrieron 9 casos importados en los territorios franceses de las Américas, y a partir de 2013 se ha detectado la transmisión autóctona del virus en varias islas del Caribe, con 661 casos probables o confirmados en la isla de San Martín, 518 casos en Martinica, 175 casos en Guadalupe y 83 casos en San Bartolomé, además de casos detectados en las islas Vírgenes, Jost Van Dyke, Dominica, Anguila y Barbuda. Recientemente, han ocurrido mas de 1.000 casos autóctonos en la república de El Salvador.
+Los magros resultados logrados en el control de otras virosis transmitidas por mosquitos, como el dengue, la encefalitis de Saint Louis y la encefalitis del Nilo Occidental, y la amplia distribución de vectores transmisores ensombrecen aún más este panorama.
+El virus chikungunya exhibe un comportamiento dual, epidémico y endémico: cuando comienza a circular en una población desprovista de inmunidad, su elevada tasa de ataque permite la aparición de grandes epidemias, pudiendo afectar hasta al 40% de la población sensible. Pero a medida que crece el número de personas con inmunidad específica, la enfermedad se torna endémica, limitándose a originar casos esporádicos entre las personas que aún carecen de inmunidad.
+
+
+- EL AGENTE
+
+Chikungunya es un alfavirus perteneciente a la familia Togaviridae. El genus alfavirus consta de 29 especies distintas, 6 de las cuales afectan a seres humanos y causan enfermedades con compromiso articular: virus chikungunya (global); virus o’nyong-nyong (África Central); virus Ross River y virus Barmah Forest (Australia y el Pacífico); virus Sindbis (global) y virus Mayaro (Guayana francesa).
+Como otros alfavirus, chikungunya consiste en una sola hebra positiva de ARN constituida por 12.000 nucleótidos que codifican genes regulatorios y un único gen estructural. Este gen estructural codifica una proteína precursora que, una vez fragmentada, da origen a la proteína de la cápside, a 2 glucoproteínas mayores de la superficie viral denominadas E1 y E2, y a dos pequeños péptidos llamados E3 y E6.
+
+
+- VECTORES
+
+Los principales vectores del virus chikungunya en Asia y el océano Índico son los mosquitos Aedes aegypti y Aedes albopictus, pero otras especies de Aedes (A. furcifer, A. vittatus, A. fulgens, A. luteocephalus, A. dalzieli, A. vigilax y A. camptorhynchites) pueden transmitir la infección. Otros mosquitos, como Culex annulirostris, Mansonia uniformis y Anopheles stephensi, han sido ocasionalmente implicados como vectores, , , .
+A. aegypti y A. albopictus son especies invasivas que habitan regiones tropicales y templadas del globo situadas entre los 35° N y los 35° S. Durante la estación cálida avanzan hasta latitudes extremas como los 45°, aunque no sobreviven al invierno en estas latitudes extremas. Su capacidad para criar en recipientes artificiales facilita su diseminación pasiva a través de las principales rutas de transporte.
+A. aegypti tiene hábitos domésticos y peridomésticos. Usualmente no ocupa territorios situados a más de 1.000 m de altitud, aunque ha sido hallado ocasionalmente hasta los 2.400 m.
+A. albopictus tiene hábitos selváticos y prolifera en ambientes silvestres. Es una especie salvaje y rural, responsable de la transmisión del virus en zonas rurales o semiurbanas.
+Los huevos de Aedes resisten la desecación y temperaturas extremas, manteniéndose viables durante 7 meses a un año. Esta propiedad constituye una ventaja evolutiva que dificulta notablemente la erradicación del vector.
+Como sucede con otros mosquitos, solo pican las hembras Aedes. Estas son antropófilas y prefieren picar a personas antes que a animales.
+Siendo también el vector de la fiebre amarilla y del dengue, Aedes ha sido duramente combatido y eliminado de América Central y del Sur a comienzos del siglo xx, pero tras suspenderse las campañas de erradicación a comienzos de la década de 1960 ha resurgido en las regiones de las que fuera erradicado, e incluso extendido su hábitat a sitios que no ocupaba antes de la campaña de erradicación.
+Al compartir los mismos vectores, la epidemiología del dengue y la de la fiebre amarilla están estrechamente ligadas con el riesgo de introducción del virus chikungunya en las Américas. Debido a la amplia distribución de los Aedes en las Américas, toda la región es susceptible a la invasión y la diseminación de este virus, y la aparición reciente de epidemias urbanas de dengue en Sudamérica destaca el peligro potencial de fiebre chikungunya.
+
+
+- TRANSMISIÓN
+
+Durante los períodos epidémicos, los humanos son el principal reservorio del virus, que se mantiene en circulación alternando, al igual que el dengue, entre mosquitos y humanos. En los períodos interepidémicos, diversos vertebrados han sido implicados como reservorios, incluyendo primates no humanos, roedores, aves y algunos mamíferos pequeños. En África Centrooriental el virus circula en un ciclo selvático que involucra mosquitos Aedes y primates.
+El virus chikungunya se transmite a los humanos mediante la picadura de mosquitos hembra infectados. Tras ingerir sangre de una persona virémica, el virus debe replicarse en el mosquito durante al menos 48 h (período de incubación extrínseco) antes de que este pueda transmitir la enfermedad al picar nuevamente. Al igual que sucede en el dengue, los humanos infectados se mantienen virémicos varios días, aproximadamente el mismo tiempo que dura la fiebre (fig. 2 ).Figura 2
+La transmisión vertical del virus chikungunya ha sido bien documentada. Aunque la tasa de transmisión vertical parece baja a lo largo de la gestación, cuando la infección ocurre durante el parto o poco antes, la tasa de transmisión aumenta y se aproxima al 50%.
+No se ha documentado transmisión mediante la lactancia, pero sí a través de la exposición a sangre infectada, mostrando la posibilidad de transmisión mediante transfusiones de sangre o hemoderivados.
+
+
+- CARACTERÍSTICAS CLÍNICAS
+
+El nombre «chikungunya» significa «el que se dobla» en idioma Makonde (lengua bantú de Tanzania), y hace referencia a las artralgias intensas, que obligan a los enfermos a replegarse en actitud antálgica.
+La infección puede causar manifestaciones agudas, subagudas y crónicas.
+
+
+-- ENFERMEDAD AGUDA (FIEBRE CHIKUNGUNYA
+
+Un alto porcentaje de los infectados (72 a 97%) desarrollan síntomas tras un período de incubación que oscila entre 3 y 7 días (límites: 1 a 12), mientras que el resto permanece completamente asintomático, .
+La fiebre chikungunya remeda al dengue por su comienzo súbito con fiebre, que suele superar los 39 °C, exantema y cefaleas, pero la presencia de artralgias intensas lo diferencia de esa enfermedad. Típicamente, la fiebre persiste 48 h y cede abruptamente, aunque en algunos casos dura hasta una semana. Este cuadro febril suele acompañarse de síntomas inespecíficos, como cefaleas, inyección conjuntival y fotofobia.
+Chikungunya no amenaza la vida, pero la recuperación puede ser prolongada y los dolores articulares pueden persistir durante meses.
+El compromiso articular múltiple afecta al 70-100% de los pacientes. Suele ser simétrico y afecta pequeñas articulaciones de manos y pies, aunque ocasionalmente ataca grandes articulaciones de los miembros. Puede limitarse a artralgias, o puede aparecer tumefacción articular, frecuentemente debida a tenosinovitis. La combinación de dolor, sensibilidad, inflamación y rigidez articular suele ser muy invalidante, e incapacita a muchos pacientes, que quedan confinados al lecho durante el período agudo.
+Dos a 5 días después del inicio de la fiebre, el 50% de los pacientes desarrollan un exantema maculopapular, u ocasionalmente petequial, que afecta el tronco y, con menos frecuencia, las extremidades, pudiendo extenderse a palmas, plantas y rostro. El exantema tiende a ser fugaz, aunque persiste más de 2 días en un 10% de los casos. Ocasionalmente aparece como un eritema difuso que palidece con la presión. En los niños pequeños, el compromiso cutáneo consiste en lesiones vesiculares o ampollares.
+Un 25% de los adultos sufren estomatitis, y el 15% desarrollan úlceras orales (tabla 1 ).
+Los síntomas duran de 5 a 7 días, y nunca más de 10. Sin embargo, las artralgias pueden persistir hasta 2 años, dependiendo de la edad del paciente (fig. 3 ).Figura 3
+
+
+-- ENFERMEDAD SUBAGUDA
+
+La mayoría de los pacientes mejora al cabo de 10 días de enfermedad. Sin embargo, algunos enfermos sufren una recidiva de los síntomas articulares 2 o 3 meses después de la recuperación inicial, desarrollando artralgias en las articulaciones y huesos previamente afectados, poliartritis distal y tenosinovitis hipertrófica subaguda en muñecas y tobillos. También pueden desarrollar síndrome de Raynaud, depresión, astenia y debilidad.
+La infección subaguda por chikungunya no persiste más de 3 meses y afecta a un porcentaje variable de los pacientes, que oscila entre un 43 y un 70% de los casos.
+
+
+-- ENFERMEDAD CRÓNICA
+
+Cuando los síntomas persisten durante más de 3 meses se considera enfermedad crónica. El porcentaje de pacientes que desarrolla manifestaciones crónicas es muy variable, oscilando entre un 12 y un 57%, .
+La enfermedad crónica tiende a resolverse con el tiempo: el 93% de los casos persiste sintomático al cabo de 3 meses de definida la enfermedad como crónica, pero este porcentaje se reduce a 57% al cabo de 15 meses, y a 47% 2 años más tarde.
+Se han documentado abortos espontáneos en embarazadas infectadas. En los casos de transmisión vertical durante o inmediatamente antes del parto es habitual que el niño nazca asintomático y desarrolle síntomas al cabo de unos días, .
+Excepcionalmente pueden ocurrir formas graves de la enfermedad con manifestaciones atípicas, entre las que destacan miocarditis, meningoencefalitis y hemorragias leves. También se han observado síndrome de Guillain-Barré, pérdida de la agudeza auditiva, , , , uveítis y retinitis, , (tabla 2 ).
+La fiebre chikungunya tiene una mortalidad muy baja. Sin embargo, el genio epidémico puede modificar las tasas de mortalidad, ya que las epidemias de la India e isla Mauricio mostraron un aumento significativo en la mortalidad, .
+Los ancianos son más propensos a sufrir episodios graves de fiebre chikungunya: en un estudio, los mayores de 65 años presentaron una mortalidad 50 veces mayor que los menores de 45 años.
+
+
+- DIAGNÓSTICO DIFERENCIAL
+
+Las manifestaciones prominentes de la fiebre chikungunya, como fiebre, artralgias, exantema, mialgias y conjuntivitis, son frecuentes en otras enfermedades con las que puede confundirse o coexistir, como el dengue, lo que obliga a realizar un diagnóstico diferencial meticuloso.
+Dengue: es la entidad más parecida a la fiebre chikungunya y la que plantea el diagnóstico diferencial más importante debido a la superposición de vectores, espacio geográfico y cuadro clínico, y a la posibilidad de que ambas enfermedades afecten simultáneamente a un mismo paciente. En el único estudio comparativo realizado, chikungunya muestra un comienzo más abrupto; la fiebre es de menor duración que en el dengue, y el exantema, la inyección conjuntival y las artralgias fueron más frecuentes que en el dengue (tabla 3 ).
+El hallazgo de diátesis hemorrágicas, petequias o púrpura, junto con dorsalgia intensa, evidencia el diagnóstico de dengue. Las pruebas de laboratorio ayudan a diferenciar entre ambas entidades, teniendo siempre presente que dengue y fiebre chikungunya pueden afectar simultáneamente al mismo paciente.
+Leptospirosis: mialgias graves en los músculos de la pantorrilla, junto con hemorragia subconjuntival o congestión conjuntival, acompañadas o no de oliguria o ictericia en una persona que ha tomado contacto con agua, barro o roedores en una zona endémica ayudan a establecer el diagnóstico. La presencia de neutrofilia y títulos elevados de creatinfosfocinasa en sangre favorecen el diagnóstico de leptospirosis.
+Paludismo: la periodicidad de la fiebre, así como la alteración en el nivel de conciencia y las convulsiones, favorecen el diagnóstico de paludismo. La periodicidad típica de la fiebre palúdica puede no aparecer en los primeros días de la enfermedad (fiebre de aclimatación).
+Meningitis: la combinación de fiebre elevada con signos meníngeos o trastornos de conciencia evidencian el diagnóstico de meningitis. Sin embargo, durante una epidemia de chikungunya, todos los casos de meningoencefalitis deben sospecharse como debidos a esta infección.
+Fiebre reumática: es más común en los niños y se presenta como una poliartritis migratoria que afecta predominantemente las grandes articulaciones. Los criterios de Jones deberían guiar el diagnóstico.
+
+
+-- HALLAZGOS DE LABORATORIO
+
+El hemograma suele mostrar leucocitopenia. A diferencia del dengue, la trombocitopenia suele estar ausente o ser solo muy ligera (> 100.000 plaquetas/mm3). A diferencia de otras virosis, los marcadores de inflamación, como la velocidad de eritrosedimentación y la proteína C reactiva, suelen estar elevados. También aparece un discreto aumento de las transaminasas.
+
+
+- DIAGNÓSTICO
+
+El diagnóstico puede realizarse por métodos directos o indirectos. Los métodos directos incluyen los procedimientos moleculares, como la retrotranscripción de la reacción en cadena de la polimerasa y el aislamiento del virus por cultivo, en tanto que los métodos indirectos se basan en la detección de anticuerpos específicos, ya sean estos de tipo IgM o, en el caso de las IgG, demostrando una elevación de al menos 3 veces los valores basales al cabo de 2 o 3 semanas.
+Los anticuerpos de tipo IgM no alcanzan un título demostrable por enzimoinmunoanálisis (ELISA) antes de transcurridas 2 semanas desde la infección. Por este motivo no se recomienda realizar esta prueba durante la primera semana de la enfermedad. En algunos casos, la prueba ELISA se positiviza al cabo de 6 a 12 semanas (fig. 4 ).Figura 4
+
+
+- TRATAMIENTO Y PREVENCIÓN
+
+No se conoce ningún tratamiento antiviral efectivo para la fiebre chikungunya, lo que reduce las medidas terapéuticas a la administración de analgésicos no salicílicos y antiinflamatorios no esteroideos.
+Aunque se ha demostrado un efecto sinérgico entre el interferón α y la ribavirina sobre el virus chikungunya, no existen pruebas clínicas que avalen el uso de esta combinación. La cloroquina no parece tener eficacia para el tratamiento de las artralgias.
+Al no existir una vacuna eficaz, la prevención se basa en evitar las picaduras de mosquito. En las zonas endémicas estas medidas se complementan con la lucha contra los vectores mediante medidas de saneamiento y fumigación que tiendan a reducir el número de mosquitos.
+Quienes viajen a zonas endémicas pueden aplicar insecticidas como permetrina directamente sobre la ropa. Este insecticida tiene un largo efecto residual, resistiendo de 4 a 5 lavados. También pueden emplearse repelentes de uso tópico que contengan N, N-dietil-m-toluamida en concentraciones entre 30 y 35%. Los repelentes deben aplicarse directamente sobre la piel expuesta, procurando evitar el contacto con la conjuntiva y otras mucosas debido a su toxicidad. En niños se recomienda utilizar concentraciones inferiores al 30%.
+Los perfumes deben evitarse, puesto que atraen a los mosquitos. El aire acondicionado ayuda a controlar la circulación de mosquitos en el interior de las viviendas.
+
+
+- CONCLUSIONES
+
+En las Américas el control de los virus transmitidos por artrópodos no ha sido muy exitoso: el dengue continúa apareciendo en una región que se extiende desde los EE. UU. hasta la Patagonia, y en años recientes ha desarrollado brotes de una magnitud nunca antes vista; el virus del Nilo Occidental, un arbovirus recientemente introducido en las Américas, es ahora endémico en la región. Durante la última década, este virus ha expandido su área desde Canadá hasta Argentina. Recientemente, otro arbovirus relacionado, el virus de la encefalitis de Saint Louis, causó varios casos confirmados en Argentina.
+La reciente aparición de casos con transmisión autóctona del chikungunya en la región caribeña aumenta significativamente el riesgo de introducción en el continente americano, especialmente en áreas tropicales y subtropicales donde A. aegypti está ampliamente distribuido, y la existencia de una población sensible a la infección crea las condiciones ideales para la introducción y diseminación del virus.
+Considerando la elevada tasa de ataque vista durante las epidemias de chikungunya, los grandes brotes resultantes tienen el potencial de colapsar los sistemas de atención de salud existentes y la infraestructura de salud pública. Ante este escenario, tanto las autoridades sanitarias como los médicos de atención primaria deben estar advertidos del riesgo potencial y de la necesidad de controlar y combatir los insectos vectores.
+
+
+- CONFLICTO DE INTERESES
+
+El autor declara no tener ningún conflicto de intereses.

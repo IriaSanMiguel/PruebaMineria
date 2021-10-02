@@ -1,0 +1,51 @@
+ITALIC>CORONAVIRUS DISEASE 2019</ITALIC> (COVID-19): INTERNAMIENTO INVOLUNTARIO SÍ, TRATAMIENTO OBLIGATORIO NO
+
+
+- INTRODUCCIÓN
+
+Un reciente Auto judicial, dictado en relación con un paciente COVID-19, ha puesto de relieve la necesidad de analizar las peticiones de internamiento y tratamiento involuntarios que se realizan desde el ámbito asistencial. Creemos que se presenta así una oportunidad excelente para revisar los diferentes tipos de internamiento involuntario que prevé nuestro ordenamiento jurídico y cómo se regula el tratamiento médico involuntario en función de su finalidad y de la capacidad del paciente para decidir.
+
+
+- CASO CLÍNICO
+
+Se trata de un paciente de 94 años con antecedentes de diabetes mellitus, silicosis grado 3 y enfermedad renal crónica. No presenta deterioro cognitivo pero sí dependencia funcional leve con necesidad de ayuda para bañarse, supervisión para asearse y vestirse e incontinencia urinaria ocasional. Casado, vive con su mujer y tienen un hijo y una nieta que les prestan apoyo social de forma puntual, con la imposibilidad de realizar cuidados continuados de forma permanente.
+Acude a urgencias por un cuadro de 5 días de evolución que cursa con disnea y tos con expectoración, sin fiebre ni contacto previo con ningún paciente COVID-19. Los estudios complementarios revelan: hemoglobina 11, linfocitos 500, sodio 132, dímero-D 659, radiología de tórax con aumento de densidad en LID, PCR COVID-19 indetectable, serología ELISA con IgM positivo e IgG indetectable.
+Con la sospecha de infección por SARS-COV-2, y dada la dificultad de asegurar un correcto aislamiento domiciliario, se considera indicado el ingreso. Ante la negativa del paciente se pone en conocimiento del juez de guardia la necesidad de ingreso hospitalario no voluntario para asegurar el tratamiento médico intravenoso y el aislamiento.
+El 19 de noviembre de 2020 se dictó un Auto judicial, pronunciándose sobre la solicitud formulada, en el que se autoriza el internamiento involuntario, pero por el contrario se deniega la posibilidad de imponer un tratamiento médico en contra de la voluntad del paciente.
+
+
+- DISCUSIÓN
+
+-- INTERNAMIENTO Y TRATAMIENTO INVOLUNTARIOS POR RAZONES DE SALUD MENTAL
+
+Inicialmente hemos de dejar claro que no nos encontramos ante el habitual internamiento y tratamiento llevado a cabo por salud mental. Este tipo de ingreso se rige por lo dispuesto en la Ley 1/2000, de Enjuiciamiento Civil, que establece que el internamiento, por razón de trastorno psíquico, de una persona que no esté en condiciones de decidirlo por sí, aunque esté sometida a la patria potestad o a tutela, requerirá autorización judicial. La autorización será previa al internamiento salvo que haya razones de urgencia, dándose cuenta al juzgado, en todo caso, dentro del plazo de 24 horas.
+Este tipo de internamientos forzosos conllevan habitualmente, de forma conjunta, la autorización para realizar los tratamientos pertinentes. De hecho, lo habitual es que se tramiten como autorizaciones de internamiento involuntario para poder llevar a cabo el tratamiento médico. Se da incluso la circunstancia de que en ocasiones lo que se solicita ya no es el internamiento, sino el tratamiento involuntario en régimen ambulatorio, habiendo recientes autos judiciales que así lo autorizan.
+
+
+-- EL INTERNAMIENTO Y TRATAMIENTO INVOLUNTARIO POR RAZONES DE SALUD PÚBLICA
+
+Tal como se recoge en el Auto que comentamos, la base legal para los internamientos involuntarios por razones de salud pública se refleja en 2 normas diferentes. Por un lado, en la Ley Orgánica 3/1986, de Medidas Especiales en Materia de Salud Pública, cuando prevé que las autoridades sanitarias podrán adoptar medidas de reconocimiento, tratamiento, hospitalización o control cuando se aprecien indicios racionales que permitan suponer la existencia de un peligro para la salud de la población debido a la situación sanitaria concreta de una persona o grupo de personas. En términos similares, la Ley 41/2002, de autonomía del paciente, dispone que los facultativos podrán llevar a cabo las intervenciones clínicas indispensables, sin necesidad de contar con su consentimiento, cuando exista riesgo para la salud pública. Estas medidas exigen su comunicación a la autoridad judicial en el plazo máximo de 24 horas para que sean ratificadas.
+Es evidente que en el paciente COVID positivo, habida cuenta del riesgo que entraña su estado de salud para la comunidad, se dan los presupuestos señalados en las leyes y por ello el Auto judicial autoriza el ingreso hospitalario solicitado, al considerarlo una medida necesaria y proporcionada a la situación de riesgo existente e idónea para garantizar el aislamiento.
+
+
+-- ESPECIAL REFERENCIA AL TRATAMIENTO INVOLUNTARIO
+
+Como ya se ha señalado anteriormente, las leyes vigentes permiten llevar a cabo las intervenciones clínicas indispensables para garantizar la salud del paciente, sin necesidad de obtener su consentimiento, cuando exista un riesgo para la salud de la población debido a la situación sanitaria de una persona o grupo de personas.
+En materia de salud pública, de igual manera que en los internamientos por razón de salud mental, se suele ligar el ingreso hospitalario al correspondiente tratamiento médico, ya que es imposible no abordar simultáneamente ambas actuaciones sanitarias. Así lo vemos reiteradamente, por ejemplo, en los internamientos involuntarios de pacientes con tuberculosis bacilíferos, en los que se solicita al juez la ratificación del internamiento y el tratamiento médico necesario. Es muy elocuente, por su contundencia, un Auto judicial en el que se autoriza la hospitalización obligatoria en un caso de tuberculosis, bajo custodia y medidas que impidan la huida, garantizando el aislamiento y adecuado tratamiento médico por el periodo necesario, ordenando la colaboración de las fuerzas y cuerpos de seguridad del Estado.
+Ahora bien, en el caso que se analiza nos encontramos en una situación especial en la que el internamiento está justificado por razones de salud pública, pero no así el tratamiento. Una terapia meramente sintomática que no altera la capacidad infectiva respecto a terceros, no puede ser impuesta obligatoriamente. La Ley 41/2002, de autonomía del paciente, es clara cuando establece el necesario consentimiento de este para ser sometido a cualquier prueba diagnóstica o terapéutica y su derecho a rechazarla, salvo que haya causas legales que justifiquen su imposición. Así lo interpreta reiteradamente nuestro Tribunal Constitucional, declarando el derecho de las personas a rechazar un tratamiento, aun a sabiendas que ello puede hacer que peligre su vida. Reconoce el derecho del paciente a decidir libremente sobre las medidas terapéuticas, consintiendo su práctica o rechazándolas; y es, precisamente, este derecho a rechazar un tratamiento, aun cuando pueda conducir a un resultado fatal, el que supone la manifestación más importante de los derechos fundamentales en relación con una intervención médica, posibilidad que ya ha sido también admitida por el Tribunal Europeo de Derechos Humanos.
+En esta misma línea, el auto judicial que estamos comentando señala que para tratar al paciente por vía intravenosa, como se solicitaba, ha de existir el consentimiento libre y voluntariamente emitido al respecto. Toda vez que no consta informe médico alguno que acredite que el paciente tenga mermadas las facultades cognitivas, y sin que el hecho de ser una persona de una edad avanzada le impida decidir libremente, es por lo que ha de ser la voluntad del paciente lo que deba tenerse en cuenta. Finaliza el Auto ratificando el internamiento involuntario por razones de salud pública, pero no así el tratamiento médico.
+
+
+-- INTERNAMIENTO Y TRATAMIENTO EN EL SUPUESTO DE PACIENTES CON FALTA DE CAPACIDAD
+
+El caso clínico analizado no entraba dentro de este supuesto, ya que el geriatra que valoró al paciente determinó que no existía deterioro cognitivo tras el análisis y valoración de su capacidad para tomar decisiones. Esta evaluación de capacidad suele llevarse a cabo siguiendo protocolizaciones al efecto, tal como puede ser el conocido Documento Sitges 2009. De todas formas sí merece la pena comentar sucintamente que si el profesional que atendió al paciente hubiese considerado que este no estaba en condiciones de hacerse cargo de su situación por falta de capacidad, o ya existiese una sentencia de modificación de capacidad con nombramiento de tutor, no estaríamos ante un internamiento por razón de salud mental regulado por la Ley 1/2000 de Enjuiciamiento Civil, es decir, un internamiento cuyo único motivo es la enfermedad psiquiátrica, sino que nos encontraríamos ante un internamiento de un paciente que, no siendo capaz de tomar decisiones porque su estado físico o psíquico no le permite hacerse cargo de su situación, ingresa por una enfermedad ajena a la salud mental. En este caso operaría el llamado consentimiento por representación, regulado en la Ley 41/2002, de autonomía del paciente, y serían los familiares y allegados o el tutor, respectivamente, quienes tendrían que prestar su consentimiento. En caso de darlo se podría ingresar y tratar al paciente, y en caso de que lo denegasen habría que recurrir, como se ha hecho, a la tutela judicial.
+
+
+- CONCLUSIONES
+
+En el ámbito de la salud pública el elemento determinante para poder imponer a una persona concreta o grupo de personas cualquier medida sanitaria en contra de su voluntad es, única y exclusivamente, el riesgo para la salud de la población. En el caso presentado el órgano judicial, tras una ponderación de los bienes y derechos en juego, toma una decisión que, con escrupuloso respeto a la autonomía del paciente, rechaza el tratamiento médico por no aportar nada desde el punto de vista de la salud pública a los intereses de terceros y sí autoriza el internamiento involuntario, por ser esencial para garantizar el aislamiento.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no tener conflicto de intereses ni haber recibido financiación.

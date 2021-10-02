@@ -1,0 +1,5 @@
+Medir el efecto del cambio en mortalidad por sida en la esperanza de vida de la población española en 1985-2017.
+En 1985-1995, la mortalidad por sida contribuyó a disminuir la esperanza de vida 0.64 años en hombres y 0.17 en mujeres. En 1996-2017, la hizo crecer 0.60 en hombres y 0.17 en mujeres.
+Se analizaron 56 863 defunciones por sida. Se calcularon tasas estandarizadas de mortalidad y se aplicó regresión de Poisson y descomposición de esperanzas de vida.
+La introducción en 1996 de los tratamientos antirretrovirales de gran actividad y la prevención fueron decisivas para disminuir la mortalidad por sida y cronificar la epidemia.
+

@@ -1,0 +1,209 @@
+INFECCIONES VÍRICAS
+
+
+- INTRODUCCIÓN
+
+La virología es la parte de la microbiología cuyo desarrollo ha sido más tardío respecto a otras áreas de conocimiento microbiológico. Su desarrollo se inicia a finales del siglo XIX, cuando el botánico de origen ruso Dimitri Iwanovski observa que la enfermedad denominada mosaico del tabaco era producida por un agente infeccioso, ya que se reproducía al utilizar el fluido que pasaba por los filtros de porcelana utilizados para retener bacterias; sin embargo, no fue posible en ese momento observar o aislar al supuesto microorganismo a partir de plantas enfermas. Posteriormente, otro investigador llamado Beijerink reprodujo estos experimentos denominando a los agentes infecciosos vivos capaces de atravesar los filtros bacterianos contagium vivum fluidum o virus filtrables.
+A partir de ese momento, se inicia la investigación es este campo. En 1901 Reed descubre el virus de la fiebre amarilla, el primer virus humano, y en 1909 Landsteiner y Pope el virus de la poliomielitis. En estos primeros años del siglo XX, se desarrolla la técnica de multiplicación de virus animales en embriones de pollo mediante la cual se consigue cultivar en 1911 el virus del sarcoma aviar. Posteriormente, en 1925, se produce la primera visualización de un virus al microscopio, iniciándose a partir de 1935 los avances más importantes en el estudio de la composición y estructura de los virus. Desde entonces, la virología se desarrolla exponencialmente como ciencia, dando finalmente origen a la moderna biología molecular.
+Recientemente se han descrito los viroides o presencia de ARN infectivos (principalmente en vegetales) y los priones o partículas proteicas aparentemente desprovistas de material genético capaces de producir enfermedades infectivas en mamíferos.
+
+
+- ESTRUCTURA Y MORFOLOGÍA
+
+Los virus son partículas de pequeño tamaño formadas por una molécula de ácido nucleico, ARN o ADN, que puede encontrarse en forma monocatenaria o bicatenaria, lineal o circular, cuya función es el suministro de la información necesaría para producir la síntesis de sus propios componentes en la célula huésped. El ácido nucleico del virus está cubierto por una cápside proteica de simetría icosaédrica o helicoidal, determinada por la disposición de las subunidades de la cápside o capsómeros, que además de protegerlo facilita su entrada en la célula huésped. El conjunto de ácido nucleico y cápside se denomina nucleocápside.
+PUNTOS CLAVE Estructura y morfología. Los virus son partículas de pequeño tamaño formadas por una molécula de ácido nucleico, ARN o ADN, cuya función es el suministro de la información necesaria para producir la síntesis de sus propios componentes en la célula huésped. Tratamiento. No hay tratamiento específico para la mayoría de las infecciones víricas, por lo que el tratamiento básico será el de soporte según las necesidades de cada cuadro clínico concreto. Poxvirus. Virus de la viruela, el virus causante del molusco contagioso, el virus de Orf y los virus de la vacuna. Virus respiratorio sincitial. Es el patógeno principal productor de enfermedad respiratoria en la edad pediátrica. La transmisión nosocomial de este virus puede ser muy relevante. Los cuadros clínicos fundamentales producidos por el virus respiratorio sincitial (VRS) son la bronquiolitis aguda, y la neumonía. Rinovirus. Son la causa de un 30-50% de todas las infecciones agudas del tracto respiratorio. Habitualmente produce un cuadro clínico consistente en resfriado común, poco relevante clínicamente y autolimitado. Coronavirus. Son los agentes implicados en la producción del síndrome respiratorio agudo severo o SARS. Adenovirus. Producen fundamentalmente una patología a nivel respiratorio, siendo causantes del 2-4% del total de las infecciones respiratorias en niños y adultos. Enterovirus. Se conocen más de 70 serotipos de enterovirus que pueden ser causa de infecciones severas del sistema nervioso central y del sistema cardiaco, siendo la principal causa vírica de producción de miopericarditis. Rotavirus. Es el principal causante de diarrea de origen vírico en edad pediátrica, pudiendo también afectar a adultos e inmunodeprimidos y producir brotes epidémicos.
+Algunos virus presentan además una envuelta lipídica externa a la cápside consistente en una membrana lipoproteica que, en ocasiones, presenta además espículas o proyecciones de naturaleza glucoproteica. Según la presencia o ausencia de envoltura los denominamos virus envueltos o virus desnudos, respectivamente. La disposición de las proteínas de la cápside de los virus desnudos les confieren una alta resistencia a condiciones y factores medioambientales.
+La clasificación de los virus se halla en constante revisión por el Comité Internacional de Taxonomía de Virus (www.virology.net), que hasta el momento actual establece la clasificación de los virus en base a cinco niveles jerárquicos principales: orden, familia, subfamilia, género y especie. El tipo de material genético (ADN/ARN), la estructura de la cápside (helicoidal o icosaédica) y la presencia o ausencia de envuelta son las características fundamentales de los virus que permiten agruparlos en familias. Dentro de estas, las propiedades físico-químicas y serológicas comunes definen los géneros. En la tabla1 se muestran las principales familias de virus.
+
+
+- CICLO DE REPLICACIÓN VIRAL
+
+El ciclo replicativo de estos microorganismos se realiza a expensas de la célula que infectan, por lo que son parásitos obligados. En términos generales, el ácido nucleico viral emplea los mecanismos de biosíntesis de la célula a la que infecta para replicarse e inducir la síntesis de sus propias proteínas específicas.
+Las etapas comunes de la replicación viral son:
+
+
+-- INICIACIÓN
+
+Consistente, en primer lugar, en la adherencia a la célula por parte del virus a través de la interacción de moléculas superficiales virales y celulares para, posteriormente, inyectar su material genético en el citoplasma de la célula huésped.
+
+
+-- REPLICACIÓN
+
+Según la naturaleza del ácido nucleico viral, en esta etapa se produce la síntesis y traducción del ARN mensajero viral y la posterior replicación del ácido nucléico viral. En los virus con genoma ADN, la síntesis del ARN mensajero se produce a través de la ARN polimerasa de la célula huésped, mientras los virus cuyo genoma es el ARN utilizan en este paso una ARN polimerasa viral. En el caso especial de los retrovirus, estos emplean, en primer lugar, una enzima transcriptasa inversa viral que portan en su nucleocápside y que los transcribe al ADN.
+
+
+-- ENSAMBLAJE Y LIBERACIÓN
+
+En esta etapa el material genético de los nuevos virus o viriones se rodea de nucleocápside para acabar saliendo al exterior celular, bien tras una lisis celular directa, fundamentalmente en los casos de virus desnudos, o bien mediante gemación en el caso de los virus envueltos. Una vez liberados, los nuevos virus inician su ciclo de replicación tras la infección de nuevas células huésped.
+A continuación comentamos los procesos víricos fundamentales que afectan al ser humano, agrupados según el órgano o sistema diana en el que producen patología principalmente. No se han incluido algunos procesos y enfermedades como las exantemáticas de la infancia o las producidas por virus herpes, puesto que ya se exponen en otros artículos de esta Unidad Temática.
+
+
+- INFECCIONES POR POXVIRUS
+
+Pertenecientes a la familia Poxviridae, los poxvirus son virus con genoma ADN de doble cadena, con una nucleocápside en forma de lente bicóncava y rodeados de una envoltura lipídica .
+A continuación comentamos de forma breve los agentes más importantes causantes de patología en los seres humanos: los virus de la viruela, el virus causante del molusco contagioso, el virus de Orf y los virus de la vacuna.
+
+
+-- VIRUELA
+
+La viruela es una enfermedad infecciosa conocida desde hace 5000 años y causada por el virus Variola. Se considera que este virus tiene como único hospedador el ser humano, motivo por el que fue posible llevar a cabo con éxito una campaña de vacunación masiva de la población, con la subsiguiente erradicación de la enfermedad en 1979.
+La transmisión del virus se realiza fundamentalmente por vía inhalatoria tras el contacto directo, aunque también es posible que exista transmisión por inoculación a partir de las lesiones cutáneas. Tras multiplicarse en las células epiteliales del tracto respiratorio superior e infectar a macrófagos y al sistema linfático, el virus se disemina por vía hematógena afectando a diferentes órganos, incluyendo vasos pequeños de la dermis, esto, junto a la migración de macrófagos hacia la epidermis donde infecta a células epiteliales, produce una necrosis celular, edema e infiltración linfocitaria que dará lugar a las lesiones vesiculosas características de la enfermedad y que aparecen fundamentalmente tras 12–14 días de incubación y 3 de pródromos, y que se localizan principalmente en la cara y las extremidades. Estas lesiones evolucionan en diferentes etapas hasta convertirse en costras y desaparecer en un plazo total aproximado de 15–17 días. La infección produce una importante respuesta inmunológica celular que puede ser responsable de una toxemia que lleva al paciente a la muerte en casos graves. Existen, además, otras formas de presentación más graves y menos frecuentes como son la viruela hemorrágica y la viruela plana con escasas lesiones cutáneas pero intensa toxemia.
+El diagnóstico de la infección puede realizarse a través del examen directo de muestras procedentes de lesiones papulares o vesiculares, en este caso se observan unas inclusiones típicas en las células infectadas denominadas corpúsculos de Guarnieri. El diagnóstico se puede realizar también mediante cultivo celular, detección de antígenos o determinación de anticuerpos tras la primera semana de presentación de la sintomatología.
+La viruela ha sido una de las enfermedades infecciosas que ha afectado con más gravedad al ser humano, actualmente es una enfermedad erradicada (el último caso se describió en 1977), y únicamente quedan cepas virales conservadas en algunos laboratorios de alta seguridad.
+Los programas de vacunación frente al virus de la viruela cesaron a partir de la erradicación de la enfermedad, entre otras cosas debido a que esta vacunación no estaba exenta de potenciales efectos secundarios graves. Por tanto, la población actual menor a 25–30 años no se encuentra protegida inmunológicamente frente a esta infección. En la última década, debido al surgimiento de la preocupación por el bioterrorismo, se ha reconsiderado la posibilidad de vacunación de determinados grupos de alto riesgo como sería el personal del ejército o el personal sanitario.
+En caso de infección por viruela, en la actualidad, el cidofovir es el único antiviral que ha demostrado su eficacia frente a los poxvirus, por lo que sería el tratamiento de elección.
+
+
+-- VIRUS DE LA VACUNA
+
+Se trata de un virus muy próximo al de la viruela, y que produce en algunos animales mamíferos lo que se denomina viruela de las vacas. En el ser humano produce una reacción fundamentalmente local tras la adquisición por contacto directo de la piel -al ordeñar– con las lesiones que presentan las vacas afectas. En ocasiones la reacción local puede acompañarse de una generalización de los síntomas. La importancia de este virus radica, además, en que ha sido el empleado inicialmente para fabricar la vacuna de la viruela humana.
+
+
+-- MOLUSCO CONTAGIOSO
+
+Poxvirus que produce una enfermedad cutánea benigna que se adquiere por contacto directo con lesiones y células infectadas. Tras una incubación de unas 4 semanas, en la zona del contacto aparecen unas lesiones de pequeño tamaño, nodulares o verrucosas, umbilicadas y no dolorosas, que no se acompañan de sintomatología sistémica. Con frecuencia se adquiere tras el contacto sexual, por lo que puede considerarse una enfermedad de transmisión sexual, en ese caso las lesiones se localizan sobre todo en la región perineal. La resolución es espontánea, con regresión de las lesiones en semanas o meses.
+En pacientes con infección por el virus de la inmunodeficiencia humana (VIH) en mala situación inmunológica, o en otro tipo de pacientes inmunodeprimidos, puede manifestarse clínicamente de forma más generalizada afectando a una mayor superficie corporal. En estos casos pueden requerir tratamiento local.
+
+
+- VIRUS RESPIRATORIO SINCITIAL Y METANEUMOVIRUS
+
+El virus respiratorio sincitial (VRS) es el patógeno principal productor de enfermedad respiratoria en la edad pediátrica, aunque también puede producir patología respiratoria sobre todo en el adulto inmunodeprimido, , . Se trata de un virus con genoma ARN de cadena única, descrito en 1955, perteneciente a la familia Paramyxoviridae y al género Pneumovirus.
+En la doble capa lipídica que rodea al virus, encontramos 3 glucoproteínas de membrana, la proteína G responsable de la adhesión del virus a la membrana celular, la proteína F encargada de la penetración en la célula, la fusión con la membrana celular y la formación de sincitios, y la proteína SH de función aún no bien conocida. El VRS puede ser dividido en dos grupos antigénicos principales: A y B, cada uno de ellos con varios subgrupos, cuyas diferencias antigénicas se basan en las diferencias de aminoácidos de las glucoproteínas de superficie, fundamentalmente de la proteína G. La infección no deja inmunidad completa, por lo que un paciente puede ser reinfectado, generalmente por subgrupos diferentes.
+La puerta de entrada del virus es la vía respiratoria, bien a través de aerosoles generados tras estornudos, tos, etc. de pacientes infectados o bien por contacto directo con superficies u objetos contaminados, en este último caso, la puerta de entrada podría ser la mucosa ocular, bucal o nasal. La transmisión nosocomial de este virus puede ser, por tanto, muy importante, pudiéndose producir brotes de bronquiolitis y neumonías en el ámbito hospitalario, por lo que, además del aislamiento respiratorio, es fundamental mantener una adecuada higiene de las manos para evitar la transmisión del virus entre pacientes. El periodo de incubación tras el contacto es de unos 4 días, aproximadamente.
+La aparición de infecciones causadas por este patógeno suele tener lugar en forma de brotes epidémicos anuales, que en Europa suelen tener lugar entre noviembre y abril. Los cuadros clínicos fundamentales producidos por el VRS son la bronquilitis aguda y la neumonía.
+
+
+-- BRONQUIOLITIS AGUDA
+
+Consiste en la inflamación de las vías respiratorias inferiores, tiene lugar sobre todo en lactantes, siendo el responsable de hasta el 90% de las bronquiolitis en esta población. La presentación clínica habitual se da con fiebre o febrícula y tos seca, para evolucionar en las siguientes 48 horas a fiebre alta, tos, taquipnea e incluso hipoxemia y cianosis. El cuadro suele tener una duración máxima de 7 días. La afección puede llegar a ser muy grave en niños prematuros o inmunodeprimidos, en los que se suele requerir hospitalización. En este caso, en la radiografía de tórax suele observarse hiperinsuflación con posible infiltrado intersticial, engrosamiento peribronquial y atelectasias. La aparición de esta entidad en los primeros meses de vida está relacionada con la posterior aparición de asma bronquial. Ante un lactante con un primer episodio de broncoespasmo hay que sospechar siempre esta entidad.
+
+
+-- NEUMONÍA
+
+En este caso y mediante importantes fenómenos inmunológicos producidos localmente en el tejido pulmonar como respuesta a la infección por el VRS, nos encontramos con la obstrucción de pequeñas vías aéreas que puede llegar a ser completa, de distribución irregular y debido al grado variable de obstrucción dando lugar a patrones no uniformes en la radiología de tórax. Clínicamente, el cuadro es difícil de diferenciar de una neumonía causada por otra causa viral o bacteriana, aunque quizá son más predominantes los síntomas locales, a nivel respiratorio, y menos llamativos otros síntomas generales como mialgias, cefalea y sensación de malestar.
+Esta entidad también se presenta en la población inmunodeprimida, sobre todo en receptores de trasplantes hematológicos.
+El diagnóstico se basa en el aislamiento del virus en un cultivo celular (fibroblastos de pulmón de embrión humano o células Hep2 o HeLa) a partir de muestras clínicas, fundamentalmente: lavados nasofaríngeos o aspirados nasofaríngeos. El efecto citopático característico del virus es la aparición de sincitios y células gigantes multinucleadas.
+Debido a la importancia de la obtención de un diagnóstico rápido, actualmente existen diferentes técnicas inmunoenzimáticas o de inmunofluorescencia que posibilitan un diagnóstico en 10–20 minutos.
+El tratamiento de las infecciones por el VRS es fundamentalmente sintomático y de soporte, sobre todo en pacientes inmunocompetentes, ya que suele producir cuadros autolimitados. Es importante considerar la posibilidad de infección bacteriana sobreañadida por si fuera necesaria la administración de antibióticos. En casos graves o en población especial, fundamentalmente pacientes trasplantados de médula ósea, se considera la administración de ribavirina, aunque presenta una actividad in vitro frente al VRS, no está claramente demostrado su beneficio en esta patología, en todo caso, su administración debería ser precoz.
+
+
+-- METANEUMOVIRUS
+
+Fue descrito en 2001 por primera vez. Pertenece a la familia Paramyxoviridae y al género Metapneumovirus, del que se conocen hasta el momento dos genotipos diferentes. Tanto la clínica como la distribución estacional es superponible a la del VRS, pudiendo ser además productor de otitis media, y presentando diferencias importantes con el VRS en su genoma: el orden de los genes y la ausencia de genes no estructurales en el metaneumovirus, cuestiones ambas cuya importancia debe describirse. El metaneumovirus crece en líneas celulares produciendo un efecto citopático similar al del VRS, pero su crecimiento es más lento y precisa tripsina en el medio de cultivo. El espectro clínico completo de la infección por metaneumovirus está aún pendiente de definir.
+
+
+-- RINOVIRUS
+
+Virus esféricos, ARN no envueltos que pertenecen a la familia Picornaviridae, género Rhinovirus. Son la causa de un 30-50% de las infecciones agudas del tracto respiratorio, tanto en adultos como en niños, siendo más comunes en climas templados y durante los meses más fríos del año.
+La alta incidencia de la infección está relacionada con la existencia de un gran número de serotipos, conociéndose en la actualidad más de 100 serotipos diferentes.
+La transmisión tiene lugar por contacto directo persona a persona, a través de secreciones respiratorias contaminadas con el virus, del contacto con objetos ambientales o de superficies contaminadas con dichas secreciones.
+El periodo de incubación comienza con la eliminación de virus en las secreciones nasales y puede ser de 1 a 4 días.
+La enfermedad típica que produce la infección por rinovirus es el resfriado común, caracterizado clínicamente por la presencia de tos, congestión y secreción nasal, dolor faríngeo y otros síntomas como cefalea y malestar general. En algunos casos pueden estar involucrados en otitis media aguda, sinusitis e infección del tracto respiratorio inferior. Ultimamente estos agentes se han visto también implicados en exacerbaciones de asma, bronquitis crónica y fibrosis quística. Pueden causar también neumonía en personas inmunodeprimidas y trasplantados, asociándose en estos casos a un mal pronóstico.
+El diagnóstico puede realizarse mediante el cultivo viral de muestras procedentes de secreciones respiratorias, en líneas celulares de fibroblastos o en la línea celular HeLa. Los métodos serológicos tienen una utilidad limitada, ya que es común encontrar anticuerpos en la población general que no se modifican en un cuadro infeccioso agudo. Esta limitación en la capacidad diagnóstica de los rinovirus ha motivado el desarrollo de métodos moleculares para su identificación, que actualmente ofrecen interesantes perspectivas.
+El tratamiento de las infecciones por rinovirus es sobre todo sintomático. Ultimamente se han ensayado diferentes antivirales, y hasta el momento el pleconarilo es el que conseguido una disminución de la duración y la intensidad del cuadro clínico, por lo que ha sido aprobado por la Food and Drug Administration (FDA) como agente para el tratamiento de estas afecciones.
+
+
+- CORONAVIRUS
+
+Virus con genoma ARN, envueltos y pertenecientes a la familia Coronaviridae. Poseen nucleocápside helicoidal y una envoltura derivada de las membranas intracelulares de las células huésped.
+Pueden producir infección tanto en los seres humanos como en los animales, provocando infecciones respiratorias y siendo los causantes de al menos un tercio de los resfriados comunes, también son los causantes de infecciones entéricas.
+La importancia actual de estos virus radica en su implicación como patógenos en el síndrome respiratorio agudo severo (SARS) descrito en otro artículo de esta Unidad Temática.
+La transmisión se produce por contacto directo persona a persona o a través de objetos contaminados con el virus. En los seres humanos, el principal sitio de replicación viral son las células epiteliales del tracto respiratorio.
+Los cuadros clínicos más frecuentes producidos por coronavirus son similares a los del resfriado por rinovirus (rinorrea, dolor de garganta, cefalea, fiebre, escalofríos, etc.) con un periodo de incubación de unos 3 días y una duración total de 7 días. La clínica suele ser leve y autolimitada, aunque en ocasiones puede diseminarse. La respuesta inmune que se produce es limitada, por lo que puede haber reinfecciones.
+Los coronavirus han sido también implicados en la producción de otitis media, neumonías en inmunodeprimidos y miocarditis. Es interesante conocer que los coronavirus experimentalmente pueden infectar células neurológicas de roedores, produciendo una enfermedad desmielinizante similar a la esclerosis múltiple. Sin embargo, la posible implicación con la esclerosis en los seres humanos no ha sido bien descrita.
+
+
+- INFECCIONES POR ADENOVIRUS
+
+Se trata de virus de la familia Adenoviridae, desnudos, provistos de cápside icosaédrica y con genoma ADN de doble cadena. Fueron aislados por primera vez en 1953 a partir de tejido adenoide, en la actualidad hay más de 100 serotipos diferentes descritos, la mitad de los cuales son patógenos para la especie humana.
+Los adenovirus producen básicamente una patología a nivel respiratorio, aunque también pueden ser causantes de patología gastrointestinal, ocular o urinaria (tabla2 ).
+La entrada de los adenovirus en las células a las que infectan se produce vía inhalatoria o vía oral (transmisión orofecal), siendo el período de incubación de 2 a 14 días. Inicialmente el virus comienza a replicarse en las células epiteliales de la zona de entrada, produciendo una necrosis celular a ese nivel, inflamación local y posteriormente posibilidad de diseminación hematógena, desde donde podrá afectar a diferentes órganos y tejidos. Tras la infección se produce inmunidad de larga duración, específica de serotipo mediada por anticuerpos neutralizantes.
+La mayoría de las infecciones por adenovirus son subclínicas y tienen lugar en la edad pediátrica en lactantes mayores de 6 meses (antes se encuentran protegidos por anticuerpos neutralizantes maternos) produciendo sobre todo afectación a nivel respiratorio. En pacientes inmunodeprimidos la afectación puede ser diseminada y grave.
+El diagnóstico de la infección por adenovirus puede realizarse mediante el aislamiento del virus en cultivos celulares, y mediante serología en la que se determinarán anticuerpos neutralizantes.
+No hay tratamiento específico para las infecciones por adenovirus, por lo que el tratamiento fundamental será de soporte según las necesidades de cada cuadro clínico concreto.
+
+
+-- CUADROS CLÍNICOS RESPIRATORIOS
+
+Los adenovirus son causa del 2-4% de las enfermedades respiratorias en la población general, aunque en colectivos más cerrados, con mucha mayor posibilidad de contacto respiratorio estrecho, la incidencia es muy superior (cuarteles, guarderías etc.).
+La adquisición se produce, como hemos comentado, por vía inhalatoria tras el contacto directo. Tras un periodo de incubación de entre 2 a 14 días, aparece la clínica que a nivel respiratorio puede tener muy diversas manifestaciones generalmente leves: coriza, faringoamigdalitis, traqueobronquitis, neumonía (cuadro que puede ser potencialmente grave). La tos persistente no productiva es bastante característica de estas infecciones, llegando a producir un cuadro similar a la tos ferina denominado bordetela-like. Existe otro cuadro clínico peculiar que suele ser muy agudo denominado "enfermedad respiratoria aguda", descrito sobre todo en adultos y que hasta en el 10% de los casos puede evolucionar a neumonía. Los serotipos más frecuentes en los primeros años de la vida son el 1, 2 y 5, mientras que en épocas más tardías los más frecuentes son el 3, 4, 7, 14 y 21. Las infecciones respiratorias causadas por estos virus se dan con más frecuencia al final del invierno y al inicio de la primavera.
+
+
+-- AFECTACIÓN GASTROINTESTINAL
+
+Se suele producir en la edad pediátrica y está causada por los serotipos 40 y 41, los adenovirus son causantes de aproximadamente un 10% de las diarreas infantiles de origen vírico. Estas gastroenteritis pueden ser epidémicas y asociarse a una clínica respiratoria y conjuntival.
+
+
+-- AFECTACIÓN OCULAR
+
+Se han descrito dos cuadros clínicos. Por un lado tenemos la fiebre faringoconjuntival caracterizada por fiebre, faringitis y conjuntivitis inicialmente unilateral y dolorosa que suele ceder espontáneamente en un plazo aproximado de una semana y puede acompañarse de sintomatología respiratoria. Por otro lado está la queratoconjuntivitis epidémica, consistente en una conjuntivitis de inicio agudo, unilateral y dolorosa, con edema local y adenopatías regionales, que suele afectar finalmente a ambos ojos y de forma característica se produce una afectación corneal. El cuadro suele ceder en unas semanas, pero es potencialmente grave. No se acompaña habitualmente de sintomatología respiratoria.
+
+
+-- CISTITIS HEMORRÁGICA
+
+Cuadro que aparece, sobre todo, en la edad pediátrica y en varones, consistente en un síndrome miccional con hematuria.
+
+
+- INFECCIONES POR <ITALIC>ENTEROVIRUS: COXSACKIE</ITALIC> Y <ITALIC>ECHOVIRUS</ITALIC
+
+Virus pertenecientes a la familia Picornaviridae, son virus ARN de pequeño tamaño provistos de una nucleocápside desnuda de un diámetro aproximado de 30 mm. Basándose en diferentes propiedades virales se han descrito nueve géneros, cinco de los cuales son patógenos humanos, fundamentalmente los dos siguientes: Rhinovirus y Enterovirus.
+Los Enterovirus comparten gran número de características clínicas, epidemiológicas y ecológicas, así como ciertas propiedades físicas y químicas. Difieren entre sí por el distinto comportamiento en el cultivo, antigenicidad y ciclo replicativo aunque, en todos los casos, el hábitat común y el lugar de replicación es el tracto intestinal humano.
+Se conocen más de 70 serotipos que causan infecciones, muchas veces clínicamente inaparentes, pero que en un pequeño porcentaje de casos dan lugar a enfermedades graves del sistema nervioso central (SNC), como la meningitis aséptica, encefalomielitis, ataxia cerebelar, síndrome de GuillainBarré, mielitis transversa y poliomielitis. La patología principal producida por estos virus se esquematiza en la tabla3 .
+El hombre es el único reservorio conocido y la transmisión tiene lugar, fundamentalmente, por vía fecal-oral y respiratoria con un periodo de incubación que oscila entre 2 y 30–40 días. Los virus se eliminan por las heces y se pueden detectar en aguas residuales, existiendo un gran número de portadores sanos. Tras la infección, el virus se multiplica localmente en el tejido linfoide de la faringe y las placas de Peyer para posteriormente diseminarse por vía hematógena a otros tejidos diana como la piel, el miocardio, el SNC, el páncreas, etc. en donde se replica.
+Los síntomas pueden ser el resultado directo de la destrucción de células diana en los tejidos (como ocurre en la poliomielitis), o puede deberse a la respuesta inmune frente al virus (como ocurre en el modelo murino de miocarditis por virus Coxackie tipo B).
+La inmunidad producida es predominantemente humoral, específica de serotipo y duradera (los anticuerpos persisten durante toda la vida). Las personas con un déficit de la inmunidad humoral tienen un mayor riesgo de desarrollar la enfermedad paralítica cuando se utiliza para su vacunación la vacuna de antipolio oral con virus atenuados (Sabin, OPV), siendo recomendable en esta situación el empleo de la vacuna parenteral de virus inactivados (Salk, IPV).
+Los enterovirus se transmiten habitualmente persona a persona por vía fecal-oral, y en menor media por vía respiratoria.
+El diagnóstico se basa en el aislamiento del virus a partir de muestras clínicas (heces, frotis faríngeo amigdalar o líquido cefalorraquídeo [LCR]) mediante cultivo en líneas celulares susceptibles (líneas WI-38, HEK y RD). La excreción es con frecuencia intermitente; por tanto, debe recogerse más de una muestra en un intervalo de 24–48 horas. Dicha excreción comienza a los pocos días de la infección y puede mantenerse semanas o incluso meses, excepto en el caso de los Echovirus, donde rara vez excede de un mes. A pesar de que el índice de recuperación de los enterovirus por cultivo a partir de LCR es bajo, debido a la escasa concentración de viriones en la muestra y a la dificultad de crecimiento de algunos serotipos en los cultivos celulares, la reacción en cadena de la polimerasa (PCR) aporta rapidez, aumento de sensibilidad y posibilidad de detección de todos los enterovirus. Las técnicas de diagnóstico serológico deben considerarse como un arma diagnóstica adicional.
+Los principales cuadros clínicos asociados con los enterovirus se describen a continuación:
+
+
+-- MENINGITIS
+
+Asociada fundamentalmente al Coxsackie virus A y Echovirus, ambos son la principal causa de meningitis viral. El cuadro es más frecuente en menores de 3 meses, en esta edad la clínica puede pasar desapercibida, ya que no hay gran afectación del SNC. En edades posteriores, la meningitis aséptica es un cuadro caracterizado típicamente por cefalea, rigidez de cuello y signos meníngeos, fiebre y malestar general. El LCR suele ser claro, y en su análisis suele detectarse pleocitosis linfocítica. La evolución del cuadro clínico suele ser benigna produciéndose la recuperación espontánea en unos días. La prevalencia es mayor en verano y otoño y puede aparecer en forma de brotes.
+Los enterovirus son también responsables de otros cuadros más graves de afectación del SNC como la encefalitis o meningoencefalitis, siendo los causantes del 10-20% del total de encefalitis. En este caso, el mayor responsable suele ser el Coxsackie virus A. La clínica puede ser variable, desde alteraciones leves hasta convulsiones y disminución del nivel de conciencia. El análisis del LCR es similar al de la meningitis aséptica. La mayoría de los pacientes se recupera totalmente, pero puede ocurrir una mala evolución del cuadro con infección diseminada y afectación muy grave del SNC que a veces termina produciendo secuelas neurológicas e incluso la muerte.
+Los enterovirus pueden ser también causantes de cuadros de mielitis (o poliomielitis like) y síndrome de Guillain Barré.
+
+
+-- HERPANGINA
+
+El Coxsackie virus A fundamentalmente puede causar fiebre con lesiones pápulo-vesiculosas que evolucionan a úlceras dolorosas en el paladar y la lengua, llegando incluso a producir disfagia. Es un cuadro benigno que suele ocurrir en menores de 2 años y remite espontáneamente en pocos días.
+
+
+-- ENFERMEDAD MANO-PIE-BOCA
+
+Exantema causado fundamentalmente por el Coxsackie virus tipo A16. Los síntomas incluyen fiebre y ampollas en las manos, el paladar y los pies. También remite en unos días sin requerir un tratamiento específico. En ocasiones se asocia a una meningitis aséptica. Suele afectar a niños menores de 10 años.
+
+
+-- MIOPERICARDITIS
+
+Los enterovirus son la primera causa viral de afectación del músculo cardiaco. Fundamentalmente causada por virus Coxsackie B. La miopericarditis viral puede tener lugar a cualquier edad, aunque es más frecuente en la edad pediátrica y en la adolescencia, afectando sobre todo a varones (proporción 2:1). La clínica de presentación del cuadro se caracteriza por fiebre, cuadro catarral y posteriormente disnea, pudiéndose auscultar roce pericárdico en la exploración hasta en el 80% de los casos, la afectación puede ser más grave, produciéndose arritmias e incluso fallo cardiaco.
+La evolución es benigna en más del 90% de los casos, aunque la mortalidad llega al 5% y existen pacientes el los que se perpetúan los trastornos del ritmo o las alteraciones ecocardiográficas.
+En la fase aguda, la administración de gammaglobulina humana polivalente puede tener un papel inmunomodulador.
+En términos generales, el tratamiento de las infecciones causadas por enterovirus es sintomático y de soporte. La administración de gammaglobulina polivalente humana se reserva para pacientes inmunodeprimidos o en casos de miopericarditis. El antiviral pleconarilo ha demostrado su eficacia en meningoencefalitis, siempre y cuando su administración sea precoz.
+
+
+- INFECCIONES VÍRICAS GASTROINTESTINALES: <ITALIC>ROTAVIRUS,</ITALIC> VIRUS NORWALK, <ITALIC>CALICIVIRUS</ITALIC
+
+-- ROTAVIRUS
+
+Virus de la familia Reoviridae identificados por microscopía electrónica en 1973 a partir de biopsias duodenales. Son virus no envueltos, con cápside icosaédrica cuyo genoma es de ARN de doble cadena. Existen seis grupos diferentes (del A al F) basándose en la antigenicidad (cada grupo comparte antígenos comunes) y la motilidad electroforética de los segmentos de ARN. Los grupos D, E y F no han sido encontrados en los seres humanos. Los Rotavirus del grupo A son los que se han descrito como principales agentes patógenos en los seres humanos, fundamentalmente productores de gastroenteritis en niños e inmunodeprimidos. El Grupo B ha sido asociado con brotes de gastroenteritis en adultos en China.
+La adquisición ocurre fundamentalmente por contacto persona a persona, por transmisión orofecal o a través de fómites, pudiendo ser un patógeno causante de brotes nosocomiales. También es posible el contagio mediante agua y alimentos. El periodo de incubación es de 4 días aproximadamente. Las células huésped afectadas son enterocitos maduros que cubren las terminaciones medias y distales de las vellosidades intestinales. El virus se replica en el citoplasma de la célula huésped, eliminándose grandes cantidades de partículas virales en las deposiciones diarreicas.
+El cuadro clínico fundamental es la producción de gastroenteritis aguda en edad pediátrica, manifestada como diarrea acuosa, fiebre alta, náuseas y vómitos de 3–10 días de duración. La resolución es habitualmente espontánea, aunque en ocasiones, en pacientes inmunodeprimidos o desnutridos, el cuadro puede persistir más tiempo, pudiéndose producir enterocolitis necrotizante, gastroenteritis hemorrágica y deshidratación fundamentalmente en neonatos, siendo el causante de más de medio millón de muertes en niños lactantes en países en desarrollo. Las infecciones asintomáticas son también comunes, sobre todo en adultos. Tras la infección pueden persistir cuadros de malabsorción, intolerancia a la lactosa por daño en las vellosidades y diarrea crónica.
+El diagnóstico puede realizarse de forma rápida mediante la detección de antígenos en heces o mediante la PCR en tiempo real. También es posible el cultivo en líneas celulares.
+El tratamiento es de soporte con atención especial a la hidratación, ya que no hay antivirales efectivos.
+Es muy importante la realización de una adecuada prevención de diseminación de esta infección, sobre todo en los centros hospitalarios, mediante un adecuado lavado de manos, una desinfección correcta de las superficies, etc.
+Existen además dos vacunas de administración oral que han mostrado eficacia en diversos ensayos clínicos. Según datos recientes, la eficacia de la prevención de diarreas por rotavirus tras la administración de la vacuna oscila entre el 50-79% según las áreas geográficas, además se ha demostrado que la administración de la vacuna reduce en un 30% la incidencia de diarreas por cualquier causa, siendo una medida con coste-efectividad demostrada, , , .
+
+
+-- VIRUS NORWALK
+
+Se trata de un virus ARN no envuelto de cadena sencilla, aislado por primera vez en 1972 en Ohio. La transmisión suele tener lugar por vía oro-fecal tras el contacto directo con heces contaminadas, también es posible que se produzca una transmisión a través de alimentos o aguas en mal estado. Puede producir brotes epidémicos en grupos o poblaciones.
+Tras un periodo corto de incubación, generalmente de no más de 24 horas, se produce un cuadro clínico de gastroenteritis consistente en náuseas, vómitos, dolores abdominales tipo retortijón y diarrea acuosa acompañada de cefalea, fiebre y malestar general. La duración total del cuadro suele ser inferior a 3 días.
+El diagnóstico es clínico, aunque pueden realizarse técnicas de cultivo o examen con microscopía electrónica.
+
+
+-- CALICIVIRUS
+
+Virus ARN no envuelto de cadena sencilla aislado en 1976. La superficie viral tiene 32 depresiones en forma de copa, aspecto del que deriva su nombre. Se han descrito 5 tipos antigénicos en los seres humanos denominados UK del 1 al 4, y el tipo Japón/Sapporo. Es un virus de distribución mundial.
+La transmisión es fecal-oral, mediante la contaminación de alimentos y de persona a persona. Han sido descritos brotes relacionados con el consumo de alimentos contaminados como las ostras.
+Tras un periodo de incubación que va de 12 horas a 4 días puede producirse un cuadro de gastroenteritis, generalmente leve, consistente en diarrea moderada y fiebre, que hasta en un tercio de los casos se asocia a una sintomatología respiratoria tipo coriza o resfriado, aunque la mayoría de las infecciones son asintomáticas.

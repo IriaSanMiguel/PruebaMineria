@@ -1,0 +1,98 @@
+CAMBIOS EN EL EXAMEN CLÍNICO OBJETIVO Y ESTRUCTURADO (ECOE) DE LAS FACULTADES DE MEDICINA DURANTE LA COVID-19. EXPERIENCIA DE UNA ECOE DE CASOS-CLÍNICOS COMPUTARIZADOS SIMULADOS (ECOE-CCS) CONJUNTA
+
+
+- INTRODUCCIÓN
+
+La evaluación de la competencia clínica se ha realizado a través del tiempo utilizando instrumentos como el examen ante un paciente real. Esta forma de evaluación tradicional hace difícil valorar explícitamente todos los componentes que integran la competencia clínica. En 1975, Harden inició la observación directa con múltiples estaciones estructuradas con un listado evaluativo, la Objective Structured Clinical Examination (OSCE), y, en español, la evaluación (o examen) clínico objetivo estructurado (ECOE), , .
+La Conferencia Nacional de Decanos de Facultades de Medicina (CNDFME) ha establecido los criterios comunes de una prueba tipo ECOE de 20 estaciones, que deben realizar todos los alumnos del sexto curso del grado en medicina. Es una prueba de carácter práctico orientada a valorar la competencia profesional del alumno de acuerdo con las competencias específicas del grado en medicina establecidas por la Orden ECI/332/2008 publicada en el BOE de 15/02/2008, mediante la resolución de casos clínicos y la demostración de habilidades.
+Las diferentes Facultades de Medicina (FM) realizan la ECOE generalmente en un entorno clínico. Esta prueba explora las competencias mediante diferentes metodologías. Las estaciones incluyen pacientes estandarizados, maniquíes, preguntas de respuesta corta, realización de exploraciones complementarias ajustadas al caso, redacción de informes clínicos, examen oral estructurado, habilidades y procedimientos, estaciones con ordenador o utilizando simuladores, , .
+La pandemia de la COVID-19 ha cambiado nuestras vidas en el año 2020. El estado de alarma decretado ha obligado a completar los estudios universitarios online . Por ello, el Comité Nacional de la prueba de la CNDFME aprobó la realización de pruebas virtuales sustitutorias. Dentro de los acuerdos, las 16 FM decidieron desarrollar una ECOE de casos clínicos computarizados simulados (ECOE-CCS) para ejecutarlos en la plataforma del campus virtual de cada universidad, en un proyecto de innovación común.
+El objetivo de este artículo es describir la elaboración, la ejecución y el desarrollo de la ECOE-CCS.
+
+
+- MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Estudio descriptivo del proceso de elaboración, desarrollo y ejecución de la ECOE-CCS desde su gestación en abril de 2020 hasta su ejecución en junio de 2020.
+
+
+-- ELABORACIÓN ECOE-CCS
+
+El día 25 de marzo de 2020 ya en el estado de alarma el Comité Nacional de la prueba de la ECOE-CNDFME acuerda formar grupos de trabajo para elaborar una base de casos y preguntas para una prueba ECOE virtual que pudiese ejecutarse simultáneamente en cada FM (ver material suplementario).
+Dos semanas más tarde se establecieron dos agrupaciones de los grupos de trabajo. De las 40 FM que debían realizar la prueba ECOE-CNDFME el curso 2019-2020, 21 (52,5%) decidieron unirse a alguno de los grupos para compartir una prueba común. De estas, 16 FM (76,2%) desarrollaron y compartieron la ECOE-CCS objeto de este trabajo y cinco FM (23,8%) se unieron en un grupo de trabajo utilizando la plataforma de la Fundación Practicum-Script®.
+Desde el 25 de abril se realizaron reuniones online semanales de las 16 FM que participaron en la ECOE-CCS con casos comunes compartidos y a las que también se sumaron otros coordinadores del resto de las FM para compartir la experiencia y tratar todos los aspectos de la organización. Se comenzó por establecer el mapa de competencias, el número de estaciones necesarias, el número de ítems por competencia y se fijaron las fechas de realización de la prueba.
+En la tabla 1 se incluye el mapa de competencias de la ECOE-CCS y el de la ECOE de la CNDFME presencial. En este sentido se vio que las competencias de habilidades técnicas y habilidades de comunicación no se podrían evaluar adecuadamente, pero sí se podían desarrollar preguntas virtuales para el resto de las competencias. Por consenso de todas las FM participantes en la prueba y refrendado por la Comisión Permanente de la CNDFME, la competencia de juicio clínico se pasó de 20 a 35% y la de prevención y salud pública y la de aspectos éticos/legales/profesionalismo de 10 a 15%.
+Inicialmente se solicitó a las FM estaciones que pudieran desarrollarse en plataformas online. Se presentaron 44 estaciones virtuales clasificadas de acuerdo con las especialidades clínicas que figuran en el Módulo V del plan de estudios, y, finalmente, se seleccionaron 10 estaciones para cada día de examen, teniendo en cuenta las diferentes competencias que había que evaluar y las especialidades clínicas para cubrir el requerimiento del plan de estudios que permite que el título de grado en medicina tenga reconocido el nivel de máster. Por ello se acordó seleccionar casos clínicos de ginecología (n = 1), pediatría (n = 1), psiquiatría (n = 1), cirugía y traumatología (n = 2), medicina (n = 3) y atención primaria (n = 2).
+
+
+-- ECOE-CCS DE PRUEBA
+
+Se realizó una prueba previa de la ECOE-CCS tres a cinco semanas antes (16 de mayo de 2020), con una estación de comienzo y tres estaciones simuladas. Estaba diseñada para que el estudiante pudiera tener modelos de preguntas con los que se iba a encontrar en las estaciones de la ECOE-CCS. Se celebró un sábado por la tarde para simular la presión del examen común simultáneo sobre los servicios informáticos de las plataformas virtuales de cada FM.
+Participaron 2.829 alumnos. Comenzaba con una estación con un video de bienvenida, la explicación de la prueba y una pregunta de compromiso ético y, a continuación, cuatro estaciones que fueron apareciendo de forma secuencial. Una vez finalizada la previa, se mantuvo la posibilidad de repetir la última estación en días sucesivos para que los alumnos pudieran familiarizarse con el tipo de preguntas. La duración de la prueba fue de unos 30 minutos. Trece FM realizaron la prueba en la plataforma Moodle, dos en Sakai y una en Blackboard.
+
+
+-- TÉRMINOS EMPLEADOS EN LA ELABORACIÓN DE LA ECOE-CCS
+
+Los términos empleados en la elaboración de la ECOE-CCS se definen como:1)Estación: agrupación de preguntas sobre un caso clínico.2)Pregunta: enunciado presentado al alumno en la pantalla con un número variable de ítems evaluables y neutros que una vez completada se enviaba y no se permite su modificación. En la mayoría de las preguntas de anamnesis y de exploración se añadió la posibilidad de comprobación, que permitió informar al alumno de la respuesta del paciente en forma de texto como respuesta a lo que se preguntó en la anamnesis o como imagen gráfica o video en caso de las exploraciones.3)Ítems evaluables: elementos sobre los que se pregunta y puntuables positiva o negativamente.
+
+
+- RESULTADOS
+
+-- EJECUCIÓN DE LA ECOE-CCS
+
+La ECOE-CCS se realizó en dos fechas, el 6 de junio y el 20 de junio de 2020. En la primera participaron 13 FM con 2.463 alumnos y en la segunda, tres FM con 366 alumnos. La prueba empezó a las 19 h de forma simultánea en todas las FM. Se diseñó la ECOE-CCS con los mismos casos, las mismas preguntas y ponderaciones de competencias. En la tabla 2 se recoge las universidades, las plataformas virtuales utilizadas y el número de alumnos.
+Cada ECOE-CCS del día 6 de junio de 2020 y del día 20 presentaban situaciones diferentes si bien se compartieron cuatro estaciones, dos con el mismo contenido de caso clínico y las otras dos con la misma situación de partida, pero con un caso clínico diferente (tabla 3 ). El alumno fue convocado con un tiempo de 30 minutos antes del inicio de la prueba. La prueba empezaba con una estación 0 o de presentación; a continuación, 10 estaciones y para finalizar una encuesta de satisfacción de la prueba.
+La prueba ECOE-CCS se diseñó para que cada alumno entrara en las estaciones con una secuencia diferente (con 50 variantes distintas) para disminuir el efecto de copia o de trasmisión de la información. La duración de cada estación fue de 12 minutos. Las estaciones se abrían cuando se entregaba la anterior. Si no acababa en los 12 minutos, se entregaba automáticamente, le sacaba de la estación y le ofrecía la siguiente estación que le correspondía según su propia secuencia. La duración total máxima de la prueba fue de 120 minutos. Dentro de cada estación las preguntas se presentan secuencialmente al responder sin permitir volver a la anterior.
+
+
+-- COMPOSICIÓN DE LA ECOE-CCS
+
+El 6 de junio se presentaron al examen 2.463 estudiantes de 13 FM. Las 10 estaciones fueron: tres de medicina, dos de atención primaria, dos de cirugía y traumatología y una de ginecología, pediatría y psiquiatría. El número de preguntas por estación osciló de seis a 21, lo que correspondía a un promedio de 1,1 minutos por pregunta. El total de ítems evaluables fue de 261. La anamnesis estuvo representada en nueve estaciones, la exploración física en cinco, el juicio clínico en nueve, la prevención y promoción en cinco estaciones y los aspectos ético-legales en seis estaciones. De las 10 estaciones casi todas tenían las cinco áreas competenciales que se iban a evaluar con una ponderación diferente. En la tabla 3 se detallan los casos, el número de puntos y el de ítems evaluables en todas las competencias y la propuesta de la CNDFME para la ECOE-CCS.
+El 20 de junio del 2020 se presentaron 366 estudiantes de tres FM y algunos alumnos de las otras FM que no pudieron realizar la prueba el día 6. De las 10 estaciones, cuatro eran los mismos casos clínicos que el día 6 de junio del 2020, dos idénticos y dos con la misma situación de partida (el derecho a la información y la parálisis facial) pero con un desarrollo diferente, y seis casos nuevos diferentes (pie de tabla 3). En esta prueba las áreas competenciales fueron similares a la anterior.
+
+
+-- TIPO DE ESTACIONES Y PREGUNTAS
+
+Cada estación tenía una situación de partida que presentaba el entorno del caso clínico y a continuación una serie de indicaciones sobre las tareas y el contenido general de las preguntas que se tenían que responder. Todas las estaciones tenían una o más preguntas con imágenes y en varias se incluyó algún video.
+Las preguntas de anamnesis mayoritariamente fueron de múltiple opción con respuesta múltiple, con pesos distintos en cada ítem y según la posibilidad de la plataforma, con retroalimentación específica, mostrando al alumno la respuesta del paciente a los ítems seleccionados (moodle) o mostrando un pequeño resumen seleccionado en las otras dos plataformas (fig. 1 A y 1 B).Figura 1
+Se construyó una estación de atención primaria sobre derecho a la información con viñetas y preguntas binarias (correcto o falso) sobre aspectos éticos (fig. 2 A). Un porcentaje importante de las preguntas de juicio clínico fueron de razonamiento tipo Script o de organización de ese conocimiento clínico en redes conceptuales (fig. 2B).Figura 2
+
+
+-- ENCUESTA DE SATISFACCIÓN
+
+La mayoría de las FM incorporó una encuesta de satisfacción al final como estación 11; ocho facultades realizaron una encuesta común en moodle que constaba de 60 preguntas (entre cinco a 10 respuestas) (ver material suplementario). En un análisis preliminar de 1.437 respuestas a la encuesta sobre los ítems que analizan en los parámetros globales, la mayoría de los estudiantes se consideraron satisfechos, muy o extremadamente satisfechos con el simulacro realizado.
+Respecto a la prueba evaluada, la mayor parte de los alumnos (52%) señaló percibir bastante nivel de estrés previo y, a pesar de ello, valoraron como adecuada o mejor la información previa recibida (70%), la organización el día de la prueba (83%), la preparación recibida durante el grado (67%), los conocimientos previos adquiridos (88%), el tipo de problemas médicos presentados con respecto a los contenidos vistos durante el grado (76%), y consideraron la prueba como una buena experiencia del aprendizaje (75%).
+
+
+- DISCUSIÓN
+
+Esta experiencia innovadora ha permitido la integración y el trabajo interdisciplinar de las diferentes FM para la preparación de una prueba conjunta que, aunque sabemos que no es lo mismo que la ECOE tradicional, ha permitido la evaluación de gran parte de las competencias que debe tener la prueba ECOE para ser homologada por la CNDFME.
+La ECOE-CCS diseñada y descrita en este artículo es una estrategia que se puede aplicar para años sucesivos, y realizarla como parte de la prueba ECOE de la CNDFME. Se recomienda que la prueba ECOE de la CNDFME tenga entre 16-20 estaciones con seis a ocho encuentros con pacientes simulado y tres a cinco estaciones de habilidades.
+Una posibilidad es que la prueba ECOE de la CNDFME se pueda hacer en dos partes: una parte con 12 estaciones, en forma de encuentros con pacientes simulados estandarizados y/o estaciones de habilidades y procedimientos, y una segunda parte de ocho a 12 estaciones, como la ECOE-CCS de este año, en las que se evalúe a todos los alumnos, con los mismos casos clínicos y sincrónicamente, en las competencias que se han descrito en este artículo.
+Si fuera así, se conseguiría aproximarnos a dos componentes del Examen de Licencia Médica de los Estados Unidos (en inglés: United States Medical Licensing Examination o USMLE): la parte 2 habilidades clínicas (en inglés: Step 2 CS Clinical Skills) en la que se presentan encuentros con pacientes simulados en 12 casos clínicos diferentes y la parte de la ECOE-CCS sería equivalente al Step 3 CCS Computer-based Case Simulation, en la que el aspirante se enfrenta a casos clínicos simulados por ordenador, . Lo que podría facilitar el reconocimiento de nuestros planes de estudios en la acreditación en EE.UU.
+Adicionalmente en los próximos años la experiencia de este curso nos puede permitir abordar también la realización de pruebas de conocimiento con preguntas tipo test similares al examen de los médicos internos residentes, equivalentes al Step 2 CK Clinical Knowledge y al Step 3 MCQ multiple-choice question, y aplicarlas simultáneamente en las mismas plataformas.
+En este curso, en EE.UU., para evitar los desplazamientos masivos en época de la COVID-19 y la relación cercana necesaria con los pacientes simulados al igual que en España, se ha suspendido el Step 2 CS. El USMLE ha establecido una colaboración con 29 facultades que podían ser la sede de los exámenes virtuales del Step 1 y el Step 2 CK .
+En Europa, como consecuencia de la COVID-19, también ha proliferado la adaptación de las ECOE al entorno virtual, , y muy posiblemente se transformarán en procedimientos habituales en la evaluación final de los alumnos de medicina y de otras disciplinas de ciencias de la salud que realizaban ECOE en su titulación.
+Cabe reconocer que este tipo de prueba integradora, más «allá» del examen convencional de respuesta múltiple tipo MIR, se ha podido realizar gracias a la disponibilidad de plataformas educativas online como Moodle, Blackboard y Sakai, referentes de la enseñanza de la medicina online .
+Los casos clínicos desarrollados para la evaluación son una herramienta de gran valor formativo en el proceso de aprendizaje, de manera que el entrenamiento con casos virtuales se transformará pronto en una herramienta de uso docente generalizado, . En la encuesta, los propios alumnos consideraron la prueba como una buena experiencia del aprendizaje.
+La ECOE-CCS tiene la limitación de no evaluar áreas competenciales esenciales de la práctica clínica, como la comunicación y las habilidades técnicas, y otras competencias esenciales del médico, como la anamnesis y exploración. No es lo mismo realizarla a un paciente simulado estandarizado que, mediante un ejercicio tipo test, aunque sea tipo opción múltiple con retroalimentación específica de los ítems, la anamnesis y la exploración al paciente son la base esencial de la evaluación de la comunicación.
+En los próximos años, cuando dispongamos de la evaluación de los mismos alumnos en las competencias que son comunes al examen con paciente y a la ECOE-CCS podremos compararlo para establecer qué tipo de diferencias y similitudes se pueden encontrar.
+Una segunda limitación de la ECOE-CCS fue que no se pudo contar con la opinión previa del estudiantado a la hora de desarrollar el proyecto de transición digital de la ECOE por culpa de la pandemia, si bien se confeccionó una encuesta para conocer su opinión en el futuro.
+Por último, la participación de las facultades en la prueba requiere acuerdos con los alumnos y cambios en las programaciones, que llevaron a una participación en la ECOE-CCS del 2020 de la mitad de las FM del estado español, pero en 2021 estarán casi todas y, en 2022, esperamos que todas lo puedan incluir en su programación antes de empezar el curso.
+
+
+- CONCLUSIONES
+
+La experiencia de la ECOE-CCS ha permitido llevar a cabo una integración y el trabajo interdisciplinar de las diferentes FM en situaciones de crisis como la vivida. Esto ha permitido poder hacer la prueba ECOE que cumple con los requisitos del nivel 3 de máster en los títulos de grado.
+Además, el ECOE-CCS realizada podría equivaler a la Sept 3 CCS de la USMLE y con la prueba ECOE de la CNDFME, que equivaldría a la Sept 2 CS, permitiría en los próximos años facilitar la equivalencia de los títulos de Grado en Medicina de España con el de Estados Unidos.
+
+
+- CONFLICTO DE INTERÉS
+
+No hay conflicto de interés.
+
+
+- FINANCIACIÓN
+
+No ha tenido fuente de financiación.

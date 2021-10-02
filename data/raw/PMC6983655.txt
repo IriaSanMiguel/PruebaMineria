@@ -1,0 +1,110 @@
+RELEVANCIA CLÍNICA DE LAS INTERACCIONES MEDICAMENTOSAS ENTRE ANTIINFLAMATORIOS NO ESTEROIDEOS Y ANTIHIPERTENSIVOS<SUP
+
+
+- INTRODUCCIÓN
+
+En la práctica médica, el uso conjunto de los analgésicos-antiinflamatorios no esteroideos (AINE) y antihipertensivos es común, por la coexistencia de artrosis e hipertensión arterial (HTA), especialmente en mayores de 60 años. Sin embargo, el uso simultáneo de estos medicamentos puede causar problemas asociados a interacciones medicamentosas, especialmente de efectividad del tratamiento antihipertensivo.
+En general, los efectos adversos asociados con AINE son bien conocidos, aunque la posible influencia en el aumento de las cifras de presión arterial (PA) es controvertida, . Algunos expertos recomiendan suspender los AINE o utilizarlos ocasionalmente; mientras que otros establecen que el grado de elevación de la PA, para la mayoría de AINE, es de unos escasos mmHg y, por tanto, ajustando la dosis de los antihipertensivos se compensaría la interacción. También es necesario recordar que, en pacientes con infarto de miocardio previo, la mayoría de los AINE se asocian con mayor riesgo de muerte.
+La interacción PA-AINE está ligada al mecanismo de acción de los AINE (inhibición de la ciclooxigenasa [COX] y bloqueo de la síntesis de prostaglandinas). De la COX existen, entre otras, 2 isoformas: COX-1, constitutiva de los tejidos, y COX-2, relacionada con inflamación y daño celular. Los AINE se dividen en COX selectivos y no selectivos, y pueden aumentar la PA por diversos mecanismos: a) alterando la función renal: reduciendo el flujo sanguíneo, la tasa de filtración glomerular y causando retención de sodio, b) disminuyendo la producción de prostaglandinas E2 e I2, lo que limita la vasodilatación, y c) bloqueando la COX-2 y provocando el aumento de vasoconstrictores resultantes del metabolismo del ácido araquidónico. Adicionalmente, los AINE pueden disminuir los efectos vasodilatadores de la prostaciclina, liberada para contrarrestar el aumento de la presión arterial media (PAM) causado por sustancias como la angiotensina, la endotelina y las catecolaminas.
+Desde una perspectiva farmacológica, la acción de los inhibidores de la enzima conversora de angiotensina (iECA) se relaciona con el aumento de prostaglandinas vasodilatadoras; por ello, es un grupo de antihipertensivos con probabilidad alta de interacciones relevantes con AINE. Por su parte, en los antagonistas de los receptores de la angiotensina ii (ARA-II), aunque su mecanismo es similar (ligado a las prostaglandinas endógenas), la producción de bradicinina es menos relevante en el resultado antihipertensivo y, por tanto, podrían tener una menor probabilidad de interacciones relevantes clínicamente con los AINE. En la misma dirección, los bloqueadores beta (BB) incrementan la síntesis de prostaglandinas vasodilatadoras, mecanismo antihipertensivo que puede verse alterado por los AINE. Los bloqueadores de los canales de calcio (BCC) podrían ser los antihipertensivos menos influidos por los AINE, debido a que su mecanismo de acción no está relacionado con prostaglandinas y no depende significativamente de la prostaciclina vascular.
+El objetivo de esta revisión sistemática fue establecer la relevancia clínica de las interacciones medicamentosas entre los AINE y los antihipertensivos, basándose en la gravedad y en la probabilidad de ocurrencia de la interacción.
+
+
+- METODOLOGÍA
+
+-- DISEÑO
+
+Revisión sistemática.
+
+
+-- SELECCIÓN DE ESTUDIOS
+
+Búsqueda en PubMed-Medline. Términos Mesh: NSAIDs, Antihypertensive drugs y Drug interactions. Límites: estudios en humanos, lenguaje en español e inglés y acceso a texto completo. Fueron incluidos artículos de interacciones medicamentosas entre AINE con antihipertensivos sistémicos, y algunas de las referencias usadas en dichos trabajos, con el fin de ampliar el contexto o aumentar el soporte de los resultados. Fueron excluidos los trabajos con métodos in vitro, con efectos sobre la hipertensión ocular y aquellos que no abordaron la interacción AINE-antihipertensivos.
+Se incluyeron revisiones sistemáticas, ensayos clínicos aleatorizados controlados, estudios cuasiexperimentales (no aleatorizados), estudios observacionales y reportes de caso publicados entre 2002 y 2012. Se identificaron 50 trabajos, de los que se incluyeron 19 y se excluyeron 31.
+
+
+-- MÉTODOS DE REVISIÓN
+
+Los artículos incluidos fueron seleccionados por 3 investigadores de forma independiente, que revisaron los títulos y resúmenes de todos los artículos identificados para decidir su elegibilidad. Los artículos seleccionados se analizaron conjuntamente y, por consenso, se definieron aquellos a incluir. En un formato previamente definido se recopilaron los siguientes datos: título del artículo, revista, año, volumen, autores, tipo de estudio, ámbito (hospitalario-ambulatorio), país-continente, lugar del estudio, resumen del contenido, medicamento antihipertensivo, AINE y gravedad del desenlace.
+
+
+-- ANÁLISIS DE DATOS
+
+--- MEDIDAS DE RESULTADO Y VALORACIÓN DE LA RELEVANCIA CLÍNICA DE LAS INTERACCIONES
+
+La valoración de la relevancia clínica de las interacciones se basó en la gravedad y la probabilidad de su ocurrencia. La gravedad se clasificó en: a) grave: la interacción puede causar muerte, hospitalización, intervención quirúrgica o una incapacidad permanente; b) moderada: es necesario interrumpir la farmacoterapia, prolongar la hospitalización o agregar nuevos medicamentos al tratamiento; c) leve: la interacción no afecta la salud del paciente.
+La probabilidad de aparición de la interacción se estableció en 3 categorías, consecuentes con la evidencia encontrada: a) definida: evidencia en metaanálisis, revisiones sistemáticas o ensayos clínicos (aleatorizados o no); b) probable: estudios analíticos o descripción en 3 o más reportes de casos clínicos; c) posible: menos de 3 casos reportados o por recomendaciones de grupos de expertos.
+Acorde con las posibles combinaciones de gravedad y probabilidad, se definió la relevancia clínica de las interacciones en 4 niveles:
+• Nivel 1 (riesgo muy alto): combinaciones grave-definida, grave-probable; el uso simultáneo de los medicamentos es contraindicado.
+• Nivel 2 (riesgo alto): resultante de las combinaciones grave-posible, moderada-definida, moderada-probable; el uso requiere ajustes de dosificación y valoración clínica de la efectividad y seguridad.
+• Nivel 3 (riesgo medio): resultante de las combinaciones moderada-posible, leve-definida, leve-probable; es necesaria monitorización clínica y análisis sobre el ajuste de dosis.
+• Nivel 4 (riesgo bajo): resultante de la combinación leve-posible; la interacción es de relevancia clínica baja.
+El aumento reportado en las cifras de PA se analizó con estadística descriptiva para variables continuas, calculándose las medidas de tendencia central y dispersión. La presentación de la información estadística se realizó por grupos farmacológicos.
+
+
+- RESULTADOS
+
+Se identificaron 21 interacciones farmacodinámicas, agrupadas, acorde con su relevancia clínica, en: 0 de nivel 1 (0%); 16 de nivel 2 (76,2%); 5 de nivel 3 (23,8%) y 0 de nivel 4 (0%). En la tabla 1 se detalla el nivel de relevancia clínica de las interacciones encontradas.
+En general, en mayor o menor medida los diferentes AINE se encontraron asociados a un aumento en las cifras de PA en pacientes en tratamiento antihipertensivo . En los diferentes grupos de antihipertensivos se evidenció disminución de la efectividad asociada al uso concomitante de AINE . Se encontraron 16 combinaciones sin evidencia de interacción entre ambos grupos farmacológicos .
+Un metaanálisis de 1.324 pacientes (1.213 con HTA) mostró que los AINE (principalmente indometacina y naproxeno) aumentaron la PAM en 5,4 mmHg (± 1,2). Por su parte, un metaanálisis similar de 50 estudios con 771 pacientes (447 con HTA) concluyó que los AINE (especialmente piroxicam) elevaron la PAM en 5,0 mmHg (± 3,7) y antagonizaron el efecto de los antihipertensivos en pacientes con HTA controlada. Por su parte, una trabajo con 41.945 pacientes (41.510 con HTA), basado en estos 2 metaanálisis y 10 ensayos clínicos adicionales, concluyó que, en pacientes en tratamiento antihipertensivo, la utilización de AINE aumenta la PAS en unos 10 mmHg en promedio.
+Se ha analizado la influencia de los AINE en la HTA por cada grupo de fármacos antihipertensivos:
+
+
+-- INHIBIDORES DE LA ENZIMA CONVERSORA DE ANGIOTENSINA
+
+La indometacina, , , , , y el ibuprofeno causaron un aumento significativo en las cifras de PA. Igualmente, en pacientes con HTA y osteoartrosis bajo tratamiento con lisinopril, el diclofenaco disminuyó la función renal y la efectividad del iECA. Por ello, se establece que la interacción iECA-AINE (especialmente COX no selectivos) es de mayor relevancia clínica en pacientes mayores y con problemas renales. Relacionado con la seguridad del tratamiento, la combinación iECA-AINE se ha asociado con desarrollo de angioedema, .
+Relacionado con la combinación iECA-AINE inhibidores de la COX-2, la FDA retiró del mercado el rofecoxib (en 2004) y el valdecoxib (en 2005); además, existe un reporte de caso fatal asociado al rofecoxib. Por su parte, el celecoxib sigue siendo comercializado y no se encontró evidencia de efecto notorio sobre la PA cuando se utiliza con lisinopril.
+En cuanto al ácido acetilsalicílico (AAS), no se encontró evidencia de que afecte las cifras de PA en pacientes en tratamiento antihipertensivo, , , .
+
+
+-- DIURÉTICOS
+
+Los AINE causaron un aumento de la PA en pacientes en tratamiento con diuréticos utilizados como antihipertensivos (en monoterapia o en combinación con iECA), , . En este sentido, varios AINE COX no selectivos causaron aumento de la PA en pacientes en tratamiento con diurético tiazídico/iECA, . Sin embargo, el celecoxib y el acetaminofén no elevaron la PA. Aunque, relacionado con la seguridad, en pacientes en tratamiento con diuréticos y ARA-II (además con metformina) la adición de celecoxib se asoció a un evento grave no relacionado con cifras de PA.
+
+
+-- ANTAGONISTAS DE LOS RECEPTORES DE ANGIOTENSINA <SC>II</SC
+
+La indometacina causó inefectividad de la terapia antihipertensiva de pacientes en tratamiento con ARA-II, , efecto negativo que no se evidenció con el AAS, bien sobre las cifras de PA o la prevención cardiovascular, ni con el celecoxib.
+
+
+-- INHIBIDORES DE LA RENINA
+
+Dos investigaciones que evaluaron la interacción del aliskiren (inhibidor de renina) con celecoxib, en jóvenes sanos, no evidenciaron modificación en los parámetros farmacocinéticos evaluados, .
+
+
+-- BLOQUEADORES BETA
+
+Desde hace varios años existen resultados que han evidenciado el efecto negativo de la indometacina, , , , el sulindac y el piroxicam sobre las cifras de PA. Por ello, de forma general se acepta que los BB son muy sensibles a la interacción con los AINE. Sin embargo, en una revisión en bases de datos de pacientes en tratamiento con antihipertensivos no se identificó influencia de los AINE sobre la PA en pacientes tratados con BB.
+
+
+-- BLOQUEADORES DE LOS CANALES DE CALCIO
+
+Los BCC dihidropiridínicos de acción prolongada presentan un buen comportamiento frente a los AINE, sin variación de la efectividad antihipertensiva. En este sentido, la indometacina, y otros AINE, no causaron aumento notorio en las cifras de PA. Similarmente, el AAS a dosis terapéutica analgésica no afectó la PA en pacientes tratados con BCC, . De forma similar, los AINE no causaron un aumento notorio sobre las cifras de PA en pacientes en tratamiento con BCC tipo fenilalquilaminas como el verapamilo, .
+
+
+- DISCUSIÓN
+
+La HTA es una patología prevalente en la población, siendo posible su coexistencia con osteoartritis; por tanto, puede ser necesaria la combinación de antihipertensivos y AINE. La presente revisión respalda la evidencia de que, en pacientes con HTA tratada, los AINE puedan elevar la PA. Los iECA, los BB y los diuréticos, debido a su mecanismo de acción relacionado con las prostaglandinas, , son los grupos farmacológicos más afectados por el uso de AINE . De forma similar, existe evidencia del aumento de la PA en pacientes controlados con ARA-II, . Por su parte, en los BCC dihidropiridínicos no se encuentra evidencia de la pérdida de su efecto antihipertensivo por los AINE.
+Relacionado con la efectividad del tratamiento antihipertensivo, los resultados de la presente revisión soportan un aumento de la PA asociado a la utilización simultánea de los AINE no selectivos, , , . En el caso de los iECA existe evidencia de un efecto de clase y se clasifica como interacciones de relevancia 2 (riesgo alto).
+En pacientes en tratamiento con BB, los resultados del efecto de los AINE sobre las cifras de PA son controvertidos. En este sentido, el metaanálisis de Johnson et al. reporta un aumento de 5,0 mmHg; mientras que Ishiguro et al. no encontraron cambios significativos en los valores de PA. Sin embargo, se destaca que el estudio de Ishiguro es en una base de datos, y además no hay claridad sobre los BB estudiados y, por tanto, limitan la generalización de los resultados.
+Los resultados encontrados muestran que el AAS no afecta la efectividad del tratamiento antihipertensivo relacionada con las cifras de PA. Por su parte, en lo que respecta al efecto protector de los iECA a largo plazo, existe controversia sobre el efecto del AAS. El estudio HOT de Zanchetti et al. muestra que las dosis bajas de AAS no afectan estos beneficios, mientras que MacIntrye et al. reportan la posibilidad de una disminución de los efectos del captopril en el tiempo, aunque el estudio HOT se fundamenta en resultados con 18.790 pacientes, mientras que el de MacIntrye se realizó con solo 9 pacientes.
+Relacionado con el efecto de los AINE COX-2 selectivos sobre la efectividad del tratamiento antihipertensivo, no se identificó evidencia de que celecoxib genere aumento en las cifras de PA. Sin embargo, relacionado con la seguridad, existe un reporte de caso de reacción adversa grave a nivel renal, al igual que un estudio que muestra que, en pacientes con infarto de miocardio previo, el uso de celecoxib durante más de 14 días se asocia a un mayor riesgo de muerte.
+Por ello, en pacientes con HTA y con osteoartritis o dolor crónico los BCC, en especial del tipo dihidropiridínicos, son el grupo de antihipertensivos con menor probabilidad de interacciones con los AINE no selectivos. En este sentido, en esta revisión no encontró interacción entre 9 parejas de antagonistas del calcio (6-dihidropiridínicos) y AINE no selectivos, , , , , , . Por su parte, relacionado con el grupo de analgésicos, los resultados sugieren que el celecoxib es el AINE con menor probabilidad de afectar las cifras de PA, y se podría incluir con el paracetamol como opciones para el tratamiento del dolor en pacientes que requieran tratamiento, , .
+Por su parte, relacionado con la seguridad, la combinación AINE-iECA puede favorecer la aparición de angioedema, . Además, debido al posible aumento de la probabilidad de la disminución de la función renal y la aparición de hiperpotasemia, en pacientes de edad avanzada con función renal disminuida a quienes se les prescriban IECA y AINE no selectivos se debe realizar un seguimiento más cercano, .
+La revisión y el método empleado para valorar la relevancia clínica de las 21 interacciones encontradas, de las cuales 16 fueron clasificadas en el nivel 2 (riesgo alto), es un aporte para favorecer la toma de decisiones de los médicos, farmacéuticos y otros profesionales de la salud relacionadas con la selección de medicamentos más apropiados en pacientes con HTA que necesiten la prescripción de un AINE por tiempo prolongado. Sin embargo, se requiere el diseño y la realización de trabajos de investigación que contribuyan a mejorar la evidencia disponible de los resultados en la salud en los pacientes de la interacción entre los antihipertensivos y los AINE.
+La búsqueda se realizó solamente en PubMed/Medline, lo cual puede limitar la identificación de trabajos relacionados con el tema, aunque este efecto se pudo minimizar al incluir referencias identificadas en los artículos. Los resultados podrían estar afectados por sesgos de publicación, de idioma y posiblemente de selección, y también por algunos factores metodológicos de los estudios revisados, como la corta duración de los tratamientos y la diferencia en las formas de medir la PA, al igual que limitaciones en el análisis del efecto de las variables asociadas con la cifra de PA, tales como la edad, la idiosincrasia, la sensibilidad a la sal y las comorbilidades.
+
+
+- CONCLUSIONES
+
+En pacientes con HTA, el uso simultáneo de AINE y antihipertensivos puede incrementar las cifras de PA generando problemas de inefectividad en algunos pacientes, especialmente con los IECA > BB > diuréticos > ARA-II. De los BCC, especialmente dihidropiridínicos, no se encuentra evidencia de la afectación de su efecto antihipertensivo, relacionado con las cifras de PA, por los AINE. Por tanto, son los medicamentos adecuados en pacientes hipertensos que presenten algún tipo de dolor crónico y necesiten la prescripción de AINE. Por su parte, el celecoxib no se asocia con aumento relevante en las cifras de PA, y se podría incluir con el paracetamol (acetaminofén) como opciones analgésicas en pacientes en tratamiento antihipertensivo.
+
+
+- FINANCIACIÓN
+
+El Grupo de Investigación Promoción y Prevención Farmacéutica recibió apoyo económico de la convocatoria de estrategia de sostenibilidad 2013-2014 de la Universidad de Antioquia, Medellín-Colombia.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.Lo conocido sobre el tema•La coexistencia de artrosis e hipertensión arterial (HTA), especialmente en mayores de 60 años, comporta a menudo el uso conjunto de analgésicos-antiinflamatorios no esteroideos (AINE) y antihipertensivos.•El uso simultáneo de estos fármacos provoca interacciones medicamentosas y puede causar problemas de efectividad en el tratamiento antihipertensivo; sin embargo, es un tema que aún genera controversia.•La información sobre la relevancia clínica de las interacciones derivadas del uso de AINE, en pacientes con HTA tratada con medicamentos y su efecto sobre el control de la presión arterial, es limitada. Qué aporta este estudio•La categorización de la influencia de los AINE sobre la presión arterial en pacientes con HTA tratada con medicamentos, clasificada por grupo de antihipertensivos.•Los antagonistas del calcio dihidropiridínicos son los antihipertensivos que mejor se comportan al usarlos junto a AINE en pacientes con HTA y dolor crónico. El acetaminofén y el celecoxib (si no hay antecedentes de enfermedad cardiovascular) serían los medicamentos de elección.•El método de valoración de la relevancia clínica de las interacciones encontradas puede contribuir en la toma de decisiones por el personal asistencial para seleccionar la mejor combinación de medicamentos en pacientes con HTA que necesiten AINE.

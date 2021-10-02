@@ -1,0 +1,4 @@
+Determinar las principales causas de errores de conciliacion de la medicacion al ingreso hospitalario tanto en los servicios medicos, como en los quirurgicos y que factores se asocian a dichos errores de conciliacion.
+Estudio observacional transversal. Se incluyeron todos los pacientes que ingresaron en dos servicios medicos y dos quirurgicos durante un mes. Para determinar la presencia de error de conciliacion se cotejo la historia realizada por el farmaceutico con la del medico prescriptor. Los factores asociados a los errores se identificaron mediante un analisis de regresion logistica multivariante.
+Se incluyeron 221 pacientes, de los cuales el 58.4% presentaron al menos un error de conciliacion. Se detectaron un total de 629 discrepancias, 339 (53.9%) errores de conciliacion. La incidencia de errores en los servicios medicos fue del 24.3% y en los quirurgicos del 43.0% (p.
+

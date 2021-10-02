@@ -1,0 +1,131 @@
+DIAGNÓSTICO DIFERENCIAL DEL INSOMNIO CON OTROS TRASTORNOS PRIMARIOS DEL SUEÑO COMÓRBIDOS
+
+
+- INTRODUCCIÓN
+
+La medicina del sueño es un campo de la medicina cada vez más presente en nuestra práctica clínica habitual. Por este motivo debemos intentar, ya desde atención primaria, aproximarnos a identificar aquellos trastornos que interfieran con el sueño, para poder así ofrecer un tratamiento específico y adecuado orientado a mejorar la calidad de vida y que además en muchas ocasiones puede disminuir la morbimortalidad asociada a algunos de estos trastornos.
+Dentro de las diferentes enfermedades que aborda la medicina del sueño, el «insomnio», es el trastorno más conocido y, a su vez, el más prevalente, rondando entre el 4 y el 48% de la población, , , , . Esta variabilidad en las cifras de prevalencia es debida al criterio que se haya utilizado para considerar el «insomnio». Los trabajos que únicamente hacen referencia a la calidad de sueño nocturno —sin valorar la repercusión diurna— encuentran prevalencias que rondan entre el 10 y el 48%., , . Sin embargo, aquellos que exigen que exista repercusión diurna, siguiendo así los criterios diagnósticos incluidos tanto en el DSM-IV-TR como en la Clasificación Internacional de los Trastornos del Sueño (ICSD-3), encuentra una prevalencia del 4 al 6%., El «insomnio» se ha relacionado con un empeoramiento de la calidad de vida y su persistencia a lo largo del tiempo, con la aparición de depresión, con un aumento de ideación suicida, de los accidentes de tráfico y laborales, , , del gasto sanitario, , , de la utilización de los recursos sanitarios, de bajas laborales, , de discapacidad, aumento de enfermedades cardiovasculares, , e, incluso, con un aumento de la mortalidad, .
+Del mismo modo, el «insomnio» es el motivo de consulta más frecuente, dentro de los problemas de sueño, en una consulta de atención primaria. Se ha calculado que aproximadamente entre un 27 y un 55% ha relatado dicho problema durante la anamnesis. El hecho de que sea un motivo frecuente de consulta hace que se disparen las prescripciones de fármacos para tratarlo desde atención primaria, pero sorprendentemente existe numerosa bibliografía que indica que no se está haciendo de manera correcta, .
+Se ha descrito que solo el 22% los pacientes que refieren síntomas de insomnio en grado grave y que son tratados a nivel de atención primaria presentan una mejoría significativa y que, por el otro lado, casi la mitad de los pacientes —el 44% de los pacientes— refiere no mejorar o incluso presentar un empeoramiento de los síntomas, .
+Una de las causas más habituales que explica esta escasa tasa de éxito en el tratamiento podría ser la frecuente elección de un tratamiento con benzodiacepina, como primera opción sin haber identificado antes trastorno de sueño comórbido. Las benzodiacepinas pautadas no solo cronifican el problema, sino que a menudo lo empeora, aumentando así su riesgo de morbimortalidad, .
+Actualmente, existe un abuso en el uso de las benzodiacepinas, que se traduce en que son el 8% de todos los medicamentos prescritos en España, lo que significa que entre un 15-20% de la población española está tomando benzodiacepinas, y con una estimación del aumento anual del 3,5%, . Las recomendaciones actuales para el tratamiento del trastorno de insomnio con benzodiacepinas es de 2-4 semanas, y a pesar de ello los estudios muestran que el 14,1% de los pacientes tratados con benzodiacepinas continúan tomándolos al año y que el 0,7% presentaban abuso o adicción, . El tiempo de evolución del síntoma insomnio también influye en la elección de la terapia. Las benzodiacepinas pueden ser muy útiles en el «trastorno de insomnio agudo». Sin embargo, en el «trastorno de insomnio crónico» el tratamiento de primera elección es la terapia cognitivo conductual (TCC), que ha demostrado una curación en el 70% de los casos y una mejoría significativa en el 90%. La TCC consiste en combinación de las medidas higiénicas del sueño, la restricción del tiempo en cama, el control de estímulos, terapias de relajación y la intención paradójica. Con esta combinación de terapias, se consigue mejorar la calidad del sueño de forma significativa, incluso pudiendo llegar a dormir sin mediación y alcanzar un sueño más fisiológico y natural, y que se mantiene de forma más prolongada durante el tiempo.
+Recientemente, desde el Ministerio de Sanidad Nacional se han publicado diferentes guías clínicas sobre el enfoque del insomnio desde atención primaria, . Todas coinciden en dar unas pautas muy claras para realizar el diagnóstico diferencial con enfermedades psiquiátricas o médicas, o sobre las interacciones medicamentosas, pero presentan limitaciones a la hora de proporcionar el diagnóstico diferencial del «insomnio» causado por los diferentes trastornos primarios del sueño (TPS) comórbidos.
+A pesar de que hoy en día persiste la dificultad para realizar una correcta aproximación diagnóstica, la medicina del sueño, como especialidad instaurada recientemente en la medicina convencional y en constante evolución, intenta clasificar, diagnosticar y tratar los diferentes TPS. Ejemplo de ello es que desde 1979 hasta la actualidad ya se ha modificado en 3 ocasiones la clasificación de los TPS y sus criterios diagnósticos. Una incorrecta aproximación a los TPS explicaría que se infradiagnostiquen, o bien que se confundieran entre sí, sin poder entonces ofrecer un diagnóstico correcto y, por lo tanto, un tratamiento específico y efectivo.
+Con esta revisión, se pretende aclarar y definir la terminología más adecuada que engloba el concepto de «insomnio», dar a conocer los trastornos del sueño más frecuentes que asocian «insomnio» y presentar un manual de diagnóstico clínico de fácil aplicación en la práctica clínica diaria de la asistencia médica actual como una nueva herramienta para detectar de los TPS comórbidos más prevalentes, que podría implementar las guías y recomendaciones vigentes en la actualidad.
+
+
+- METODOLOGÍA
+
+Se realizó una búsqueda bibliográfica a través de las plataformas Pubmed; en esta última se seleccionaron las siguientes bases de datos: Medline y PsychINFO Database. Se estableció un intervalo temporal desde el 1 de enero del año 2000 hasta el 30 de septiembre del año 2019. Los términos de búsqueda incluyeron las palabras clave «chronic insomnia disorder», «sleep disorder» e «insomnia». Seleccionamos los artículos que cumplieron con los siguientes criterios:–Estar publicados en inglés o castellano.–Pertenecer al área de conocimiento de ciencias de la salud.–Tratarse de estudios empíricos que hayan empleado metodología tanto cuantitativa como cualitativa.–Haber realizado el diagnóstico de los trastornos de sueño según los criterios de la ICDS-3.–Tener como muestra población humana adulta.
+Del mismo modo, se han revisado las últimas 2 guías españolas publicadas, .
+
+
+- CONCEPTOS CLAVE EN LA TERMINOLOGÍA DEL INSOMNIO
+
+Actualmente, los pacientes y los médicos utilizamos el término «insomnio» diariamente e indistintamente para referirnos tanto a «dormir mal», al «sueño no reparador”, al «insomnio como queja o síntoma» o como al propio «trastorno de insomnio crónico», que aunque, en primera instancia, pueden tener muchas similitudes entre sí, es fundamental tener claro cada uno, para no confundirlos. Con la intención de evitar errores terminológicos, los definiremos a continuación.
+Dormir mal: se debería aplicar cuando se refiere a una queja del sueño nocturno ya sea de dificultad de conciliación, mantenimiento o despertar precoz, pero que «no» asocian ninguna repercusión diurna. También pueden utilizarse términos como: mala calidad del sueño, sueño interrumpido, sueño fragmentado, dificultad para conciliar el sueño o desvelo nocturno.
+Sueño no reparador: se define como la sensación de despertar por la mañana sin la sensación de haber descansado, esta sensación tiene que ir acompañada de una cantidad y duración normal de horas de sueño, siendo un sueño continuo o sin fragmentaciones y habiendo descartado previamente cualquier otro TPS que pudiera justificarlo.
+Insomnio como síntoma: según la ICSD-3 y el DSM-V, lo definen como una queja de dificultad persistente en el inicio del sueño, su duración, consolidación o calidad durante el periodo de sueño, que ocurre a pesar de la existencia de adecuadas circunstancias y oportunidad para el mismo. Se acompaña obligatoriamente al día siguiente de algún grado de repercusión diurna, ya sea a nivel social, laboral, educativo, académica, conductual o en otras áreas importantes del funcionamiento humano. Para facilitar la comprensión lectora del artículo, cuando nos refiramos a la palabra «insomnio» de forma aislada nos estaremos refiriendo a la queja o síntoma del insomnio.
+Trastorno de insomnio: como su nombre indica, es un trastorno con entidad propia, clasificado dentro de los TPS , tanto en el ICSD-3 como en el DSM-V. Por lo tanto, se tienen que cumplir unos criterios diagnósticos bien definidos, que incluyen la presencia de los criterios del insomnio, pero que, a su vez, ya se tiene que haber descartado una causa médica, farmacológica, psiquiátrica y un TPS comórbido. Cuando el trastorno de insomnio tiene una presentación menor de 3 meses se considerará un «trastorno de insomnio agudo» y si es de más de 3 meses se considerará un «trastorno de insomnio crónico».
+
+
+- SUEÑO NORMAL: ¿CUÁNTO SE DEBE DORMIR SEGÚN LA EDAD
+
+El primer paso para enfocar un problema de sueño es conocer las expectativas reales de sueño de una persona adecuada a su edad. Las necesidades de sueño en la edad adulta pueden variar de una media de 9 h a los 18 años, pasando a las 8 h en la edad media hasta a una media de 6,5 h a partir de los 60 años. En condiciones normales, la latencia de sueño, es decir el tiempo que se tarda en conciliar, no debe ser mayor de 30 min, y una vez que se haya conciliado el sueño, este sueño debería de ser continuo —aunque con la edad aumentan los despertares nocturnos y a partir de los 60 años pueden aparecer de 1 a 3 veces durante la noche— y cuando existan despertares, se considerarán normales cuando no superen los 3 despertares por noche y no causen dificultad para volver a conciliar el sueño, es decir, que no se tenga un periodo de desvelo nocturno que supere los 30 min en total.
+Otro concepto importante es la siesta. Si una persona duerme sus horas necesarias durante la noche, a partir de los 5 años de edad la siesta ya es totalmente prescindible en casi toda gente, aunque a partir de los 60 años la necesidad de sueño puede volver a reaparecer. Cuando se realiza la siesta, independientemente de la edad —a excepción de los niños de menos de 5 años—, esta solo debería durar de 10 a 30 min y nunca sobrepasar la hora de sueño. Si la siesta reaparece antes de los 60 años y supera la duración de 1 h de sueño, en ese caso podría ser un signo de alarma de que se está aconteciendo un TPS comórbido, o bien presentar alguna otra enfermedad o ingestión o interacción farmacológica asociada, , .
+
+
+- PAUTAS PARA EL DIAGNÓSTICO DIFERENCIAL DEL TRASTORNO DE INSOMNIO CRÓNICO DEL RESTO DE LOS TRASTORNOS DEL SUEÑO
+
+El primer paso para poder realizar un diagnóstico de «trastorno de insomnio crónico» es el de realizar una buena historia clínica de sueño . En segundo lugar, habría que descartar previamente cualquier otra causa de un insomnio secundario a enfermedades médicas, psiquiátricas o de interacción medicamentosa.
+Una vez descartado estos factores, es cuando se debería realizar el cribado clínico de los TPS.
+El «insomnio» está presente en muchos TPS ya sea como parte de un criterio diagnóstico, como de una posible manifestación clínica asociada . Es por este motivo que, antes de catalogarlo como un «trastorno de insomnio crónico», estaríamos obligados a descartar un trastorno de sueño comórbido en un paciente con «insomnio» de larga evolución :a.Los trastornos respiratorios durante el sueño (TRS), sobre todo del síndrome de apnea hipopnea obstructiva del sueño (SAHOS) por su alta prevalencia y repercusión cardiovascular y mortalidad.b.Los trastornos de ritmo circadiano (el retraso de fase, el avance de fase, el trastorno de ritmo irregular, le trastorno de ritmo libre, el jet lag y el trabajador a turnos).c.El síndrome de piernas inquietas.d.Los movimientos periódicos de las piernas (MPP) durante el sueño.
+Como se puede ver en el algoritmo propuesto , el primer paso para definir el «insomnio» es confirmar la repercusión diurna, ya que si no está presente, podríamos estar frente a un excesivo tiempo en cama o un dormidor corto.Figura 1
+El siguiente paso sería preguntar sobre el ronquido, para descartar principalmente el SAHOS, que es muy prevalente (30%) en los pacientes con «insomnio». Habitualmente, es de suma utilidad en atención primaria el STOP-bang test . Se trata de un cuestionario que tiene en cuenta dentro de sus ítems el ronquido, la hipertensión, la somnolencia, si presenta apneas presenciadas, el índice de masa corporal, la edad, el sexo y el perímetro cervical; clasifica según la puntuación en baja probabilidad, intermedia o alta de presentar un SAHOS. El STOP-bang tiene una sensibilidad de 90-93% en el SAHS moderado y del 89-100% en el severo, , , y ha sido valido al español.
+Posteriormente, se propone subclasificar el «insomnio» en: insomnio de conciliación, de mantenimiento y de despertar precoz. De esta manera, tendríamos muy acotado los TPS en el insomnio de conciliación —en el que se incluirían el síndrome de piernas inquietas (SPI) o el retraso de fase— y en el de despertar precoz —en el que se incluiría el avance de fase.
+Delante de un insomnio de conciliación sería de utilidad en atención primaria pasar el cuestionario de diagnóstico de SPI . Se trata de un cuestionario que tiene 7 preguntas de las cuales las primeras 4 son sobre la clínica diagnóstica del SPI. Este cuestionario tiene una sensibilidad del 82,3% y una especificidad del 89,9%, , y ha sido valido al español.Figura 2
+Por último, nos quedaría el insomnio de mantenimiento, donde se engloba un mayor grupo de enfermedades del sueño, pero que con la historia clínica, y en alguna ocasión con la ayuda de un estudio de sueño, nos permitirá dar con el diagnóstico del TPS correcto.
+
+
+- DESCRIPCIÓN DE LOS PRINCIPALES TRASTORNOS PRIMARIOS DEL SUEÑO COMÓRBIDOS AL INSOMNIO
+
+A continuación, se van a exponer los principales TPS que pueden manifestar «insomnio» , además de proporcionar sus características principales clínicas y el tratamiento de elección en cada uno de ellos.
+
+
+-- EXCESIVO TIEMPO EN CAMA
+
+Esta entidad está considerada como una variante de la normalidad según la ICSD-3. Debido a su elevada prevalencia, merece la pena conocerla, ya que su correcto diagnóstico evitaría la utilización de fármacos en estos pacientes. Son aquellos pacientes que refieren una disconformidad en la calidad de su sueño pero no manifiestan ninguna repercusión diurna. Esta entidad se suele presentar típicamente en la gente mayor, debido a que con la evolución del sueño —que se acorta con la vida— y con la mayor posibilidad de estar más tiempo en cama pretenden dormir más horas de las que necesitan. También puede presentarse en la edad infantil cuando los padres tienen unas expectativas de sueño mayores a las necesidades del niño. El tratamiento de primera línea es simplemente ajustar el tiempo en cama a sus necesidades reales de sueño.
+
+
+-- DORMIDOR CORTO
+
+Se trata de otra variante de la normalidad según la ICSD-3. Existe un grupo en la población con necesidades de sueño igual o menores de 6 h, que si pretenden dormir más horas, como es lógico, no lo conseguirán, despertándose antes de hora. La queja es de un despertar precoz, pero con una sensación de sueño reparador y sin manifestar ninguna repercusión diurna. El tratamiento de primera línea es ajustar el tiempo en cama a sus necesidades reales de sueño.
+
+
+-- LOS TRASTORNOS RESPIRATORIOS DURANTE EL SUEÑO
+
+La ICSD-3 clasifica los TRS en: el SAHOS, el síndrome de apnea central del sueño (SAHCS), la hipoventilación y la hipoxemia . En este apartado, nos vamos a centrar en el SAHOS por su alta prevalencia y repercusión cardiovascular y mortalidad.
+El SAHOS consiste en el cierre completo o parcial repetido de la vía aérea superior que se acontece durante el sueño. Clínicamente, puede presentar variedad de síntomas, de los cuales el más frecuente es la somnolencia. Pero no hay que olvidar que hasta un 30% de los pacientes con SAHOS pueden asociar «insomnio», sobre todo de tipo insomnio de mantenimiento y principalmente en el sexo femenino, . El diagnóstico del SAHOS es a través de la polisomnografía nocturna o de la poligrafía cardiorrespiratoria. Es inevitable que un paciente que refiera «insomnio» asociado a ronquido y apneas se deba remitirse a una unidad de sueño, para realizar un estudio de sueño y poder descartar un SAHOS comórbido.
+El tratamiento del SAHOS de primera línea es la CPAP, y de segunda línea las férulas de avance mandibular o la cirugía. En el SAHCS y en la hipoventilación el tratamiento suele ser con equipos de ventilación no invasiva, ya sea del tipo BIPAP o ventilación servoadapativa.
+
+
+-- LOS TRASTORNOS DE RITMO CIRCADIANO
+
+Los trastornos de sueño de ritmo circadiano tienen una gran prevalencia, son muy desconocidos y suelen estar muy infradiagnosticados y a menudo enmascarados como un «trastorno de insomnio crónico».
+Las bases del ritmo circadiano consisten en que el sueño se regula de forma cronobiológica y homeostática. La regulación homeostática tiende a mantener el equilibrio, de tal forma que si se ha dormido en exceso, se tiene menos sueño por la noche y, si no se ha dormido lo suficiente, se alarga la duración del sueño nocturno.
+La regulación cronobiológica propicia que el ciclo sueño-vigilia esté sincronizado con el ciclo geofísico de 24 h del planeta. El marcapasos cronobiológico se sitúa a nivel central (concretamente en el hipotálamo) y debe existir una sincronización entre el ciclo geofísico y el ritmo biológico. Esta sincronización se consigue en gran parte por la señal de luz que las células del marcapasos reciben a través de sus conexiones con la retina. Otras señales sincronizadoras son los horarios sociales y el ritmo endógeno de la melatonina, el cortisol y la temperatura, entre otros.
+Los trastornos del rimo circadiano ocurren cuando existe una asincronía entre los periodos de vigilia y sueño con respecto al ciclo geofísico día/noche del planeta Tierra, los horarios sociales (escuela, trabajo, etc.) o los ritmos endógenos.
+Los trastornos del ritmo circadiano se subdividen en: el retraso de fase, el avance de fase, el trastorno de ritmo irregular, el trastorno de ritmo libre, el jet lag y el trabajador a turnos , .
+
+
+--- ADELANTO DE FASE
+
+El periodo intrínseco del marcapasos circadiano humano se adelanta y se acorta con la edad, habitualmente a partir de la sexta década de la vida, provocando un patrón característico en el que el paciente mayor se duerme temprano y se despierta precozmente. Esto, lo que provoca clínicamente es somnolencia vespertina y una queja de insomnio de despertar precoz. El tratamiento principal es explicar sus expectativas reales de sueño, pero si se pretende reajustar el ritmo de sueño se podría realizar tratamiento de luminoterapia por la tarde-noche hasta una hora antes de acostarse, .
+
+
+--- RETRASO DE FASE
+
+Este síndrome se caracteriza por la presencia de una dificultad importante para iniciar el sueño a la hora convencional o deseada y dificultad extrema para levantarse por la mañana a la hora prevista. En consecuencia, el tiempo de sueño se acorta y el paciente suele manifestar principalmente un insomnio de conciliación con importante sensación de somnolencia sobre todo la primera parte del día. Es el patrón característico de la adolescencia y la juventud. En caso de que se presente, el tratamiento consiste en la implementación de melatonina de acción rápida una hora antes de la hora deseada de acostarse con la asociación de luminoterapia al despertar, .
+
+
+--- RITMO VIGILIA-SUEÑO IRREGULAR
+
+Consiste en la distribución caótica de los periodos de sueño y vigilia durante el día y la noche, secundario a una escasa producción de melatonina endógena. En realidad, la cantidad total de sueño es normal, pero su fragmentación y dispersión a lo largo de las 24 h del día producen una sensación de somnolencia en el periodo diurno y de queja de insomnio de mantenimiento durante el periodo nocturno. Puede existir un periodo relativamente prolongado de sueño nocturno, en general entre las 2 y las 6 de la madrugada. El resto del tiempo, el sueño se esparce durante el día, con 3 o más siestas que no suelen sumar más de 4 h. Es frecuente en gente mayor de 60 años. El tratamiento es con melatonina de liberación prolongada a la hora de acostarse, .
+
+
+--- TRABAJO NOCTURNO O EN TURNOS CAMBIANTES
+
+Trabajar por la noche o los cambios de turno laboral pueden ocasionar insomnio o excesiva somnolencia de forma transitoria. La tendencia natural es dormir de noche, momento en el que el organismo programa la propensión al sueño. Los trabajadores con turno nocturno duermen por la mañana, en un momento en que existe poca tendencia al sueño y, por tanto, pueden manifestar síntomas tanto de insomnio conciliación como de mantenimiento. El tratamiento consiste en aplicar unas buenas medidas higiénicas de sueño y combinarlo estratégicamente con melatonina de acción rápida, .
+
+
+--- SÍNDROME DEL CAMBIO RÁPIDO DE ZONA HORARIA (JET LAG
+
+Durante los viajes transoceánicos rápidos (en avión) se produce una desincronización transitoria del ciclo sueño-vigilia provocado por el desajuste entre el horario geofísico del punto de partida y el de llegada. En otras palabras, el reloj biológico interno es expuesto a otro ciclo geofísico al cual debe adaptarse. El reajuste ocurre a una velocidad de 88 min por día si se viaja al oeste y de 55 min al día si se viaja al este. El tratamiento consiste en aplicar unas buenas medidas higiénicas de sueño y combinarlo estratégicamente con melatonina de acción rápida, .
+
+
+-- EL SÍNDROME DE PIERNAS INQUIETAS
+
+Es un trastorno neurológico sensitivo-motor muy prevalente en la población general (5-10%), de diagnóstico exclusivamente clínico, que se manifiesta con sensación de parestesias u hormigueos en las piernas, acompañada necesidad de movilizarlas para aliviar los síntomas, pero que reaparecen al volver al reposo. Su clínica sigue un ciclo circadiano, apareciendo a última hora de la tarde o noche, por lo que se puede manifestar como un insomnio de conciliación. El SPI puede ser esporádico, hereditario o bien secundario a déficit de ferritina (< 75 ng/ml), entre otras.
+El tratamiento se puede indicar cuando estas sensaciones disestésicas y de necesidad de movimiento ocurren más de 2 veces por semana y sobre todo cuando el insomnio de conciliación se asocia a repercusión diurna. El tratamiento del SPI esporádico y hereditario es tratamiento crónico sintomático, siendo el tratamiento de primera elección los agonistas dopaminérgicos (pramipexol, rotigotina, ropirinol) o con fármacos del ligando de las subunidades alfa-2-delta de los canales de calcio (pregabalina o gabapentina), . Cuando el SPI es secundario al déficit de ferritina, el tratamiento es con hierro por vía oral o intravenosa.
+
+
+-- LOS MOVIMIENTOS PERIÓDICOS DE LAS PIERNAS DURANTE EL SUEÑO
+
+Los MPP son una entidad dentro de los trastornos motores del sueño , exclusivamente de diagnóstico polisomnográfico, donde se objetiva los movimientos repetitivos de las extremidades inferiores. Su resultado patológico debe ajustarse al contexto clínico del paciente. Clínicamente, el paciente puede referir sueño no reparador o bien insomnio de mantenimiento, junto con la manifestación de una repercusión diurna ya sea física, mental, psicológica o social.
+Los MPP pueden ir asociados a muchas otras entidades, como el SPI, las parasomnias, los TRS, trastornos del ánimo, déficit de atención o hiperactividad, enfermedades neurológicas o asociado a alteraciones metabólicas o medicamentosa. El tratamiento de primera elección de los MPP una vez descartada una causa secundaria es el mismo que el indicado en el SPI idiopático, .
+
+
+- CONCLUSIÓN
+
+El «insomnio» es un motivo de consulta muy frecuente en atención primaria; un correcto enfoque y una correcta evaluación clínica que permitan identificar la etiología son cruciales a la hora de un correcto diagnóstico y un adecuado tratamiento. El uso de benzodiacepinas no está indicado de forma sistemática en un cuadro clínico de insomnio, a excepción del trastorno de insomnio agudo, y su uso indiscriminado puede, a medio largo plazo, perpetuar la enfermedad de base o empeorar la sintomatología y, consecuentemente, incrementar la morbimortalidad de estos pacientes.
+Existen protocolos muy bien elaborados a la hora de descartar una causa de insomnio secundario a enfermedad médica, psiquiátrica o por fármacos; sin embargo, no existen en la actualidad algoritmos diagnósticos que ayuden a descartar el trastorno primario de sueño que se superpone con la clínica del trastorno de insomnio crónico entre otros. Con este algoritmo, a través de unas preguntas muy concisas, que incluyen cuestiones sobre la repercusión diurna, la presencia de ronquido o apneas y sobre el tipo de insomnio, que nos permite de una forma breve y sencilla, llegar a un correcto diagnóstico sobre la etiología del insomnio que presenta el paciente, pudiendo así, proporcionar un tratamiento específico y efectivo.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

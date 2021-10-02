@@ -1,0 +1,5 @@
+Estudio cuasiexperimental con control histórico. La selección de pacientes se realizó de forma retrospectiva. Se incluyeron de forma consecutiva todos los pacientes a los que se les realizó una analítica urgente. Se analizó la solicitud estándar frente a la aplicación del protocolo.
+Valorar el impacto de un protocolo de solicitud de coagulación para reducir determinaciones innecesarias.
+En el grupo estándar se determinaron 657 coagulaciones (77,2%) y en el grupo protocolo 448 (55,5%) (p < 0,001), y fueron innecesarias 431 (65,6%) y 227 (50,6%) (p < 0,002), respectivamente. Un paciente [0,15% (IC 95%: 0,004-0,8)] mostró alteración de la coagulación significativa (INR 1,8), pero ninguno [0% (IC 95%,0-0,6)] requirió intervención terapéutica o cambio de plan clínico basado en la detección de una coagulopatía inesperada.
+La aplicación de un protocolo ha conseguido la reducción del número estudios de coagulación innecesarios con la consiguiente mejora en la gestión de este recurso.
+

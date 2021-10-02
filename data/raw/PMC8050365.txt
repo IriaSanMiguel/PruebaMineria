@@ -1,0 +1,96 @@
+VALIDACIÓN DEL RUDAS COMO INSTRUMENTO DE CRIBADO DE POBLACIÓN CON DEMENCIA EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La demencia es una patología asociada a la edad que aumenta a medida que la población mundial envejece. Esta enfermedad implica un desafío para la atención sanitaria en Europa, ya que afecta a entre el 5,7 y el 6,92% de la población europea mayor de 60 años. El deterioro cognitivo leve es un factor de riesgo para desarrollar demencia que presenta hasta el 20% de la población mayor de 65 años, y si es detectado a tiempo también permitiría introducir medidas preventivas específicas.
+La reducción del deterioro cognitivo y la demencia depende de la edad inicial de detección, la frecuencia de la evaluación y su especificidad. En este sentido, el ámbito de atención primaria (AP) cobra una especial relevancia, dado que constituye la puerta de entrada al sistema sanitario y el ámbito natural en el que la mayoría de la población diana será atendida por estos u otros problemas de salud. Los instrumentos de evaluación y cribado facilitan la identificación de los posibles casos que deberían seguir un protocolo diagnóstico completo en AP. Se han señalado la falta de confianza en los test neuropsicológicos y la falta de tiempo como dos factores que obstaculizan el diagnóstico y el seguimiento de los pacientes con demencia en AP.
+El instrumento de cribado más utilizado en nuestro medio es el Mini-Mental State Examination (MMSE) por su brevedad, su practicidad, su amplia difusión y validación para población. Sin embargo, este instrumento ha sido criticado por tener un sesgo de detección asociado a un bajo nivel de educación formal y factores socioculturales, lo que adquiere especial relevancia en sectores de bajo nivel educativo o sectores socioeconómicos minoritarios, como la población rural, migrante etc., con el consiguiente riesgo de falsos positivos y falsos negativos.
+El desarrollo y validación del Rowland Dementia Assessment Scale (RUDAS), concebido desde el inicio como un instrumento multicultural, surge de un esfuerzo por el diseño de pruebas de cribado libres de sesgos culturales y educativos y con una mayor validez ecológica. Diversos estudios aportaron evidencia en relación a su ventaja comparativa con respecto al MMSE, . El futuro de la evaluación cognitiva breve en AP requiere la búsqueda de medidas con una validez intercultural adecuada.
+En nuestro medio se realizaron estudios previos de validación de la escala RUDAS para población general con bajo nivel educativo señalando la necesidad de su revalidación en el contexto de la AP.
+El objetivo del presente trabajo de investigación fue validar el RUDAS como instrumento de cribado de población con demencia y deterioro cognitivo leve en AP. Se realizó un estudio epidemiológico descriptivo, de corte transversal, con seguimiento a los 5 años. El mismo fue aprobado por el Comité Ético de Investigación Clínica de Galicia (Reg. 2013/162) y se adhirió a las guías STARD y STROBE, .
+
+
+- SUJETOS Y MÉTODOS
+
+-- PARTICIPANTES
+
+Se recogieron datos de pacientes pertenecientes a las 7 consultas de AP del centro de salud de O Grove, que atiende a una población de 10.650 habitantes en Pontevedra (Galicia), de los cuales 2.224 son personas mayores de 65 años. Se fijó un tamaño de la muestra de 150 personas, asumiendo un margen de error máximo del 7,7%.
+
+
+-- PROCEDIMIENTO
+
+La muestra fue escogida de forma aleatoria. Los participantes o sus representantes firmaron un consentimiento informado. La batería de evaluación fue aplicada por tres investigadores formados en la aplicación de las escalas (dos médicos de primaria y un psicólogo clínico) ciegos para todas las características clínicas del paciente, en el centro de salud de AP en las mismas condiciones en que se aplican las pruebas regularmente (consulta del médico o de enfermería, durante la cita al centro de salud). En los casos en que el/la participante no se pudo desplazar al centro de salud, el investigador acudió al domicilio, práctica asistencial habitual en el centro.
+Un clínico independiente, ciego a los resultados de la investigación, clasificó la capacidad cognitiva/demencia de los pacientes siguiendo la escala Clinical Dementia Rating (CDR), de acuerdo con la información disponible en la historia clínica y sin considerar la puntuación de la escala RUDAS. El diagnóstico clínico de demencia se realizó de acuerdo con los criterios de la clasificación internacional de las enfermedades (CIE-10). Se consideraron casos para el análisis de sensibilidad y especificidad los confirmados por el clínico. En los casos en que se presentaron dudas, estas se solventaron por consenso en un panel de expertos formado por dos psiquiatras y un psicólogo clínico.
+Cinco años después de la primera evaluación se convocó a los participantes que tenían deterioro cognitivo dudoso, deterioro cognitivo leve o diagnóstico de demencia a una segunda evaluación.
+
+
+-- INSTRUMENTOS DE MEDIDA
+
+Se realizó un protocolo de evaluación en el que se recogieron las variables sociodemográficas de interés (edad, sexo, estado civil, nivel educativo, procedencia rural o urbana, lengua materna, situación socioeconómica, ambulatorio o residencial) y se aplicó una batería con las siguientes escalas: RUDAS, MMSE, Geriatric Depression Scale, Índice de actividades de la vida diaria (KATZ), Índice de Barthel e Índice de Lawton y Brody. La escala RUDAS, así como las referencias de validación y propiedades psicométricas de las pruebas, se pueden consultar en el .
+
+
+-- ANÁLISIS ESTADÍSTICO DE LOS DATOS
+
+La fiabilidad test-retest se estudió con el estadístico de correlación de Spearman. Se estudió la correlación entre las escalas mediante el estadístico de correlación de Pearson. La fiabilidad interjueces se valoró mediante el estadístico α de Cronbach, considerando una concordancia moderada 0,41-0,60, sustancial 0,61-0,80 o casi perfecta 0,81-1,00.
+Se realizó un estudio de validez discriminante, comparando el desempeño de los tres grupos de validación mediante un análisis de las curvas COR (características operativas de los receptores) para analizar la capacidad de la puntuación completa de la escala RUDAS para discriminar entre personas con demencia, personas con deterioro cognitivo leve de tipo amnésico y controles sanos. La sensibilidad y la especificidad del test expresadas en el área bajo la curva se valoraron con los siguientes intervalos: 0,5-0,6 mala, 0,6-0,7 pobre, 0,7-0,8 aceptable, 0,8-0,9 buena y > 0,9 excelente. Se estudió mediante análisis de regresión jerárquica el valor predictivo de la educación sobre la puntuación total de la escala RUDAS.
+
+
+- RESULTADOS
+
+En la figura 1 se puede ver el diagrama de flujo del estudio siguiendo los criterios Consort adaptados a un diseño de validación. Las características sociodemográficas y clínicas de la muestra se presentan en la tabla 1. Los participantes tuvieron una edad media de 76,35 (DT: 7,12) años, un bajo nivel educativo, fueron de origen predominantemente rural y semirrural, y con nivel socioeconómico bajo.Figura 1
+Los resultados cognitivos obtenidos por los participantes en las escalas RUDAS y MMSE se muestran en la tabla 2. Treinta participantes expresaron tener problemas de memoria. De ellos, 16 fueron clasificados por los clínicos como cognitivamente sanos (CDR: 0), 9 como deterioro cognitivo leve (CDR: 0,5) y 5 como personas con demencia (CDR: 1). Once de las 20 personas clasificadas por los clínicos como deterioro cognitivo leve, 10 de las 15 clasificadas como CDR 1 y las 2 clasificadas como CDR 2 no expresaron quejas subjetivas de memoria. En síntesis, 21/37 (57%) de las personas aquejadas de deterioro cognitivo no eran conscientes del mismo, y 16/30 (53%) de las personas que expresaron quejas subjetivas no tenían problemas objetivables.
+
+
+-- APLICABILIDAD DEL INSTRUMENTO EN EL CONTEXTO DE ATENCIÓN PRIMARIA
+
+La aplicación tuvo una duración media de 7,58 min (DT: 2,10). El RUDAS ha sido fácilmente aplicable: tanto los participantes como sus cuidadores habituales respondieron en su mayor parte sin ninguna muestra de rechazo, salvo una pareja que rehusó realizar las pruebas por tener una actitud suspicaz. Los profesionales que aplicaron el test no registraron ninguna incidencia o dificultad en la aplicación.
+
+
+-- VALIDEZ DE CONTENIDO
+
+En la tabla 3 se muestran las correlaciones (ρ de Spearman) entre las subescalas del RUDAS, su puntuación total, el CDR, el MMSE y las variables sociodemográficas. Todas las subescalas presentan una correlación significativa (p < 0,001) con la puntuación total del RUDAS. Las variables procedencia urbana o rural, idioma y posición socioeconómica no tuvieron correlaciones significativas con la puntuación total del RUDAS ni ninguna de las subescalas (p > 0,05).
+
+
+-- VALIDEZ CONCURRENTE
+
+Tal como muestra la tabla 3, la puntuación RUDAS correlacionó significativamente con la puntuación total del MMSE (ρ = 0,46; p < 0,001) y con el CDR (ρ = −0,52; p < 0,001).
+
+
+-- VALIDEZ DE CONSTRUCTO
+
+En la búsqueda de un instrumento libre de sesgo sociocultural usamos como criterio de validez divergente la deseada falta de correlación de la puntuación RUDAS con el nivel de instrucción y el género. Mediante el test de Mann-Whitney se comprobó que no existían diferencias significativas entre los sujetos según el género (p > 0,05). Los resultados del análisis de regresión jerárquica muestran que la puntuación total del RUDAS es explicada positivamente por el estado cognitivo valorado mediante el CDR pero no por el nivel educativo. En la primera ecuación la variable CDR explicó el 49% de la varianza en la puntuación (ΔR2: 0,49; ΔF: 140,07; p < 0,000). La adición en la segunda ecuación del nivel educativo no supuso un incremento significativo de la varianza explicada (ΔR2: 0,00; ΔF: 0,78; p > 0,05).
+
+
+-- VALIDEZ DISCRIMINANTE
+
+La capacidad de la escala RUDAS de discriminar algún tipo de demencia frente a los controles sanos y personas con deterioro cognitivo leve (DCL) y los valores predictivos asociados se presentan en la figura 2 y la tabla 4.Figura 2
+
+
+-- FIABILIDAD
+
+La fiabilidad test-retest se calculó para 71 casos, con un intervalo de tiempo medio transcurrido entre las entrevistas de 10,41 (DT: 3,51) días. Se calculó el coeficiente ρ de Spearman (ρ = 0,665; p = 0,000) y el estadístico de Pearson (r = 0,712; p < 0,000), resultados que indican una fiabilidad test-retest alta.
+La fiabilidad interjueces se valoró para 46 casos. Para ello se calculó el coeficiente α de Cronbach entre los dos jueces, obteniendo un valor de fiabilidad alto (α de Cronbach: 0,876; p < 0,000).
+
+
+- DISCUSIÓN
+
+El objetivo de este estudio fue validar la escala RUDAS para una muestra de pacientes ambulatorios de AP cuidando la validez ecológica de sus condiciones de implementación. La escala demostró ser fácilmente aplicable en este contexto, con buena aceptación por parte de los pacientes y de los profesionales, un tiempo de aplicación breve y una buena sensibilidad para discriminar personas sanas y con deterioro cognitivo leve de personas con demencia. La mayoría de estudios de validación del RUDAS se habían realizado con pacientes de atención especializada. Este es el primer artículo de validación en una muestra de AP.
+Las características sociodemográficas de la muestra confirman la importancia de utilizar instrumentos de cribado validados específicamente para esta población y con baja interferencia de la cultura, el lenguaje y el nivel educativo. En este sentido, la prueba demostró estar libre de sesgo asociado a proveniencia urbana o rural, nivel socioeconómico, idioma, género y nivel educativo, confirmando lo encontrado por la mayoría de los estudios de validación previos. Los resultados contradicen lo referido por un estudio previo que encontró influencia del nivel educativo en la puntuación total del RUDAS.
+Se constató que es frecuente tanto la presencia de quejas subjetivas de problemas de memoria en personas que no los tienen, como la ausencia de conciencia del problema en las personas con CDR 0,5, 1 y 2. Esto señala la importancia de los test de cribado para la detección temprana en esta población, ya que los síntomas tienden a ser negados y encubiertos tanto por los afectados como por sus familias. Estos hallazgos son coherentes con estudios previos.
+La duración media de la aplicación fue considerablemente menor que la de los dos antecedentes españoles, : 7,6 vs. 12,6 y 12,7 min, respectivamente, lo que podría deberse a que los dos estudios anteriores se realizaron con población con diagnóstico de trastorno mental. En los estudios de validación previos se afirma que se puede completar en alrededor de 10 min, , , , pero no hemos encontrado datos empíricos que respalden esta afirmación, lo que es muy relevante para un instrumento de cribado rápido como la escala RUDAS.
+En un estudio anterior se planteó que la copia del cubo presentaba una correlación significativa con el nivel educativo; los resultados de este estudio contradicen esos hallazgos, ya que no se encontró correlación de esta prueba con el nivel educativo. Por otra parte, la impresión subjetiva de los evaluadores coincidió en que «pensar cómo cruzar la calle» era difícil de responder, lo que creyeron que podría estar afectado por provenir la muestra de un entorno predominantemente rural. Los resultados no confirmaron esta hipótesis, ya que el ítem no presentó una correlación significativa con el lugar de residencia. Los ítems que presentaron una correlación significativa con el nivel educativo fueron praxias (imitar un gesto con la palma de la mano) y orientación corporal (señalar distintas partes del cuerpo). Esta correlación no implicó, sin embargo, un valor predictivo del nivel de estudios sobre la puntuación total del test.
+La fiabilidad interexaminadores y test-retest fueron altas, pero inferiores a las encontradas en los estudios de validación anteriores tanto de la escala original como de la validación con población clínica en Galicia. Esto pudo deberse a que los evaluadores fueron personal sanitario no formado específicamente para aplicar instrumentos de investigación, lo que refleja más fielmente la validez ecológica del instrumento.
+Los valores de sensibilidad diagnóstica y puntos de corte fueron similares a los encontrados en el estudio de validación original. El punto de corte para demencia (22-23) fue un punto superior al propuesto en la validación realizada con población clínica en Galicia, lo que puede estar asociado al deterioro cognitivo asociado al trastorno mental grave y prolongado y confirma la importancia de realizar validaciones específicas de las escalas para esta población y en el contexto de AP. El valor predictivo positivo para detectar demencia fue inferior al encontrado en estudios previos, siendo mayor su valor predictivo negativo, lo que resulta adecuado al cometido preventivo de la AP (ya que los casos serán reevaluados en especializada, y los no casos no tendrán seguimiento, por lo que es más importante detectar con precisión los segundos).
+Este estudio presenta algunas limitaciones. El número de participantes con demencia fue limitado; sin embargo, el porcentaje y las características de los casos representan la prevalencia genuina de las afecciones cognitivas en la población atendida en AP. Por otra parte, la muestra procedía de un área geográfica concreta, y la generalizabilidad de los resultados sería mayor si provinieran de diferentes centros de salud y áreas geográficas.
+En conclusión, la escala RUDAS ha demostrado ser un instrumento viable y eficiente para cribar demencias en AP libre de influencias educativas y socioculturales, discriminando población con deterioro cognitivo leve de población con demencia. Sería interesante valorar la eficacia del RUDAS aplicada por videoconferencia, dado que estudios previos la han encontrado válida y mejoraría la accesibilidad en contextos rurales de población dispersa, o cuando la población debe permanecer aislada, como ha sido el caso de la reciente pandemia de COVID-19.Lo conocido sobre el tema•El instrumento de cribado más utilizado en nuestro medio es el MMSE, que ha sido criticado por tener un sesgo de detección asociado a un bajo nivel de educación formal y factores socioculturales.•La escala RUDAS fue construida intentando determinar qué funciones libres de peso educativo y sociocultural eran relevantes para el diagnóstico de demencia.•La atención primaria es la puerta de entrada al sistema sanitario y el ámbito natural en el que la mayoría de la población mayor de 65 años con problemas cognitivos será valorada en primera instancia.Qué aporta este estudio•Este es el primer artículo de validación de un instrumento de cribado de demencia libre de influencia sociocultural en atención primaria. El estudio se llevó a cabo en un centro de salud estándar, con los recursos asistenciales habituales y las condiciones de práctica clínica habitual.•El test demostró ser fácilmente aplicable, rápido, con buena aceptación por parte de los pacientes y de los profesionales y con una buena sensibilidad para discriminar personas sanas y con deterioro cognitivo leve de personas con demencia.•La prueba demostró estar libre de sesgo asociado a proveniencia urbana o rural, nivel socioeconómico, idioma, género y nivel educativo.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

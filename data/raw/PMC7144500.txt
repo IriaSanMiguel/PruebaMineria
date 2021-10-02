@@ -1,0 +1,265 @@
+CONOCIMIENTOS BÁSICOS SOBRE ENFERMEDADES VÍRICAS EMERGENTES: APUNTES PARA ATENCIÓN PRIMARIA (PARTE 2
+
+
+- PUNTOS CLAVE
+
+
+
+
+- FIEBRE DE LASSA
+
+Enfermedad vírica hemorrágica causada por el virus de Lassa, de la familia de los Arenavirus. Transmisión al humano a través de la exposición a orina o heces de ratas infectadas de alimentos o fómites, por ingestión de carne de rata y por inhalación durante la limpieza de las casas.
+La transmisión entre humanos es por contacto directo con sangre, otros fluidos corporales o fómites contaminados. Transmisión sexual (casos aislados).
+También puede haber transmisión persona-persona en laboratorios u hospitales si no se llevan a cabo las medidas de control de infección (tabla 1 ).
+Endémica en: Benín, Ghana, Guinea, Liberia, Mali, Sierra Leona y Nigeria.
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2 a 21 días. El 80% de los casos son asintomáticos.
+Cuando cursa con clínica aparece, de una forma gradual, fiebre, malestar, náuseas, vómitos, diarrea y dolor abdominal y torácico.
+Si el caso evoluciona hacia la gravedad, se producen hemorragias internas y externas, derrame pleural, convulsiones y coma.
+El 25% de los supervivientes presenta sordera, de la que el 50% se recuperará en unos 3 meses. También hay alteraciones transitorias de la marcha y alopecia.
+Mortalidad global del 1%. Mortalidad hasta del 80% en el tercer trimestre de embarazo (materna y fetal).
+
+
+-- DIAGNÓSTICO
+
+Para el diagnóstico de confirmación es necesaria la realización de pruebas complementarias (aislamiento, proteína C reactiva [PCR] y serología). Presenta un enorme peligro biológico (nivel 4 de bioseguridad).
+
+
+-- TRATAMIENTO
+
+La ribavirina parece ser eficaz en fases precoces de la enfermedad. Es preciso un tratamiento intensivo de soporte.
+
+
+-- PREVENCIÓN
+
+Medidas higiénicas.
+Medidas de control de infección en centros sanitarios. Prevención de la transmisión por contacto . Prevención de transmisión sexual .
+No hay datos que avalen profilaxis postexposición con ribavirina. No existe vacuna, , .
+
+
+- FIEBRE DEL VALLE DEL RIFT
+
+Enfermedad vírica causada por el virus de la fiebre del Rift (VFVR) del género Phlebovirus. Transmisión a humanos por contacto directo con sangre o tejidos de animales infectados a través de soluciones de continuidad en la piel o mucosas. Transmisión por inhalación de aerosoles durante el sacrificio de animales infectados. Transmisión a través de picaduras de mosquitos infectados (Aedes y Culex) y moscas hematófagas.
+Pendiente la confirmación de la transmisión por ingesta de leche no pasteurizada o hervida proveniente de animales infectados; hay datos que orientan a ello .
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2 a 6 días.
+Puede haber casos asintomáticos. Se distinguen dos formas de presentación de la enfermedad: leve y grave. Mortalidad global del 1%.
+Forma leve: cuadro seudogripal, fiebre, dolores osteoarticulares y cefalea. En algunos casos aparece fotofobia y rigidez de nuca, que nos pueden confundir con una meningitis. Habitualmente se resuelve en 4-7 días.
+Forma grave: aparecen uno o más de los tres siguientes:•Afectación ocular (0,5-2%): aparecen lesiones retinianas que provocan pérdida de visión durante 10-12 semanas. En el 50% de los que han presentado afectación macular queda como secuela ceguera. La mortalidad es rara.•Meningoencefalitis (<1%): aparece de 1-4 semanas tras comenzar la clínica. Cursa con cefalea intensa, alucinaciones, confusión, convulsiones, letargo y coma. Mortalidad, baja. Secuelas neurológicas graves y frecuentes.•Fiebre hemorrágica (<1%): se presenta de 2 a 4 días del inicio de la enfermedad. Cursa con ictericia y hemorragias internas y externas. Mortalidad del 50% entre el 3.er y 6.° día desde el inicio de los síntomas. En estos pacientes, el VFVR es detectable durante 10 días.
+
+
+-- DIAGNÓSTICO
+
+De nuevo son precisas las pruebas complementarias para el diagnóstico de confirmación (PCR, serología y aislamiento del virus), que han de realizarse en condiciones de máxima contención biológica dado el peligro que supone (nivel 4 de bioseguridad).
+
+
+-- TRATAMIENTO
+
+No existe tratamiento específico. Proporcionar buenas medidas de soporte.
+
+
+-- PREVENCIÓN
+
+Prevención de contacto .
+Prevención de picaduras de mosquitos . Medidas de control de infección en centros sanitarios.
+Existe una vacuna inactivada para uso humano cuya comercialización no está autorizada, .
+
+
+- INFECCIÓN POR VIRUS NIPAH
+
+El virus Nipah (VNi) se detectó por primera vez en un brote de la enfermedad en Nipah, Malasia, en 1998. Es un virus de la familia Paramyxoviridae, género Henipavirus.
+El huésped natural del virus es el murciélago de la fruta, familia Pteropodidae, género Pteropus. La transmisión a humanos se realiza por el contacto directo con secreciones, fluidos o excrementos de murciélagos infectados, cerdos infectados o persona-persona (contacto estrecho en la familia). En India se han dado casos de transmisión nosocomial.
+También se ha descrito transmisión a través de la savia de la palmera datilera contaminada por excrementos de murciélagos de la fruta infectados (tabla 2 ).
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 5-14 días tras la exposición.
+Cursa con una encefalitis: fiebre, cefalea, confusión, desorientación, estupor, que pueden evolucionar a coma en 24-48 horas. Aproximadamente la mitad de los pacientes presentarán complicaciones neurológicas graves e insuficiencia respiratoria.
+El cuadro se puede resolver en 3-14 días.
+En el brote de 1998-1999 la mortalidad fue del 40%.
+Se han notificado casos de reactivación de la enfermedad meses e incluso años después (infección latente).
+
+
+-- COMPLICACIONES
+
+Pueden quedar secuelas neurológicas como convulsiones o trastornos de la personalidad.
+
+
+-- DIAGNÓSTICO
+
+El diagnóstico de confirmación se realizará mediante pruebas complementarias: aislamiento del virus, serología y PCR.
+
+
+-- TRATAMIENTO
+
+No existe un tratamiento eficaz; solamente proporcionar medidas efectivas de soporte.
+La ribavirina parece ser eficaz in vitro; todavía no hay conclusiones sobre su uso en humanos. Se ha ensayado un tratamiento con anticuerpos neutralizantes postexposición en animales. Figura 1
+
+
+- PREVENCIÓN
+
+Evitar el contacto con murciélagos y cerdos enfermos en áreas endémicas. No beber savia cruda de la palma datilera.
+Medidas de control de infección en el ámbito sanitario.
+Existe una vacuna con la proteína G del virus Hendra (VHe) que proporciona inmunidad cruzada entre el VHe y el VNi, utilizada en Australia para proteger a los caballos del virus Hendra. Esta vacuna ofrece un gran potencial frente a la protección de Henipavirus para los humanos, , .
+
+
+- INFECCIÓN POR VIRUS HENDRA
+
+El virus Hendra (VHe) pertenece a la familia Paramyxoviridae, género Hepanivirus.
+Hasta el momento son dos los virus identificados que pertenecen a este género, el VHe y el VNi.
+Aislado por primera vez en 1994 en un brote que afectó a caballos y humanos en Brisbane, Australia. Entre 1994 y 2013 ha habido 7 casos en humanos.
+El huésped natural del virus es el murciélago de la fruta de la familia Pteropodidae, género Pteropus, y hasta ahora el huésped intermediario ha sido el caballo.
+La transmisión a los humanos se produce por contacto con secreciones, fluidos corporales o excrementos de caballos infectados por el VHe .
+No hay datos de transmisión persona-persona. Distribución de Henipavirus en figura 2 .Figura 2
+
+
+-- CLÍNICA
+
+El periodo de incubación es de entre 9 y 16 días.
+Posteriormente puede aparecer un síndrome seudogripal leve, infección respiratoria grave o encefalitis, o ambas.
+
+
+-- DIAGNÓSTICO
+
+El diagnóstico de confirmación se realizará mediante pruebas complementarias: aislamiento del virus, serología y PCR.
+
+
+-- TRATAMIENTO
+
+No existe un tratamiento eficaz; solamente proporcionar medidas efectivas de soporte.
+La ribavirina parece ser eficaz in vitro; todavía no hay conclusiones sobre su uso en humanos. Se ha ensayado tratamiento con anticuerpos neutralizantes postexposición en animales.
+
+
+-- PREVENCIÓN
+
+Evitar el contacto con caballos infectados.
+Si el contacto es estrictamente necesario (veterinarios), utilizar equipo de protección individual (EPI).
+Esta comercializada una vacuna para caballos en Australia. Parece producir inmunidad cruzada con el VNi, .
+
+
+- GRIPE AVIAR
+
+Existen cuatro tipos de virus de la gripe: A, B, C y D. Las aves acuáticas silvestres son los huéspedes naturales del virus de la gripe A.
+Los virus de la gripe A se dividen en subtipos según dos proteínas de superficie: hemaglutinina (HA) y neuraminidasa (NA). Se conocen 18 subtipos de HA y 11 subtipos de NA, y existen multitud de combinaciones diferentes de ambas.
+Los virus de la gripe A tienen 8 segmentos de genes separados entre sí, lo que permite que los virus de diferentes especies, si infectan a la vez a una persona o un animal, se mezclen y creen un nuevo virus (variación antigénica). Si este nuevo virus se propaga con facilidad entre humanos, porque hay poca protección natural frente a él, se desencadena una pandemia.
+Por todo ello, es fundamental la vigilancia epidemiológica de la gripe.
+Los subtipos de gripe A que circulan en la actualidad entre humanos son H1N1 y H3N2.
+Hay tres subtipos de virus de gripe aviar A que pueden causar infección en humanos: virus H5, H7 y H9. Los responsables de la mayoría de las infecciones en personas han sido virus de linaje asiático H5N1 y H7N9 de la HPAI.
+Según las características moleculares del virus y de la capacidad de causar enfermedades y muerte en pollos en laboratorio se han diferenciado entre altamente patógenos (HPAI) y de baja patogenicidad (LPAI).
+Las aves infectadas portan el virus en saliva, mucosas y heces. La transmisión al humano puede ser a través de inhalación de aerosoles, por contacto con superficies contaminadas, por contacto directo con aves infectadas y a través de un huésped intermedio, como puede ser el cerdo.
+Se han notificado pocos casos de transmisión persona-persona, hasta el momento de forma limitada y no sostenida.
+Desde 1997 hasta la actualidad se han notificado casos en:•Hong Kong, 1997, virus A H5N1.•Países Bajos, 2003, virus H7N7.•Tailandia, 2004, virus H5N1.•Indonesia, 2005 y 2006, virus H5N1.•China y Pakistán, 2007, H5N1.•China, desde 2013 epidemias anuales, virus H7N9.
+
+
+-- CLÍNICA
+
+Varía de casos leves a graves. Puede cursar de diferentes formas, solamente con una conjuntivitis, con síntomas gripales habituales (fiebre, mialgias, odinofagia y tos) que pueden asociar náuseas, vómitos, diarrea y dolor abdominal y en ocasiones síntomas respiratorios graves (disnea, insuficiencia respiratoria) por evolucionar a neumonía vírica o complicarse con sobreinfecciones bacterianas. Puede conllevar afectación neurológica y fallo multiorgánico.
+
+
+-- DIAGNÓSTICO
+
+Para obtener el diagnóstico de confirmación son precisas pruebas de laboratorio, generalmente tomando muestras de fosas nasales o garganta de la persona afectada.
+Se realizarán PCR y/o cultivo de virus. El cultivo de virus de gripe aviar A se debe hacer solamente en laboratorios con alto nivel de bioseguridad.
+Estas pruebas son más precisas si las muestras se recogen al comienzo de la clínica.
+También se pueden realizar serologías mediante la obtención de dos muestras de sangre, una tomada la primera semana y una segunda entre 3 y 4 semanas más tarde.
+
+
+-- TRATAMIENTO
+
+Actualmente los Centers for Disease Control and Prevention (CDC) recomiendan un inhibidor de la NA para tratar infecciones en humanos por el virus de la gripe aviar A. La mayoría de los virus son susceptibles a oseltamivir, peramivir y zanamavir, aunque han aparecido algunas resistencias en los virus H5N1 de linaje asiático de la HPAI y H7N9 de linaje asiático. Es fundamental controlar de forma continuada la resistencia antiviral de los virus de la gripe aviar A (CDC. Infecciones de influenza aviar de tipo A en humanos. Disponible en: https://espanol.cdc.gov/enes/flu/avianflu/avian -in-humans.htm).
+
+
+-- PREVENCIÓN
+
+Evitar las fuentes de exposición.
+Si es imposible por el trabajo, ya sea con las aves o personal que actúa ante los brotes de las aves de corral, seguir las prácticas recomendadas para el control de infecciones, como la higiene de manos y el uso de EPI.
+Vacunar contra la gripe estacional a las personas que trabajan en el control de brotes de gripe aviar A, al menos 2 semanas antes de participar en la respuesta ante el brote.
+Se pueden utilizar antivirales como profilaxis postexposición con una efectividad entre el 70% y el 90%. Respecto a los viajeros, la Organización Mundial de la Salud (OMS) aconseja evitar granjas de aves, el contacto con animales en mercados de aves vivas, la entrada a instalaciones donde se sacrifiquen aves de corral y el contacto con cualquier superficie que parezca estar contaminada con heces de aves de corral u otros animales. También lavarse las manos frecuentemente con agua y jabón y cuidar la higiene de los alimentos.
+La OMS no recomienda restricciones ni en los viajes ni en el comercio, .
+
+
+- INFECCIONES POR CORONAVIRUS EMERGENTES ALTAMENTE PATÓGENOS: SARS-COV Y MERS-COV
+
+Los coronavirus son una extensa familia que pueden provocar desde el resfriado común hasta síndromes de distrés respiratorio. En febrero de 2003 se identificó el SARS-CoV en Asia y en septiembre de 2012 el MERS-CoV en Arabia Saudí.
+A. SÍNDROME RESPIRATORIO AGUDO GRAVE
+El síndrome respiratorio agudo grave es una enfermedad respiratoria vírica nueva, identificada tras un brote de neumonía atípica, causada por el SARS-CoV. La primera notificación de este virus en humanos fue en febrero de 2003 en Asia. Antes de contener el brote global, en pocos meses se había propagado a más de 24 países en Asia, América y Europa.
+Desde el 17 de mayo de 2004 no ha habido notificación de nuevos casos, por lo que se puede considerar interrumpida la cadena de transmisión al haber pasado un tiempo superior a dos periodos de incubación (20 días).
+Se transmite persona-persona por inhalación de aerosoles (menos de 1 metro), contacto directo con secreciones y/o fluidos corporales y/o excreciones de un paciente con SRAS. Posible transmisión fecal-oral o por fómites contaminados. Presentan mayor riesgo los convivientes, cuidadores y personal sanitario.
+No hay evidencia de diseminación a partir de infectados asintomáticos. El riesgo de transmisión comienza al iniciarse los síntomas respiratorios y es bajo hasta que la enfermedad se agrava. Existen casos superdiseminadores de la enfermedad, altamente infecciosos, asociados a cuadros graves.
+Menos del 1% de los viajeros que estuvieron en zonas afectadas durante el brote contrajeron la enfermedad.
+El conocimiento sobre la epidemiología de la infección es muy limitado, por lo que no se puede descartar la posibilidad de reemergencia (tabla 3 ).
+
+
+-- CLÍNICA
+
+Periodo de incubación máximo de 10 días.
+Cursa con fiebre súbita, cefalea, malestar, mialgias y tos no productiva. El 10-20% asocia diarrea. La mayoría de los casos presentan neumonía bilateral. El 70-90% presenta cambios en la radiografía de tórax en los 3-4 días del inicio.
+Un 90% evoluciona hacia la recuperación en 6-7 días. El 10% restante sufre un rápido deterioro, presentando un síndrome de distrés respiratorio agudo grave (SDR) que precisa ingreso en unidades de cuidados intensivos y ventilación mecánica. El 70% de estos presentan diarrea líquida abundante sin restos patológicos. El mayor riesgo de transmisión es en esta segunda semana.
+Mortalidad superior al 1% en menores de 25 años, 6% entre 25 y 44 años, 15% entre 45 y 64 años y más del 50% en mayores de 65 años.
+
+
+-- DIAGNÓSTICO
+
+El 100% de los casos confirmados por laboratorio mostraron cambios en la radiografía de tórax (consolidación desigual, aspecto de vidrio esmerilado, neumotórax, neumomediastino, etc.).
+Se debe realizar diagnóstico diferencial con neumonías atípicas y otras neumonías víricas. El diagnóstico de confirmación se realizará mediante PCR, serología y aislamiento del virus. Nivel de bioseguridad 2.
+Seguir el protocolo elaborado por cada comunidad autónoma.
+
+
+-- TRATAMIENTO
+
+No existe tratamiento específico, solo medidas intensivas de soporte.
+En casos graves se ha utilizado ribavirina con o sin corticosteroides sin eficacia demostrada.
+
+
+-- PREVENCIÓN
+
+Medidas de control de infección.
+Prevención de transmisión por contacto .
+Los casos confirmados deben permanecer aislados mientras sean sintomáticos, no deben ser dados de alta hasta que se encuentren asintomáticos y febriles durante 48 horas, y una vez en su domicilio deben evitar contacto con otras personas durante un mínimo de 7 días.
+El paciente deberá ponerse una mascarilla para reducir la diseminación respiratoria. No existe vacuna, , .
+B. Síndrome respiratorio de Oriente Medio (MERS)
+El síndrome respiratorio de Oriente Medio es una enfermedad vírica, causada por el virus MERS-CoV, aislado por primera vez en septiembre de 2012 en Arabia Saudí.
+El MERS-CoV está circulando por toda la Península Arábiga, principalmente en Arabia Saudí, donde se han notificado el 75% de los casos.
+Entre 2012 y el 7 de julio de 2015 se diagnosticaron casos en 26 países (Oriente Medio: Irán, Jordania, Kuwait, Líbano, Omán, Qatar; Emiratos Árabes y Arabia Saudí; África: Egipto, Argelia y Túnez; Europa: Austria, Francia, Alemania, Grecia, Italia, Reino Unido, Holanda y Turquía; Asia: China, República de Corea, Malasia, Filipinas y Tailandia, y América: Estados Unidos).
+Respecto a la epidemiología, muchos aspectos no son conocidos. Puede que los murciélagos sean reservorios además de los dromedarios. Se ha encontrado MERS-CoV en secreciones respiratorias de dromedarios, en heces y en leche.
+La transmisión a personas es a través de contacto directo o indirecto con dromedarios infectados o sus productos (carne cruda, leche sin hervir, etc.). Puede haber transmisión a través de fómites, ya que el MERS-CoV puede persistir de forma viable en superficies inertes por lo menos 48 horas.
+Se han observado pocos casos de transmisión persona-persona en el hogar, muchos más en el medio sanitario, debido al fracaso de prevención y control de infección.
+No hay datos de transmisión sostenida persona-persona .
+
+
+-- CLÍNICA
+
+El periodo de incubación es de 2-14 días.
+La clínica varía desde casos asintomáticos, síntomas respiratorios leves o una enfermedad grave. Habitualmente aparece fiebre, mialgias, artralgias y cefalea junto a síntomas respiratorios (rinorrea, odinofagia, tos productiva o no, disnea, etc.). El 33% presenta síntomas gastrointestinales. Cuando existe afectación pulmonar suele evolucionar rápidamente, ser muy grave y precisar ventilación mecánica. Es habitual una imagen radiológica de neumonitis viral (infiltrado intersticial perihiliar) uni o bilateral.
+Mortalidad global: 35%.
+
+
+-- DIAGNÓSTICO
+
+Ante la sospecha clínica y epidemiológica, debemos solicitar pruebas para obtener el diagnóstico de confirmación: PCR y serología, además de realizar diagnóstico diferencial con otras neumonías atípicas y víricas.
+Seguir el protocolo elaborado por cada comunidad autónoma.
+
+
+-- TRATAMIENTO
+
+No existe tratamiento específico, solo medidas intensivas de soporte.
+No hay evidencias sobre el uso de antivirales.
+
+
+-- PREVENCIÓN
+
+Medidas higiénicas (lavarse las manos antes y después de tocar un animal, evitar contacto con animales enfermos, consumir carne o leche bien cocinada o pasteurizada).
+Medidas de prevención y control de infección en el medio sanitario. No existe vacuna, , , .
+La OMS no recomienda imponer restricciones a los viajes ni al comercio, ni cribados. También ha publicado unas recomendaciones específicas en caso de peregrinaciones a la Umra y el Haj.
+
+
+- CONCLUSIÓN
+
+A mediados de mayo de 2017 ha habido un nuevo brote de _bola en República Democrática del Congo y nuevos casos de MERS-CoV en Arabia Saudí. Es muy posible que nunca podamos estar actualizados frente a las enfermedades emergentes; por ello, consideramos conveniente familiarizarnos con las webs de la OMS, CDC, ECDC para estar al tanto de las alertas, así como con los protocolos de la Red Nacional de Vigilancia Epidemiológica.

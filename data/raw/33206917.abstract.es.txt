@@ -1,0 +1,5 @@
+Se identifican notables diferencias entre las investigaciones a nivel egocéntrico y sociocéntrico. Discutimos los resultados en orden a que la ISP extraiga el máximo potencial de los métodos de ARS.
+Las bases de datos utilizadas son PubMed, MEDLINE y Academic Search Complete. Se procesaron 1,151 artículos, de los cuales 361 cumplieron los criterios de inclusión y constituyen la muestra final.
+Llevamos a cabo una revisión sistemática para conocer las aplicaciones del análisis de redes sociales (ARS) en la investigación en salud pública (ISP).
+El perfil genérico de los estudios evaluados es de carácter cuantitativo (84,5%), transversal (64,5%) y emplean procedimientos de la estadística convencional para testar hipótesis (68,9%). Destacan los estudios que examinan el papel de las redes como factor de riesgo o protección de la salud (38%), las investigaciones epidemiológicas (34,6%) y los trabajos que analizan sistemas que proporcionan atención socio-sanitaria (24,4%).
+

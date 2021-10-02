@@ -1,0 +1,5 @@
+En 2018 se midió PbS capilar en una muestra represen- tativa de niños de 1 a 4 años de edad residentes en localidades de México menores de 100 000 habitantes (Ensanut 100k). Se indagó sobre uso de LBVPb para consumo de alimentos. Para estimar su asociación con PbS, se generaron modelos logit multinomial estratificados por región.
+La prevalencia de niveles elevados de PbS fue de 21.8%. En las regiones Norte, Centro y Sur las prevalencias fueron 9.8, 20.7 y 25.8%, respectivamente. La asociación con uso y frecuencia de LBVPb fue altamente significativa y diferencial por región.
+Estimar la prevalencia de niveles elevados (≥5.0μg/dL) de plomo en sangre (PbS) y su asociación con el uso de loza de barro vidriado con plomo (LBVPb).
+La exposición a plomo permanece como un problema de salud pública en México, particularmente en el Centro y Sur, y está fuertemente asociada con el uso de LBVPb.
+

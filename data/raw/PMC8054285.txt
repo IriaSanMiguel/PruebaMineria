@@ -1,0 +1,129 @@
+CUESTIONARIOS DE ATENCIÓN CENTRADA EN LA PERSONA EN ATENCIÓN PRIMARIA. UNA REVISIÓN SISTEMÁTICA
+
+
+- INTRODUCCIÓN
+
+En días como estos en que la atención primaria se encuentra reivindicando su lugar capital dentro de los sistemas nacionales de salud, con el modelo biopsicosocial como paradigma de actuación, una sociedad que reclama que las personas sean atendidas de un modo global por un médico cualificado y competente y la necesidad cada vez más evidente de poner al paciente en el centro de la atención sanitaria, la «atención centrada en el paciente» (en adelante ACP) debería convertirse en un valor central de la Medicina Familiar y Comunitaria (MFyC). En el actual momento social los ciudadanos reclaman, además de ser atendidos y escuchados, tener la opción de participar activamente en su salud.
+Es en la década de los 50 cuando el psicólogo humanista Carl Rogers habla por primera vez de la «terapia centrada en el cliente» y posteriormente el psicoanalista Michael Balint es quien habla de la «medicina centrada en el paciente». Una de las características básicas de la ACP es que se organiza alrededor de las necesidades y expectativas de salud de los pacientes más que alrededor de las enfermedades. La ACP ha sido descrita de diversas maneras en la literatura. Inicialmente el concepto fue definido de forma general, como «comprender al paciente como ser humano único» o «entrar al mundo del paciente para ver la enfermedad a través de sus ojos». En los últimos años se considera un concepto mucho más complejo, con múltiples componentes o dimensiones.
+Una de las definiciones más completas es la de Stewart et al., cuyo modelo de ACP identifica 6 componentes interconectados: 1) explorar la enfermedad y la experiencia de enfermedad, 2) entender la persona como un todo, 3) encontrar intereses comunes en materia de gestión, 4) incorporar la prevención y promoción de la salud, 5) mejorar la relación médico-paciente y 6) «ser realista» sobre las limitaciones y recursos personales.
+Posteriormente Mead y Bower trataron de establecer un marco conceptual preliminar estableciendo 5 dimensiones de ACP: 1) la perspectiva biopsicosocial, 2) el «paciente-como-persona», 3) compartir el poder y la responsabilidad, 4) la alianza terapéutica y 5) el «médico-como-persona».
+La ACP ha sido aceptada como un valor importante y central en la atención médica y es hoy en día universalmente defendida en la educación médica. Siendo tan importante a nivel general aún lo es más para el ejercicio de la MFyC. La ACP es la esencia de esta especialidad y hoy día no se concibe su buen ejercicio si no está centrado en las personas.
+Una herramienta que permitiese al médico comprobar su nivel de ACP podría tener diversas utilidades para el médico de familia: detectar problemas en la relación médico-paciente, ver su capacidad para empoderar a sus pacientes, valorar cómo determinadas circunstancias influyen o no sobre el grado de ACP de su práctica, o incluso incidir sobre la propia formación de los profesionales orientándola hacia una atención verdaderamente centrada en la persona.
+A la hora de medir la ACP es obviamente necesario un marco conceptual previo. En ausencia de un claro consenso en la literatura, se decidió mantener las 4 dimensiones comunes a las clasificaciones de Stewart et al. y a la revisión de Mead y Bower. En la figura 1 se puede valorar el modelo teórico mixto utilizado como marco conceptual para esta revisión.Figura 1
+Con el propósito final de obtener información para diseñar y validar un cuestionario autocumplimentado que permita al médico de familia la autovaloración de su ejercicio desde la perspectiva global de la ACP, se decidió realizar esta revisión sistemática y abordar un estudio Delphi contando con expertos en Medicina de Familia de nuestro medio.
+El objetivo de esta revisión ha sido identificar y analizar todas las herramientas conocidas, publicadas y validadas (atendiendo a su proceso de construcción y validación) que midan la ACP o algunos de sus aspectos en el ámbito de la atención primaria. Se ha prestado especial atención a las validadas en nuestro medio y a las autocumplimentadas por el propio médico de familia, pero incluyendo también aquellas que valoran la experiencia del paciente.
+
+
+- MÉTODOS
+
+-- REVISIÓN SISTEMÁTICA Y PROTOCOLO
+
+Se realizó una revisión sistemática de la literatura usando métodos formales para asegurar una búsqueda y un proceso de recuperación pertinente y preciso. Con esta finalidad se siguieron los criterios de la declaración PRISMA.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Con el objetivo de identificar herramientas validadas que midan ACP en atención primaria y que sean valoradas por profesionales y/o pacientes se seleccionaron los siguientes estudios:
+1. Estudios de validación de cuestionarios o de otras herramientas que midieran ACP o alguno de sus componentes y que: (a) lo hicieran en el contexto de la atención primaria de salud (APS) y (b) la valoración la realizaran los pacientes y/o los profesionales sanitarios de APS o 2. Revisiones sistemáticas sobre instrumentos que evaluaran la ACP en APS o 3. Estudios realizados en APS que utilizaran una herramienta validada y que midieran aspectos de ACP en pacientes y/o profesionales sanitarios: ensayos clínicos, estudios descriptivos, estudios comparativos.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Se excluyeron todos los artículos que presentasen alguno de los siguientes criterios:•Estudios observacionales o grupos focales en los que no se empleara un cuestionario validado.•Estudios en los que no se midiera claramente la ACP o alguno de sus aspectos.•Estudios no realizados de forma exclusiva en el ámbito de la APS.•Estudios no dirigidos a pacientes y/o a médicos.
+
+
+-- ESTRATEGIA DE BÚSQUEDA Y SELECCIÓN DE ARTÍCULOS
+
+Se realizó una búsqueda sistemática en las bases de datos MEDLINE, Embase, Cochrane, PSYCinfo, IME-Biomedicina y LILACS de artículos publicados hasta el 31 de mayo de 2018. Los términos MeSH y palabras clave utilizadas fueron: «patient-centered care» y sus variaciones (patient focused care, patient centered care, patient centred care, patient centeredness, patient centredness, person centered care, person-centered care, person centred care), «questionnaire», «psychometrics», «validation studies», «reproducibility of results», «factor analysis, statistical», «outcome and process assessment, healthcare», «outcome assessment, healthcare». El ámbito de la búsqueda fue APS, por lo que se delimitó la búsqueda a «Family Practice», «General Practice» y «Primary Health Care» o «Primary Care». No hubo restricción de idioma.
+Se realizó además otra búsqueda en TESEO, la base de datos del Ministerio de Educación de las tesis doctorales realizadas en universidades españolas, usando como palabras clave «atención centrada en el paciente» y «atención centrada en la persona».
+Todas las referencias fueron trasladadas al gestor bibliográfico Zotero, eliminando aquellas que estaban duplicadas.
+Dos investigadores revisaron de forma independiente tanto el título como el resumen. Se eliminaron aquellos artículos que no cumplían criterios de inclusión y se seleccionaron para su lectura completa los que sí lo hacían.
+En caso de dudas o cuando el título y el resumen no revelaban información suficiente para determinar su inclusión o exclusión, los investigadores recuperaron y leyeron la publicación a texto completo. Las discrepancias entre los 2 revisores fueron resueltas con ayuda de un tercer investigador.
+Tras la inclusión, se verificaron y añadieron referencias adicionales identificadas a través de referencias de los artículos de la revisión sistemática.
+
+
+-- EXTRACCIÓN DE DATOS
+
+Todos los artículos finalmente seleccionados fueron analizados y procesados por uno de los investigadores principales con el objetivo de identificar cuestionarios validados y recopilar información sobre el proceso de construcción y validación de estas herramientas.
+Los datos extraídos de cada instrumento fueron: objetivo con el que fue desarrollada la herramienta, aspecto o categoría de la ACP al que iba dirigida, características de la población de estudio, descripción de la herramienta, proceso de diseño, construcción y pilotaje de la misma, dimensiones o factores y datos estadísticos de fiabilidad y validez.
+La calidad de los estudios fue evaluada mediante la escala COSMIN (Consensus-Based Standards for the Selection of Health Measurement).
+
+
+- RESULTADOS
+
+-- SELECCIÓN DE LOS ESTUDIOS
+
+La búsqueda en las bases de datos proporcionó 1.415 artículos, de los que tras el proceso de selección fueron incluidos 75. A partir de ellos se obtuvo un total de 39 herramientas validadas. En la figura 2 se muestra el proceso de selección de los estudios mediante un diagrama de flujo.Figura 2
+
+
+-- CARACTERÍSTICAS DE LOS ESTUDIOS
+
+De forma tradicional la ACP se medía por el comportamiento verbal del médico, no reflejándose en su valoración aspectos como las percepciones del paciente, el comportamiento no verbal o el transcurso de la relación médico-paciente. Debido a la dificultad de medir la ACP en su conjunto, la mayor parte de los artículos o estudios revisados hacen referencia a alguno de sus aspectos o dimensiones, predominando la perspectiva del paciente frente a la del profesional sanitario. Para un mejor análisis de estos cuestionarios, se procedió a agruparlos atendiendo a las dimensiones de la ACP que medían. Basado en un modelo mixto entre el de Stewart y el de Mead y Bower, en las Tabla 1, Tabla 2, Tabla 3 se exponen las herramientas identificadas, la dimensión de la ACP que explora, a quienes van dirigidas, el tipo de cuestionario y los métodos de medición de validez y fiabilidad utilizados.
+La mayor parte de las herramientas encontradas (74%) están orientadas al paciente, y de las orientadas a profesionales sanitarios la mayor parte precisaban de un evaluador externo. Más de un 65% de las herramientas están validadas en Estados Unidos y Reino Unido y casi el 80% en países angloparlantes. Solo un 7,7% han sido validadas en nuestro medio y en español.
+Estableciendo una línea temporal en esta revisión encontramos un periodo entre 1998 y 2002 de máxima actividad con la publicación de más del 25% de las herramientas detectadas en esta revisión sistemática. Desde entonces hasta el 31 de mayo de 2018, y con la excepción puntual de 2010, la frecuencia anual en la que aparecen nuevas herramientas validadas en la literatura se mantiene estable.
+
+
+-- ESTUDIO DE LA CALIDAD DE LAS HERRAMIENTAS
+
+Se procedió a realizarlo mediante el análisis de los 35 primeros ítems de la escala COSMIN que miden la calidad y posibles sesgos en el diseño y construcción de las herramientas (descargada la escala de https://www.cosmin.nl/tools/checklists-assessing-methodological-study-qualities/) cuyos resultados se muestran en la tabla 4. En ella podemos apreciar numerosos problemas metodológicos en muchos de los instrumentos, mostrándonos una tabla con abundantes valoraciones de categorías de tipo «dudoso», «inadecuado» o «no consta/no realizado».
+Por otra parte, dada la heterogeneidad en las características de la población, en la construcción del cuestionario y en la metodología empleada para analizar la fiabilidad y validez de las herramientas, no se ha procedido a realizar un análisis estadístico cuantitativo conjunto.
+
+
+--- LA PERSONA COMO UN TODO/PERSPECTIVA BIOPSICOSOCIAL
+
+Muchos de los motivos de consulta que se presentan en las consultas de atención primaria no se pueden clasificar atendiendo a la taxonomía de las patologías convencionales. Se considera necesaria una perspectiva que combine lo biológico con lo psicológico y social para poder atender la amplia gama de problemas que se presentan en consulta.
+En esta revisión sistemática se identifican 2 herramientas que miden aspectos pertenecientes a esta dimensión. Una valora la percepción de pacientes acerca de la sensibilidad cultural centrada en los pacientes (IPC). La otra es autocumplimentada por profesionales sanitarios y valora actitudes y habilidades para una atención cultural y social competente (CCHPA-67).
+
+
+--- ENFERMEDAD Y EXPERIENCIA DE ENFERMEDAD/PACIENTE COMO PERSONA
+
+La perspectiva biopsicosocial por sí sola no es suficiente para comprender completamente la experiencia del paciente con la enfermedad. Para una correcta valoración de la enfermedad debemos entender lo que significa para el paciente y comprender su experiencia individual y personal.
+Son 3 las herramientas identificadas que miden aspectos de esta dimensión. Una mide la percepción de los pacientes acerca de esa atención adaptada a sus circunstancias (T-SHCPI-PF). Otra mide en médicos de familia si se valora la experiencia de enfermedad del paciente (MPCC). Una tercera valora tanto la percepción de los pacientes como de los médicos de familia acerca de la adaptación de la comunicación a las circunstancias del individuo (VR-MICS).
+
+
+--- ENCONTRAR TERRENOS COMUNES/COMPARTIR PODER Y RESPONSABILIDAD
+
+Es una de las dimensiones más características de la ACP. El paciente abandona su «rol pasivo» en el acto médico y se buscan «terrenos comunes» en los que compartir poder de decisión y responsabilidad. Esto comprende una serie de pasos como dar la información adecuada al paciente, resolver sus dudas, capacitarlo para poder tomar decisiones e invitarlo a participar y a ser responsable a su vez de esa toma de decisiones.
+Se han identificado un total de 15 herramientas que miden algún aspecto de esta dimensión. Nueve valoran la percepción de los pacientes acerca de la atención de su médico de familia respecto a esta dimensión: SURE scale, PACIC, Short PACIC, PEI, TSRQ, PAM, PESS, PESQ y PICS. Otras 6 valoran las creencias, actitudes y conductas de los médicos acerca del poder y la responsabilidad compartidas. De ellas, una lo hace tanto en el ámbito de la atención primaria como en el de la especializada, PPOS, y 5 en el ámbito exclusivo de la atención primaria: 4 HCS, OPTION, IDM, CS-PAM y CICAA-D. Esta última ha sido validada en nuestro medio e idioma.
+
+
+--- RELACIÓN MÉDICO PACIENTE/ALIANZA TERAPÉUTICA
+
+La relación entre el médico y el paciente es una dimensión fundamental en la ACP. Comprende múltiples aspectos tales como la percepción del paciente acerca de las intervenciones realizadas, el acuerdo sobre los objetivos del tratamiento o la percepción del compromiso del médico con la salud del paciente. Un médico con habilidades interpersonales para establecer esa «alianza terapéutica» con el paciente necesita de forma destacada una adecuada comunicación.
+Hemos identificado 19 herramientas que miden algún aspecto propio de esta dimensión. La percepción del paciente se valora en 14 de ellas: KAS, STP, WTF, HCR, CARE, MISS-21, CQI1/CQI2, GPAQ-R, GPAS, DISQ, JPCAT, CSQ, IPQ y PDRQ-9. Tres herramientas valoran la percepción de pacientes, médicos de familia, residentes y otros profesionales médicos: MCCS, GMCQ y M-PCMH-A. Las 2 restantes valoran la percepción de los médicos de las dificultades de esta relación: la encuesta DDPRQ-10 y la CICAA-CP, que valora mediante un observador externo la adecuación de la comunicación según médicos, enfermeros y otros clínicos. Tanto la escala CICAA-CP como la PDRQ-9 están validadas en España.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+Atendiendo al objetivo fundamental de esta revisión sistemática, que es identificar y analizar todas las herramientas conocidas y validadas que midan la ACP o algunos de sus aspectos en el ámbito de la atención primaria, con especial atención a las validadas en nuestro medio y a las autocumplimentadas por el propio médico de familia, encontramos que:•De las 39 herramientas identificadas solo una cuarta parte valora la perspectiva del profesional. Entre estas, 4 lo hacen desde el ámbito exclusivo de la atención primaria.•Tres de las herramientas están validadas en nuestro medio. Una de ellas valora la perspectiva del profesional pero precisa de un evaluador externo.•La mayor parte de las herramientas identificadas están orientadas a la medición de solo algunos aspectos de una o 2 dimensiones de la ACP. Abundan las orientadas a la comunicación y satisfacción percibida (relación médico-paciente/alianza terapéutica) y las de capacitación del paciente (terrenos comunes/poder y responsabilidad compartidos).•No hemos identificado ninguna herramienta que, tal y como plantea el objetivo de nuestra revisión, valore la ACP desde la perspectiva del profesional, realizada en APS, validada en nuestro medio y autocumplimentada.
+El estudio de calidad realizado mediante la escala COSMIN pone de manifiesto la necesidad de construir cuestionarios que midan la ACP de acuerdo con una metodología correcta para que el uso de los mismos pueda ser generalizado.
+Las herramientas identificadas y analizadas en esta revisión, con los problemas metodológicos evidenciados en su diseño y construcción o sus dificultades de aplicación (cuestionarios extensos, de difícil cumplimentación, etc.), constituyen un excelente punto de partida y una enseñanza fundamental para el diseño y la construcción de una nueva herramienta. Este cuestionario debería poder ser autocumplimentado por el propio médico de familia, realizado en APS, ser capaz de medir la ACP de forma global y ser validado en nuestro medio. Su aplicación podría permitirnos en un futuro valorar si nuestro ejercicio profesional es conforme a una adecuada ACP.
+En una futura investigación y con el objetivo final de desarrollar y validar la herramienta descrita, además de esta revisión se ha procedido a un estudio con una técnica Delphi para identificar posibles dimensiones o aspectos que permitan definir el concepto de ACP y seleccionar ítems que posibiliten contrastar las dimensiones identificadas en la bibliografía.
+
+
+-- LIMITACIONES
+
+Entre las limitaciones del estudio, habría que reseñar que es posible que existan cuestionarios que midan alguna de las dimensiones consideradas en el modelo de ACP que no hayan sido recogidas en esta revisión, al centrarse la búsqueda en cuestionarios que midieran ACP y no en cada una de las posibles dimensiones.
+Se han revisado las referencias bibliográficas incluidas en los estudios seleccionados y en especial en las revisiones sistemáticas y se han buscado tesis doctorales en la base de datos TESEO, pero no se ha realizado una búsqueda en comunicaciones en congresos susceptibles de presentar herramientas de medición de ACP, por lo que es posible que exista un sesgo de publicación.
+Por otra parte, la heterogeneidad de métodos en la validación no ha permitido comparar qué herramienta presentaría ventajas en relación con otras.
+A diferencia de otra de las revisiones identificadas en la literatura que se centraba exclusivamente en la percepción de la ACP por parte de los pacientes, la nuestra incluye también la percepción de los profesionales. En ambas objetivamos que la mayor parte de las herramientas hacen una medición de un contacto puntual (visitas), limitando su aplicabilidad para procesos de atención a lo largo del tiempo (la longitudinalidad tan propia de la APS). Otras revisiones sistemáticas sobre instrumentos para valorar ACP lo hacen sobre dimensiones concretas: relación médico-paciente o continuidad asistencial; en esta última los autores también objetivan importantes problemas de calidad en los instrumentos identificados.
+
+
+-- CONCLUSIONES
+
+Las principales conclusiones obtenidas tras la revisión sistemática realizada serían:-No se ha encontrado en la literatura médica consultada ninguna herramienta validada que nos permita valorar la ACP en Medicina de Familia con un cuestionario autocontestado y validado en nuestro medio.-Las herramientas identificadas para la medición de la ACP en atención primaria presentan problemas metodológicos en su construcción y diseño.-Estas evidencias nos muestran la oportunidad de desarrollar una herramienta autocumplimentada por el propio médico de familia, capaz de medir en APS la ACP de forma global y validada en nuestro medio, que nos permita en un futuro valorar si nuestro ejercicio profesional es conforme a una adecuada ACP.Lo conocido sobre el tema•La atención centrada en el paciente es de reconocida importancia en el ámbito de la atención médica.•Su definición poco concreta dificulta su valoración.•No existe una revisión sistemática sobre las herramientas existentes para la medición de la misma en el ámbito específico de la atención primaria.Qué aporta este estudio•Esta revisión sistemática presenta las herramientas validadas existentes para la medición de aspectos o dimensiones de la atención centrada en el paciente y pone de manifiesto la inexistencia de una herramienta autocumplimentada para la valoración global de la misma por parte de los profesionales en atención primaria de salud y validada en nuestro medio.•Esta revisión es un primer paso para el diseño y posterior validación de un cuestionario que nos permita la evaluación de la atención centrada en el paciente en consulta con las implicaciones que esto puede tener tanto en la práctica como en investigación.
+
+
+- FINANCIACIÓN
+
+Esta revisión sistemática no cuenta con financiación alguna, pero sí forma parte de un proyecto mayor cuyo objetivo es el diseño y validación de una herramienta autoadministrada capaz de medir la calidad de la atención centrada en el paciente en las consultas de atención primaria de salud. Este proyecto en el que se encuentra incluida esta revisión sistemática sí que ha recibido financiación por parte de la Sociedad Española de Medicina Familiar y Comunitaria (SEMFyC) no habiendo sido destinados esos fondos a esta revisión sistemática.
+
+
+- AUTORÍA
+
+J.A. Pascual, como responsable del proyecto, participó en la concepción y el diseño del estudio, en cada una de las fases de la revisión de la literatura y en la elaboración del manuscrito. T. Gil participó en la búsqueda bibliográfica, selección y análisis de documentos. J.A. Sánchez participó en el diseño del estudio y elaboración del manuscrito, selección de documentos y realizó aportaciones y referencias añadidas a la búsqueda inicial. J.F. Menárguez participó en el diseño del estudio y elaboración del manuscrito, realizó aportaciones y referencias añadidas. Todos los autores han revisado de manera crítica el contenido intelectual del artículo y aprobado la versión final.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

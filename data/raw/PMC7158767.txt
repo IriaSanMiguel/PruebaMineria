@@ -1,0 +1,19 @@
+PANDEMIA DE COVID-19 Y TRANSFORMACIÓN DIGITAL EN CUIDADOS INTENSIVOS
+
+
+Sr. Director:
+En las últimas décadas el sistema sanitario ha afrontado graves crisis de salud como el síndrome tóxico, la epidemia del virus H1N1, hasta la actual pandemia del COVID-19. Todas estas crisis comparten características comunes como la incertidumbre y sensación de pánico; el número ingente de afectados, leves en su mayoría, que pone a prueba la eficacia y organización del sistema sanitario; y, a destacar, que un alto porcentaje de pacientes precisa hospitalización debido a fallo respiratorio hipoxémico agudo, de los cuales, hasta un 10% pueden requerir ingreso en cuidados intensivos (UCI). Esto implica necesidad de incremento de camas críticas, de recursos electromédicos y de personal cualificado. La compra de respiradores implica esfuerzo económico, pero elementos fundamentales como el aumento de camas críticas o de personal es difícil de improvisar. Por otra parte, estudios como CESAR mostraron menor mortalidad cuando el paciente es tratado en UCI especializada con alto volumen de ingresos. Ante esta situación, la moderna tecnología basada en la trasformación digital podría ser de gran ayuda. ¿Qué beneficios podemos esperar en la UCI de los sistemas de información?
+El más importante es la mejora en la atención al paciente. Obtener sin necesidad de introducción manual, una ingente cantidad de datos clínicos, radiológicos y de laboratorio, de forma completa, confiable, compartible y a tiempo real, acelera las decisiones terapéuticas con mayor seguridad. Además, permite como evaluar el impacto y seguridad de la terapéutica.
+Disminuir la carga de trabajo de enfermería y de elementos de contagio. La gráfica electrónica, los diversos “checklist” cumplimentados mediante recogida automática a tiempo real, de evita errores en la transcripción de los datos, y permite a la enfermería dedicar más tiempo a los pacientes. La supresión del papel y otros dispositivos elimina fuentes de contagio.
+Adquisición de nuevos conocimientos. Una de las características de esta pandemia es el desconocimiento de la historia natural de la enfermedad. Para ello las técnicas de “Big data” son fundamentales, ya que facilitan crear perfiles de pacientes con sus características individuales, inferir la evolución de la enfermedad y predecir la respuesta a diferentes terapéuticas. Sin embargo, no se puede olvidar la premisa que “Big data” implica tener, precisamente gran cantidad de datos fiables y explotables. Ello es imposible sin aplicaciones informáticas específicas para UCI. No parece lógico desaprovechar un conocimiento de gran ayuda para afrontar este momento y situaciones futuras.
+Tele-UCI. Nació como respuesta a la falta de intensivistas, para apoyar a unidades no atendidas por especialistas o con especialista a tiempo parcial, y no para sustituir la cama física de UCI. Los avances tecnológicos han ampliado actualmente su uso como elemento de equidad, ya que la posibilidad que brinda de intercomunicación remota entre distintas unidades, con diversos grados de conocimientos y experiencias, permite que pacientes muy complejos atendidos en unidades más pequeñas y polivalentes, se beneficien de la experiencia de unidades más especializadas. Asimismo, estos sistemas posibilitan convertir en áreas críticas y semi-críticas otras zonas del hospital, supervisadas por especialistas cualificados, en un modelo de “UCI sin paredes”.
+
+
+- FINANCIACIÓN
+
+No se ha recibido ninguna financiación pública o privada
+
+
+- CONFLICTOS DE INTERESES
+
+Los autores declaramos no tener conflictos de intereses

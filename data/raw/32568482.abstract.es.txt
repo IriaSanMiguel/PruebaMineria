@@ -1,0 +1,6 @@
+estimar la creatinina (Cr), sérica como valor pronóstico de mortalidad en pacientes con síndrome coronario agudo (SCA) que ingresaron a sala de choque en el servicio de urgencias (SU).
+las enfermedades cardiovasculares se han convertido en la principal causa de muerte a nivel mundial.
+el diagnóstico de ingreso fue de SCA sin elevación del ST (SCASEST), 72.6%; e infarto agudo al miocardio con elevación del segmento ST (IAMCEST), 27.4%. Egresaron vivos el 63.2%, fueron trasladados a hospital de tercer nivel el 13.7% y falleció el 23.2%. Se encontró una diferencia en el nivel de Cr entre vivos y fallecidos (p = 0.0001).
+la Cr al ingreso del paciente con SCA proporciona información pronostica para mortalidad, y se puede establecer como un marcador pronóstico de acceso fácil y disponible en el SU.
+estudio prospectivo, transversal, que incluyó a 95 pacientes con SCA ingresados en sala de choque. Se estudiaron las siguientes variables: estudios de laboratorio con Cr, factores de riesgo cardiovascular (FRCV), días de estancia hospitalaria, servicio al que se derivó y condición de egreso (vivo/ muerto). El análisis estadístico fue mediante SPSS v. 23.
+

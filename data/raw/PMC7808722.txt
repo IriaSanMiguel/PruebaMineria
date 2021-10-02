@@ -1,0 +1,24 @@
+IMPACTO DE LA COVID-19 EN MUJERES Y HOMBRES
+
+
+Sr. Director:
+He leído con atención los comentarios sobre el artículo Las estadísticas sanitarias y la invisibilidad por sexo y de género durante la pandemia de COVID-19 realizados en la carta al director titulada La estratificación de la información por sexo en la COVID-19: un eslabón importante en la identificación de riesgos . Al respecto, en el epígrafe del artículo sobre los riesgos se recogen las explicaciones genéticas y hormonales que pueden influir en las diferencias de la susceptibilidad por sexo a la COVID-19. Sin embargo, los determinantes de la salud y las desigualdades en salud requieren seleccionar perspectivas de análisis de carácter social y de contextos, como el sanitario, que expliquen más allá de la perspectiva biológica, desde la que se sigue planteando la necesidad de estudios más amplios con datos específicos por sexo y análisis sólidos que desentrañen cómo el sexo modifica las vías celulares y moleculares asociadas con el SARS-CoV-2.
+El objeto del artículo aludido fue redirigir el foco de atención hacia hechos acontecidos durante el confinamiento en España, no tan visibles. En concreto, la reducción de la información epidemiológica desagregada por sexo que el Ministerio de Sanidad publicaba, y que dejó de publicar a partir de finales de mayo. Esta información forma parte de la Encuesta Epidemiológica de la COVID-19, se cuenta con ella y es necesaria para analizar una posible existencia de desigualdades de género en salud derivadas de la atención sanitaria.
+De la contradicción entre indicadores, como el exceso de mortalidad (mayor en las mujeres que en los hombres) frente a la frecuencia de fallecimientos (mayor en los hombres que en las mujeres), emerge la sospecha de que, al ser las mujeres hospitalizadas con menor frecuencia que los hombres durante el confinamiento, único lugar entonces donde se tenía acceso a pruebas diagnósticas confirmatorias de COVID-19, muchas de ellas fallecieron sin el diagnóstico de COVID-19 confirmado. Efectivamente, el avance de las defunciones de enero a mayo de 2020 realizado por el Instituto Nacional de Estadística muestra que por COVID-19 demostrada han fallecido menos mujeres (62/105) que hombres (76,24/105), mientras que por COVID-19 no demostrada (sospechada) han muerto más mujeres (30,45/105) que hombres (24,49/105). A estas cifras hay que añadir los fallecimientos más frecuentes en las mujeres que en los hombres por causas compatibles con COVID-19: insuficiencia respiratoria, otras enfermedades del aparato respiratorio no cancerígenas, enfermedad vascular intestinal, y síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte (https://www.ine.es/jaxi/Tabla.htm?path=/t15/p417/covid/l0/&file=03004.px&L=0).
+Otras fuentes de información están desvelando lo imprescindible que es reportar información desagregada por sexo, como el Estudio Nacional de Seroepidemiología de la Infección por SARS-CoV-2 en España, que detecta una mayor prevalencia de anticuerpos IgG frente al SARS-CoV-2 en las mujeres, especialmente de sectores esenciales como el de la limpieza y los cuidados a domicilio, además de en aquellas que realizan las tareas del hogar (https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/15.12151220163348113.pdf), o el estudio realizado por la Sociedad Española de Médicos Generales y de Familia respecto a la COVID-19 persistente, en el que se identifica una mayor frecuencia de mujeres (79%) con una media de edad de 43 años (https://www.semg.es/images/2020/Noticias/20201111_Resultados_Encuesta_COVID_Persistente.pdf).
+De acuerdo con la Organización Mundial de la Salud, los determinantes de la pérdida de salud son múltiples y así deben ser las perspectivas desde las que afrontar el reto de la pandemia de COVID-19, por lo que estaremos de acuerdo en la conveniencia de comprobar los efectos de la interacción sexo-género en la COVID-19. Esperemos que los ministerios de sanidad de los distintos países también lo estén y hagan visible al menos la información de la COVID-19 según sexo.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+M.T. Ruiz Cantero ideó la carta y realizó la redacción de esta en fondo y forma.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

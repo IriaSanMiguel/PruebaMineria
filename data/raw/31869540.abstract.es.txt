@@ -1,0 +1,5 @@
+Análisis transversal de la Encuesta Nacional de Salud y Nutrición 100k (Ensanut 100k) 2018 en 767 mujeres de 12 a 49 años residentes en localidades con menos de 100 000 habitantes que tuvieron su último hijo dos años anteriores a la encuesta. Se calcularon coberturas de atención a partir de modelos de regresión logística.
+Es necesario fortalecer acciones focalizadas en este grupo de mujeres para reducir brechas en las coberturas y mejorar la salud materno-infantil.
+Las mujeres con MA tienen menor cobertura continua en salud materna que las que no tuvieron MA (8.1 y 19.6%, respectivamente). La cobertura de atención del infante con contenido adecuado fue menor a 30% y no hubo diferencias entre los grupos.
+Comparar la cobertura de atención continua de salud materna y de atención en la primera infancia en mujeres con y sin maternidad en la adolescencia (MA), que habitan en localidades menores de 100 000 habitantes.
+

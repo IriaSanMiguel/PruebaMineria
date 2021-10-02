@@ -1,0 +1,5 @@
+Analizar la prevalencia de polifarmacia, así como los factores que identifican a los grupos con mayor riesgo, en un estudio poblacional en México.
+Salud y Nutrición 2018-19 (Ensanut 2018-19), cuestionarios de Utilización de servicios (sección medicamentos) y del Hogar, para obtener la prevalencia de polifarmacia (consu-mo simultáneo ≥5 medicamentos). Se utilizó un modelo de regresión logística para estimar la asociación de polifarmacia con factores sociodemográficos y de atención a la salud.
+La polifarmacia se asocia con tener enfermedad crónica y con factores sociodemográficos. Es una gran área de oportunidad para mejorar calidad de la atención, particularmente la prescripción farmacológica a la población identificada con mayor riesgo.
+Prevalencia de polifarmacia: ≥18 años, 15.5%, y ≥65 años, 26.5%. Prevalencias superiores: nefropatías (61.5%), cardiopatías (42.2%), enfermedad pulmonar obstructiva crónica (38.5%), diabetes (29.3%) e hipertensión (26.4%). Mayor posibilidad en adultos ≥65 años (OR:1.95), con baja escolaridad (OR:1.54), seguridad social (OR:1.64), atendidos en servicios públicos (OR:1.7) y enfermedad crónica (OR:1.84).
+

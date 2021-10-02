@@ -1,0 +1,93 @@
+ENSAYO NO ALEATORIZADO DE UN PROGRAMA DE FISIOTERAPIA CONTINUO FRENTE A INTERVÁLICO PARA PACIENTES CON SOBREPESO Y SÍNDROME CORONARIO AGUDO
+
+
+- INTRODUCCIÓN
+
+Las enfermedades cardiovasculares son la principal causa de muerte en la mayoría de los países europeos. Se estima que el 80% de la mortalidad de todas ellas se produce en países desarrollados y causan más de 4 millones de muertes al año. El síndrome coronario agudo (SCA) es una de las enfermedades más comunes a nivel mundial.
+Los pacientes que presentan un SCA a menudo experimentan un amplio rango de problemas físicos y fisiológicos, como el sobrepeso, que supone un aumento de peso corporal por encima de los límites recomendados, con un índice de masa corporal (IMC) entre 25 y 29,9 kg/m2. Reviste importancia clínica el control de parámetros antropométricos como IMC o perímetro abdominal, así como parámetros analíticos como el colesterol total, colesterol unido a lipoproteínas de baja densidad (cLDL), colesterol unido a lipoproteínas de alta densidad (cHDL), triglicéridos, hemoglobina glicosilada (HbA1C), glucemia y frecuencia cardiaca (FC) de reposo.
+En general, los pacientes con SCA realizan escaso ejercicio físico, con prevalencia de sobrepeso y dislipidemia, no obstante, la fisioterapia ayuda a mejorar parámetros como IMC y triglicéridos. Desde Atención Primaria es necesaria la promoción de la salud mediante programas de fisioterapia (PF) para cardiópatas. La promoción en Atención Primaria se muestra como una medida efectiva y necesaria para aumentar los niveles de ejercicio controlado en adultos, especialmente en cardiópatas.
+Los PF han sido desarrollados de forma adecuada y sus beneficios han sido bien documentados, si bien existe discrepancia en cuanto a la elección de entrenamiento continuo o interválico, , . Principalmente se incluyen disminuciones de morbimortalidad y mejoras en aspectos relacionados con el ejercicio y modificación de riesgos, con un efecto positivo en pacientes con SCA. Además, la adherencia es un factor que tener en cuenta, dada la importancia del mantenimiento de estilos de vida físicamente activos.
+Tras el alta hospitalaria por evento cardiaco, se promueve el control de pacientes en centros de prevención comunitaria ambulatoria. En este sentido, resulta indudable que el médico de familia debe manejar todos estos aspectos de forma adecuada, con el fin de optimizar la atención y seguimiento clínico de cardiópatas, de forma integrada en los programas y modelos de control de crónicos.
+Se plantea así la siguiente hipótesis: existen diferencias entre un PF continuo y un PF interválico en pacientes con sobrepeso y SCA, respecto a parámetros antropométricos, analíticos, FC reposo, adherencia, desgaste, seguridad y tolerancia.
+
+
+- OBJETIVO
+
+Detectar diferencias entre un PF continuo y uno interválico en pacientes con sobrepeso y SCA, respecto a parámetros antropométricos, analíticos, FC reposo, adherencia, desgaste, seguridad y tolerancia.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio multicéntrico cuasiexperimental no aleatorizado con diseño pre-post y 2 brazos de tratamiento. Se realizó en centros de prevención cardiaca comunitaria de los Departamentos de Salud Manises, Valencia-La Fe y Játiva-Onteniente en pacientes ambulatorios con sobrepeso y SCA. Se realizó un muestreo por conveniencia según el centro de atención. Se introdujeron estrategias para minimizar los sesgos derivados de la asignación no aleatoria. Concretamente, respecto a los sesgos de información: el cuaderno de recogida de datos fue el mismo para todos los centros; estos datos fueron tratados por un único evaluador y las evaluaciones basales y finales fueron realizadas por el mismo evaluador. El reclutamiento se realizó de enero de 2015 a junio de 2016 y el estudio se llevó a cabo de marzo de 2015 a junio de 2017. El estudio cumplió los los requerimientos de la Declaración de Helsinki y fue valorado y aprobado por el comité ético de los centros participantes. Todos los participantes fueron informados por escrito sobre el estudio y los posibles riesgos potenciales, y firmaron el consentimiento informado. Criterios de inclusión: IMC 25-29,99 kg/m2, haber experimentado un SCA, vivir en su domicilio en el momento en el que se realizó el reclutamiento, tiempo de evolución de 3 meses a un año. Criterios de exclusión: edad < 18 años, contraindicación médica para realizar ejercicio, haber seguido algún PF.
+Para calcular el tamaño de la muestra se realizó un análisis de la potencia a priori con el programa G*Power (versión 3.1.9.2). Teniendo en cuenta el diseño del presente estudio, asumiendo un tamaño del efecto pequeño (d = 0,25), alfa = 0,05, potencia = 0,80, el tamaño total requerido es de 128 participantes por grupo.
+
+
+-- INTERVENCIONES
+
+Un total de 339 pacientes fueron incluidos en el estudio, evaluados y distribuidos en 2 grupos: PF con entrenamiento continuo (CONT, n = 127) o PF con entrenamiento interválico (INT, n = 212).
+Ambos grupos realizaron 16 sesiones (2 sesiones/semana, 8 semanas) bajo monitorización electrocardiográfica, que se dividieron en: calentamiento (15 min), esfuerzo (30 min) y enfriamiento (10 min). Se controló la tensión arterial al inicio y al final del ejercicio. Se instruyó a los pacientes en la adquisición de una intensidad de trabajo moderada individualizada: en el esfuerzo debían alcanzar los niveles 12-13 de Borg y la FC calculada según la FC máxima obtenida en ergometría basal, aplicando la fórmula de Karvonen:•FC reserva = FC máx − FC reposo•FC entrenamiento (al 45% FC reserva) = 0,45 × FC reserva + FC reposo
+El grupo CONT realizó ejercicio aeróbico continuo. Se incluyeron ejercicios de calentamiento y fortalecimiento muscular en cicloergómetro a una intensidad de 40-50% 1RM. En el esfuerzo se trabajó con el cicloergómetro de forma continua. En el enfriamiento se realizaron 6 autoestiramientos de miembro superior e inferior (cuádriceps, isquiotibiales, gemelos, infraespinoso, tríceps, bíceps, manteniendo cada posición 10 segundos).
+El grupo INT realizó ejercicio aeróbico interválico. El calentamiento comprendió 8 series de ejercicios de flexibilización (isotónicos de flexoextensión cadera y rodilla, flexoextensión hombros y codos), seguido de 6 autoestiramientos, igual que el grupo CONT. En el esfuerzo, se realizaron isotónicos de miembros inferiores y superiores (flexoextensión cadera-rodilla, abducción cadera, flexoextensión hombros-codos, abducción hombros, caminar). Cada ejercicio se realizó durante un minuto, seguido de una pausa de recuperación activa de un minuto, que incluyó ejercicios con mancuernas de 0,5 kg (flexión codo, abducción hombros, tríceps). El enfriamiento incluyó los mismos ejercicios y autoestiramientos que el calentamiento.
+
+
+-- EVALUACIÓN
+
+Todas las variables fueron medidas al inicio del tratamiento (pretest) y tras finalizar este (postest).
+
+
+--- VARIABLES PRINCIPALES
+
+Perímetro abdominal e IMC. Talla y peso fueron evaluados mediante una báscula-tallímetro electrónica SECA 797 (Medizinische Waagen und Messsysteme, Hamburgo, Alemania). La talla se midió con el paciente descalzo, en bipedestación y con los pies juntos. El peso se determinó sin zapatos y ropa, excepto ropa interior. Se calculó el IMC y se midió el perímetro abdominal, tomando como referencia el punto intermedio entre margen costal inferior y espina ilíaca antero-superior, en bipedestación. Se tomaron 2 medidas, las cuales se promediaron.
+
+
+--- VARIABLES SECUNDARIAS
+
+
+
+
+--- ANÁLISIS ESTADÍSTICO
+
+El análisis estadístico se realizó mediante el programa Statistical Package for Social Sciences, versión 22.0 (SPSS Inc., Chicago, Illinois, EE. UU.). Las variables continuas se muestran con medias ± desviaciones estándar; las variables cualitativas mediante frecuencias y porcentajes. Para la comprobación de normalidad se empleó la prueba Kolmogorov-Smirnov. Las diferencias entre grupos se analizaron mediante prueba t de muestras independientes o Mann-Whitney en el caso no paramétrico, y las diferencias pre-pos mediante prueba t de muestras relacionadas o Wilcoxon en el caso no paramétrico. Las variables categóricas se analizaron mediante la prueba Ji cuadrado. Se estableció un nivel de significación estadística de 0,05.
+
+
+- RESULTADOS
+
+La tabla 1 muestra las características basales de los participantes. No hubo diferencias significativas entre grupos al inicio del programa, excepto en la proporción de hipertensos, fumadores y diabéticos.
+En la comparación de los valores postest entre ambos grupos, el grupo CONT mostró diferencias significativamente mejores en IMC, perímetro abdominal, colesterol total, cLDL, triglicéridos, HbA1C, glucemia y FC reposo, respecto al grupo INT. No obstante, el cHDL fue significativamente mayor en el grupo INT . Al comparar resultados intragrupo basal y final, el grupo CONT mejoró en todas las variables excepto HbA1C y glucemia, mientras que el grupo INT no mostró mejoras en IMC y FC reposo, con un aumento significativo de HbA1C y glucemia .
+No hubo diferencias entre grupos respecto a adherencia, desgaste, seguridad y tolerancia. Respecto a la adherencia, el 89,98% de pacientes finalizó todas las sesiones (CONT: n = 114; INT: n = 191). Con relación al desgaste, un 6,19% abandonó el programa por motivos personales (CONT: n = 9; INT: n = 12) y un 3,83% no completó las evaluaciones en la segunda evaluación debido a falta de interés o traslado de domicilio (CONT: n = 4; INT: n = 9). Respecto a seguridad y tolerancia, ningún paciente fue ingresado durante el programa. En un 97,05% de los casos no se registró ningún evento adverso como resultado de las pruebas o sesiones (CONT: n = 122; INT: n = 207), mientras que un 1,47% refirió incidencias cardiacas (dolor anginoso) (CONT: n = 3; INT: n = 5) y un 0,58% de tipo locomotor (algias en extremidades inferiores) (CONT: n = 2; INT: n = 0). En 8 pacientes que presentaron dolor anginoso durante el programa, se suspendió el programa hasta completar estudio de dolor torácico. En ningún caso se produjeron alteraciones significativas en TA, FC rápida o arritmias.
+
+
+- DISCUSIÓN
+
+En el presente estudio se comparó el efecto de un PF interválico y uno continuo en pacientes con sobrepeso y SCA, sobre parámetros antropométricos, analíticos, FC reposo, adherencia, desgaste, seguridad y tolerancia. A la luz de los resultados obtenidos, el programa CONT obtuvo mejores resultados, con una disminución significativa del IMC, perímetro abdominal, colesterol total, cLDL, triglicéridos, glucemia, HbA1C y de la FC reposo. No hubo diferencias respecto a adherencia, desgaste, seguridad y tolerancia.
+Este trabajo concuerda con la evidencia de los principios del modelo de cuidados crónicos y documenta la efectividad de los PF controlados en unidades de prevención cardiovascular locales que fomentan el control del riesgo cardiovascular, la promoción de la salud y la mejora de la Atención Primaria, .
+En nuestro conocimiento este es el primer estudio que compara la efectividad de PF continuo con interválico en pacientes con sobrepeso y SCA. Al igual que en otros artículos, existe mayor porcentaje de hombres y el rango etario es de 33-67 años.
+Los hallazgos coinciden con estudios previos, que demuestran que al realizar PF se es más proclive a mejorar la salud cardiovascular. El efecto de PF continuos e interválicos ha sido motivo de estudio, analizando, entre otros, factores de riesgo y variables relacionadas, como parámetros antropométricos o perfil lipídico.
+Pattyn 2014 et al. en una revisión sistemática-metaanálisis hallaron resultados similares, con mejoras significativas en parámetros antropométricos en PF continuos frente a interválicos, lo que coincide con lo postulado en otros artículos.
+Varios autores, encontraron diferencias no significativas entre ambos PF respecto a cLDL, colesterol total y triglicéridos. De forma similar, la HbA1C disminuyó de forma significativa en un PF continuo, al igual que en nuestro trabajo, mientras que en otros casos no se observaron diferencias significativas. En nuestro estudio, la mayor presencia de diabéticos en el grupo INT podría explicar al menos parcialmente sus mayores cifras medias de HbA1C y de glucemia, que magnifican las diferencias con el grupo CONT. Este hecho debe ser considerado para futuras intervenciones.
+No obstante, también se ha afirmado la mejoría cardiovascular tras realizar un PF interválico al compararlo con PF continuo. Se ha descrito una mayor mejora del cHDL tras realizar un PF interválico, hecho que coincide con nuestros hallazgos. Sin embargo, otros estudios no refieren cambios en cHDL al comparar grupos, . Conraads et al. y Pattyn et al. afirman que los PF continuos e interválicos tienen efectos similares y mejoran igualmente parámetros de riesgo como lípidos o FC de reposo.
+Diversos trabajos de investigación han demostrado que niveles elevados de colesterolemia, glucemia y sobrepeso se asocian con el desarrollo de enfermedad cardiaca. Así, su control resulta ineludible para controlar la progresión de la entidad.
+En nuestro programa, un 89,98% de los pacientes finalizaron los PF, lo que supone una elevada adherencia. Existe evidencia que señala que los porcentajes de participación en estos programas son menores a lo ideal y existe una gran brecha entre pacientes que deberían y que realmente participan en PF, . Consideramos que quizás el método de selección no aleatorizado haya podido influir en la adherencia registrada en nuestro estudio, debido a los posibles sesgos que suponen la participación en el estudio.
+Los PF deben incluir un equipo multidisciplinar, entre los que destaca el médico de Atención Primaria como principal responsable de la atención a la salud, para conseguir un adecuado mantenimiento en el tiempo y la optimización de efectos beneficiosos. El médico de familia debe contar con mecanismos de comunicación fluidos con el resto del equipo, debe promover una relación médico-paciente que conlleve la implicación en el propio proceso de salud y debe orientar su trabajo hacia una adecuada adherencia y efectividad.
+El equipo multidisciplinar debe centrarse en valores como integralidad, método clínico centrado en el paciente, trabajo en equipo y mejora continua para combatir la escasa adherencia. Recientemente se ha demostrado que opciones como la telerrehabilitación y aplicaciones móviles pueden aumentar la adherencia.
+Por otra parte, debería considerarse la inclusión de la perspectiva del paciente con relación a la seguridad y tolerancia, por medio de entrevistas personalizadas, y poder así aportar información relevante para la evaluación. Finalmente, la monitorización electrocardiográfica podría ser un elemento clave a la hora de aumentar la seguridad.
+
+
+-- LIMITACIONES Y FORTALEZAS
+
+La principal limitación es la no aleatorización del estudio. Una nueva evaluación a largo plazo hubiera sido conveniente para determinar el establecimiento de estos cambios en el tiempo. Todas las evaluaciones fueron llevadas a cabo por personal sanitario entrenado y con experiencia en este campo. Otro punto fuerte del estudio es que el material requerido para el desarrollo del PF es relativamente económico y las técnicas son sencillas y útiles en la práctica clínica diaria en Atención Primaria. Resaltamos asimismo la importancia de la monitorización continua a lo largo del programa. Se necesitan estudios futuros para abordar estas limitaciones.
+
+
+- CONCLUSIONES
+
+El PF CONT produjo mejoría en las variables IMC, perímetro abdominal, colesterol total, cLDL, triglicéridos, glucemia, HbA1C y FC de reposo en pacientes con sobrepeso y SCA, al compararlo con el PF INT. Además, ambos programas registraron una elevada adherencia, seguridad y tolerancia. Por tanto, realizar nuestro PF continuo puede mejorar progresivamente la salud de los cardiópatas: es necesaria una política activa de concienciación de prevención y promoción de la salud en este sentido.Lo conocido sobre el tema:•Las personas con sobrepeso y SCA generalmente tienen limitados diversos aspectos relacionados con la salud cardiovascular.•Existe una controversia respecto a la utilización de programa de fisioterapia continuos o interválicos en SCA, con relación a la mejoría de la salud cardiovascular que pueden producir, adherencia, seguridad y tolerancia.Qué aporta este estudio:•Se detectan las diferencias entre un programa de fisioterapia continuo con uno interválico para pacientes con sobrepeso y SCA.•Los sujetos que realizaron el programa de fisioterapia continuo mostraron una mejoría en las variables IMC, perímetro abdominal, colesterol total, cLDL, triglicéridos y FC reposo, respecto al PF interválico. Ambos programas de fisioterapia registraron una elevada adherencia, seguridad y tolerancia.•Realizar programas de fisioterapia continuos puede mejorar progresivamente la salud de cardiópatas con sobrepeso: es necesario fomentar la utilización de estos programas, junto con una política activa de concienciación de prevención y promoción de la salud en este sentido.
+
+
+- FINANCIACIÓN
+
+No existe fuente de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

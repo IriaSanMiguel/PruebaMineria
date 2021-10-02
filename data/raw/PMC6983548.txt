@@ -1,0 +1,39 @@
+VISADO ELECTRÓNICO: ¿NECESIDAD REAL O ANTIGÜEDAD INFORMATIZADA
+
+
+Nunca puedes planear el futuro a través del pasado.
+Edmund Burke (1729-1797)
+El visado de inspección (VI) ha evolucionado a lo largo del tiempo desde los años setenta. Recientemente, en 2007 se reguló el VI para los medicamentos que en ámbito extrahospitalario puedan producir reacciones adversas muy graves o requieran especial vigilancia (en la práctica se permite el VI por motivos exclusivamente económicos) y finalmente en 2011 se abrió la puerta al visado electrónico (VE) con el Real Decreto 1718/2010, de 17 de diciembre.
+La heterogeneidad entre comunidades autónomas (CCAA) (normativa, organización, informatización, medicamentos visados…) se manifiesta especialmente con los nuevos fármacos (p. ej., los anticoagulantes, que se visan o no en función de la CCAA); junto a esto, el visado de productos sanitarios como los pañales o las tiras reactivas refuerza la idea del VI como barrera del gasto. Esto pone en entredicho la capacitación profesional del médico prescriptor en función de su ámbito asistencial o geográfico e incrementa la burocracia en la consulta.
+En una encuesta realizada a médicos de familia españoles la opinión mayoritaria fue que el VI no debería existir para las enfermedades crónicas más prevalentes en atención primaria (AP), tiene finalidad fundamentalmente económica y puede tener impacto negativo en el acceso a medicamentos o la calidad asistencial. Por otra parte, es poco probable que un médico de familia sea reacio a un sistema de VE que facilite el día a día, pero merece la pena reflexionar sobre algunos aspectos del visado:
+
+
+- ¿ES NECESARIO EL VISADO DE INSPECCIÓN
+
+En la literatura encontramos que solo excepcionalmente los criterios para el visado se centran en evidencias científicas sólidas o en recomendaciones de sociedades científicas, como por ejemplo en profilaxis con palivizumab para niños con alto riesgo de infección por virus sincitial respiratorio.
+Muy pocos estudios han evaluado la pertinencia del VI o procesos parecidos de preautorización. Una revisión de 2007 concluyó que la información disponible es escasa (limitada a un pequeño grupo de medicamentos y frecuentemente a estudios en el Medicaid estadounidense).
+
+
+-- VENTAJAS DEL VISADO DE INSPECCIÓN
+
+A corto plazo, parece contener el gasto farmacéutico por paciente y el consumo de los medicamentos sometidos a VI, sin incrementar significativamente la utilización de servicios sanitarios. Ejemplos recientes analizados son los antirreumáticos, antipsicóticos atípicos o antiinflamatorios. Sin embargo, existe escasa información sobre si estos efectos se mantienen a medio-largo plazo.
+
+
+-- DESVENTAJAS DEL VISADO DE INSPECCIÓN
+
+Las posibles repercusiones sobre el estado de salud del paciente (por el coste de oportunidad relacionado con el retraso, limitación o sustitución que el VI puede producir) son prácticamente desconocidas. Algunos estudios alertan, por ejemplo, de retrasos en el inicio de tratamiento con clopidogrel en pacientes con stent coronario implantado y también una mejora de los indicadores clínicos a un año (muerte, reinfarto, nuevo cateterismo, bypass) si se suspende el sistema de preautorización.
+El área de incertidumbre sobre pros y contras aumenta al comprobarse que casi una de cada 3 nuevas moléculas aprobadas por la Agencia de Alimentos y Medicamentos (FDA) norteamericana entre 2000 y 2010 no disponían de información sobre eficacia comparada con sus alternativas terapéuticas; en el caso de la Agencia Europea de Medicamentos (EMA), aproximadamente una de cada 2 nuevas moléculas aprobadas entre 1999 y 2005.
+
+
+- ¿QUÉ PEDIRLE AL SISTEMA DE VISADO
+
+No es extraño que en este alarmante vacío de conocimiento permanezcan procedimientos como el VI, reflejo de una deficiente política global del medicamento y especialmente, de un sistema de financiación selectiva que preserva la «libertad de prescripción» del clínico pero dificulta su realización. Además, el VI se aplica a veces de forma contradictoria, incluyendo medicamentos de probada eficacia (caso del clopidogrel citado anteriormente) y dejando completa libertad de prescripción para nuevos medicamentos en ocasiones mucho más caros, menos eficaces y más incómodos que los recomendados por las guías de prescripción, por ejemplo la teriparatida por vía intramuscular para la prevención secundaria de fracturas osteoporóticas. Para clarificar los objetivos del VI, es necesario que evolucione al menos en 2 sentidos:-Su reorientación hacia un sistema de prescripción razonada basado en protocolos o guías de práctica clínica, con criterios clínicos de seguridad y eficiencia en la utilización de fármacos.-Destinar el coste de gestión y mantenimiento del propio sistema de VI a mejorar drásticamente los sistemas de vigilancia poscomercialización, que monitoricen de manera continuada la seguridad y coste-efectividad de los medicamentos financiados con fondos públicos, en un proceso bidireccional de financiación/desfinanciación en función de la evidencia científica disponible.
+Para conseguir estos cambios es necesaria la existencia de una entidad o instituto de excelencia clínica independiente (a semejanza del NICE británico), que sea capaz de generar recomendaciones de manera coordinada para todo el territorio nacional.
+
+
+- ¿QUÉ PEDIRLE AL VISADO ELECTRÓNICO
+
+Ante la inevitable continuidad del vetusto VI, el VE puede aportar algunas mejoras:-Rapidez: garantizar que no exista discontinuación o retraso en el inicio de los tratamientos, con un sistema electrónico coherente, rápido y accesible, así como unos servicios de inspección diligentes.-Criterios comunes de indicación y evaluación para los médicos de AP y de hospital.-Desburocratización: la historia de salud electrónica debe facilitar que en una única consulta el paciente obtenga lo necesario para poder iniciar/continuar su tratamiento, reduciendo a la mínima expresión documentos y gestiones.-Gestión de las oficinas de farmacia: el farmacéutico debería tener acceso al estado de la solicitud de VI (aprobada/no aprobada/pendiente) y proceder a la dispensación cuando corresponda.-VE de larga duración o indefinido para enfermedades crónicas estables en las que no se obtiene beneficio adicional con renovaciones a corto o medio plazo.
+Es deseable la rapidez en estos cambios ante el previsible aumento de la lista de VI, como respuesta refleja a la necesidad de contención del gasto sanitario.
+En conclusión, el VI es consecuencia de un mejorable sistema de financiación pública de medicamentos. Sus repercusiones (positivas o negativas) en el estado de salud de los pacientes son prácticamente desconocidas, por lo que es un deber ético que se evalúen los beneficios o posibles perjuicios de estas medidas. Es necesario un modelo de prescripción razonada basado en la evidencia científica con criterios de seguridad clínica y eficiencia. El VE debería desburocratizar el VI e implantarse en AP y hospitalaria, evitando cualquier demora en los tratamientos.
+Tras el inevitable VE, réplica informatizada del pasado, esperemos que en el futuro lo mejor esté por venir.Puntos clave•El VI reduce el volumen de prescripción y el gasto en determinados fármacos.•Las repercusiones del VI en el estado de salud de las personas son prácticamente desconocidas.•El VE debe desburocratizar el proceso sin ningún retraso en el inicio de los tratamientos.•El VE debe ser sustituido por un sistema basado en la evidencia científica y en criterios de seguridad clínica y eficiencia.

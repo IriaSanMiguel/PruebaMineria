@@ -1,0 +1,7 @@
+PRINCIPALES DESAFÍOS DEL DESEQUILIBRIO ELECTROLÍTICO EN PACIENTES GERIÁTRICOS CON COVID-19 Y RIESGO DE PROLONGACIÓN DEL INTERVALO QT
+
+
+Sr. Editor:
+Leímos con interés el reciente artículo publicado por Bonanad et al.. El tema de este documento de consenso es valioso e importante; no obstante, hallamos ambigüedades y cuestiones en una parte del artículo.
+En la tabla 3 del artículo, en la descripción sobre los efectos adversos cardiovasculares de los fármacos estudiados en el tratamiento de la COVID-19, los autores afirman que es vital corregir la hiperpotasemia y la hipermagnesemia, mientras que la corrección de la hipopotasemia y la hipomagnesemia es especialmente indispensable, ya que las bajas concentraciones séricas de potasio y magnesio aumentan la posibilidad de prolongación del intervalo QT.
+La hipopotasemia, probablemente por modificación de la función de los canales iónicos de potasio, puede prolongar el intervalo QT y, como resultado, producir una repolarización heterogénea y dispersa. Asimismo, la hipomagnesemia es un factor de riesgo demostrado que predispone a la taquicardia ventricular en entorchado. Además, al parecer, la falta de potasio es habitual en la enfermedad coronavírica de 2019 (COVID-19) grave. Varias observaciones indican que el potasio sérico debería mantenerse en el límite superior de la normalidad (4,5-5,0 mmol/l), aunque se requieren más pruebas para corroborar esta práctica, .

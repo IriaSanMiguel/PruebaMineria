@@ -1,0 +1,25 @@
+ANÁLISIS ESPACIAL DE LA MORBILIDAD POR ASMA EN LA CIUDAD DE MORELIA, MÉXICO, PARA LA DÉCADA 2000-2010<SUP
+
+
+El uso de Sistemas de Información Geográfica (SIG) permite evaluar el impacto que sobre la enfermedad tienen variables demográficas y climáticas. El asma es una de las enfermedades crónicas que causa mayor uso de los servicios de emergencias en la ciudad de Morelia, México, con altas tasas de prevalencia, cercanas al 10% en edades pediátricas para el año 2006.
+Este trabajo se hizo con el objetivo de realizar el análisis espacial de la morbilidad por asma en una muestra de pacientes que residían en la ciudad Morelia, México, y que para el año 2005 tenía una población de 597.511 habitantes. Se incluyeron todos los pacientes con diagnóstico confirmado de asma por neumólogos y/o alergólogos y que recibían atención en las unidades de medicina familiar No 75 y 80 del Instituto Mexicano del Seguro Social en Morelia, México, en el periodo comprendido entre el 1 de enero del año 2000 y el 31 de diciembre del año 2010. Los datos se cargaron en el sistema de información geográfica (SIG) ARCGIS 9 con el programa ArcMap versión 9.3 del año 2008.
+Se incluyeron 7.271 pacientes con asma: 3.060 del género masculino y 4.211 del género femenino, distribuidos en los siguientes grupos: menores de 19 años, 2.909 pacientes; de 19 a 60 años, 3.206 pacientes, y mayores de 60 años, 1.156 pacientes. La figura 1 muestra la distribución de los pacientes en la ciudad de Morelia, las vías de comunicación terrestres de la ciudad y el promedio de emisiones de gases y material particulado PM10 por industrias de la ciudad para la década 2000-2010. La mayor concentración de casos se encontró hacia el centro de la ciudad y se representó en rojo. La diferencia entre el número de pacientes con asma entre el centro de la ciudad y las zonas periféricas de esta tuvo un máximo de 10.83:1, luego de ajustar las diferencias respecto al número total de habitantes. En el centro de la ciudad y en la vecindad del anillo periférico, que son las áreas de la ciudad con mayor tráfico vehicular y altamente semaforizadas, residían el 69,1% de los pacientes mayores de 60 años, el 69,71% de los adultos entre 19 y 60 años y el 71,1% de los menores de 19 años. Algunas de las industrias que más emitieron gases y PM10 se localizaron en el norte y el centro de la ciudad. Como la dirección predominante de los vientos fue de norte a sur, las emisiones contaminantes de estas industrias se arrastraron hacia el centro de la ciudad, lo cual estuvo también favorecido porque el centro de la ciudad es una zona isométrica con diferencias leves de altura desde los 20 a los 40 m y asentada en un valle. La rosa de los vientos, situada en la parte superior izquierda del mapa, muestra la dirección predominante del viento en la década 2000-2010. Existen otros factores que vale la pena considerar y que propiciaron un mayor número de casos de asma en el centro de la ciudad: allí se encuentran las edificaciones más antiguas, generalmente contiguas, unidas pared con pared, frecuentemente con humedad, lo que facilita el crecimiento de mohos.Figura 1
+El aumento a la exposición a PM2,5, PM10 y O3 se ha asociado con aumento del número de visitas por enfermedades respiratorias agudas, . Vivir en zonas con rica vegetación asociadas a poco tráfico vehicular y más alejadas del centro se relacionó con menor frecuencia de asma en este estudio. Asimismo se han reportado niveles de PM10 y NO2 bajos en zonas de densa vegetación, como bosques o parques, o apartadas del alto tráfico vehicular, y menor número de síntomas respiratorios en estas zonas.
+
+
+- CONTRIBUCIÓN DE LOS AUTORES
+
+Alain R Rodríguez Orozco: diseño, análisis de datos, redacción de artículo.
+Esthela G. Galeana Osuna: recolección de información, base de datos, sistema de información geográfica, análisis de datos.
+Manuel Bollo Manent: diseño, análisis de datos.
+Benigno Figueroa Núñez: recolección de información, base de datos.
+
+
+- FINANCIACIÓN
+
+Los autores no recibieron apoyo financiero por la investigación ni por la autoría ni por la publicación del artículo.
+
+
+- CONFLICTO DE INTERESES
+
+Ningún conflicto de intereses es reportado.

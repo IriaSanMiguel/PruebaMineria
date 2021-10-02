@@ -1,0 +1,97 @@
+MANTENIMIENTO DE LA LACTANCIA MATERNA EXCLUSIVA A LOS 3 MESES POSPARTO: EXPERIENCIA EN UN DEPARTAMENTO DE SALUD DE LA COMUNIDAD VALENCIANA
+
+
+- INTRODUCCIÓN
+
+La lactancia materna (LM) tiene amplios beneficios, físicos y psicológicos, tanto para la madre como para el recién nacido. Para el recién nacido se ha asociado a beneficios saludables que incluyen la inmunización pasiva que protegen al lactante contra enfermedades, la reducción de la prevalencia de diarrea, la bacteriemia, la neumonía y la meningitis durante el primer año de vida; reduce el riesgo de sufrir el síndrome de muerte súbita, las alergias, el asma, la leucemia en la infancia y reduce la incidencia de padecer obesidad y diabetes mellitus durante la etapa adulta. Los beneficios maternos incluyen la mejora del vínculo con el neonato, mejora la pérdida de peso en el posparto, reduce el riesgo de depresión posparto, la pérdida sanguínea, retrasa la fertilidad, y reduce el riesgo de padecer cáncer de mama o de ovario a lo largo de la vida, .
+Actualmente siguen siendo los países escandinavos, Japón y Nueva Zelanda los que consiguen tasas de LM exclusiva a los 3 meses elevadas, entre el 71 y el 81%. En contraste, en países del centro y sur de Europa, donde se incluye España (15-51%) las prevalencias son muy inferiores, .
+A nivel de la Comunidad Valenciana, el cumplimiento de estas recomendaciones internacionales es escaso. Un reciente estudio realizado en la ciudad de Valencia obtiene prevalencias de lactancia materna exclusiva (LME) a los 3 meses del 39%.
+Los factores que afectan las tasas de LM, y por tanto intervienen en el abandono precoz son numerosos y complejos. Distintos autores han mostrado que dichos factores pueden agruparse en: 1) factores clínico-psicológicos (tratamientos de reproducción asistida, tabaquismo, expectativas maternas previas, uso del chupete durante el primer mes de vida y la sensación de hipogalactia; 2) factores ambientales, , (círculo familiar/amigos, laboral y sistema sanitario), y 3) factores socio-culturales y económicos.
+El objetivo del estudio fue determinar la prevalencia de la LME al alta hospitalaria y a los 3 meses posparto, y conocer las causas que contribuyen al abandono precoz.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio observacional y prospectivo en una población dependiente del Departamento de Salud de la Ribera. El área de estudio tiene una cobertura de 259.000 habitantes, con una cifra media aproximada de 2.000 partos anuales. El tiempo de recogida de los datos fue desde diciembre de 2012 a enero de 2017.
+
+
+-- MUESTRA
+
+Las gestantes fueron seleccionadas mediante muestreo probabilístico simple de entre los 13 centros de salud del departamento. La probabilidad fue de 7 sobre 13 centros.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Gestantes que dieron a luz un recién nacido vivo durante el periodo de estudio, residentes en las poblaciones de Alzira, Alberic, ĹAlcudia, Guadassuar, Sueca, Cullera, y Carlet, todas ellas pertenecientes al Departamento de Salud de la Ribera.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Recién nacidos de menos de 35 semanas de gestación, malformaciones congénitas, rechazo a la participación en el estudio e ilocalizables tras 3 intentos de contacto telefónico.
+No se incluyeron los partos gemelares, múltiples y prematuros con objeto de comparar nuestros resultados con el resto de los estudios publicados debido a la mayor exigencia de dichas situaciones, no siendo una contraindicación para la LM.
+
+
+-- RECOGIDA DE DATOS
+
+Las entrevistas se realizaron en el posparto de forma presencial y a los 3 meses de forma telefónica por la matrona de cada centro de salud participante.
+
+
+-- VARIABLES A ESTUDIO
+
+Las variables analizadas en el estudio se clasificaron en:
+Variables relacionadas con el abandono: causa de abandono de la LM (total o parcial), causa de abandono precoz (anterior a los 3 meses posparto) y duración total de la LME en días completos desde el día del parto.
+
+
+-- ORGANIZACIÓN DE LA INFORMACIÓN
+
+Se diseñó un cuaderno de recogida de datos (CRD) para el tratamiento de las variables seleccionadas. Para la obtención de los datos obstétricos se utilizó la historia clínica electrónica de los programas Abucasis II (AVS) y SIAS Clínico (HULR), pudiendo acceder a los módulos del bloque materno-infantil (datos del parto y del recién nacido) para inclusión en el CRD. Se utilizó la técnica de la entrevista telefónica para poder obtener los datos del seguimiento de la lactancia a los 3 meses, estructurando el CRD en diferentes apartados. Posteriormente, el conjunto de todos los datos se analizaron mediante el programa estadístico SPSS® v.15 para Windows®.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se emplearon los métodos descriptivos básicos de cálculo de media y desviación estándar para las variables continuas, o mediana e intervalo intercuartil para distribuciones con falta de normalidad, y frecuencias absolutas y relativas para las variables categóricas. Se realizó un análisis bivariante donde se estudiaron las correlaciones entre la variable dependiente (tipo de lactancia a los 3 meses) y las independientes recogidas, mediante la prueba de Chi-cuadrado entre 2 variables categóricas y la ANOVA de un factor para determinar la relación entre el tipo de lactancia y los días. Los intervalos de confianza (IC) se calcularon para un nivel de confianza del 95%.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+El presente estudio fue realizado teniendo en cuenta los principios de toda investigación médica, Declaración de Helsinki. El seguimiento de la lactancia a los 3 meses es un indicador de calidad dentro de los objetivos trimestrales ligados a incentivos de las matronas del Departamento de Salud de la Ribera desde el año 2012. Así pues, tanto el seguimiento como el registro, son tareas incluidas en el día a día que planificadas y autorizadas por la dirección asistencial. El estudio fue evaluado y aprobado por la Comisión de Investigación-Comité de Ética del Hospital Universitario de la Ribera para poder difundir los datos de forma externa con fecha 14 de enero de 2016.
+
+
+- RESULTADOS
+
+La muestra total obtenida fue de 1.338 mujeres cuyo parto ocurrió entre 2012 y 2017. En cuanto a las variables socio-demográficas observamos que la edad media de la gestante fue de 31,1 ± 5,6 años. Observamos la distribución de acuerdo al tipo de lactancia al alta y las características socio-demográficas y obstétrico-neonatales de la población estudiada .
+Respecto a las variables obstétricas podemos destacar que el 58,6% (784) de las gestantes fueron primíparas y el resto multíparas (554). La media de la edad gestacional al parto fue de 39,0 ± 3,1 semanas. La prevalencia de recién nacidos pretérmino (< 37 semanas) y postérmino (> 42 semanas) fue del 4,7 y 2,9% (32), respectivamente. El 58,3% (780) de los partos tuvo un inicio espontáneo y el 21,5% (288) inducidos. La mayoría de los partos (65,5% [876]) finalizaron por vía vaginal, la tasa de cesárea no electiva fue del 12,9% (172) y el 18,2% (243) de los partos fueron instrumentados. La analgesia epidural fue utilizada en el 70,5% (943) de los partos.
+La media del peso al nacer fue de 3.276,4 ± 512,6 g. El 2,0% (27) fueron recién nacidos con peso pequeño para la edad gestacional (p < 10) y el 4,0% (54) macrosomas (p > 90). Observamos que la media del test de Apgar al minuto y a los 5 min fue de 9,1 ± 1,7 y 9,7 ± 1,7, respectivamente, obteniendo un pH de arteria umbilical medio de 7,25 ± 0,1.
+Observamos que existen diferencias estadísticamente significativas entre el tipo de lactancia al alta y las variables: año del estudio (p < 0,001), país de origen (p = 0,005) y paridad (p = 0,05).
+La prevalencia de LME al alta hospitalaria se situó en el 68,2% (913), y a los 3 meses descendió al 46,7% (625). Desde el año 2012 se ha incrementado un 9% la tasa de LME a los 3 meses, pasando del 40 al 49,2% en enero de 2017. Podemos observar la evolución de la prevalencia según el tipo de lactancia a los 3 meses posparto en la figura 1.Figura 1
+Cabe destacar que el 29,1% (391) de las puérperas deseaban lactancia artificial desde el inicio.
+La duración de la LME fue de 68,7 ± 32,7 días (IC 95%: 66,9-71,2; rango: 1-90), y la media de la LM bruta, es decir la suma de la LME y mixta, fue de 39,3 ± 21,4 días (IC 95%: 33,4-45,3; rango: 4-75). La duración media del periodo crítico, entendido como el primer mes de vida, fue de 12,2 ± 8,5 (IC 95%: 10,9-13,6).
+Las distintas causas de abandono de la LME que argumentaron las madres en la entrevista telefónica, junto con la media en días de la LME se describen en la tabla 2. Se hace constar que no se contabilizaron las mujeres con LME a los 3 meses, ni las que decidieron ofrecer una lactancia artificial antes del parto, solo seleccionando a las mujeres que tras el parto iniciaron una LM y abandonaron antes de los 3 meses posparto. Las razones más frecuentes por la que la LME es abandonada fueron la hipogalactia (21,8%) y el aumento de peso del recién nacido inferior al recomendado (14,9%). Los motivos relacionados con la glándula mamaria (pezón umbilicado, mastitis y grietas en el pezón) y con el recién nacido (enfermedad neonatal, ictericia, ingreso, bajo-peso vs. prematuro) supusieron un periodo menor a 30 días de LME. En cambio, los motivos relacionados de forma directa con la madre (incorporación laboral y necesidad de descanso) fueron más frecuentes dentro de los primeros 2 meses posparto.
+
+
+- DISCUSIÓN
+
+Nuestro estudio es uno de los más amplios realizados en nuestro país en cuanto a que realiza un seguimiento de una cohorte importante durante los 3 primeros meses tras el parto. La prevalencia de LM al alta hospitalaria es inferior a la obtenida por distintas investigaciones llevadas a cabo en nuestro entorno, , , , oscilando entre el 70-84%. La tasa de LME al alta en nuestro Departamento de Salud se ha incrementado en un 7%, en los últimos 6 años. Creemos que uno de los factores que podría atribuirse a esta diferencia al alza es la labor de fomento de la LM mediante las políticas de humanización al nacimiento y apoyo a la LM, como el favorecer el vínculo materno-neonatal tras el parto o cesárea, , , entre otras. En 2017, el Hospital Universitario de la Ribera se ha acreditado en la fase 1 D de la Iniciativa de Hospitales Amigos de los Niños (IHAN) tras varios años de concienciación y trabajo de los distintos servicios implicados.
+La prevalencia de LME a los 3 meses en nuestra población es ligeramente mayor a las descritas en distintos estudios recientes, , , aunque es inferior a las halladas en una cohorte del norte de España. Observamos que existe una reducción cercana al 20% desde el alta hospitalaria, independientemente de la prevalencia alcanzada, dónde el patrón de abandonos parece repetirse a lo largo de los 3 meses de forma proporcional a su porcentaje de inicial. Teniendo en cuenta que en España la política social y laboral es común, podemos pensar que la coordinación entre niveles asistenciales y la conciencia prolactancia materna parecen tener un papel relevante en este sentido entre las distintas regiones de nuestro país, pero su análisis sobrepasa el objetivo de nuestra investigación.
+En nuestra población, la duración de la LM bruta se situó en 39 días, siendo mayor que la de otros estudios, . Para conseguir mejorar este indicador es importante conocer el periodo de tiempo donde se concentran la mayoría de abandonos de LM. En nuestra población, el periodo crítico se situó en 12 días, coincidiendo con otros estudios. Por tanto, parece ser evidente que el apoyo a las madres lactantes y a su entorno en ese periodo inicial es crucial para garantizar el mantenimiento de la LME.
+Podríamos identificar claramente 2 periodos concretos donde se producen los mayores abandonos de LM en nuestro medio, tal y como se puede observar en la tabla 2. El primer periodo abarca desde el alta hospitalaria hasta los primeros 15 días de vida del neonato, donde aparecen muchos de los problemas relacionados con la glándula mamaria y con el recién nacido, que a su vez coinciden con la pérdida de apoyos asistenciales a la lactancia, hasta que el binomio madre-hijo es valorado en las consultas de atención primaria. El segundo periodo, entre el mes y los 2 meses, podría coincidir con factores relacionados con la capacidad anímica de la madre para continuar con la LME junto con la incorporación laboral de la madre, .
+De acuerdo con distintos estudios, , la principal causa de abandono de la LME fue la hipogalactia, seguida de la falta de aumento de peso ponderal y/o pérdida de peso del lactante. Esta última, es el motivo más frecuentemente reconocido por las madres para combinar la LME con lactancia artificial. Atendiendo a estas causas, podemos observar que están relacionadas entre sí y quizás actuando sobre la hipogalactia, corregiríamos los problemas de aumento de peso de los lactantes. Al mismo tiempo es importante considerar que la mayor parte de los motivos que las madres expresan como hipogalactia se basan en percepciones subjetivas. La hipogalactia subjetiva puede estar afectada por una gran variedad de factores externos, incluidos los consejos profesionales, ajenos a la capacidad propia de la madre para amamantar y al deseo de esta.
+La mayoría de las madres de nuestro estudio no rechazan de inicio la LM, por lo que en general tienen una idea positiva de la misma, sin embargo aproximadamente la mitad de estas no cumplen sus expectativas antes del mes, pasando a ser la tercera causa de abandono. Pensamos que podría evitarse con un mayor apoyo profesional, seguimiento continuado y su integración en los grupos de lactancia de atención primaria, .
+En cuanto a la relación entre la paridad y la duración de la LME a los 3 meses, observamos resultados estadísticamente significativos, con una mayor tendencia al mantenimiento de la LME en las mujeres multíparas, coincidiendo consistentemente con otros estudios, . Posiblemente la experiencia anterior favorezca la continuación de la LM y sirva de base a la mujer para vencer los problemas iniciales más repetidos.
+Del mismo modo, observamos diferencias estadísticamente significativas entre el país de origen y la duración de la LME a los 3 meses, siendo las mujeres españolas las que tienen una menor duración con relación a las extranjeras, coincidiendo con otros autores, . Posiblemente el factor socio-cultural y/o religioso de los países de origen pueda explicar esta diferencia como ha sido descrito, .
+Así pues, a la vista de todos los datos expuestos, pensamos que el apoyo, la protección y la promoción de la LM por parte de los profesionales sanitarios implicados en las diferentes áreas de atención a la mujer y la infancia son un elemento fundamental de ayuda a la LME y a la implantación de estrategias de eficacia reconocida internacionalmente como los 10 pasos de la IHAN. Estos 10 pasos incluyen disponer de una norma escrita, capacitar al personal, informar a las embarazadas, inicio precoz de la lactancia en paritorio, mostrar a las madres como amamantar, no suministrar leche artificial, favorecer la cohabitación, la lactancia a demanda, no dar biberones/chupetes y fomentar los grupos de apoyo a la salida del hospital.
+Somos conscientes que nuestros resultados sobre la LME, si bien están lejos de ser aceptables, mejoran lo publicado en estudios similares. Dada la escasez de trabajos similares a este, nuestros resultados aportan una aproximación a la situación de la LM. El estudio cuenta con algunas limitaciones, como que la encuesta telefónica realizada para conocer las causas de abandono de la LM pudiera verse afectada por el sesgo de memoria de la mujer al precisar el momento exacto en días del abandono. También tenemos que contemplar que la matrona asignada al control de su embarazo era la misma que la realizaba la entrevista telefónica, pudiendo afectar a la respuesta referida. En cambio, las fortalezas del estudio son, la aleatorización de los centros de salud participantes y a un tamaño muestral considerable en un periodo de recogida de datos de 4 años consecutivos.
+Así pues, podríamos concluir que la prevalencia de la LME a los 3 meses es baja comparada con otros países europeos, aunque está en consonancia con los estudios de nuestro medio, siendo la causa principal la percepción de hipogalactia. Observamos como las políticas introducidas en la vía de humanizar el parto han podido contribuir a incrementar la prevalencia de lactancia al alta.
+Sería recomendable valorar la efectividad de las medidas de promoción puestas en marcha en nuestro departamento de salud y la evolución de las tasas de la LM para constatar su asociación, como estrategia de promoción que consiga mejorar nuestros índices de lactancia y acercarnos a las recomendaciones internacionales.Lo conocido sobre el tema•La LM tiene amplios beneficios, físicos y psicológicos, tanto para la madre como para el recién nacido.•Las tasas de la LME a los 3 meses posparto en los países desarrollados son inferiores a las recomendaciones descritas por la Organización Mundial de la Salud.Que aporta el estudio•Las políticas de humanización al nacimiento y apoyo a la LM, tanto a nivel hospitalario como en atención primaria, pueden tener un papel relevante en el mantenimiento de la LME a los 3 meses posparto.
+
+
+- FINANCIACIÓN
+
+Se ha recibido una ayuda a la investigación (PRUCV2016) por parte de la Universidad Católica de Valencia San Vicente Mártir.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

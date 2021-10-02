@@ -1,0 +1,5 @@
+Estudio analítico observacional de cohorte prospectivo que seleccionó a todo paciente 75 años dado de alta a domicilio desde una UCE durante 2 meses. Se calculó la puntuación total del ISAR. La variable resultado fue presentar algún RA (deterioro funcional agudo grave, muerte o reingreso por cualquier causa) a los 30 días del alta.
+Determinar si la escala Identification of Seniors at Risk (ISAR) predice los resultados adversos (RA) a corto plazo en los ancianos dados de alta desde una unidad de corta estancia (UCE).
+Se incluyeron 120 pacientes con una edad de 81,5 (DE 5,4) años, 36 (30%) presentaron algún RA a los 30 días tras el evento índice. El punto de corte de ISAR menor o igual a 3 es el que presentó una mejor capacidad predictiva tanto para las variables resultado aisladas como para la variable compuesta a los 30 días.
+La ISAR puede identificar al anciano con alto riesgo de presentar un resultado adverso a los 30 días tras el alta de una UCE, siendo el punto de corte de 3 el que mostró una mejor capacidad predictiva.
+

@@ -1,0 +1,189 @@
+RECOMENDACIONES DE LA ASOCIACIÓN ESPAÑOLA DE NEUROGASTROENTEROLOGÍA Y MOTILIDAD (ASENEM) PARA EL REINICIO DE LA ACTIVIDAD DE LOS LABORATORIOS DE MOTILIDAD DIGESTIVA, TRAS EL CONFINAMIENTO POR EL ESTADO DE ALARMA DECRETADO A RAÍZ DE LA PANDEMIA POR COVID-19
+
+
+- INTRODUCCIÓN
+
+La pandemia por COVID-19 ha requerido una redistribución de los recursos asistenciales y la implantación de severas medidas de distanciamiento social. Estas exigencias han modificado o incluso interrumpido gran parte de la actividad asistencial habitual. A pesar de que en los últimos días se observa una mejora sostenida en la propagación de la infección, la retirada completa del confinamiento y la vuelta a la normalidad previa al inicio de este proceso no tiene, por el momento, una fecha definida. Sin embargo, no es posible demorar los procedimientos diagnósticos y terapéuticos de otras patologías como las enfermedades digestivas hasta que el riesgo de contagio desaparezca por completo.
+En este escenario, la Asociación Española de Neurogastroenterología y Motilidad (ASENEM), antiguo Grupo Español de Motilidad Digestiva (GEMD), considera oportuno proporcionar al facultativo una serie de recomendaciones basadas en la experiencia y en la literatura científica disponible, para garantizar que la reanudación progresiva de la actividad en nuestro ámbito asistencial se haga con la máxima seguridad para los pacientes, profesionales sanitarios, y la comunidad en general.
+Estas recomendaciones contienen medidas estructurales y organizativas que necesariamente deben estar sometidas a evaluación periódica, siendo potencialmente modificables en función de la evolución cambiante de la epidemia y de los parámetros epidemiológicos disponibles en cada periodo y ubicación geográfica.
+
+
+- METODOLOGÍA
+
+Se plantearon una serie de preguntas clínicas a un panel de facultativos expertos de la Asociación Española de Neurogastroenterología y Motilidad (ASENEM), solicitando su resolución mediante recomendaciones de manejo basadas en la mejor evidencia científica disponible. En aquellos puntos en los que no existía esta evidencia se pidió a los autores participantes que contestaran de acuerdo con su experiencia. Con posterioridad se elaboró un primer borrador con toda la información recogida. Los aspectos donde hubo discrepancia y las áreas de mayor incertidumbre se debatieron de forma telemática hasta establecer un conjunto de recomendaciones consensuadas por todo el panel.
+
+
+- NECESIDAD DE REINICIO DE LA ACTIVIDAD
+
+Las enfermedades neurogastrointestinales y de la motilidad digestiva engloban, entre otras, enfermedades graves de la motilidad digestiva, como por ejemplo la acalasia, la gastroparesia, la pseudoobstrucción intestinal crónica, el megacolon y enfermedades congénitas graves como la enfermedad de Hirschsprung, que pueden tener consecuencias graves para la salud del individuo, tanto de forma directa como por complicaciones derivadas de las mismas. Si bien el estudio de estas patologías, así como la evaluación pre y post quirúrgica de otros procesos, no precisa ser realizado de forma urgente, salvo en situaciones excepcionales, tampoco puede ser demorado en exceso si se quiere evitar la aparición de complicaciones graves y frenar el deterioro en la calidad de vida ligado a estas enfermedades.
+
+
+- NECESIDAD DE DESARROLLAR RECOMENDACIONES ESPECIALES
+
+El virus SARS-CoV-2, productor de la COVID-19, es un virus que ha mostrado una alta contagiosidad, y que hasta en un 10-15% de los casos puede provocar síndrome de distrés respiratorio grave, con una mortalidad que en nuestro país se sitúa alrededor del 10% de los casos confirmados.
+La transmisión del virus se produce fundamentalmente por vía respiratoria, a través de la expulsión de microgotas al hablar (alcance de 1-2 metros), toser o estornudar (hasta ocho metros de alcance), siendo aún más probable cuando en éstas u otras circunstancias (intubación orotraqueal, realización de broncoscopias o uso de nebulizadores) se generan aerosoles. Se han publicado estudios que muestran que el virus es estable en un pH entre 3 y 10, y puede permanecer en el ambiente en forma de aerosol durante tres horas. Además de a través de secreciones respiratorias o saliva, se ha propuesto que la transmisión pueda tener lugar por el contacto directo con superficies contaminadas (en acero inoxidable y plástico se detecta hasta 5-7 días después de su inoculación experimental). También se ha detectado el ARN del virus en heces, si bien a día de hoy no se ha demostrado transmisión por vía feco-oral, , , .
+La proporción de personal sanitario contagiado en España, con respecto al total de casos confirmados, es de alrededor del 22%. Se desconoce si el riesgo está en relación con el contacto directo con el paciente y/o con el uso inadecuado del material de protección.
+Los estudios de motilidad digestiva, biofeedback anorrectal, estudio del reflujo gastroesofágico y pruebas de aliento, son susceptibles de generar contaminación, bien por la generación de aerosoles que puede producirse en algunas exploraciones con intubación oral o nasal, como por el contacto directo del material y las sondas con las secreciones del paciente.
+
+
+- VALORACIÓN DE LA SITUACIÓN DEL PACIENTE CON RESPECTO AL SARS-COV-2
+
+Para poder valorar el riesgo asociado a una prueba diagnóstica es importante conocer la situación de nuestro paciente respecto a la COVID-19. Podemos encontrarnos con cuatro tipos de pacientes de acuerdo con esta circunstancia:•Paciente con infección actual conocida (positividad del test de reacción en cadena de la polimerasa [PCR]) o de sospecha (fiebre, tos, dificultad respiratoria o fatiga reciente, anosmia, diarrea aguda). Implica un riesgo muy alto de contagio.•Paciente asintomático, pero con contacto estrecho reciente con un sujeto infectado (convivientes con un caso durante las dos semanas previas).•Paciente probablemente inmunizado, que ha superado la enfermedad y/o tiene un test que demuestra que tiene inmunidad contra el SARS-CoV-2 (IgG específica con IgM negativa). En este caso, el riesgo de contagio sería prácticamente nulo. Sin embargo, a día de hoy, no se conoce el alcance exacto ni la duración de la inmunidad, por lo que en el momento de escribir este documento se recomienda tomar precauciones también en estos pacientes.•Paciente con estado inmunológico frente a la infección desconocido, que no es conocedor de padecer ni de haber padecido la COVID-19. Mientras no se realicen test masivos a la población, será el paciente más frecuente, si bien este escenario va a ir cambiando a medida que progrese la situación.
+
+
+- PAUTAS DE LOS EXPERTOS EN MEDICINA PREVENTIVA PARA EL REINICIO DE LA ACTIVIDAD
+
+Expertos del Johns Hopkins Center for Health Security proponen que la reapertura de servicios, tanto sanitarios como sociolaborales, se produzca gradualmente en cuatro fases:1.Fase i: Es la fase de mitigación. Durante la misma es necesario el máximo distanciamiento social (confinamiento y cierre de espacios públicos) con el fin de enlentecer el ritmo de transmisión de la infección. Se evita así el colapso de los sistemas sanitarios, facilitando su adaptación y mejorando su capacidad para realizar el máximo número de test diagnósticos. El objetivo es diagnosticar y tratar a todos los casos y, en un segundo tiempo, buscar activamente a los casos portadores de la infección y a sus contactos cercanos.2.Fase ii: Da inicio a la reapertura de servicios, manteniendo la distancia social (1-2 m) y limitando las reuniones. Se puede considerar su inicio si se cumplen los siguientes criterios: a.El número de casos nuevos desciende consecutivamente durante los últimos 14 días.b.Los test de diagnóstico rápido son suficientes para investigar al menos a todos los pacientes sintomáticos, a sus contactos cercanos y a los trabajadores de servicios esenciales.c.El sistema sanitario es capaz de atender de forma segura a los pacientes, lo que incluye disponer de equipo de protección individual (EPI) suficientes para sus trabajadores.d.El sistema nacional de salud tiene la capacidad de realizar la trazabilidad de los contactos cercanos de los nuevos casos. 3.Fase iii: Se inicia cuando se dispone de un tratamiento o vacunación eficaces. Reduce las restricciones relativas a distancia social de la fase previa.4.Fase iv: Durante la misma deben establecerse políticas de salud para afrontar posteriores amenazas similares a la actual.
+Las recomendaciones que se exponen a continuación son aplicables a partir de la fase ii de esta clasificación.
+
+
+- BOLD>RECOMENDACIONES</BOLD
+
+-- GENERALES
+
+--- ¿CÓMO DEBE REINICIARSE LA ACTIVIDAD ASISTENCIAL
+
+∘ Se recomienda que el reinicio de la actividad en las pruebas de motilidad digestiva se realice de forma escalonada y adaptada a la situación epidemiológica de la infección por SARS-CoV-2. 
+Debido a la interrupción temporal de las exploraciones durante la fase i de la pandemia, la demanda inicial podría sobrepasar a la oferta asistencial, por lo que puede resultar necesario priorizar las solicitudes con base en la gravedad estimada del cuadro clínico (tabla 1 y fig. 1 ).Figura 1
+
+
+--- ¿SE DEBE APLAZAR LA REALIZACIÓN DE LA PRUEBA DE MOTILIDAD MIENTRAS PERSISTA EL PERIODO EPIDÉMICO
+
+∘ Se recomienda NO aplazar de forma indefinida las exploraciones de motilidad con indicación adecuada. 
+Durante la fase i de la epidemia los laboratorios de motilidad han permanecido cerrados. Por las razones expuestas en el epígrafe 2 durante la fase ii debería iniciarse su reapertura gradual, adoptando las oportunas medidas de seguridad, que se detallan más adelante.
+
+
+-- PREINTERVENCIÓN
+
+--- ¿SE DEBE REALIZAR UN CRIBADO DE LA INFECCIÓN POR COVID-19 EN TODOS LOS PACIENTES ANTES DE UN PROCEDIMIENTO DE MOTILIDAD
+
+∘ Se recomienda evaluar sistemáticamente el riesgo clínico de infección por COVID-19 de forma previa a la realización de cualquier estudio de motilidad. 
+Se propone la realización de una llamada telefónica previa a la cita (separadas por el menor tiempo posible), para conocer el estado del paciente respecto a la COVID-19, interrogando sobre los síntomas frecuentemente asociados a COVID (fiebre, tos y disnea o fatiga recientes y anosmia), consultando sobre potenciales contactos estrechos recientes (últimas dos semanas), y sobre si tiene test PCR o inmunológicos contra SARS-CoV-2 .∘ Por el momento NO existe evidencia científica concluyente que avale realizar test microbiológicos pre-procedimiento para el diagnóstico de SARS-CoV-2 con el objetivo de modificar las medidas de protección individual frente a la infección. 
+Un estudio reciente, basado en un modelo matemático, concluye que la realización de PCR a todos los pacientes candidatos a una endoscopia (riesgo de transmisión del virus similar a las pruebas de motilidad), podría ser una estrategia aplicable para el empleo más eficiente de los EPI cuando se reduce la prevalencia de COVID-19. Sin embargo, se admite que el riesgo de contagio entre sanitarios se incrementa cuando se prescinde de las medidas profilácticas, lo que puede ser eficiente en un sistema sanitario privado, pero resulta socialmente inaceptable.
+La sensibilidad de la PCR para el diagnóstico de la COVID-19 se ha estimado en pacientes sintomáticos en un 66,7% durante la primera semana y del 54% durante la segunda semana. Otros resultados muy recientes, aún no publicados, podrían elevar esta cifra hasta el 78%, mientras que la especificidad en sintomáticos podría aproximarse al 99%, y el valor predictivo negativo al 96%. Sin embargo, la proporción en portadores asintomáticos es aún incierta porque no se conoce el número real de infectados en la población, y todas ellas dependerían de las variaciones en la prevalencia, , , , , , , , . Considerando estos datos, no es posible establecer que la PCR sea un instrumento lo suficientemente preciso para discriminar en qué situaciones debe emplearse un EPI. Por otro lado, existe riesgo de identificar como positivos a pacientes asintomáticos que realmente no tienen infección, lo que conllevaría necesidad de aislamiento para el paciente y su entorno.
+Con respecto a los test serológicos y test de detección de antígenos, poseen una baja sensibilidad en las primeras fases de la enfermedad, incluso en pacientes sintomáticos, comparado con PCR. Además, la detección del antígeno se negativiza antes que la PCR, .
+
+
+--- ¿CÓMO PLANIFICAR LA CITA EN FUNCIÓN DE LA INFORMACIÓN RECOGIDA DURANTE EL CRIBADO DE LA INFECCIÓN
+
+∘ En los pacientes con infección COVID-19 actual, confirmada mediante test microbiológicos o de sospecha (clínica compatible sin confirmación microbiológica), se recomienda demorar la prueba hasta transcurrido un mínimo de cuatro semanas desde el inicio de los síntomas, independientemente de que la PCR se negativice antes. 
+El periodo sintomático de la COVID-19 suele ser de unos 10 días. Una vez superado el periodo sintomático en el 90% de los pacientes se detecta expulsión de ARN viral durante 10 días más, negativizándose el cabo de 15 días en casi el 100%, .
+En general, se recomienda una demora para la cita del procedimiento de motilidad de cuatro semanas desde el inicio de los síntomas, o desde la positividad del estudio microbiológico que indique infección actual, si el test se hubiera realizado en un individuo asintomático y no hubiera desarrollado posteriormente la enfermedad. En pacientes que hayan requerido hospitalización probablemente sea prudente prolongar la cita del procedimiento hasta transcurridas seis semanas desde el inicio de los síntomas (se ha descrito excreción del virus en estos casos hasta 37 días después), .
+En algunos pacientes se ha demostrado la persistencia de una prueba de PCR positiva en muestras fecales tras la negativización de las muestras obtenidas en vías respiratorias, . Por otro lado, el resultado negativo de las pruebas diagnósticas de PCR no posee una sensibilidad suficiente para descartar la enfermedad en todos los casos.∘ En los pacientes asintomáticos que han tenido contacto estrecho, prolongado y sin la adecuada protección en las últimas dos semanas con un sujeto infectado, se recomienda demorar la prueba hasta transcurridas al menos dos semanas desde la fecha del contacto de riesgo. Si durante este periodo el paciente presentara síntomas, debería prolongarse la demora hasta cumplir cuatro semanas desde el inicio de los síntomas.
+Aunque se ha reportado la posibilidad de periodos de incubación más prolongados (hasta 24 días), la OMS ha establecido el periodo medio de incubación de la infección por SARS-CoV-2 en 5,2 días, con un rango entre 1 y 14 días, .∘ En los casos de pacientes probablemente inmunizados (han superado la enfermedad y su periodo de riesgo infectivo, o bien se trata de casos asintomáticos con un test que demuestra inmunidad IgG contra el SARS-CoV-2 y negatividad de IgM) NO está indicado demorar la cita de la prueba. ∘ En los casos de pacientes asintomáticos con estado inmunológico desconocido NO está indicado demorar la cita de la prueba. 
+Un estudio realizado en el norte de Italia en periodo de expansión logarítmica de la pandemia a pacientes con estado inmunológico desconocido, observó que la realización de procedimientos endoscópicos con un EPI (mascarilla de diferentes tipos, guantes, bata y gafas protectoras) se asoció con un riesgo de contagio potencial del 1% entre los pacientes, y del 4,3% entre los sanitarios, lo que resulta inferior al riesgo del 10% declarado para el resto de los sanitarios en la misma localización geográfica.
+
+
+--- ¿ES NECESARIO MODIFICAR EL TIEMPO HABITUAL ASIGNADO A CADA PROCEDIMIENTO DE MOTILIDAD
+
+∘ Se recomienda ajustar el tiempo asignado al procedimiento teniendo en cuenta las medidas necesarias para la prevención de la infección por COVID-19. Ello conllevará, probablemente, a reducir el número de procedimientos y aumentar el tiempo asignado a cada uno. 
+El tiempo preciso para la desinfección dependerá del tipo de paciente que se haya explorado, de las condiciones para ventilar el cuarto de trabajo y de la capacidad de cada centro para realizar de forma ágil el cambio de EPI y la desinfección de los potenciales fómites. De forma orientativa, estas acciones pueden precisar entre 15 y 30 minutos tras cada procedimiento.
+
+
+--- ¿QUÉ OTRAS NORMAS GENERALES ES ACONSEJABLE CONSIDERAR DURANTE LA CITA
+
+∘ Indicar al paciente la hora exacta a la que ha de acudir a la Unidad de Motilidad, para evitar aglomeraciones en la sala de espera ∘ Informar al paciente de que es aconsejable que acuda solo. Si precisa acompañamiento, debe ser únicamente una persona, preferiblemente menor de 60 años, sin comorbilidad de riesgo y sin signos de sospecha de COVID. 
+La edad superior a 60 años y patologías como diabetes, obesidad, hipertensión, broncopatía crónica, cardiopatía, y aquellas que comprometan la inmunidad, se han asociado a una peor evolución de la enfermedad. Por ello, los sujetos afectos debieran evitar situaciones favorecedoras del contagio, como la asistencia a centros hospitalarios, en especial si deben permanecer en salas de espera concurridas, .
+
+
+--- ¿SE DEBE RECOMENDAR ALGUNA MEDIDA DE PROTECCIÓN ADICIONAL PARA LOS PACIENTES QUE ACCEDEN A LA UNIDAD DE MOTILIDAD O A SU SALA DE ESPERA (<XREF RID="SEC0195" REF-TYPE="SEC">ANEXO 2</XREF
+
+∘ Proporcionar al paciente y acompañante los medios para que realicen un lavado de manos con solución hidroalcohólica a su entrada a la sala de espera y cuando abandonen la Unidad de Motilidad. ∘ Tanto pacientes como acompañantes deben llevar puesta una mascarilla facial durante su estancia en las instalaciones hospitalarias. ∘ En la medida de lo posible (por ejemplo, durante exploraciones ano-rectales), se aconseja que el paciente también mantenga la mascarilla facial colocada durante la realización de la prueba. ∘ Se recomienda que todo el personal sanitario o administrativo de la Unidad no involucrado directamente en el procedimiento, porte mascarilla facial y realice lavado periódico de manos. ∘ Ningún sanitario con síntomas compatibles con COVID-19 debe realizar exploraciones de motilidad. ∘ Ningún sanitario que haya presentado un contacto estrecho y prolongado con un enfermo de COVID-19, sin protección adecuada (por ejemplo, ámbito familiar) debe realizar exploraciones de motilidad hasta haber completado el periodo de cuarentena, o cuando se haya descartado mediante test microbiológico su capacidad de transmitir el virus. ∘ En la sala de espera, la distribución de los espacios y asientos debería permitir mantener una distancia de seguridad interpersonal de al menos 1,5 metros (idealmente 2 metros). ∘ En la sala de espera no debiera haber revistas ni otros objetos que puedan actuar como fómites. ∘ Tomar la temperatura a todos los pacientes antes de acceder al laboratorio de motilidad. En caso de superar los 37,2 °C, y no tratarse de un caso de urgencia excepcional, debería suspenderse la exploración y reprogramar la cita del paciente una vez cumplidos los plazos adecuados y/o realizadas las pruebas diagnósticas indicadas para asegurar que se ha superado el periodo infectivo.∘ Se recomienda reinterrogar al paciente sobre aparición en las últimas horas (desde el contacto telefónico para el cribado) de síntomas sospechosos de COVID-19, antes de acceder al laboratorio de motilidad, actuando, en caso de positividad, de forma similar a lo indicado en el apartado anterior.
+
+
+-- INTERVENCIÓN
+
+--- ¿ES NECESARIO ESTABLECER UN CIRCUITO DE PACIENTES INDEPENDIENTE PARA LOS PACIENTES CON ALTA SOSPECHA O INFECCIÓN CONFIRMADA POR COVID-19
+
+∘ Las pruebas de motilidad sólo de forma excepcional tienen carácter urgente, por lo que se recomienda que en casos de infección por SARS-CoV-2, sean demoradas hasta la curación del proceso y superación del periodo de cuarentena recomendado. ∘ En el caso excepcional de que en un paciente con sospecha o infección confirmada por COVID-19 la realización de un procedimiento de motilidad fuera inaplazable, se recomienda practicarlo en una de las salas de endoscopia o cirugía habilitadas para tal fin (idealmente salas con presión negativa), siguiendo las mismas recomendaciones que en pacientes con infección por COVID-19 sometidos a endoscopia urgente. 
+
+
+--- ¿QUÉ MEDIDAS DE HIGIENE Y PROTECCIÓN DEBEN IMPLEMENTARSE ENTRE EL PERSONAL SANITARIO
+
+∘ Asegurar la implementación de medidas básicas de higiene para la prevención de la infección entre el personal sanitario. 
+Debe insistirse en medidas básicas como el lavado de manos con jabón, el empleo frecuente de soluciones desinfectantes y el cambio de uniforme después de cada jornada, , , .∘ Utilizar equipos de protección individual en todo el personal sanitario involucrado en la realización de un procedimiento de motilidad. 
+Como norma general, se recomienda la utilización de pijama y calzado hospitalario, mascarilla FFP2-3 o N-95 (preferible FFP3 en casos con infección confirmada), gafas protectoras con cierre lateral y/o pantalla facial, doble guante, calzas o polainas, gorro (opcional), bata impermeable y/o con delantal de plástico, , , , , , , , , .∘ Minimizar el riesgo de que el paciente tosa accidentalmente sobre el explorador u otro personal, ajustando la altura de la camilla de forma que la parte superior de la cabeza del paciente esté por debajo de la barbilla del explorador, y evitando situarse en frente del paciente al introducir la sonda. 
+
+
+--- ¿HAY DIFERENCIAS EN EL EPI NECESARIO EN FUNCIÓN DEL PROCEDIMIENTO A REALIZAR
+
+∘ En todos los procedimientos de motilidad del tracto digestivo superior es recomendable el EPI estándar .∘ En la manometría y biofeedback anorrectal puede ser suficiente el empleo de mascarilla quirúrgica, guantes dobles y bata no impermeable. Si se realizan maniobras defecatorias, es recomendable añadir protección ocular con gafas o pantalla y optar por mascarillas FFP2-3 o N95 .
+El riesgo de generación de aerosoles en estas exploraciones es mínimo. Bajo estas condiciones, las mascarillas quirúrgicas y las FFP2 (N95) han demostrado protección similar frente a las infecciones por virus respiratorios, , , , . Así, el mayor riesgo en esta exploración sería el derivado del contacto con material fecal. Ahora bien, a pesar de que el ARN del virus se ha detectado en las heces, no se ha reportado ningún caso de transmisión de la enfermedad por esta vía. Algunos investigadores han cuestionado la viabilidad del virus en las heces y su capacidad infectiva en el medio hospitalario, sugiriendo solo un papel potencial de contagio en situaciones de hacinamiento.
+
+
+--- ¿PUEDEN LOS MÉDICOS RESIDENTES MANTENER SUS ROTACIONES EN LAS UNIDADES DE MOTILIDAD
+
+∘ Se recomienda mantener los periodos de formación para los médicos residentes, respetando las medidas de protección mencionadas (EPI) y la distancia de seguridad recomendada.
+
+
+-- POSTINTERVENCIÓN
+
+--- ¿QUÉ MEDIDAS INMEDIATAS DEBEN ADOPTARSE CON EL PACIENTE
+
+Antes de salir de la sala, se aconsejará al paciente un lavado de manos o de los guantes, si los llevara, con solución hidroalcohólica.
+
+
+--- ¿CÓMO DEBE REALIZARSE LA DESINFECCIÓN DE DISPOSITIVOS, MATERIAL Y SUPERFICIES (<XREF RID="SEC0195" REF-TYPE="SEC">ANEXO 5</XREF
+
+∘ La desinfección y reprocesamiento de las sondas reutilizables en exploraciones de motilidad se realizará siguiendo los protocolos habituales. 
+Existe acuerdo en mantener los protocolos de desinfección habituales para el caso de los endoscopios. Las sondas de manometría pueden seguir el mismo proceso o pueden ser sometidas a desinfección de alto nivel, cuyos componentes activos forman parte de los principios con eficacia declarada frente al virus.∘ Cuando se usen sondas manométricas de perfusión es aconsejable mantener la perfusión una vez extraído el catéter del paciente, y evitar en lo posible la apertura de la bomba de agua durante el procedimiento. 
+Cuando se realicen lavados manuales es aconsejable que la perfusión se mantenga durante las fases de limpieza con jabón y desinfección. Si el procesado se realiza mediante lavadoras de endoscopios, con desinfección interna de los canales, la perfusión puede interrumpirse inmediatamente después de la extracción.
+Se aconseja llenar la bomba de agua del manómetro antes de iniciar las exploraciones de la jornada, para evitar en la medida de lo posible su apertura intraprocedimiento.
+
+
+--- ¿CÓMO SE DEBE REALIZAR LA GESTIÓN DE LOS POSIBLES RESIDUOS Y EPI POSTEXPLORACIÓN
+
+
+
+
+--- ¿DEBE REALIZARSE SEGUIMIENTO DEL PACIENTE POSTINTERVENCIÓN
+
+∘ Es aconsejable contactar con el paciente 15 días después del procedimiento y valorar el estado de infección por COVID-19, con objeto de vigilar la posible transmisión nosocomial (trazabilidad). ∘ Es aconsejable guardar registro de la actividad y asegurar que se está realizando de forma segura. 
+
+
+- PARTICULARIDADES EN PROCEDIMIENTOS ESPECIALES
+
+-- ESTUDIOS DE HIDRÓGENO ESPIRADO Y DE ALIENTO PARA HELICOBACTER PYLORI
+
+--- ¿SON APLICABLES LOS PROTOCOLOS EMPLEADOS HASTA LA FECHA
+
+∘ Se aconseja revisar y, en su caso, adaptar los protocolos de obtención, manejo y análisis de las muestras para reducir el riesgo de transmisión directa por aerosoles y para evitar la contaminación de los aparatos y zonas colindantes. 
+Existen diferentes métodos comercializados para el análisis de los test de aliento, así como diferentes métodos de recogida de las muestras, que incluyen que el paciente sople directamente en tubos de cristal que se tapan para el análisis posterior, bolsas herméticas para el almacenamiento de gases, o analizadores portátiles en los que los pacientes soplan directamente en el analizador a través de filtros específicos.
+Debido a que el test de aliento implica el análisis del aire exhalado por el paciente, y a que no existen estudios comparativos en la actualidad que muestren las posibles ventajas contra desventajas de cada uno de estos métodos, la recomendación es revisar el protocolo de realización de estos test en cada laboratorio, para adaptar el método empleado a las circunstancias actuales, teniendo en cuenta dos parámetros básicos: a) la seguridad del personal que recoge las muestras y el que las analiza, y b) la correcta desinfección de los materiales y los locales en los que se realizan las pruebas.
+
+
+--- ¿CUÁL ES EL PROCEDIMIENTO PARA LA TOMA DE MUESTRAS
+
+∘ Durante la recogida de muestras se extremarán las medidas dependiendo de la metodología y características locales, para evitar la propagación de aerosoles. 
+Es aconsejable disponer de una sala amplia y bien ventilada, en la que se pueda cumplir con las distancias de seguridad. Si la metodología lo permite, los pacientes pueden realizar el estudio en su domicilio, acudiendo previamente al Laboratorio de Motilidad para recibir el carbohidrato (en los test de hidrógeno) y ser instruidos en el muestreo. Al finalizar devolverán las muestras al Servicio para su posterior análisis.∘ Tras la recepción de las muestras debe asegurarse la estanqueidad del almacenaje y la seguridad del transporte hasta el laboratorio de análisis. 
+
+
+--- ¿CÓMO SE REALIZA EL PROCESAMIENTO DE LAS MUESTRAS ALMACENADAS
+
+∘ Se realizará la medición del aire espirado siguiendo el protocolo habitual. ∘ El material desechado debe ser depositado en un contenedor específico para el procesado de productos biológicos potencialmente contaminados. 
+
+
+--- ¿QUÉ MEDIDAS DE HIGIENE Y PROTECCIÓN DEBEN IMPLEMENTARSE PARA EL PERSONAL SANITARIO
+
+
+
+
+--- ¿CÓMO SE REALIZA LA LIMPIEZA Y DESINFECCIÓN DEL MATERIAL
+
+∘ Una vez finalizado el análisis, se tomarán las mismas medidas de desinfección recomendadas para las pruebas de motilidad. 
+Para la desinfección de los monitores portátiles y sus cánulas intermedias debe evitarse el empleo de alcohol porque daña el sensor. En este caso es aconsejable el uso de soluciones viricidas no alcohólicas o toallitas desinfectantes según especificaciones del fabricante.
+
+
+-- ESTUDIOS INSTRUMENTALES EN LA DISFAGIA OROFARÍNGEA
+
+∘ Poseen alto potencial de generación de aerosoles, por lo que se recomiendan las mismas medidas de protección que para los procedimientos de motilidad del tracto digestivo superior. 
+
+
+- FINANCIACIÓN
+
+La edición del presente manuscrito no ha recibido financiación externa.
+
+
+- DECLARACIÓN DE CONFLICTOS DE INTERESES
+
+Los autores declaran no tener conflictos de intereses para la redacción del presente manuscrito.

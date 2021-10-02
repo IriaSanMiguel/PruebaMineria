@@ -1,0 +1,61 @@
+EFECTOS DE LA IMPRESIÓN 3D EN LA PLANIFICACIÓN QUIRÚRGICA DE LAS CARDIOPATÍAS CONGÉNITAS
+
+
+- INTRODUCCIÓN
+
+Desde tiempos remotos se ha tratado de conocer el interior del cuerpo humano, pero sólo hasta la época de los griegos se realizaron las primeras disecciones basadas en el método científico. Leonardo Da Vinci mostró en 1501 una gran descripción de la anatomía cardíaca y los grandes vasos, bajo un orden científico, en su obra El corazón y sus vasos.
+Antes de la evolución de los métodos de imagen era necesario en algunas ocasiones abrir el cuerpo y explorarlo para establecer la causa de la enfermedad. Con la evolución de los métodos de imagen no invasivos se ha determinado la anatomía con mayor precisión.
+Los defectos cardíacos congénitos constituyen el 30% de todas las anomalías congénitas. La prevalencia es de 8/1,000 recién nacidos vivos, sin predominio de género. La evaluación precisa de la anatomía en las cardiopatías congénitas es esencial para establecer una planificación quirúrgica óptima. Las modalidades de imagen, como el ecocardiograma, la angiografía por cateterismo cardíaco, la tomografía computarizada (TC) o la resonancia magnética (RM), se utilizan de forma sistemática en esta indicación. Sin embargo, estos métodos pueden ser insuficientes para obtener imágenes exactas de las relaciones anatómicas cardiovasculares en las cardiopatías congénitas complejas.
+Tales métodos pueden proyectar reconstrucciones virtuales en reconstrucción volumétrica, pero sólo los modelos de corazón impresos en 3D basados en datos obtenidos por TC o RM permiten elaborar réplicas táctiles 3D reales de la anatomía cardíaca con el beneficio de la visualización detallada desde todas las perspectivas posibles,.
+Esta información es útil para tomar decisiones quirúrgicas e indicar el abordaje óptimo de cada paciente, sobre todo en presencia de alguna alteración compleja. Por lo tanto, el uso de modelos de corazón 3D hace posible detectar hallazgos inesperados, en particular en defectos cardíacos congénitos raros o complejos,.
+
+
+- MÉTODOS
+
+Se seleccionó a pacientes en quienes el equipo médico quirúrgico estableció la necesidad de precisar la anatomía para optimizar la planeación quirúrgica. El análisis por imagen de las cardiopatías congénitas se basó en el sistema secuencial segmentario, mediante cortes multiplanares , y para fines demostrativos se hicieron reconstrucciones volumétricas o 3D en sesiones médico-quirúrgicas y académicas.
+Las imágenes se obtuvieron de TC o RM y los datos de la imagen se almacenaron en formato DICOM. Se utilizaron los paquetes de software “3D slicer 4.3” y “Meshmixer” para procesar los datos DICOM, visualizar y editar las imágenes.
+El estudio se efectuó en un equipo de tomografía o resonancia magnética y se almacenó en un lenguaje DICOM. Para la edición de la imagen se seleccionó la región de interés (ROI) y se extrajeron los tejidos circundantes. Después de la extracción de la ROI, la superficie del modelo se editó y los datos se almacenaron en formato de archivo estereolitográfico con la impresión del modelo cardiológico. Los modelos se imprimieron en escala 1:1 o bien, para fines académicos o demostrativos, a mayor escala de la real en material rígido biopolimérico de maíz. Las impresoras utilizadas en estos modelos fueron Wanhao i3 y Wanhao 5s. El tiempo de impresión fue de 5 a 8 horas por pieza. El costo aproximado de cada impresión 3D fue de 7,000 pesos.
+
+
+- RESULTADOS
+
+Se analizaron los casos en los que el sitio de interés eran las estructuras vasculares extracardíacas y la anatomía intracardíaca.
+Paciente 1. Paciente masculino de 17 años con antecedente de cefalea y mareo de larga evolución. La exploración física reveló hipertensión arterial sistémica en miembros superiores y disminución de pulsos de miembros pélvicos. El ecocardiograma Doppler demostró aceleración del flujo en el arco aórtico distal, sin visualizar el sitio de mayor estrechez, indicativo de coartación aórtica. La tomografía computarizada mostró coartación aórtica inmediatamente distal a la arteria subclavia izquierda con dilatación de los vasos supraaórticos y circulación colateral notoria con medidas en límites normales del arco aórtico transverso . Ante el análisis de la coartación por tomografía y la pieza 3D, se indicó tratamiento intervencionista con colocación de stent desnudo.
+Paciente 2. Paciente femenino de 1 año de edad con diagnóstico de neumonía de la comunidad y extubación fallida. El ecocardiograma delineó tronco de la arteria pulmonar dilatado y ramas pulmonares no valorables. La tomografía computarizada demostró tronco de la arteria pulmonar dilatado con trayecto anterior y derecho con respecto a la tráquea y la arteria pulmonar izquierda rodeaba a la tráquea por detrás para formar un anillo vascular (cabestrillo [sling] pulmonar) con estenosis secundaria de la tráquea . La operación consistió en sección de la rama pulmonar izquierda y anastomosis de esta rama con el tronco de la arteria pulmonar, anterior a la tráquea.
+Paciente 3. Paciente masculino de 1 mes de edad con diagnóstico de tronco arterioso tipo 1, válvula del tronco tetravalva, tronco de la arteria pulmonar muy corto con emergencia inmediata de las ramas pulmonares, las cuales tenían un origen cruzado; el origen de la rama izquierda era superior en relación con el origen de la rama derecha; la rama izquierda se proyectaba en dirección recta hacia el hemitórax ipsolateral y la otra rama a la derecha en un plano posterior al tronco arterioso. La operación correctiva fue el cierre de la comunicación interventricular con parche de pericardio y re dirección del flujo del ventrículo derecho a las arterias pulmonares a través de un tubo de material sintético.
+Paciente 4. Paciente masculino de 12 años con diagnóstico de doble salida de ventrículo derecho con comunicación interventricular sin relación con los grandes vasos. El ecocardiograma, la angiografía invasiva y las imágenes multiplanares de la tomografía no permitieron definir la relación de la comunicación interventricular con los grandes vasos para la colocación del parche de cierre de la comunicación interventricular y redirección del flujo. La impresión de la pieza 3D a partir de la tomografía se revisó en sesión médico-quirúrgica y encontró que la comunicación interventricular estaba más relacionada con la aorta respecto de la arteria pulmonar.
+Paciente 5. Paciente masculino de 10 años con diagnóstico de doble salida del ventrículo derecho no relacionada. Aun con la falta de relación, la aorta se encontraba más cercana a la comunicación interventricular. Sin embargo, la angiografía invasiva señaló que el flujo propendía hacia la arteria pulmonar. La pieza de impresión 3D se obtuvo a partir de imágenes de resonancia magnética. Se observó mayor relación de la comunicación interventricular con la aorta con presencia de músculo infundibular subaórtico, motivo por el cual se restringía el flujo a la aorta y se favorecía el flujo a la arteria pulmonar. En la planeación quirúrgica se decidió cerrar la comunicación interventricular con parche de pericardio y dirigir el flujo del ventrículo izquierdo a la aorta. Se colocó un tubo con válvula del ventrículo derecho con anastomosis al tronco de la arteria pulmonar.
+
+
+- DISCUSIÓN
+
+Las impresoras 3D pueden producir copias idénticas o a escala del corazón y los grandes vasos a partir de los datos obtenidos de la tomografía o la resonancia magnética. Los pacientes con cardiopatía congénita con relaciones anatómicas espaciales complejas son los más indicados para la impresión 3D, a partir de las imágenes obtenidas.
+El uso de las piezas impresas en 3D demuestra una mejor orientación espacial de la anatomía y facilita los procedimientos quirúrgicos o de intervención y modifican el acortamiento del tiempo quirúrgico, y la morbilidad y mortalidad de los pacientes. Para determinar la anatomía intracardíaca, la impresión 3D ha demostrado un beneficio sobre todo en las cardiopatías estructurales del tronco cono, como la doble salida del ventrículo derecho, en la cual la comprensión precisa de la anatomía y las relaciones estructurales refleja el éxito de la reparación, por ejemplo, la relación de la comunicación interventricular con los grandes vasos (comunicación subpulmonar, comunicación subaórtica y no relacionada o doblemente relacionada),.
+Los modelos impresos en 3D de las anomalías cardiovasculares también se pueden utilizar como una herramienta de enseñanza invaluable para cardiólogos pediatras y cirujanos en formación y estudiantes de medicina, ya que alguna alteración estructural rara se puede reproducir y distribuir en distintos centros del país.
+También es de gran utilidad en la corrección de alteraciones del arco aórtico, las cuales pueden ocasionar obstrucción de los vasos supraaórticos al introducir un stent. Las impresiones 3D del arco aórtico permiten medir el tamaño, la longitud y el sitio de liberación del stent. Los modelos pueden ser radiopacos y verse en fluoroscopia sin la necesidad de usar material de contraste, de tal modo que puede medirse bajo el método utilizado para la colocación in vivo del stent.
+Se pueden elaborar modelos con materiales flexibles, con diferentes texturas para replicar aparatos valvulares, para procedimientos percutáneos, con flexibilidad aproximada a la del aparato valvular real, lo que reduce las complicaciones al elegir la técnica y el material ideal para el procedimiento, con ensayo y error en el modelo impreso en 3D. En el futuro se mejorará el material para reproducir con mayor precisión la textura de las válvulas normales y enfermas, así como las cuerdas tendinosas y las zonas de mayor dureza, lo que mejorará la efectividad del procedimiento.
+La impresión 3D y el renderizado 3D son herramientas útiles para la comprensión de las cardiopatías congénitas. Sin embargo, esta modalidad tiene algunas limitantes relacionadas con la subjetividad en las que se percibe la cardiopatía congénita al momento del modelado, por lo que en la actualidad sólo se recomienda como una herramienta auxiliar para tomar decisiones quirúrgicas; aún es necesario mejorar las técnicas de adquisición, proceso y manipulación 3D para avanzar y convertirla en la única herramienta diagnóstica y terapéutica. Es preciso conducir otros estudios para aportar más evidencia clínica de la efectividad de la impresión 3D y convertir a este método en el principal para tomar decisiones terapéuticas.
+
+
+- CONCLUSIONES
+
+La impresión 3D es un método eficaz para el estudio de las cardiopatías congénitas. El cerebro está adaptado para reconocer y desplazarse en un espacio tridimensional. En cambio, los ojos se encuentran en desventaja al explorar un cuerpo en dos dimensiones, esto es, una reconstrucción multiplanar y deben esforzarse más para convertir las imágenes 2D en una imagen tridimensional en la mente. Ante un modelo 3D, que delinee las relaciones anatómicas y distancias, es posible mejorar el conocimiento sobre la estructura y un abordaje terapéutico más acertado.
+La impresión 3D tiene notables efectos en la planeación correctiva de las cardiopatías congénitas, dado que permite conocer las relaciones anatómicas con mayor precisión que el método 2D.
+Es recomendable continuar los estudios de impresión 3D, para acumular más evidencia clínica de la efectividad de este método y transformarlo en la principal herramienta para las indicaciones terapéuticas.
+
+
+- FINANCIAMIENTO
+
+Esta investigación no ha recibido ayuda específica proveniente de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+Protección de personas y animales. Los autores declaran que los procedimientos seguidos se ajustaron a las normas éticas del comité de experimentación humana responsable y de acuerdo con la Asociación Médica Mundial y la Declaración de Helsinki.
+Confidencialidad de los datos. Los autores declaran que han seguido los protocolos de su centro de trabajo sobre la publicación de datos de pacientes.
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.

@@ -1,0 +1,120 @@
+MANIFESTACIONES EXTRATORÁCICAS DE LA COVID-19 EN ADULTOS Y PRESENTACIÓN DE LA ENFERMEDAD EN NIÑOS
+
+
+- INTRODUCCIÓN
+
+La afectación pulmonar es la principal manifestación de la COVID-19; sin embargo, la infección por SARS-CoV-2 no se limita al aparato respiratorio, sino que pueden verse afectados otros órganos, a veces de forma dominante. En este artículo se hará una revisión de los conocimientos que se tienen hasta el momento sobre el daño extratorácico por COVID-19. En la segunda parte se repasarán las manifestaciones de la enfermedad en niños.
+
+
+- IMAGEN DE LAS MANIFESTACIONES EXTRATORÁCICAS DE LA COVID-19 EN ADULTOS
+
+Aunque la literatura científica es creciente, las evidencias acerca de las manifestaciones extratorácicas se basan en parte en conjeturas clínicas y comunicación de casos o datos post mortem, y en muchos órganos resulta difícil diferenciar las alteraciones debidas al propio virus de los fenómenos trombóticos y del cuadro de activación inmunitaria y shock secundario que conducen a la muerte, , . Esto impide extraer conclusiones definitivas acerca de la verdadera prevalencia de afectación extrapulmonar por el virus y, por tanto, de sus manifestaciones radiológicas.
+Se han postulado diversos mecanismos fisiopatológicos responsables de la afectación extratorácica por la COVID-19. Valdés et al. exponen un esquema de estos mecanismos. La existencia de receptores ECA-2 (por los que el virus SARS-CoV-2 tiene gran afinidad) en las células de los diferentes órganos sugeriría un daño directo por el virus, aunque su demostración anatomopatológica todavía está poco reportada, , . Por ello y por la aparición tardía y en pacientes más graves de algunos de estos síntomas, la fisiopatogenia de estas manifestaciones se ha relacionado también con una exagerada respuesta inmunitaria sistémica, hipoxia, coagulopatía, afectación vascular multifactorial e incluso toxicidad farmacológica.
+Las principales manifestaciones extrapulmonares que se describen son hematológicas, neurológicas, cardíacas, gastrointestinales, hepáticas, renales, cutáneas y oculares, .
+
+
+- MANIFESTACIONES HEMATOLÓGICAS Y DE LABORATORIO
+
+Hay numerosas alteraciones analíticas en la COVID-19 que se relacionan con el pronóstico de la enfermedad, y que traducen en muchos casos ese estado de activación del sistema inmunitario y de shock. Entre ellas destacan por su trascendencia las alteraciones de la coagulación, que clínicamente se manifiestan como un aumento de la incidencia de fenómenos trombóticos a múltiples niveles tanto en forma de enfermedad tromboembólica venosa como trombosis arterial y venosa en cualquier localización, evidenciándose por imagen tanto los propios trombos como las lesiones isquémicas viscerales secundarias (fig. 1 ), constituyendo un hallazgo autópsico frecuente, . En la COVID-19 existe un aumento en la incidencia de este tipo de eventos frente a las causadas por otros virus, tanto en pacientes graves como en no hospitalizados, siendo una de las principales causas por las que estos pacientes tienen que ser valorados con pruebas de imagen.Figura 1
+
+
+- MANIFESTACIONES NEUROLÓGICAS
+
+Las manifestaciones neurológicas derivadas de la infección aguda por la COVID-19 resultan especialmente relevantes por su frecuencia, relativa especificidad y gravedad, y porque se traducen en alteraciones en estudios neurorradiológicos. Su fisiopatología no es bien conocida. Se han postulado tres mecanismos principales con probable efecto sinérgico, : a) daño neuronal directo del virus, b) efecto desmielinizante de origen autoinmune para- o postinfeccioso secundario a la hiperrespuesta inflamatoria y c) lesión del endotelio vascular. No obstante, hay otras circunstancias concurrentes, habituales en el paciente crítico, que también podrían contribuir (fig. 2 ).Figura 2
+Clínicamente se manifiestan con anosmia, ageusia, mialgia, cefalea, mareo, disautonomía, focalidad por episodios cerebrovasculares, crisis convulsivas y encefalopatía, , presentes entre el 36% y el 50% de pacientes con infección aguda por COVID-19 que ingresan en centros hospitalarios. De estos, entre el 21% y el 60%, muestran alteraciones en tomografía computarizada (TC) y/o resonancia magnética (RM), que alcanzan el 84% en pacientes ingresados en la unidad de cuidados intensivos (UCI). La incidencia podría ser aún mayor, dada la dificultad para la exploración y para realizar pruebas de imagen (aislamiento, agitación, traslado dificultoso) en estos pacientes. Por ello, las pruebas de neuroimagen están indicadas ante síntomas neurológicos o psiquiátricos nuevos, salvo en síntomas leves característicos del cuadro clínico (ageusia y anosmia). La TC es de elección ante la sospecha de lesiones cerebrovasculares, que serán en su mayoría ictus isquémicos. Si persiste la sospecha clínica y la TC es negativa, puede realizarse un protocolo abreviado de RM, con secuencias ponderadas en T1, T2-FLAIR y difusión, y secuencias T1 con contraste si se sospecha meningitis o encefalitis.
+El espectro de manifestaciones neurorradiológicas es amplio, con patrones en ocasiones difícilmente clasificables:
+En los estudios neurorradiológicos se manifiestan como infartos agudos/subagudos, multiterritoriales , y por hipoperfusión, con desarrollo de infartos en territorio frontera. El origen más frecuente es el criptogenético (52%), seguido del cardioembólico (25%).b)Lesiones no isquémicas: Figura 3Figura 4
+
+
+ii.Lesiones en localizaciones específicas:
+
+
+
+d)Otras lesiones:
+
+e)Lesiones extraaxiales:
+
+
+
+
+
+
+
+- MANIFESTACIONES CARDÍACAS
+
+En los pacientes con infección por SARS-CoV-2 se ha descrito una incidencia de afectación cardíaca entre el 7% y el 30%, y mayor en pacientes de UCI y con factores de riesgo cardiovascular (55%) (FRCV), . Sin embargo, puede darse con síntomas respiratorios leves. Las cifras elevadas de dímero D, troponina y la existencia de FRCV se han asociado con mortalidad mayor. Aunque el mecanismo lesional se desconoce, se cree que es multifactorial, con posible efecto directo del virus, así como del desequilibrio entre las necesidades y aportes de oxígeno al miocardio, trombosis en arterias coronarias, reacción inmune sistémica y efecto de los tratamientos administrados. El infarto agudo de miocardio es una de las manifestaciones más frecuentes, siendo otras la miocardiopatía de estrés, miocarditis, pericarditis, arritmias, shock cardiogénico, además de los fenómenos tromboembólicos multiterritoriales. La mejor técnica para evaluar los efectos cardíacos es la RM.
+
+
+- MANIFESTACIONES HEPÁTICAS Y DEL SISTEMA DIGESTIVO
+
+Los síntomas abdominales no son excepcionales en la COVID-19, describiéndose diarrea, vómitos y dolor abdominal, en ocasiones como únicos síntomas. Por ese motivo, resulta de enorme interés clínico el hallazgo de lesiones en las bases pulmonares sugestivas de COVID-19 en estudios de TC abdominal realizados a pacientes con clínica abdominal y sin sospecha de la enfermedad.
+Las alteraciones en la bioquímica hepática son frecuentes en pacientes con COVID-19 y se relacionan con las formas más graves de la enfermedad y los tratamientos administrados. Sus manifestaciones radiológicas pueden ser inespecíficas, como la presencia de edema periportal, alteración difusa del hígado o esteatosis, . Un estudio describe la presencia de distensión y barro vesicular debido a colestasis en el 54% de los pacientes estudiados, más frecuentemente en enfermos en cuidados intensivos.
+Las manifestaciones radiológicas de la afectación intestinal descritas son el engrosamiento y realce de la pared intestinal tanto colorrectal como del intestino delgado, , , y la presencia de neumatosis y gas portal (en el 20% de los ingresados en UCI estudiados por imagen) que se relacionó con isquemia en la laparotomía.
+También se ha encontrado asociación de COVID-19 y pancreatitis aguda, así como esplenomegalia e infartos esplénicos (fig. 1B) en un pequeño porcentaje de enfermos.
+
+
+- MANIFESTACIONES RENALES Y GENITOURINARIAS
+
+Se han descrito alteraciones renales frecuentes en COVID-19, manifestándose principalmente con insuficiencia renal, con una etiología habitualmente multifactorial que incluye la propia afectación por el virus, el cuadro inflamatorio sistémico y las alteraciones de la coagulación y en algunos casos secundarias a rabdomiólisis, , , y que se asocian con mayor gravedad y mortalidad de la infección.
+No se han publicado series amplias de la valoración ecográfica de estos pacientes, aunque son esperables un aumento de la ecogenicidad y la alteración de la diferenciación corticomedular, .
+En la TC sin contraste se puede identificar disminución de la atenuación del parénquima renal y alteraciones de la grasa perirrenal que se correlacionan con la alteración de los niveles de creatinina, y en los estudios con contraste se describen infartos renales (hasta en el 20% en una serie) y se puede demostrar disminución de la perfusión renal, hallazgo que puede incluso preceder a la alteración de la función renal.
+La pared vesical puede estar engrosada o mostrar signos de cistitis.
+Finalmente, en el espectro de lesiones genitourinarias se observa asociación de COVID-19 con dolor testicular y casos de orquitis en relación con la infección.
+
+
+- ALTERACIONES MUSCULOESQUELÉTICAS
+
+La afectación del sistema musculoesquelético que requiera ser evaluada por imagen es infrecuente, a pesar de que las mialgias y las artralgias son un síntoma muy frecuente. Se han descrito miositis y rabdomiólisis que se manifiestan como edema en las diferentes técnicas de imagen, que en casos avanzados pueden conducir a necrosis. La artritis por el virus es infrecuente, aunque se ha descrito también el desencadenamiento de alguna enfermedad reumatológica por la enfermedad. Por último, pueden presentarse lesiones de origen vascular en las partes blandas, tanto por trombosis con gangrena como complicaciones hemorrágicas; entre ellas destacan los hematomas de los rectos y una localización inusual, pero que puede ser característica de estos pacientes, que son los hematomas de los músculos iliopsoas, descritos en una serie hasta en 7,8 por cada 1000 hospitalizados.
+
+
+- MANIFESTACIONES CUTÁNEAS Y OCULARES
+
+Incluyen sabañones, erupción eritematosa, exantema viral y urticaria generalizada, habitualmente autolimitadas. Su interés radica en que constituyen un marcador de la infección, siendo a veces su única manifestación. Las manifestaciones oculares más frecuentes son dolor, secreción, enrojecimiento y conjuntivitis folicular.
+
+
+- IMAGEN DE LA AFECTACIÓN POR COVID-19 EN NIÑOS
+
+La infección por SARS-CoV-2 puede afectar a niños de todas las edades, con manifestaciones clínicas menos graves que en los adultos, , . Fiebre, tos y disnea son los síntomas más frecuentes, siendo los síntomas gastrointestinales, la rinorrea, el dolor torácico o la cefalea menos comunes, . Se ha descrito la transmisión perinatal materna, que se traduce en una enfermedad asintomática o leve en los recién nacidos.
+
+
+- AFECTACIÓN PULMONAR PEDIÁTRICA
+
+Hasta la fecha hay pocos estudios sobre el diagnóstico por imagen de la COVID-19 en edad pediátrica. En un estudio con 91 casos confirmados, el hallazgo más frecuente en la radiografía de tórax fue el engrosamiento de la pared peribronquial/perihiliar. Los niños que tienen una evolución más grave y requieren ingreso en UCI muestran opacidades en vidrio deslustrado y consolidaciones multifocales bilaterales en la radiografía de tórax.
+El hallazgo radiológico más frecuente en TC son las opacidades en vidrio deslustrado, visibles entre el 62% y el 81% de los casos, afectando predominantemente a los lóbulos inferiores. Las consolidaciones, las lesiones intersticiales y el patrón en árbol en brote también han sido descritos, . El engrosamiento de la pared peribronquial/perihiliar y el signo del “halo” (fig. 10 ), definido como un área de consolidación rodeado de un anillo de opacidad en vidrio deslustrado, son más frecuentes en niños que adultos con COVID-19. Las adenopatías, la cavitación y el derrame pleural son raros en esta enfermedad. La mayoría de los casos en los que se obtuvieron estudios de seguimiento mostraron mejoría radiológica.Figura 10
+Los estudios realizados hasta la fecha han mostrado que los hallazgos de imagen de la infección por SARS-CoV-2 en niños son inespecíficos, sin poder distinguir esta infección de otras enfermedades virales ni bacterianas de la vía aérea.
+Dada la ausencia de hallazgos o su poca especificidad en la radiografía y la TC de tórax, es poco probable que la imagen apoye o descarte el diagnóstico de sospecha o cambie el manejo clínico. Por lo tanto, no se recomienda hacer estudios de imagen para el cribado de la infección por SARS-CoV-2 en la edad pediátrica. Si clínicamente se considera indicado, la radiografía debe ser la primera prueba de imagen..La TC debe reservarse para casos en los que se sospechen complicaciones, en particular en niños con otras patologías asociadas . La ecografía puede tener un papel en el seguimiento de la COVID-19 en las UCI pediátricas, pero no se recomienda de rutina por el riesgo al que se expone el personal sanitario. En edad pediátrica no se recomienda el uso de informes estandarizados que sugieran o descarten la presencia de esta infección.
+
+
+- AFECTACIÓN NEUROLÓGICA PEDIÁTRICA
+
+Los hallazgos de neuroimagen más frecuentemente encontrados en niños con afectación neurológica asociada a infección por SARS-CoV-2 fueron patrones similares a la encefalomielitis diseminada aguda, focos de mielitis y realce neural. Las complicaciones neurovasculares son menos frecuentes que en adultos y la mayoría de estos pacientes evolucionan favorablemente.
+
+
+- AFECTACIÓN ABDOMINAL PEDIÁTRICA
+
+Hay poca bibliografía referente a patología abdominal asociada a la infección por SARS-CoV-2, siendo más frecuentemente descrita asociada al síndrome inflamatorio multisistémico pediátrico temporalmente asociado con SARS-CoV-2. Dolor abdominal, vómitos y diarrea pueden ser síntomas de presentación de esta infección en la edad pediátrica. Los hallazgos más frecuentemente encontrados en niños que requirieron pruebas de imagen fueron cambios inflamatorios en el íleon terminal, ligera cantidad de ascitis y adenopatías mesentéricas.
+
+
+- SÍNDROME INFLAMATORIO MULTISISTÉMICO PEDIÁTRICO TEMPORALMENTE ASOCIADO CON SARS-COV-2
+
+En abril de 2020, pediatras de Inglaterra y Estados Unidos detectaron un aumento de casos con características similares al shock séptico, con signos de miocarditis y síntomas parecidos a la enfermedad de Kawasaki y sugirieron una posible relación con la infección por SARS-CoV-2, . Desde entonces se han descrito más de mil casos en centros de todo el mundo, .
+El diagnóstico del síndrome inflamatorio multisistémico pediátrico (MIS-C ) que se ha asociado con la infección por SARS-CoV-2 es complejo y multidisciplinar. Requiere elevación de los marcadores bioquímicos de inflamación, ausencia de otra causa infecciosa, signos de disfunción orgánica (p. ej., hipotensión, shock o disfunción miocárdica) y que se dé en regiones con alta prevalencia de infección por SARS-CoV-2, . Las formas de presentación más frecuentes son fiebre, síntomas gastrointestinales, exantema cutáneo y conjuntivitis. Muchos de los niños muestran hallazgos de imagen y laboratorio sugestivos de afectación cardiaca, con un deterioro clínico que requiere ingreso en la UCI. Los síntomas respiratorios al inicio son infrecuentes y sugieren infección pulmonar aguda por SARS-CoV-2.
+La fisiopatología de esta enfermedad parece relacionada con una reacción inmunológica posviral tardía mediada por citoquinas, más que a un ataque directo del virus a los órganos. Por lo tanto, los estudios de serología deben presentar aumento de la inmunoglobulina G con RT-PCR negativa.
+Los hallazgos más frecuentes en la radiografía y TC de tórax son signos de congestión venosa pulmonar y de un proceso inflamatorio pulmonar agudo, que van desde una afectación leve a signos de síndrome de distrés respiratorio agudo (fig. 11 A). Cardiomegalia, engrosamiento peribronquial/perihiliar bilateral, opacidades perihiliares en vidrio deslustrado o consolidaciones son algunos de los hallazgos radiológicos más frecuentes.Figura 11
+Mediante ecocardiografía y RM se detectaron signos de disfunción del ventrículo izquierdo, con disminución de la fracción de eyección y en algunos casos, derrame pericárdico, . La RM cardiaca es útil en este escenario para detectar edema, fibrosis/isquemia del miocardio y, en un algún caso, dilatación de las arterias coronarias. El patrón de la imagen de esta enfermedad se asemeja más a una miocarditis (edema y derrame pericárdico) (fig. 11B) que a la enfermedad de Kawasaki (aneurismas).
+Esta patología también puede afectar al tracto gastrointestinal, y los hallazgos más frecuentes son inflamación del íleon terminal y ligera ascitis (fig. 11C). Hepatomegalia, esplenomegalia, infartos de los órganos sólidos abdominales, edema perivesicular/periportal, aumento de la ecogenicidad de la corteza renal y adenopatías son también hallazgos comunes, . La afectación del sistema nervioso central es posible en esta enfermedad, mostrando focos de restricción de la difusión en el cuerpo calloso y realce leptomeníngeo en la imagen en RM81.
+
+
+- CONCLUSIÓN
+
+Conocer las manifestaciones en pruebas de imagen de las alteraciones neurológicas, vasculares, gastrointestinales, genitourinarias y cutáneas de la infección por el virus SARS-CoV-2 en el adulto, así como la expresión de la enfermedad en niños, será primordial para mejorar el manejo. El daño multiorgánico de la COVID-19 sugiere una fisiopatogenia compleja, multifactorial y poco conocida, y conlleva una elevada morbimortalidad. Las manifestaciones neurológicas y cutáneas pueden aumentar la especificidad de nuestro diagnóstico, y las complicaciones trombóticas, por su gravedad y frecuencia, determinan especialmente el pronóstico.
+
+
+- AUTORÍA
+
+1.Responsable de la integridad del estudio: JMPM.2.Concepción del estudio: JJAJ.3.Diseño del estudio: JJAJ. JMPM.4.Obtención de los datos: N/A.5.Análisis e interpretación de los datos: N/A.6.Tratamiento estadístico: N/A.7.Búsqueda bibliográfica: JMPM, AR, PCD, IB, EGG, JJAJ.8.Redacción del trabajo: JMPM, AR, PCD, IB, EGG, JJAJ.9.Revisión crítica del manuscrito con aportaciones intelectualmente relevantes: JMPM, AR, PCD, IB, EGG, JJAJ.10.Aprobación de la versión final: JMPM, AR, PCD, IB, EGG, JJAJ.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

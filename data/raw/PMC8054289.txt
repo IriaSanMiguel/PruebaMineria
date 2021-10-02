@@ -1,0 +1,75 @@
+EVENTOS ADVERSOS EVITABLES EN ATENCIÓN PRIMARIA. ESTUDIO RETROSPECTIVO DE COHORTES PARA DETERMINAR SU FRECUENCIA Y GRAVEDAD
+
+
+- INTRODUCCIÓN
+
+En 2006 la Organización Mundial de la Salud puso en marcha la Alianza por la Seguridad de los Pacientes a la que, rápidamente, se sumaron, como hizo España, un buen número de países en todo el mundo. La extensión de las denominadas prácticas seguras y la promoción de una cultura proactiva de seguridad han perseguido reducir el número de eventos adversos (EA), .
+Una forma de comprobar si este compromiso por la seguridad alcanza sus objetivos es medir la frecuencia de EA. Recientes estudios han puesto de manifiesto que, en estos años, no se ha logrado una reducción significativa de su número, , . Esto puede ser debido, en parte, a que ahora medimos con mayor exhaustividad que hace unos años, a que somos más conscientes del problema y, también, a que comprendemos mejor la naturaleza de los EA, incluidos los que tienen causas más complejas de detectar (por ejemplo, evolución tórpida de un paciente diabético tras muchos años con un inadecuado seguimiento de la hemoglobina glucosilada, HbA1c).
+En atención primaria (AP) un 12,6% de los pacientes (rango entre 2,3 y un 26,5%) sufrieron un incidente de seguridad (que podría haber causado o que le causó daño). La incidencia de EA por 1000 consultas osciló en un rango entre 2,1 y 6,0%, con mayor riesgo a partir de los 65 años, , , , , . En España, se ha calculado que se producían 10,6 EA anualmente por cada médico de familia; el 17,6% de los pacientes adultos y el 13,7% de los pediátricos han informado sufrir un EA; y el estudio APEAS (Estudio de la Seguridad de los Pacientes en atención primaria de Salud) encontró un EA cada 10 consultas (incidencia 11,18 por mil), el 70% evitables. Al extrapolar estos datos se llegaba a la conclusión de que cada médico de familia se veía implicado en 6 EA cada año. En nuestro país no se ha vuelto a medir la frecuencia de EA en este nivel asistencial. El objetivo de este estudio fue determinar la frecuencia de eventos adversos evitables (EAE) en AP.
+
+
+- MATERIAL Y MÉTODOS
+
+Entre abril y septiembre de 2019 se llevó a cabo un estudio retrospectivo de cohortes en el que un total de 25 profesionales (20 médicos de familia y 5 pediatras) revisaron una selección aleatoria de historias clínicas electrónicas de pacientes atendidos en AP en centros de salud de Andalucía, Aragón, Castilla La Mancha, Cataluña, Madrid, Navarra y Comunidad Valenciana. La guía STROBE para estudios de cohortes se adoptó como referencia para este estudio.
+
+
+-- DEFINICIONES
+
+EA fue definido como daño inesperado e involuntario que sufre un paciente en el curso de la atención que recibe y que no guarda relación con su enfermedad de base.
+EAE es aquel que ocurre como resultado de una causa identificable y modificable o bien cuando el daño podría prevenirse con cambios en el proceso asistencial y el seguimiento de guías de práctica o de las recomendaciones No Hacer elaboradas por las sociedades científicas.
+
+
+-- PERÍODO DE REVISIÓN
+
+En la revisión de historias clínicas se contabilizó la ocurrencia de nuevos EAE ocurridos en el período desde el 1 de febrero de 2018 hasta el momento de realizar la revisión y codificación de datos (septiembre de 2019).
+
+
+-- TAMAÑO MUESTRAL
+
+Para un nivel de confianza del 95% y una precisión (error esperado) del 2%, se consideró necesario revisar un mínimo de 2397 historias clínicas. La muestra se estratificó, considerando la frecuentación por grupos de edad de la siguiente forma: 30-45 años (11,0%), 46-64 (13,0%), 65-74 (52,6%), 75-80 (14,3%) y > 80 años (9,1%) en personas adultas y 3-12 meses (35,2%), 2-5 años (35,2%) y 6-12 (29,6%) en menores. En todos los grupos de edad la selección de historias de hombres/niños y mujeres/niñas fue paritaria.
+
+
+-- PROCEDIMIENTO
+
+La revisión se apoyó en una herramienta online tipo “trigger tool” que focalizaba la atención del revisor en daños evitables en tratamientos y procedimientos frecuentes en AP, en consonancia con la recomendación de Amalberti et al, identificando el tipo de daño que podría producirse. Esta herramienta se elaboró siguiendo las recomendaciones del Institute for Healthcare Improvement (IHI) “Global Trigger Tool for Measuring Adverse Events” por consenso entre 25 profesionales de AP. Para cada EAE identificado se especificaba una breve descripción del mismo, la naturaleza del daño (relacionado con la asistencia sanitaria, con procedimientos y cuidados, con la medicación u otros) y su gravedad.
+La gravedad del EAE para el paciente se valoró por los revisores en una escala adaptada de Woods et al, de 8 pasos (0: sin daño, 1: daño emocional, 2: daño físico insignificante, 3: daño leve temporal, 4: daño grave temporal, 5: daño leve permanente, 6: daño grave permanente, and 7: muerte). Se han registrado como EAE aquellos incidentes valorados con valores de 3 o superior.
+Se controló el grado de acuerdo (Kappa de Cohen) entre revisores en una selección aleatoria de historias clínicas. En cada nodo del estudio los revisores contaron con una coordinadora que, en los casos dudosos, consensuó con el revisor cómo codificar la información.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se estimaron las frecuencias absolutas de EAE por cada 100 historias clínicas de pacientes del médico de familia o del pediatra. Se calcularon la tasa cruda y, considerando las diferencias en frecuentación de hombre y mujeres, la tasa ajustada por grupos de edad y sexo utilizando como población de referencia los datos de frecuentación de 2018, aportados por la aplicación Interactiva del sistema de Información de Atención Primaria (SIAP) del Ministerio de Sanidad Consumo y Bienestar Social. Se aplicó Chi-Cuadrado con corrección de Yates para comparar la frecuencia de EAE entre hombres/niños y mujeres/niñas y la prueba de Cochran-Mantel-Haenszel para analizar las diferencias en la tasa ajustada entre ambos sexos.
+
+
+-- ÉTICA INVESTIGACIÓN
+
+Este estudio fue aprobado por el Comité Ético de Investigación Clínica Corporativo de Atención Primaria de la Comunidad Valenciana, la Comisión Central de Investigación de la Gerencia Asistencial de Atención Primaria de Madrid y el Comité de Ética de la Investigación con Medicamentos del Gobierno de Navarra. La Agencia Española del Medicamento y Productos Sanitarios (AEMPS) clasificó este estudio como Observacional No Postautorización (No-EPA).
+
+
+- RESULTADOS
+
+Se revisó un total de 2557 historias clínicas (1928, 75,4%, de pacientes adultos y 629, 24,6%, pediátricos) . El rango de historias clínicas revisadas por cada revisor osciló entre 77 y 154. En total se identificaron 215 incidentes, 175 en pacientes adultos y 40 en pediátricos. De estos incidentes 32 fueron clasificados como causantes de daño emocional o insignificante y no se incluyeron en el análisis. En el análisis de la concordancia entre pares, al comparar el resultado de la revisión de las mismas historias clínicas, se observó que solo en un caso el grado de acuerdo fue sustancial (Kappa > 0,60) y, en el resto, fue casi perfecto (Kappa > 0,80).
+
+
+-- FRECUENCIA DE EAE
+
+En total se registraron 182 EAE que afectaron a 168 pacientes, 134 pacientes adultos y 34 pediátricos. 12 pacientes sufrieron más de un EA. La frecuencia de EAE, en el conjunto del período de dos años, por paciente con historia clínica abierta en AP fue del 7,1% (IC 95% 6,1%-8,1%). En el caso de pacientes adultos 7,6% (IC 95% 6,4-8,8%) y del 5,7% (IC 95% 3,9-7,5%) en pacientes pediátricos. El número de EAE fue menor en hombres (tasa cruda 5,8% IC95% 4,3-7,4%; tasa ajustada 4,3%, IC 95% 3,9-4,7%) que en mujeres (tasa cruda 9,2% IC95% 7,4-10,9%; tasa ajustada 6,9%, IC 95% 6,4-7,4%) (tasa cruda Chi2 = 8,1, p = 0,004; tasa ajustada Chi2 = 59,8, p < 0,0001). La frecuencia de EAE en niños (tasa cruda 6,7 IC95% 4,0-9,5) y niñas (tasa cruda 4,7% IC95% 2,4-7,1) fue similar (p = 0,3) . La frecuencia de EAE se incrementó paulatinamente conforme el paciente era de mayor edad, pasando del 1% a los 30-45 años al 15,5% entre los mayores de 80 años . Esta tendencia se observó tanto en hombres como en mujeres.
+
+
+-- GRAVEDAD Y NATURALEZA DE LOS EAE
+
+La mayoría de los EAE fueron leves y sin consecuencias permanentes, tanto en pacientes adultos (95, 65,1%), como pediátricos (36, 100%, 21 en chicos y 15 en chicas). La gravedad de los EAE fue similar entre hombres y mujeres. 27 (18,5%) EAE supusieron un daño grave en pacientes adultos, de los cuales 6 (4,1%) fueron permanentes . En proporción este dato supone que 1 de cada 24 EAE fue grave permanente en el caso de pacientes adultos.
+Tanto en medicina de familia como en pediatría, la mayoría de los EAE identificados estuvieron relacionados con la medicación, siendo menos frecuentes los derivados de procedimientos y la asistencia sanitaria .
+
+
+- DISCUSIÓN
+
+Estos resultados ponen de manifiesto que la reducción de EAE en AP debe seguir siendo uno de los objetivos de las actuaciones de gestores y clínicos, también en pediatría. El hecho de que el daño que ocasionan sea leve en la mayoría de los casos, en consonancia con lo apuntado por otros estudios, , no debe hacernos perder de vista que, uno de cada 22 EAE ha supuesto que el paciente adulto sufra un daño grave y permanente que debería haberse evitado.
+Mientras que se confirma que el riesgo de sufrir un EAE aumenta conforme se incrementa la edad del paciente, , , , sorprende que las mujeres tengan un mayor riesgo de sufrir un EAE que los hombres. Este hecho invita a analizar, desde una perspectiva de género, cómo estilos de práctica profesional en AP inciden en la seguridad, aspecto hasta ahora poco estudiado.
+El estudio APEAS se realizó en un entorno muy distinto al actual, consideró tanto EA evitables como no evitables y analizó lo que ocurría en consultas. En este estudio, en cambio, la población se ha estructurado considerando su frecuentación, lo que ha sobrerrepresentado el número de pacientes de mayor edad, precisamente los de mayor riesgo de sufrir un EA. Además, se han empleado “triggers” que dirigían la búsqueda de información en las historias. Con estas restricciones en la comparación, podemos considerar que si la frecuentación por paciente en 2018 fue de 4,81 visitas año (lo que supone 7,2 visitas en 18 meses), la frecuencia de EAE por consulta que se deduce de este estudio oscilaría alrededor del 9,86‰, superior a la de EAE encontrados en el estudio APEAS (7,83‰) y a las cifras aportadas por la revisión de Panagioti et al de frecuencia de EAE en AP. Esta diferencia se explicaría por una combinación de causas. Primero, porque las cifras aportadas por APEAS y otros estudios similares reflejaban, muy probablemente, la “punta del iceberg” de la frecuencia de los incidentes para la seguridad. Segundo, porque los “triggers” empleados han probablemente contribuido a un mayor registro de incidentes. Tercero, porque las intervenciones para incrementar la seguridad de los pacientes no han sido suficientemente efectivas.
+Limitaciones. El diseño del estudio se centró en situaciones clínicas que sabemos suponen un mayor riesgo de incidentes de seguridad. Se han empleado “triggers” por lo que pueden existir otros incidentes con daño no explorados y, por tanto, no registrados. La calidad del registro de información en la historia clínica condiciona los resultados. Este aspecto no ha sido controlado.
+
+
+- FINANCIACIÓN
+
+Este estudio ha sido financiado por el Instituto de Salud Carlos III y por Fondos FEDER, convocatoria de la Acción Estratégica en Salud [referencia PI16/00816].

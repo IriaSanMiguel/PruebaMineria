@@ -1,0 +1,97 @@
+FACTORES ASOCIADOS A LA ADHERENCIA EN EL TRATAMIENTO DE LA INFECCIÓN TUBERCULOSA
+
+
+- INTRODUCCIÓN
+
+La tuberculosis (TB) sigue siendo un problema de salud pública mundial, . Se estima que alrededor de un tercio de la población mundial tiene infección tuberculosa latente (ITL) y una proporción elevada de ellos puede pasar a enfermedad activa, incluso años después de contraer la infección, . Por ello, el diagnóstico y tratamiento precoz de los contactos con infección tuberculosa (IT) en el entorno de un caso índice de tuberculosis es una medida a implantar en la prevención y el control de la TB, , .
+El tratamiento de la infección tuberculosa (TIT) ha sido un componente clave en el control de la tuberculosis en los países de baja prevalencia durante décadas, ; está indicado en personas infectadas con mayor riesgo de desarrollar tuberculosis y tiene como objetivo primordial evitar la progresión de la infección a enfermedad, , , , , , . La isoniazida (H), autoadministrada durante 6 a 9 meses, ha sido el tratamiento más recomendado para la IT, , , , durante los últimos 50 años, , y es el de elección.
+Las tasas de adherencia al tratamiento de la IT varían mucho en los diferentes estudios publicados, , , , , , , situándose entre el 19 y el 96% en estudios con pautas de tratamiento con otros medicamentos además de isoniazida, , , , , y entre el 61 y el 64% con pautas solamente con isoniazida. La larga duración del TIT y las reacciones adversas a los medicamentos utilizados son algunas causas de bajas tasas en su cumplimiento, , .
+El tratamiento incompleto de la IT pone en peligro los esfuerzos para eliminar la TB, , ; por ello, comprender los factores asociados a la adherencia a este tratamiento es esencial en el programa de prevención de esta enfermedad, , , , , . Una vez identificados estos factores se pueden diseñar intervenciones para actuar sobre los grupos de riesgos, mejorar el estudio de contacto (EC) de TB y la adherencia al TIT, , , , , .
+El objetivo de este estudio es analizar la adherencia al tratamiento de la IT e identificar los factores de riesgo para su cumplimiento.
+
+
+- MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Estudio observacional de cohortes históricas.
+
+
+-- ÁMBITO DE ESTUDIO
+
+Departamento de Salud 17 de la Comunidad Valenciana, España. El Hospital Universitari Sant Joan d’Alacant (HUSJA) es su hospital de referencia.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Todos los contactos de TB pertenecientes al ámbito de estudio, que acudieron a consulta externa del Servicio de Medicina Preventiva y Calidad Asistencial del HUSJA o al Centro de Salud Pública de Alicante (CSPA), para la realización y lectura de una prueba de tuberculina durante el estudio convencional de contactos, entre el 1 de enero de 2006 y el 31 de diciembre de 2011.
+Se consideró IT cuando el sujeto presenta una prueba de tuberculina (PT) positiva sin tener signos o síntomas de enfermedad pulmonar activa. En el HUSJA no se encuentra disponible la prueba de detección de interferón gamma (IGRAS). Los contactos con IT pertenecientes al Departamento de Salud 17 son seguidos en su totalidad en el Servicio de Medicina Preventiva del HUSJA, donde se recomienda el TIT, se realiza el seguimiento y se dispensa de manera gratuita la medicación recomendada.
+Fueron excluidos todos los contactos de enfermedad pulmonar producida por Mycobacterias no tuberculosas; además, por deficiencia manifiesta de información disponible, los contactos que habiendo solicitado una primera cita para el inicio del EC nunca acudieron.
+
+
+-- FUENTES DE INFORMACIÓN
+
+El registro de contactos de TB del Sistema de Información para la Vigilancia de las Enfermedades de Declaración Obligatoria (EDO) y las historias clínicas de los contactos de TB del Servicio de Medicina Preventiva y Calidad Asistencial del HUSJA.
+La adherencia al tratamiento se definió como el grado en que los pacientes siguieron las instrucciones dadas sobre el tratamiento prescrito y se midió mediante métodos indirectos. Esta medición se realizó en cada cita médica, a través de: a) entrevista personalizada (telefónica cuando el paciente no asistía a consulta), y b) la solicitud nuevamente de la medicación.
+
+
+-- VARIABLES ESTUDIADAS
+
+Las variables principales fueron: a) tratamiento completo de la IT; b) inicio del TIT, y c) rechazo del TIT.
+Se definió tratamiento completo cuando el paciente inicia el tratamiento para la IT y completa la pauta recomendada. La tasa de adherencia al TIT fue medida al final del tratamiento, por lo tanto es el porcentaje de pacientes que habiendo iniciado el tratamiento lo finalizan.
+Todos los sujetos infectados a los que no se entregó medicación para el TIT ya fuese por rechazo, por recomendación médica o por otro motivo, se consideraron que no iniciaron tratamiento. Se definió como rechazo al TIT cuando el sujeto con IT e indicación de tratamiento no acepta iniciarlo.
+Otras variables analizadas fueron: abandono durante el estudio de contactos, vacunación con BCG e induración de la PT. Se consideró abandono durante el estudio de contactos cuando, después de la lectura de una primera PT realizada, el paciente no asiste a las siguientes citas médicas para realizar el Booster y/o una segunda PT, la radiografía de tórax y/o una analítica sanguínea, no pudiéndose diagnosticar o descartar una IT. En el caso contrario se catalogó como EC finalizado.
+La presencia de la vacunación con BCG se conoció mediante entrevista a los contactos y/o comprobación de la existencia de cicatriz vacunal. Para conocer la induración de la PT se midió el resultado de la prueba de Mantoux. Para investigar el riesgo de infección del contacto frente al caso índice de TB se analizó el tipo de relación existente entre ambos (intrafamiliar, ampliación familiar, social [relación escolar, laboral o fuera del ámbito familiar] y otros).
+También se estudiaron la pauta de tratamiento recomendada y la presencia o no de efectos adversos durante el TIT. Las pautas de tratamiento utilizadas fueron categorizadas en 3 grupos: 1) de < 6 meses [a) rifampicina sola o en combinación con isoniazida o pirazinamida, y b) moxiciclina + PAS]; 2) 6 H, y 3) 7-9 H.
+Las variables demográficas analizadas fueron edad, sexo y origen geográfico del contacto (españoles e inmigrantes). Se identificaron como inmigrantes las personas nacidas fuera de España.
+Se consideraron como estándar las definiciones y recomendaciones de la Guía para la vigilancia y el control de la tuberculosis de la Generalitat Valenciana, tanto para la metodología del estudio de contacto, para la interpretación de la PT y el diagnóstico de la IT, así como para la adecuación del tratamiento de la IT y su supervisión.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo para todas las variables. Las variables cualitativas fueron descritas con frecuencias y proporciones para cada una de sus categorías, y las cuantitativas con media y desviación estándar o con mediana y amplitud intercuartílica, según tuvieran o no una distribución normal.
+Se utilizó un análisis bivariado para establecer relaciones entre las variables (mediante la U de Mann-Whitney para comparar medias y la ji al cuadrado −χ2− para comparar proporciones) y un modelo de regresión logística por pasos hacia atrás por razón de verosimilitud para controlar la confusión y/o interacción de las mismas. Los contrastes de hipótesis fueron bilaterales, con un nivel de significación de 0,05, exceptuando el modelo de regresión logística, en el que se utilizó un valor p menor de 0,05 para la inclusión y mayor de 0,10 para su exclusión. Los datos fueron analizados con el paquete estadístico SPSS 15.0 para Windows.
+
+
+-- CONFIDENCIALIDAD Y ASPECTOS ÉTICOS
+
+Nuestro estudio es observacional retrospectivo, evalúa un programa de vigilancia epidemiológica regulado por el Real Decreto 2210/1995 y su protocolo fue aprobado por el Comité Ético de Investigación Clínica del HUSJA. Durante la creación de las fuentes de información utilizadas se ha garantizado la protección de la intimidad personal y el tratamiento confidencial de los datos personales conforme a lo dispuesto en la Ley Orgánica 15/1999. La presentación de datos siempre se ha realizado de manera agregada, de modo que en ningún caso se pueda llegar a la identificación de un paciente a partir de su difusión.
+
+
+- RESULTADOS
+
+Se identificaron un total de 779 contactos de TB, que presentaron una media de edad de 34,1 años (DE: 17,7), una mediana de 32 años (AI: 24,7) y sus principales características se encuentran en la tabla 1.
+En 15 contactos no se realizó la PT (7 con TB anterior y 7 con IT anterior todos tratados previamente, además de una embarazada con bajo riesgo para IT), por lo que fueron excluidos en el análisis. Fueron incluidos en el análisis 764 contactos, de los cuales el 25,9% abandonaron el estudio de contactos antes de poderse confirmar o descartar una IT.
+El 59,7% de los 566 sujetos que finalizaron el estudio de contactos presentaron IT. La media de la induración de la PT de los sujetos con IT (n = 338) fue de 15,7 mm (rango: 5-38 mm). Los factores asociados a la presencia de IT fueron: edad (15-35 años, RR: 2,7; IC 95%: 1,4-5,2; 36-65 años, RR: 11,3 IC 95%: 5,5-23,2, y > 65 años, RR: 6,0; IC 95%: 2,3-15,2), origen geográfico (inmigrantes, RR: 2,4; IC 95%: 1,4-4,2) y vacunación con BCG (vacunados, RR: 1,9; IC 95%: 1,2-2,9) .
+El 45,6% de los contactos con IT no iniciaron tratamiento. En el análisis ajustado, la edad (36-65 años, RR: 5,8; IC 95%: 1,2-27,5, y > 65 años, RR: 11,3; IC 95%: 2,0-64,0) y la relación social (RR: 2,2; IC 95%: 1,2-3,8) fueron factores que se asociaron de manera independiente con no iniciar el TIT. La induración de la PT ≥ 15 mm resultó ser un factor protector para el inicio del tratamiento de la IT (RR: 0,5; IC 95%: 0,3-0,9) . Los motivos más frecuentes para no iniciar el tratamiento de IT se encuentran en la tabla 4.
+De todos los pacientes que inician tratamiento para la IT, solo 14 (7,6%) presentaron alguna reacción adversa a la medicación y en ningún caso fue una reacción grave. Once (78,5%) de ellos tuvieron aumento de las transaminasas hepáticas y solo 3 (27,2%) pudieron terminar el tratamiento recomendado. El resto de reacciones adversas encontradas fueron: exantema cutáneo, intolerancia digestiva y dolor abdominal, con un caso cada una; y en ningún caso fue inconveniente para terminar el tratamiento.
+Ochenta y seis pacientes infectados rechazaron iniciar tratamiento, lo que representó el 25,4% de todos los sujetos con IT. En este grupo de pacientes la media de edad fue de 43 años (DE: 12,9) y la mediana de 44 años (AI: 16) y ningún factor analizado se asoció de manera independiente con el rechazo al tratamiento de la IT .
+Los pacientes que finalizaron el TIT representaron el 43,8% del total con IT y el 80,4% de los que iniciaron tratamiento. El 2,7% de los contactos con IT que iniciaron tratamiento lo hicieron con pautas de < 6 meses, el 80,4% con la pauta 6 H, el 15,8% con 7-9 H y se desconoce la pauta utilizada en el 1,1% .
+Los pacientes con mayor edad tuvieron mayor cumplimiento del tratamiento (0-14 años: 68%; 15-35 años: 76%; 36-65 años: 83,9%; > 65 años: 100% [p = 0,031]). Al profundizar en el análisis de la contribución de la edad en el cumplimiento del TIT, ajustando con el resto de las variables analizadas, no se encontraron diferencias significativas. Cuando se prescribe la pauta de tratamiento 7-9 H el cumplimiento es del 96,6% y ajustando por el resto de las variables analizadas se posicionó con mayor adherencia (RR: 12,7; IC 95%: 1,5-107,3) .
+
+
+- DISCUSIÓN
+
+Nuestros resultados muestran una alta tasa de cumplimiento del TIT (80,4%), siendo similar a la reportada por algunos estudios, , , y mayor a la alcanzada en otras investigaciones, , , . Nosotros medimos la adherencia al tratamiento de la IT con métodos indirectos, que se fundamentan en el reporte del autotratamiento por el propio paciente, lo que podría suponer una sobrestimación en los resultados obtenidos. Esta es la metodología más utilizada en estudios de este tipo, encontrándose tasas de adherencia igualmente altas en otras publicaciones (75%; 74,6%) que utilizan un método similar al nuestro. También hallamos estudios que midieron de manera indirecta la adherencia al TIT y presentaron bajas tasas (47%; 45,2%). Por otro lado, cuando se han utilizado métodos más objetivos (o directos) para medir la adherencia se describen tanto altas (80,8%) como bajas (44,6%) tasas.
+El control de la TB ha estado centrado principalmente en el tratamiento de la enfermedad tuberculosa, dándose menor importancia al TIT, por lo que podría pensarse que los enfermos de TB terminan mejor el tratamiento comparados con aquellos que tienen IT. Cuando comparamos nuestros resultados (80,4% de tasa de adherencia al TIT) con un estudio realizado en Granada (77,6% de tasa de adherencia al tratamiento de la TB) parece que en la práctica no existen grandes diferencias en el ámbito español; aunque debemos tomar con cautela esta comparación por ser áreas sanitarias específicas. Lo cierto es que aún queda mucho por hacer para disminuir el abandono del tratamiento en ambas enfermedades.
+La edad es un factor con frecuencia asociado al cumplimiento del tratamiento de la IT, aunque no hay unanimidad en la dirección de esta influencia. En un estudio realizado en New York los pacientes con edad ≥ 35 años terminaron mejor el tratamiento (RR: 1,2; IC 95%: 1,1-1,2). Nosotros hemos encontrado que el grupo de edad de 35-65 años termina mejor el tratamiento, aunque sin alcanzar significación estadística en el análisis ajustado (RR: 4,2; IC 95%: 0,9-19,3).
+Los problemas relacionados con la toxicidad y duración del tratamiento con isoniazida, que es la primera opción para trata la IT, han traído como consecuencia la búsqueda de alternativas igual de efectivas pero más cortas. Existe evidencia de que el uso de rifampicina sola durante 4 meses ofrece ventajas en cuanto a la aceptabilidad y cumplimiento del tratamiento en comparación con regímenes de isoniazida sola usados durante ≥ 6 meses, ; sin embargo, en otros estudios no han encontrado asociación entre el uso de pautas cortas en el tratamiento de la IT y el cumplimiento del mismo. En nuestro estudio la pauta de tratamiento 7-9 H resultó asociada a mayor cumplimiento del tratamiento de la IT, aunque las causas de este resultado no están claras.
+Es crucial focalizar nuestra atención sobre aquellos pacientes con IT que no inician tratamiento, en ocasiones por recomendación médica y otras veces por rechazo del infectado cuando estaba indicado y se había ofrecido. En nuestro estudio el 45,6% de los contactos con IT no iniciaron tratamiento (el 55,8% de ellos por rechazo). En un estudio prospectivo realizado en Estados Unidos y Canadá, el 17,1% del total pacientes con IT a los que se ofreció tratamiento no aceptaron comenzar cuando eran elegibles para ello, mientras que en otro estudio de cohorte retrospectiva realizada en Boston (Estados Unidos) el rechazo fue del 8,8%. Por otra parte, los factores que nosotros hemos encontrado asociados con el inicio de la quimioterapia secundaria en la IT (edad, relación de social con el caso índice de TB e induración de la PT) son diferentes a los reportados en otra publicación (contacto íntimo con el enfermo de TB, cribado de ITL por razones no laborales, bajo nivel escolar, tener un médico regular, miedo a enfermar de TB sin tratamiento y anterior estancia en la cárcel). Pensamos que estas diferencias encontradas se deben a las diferentes características demográficas de la población de estudio en cada caso y al diseño abordado en cada estudio, también distinto.
+Nuestro estudio tiene limitaciones que debemos comentar. Primero, aquellas derivadas de la utilización de fuentes secundarias de información donde no constan todos los datos necesarios, aunque esta dificultad se solventó parcialmente con la revisión exhaustiva de las historias clínicas de los contactos. Segundo, los datos fueron recogidos de manera retrospectiva, por lo que las variables analizadas fueron construidas a partir de la información disponible sin poder explorar otros aspectos sin información adecuada como los factores sociales. Tercero, la adherencia al TIT se midió mediante métodos indirectos, los cuales tienen desventajas pero también beneficios, siendo los más utilizados en estudios sobre este tema. Cuarto, no se utilizaron los IGRAS para el diagnóstico de la IT, por no contar con esta técnica diagnóstica en nuestro hospital. Realizar en el futuro estudios con un diseño diferente, con un tamaño muestral más grande y que aborden también «creencias y actitudes» podría permitirnos explorar otros factores asociados al abandono del EC y al rechazo y cumplimiento del TIT. A pesar de las limitaciones comentadas, nuestro estudio manifiesta la realidad de nuestra población y puede orientar sobre qué grupos poblacionales debemos actuar para mejorar la adherencia al TIT en nuestro ámbito.
+La tasa de cumplimiento del tratamiento de la IT en nuestro estudio fue alta entre los que iniciaron el tratamiento. Casi la mitad de los contactos con IT no iniciaron tratamiento y los factores asociados a ello fueron la edad, la relación social con el caso índice de TB y la induración de la PT. La pauta de tratamiento 7-9 H se asoció a mayor cumplimiento del tratamiento de la IT.
+La TB sigue siendo un problema de salud pública mundial, aunque existen medidas preventivas y un tratamiento específico para combatir esta enfermedad. Conocer de manera precisa los factores asociados a la adhesión a la medicación en pacientes con IT en cada área de salud es de gran importancia. Debemos incorporar a la práctica clínica estrategias con probada eficacia para mejorar la adherencia al TIT en los grupos de riesgo para su cumplimiento. Solo sumando acciones que se realicen en cada área sanitaria encaminadas a controlar la TB aproximará el control global de esta enfermedad.Lo conocido sobre el tema•El tratamiento de la infección tuberculosa es un componente clave en el control de la tuberculosis en países de baja prevalencia. La edad, el sexo y las condiciones sociales son algunos factores asociados al cumplimiento del tratamiento de esta infección.•Existen estrategias con eficacia probada para motivar la observancia de un tratamiento médico.Qué aporta este estudio•Se identificaron factores asociados con el inicio y cumplimiento del tratamiento en la infección tuberculosa.•Una vez identificados los grupos de riesgo para la adhesión del tratamiento en la infección tuberculosa podemos focalizar la atención en estos pacientes y aplicar estrategias que permitan un adecuado tratamiento.•La suma de acciones realizadas en cada área sanitaria para controlar la tuberculosis acercará su control global.
+
+
+- FINANCIACIÓN
+
+Ayudas a la Investigación 2010 de la Fundación MAPFRE.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- AGRADECIMIENTOS
+
+Carmen R. Gallardo es candidata a Doctor en Medicina por el Departamento de Pediatría, Obstetricia y Ginecología y Medicina Preventiva de la Universidad Autónoma de Barcelona, España.

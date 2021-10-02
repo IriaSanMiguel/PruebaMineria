@@ -1,0 +1,78 @@
+RELEVANCIA DE LOS GRADOS DE SIMPSON EN LA RESECCIÓN DE MENINGIOMAS GRADO I
+
+
+- INTRODUCCIÓN
+
+Los meningiomas representan entre el 13–26% de los tumores intracraneales y en su gran mayoría son lesiones benignas (65–80%). La extensión de la resección quirúrgica inicial ha sido considerada como uno de los factores pronósticos determinantes para la recidiva de los mismos. Gracias a la introducción de la microscopía y de las mejoras continuas en la técnica microquirúrgica, así como también de los avances en Resonancia Magnética (RM), el tratamiento quirúrgico de estas lesiones ha evolucionado en los últimos años, logrando en forma segura mayor remoción tumoral. Esto nos lleva a plantear si en el caso de lesiones de comportamiento benigno grado I de la Organización Mundial de la Salud (OMS) y por ende de lento crecimiento, es conveniente realizar resecciones amplias que incluyan la remoción de fragmentos importantes de duramadre, hueso adyacente o apertura de senos venosos, aumentando el trauma quirúrgico y el riesgo de complicaciones. El objetivo del presente trabajo es comparar el grado de recurrencia en pacientes con meningiomas grado I sometidos a exéresis microquirúrgica.
+
+
+- MATERIAL Y MÉTODOS
+
+-- POBLACIÓN
+
+Se realizó un análisis retrospectivo incluyendo los pacientes operados de meningiomas Grado I de la OMS con base de implantación en la convexidad, parasagitales, base de cráneo, hoz y tienda del cerebelo que requirieron tratamiento quirúrgico, operados entre Febrero de 2006 y Diciembre de 2015 en el Hospital Italiano de Buenos Aires. Dentro de los meningiomas de la base se incluyeron aquellos localizados en la fosa craneal anterior, media y posterior. Se utilizó la historia clínica digitalizada del Hospital para la recolección de los datos. Se incluyeron aquellos pacientes que contaban con Resonancia Magnética (RM) tanto pre como postoperatoria inmediata así como también certificación histológica de meningiomas de bajo grado de malignidad (grado I de la OMS). Se excluyeron aquellos pacientes en quienes la primer intervención en nuestro centro fue una recurrencia de su patología de base o quienes habían recibido en primera instancia otro tratamiento como ser radiocirugía. Se excluyeron además aquellos casos que no contaban con la historia clínica completa.
+
+
+-- MANEJO PERIOPERATORIO Y TÉCNICA QUIRÚRGICA
+
+Todos los pacientes incluidos contaban con Resonancia Magnética (RM) con secuencias T1 y T2 con y sin administración de gadolinio, tanto preoperatoria como postoperatoria inmediata. Según la presencia o no de edema perilesional, recibieron previo a la intervención corticoides vía oral. Todos los casos se operaron en forma electiva. Durante el procedimiento los pacientes recibieron una dosis de dexametasona endovenosa y profilaxis antibiótica, siguiendo las guías infectológicas actuales y, según el caso, manitol en bolo endovenoso. En las lesiones más voluminosas se asistió la exéresis microquirúgica con aspirador ultrasónico (CUSA). Luego del procedimiento todos los pacientes permanecieron las primeras 24 horas en Unidad de Cuidados Intensivos (UTIA). Todos los casos recibieron durante la primera semana postoperatoria profilaxis anticonvulsivante con levetiracetan, excepto aquellos con convulsiones como manifestación clínica inicial que continuaron su tratamiento en seguimiento por el servicio de neurología de nuestro centro. El período de seguimiento entre los pacientes fue variable pero en todos los casos contaban con controles ambulatorios y por imágenes con RM a los 6 meses de la intervención y posteriormente anuales. Se definió como recurrencia o progresión tumoral al crecimiento significativo del tumor documentado en las imágenes postoperatorias.
+
+
+-- ANÁLISIS DE DATOS
+
+Se analizaron en primera instancia los datos epidemiológicos (edad y sexo). Mediante la RM preoperatoria se objetivó localización y tamaño tumoral. A partir de los hallazgos anatomopatologicos pudieron diferenciarse aquellos meningiomas grado I y a su vez subclasificarlos en meningoteliales, psamomatosos, transicionales, microquísticos, linfoplasmocitarios, fibroblásticos, angiomatosos, secretores y metaplásicos. Para analizar el grado de resección tumoral en las imágenes postoperatorias inmediatas se utilizó la clasificación de Simpson , reconociendo aquellos con grado de resección Simpson I, II, III y IV. En nuestra experiencia no se realizan resecciones Simpson I en los meningiomas parasagitales porque no se realiza la apertura del seno sagital superior ya que agrega morbilidad al procedimiento .
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+A partir de las variables categóricas se realizó un análisis estadístico multivariado mediante el Chi Square Test para detectar posibles confundidores. Fue definido como estadísticamente significativo una P < 0.05. El análisis estadístico fue realizado mediante el programa SPSS versión 17.0.
+
+
+- RESULTADOS
+
+Se operaron un total de 271 pacientes portadores de meningiomas grado I de los cuales 204 fueron mujeres (75.3%%) y 67 fueron hombres (24.7%). La edad promedio fue de 56.5 años (16–85). Se intervinieron 67 meningiomas de la convexidad (24.7%), 28 meningiomas parasagitales (10.3%), 160 de la base del cráneo (59.0%), 6 meningiomas de la hoz (2.2%) y 10 meningiomas de la tienda (3.8%). Dentro de las variantes histológicas de meningiomas g rado I encontramos 66 casos meningoteliales (24.3%), 14 psamomatosos (5.1%), 165 transicionales (61%), 3 microquísticos (1,1%), 3 linfoplasmocitarios (1.1%), 8 angiomatosos (3%), 9 fibroblásticos (3.3%), 3 secretores (1.1%) y ningún metaplásico. La media de seguimiento de los pacientes fue de 34.7 meses con un rango de 6 a 120 meses.
+
+
+-- RESECCIÓN TUMORAL
+
+De los meningiomas ubicados en la convexidad (n = 67) se logró una exéresis Simpson I en 57 casos (85.1%), Simpson II en 8 casos (11.9%), Simpson III en 1 caso (1.5%) y un caso Simpson IV (1.5%) . En cuanto a los meningiomas de la base (n = 160) en 49 casos se logró una exéresis Simpson I (30.6%), en 57 Simpson II (35.6%), 39 casos Simpson III (24.4%) y 15 casos Simpson IV (9.4%). En aquellos localizados en la hoz (n = 6) se logró una resección Simpson II en 3 casos (50%), Simpson III 1 caso (16.7%) y Simpson IV 2 casos (33.3%). En los tumores parasagitales (n = 28) se registró una exéresis Simpson II en 24 casos (85.7%), 3 casos Simpson III (10.7%) y 1 caso Simpson IV (3.6%). Por último en el caso de los meningiomas de la tienda del cerebelo (n = 10) se alcanzó una exéresis Simpson II en 9 casos (90%) y Simpson III en 1 caso (10%). No se registraron resecciones Simpson V y, como se mencionó, en los casos de meningiomas parasagitales no se registraron exéresis Simpson I ya que no se realiza en nuestra práctica habitual la apertura del seno sagital superior así como tampoco se realizan resecciones durales amplias en los casos de meningiomas de la hoz y de la tienda del cerebelo .
+
+
+-- RECIDIVA TUMORAL
+
+Se registraron 60 pacientes con recidiva tumoral en las imágenes postoperatorias realizadas durante el seguimiento (22.1%), de los cuales 5 fueron meningiomas parasagitales (8.3%), 42 de la base del cráneo (70%), 1 de la hoz (1.7%), 1 meningioma de la tienda (1.7%) y 11 meningiomas de la convexidad (18.3%). A su vez de los casos que recidivaron (n = 60), 21 casos correspondían a una resección Simpson I (35%), 20 casos Simpson II (33.3%), 12 casos Simpson III (20%) y 7 casos Simpson IV (11.7%). No se observó diferencia en el promedio de edad de los pacientes con recurrencia de su enfermedad con respecto a los que no recidivaron (57.5 años vs. 56.5 años), y en cuanto a la distribución por sexo, se registraron 45 casos de recurrencias en mujeres (75%) y 15 casos en hombres (25%). Según la histología se registraron 17 casos de meningoteliales (28.3%), 39 transicionales (65%), 1 fibroblástico (1.7%), 2 microquísticos (3.3%), 1 angiomatoso (1.7%). En la Tabla 3 se registra número de pacientes con recidiva tumoral según edad, sexo, localización tumoral, histología y grado de resección según la clasificación de Simpson.
+
+
+--- REOPERACIÓN Y TERAPIA RADIANTE
+
+De los pacientes que recidivaron (n = 60), 16 pacientes se reoperaron (26.7%), 8 recibieron radioterapia (13.3%), 2 recibieron tratamiento conjunto (radioterapia y cirugía) (3.3%%) y en 34 casos se mantuvo una conducta expectante y control con imágenes (56.7%).
+
+
+-- ANÁLISIS COMPARATIVO
+
+Mediante el análisis estadístico bivariado no se obtuvieron diferencias significativas en edad y el sexo de aquellos pacientes que recidivaron con respecto a los que no lo hicieron (P = 0.297).
+Con respecto al número de recurrencias según el grado de resección tumoral evaluado mediante la clasificación de Simpson, tampoco se registraron diferencias estadísticamente significativas entre los grupos. El análisis estadístico multivariado demostró una P valor de 0,3117, no significativa para una P < 0,05.
+Por último con respecto a la localización se comparó aquellos con mayor número de muestras (meningiomas de la convexidad, parasagitales y de la base de cráneo). Mediante el análisis multivariado se determino que tampoco existe una diferencia estadísticamente significativa en cuanto a la recurrencia con respecto a la localización (P = 0,2203).
+
+
+- DISCUSIÓN
+
+En 1957 Simpson describió en su publicación los factores de riesgo asociados a la recidiva de los meningiomas intracraneales luego de su exéresis quirúrgica. De esta manera estandarizó que la curación únicamente podía alcanzarse mediante la resección agresiva y amplia, no sólo de la lesión en su totalidad sino también de la duramadre y hueso adyacente a la misma. Posteriormente fueron publicados numerosos trabajos con el objetivo de reafirmar este dogma en donde la recurrencia de la enfermedad se encuentra directamente relacionada con la técnica quirúrgica. Pero como se mencionó, numerosos avances han sobrevenido desde 1957, principalmente en los métodos diagnósticos y en la técnica microquirúrgica y, por otro lado, Simpson no tomó en cuenta en su clasificación otros factores predictivos de recurrencia como ser la anatomía patológica, la biología molecular y marcadores de proliferación tumoral. En el presente trabajo se seleccionaron aquellos pacientes con meningiomas grado I de la OMS sometidos a cirugía resectiva y se comparó el porcentaje de recidiva de la enfermedad según la edad y sexo, localización tumoral y extensión de la exéresis tumoral.
+Con respecto a la edad y sexo no se registraron diferencias significativas entre aquellos pacientes que recidivaron y aquellos que no. Lo mismo se objetivó para el grado de resección tumoral basado en la clasificación de Simpson, no observándose una diferencia estadísticamente significativa entre la extensión de la exéresis y el número de recurrencias a lo largo del período de seguimiento. De los resultados se desprenden dos observaciones. Las bases teóricas sobre las cuales se basan los datos estadísticos obtenidos requieren de muestras grandes con un n (número de pacientes incluidos en la muestra) >25, por lo que para el caso de las observaciones Simpson I y II el n es suficiente. No resulta así en las observaciones Simpson III y IV en donde el n es más bajo, por lo que si bien existe una tendencia que todos los grados de resección resultan similares en resultados de recurrencia, sería prudente contar con mayor evidencia para aseverar esta hipótesis. El segundo punto a analizar en futuros trabajos es que si bien en el caso de los meningiomas grado I de la OMS la extensión de la exéresis podría no ser un factor relacionado con la recurrencia de la enfermedad, en meningiomas atípicos o anaplásicos podría ser fundamental, siendo entonces la anatomía patológica un factor predictivo de recurrencia. Tener en cuenta además que la clasificación de la OMS ha cambiado en la última década, incluyendo más tumores como de alto grado que pueden identificarse fácilmente gracias a los avances en histopatología, inmunohistoquímica y biología molecular, herramientas con las que no se contaban hacia la década del 60.
+Otra variable analizada en el presente trabajo asociado a la recurrencia de la enfermedad es la localización tumoral. Al realizar un análisis multivariado encontramos que no existen diferencias significativas en cuanto a la recurrencia según la localización. A pesar de que en los meningiomas de la base el porcentaje de resecciones Simpson III y IV fueron superiores, al comparar la totalidad de los datos obtenidos esto no resultó en un mayor número de recidivas. Si bien los meningiomas de la base envuelven habitualmente estructuras neurovasculares relevantes, difíciles de disecar o imposibles de coagular, por lo que muchas veces no puede realizarse una exéresis macroscópica completa, esto no resulta un factor relacionado con la recurrencia de la enfermedad .
+Existen otras publicaciones que han cuestionado el uso actual de la clasificación de Simpson con resultados similares a nuestro trabajo. Sughrue y colaboradores reunieron 343 pacientes con meningiomas Grado I de la WHO, con un período medio de seguimiento de 3.7 años y objetivaron que no existe una diferencia significativa en el tiempo libre de enfermedad a los 5 años entre los pacientes tratados con resecciones Simpson I, II, III o IV, siendo estas del 95,85,88 y 81% respectivamente. Hallazgos similares fueron reportados en las series de Condra et al. y, más recientemente, Oya et al. objetivando en ambos que no existe diferencia en la recidiva de la enfermedad tras resecciones Simpson I, II y III.
+
+
+- CONCLUSIÓN
+
+Para los meningiomas grado I de la WHO la exéresis Simpson I no presenta diferencias significativas con la Simpson II en cuanto a la recurrencia tumoral, por lo que aumentar la morbilidad no tendría justificación. Un replanteo de la escala de resección debería idearse teniendo en cuenta la clasificación de la OMS. Probablemente pueda simplicarse y, como en otras patologías, diferenciar resección completa, resección parcial o biopsia.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

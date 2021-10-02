@@ -1,0 +1,208 @@
+INFECCIONES RESPIRATORIAS EN URGENCIAS
+
+
+- DEFINICIONES
+
+-- INFECCIÓN DEL TRACTO RESPIRATORIO INFERIOR
+
+Enfermedad aguda de menos de 21 días de evolución, que cursa con tos como síntoma principal asociado a, al menos, otro síntoma (esputo purulento, disnea o dolor torácico) sin diagnóstico alternativo asociado (sinusitis o asma).
+
+
+-- BRONQUITIS AGUDA
+
+Infección del tracto respiratorio inferior en paciente sin enfermedad pulmonar crónica.
+
+
+-- AGUDIZACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+La agudización de la enfermedad pulmonar obstructiva crónica (AEPOC) es un evento en la historia natural de pacientes con enfermedad pulmonar obstructiva crónica (EPOC) caracterizado por un aumento de su disnea basal, aumento de tos y/o cambios en la calidad del esputo más allá de las variaciones clínicas diarias habituales en estos pacientes.
+
+
+-- AGUDIZACIÓN DE LAS BRONQUIECTASIAS
+
+Evento en la historia natural del paciente con bronquiectasias conocidas caracterizado por empeoramiento de su disnea habitual, aumento de tos y/o cambios en la calidad del esputo más allá de las variaciones clínicas diarias habituales que presentan estos pacientes.
+
+
+-- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+La neumonía adquirida en la comunidad (NAC) es una infección del tracto respiratoria inferior, normalmente con fiebre de menos de 4 días de evolución, asociada a un infiltrado no conocido previamente en la radiografía de tórax o en otra prueba de imagen torácica.
+
+
+- EPIDEMIOLOGÍA
+
+Las infecciones respiratorias son la principal causa de consulta médica. En Atención Primaria representan el 14,25% de todas las consultas y el 63,8% de las infecciones atendidas, de ellas, la cuarta parte son infecciones del tracto respiratorio inferior. En los Servicios de Urgencias hospitalarios (SUH), en función de la época del año, pueden representar el 1-5% de todas las consultas y hasta el 30% de las infecciones diagnosticadas.
+
+
+- BRONQUITIS AGUDA
+
+-- ETIOLOGÍA
+
+Aunque en la mayoría de las series no se confirma el aislamiento microbiológico, en adultos sanos la etiología más frecuente es vírica (influenza, parainfluenza, virus respiratorio sincitial –VRS–, rinovirus, coronavirus, adenovirus). En una pequeña porción de pacientes se aíslan bacterias, entre las que destacan Mycoplasma pneumoniae y Chlamydophila pneumoniae.
+
+
+-- CLÍNICA
+
+El síntoma principal es la tos, que puede asociarse o no a expectoración, disnea y dolor torácico. En pacientes sin comorbilidad, sin enfermedad pulmonar crónica e inmunocompetentes suele tener un curso benigno autolimitado con tratamiento sintomático en 2-3 semanas.
+
+
+-- DIAGNÓSTICO
+
+En pacientes sin comorbilidad asociada, la radiografía de tórax estaría indicada si presenta taquicardia (frecuencia cardiaca –FC– > 100 lpm), taquipnea (frecuencia respiratoria –FR– > 24 rpm), fiebre (temperatura –Tª– ≥ 38 °C) o datos de consolidación pulmonar en el momento de realizar la exploración física.
+
+
+-- TRATAMIENTO
+
+En pacientes inmunocompetentes y sin comorbilidad, el tratamiento es sintomático con analgésicos y antiinflamatorios. El tratamiento antibiótico no ha demostrado influir en la gravedad, duración de la sintomatología o evolución a neumonía, por lo que la antibioterapia empírica no está indicada en estos pacientes.
+
+
+- AGUDIZACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+-- DEFINICIÓN
+
+La EPOC es definida por una obstrucción crónica no reversible al flujo aéreo debida a una respuesta inflamatoria anómala de la vía aérea a partículas nocivas, fundamentalmente al humo del tabaco. Esta diminución del flujo aéreo se demuestra mediante una espirometría con un cociente entre el volumen espirado y la capacidad vital forzada (FEV1/FVC) menor de 0,70 tras un test broncodilatador. Cursa con disnea progresiva que normalmente empeora con el esfuerzo asociado a tos y expectoración crónica. Las agudizaciones se caracterizan por el empeoramiento mantenido de los síntomas respiratorios más allá de las variaciones diarias, con aumento de la disnea basal del paciente, de la tos y de la expectoración y/o cambios en la calidad del esputo.
+
+
+-- EPIDEMIOLOGÍA
+
+El estudio EPI-SCAN publicado en 2009 estima una prevalencia de la EPOC en España del 10,2% en adultos de 40 a 80 años, siendo esta prevalencia altamente variable según la zona geográfica. Es la cuarta causa de muerte en el mundo y se estima que será la tercera causa de muerte en 2030. En cuanto a las agudizaciones, suponen el 1-2% de las consultas a los SUH. En promedio, los pacientes con EPOC presentan 1-4 agudizaciones al año; sin embargo, esta distribución es variable, algunos pacientes no experimentan agudizaciones y otros las tienen muy frecuentemente (fenotipo agudizador). Las agudizaciones producen un deterioro de la calidad de vida relacionada con la salud (CVRS), generan elevados costes y producen una progresión de la enfermedad aumentando el riesgo de muerte.
+
+
+-- ETIOLOGÍA
+
+En el 50-70% de los casos, la causa de la AEPOC es de origen infeccioso, la contaminación ambiental es una causa menos frecuente de agudización (5-10%). Dentro de la etiología infecciosa, la infección vírica puede causar el 30% de las agudizaciones, e incluso elevarse al 50% en estudios recientes que utilizan técnicas diagnósticas más sofisticadas. Las bacterias aisladas con más frecuencia en pacientes con AEPOC son Haemophilus influenzae, Streptococcus pneumoniae y Moraxella catarrhalis, aunque en agudizaciones graves se aíslan con frecuencia enterobacterias. Pseudomonas aeruginosa debe sospecharse en pacientes con obstrucción grave del flujo aéreo (FEV1menor de 50%), pacientes hospitalizados o que han recibido antibioterapia en los últimos 3 meses, pacientes con 4 o más agudizaciones al año, pacientes con tratamiento prolongado con corticoides o pacientes colonizados previamente por P. aeruginosa . La coinfección por virus y bacterias se asocia a cuadros clínicos más graves y se ha descrito hasta en un 25% de los pacientes hospitalizados. La tabla 1 muestra las etiologías más frecuentes de AEPOC según el análisis de 29 estudios. En cuanto a los pacientes con bronquiectasias, no hay muchos estudios que hayan analizado la etiología de la agudización; sin embargo, estos pacientes suelen estar a menudo colonizados por bacterias, principalmente H. influenzae y P. aeruginosa .
+
+
+-- DIAGNÓSTICO
+
+El manejo diagnóstico de las AEPOC requiere de los siguientes pasos.
+
+
+--- PRIMER PASO: DIAGNÓSTICO PREVIO DE EPOC
+
+Si el paciente no dispone de espirometría previa se recomienda utilizar el término de “posible AEPOC” asociado a un empeoramiento mantenido de los síntomas basales de la enfermedad, no haber recibido tratamiento para otra agudización en las últimas 4 semanas (lo que supondría recaída o fracaso del tratamiento) y descartar otras patologías causantes de disnea (tabla 2 ).
+
+
+--- SEGUNDO PASO: VALORAR LA GRAVEDAD DE LA ENFERMEDAD
+
+Para ello se propone una nueva clasificación consensuada por un amplio grupo de expertos (tabla 3 ). Si el paciente no tiene criterios de gravedad es posible su valoración ambulatoria. La valoración ambulatoria del paciente requiere realizar una anamnesis completa, exploración física, medir la saturación basal de oxígeno y realizar un electrocardiograma (ECG) en caso de sospecha arrítmica o cardiopatía isquémica aguda. La valoración hospitalaria está indicada en aquellos casos en los que existen criterios de agudización muy grave o grave, incapacidad para realizar el tratamiento ambulatorio o falta de respuesta al mismo y necesidad de descartar otras patologías. En pacientes que requieren valoración hospitalaria se recomienda realizar una analítica con hemograma, bioquímica y gasometría arterial basal o con oxigenoterapia si el paciente se encuentra en programa de oxígeno crónico domiciliario (OCD), radiografía de tórax posteroanterior y lateral y ECG. Estudio de coagulación y los niveles de procalcitonina (PCT) se recomiendan si el paciente tiene criterios de síndrome de respuesta inflamatoria sistémica (SRIS). En la última actualización de las guías GesEPOC se propone una nueva escala para valorar la gravedad de estos pacientes, índice DECAF (disnea, eosinofilia, consolidación radiológica, acidosis y presencia de fibrilación auricular), este índice puede ser de utilidad para valorar el riesgo de mortalidad en pacientes con AEPOC pero precisa de validación externa.
+
+
+--- TERCER PASO: IDENTIFICAR LA ETIOLOGÍA
+
+El análisis de esputo (tinción de Gram y cultivo) está indicado en las agudizaciones graves y muy graves y cuando haya sospecha de infección por P. aeruginosa; sin embargo, en la mayoría de los casos el tratamiento antibiótico será indicado en función de criterios clínicos.
+
+
+-- TRATAMIENTO
+
+--- ANTIBIOTERAPIA
+
+Indicación de antibioterapia. El tratamiento antibiótico empírico se indica si se cumplen al menos 2 de los 3 criterios de Anthonisen (aumento de la disnea, aumento del volumen del esputo o purulencia del mismo), siendo el esputo purulento el criterio más indicativo de infección bacteriana. Aunque solo cumpla un criterio sería recomendable asociar antibioterapia si el paciente presenta fiebre, FEV1 menor de 50%, más de 4 agudizaciones al año, si es mayor de 65 años o si tiene comorbilidad importante. También se indica antibioterapia en aquellos pacientes que tienen insuficiencia respiratoria grave o necesidad de ventilación mecánica invasiva (VMI) o no invasiva (VMNI). En los últimos años se ha estudiado el papel de la PCT y la proteína C reactiva (PCR) como marcadores de infección bacteriana en pacientes con EPOC; sin embargo, se necesitan estudios más amplios para establecer la indicación de antibioterapia empírica en función de los niveles de dichos biomarcadores, .
+Elección de antibioterapia. La elección del tratamiento antibiótico depende de la gravedad de la agudización y del riesgo de infección por P. aeruginosa.
+En agudizaciones leves se recomienda el tratamiento oral con amoxicilina-clavulánico 875/125 mg cada 8 horas o 2.000/125 mg/12 horas durante 7 días. Como alternativa se puede pautar cefditoren 200-400 mg/24 horas durante 5 días, moxifloxacino 400 mg/24 horas durante 5 días o levofloxacino 500 mg/12-24 horas durante 7 días.
+En pacientes con agudizaciones moderadas o graves sin criterios de infección por P. aeruginosa se recomienda tratamiento con moxifloxacino o levofloxacino durante 5-7 días (recomendable la vía oral si esta es posible). Como alterativa se puede pautar ceftriaxona 1-2 g cada 24 horas o cefotaxima 1-2 g cada 6-8 horas durante 7 días vía intravenosa.
+En pacientes con agudización grave o muy grave con criterios de infección por P. aeruginosa se recomienda ciprofloxacino 400 mg cada 12 horas durante 10 días o levofloxacino 500 mg cada 12 horas durante 7 días por vía intravenosa al menos al inicio. Si el paciente presenta mala evolución clínica, y dado que la tasa actual de resistencia a las quinolonas de P. aeruginosa supera el 30%, se recomienda un antibiótico betalactámico con actividad antipseudomona (ceftazidima 2 g cada 8 horas, cefepime 2 g cada 8 horas, piperacilina-tazobactam 4/0,5 g cada 6 horas, meropenem 0,5-1 g cada 6-8 horas, imipenem 0,5-1 g cada 6-8 horas) durante 7 días.
+
+
+--- BRONCODILATADORES
+
+La optimización del tratamiento broncodilatador (aumento de frecuencia o dosis del mismo) está indicada en todas las AEPOC. Los broncodilatadores de acción corta beta-adrenérgicos (salbutamol o terbutalina) asociados a anticolinérgicos (bromuro de ipratropio) son la elección en el tratamiento de las agudizaciones, administrándose en dispositivos presurizados o nebulizaciones en función de la colaboración del paciente. Los broncodilatadores de larga duración no han demostrado tanta eficacia en las AEPOC, pero no deben suspenderse si el paciente ya los utiliza para el tratamiento de su enfermedad de base. Las metilxantinas (teofilina) no se recomiendan, ya que han demostrado escaso beneficio sobre la función pulmonar (FEV1), con un aumento de los efectos adversos.
+
+
+-- CORTICOIDES SISTÉMICOS
+
+Están indicados en agudizaciones moderadas y graves. Han demostrado mejorar la función pulmonar, acelerar la recuperación y disminuir el fracaso terapéutico en dosis de 0,5 mg/kg/día (máximo 40 mg) de prednisona oral hasta la mejoría clínica, suspendiendo el tratamiento lo antes posible (7-10 días). Recientemente el estudio REDUCE ha demostrado que pautas cortas de 5 días son igualmente eficaces. Los corticoides sistémicos también están indicados en agudizaciones leves que no responden a tratamiento. En pacientes con indicación de ingreso hospitalario se pueden pautar vía intravenosa inicialmente. Los estudios realizados usan pautas cortas de corticoides (menor de 15 días) con suspensión brusca de los mismos sin observarse efectos adversos importantes, el descenso progresivo de corticoides no ha sido estudiado. Los corticoides inhalados en dosis altas (budesonida 2 mg/6 horas) han demostrado ser una alternativa eficaz a los corticoides sistémicos en pacientes con AEPOC.
+
+
+-- OTROS TRATAMIENTOS
+
+La oxigenoterapia o el soporte ventilatorio con VMNI o VMI cuando están indicados, el tratamiento de las comorbilidades asociadas o la profilaxis de la enfermedad tromboembólica venosa (ETV) son otras medidas a tener en cuenta en pacientes con AEPOC.
+
+
+-- CRITERIOS DE INGRESO HOSPITALARIO
+
+AEPOC en paciente con comorbilidad grave o complicaciones, AEPOC leve o moderada que no mejora tras tratamiento en Urgencias, pacientes con acidosis respiratoria (pH menor de 7,35), hipoxemia (pO2 menor de 55 mm Hg), hipercapnia en pacientes sin antecedentes de hipercapnia crónica (pCO2 mayor de 50 mm Hg), necesidad de VMI o VMNI, AEPOC grave o muy grave. Pacientes con AEPOC en los que el soporte domiciliario es insuficiente o en los que ha fracasado previamente el tratamiento ambulatorio.
+
+
+- NEUMONÍA
+
+-- DEFINICIÓN Y CLASIFICACIÓN
+
+La neumonía es la inflamación del parénquima pulmonar cuyo diagnóstico requiere la adición de síntomas o signos de infección del tracto respiratorio inferior a un infiltrado pulmonar en la radiografía de tórax o en otra prueba de imagen con o sin un aislamiento microbiológico confirmado, .
+La neumonía se clasifica en función del entorno de adquisición de la misma en: NAC, neumonía nosocomial (NN) y un tercer grupo de neumonías relacionadas con la asistencia sanitaria (NRAS), Healthcare Associated Pneumonia (HCAP) en la terminología anglosajona. La NAC es aquella que se adquiere en el ambiente ambulatorio. La NN es la que aparece después de 48 horas o más del ingreso del paciente en el hospital. Este término incluye la neumonía asociada a la ventilación mecánica (NAVM), si aparece en un paciente que lleva más de 48- 72 horas con VMI. La NRAS es la acontecida en un paciente que ha estado hospitalizado durante 2 o más días en los 90 días previos al proceso infeccioso actual, está ingresado en un centro de cuidados crónicos, ha recibido tratamiento antibiótico intravenoso, quimioterapia o curas de heridas en los 30 días previos o acude a un centro de hemodiálisis. Los pacientes con NN y NRAS pueden estar colonizados por microorganismos multirresistentes (MMR), tener presentación clínica atípica o presentar otros factores de riesgo que influyen en el curso de la enfermedad; por todo ello, se han elaborado guías de manejo diagnóstico y terapéutico específicas distintas a las de la NAC.
+En función de los mecanismos defensivos del paciente se clasifica en neumonía en inmunodeprimido y neumonía en inmunocompetente. Los estados de inmunodepresión incluyen a los receptores de trasplante de órgano sólido o de médula ósea, pacientes esplenectomizados, pacientes en tratamiento con quimioterapia o con altas dosis de corticoides durante más de 30 días, pacientes con inmunodeficiencia congénita o adquirida o infectados por el virus de inmunodeficiencia humana (VIH) con recuento de linfocitos T CD4 inferior a 350 células/mm. En estos pacientes, a los microorganismos habituales productores de infección hay que añadir una larga lista de agentes oportunistas que hacen que tanto el diagnóstico como el tratamiento de la neumonía sea específico, .
+
+
+-- PATOGENIA Y FACTORES DE RIESGO
+
+El tracto respiratorio inferior está expuesto continuamente a una mezcla de gases, partículas y microorganismos; sin embargo, se mantiene estéril debido a una serie de mecanismos de defensa que pueden ser mecánicos o inmunológicos. La infección del tracto respiratorio se produce por un desequilibrio entre los mecanismos de defensa, la capacidad de virulencia del microorganismo y la carga bacteriana. Entre los factores predisponentes se encuentran el bajo nivel de consciencia (convulsiones, intoxicaciones, abuso de alcohol), el tabaquismo que produce alteración de la barrera mucociliar y de la actividad de los macrófagos, el alcohol que altera el reflejo tusígeno, aumenta la colonización por microorganismos gramnegativos y altera la quimiotaxis. Pacientes con asplenia y anemia de células falciformes están predispuestos a infecciones por S. pneumoniae. Los pacientes con infectados por el virus de la inmunodeficiencia humana (VIH) tienen mayor riesgo de bacteriemia por neumococo. Las infecciones víricas alteran las defensas y producen daño epitelial. Tubos endotraqueales o sondas nasogástricas predisponen a la infección pulmonar.
+
+
+-- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+--- EPIDEMIOLOGÍA
+
+Se estima una incidencia anual de NAC entre 5-11 casos por cada 1.000 habitantes y año en la población adulta aumentando en invierno y en edades extremas de la vida. La NAC es la principal causa de mortalidad de origen infeccioso, variando sus cifras en función del lugar de tratamiento: menor del 1% en pacientes tratados de manera ambulatoria, del 2-30% en pacientes hospitalizados y de más de 30% en pacientes ingresados en la Unidad de Cuidados Intensivos (UCI).
+
+
+--- ETIOLOGÍA
+
+El diagnóstico etiológico de la NAC depende de la intensidad de las pruebas empleadas para conseguir el mismo pero, en general, no supera el 50%. También es importante recalcar el hecho de que la distribución de microorganismos encontrados puede variar según la gravedad del paciente, por lo que, al hablar de etiología, es útil categorizar a los pacientes con NAC según el lugar de tratamiento: ambulatorio, unidad de hospitalización convencional o UCI) . En todos los ámbitos, S. pneumoniae es el microorganismo implicado con más frecuencia. La incidencia de infecciones polimicrobianas varía entre el 6-13%, dependiendo de la intensidad de búsqueda del agente causal. En pacientes hospitalizados en la UCI aumenta la incidencia de L. pneumophila, bacilos entéricos gramnegativos (BEGN) y S. aureus, siendo los dos últimos también más frecuentes en ancianos. La prevalencia de BEGN, S. aureus y MMR, así como la morbimortalidad se incrementan en pacientes con NRAS y con NN.
+
+
+--- DIAGNÓSTICO
+
+El diagnóstico de NAC puede ser más complicado de lo que parece. Requiere la adición de síntomas o signos de infección respiratoria como tos productiva, fiebre, disnea, dolor torácico, estertores a la auscultación pulmonar o leucocitosis, asociados a un infiltrado no conocido en una prueba de imagen torácica, normalmente la radiografía. En cuanto a la clínica, sobre todo en ancianos, puede manifestarse únicamente con síntomas atípicos como la confusión, lo que disminuye la sospecha diagnóstica. En pacientes con neumonía por neumococo, el cuadro suele ser brusco y puede asociar bacteriemia hasta en un 25% de los casos. La infección por M. pneumoniae afecta fundamentalmente a jóvenes y la evolución suele ser buena. Por otra parte, apreciar infiltrados nuevos en la radiografía de tórax puede ser difícil en pacientes con lesiones bronquiales crónicas, obesos o cuando el estado clínico del paciente solo permite realizar radiografías portátiles. Un radiólogo puede infradiagnosticar infiltrados en el 15% de los casos de NAC y dos radiólogos pueden tener opiniones discordantes hasta en un 10% de los casos. De hecho, hasta el 27% de los pacientes diagnosticados de NAC en los SUH acaban teniendo procesos no infecciosos, , . En los SUH se recomienda realizar un hemograma, bioquímica, gasometría arterial si la SO2 es menor del 92% o el paciente se encuentra taquipneico, y determinar niveles de PCT y coagulación si cumple criterios de síndrome de SRIS.
+
+
+--- MANEJO DIAGNÓSTICO Y TERAPÉUTICO DE LA NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+Tres decisiones simultáneas hay que tomar cuando un paciente es diagnosticado de NAC en los Servicios de Urgencias: dónde se va a instaurar el tratamiento (domiciliario, en una planta de hospitalización convencional o en una UCI), las pruebas diagnósticas que debemos solicitar para conocer la etiología y la antibioterapia empírica que se debe pautar. Las distintas guías de práctica clínica, , , recomiendan basar estas decisiones en la gravedad del paciente establecida por escalas pronósticas, siendo el Pneumonia Severity Index (PSI) o índice de Fine y el CURB-65 (confusión, urea elevada, frecuencia respiratoria aumentada, hipotensión arterial y edad mayor de 65 años) las escalas más ampliamente validadas (Tabla 4, Tabla 5 ).
+Lugar de tratamiento. Los pacientes con PSI clase I o II o CURB-65 0 o 1 tienen bajo riesgo de mortalidad al mes del diagnóstico, por lo que se recomienda el tratamiento ambulatorio. Los pacientes con PSI clase III o CURB-65 de 2 puntos tienen riesgo intermedio, por ello se recomienda observación durante 24-48 horas o ingreso en unidades de corta estancia. Pacientes con PSI IV o V o CURB-65 mayor de 2 tienen un alto riesgo de mortalidad al mes del diagnóstico, por lo que se recomienda el ingreso hospitalario, precisando algunos de esos pacientes ingreso en la UCI.
+No obstante, estas escalas no están exentas de limitaciones, la escala PSI infravalora la gravedad en pacientes jóvenes, el CURB-65 no tiene en cuenta la oxigenación del paciente y ninguna de estas escalas valora factores sociales que pueden hacer que fracase el tratamiento ambulatorio. Además, ambas escalas precisan de una analítica que no siempre está disponible en pacientes diagnosticados ambulatoriamente. En estos pacientes se recomienda aplicar la escala CRB-65 (sin urea), recomendando la derivación a un hospital si el paciente tiene 1 o más puntos, si hay afectación bilateral en la radiografía de tórax o si la saturación de oxígeno (SO2) es inferior al 92%. Por todo ello, la decisión final debe ser tomada teniendo en cuenta el criterio médico, que debe valorar otros factores como la incapacidad para realizar el tratamiento oral, la presencia de complicaciones de la neumonía o la exacerbación de comorbilidades previas. Por otra parte, ninguna de estas escalas está validada para predecir precozmente el ingreso en la UCI o la necesidad de soporte inotrópico o ventilatorio. Con este objetivo se han creado otras escalas pronósticas como la SMAR-COP, la SCAP o la propuesta por la ATS/IDSA que incluye 2 criterios mayores (necesidad de ventilación mecánica y shock séptico con necesidad de fármacos vasopresores) y 9 criterios menores (FR mayor de 30 rpm, PaO2/FiO2 menor de 250, infiltrado multilobar en la radiografía de tórax, confusión/desorientación, urea superior a 45 mg/dl, trombopenia –plaquetas inferiores a 100.000 células/mm3–, leucopenia –leucocitos menores de 4.000 células/mm3–, hipotermia –Tª menor de 36 °C– e hipotensión que requiere fluidoterapia agresiva). La presencia de 1 criterio mayor o al menos 3 criterios menores recomienda el ingreso del paciente en una UCI.
+Debido a las mencionadas limitaciones de las distintas escalas pronósticas, en los últimos años se ha estudiado la capacidad predictiva de complicaciones y mortalidad de distintos biomarcadores como la PCR, la PCT, la copeptina, el péptido natriurético atrial (proANP) o la región medial de la proadrenomedulina (MR-proADM). De ellos la MR-proADM parece ser la más prometedora, pero su utilidad en los Servicios de Urgencias no ha sido demostrada en ningún ensayo clínico.
+Muestras biológicas. El diagnóstico microbiológico precoz y fiable es esencial para instaurar el tratamiento antimicrobiano específico. El tratamiento etiológico específico mejora la respuesta del paciente, disminuye el coste de la atención, el riesgo de infecciones nosocomiales asociadas al uso de antibioterapia de amplio espectro como la infección por Clostridium difficile y el potencial desarrollo de resistencias bacterianas.
+En pacientes con NAC tratada ambulatoriamente no es necesaria ninguna técnica diagnóstica microbiológica; sin embargo, en pacientes con NAC que requieren hospitalización hay que tratar de identificar el agente causal. Se recomienda obtener al menos 2 hemocultivos, antígenos en orina para Legionella spp. y neumococo y cultivos de esputo a todo paciente ingresado por NAC. Además se debe obtener aspirado nasofaríngeo si existe sospecha de infección por virus de la gripe con indicación de tratamiento y toracocentesis con análisis de líquido pleural (tinción de Gram, cultivo en medios aerobios y anaerobios, valorar detección de antígenos y/o técnicas de biología molecular) si hay derrame pleural asociado.
+En pacientes ingresados en la UCI se recomienda obtener además una muestra respiratoria mediante aspirado traqueal, lavado broncoalveolar (LBA) o catéter telescopado según la localización y la sospecha clínica con Gram, cultivos, detección de antígenos y técnicas de biología molecular. Las técnicas broncoscópicas también están indicadas en pacientes con NN y en inmunodeprimidos.
+En pacientes con NAC con mala evolución clínica o con sospecha clínica o epidemiológica de patógenos infrecuentes se recomienza realizar una tinción de Ziehl-Neelsen y un cultivo de micobacterias en muestras respiratorias y líquido pleural (valorar pruebas de biología molecular), cultivo micológico y actinomicetales con tinciones de Giemsa y de Kinyoun, nuevos hemocultivos, muestra respiratoria por técnicas invasivas (aspirado traqueal, LBA, catéter telescopado) para cultivos convencionales y especiales, serologías según sospecha clínica y técnicas de biología molecular según sospecha (neumococo si la muestra se ha obtenido después del inicio de antibiótico, micobacterias, virus respiratorios).
+Tratamiento . Recomendaciones generales . El tratamiento antibiótico inicial en la NAC es empírico, y su elección se basa en la gravedad de la NAC y en los factores de riesgo que tenga el paciente (tabla 6 ). En cuanto al inicio de la primera dosis de antibiótico, debe ser administrada en Urgencias antes de que el paciente sea trasladado a una planta de hospitalización. En aquellos pacientes en los que se consigue un diagnóstico etiológico se recomienda realizar desescalamiento o ajuste de tratamiento empírico. Aunque en pacientes que requieren ingreso hospitalario el tratamiento inicial es intravenoso, la terapia secuencial a vía oral debe realizarse lo antes posible si el paciente cumple criterios de estabilidad clínica (Tª menor de 37,2 °C, FC menor de 100 lpm, FR inferior a 24 rpm, tensión arterial sistólica –TAS– mayor de 90 mm Hg, saturación de oxígeno –SO2– superior al 90%, buen nivel de consciencia y tolerancia oral).
+La duración del tratamiento es variable, siendo la pauta estándar de 5 a 7 días y recomendando prolongar el tratamiento si la cobertura inicial fue inadecuada, persiste la fiebre durante más de 72 horas, no cumple más de un criterio de estabilidad clínica o aparecieran complicaciones extrapulmonares como meningitis o endocarditis.
+En la actualidad las cifras de S. pneumoniae resistente a macrólidos son elevadas, por lo que no se recomienda este tratamiento en monoterapia. Asimismo, en la última década ha aumentado el porcentaje de neumococos con resistencia a penicilina (intermedia o alta), por lo que se recomiendan dosis elevadas de antibióticos betalactámicos que alcancen niveles séricos eficaces para el tratamiento de neumococos con resistencia intermedia. También han aumentado las resistencias a levofloxacino fruto de dosis subóptimas, para evitar la aparición de las mismas se recomiendan dosis de levofloxacino 750 mg/24 horas, no obstante, al no estar comercializada esta presentación en España se recomienda administrar 500 mg cada 12 horas durante al menos los 3 primeros días de tratamiento.
+Sospecha de neumonía adquirida en la comunidad causada por S. aureus resistente a meticilina. Entidad poco frecuente en Europa producida por S. aureus resistente a meticilina (SARM) que posee el factor de virulencia Panton-Valentine. Suele producir neumonía necrotizante grave en pacientes jóvenes. Se recomienda añadir linezolid o vancomicina al tratamiento empírico de estos pacientes.
+Neumonía que no responde a tratamiento. Se produce hasta en el 15% de los pacientes hospitalizados. Incluye a aquellos pacientes que presentan neumonía progresiva en las primeras 72 horas del tratamiento (evolución a insuficiencia respiratoria grave o desarrollo de shock séptico) o neumonía persistente (ausencia de estabilidad clínica más allá de las 72 horas de tratamiento). Las causas más frecuentes son infecciosa (40%), no infecciosa (15%) e indeterminada en el resto. En estos pacientes se recomienda la reevaluación diagnóstica completa que incluye: a) reconsiderar el diagnóstico de NAC, valorando la realización de tomografía computadorizada (TC) torácica que permite descartar enfermedad tromboembólica o neoplásica y estudio inmunológico ante la posibilidad de enfermedades sistémicas con afectación pulmonar o hemorragia alveolar; b) nuevos estudios microbiológicos no invasivos buscando bacterias, micobacterias, virus y hongos oportunistas; c) estudios microbiológicos invasivos (aspirado bronquial, LBA, citología y biopsia). En estos pacientes se recomienda ampliar la antibioterapia empírica inicial con posterior ajuste en función de los resultados microbiológicos.
+
+
+-- NEUMONÍA RELACIONADA CON LA ASISTENCIA SANITARIA Y NEUMONÍA NOSOCOMIAL
+
+--- EPIDEMIOLOGÍA
+
+La neumonía es la infección nosocomial más frecuente después de la urinaria (15-21%), siendo su factor de riesgo más importante la VMI mediante intubación orotraqueal en pacientes ingresados en la UCI. En el año 2005 las guías IDSA/ATS incluyen la NRAS como una nueva categoría de neumonías que trataremos en este punto, ya que su etiología y pronóstico se asemeja más a la NN que a la NAC.
+
+
+--- ETIOLOGÍA
+
+En pacientes con NN precoz (menos de 5 días de hospitalización), los microorganismos responsables son similares a la NAC, salvo que el paciente tenga factores de riesgo específicos (tabla 7 ). S. pneumoniae, H. influenzae, M. catarrhalis o flora anaerobia (sobre todo si existe cirugía abdominal previa) son los gérmenes más frecuentes.
+En pacientes con NN de presentación tardía (5 o más días de hospitalización) suelen estar implicados bacilos gramnegativos (E. coli, Klebsiella pneumoniae con posibilidad de ser productores de betalactamasas de espectro extendido –BLEE–, Enterobacter spp., Serratia spp., Proteus spp.) y otros bacilos como P. aeruginosa (causa más frecuente), Acinetobacter baumannii y Stenotrophomonas maltophila. El aislamiento de SAMR ha aumentado en los últimos años en pacientes con NN, sobre todo en la NAVM donde también se aíslan frecuentemente P. aeruginosa, E. coli, K. pneumoniae productores de BLEE y Acinetobacter spp. Los principales factores de riesgo para determinados microorganismos se enumeran en la tabla 7 .
+
+
+--- DIAGNÓSTICO
+
+Al igual que en pacientes con NAC están indicadas pruebas analíticas para establecer la gravedad de la neumonía, radiografía de tórax para confirmar el diagnóstico y al menos hemocultivos, determinación de antígenos urinarios y análisis de esputo para determinar la etiología, realizando pruebas invasivas en pacientes con NAVM. Se considera NN grave si requiere ingreso en la UCI, si el paciente presenta sepsis grave, sepsis de alto riesgo o shock séptico, si precia soporte ventilatorio o presenta rápida progresión radiológica, afectación multilobar o cavitación de un infiltrado pulmonar.
+
+
+--- TRATAMIENTO
+
+Pacientes con NN precoz no grave y sin factores de riesgo pueden ser tratados como los pacientes con NAC.
+En pacientes con NN tardía no grave y sin factores de riesgo para gérmenes multirresistentes se pueden pautar cefalosporinas de tercera generación (ceftriaxona o cefotaxima), quinolonas (levofloxacino o ciprofloxacino), piperacilina-tazobactam o ertapenem.
+En pacientes con NN grave o con factores de riesgo para infección por microorganismos resistentes se recomienda asociar una cefalosporina antipseudomonas (cefepime o ceftazidima) o un carbapenem (imipenem o meropenem) o piperazilina-tazobactam a una fluorquinolona antipseudomonas (levofloxacino o ciprofloxacino) o un aminoglucósido (tobramicina o amikacina) y añadir un tercer fármaco si hay sospecha de infección por SAMR (vancomicina o linezolid o teicoplanina). Las dosis son las recomendadas para la NAC, teniendo en cuenta que en pacientes con alteración de la función renal y hepática hay que ajustar la dosis de algunos antibióticos, .
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+Importante
+Muy importante
+Metaanálisis
+Artículo de revisión
+Ensayo clínico controlado
+Guía de práctica clínica
+Epidemiología

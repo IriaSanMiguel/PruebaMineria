@@ -1,0 +1,40 @@
+GASTO SANITARIO PÚBLICO Y MORTALIDAD POR COVID-19 EN ESPAÑA Y EN EUROPA
+
+
+- INTRODUCCIÓN
+
+A pesar de la autoproclamada bondad del Sistema Nacional de Salud español (SNS), España es uno de los países que peores resultados está obteniendo en la lucha contra la pandemia provocada por el SARS-CoV-2 (es el quinto con mayor tasa de mortalidad poblacional), situándose en el último puesto entre los países de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) en el índice piloto e indicadores de desempeño para la COVID-19.
+La inmensa mayoría de los comparecientes en el Grupo de Trabajo Sanidad y Salud Pública de la Comisión Parlamentaria para la Reconstrucción Social y Económica aludieron al «bajo» gasto sanitario del SNS como una de las causas de la mala respuesta a la crisis de la COVID-19 de nuestro país y se ha señalado a la «austeridad» posterior a la crisis de 2008 como un factor agravante. Si esta tesis fuera correcta, los países con más gasto dedicado a sanidad pública o, en España, las comunidades autónomas con mayor gasto sanitario público, tenderían a obtener mejores resultados.
+En este trabajo se analiza la asociación entre el gasto sanitario público y la tasa de mortalidad poblacional por COVID-19 (TMP-COVID-19) en Europa y en España.
+
+
+- MATERIAL Y MÉTODOS
+
+Se analizó la asociación entre la TMP-COVID-19 y el gasto sanitario público per cápita (GSPpc). Para las comparaciones entre países europeos, se utilizó la base de datos de la OCDE para el cálculo del GSPpc (último dato disponible, referido a 2019) y el registro de la Johns Hopkins University para el cálculo de la TMP-COVID-19 (referido al 29 de agosto del 2020).
+Para las comparaciones entre comunidades autónomas se utilizó la estadística de gasto sanitario público y la TMP-COVID-19, en cada una de ellas, se calculó como el número de muertes en cada comunidad autónoma publicado por el Ministerio de Sanidad al 28 de agosto del 2020, dividido por su población al primero de enero del 2019, publicada por el Instituto Nacional de Estadística (INE).
+Para analizar las correlaciones entre las variables de GSPpc y de TMP-COVID-19 se utilizó el coeficiente de correlación de Pearson. Asimismo, se contrastaron, para los países europeos y las comunidades autónomas, las TMP-COVID-19 entre aquellos con mayor y menor GSPpc que el promedio mediante la t de Student.
+Todos los contrastes realizados fueron bilaterales y las diferencias se consideraron significativas con p < 0,05.
+
+
+- RESULTADOS
+
+No se halló una correlación, en los países europeos, entre GSPpc y TMP-COVID-19 (r: 0,3; p = 0,14) (tabla 1 ). Tampoco se encontró esta asociación para las comunidades autónomas (r: 0,03; p = 0,91) (fig. 1 ). Asimismo, no se observaron diferencias significativas en la TMP-COVID-19 entre grupos de GSPpc superiores o inferiores al promedio para los países europeos (29,5 ± 25,7, en GSPpc > 3.559 US$ en poderes paritarios de compra frente a 14,4 ± 21,9, GSPpc < 3.559 US$; p = 0,1) ni entre comunidades autónomas (70,7 ± 42,3, en GSPpc > 1.416 € frente a 14,4 ± 21,9, GSPpc < 1.416 €; p = 0,3).Figura 1
+
+
+- DISCUSIÓN
+
+El «bajo» gasto sanitario público no puede, con la información disponible de los países europeos y las comunidades autónomas, alegarse como cofactor causal de los malos resultados en el manejo de la crisis de la COVID-19 en España. Este hallazgo no es sorprendente, pues las posibles explicaciones de este fracaso (la falta de preparación para la pandemia; la mala coordinación entre las autoridades centrales y regionales, entre hospital y atención primaria, entre el sistema sanitario y los servicios sociales; el envejecimiento de la población; las desigualdades sociales y de salud, etc.), , no están directamente vinculadas a la disponibilidad de recursos sino a su apropiada utilización. Algunos estudios que comparan la tasa de letalidad y de mortalidad por COVID-19 no han encontrado la asociación entre mayor gasto sanitario público y mejores resultados, .
+La relación entre «bajo gasto sanitario público» y malos resultados, mantenida por distintos expertos y agentes del sistema, sería inocua si no comprometiera dos aspectos que son relevantes: el primero desde la perspectiva ética y el segundo, estratégico.
+Berwick, entre otros, ha llamado la atención sobre que la mayor parte de los factores de producción de salud se encuentran en políticas sociales que compiten con la sanidad en la distribución pública de recursos. Reclamar más recursos para «sanidad» en nombre de la «salud», sin haber abordado las acciones precisas para obtener la mayor rentabilidad social de los recursos públicos destinados a sanidad, no es éticamente sustentable. Este razonamiento conduce al siguiente aspecto. Una de las bondades que puede derivar de la pandemia es contribuir a remover las barreras para las mejoras y las reformas que requiere el SNS. Entre estas están las relacionadas con eliminar el gasto que no beneficia a la salud.
+En España, la Sociedad Española de Medicina Interna impulsó el movimiento «no hacer», alineado en este sentido. La asociación, no basada en la evidencia, entre el «bajo gasto sanitario público» y los resultados desvía la atención sobre el hecho, crucial, de que una fuente relevante de recursos para sanidad es el aumento en la eficiencia clínica, que es en donde se concentra el gasto sanitario y que, para ello, es necesario contar con los profesionales clínicos y las sociedades científico-médicas.
+El aumento de la eficiencia clínica no agota las acciones de mejora y de reforma de nuestro SNS, que abarcan también elementos estructurales, de modelo asistencial, del sistema de información, etc, .
+
+
+- CONCLUSIONES
+
+La asociación entre «bajo gasto sanitario público» y los malos resultados obtenidos por el SNS en la crisis de la COVID-19 no está sustentada en la evidencia disponible. Los incrementos de financiación de la sanidad pública deberían destinarse a las reformas estructurales para aumentar su eficiencia social.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

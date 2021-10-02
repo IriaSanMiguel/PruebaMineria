@@ -1,0 +1,61 @@
+PRIORIDADES EN SEGURIDAD DEL PACIENTE EN ATENCIÓN PRIMARIA
+
+
+Desde finales del siglo XX se ha evaluado el impacto de los eventos adversos ligados a la asistencia sanitaria (EAs). Ya sabemos que muchos de ellos son irreversibles, costosos y evitables en ambos niveles asistenciales. Paralelamente han sido formuladas varias propuestas de prácticas seguras (PS) para mejorar la seguridad del paciente (SP), algunas bien estructuradas para el primer nivel asistencial, como «Siete pasos para la seguridad del paciente en atención primaria (AP)».
+En España, el Plan de Calidad para el SNS 2005-2009 promovía: «mejorar la SP de los pacientes atendidos en los centros sanitarios del SNS». El Ministerio de Sanidad, en colaboración con las comunidades autónomas (CC. AA.), elaboró la Estrategia de SP del SNS 2005-2011 y financió estudios para conocer nuestra realidad. Entre ellos, el «Estudio de la Seguridad de los Pacientes en AP de Salud» (APEAS), que identificó 11,2 EAs por cada mil visitas. De los graves, el 70% eran evitables. La mayor parte estaban ligados a la medicación y a los cuidados, el 24,6% a la comunicación y el 8,9% a la gestión. La práctica sanitaria en AP es segura pero si se generalizan los resultados a los profesionales de AP, cada uno podríamos vivir 6 EAs en un año, dada la elevada frecuentación (5,48 visitas por paciente y año).
+Han pasado ya diez años del despliegue de la estrategia nacional y podemos realizar una serie de propuestas para seguir construyendo el futuro de la SP en AP:
+
+
+- OBJETIVO 1: PROMOVER Y DESARROLLAR EL CONOCIMIENTO Y LA CULTURA DE SEGURIDAD DEL PACIENTE
+
+Una verdadera cultura de seguridad es aquella en la que cada persona de la organización reconoce sus responsabilidades con la SP y se esfuerza en mejorar la asistencia que proporciona, reconociendo que, a pesar de ello, sucederán errores e incidentes en la atención sanitaria que deberá mitigar. La evidencia demuestra que si una organización es consciente de la seguridad y las personas son estimuladas a hablar abiertamente sobre errores e incidentes, la SP y la atención al paciente se ven mejoradas.
+El estudio nacional de percepción de la cultura de SP en AP revela que la percepción de la cultura de SP en AP en España es buena. Entre las dimensiones de la cultura de seguridad del paciente del cuestionario utilizado , las mejor valoradas son los «aspectos relacionados con la seguridad del paciente y la calidad en la consulta», el «seguimiento de la atención a los pacientes» y el «intercambio de información con otros dispositivos asistenciales». El área de mejora es el «ritmo y carga de trabajo» con la puntuación más baja. Las mujeres, enfermeras, profesionales con puestos de responsabilidad en los equipos y los de edad media entre 55 y 65 años son los que tienen una valoración más positiva de la seguridad.
+Diversos factores pueden repercutir favorablemente a este nivel de cultura de SP, entre ellos que España dispone de uno de los diez primeros modelos de AP del mundo. Según el informe SESPAS 2012, la existencia de la función de filtro del médico de familia disminuye la iatrogenia del acceso directo, mejora el valor predictivo positivo del trabajo de los especialistas, previene la fascinación tecnológica y ayuda a la sostenibilidad y eficiencia del sistema sanitario. La asignación de una lista de pacientes (cupo) por médico favorece la longitudinalidad, que mejora la respuesta médica a las necesidades del paciente, su identificación correcta, una menor tasa de hospitalización y, probablemente, minora los riesgos asistenciales.
+Contrariamente, la falta de inversión en AP afecta desfavorablemente a la SP reflejándose en la baja valoración de la dimensión de «ritmo y carga de trabajo» antes comentada. Dimensión que traduce una realidad con sobrecarga asistencial, con tareas transferidas desde atención especializada y burocracia creciente (informes, bajas laborales, introducción de datos en la historia clínica electrónica…) a pesar de las medidas de desburocratización promovidas. Otros factores como el envejecimiento de la población, el aumento de la cronicidad o la polimedicación se añaden a un conjunto de cambios que hacen virar la AP hacia una atención ambulatoria compleja y sin la inversión que necesita.
+Valorada la influencia de la cultura de la organización y de las actitudes de los equipos sobre la SP, esta se convierte en un área competencial y formativa esencial para avanzar en SP y su medición puede utilizarse para monitorizar el cambio de una forma eficiente, utilizando herramientas como el cuestionario «Medical Office Survey on Patient Safety Culture» que, traducido y adaptado a nuestro ámbito, ofrece una herramienta Excel para que los equipos realicen una autoevaluación de la evolución de la cultura de SP y comparen sus resultados con los registros de la base de datos disponible de la AHRQ.
+
+
+- OBJETIVO 2: DISEÑAR Y ESTABLECER SISTEMAS DE INFORMACIÓN Y NOTIFICACIÓN DE INCIDENTES RELACIONADOS CON LA SEGURIDAD DEL PACIENTE
+
+El desarrollo de sistemas de notificación de incidentes y EA es fundamental para aprender de los errores. Sin embargo, existen reticencias de los profesionales a notificar por el temor a posibles consecuencias punitivas. Tres informes jurídicos analizan la legislación nacional e internacional, proponiendo reformas de carácter normativo para permitir la implantación de un sistema de notificación no punitivo, garantizando el anonimato del declarante, tarea todavía pendiente. Actualmente el MSPSI y varias CC. AA. cuentan con sistemas de notificación y aprendizaje de incidentes sin daño y relacionados con la medicación con retroalimentación a sus profesionales a través de boletines, .
+
+
+- OBJETIVO 3: IMPLANTAR PRÁCTICAS SEGURAS EN EL SISTEMA NACIONAL DE SALUD
+
+Hay numerosas PS ya implantadas en primaria, siendo las de mayor impacto las que afectan al mejor uso de la medicación. En este sentido el desarrollo de la historia clínica informatizada ha jugado un papel esencial al integrar sistemas de ayuda a la prescripción y seguimiento de la medicación. Además una historia compartida por AP y AE favorece la conciliación de la medicación en las transiciones asistenciales. La prescripción electrónica en AP está implantada en casi todas las comunidades.
+Los medicamentos de alto riesgo son los implicados en los EAs más graves. Iniciativas como el proyecto MARC (elaboración de una lista de medicamentos de alto riesgo para los pacientes crónicos) ayudan a los profesionales a identificarlos.
+Otras PS en relación con los medicamentos son la del control de la resistencia antimicrobiana a través del uso prudente de los antibióticos y la promoción de la isoapariencia de los fármacos con igual principio activo, «si son iguales, que parezcan iguales», son un reto a conseguir.
+La mejora de la comunicación entre profesionales y pacientes es otra gran área para mejorar la seguridad, y AP reúne las condiciones de conocimiento y confianza mutua para que se dé.
+Cuando se produce un EA grave es preciso atender a los pacientes (primeras víctimas) y a sus próximos, pero también atender a los profesionales implicados, que pueden convertirse en segundas víctimas por el impacto emocional que les produce. Se está trabajando en preparar planes de respuesta de los servicios y los centros de salud tras un EA, que incluyan protocolos aplicables por los compañeros de equipo de los profesionales implicados. En la tabla 1 realizamos algunas propuestas de PS en relación con las dimensiones de cultura de SP.
+
+
+- OBJETIVO 4: PROMOVER LA INVESTIGACIÓN EN SEGURIDAD DEL PACIENTE
+
+Existe un aumento de publicaciones sobre SP en AP desde 2001. Una revisión muestra que el 55% están relacionadas con la prescripción. Otros temas menos tratados son los EA y el clima de seguridad (8%), aspectos informáticos (4,5%), el rol del paciente (3%), medidas generales para corrección de errores (5%), errores diagnósticos (menor de 1%) y apenas se escribe de los resultados de pruebas y derivaciones. Por ello se señalan como áreas de investigación las menos representadas junto con la evaluación de los sistemas de gestión de la seguridad, la formación y la cultura de SP. Otra recomendación es la de introducir metodologías cualitativas.
+
+
+- OBJETIVO 5: PARTICIPACIÓN DE LOS PACIENTES EN LA ESTRATEGIA DE SEGURIDAD DEL PACIENTE
+
+Los pacientes y sus cuidadores juegan un papel fundamental en la SP, tanto en el uso seguro de la medicación como en otros aspectos. La consolidación y fomento de la participación de los pacientes y ciudadanos en la estrategia de SP, se realiza a través de escuelas de pacientes a nivel de las CC. AA. o el desarrollo de programas de formación de pacientes expertos.
+A nivel de la consulta del día a día, la toma de decisiones compartidas con el paciente es una actividad de corresponsabilidad a trabajar entre médicos de familia y pacientes.
+Nuevas tecnologías como las apps permiten a los pacientes diagnosticar, tratar o prevenir problemas de salud fuera de un entorno sanitario tradicional. Estas apps no se consideran equipamientos médicos y, por tanto, no están sometidas a ningún tipo de garantía de calidad. En España, el Observatorio para la Seguridad del Paciente de Andalucía ha comenzado a evaluar estas aplicaciones creando un sello de garantía propio y está desarrollando apps de salud para pacientes.
+
+
+- OBJETIVO 6: REFORZAR LA PARTICIPACIÓN DE ESPAÑA EN TODOS LOS FOROS SOBRE SEGURIDAD DEL PACIENTE DE LAS PRINCIPALES ORGANIZACIONES INTERNACIONALES
+
+España está representada en diferentes proyectos a nivel internacional, a través del Ministerio de Sanidad, de las CC. AA. y de las sociedades científicas.
+En el grupo de la OMS para la SP en AP hay participantes españoles.
+A nivel europeo, España participa en la Joint Action PASQ (European Union Network for Patient Safety and Quality of Care, de la Comisión Europea), liderando el Work Package 6 y participando en el WP 4 y 5, ambos relacionados con PS. Puede ser una buena fuente de ideas para introducir mejoras en nuestros equipos de AP.
+La SP en AP es un ciclo de mejora continuo en el que año tras año debemos plantear nuevos retos. Cada equipo debe seleccionar sus PS prioritarias e implantarlas para construir, entre todos, una AP más segura.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- ANEXO
+
+Los miembros del grupo de seguridad del paciente de SEMFYC son Carlos Aibar Remón,
+Gemma Almonacid Canseco, Rafael Bravo Toledo, Silvia Clavet Junoy, Cecilia Calvo Pita,
+José María Coll Benejam, Juan José Jurado Balbuena, M. José Lázaro Gómez, José Ángel Maderuelo Fernández, María Pilar Marcos Calvo, María Dolores Martín Rodríguez, Sergio Minué Lorenzo, Jesús Palacio Lapuente, Pastora Pérez Pérez, José Saura Llamas, María Luisa Torijano Casalengua, Guadalupe Olivera Cañadas, María Pilar Astier Peña (coordinadora del grupo).

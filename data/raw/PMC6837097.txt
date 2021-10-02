@@ -1,0 +1,92 @@
+VALIDEZ DE LA ECOGRAFÍA ABDOMINAL EN ATENCIÓN PRIMARIA PARA DETECCIÓN DE ANEURISMA DE AORTA ABDOMINAL EN VARONES DE ENTRE 65 Y 75 AÑOS<SUP
+
+
+- INTRODUCCIÓN
+
+El aneurisma de aorta abdominal (AAA) es una dilatación patológica de la aorta mayor o igual a 3 cm. El sector de la aorta infrarrenal es el más afectado por el proceso ateroesclerótico y es el sitio más común de formación del aneurisma abdominal: la porción suprarrenal se afecta únicamente en un 5% de los casos.
+La prevalencia estimada de AAA varía en función de factores como la edad, el sexo masculino, los antecedentes familiares de aneurisma y factores de riesgo vascular, como el tabaquismo, la hipertensión arterial, la dislipidemia y la enfermedad arterial periférica.
+Su prevalencia va en aumento, principalmente por el envejecimiento de la población, y afecta a un 1,5-2% de los adultos, al 6-7% de los mayores de 60 años y hasta a un 12% de los mayores de 80 años.
+Un 75% de los AAA son asintomáticos y suele ser un hallazgo casual en pruebas de imagen. No existen síntomas que nos orienten al diagnóstico de AAA en sus etapas tempranas, ya que el curso es silente y paucisintomático.
+La rotura del AAA es la complicación más grave. Existen estudios que confirman la relación entre su diámetro y el riesgo de rotura. Este es especialmente frecuente en los AAA ≥ 5,5 cm y conlleva una mortalidad prehospitalaria del 60%. La mortalidad hospitalaria de los intervenidos de urgencia es del 40-70%, lo que supone que la total sea de un 85-90%. Esto supone un 1-2% de todas las muertes del mundo occidental.
+La ecografía, debido a su bajo coste, amplia disponibilidad, ausencia de riesgos y alto rendimiento diagnóstico (sensibilidad del 95% y una especificidad de casi el 100%) frente a otras técnicas de imagen más costosas y agresivas, es la prueba más utilizada y recomendada por las sociedades científicas en la detección del AAA.
+Dada la reciente implantación de ecógrafos en los centros de Atención Primaria (AP), se consideró de interés evaluar la posibilidad de detección de AAA en sujetos asintomáticos por parte de los médicos de familia.
+La mayoría de los estudios han sido realizados en el medio hospitalario, por especialistas de radiodiagnóstico y cirugía vascular. En los llevados a cabo en AP, el objetivo principal ha sido determinar la prevalencia de AAA, sin evaluar la concordancia en el diagnóstico entre AP y especializada.
+Por todo ello, el objetivo principal fue determinar la validez de la ecografía en AP para la detección de AAA en varones de 65 a 75 años y la concordancia interobservador en el diagnóstico entre médicos de AP y el referente del Área (Cirugía Vascular). Y, a su vez, estimar la prevalencia de AAA en dicha población, así como evaluar la relación del AAA con los diferentes factores de riesgo mencionados.
+
+
+- POBLACIÓN Y MÉTODO
+
+-- DISEÑO
+
+Se realizó un estudio observacional descriptivo transversal sobre una muestra probabilística de varones nacidos entre el 1/1/1939 y el 31/12/1950 pertenecientes a las zonas básicas de salud de El Coto y La Calzada II de Gijón (Asturias). El estudio se llevó a cabo entre febrero y diciembre de 2015.
+
+
+-- SELECCIÓN DE SUJETOS
+
+De una población total de 2.511 varones se predeterminó, mediante el programa estadístico Epidat 4.1, un tamaño muestral de 407 sujetos bajo el supuesto de una prevalencia de AAA del 6,5%, un nivel de confianza del 95% y una precisión del 2,5%, asumiendo un 25% de pérdidas. Se llevó a cabo un muestreo aleatorizado estratificado con afijación proporcional por centros de salud.
+Como único criterio de exclusión, se consideró a los intervenidos de AAA anteriormente.
+Se tomó como variable dependiente el diámetro de la aorta abdominal, considerando aneurisma si el diámetro era ≥3 cm y no aneurisma si los diámetros eran <3 cm. Como variables independientes se tomó la edad por fecha de nacimiento, se escogió a los nacidos entre el 1/1/1939 y el 31/12/1950; el perímetro abdominal; el hábito tabáquico, se dividió a los sujetos en fumadores, exfumadores y no fumadores y se cuantificó el número de paquetes/año acumulado; hipertensión arterial; diabetes mellitus; dislipidemia; existencia o no de antecedentes familiares de AAA y antecedentes personales de accidente cerebrovascular y enfermedad coronaria.
+
+
+-- INTERVENCIONES
+
+El proyecto fue enviado al Comité Ético de Investigación Clínica Regional del Principado de Asturias, que consideró que reunía las condiciones éticas necesarias para poder realizarse.
+Como formación previa al estudio se realizó el curso «Ecografía clínica básica» impartido por el grupo de Ecografía de SEMES (8 h) y se cursó formación específica impartida por el equipo de Cirugía Vascular del hospital de referencia, dirigida a la detección y medición de AAA.
+Se realizó un estudio piloto en el que participaron 20 sujetos con el objetivo de hallar la concordancia interobservador entre las 5 investigadoras, con un coeficiente de correlación intraclase (CCI) de 0,94 (IC 95%: 0,89 a 0,97).
+Se envió una carta explicativa a los sujetos seleccionados y se contactó con ellos telefónicamente. Aceptaron participar en el estudio un total de 304. En la consulta programada, previa firma de consentimiento informado, se rellenó el cuestionario sobre hábito tabáquico y antecedentes familiares de AAA, se midió el perímetro abdominal y se realizó la ecografía abdominal mediante un ecógrafo LOGIQ5, visualizando la aorta longitudinalmente y realizando una medición en posición transversal en su porción más ancha. Se registraron 3 mediciones y se eligió la de mayor valor. Finalmente, se revisó la historia clínica y se recogieron los factores de riesgo cardiovascular (hipertensión, diabetes y dislipidemia) y eventos cardiovasculares (enfermedad coronaria y accidente cerebrovascular).
+Se acordó con el Servicio de Cirugía Vascular del Hospital de Cabueñes (referente del Área) derivar para una segunda medición a todos los pacientes con medida positiva (≥3 cm) y al 20% de los pacientes con medida negativa (<3 cm), seleccionados mediante muestreo aleatorizado simple. Además, todos los pacientes con medidas entre 2,5 y 3 cm fueron enviados para una segunda valoración por cuestiones éticas.
+Todas las medidas realizadas por Cirugía Vascular las tomaron 2 médicos de dicho servicio, con enmascaramiento, sin conocimiento del resultado de la medida tomada en AP.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+El análisis estadístico se llevó a cabo mediante inferencia bayesiana usando el paquete estadístico R 3.2.3 y WinBUGS 1.4. Se utilizaron modelos para proporciones con distribuciones previas no informativas para inferir sobre la prevalencia y los índices de validez. Así mismo, se estimaron las razones de odds (odds ratio) de los diferentes factores potencialmente asociados a la existencia de AAA mediante modelos de regresión logística multivariante con distribuciones previas uniformes impropias para los coeficientes de regresión. La selección del mejor modelo —que resultó ser el que incluía como variables independientes: edad, hipertensión arterial, hábito tabáquico, dislipidemia y diabetes— se realizó con base en el menor valor del deviance information criterion. Las distribuciones posteriores se resumieron mediante las medias y los intervalos de credibilidad del 95%, que son los equivalentes bayesianos de los intervalos de confianza, pero que presentan la ventaja de poder ser interpretados directamente en términos probabilísticos, es decir, el intervalo de credibilidad del 95% contiene el valor del parámetro con probabilidad 95%; así mismo, se presentan los gráficos de densidad correspondientes.
+
+
+- RESULTADOS
+
+En el estudio participaron un total de 304 varones. De estos, 232 sujetos pertenecían al centro de salud El Coto y 175 sujetos al centro de salud La Calzada II.
+Los sujetos estudiados presentaban edades entre 65 y 75 años, con una edad media de 69,9 años (DE = 3,2).
+El perímetro abdominal de los individuos estudiados presentó una media de 102,6 (DE = 10,7).
+Respecto al hábito tabáquico, 43 de los sujetos eran fumadores, 175 exfumadores y 86 no fumadores.
+De los varones estudiados, 10 (3%) presentaron antecedentes familiares de AAA, 163 (54%) tenían hipertensión arterial, 75 (25%) tenían diabetes mellitus, 110 (37%) eran dislipémicos, 46 (15%) presentaban enfermedad coronaria y 15 (5%) habían tenido un accidente cerebrovascular.
+De las 304 ecografías abdominales realizadas en los centros de salud, 13 presentaron un tamaño de aorta abdominal ≥3 cm. Eran, por tanto, positivas para el diagnóstico de AAA. El resto de los sujetos presentaron un tamaño de aorta abdominal <3 cm, por lo que presentaron un resultado negativo para AAA.
+Todos los individuos con diagnóstico de AAA desde AP fueron derivados para una segunda medición al Servicio de Cirugía Vascular. Del grupo de individuos con diagnóstico negativo fueron derivados 63 pacientes. Con esta segunda medición se confirmaron los 13 diagnósticos de AAA. Los otros 63 sujetos derivados presentaron un tamaño de aorta abdominal dentro de los límites normales.
+La distribución posterior de prevalencia de AAA en varones de entre 65 y 75 años en nuestras zonas básicas de salud fue de 4,6% (ICred95%: 2,5-7,2%) .Figura 1
+Tras el análisis de resultados se obtuvo una distribución posterior de sensibilidad de ecografía abdominal en AP para detección de AAA del 93,3% (ICred95%: 75,4-99,9%) .Figura 2
+La distribución posterior de la especificidad de ecografía abdominal en AP para detección de AAA fue de 98,5% (ICred: 94,3-100%) .Figura 3
+El CCI entre AP y Cirugía Vascular fue de 0,88 (ICred95%: 0,79-0,94).
+Se halló una razón de verosimilitud positiva (LR+) de 62,2 y una razón de verosimilitud negativa (LR−) de 0,07; estos valores conllevan una probabilidad posprueba de AAA del 75% cuando el diámetro de la aorta abdominal medido mediante ecografía en AP es ≥3 cm y del 0,3% cuando es <3 cm.
+Las variables que mostraron incrementar de forma relevante la odds de prevalencia de AAA fueron edad, tabaco, hipertensión arterial, dislipidemia y diabetes .Figura 4
+
+
+- DISCUSIÓN
+
+El AAA es una entidad que constituye un importante problema de salud. Al ser de curso silente, la mayoría de los diagnósticos son por hallazgo casual y puede no ser detectado hasta el momento de su rotura, lo que conlleva una alta mortalidad.
+El diagnóstico se puede realizar de manera sencilla mediante ecografía abdominal, una técnica que para la detección de AAA resulta de fácil aprendizaje y que, aunque durante años estuvo limitada al medio hospitalario, actualmente se encuentra disponible en muchos de los centros de salud.
+Existen numerosos estudios sobre AAA centrados en su prevalencia y en su relación con distintos factores de riesgo, , , , , . Sin embargo, destaca que, en la bibliografía revisada hasta la fecha, son muy pocos los estudios encontrados que valoren la concordancia en el diagnóstico de AAA mediante ecografía entre médicos de AP y su referente hospitalario.
+Por este vacío en la literatura y dada la reciente implantación de ecógrafos en los centros de salud donde se realizó el estudio, el objetivo principal del estudio fue evaluar la validez de la prueba realizada desde AP y la concordancia en la medida entre este ámbito y el referente de Área.
+Se utilizó el CCI para valorar el grado de reproducibilidad o fiabilidad. Aunque la interpretación es subjetiva, Fleiss propone una escala para valorar el CCI de tal forma que valores inferiores a 0,4 indican poca reproducibilidad; valores entre 0,40 y 0,75 se consideran adecuados y valores iguales o superiores a 0,75 indican reproducibilidad excelente.
+En este caso, el CCI entre AP y Cirugía Vascular demostró una reproducibilidad excelente.
+Los resultados del estudio revelaron una sensibilidad y especificidad muy altas, lo que se traduce en una muy buena validez para el diagnóstico de AAA mediante ecografía en AP.
+Con todo ello, cabe destacar que la realización de una ecografía abdominal con el objetivo de valorar la existencia de AAA desde AP sería equivalente a realizarla en Cirugía Vascular, referente del Área.
+Como objetivos secundarios se realizó el cálculo de prevalencia de AAA en nuestra población de estudio y se valoró su relación con los distintos factores de riesgo.
+La prevalencia obtenida en el estudio se ajusta a la de la literatura revisada. En España oscila entre el 3 y el 5%, y llega incluso a duplicarse en población de alto riesgo.
+Además de los estudios realizados a nivel nacional (Ciudad Real, Galdákano, León, Asturias), existen 4 grandes estudios multicéntricos que analizan la prevalencia de AAA y la disminución en la mortalidad por esta causa en sujetos con factores de riesgo (MASS 2002 en Reino Unido, Chichester en el 2002 en Reino Unido, Wester en 2003 en Australia y estudio Viborg en Dinamarca), , , . En ellos se observó una prevalencia de AAA que oscilaba entre el 3 y el 7%.
+Se decidió analizar como factores de riesgo relacionados con AAA aquellos que en todos los estudios revisados mostraban relación directa con la enfermedad. Sin embargo, en el análisis multivariante de este trabajo, los únicos que mostraron ser factores de riesgo en los sujetos estudiados fueron: el ser fumador activo o exfumador, la edad, la hipertensión, la dislipidemia y la diabetes.
+Con estos datos, se podría plantear si un programa de screening sería necesario en nuestro entorno, ya que varios estudios realizados a nivel internacional estiman que se podría reducir el riesgo de muerte por AAA hasta un 70%. El estudio canadiense (metaanálisis de los estudios MASS, danés, australiano y de Chichester) establece que el beneficio clínico del cribado de AAA en varones mayores de 65 años está probado con un nivel de evidencia Ia/A.
+Además se sabe, gracias a datos extraídos de otros estudios a nivel mundial, que la muerte por AAA es muy poco frecuente tras un resultado negativo en el cribado y que, por tanto, no sería necesaria la realización de nuevas ecografías en sujetos con un diámetro de aorta inferior a 2,5 cm.
+Actualmente no se dispone de un programa de cribado universal, como ocurre en otros países como Reino Unido. Habría que valorar con estudios más amplios de coste-efectividad la pertinencia de implantarlo en población de riesgo. Dada la alta validez diagnóstica en AP, se plantea la posibilidad de realizar la ecografía de cribado en los centros de salud. Mientras esta propuesta no se lleve a cabo, como médicos de familia con nociones básicas de ecografía deberíamos tener en cuenta la posibilidad de un cribado oportunista en nuestras consultas, seleccionando a aquellos pacientes que presenten factores de riesgo para el desarrollo de AAA.
+Tras el análisis de los resultados, se puede concluir que la ecografía en AP realizada por médicos de familia tras una formación básica para detección de AAA muestra muy alta validez diagnóstica.
+
+
+- LIMITACIONES
+
+Se identificó en primer lugar el sesgo de selección. Para disminuirlo, se seleccionó la muestra mediante un muestreo aleatorizado estratificado por centros de salud con estimación de un 25% de pérdidas, porcentaje que coincide con las resultantes del estudio.
+A su vez, el sesgo de información debía tenerse en cuenta, dado que el estudio fue realizado por 5 investigadoras en 2 centros de salud diferentes. Para minimizarlo, se utilizó un mismo modelo de ecógrafo en ambos centros y, por ser un método explorador-dependiente, se realizó un pilotaje previo que demostró la concordancia interobservador en las medidas de todas las investigadoras.
+Y, por último, se encontró el sesgo de verificación parcial o de referencia, que puede ocurrir por no aplicar la prueba a todos los sujetos del estudio y no obtener la confirmación diagnóstica de todos ellos. Este se ha intentado corregir enviando el máximo número de sujetos con ecografía normal en AP que el servicio de Cirugía Vascular pudo asumir, además de todos los que presentaban sospecha de AAA.Lo conocido sobre el tema-El AAA es un importante problema de salud que cursa de forma silente hasta el momento de su rotura, lo que conlleva una mortalidad de hasta el 85-90%.-La ecografía abdominal, debido a su bajo coste, amplia disponibilidad, ausencia de riesgo y alto rendimiento diagnóstico, se considera la prueba de elección para la detección de AAA.-Reciente implantación de ecógrafos en los centros de salud y escasos estudios de validez de esta prueba en Atención Primaria.Qué aporta este estudio-Conocer la prevalencia de AAA y su relación con los diferentes factores de riesgo en nuestro medio.-La ecografía en Atención Primaria realizada por médicos de familia tras una formación básica para detección de AAA muestra muy alta validez diagnóstica.-Planteamos la posibilidad de implantar en el futuro, previa realización de los estudios pertinentes de coste-efectividad, un cribado universal realizado por médicos de familia.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

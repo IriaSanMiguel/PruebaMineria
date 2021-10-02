@@ -1,0 +1,5 @@
+Los hallazgos de este estudio abordan algunos retos y oportunidades para otorgar servicios públicos a la población que vive en áreas más marginadas.
+Caracterizar la demanda de servicios de atención en la población que vive en localidades de menos de 100 000 habitantes.
+En la población que reportó haber tenido un problema de salud, sólo 32% se atendió en una institución pública. Se encontró que ser mujer, tener más de 50 años, tener seguridad social, percibir que el problema de salud es grave y pertenecer al nivel socioeconómico alto—dentro de este grupo de población— se asocia con mayor probabilidad de recibir atención.
+Se utilizaron los datos de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2018. Se caracterizó la cascada de atención y se estimaron modelos probit para analizar factores asociados con la probabilidad de recibir atención.
+

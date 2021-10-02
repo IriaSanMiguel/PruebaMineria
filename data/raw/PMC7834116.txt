@@ -1,0 +1,123 @@
+GESTIÓN DE LA PANDEMIA. VISIÓN DEL RADIÓLOGO
+
+
+- INTRODUCCIÓN
+
+La infección COVID-19 comenzó como una neumonía de origen desconocido, cuyos primeros casos se declararon en la República de China en diciembre de 2019. Desde la declaración de los primeros casos, se investigó sobre el origen de la enfermedad, se aisló la población infectada y se tomaron otras medidas preventivas. El 7 de enero de 2020 ya se había aislado el virus causante de la infección, un coronavirus que se denominó 2019-nCoV (“nuevo coronavirus detectado en el año 2019”). Pocos días después, ya se disponía del genoma de este virus y se empezaron a desarrollar pruebas que permitieran detectarlo y diagnosticarlo. En poco menos de un mes, la infección se había extendido a 24 países. El 11 de febrero de 2020, la Organización Mundial de la Salud denominó a esta nueva infección COVID-19, y justo un mes después, el 11 de marzo, la declaró pandemia mundial. Desde entonces, el número de casos sigue creciendo, de forma desigual en todo el mundo, y a principios de julio de 2020 ya se habían declarado más de once millones de casos y más de medio millón de muertes debidas a la infección COVID-19.
+La primera serie de casos de neumonía por COVID-19 se publicó en enero de 2020, con 41 pacientes. Desde entonces, el número de publicaciones ha crecido de forma casi exponencial y, en el ámbito de la radiología, no solo con casos con patología pulmonar, sino con manifestaciones de la infección COVID-19 en diferentes órganos y sistemas.
+La infección COVID-19 sigue planteando muchos interrogantes en lo que se refiere a epidemiología, virología, respuesta al tratamiento o el desarrollo de una eventual vacuna. Tampoco está claro el porcentaje de la población que está inmunizada ni la prevalencia de la infección fuera de los picos de mayor incidencia. Todos estos datos hacen que sea muy complejo establecer recomendaciones a la hora de plantear la adaptación de los procesos asistenciales en los servicios de radiología.
+Se han elaborado diferentes estudios sobre el análisis de cómo se puede esperar que sea el impacto de la infección COVID-19 en los próximos meses e incluso años. Dada la dificultad para conseguir datos robustos y la novedad que supone a nivel científico esta infección, los análisis suelen basarse en extrapolar resultados de infecciones producidas por virus similares (otros coronavirus) y en el estudio de modelos matemáticos basados en las distintas variables disponibles. En este contexto, las conclusiones pueden cambiar conforme se obtengan nuevos datos, pero algunos puntos sí parecen claros:
+
+
+- LA INFECCIÓN COVID-19. LO QUE EL RADIÓLOGO DEBERÍA SABER
+
+-- VIRUS SARS-COV-2
+
+El virus SARS-CoV-2 es un coronavirus del género ß (uno de los cuatro géneros de coronavirus), con una estructura y genoma muy similar a otros coronavirus ya conocidos, como el SARS-CoV y el MERS-CoV. Se trata de virus con una cadena única de ARN envuelta por una cápside, de morfología variable (habitualmente redondeado u ovoideo) y con un tamaño que oscila entre 60 y 140 nm. La nucleocápside está protegida por una envuelta fosfolipídica en la que se insertan las glucoproteínas de superficie (S, HE, M y E). De ellas, tiene especial relevancia la proteína S, que es la que se une al receptor celular para permitir la entrada del virus a la célula. La proteína S se divide funcionalmente en dos dominios: S1 (responsable de la unión con el receptor celular) y el dominio S2 (que permite la fusión con la membrana celular).
+
+
+-- FISIOPATOLOGÍA DE LA INFECCIÓN COVID-19. LO BÁSICO
+
+Cuando el virus contacta con las células de la mucosa (nasofaríngea o respiratoria) se une al receptor ECA2 (enzima convertidora de angiotensina 2). El receptor ECA2 es fundamental en el sistema renina-angiotensina-aldosterona y, en condiciones normales, es muy importante en la regulación de la homeostasis y en el balance de líquidos y electrolitos. De esta forma, además de tener un papel fundamental en la infección celular, el hecho de que el virus bloquee este receptor podría ser otro de los factores de la patogenia del virus. Una vez dentro de la célula, el virus libera su genoma ARN al citoplasma celular, y comienza su replicación. Una vez formadas las nuevas partículas virales, se liberan, para volver a comenzar el ciclo. Este ciclo se ha estudiado, de forma que se han planteado diferentes estrategias terapéuticas que buscan bloquear sus diferentes fases. Los receptores ECA2 se ven en muchos tejidos celulares, especialmente en los pulmones (neumocitos tipo II), corazón, vasos sanguíneos, riñones, hígado y tracto gastrointestinal. A pesar de que algunos tejidos presentan más densidad de receptores ECA2 que el pulmón, la infección COVID-19 suele comenzar en los pulmones, y algunos tejidos con mayor densidad de receptores ECA2 que los pulmones presentan menor o escasa afectación en la infección COVID-19, como sucede en la vesícula biliar, riñones, glándulas seminales o testículos. Lo que sucede una vez comienza la infección depende de muchos factores. La fisiopatología de la infección COVID-19 es compleja y no bien comprendida totalmente, y en ella intervienen varios mecanismos:•La reacción inflamatoria alveolar.•La afectación de los capilares adyacentes a los alvéolos, que puede llegar a fenómenos de microangiopatía trombótica.•El bloqueo de los receptores ECA2.•La alteración de la coagulación, con estado de hipercoagulabilidad.•La puesta en marcha de una respuesta inmunitaria importante, en la llamada “tormenta de citoquinas”.
+La fisiopatología básica de la infección COVID-19 se presenta en las Figura 1, Figura 2, Figura 3 . Estas figuras son adaptaciones de las teorías publicadas en las referencias , , , , , , , , , , . Para profundizar en la fisiopatología se recomienda revisar dichas referencias. Como resumen general, los principales puntos que hay que considerar para comprender la patogenia, las manifestaciones radiológicas y las posibilidades terapéuticas son los siguientes: Figura 1Figura 2Figura 3
+Aunque el virus puede afectar directamente a otros órganos, muchos de los cambios que se dan fuera de los pulmones están relacionados más con la afectación sistémica, trombótica y microangiopática que con la acción directa del virus sobre el órgano específico, , si bien en algunos casos como en la patología renal, los mecanismos pueden ser más complejos.
+
+
+-- COVID-19: TRANSMISIÓN Y PREVENCIÓN
+
+La principal forma de transmisión del virus SARS-CoV-2, de humano a humano, es a través de las secreciones de personas infectadas, principalmente por contacto directo con gotas respiratorias de más de 5 micras (y que se pueden transmitir a distancias de hasta 2 metros). El contacto de las manos o los fómites contaminados con la mucosa de la boca, nariz u ojos puede ser una vía de infección. También se ha detectado el virus en la saliva de pacientes infectados, lo que abre la puerta al diagnóstico a través de muestras de saliva. Se ha visto que en determinadas superficies (metal, plástico o vidrio), el virus puede persistir hasta 9 días, pero puede ser neutralizado con las medidas de desinfección habituales. El virus se ha aislado en gotas más pequeñas y, aunque se discute la posibilidad de transmisión aérea, se ha demostrado algún caso con este tipo de transmisión en ambientes cerrados y mal ventilados. Por estos motivos, y aunque no todas las recomendaciones incluyan medidas para evitar la transmisión aérea, es importante mantener una buena higiene, con ventilación adecuada de todas las estancias. La frecuencia de afectación intestinal hace que la transmisión fecal sea una posibilidad. Una revisión reciente pone de manifiesto que se trata de un tema no aclarado y que, aunque no exista evidencia de transmisión, deben tomarse medidas higiénicas estrictas para evitarla. La transmisión vertical madre-hijo parece poco probable, aunque se han publicado algún caso aislado. Se ha demostrado la presencia del virus en el semen en un grupo reducido de pacientes y solo durante los primeros días de convalecencia. Sin embargo, parece muy poco probable la transmisión sexual.
+Un problema importante en la prevención de la enfermedad es la transmisión que pueden hacer los individuos asintomáticos. El periodo de incubación mediano es de 5-6 días, con un rango de 1 a 14 días, si bien el 97,5% de los casos sintomáticos se desarrollan en los 11,5 días que siguen a la exposición. Se ha demostrado que los individuos asintomáticos pueden transmitir la infección, lo que hace que haya que ser muy exigente con las medidas preventivas y obliga a desarrollar políticas de detección de estos individuos potencialmente contagiosos.
+Con respecto a la capacidad de transmisión de los pacientes sintomáticos, se ha visto que la mayoría de los infectados tienen una alta carga viral antes del inicio de los síntomas y en los primeros días de aparición de la clínica. En los pacientes con clínica leve, la carga viral es baja a partir de la segunda semana después de la aparición de los síntomas, con muy baja probabilidad de transmitir la infección en este momento, incluso aunque se pueda detectar el virus con técnicas de microbiología (PCR). De esta forma, la transmisión ocurriría fundamentalmente en la primera semana de presentación de los síntomas (entre los días 2-3 a los días 7-8) en los casos leves. En los casos más graves, la transmisión sería más intensa y duradera.
+
+
+-- PREVENCIÓN (MEDIDAS BÁSICAS
+
+Las medidas preventivas a nivel del personal se basan, visto lo anterior, en:
+
+
+-- EL DIAGNÓSTICO DE LA INFECCIÓN COVID-19
+
+El diagnóstico de la infección COVID-19 se basa en la detección, directa o indirecta, del virus. Las pruebas microbiológicas y de laboratorio han mejorado, tanto en la sensibilidad como en la especificidad, pero sus resultados deben interpretarse con precaución dada la posibilidad de falsos negativos y falsos positivos. Las pruebas de imagen tienen un gran valor en el manejo del paciente con infección COVID-19, tal como se irá viendo en próximos artículos de Radiología, pero su utilidad en el diagnóstico inicial está limitado a casos concretos (fundamentalmente, pacientes con alta sospecha y pruebas de laboratorio negativos o casos en los que haya que hacer un diagnóstico rápido y no se disponga de pruebas de laboratorio), .
+
+
+-- LA GESTIÓN SEGURA DEL SERVICIO DE RADIOLOGÍA EN LA ERA COVID
+
+La Sociedad Española de Radiología Médica (SERAM) ha elaborado un documento centrado en la gestión de los servicios de radiología durante la pandemia COVID-19, en el que se revisaba la bibliografía existente hasta el momento y se hacía una serie de recomendaciones. Sobre estas recomendaciones se hizo un cuestionario Delphi para valorar el consenso entre diferentes radiólogos de España. De este cuestionario salieron 34 recomendaciones, que se pueden consultar en la referencia citada.
+
+
+-- MEDIDAS Y RECOMENDACIONES
+
+La figura 4 es una infografía que resume las principales medidas que se deberían tomar en un servicio de radiología para conseguir un entorno de trabajo seguro. Es un documento genérico que se puede aplicar tanto a una situación de pandemia como a una de baja prevalencia de la enfermedad, pero en la que se deben seguir tomando medidas de seguridad.Figura 4
+Algunas de las medidas que hay que considerar se citan a continuación.
+
+
+--- MEDIDAS DE PROTECCIÓN BÁSICAS
+
+Equipos de protección individual (EPI): son los sistemas barrera que deben usar los trabajadores para minimizar el riesgo cuando se estudia un paciente con infección COVID-19 o con sospecha de tenerla. Sobre unas medidas básicas (ropa específica, mascarillas quirúrgicas, gorros y guantes –si se considera necesario–), se establecen tres niveles de protección en función del riesgo:1.Primer nivel (zonas con posible contacto con pacientes).2.Segundo nivel (cuando va a haber contacto con pacientes).3.Tercer nivel (cuando se pueden producir aerosoles).
+Es importante recordar que tanto las recomendaciones como los materiales empleados pueden variar, por lo que se deben consultar las guías apropiadas del Ministerio de Sanidad o de las consejerías. En la tabla 1 se incluyen las medidas recomendadas en el momento de elaboración de este texto.
+Mascarillas: el uso de mascarillas se ha generalizado conforme avanzó la pandemia COVID-19. En el momento de redactar este texto, su uso es obligatorio, tanto para pacientes como trabajadores.
+Medidas estructurales: en coordinación con el responsable orgánico y funcional correspondiente, consisten, básicamente en:•Adecuar las salas de espera, de forma que se asegure la distancia mínima (2 metros o 1,5 metros si los pacientes llevan mascarillas).•Señalizar pasillos y zonas de seguridad.•Cartelería adecuada.•Mamparas y medidas de aislamiento para el personal administrativo.
+
+
+--- MEDIDAS PARA ASEGURAR EL DISTANCIAMIENTO
+
+•Entre el personal: distribución adecuada de los puestos de trabajo; facilitar la radiología no presencial, con turnos adecuados; definir una política de uso de salas comunes; evitar visitas al servicio de personal ajeno al mismo (consultas telefónicas, reuniones virtuales, etc.).•Disminuir el número de personas que tienen que acudir al servicio (citaciones escalonadas, actos únicos, pedir a los pacientes que no vengan acompañados y, en caso de que vengan acompañados, nunca con más de un acompañante, etc.).
+
+
+--- MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA INFECCIÓN EN LOS PUESTOS DE TRABAJO
+
+•Facilitar la higiene de manos, con cartelería informativa, frascos de solución hidroalcohólica, etc.•Personalizar los puestos de trabajo, y evitar que los trabajadores compartan material. Limpieza exigente de todos los puestos, al empezar y acabar el turno.•Usar guantes de un solo uso cuando se vaya a manipular equipamiento compartido (como estaciones de trabajo).•Prohibir las comidas en los puestos de trabajo. Las bebidas, solo en recipientes desechables.•Usar uniformes limpios en cada turno. No llevar la ropa usada a casa para limpiarla.
+
+
+--- DETERMINAR EL RIESGO DE EXPOSICIÓN
+
+Mediante revisión de la historia clínica del paciente, realización de pruebas diagnósticas o cuestionarios específicos, en función de la situación o del nivel de infección en la comunidad. Algunos protocolos incluyen la realización de pruebas analíticas (PCR) antes de procedimientos quirúrgicos o intervencionistas, pero se trata de protocolos variables. En cualquier caso, estos procedimientos no deberían sustituir nunca las medidas de protección individual, dada la posibilidad de falsos negativos en las pruebas de laboratorio. Por lo general, no se recomienda la realización de pruebas radiológicas (tomografía computarizada [TC] o radiografía de tórax) como método de cribado de pacientes asintomáticos, especialmente en las situaciones de baja prevalencia. En un entorno de alta prevalencia, la TC podría estar justificada por su alto valor predictivo negativo, en situaciones en las que haya que tomar una decisión rápida y no se disponga de pruebas de laboratorio accesibles. No existen análisis que demuestren que esta medida sea coste-eficiente.
+
+
+--- CONOCER LA SITUACIÓN DEL PERSONAL
+
+Se recomienda estudiar a todo el personal del servicio de radiología para conocer su estado inmunitario. Se ha visto que un porcentaje importante de trabajadores no se infecta a partir de pacientes, sino de compañeros de trabajo. Los trabajadores especialmente sensibles deben ubicarse en puestos adecuados y de bajo riesgo.
+
+
+--- REDISEÑO DEL PROCESO DE IMAGEN
+
+Todas estas medidas y recomendaciones descritas previamente obligan a rediseñar el proceso de imagen. Algunas recomendaciones sobre esta adaptación se resumen en la tabla 2 .
+
+
+--- IMPACTO EN OTROS PROCESOS
+
+---- IMPACTO EN EL CONTROL PRESUPUESTARIO
+
+La crisis económica producida por la infección COVID-19 está siendo de tal calibre que algunos especialistas la consideran la más importante desde la Segunda Guerra Mundial, pero la caída del producto interior bruto per cápita es la más extendida desde 1870 debido al número de países afectados. Los hospitales y los servicios de radiología se ven afectados en esta crisis, con un incremento de costes (medidas de seguridad), una menor producción y, en los centros privados, una menor facturación. En todos los casos, se verá una menor rentabilidad debido a los costes de producción de los estudios no realizados. En un análisis realizado en los EE. UU., se vio una disminución de la actividad facturable entre el 50% y el 70%, con un incremento simultáneo del gasto. En las fases iniciales de la crisis, esta situación desfavorable se estimaba que podría durar hasta 9 meses. Todo esto hace que sea importante llevar un control del gasto, con una buena gestión contable.
+
+
+---- IMPACTO EN LA FORMACIÓN E INVESTIGACIÓN
+
+Las medidas de seguridad afectan a todas las actividades del servicio de radiología, incluyendo la formación, tanto en lo que se refiere a sesiones como a la formación directa de estudiantes (de medicina o técnicos superiores de diagnóstico por la imagen) como de médicos en formación (de la especialidad de radiología o de otras especialidades), , , . Dado el impacto económico de la crisis y su potencial duración, es importante que todos los programas formativos se mantengan y que todos los servicios establezcan medidas para compensar, con las nuevas tecnologías, las dificultades que supone esta situación.
+Las actividades formativas extrahospitalarias (cursos y congresos) también se han visto afectadas, con suspensión de actividades presenciales y desarrollo de actividades formativas en línea. No hay consenso en el impacto que la crisis tendrá en estas actividades a medio y largo plazo, y dependerá de factores como el desarrollo de una vacuna o las normativas de seguridad que se apliquen.
+La crisis por la COVID-19 también ha tenido impacto en la investigación, especialmente en los procesos no relacionados con esta infección. Además, se ha visto que la crisis ha provocado una producción científica a una velocidad sin precedentes. Esto, que ha permitido avances clave en poco tiempo, ha originado que, en algunos casos, no se realice el control editorial con el rigor habitual, en ocasiones con gran impacto a nivel mundial.
+
+
+---- LA GESTIÓN DEL RIESGO
+
+La infección COVID-19 supone una amenaza para trabajadores y pacientes, y un elemento básico en la actividad del servicio de radiología es realizar una buena gestión del riesgo, tanto de forma prospectiva como retrospectiva. No se diferencia de otros análisis del riesgo, por lo que su estudio seguirá la misma sistemática.
+
+
+---- IMPACTO EN LA ESTRUCTURA
+
+El último informe publicado por la Federación Española de Empresas de Tecnología Sanitaria (FENIN) sobre tecnología sanitaria pone de manifiesto la situación precaria de la alta tecnología hospitalaria, que arrastra un déficit de inversiones desde la crisis de 2008. La crisis por la COVID-19 ha agravado la situación. Aunque muchos equipos han disminuido su uso, en otros casos se ha sobrecargado el equipamiento, y las limpiezas y desinfecciones intensivas han afectado a alguno de ellos. Durante varios meses se ha alterado el ritmo normal del mantenimiento de las máquinas. En este contexto es importante que todos los servicios de radiología dispongan de un plan actualizado de situación del equipamiento y de las necesidades de renovación, con clara justificación. Por otra parte, la primera crisis de infección COVID-19 ha demostrado las ventajas de disponer de equipos portátiles directos de radiología convencional y equipos portátiles de ecografía. El papel que va a desempeñar ahora la radiología en la gestión de la crisis es fundamental, y para ello es imprescindible que los gestores y políticos vean la importancia de mantener una tecnología fiable y segura.
+
+
+---- IMPACTO EN LOS PROFESIONALES DEL SERVICIO
+
+La organización del servicio de radiología se ha visto muy afectada por la crisis COVID-19. En la fase de pandemia, muchos servicios han tenido que cambiar su orientación y dedicarse casi exclusivamente al diagnóstico de COVID-19. Para ello, las plantillas se han reestructurado, tanto de técnicos como de radiólogos, con jornadas desiguales y puestos con diferente presión asistencial. Conforme disminuye la presión de la infección COVID-19, la organización va virando a la normalidad, pero la necesidad de mantener una serie de medidas de seguridad obliga a seguir manteniendo una serie de refuerzos asistenciales que no estaban previstos en las plantillas iniciales de personal. Algunos ejemplos son la necesidad de refuerzo del personal técnico para los puestos con más riesgo (portátiles de pacientes infectados, radiología en circuitos sucios), o la necesidad de adaptar los puestos de radiólogos para seguir informando las radiografías simples, algo que se considera fundamental. Es importante definir bien todas las actividades del servicio en cada una de las etapas de infección COVID-19 (prevalencia), de forma que se puedan ajustar los recursos disponibles. En ocasiones, las medidas pasan por rediseñar puestos de trabajo y funciones de cada puesto, adaptándolos a las condiciones particulares.
+
+
+- AUTORÍA
+
+1.Responsable de la integridad del estudio: PVS, ARC, JGB, ÁMS, MRC, CMS.2.Concepción del estudio: PVS, ARC, JGB, ÁMS, MRC, CMS.3.Diseño del estudio: PVS, ARC, JGB, ÁMS, MRC, CMS.4.Obtención de los datos: PVS, ARC, JGB, ÁMS, MRC, CMS.5.Análisis e interpretación de los datos: PVS, ARC, JGB, ÁMS, MRC, CMS.6.Tratamiento estadístico: N/A.7.Búsqueda bibliográfica: PVS, ARC, JGB, ÁMS, MRC, CMS.8.Redacción del trabajo: PVS, ARC, JGB, ÁMS, MRC, CMS.9.Revisión crítica del manuscrito con aportaciones intelectualmente relevantes: PVS, ARC, JGB, ÁMS, MRC, CMS.10.Aprobación de la versión final: PVS, ARC, JGB, ÁMS, MRC, CMS.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

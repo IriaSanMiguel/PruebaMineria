@@ -1,0 +1,5 @@
+Estudio descriptivo a partir de la Encuesta Nacional de Salud. Se calcularon estadísticos descriptivos, odds ratio (OR) crudas y ajustadas.
+De los 5.495 encuestados, el 35% acudió al SU en el último año, utilizando el 88,1% los servicios del Sistema Sanitario Público. El sexo varón [OR: 1,202 (IC 95%: 1,047-1,381)] y el nivel de estudios superiores [OR: 1,255 (IC 95%: 0,983-1,603)] se asociaron de forma significativa, y directa a la frecuentación, mientras que la edad lo hizo de forma inversa [OR: 0,909 (IC 95%: 0,894-0,924)]. La utilización de los SU es muy variable entre comunidades autónomas, encontrándose una correlación positiva con la población extranjera (ρ = 0,495, p = 0,031).
+La tasa de utilización de los SU en España es elevada. Existe una variabilidad considerable entre zonas geográficas, en parte explicada por las características de la población.
+Determinar la frecuencia de utilización de los servicios de urgencias (SU) en la población pediátrica española, describir el perfil de los usuarios y la variabilidad geográfica.
+

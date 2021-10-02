@@ -1,0 +1,47 @@
+EVOLUCIÓN CLÍNICA EN UN RECEPTOR DE TRASPLANTE DE HÍGADO CON LA COVID-19: ¿UN EFECTO BENÉFICO DEL TACROLIMUS
+
+
+La enfermedad por coronavirus 2019 (COVID-19) es una enfermedad respiratoria seria causada por el virus SARS-CoV-2. Hasta hoy, los datos en los receptores de trasplante de hígado (TH) son escasos y existe controversia respecto a si los inmunosupresores representan un factor de riesgo para desarrollar una enfermedad más grave. Equipos internacionales han publicado que la inmunosupresión no representa un mayor riesgo para desarrollar neumonía severa, , , pero el mecanismo aún no es claro. Aquí reportamos el desenlace clínico de tres miembros de una familia que se infectaron de COVID-19, con la presencia y ausencia de diferentes factores de riesgo que han sido descritos en casos de enfermedad grave. Paradójicamente, el receptor de TH presentó un desenlace favorable (fig. 1 ), con lo que surge la pregunta sobre el potencial efecto benéfico del tacrolimus.Figura 1
+
+
+- CASO UNO
+
+Un hombre de 41 años, sin antecedentes médicos, llegó el 22 de marzo al Departamento de Urgencias (DU) con fiebre y dificultad para respirar. El examen físico reveló fiebre, saturación de oxígeno (SaO2) de 88% y crepitantes basales bilaterales. Fue internado en el hospital. Las pruebas de laboratorio mostraron linfopenia (los datos biológicos completos están disponibles en las Tabla 1, Tabla 2 ). Con una tomografía computarizada (TC) se identificaron opacidades en vidrio esmerilado bilaterales (ground-glass opacity, GGO) y engrosamiento septal (fig. 2A ). El frotis nasofaríngeo para SARS-CoV-2 fue positivo y se inició tratamiento con hidroxicloroquina y azitromicina. La fiebre persistió durante los primeros dos días de hospitalización y requirió de suplementación de oxígeno por cánula nasal durante tres días. Al tercer día el paciente estuvo asintomático y fue dado de alta.Figura 2
+
+
+- CASO DOS
+
+Una mujer de 64 años recibió un TH en 2018 debido a cirrosis hepática secundaria al virus de la hepatitis C (VHC) tratada con velpatasvir/sofosbuvir. Su historial médico presentaba diabetes mellitus de tipo 2 (DM2) e hipertensión arterial (HTA). Su régimen inmunosupresor consistía en tacrolimus (niveles: 6-8 ng/mL). El 21 de marzo la paciente llegó al DU con tos, diarrea y fiebre. Las pruebas de laboratorio mostraron leucopenia y linfopenia. Una TC reveló opacidades en vidrio esmerilado . El frotis nasofaríngeo para SARS-CoV-2 fue positivo. La paciente fue hospitalizada para vigilancia y para administrar un tratamiento con hidroxicloroquina, azitromicina y ceftriaxona. Debido a la interacción entre tacrolimus y azitromicina, se disminuyó la dosis de tacrolimus. Dos días después de la hospitalización, una nueva TC reveló progreso de la neumonía , pero no fue necesaria la suplementación de oxígeno. La paciente fue dada de alta el 26 de marzo .
+
+
+- CASO TRES
+
+Un hombre de 60 años con historia de HTA y cáncer de riñón en remisión llegó al DU el 23 de marzo, con antecedente de dos días de fiebre y tos. El examen físico reveló fiebre pero con una SaO2 adecuada. Los resultados de las pruebas de laboratorio no fueron relevantes. La TC mostró GGO subpleurales y basales . El frotis nasofaríngeo para SARS-CoV-2 fue positivo. El paciente tuvo una evolución clínica favorable y fue dado de alta 48 horas posterior a hospitalización. Sin embargo, el 28 de marzo, regresó con dificultad para respirar. Los signos vitales revelaron una SaO2 de 86% (en aire ambiente) y el paciente fue rehospitalizado. La saturación mejoró tras la suplementación de oxígeno por cánula nasal. Las pruebas de sangre mostraron linfopenia. Una TC identificó la progresión de la neumonía. Hubo presencia de fiebre durante cinco días y el paciente requirió de suplementación de oxígeno. Completó 14 días de hidroxicloroquina más azitromicina y fue dado de alta el 6 de abril.
+Los tres casos positivos de COVID-19 reportados aquí eran miembros de la misma familia. El caso uno no tenía factores de riesgo; el caso dos tenía varios factores de riesgo,
+especialmente comorbilidades, tales como la edad de 64 años, TH reciente (< 2 años), HTA, DM2 y estaba en tratamiento con tacrolimus; el caso tres era un hombre de 60 años con HTA. Cuando comparamos la evolución clínica de la familia, el progreso de la paciente inmunosuprimida fue favorable a pesar de presentar varios factores de riesgo .
+Dos estudios italianos demostraron que la tasa de mortalidad de COVID-19 no es más alta en los receptores de TH. En un estudio con 200 pacientes, que incluyó diez pacientes hospitalizados al momento del estudio, D’Antiga et al. reportaron que ninguno presentó una enfermedad pulmonar a pesar de contar con tres casos positivos para SARS-CoV-2. Bhoori et al. reportaron los desenlaces clínicos de 111 receptores de TH antiguos (TH > 2 años) y 40 receptores recientes (TH < 2 años). Seis de ellos dieron positivo para SARS-CoV-2: tres receptores antiguos y tres recientes. Los tres fallecimientos relacionados con la COVID-19 fueron pacientes trasplantados de más de dos años con regímenes inmunosupresores reducidos, al contrario de los pacientes de trasplante reciente, quienes estaban en regímenes de inmunosupresión optimizados. Lo anterior sugiere que el riesgo de complicaciones graves en pacientes inmunosuprimidos no es mayor al de la población general. Estos hallazgos fueron confirmados recientemente en un estudio internacional multicéntrico.
+El objetivo de la observación clínica presente fue mostrar un posible efecto benéfico del tacrolimus en pacientes que presentaron la COVID-19. Las propiedades inmunosupresoras del tacrolimus dependen de la formación de un complejo binario con las proteínas FKBP. Estos complejos secuestran la calcineurina inhibiendo su actividad (a través de la formación de un complejo ternario), la cual es un elemento clave para la activación de células T, . La interacción de estos complejos con la calcineurina, provoca la inhibición de su actividad de fosfatasa lo cual evita la translocación nuclear de su sustrato, el factor nuclear de las células T, y la expresión consecuente de genes de inmunidad, tales como el IL-2 e IL-4. De esta manera, el tacrolimus suprime la activación de células T, . Además, el tacrolimus tiene un efecto antiviral al unirse con las proteínas FKBP, con la inhibición subsiguiente de su actividad de peptidil-prolil isomerasa, cuyas actividades enzimáticas promueven la replicación del coronavirus, , .
+La presente observación es una prueba de concepto de que los receptores de trasplante de hígado podrían presentan desenlaces favorables al ser comparados con otros pacientes que presentan otros factores de riesgo para la COVID-19. Reconocemos que la limitación intrínseca de este reporte de caso es el pequeño tamaño de muestra, pero su originalidad reside en el hecho de que proporciona evidencia de los mecanismos subyacentes del potencial efecto benéfico de los inmunosupresores. Esta observación clínica debe ser confirmada en estudios multicéntricos y en cohortes de la vida real. Son necesarios más datos para definir mejor el grupo de pacientes que recibiría un beneficio importante de las estrategias inmunosupresoras, y a su vez, proporcionar un mejor manejo de los receptores de trasplante por medio de dichas estrategias durante esta epidemia.
+
+
+- CONSIDERACIONES ÉTICAS
+
+La presente carta científica cumple con las regulaciones bioéticas de investigación actuales. Fue autorizada por el Comité de Ética del Instituto Nacional de Ciencias Médicas y Nutrición «Salvador Zubirán». Los pacientes no pueden ser reconocidos o identificados por medio de las imágenes o datos presentados en el artículo.
+Protección de sujetos humanos y animales. Los autores declaran que no se realizaron experimentos en humanos o animales para esta investigación.
+Los autores declaran que el anonimato de los pacientes fue guardado en todo momento y que se obtuvo el consentimiento informado de los pacientes para la publicación del presente artículo.
+
+
+- AGRADECIMIENTOS
+
+Los autores desean agradecer al Dr. Oscar Arturo Lozano Cruz, Dr. José Luis Cárdenas Fragoso, Dr. Daniel Alberto Carrillo Vázquez, Dr. Alan G. Contreras, y la Dra. Nayeli C. Flores García. Los autores también desean agradecer al Dr. Quentin Nevers y a Flora Donati por la lectura crítica del manuscrito. Isaac Ruiz es becario de la CHUM Fondation, Montreal, Canadá.
+
+
+- FINANCIACIÓN
+
+No se recibió financiación alguna con relación a este artículo.
+
+
+- CONFLICTO DE INTERESES
+
+Isaac Ruiz ha sido expositor para AbbVie.
+Ignacio García-Juárez, Alejandro Campos-Murguía, Víctor Hugo Tovar-Méndez y Alejandro Gabutti declaran no tener conflicto de intereses.

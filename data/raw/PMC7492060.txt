@@ -1,0 +1,24 @@
+DEFUNCIONES POR COVID-19 EN ESPAÑA Y ESTADÍSTICAS DE MORTALIDAD
+
+
+Sr. Director:
+Hemos leído con interés el artículo de Cirera et al. sobre las defunciones por COVID-19 en España, el cual desearíamos complementar y explicar la experiencia en la Comunidad de Castilla y León en cuanto a la comunicación de las defunciones a partir de la fuente forense.
+La mortalidad ha sido y es uno de los temas más controvertidos durante la pandemia de COVID-19. El aumento del número de defunciones y la afectación del personal de las Oficinas del Registro Civil han producido retrasos en el envío de la información demográfica de las defunciones. Una de las instituciones afectadas ha sido el Centro Nacional de Epidemiología del Instituto de Salud Carlos III, que mantiene el Sistema de Vigilancia de la Mortalidad diaria que obtiene la información de la plataforma Inforeg del Ministerio de Justicia. Ante ello, dicho Ministerio dictó una instrucción el 4 de abril para conocer diariamente con el mayor grado de exactitud posible e inmediatez el número de defunciones. Además, el Instituto Nacional de Estadística (INE), a partir de junio, accede directamente a la información de Inforeg, la depura y la completa, y elabora una nueva estadística experimental denominada EDeS (Estimación de Defunciones Semanales durante el brote de COVID-19), que actualiza cada 15 días.
+Estas medidas se refieren al número de defunciones, pero no a sus causas. En una crisis epidémica es necesario establecer un sistema específico de vigilancia de la mortalidad que permita conocer las causas de todas las defunciones casi en tiempo real. Tal inmediatez no es posible con el circuito de declaración estadística y la Estadística de Defunciones según la causa de la muerte elaborada por el INE. Coincidimos con Cirera et al. y con otros autores en que la implantación del certificado médico de defunción digital debe ser una prioridad, ya que permitiría disponer con mayor antelación de la información sobre las causas de la muerte.
+Una iniciativa destacable es la realizada en Castilla y León. Aprovechando la función de los médicos forenses de supervisar los certificados médicos de defunción, se estableció un marco de colaboración entre la Dirección General de Salud Pública (DGSP) de Castilla y León y los Institutos de Medicina Legal y Ciencias Forenses (IMLCF) para informar de los fallecimientos y sus características demográficas y médicas (edad, sexo, causas, lugar de defunción y estado de COVID-19). Con la colaboración de los registros civiles y de las funerarias, los IMLCF de Castilla y León analizan diariamente todos los certificados médicos de defunción de la comunidad autónoma. En algunos casos también se consulta la historia clínica digital o se contacta con un familiar de referencia. Esta colaboración se inició a primeros de abril mediante el envío diario por correo electrónico de una tabla Excel diseñada por la DGSP y desde primeros de mayo se realiza vía web mediante una aplicación informática denominada INFA; en el momento actual se mantiene esta colaboración.
+La participación de los médicos forenses y los IMLCF en circuitos específicos de vigilancia de la mortalidad en una segunda oleada del virus o ante nuevas crisis sanitarias sería una opción muy interesante de mejora de la información y de colaboración con las autoridades sanitarias.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Todas las personas firmantes han concebido la carta. E. Barbería redactó el borrador inicial sobre el que el resto de los/las autores/as han contribuido sustancialmente y han aprobado su versión final.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

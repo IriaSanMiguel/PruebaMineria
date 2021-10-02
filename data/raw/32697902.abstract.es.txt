@@ -1,0 +1,5 @@
+Las coberturas de las cinco pruebas se incrementaron, sin embargo, la desigualdad observada disminuyó únicamente en las intervenciones en mujeres; en el caso de la detección de cáncer de próstata se incrementó.
+Medir la desigualdad en el uso de servicios de tamizaje en adultos de 20 a 59 años, a partir de las encuestas nacionales de salud y nutrición 2006 y 2012.
+Si bien es importante monitorear el desempeño de los servicios curativos, persiste el reto de asegurar el acceso efectivo y equitativo a servicios de diagnóstico temprano.
+A partir de la selección de cinco indicadores de tamizaje en adultos (detección de diabetes, hipertensión y cánceres de mama, cérvicouterino y de próstata) se estimaron el índice de Kuznets, el índice de desigualdad de la pendiente y el índice de concentración de salud, considerando como indicadores sociales la escolaridad, etnicidad, desempleo, nivel socioeconómico y tipo de protección en salud.
+

@@ -1,0 +1,6 @@
+La HSC tuvo alta frecuencia de FRC y al parecer la leptina se asoció con perfil cardiometabólico más adverso en sujetos con obesidad y sobrepeso.
+50 % de los pacientes presentó obesidad y sobrepeso, 59 % hipertrigliceridemia, 40 % hipoalfalipoproteinemia, 27.5 % colesterol LDL alto y 22.5 % resistencia a la insulina. Hubo correlación positiva entre leptina y porcentaje de grasa corporal (r = 0.64), el zIMC (r = 0.55) y el número de FRC (r = 0.65). En el análisis multivariado ajustado por obesidad, los niveles de leptina se asociaron con el número de FRC.
+En la hiperplasia suprarrenal congénita (HSC), la obesidad, la hiperinsulinemia y los niveles de leptina se encuentran incrementados.
+Identificar la frecuencia de los factores de riesgo cardiometabólico (FRC) en niños y adolescentes con HSC y explorar la relación con los niveles de leptina.
+Estudio transversal de 40 pacientes a quienes se realizó somatometría y evaluación de glucosa, insulina, triglicéridos, 17-hidroxiprogesterona, leptina, colesterol HDL y LDL en ayuno. Los pacientes fueron clasificados por el número de FRC y se analizaron los niveles de leptina con Kruskal-Wallis. Se aplicó correlación de Pearson entre la leptina, puntuación Z del índice de masa corporal (zIMC) y porcentaje de grasa corporal.
+

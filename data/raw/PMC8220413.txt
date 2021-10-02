@@ -1,0 +1,64 @@
+CONSECUENCIAS EN SALUD (MORTALIDAD E INSTITUCIONALIZACIÓN) DE LA FRACTURA DE CADERA EN LA POBLACIÓN ANCIANA. ESTUDIO DE COHORTES POBLACIONAL EN SEGOVIA
+
+
+- INTRODUCCIÓN
+
+La fractura de cadera (FC) es cada vez más frecuente en el anciano debido al progresivo envejecimiento. Actualmente es uno de los principales problemas de salud en esta población, por sus graves consecuencias sobre morbimortalidad, dependencia funcional e institucionalización, .
+Entre los factores que más influyen en su aparición está la osteoporosis, un mayor riesgo de caídas debido a un peor equilibrio y movilidad, a los efectos adversos medicamentosos y a la pluripatología crónica.
+Existe abundante bibliografía sobre la cooperación entre traumatología y geriatría, y su influencia en el pronóstico a corto plazo, concentrándose lo publicado en atención primaria más en la influencia de los psicofármacos y en el estado de nutrición, , que en las consecuencias sociosanitarias a medio y largo plazo (institucionalización y muerte), siendo la institucionalización un factor relacionado con la pérdida de autonomía y de calidad de vida tras la FC, .
+Todo esto estimula a conocer mejor qué factores influyen en el pronóstico de la FC con vistas a diseñar mejores intervenciones multidisciplinares que sean de utilidad tanto en la prevención del problema como en el desarrollo de nuevos programas de rehabilitación.
+El objetivo de este estudio es conocer las consecuencias sociosanitarias de la FC en personas mayores de 75 años, en términos de institucionalización y muerte, en un periodo de 5 años en el Área de Segovia a través de un análisis multivariante de todas las variables sociales y sanitarias presentes antes de la FC y cómo influyen en una posterior institucionalización permanente y en la mortalidad a corto y medio plazo.
+
+
+- PERSONAS Y MÉTODOS
+
+Estudio analítico de cohortes históricas. Periodo: de 2014 a 2018. Población: se incluyeron todos los pacientes ≥ 75 años (no se realizó muestreo) atendidos en el Sistema Sanitario Público (el 96,7% de la población ≥ 75 años) de toda el Área de Segovia, y que en el registro hospitalario figura al alta el diagnóstico de FC, independientemente de si fueron o no ingresados tras la FC. Criterios de exclusión: desplazados o transeúntes.
+
+
+-- VARIABLES
+
+Poblacionales: edad, sexo y ámbito rural o urbano. Antes de la FC se recogieron datos sobre la situación funcional (índice de Barthel) con 3 categorías para las actividades básicas de la vida diaria: independiente (puntuación: 81-100), dependiente leve-moderado (puntuación: 41-80) y dependiente moderado-severo (puntuación: 0-40); el lugar donde reside, el núcleo familiar (vive solo o convive con algún familiar o está institucionalizado), el consumo de fármacos, el estado mental (según el MiniMental Test registrado en la historia clínica) diferenciando los estadios normal (puntuación: 25-30); deterioro leve (puntuación: 20-24); moderado (puntuación: 15-19); grave (puntuación: 0-14) y las comorbilidades más prevalentes. Posterior a la FC: causa y lugar de la FC, cambio del estatus sociosanitario (perdieron autonomía y funcionalidad, precisando cuidador o institucionalización permanente) y el tiempo trascurrido desde la FC hasta la institucionalización, necesidad de cuidador/a asalariado/a, reingresos hospitalarios y sus causas. Análisis de la mortalidad: causa y tiempo transcurrido desde la FC.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Medidas de tendencia central con sus intervalos de confianza (IC) del 95%. Para asociarlas se utilizó la t de Student y la prueba de la Chi-cuadrado, según el caso, aceptando un nivel de significación de p < 0,05. Análisis multivariante de regresión logística mediante la odds ratio para describir aquellas variables identificadas antes de la FC (variables predictoras), y que más influyeron en las complicaciones más importantes de la FC: la institucionalización y la mortalidad.
+
+
+-- ASPECTOS ÉTICOS-LEGALES
+
+El estudio fue aprobado por el Comité de Ética de Investigación Clínica (el 22/06/2018 referencia MBCA/dgc 1/1-63107128, Acta 04/2018) y por la Gerencia de Asistencia Sanitaria de Segovia, para el acceso a las historias clínicas del hospital de referencia y a la red sanitaria de atención primaria de todo el Área de Segovia: MedoraCYL y si fuera necesario una entrevista a su médico de cabecera.
+
+
+- RESULTADOS
+
+Se registraron 1.291 pacientes ≥ 75 años con FC, representado en el esquema general del estudio. El promedio de fracturas anuales fue de 217, sin diferencias estadísticamente significativas entre los 5 años de estudio. Los datos poblacionales se representan en la tabla 1.
+Situación sociosanitaria antes de la FC:•La situación sociosanitaria antes de la FC se representa en la tabla 2.•En la figura 1 se representa el núcleo familiar (excluidos los pacientes institucionalizados).Figura 1•Entre los pacientes no-institucionalizados. un 26,1% (IC 95%: 21,7-30,5) tenían cuidador asalariado, el 37,1% sin datos.•Comorbilidades: el 78,1% (IC 95%: 75,6-80,4) presentaba 3 o más enfermedades crónicas. Ranking: enfermedades cardiovasculares 69,7%, anemia 44,2% (principalmente multifactorial y 2.ª de causa ferropénica), diabetes mellitus 29,2%, trastornos depresivos 26,4%, enfermedades neurológicas 25,5%, enfermedad renal crónica 14,9%, EPOC 12,5% y neoplasias activas 11,1%.•La media de consumo de fármacos por paciente fue de 7,7 (DE: 3,0).
+Situación sociosanitaria posterior a la FC:•Lugar de la FC. Un 70,8% (IC 95%: 67,9-73,7) por caída accidental en su domicilio, un 9,9% fuera del domicilio, el 18,1% sin datos.•Un 69,9% (IC 95%: 66,3-73,5) obtuvieron significativamente (prueba de la Chi-cuadrado p < 0,005) una peor puntuación del índice de Barthel con respecto a su situación basal, bajando de nivel según la clasificación utilizada. Este dato solo constaba en el 52,8% de los pacientes tras la FC.•El consumo de fármacos aumentó de forma significativa a 9,3 (DE: 3,2) p < 0,005 (prueba de la t de Student), principalmente por la prescripción para la osteoporosis, analgésicos y derivados del hierro.•Precisaron ingreso hospitalario posterior a la FC un 68,3% (IC 95%: 65,6-70,1), con una media de 2,8 ingresos/paciente. Entre las causas destacan los traumatismos por caídas (24,1%), las infecciones de origen no-respiratorio (13,6%) y las complicaciones posquirúrgicas de la FC (11,1%).•Pacientes no-institucionalizados: Un 42,0% (IC 95%: 37,8-46,2) precisaron de un cuidador asalariado (aumento significativo con respecto a la situación basal p < 0,001 —prueba de la Chi-cuadrado—). Al final del periodo de estudio, un 50,9% (IC 95%: 48,0-53,4) estaban institucionalizados permanentemente, lo que supone un incremento significativo del 18,5% (IC 95%: 12,1-24,9; p < 0,001 prueba de la Chi-cuadrado). El tiempo medio trascurrido hasta la institucionalización: 5 meses (DE: desde el alta hospitalaria a 1,2 años). El 55,6% (IC 95%: 49,2-62,0) de los que vivían solos conservaron su independencia tras la FC.•Análisis de regresión logística, modelo multivariante, modelo predictivo: Institucionalización permanente. Las variables predictoras más influyentes para la institucionalización permanente tras la FC fueron: un peor MiniMental test OR: 2,6 (1,8-3,8), un peor índice de Barthel OR: 2 (1,2-3,4) y los reingresos posteriores OR: 2 (1,8-3,6).•Análisis de la mortalidad. Al final del periodo de estudio, un 45,5% (IC 95%: 42,6-58,4) habían fallecido, con una relación varón/mujer de 1,5. El tiempo transcurrido entre la FC y exitus fue 1,2 años (2 meses-2,5 años). Un 10,3% (IC 95%: 8,5-12,0) fallecieron durante el primer mes (la mayoría aún ingresados) y un 25,3% (IC 95%: 22,7-27,7) durante el primer año. Las causas principales de mortalidad fueron las complicaciones posquirúrgicas de la FC (25,2%), las infecciones de origen no respiratorio (15,9%), la neumonía (13,3%) y la insuficiencia cardíaca (12,1%). Las variables predictoras más influyentes se expresan en la tabla 3.
+
+
+- DISCUSIÓN
+
+Limitaciones del estudio: Al desarrollarse en atención primaria, no analiza los eventos sucedidos durante el ingreso hospitalario que podrían influir en el pronóstico, aunque pensamos que el seguimiento y análisis posterior refleja la situación real de estos pacientes. También, la falta de información en las historias clínicas, especialmente los aspectos sociales, nos hace valorar algunos resultados con cautela.
+La tasa de incidencia fue de 11 FC por cada 1.000 mayores de 75 años, su prevalencia indica que es 2 veces más frecuente en mujeres, , , y con una edad media de 87 años, datos coincidentes con otros estudios, .
+La mayoría de las FC se producen dentro del domicilio, coincidiendo con la mayoría de los estudios. Más de la cuarta parte habían sufrido caídas previas siendo estas a su vez la primera causa de reingresos tras la FC (infecciones y complicaciones posquirúrgicas fueron otras causas). Los reingresos afectaron a 2/3 de nuestros pacientes, en otros estudios, 1/3 reingresaron al año. Las caídas son, por tanto, un problema de primera magnitud en esta población.
+Previa a la FC, la mayoría tenían pluripatología crónica y alto consumo de fármacos, lo que ensombrece su pronóstico, concordando con los estudios revisados, , , , . Sin embargo, de forma aumentada respecto a otros estudios, destaca la anemia previa a la FC, presente en un 44,2% de los pacientes, a diferencia de porcentajes descritos del 22 al 37%, lo que nos lleva a pensar en una mala situación basal de nuestros pacientes y con mayor riesgo de complicaciones, .
+El consumo de fármacos pre-FC es superior a otros estudios (7,7 sobre 5,5). Sí coincidimos con el aumento de fármacos posfractura, justificado en parte por el manejo del dolor, la anemia, la osteoporosis y el déficit de vitamina D encaminado a una mejor recuperación funcional y a una disminución de las estancias hospitalarias, sugerido también en otros trabajos.
+La mitad de los pacientes no-institucionalizados fueron institucionalizados permanentemente lo que refleja una inadecuada recuperación posterior a la FC y, aunque no podemos asegurar que la FC fuera la causa fundamental, sí fue un factor desencadenante, al igual que para otros autores, , , , el empeoramiento del estado mental y funcional, así como los reingresos posteriores, fueron las condiciones que más influyeron.
+La cuarta parte de los pacientes fallecieron durante el primer año. En otros estudios lo sitúan entre el 30-40% a los 3 años, , con mayor mortalidad en institucionalizados y por causas principalmente infecciosa, respiratoria o cardiovascular como en nuestro estudio, , pero diferenciándonos en que la mortalidad fue 2 veces superior en el hombre. Las variables más influyentes en la mortalidad fueron la demencia y la institucionalización previa, ambas aumentan la fragilidad del anciano y facilitan las complicaciones, pero en nuestro estudio la edad no afectó ni a la mortalidad ni a la institucionalización, comportándose la anemia como un «marcador pronóstico de mortalidad» coincidiendo con otros autores, que la encuentran en 3 de cada 4 FC.
+
+
+- CONCLUSIONES
+
+Nuestro trabajo confirma que la FC supone un claro deterioro de la autonomía y de la calidad de vida en términos de pérdida de su independencia, necesidad de institucionalización (la mitad de los pacientes no-institucionalizados precisaron institucionalización tras la FC) y mortalidad (uno de cada 4 pacientes falleció durante el primer año).
+Se plantea, por tanto, la necesidad de mejorar la situación basal de estos pacientes mediante medidas orientadas a un mejor control de la mayoría de estas variables, con especial atención a la anemia previa a la FC y a la prevención de las caídas. Así mismo, un mayor uso de unidades de recuperación funcional tras la FC que podría suponer grandes beneficios en preservar la independencia de estos pacientes.Lo conocido sobre el tema•La FC en ancianos tiene unas consecuencias importantes en términos de morbimortalidad.•Ambas situaciones afectan principalmente a ancianos que previamente tenían un mayor deterioro cognitivo o una mayor dependencia para las actividades diarias.Qué aporta este estudio•Tras la FC un 25% fallecen durante el primer año y el 45% habían fallecido al final del periodo de estudio.•En el 50% de los ancianos la FC es un desencadenante de la institucionalización permanente a corto-medio plazo.•De las comorbilidades más prevalentes, la anemia previa a la fractura de cadera, resultó ser el factor más desfavorable.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación pública ni privada.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no presentan conflictos de intereses.

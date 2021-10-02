@@ -1,0 +1,308 @@
+ENFERMEDADES INFECCIOSAS. CONCEPTO. CLASIFICACIÓN. ASPECTOS GENERALES Y ESPECÍFICOS DE LAS INFECCIONES. CRITERIOS DE SOSPECHA DE ENFERMEDAD INFECCIOSA. PRUEBAS DIAGNÓSTICAS COMPLEMENTARIAS. CRITERIOS DE INDICACIÓN
+
+
+Concepto, aspectos generales y clasificaciónLa infección se define como la presencia y multiplicación de un microorganismo en los tejidos del huésped; representa la interacción del agente patógeno (y sus factores de virulencia) con el huésped. La enfermedad infecciosa es la expresión clínica del proceso infeccioso, traduciendo en signos y síntomas tanto el daño causado por el agente infeccioso como el resultado de la inflamación resultante. Se pueden clasificar en función del microorganismo causal o desde el punto de vista de las manifestaciones clínicas que produce (síndromes y enfermedades).Factores dependientes del agente etiológico y del huéspedLos factores implicados en la patogénesis de las infecciones dependen tanto del microorganismo (adherencia, multiplicación, capacidad de evadir la reacción del huésped, diseminación) y del huésped (fundamentalmente a través de la respuesta inmune innata y adaptativa que puede llegar a erradicar la infección).Diagnóstico general y específicoEl diagnóstico de las enfermedades infecciosas se basa en una completa historia clínica con la búsqueda de factores de riesgo epidemiológicos y signos sugestivos en la exploración, en pruebas complementarias generales y de imagen que orientan, localizan y permiten establecer un diagnóstico de sospecha y en las pruebas específicas microbiológicas (cultivo y técnicas de detección directa) que permiten identificar la etiología de la enfermedad.
+
+
+- INTRODUCCIÓN
+
+Las enfermedades infecciosas representan un importante problema de salud. Con el desarrollo en las últimas décadas del siglo pasado de los antimicrobianos y la inmunoterapia, se insinuó en algún momento que se alcanzaría el control de estas enfermedades, pero en la actualidad continúa afectando a millones de personas, sobre todo en países con recursos limitados. Por otra parte, aunque en nuestro entorno han disminuido claramente, han ido reapareciendo ("emergiendo") enfermedades que se creían controladas, surgiendo otros patógenos (virus de la inmunodeficiencia humana [VIH], coronavirus, virus de la gripe A H5N1 o H1N1) o incluso microorganismos resistentes a la mayoría de los antimicrobianos disponibles en la actualidad.
+Se define la infección como la presencia y multiplicación del microorganismo en los tejidos del huésped (hospedador) o dicho de otra manera un proceso causado por la invasión de tejidos, fluidos o cavidades del organismo normalmente estériles por microorganismos patógenos o potencialmente patógenos. Un proceso infeccioso representa la interacción de un microorganismo con un macroorganismo (en este caso el huésped humano) bajo ciertas condiciones ambientales. La interacción puede ser muy variable dependiendo de factores como las características del microorganismo la cantidad del inóculo y factores dependientes del huésped como la respuesta inmunitaria, .
+El equilibrio establecido entre los factores de patogenicidad o virulencia del microorganismo y los factores del huésped representados por su respuesta inmune "defensiva", tendrá como consecuencia que la relación se establezca como colonización (el microorganismo vive y se multiplica en el huésped pero sin causar daño, relación de tipo comensalismo), como infección clínica o latente (cuando se limita por la respuesta inmune del huésped, ocasionalmente originado el estado de portador) o bien dará lugar a una auténtica enfermedad. La enfermedad infecciosa es por tanto la expresión clínica de la infección, un muy variado conjunto de signos y síntomas que traducen tanto el daño producido por el microorganismo patógeno como el resultado de la inflamación resultante producida por la respuesta del huésped (fig. 1 ), , , .Fig. 1
+En las áreas desarrolladas la mayoría de las infecciones están causadas por microorganismos que pertenecen a la microflora que coloniza habitualmente al huésped (infecciones endógenas) mientras que las causadas por microorganismos exógenos predominan en las áreas de mayor pobreza. La flora endógena asienta en el tracto gastrointestinal, en la piel y en el tracto genital; mantiene relaciones de comensalismo o incluso simbiosis (huésped y patógeno se benefician mutuamente) con el huésped; ocasionalmente se produce una alteración del equilibrio huésped-parásito y pueden causar infección (por ejemplo, alteraciones estructurales de la piel o las mucosas, con disminución de las defensas del huésped). Cuando estos microorganismos presentan una baja capacidad patógena se denominan "oportunistas".
+Las infecciones exógenas se producen por una contaminación directa por microorganismos del ambiente (presentes en el aire, suelo, agua, animales del entorno, otras personas con infección o portadores); por tanto las vías o rutas de transmisión más frecuentes serían: la transmisión fecaloral (a partir del agua, alimentos contaminados), la vía aérea (aerosoles o gotas desde las secreciones respiratorias), inoculación transcutánea directa y mordeduras, transmisión parenteral (trasfusiones de material contaminado), la vía sexual y la transmisión por artrópodos o insectos vectores, .
+El conocimiento de estas rutas permite establecer mecanismos eficaces de control y prevención de las infecciones.
+
+
+- CLASIFICACIÓN
+
+La clasificación de las enfermedades infecciosas puede establecerse en torno a múltiples criterios. Podrían clasificarse según su evolución temporal en agudas, subagudas o crónicas, clasificación poco práctica desde un punto de vista diagnóstico. Desde un punto de vista microbiológico, se estudian de acuerdo con los agentes etiológicos responsables. Por último, desde un punto de vista clínico, su estudio se puede realizar a través de la presentación sindrómica de las enfermedades y/o su localización topográfica (neumonía, endocarditis, gastroenteritis, abscesos hepáticos, meningitis, etc.) teniendo en cuenta otras circunstancias del huésped o su entorno: adquisición en la comunidad o nosocomial, estado de inmunocompetencia, grupos de edad, etc.
+Los principales agentes etiológicos de las enfermedades infecciosas humanas corresponden a uno de los siguientes grupos, :
+
+
+-- PRIONES
+
+Son los agentes infecciosos más sencillos conocidos: una simple molécula de proteína. No contienen ácidos nucleicos ni información genética. Se propaga en el huésped induciendo la conversión (cambio conformacional) de la proteína endógena priónica PrP en una isoforma PrPsc resistente a proteinasas.
+
+
+-- VIRUS
+
+Contienen proteínas y ácidos nucleicos, transportando la información genética para su propia replicación, para lo que utiliza la maquinaria celular. Cada virus posee una única especie de ácido nucleico (ADN o ARN).
+
+
+-- BACTERIAS
+
+Son más grandes que los virus. Contienen ADN y ARN, estando el genoma codificado en su ADN. Recubiertos por una membrana celular y en algunas bacterias además por una pared celular. Son capaces de una replicación totalmente autónoma, independiente de la célula huésped.
+
+
+-- EUCARIOTES
+
+Protozoos, hongos, helmintos (multicelulares). Presentan elevada complejidad celular con compartimentos subcelulares con funciones especializadas.
+En las Tabla 1, Tabla 2, Tabla 3 se muestran algunos de los principales patógenos de importancia para el hombre desde un punto de vista etiológico y desde el punto de vista clínico.
+
+
+- PATOGENIA DE LAS ENFERMEDADES INFECCIOSAS
+
+La interacción del agente infeccioso con el huésped (y sus consecuencias, la enfermedad) está determinada por factores del propio patógeno y la respuesta del huésped.
+
+
+-- FACTORES DEPENDIENTES DEL MICROORGANISMO
+
+La infección es un proceso que se desarrolla en varias etapas:
+
+
+--- ADHERENCIA DEL MICROORGANISMO A LA SUPERFICIE EPITELIAL
+
+Tras la entrada del patógeno se produce la unión mediante moléculas del patógeno denominadas globalmente adhesinas y que incluyen moléculas como la lectina, los pili (fimbrias), glucosaminoglucanos, proteínas de la cápside viral (hemaglutinina), lípidos y otras, que se unen a receptores específicos en la célula huésped (ácido sialico, glucosaminoglicanos, integrinas, moléculas de adhesión como las moléculas de adhesión intercelular de tipo 1 (ICAM-1), integrinas, CD4, etc.); cada patógeno puede utilizar múltiples adhesinas para múltiples receptores, una adhesina puede unirse a varios receptores del huésped y un receptor puede reconocer varias adhesinas, .
+
+
+--- MULTIPLICACIÓN TRAS LA ENTRADA
+
+Los virus precisan transcribir o traducir su material genético; para las bacterias y hongos se requieren condiciones nutricionales específicas que encuentran en el entrono o los sintetizan.
+
+
+--- COLONIZACIÓN Y ESCAPE DE LAS DEFENSAS NATURALES O INNATAS DEL HUÉSPED
+
+Este es el caso de la acción de los fagocitos; por ejemplo algunos microorganismos presentan una cápsula antifagocítica, otros producen hemolisinas o leucocidinas que destruyen a los fagocitos y algunos interfieren en la respuesta del huésped alterando los mecanismos de reconocimiento del sistema inmune.
+
+
+--- INVASIÓN TISULAR Y DAÑO CELULAR
+
+Existen diversos mecanismos que provocan la disfunción o la destrucción del órgano invadido. Algunos virus tienen un efecto citopático directo; el crecimiento de bacterias y hongos puede comprometer la función del órgano que invaden. De gran importancia en algunas infecciones es la producción de diversos tipos de toxinas: exotoxinas que inhiben la síntesis proteica (como son las enterotoxinas de E. coli o Vibrio spp. o las neurotoxinas de C. botulinum) o bien endotoxinas como el lipopolisacárido (LPS) que induce la liberación de mediadores inflamatorios dando lugar a los fenómenos de la respuesta sistémica o sepsis.
+
+
+--- EXTENSIÓN
+
+Diseminación a otros lugares distintos de la entrada (a través del torrente circulatorio, o vía linfática o por contigüidad) y en su caso, transmisión a otros huéspedes.
+
+
+-- FACTORES DEL HUÉSPED
+
+La respuesta defensiva del huésped (respuesta inmune) a la infección se articula a través de una serie de células y moléculas que reconocen las estructuras de los microorganismos y responden con una variedad de mecanismos efectores consistentes en acciones celulares (fagocitosis, por ejemplo) o moleculares (toxicidad) que destruyen (o lo intentan) a los patógenos. Según el tipo de receptores (capacidad de reconocimiento de estructuras microbianas) y los mecanismos efectores, se dividen en respuesta inmune innata y respuesta adaptativa.
+
+
+--- RESPUESTA INNATA
+
+Todos los organismos multicelulares poseen mecanismos intrínsecos para defenderse frente a las infecciones, estos mecanismos de defensa están siempre presentes preparados para reconocer y eliminar microbios, por lo que se denomina inmunidad innata (o natural). Representa un mecanismo defensivo precoz capaz de controlar e incluso a veces erradicar las infecciones antes de que la inmunidad adaptativa se active. Los componentes de la inmunidad innata son la barrera mucocutánea, las células fagocitarias y una serie de factores solubles o moléculas sanguíneas. Los componentes de esta respuesta innata reconocen estructuras muy conservadas evolutivamente que están presentes en varias clases de microorganismos pero que no están presentes en las células del huésped. Cada componente de la inmunidad innata puede reconocer muchas bacterias o virus, .
+
+
+---- BARRERA CUTANEOMUCOSA
+
+La barrera cutaneomucosa (piel, tracto respiratorio o gastrointestinal) es la primera línea de defensa, y presenta características antimicrobianas como la propia continuidad del epitelio, características físico-químicas (pH) e incluso capacidad de producir péptidos antibióticos (catelicidinas y β defensinas); la saliva, el moco cervical o el fluido prostático también contienen otras sustancias como lisozimas y NAMLAA (N acetil-muramil-alaninaamidasa) también con capacidad antimicrobiana; localmente pueden existir además inmunoglobulinas A y G (IgA e IgG) e incluso linfocitos intraepiteliales (T γδ) o peritoneales (B1).
+
+
+---- CÉLULAS FAGOCITARIAS
+
+Los fagocitos, polimorfonucleares neutrófilos, células dendríticas y monocito/macrofágos, son células capaces de internalizar y destruir muchos patógenos (muerte celular inducida por fagocitosis). Los macrófagos y las células dendríticas, además, presentan una función de células presentadores de antígenos (CPA), función importante para la activación de la respuesta adaptativa así como son importantes productores de citoquinas que contribuyen a la respuesta inflamatoria (IL-1β, factor de necrosis tumoral alfa [TNFα], IL-6 y otras). Otras células de esta respuesta incluirían los eosinófilos, basófilos, mastocitos y sobre todo linfocitos NK (natural killer) citotóxicos para células infectadas por virus.
+
+
+---- FACTORES SOLUBLES
+
+Entre los factores solubles (producidos en muchas ocasiones por las células anteriores o inducida su síntesis hepática por las citoquinas) destacan los factores del complemento (actividad promotora de la quimiotaxis u opsonización para la fagocitosis o con efecto directo sobre el patógeno), proteínas de fase aguda (proteína C reactiva, opsonizante), fibronectina, defensinas, colectinas, pentraxinas, ficolinas, MBL (lectina fijadora de manosa, activadora del complemento), interferones (con actividad antiviral) entre otras.
+El mecanismo de reconocimiento de las moléculas microbianas, conocidas como PAMP (patrones moleculares asociados a señales de peligro procedentes de patógenos), es realizado por diversos receptores denominados receptores de reconocimiento de patrones (PRR); se localizan en la superficie de las células (transmembrana) o intracelularmente. Entre los PRR transmembrana destacan el CD14 (ligando de LPS), CD 209 (dectina-1 reconoce betaglucanos, por ejemplo de hongos), TREM-1, FMLPR y sobre todo los receptores toll-like o TLR. Intracelularmente se han descrito PRR como los NLR (familia NOD-like que reconocen estructuras bacterianas) o los RIG-1, MDA-5, o DAI que detectan ácidos nucleicos virales. Los PRR mejor conocidos son probablemente los TLR que presentan distintas capacidades de reconocimiento, así los TLR1 reconoce lipopéptidos, y ácido lipoteicoico, TLR2 peptidoglucanos, LPS, TLR3 ARNds viral, TLR4 LPS y proteínas del virus respiratorio sincitial, etc. Tras la señalización y activación del TLR, se activan factores intracelulares, produciéndose la traslocación al núcleo del NFkB, induciéndose la síntesis y secreción de citoquinas inflamatorias (IL-1, IL-6, IL-10, IL-12, IL-15, TNFα e interferón alfa [IFNα]) que contribuyen a la inflamación, a la producción de reactantes de fase aguda, al reclutamiento de más fagocitos y proporcionan señales para la activación de la respuesta inmunidad adaptativa, , .
+
+
+--- RESPUESTA INMUNE ADAPTATIVA
+
+Es una respuesta altamente específica (diferencia estructuras muy definidas y específicas de los microorganismos: los antígenos), se desarrolla tras la exposición al antígeno, son más lentas que las innatas (precisan expansión clonal de las células antígeno específicas), aunque mucho más eficaces en la erradicación del patógeno específico. La respuesta comprende los linfocitos T y B y sus productos de secreción los anticuerpos, perforinas y citoquinas; de acuerdo con ello existen 2 tipos de inmunidad adaptativa: inmunidad humoral (llevada a cabo por los anticuerpos producidos por las células B) eficaz frente a las infecciones extracelulares y la inmunidad mediada por células (células T efectoras, células T citotóxicas) que elimina fundamentalmente patógenos intracelulares; algunos linfocitos T activan a los fagocitos para destruir los microorganismos que han ingerido, otros linfocitos T (citotóxicos) matan cualquier tipo de célula del huésped que haya sido infectada.
+El reconocimiento antígeno-específico se lleva a cabo por los receptores de las células T (TCR) y de los linfocitos B (BCR o Ig de superficie). Existen 2 tipos de células T, T cooperadores (Th) con el correceptor CD4 en superficie y T citotóxicos que expresan CD8. La respuesta se inicia cuando las células fagocitarias de la respuesta innata (CPA) (fundamentalmente células dendríticas y macrófagos) presentan los antígenos (previamente degradados en péptidos) unidos a moléculas HLA (MHC clase II para los linfocitos T CD4+ y MHC I para los CD8+) a los linfocitos T, proporcionando además algunas señales coestimuladoras (CD80, CD86 y citoquinas); tras el reconocimiento se produce la activación, proliferación, diferenciación y especialización: linfocitos T efectores como los citotóxicos (CTL, CD8+), linfocitos T cooperadores productores de IFNy (Th1) y que favorecen las respuesta de IgG1 e IgG3, linfocitos T CD4+ productores de IL-4,IL-5 e IL-13 (Th2 cooperadores en respuestas IgE), o linfocitos T productores de IL-17 (Th17) con papel proinflamatorio y en la defensa antiviral (mediante inducción para la producción de interferones de clase I). Distintos tipos de patógenos inducen una u otra respuesta: por ejemplo, microorganismos "fagocitables" estimulan una respuesta Th1, los helmintos una respuesta Th2 y los virus, Th17, .
+Los linfocitos B, tras su activación (reconocimiento del antígeno uniéndose a un determinante -epítopoespecífico tridimensional), y modulados por los T cooperadores (con distintas citoquinas) se diferencian en células plasmáticas productoras de Ig; estos anticuerpos se segregan a la circulación y fluidos mucosos, neutralizando y eliminando microbios y toxinas (directamente o favoreciendo la fagocitosis mediante la opsonización a través de receptores Fc de los fagocitos).
+Cada mecanismo efector de la respuesta adaptativa estaría "orientado" para la defensa contra patógenos concretos; respuestas Th1, Th2 y Th17 favorecen la producción de anticuerpos por las células B; respuestas Th1 para la respuesta frente a bacterias intracelulares o protozoos mediante la activación de macrófagos; respuestas Th2 para la movilización y activación de eosinófilos, mastocitos o basófilos para la respuesta frente a helmintos y respuestas Th17 para la activación de neutrófilos en la respuesta frente a hongos y bacterias extracelulares.
+A su vez, los microorganismos han desarrollado mecanismos de evasión o escape para sobrevivir a estas respuestas; las estrategias son múltiples: produciendo variaciones antigénicas (que definen serotipos como en el neumococo) o cambios en otras proteínas de superficie (algunos virus) mediante reordenamientos secuenciales del ADN, o incluso (también los virus) modificando la expresión de proteínas o alterando mecanismos intracelulares de señalización o de otro tipo pero básicos para el desarrollo de la respuesta: sintetizando moléculas que mimetizan citoquinas o receptores TCR, disminuyendo la expresión de moléculas de clase I o alterando el citoesqueleto o la membrana de la células que infectan.
+
+
+- DIAGNÓSTICO DE LAS ENFERMEDADES INFECCIOSAS
+
+-- HISTORIA CLÍNICA
+
+Aunque la fiebre se considera el síntoma cardinal de la infección, no siempre puede encontrarse en una enfermedad infecciosa y no toda fiebre implica una infección. En cualquier caso, las características de la misma (su grado) los síntomas acompañantes y su distribución en el tiempo (patrones de la fiebre: en agujas, intermitente, remitente, continua, etc.) pueden orientar hacia alguna etiología específica (paludismo, fiebre recurrente, abscesos, etc.).
+Dado el amplio espectro de signos y síntomas con que pueden presentarse las enfermedades infecciosas debe realizarse una completa historia clínica que puede ayudar a identificar la localización de la infección, así como el microorganismo probablemente causal.
+En la anamnesis, además de recogerse las características de la enfermedad actual y dirigida por aparatos, deben registrarse datos referidos a los factores epidemiológicos de riesgo para la infección (basados en las fuentes y ruta de transmisión de la enfermedad) así como factores de riesgo generales presuponen un debilitamiento de la respuesta del paciente.
+
+
+--- FACTORES DE RIESGO EPIDEMIOLÓGICOS
+
+1.Viajes a zonas tropicales (zonas con determinadas enfermedades endémicas).2.Ingesta de agua o alimentos sospechosos: infecciones entéricas por Salmonella, Listeria, Campylobacter, amebas, etc.3.Historia ocupacional y contacto con animales: infecciones zoonóticas, hidatidosis, fiebre Q, brucelosis, criptococosis, etc.4.Prácticas sexuales de riesgo en relación con la adquisición de enfermedades de transmisión sexual incluyendo el VIH.5.Uso de tóxicos: drogas por vía parenteral.6.Transfusiones previas: enfermedades virales, paludismo, por priones.7.Exposición a vectores (insectos o artrópodos) unido a la estación y lugar geográfico de la posible picadura: rickettsiosis, enfermedad de Lyme, paludismo, tripanosomiasis, etc.8.Contactos con pacientes con enfermedades transmisibles: viriasis, tuberculosis, etc.
+
+
+--- FACTORES DE RIESGO GENERALES
+
+1.Edades extremas de la vida.2.Enfermedades crónicas subyacentes.3.Medicaciones previas que incluyen inmunosupresores y antibióticos.4.Alcoholismo.5.Procedimientos invasivos previos: procedimientos de hemodiálisis, cateterismo vascular, prótesis, endoscopias, etc.
+
+
+-- EXPLORACIÓN FÍSICA
+
+Debe ser completa y minuciosa (repetir a lo largo de varios días si es preciso). Se debe valorar el estado general, nutricional, los signos vitales (nivel de conciencia, frecuencia cardiaca y respiratoria, tensión arterial, signos de perfusión periférica) se aportarán datos sobre la situación y gravedad del paciente. Algunos hallazgos orientan hacia la presencia de una enfermedad infecciosa.
+
+
+--- LESIONES CUTÁNEAS (PIEL Y FANERAS
+
+Pueden ofrecer claves para el diagnóstico: exantemas y enantemas (Tabla 4 ) algunos muy sugerentes y específicos como en algunas viriasis, lesiones por picaduras, fístulas, lesiones sugerentes de embolias periféricas (estigmas de endocarditis), celulitis e infecciones necrotizantes de piel y partes blandas, foliculitis, nódulos subcutáneos, ictericia, tiñas, etc.
+
+
+--- ADENOPATÍAS PERIFÉRICAS Y SU DISTRIBUCIÓN
+
+Características de algunas enfermedades virales, toxoplasma, tuberculosis, infección por el VIH, etc.
+
+
+--- CABEZA Y CUELLO
+
+Presencia de otitis, faringoamigdalitis, signos de infección odontológica o estomatológica.
+
+
+--- FONDO DE OJO
+
+Uveítis, endoftalmitis o lesiones retinianas características (tubérculos coroideos en la tuberculosis, candidiasis, citomegalovirus [CMV], sífilis, etc.).
+
+
+--- EXPLORACIÓN CARDIACA-PULMONAR-ABDOMINAL
+
+La exploración cardiaca (soplos sugerentes de endocarditis) respiratoria (semiología de neumonía o derrame pleural), abdominal (dolor, ascitis, presencia de hepato y/o esplenomegalia -hallazgos habitualmente presentes en la fiebre tifoidea, leishmaniasis, mononucleosis infecciosa, tuberculosis, etc.).
+
+
+--- EXPLORACIÓN DE GENITALES
+
+Ulceras (chancros) y tacto rectal para evaluación de la próstata (prostatitis, abscesos prostáticos).
+
+
+--- SISTEMA MÚSCULO ESQUELÉTICO
+
+Artritis, espondilodiscitis.
+
+
+--- NEUROLÓGICO
+
+Signos meníngeos o focalidad motora o sensitiva.
+Según la orientación sindrómica podría realizarse una punción lumbar, o una artrocentesis paracentesis o toraconcentesis para confirmación sindrómica y estudio etiológico.
+
+
+- PRUEBAS COMPLEMENTARIAS
+
+-- PRUEBAS GENERALES INESPECÍFICAS
+
+Puede realizarse una hematimetría, perfil bioquímico y análisis del sedimento urinario. En las Tabla 5 se muestran los potenciales hallazgos más relevantes.
+El diagnóstico de presunción inicial se basa en la historia clínica y en la forma de presentación sindrómica; las pruebas de laboratorio no específicas pueden usarse para apoyar ciertas posibilidades diagnósticas en el contexto clínico y epidemiológico adecuado; la ausencia de algún hallazgo característico sugiere un diagnóstico alternativo. Estas pruebas no son diagnósticas por sí mismas y deberían usarse en su contexto clínico aunque, en alguna de ellas, el grado de anormalidad pudiera conferir cierta especificidad. Puesto que las enfermedades infecciosas son un proceso dinámico, las anormalidades de laboratorio deberían también realizarse de forma seriada. Pueden usarse como claves para evaluar el síndrome clínico del paciente, como apoyo o como argumento en contra de la presencia de una enfermedad infecciosa.
+Los reactantes de fase aguda (velocidad de sedimentación globular [VSG] y proteína C reactiva) se encuentran prácticamente elevados en todos los procesos infecciosos.
+Cuando la infección evoluciona hacia una sepsis, se producen una gran cantidad de sustancias relacionadas con la respuesta inmune e inflamatoria. Se ha intentado utilizar la determinación de estas moléculas como marcadores (biomarcadores) con adecuada sensibilidad y especificidad que permitan identificar rápidamente el proceso, identificar pacientes con peor pronóstico y quizás guiar el tratamiento; se han determinado múltiples moléculas de las que destacan por su rendimiento diagnóstico citoquinas como la IL-6, la proteína C reactiva, la procalcitonina y el receptor TREM-1, . La procalcitonina puede elevarse tanto en tumores neuroendocrinos como en procesos que originan inflamación sistémica (traumatismos graves, pancreatitis, golpe de calor, etc.). La principal fuente de procalcitonina en procesos con inflamación sistémica son las células parenquimatosas no neuroendocrinas de distintas localizaciones (hígado, pulmón, riñón, músculo, etc.) y en la inflamación marcada, sus niveles se elevan en cuatro horas, alcanza máximos en un plazo de 8 a 24 horas y se mantiene elevada mientras persiste el proceso. En la infección se encuentra elevada en infecciones bacterianas localizadas, infecciones urinarias (pielonefritis) incluso a veces en ausencia de afectación sistémica, y por supuesto en infecciones graves y sepsis.
+
+
+-- TÉCNICAS DE IMAGEN
+
+La imagen radiológica continúa desempeñando un papel muy importante en el diagnóstico y tratamiento de la patología infecciosa.
+
+
+--- RADIOLOGÍA CONVENCIONAL
+
+Es la más utilizada por su accesibilidad y relación costo beneficio en tórax y hueso; aunque, en esta última localización tiene el inconveniente de no detectar las alteraciones en una fase precoz. En el tórax habitualmente es suficiente con una placa posteroanterior (PA) seguida de una lateral en casos dudosos en personas jóvenes. El patrón radiológico, los hallazgos clínicos y el lugar de desarrollo de la enfermedad (la comunidad o el hospital) permiten en la mayor parte de los casos llegar a un diagnóstico (fig. 2 ).Fig. 2
+
+
+--- ECOGRAFÍA
+
+Es en la actualidad la primera elección en el estudio de la patología infecciosa tanto a nivel abdominal como en partes blandas. Los abscesos en ecografía se manifiestan como lesiones hipoecoicas a veces con contenido hiperecoico y refuerzo posterior. Es importante recordar que los abscesos con abundante gas pueden pasar desapercibidos en el estudio ecográfico. El aire del absceso produce una sombra acústica posterior que impide la visualización de las estructuras más profundas y en el abdomen, puede además, ser confundido con un asa intestinal.
+
+
+--- TOMOGRAFÍA AXIAL COMPUTARIZADA
+
+Está indicada en el estudio de la patología infecciosa del sistema nervioso central, en cuello y como complemento en el estudio de la patología infecciosa torácica, abdominal y de las partes blandas. La apariencia de los abscesos en la tomografía axial computarizada (TAC) varía dependiendo del tiempo de evolución. Al principio, presentan una densidad similar a la de los tejidos blandos adyacentes (flemón) y posteriormente una zona central hipodensa rodeada por una cápsula que capta contraste (fig. 3A ). La presencia de gas dentro de la colección sugiere el diagnóstico de absceso aunque no es patognomónico. Ambas técnicas, tanto la ecografía como la TAC pueden usarse como guía en la punción aspiración o drenaje de las colecciones tanto con vistas al diagnóstico como al tratamiento (fig. 3B ).Fig. 3Fig. 4
+
+
+--- RESONANCIA MAGNÉTICA
+
+Es útil por su resolución de contraste y sensibilidad en el estudio de la patología infecciosa en el sistema nervioso central y músculo esquelético, donde detecta alteraciones de forma más precoz que la radiografía convencional, ecografía y TAC.
+
+
+--- TÉCNICAS CON ISÓTOPOS (GAMMAGRAFÍA
+
+La gammagrafía con MDP-Tc99m, citrato de Ga67 o leucocitos marcados con 111In pueden tener valor para la localización de focos infecciosos. La tomografía por emisión de positrones (PET) (con 18F-FDG) parece una técnica aún más sensible que puede permitir, en algunas localizaciones como el hueso o en injertos vasculares infectados, diferenciar el origen infeccioso de lesiones inflamatorias de otra etiología.
+
+
+--- OTRAS TÉCNICAS
+
+La ecocardiografía (transtorácica o transesofágica) permitirá en su caso diagnosticar endocarditis (presencia de vegetaciones en las válvulas cardiacas naturales o protésicas) miocarditis o pericaditis infecciosas.
+La realización de endoscopias (gastroscopia, colonoscopia, fibrobroncoscopias, etc.) puede confirmar el foco infeccioso y además permitiría la toma de muestras (biopsias, aspirados) para completar el diagnóstico etiológico.
+El estudio anatomopatológico de las muestras obtenidas mediante procedimientos invasivos (biopsia, citología, etc.) puede mostrar signos de inflamación aguda (infiltrados polimorfonucleares), infiltrados mononucleares, granulomas o incluso el efecto citopático característico de algunas viriasis; se utilizan tinciones (histoquímicas como hematoxilina-eosina, papanicolau, PAS [ácido periódico de Schiff], platametenamina, etc.); inmunohistoquímicas o incluso detección de ácidos nucleicos (hibridación in situ o reacción en cadena de la polimerasa); ocasionalmente las lesiones serán muy sugerentes del proceso infeccioso (virales, fúngicas) o en todo caso proporcionarán una clara orientación diagnóstica.
+
+
+- DIAGNÓSTICO ESPECÍFICO: MICROBIOLÓGICO
+
+El diagnóstico de la enfermedad infecciosa parte, en un principio, de una hipótesis diagnóstica generada por la valoración de una serie de datos clínicos, epidemiológicos u otros (físicos, radiológicos). La confirmación del proceso y la identificación del agente causal conforman el diagnóstico microbiológico o etiológico de la enfermedad infecciosa, el cual se lleva a cabo en el laboratorio de microbiología (Tabla 6 ). En la optimización del diagnóstico es esencial una adecuada calidad de la muestra clínica a analizar, constituyendo ésta la principal conexión entre el clínico y el laboratorio que debe ser en todo momento fluida.
+
+
+-- MUESTRA CLÍNICA
+
+La calidad de la muestra que se envía para su procesamiento va a condicionar el diagnóstico del laboratorio. Los aspectos importantes a considerar en este punto son la toma de la muestra y el transporte, .
+
+
+--- TOMA DE LA MUESTRA
+
+En relación al sitio de la infección hay que distinguir las zonas estériles de las zonas naturalmente contaminadas con la flora normal o residente, y en función del modo de recolección de la muestra ésta puede ser directa e indirecta.
+
+
+---- MUESTRAS DE SITIOS ESTÉRILES
+
+El sitio de la infección corresponde a líquidos corporales (líquido cefalorraquídeo [LCR], sangre, abscesos profundos) o tejidos (pulmón, ganglio) que en condiciones normales son estériles. La toma de la muestra se puede hacer de forma directa o indirecta. En el primer caso se realiza a través de una punción-aspiración o intervención quirúrgica. En estos casos las muestras sólo tendrán el patógeno, y así los resultados positivos son siempre diagnósticos, una vez descartadas las posibles contaminaciones por errores en la recolección (mala descontaminación de la piel, agentes ambientales contaminantes). En la toma indirecta, los sitios donde se localiza la infección (estériles en personas sanas) deben atravesar sitios colonizados con flora normal, con lo que la valoración final del resultado debe tener en cuenta este hecho y el microbiólogo debe conocer tanto los patógenos potenciales, como la flora contaminante potencial. Son claros ejemplos la recolección de esputos y orina emitidos de forma espontánea, que deben de atravesar la zona de la faringe y el tracto genital externo, respectivamente.
+
+
+---- MUESTRAS DE SITIOS CONTAMINADOS CON FLORA NORMAL
+
+Cuando la infección se localiza en zonas anatómicas naturalmente contaminadas (faringe, intestino grueso), los exámenes del laboratorio van encaminados a seleccionar de forma selectiva aquellos microorganismos que son causa de infección en dicha zona y que no son componentes habituales de la misma. La recolección de la muestra puede ser directa, con hisopo o torunda estéril (frotis faríngeo o rectal) o indirecta (heces).
+
+
+--- TRANSPORTE DE LA MUESTRA
+
+Deberá de reunir una serie de requisitos importantes, como son: a) la recogida se hará en un recipiente adecuado y correctamente etiquetado; b) el transporte se efectuará de forma rápida al laboratorio, lo antes posible desde su recolección (primeras 2-3 horas), en caso de no poder llevarse a cabo un transporte rápido se debe mantener la muestra en frío (4 °C); c) se utilizarán medios de transporte (líquidos, semisólidos) para evitar la desecación en las tomas realizadas con torunda, o para el procesamiento de ciertos microorganismos (anaerobios), .
+Con el fin de aumentar la sensibilidad y especificidad del diagnóstico, algún tipo de muestras requerirán en el laboratorio un tratamiento previo a su procesamiento:
+
+
+--- OBSERVACIÓN MICROSCÓPICA
+
+Se efectúa una tinción de la muestra por el método de Gram, y se valora la calidad de la misma (grado de contaminación) en función de la presencia de un mayor o menor número de células epiteliales de descamación. Es norma habitual para muestras del tracto respiratorio (esputos) y condiciona su aceptación o rechazo. También puede ser útil en otro tipo de muestras, como las muestras de herida obtenidas con hisopo.
+
+
+--- CONCENTRACIÓN
+
+Mediante métodos de centrifugación o filtrado se concentran aquellas muestras que presentan poca cantidad de microorganismos (LCR), con el fin de aumentar la sensibilidad de las técnicas diagnósticas (tinciones, cultivo, detección de componentes).
+
+
+-- DIAGNÓSTICO MICROBIOLÓGICO
+
+Las estrategias para el diagnóstico del laboratorio pueden variar según los distintos microorganismos y tipos de infección, distinguiéndose los métodos de diagnóstico microbiológico directo e indirecto.
+
+
+--- DIAGNÓSTICO DIRECTO
+
+Se trata del empleo de técnicas encaminadas a la demostración del agente infeccioso, o de sus productos, directamente en la muestra clínica. Para ello se pueden poner en práctica diversos métodos convencionales o rápidos (fig. 4 ), , , .Fig. 5
+
+
+---- VISUALIZACIÓN DEL MICROORGANISMO
+
+La observación al microscopio de las muestras puede hacerse en fresco o después de una tinción. En el primer caso, podemos valorar la presencia de levaduras, hongos filamentosos o parásitos. Con algunas bacterias que no se pueden observar con la iluminación habitual de campo brillante (Treponema pallidum) se puede recurrir a la utilización del condensador de campo oscuro. Las tinciones a veces son definitivas en la identificación bacteriana. La tinción imprescindible es la de Gram, que permite diferenciar a las bacterias en grampositivas y gramnegativas en función de la permeabilidad de la pared celular. Su utilización, combinada con otros hallazgos clínicos, puede guiar el tratamiento de la infección antes del resultado de los cultivos. Otra tinción fundamental es la de Ziehl-Neelsen, que se emplea en la detección de bacterias ácido-alcohol resistentes (BAAR), como las pertenecientes a los géneros Mycobacterium o Nocardia. Otro tipo de tinciones que pueden ser útiles son las de Giemsa o Wright para parásitos, y las que emplean fluoróforos, como la auramina o naranja de acridina, para la visualización en el microscopio de fluorescencia.
+
+
+---- DETECCIÓN DE COMPONENTES
+
+Se utilizan para ello las técnicas inmunológicas, que aprovechan la especificidad de la unión de los antígenos con los anticuerpos. En el diagnóstico microbiológico directo se emplean anticuerpos conocidos para la detección del antígeno problema, estructural o secretado (toxinas bacterianas). Según el tipo de soporte del anticuerpo, las técnicas pueden ser diversas: aglutinación del látex, enzimainmunoensayo (EIA), inmunofluoresencia directa (IFD), inmunocromatografía. La utilización de los anticuerpos monoclonales ha tenido gran impacto en la calidad de dichos métodos, debido a su mayor especificidad.
+En general, las técnicas de detección de antígeno son muy útiles en aquellos casos en los que el cultivo se ve obstaculizado, ya sea por tratarse de microorganismos cuyo crecimiento es lento o dificultoso o por el tratamiento previo con antimicrobianos, y además permiten una identificación rápida del agente infeccioso. En este terreno, la inmunocromatografía ha tenido una gran implantación como técnica de diagnóstico rápido en la muestra clínica (detección de antígeno de Streptococcuspyogenes en faringe, o de Legionella pneumophila o Streptococcuspneumoniae en orina para el diagnóstico de neumonía).
+
+
+---- DETECCIÓN DE ÁCIDOS NUCLEICOS
+
+El análisis del ADN o ARN de los microorganismos, además de ser la base de los nuevos estudios taxonómicos, ha revolucionado el campo del diagnóstico y la epidemiología de las enfermedades infecciosas. Como en el caso de las reacciones antígeno-anticuerpo, son técnicas muy específicas y su aplicación no sólo se refiere al diagnóstico directo, sino que se extiende a otros campos de la Microbiología Clínica, como son la patogenia, el tratamiento o la epidemiología de las enfermedades infecciosas. Estas aplicaciones se engloban bajo la denominación de Microbiología Molecular, y sus objetivos principales son la detección e identificación del genoma de los microorganismos (bacterias, virus, hongos, parásitos), la detección de genes de resistencia a antimicrobianos, u otros de interés patogénico (genes de virulencia) y el estudio de la clonalidad de las infecciones, tanto nosocomiales como de la comunidad. Aplicadas al diagnóstico constituyen técnicas de diagnóstico rápido, como en el caso de la visualización microscópica o la detección de antígenos. Las técnicas más utilizadas se basan en la hibridación con sondas específicas y, sobre todo, en la amplificación de ácidos nucleicos por la técnica de reacción en cadena de la polimerasa, , . La identificación se lleva a cabo bien por la utilización de reacciones en cadena de la polimerasa que amplifican regiones específicas del microorganismo, o por amplificación de regiones genómicas muy conservadas y posterior secuenciación y comparación con bases de datos. En este último caso, se emplean fundamentalmente los genes que codifican el ARN ribosomal, tanto en bacterias (16S, 23S) como en hongos o parásitos (18S, 28S) .
+El desarrollo posterior de estas técnicas ha originado una nueva generación de métodos moleculares cuya aplicación en el diagnóstico, y otros campos de la Microbiología Clínica, está teniendo cada vez una mayor implantación en los laboratorios clínicos (reacción en cadena de la polimerasa en tiempo real, pirosecuenciación, FISH, arrays, MALDI-TOF), , , .
+
+
+---- CULTIVO
+
+En muchas ocasiones el método más usual para la detección e identificación del microorganismo presente en la muestra lo constituye su crecimiento previo en un medio de cultivo. La mayoría de las bacterias y hongos pueden cultivarse en medios artificiales, pero los intracelulares estrictos (Chlamydia, Rickettsia) sólo pueden cultivarse en los medios con células eucarióticas (cultivos celulares). Éstos también son empleados para el cultivo de los virus. Los medios de cultivo pueden ser sólidos o líquidos, y en función de su permisividad para el crecimiento de los microorganismos se clasifican en no selectivos, o comunes, y selectivos. Estos últimos se emplean sobre todo para el aislamiento de patógenos específicos en sitios anatómicos con flora normal abundante (heces). En los medios de cultivo sólidos cada célula bacteriana se multiplica hasta formar una colonia visible. En los medios celulares el crecimiento viral se pone de manifiesto por la observación microscópica de cambios o alteraciones en las monocapas celulares. A partir del crecimiento en colonias o en células, se lleva a cabo la identificación del microorganismo por distintos métodos: bioquímicos, inmunológicos, moleculares o automatizados.
+En la actualidad, la mayor parte de los laboratorios de microbiología cuentan también con sistemas automáticos o semiautomáticos de cultivo e identificación bacteriana. Los sistemas automáticos de cultivo aumentan la sensibilidad y el tiempo de detección, y por ello son fundamentales en situaciones de importancia clínica, como son el cultivo de las muestras de sangre (hemocultivos) y de las muestras para el aislamiento de M. tuberculosis. Muchos de los sistemas automáticos de identificación que existen en el mercado (Vitek, MicroScan, Phoenix) incorporan también las pruebas de sensibilidad a antimicrobianos, por lo que se muestran muy útiles en el trabajo asistencial del laboratorio.
+
+
+---- ANTIBIOGRAMA
+
+Una de las funciones más importantes del laboratorio de microbiología es la de determinar la susceptibilidad in vitro del aislado de un paciente a una batería de antimicrobianos, con el fin de orientar el tratamiento. Para ello, se pueden emplear técnicas de difusión, como la de disco-difusión en placa o el Etest, o técnicas de dilución, ya sean en caldo o en agar. Enfrentando una misma concentración del microorganismo a concentraciones crecientes de antimicrobiano se obtiene el cálculo de la concentración mínima inhibitoria (CMI), que es muy importante a la hora de interpretar los criterios de sensibilidad o resistencia. La CMI se puede determinar por pruebas de microdilución o difusión (Etest). Todas estas técnicas requieren de una estandarización en relación a una serie de aspectos, como son el medio de cultivo, la temperatura y tiempo de incubación, el inóculo bacteriano o los criterios de lectura. Otra forma de determinar en el laboratorio la eficacia de los antimicrobianos frente a los aislados es evaluar el estado de resistencia, es decir, buscar los mecanismos de resistencia a ciertos antimicrobianos, con lo que se evitaría su utilización en el tratamiento. Así, por ejemplo, la demostración de la producción de una beta-lactamasa de espectro extendido (BLEE) limitaría en gran medida la utilización de los betalactámicos. Los mecanismos de resistencia pueden ponerse de manifiesto por métodos fenotípicos (detección de la enzima, sinergia de doble disco) o genotípicos. En estos últimos, se investigan las bases genéticas (mutaciones, plásmidos) de la expresión de la resistencia, y presentan la ventaja de que pueden incluso aplicarse directamente en la muestra clínica, sin necesidad de tener el aislamiento en un medio de cultivo (por ejemplo, la determinación de la resistencia de M. tuberculosis a isoniazida o rifampicina).
+Es importante tener en cuenta que en la selección del antimicrobiano apropiado para el tratamiento de la infección no bastan por sí mismos los resultados del laboratorio, sino que se deben de considerar también otros aspectos, como son: la farmacología del fármaco, el sitio de la infección o el tipo de patología.
+
+
+- DIAGNÓSTICO INDIRECTO O SEROLÓGICO
+
+Consiste en poner en evidencia una respuesta inmune del huésped frente a la infección por un microorganismo (bacterias, virus, hongos o parásitos). En la práctica se trata de detectar los anticuerpos específicos dirigidos frente a los antígenos del microorganismo infectante. Normalmente se buscan en el suero del paciente, pero también se pueden utilizar otros líquidos orgánicos (LCR, saliva). Se emplean para ello técnicas inmunológicas que utilizan un antígeno conocido para la detección del anticuerpo problema, es decir, una inversión del sistema diagnóstico de detección directa. Los métodos incluyen técnicas semejantes a las descritas en la detección de antígeno: aglutinación, EIA, inmunocromatografía, inmunofluorescencia indirecta (IFI), inmunoelectroforesis (western blot) , , , . En la actualidad, muchas de estas pruebas diagnósticas están altamente automatizadas y emplean la quimioluminiscencia como señal en las reacciones inmunológicas. Otro tipo de técnicas, como la fijación de complemento o la neutralización, son cada vez menos empleadas en los laboratorios clínicos. El tipo de anticuerpo o Ig que se detecte puede indicar una infección reciente (IgM, IgA, IgG de baja afinidad) o pasada (IgG de alta afinidad). Generalmente de tres a seis semanas después de producirse la infección se produce el máximo nivel de anticuerpos (IgM+IgA+IgG), y el aumento de la concentración de éstos entre dos muestras separadas en el tiempo (2-4 semanas) también es indicativo de infección reciente. Las pruebas serológicas pueden ser aplicadas a las muestras en forma de perfil serológico, con el fin de estudiar, de forma simultánea, varios agentes patógenos que pueden ser los causantes del mismo cuadro clínico. Como ejemplo podemos citar el perfil de neumonía atípica para estudiar la presencia de anticuerpos frente a los patógenos más importantes implicados en este proceso (Legionella pneumophila, Chlamydophila pneumoniae, Mycoplasma pneumoniae, Coxiella burnetii). Además del diagnóstico de las infecciones, los estudios serológicos también tienen su aplicación para conocer el estado inmune de un individuo frente a un agente infeccioso (embarazadas, estudios previos a una vacunación), o en estudios epidemiológicos en que se quiere conocer el estado inmune de la población (seroprevalencia de la enfermedad, justificación de una campaña de vacunación).

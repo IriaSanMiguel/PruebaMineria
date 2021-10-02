@@ -1,0 +1,186 @@
+MANEJO GENERAL Y EXTRAHOSPITALARIO DEL PACIENTE CON SOSPECHA DE INFECCIÓN VIRAL
+
+
+- INFECCIONES RESPIRATORIAS AGUDAS
+
+Los virus que con más frecuencia provocan las infecciones respiratorias agudas son el virus Influenza (Ortomixovirus), el virus sincitial respiratorio y Parainfluenza (Paramixovirus), los Adenovirus (Adenovirus) y los Rinovirus (Picornavirus). Entre marzo de 2003 y mayo de 2004 se produjeron casos del llamado SARS (severe acute respiratory syndrome) producido por un tipo especial de Coronavirus en las áreas geográficas de Taiwan, China, Hong-Kong y Toronto.
+
+
+- VIRUS DE LA INFLUENZA O VIRUS DE LA GRIPE
+
+Existen tres grandes tipos: A, B y C, cuyas condiciones clínicas y epidemiológicas asociadas son totalmente distintas. Los 3 poseen glucoproteínas superficiales llamadas hemaglutinina (H) y neuroaminidasa (N), cuyas variaciones dan lugar a los diferentes subtipos. Estas variaciones sólo se dan de manera importante en el tipo A, el único que puede causar pandemias. Las variaciones presentes en el tipo B son menos extensas y se cree que no existen en el tipo C, por lo que no son causa importante de epidemias y los cuadros clínicos que provocan son menos graves e importantes que en el tipo A.
+Los brotes de gripe aparecen casi todos los años, caracterizados por su presentación estacional, aunque su extensión y gravedad varían enormemente. Se han relacionado con brotes extensos de enfermedad en seres humanos los subtipos H1, H2, H3, N1 y N2 del tipo A. Entre los años 1997–2009 se ha sumado el A/H5N1, la llamada gripe aviar. El último caso notificado de esta gripe se ha producido el 1 de julio del 2009, en Egipto. En la actualidad, se sigue de cerca la evolución de una pandemia producida por una cepa de A/H1N1 de origen porcino que se ha extendido por todo el mundo y que es más grave en sujetos jóvenes, personas con enfermedades crónicas (especialmente asma) y embarazadas.
+infecciones respiratorias. Las viriasis más comunes son las que afectan al tracto respiratorio. La mayoría son benignas, pero en algunos casos como en la gripe, el virus respiratorio sincitial, el SARS o en los pacientes con enfermedades de base como broncópatas, inmunodeprimidos, lactantes o embarazadas pueden complicarse y requerir ingreso hospitalario.Gastroenteritis. Las gastroenteritis víricas suelen presentar buena evolución y es excepcional la necesidad de derivación hospitalaria. Ésta se valorará cuando se produzcan signos de deshidratación, imposibilidad de rehidratación oral o ambas.Meningoencefalitis. Las meningitis asépticas de origen viral tienen un curso clínico autolimitado y se resuelven sin tratamiento específico habitualmente en el plazo de una semana. No obstante, como la presentación clínica puede ser similar a la de las meningitis bacterianas, suelen requerir de una punción lumbar para establecer el diagnóstico.En nuestro medio, las encefalitis víricas más comunes son producidas por virus del grupo herpes. Es muy importante un alto índice de sospecha de este cuadro clínico, ya que el tratamiento precoz con aciclovir mejora la evolución y el pronóstico.Síndrome mononucleósico. La etiología vírica más común del síndrome mononucleósido es el virus de Epstein Barr (VEB) y el citomegalovirus. Siempre que existan antecedentes compatibles habrá que descartar una infección por el virus de la inmunodeficiencia humana (VIH), ya que el diagnóstico precoz mejora el pronóstico de la enfermedad y el control de su diseminación.Viriasis importadas. Como consecuencia de la inmigración y los viajes internacionales, las infecciones víricas importadas cada vez son más frecuentes en nuestro medio. Esto hace que en personas con antecedentes epidemiológicos compatibles haya que considerarlas en el dignóstico diferencial.
+
+
+-- VALORACIÓN CLÍNICA. CRITERIOS DE SOSPECHA Y GRAVEDAD. DERIVACIÓN A ATENCIÓN ESPECIALIZADA
+
+El periodo de incubación es de 1–2 días y los síntomas son:-Generales: fiebre, escalofríos, malestar general, cefalea, mialgia y postración.-Respiratorios: rinorrea, tos, dolor de garganta. En los casos más graves dolor torácico y disnea (sugerente de evolución a neumonía y por lo tanto complicación).
+En los adultos, alrededor del 50% de las infecciones son subclínicas. Se pueden asociar otros síntomas además de los respiratorios, sobre todo los gastrointestinales (diarrea y vómitos). Éstos aparecen con más frecuencia en niños pequeños y normalmente no son graves y no provocan deshidratación. Si lo hacen se trata de un caso grave y habrá que hacer un diagnóstico diferencial con otros patógenos.
+Las complicaciones más frecuentes del virus de la influenza son las pulmonares y se pueden dividir en 4 categorías:1.Neumonías primarias por influenza.2. Neumonías bacterianas secundarias (sobre todo por Staphylococcus aureus, Streptococcus pneumoniae y Haemophilus influenzae). 3.Neumonías por bacterias inusuales o en pacientes inmunodeprimidos.4.Exacerbaciones de enfermedades pulmonares crónicas.
+Son posibles también, aunque muy poco frecuentes, las complicaciones neurológicas (encefalitis), cardiacas (miocarditis) o musculares (rabdomiolisis) que no se asocian en especial a ningún grupo de edad.
+Existen signos clínicos de alarma que indican una progresión de la enfermedad hacia la gravedad, recogidos en la tabla ;1 .
+Son grupos considerados de riesgo para la aparición de complicaciones los mostrados en la tabla ;2 .
+La presencia en el paciente de los factores de riesgo reseñados anteriormente, cualquiera de las complicaciones antes reseñadas o la presencia de los síntomas o signos clínicos de alarma obligan a la derivación del paciente a atención especializada, donde se valorará el ingreso hospitalario y la necesidad de un tratamiento específico antiviral y de cualquiera de las complicaciones.
+
+
+-- DIAGNÓSTICO. PRUEBAS COMPLEMENTARIAS
+
+Durante las epidemias provocadas por la gripe estacional el diagnóstico se basa fundamentalmente en los datos clínicos. Sólo es necesaria la confirmación microbiológica en pacientes que precisan ingreso hospitalario. Durante la fase aguda se pueden utilizar pruebas rápidas que identifican la nucleoproteína o la neuraminidasa en muestras tomadas con hisopos de exudado faríngeo, enjuague nasofaríngeo o esputo. Actualmente la prueba que ofrece mayor sensibilidad y especificidad para el diagnóstico es la detección mediante la reacción en cadena de la polimerasa (PCR) del material genético del virus en las mismas muestras que se utilizan para las pruebas rápidas.
+Las demás pruebas de laboratorio no suelen ser útiles para establecer el diagnóstico. Los recuentos leucocitarios son variables, a menudo se encuentran bajos al comienzo de la enfermedad y normales o ligeramente altos después. Las leucocitosis por encima de 15.000 células/μl deben hacer sospechar una infección bacteriana secundaria. Si se sospecha una complicación neumónica será necesaria la realización de una radiografía de tórax.
+El manejo de la cepa A/H1N1 es similar. Los casos leves se diagnostican clínicamente, sin necesidad de una confirmación microbiológica que sólo se realiza en pacientes ingresados con criterios de gravedad o factores de riesgo. Al ser una pandemia en evolución, las recomendaciones se renuevan continuamente, por lo que será necesario consultar las actualizaciones.
+
+
+-- TRATAMIENTO
+
+En el caso de que se sospeche una infección por la cepa A/H1N1 que está provocando la pandemia del año 2009, el inicio del tratamiento con antivirales está indicado en pacientes con una presentación clínica grave o enfermedad progresiva, tengan factores de riesgo o no. También en los grupos definidos como de riesgo sea cual sea la situación clínica de la enfermedad. El fármaco de primera elección es el oseltamivir (tamiflu®); si no está disponible o hay posibilidad de una resistencia se utiliza el zanamivir (ralenza®). El tratamiento debe iniciarse lo antes posible (preferiblemente antes de las 48 horas siguientes al inicio de los síntomas) y no es imprescindible la confirmación microbiológica. La duración dependerá de la evolución clínica del paciente.
+Si la gripe se debe a cualquiera de las otras cepas que circulan estacionalmente, el tratamiento también se indica si la enfermedad es grave o progresiva o en el caso de enfermedad no complicada en grupos de pacientes considerados como de riesgo.
+De ser así el tratamiento de primera línea es oseltamivir (tamiflu®) más amantadina o rimantadina. El fármaco de segunda línea es zanamivir (ralenza®).
+En situaciones en las que circulan varios subtipos A de virus influenza los pacientes con enfermedad grave deben ser tratados con oseltamivir (tamiflu®) más amantadina o rimantadina, incluso cuando se sospecha que puede haber resistencia al oseltamivir. En los pacientes con enfermedad no complicada pero que pertenezcan a los grupos de riesgo y en los que se sospeche que la cepa causante es la estacional el tratamiento de elección es zanamivir u oseltamivir más amantadita o rimantadina. Hay que tener en cuenta que en pacientes menores de 1 año o en mujeres embarazadas no se debe utilizar ni la amantadina ni la rimantadina (por tanto en este caso el tratamiento de elección es el zanamivir).
+No es necesario recomendar la suspensión de un viaje a ninguna zona del mundo por causa de cualquier virus de la gripe. Las recomendaciones sobre el viaje serán las habituales. Tampoco existen recomendaciones especiales sobre inmigración.
+No hay una vacuna para la gripe aviar A/H5N1 ni existe un consenso sobre si vacunar de la gripe estacional a viajeros que se dirigen a zonas donde existe riesgo de contraer la gripe aviar, excepto las indicaciones habituales (pacientes de más de 65 años, enfermos crónicos o inmunodeprimidos).
+
+
+- OTROS VIRUS QUE PRODUCEN ENFERMEDAD RESPIRATORIA
+
+Las enfermedades producidas por los virus respiratorios se han dividido en distintos síndromes clínicos, , : el resfriado común, la faringitis, la laringotraqueobronquitis (crup), la traqueítis, la bronquiolitis, la bronquitis y la neumonía. La mayor parte de los virus respiratorios son capaces de causar más de un tipo de enfermedad respiratoria, y es frecuente que un mismo paciente aparezcan manifestaciones clínicas de más de un tipo de enfermedad. Por eso es muy difícil diagnosticarlas etiológicamente sólo por la clínica. El crup es uno de los pocos. Afecta casi exclusivamente a niños pequeños y tiene una evolución clínica muy característica. De todas formas, en los demás casos casi nunca es necesaria la realización de pruebas complementarias, ya que habitualmente provocan cuadros clínicos leves-moderados que no precisan un ingreso hospitalario ni tratamiento específico antiviral, excepto en el caso de la complicación o la evolución clínica desfavorable. Los signos o síntomas que nos ponen sobre aviso para valorar la derivación a un centro hospitalario son los mismos que en el caso de los descritos en la gripe.
+
+
+-- RINOVIRUS Y CORONAVIRUS
+
+Son los que provocan resfriados comunes con más frecuencia, y pueden ocasionar la exacerbación de la bronquitis crónica o asma. En los niños es raro que pueden causar neumonía. Los coronavirus también es posible que se compliquen y produzcan bronquiolitis, aunque es muy infrecuente.
+Una nueva cepa de coronavirus (SARS-Cov) fue la causa del SARS en los años 2002 y 2003, provocando epidemias de neumonía hasta en 26 países, con una importante tasa de mortalidad.
+
+
+-- VIRUS SINCITIAL RESPIRATORIO
+
+Es el principal patógeno respiratorio en los niños pequeños y la primera causa de enfermedad de la porción inferior de las vías respiratorias de los lactantes. En los adultos provoca resfriado común y en los niños neumonía y bronquiolitis (ésta última en niños pequeños). Como complicaciones puede causar neumonía en ancianos e inmunodeprimidos.
+
+
+-- VIRUS PARAINFLUENZA
+
+Provoca crup e infecciones de la porción inferior de las vías respiratorias en niños pequeños. Es también causa de faringitis y resfriado común. Como complicaciones en los adultos provoca traqueobronquitis e infección de las vías respiratorias en pacientes inmunodeprimidos.
+
+
+-- ADENOVIRUS
+
+Provoca habitualmente resfriado común y faringitis en los niños. Se puede complicar con neumonías en los niños o infección de las vías respiratorias inferiores y neumonías en los pacientes inmunodeprimidos.
+
+
+-- ENTEROVIRUS
+
+En ocasiones provocan enfermedades respiratorias durante el verano. Lo más frecuente es que causen enfermedad febril sin localidad clara que pueda tener o no componente respiratorio. ocasionalmente pueden provocar rinitis o faringitis y menos frecuentemente neumonía.
+
+
+- SÍNDROME GASTROINTESTINAL
+
+Los virus más importantes que provocan cuadros gastrointestinales son los Rotavirus, Norovirus, Adenovirus entéricos y Astrovirus , .
+Son enfermedades que, por lo general, afectan a todos lo grupos de edad en cualquier época del año. En los países de baja renta son una de las causas más frecuentes de muerte en niños menores de 5 años.
+Los dos grupos más importantes son los Rotavirus y los Norovirus (virus tipo Norwalk). Las características clínicas de los cuadros que provocan son similares y las describimos de manera conjunta, sólo se diferencian en la epidemiología. Los Rotavirus afectan predominantemente a niños y son la principal causa de gastroenteritis grave en niños de todo el mundo. En los adultos la enfermedad, por lo general, es leve y se suele presentar en las familias de los niños infectados. También se ha implicado en casos de diarrea del viajero y en brotes producidos en instituciones como colegios o residencias. Los pacientes inmunodeprimidos y los ancianos con patologías debilitantes desarrollan cuadros más graves.
+Los virus tipo Norwalk atacan a niños y adultos y son la causa principal de epidemias de gastroenteritis en todo el mundo.
+
+
+- VALORACIÓN CLÍNICA. CRITERIOS DE SOSPECHA Y GRAVEDAD. DERIVACIÓN A ATENCIÓN ESPECIALIZADA
+
+Los síntomas más típicos son la diarrea sin productos patológicos, la fiebre y los vómitos.
+En general, los cuadros clínicos provocados por virus Norwalk son menos graves. La diarrea es acuosa o con heces de consistencia blanda y no tiene moco, sangre ni leucocitos.
+Hasta en un 30-50% de los pacientes con gastroenteritis por Rotavirus se presentan síntomas respiratorios, aunque es frecuente que, sobre todo en los niños, se asocien a infecciones por otros virus respiratorios y gastrointestinales, por lo que determinar la relación causal con los Rotavirus es difícil.
+La complicación más importante, aunque infrecuente, es la deshidratación producida en el contexto de una diarrea grave acompañada de vómitos. Por eso, la derivación a atención especializada se hará en función de la existencia de síntomas y signos clínicos que indiquen deshidratación. No existen criterios específicos ni establecidos de derivación a atención especializada, pero en general se realizará cuando:1.Exista sospecha de deshidratación que pueda pone en peligro la vida del paciente. En este caso hay que estar atentos a los síntomas o signos clínicos que indican deshidratación grave: hipotensión, letargia, oliguria, sequedad de las mucosas, depresión de la fontanela, etc.2.El aporte de soluciones orales hidratantes no esté asegurado, ya sea por las características del paciente (por ejemplo, en ancianos con demencia) o por las características del cuadro clínico (intolerancia oral por vómitos).
+
+
+- DIAGNÓSTICO Y PRUEBAS COMPLEMENTARIAS
+
+Generalmente el diagnóstico es clínico. Existen pruebas para detectar el virus en las heces o en el vómito mediante PCR, pero se utilizan muy poco porque son lentas, laboriosas y costosas. El principal diagnóstico diferencial se realiza con las infecciones de origen bacteriano que se pueden sospechar por la epidemiología y confirmar mediante coprocultivo. A efectos prácticos no tiene interés la diferenciación de los distintos virus en el diagnóstico etiológico porque el manejo es similar.
+En el hemograma el recuento leucocitario suele ser normal. En raras ocasiones se observa leucocitosis con linfopenia relativa. No es necesaria la realización de pruebas de imagen (radiografía u otras) a no ser que sospechemos la existencia de una complicación que no se suele deber a los virus y que indica una patología de otro origen (por ejemplo megacolon tóxico).
+
+
+- TRATAMIENTO
+
+No es necesario un tratamiento específico antiviral. Dependiendo del grado de deshidratación se administran soluciones rehidratantes orales (que se pueden tomar ambulatoriamente) o intravenosas (en un contexto hospitalario). No están indicados los antibióticos y los agentes antimotilidad. La utilidad de probióticos no está clara.
+
+
+- SÍNDROMES NEUROLÓGICOS
+
+Los principales síndromes neurológicos producidos por virus son los que afectan al sistema nervioso central (SNC) y comprenden la meningitis aséptica y la encefalitis. También es posible la afectación viral del sistema nervioso periférico, , , , .
+
+
+- MENINGITIS ASÉPTICA
+
+La meningitis aséptica es la que tiene cultivos bacterianos en líquido cefalorraquídeo (LCR) negativos. La causa más frecuente son los Enterovirus. Otros virus que la pueden causar son el herpes simple, el VIH, la varicella-zoster, el virus de las parotiditis, el virus de la coriomeningitis linfocitaria, el virus West Nile o el virus toscana (tabla ;3 ). El diagnóstico diferencial se realizará con la meningitis de origen infeccioso no viral (hongos, espiroquetas o micobacterias) y las infecciones parameníngeas (por ejemplo, abscesos epidurales). Existen también causas no infecciosas, como los efectos tóxicos medicamentosos y las enfermedades malignas.
+En las regiones de clima templado (es decir, en nuestro medio), las meningitis por enterovirus son más frecuente en verano y otoño, mientras que las meningitis virales de otras etiologías son más frecuentes en invierno y primavera.
+
+
+-- VALORACIÓN CLÍNICA. CRITERIOS DE SOSPECHA Y GRAVEDAD. DERIVACIÓN A ATENCIÓN ESPECIALIZADA
+
+Los hallazgos característicos de la meningitis son: cefalea, fiebre, escalofríos y dolor con el movimiento ocular. Son frecuentes las náuseas y los vómitos. En la exploración física puede haber meningismo sin signos neurológicos focales y somnolencia o irritabilidad. Las funciones cognitivas superiores, sin embargo, están conservadas. Esto es muy importante porque la presencia de una función cerebral conservada en el caso de la meningitis es el hecho que la distingue de la encefalitis, y el manejo de cada uno de los cuadros es diferente. Otros síntomas que pueden acompañar, sobre todo en el caso de una etiología por Enterovirus son: diarrea, mialgias, exantema, pleurodinia, miocarditis y herpangina.
+Las meningitis asépticas de origen viral tienen un curso clínico autolimitado y se resuelven sin tratamiento específico habitualmente en el plazo de una semana. Sin embargo, como la presentación clínica puede ser similar a la de las meningitis bacterianas, que son potencialmente mortales, es importante realizar la valoración clínica inicial en un medio hospitalario para realizar una punción lumbar que se procese de manera urgente para hacer un apropiado diagnóstico diferencial mediante el procesamiento del LCR.
+
+
+-- PRUEBAS COMPLEMENTARIAS
+
+La prueba clave es la punción lumbar. El estudio del LCR muestra pleocitosis que no supera los 1.000 leucocitos/μl totales con predominio linfocítico, sobre todo a partir de las 24 horas siguientes tras la aparición de los síntomas. En el caso de los Enterovirus, puede haber también leucocitos polimorfonucleares en LCR, sobre todo durante las primeras horas después de la aparición de los síntomas, por lo que el diagnóstico diferencial con las bacterianas puede ser difícil. Después de las primeras 24 horas los leucocitos presentes en LCR son ya predominantemente linfocitos. La glucosa en LCR suele ser normal, aunque en el caso del virus de la parotiditis la glucosa está disminuida con cierta frecuencia. El nivel de proteínas suele ser normal o discretamente elevado (inferior a 100 mg/ml) (tabla ;4 ). Las alteraciones en LCR pueden persistir varias semanas incluso después de la resolución de los síntomas.
+
+
+-- TRATAMIENTO
+
+No es necesario el tratamiento específico antiviral. Se tratan los síntomas cuando sea necesario. El ingreso viene determinado por la situación clínica del paciente y el grado de certeza sobre la etiología de origen viral. En la inmensa mayoría de los casos el pronóstico es excelente, sobre todo en los niños, y las secuelas neurológicas son excepcionales.
+
+
+- ENCEFALITIS
+
+La encefalitis de origen viral puede ser primaria o postinfecciosa. En la primaria hay una invasión directa del SNC por un virus. En la postinfecciosa (que ocurre, por ejemplo, después de la infección por el virus del sarampión) se produce una inflamación perivascular y una desmielinización sin detectarse el virus en el sistema nervioso, lo cual hace sospechar que se trata de un fenómeno autoinmune. Ambas entidades son difíciles de distinguir clínicamente, aunque la encefalitis postinfecciosa típicamente aparece cuando la infección inicial ya se está resolviendo, aunque también puede aparecer después de una infección inicial viral subclínica no detectada por el propio paciente.
+
+
+-- VALORACIÓN CLÍNICA. CRITERIOS DE SOSPECHA Y GRAVEDAD. DERIVACIÓN A ATENCIÓN ESPECIALIZADA
+
+El rango y la gravedad de las manifestaciones clínicas son muy amplios. Puede haber cuadros "puros" de encefalitis pero a menudo éstos se asocian a una afectación meníngea, siendo cuadros de meningoencefalitis. Recordemos que lo que define a las encefalitis son las alteraciones en las funciones cerebrales superiores, incluyendo el déficit sensorial o motor, las alteraciones del comportamiento, los cambios en la personalidad y las alteraciones en el habla.
+Además de eso, los pacientes pueden estar confusos o agitados y existe la posibilidad de que aparezcan crisis convulsivas. Si hay afectación meníngea pueden estar presentes los síntomas y signos clínicos característicos anteriormente referidos.
+Por definición la encefalitis es una enfermedad grave y potencialmente mortal. Ante su sospecha hay que derivar de manera inmediata al paciente a atención hospitalaria, sin necesidad de tener en cuenta la presencia o no de criterios clínicos.
+
+
+-- PRUEBAS COMPLEMENTARIAS
+
+Las más importantes son las de imagen y los hallazgos en el LCR. Ambas se realizan en un ámbito hospitalario. Dentro de las pruebas de imagen se puede realizar idealmente una resonancia magnética (RM) craneal o en su defecto una tomografía axial computarizada (TAC) craneal. En las encefalitis virales puede haber imágenes muy sugestivas, aunque no patognomónicas. Por ejemplo, son características de las encefalitis por herpes virus las alteraciones en los lóbulos temporales.
+Los hallazgos en el LCR son indistinguibles de los encontrados en las meningitis de origen viral que se describieron con anterioridad.
+
+
+-- TRATAMIENTO
+
+En el caso de encefalitis por Herpes virus, se utiliza aciclovir por vía intravenosa en dosis altas. Si el origen es un Enterovirus se han empleado inmunoglobulinas en recién nacidos, pacientes con hipo o agammaglobulinemias o cuadros de meningitis crónica, aunque su beneficio clínico real está todavía en estudio.
+
+
+-- ENCEFALITIS DEL VIAJERO
+
+Si un paciente ha realizado un viaje o procede de determinadas áreas geográficas el diagnóstico diferencial de las encefalitis se amplía mucho. Son muy importantes como causa de encefalitis en las regiones tropicales las arboviriasis (acrónimo del inglés arthropod-borne viruses), enfermedades producidas por virus que se transmiten al hombre por artrópodos. Los artrópodos pueden ser insectos (fundamentalmente moscas y mosquitos) o garrapatas. Algunas de las arboviriasis a tener en cuenta en un viajero son:
+Encefalitis japonesa. Es la causa más importante de encefalitis epidémica en todo el mundo. Se transmite por mosquitos del género Culex. La enfermedad está presente en el subcontinente Indio y, en general, en todo el Sudeste Asiático.
+Virus West-Nile. Distribuido por África, Asia, Oriente Medio, algunas áreas del sur de Europa y Norteamérica. Es transmitido por mosquitos del genero Culex. En la mayoría de los casos produce la tríada fiebre-exantema-artralgias. La afectación del SNC es ocasional.
+Encefalitis transmitida por garrapata. Enfermedad endémica en centro Europa y Rusia.
+Otras. Encefalitis de Sant Louis, encefalitis viral del valle Murray, encefalitis viral equina, virus La crosse, etc.
+Se incluyen en el diagnóstico diferencial del viajero como causa de encefalitis virus no transmitidos por artrópodos, además de los ya mencionados como causa de encefalitis en general, la rabia y el VIH.
+
+
+- NEUROPATÍA PERIFÉRICA
+
+Principalmente producida por el virus del herpes simple y el virus de la varicela zoster. La primoinfección por el virus de la varicela zoster da lugar a la varicela y a las reactivaciones del herpes zoster. Típicamente las reactivaciones de ambos virus producen una afectación cutánea en forma de episodios clínicos recidivantes con formación de vesículas y pústulas, que en el caso del virus de la varicela zoster característicamente siguen el trayecto de un dermatoma y provocan dolor de características neuropáticas e hipersensibilidad en la zona afectada. En el caso del virus de la varicela zoster cuando aparece un episodio de herpes zoster en una persona joven habrá que descartar el VIH como enfermedad de base. Por lo general, no precisan ingreso hospitalario salvo complicaciones piógenas locales o diseminación (cutánea extensa, afectación pulmonar o encefalitis) más común en los inmunodeprimidos. En la afectación cutánea el tratamiento específico antiviral debe ser precoz (primeras 48 horas) para ser eficaz. Acorta la duración del cuadro clínico y la neuropatía crónica (en el caso del herpes zóster).
+Una enfermedad que ha visto reducida de manera drástica su incidencia es la poliomielitis, que era la causa más frecuente de parálisis flaccida infecciosa. Desde el año 1988 los casos han disminuido en un 99% por el esfuerzo en la vacunación que se ha hecho en todo el mundo. A pesar de eso, todavía es endémica en 4 países (Nigeria, India, Pakistán y Afganistán). Aunque habitualmente la infección es asintomática, puede conducir a la parálisis irreversible (sobre todo de las extremidades inferiores) en niños menores de 5 años o en adultos incorrectamente vacunados. Los viajeros a zonas endémicas o que vayan a estar en contacto con enfermos potencialmente infectados deberán estar correctamente vacunados. En los inmigrantes habrá que revisar el calendario vacunal y administrar la vacuna cuando esté indicada.
+
+
+- SÍNDROME MONONUCLEÓSICO
+
+Los virus son sus principales agentes etiológicos, entre ellos el VEB, el citomegalovirus y la primoinfección por el VIH. Existen también otros virus que lo pueden causar, como el de la rubéola, el herpes virus 6 o los virus de la hepatitis, aunque son menos frecuentes. También pueden causarlo otros microorganismos no virales como el toxoplasma, .
+
+
+- VALORACIÓN CLÍNICA. CRITERIOS DE SOSPECHA Y GRAVEDAD. DERIVACIÓN A ATENCIÓN ESPECIALIZADA
+
+El síndrome mononucleósido se caracteriza clínicamente por la presencia de fiebre (a menudo de más de 7 días de duración), adenopatías, faringitis, erupción cutánea, cefalea, mialgias y esplenomegalia. Son cuadros clínicos que, aunque habitualmente no precisan ingreso, provocan una gran afectación del estado general. No hay criterios establecidos para la derivación a la atención especializada. Entre éstos pueden citarse la sospecha de complicaciones del sistema nervioso central, el riesgo de rotura esplénica (VEB), bacteriemia secundaria (en casos de amigdalitis grave con el VEB) o afectación del estado general que haga sospechar otro proceso concomitante.
+
+
+- PRUEBAS COMPLEMENTARIAS
+
+Es recomendable la realización de un hemograma y una bioquímica por la potencial afectación de algunos órganos en esta enfermedad. En la bioquímica se puede observar la elevación de las transaminasas y de la lacticodeshidrogenasa. El hemograma puede mostrar leucocitosis, a veces importante, con predominio linfomonocítico y plaquetopenia. El diagnóstico es serológico y existen pruebas rápidas para la detección del VEB.
+
+
+- TRATAMIENTO
+
+El manejo de estas enfermedades es sintomático, con monitorización de las posibles complicaciones y sin necesidad de tratamiento específico antiviral. En el caso del diagnóstico por el VIH el inicio del tratamiento dependerá de la situación inmunológica, viral y clínica de la enfermedad. Es necesario tratar las infecciones por toxoplasma y hay que valorarlo en el caso del CMV, dependiendo del lugar de afectación (por ejemplo retinitis, neumonitis o colitis) y de las características del paciente (por ejemplo pacientes inmunodeprimidos).
+El síndrome mononucleósido no es infrecuente en viajeros con enfermedad febril, y la proporción de casos de citomegalovirus, VEB, Toxoplasma gondii y VIH es más alta que en los otros grupos de pacientes, por lo que en caso de síntomas sugestivos deberán ser sistemáticamente investigados.

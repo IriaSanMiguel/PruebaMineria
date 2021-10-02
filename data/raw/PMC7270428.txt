@@ -1,0 +1,109 @@
+MANEJO QUIRÚRGICO DE PACIENTES CON INFECCIÓN POR COVID-19. RECOMENDACIONES DE LA ASOCIACIÓN ESPAÑOLA DE CIRUJANOS
+
+
+- INTRODUCCIÓN
+
+Los sistemas sanitarios de todo el mundo están respondiendo a una pandemia de enfermedad respiratoria denominada enfermedad por coronavirus 2019 (COVID-19). El brote está causado por un nuevo coronavirus que se ha denominado SARS-CoV-2. Debido a su rápida expansión, es muy probable que pacientes con confirmación o sospecha de COVID-19 precisen de una intervención quirúrgica.
+Los escenarios en que se contemplan son intervenciones urgentes y electivas no demorables. La indicación de cirugía urgente se individualizará en todos los casos y tratará de realizarse basándose en un diagnóstico con la mayor certeza posible. En muchos casos deberá valorarse la posibilidad de un tratamiento conservador que haya demostrado ser una opción segura (tratamiento antibiótico en pacientes jóvenes con apendicitis agudas incipientes, tratamiento conservador de algunas colecistitis agudas…). A la vista de la importante repercusión de la pandemia por infección por COVID-19, la Sección de Infección Quirúrgica de la Asociación Española de Cirujanos (AEC) emite el presente documento de recomendaciones acerca del manejo quirúrgico de pacientes con sospecha o confirmación de infección por COVID-19.
+
+
+- MÉTODOS
+
+Se ha realizado una revisión narrativa de la literatura a través de PubMed. Se han consultado las páginas web de la Organización Mundial de la Salud (OMS), los Centers for Diseases for Control and Prevention (CDC), European Centre for Diseases for Control and Prevention (ECDC), la Society for Healthcare Epidemiology of America, la Infectious Diseases Society of America. Se realizó una búsqueda bibliográfica bajo los tópicos: COVID-19; SARS-CoV-2; surgery; operation; surgical protocol; y guidance. La búsqueda bibliográfica fue realizada por todos los autores, que seleccionaron, resumieron, redactaron y consensuaron las recomendaciones.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS BÁSICAS DEL VIRUS Y EL CUADRO CLÍNICO ASOCIADO
+
+Los coronavirus son una familia de virus que causan enfermedades en personas o que circulan entre los animales. La cepa COVID-19 causante del brote actual (elevado a la categoría de pandemia y emergencia sanitaria por parte de la OMS) se identificó por primera vez en Wuhan, en la provincia china de Hubein, en diciembre de 2019. Con más de 500.000 casos a nivel mundial y 60.000 en España en marzo de 2020, esta infección se presenta en forma de fiebre, tos seca y disnea leve en la mayoría de los casos, si bien puede evolucionar hacia neumonía grave y eventual distrés respiratorio agudo siendo muy similar al severe acute respiratory syndrome (SARS) descrito en 2003 y al Middle East respiratory syndrome (MERS) de 2012, . Se transmite a través de gotas respiratorias de la tos o estornudos, de forma parecida a cómo se propagan la gripe y otros virus respiratorios.
+Tanto la alta tasa de contagio observada como la propia patogénesis de la enfermedad dependen del anclaje del virus a las células humanas (a través del dominio de unión a receptores de la glicoproteína transmembrana S), reconocimiento de receptores celulares (concretamente la enzima convertidora de angiotensina 2) e internalización hacia el citoplasma empleando una serín proteasa transmembrana del huésped (TMPRSS). Con relación a la afectación del tracto gastrointestinal, la transmisión fecal-oral todavía no ha sido descartada por completo. La afectación extrarrespiratoria por COVID-19 es muy poco frecuente y suele restringirse a síntomas inespecíficos (náuseas, vómitos, molestias epigástricas…); muy excepcionalmente se presenta afectación pancreática así como hepatotoxicidad, fundamentalmente por algunos de los tratamientos empleados, .
+
+
+-- CUESTIONES ÉTICAS
+
+Los equipos quirúrgicos deben atender a todo paciente con COVID-19 que requiera un tratamiento quirúrgico inaplazable. Es recomendable que los equipos quirúrgicos designados para intervenir estos pacientes tengan un entrenamiento amplio y apropiado. Por ello, se deberían constituir equipos de instrumentistas, cirujanos y anestesistas capacitados para intervenir cualquier tipo de cirugía urgente de forma ágil. Dichos equipos deberían recibir extensa formación teórica y práctica mediante simulación de las situaciones urgentes, del manejo del equipo de protección y del protocolo técnico quirúrgico. Por otro lado, las instituciones sanitarias tendrían la obligación de facilitar los medios necesarios para que se apliquen las medidas de prevención adecuadas del personal según los protocolos clínicos y las normativas vigentes.
+
+
+-- PRECAUCIONES QUE DEBEN TOMARSE PARA EXPLORAR A UN PACIENTE CON SOSPECHA O CONFIRMACIÓN DE INFECCIÓN POR COVID-19
+
+La vía de entrada de los pacientes al Servicio de Cirugía General se fundamenta en dos ramas: la urgencia y la hospitalización. Ambas vías tendrán una localización preestablecida de antemano según los protocolos de cada hospital para la localización de este tipo de pacientes.
+Es fundamental dividir en dos grupos a los pacientes: grupo de sospecha y grupo de confirmación. Aunque las medidas a tomar a la hora de valorarlos sean muy similares, la confirmación diagnóstica nos puede modificar las opciones terapéuticas. En la tabla 1 se resumen aspectos importantes a tener en cuenta en las diferentes etapas.
+
+
+-- PARÁMETROS CLÍNICOS O MARCADORES BIOLÓGICOS PARA DIFERENCIAR ENTRE AFECTACIÓN SISTÉMICA POR LA INFECCIÓN POR COVID-19 Y SEPSIS DE ORIGEN ABDOMINAL
+
+Según los últimos estudios, parece ser que el COVID-19 provoca fundamentalmente un daño difuso alveolar asociado a un daño directo en los neumocitos, y no como otras infecciones que provocan un daño por hiperrespuesta inflamatoria y daño endotelial. Además, da lugar a una cascada de citoquinas similar a la que se puede encontrar en la sepsis bacteriana o incluso en la linfohistiocitosis hemofagocítica. Todo ello se traduce en una clínica respiratoria inespecífica con fiebre que aparece de forma frecuente y especialmente en los casos más severos. Hasta en un 10% de los pacientes puede preceder una sintomatología digestiva, como diarrea o náuseas, .
+En cuanto a los parámetros analíticos, a diferencia de la sepsis bacteriana, el COVID-19 no provoca un aumento del recuento de glóbulos blancos ni una clásica neutrofilia. Se ha asociado a una linfopenia aproximadamente en un 80% de los pacientes y a una trombocitopenia leve en los casos de peor pronóstico. También es frecuente una elevación inespecífica del dímero-D.
+Es importante destacar que la procalcitonina no se eleva en los casos de infección por COVID-19 según los estudios realizados hasta ahora, encontrándose en el 95% de los pacientes analizados una procalcitonina menor de 0,5 ng/mL. Este punto es importante con respecto a la sepsis, donde es un marcador fundamental, especialmente en las infecciones bacterianas sistémicas. Sin embargo, la proteína C reactiva (PCR), como en el caso de sepsis, puede elevarse con una relación directa con el pronóstico y gravedad de la enfermedad, encontrándola más elevada en los casos de hipoxemia y de mortalidad.
+
+
+-- PRUEBAS DIAGNÓSTICAS PARA LA INFECCIÓN POR COVID-19 EN PACIENTES QUE HAN DE SER INTERVENIDOS ELECTIVAMENTE DE MANERA INAPLAZABLE
+
+Se recomienda realizar pruebas de detección de COVID-19 de forma rutinaria antes de una intervención quirúrgica urgente o electiva. La figura 1 muestra la propuesta de manejo de pacientes quirúrgicos urgentes y electivos. Estas recomendaciones están sujetas a la evolución temporal de la pandemia y a los recursos existentes en cada área geográfica.Figura 1
+
+
+-- VÍA DE ABORDAJE
+
+Solo se dispone de datos preliminares y algunas experiencias comunicadas, que se restringen a casos o series de casos. Las recomendaciones para la cirugía en pacientes con enfermedades víricas altamente transmisibles a través de fluidos recomiendan accesos mínimamente invasivos para minimizar el contagio a miembros del equipo quirúrgico. En el caso del COVID-19 el contagio se produce por vía aérea y contacto, aunque no se ha descartado la vía fecal-oral. Así, también se debe considerar el riesgo de aerosolización de partículas y fluidos, si bien hasta ahora la evidencia relacionada con la presencia de virus en el neumoperitoneo durante la laparoscopia se restringe a la experiencia con virus de la hepatitis B.
+Durante la cirugía gastrointestinal el uso del bisturí y la apertura del tracto digestivo pueden generar aerosoles. La laparoscopia supone la interposición de una barrera física entre el cirujano y la posible fuente de contagio, evitándose la exposición ocupacional y la infección cruzada. Se podría valorar el uso de cirugía asistida con la mano a través de un puerto auxiliar debidamente sellado si va a reducir el tiempo de la intervención sin comprometer el resultado oncológico/funcional. Los equipos deben revisarse exhaustivamente antes de comenzar. Se intentará minimizar el número, tamaño y adecuación del tamaño de la incisión para los trocares. Se emplearán sistemas de presión negativa centrales y se intentará evacuar el humo una sola vez. Se pueden emplear sistemas de insuflación con presión constantes y se recomienda exuflar completamente antes de realizar una incisión de asistencia si es necesaria, . En relación a cirugías en las que se han empleado abordajes TaTME, TAMIS o TEM, aunque se han llevado a cabo extremando precauciones en China, el escenario actual desaconseja su uso debido al alto riesgo de aerosolización y exposición directa prolongada del cirujano durante el tiempo perineal. Asimismo, es fundamental recordar que el uso de estomas (definitivos y temporales) genera otro foco de posible transmisión que debe tenerse en cuenta a la hora de sus cuidados tanto por parte del personal sanitario como de familiares.
+Por lo tanto, se recomienda priorizar la vía de abordaje que sea más beneficiosa para el paciente, independientemente de su infección por COVID-19. En caso de emplearse la vía laparoscópica, siempre se extremarán las medidas de protección de la vía aérea y mucosas y se tendrá especial precaución de no realizar exposiciones directas durante los momentos en los que exista algún tipo de salida de gas (evacuaciones puntuales, exuflación final…). Asimismo, aunque no existe evidencia al respecto, en caso de disponer de ellos, sería recomendable utilizar filtros de humo en las cánulas de cada uno de los puertos de laparoscopia.
+
+
+-- PRECAUCIONES PARA LA INTERVENCIÓN DE UN PACIENTE COVID-19 POSITIVO<XREF RID="BIB0180" REF-TYPE="BIBR">14</XREF>, <XREF RID="BIB0185" REF-TYPE="BIBR">15</XREF>, <XREF RID="BIB0190" REF-TYPE="BIBR">16</XREF>, <XREF RID="BIB0195" REF-TYPE="BIBR">17</XREF
+
+En caso de un paciente confirmado positivo, se debe utilizar un equipo de protección individual (EPI) junto con la indumentaria quirúrgica para asegurar la adecuada protección del personal de quirófano. Aún en casos no confirmados, en el actual contexto de pandemia, se debería asumir que todos los pacientes son positivos y tomar las mismas medidas de protección para evitar una exposición innecesaria del personal. Existen diferentes tipos de equipos de protección, pero a continuación se describen los elementos de protección necesarios básicos para poder realizar una intervención quirúrgica en condiciones adecuadas de seguridad.
+
+
+--- ELEMENTOS DEL EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI
+
+El EPI será necesario en cualquier procedimiento considerado como «contacto estrecho», lo que incluye intervención quirúrgica, así como otros procedimientos de quirófano (intubación, anestesia regional, canalización de vías, etc.). Los equipos de protección individual, tal y como establece el Real Decreto 773/1997 relativo a su utilización, proporcionarán una protección eficaz frente a los riesgos que motivan su uso, sin suponer por sí mismos u ocasionar riesgos adicionales ni molestias innecesarias. El equipo necesario se resume en la tabla 2 . Es fundamental que el equipo quirúrgico al completo haya realizado entrenamiento previo en colocación y retirada supervisada de EPI antes de realizar un procedimiento real. Es asimismo muy importante la colaboración de todos los miembros del equipo quirúrgico entre sí. Debe haber personal entrenado disponible de reserva (de todos los estamentos) en caso de que se produzca algún imprevisto (el personal no tolere el EPI, presente mareo por exceso de calor, etc.). Los EPI deben cubrir totalmente la piel, especialmente las zonas corporales de alto riesgo: orificios nasales, boca y ojos. En las intervenciones quirúrgicas se pueden producir aerosoles, por lo que los EPI deben garantizar esta circunstancia. Se deben definir los profesionales que deben usar esta protección máxima dentro del quirófano (puede variar su categorización una vez que todos los mecanismos de transmisión del COVID-19 se conozcan perfectamente): cirujano principal y ayudante; anestesista y ayudante (médico o enfermera); enfermería instrumentista. No necesitaría un EPI de máxima protección (bastaría con mascarilla quirúrgica, sin gafas ni protectores faciales): enfermería circulante y auxiliar de quirófano (a no ser que se acerquen al paciente en las maniobras con peligro de generar aerosoles).
+
+
+--- COLOCACIÓN <ITALIC>(DONNING)</ITALIC> Y RETIRADA <ITALIC>(DOFFING)</ITALIC> DEL EQUIPO DE PROTECCIÓN INDIVIDUAL (EPI
+
+La secuencia de ambas maniobras se muestra en las Tabla 3, Tabla 4 y en el de los CDC. Para la retirada del equipo es fundamental hacerlo de una forma calmada, despacio, evitando movimientos bruscos y bajo la supervisión de un compañero entrenado. Lo ideal es que el personal que ha estado en quirófano se retire el EPI de uno en uno bajo supervisión de un observador provisto del check-list de retirada. Se debe realizar lo más apartado posible del paciente y cerca de la puerta. Debe haber disponible un contenedor grande para desechar los EPI, así como con desinfectante alcohólico para manos y superficies. Puede ser útil habilitar una sala «sucia» para retirarse el equipo, con espacio suficiente.
+La secuencia de retirada va del elemento más contaminado (guantes) al menos contaminado (mascarilla).
+
+
+-- PROTOCOLO DE ACTUACIÓN EN EL ÁREA QUIRÚRGICA
+
+Se recomienda el uso de una lista de comprobación (check list) de todo el procedimiento, que incluya explícitamente la situación COVID-19 del paciente. En relación con la anestesia, la AEC suscribe las recomendaciones que al respecto haga la Sociedad Española de Anestesiología, Reanimación y Terapéutica del Dolor (SEDAR).
+Se sugiere designar un quirófano y todo su material (respirador, etc.) exclusivo para pacientes COVID-19, que se destinará a este uso durante toda la epidemia. Idealmente debe ser independiente o estar alejado de otros quirófanos. Se debe planificar un circuito adecuado de traslado de estos pacientes desde el área de aislamiento correspondiente (en UCI, planta, etc.) al área quirúrgica designada. La figura 2 muestra el protocolo de actuación dentro del área quirúrgica en caso de intervención quirúrgica en pacientes con COVID-19, adaptado de Ti et al..Figura 2
+
+
+--- CONSIDERACIONES IMPORTANTES A TENER EN CUENTA DURANTE EL TRANSCURSO DE LA INTERVENCIÓN QUIRÚRGICA
+
+Limitar al máximo el número de profesionales que se encuentran en el interior del quirófano y sus movimientos para reducir el riesgo de contaminación.
+Limitar al máximo el número de personas que hacen maniobras que conllevan riesgo de generar aerosoles.
+Utilizar todo el material desechable que sea posible.
+Mantener cerradas las puertas del quirófano, salvo para la circulación del personal, de los pacientes y del instrumental. Cuando sea absolutamente necesario hacerlo, mantenerlas abiertas el mínimo tiempo posible.
+Abrir las guillotinas durante la operación únicamente en caso necesario (entrega de material). La tabla 5 muestra el protocolo quirúrgico.
+
+
+-- TRATAMIENTO PARA COVID-19 EN CASO DE PACIENTES QUE REQUIERAN TRATAMIENTO ANTIBIÓTICO
+
+No se recomienda tratamiento específico de rutina. El tratamiento antiviral sigue las mismas indicaciones que para el resto de pacientes infectados por COVID-19. Hasta la fecha, se tratan únicamente los casos confirmados, registrándose en la historia clínica que se les ha propuesto un tratamiento concreto para el que dan su consentimiento (al menos verbal). Actualmente se están empleando hidroxicloroquina y lopinavir/ritonavir. En pacientes ancianos y/o polimedicados se prefiere únicamente hidroxicloroquina y en caso de hepatopatía, evitarla. Los pacientes más graves pueden recibir, además, tratamiento con interferón β/tocilizumab e incluso se ha considerado emplear remdesavir, , . Sin embargo, el grado de evidencia para estos tratamientos es muy limitado y basado fundamentalmente en la experiencia acumulada hasta ahora.
+Otras medidas complementarias recomendadas son la oxigenoterapia y evitar administrar corticoides y nebulizaciones. Al respecto del uso de fármacos que puedan alterar la expresión y/o función de la enzima convertidora de angiotensina 2 (ECA-2), los datos son demasiado preliminares como para realizar ninguna recomendación firme. En este caso, el uso de AINE como el ibuprofeno podría cuestionarse, si bien no hay evidencia clara en humanos de que pueda favorecer la infección o empeorar su curso. En cuanto al manejo terapéutico de una posible infección intraabdominal, en principio, no se deben modificar las pautas recomendadas para este tipo de situaciones ni a nivel general ni según los protocolos de cada centro. Sí que se recomienda encarecidamente comprobar las interacciones de los fármacos antivirales. Actualmente existen registros online como www.covid19-druginteractions.org donde se pueden consultar fácilmente y de manera actualizada las interacciones.
+
+
+-- ACTITUD DEL MIEMBRO DEL EQUIPO QUIRÚRGICO CON SOSPECHA DE INFECCIÓN POR COVID-19<XREF RID="BIB0155" REF-TYPE="BIBR"><SUP>9</SUP></XREF
+
+Cualquier miembro del personal sanitario que haya tenido contacto estrecho con un paciente en investigación, probable o confirmado de infección por coronavirus, debe comunicarlo inmediatamente al servicio de Medicina Preventiva/Salud Laboral/Prevención de Riesgos Laborales de su centro. Dicho servicio establecerá la conducta a seguir en función de las recomendaciones generales y locales así como el protocolo hospitalario correspondiente. En función de la presencia de transmisión comunitaria se establecerán protocolos de vigilancia activa o pasiva.
+La tabla 6 muestra las definiciones de contactos epidemiológicos y la conducta a seguir en cada caso. El servicio designado como responsable por el hospital debe efectuar la evaluación individualizada del riesgo, cuyo resultado se comunicará a los servicios de Salud Pública de la comunidad autónoma. Para realizar la evaluación se deberán tener en cuenta estos aspectos del ámbito laboral:A.Tipo de exposición (p. ej., procedimientos que generen aerosoles como aspiración del tracto respiratorio, intubación o broncoscopia, maniobras de reanimación, accidentes de personal de laboratorio).B.Tiempo de exposición (más de 15 min a menos de 2 m de distancia).C.Servicio en el que desarrolla su actividad asistencial (unidades con pacientes especialmente vulnerables, como por ejemplo hematología, UCI, oncología o unidades de quemados).
+En síntesis, una vez notificada la exposición y valorada su situación por el servicio correspondiente de su centro de trabajo, si el miembro del equipo quirúrgico no presenta síntomas y se considera de bajo riesgo, la recomendación actual es que continúe con su actividad normal monitorizando su temperatura corporal dos veces al día. Por tanto, se podrá continuar realizando actividad quirúrgica programada y urgente utilizando las medidas de protección recomendadas en cada caso. Ante cualquiera de los supuestos, en caso de desarrollar síntomas se notificará al servicio de Prevención de Riesgos Laborales lo antes posible según se establezca en cada comunidad autónoma. El profesional se retirará de la actividad asistencial, se activará el protocolo para notificación a Salud Pública y se considerará caso en investigación.
+
+
+-- PROTOCOLO EN CASO DE EXPOSICIÓN BIOLÓGICA DEL EQUIPO QUIRÚRGICO
+
+Ante una exposición sin EPI a un paciente en investigación, probable o confirmado de infección por coronavirus, el personal expuesto debe considerarse contacto estrecho y se manejará como tal en función de las indicaciones específicas de cada centro. Todo profesional expuesto debe contactar inmediatamente con el servicio de Medicina Preventiva/Salud Laboral/Prevención de Riesgos Laborales de su centro y seguir las instrucciones que se le indiquen. Hasta la fecha actual no hay estudios específicos de profilaxis postexposición (PEP) al COVID-19. Un estudio retrospectivo de Park et al. de 2019 sobre PEP al MERS en un número limitado de profesionales sanitarios mostró buenos resultados utilizando una combinación de antivirales (lopinavir/ritonavir más ribavirina). Sin embargo, es un estudio con varios sesgos probables a favor de la PEP. En el momento actual, no existe evidencia que recomiende la PEP para COVID-19.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran ningún conflicto de interés.

@@ -1,0 +1,109 @@
+ANÁLISIS DE LOS CUIDADOS Y LOS CONOCIMIENTOS PARENTALES SOBRE LA FIEBRE EN LA INFANCIA
+
+
+- INTRODUCCIÓN
+
+La presencia de fiebre en el niño constituye el motivo de consulta más reiterado por parte de la población, aproximadamente el 30% de las visitas, , . Además, en la mayoría de los casos el tiempo entre el inicio de la fiebre y la consulta sanitaria es muy corto. El desconocimiento, las creencias erróneas y la disparidad en su abordaje contribuyen a que los padres adopten una posición de amenaza ante la situación, o fever fobia. Schmitt describió el fenómeno en 1980, pero diferentes autores han comprobado que sigue siendo una entidad importante, , .
+Diversos trabajos han estudiado el conocimiento y el manejo o cuidados de la fiebre, , , , . A nivel europeo, destaca el trabajo de Chiappini et al. en 2012, en Italia. Concluyen indicando que los conocimientos sobre la fiebre no son acertados en gran parte de los encuestados. A nivel nacional, Ugarte et al. descubrieron algunas prácticas desaconsejadas por la evidencia que eran habituales en los cuidadores principales, como la utilización del termómetro de mercurio y la detección de fiebre mediante el tacto. Estos resultados también son similares en el trabajo de García et al..
+Según los resultados de estudios de América, , y de otras partes del mundo, , , con población de orígenes y condiciones múltiples, podemos intuir que la cultura y los aspectos sociodemográficos influyen en los conocimientos y cuidados de la fiebre. Estos trabajos aportan a la literatura que versa sobre el tema conclusiones de culturas específicas pero no extrapolables a nuestro medio. Por este motivo, el objetivo de este trabajo de investigación fue describir los conocimientos y el cuidado parental de la fiebre en niños menores de 2 años, valorar si este conocimiento y manejo son adecuados y relacionar ambos factores con características sociodemográficas.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio observacional descriptivo, transversal y multicéntrico.
+
+
+-- ÁMBITO DE ESTUDIO/CENTRO
+
+El estudio se llevó a cabo en las consultas de Pediatría y de Enfermería Pediátrica de 5 centros de atención primaria (CAP) de la ciudad de Barcelona: Chafarinas, La Marina, La Mina, La Pau y Línea Pediátrica de Drassanes. Los centros elegidos destacan por la heterogeneidad de población a la que atienden y están distribuidos por todo el territorio metropolitano de la ciudad.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Padres, madres o tutores legales de niños hasta los 2 años de edad que acuden a la consultas de Pediatría o de Enfermería Pediátrica durante los 2 meses que dura la recogida de datos en cada centro (mayo 2013-febrero 2014). El motivo de consulta debía ser la administración de alguna de las vacunas del calendario sistemático de Cataluña. Los participantes debían tener capacidad de comunicarse o leer en algunas de las lenguas contempladas: catalán, castellano o inglés, y dar el consentimiento oral de participación en el estudio.
+
+
+-- TAMAÑO MUESTRAL Y PROCEDIMIENTO DE MUESTREO
+
+A nivel teórico, una muestra de 255 individuos es suficiente para estimar, con una confianza del 95%, un porcentaje poblacional que se prevé que sea de alrededor del 80%, con una pérdida del 10% de los datos. Finalmente, de un total de 3.610 infantes menores de 2 años asignados a todos los CAP incluidos participaron 311 progenitores de distintos niños. El muestreo utilizado fue no probabilístico consecutivo.
+
+
+-- VARIABLES E INSTRUMENTOS
+
+El cuestionario utilizado está dirigido a los padres y basado en el creado por Schmitt en 1980 y que anteriormente ya modificaron y utilizaron otros autores como Crocetti et al. en 2001 y Chiappini et al. en 2012. Está formado por 17 preguntas cerradas en las que hay que marcar, según lo indique, una o más opciones de respuesta. La encuesta ha sido adaptada para este estudio al castellano y al catalán. Todas las versiones de la encuesta fueron testeadas durante la fase piloto del estudio, que duró 2 meses.
+Las respuestas a las preguntas de la encuesta se consideraron correctas o incorrectas en función de las recomendaciones de los artículos originales y de las guías de práctica clínica basada en la evidencia, , , , , , , , , , , . De este modo, las preguntas cuya evidencia era clara se clasificaron en 2 grupos: puntuación de conocimientos (7 ítems: de 0 a 7 puntos) y puntuación de cuidado (4 ítems: de 0 a 4 puntos). Estas puntuaciones se extrajeron del total de preguntas correctas, puntuando 1 los aciertos y 0 las incorrectas o sin respuesta. El resto de ítems fueron descriptivos (5 ítems) por falta de consenso en las publicaciones pero importantes para la comparación con el resto de bibliografía obtenida. También se recogieron características sociodemográficas.
+
+
+-- PROCEDIMIENTO DE RECOGIDA DE INFORMACIÓN
+
+Diariamente se seleccionaban los posibles sujetos de estudio según el motivo de su consulta con el pediatra o con la enfermera pediátrica. Antes de ser atendidos, se les explicaban los objetivos del estudio y la implicación práctica en una consulta habilitada para este propósito. Si daban su consentimiento oral de participación, se les entregaba el cuestionario, que completaban de forma individual y privada. Una vez dentro de la consulta, entregaban el formulario.
+
+
+-- ASPECTOS ÉTICOS
+
+Trabajo revisado y aprobado por el Comité Ético de Investigación Clínica (CEIC) del Instituto de Investigación en Atención Primaria Jordi Gol (IDIAP Jordi Gol) con código P14/139. Los centros implicados en el estudio recibieron el proyecto de la investigación y aprobaron la recogida de datos de los investigadores. A todos los padres/madres se les informó sobre los objetivos del estudio, sobre su implicación, y se les solicitó su consentimiento oral de participación antes de la entrega de la documentación.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En el análisis descriptivo se utilizaron frecuencias y porcentajes para describir variables cualitativas, y medias y desviación estándar para las cuantitativas.
+En el análisis inferencial se comprobó la distribución de las variables cuantitativas (edad, puntuación de cuidado o conocimientos) y, al ser no paramétricas según el test de Kolmogorof-Smirnov, se calcularon los coeficientes de correlación de Spearman. En cambio, al comparar las variables de tipo cualitativo (antecedentes, nivel académico, etc.) con las puntuaciones de cuidado y conocimientos (cuantitativas) se aplicaron los test no paramétricos de Wilcoxon en cualitativas dicotómicas y el test no paramétrico de Kruskal-Wallis en las cualitativas politómicas.
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN DE LAS CARACTERÍSTICAS SOCIODEMOGRÁFICAS
+
+De un total de 401 posibles consultas de enfermería pediátrica que cumplían criterios de inclusión, se realizaron 311 cuestionarios (77,5% de participación). Las causas de que la participación no fuera total son: visitas programadas a las que no acudieron (61,1%), no participación en el estudio por barrera idiomática (21,1%), no dar el consentimiento para la participación en el estudio (10%) o niños no acompañados de padre, madre o tutor legal (7,8%).
+La edad media de los encuestados es de 32,3 años (DE: 6,7) y la gran mayoría son madres (77,5%). El 56,9% eran de origen español y el 43,1%, extranjeros. Del total de encuestados, el 48,2% eran padres primerizos, siendo la media del número de hijos de 1,8 (DE: 1,1).
+La edad de los hijos de los participantes osciló de un mes a 28 meses de vida, siendo la media de 10,2 meses (DE: 7,5). El 95,3% fueron niños nacidos a término (de 37 a 42 semanas de gestación). El 3,2% de los niños tenían un problema crónico. Tan solo el 0,3% tuvieron convulsiones febriles antes del estudio. Solo el 4,8% de los niños tenían algún otro antecedente de interés diferente a los mencionados, siendo el 53,2% problemas respiratorios.
+
+
+-- ANÁLISIS DESCRIPTIVO DE LAS RESPUESTAS DEL CUESTIONARIO
+
+Las respuestas a las preguntas del cuestionario sobre conocimientos se recogen en las Tabla 1, Tabla 2. En las Tabla 3, Tabla 4 se reflejan los porcentajes referentes a las cuestiones sobre manejo o cuidados.
+
+
+-- ANÁLISIS COMPARATIVO ENTRE LAS PUNTUACIONES Y LOS DATOS SOCIODEMOGRÁFICOS
+
+En la tabla 5 se muestra la comparación entre la puntuación total de cuidado (PC) y la puntuación total de conocimiento (PC) con cada una de las características sociodemográficas recogidas. Existe una correlación positiva entre estas puntuaciones (rho = 0,15, p < 0,01), es decir, a mayor conocimiento encontramos mayor cuidado correcto.
+Además, con los resultados obtenidos podemos afirmar que hay diferencias no atribuidas al azar en cuanto al conocimiento según el parentesco (p = 0,05) a favor de las madres, aunque ambos sexos obtienen una puntuación mediana de 4. Las diferencias no fueron significativas en los cuidados (p = 0,66) y tampoco la relación entre la edad y los conocimientos (rho = 0,032, p = 0,10), ni la edad y el manejo (rho = 0,092, p = 0,57). La correlación obtenida entre la PC y la PC con las variables de semanas de gestación (SG), número de hijos y edad de los hijos no fue relevante.
+Por otra parte, se observan diferencias estadísticamente significativas en las puntuaciones de conocimiento entre la población autóctona y la población inmigrante (p < 0,01). La población autóctona obtuvo una puntación mediana de 5 (4-6 en p25-p75) y la extranjera una mediana de 4 (3-5 en p25-p75). Incluso con las diferencias en la puntuación de conocimiento, no se observan diferencias en cuanto a aspectos de cuidados.
+Las diferencias también son significativas según la zona de origen (p < 0,01); los que obtuvieron una puntuación mediana más alta son los europeos (mediana 4 [3-5,25 en p25-p75]), seguidos de latinoamericanos (mediana 4 [3-4 en p25-p75]), asiáticos (mediana 3 [2,5-5]) y africanos (mediana 3 [2-4 en p25-p75]). En las puntuaciones de manejo las diferencias no fueron significativas (p = 0,52).
+A nivel de la formación académica de los encuestados, seguimos encontrando resultados significativos en la puntuación de conocimientos (p = 0,03). El grupo que obtuvo una puntuación más alta fueron los universitarios, con una mediana de 4 (3-6 en p25-p75). Los participantes sin estudios fueron los que obtuvieron menor puntuación, con una mediana de 3 (2-4 en p25-p75). Todos los grupos obtienen valores parecidos en cuidados, aunque estas diferencias no son significativas (p = 0,25).
+Finalmente, en cuanto a antecedentes, las diferencias solo fueron significativas para cuidados o manejo en los niños con problemas de salud crónicos (p = 0,03); los datos no fueron significativos para prematuridad (p = 0,97). Todos los padres y madres con hijos que padecen problemas de salud crónicos contestaron correctamente a las 4 preguntas de manejo. Esto no fue así en el grupo de niños sanos, donde solo el 68% de los padres obtuvieron una PC de 4. Las diferencias en cuanto a conocimiento no fueron significativas (p = 0,73).
+
+
+- DISCUSIÓN
+
+Las diferencias entre continentes fueron significativas para la puntuación de conocimientos (p < 0,01) pero no para el cuidado, donde encontramos una gran similitud. Es decir, en todas las culturas se practican formas efectivas de tratar la fiebre. Europa tuvo la mayor puntuación tanto de conocimientos como de manejo. En cambio, la menor puntuación de conocimientos se obtiene en África, el continente con menores cifras de escolarización según la UNESCO.
+Las diferencias en el nivel académico fueron significativas para el ámbito de los conocimientos (p = 0,03). Los que referían estudios universitarios obtuvieron la puntuación más alta, y la más baja correspondió a los encuestados sin estudios o con estudios primarios. Este hecho se encuentra dentro del marco de los resultados esperados, ya que de forma común una población con un nivel académico alto tiene tendencia a acudir a fuentes de información más fiables.
+Respecto a los conocimientos que tienen los progenitores, encontramos diferencias no atribuidas al azar que señalan a las madres como las que tienen mayor puntuación (p = 0,05). Este resultado puede ser interpretado mediante la perspectiva de género, que tradicionalmente atribuye a la mujer el rol de crianza y cuidados al enfermo.
+Por otra parte, los resultados reflejan que los padres de los hijos con problemas crónicos tienen resultados de cuidados significativamente mejores (p = 0,03) que el resto, posiblemente por el mayor contacto con el sistema sanitario y la mayor recurrencia de episodios febriles.
+
+
+-- COMPARACIÓN CON LA LITERATURA CIENTÍFICA
+
+Según la bibliografía, se considera fiebre la temperatura corporal superior al percentil 99 (37,7 °C), , , , . El 39,5% de nuestra población consideró fiebre a partir de 38 °C, muy similar al estudio de Lauren, con un 44%. Sin embargo, hay una gran diferencia respecto a los estudios de Ugarte et al. (64,6%) y Crocetti et al. (27%). Esta diferencia puede deberse al mayor nivel de estudios que tienen los participantes de la población de Ugarte et al.
+Sobre la práctica de alternar fármacos, existen pocos datos acerca de su eficacia y seguridad, , , , , , , . El 45% de los encuestados alternaban 2 fármacos, cifra que era del 21,4% en el estudio de Chiappini et al., del 63,9% en el de García et al. y solo del 4% en el trabajo de Crocetti et al. Es importante observar que, a pesar de que la evidencia científica dice que esta práctica no es segura y debe limitarse, en nuestra población y en otros estudios un porcentaje muy alto la lleva a cabo.
+En la medición de la temperatura corporal, la rectal es la óptima para la determinación de la temperatura central, , , , , . Sin embargo, en niños entre 4 semanas y 5 años la medición más fiable y segura debe realizarse con un termómetro electrónico en la axila, , , , , . La población de estudio eligió la axila en un 82%, siendo similar a los estudios de Ugarte et al. (86%), Chiappini et al. (82%), Crocetti et al. (68%) y García et al. (86,2%). El tipo de termómetro más usado fue el digital (87,5%), seguido del termómetro de mercurio (5,8%), y solo un 1% afirmaba no tener termómetro. Se aprecian claras diferencias con los estudios de Ugarte et al. (60% de mercurio), Chiappini et al. (52,3% de mercurio) y García et al. (67,7% digital y 34,7% de mercurio). En general se observa un buen manejo de las herramientas disponibles para medir la fiebre.
+Respecto al uso de antitérmicos, en nuestro estudio el 98,71% de la población utiliza el ibuprofeno o el paracetamol, similar al estudio de García et al. A la hora de la administración de antitérmicos, el 95,1% de nuestra población elegía la vía oral en comparación con la población de Chiappini et al. (51%).
+Según la creencia de los participantes, los principales efectos secundarios que se pueden derivar de la fiebre fueron las convulsiones (61,1%), seguido de las complicaciones neurológicas (25,1%) y la muerte (10,6%). En cambio, en el estudio de Ugarte et al. el 32% correspondía a convulsiones y solo el 12,6% a complicaciones neurológicas. En el estudio de Cohee et al. el 44% correspondía a muerte y daño cerebral, y en el de García solo un 8,3% pertenecía a convulsiones.
+Las medidas físicas más utilizadas fueron paños/ducha tibia (86,6%) y paño/ducha fría (42,2%), al igual que en el estudio de Cohee et al. (62%). En la población de Ugarte et al. estos porcentajes fueron del 30,6 y del 57%, respectivamente. En el estudio de García et al. las más utilizadas fueron quitar la ropa (58%), seguido de baños/ducha tibia (47,6%) y paños tibios (36,5%).
+
+
+-- LIMITACIONES DEL DISEÑO UTILIZADO
+
+Las limitaciones encontradas han sido la barrera idiomática y el posible sesgo de estacionalidad relacionado con el periodo elegido para realizar las encuestas. Para reducir la barrera idiomática se disponía de la encuesta original en inglés y la capacidad de los investigadores para comunicarse en los 3 idiomas. Por otra parte, se eliminó el sesgo estacional incluyendo en el estudio solo a aquellos padres que acudían para la administración de una vacuna sistémica, aunque de esta manera se excluyó a los que no están de acuerdo con la administración de vacunas.
+
+
+-- APLICABILIDAD PRÁCTICA DE LOS RESULTADOS
+
+En conclusión, en la población se observan unos cuidados correctos de la fiebre a pesar de la falta de conocimientos. El principal hallazgo de este estudio es que se observa que la correlación entre las puntuaciones de conocimiento y cuidados es positiva (rho = 0,15, p = 0,008). Por lo tanto, a mayor conocimiento mejor manejo, lo que implica que una buena estrategia para fomentar el buen cuidado del niño febril es formar a los progenitores, haciendo énfasis en la asimilación de información actualizada y adaptada. Según nuestros resultados, las estrategias formativas más efectivas serán las dirigidas al grupo de padres de origen no europeo que tengan un nivel de formación académica bajo y poco contacto previo con el sistema sanitario.Lo conocido sobre el tema–La fiebre es un signo frecuente en la infancia y provoca ansiedad en los padres.–Los padres tienen un déficit de conocimiento sobre la fiebre y sus cuidados en la infancia.–Fuera de España se comprueba que los conocimientos y los cuidados de la fiebre se relacionan con características culturales y sociodemográficas.Qué aporta este estudio–Datos sobre los conocimientos y los cuidados parentales a la fiebre infantil en nuestra población.–Existen correlaciones significativas entre los conocimientos/cuidados de la fiebre y el nivel de estudios, el continente de origen de los padres y los problemas crónicos del niño.–La correlación positiva entre nivel de conocimientos y cuidados correctos es significativa.–Las estrategias formativas más efectivas serán las dirigidas al grupo de padres de origen no europeo que tengan un nivel de formación académica bajo y poco contacto previo con el sistema sanitario.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

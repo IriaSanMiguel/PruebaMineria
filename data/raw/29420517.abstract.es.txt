@@ -1,0 +1,6 @@
+Se analizaron un total de 818 muestras provenientes de donantes de sangre (muestreo aleatorio estratificado), de los cuales 737 fueron tipificados inicialmente como A y 81 como AB, con un grado de confianza del 95% (error alfa del 5% y precisión del 3%).
+Se recomienda la implementación de la identificación de los subgrupos de A en laboratorios clínicos y bancos de sangre.
+Se identificó la existencia de los subgrupos A1, A2, A1B, A2B, A intermedio y A intB en donantes de sangre ecuatorianos.
+El presente estudio es descriptivo, observacional y transversal, y tiene el objetivo de establecer la proporción de los subgrupos del antígeno A en donantes de sangre mediante la técnica manual en tubo con reactivos hemoclasificadores monoclonales: anti A, anti-A1 (extracto de las lectinas Dolichus biflorus) y anti-H.
+La presencia de variantes débiles del grupo sanguíneo A representa un desafío en la práctica de la inmunohematología por las discrepancias en el momento de la tipificación. Es común en bancos de sangre realizar una tipificación directa e inversa con el objetivo de confirmar el grupo sanguíneo; sin embargo, no todas las personas que presentan un subgrupo sanguíneo A2 han desarrollado anticuerpos anti-A1, lo que dificulta la identificación de subgrupos de A.
+

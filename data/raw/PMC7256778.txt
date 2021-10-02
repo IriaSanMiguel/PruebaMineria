@@ -1,0 +1,20 @@
+YODO TÓPICO Y GLÁNDULA TIROIDEA. ¿SE DEBE TOMAR ALGUNA PRECAUCIÓN
+
+
+En nuestra práctica clínica existen fármacos de uso común que pueden alterar la función tiroidea. Así, por ejemplo, son bien conocidos los efectos sobre el tiroides del litio o la amiodarona, entre otros. De hecho, a largo plazo más del 50% de los pacientes con amiodarona muestran resultados anormales en las pruebas de función tiroidea.
+Algunos de estos efectos han sido reconocidos durante décadas, pero cada vez se conocen nuevas interacciones entre el tiroides y diversos medicamentos que tradicionalmente no se habían tenido en cuenta, como las debidas al uso de yodo tópico. Es importante que el médico esté familiarizado con estas interacciones tiroides-fármacos, ya que va a ser necesaria una mayor vigilancia en estos pacientes. Presentamos un caso que ilustra claramente este problema.
+Mujer de 56 años con antecedentes personales de tiroiditis crónica linfocitaria diagnosticada hacía 3 años, de la que no hacía tratamiento en la actualidad por normofunción tiroidea, y osteoporosis en tratamiento con ácido alendrónico, calcio y vitamina D. Es remitida a consulta por clínica de nerviosismo, palpitaciones y pérdida de peso de unos 3-4 kg, con insomnio y sin alteraciones en el tránsito intestinal.
+La exploración tiroidea era normal, no se palpaba bocio, ni nódulos. Analíticamente se observaron unos valores de TSH < 0,01 mU/ml (0,3-4,5 mUI/ml), T4 libre 1,11 ng/dl (0,7-2,0 ng/dl) y T3 libre 3,97 ng/dl (2,5-4,6 ng/dl), con anticuerpos anti-TPO 255 UI/ml (< 60 UI/ml) y anti-receptor TSH < 1,00 (< 1,6 UI/l).
+Una anamnesis exhaustiva reveló que la paciente había acudido previamente a la consulta de dermatología por presentar alteraciones ungueales en el primer y tercer dedo del pie izquierdo, por lo que fue diagnosticada de onicodistrofia, comenzando un tratamiento tópico con una fórmula magistral a base de ácido acetilsalicílico 2 g y yodo metaloide 1 g diluidos en alcohol.
+La paciente comentaba que tras varias semanas de tratamiento diario había comenzado con la sintomatología.
+Se le recomendó la suspensión del tratamiento con yodo tópico. En la revisión a los 3 meses, la paciente se había recuperado desde el punto de vista clínico, aumentando su peso y desapareciendo la sintomatología, y analítico, con normalización de su función tiroidea (TSH 0,38 mU/ml, T4 libre 1,10 ng/dl a los 3 meses y TSH 1,33 mUI/ml, T4 libre 1,13 ng/dl a los 9 meses).
+El yodo es un elemento clave en la fisiología del tiroides, aunque tanto el exceso como el déficit puede provocar alteraciones en su funcionalidad.
+La exposición a exceso de yodo se tolera habitualmente bien, debido a la reducción transitoria en la organificación, síntesis y liberación de hormonas tiroideas (efecto conocido como Wolff-Chaikoff). No obstante, en individuos susceptibles, en particular con enfermedad tiroidea previa, existe un riesgo aumentado de desarrollar disfunción tiroidea inducida por yodo (efecto Jod-Basedow), debido a la hiperproducción y liberación brusca de hormonas tiroideas en respuesta a la administración de grandes cantidades de yodo.
+La sobrecarga de yodo es una causa poco frecuente de hipertiroidismo, por ello, la historia clínica detallada es fundamental para su detección. Es necesario buscar datos sobre el consumo de medicamentos, suplementos dietéticos o la realización de pruebas de imagen con contraste, con elevado contenido en yodo. Aunque cada vez se describen más casos de hipertiroidismo por yodo tópico, como los debidos a la utilización de soluciones antisépticas como la povidona yodada, no se había descrito previamente como complicación del tratamiento tópico de una onicodistrofia.
+También se sabe que la mayoría de casos de hipertiroidismo inducido por yodo son autolimitados y se resuelven con el cese de la exposición.
+Pensamos que es necesario dar a conocer esta infrecuente, pero importante complicación del uso de yodo tópico.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

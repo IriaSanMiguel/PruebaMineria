@@ -1,0 +1,133 @@
+COVID-19 Y FRACTURA POR FRAGILIDAD DE LA CADERA. RECOMENDACIONES CONJUNTAS DE LA SOCIEDAD ESPAÑOLA DE FRACTURAS OSTEOPORÓTICAS Y LA SOCIEDAD ESPAÑOLA DE GERIATRÍA Y GERONTOLOGÍA
+
+
+- INTRODUCCIÓN
+
+El coronavirus 2 del síndrome respiratorio agudo grave (severe acute respiratory syndrome coronavirus 2 o SARS-CoV-2), que origina la enfermedad denominada COVID-19 (coronavirus infectious disease-19), era una enfermedad desconocida en el mundo hasta el 31 de diciembre de 2019 cuando las autoridades sanitarias de la ciudad china de Wuhan informaron sobre la aparición de 27 personas diagnosticadas de un síndrome respiratorio agudo grave causado por un virus de origen desconocido.
+La situación actual, tanto por el número de países afectos como por el número de casos reportados, constituye oficialmente desde el 11 de marzo de 2020 una pandemia, suponiendo una emergencia sanitaria mundial de primer nivel.
+Este síndrome, al que nos venimos enfrentado en España desde el 31 de enero de 2020 —fecha del primer caso diagnosticado en nuestro país— y del que se han notificado 241.550 casos confirmados por prueba de reacción en cadena de la polimerasa (polymerase chain reaction o PCR), ha causado ya la muerte de 27.136 personas (a 7 de junio de 2020), el 86,6% mayores de 69 años.
+Al ser España uno de los países más envejecidos (el 19,3% de la población española tiene 65 años o más) y con una mayor expectativa de vida de Europa (media de 83,4 años hasta este brote), la COVID-19 se ha convertido en una verdadera emergencia geriátrica, debido sobre todo a que la población de mayor edad es especialmente susceptible a esta infección y a desarrollar formas graves de la enfermedad, así como a tener una mayor tasa de mortalidad por la misma.
+Este aumento de la mortalidad por COVID-19 en el paciente mayor (hasta de un 15% en mayores de 80 años) se ha asociado tanto a la fragilidad como a las comorbilidades previas (especialmente la enfermedad cardiovascular), situaciones que normalmente conllevan una respuesta inmunológica más pobre.
+Los pacientes con fractura de cadera son generalmente mayores, frágiles y comórbidos, debiendo superar, en cualquier situación, tanto el estrés de la propia fractura como el de la hospitalización y la cirugía necesarias para su tratamiento. Si a estos hechos se le añade la repercusión de la cascada inflamatoria y la afectación respiratoria y multiorgánica que tiene la infección por SARS-CoV-2 en los pacientes adultos, resulta evidente que esta afección presente una alta mortalidad en los pacientes mayores con este tipo de fractura.
+La mayoría de las fracturas por fragilidad ocurren en el hogar a consecuencia de caídas casuales, con lo que era de esperar que la política de aislamiento social no las evitaría. Por esta misma razón, no se preveía a priori, tampoco, una reducción significativa en la incidencia de las fracturas por fragilidad de la cadera (FxFrgCad) durante este período. Sin embargo, mientras varios autores han observado una disminución general de hasta el 40% en el número de atenciones por fractura —constatando al mismo tiempo la no disminución de la incidencia de fracturas por fragilidad en general ni de la de fracturas de cadera en particular—, otros sí han identificado una reducción específica en la incidencia de este tipo de fracturas, , aunque reconociendo que puede haber ocurrido una presentación tardía de las mismas en la evolución temporal de la pandemia, tal y como postulaba alguna de las guías clínicas recientemente publicadas. En cualquier caso, la cirugía de la FxFrgCad ha sido, es y será una de las operaciones más comúnmente realizadas durante todo el tiempo de pandemia, llegando a suponer para varias series clínicas más del 50% de las cirugías con hospitalización, , .
+Por otro lado, debido a que durante esta pandemia el número de pacientes que han precisado, precisan o precisarán una cama de hospitalización o cuidado crítico intermedio puede exceder en algún momento a los recursos del hospital, la respuesta del equipo médico y quirúrgico debe ser rápida, procurando garantizar los mejores estándares de calidad posibles al mayor número de pacientes. Para ello, resulta prioritario establecer circuitos diferentes para pacientes no infectados e infectados por SARS-CoV-2, que eviten el contagio tanto de los profesionales como el cruzado entre pacientes.
+Y el manejo médico-quirúrgico de la FxFrgCad del anciano ha de seguir estos mismos principios. Por ello, las unidades de Ortogeriatría han de desempeñar un papel asistencial clave. El trabajo conjunto de los médicos de urgencias, geriatras, cirujanos ortopédicos y anestesistas ha de permitir determinar la situación previa del paciente, establecer el tipo de circuito de atención (SARS-CoV-2 negativo o SARS-CoV-2 positivo), y fijar la opción de tratamiento más recomendada, con el fin de obtener los mejores resultados clínicos a la vez que se optimiza la utilización de recursos y se disminuye la ocupación de camas.
+El presente documento, elaborado conjuntamente por la Sociedad Española de Fracturas Osteoporóticas (SEFRAOS) y la Sociedad Española de Geriatría y Gerontología (SEGG), pretende con una serie de recomendaciones conjuntas ayudar a los profesionales al manejo operativo de las FxFrgCad durante este período de pandemia y su desescalada.
+Es importante tener en cuenta que, dado que la información médica evoluciona con extrema rapidez, lo expuesto en el presente documento puede ser susceptible de modificación en función de la evidencia que se vaya acumulando y publicando durante la pandemia, por lo que serían actualizadas en el caso de que apareciesen cambios significativos.
+
+
+- FRACTURAS Y COVID-19
+
+Varios trabajos de China, Europa, , y Norteamérica documentan la epidemiología y clínica de las fracturas en pacientes con enfermedad COVID-19, tanto de forma general como específica para las FxFrgCad.
+En todas las series, la presentación de la fractura se solapó con diversos síntomas de la infección (fiebre, tos y disnea), bien ya en urgencias o durante el postoperatorio. Radiológicamente destacaban la opacidad pulmonar en vidrio esmerilado, signos de hipertensión pulmonar y un moteado bilateral múltiple en las radiografías y tomografías computarizadas (TC) de tórax. Desde el punto de vista epidemiológico, llamaba la atención que una parte importante de las infecciones eran de carácter nosocomial, .
+En las diversas series, el porcentaje de pacientes COVID-19 positivos con FxFrgCad varía entre el 15 y el 37%, , , presentando los casos positivos una comorbilidad según el índice de Charlson similar a la de los pacientes negativos, aunque con una puntuación mayor en la escala anestésica ASA, como era esperable en una valoración perioperatoria de un paciente con infección aguda.
+Un gran estudio multicéntrico señala una mortalidad general del 23,8% en pacientes intervenidos por cualquier causa y especialidad que desarrollaron COVID-19 en la semana previa o en el mes posterior a la intervención quirúrgica, porcentaje que para la cirugía ortopédica aumenta al 28,8%. Y aunque el porcentaje de mortalidad en el postoperatorio precoz de los pacientes con FxFrgCad y enfermedad COVID-19 igualmente ha demostrado ser muy elevado (30 y 60% según las diferentes series publicadas), , , , , también se ha descrito una clara mejoría de los parámetros clínicos (particularmente los respiratorios) y de la evolución tras la cirugía.
+Por ello, y de acuerdo con los resultados de todos estos trabajos, cuatro podrían ser las premisas generales sobre el manejo de las fracturas durante la pandemia COVID-19:1.Los síntomas de la infección por SARS-CoV-2 en los pacientes con fracturas son similares a los de los pacientes COVID-19 positivos sin fracturas.2.El hecho de que algunas de las infecciones puedan ser de carácter nosocomial habla de la necesidad de realizar un cribado y una prueba diagnóstica preoperatoria de COVID-19 a todos los pacientes con fractura, y especialmente a los ancianos con FxFrgCad.3.Este mismo hecho confirma la necesidad de establecer dos circuitos independientes (circuito estándar o NO-COVID-19 y circuito COVID-19 positivo) que eviten la infección cruzada entre los pacientes, y entre los pacientes y los profesionales.4.La elevada tasa de complicaciones y mortalidad obliga a que la decisión de tratar quirúrgicamente a un paciente con fractura e infección COVID-19 deba estar basada en una rigurosa evaluación de los riesgos y beneficios de la intervención, especialmente si se trata de una FxFrgCad.
+
+
+- FRACTURAS POR FRAGILIDAD DE LA CADERA Y COVID-19
+
+-- RECOMENDACIONES GENERALES
+
+Un documento de consenso de múltiples sociedades científicas, publicado bajo el amparo del Sistema Nacional de Salud (National Health Service o NHS) británico el 25 de marzo de 2020, recomienda que las decisiones de manejo clínico de una patología durante cualquier incidente grave han de tener en cuenta tanto los recursos disponibles como el impacto que esa patología pueda tener sobre la comunidad, indicando que el manejo no quirúrgico de algunas fracturas por fragilidad pudiera reducir la carga de hospitalización quirúrgica de los hospitales y, por tanto, del NHS, liberando camas para casos más urgentes y protegiendo al paciente de una exposición más prolongada en el entorno hospitalario.
+A pesar de que ese mismo documento considera que hay pocas evidencias para apoyar directamente alguna sugerencia en concreto, entendemos que las siguientes recomendaciones generales sobre las fracturas de cadera debieran tenerse en consideración:
+
+
+-- RECOMENDACIONES DE MANEJO EN URGENCIAS
+
+Del mismo modo, pensamos que han de tenerse en cuenta las siguientes recomendaciones para el manejo de los pacientes con FxFrgCad (institucionalizados o no institucionalizados) en el servicio de Urgencias:
+
+
+-- RECOMENDACIONES DE MANEJO EN LA PLANTA DE HOSPITALIZACIÓN
+
+Siguiendo la estructura de circuitos diferenciados anteriormente mencionada, los pacientes con FxFrgCad COVID-19 negativos serán ingresados en una planta NO-COVID-19 y tratados de forma convencional, recomendando la cirugía precoz de la fractura (< 24-48 h).•Consideramos conveniente, en cualquier caso, que el equipo ortogeriátrico realice siempre al ingreso en la planta de hospitalización una reevaluación clínica, analítica y radiológica del caso, así como una revaloración de las pruebas diagnósticas con el fin de confirmar el circuito asignado previamente a la cirugía.
+Por su parte, los pacientes con FxFrgCad COVID-19 positivos serán ingresados en una planta COVID-19.
+
+
+-- RECOMENDACIONES DE MANEJO PREANESTÉSICO Y ANESTÉSICO
+
+Consideramos que la realización sistemática en el servicio de Urgencias de un check-list validado de cribado de afectación COVID-19 y una PCR a todos aquellos casos posibles o probables, seguida de una revaloración ortogeriátrica al ingreso y de una valoración preanestésica rápida, facilitará la cirugía precoz de la FxFrgCad (< 24-48 h) en pacientes NO-COVID-19, disminuyendo la tasa de complicaciones y la mortalidad, así como la estancia media del paciente.
+
+
+--- VALORACIÓN PREANESTÉSICA
+
+La evaluación preanestésica de un paciente NO-COVID-19 se realizará de forma estándar, recomendado de nuevo la reevaluación clínica, analítica, radiológica y microbiológica del caso, con el fin de confirmar el circuito asignado.
+Recomendamos, en cambio, que la valoración preanestésica de un paciente COVID-19 positivo:
+
+
+--- TÉCNICA ANESTÉSICA
+
+De forma general, recomendamos que la técnica anestésica se adecue tanto a la situación clínica del paciente como al tipo de cirugía, proponiendo la realización de una anestesia espinal sin catéter en pacientes NO-COVID-19 con FxFrgCad y en general siempre que esta técnica sea posible, , .
+En los pacientes con FxFrgCad e infección COVID-19 sospechada o confirmada en los últimos 2 meses, recomendamos realizar de forma general técnicas de anestesia regional, y de forma específica, una anestesia espinal sobre una general, ya que la primera ha demostrado ser más segura para los pacientes con enfermedad respiratoria COVID-19, facilitando su recuperación postoperatoria, al mismo tiempo que disminuye la producción de aerosoles y por tanto la posibilidad de contagio de los profesionales, . Recomendamos por tanto en estos pacientes la anestesia intradural sin catéter como técnica de elección, acompañada de bloqueos de nervio periférico (BNP) y de una mínima sedación, .
+Recomendamos que para la realización de cualquier técnica de anestesia regional en pacientes COVID-19 se sigan las recomendaciones de la Sociedad Europea de Anestesia Regional y Tratamiento del Dolor (ESRA) y de la American Society of Regional Anesthesia and Pain Medicine (ASRA), basadas en la evidencia disponible y en el consenso de expertos.
+
+
+--- RECUPERACIÓN POSANESTÉSICA
+
+Recomendamos reanimar a los pacientes COVID-19 negativos en una sala de reanimación específica NO-COVID-19, y a los pacientes COVID-19 positivos en el mismo quirófano manteniendo, de acuerdo con las pautas locales, la monitorización hasta que el paciente esté seguro para volver a la planta de hospitalización.
+
+
+-- RECOMENDACIONES DE MANEJO QUIRÚRGICO
+
+Desde el punto de vista de las recomendaciones relacionadas con el manejo quirúrgico de los pacientes con FxFrgCad en circuito COVID-19 y NO-COVID-19, cuatro son los aspectos a considerar:
+
+
+--- RECOMENDACIONES GENERALES
+
+Los pacientes con FxFrgCad COVID-19 positivos serán operados en un quirófano exclusivamente destinado a pacientes COVID-19, .
+Los pacientes con FxFrgCad COVID-19 negativos y asintomáticos podrán ser intervenidos en un quirófano general NO-COVID-19, preferentemente destinado a pacientes traumáticos o de Cirugía Ortopédica y Traumatología.
+
+
+--- RECOMENDACIONES SOBRE PROFILAXIS ANTIBIÓTICA
+
+Recomendamos una profilaxis antibiótica estándar y adecuada a los protocolos establecidos para todos los pacientes con FxFrgCad NO-COVID-19.
+En los pacientes con FxFrgCad COVID-19 positivos no parece ser necesario alterar el protocolo de profilaxis antibiótica, al ser baja la tasa de coinfección bacteriana.
+
+
+--- RECOMENDACIONES DE PROFILAXIS ANTITROMBÓTICA
+
+En los pacientes con FxFrgCad NO-COVID-19 se utilizará la pauta de profilaxis antitrombótica con heparina de bajo peso molecular (HBPM) recomendada en las guías de práctica clínica habituales, adaptada al peso y a la función renal.
+Sin embargo, en pacientes con FxFrgCad con infección activa COVID-19 y alto riesgo trombótico previo o en pacientes con FxFrgCad e infección COVID-19 grave (PCR > 200 o valor duplicado en las últimas 24 h, dímero D > 1.000, IL-6 > 40, ferritina > 1.000, linfopenia < 800) recomendamos aumentar la dosis de HBPM, ya que pudieran presentar un mayor riesgo de enfermedad tromboembólica.
+
+
+--- RECOMENDACIONES SOBRE TÉCNICA QUIRÚRGICA GENERAL
+
+
+
+
+--- RECOMENDACIONES SOBRE TÉCNICA QUIRÚRGICA ESPECÍFICA
+
+
+
+
+--- RECOMENDACIONES PARA LA MINIMIZACIÓN DE LA PÉRDIDA SANGUÍNEA
+
+•Recomendamos en general un enfoque quirúrgico proactivo dirigido a minimizar la pérdida sanguínea continua.•En los pacientes con FxFrgCad e infección COVID-19, recomendamos la no utilización de ácido tranexámico debido a la tendencia a la hipercoagulabilidad que presentan.∘Sin embargo, en los pacientes con FxFrgCad NO-COVID-19, recomendamos su utilización para disminuir la pérdida hemática . •De la misma manera, en pacientes con FxFrgCad e infección COVID-19 no recomendamos el empleo de hierro intravenoso cuando exista fiebre o el paciente está en una fase infecciosa no controlada.
+
+
+--- RECOMENDACIONES DE ANALGESIA
+
+•Si bien no hay una evidencia cierta de que el uso de antiinflamatorios no esteroideos (AINE) pueda favorecer la infección por SARS-CoV-2 o empeorar su curso clínico, no recomendamos el uso de estos fármacos en adultos mayores con FxFrgCad por el riesgo de hemorragia digestiva y deterioro de la función renal, tal y como indican las principales guías de manejo del dolor postoperatorio.
+
+
+-- RECOMENDACIONES POSTOPERATORIAS
+
+Si bien no se pueden generalizar unas recomendaciones postoperatorias universales para los pacientes con FxFrgCad tanto en circuito COVID-19 como NO-COVID-19, consideramos que:
+Por todo ello, consideramos que las unidades de Ortogeriatría y los servicios de Rehabilitación han de desempeñar un papel asistencial clave, tanto a la hora de evaluar la situación postoperatoria del paciente como a la de establecer las opciones terapéuticas más recomendadas para obtener los mejores resultados clínicos.
+
+
+-- RECOMENDACIONES AL ALTA Y DE SEGUIMIENTO
+
+--- RECOMENDACIONES DE RECUPERACIÓN FUNCIONAL
+
+Si bien la opción de realizar en el domicilio un tratamiento de recuperación funcional de la articulación y de reeducación de la marcha puede resultar complejo, recomendamos que en el informe de alta de los pacientes con FxFrgCad se incluyan normas generales sobre posturas y movimientos a evitar, ejercicios específicos de recuperación funcional y recomendaciones de prevención de caídas, explicando a los familiares y cuidadores la importancia de todas ellas.
+Aunque los resultados de programas de telerrehabilitación han demostrado su eficacia en algún tipo específico de procedimiento, lo cierto es que hoy en día la implementación de estos sistemas es todavía muy baja.
+Dicho todo esto consideraríamos como óptimo que los hospitales o los sistemas autonómicos y/o nacionales de salud habilitaran unidades específicas de Rehabilitación para la recuperación de los pacientes con deterioro funcional grave secundario a la infección por COVID-19, de las que se podrían aprovechar para su recuperación todos aquellos pacientes que hubiesen padecido una FxFrgCad, con independencia de que hubieran tenido o no una infección activa por SARS-CoV-2.
+
+
+--- RECOMENDACIONES DE PREVENCIÓN SECUNDARIA DE LA FRACTURA OSTEOPORÓTICA
+
+Recomendamos, de forma general, no interrumpir ningún tratamiento antiosteoporótico (incluidos los suplementos de calcio y vitamina D) que hubiese sido prescrito previamente al paciente.•De tener que hacerlo, la suspensión de estos tratamientos durante el mínimo tiempo necesario no debiera suponer de forma general un incremento significativo del riesgo de nuevas fracturas.•No obstante, la suspensión o el retraso en más de 4 semanas de la administración de la siguiente dosis de denosumab sí pudiera incrementar este riesgo.
+Recomendamos específicamente que el paciente con una FxFrgCad COVID-19 positivo sea tratado de la misma forma que los enfermos con fractura de cadera que no hayan padecido esta infección, siempre y cuando se hayan operado y su expectativa de recuperación funcional y vital sea aceptable, ya que la posibilidad de una nueva fractura a corto plazo pudiera ser mayor incluso que la de las personas no infectadas por el aumento de fragilidad que la infección determina.•Como ocurre con los pacientes COVID-19 negativos, este tratamiento debería instaurarse tan pronto como sea posible, dado que el mayor riesgo de una nueva fractura tiene lugar en los meses siguientes a la fractura previa.
+Respecto a la elección del fármaco, recomendamos el uso de alguno de los fármacos antirresortivos que hayan demostrado ser eficaces en la prevención secundaria de los diferentes tipos de fracturas osteoporóticas (vertebrales, no vertebrales periféricas y de cadera).•Probablemente, la situación clínica por la que el enfermo acaba de pasar desaconseja el uso del ácido zoledrónico, debido a la reacción de fase aguda que este fármaco con frecuencia determina.•Por lo demás, los criterios para elegir entre un bifosfonato oral o denosumab serían los habituales: edad, tolerancia a la vía oral (problemas de deglución, tolerancia del tracto digestivo superior), polimedicación, función renal y expectativa de vida.
+En todos los casos, y con independencia del tratamiento elegido, deberían garantizarse los requerimientos diarios de calcio (1.000 y 1.200 mg) y vitamina D (800-1000 UI) recomendados para el paciente anciano, de forma que se garanticen unos niveles sanguíneos de calcio y vitamina D adecuados.

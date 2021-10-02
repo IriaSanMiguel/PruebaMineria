@@ -1,0 +1,5 @@
+Con información de la Encuesta Nacional de Salud y Nutrición 2018-19, se obtuvieron dos modelos de regresión logística múltiple con variables asociadas con la detección de diabetes e hipertensión. Se generaron perfiles basados en combina-ciones de las variables incluidas en el modelo. Se graficaron los incrementos de las probabilidades de acuerdo con los perfiles.
+Presentar el perfil de la población de 20 años o más que acude a realizarse una prueba de detección de diabetes y de hipertensión.
+El sistema de salud debe buscar personas con el mayor riesgo de desarrollar o tener diabetes e hiper-tensión sin diagnóstico, mediante cuestionarios de riesgo tipo score. A esta población se les deberán hacer estudios de tamizaje y, en su caso, diagnósticos.
+La población cuyas probabilidades predichas son las más altas para acudir a detección corres-ponde a adultos con antecedente familiar de la enfermedad, con comorbilidad asociada y estilos de vida poco saludables.
+

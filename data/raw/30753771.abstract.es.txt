@@ -1,0 +1,5 @@
+Se propone un set de nueve indicadores válidos, factibles, fiables y útiles para la monitorización de la calidad en la atención a neonatos patológicos.
+Se seleccionaron y pilotaron 23 indicadores; 12 eran compuestos. Del total, nueve fueron factibles y fiables. La calidad de la información en los hospitales fue diversa y frecuentemente deficiente, limitando tanto la factibilidad como la fiabilidad de los indicadores. Los niveles de cumplimiento identificaron oportunidades de mejora.
+Se construyeron indicadores propios a partir de recomendaciones clave de las guías de práctica clínica nacionales e indicadores encontrados en repositorios internacionales. Previa búsqueda, selección y priorización, los indicadores fueron pilotados en dos hospitales. Se analizó la factibilidad de medición, fiabilidad (índice kappa) y utilidad para detectar problemas de calidad.
+Desarrollar y pilotar indicadores de calidad de la atención a neonatos con padecimientos relevantes en México (prematuridad, sepsis neonatal, asfixia perinatal e hipoxia intrauterina).
+

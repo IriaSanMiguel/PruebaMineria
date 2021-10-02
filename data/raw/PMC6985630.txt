@@ -1,0 +1,110 @@
+GUÍA DE BUENAS PRÁCTICAS DE SEGURIDAD INFORMÁTICA EN EL TRATAMIENTO DE DATOS DE SALUD PARA EL PERSONAL SANITARIO EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En los últimos años se ha hecho un gran esfuerzo para migrar la historia clínica a formato electrónico, la llamada «historia clínica electrónica» (HCE). En España, se ha pasado de estar implantada únicamente en 2 comunidades autónomas en 2006 (Baleares y País Vasco), a disponer de una HCE de atención primaria (AP) que puede consultarse desde cualquier centro de salud de 14 comunidades autónomas en 2011, según el último informe «Las TIC en el Sistema Nacional de Salud» publicado por el Ministerio de Sanidad y Política Social.
+La historia clínica en formato electrónico y la introducción de la telemedicina en AP conllevan la necesidad de reforzar la seguridad de los datos de salud para mantener la privacidad y la confidencialidad de la información que contienen. La seguridad de la información de salud es un conjunto de medidas (administrativas, organizativas, físicas, técnicas, legales y educativas) dirigidas a protegerla frente al acceso, uso, divulgación, alteración, modificación o destrucción no autorizadas, con el fin de proporcionar los 3 pilares básicos: confidencialidad, integridad y disponibilidad de la misma.
+La confidencialidad se refiere al proceso que asegura que la información es accesible solo para aquellos usuarios autorizados a tener acceso a la misma. Es el principio básico de la política de seguridad del entorno sanitario. El acceso a esta información personal de salud debe ser estrictamente controlado de acuerdo con las consideraciones legales y éticas para asegurar que solo sea para el personal autorizado. La confidencialidad de la información sanitaria obliga al profesional de la salud a no revelar información suministrada por el paciente, o como resultado de la exploración del mismo, a cualquier otra persona. Así es como lo indicó ya Hipócrates en su juramento y se exige en el Código de Ética y Deontología Médica de 2011 en su capítulo v sobre el secreto profesional (artículos del 27 al 31).
+El segundo pilar, la integridad, se refiere a la obligación de garantizar que la información sea exacta y no se pueda modificar de manera no autorizada. Por razones de seguridad de los pacientes, la modificación no autorizada de la información médica es un problema grave que puede repercutir en errores médicos.
+Por último, la disponibilidad consiste en garantizar que se proporcione información a los usuarios autorizados en el momento en que se requiere. En el entorno sanitario, el acceso a la información en el instante preciso es esencial, ya que en caso de una urgencia médica no tener la información disponible puede conllevar resultados dramáticos.
+A la hora de garantizar la seguridad en cualquier entorno, además de tener las medidas técnicas y legales adecuadas es de vital importancia el factor humano, ya que con frecuencia los mayores problemas de seguridad se presentan por errores o descuidos en el hacer diario del personal.
+Las organizaciones sanitarias generalmente no emplean trabajadores con habilidades en tecnologías de la información o con formación en materia de seguridad, y suelen olvidar las amenazas internas a la hora de planificar la estrategia de seguridad, . Esta situación se agrava en entornos abiertos a Internet, donde el número y la naturaleza de las amenazas van en aumento y están en continua evolución.
+En este trabajo se lleva a cabo la identificación y selección de buenas prácticas de seguridad informática para que sirva como guía de referencia a los trabajadores de los centros de AP con acceso a un equipo informático. La selección de los estándares y la normativa de aplicación se ha realizado mediante una revisión sistemática de la literatura. Se usó la cadena de búsqueda: ((«health staff» OR «personal sanitario») AND («patient privacy» OR «patient security» OR «privacidad del paciente» OR «seguridad del paciente») AND («health information» OR «health data» OR «información de salud» OR «datos de salud») AND («act» OR «standard» OR «ley» OR «estándar»)), adaptándola a las características de los motores de búsqueda de las bases de datos consultadas: Scirus, ACM Digital Library, IEEE Digital Library y Scholar Google, entre noviembre de 2012 y julio de 2013. No se estableció ningún límite en el período de tiempo de las publicaciones consideradas en la revisión. Tras la eliminación de duplicados, la lectura del título y en ocasiones el examen parcial de los 514 documentos encontrados, se seleccionaron 12 estándares, documentos normativos y recomendaciones que estaban relacionados con las buenas prácticas de seguridad informática de los trabajadores en el ámbito sanitario. Como complemento de esta búsqueda se llevó a cabo un análisis detallado de las referencias para encontrar documentos adicionales y se revisaron las páginas web de organismos españoles para obtener normativa, recomendaciones, estudios y estándares relacionados con la materia de ámbito nacional (CCN-CERT, AEPD e INTECO). Tras esta búsqueda manual, el número final de documentos incluidos en la revisión fue de 20.
+
+
+- CLASIFICACIÓN DE LAS AMENAZAS A DATOS PERSONALES DE SALUD
+
+Los datos personales de salud incluyen cualquier información relacionada con un determinado paciente, ya sean en formato electrónico, escrito u oral. Suelen contener un identificador, como el nombre, la fecha de nacimiento, el número de teléfono, la dirección de correo electrónico, etc., que los relaciona con la identidad del paciente de manera inequívoca.
+Según la Ley española 41/2002 reguladora de la autonomía del paciente, la historia incorporará la información que se considere trascendental para el conocimiento veraz y actualizado del estado de salud del paciente. Las amenazas a la privacidad y a la seguridad de los datos personales del paciente en un centro de AP son aquellas que surgen del acceso inadecuado a estos datos, ya sea por personal interno abusando de sus privilegios o por errores no intencionados, o por agentes externos que explotan la vulnerabilidad de los sistemas de información con ataques intencionados. La tabla 1 muestra una clasificación de las amenazas de seguridad de 5 niveles, según aumenta la sofisticación de la amenaza, .
+
+
+- CONSECUENCIAS DERIVADAS DE AMENAZAS A LA SEGURIDAD
+
+Las amenazas son acontecimientos que pueden desencadenar un incidente en el centro de AP, produciendo impactos materiales o inmateriales en los recursos del sistema de información o relacionados con este, necesarios para que el centro funcione correctamente. Las consecuencias de estos impactos, producidos o no por una negligencia de sus trabajadores, pueden ser muy variadas y han de ser asumidas por el centro de AP:
+
+
+-- TENDENCIAS ACTUALES DE LAS AMENAZAS A LOS DATOS PERSONALES DE SALUD
+
+Existen gran cantidad de incidentes derivados de deficiencias en la seguridad de las instalaciones sanitarias, o a causa de errores o descuidos del personal en la manipulación de los datos de pacientes. He aquí algunos ataques recientes, clasificados según los niveles de la taxonomía expuesta en la tabla 1.
+Además de estos casos mediáticos, existen numerosas denuncias a la AEPD por violaciones de datos derivadas de malas prácticas del personal de la organización. En 2011, la AEPD resolvió 18 procedimientos sancionadores en sanidad por un importe de 143.204 euros.
+En enero de 2013, la Agencia Europea de Seguridad de las Redes y de la Información (ENISA), publicó el informe Threat Landscape. Responding to the Evolving Threat Environment, que indica las tendencias en los ataques a sistemas y organizaciones del año 2012. El documento Threat Landscape de ENISA recoge 120 informes procedentes de la industria de la seguridad, redes de excelencia, organismos de normalización y otros, entre 2011 y 2012, y proporciona una visión de conjunto de las amenazas observadas, las que actualmente son más importantes y las tendencias emergentes en este ámbito. También identifica las 10 principales amenazas en áreas de tecnologías emergentes. Las conclusiones fueron:1.El año 2011 se caracterizó por ser el año de las violaciones de privacidad de los datos. Aumentó el interés de los cibercriminales por atacar sistemas de información sanitarios.2.En los últimos años el número de violaciones en la privacidad de los datos en las organizaciones sanitarias aumentó con la adopción de sistemas de historia clínica digital.3.La mayor parte de violaciones de la privacidad de los datos se produjo a consecuencia de negligencias de trabajadores y por ataques externos.4.Nueve de cada 10 violaciones se pudieron haber prevenido si las organizaciones hubiesen seguido buenas prácticas en la seguridad de los datos.5.Entre enero y junio de 2012 el número de episodios que comprometieron la confidencialidad del sistema de información en organizaciones sanitarias casi se duplicó.6.El 96% de todas las organizaciones sanitarias encuestadas en el informe experimentaron al menos una violación de datos en los últimos años.
+Por tanto, es crucial vigilar y actualizar los hábitos de seguridad del personal con acceso a los sistemas informáticos de la organización sanitaria.
+
+
+- REVISIÓN DE LAS RECOMENDACIONES DE SEGURIDAD INFORMÁTICA DEL ENTORNO SANITARIO
+
+En la tabla 2 se identifican y numeran algunas de las recomendaciones de organismos oficiales nacionales e internacionales, normas y estándares de seguridad aplicables a los entornos de AP y que han sido seleccionados para la elaboración de la guía de buenas prácticas de seguridad informática que aborda este trabajo.
+Además de estas recomendaciones, en el año 2014 está prevista la entrada en vigor de la nueva directiva europea de protección de datos de carácter personal, que podría suponer cambios en la guía presentada en este trabajo.
+
+
+- GUÍA DE BUENAS PRÁCTICAS DE SEGURIDAD INFORMÁTICA PARA EL PERSONAL DE ATENCIÓN PRIMARIA
+
+En la tabla 3 se presenta la guía de buenas prácticas informáticas obtenida de las recomendaciones, normas y estándares revisados, dividida en bloques según la temática que abarca. La guía está orientada tanto al personal sanitario como al no sanitario, siempre y cuando empleen un ordenador con acceso a datos personales del paciente. La tercera columna indica la amenaza que previene cada recomendación, atendiendo a la clasificación presentada en la tabla 1. En la última columna se indica la fuente de la que se ha extraído la recomendación en base a la numeración dada en la tabla 2. En las siguientes líneas se justifica cada bloque y se ofrecen recomendaciones prácticas para los profesionales.
+
+
+-- RECOMENDACIONES DE FORMACIÓN
+
+La formación es la mejor forma de concienciar a los trabajadores sobre los riesgos de seguridad, las posibles consecuencias de incidentes y la responsabilidad de estos en los mismos, así como las principales medidas de prevención. Es por tanto fundamental que el centro de AP cuente con un plan de formación periódico, actualizado y con material estandarizado.
+
+
+-- RECOMENDACIONES DE CONTRASEÑA
+
+La composición y la privacidad de la contraseña son factores cruciales para mantener la eficacia de este mecanismo de protección frente accesos no autorizados al sistema de información sanitario. El profesional debe elegir una contraseña que cumpla las recomendaciones presentadas en la tabla 3, pero que sea fácil de recordar aplicando alguna regla sencilla que solo él conozca. De este modo se evita tener que anotar la contraseña para recordarla. Se pueden utilizar comprobadores de contraseña fiables para conocer el nivel de seguridad de la contraseña. La contraseña no debe aparecer ni ser compartida por ningún medio para evitar que alguien suplante su identidad. No se debe proteger varias cuentas con la misma contraseña, pues si la contraseña es descubierta, podrán suplantar la identidad del profesional en todas las cuentas. Finalmente, la primera vez que se accede a un sitio web nunca se debe responder sí a la pregunta del navegador: «¿Desea guardar su contraseña?». Si otro usuario del equipo accede de nuevo al mismo sitio web, podrá suplantar su identidad.
+
+
+-- RECOMENDACIONES DE USO DE CERTIFICADO DIGITAL
+
+Un certificado digital es un conjunto de datos que permiten la identificación del titular del certificado ante terceros, intercambiar información con otras personas y entidades de manera segura, y firmar electrónicamente los datos que se envían, manteniendo su integridad y conociendo su procedencia. Su uso se está generalizando desde la entrada en vigor del DNI electrónico, y requiere una contraseña que debe ser mantenida bajo las reglas del apartado anterior.
+
+
+-- RECOMENDACIONES DE USO DEL CORREO ELECTRÓNICO
+
+Como regla general, nunca se debe utilizar el correo electrónico para intercambiar datos de salud, y si fuera imprescindible, siempre debe hacerse entre cuentas corporativas de la organización de salud, firmando y cifrando los datos trasmitidos utilizando un certificado electrónico, e incluyendo una cláusula de confidencialidad advirtiendo de la naturaleza sensible de la información. Se debe evitar abrir archivos adjuntos o pinchar en enlaces recibidos a través del correo electrónico, aunque procedan de cuentas de personas conocidas. Bajo estos archivos puede haber software malicioso (los troyanos) que acceda, controle y dañe la información del ordenador bajo una apariencia inocua, sin que sea advertido por el profesional sanitario.
+
+
+-- RECOMENDACIONES DE USO Y ACCESO A INTERNET E INTRANET
+
+La visualización de un vídeo, el ingreso en un enlace encontrado en una red social, en una ventana emergente de un anuncio o tras una simple búsqueda on-line, puede poner en peligro la seguridad y la privacidad de los datos sanitarios. Es fundamental que el trabajador esté informado de cuáles son las buenas prácticas de navegación por Internet y siga algunos consejos básicos: disponer de herramientas de seguridad (antivirus, firewall, antispam) actualizadas; realizar análisis con el antivirus periódicamente; no descargar ni ejecutar ningún archivo de sitios desconocidos, pues puede incluir software malicioso; nunca entregar datos personales o circunstancias familiares a desconocidos o en páginas no seguras (que no comiencen por https://); no aceptar contactos desconocidos en redes sociales y mensajería instantánea; nunca pulsar el botón aceptar de una ventana sin leer y entender el mensaje, y finalmente buscar un técnico informático para actualizar y configurar el navegador y el sistema operativo de forma segura.
+
+
+-- RECOMENDACIONES DE USO DE DISPOSITIVOS EXTRAÍBLES
+
+Conectar un dispositivo extraíble a un ordenador del centro de AP supone un riesgo alto de entrada de virus a la Intranet del centro. Para evitar infecciones, no se deben conectar dispositivos extraíbles que hayan sido utilizados en otros equipos informáticos. Hay que cifrar con un certificado digital la información que salga del centro, y cuando ya sea desechable, hacer un borrado irreversible con alguna utilidad de borrado seguro. Estas aplicaciones incluyen funciones para limpiar el área de memoria ocupada por los ficheros, con el fin de no dejar rastro de la información generada y almacenada en su ordenador durante su uso (contraseñas, datos personales, etc.).
+
+
+-- RECOMENDACIONES DE USO DE EQUIPOS INFORMÁTICOS
+
+La medida más segura para proteger la pantalla de visualización de datos y otros periféricos cuando se ausente, es bloquear el ordenador con una contraseña. Asimismo hay que borrar los documentos de la memoria de impresoras y fotocopiadoras utilizando las opciones de ajuste y configuración particulares de cada dispositivo. Especial precaución se debe tener al depositar ficheros en directorios o dispositivos compartidos con otros usuarios, de manera que solo accedan a la información usuarios autorizados. En el caso de advertir alguna circunstancia en la que usuarios no autorizados puedan acceder a datos personales de salud, se debe comunicar inmediatamente al Departamento de Informática del centro de AP.
+
+
+-- RECOMENDACIONES DE INSTALACIÓN DE SOFTWARE
+
+Desconfiar del software disponible en Internet, pues suele contener software malicioso e incluso software espía que pone en riesgo los datos personales de salud. Preferentemente, descargar software procedente de webs oficiales, utilizar un antivirus y siempre consultar antes con un técnico informático. Para disminuir riesgos, evitar la instalación de software no relacionado con el puesto de trabajo en su centro de AP.
+
+
+-- RECOMENDACIONES DE INCIDENCIAS DE SEGURIDAD
+
+Es crucial concienciar a los trabajadores de la necesidad de comunicar los problemas de seguridad en el equipamiento informático del centro de AP, de manera que la organización establezca las medidas correctivas pertinentes para minimizar el impacto de las incidencias de seguridad y subsanar los daños derivados del mismo.
+
+
+- FORMACIÓN EN BUENAS PRÁCTICAS DE SEGURIDAD INFORMÁTICA PARA EL PROFESIONAL DE ATENCIÓN PRIMARIA
+
+La formación en materia de seguridad y privacidad de los trabajadores de los centros de AP es de vital importancia, , tanto para la confidencialidad y privacidad de los datos del paciente como para el centro de AP, que en caso de negligencia de sus trabajadores, deberá asumir las consecuencias del impacto de seguridad derivado de la misma.
+Como se suele decir, la prevención es la mejor medicina, y poner en práctica las recomendaciones presentadas en este trabajo puede reducir en gran medida los incidentes de seguridad y, por tanto, los riesgos de violación de datos personales del centro. Se ha demostrado que la inversión en formación del personal sanitario en materia de seguridad reduce el riesgo de sufrir incidentes de seguridad, que incluso pueden afectar al cuidado asistencial. Por esta razón, es recomendable adoptar material educativo estandarizado procedente de organizaciones acreditadas, como Health Information Technology (HealthIT). Esta organización ofrece un sitio donde el profesional de la salud puede recibir toda la información práctica en materia de seguridad para el desempeño de su actividad. HealthIT pone a disposición pública aplicaciones on-line como Cybersecure, en las que el profesional de la salud puede ir evaluando sus conocimientos en materia de seguridad y privacidad conforme a la legislación estadounidense, mediante la resolución de diferentes casos prácticos organizados por semanas. Pese a estar basado en la legislación estadounidense, la mayoría de las recomendaciones son igualmente aplicables en España.
+
+
+- CONCLUSIONES
+
+Debido a la gran cantidad de procedimientos, normativa y estándares disponibles para la protección de los datos, y a las dificultades técnicas inherentes a la informática, resulta difícil para los trabajadores sanitarios encontrar una referencia o documento que reúna las buenas prácticas de seguridad informática en el tratamiento de datos de salud. Además, las amenazas de seguridad a las que se enfrentan las organizaciones sanitarias no son nada desdeñables, y su control depende en gran medida de la política de seguridad de la organización. La formación de cada uno de los trabajadores en materia de seguridad y privacidad de la información es crucial para evitar errores que comprometan el sistema informático de la organización. Por tanto, es de vital importancia vigilar y actualizar los hábitos de seguridad del personal con acceso a los sistemas informáticos de la organización sanitaria.
+La guía presentada en este artículo pretende ser una orientación sobre buenas conductas y hábitos del personal sanitario en el tratamiento de los datos, y ayudar en la formación de estos profesionales. Esta guía puede ser utilizada para evaluar y auditar el comportamiento en materia de seguridad del trabajador por parte de los responsables de seguridad informática del centro de AP.
+
+
+- FINANCIACIÓN
+
+Este trabajo forma parte del proyecto PEGASO-PANGEA (TIN2009-13718-C02-02), financiado por el Ministerio de Ciencia e Innovación, y del proyecto GEODAS-REQ (TIN2012-37493-C03-02), financiado por el Ministerio de Economía y Competitividad y con fondos europeos FEDER.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,285 @@
+ACTUALIZACIÓN DE LAS INFECCIONES RESPIRATORIAS EN URGENCIAS
+
+
+- INTRODUCCIÓN
+
+Dentro de la patología evaluada en Urgencias, una de las más prevalentes y de mayor morbimortalidad es la respiratoria. Aunque las enfermedades respiratorias que pueden manifes- tarse de forma aguda son muy diversas, desde el punto de vista asistencial, las más importantes son las infecciones res- piratorias y las agudizaciones de enfermedades crónicas muy prevalentes como la enfermedad pulmonar obstructiva cró- nica (EPOC).
+En los Servicios de Urgencias (SU), las infecciones respi- ratorias suponen alrededor del 3% del total de las consultas y el 30% de las infecciones; existe un claro predominio es- tacional, logrando alcanzar cifras de prevalencia de hasta el 6% en los meses de invierno. La principal afectación ocurre en varones de edad avanzada y con comorbilidades tales como cardiopatía, diabetes o broncopatías.
+Las infecciones respiratorias de las vías altas son motivo de consulta frecuente en Atención Primaria, sin embargo, en el SU predominan las infecciones respiratorias de las vías bajas. En este artículo se abordarán las infecciones respirato- rias más prevalentes en el SU: bronquitis aguda, exacerba- ción de EPOC y bronquiectasias y neumonías.
+
+
+- BRONQUITIS AGUDA
+
+-- DEFINICIÓN
+
+Se describe como la inflamación de la mucosa de las vías respiratorias centrales, generalmente de carácter autolimita- do (duración entre 7-14 días), en ausencia de patología obs- tructiva crónica. Presenta una elevada incidencia, afectando al año al 5% de la población general, siendo más habitual en los meses de invierno, . Es más frecuente en niños y en fu- madores, y el principal desencadenante es un agente infec- cioso.
+
+
+-- ETIOLOGÍA
+
+--- VIRUS
+
+Es la causa de más del 90% de los casos, si bien estos solo se identifican entre un 16 y un 30% de los casos, , , . Entre ellos el virus influenza es el agente más habitual, con gran morbi- lidad asociada debido a la facilidad de contagio, seguido por el virus parainfluenza, causantes del crup en la infancia y bronquitis de repetición en el adulto, el virus respiratorio sincitial (VRS), que afecta principalmente a niños, ancianos o personas con patología crónica de base. Agentes como el coronavirus, adenovirus y rinovirus se encuentran habitual- mente asociados a infección de la vía aérea superior. En casos aislados, es secundaria a los virus del sarampión, rubeola y metaneumovirus humano.
+
+
+--- BACTERIAS
+
+Causantes del 6% de los casos de bronquitis aguda4-7. Las más asociadas a este proceso incluyen Mycoplasma pneumo- niae, Chlamydia pneumoniae, Bordetella pertussis y parapertussis, sobre todo en sujetos sanos, si bien se han descrito epidemias comunitarias como coinfección con virus respiratorios. Streptococcus pneumoniae, Moraxella catarrhalis y Haemophilus influenzae se encuentran en pacientes con enfermedades pre- existentes, como la EPOC.
+
+
+-- VALORACIÓN CLÍNICA
+
+El síntoma cardinal y la principal causa de consulta en el SU es la tos. Suele iniciarse a las 48 horas del inicio de la infección en el 85% de los pacientes. La duración media es de menos de dos semanas, si bien en un 26% continúa durante mayor tiem- po, con un mínimo porcentaje de pacientes en los que persiste más de 6-8 semanas, y en cuyo caso la probabilidad de etiolo- gía por B. pertussis es significativamente mayor , , , .
+Otros síntomas incluyen expectoración, disnea, dolor to- rácico, febrícula, escalofríos y aumento de los ruidos respira- torios. Cada uno de estos síntomas puede presentarse en distinto grado o estar ausentes.
+
+
+-- DIAGNÓSTICO
+
+Es principalmente clínico. No se dispone de datos explorato- rios patognomónicos o pruebas complementarias definiti- vas. Por tanto, los esfuerzos diagnósticos deben basarse en descartar otras patologías clínicamente semejantes.1.Analítico. Aporta escasa información. En la gripe pue- de aparecer leucopenia con linfopenia y en la infección por B. pertussis leucocitosis con linfocitosis.2.Radiológico. La radiografía (Rx) de tórax suele ser nor- mal. No está indicada de forma habitual, salvo si existiesen hallazgos semiológicos llamativos, sospecha de neumonía, situaciones de inmunodepresión o en ancianos.3.funcional. Los estudios de función respiratoria solo están indicados en pacientes con sospecha de patología obs- tructiva o en bronquitis agudas de repetición.4.Microbiológico. En el SU se dispone de pruebas de diagnóstico rápido, las cuales deben reservarse para casos es- pecíficos sobre la base de la sospecha clínica atípica, y en pacientes con riesgo de complicaciones, pacientes hospitali- zados y trabajadores del ámbito sanitario en los casos de sos- pecha de gripe durante epidemias, si bien debe comenzarse el tratamiento en el momento de la sospecha clínica.
+
+
+-- DIAGNÓSTICO DIFERENCIAL
+
+Se realizará principalmente con:1.Neumonía. De gran importancia por su mortalidad. Presenta un cuadro clínico similar (no olvidar manifestacio- nes atípicas en ancianos), de ahí la importancia de la Rx de tórax.2.Asma. Suele venir acompañada de sibilancias, taquip- nea, hipoxemia.3.Bronquiectasias. Sospechar ante tos crónica e infeccio- nes de repetición.
+
+
+-- TRATAMIENTO
+
+El tratamiento es fundamentalmente sintomático, , , . En casos de hiperreactividad bronquial, el uso de agonistas beta 2 po- dría ser beneficioso. No existen evidencias sobre el papel de los anticolinérgicos, corticoides inhalados y mucolíticos en la bronquitis aguda. Los antitusígenos se pueden emplear en casos de tos persistente irritativa durante un corto lapso de tiempo. La antibioterapia debería reservarse para casos aisla- dos (B. pertussis), ya que la principal causa de bronquitis agu- da son los virus. Asimismo, el tratamiento antivírico no se debe administrar de forma rutinaria, únicamente en aquellos casos de riesgo de complicaciones graves y durante la epide- mia de gripe. zanamivir y oseltamivir son eficaces, si se ad- ministran precozmente, en la prevención y tratamiento de las infecciones por influenza A y B.
+
+
+- EXACERBACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+-- DEFINICIÓN
+
+Se define como un evento agudo en el desarrollo natural de la enfermedad, caracterizado por un cambio en los síntomas (disnea, tos y/o expectoración) basales del paciente, más allá de la variabilidad diaria, suficiente como para justificar un cambio de tratamiento.
+Se estima que los pacientes con EPOC sufren, en prome- dio, entre 1 y 4 exacerbaciones anuales, si bien existe una gran variabilidad interindividual.
+
+
+-- ETIOLOGÍA
+
+La causa más frecuente de exacerbación de la EPOC son las infecciones respiratorias, que representan el 75% de todas las causas, . Entre los agentes etiológicos se en- cuentran:1.Bacterias: supone la causa más frecuente de exacerba-ción infecciosa. Las bacterias identificadas con mayor fre- cuencia son Haemophilus influenzae, Streptococcus pneumoniae y Moraxella catarrhalis; las enterobacterias y Pseudomonas aeru- ginosa son, sin embargo, más comunes en agudizaciones gra- ves. La presencia de esputo purulento es un criterio fiable para establecer la etiología bacteriana de la exacerbación.2.Virus: rinovirus, parainfluenza, coronavirus, adenovi- rus, VRS.3.Organismos atípicos (Chlamydophila pneumoniae, Myco-plasma pneumoniae).4.Coinfección bacterias-virus.
+
+
+-- VALORACIÓN CLÍNICA
+
+En primer lugar, para una adecuada valoración clínica se de- ben seguir los siguientes pasos.
+
+
+-- CONFIRMAR EL DIAGNÓSTICO DE EXACERBACIÓN DE LA ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA
+
+El diagnóstico previo de EPOC ha de estar establecido mediante espirometría. La agudización viene marcada por un empeoramiento mantenido de los síntomas respirato- rios, teniendo en cuenta la situación basal del paciente. Del mismo modo, el paciente no debe haber recibido tra- tamiento en las últimas 4 semanas por otra agudización, en ese caso, se trataría de recaída o fracaso terapéutico de la previa. todo paciente que acuda al SU con esta sospecha debie- ra, por tanto, disponer de una historia clínica adecuada y una exploración física completa, así como una analítica de sangre que incluya hemograma, bioquímica y gasometría arterial, Rx de tórax y electrocardiograma para descartar otros proce- sos o complicaciones añadidas.
+
+
+-- VALORAR LA GRAVEDAD DE LA AGUDIZACIÓN
+
+En la tabla 1 se reflejan los criterios de gravedad según la Guía española de la enfermedad pulmonar obstructiva cróni- ca (GesEPOC)
+
+
+-- DIAGNÓSTICO ETIOLÓGICO
+
+El análisis microbiológico (tinción de Gram, cultivo, pruebas moleculares) no se recomienda de manera general, salvo en pacientes con riesgo de infección por Pseudomonas, fracaso de tratamiento antibiótico empírico o aquellos pacientes con fallo respiratorio agudo que precisen soporte ventilatorio, .
+
+
+- TRATAMIENTO
+
+-- FARMACOLÓGICO
+
+Broncodilatadores de acción corta. Son la base del trata- miento de la agudización de la EPOC. Son de elección los betaagonistas de acción corta, si bien pueden combinarse con anticolinérgicos de acción corta, aunque no existe evidencia de que la administración combinada produzca beneficio du- rante la exacerbación. La vía de administración (dispositivos presurizados o nebulizados) dependerá de la colaboración del paciente y la necesidad de supervisión.
+Broncodilatadores de acción larga. No existe evidencia sobre su eficacia en la agudización de la EPOC, si bien se recomienda no interrumpirlos si el paciente ya los usaba pre- viamente. Las metilxantinas se desaconsejan por su elevado riesgo de efectos adversos.
+Corticoides. Se recomiendan los corticoides sistémicos en el caso de agudizaciones moderadas, graves y muy graves. Una dosis de 40 mg al día de prednisona (u otros corticoides, como
+metilprednisolona, en dosis equivalente) durante 5 días equi- vale, con menos efectos adversos, a pautas más prolongadas, por lo que se recomienda esta pauta como norma general. Se puede emplear budesonida inhalada en dosis elevadas (2 mg, 3-4 veces/día), en pacientes sin exacerbación muy grave.
+Antibioterapia. La purulencia del esputo es el signo más importante para decidir si un paciente precisa antibioterapia en una exacerbación, tanto en exacerbaciones leves como en las moderadas. En agudizaciones muy graves con necesidad de soporte ventilatorio, la cobertura antibiótica es obligada, ya que ha demostrado reducir la incidencia de neumonía se- cundaria y disminuir la mortalidad de forma significativa. El algoritmo terapéutico queda reflejado en la tabla 2 .
+
+
+-- NO FARMACOLÓGICO
+
+Constará de:1.Profilaxis de enfermedad tromboembólica venosa, en agudizaciones que requieran ingreso.2.Oxigenoterapia necesaria para mantener una satura- ción de oxígeno (SaO2) entre 88-92% y ventilación no inva- siva en casos de fracaso ventilatorio grave que curse con aci- dosis respiratoria, disnea intensa o alteración del nivel de consciencia.3.Asegurar un adecuado balance hídrico y soporte nutri- cional.
+
+
+- CRITERIOS DE DERIVACIÓN A UNA UNIDAD DE CUIDADOS INTENSIVOS
+
+Son los siguientes: parada respiratoria; inestabilidad hemodi- námica; alteración persistente del nivel de conciencia; acido- sis respiratoria grave (pH menor de 7,25 o que no mejora pese a ventilación no invasiva; disnea grave refractaria a tra- tamiento inicial; hipoxemia grave (pO2 menor de 40 mm Hg) pese a oxigenoterapia y necesidad de intubación orotraqueal
+
+
+-- CRITERIOS DE ALTA HOSPITALARIA
+
+Son los siguientes:1.No es preciso administrar broncodilatadores de acción corta con una frecuencia inferior a 4 horas.2.La disnea del paciente le permite comer y dormir sin despertares recurrentes.3.Estabilidad clínica-gasométrica-oximétrica durante 12-24 horas.4.Buen uso de la medicación y del resto de las medidas5.terapéuticas.6.Garantía de la continuidad asistencial.
+
+
+- AGUDIZACIÓN DE LAS BRONQUIECTASIAS
+
+-- DEFINICIÓN
+
+Las agudizaciones de los pacientes con bronquiectasias se definen como un deterioro clínico agudo y mantenido con respecto a su situación basal, caracterizado por un aumento de la tos habitual y cambios en la purulencia o un incremen- to del volumen/viscosidad del esputo. Se puede acompañar de fiebre, anorexia, aumento de disnea, astenia, dolor toráci- co pleurítico, hemoptisis, cambios en la exploración respira- toria, cambios en el tratamiento habitual del paciente o caída significativa de la función pulmonar, .
+
+
+-- ETIOLOGÍA
+
+Entre los patógenos aislados más frecuentemente encontra- mos:1.Bacterias. Son la principal causa de agudización de bronquiectasias. Destacan H. influenzae, P. aeruginosa, S. pneumoniae, S. aureus, M. catharrhalis y enterobacterias.2.Virus. Descritos hasta en un 25% de las agudizaciones.
+
+
+-- VALORACIÓN CLÍNICA
+
+De forma inicial, se debe confirmar el diagnóstico previo de bronquiectasias, y descartar otras enfermedades con sinto- matología similar (por ejemplo, agudización de la EPOC, neumonía, bronquitis aguda), si bien en algunos casos pue- den coexistir.
+El diagnóstico de agudización de bronquiectasias es prin- cipalmente clínico, no es preciso ningún parámetro analítico sobreañadido para su confirmación.
+Es de vital importancia distinguir las exacerbaciones le- ves o moderadas que pueden controlarse con antibioterapia vía oral, de las exacerbaciones graves que precisan de antibio- terapia intravenosa u hospitalización, y que cursan con, al menos, uno de los siguientes criterios: insuficiencia respira- toria aguda o crónica agudizada, deterioro significativo de la saturación de oxígeno, fiebre elevada u otros criterios de sepsis, hemoptisis franca o deterioro significativo de la fun- ción pulmonar. Los casos muy graves cursan con inestabi- lidad hemodinámica, alteración del nivel de conciencia y re- querirán de manejo en la UCi.
+
+
+-- TRATAMIENTO
+
+El tratamiento de elección es la antibioterapia precoz. Previo a esto se debe recoger una muestra de esputo para su estudio microbiológico. Para la elección del tratamiento antibiótico nos basaremos en la existencia de cultivos y antibiograma previos. En caso de infección bronquial previa por microorganis- mos potencialmente patógenos (MPP), se realizará un trata- miento dirigido en función del antibiograma, con modifica- ción posterior según los resultados microbiológicos del esputo o ausencia de respuesta.
+En ausencia de documentación de infección bronquial previa por MPP, en pacientes con riesgo elevado por P. aeru- ginosa (hospitalizaciones frecuentes, estancia reciente en una Unidad de Cuidados intensivos –UCi–), ciclos repetidos de antibioterapia previa, enfermedad de base grave, aislamiento anterior de P. aeruginosa) se iniciará antibioterapia con fár- macos antipseudomónicos. En caso contrario, se recomienda antibioterapia empírica que cubra los patógenos más habi- tuales (tabla 3 ). Si no existe mejoría clínica, se modificará el tratamiento en función del cultivo de esputo.
+Además del tratamiento antibiótico, es fundamental el manejo de los síntomas asociados, como el broncoespasmo mediante el empleo de broncodilatadores y la corticoterapia sistémica, así como la administración de una correcta oxige- nación y soporte nutricional.
+
+
+-- NEUMONÍAS
+
+La neumonía es uno de los motivos de consulta más frecuen- tes en el SU, generando una morbimortalidad significativa. Se pueden clasificar en:1.Neumonía adquirida en la comunidad (NAC). Se trata de una infección aguda del parénquima pulmonar adquirida fuera de un entorno de atención médica.2.Neumonía nosocomial. Es una infección aguda del pa- rénquima pulmonar adquirida en entornos hospitalarios y abarca tanto la neumonía adquirida en el hospital (NAH) como la neumonía asociada a ventilación mecánica. Distin-guimos entre: a) NAH que se presenta a partir de las 48 ho- ras del ingreso hospitalario y b) neumonía asociada a venti- lación mecánica, referida a la neumonía adquirida 48 horas o más después de la intubación endotraqueal.
+
+
+- NEUMONÍA ADQUIRIDA EN LA COMUNIDAD
+
+-- DEFINICIÓN
+
+Se define como una infección pulmonar aguda que involucra los alvéolos en un paciente sin exposición a la atención mé- dica reciente, clínicamente va desde una neumonía ambula- toria leve hasta el shock séptico. Es la primera causa de sepsis y muerte por infección en Estados Unidos. En los diferen- tes países, el número de ingresos por NAC oscila entre 1,1 y 4 por 1.000 pacientes. Por otra parte, entre un 1,2 y un 10% de los pacientes hospitalizados por NAC precisa ingreso en un servicio de medicina intensiva.
+Es más frecuente en varones, en épocas de invierno, en edades extremas de la vida y en presencia de factores de ries- go tales como el consumo de alcohol y tabaco, diabetes, mal- nutrición, insuficiencia cardíaca, enfermedad arterial corona- ria, uremia, hepatopatía o EPOC.
+
+
+-- ETIOLOGÍA
+
+Bacterias. Son las principales causantes de la NAC. El mi- croorganismo más frecuentemente aislado de NAC es S. pneu- moniae, seguido de H. influenzae, M. catarrhalis, S. aureus, Streptococci del grupo A, bacterias Gram negativas aeróbicas y anaerobios. En cuanto a los microorganismos atípicos, se en- cuentran Legionella spp., M. pneumoniae, C. pneumoniae, Chla- mydia psittaci y Coxiella burnetii .
+Virus. Virus influenza tipo A y B, rhinovirus, virus de para- influenza, adenovirus, VRS, metaneumovirus, coronani- vus.
+Hongos. Presentes generalmente en pacientes inmunode- primidos o con patología pulmonar crónica, especialmente se aíslan Aspergillus spp. y Pneumocystis jirovecii.
+Parásitos. Nematodos como Ascaris lumbricoides o Strongyloi- des stercoralis pueden provocar infiltrados alveolares eosinofí- licos; sin embargo, son una causa extremadamente infre- cuente de NAC.
+
+
+-- VALORACIÓN CLÍNICA
+
+El diagnóstico de NAC requiere la demostración de una opacidad aguda en las pruebas de imagen, en un paciente con clínica compatible con neumonía (presencia de fiebre, dis- nea, tos y expectoración).
+
+
+-- PRUEBAS COMPLEMENTARIAS
+
+Entre las pruebas complementarias a realizar en el SU se encuentran las enumeradas a continuación.
+Radiografía de tórax anteroposterior y lateral. La presen- cia de consolidaciones lobares, infiltrados intersticiales y/o cavitaciones es sugerente de proceso neumónico. La afecta- ción bilateral, bilobar o multilobar y la existencia de derrame pleural son indicadores de gravedad.
+Tomografía computadorizada. En pacientes seleccionados (inmunocomprometidos, exposiciones conocidas a patóge- nos epidémicos) con alta sospecha de NAC y una Rx de tórax normal, se puede solicitar tomografía computadorizada de tórax.
+Ecografía torácica. La ecografía torácica es un método diagnóstico alternativo, se ha mostrado que posee una alta sensibilidad y especificidad; como ventajas destaca que pue- de usarse durante el embarazo y para monitorizar compli- caciones como el derrame pleural, y como inconvenientes la necesidad de experiencia y la variabilidad según observa- dor.
+Pruebas de laboratorio. Hemograma, bioquímica elemen- tal y hemostasia. La determinación de proteína C reactiva y procalcitonina analizan la respuesta inflamatoria. Estos re- sultados informan sobre el estado del paciente y contribuyen a calcular la puntuación de diferentes escalas pronósticas y la clasificación de gravedad.
+Algunos resultados analíticos se han relacionado con di- ferentes etiologías, como la hiponatremia, la hipofosfatemia y la hematuria también se han relacionado con etiología por Legionella.
+Diagnóstico microbiológico. En el SU se dispone de pro- cedimientos de diagnóstico habituales en función del tipo de muestra: tinción de Gram y cultivo de muestra respiratoria (esputo, líquido pleural), antigenurias de S. pneumoniae y Le- gionella, hemocultivos, serologías, técnicas de amplificación de ácidos nucleicos (aspirado nasofaríngeo).
+
+
+-- ESTRATIFICACIÓN DEL RIESGO Y GRAVEDAD
+
+Existe una gran variedad de escalas pronósticas de gravedad para estratificar a los pacientes en grupos de riesgo en fun- ción de la probabilidad de muerte a los 30 días o probabili- dad de necesitar un tratamiento más agresivo. Esta estratifi- cación permite decidir el sitio más adecuado para su manejo (ambulatorio, planta de hospitalización, unidades de cuida- dos intermedios o UCi). Las dos escalas pronósticas más comúnmente utilizadas y recomendadas por las guías clínicas para el manejo de la NAC son el Pneumonia Severity Index (PSi) y el CURB-65 (Tabla 4, Tabla 5 ).
+Pneumonia Severity Index. Se estratifica a los pacientes en 5 categorías o clases (i-V) en función del riesgo de mortali- dad a los 30 días desde el diagnóstico. Las clases i-iii supo- nen una baja probabilidad de muerte (0,1-2,8%); la clase iV implica un riesgo intermedio (8,2-9,3%), mientras que la clase V engloba a los pacientes que tienen una alta probabi- lidad de muerte (27-31%). Se recomienda el tratamiento ambulatorio en las clases i-ii; la observación en unidades de corta estancia para la clase iii (siempre y cuando los pacien- tes no presenten hipoxemia) e ingreso hospitalario en las clases iV-V.
+
+
+-- TRATAMIENTO
+
+CURB-65. Se estratifica a los pacientes en tres grupos o clases de riesgo (0-1 = bajo riesgo, mortalidad 1,5%; 2 = ries- go intermedio, mortalidad 9,2%; 3-5 = alto riesgo, mortali- dad 22%). Se aconseja el ingreso hospitalario cuando la pun- tuación es mayor de 1, sobre todo si existen otros factores de gravedad como hipoxemia o afectación multilobar en la Rx de tórax.
+
+
+-- CRITERIOS DE INGRESO EN LA UNIDAD DE CUIDADOS INTENSIVOS
+
+La presencia de uno o más criterios mayores o 3 o más cri- terios menores es criterio de ingreso a la UCi.
+Los criterios mayores son: hipotensión con necesidad de administración agresiva de fluidos, necesidad de ventilación mecánica invasiva, shock con necesidad de vasopresores.
+Los criterios menores son: frecuencia respiratoria mayor de 30/minutos, índice presión parcial de oxígeno en la san-
+gre/fracción de oxígeno inspirado (PaO2 /fiO2) igual o me- nor a 250, infiltrados multilobares, confusión/desorienta- ción, uremia (BUN igual o superior a 20 mg/dl), leucopenia
+(recuento leucocitario menor de 4.000/mm3), trombocitope- nia (recuento de plaquetas menor de 100.000/mm3), hipoter- mia (temperatura central menor de 36 °C).
+Neumonía adquirida en la co- munidad no grave. El tratamien- to domiciliario consistirá en:1.Moxifloxacino 400 mg cada 24 horas por vía oral o levofloxa- cino 500 mg cada 24 horas por vía oral durante 5-7 días.2.Amoxicilina 1 g cada 8 ho- ras vía oral o amoxicilina-clavulá- nico 875 mg cada 8 horas por vía oral durante 7 días, más macróli- do (azitromicina 500 mg cada 24 horas por vía oral durante 3-5 días o claritromicina 500 mg cada 12 horas por vía oral durante 7 días).3.Cefditoren 400 mg cada 12 horas por vía oral durante 7 días más macrólido (azitromicina 500 mg cada 24 horas por vía oral du- rante 3-5 días o claritromicina 500 mg cada 12 horas por vía oral durante 7 días) (únicamente si no puede emplearse amoxicilina).
+Neumonía adquirida en la comunidad grave. ingreso hos- pitalario. El tratamiento será:1.Moxifloxacino 400 mg cada 24 horas por vía oral o intravenosa, levofloxacino 500 mg cada 24 horas por vía oral o intravenosa.2.Cefotaxima 2 g cada 6-8 horas por vía intravenosa o ceftriaxona 2 g cada 24 horas por vía intravenosa o amoxici- lina-clavulánico 1-2 g cada 8 horas por vía intravenosa más macrólido (azitromicina 500 mg cada 24 horas por vía oral o claritromicina 500 mg cada 12 horas por vía oral o intrave- nosa).
+Neumonía adquirida en la comunidad muy grave. ingre- so en la UCi. El tratamiento es el siguiente:1.Cefotaxima 2 g cada 6-8 horas por vía intravenosa o ceftriaxona 2 g cada 24 horas por vía intravenosa o amoxi- cilina-clavulánico 1-2 g cada 8 horas por vía intravenosa más macrólido (azitromicina 500 mg cada 24 horas por vía oral o claritromicina 500 mg cada 12 horas por vía intrave- nosa).2.Cefotaxima 2 g cada 6-8 horas por vía intravenosa o ceftriaxona 2 g cada 24 horas por vía intravenosa o amoxici- lina-clavulánico 1-2 g cada 8 horas por vía intravenosa más quinolona (moxifloxacino 400 mg cada 24 horas por vía in- travenosa o levofloxacino 500 mg cada 12 horas por vía intravenosa).3.Aztreonam 2 g cada 8 horas por vía intravenosa más quinolona (moxifloxacino 400 mg cada 24 horas por vía in- travenosa o levofloxacino 500 mg cada 12 horas por vía intravenosa) (si alergia a beta lactámicos).
+
+
+-- TRATAMIENTO EN SITUACIONES ESPECIALES
+
+Ver tabla 6 .
+y Enterobacter spp. (y quizás Enterococcus faecium). Estos MPP son los responsables de un 80% de los casos, con una menor prevalencia de Serratia spp., Proteus mirabilis, Stenotrophomo- nas maltophilia y también de patógenos asociados a NAC como S. pneumoniae y H. influenzae que causan el 3,7 y el 7,3% de los casos, respectivamente.
+La NAV de inicio precoz (primeros 4 días de ventilación mecánica) suele estar producida por patógenos respiratorios habituales, como S. pneumoniae, H. influenzae, S. aureus sen- sible a meticilina (SASM) y bacilos Gram negativos entéri- cos. La NAV de comienzo tardío se asocia más a menudo a flora hospitalaria, como P. aeruginosa, Acinetobacter spp. y S. aureus resistente a meticilina (SARM).
+Hongos. Principalmente Aspergillus spp., por inhalación de esporas del medioambiente (polvo, muebles y plantas). La colonización por Candida también es frecuente.
+Virus. El papel de los virus como agentes etiológicos en la NAH es desconocido.
+
+
+- NEUMONÍA NOSOCOMIAL
+
+-- INTRODUCCIÓN
+
+La NAH se define como la aparición de un nuevo infiltrado pulmonar posterior a las 48 primeras horas de ingreso hos- pitalario, con clínica compatible con etiología infecciosa (fie- bre, esputo purulento, leucocitosis, deterioro del intercam- bio gaseoso).
+Es la segunda infección nosocomial más común y la prin- cipal causa de muerte por infección nosocomial en pacientes críticos. Su incidencia varía de 5 a más de 20 casos por 1.000 hospitales, generalmente en pacientes inmunocomprometi- dos, quirúrgicos y ancianos. Entre las neumonías nosocomia- les, la neumonía asociada a ventilador (NAV) se desarrolla en pacientes que han sido ventilados mecánicamente de forma invasiva durante al menos 48 horas.
+Existe otro término, denominado neumonía asociada a la atención sanitaria, esta neumonía se define como aquella que se desarrolla en pacientes no hospitalizados con múltiples riesgos de colonización por patógenos nosocomiales multi- rresistentes tales como institucionalización, terapia de infu- sión en el hogar, diálisis crónica, atención de heridas en el hogar y contacto con sujetos previamente colonizados por patógenos multirresistentes. Estudios en los Estados Unidos muestran que la neumonía asociada a la atención sanitaria es causada por microorganismos multirresistentes; sin embargo, estudios europeos sugieren que es causado por microorganis- mos similares a los de la NAC y que son pacientes en su ma- yoría no críticamente enfermos, por lo que últimamente este término ha quedado en desuso, ya que podría ser consecuen- cia de una elevada sensibilidad, suponiendo un aumento del uso de antibióticos de amplio espectro inadecuadamente.
+
+
+-- ETIOLOGÍA
+
+Bacterias. En la NAH, los patógenos más prevalentes son
+S. aureus, P. aeruginosa, Klebsiella spp., E. coli, Acinetobacter spp.
+
+
+-- VALORACIÓN CLÍNICA
+
+Para el diagnóstico de NAH es necesaria la presencia de un nuevo infiltrado pulmonar (o progresión de uno previo), acompañado al menos de 2 de los siguientes signos sistémi- cos: fiebre mayor de 38,3 °C, leucocitosis superior a 10.000/ mm3 o leucopenia menor de 4.000/mcl y esputo purulento.
+Existen otros criterios microbiológicos diagnósticos de NAH: hemocultivo positivo no relacionado con otra fuente de infección, cultivo positivo de líquido pleural, cultivos po- sitivos en el lavado bronquioalveolar.
+La nueva normativa de la European Respiratory Society
+(ERS) considera que debería realizarse una evaluación clíni- ca rutinaria en pacientes que reciben tratamiento antibiótico por NAH o NAV. Esta evaluación clínica incluye temperatu- ra, volumen de secreciones traqueobronquiales, evaluación de la resolución de la Rx de tórax, recuento leucocitario, PaO2/fiO2 y el cálculo de las escalas como la escala ODiN (Organ Disfunction and Infection System), SOfA (Sequential Organ Failure Assessment), SAPS ii (Simplified Acute Physiolo- gical Score II), y APACHE ii (Acute Physiology And Chronic Health Evaluation) .
+
+
+-- TRATAMIENTO
+
+En la tabla 7 se recogen las recomendaciones de tratamiento empírico inicial para la NAH, según la American Thoracic So- ciety (AtS)/Infectious Diseases Society of America (iDSA) de 2016.
+
+
+- OTRAS NEUMONÍAS
+
+-- NEUMONÍA VÍRICA
+
+Los virus influenza A y B son los más frecuentes e importan- tes en términos de morbimortalidad. Puede presentarse como neumonía vírica o predisponer a la sobreinfección bac- teriana. La presentación clásica de superinfección ocurre en dos fases, en un primer momento predomina el cuadro febril y respiratorio vírico y, posteriormente, se produce un em- con reflujo gastroesofágico y pue- den exacerbar además otras enfer- medades pulmonares.
+Etiología. Los microorganismos mayormente aislados en este tipo de pacientes son los bacilos Gram negativos (49%) seguidos de anae- robios (16%) como son Peptostrep- tococcus, Fusobacterium nucleatum, Fusobacterium necrophorum, Prevote- lla, Bacteroides melaninogenicus y S. aureus (12%).
+peoramiento con el desarrollo de nuevos infiltrados. Otros virus causantes de NAC son parainfluenza y, más raramente, adenovirus y VRS.
+Tratamiento. Generalmente no se tratan los virus diferentes a la influenza detectados en pacientes inmunocompetentes; sin embargo, hay que tener en cuenta la gravedad de la neu- monía y los factores de riesgo. En pacientes inmunocompe- tentes con virus influenza positivo se puede administrar un inhibidor de la neuraminidasa:
+Oseltamivir: 75 mg cada 12 horas durante 5 días. Se ha recomendado 150 mg cada 12 horas para la gripe aviar H5N2.
+zanamivir: 2 inhalaciones de 5 mg cada 12 horas, con especial cuidado por el riesgo de broncoespasmo en pacien- tes asmáticos.
+Peramivir: 600 mg por vía intravenosa en dosis única (por la alta y sostenida afinidad por el virus).
+
+
+-- NEUMONÍA POR ASPIRACIÓN
+
+La neumonía por aspiración ocurre en pacientes debilitados o en aquellos que aspiran contenidos gástricos mientras es- tán inconscientes o durante vómitos repetidos. La neumonía resultante es en parte química, debido a los efectos extrema- damente irritantes del ácido gástrico, y bacteriana. En el cul- tivo se aíslan diversos microorganismos, siendo los aerobios más comunes que los anaerobios. La neumonía por aspira- ción a menudo se presenta con necrosis pulmonar, tiene un curso clínico fulminante y es una causa frecuente de muerte en individuos predispuestos a la aspiración. Como complica- ción frecuente destaca la formación de abscesos. Los fenó- menos de microaspiración son más frecuentes en individuos
+Tratamiento. En caso de neumo- nía aspirativa adquirida en la co- munidad se administrará ampicili- na-sulbactam (1,5 a 3 g por vía intravenosa cada 6 horas) o amoxi- cilina-clavulánico (875 mg por vía oral cada 8 horas o 2 g cada 8 horas por vía intravenosa) en pacientes que toleren la vía oral y no estén gravemente enfermos.
+En caso de neumonía aspirativa adquirida en el hospital, el trata- miento se realizará con: imipenem,
+meropenem o piperacilina-tazobactam. En pacientes con riesgo de colonización por SARM: vancomicina o linezolid.
+
+
+-- NEUMONÍA VARICELOSA
+
+La varicela es una enfermedad benigna de la infancia. Sin em- bargo, cuando afecta a adultos, puede ocasionar un cuadro gra- ve por sus complicaciones, entre las que destaca la neumonía. Afecta aproximadamente a un 15% de la población adulta, con una incidencia máxima entre la segunda y la quinta década de la vida. En la mayoría de los casos, las lesiones cutáneas pre- ceden la aparición de síntomas respiratorios, entre los que pre- dominan la disnea y la tos no productiva. A nivel radiológico, destaca un patrón intersticial, micronodular, de distribución bilateral, con predominio en bases y región perihiliar, aunque puede progresar a áreas de condensación, . Existe una diso- ciación clínico-radiológica, con expresión radiológica mayor a la esperada por la clínica, . La evolución clínica es muy varia- ble, desde hallazgos radiológicos asintomáticos, hasta la pre- sencia de neumonitis fulminante, distrés respiratorio, hipoxe- mia refractaria e incluso muerte. Es recomendable iniciar tratamiento en pacientes inmunodeprimidos, embarazadas, y en pacientes inmunocompetentes sintomáticos y/o con hipoxe- mia. El tratamiento de elección es aciclovir (dosis de 5-10 mg/ kg/8 horas durante 7-10 días)31; su administración de manera precoz se asocia a mejoría en las primeras 48 horas.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+Importante 
+Muy importante 
+Metaanálisis 
+Artículo de revisión 
+Ensayo clínico controlado 
+Guía de práctica clínica 
+Epidemiología

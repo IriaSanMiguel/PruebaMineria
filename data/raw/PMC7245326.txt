@@ -1,0 +1,136 @@
+CUIDADOS ENFERMEROS EN EL PACIENTE ADULTO INGRESADO EN UNIDADES DE HOSPITALIZACIÓN POR COVID-19
+
+
+- INTRODUCCIÓN
+
+Toda pandemia supone enormes retos a nivel sanitario, además de social y económico. Para dar una respuesta adecuada a esta urgencia por el SARS-CoV-2, es imprescindible disponer de protocolos que ayuden en la planificación, la ejecución y la toma de decisiones.
+Las enfermeras son fundamentales para aplicar los cuidados al paciente hospitalizado con COVID-19, prevenir y detectar complicaciones de forma precoz y colaborar con el equipo clínico, para valorar la respuesta del paciente al tratamiento frente al coronavirus, .
+Por todo ello, el objetivo de este artículo es aportar una serie de recomendaciones para la práctica clínica, que ayuden a protocolizar los cuidados enfermeros en pacientes adultos ingresados en Unidades de Hospitalización por COVID-19, atendiendo a estándares basados en la literatura o a la experiencia más actual en esta nueva pandemia.
+
+
+- DESARROLLO
+
+Se presentan a continuación distintos aspectos de la práctica clínica, desde aspectos generales de la atención de estos pacientes, cuidados enfermeros, y preparación al alta, hasta aspectos relacionados con la seguridad de los propios profesionales.
+
+
+-- ASPECTOS GENERALES DE LA ATENCIÓN
+
+Las recomendaciones relacionadas con la atención a pacientes hospitalizados con COVID 19 pueden agruparse en aquellas relacionadas con la organización del trabajo de los profesionales sanitarios, el aislamiento en habitaciones acondicionadas y el apoyo emocional al paciente y su familia.
+
+
+--- ORGANIZACIÓN DEL TRABAJO ADAPTADO A UNIDADES COVID-19
+
+Las recomendaciones en este apartado son las siguientes:
+
+
+--- AISLAMIENTO EN HABITACIONES ACONDICIONADAS PARA COVID-19
+
+En este caso las recomendaciones son las siguientes:
+
+
+--- APOYO EMOCIONAL AL PACIENTE Y LA FAMILIA
+
+En este caso, cabe destacar que:
+
+
+- CUIDADOS ENFERMEROS
+
+Los casos de COVID-19 pueden presentar cuadros leves, moderados o graves, incluyendo neumonía, síndrome de distrés respiratorio agudo (SDRA), sepsis y shock séptico. La identificación temprana de aquellos casos con manifestaciones graves permite la realización de tratamientos de apoyo optimizados de manera inmediata y un ingreso seguro y rápido en la Unidad de Cuidados Intensivos (UCI) de acuerdo con los protocolos existentes.
+El reconocimiento de los signos y los síntomas de mal pronóstico, empeoramiento respiratorio y agravamiento clínico, favorece que las enfermeras actúen de forma más eficiente y precoz, notificándolo al médico responsable, aplicando los tratamientos pautados en esos casos y ejecutando las intervenciones que garanticen la estabilización de los pacientes, .
+
+
+-- CONTROL DE SIGNOS Y SÍNTOMAS
+
+En relación al control de signos y síntomas:
+
+
+-- MONITORIZACIÓN DE LA SATURACIÓN DE OXÍGENO Y ADMINISTRACIÓN DE OXIGENOTERAPIA
+
+En este apartado hay que tener en cuenta que:
+
+
+-- DETECCIÓN PRECOZ DE AGRAVAMIENTO CLÍNICO Y ACTUACIÓN
+
+Es fundamental saber reconocer la insuficiencia respiratoria hipoxémica grave en los pacientes con disnea que no respondan a la oxigenoterapia convencional. Hay que tener en cuenta que incluso cuando se administra oxígeno a flujos altos con una mascarilla equipada con bolsa reservorio, es posible que los pacientes sigan presentando hipoxemia o un mayor trabajo respiratorio. La insuficiencia respiratoria hipoxémica en el SDRA suele requerir ventilación mecánica, .
+Si aparece un agravamiento brusco de la disnea, con incremento del trabajo respiratorio, FR > 25 rpm y SaO2 < 90%, se avisará de manera urgente al médico. En esa situación crítica, colocar al paciente en decúbito prono, , monitorizar de forma continua la SaO2 de oxígeno y no dejarlo solo en ningún momento. Alertar de la preparación del carro de parada cardiorrespiratoria, mientras llega el médico, para su valoración y posible ingreso en la UCI.
+
+
+-- TRATAMIENTOS DISPONIBLES PARA EL MANEJO DE LA INFECCIÓN RESPIRATORIA POR SARS-COV-2
+
+Las enfermeras deben conocer los tratamientos farmacológicos que se prescriben en estos casos, el manejo y la administración adecuada de los mismos, las recomendaciones de dosis, advertencias y precauciones, posibles reacciones adversas e interacciones, .
+Antes de la administración de determinados fármacos, es necesario contar con el consentimiento del paciente, quedando constancia en la historia clínica electrónica. Asimismo, se suele realizar un electrocardiograma para referencia basal y tras el inicio del tratamiento, se realiza diariamente para control del tiempo QT y otras alteraciones.
+Dentro de las estrategias terapéuticas puestas en marcha con relación a la infección respiratoria por SARS-CoV-2 se pueden encontrar los siguientes fármacos: remdesivir, lopinavir/ritonavir, cloroquina/hidroxicloroquina, tocilizumab, sarilumab, interferón beta-1B e interferón alfa-2B. Distintos aspectos se tendrán en cuenta en cuanto a la administración de tratamiento sintomático, nutrición/hidratación y actividad, descanso y sueño:
+
+
+-- ADMINISTRACIÓN DE TRATAMIENTO SINTOMÁTICO
+
+
+
+
+-- NUTRICIÓN/HIDRATACIÓN
+
+–El estado clínico del paciente y la aparición de determinados signos y síntomas (anosmia, pérdida de apetito, náuseas, vómitos, diarrea), asociados a la enfermedad o como efecto secundario de algún tratamiento antiviral, supondrá la necesidad de adaptar la alimentación/hidratación a la situación clínica y tolerancia del paciente.–Valorar la necesidad de realizar controles en el balance hidroelectrolítico.–Administrar fármacos antieméticos o antidiarreicos, según pauta establecida y evaluar efectividad. Comentar al médico la necesidad de cambiar tratamiento farmacológico oral por pauta intravenosa.
+
+
+-- ACTIVIDAD, DESCANSO Y SUEÑO
+
+
+
+
+-- CUIDADOS PALIATIVOS
+
+El equipo de cuidados paliativos se encargará de proporcionar el máximo comodidad, bienestar para el paciente y familia, en la etapa final. Para la planificación de cuidados paliativos en pacientes con COVID-19 se recomienda tener en cuenta determinados aspectos del paciente (salud física y mental previa, conocer sus deseos, existencia de documento de últimas voluntades) y familia (opinión sobre la limitación del esfuerzo terapéutico), siempre que haya sido posible disponer de dicha información, .
+Se recomienda ofrecer la posibilidad de que un familiar (menor 60 años, no embarazada, sin enfermedad crónica o inmunocomprometido) acompañe al paciente en casos de situación preagónica.
+
+
+- PREPARACIÓN DEL ALTA
+
+-- ALTA HOSPITALARIA
+
+Los hospitales deben contar con protocolos que establezcan los criterios orientativos para el alta del paciente hospitalizado.
+
+
+-- ALTA POR FALLECIMIENTO
+
+Los hospitales deben contar con un procedimiento sobre gestión de pacientes fallecidos por COVID-19, para una actuación diligente y rápida, ya que el cadáver debe ser transferido lo antes posible al depósito después del fallecimiento.–Antes de proceder al traslado del cadáver, se valorará la posibilidad de permitir el acceso a algún familiar con el EPI adecuado.–Todas las personas que participen en el traslado del cadáver desde la habitación deberán estar provistas de los EPI adecuados.
+
+
+- CONSIDERACIONES PARA LA SEGURIDAD DE LOS PROFESIONALES
+
+-- EQUIPOS DE PROTECCIÓN INDIVIDUAL
+
+El personal sanitario que atienda a casos de infección por SARS-CoV-2 o las personas que entren en la habitación de aislamiento debe llevar un EPI para la prevención de infección por microorganismos transmitidos por gotas y por contacto que incluya bata, mascarilla (quirúrgica o FFP2, según el tipo de procedimiento a realizar), guantes y protección ocular, , . Además, hay que tener en cuenta que:
+
+
+-- FORMACIÓN PARA LA REALIZACIÓN SEGURA DE PROCEDIMIENTOS EN UNIDADES COVID-19
+
+Los hospitales deben capacitar al personal en el control de infecciones y proporcionar un ambiente de trabajo seguro para el equipo asistencial y para los pacientes a los que atienden, , . Es de obligado cumplimiento la formación ofrecida por el centro sobre colocación y la retirada del EPI.
+Además, el centro deberá ofertar formación específica sobre temas relacionados con la COVID-19 y facilitar el acceso a la documentación creada durante esta pandemia para conocer todos los procedimientos y protocolos aplicables en el entorno de la COVID-19.
+
+
+-- APOYO EMOCIONAL A PROFESIONALES Y SU FAMILIA
+
+Los profesionales que están en contacto con los pacientes infectados pueden sentirse vulnerables, experimentar un fuerte estrés psicológico, miedo, agotamiento físico y emocional o tener problemas para descansar/dormir. Asimismo, los familiares de los profesionales pueden vivir la experiencia con dificultad y afectación emocional. Por ello, es fundamental contar con recursos de apoyo a la salud mental de los trabajadores y sus familias en el propio centro, a nivel regional o a nivel nacional (Ministerio de Sanidad), .
+
+
+-- ATENCIÓN DEL SERVICIO DE PREVENCIÓN DE RIESGOS LABORALES
+
+El personal sanitario necesita un seguimiento activo si desarrolla síntomas de infección o contacto con paciente confirmado por infección por SARS-CoV-2, . Cada hospital tendrá un procedimiento que incluya la recomendación de aislamiento domiciliario, realización de reacción en cadena de la polimerasa para COVID-19 y la reincorporación laboral con base en criterios preestablecidos.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+La pandemia de la COVID-19 ha desbordado el número de ingresos hospitalarios en España, que con fecha 1 de abril de 2020 sumaban 51.418 casos, sobre todo en Madrid y Cataluña. Esta situación crítica y emergente supuso un gran reto en la reorganización de los servicios sanitarios y no sanitarios de los hospitales, la reestructuración de los espacios, la elaboración de documentos para apoyo clínico y de gestión, que dieran respuesta a todos los interrogantes que surgían relacionadas con el entorno de trabajo COVID-19 y la necesidad de crear y actualizar protocolos y procedimientos, que cubrieran todas las esferas de la atención en esta situación, con muchas exigencias dadas sus múltiples particularidades.
+Los cambios subyacentes a la atención de este tipo de pacientes ingresados por el nuevo coronavirus, y dadas las características epidemiológicas y clínicas de la COVID-19, hacían necesaria, de forma inminente, la elaboración de protocolos de cuidados que ayudaran a los equipos enfermeros a desarrollar su actividad clínica con la máxima seguridad y eficacia en la atención de este tipo de pacientes.
+El reto de las direcciones de Enfermería en una pandemia como la actual es la puesta en marcha de mecanismos que garanticen la presencia óptima de profesionales por número de pacientes, la formación de profesionales para atención de pacientes con COVID-19, la coordinación organizativa y la facilitación de recursos materiales, así como la elaboración de protocolos y procedimientos propios o en colaboración con otras disciplinas para ofrecer la mejor atención posible en un entorno seguro.
+Contar con documentos como el presente puede ayudar a enfermeras y a enfermeras gestoras a elaborar sus propios protocolos de cuidados adaptados a sus centros de trabajo.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran ningún conflicto de intereses.

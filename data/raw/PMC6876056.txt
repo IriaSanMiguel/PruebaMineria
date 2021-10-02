@@ -1,0 +1,127 @@
+EFECTO DE UN PROGRAMA LÚDICO DE ACTIVIDAD FÍSICA GENERAL DE CORTA DURACIÓN Y MODERADA INTENSIDAD SOBRE LAS CIFRAS DE PRESIÓN ARTERIAL Y OTROS FACTORES DE RIESGO CARDIOVASCULAR EN HIPERTENSOS MAYORES DE 50 AÑOS
+
+
+- INTRODUCCIÓN
+
+La hipertensión arterial (HTA) es el aumento crónico o persistente de la presión arterial sistólica (PAS) superior o igual a 140 mmHg y/o una presión arterial diastólica (PAD) superior o igual a 90 mmHg.
+La importancia de la enfermedad hipertensiva radica en dos aspectos fundamentales: su alta frecuencia y su trascendencia. Es la enfermedad crónica más frecuente de la humanidad, presentando una prevalencia del 30-45% en la población en general y aumentando fuertemente con el envejecimiento y en los países con ingresos más bajos, .
+En cuanto a su trascendencia, la HTA es difícil de controlar, peligrosa y costosa para el sistema sanitario. Es el principal factor de riesgo cardiovascular (FRCV) y la causante del 58% de las muertes, por enfermedad cardiovascular (ECV). Estas son la primera causa de morbimortalidad en los países industrializados, responsables solo en 2012 de 17,5 millones de muertes de menores de 70 años en todo el mundo (46% de todas las muertes por enfermedades no transmisibles), y encontrándose a la cabeza en España como causa de muerte (30,1% de las defunciones totales del país en 2013).
+En España, solo 5 de cada 10 hipertensos de la población general presentan una HTA controlada. Por ello continuamente se buscan tratamientos para controlarla, tendiendo a pensar en el tratamiento farmacológico como única terapia eficaz y olvidando otras medidas menos costosas, más sencillas y que pueden resultar igualmente efectivas, como la dieta y la actividad física (AF) regular, resaltando esta última por su ya demostrada eficacia sobre la HTA y otros FRCV, , , .
+El sedentarismo en la población española es muy alto (el 54,7% de la población en 2014), y además existe la creencia de que solo se obtienen beneficios sobre la salud practicando ejercicios extenuantes, excusa perfecta para que las personas inactivas no los incorporen a sus hábitos diarios por motivos varios.
+Sería interesante utilizar programas de media intensidad y corta duración donde se trabajen varias cualidades mediante la AF general, que tuvieran un perfil lúdico, para incentivar a la población a practicar ejercicio físico de forma habitual e incorporarlo en su vida diaria. Pero ¿son realmente eficaces estos programas para conseguir beneficios saludables a corto plazo?
+El objetivo de este estudio es evaluar el efecto de un programa de AF general de intensidad moderada, desarrollado en 3 sesiones semanales de 60 min, durante 4 semanas, sobre las cifras de HTA y otros FRCV en mayores de 50 años.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Se trata de un estudio cuasi-experimental, no aleatorizado y sin grupo control. Hay un único grupo donde se analizaron las variables antes y después de la intervención.
+
+
+-- MUESTRA
+
+El estudio se realizó en Íllora, municipio granadino que en 2013 presentaba una población de 10.638 habitantes, dedicados principalmente al sector primario. Estaba dirigido a personas entre 51-75 años de la localidad, diagnosticadas de hipertensión crónica desde al menos 3 años y sedentarias.
+
+
+--- CRITERIOS DE INCLUSIÓN
+
+Hipertensos pertenecientes al Programa de Hipertensión del Centro de Salud, de entre 51 y 75 años y sedentarios.
+
+
+--- CRITERIOS DE EXCLUSIÓN
+
+Antecedentes de ECV (insuficiencia cardiaca, cardiopatía isquémica, infarto agudo de miocardio, accidente cerebrovascular), limitación importante de la movilidad que impida la participación en el programa, presentar molestias durante la práctica de AF (dolor en el pecho, ahogo o fatiga intensa) y riesgo REGICOR muy alto (por encima del 15%).
+
+
+--- SELECCIÓN DE LA POBLACIÓN DE ESTUDIO
+
+Se realizó entre abril-mayo de 2013.
+De los 10.638 habitantes que cubre el Centro de Salud, 1.308 pertenecían al cupo del médico colaborador del estudio. De todos ellos, 142 estaban incluidos en el programa de hipertensos del Centro de Salud. Se excluyeron aquellos que tenían problemas graves de movilidad o dependencia, o habían sufrido algún episodio de ECV. De todos ellos, solo 82 acudieron a la reunión informativa, donde se les pasó un cuestionario. Ocho sujetos rechazaron participar. Tras analizar el cuestionario y los datos del pretest, 10 sujetos fueron rechazados por presentar criterios de exclusión. Comenzaron 64 sujetos, pero solo 60 completaron el 80% del programa (2 abandonaron y 2 acudieron de forma irregular). Finalmente la muestra fue de 60 sujetos: 20 hombres (33,34%) y 40 mujeres (66,67%). Todos fueron informados de los objetivos de la investigación, de la intervención a realizar y firmaron su consentimiento. De todo ello fue informado el comité de Ética.
+El proceso de selección puede verse resumido en el esquema general del estudio.
+
+
+-- RECOGIDA DE DATOS
+
+Se analizaron los siguientes parámetros:
+Las características principales de la muestra y la medicación habitual que tomaban se muestran en la tabla 1.
+
+
+-- INTERVENCIÓN
+
+El programa de AF era de carácter grupal pero se atendían las necesidades o peculiaridades de cada individuo, adaptándolo en las situaciones necesarias.
+Las sesiones del programa fueron dirigidas y supervisadas por un monitor licenciado en Educación Física entrenado para ello. Se subdividió al grupo de 60 sujetos en 4 grupos de unas 15 personas para una mejor atención individual.
+Se realizaron 3 sesiones/semana, durante 4 semanas, en junio de 2013. La duración y la intensidad fueron variando del siguiente modo: durante la primera semana las sesiones fueron de 45 min, con una intensidad de la parte principal del 45-50% de la FC Reserva. La duración de las sesiones se amplió a 60 min en la segunda semana sin modificar el resto de parámetros. En la tercera semana se incrementó la intensidad al 50-55% de la FC Reserva, siendo la duración de nuevo de 45 min, para volver a ampliar el tiempo a 60 min en la última semana.
+La intensidad de la sesión se midió mediante pulsómetros programados individualmente para que trabajaran en su franja propia de FC Entrenamiento.
+Se trabajó resistencia, fuerza, flexibilidad, coordinación, aunque predominó ligeramente el ejercicio aeróbico, pues sus beneficios sobre la HTA son los más estudiados, . Para ello se hicieron circuitos adaptados (con bandas elásticas, ejercicios de autocargas, mancuernas ligeras), se emplearon pelotas, picas, aros o globos (para la coordinación espacial y óculo-manual), se entrenó mediante desplazamientos a distintos ritmos, direcciones e intensidades, y se trabajaba la flexibilidad al final de todas las sesiones.
+Se consideró importante trabajar varias cualidades y elaborar sesiones lúdicas para que los sujetos se divirtieran y experimentaran beneficios perceptibles a la hora de realizar las actividades de su vida diaria, y reforzar así la adhesión al estudio y a la AF en sí. Por ello los ejercicios se realizaban combinándolos con música, baile, juegos y circuitos.
+Las sesiones se dividían en 3 partes: calentamiento o activación (10 min), parte principal (30-45 min) y vuelta a la calma o recuperación (5-10 min).1.Calentamiento o activación. Activación neurovegetativa progresiva, comenzando con ejercicios de marcha y desplazamientos varios, combinándolo todo con movimientos de miembros superiores. El ritmo, la dirección y el sentido del desplazamiento se iban modificando gradualmente. Por último, ejercicios de movilidad articular.2.Parte principal. Fase en la que se trabajaba a la intensidad requerida en este estudio: entre el 45-55% de la FC de Reserva.3.Recuperación. Se realizaban ejercicios de recuperación activa de la FC Reposo mediante juegos, desplazamientos, estiramientos, masajes con pelotas y ejercicios de relajación.
+Para el cálculo de la FC de Entrenamiento de cada sujeto (45-55% FC Reserva, en función de la semana en la que se estuviera) se utilizó el método de Karvonen:FC Reserva = FC máx − FC ReposoFC Entrenamiento (al 45% FC Reserva) = 0,45 × FC Reserva + FC ReposoFC Entrenamiento (al 55% FC Reserva) = 0,55 × FC Reserva + FC Reposo
+Existen multitud de fórmulas para el cálculo de la FC máxima que se ajustan bastante a la realidad. Sin embargo, se escogió la ecuación para hipertensos de Graettinger por ajustarse mejor a las características de nuestra población de estudio:
+FC max teórica = 200 − 0,71 edad.
+
+
+-- ANÁLISIS DE DATOS
+
+Se hizo un estudio descriptivo de los pacientes y se comparó la HTA media (sistólica y diastólica), la FC Reposo, el IMC, el colesterol total, HDL, LDL, los TG y la glucemia antes y después de la intervención, utilizando una prueba para muestras relacionadas de la t de Student mediante el paquete estadístico SPSS Statics 17.0. Por otro lado, también se analizaron los cambios que se dieron en las variables en función del sexo (ANOVA). En todos los análisis se consideró estadísticamente significativa una p < 0,05.
+
+
+- RESULTADOS
+
+Tras el programa de AF propuesto, los resultados obtenidos fueron los mostrados en la tabla 2. Se encontró que las cifras de IMC, FC, PAS, PAD, glucemia, LDL y riesgo REGICOR disminuyeron, mientras que el HDL y los TG aumentaron, todo de forma estadísticamente significativa. Se puede observar que las mayores variaciones se dieron en riesgo REGICOR, PAS, FC, PAD, TG y HDL, como se muestra en la tabla 3.
+En cuanto al HDL, al inicio un 8,33% de los sujetos se encontraba en valores superiores a 60 mm/dl (rango de protección). Tras la intervención esta cifra aumentó hasta el 13,33%.
+
+
+-- RESULTADOS SEGÚN CIFRAS INICIALES DE ÍNDICE DE MASA CORPORAL O DE PRESIÓN ARTERIAL SISTÓLICA
+
+Se realizó un nuevo análisis según los valores iniciales de los sujetos en el pre-test del IMC y de la PAS que se comentan a continuación.
+Los sujetos con IMC inicial < 30 mostraron cambios estadísticamente significativos en las cifras de FC, PAS, PAD, glucosa (disminución) y HDL (aumento), mientras que en aquellos con IMC inicial ≥ 30 se dieron disminuciones en IMC, FC, PAS, PAD y LDL, y aumento de la glucosa.
+En función de la PAS inicial, aquellos con PAS < 160 mmHg obtuvieron disminuciones estadísticamente significativas de los valores de FC, PAS, PAD y LDL, y aumento del HDL. En los sujetos con PAS iniciales ≥ 160 mmHg se redujo su FC, PAS, PAD y glucemia, y aumentaron los TG.
+
+
+-- RESULTADOS EN FUNCIÓN DEL SEXO
+
+Las variaciones fueron diferentes entre hombres y mujeres tras la intervención: las mujeres experimentaron las mayores disminuciones estadísticamente significativas de la PAS (−15,725 mmHg en mujeres frente a −13 mmHg en varones, p = 0,001), mientras que la FC y la PAD se redujeron más en los hombres (en FC, −9,7 lat/min en varones frente a −3,5 lat/min en mujeres, p = 0,000; en PAD, −7,35 mmHg en varones frente a −4,35 mmHg en mujeres, p = 0,036). No se encontraron diferencias estadísticamente significativas al analizar el resto de las variables según sexo.
+
+
+-- SUJETOS DENTRO DE CIFRAS PATOLÓGICAS Y CIFRAS NORMALES DE PRESIÓN ARTERIAL
+
+Las modificaciones experimentadas por los sujetos se aprecian de forma mucho más clara si se analiza el porcentaje de sujetos que se encontraba en valores normales y en valores patológicos de presión arterial (PA) antes y después de iniciar el tratamiento . Como se puede observar, antes del programa había 48 sujetos (80% de la muestra) con una PAS dentro de niveles patológicos según la Sociedad Europea de Hipertensión, y solo 12 personas (20%) estaban dentro de una PAS saludable. Tras la intervención las cifras patológicas de la PAS disminuyeron a 26 (43,34%) y el número de sujetos con una PAS normal aumentó a 34 (56,67%).Figura 1
+Si nos fijamos en la PAD inicial, vemos que el número de sujetos con una PAD inicial patológica se elevaba a 21 (35% de la muestra), mientras que con una PAD dentro de la normalidad era de 39 (65%). Tras el programa de AF la cifra de sujetos dentro del rango patológico se redujo a 12 (20%), y por tanto los individuos en el rango saludable aumentaron a 48 (80%) .
+Tomando como referencia el riesgo REGICOR inicial y final, se observa que tras la intervención el 65% de los sujetos disminuyeron su riesgo inicial, el 11,67% lo aumentaron, y el 23,34% de estos permanecieron con el mismo riesgo cardiovascular. Así, el número de sujetos dentro del riesgo muy alto permaneció igual, el riesgo alto pasó de 17 sujetos a 7 tras la intervención (porcentaje de variación del −58,82%), el riesgo moderado se mantuvo casi igual, con 31 sujetos al inicio y 30 sujetos en el post-test (porcentaje de variación del −3,22%), y el riesgo bajo aumentó de 10 sujetos a 21 (porcentaje de variación del +110%) tras el programa de AF (p = 0,000).
+
+
+- DISCUSIÓN
+
+En el presente estudio se analizó el efecto de un programa estructurado y protocolizado de AF general, de intensidad moderada, sobre la PA y otros FRCV. A la luz de los resultados obtenidos, parece que existe una mejora cardiovascular de los sujetos estadísticamente significativa, ya que se redujeron las cifras de PAS, PAD, FC Reposo e IMC, y aumentaron las de HDL, . Todo ello de forma segura, económica y factible.
+Los mayores descensos de la PA se dieron en los sujetos con cifras iniciales ≥ 160 mmHg , lo que parece lógico, pues reduce más el que más sobrepasa los valores normales.
+Los resultados parecen indicar que el programa presenta un grado de efectividad distinto en determinadas variables, como FC, PAS o PAD, según sean hombres o mujeres.
+Como mejor se pueden apreciar los resultados de este estudio es comparando el número de sujetos que se encontraba con cifras patológicas de HTA al inicio del programa, y el número final, pues se observa perfectamente que se puede retornar a cifras de normalidad a través de la AF . Esto, unido al aumento del HDL, que ejerce un efecto protector cardiovascular, parece traducirse en una disminución importante del riesgo REGICOR de la muestra, pues este riesgo depende directamente de la edad, del sexo, de la PAS y de la PAD, e inversamente de los niveles de HDL.
+Numerosos autores han estudiado el efecto de la AF general de intensidad moderada sobre diversos FRCV, obteniendo resultados similares a los nuestros. Así, García et al., al analizar el efecto de un programa general de acondicionamiento físico (CIMEQ) principalmente aeróbico, 3 veces/semana y de 6 meses de duración, obtuvieron reducciones significativas de la PAS, de la PAD y de la FC. También disminuyeron el peso, el IMC, el porcentaje de grasa corporal, y aumentó el VO2max. En cuanto al perfil hematológico, disminuyó el colesterol total, la glucemia y los TG, y aumentó el colesterol HDL. Luego, aunque no fue calculado, también mejoraría el riesgo REGICOR, el cual depende de las cifras de PA y de colesterol HDL, como ya hemos dicho.
+Kawasaki et al. también obtuvieron descensos estadísticamente significativos en las cifras de PAS, PAD, glucosa y lípidos tras aplicar durante 6 meses su programa de entrenamiento de intensidad leve-moderada (principalmente natación).
+García et al., tras su programa de ejercicio con ritmo en hipertensos, encontraron diminuciones estadísticamente significativas en PAS y PAD.
+Sin embargo, otros autores difieren en algunos de los resultados obtenidos por nosotros. Cornelissen et al. compararon el efecto del entrenamiento de baja y alta intensidad sobre las cifras de PA, las características antropométricas y el perfil lipídico. Concluyeron que las cifras de PAS disminuían de forma similar con intensidades altas y bajas, mientas que la PAD, el peso, la grasa corporal, los TG y el LDL solo experimentaban cambios significativos con intensidades altas. No hubo cambios en cuanto al colesterol total, colesterol HDL y ratio colesterol total/colesterol HDL.
+Martin-Valero et al. no obtuvieron cambios estadísticamente significativos a nivel antropométrico ni en el perfil lipídico tras 3 meses de entrenamiento. Sí hubo cambios en la concentración de hematíes en las mujeres.
+Caro et al. compararon el efecto del ejercicio aérobico de intensidad moderada con un grupo control sedentario. Sus resultados mostraron mejoras significativas con respecto al HDL y los TG, así como en la sensibilidad a la insulina. No hubo variaciones en el colesterol total y el LDL.
+Creemos que con nuestro programa era importante incidir de forma positiva sobre la HTA, ya que es uno de los FRCV más importante por su alta prevalencia, su morbimortalidad y el coste sanitario que conlleva. Multitud de estudios han demostrado que la AF, desde intensidades moderadas a altas, disminuye los FRCV, , . Entre otros motivos porque el ejercicio físico participa en la reducción de la rigidez arterial al aumentar los niveles séricos de óxido nítrico (el cual participa en la relajación endotelial), y su producción es estimulada por la adropina, la cual también se incrementa con el ejercicio. Por ello, varios autores coinciden en que la AF regular, a cualquier intensidad, se asocia con una disminución de la rigidez arterial, bajando los niveles de PA.
+Pese a la gran cantidad de literatura existente sobre el tratamiento y gestión de la HTA mediante el ejercicio, no existe un protocolo definido como el más eficaz, debido a la heterogeneidad de los estudios realizados por las distintas organizaciones, , con las que se obtienen magnitudes de descenso de la PA muy variables entre los trabajos. Por ello, pese a que recomendaban el ejercicio aeróbico, no había consenso en cuanto a la Frecuencia, Intensidad, Tiempo y Tipo de ejercicio (FITT) entre las organizaciones.
+Aun así, se aconsejaba de forma general realizar AF moderada un mínimo de 30 min, 5 días/sem (o 150 min/semana), o su equivalente en AF Vigorosa (75 min/semana), , .
+Sin embargo, a la luz de los últimos estudios parece que se obtienen mejores resultados si se combinan actividades aeróbicas con actividades de resistencia, , . Por ello Pescatello et al. proponen nuevas pautas para el ejercicio en HTA consistentes en combinar ejercicio aeróbico de intensidad moderada (30 min/día) con ejercicio de resistencia dinámica (2-3 día/semana), resultando unos 150 min/semana o más de ejercicio.
+En nuestro estudio, siguiendo las recomendaciones, se realizaron 3 sesiones de 60 min durante 4 semanas, de forma que se acumulaban 180 min/semana, buscando los beneficios por el tiempo total acumulado; sin embargo, el tipo de AF fue combinando trabajo de varias cualidades físicas (fuerza, resistencia, coordinación, flexibilidad), aunque predominando la aeróbica. Por un lado, y siguiendo las intuiciones de diversos autores, queríamos averiguar si se obtendrían beneficios realizando un programa donde se combinaran distintas cualidades físicas, y no solo trabajar ejercicio aeróbico puro, , . Y por otro, buscábamos fomentar la parte lúdica de la AF y reforzar así la adherencia a nuestro estudio y al ejercicio físico en general.
+Y es que para que las personas practiquen AF regular es primordial que los sujetos cambien su manera de percibirla y la realicen por gusto en su tiempo libre. Está demostrado que la AF de ocio, de intensidad moderada a alta, se asoció a una ligera disminución del riesgo de ECV, mientras que la AF ocupacional/laboral a iguales intensidades se relacionó con un ligero aumento del riesgo de ECV. Luego, no se pueden conformar con la AF que se realice en el trabajo. Hay que ir más allá.
+Buscábamos que los sujetos apreciaran los beneficios que les aporta la AF en su vida diaria a nivel físico, emocional y social, y que lo introdujeran en sus vidas como actividad ociosa. Es la única manera efectiva de mejorar la adherencia, ya que la motivación para ser sujetos activos y realizar ejercicio se basa en fundamentos intrínsecos de bienestar, diversión, mejora de la condición física y reducción del estrés. No en fomentar la salud.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+Se utilizó un diseño cuasi-experimental, sin grupo control, con un único grupo de estudio al que se le aplicó el programa de AF, evaluando sus resultados en función del pre-test y el post-test. Con este diseño es posible inferir relaciones causales entre el programa de AF y las variables analizadas, pero existe la posibilidad de que haya variables extrañas que afecten a los resultados.
+El tamaño de muestra es pequeño, luego existe el riesgo de que no sea representativa de la población general, pues el grupo de intervención se formó por conveniencia (pertenecer al programa de hipertensos y cumplir criterios de inclusión/exclusión). Esto puede amenazar a la validez externa del estudio.
+Habría sido interesante analizar si este tipo de AF con matices lúdicos generaba mayor adherencia en la población tras finalizar la intervención, y realizar un seguimiento del tiempo que duraba esa adherencia a la vida activa, pero lamentablemente no se hizo.
+Nuestra propuesta de futuro es repetir este estudio ampliando el tamaño de muestra, contando con población normotensa, prehipertensa e hipertensa, y realizarlo con un diseño experimental, con varios grupos de intervención, para evaluar los distintos efectos variando el número de sesiones, el tipo AF general combinada (donde predomine ejercicio aeróbico, resistencia dinámica o ambos), sesiones lúdicas versus sistemáticas y tiempo de duración de las sesiones.
+Por todo lo expuesto anteriormente, y como conclusión, parece que nuestro programa de AF de intensidad moderada y corta duración, de marcado aspecto lúdico, y donde se combinan distintas cualidades físicas con la capacidad aeróbica, es efectivo para mejorar las cifras de PA y diversos FRCV, así como el riesgo REGICOR, en hipertensos sedentarios mayores de 50 años.
+Esperamos contribuir con nuestro programa en la lucha contra la HTA y otros FRCV, de manera rigurosa pero también divertida, eficaz y económica, que ayude a mejorar la adherencia de los sujetos hipertensos a la AF como parte de su ocio pero también como parte de su tratamiento de primera línea, y desechar la idea de que solo el tratamiento farmacológico puede ocupar ese lugar.Lo conocido sobre el tema-Desde hace muchos años, las distintas organizaciones vienen recomendando el ejercicio aeróbico para mejorar la presión arterial y los FRCV, aunque no se ponen de acuerdo en cuanto al FITT (Frecuencia, Intensidad, Tiempo y Tipo de actividad).-Los estudios de los últimos años sugieren que para mejorar la presión arterial y los FRCV es más efectivo realizar ejercicio aeróbico combinado con ejercicios de resistencia dinámica, y por ello Pescatello hace unas recomendaciones en cuanto al FITT.-Los sujetos sedentarios no practican ejercicio pues no les gusta, por lo que deben encontrar la motivación y el interés adecuados para ello, que en la mayoría de los casos es bienestar y diversión; así que, además de planificar y poner en marcha un buen programa adecuado con las recomendaciones de Pescatello, tiene que generarse adherencia a este.Qué aporta este estudio-La actividad física puede ser utilizada como una potente arma terapéutica de primer orden, y no como un simple complemento al tratamiento farmacológico, pues ya hay estudios que demuestran que puede generar mejoras similares.-Nuestro programa, con orientación lúdica, de corta duración y moderada intensidad genera mejoras cardiovasculares importantes y perceptibles por el sujeto.-Este programa es sencillo y divertido, estimula las relaciones sociales y puede incentivar a practicar ejercicio físico de forma habitual, mejorando así la adherencia en los sujetos mayores de 50 años, cosa un tanto más complicada si queremos utilizar programas más largos, monótonos o con intensidades mayores.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

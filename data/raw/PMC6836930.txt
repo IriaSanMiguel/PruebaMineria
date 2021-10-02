@@ -1,0 +1,84 @@
+EJERCICIO MODERADO Y CONSUMO DE ALIMENTOS DE ALTO Y BAJO ÍNDICE GLUCÉMICO EN MUJERES SEDENTARIAS
+
+
+- INTRODUCCIÓN
+
+El sobrepeso y la obesidad se han visto incrementados por un estilo de vida sedentario y la ingesta de alimentos de alta densidad energética. Las modificaciones positivas en el estilo de vida, que se refieren al aumento de la práctica de ejercicio físico y el aporte nutricio correcto, son la piedra angular en el tratamiento de la OB y sus comorbilidades.
+Se ha observado que un mayor consumo de hidratos de carbono (HC) con alto índice glucémico (AIG) provoca que el individuo se sienta poco satisfecho, aumentando el deseo de comer, ya que este tipo de HC se caracterizan por un rápido incremento de la glucemia posprandial y de la secreción de la insulina, generando una hipoglucemia secundaria que, aunada a una actividad física insuficiente, puede contribuir a la resistencia a la insulina en individuos con sobrepeso y obesidad, lo que genera a largo plazo el desarrollo de diabetes mellitus tipo 2, contrariamente a lo que puede ocurrir con el consumo de alimentos de bajo índice glucémico (BIG).
+A pesar de que la práctica regular de ejercicio físico representa una herramienta potente para modificar y promover la movilización de las grasas y el balance en su uso como sustrato energético durante un esfuerzo aerobio moderado, se ha observado que en las personas con sobrepeso u obesidad no ocurre así, . Es probable que el elevado consumo de alimentos de AIG estimule la lipogénesis y la inhibición de la lipólisis, lo que provocaría una disminución en la utilización de las grasas, frenando así el uso de los lípidos durante el ejercicio físico.
+Es necesario identificar el papel que desempeña la ingesta de alimentos de AIG o BIG durante el ejercicio aerobio moderado en personas con sobrepeso u obesidad, ya que podría ser de importancia medular para favorecer una mejor oxidación de grasas, evitando mayor acumulación de tejido adiposo lo que generaría un adecuado control de peso corporal. Por ello, hemos llevado a cabo el presente trabajo con el objetivo de analizar los cambios en las concentraciones de glucosa, insulina y triglicéridos sanguíneos en relación con un ejercicio aerobio moderado en mujeres sedentarias de distinto peso corporal, expuestas a una dieta rica en hidratos de carbono de alto índice glucémico o bajo índice glucémico.
+
+
+- MATERIAL Y MÉTODO
+
+El presente es un estudio clínico tipo cross-over en mujeres sedentarias, realizado en el Laboratorio de Fisiología del Ejercicio de la Facultad de Ciencias de la Cultura Física de la Universidad Autónoma de Chihuahua, México, durante el período de mayo a diciembre de 2014. El proyecto fue aprobado por el Comité de Ética en Investigación del Hospital Central del Estado y la Facultad de Medicina de la Universidad Autónoma de Chihuahua, con el número de registro A-120/14.
+
+
+-- PARTICIPANTES
+
+Se seleccionaron 26 mujeres jóvenes sedentarias, 14 con peso adecuado (PA) y 12 con sobrepeso u obesidad (OB), de un grupo de estudiantes universitarias interesadas en participar respondiendo activamente a la invitación. Cada una ellas firmó un consentimiento informado de participación voluntaria y se determinó su estado de salud a través de un examen médico con la finalidad de descartar otras patologías, clasificándolas como Aptas o No aptas para realizar actividad física.
+Se aceptaron en el estudio solo las mujeres que, de acuerdo al cuestionario, manifestaron no realizar ejercicio físico regular en los últimos 12 meses. Se excluyeron quienes presentaron problemas articulares o musculares, embarazo y/o lactancia; las que no completaron el total de los minutos del ejercicio programado o quienes no consumieron los HC indicados.
+Finalmente los grupos PA y OB se conformaron de 10 mujeres cada uno.
+
+
+-- INTERVENCIONES
+
+Se aplicaron 2 tratamientos definidos por la administración de ejercicio físico programado, uno después del consumo de HC de AIG (HC-AIG) denominado tratamiento 1 (T1) y otro posterior a la ingesta de HC de BIG (HC-BIG) considerado tratamiento 2 (T2). La secuencia de las intervenciones fue aleatoria, para minimizar el efecto del orden de aplicación; de manera que la mitad de las participantes iniciaron con el T1 y el resto con el T2.
+Se instruyó a cada una de las mujeres a sustituir los HC de su alimentación habitual, por HC-AIG o HC-BIG en la dieta del día previo al ejercicio. Se proporcionaron 3 menús variados de alimentos con alto contenido de HC-AIG y 3 con HC-BIG, clasificados de acuerdo a las tablas del Sistema Mexicano de Alimentos Equivalentes, de los que seleccionaron libremente y consumieron ad libitum en cantidades equivalentes a por lo menos su peso corporal en gramos (1 g/kg de peso corporal).
+Los T1 y T2 consistieron cada uno en la administración de una sesión única de 55 min de ejercicio aerobio de intensidad moderada entre el 40% y el 59% de la frecuencia cardiaca de reserva habiendo consumido HC-AIG y HC-BIG respectivamente. Todas las participantes realizaron el ejercicio programado en una bicicleta estacionaria; cada sesión se estructuró con 5 min de calentamiento, 45 min de parte medular y 5 min de vuelta a la calma. Se permitió un período de lavado de 7 días (wash out) entre la administración de T1 y T2 (o de T2 y T1) donde las participantes mantuvieron actividades y dieta de acuerdo a su costumbre.
+Cada participante acudió al laboratorio en condiciones de ayuno para una toma de muestra sanguínea, e inmediatamente realizar el ejercicio físico programado (T1 o T2); al finalizarlo se obtuvo otra muestra sanguínea. El procedimiento se repitió para cada una, una semana después, con el tratamiento correspondiente. Se comprobó por medio de un recordatorio de alimentación de 24 h si el consumo de HC-AIG o HC-BIG fueron los indicados para antes de cada ejercicio.
+
+
+-- VARIABLES
+
+Como variables de respuesta se consideraron las concentraciones plasmáticas de glucosa, insulina y TG.
+El nivel de actividad física de cada participante se determinó a través de un cuestionario, que permitió estimar la actividad cotidiana en equivalentes metabólicos (MET) de acuerdo al Compendio Mundial de Actividad Física de Ainsworth, para garantizar que las mujeres no fueran físicamente activas. Se clasificaron como sedentarias si su actividad diaria era equivalente a un esfuerzo igual o menor a 3 MET habiendo manifestado no realizar ejercicio adicional a las actividades cotidianas.
+Se midió el perfil antropométrico restringido que incluye 2 medidas básicas, 8 panículos, 5 circunferencias y 2 diámetros cortos, mediante la técnica de la Sociedad Internacional para el Avance de la Cineantropometría (ISAK, por sus siglas en inglés). Todas las mediciones se hicieron por duplicado, por una antropometrista certificada nivel 2 de ISAK (ETM ≤ 5% y ≤ 1%), utilizando un equipo Rosscraft. Con ello se determinó la sumatoria proporcional de 6 pliegues (SP6P) de Ross y Kerr multiplicando la suma de los panículos del tríceps, subescapular, cresta iliaca, abdominal, muslo anterior y pierna medial en mm, por la estatura del sujeto ajustada a la estatura phantom [∑(tri+sub+ci+abd+ma+pm)*(170.18/h)].
+El índice de masa corporal (IMC) corresponde al peso en kg dividido por la estatura en metros al cuadrado (kg/m2). De acuerdo al criterio de clasificación de la Organización Mundial de la Salud, se consideró como PA un IMC < 25 kg/m2 y como sobrepeso u OB un IMC igual o por encima de ese valor. También se consideró que la SP6P fuera mayor a 100 mm.
+
+
+-- ESTUDIOS PRELIMINARES
+
+Un muestreo inicial considerado para la obtención de parámetros bioquímicos basales se realizó bajo condiciones de ayuno nocturno de 8 a 12 h. Se extrajo una muestra de 5 ml de sangre venosa de la región antecubital del brazo, con sistema Vacutainer. Todas las muestras se centrifugaron a 2.500 rpm por 10 min para obtener el plasma donde se determinaron las concentraciones de glucosa por el método GOD-PAP, insulina por el método ELISA y TG por GPO-POD.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se aplicó la prueba de Shapiro Wilk para evaluar la normalidad. Los valores de glucosa y TG presentaron distribución normal, por lo que se expresaron como medias y desviaciones estándar y se compararon mediante una prueba t pareada. Mientras que la insulina mostró una distribución no normal y se expresó como mediana e intervalo intercuartílico, comparándose con la prueba de suma de rangos de Wilcoxon. La comparación entre grupos se hizo mediante pruebas t para muestras independientes y con la prueba de suma de rangos de Wilcoxon o Mann-Withney.
+
+
+- RESULTADOS
+
+Las características generales y bioquímicas de los grupos estudiados se presentan en la tabla 1. La edad, el peso, el IMC y la SP6P son mayores en OB que en PA. También lo fueron todas las variables bioquímicas y por encima de los puntos de corte considerados como normales (glucosa < 5,6 mmol/L o 100 mg/dl; insulina < 9 μUI/ml según el proveedor de kit para su determinación; TG < 150 mg/dl).
+La tabla 2 muestra las concentraciones de los parámetros bioquímicos antes y después de la administración del ejercicio con modificaciones en la dieta en el grupo OB. Se observó que las concentraciones de insulina tendieron a disminuir al finalizar T1, pasando de 17,4 (12,4; 24,8) μUI/ml a 15,5 (11,9; 20,5) μUI/ml (p = 0,059). No se observaron cambios en el resto de las variables . Por otra parte, la concentración de glucemia tiende a aumentar al término del esfuerzo físico, tras la ingesta de HC-BIG, pasando de 5,3 ± 0,23 mmol/L a 5,5 ± 0,37 mmol/L después (p = 0,081). También se detectó que, al finalizar T2, la concentración de TG se elevó respecto a la concentración previa: de 139,5 ± 66 mg/dl a 150,8 ± 67,2 mg/dl (p = 0,004) .
+La tabla 3 presenta los resultados en el grupo de PA. No se encontraron cambios estadísticamente significativos por los tratamientos administrados.
+
+
+- DISCUSIÓN
+
+La obesidad y el sedentarismo están íntimamente relacionados con un mayor riesgo de desarrollar enfermedades cardiovasculares y metabólicas; tales condiciones pudieran ocurrir en OB, quienes, además de la poca actividad física manifestada, presentan elevados valores iniciales de glucosa e insulina, , .
+En 2017, la Asociación Americana de Diabetes consideró como un estado de prediabetes los valores de glucosa que, después de un ayuno de 8 h, resulten entre 5,6 y 6,9 mmol/L, lo que permite inferir que algunas de las mujeres OB pueden ser clasificadas con un estado de prediabetes. Además de la elevación de la glucemia, otros factores que parecen regular los niveles de insulina sanguínea son, por un lado, el incremento y la forma del tejido adiposo, y por otro, la calidad y cantidad de la ingesta, lo que hace suponer que las participantes con mayor peso y grasa corporal presentarían niveles elevados de insulina sobre lo considerado normal, tal como se observó en OB en comparación con PA, .
+Aun cuando inicialmente en OB no se observaron elevados los TG plasmáticos, algunos autores indican que valores un poco más altos de 150 mg/dl en individuos obesos pueden ser considerados como un factor de riesgo para el diagnóstico de prediabetes, ; esto coincide con la Asociación Americana de Diabetes que reporta como un factor de riesgo de prediabetes o diabetes las concentraciones de este parámetro por arriba de 250 mg/dl, sobre todo en individuos asintomáticos. Las mujeres del grupo OB se encuentran justo en los límites considerados como normales, por lo que su condición de sobrepeso u obesidad y la hiperglucemia en ayuno elevada en muchas de ellas incrementa considerablemente el riesgo para presentar esa condición.
+La cuantía y la rapidez en el aumento de la glucemia depende del tipo de HC y de su facilidad para ser digerido, tal es que la particularidad de los HC-AIG es incrementar de forma rápida los niveles de glucemia causando una elevación de la insulina, mientras que los HC-BIG lo hacen de manera lenta, condicionando a un mejor efecto sobre la saciedad y control del apetito, .
+Jamurtas et al. y Cocate et al. han establecido que consumir HC-AIG previos a un ejercicio físico inhibe la utilización de grasas como fuente de energía, lo que obliga al músculo a consumir HC como principal combustible. De ahí que los valores de glucosa después de T1 quedaron iguales en el grupo OB.
+El hecho de que los niveles de glucemia disminuyeran respecto a sus niveles iniciales solo por el consumo de HC-BIG puede deberse a la naturaleza de estos alimentos de elevar lentamente la glucemia posprandial; sin embargo, hay que considerar la variabilidad biológica individual que se refiere a la hora en que se obtuvo la muestra, la cantidad de horas de ayuno, la composición previa de la dieta y el estrés. Los valores de este parámetro tendieron a incrementarse nuevamente al finalizar T2, y es probable que pueda deberse al aumento de la glucemia generado por las hormonas del ejercicio como el glucagón y la adrenalina que activan el proceso de la gluconeogénesis como respuesta natural al ejercicio físico, .
+La literatura indica una disminución en las concentraciones de insulina por realizar sesiones consecutivas entre 12 y 18 semanas de un programa de ejercicio aerobio más el consumo de HC-BIG, lo que puede indicar que esta combinación por una sola ocasión no es suficiente para reflejar cambios en los niveles de insulina, , .
+Hernández-Torres et al. mencionan que los posibles aumentos en las concentraciones de TG tras la práctica de un ejercicio físico prolongado (90 min) pueden ser producto de una hemoconcentración. Sin embargo, no podemos asegurarlo pues no se determinó hematocrito, y además, 45 min de ejercicio físico no se considera prolongado.
+El aumento de los niveles de TG plasmático al término del T2 pudiera estar relacionado con el consumo de HC-BIG, que por su control en la elevación de la glucemia no fue suficiente para mantener las demandas energéticas durante el ejercicio físico, por lo que es probable que se active la lipasa sensible a hormonas y genere el desdoblamiento de TG para la utilización de ácidos grasos libres que ayuden a soportar la intensidad del esfuerzo físico. Este efecto no se presentó en T1, ya que la disponibilidad de glucosa al consumir HC-AIG funcionaría como el principal sustrato energético durante el esfuerzo físico.
+El mantenimiento del PA se considera clave para la conservación de un óptimo estado de salud por lo que se espera que los mecanismos de secreción de insulina y sus receptores funcionen correctamente, ya que, independientemente de que las participantes consuman HC-AIG o HC-BIG, las concentraciones de los parámetros bioquímicos no se modifican respecto a sus valores iniciales. Esta circunstancia permite tener un mejor control sobre el peso corporal, ya que el proceso de lipogénesis se produce en mayor medida en el área intraabdominal y después en la subcutánea.
+En conclusión, la inclusión de HC-BIG en la dieta diaria parece influir en el aumento de las concentraciones de los TG al término de un ejercicio de intensidad moderada, indicando que la liberación lenta de glucosa al torrente sanguíneo genera una mayor utilización de lípidos durante el ejercicio; esto significaría una vía efectiva hacia el control del peso corporal adecuado.
+
+
+- AUTORÍA/COLABORADORES
+
+Contribución individual de cada uno de los autores a la producción del artículo y la investigación.
+Briseidy Ortiz-Rodríguez. Concepción de la idea, adquisición de datos, análisis e interpretación de los datos. Escritura del borrador del artículo. Aprobación definitiva de la versión que se presenta.
+Lidia G. de León. Concepción de la idea y diseño del estudio, análisis e interpretación de los datos. Revisión crítica del contenido intelectual. Aprobación definitiva de la versión que se presenta.
+Julián Esparza-Romero. Análisis e interpretación de los datos y revisión crítica del contenido intelectual importante. Aprobación definitiva de la versión que se presenta.
+Claudia E. Carrasco-Legleu. Análisis e interpretación de los datos y revisión crítica del contenido intelectual. Aprobación definitiva de la versión que se presenta.
+Ramón Candia-Luján. Análisis e interpretación de los datos y revisión crítica del contenido intelectual importante. Aprobación definitiva de la versión que se presenta.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

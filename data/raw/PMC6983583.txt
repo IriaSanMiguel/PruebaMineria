@@ -1,0 +1,85 @@
+ACCESO Y USO DE NUEVAS TECNOLOGÍAS ENTRE LOS JÓVENES DE EDUCACIÓN SECUNDARIA, IMPLICACIONES EN SALUD. ESTUDIO JOITIC
+
+
+- INTRODUCCIÓN
+
+La utilización masiva de las Tecnologías de la Información y la Comunicación (TIC) ha proporcionado el acceso a equipamientos y servicios inimaginables hace unos años, sin distinción de edad, sexo o nivel social. La navegación por Internet, el uso de redes sociales virtuales, los videojuegos y el teléfono móvil han supuesto un cambio radical en las formas de relacionarse de la mayoría de las personas. Para los más jóvenes, que acceden a ellas desde niños, probablemente estén marcando un nuevo estilo de vida, .
+Hay autores que señalan que el uso de las nuevas tecnologías está creando una brecha generacional («brecha digital»): la elevada presencia de las TIC en la vida de los jóvenes y la precocidad con que se familiarizan con ellas los convierte en nativos digitales, en comparación con los adultos, considerados inmigrantes digitales. Mientras estos buscan una utilidad en Internet para cosas concretas (transacción bancaria, información, compras…), los jóvenes se acercan de forma más global y la incorporan con naturalidad a sus vidas.
+Los adolescentes se caracterizan por priorizar la gratificación inmediata y el vivir el presente, se creen invulnerables al peligro y sienten curiosidad por nuevas vivencias estimulantes y arriesgadas, lo que los hace más susceptibles a las conductas de riesgo. Tienen dificultad en el control de los impulsos, son influenciables por los medios de comunicación y la publicidad. Además se ha observado que el consumo de tóxicos en adolescentes puede estar asociado a un mayor uso de Internet o videojuegos, .
+Se discute la posibilidad de adicción a las TIC y ha aumentado la literatura científica en relación al impacto de estas en la salud mental, . La magnitud de uso desadaptativo o dependencia que pueden generar estas tecnologías varía entre el 9 y el 40%, , , , según las muestras estudiadas, el diseño de los estudios y los criterios utilizados para definir el «abuso». Los elementos diagnósticos esenciales de las adicciones en general, como la dependencia psicológica y los efectos perjudiciales, pueden estar también presentes en el abuso de las nuevas tecnologías. Así pues, el uso excesivo de las TIC es un nuevo factor condicionante de la salud de la población, que se debe tener en cuenta sobre todo en la atención a los jóvenes.
+Según la Encuesta Nacional de Salud de España de 2006, el 67,5% de adolescentes de entre 10 y 15 años utilizaban videojuegos, ordenador o Internet, con diferencias según el sexo y el día de la semana. En 2011, según el Instituto Nacional de Estadística (INE), el uso de ordenador entre los menores de 10 a 15 años era prácticamente universal (95,6%) y algo menor el uso de Internet (87,1%). La disponibilidad de teléfono móvil era del 32,5% a los 10 años y se incrementaba hasta el 87,3% a los 15 años, accediendo a él a edades cada vez más tempranas.
+El objetivo del proyecto JOITIC (JOves I Tecnologies de la Informació i la Comunicació) es describir la accesibilidad y el uso de las TIC entre los alumnos de Educación Secundaria Obligatoria (ESO), analizar factores que puedan estar relacionados y evaluar conductas que puedan indicar un uso adictivo de las TIC.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio descriptivo transversal y multicéntrico.
+El grupo de trabajo JOITIC es un equipo multidisciplinar (enfermeros, médicos, metodólogos y profesores) cuya línea de trabajo es el estudio del acceso y del uso de las TIC y las posibles conductas de riesgo de adicción de los jóvenes en relación a ellas. Para recoger los datos se utilizó una encuesta elaborada por el grupo de trabajo y unos cuestionarios validados sobre el uso de internet (CERI) y móvil (CERM), y otro en vía de validación sobre videojuegos (CERV). En este artículo se presentan los resultados de una parte del estudio, que incluyen datos sociodemográficos, de acceso y uso de las TIC, hábitos tóxicos y control por parte de los adultos.
+
+
+-- EMPLAZAMIENTO
+
+Centros públicos y concertados de ESO que participan en el «Programa Salut i Escola» (PSiE) de la Generalitat de Catalunya, de 7 municipios del Vallés Occidental (Barcelona): Sabadell, Sant Quirze del Vallès, Castellar del Vallès, Sentmenat, Polinyà, Palau-Solità i Plegamans y Santa Perpètua de Mogoda. Se contactó a través de la enfermera referente del PSiE de los centros de atención primaria. Los centros privados no participan en el PSiE, por lo que no se incluyeron.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Alumnos de primero o cuarto curso de ESO, previo consentimiento informado de los padres y alumnos, de los centros que aceptaron participar.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Barrera idiomática importante o condiciones físicas, psíquicas o sensoriales que imposibilitaran la respuesta a los cuestionarios.
+El proyecto fue aprobado por el Comité de Ética e Investigación Clínica del Instituto de Investigación en Atención Primaria Jordi Gol (IDIAP).
+
+
+-- VARIABLES
+
+Información sociodemográfica (edad, sexo, tipo de centro, curso académico y país de origen), consumo de tóxicos, rendimiento escolar (se consideró bajo rendimiento tener 3 o más asignaturas suspendidas en el curso anterior), patrón de uso de internet, móvil y videojuegos, número de horas dedicado a cada uno de ellos o el control ejercido por los padres o tutores. Se efectuó una prueba piloto previa para corregir errores de comprensión.
+
+
+-- MÉTODOS
+
+La recogida de datos se realizó entre febrero y junio de 2011, en los institutos.
+La enfermera de enlace del PSiE proporcionó los formularios de consentimiento informado y los cuestionarios a los centros. Dentro del horario de tutoría, en presencia del tutor, los alumnos contestaron en aproximadamente 40 min los cuestionarios autoadministrados (anexo 1), que eran anónimos y solo permitían identificar el centro y el curso del alumno.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cualitativas se describen con sus frecuencias relativa y absoluta. Las cuantitativas con su media y desviación estándar. En los contrastes para comparación de proporciones se utilizó la prueba de Ji cuadrado de Pearson o la de tendencia lineal. El análisis de los datos se realizó con el paquete estadístico SPSS versión 18.0. Aunque el nivel de significación utilizado en todos los contrastes fue de p ≤ 0,05, se ha tenido en cuenta que la magnitud de las asociaciones observadas fuera relevante (diferencias entre grupos superiores al 5%).
+
+
+- RESULTADOS
+
+Estaban adscritos al PSiE 18 centros públicos y 21 concertados, con una población de 11.231 alumnos. Aceptaron participar 15 centros públicos y 13 concertados, con un total de 7.168 alumnos matriculados. Los alumnos o padres que manifestaron su deseo de no participar fueron el 8,5% (públicos, 8,63%; concertados, 6,26%). Se recogieron los cuestionarios de 5.538 jóvenes de entre 12 y 20 años (77,3% de respuesta), el 48.6% de sexo femenino .
+El porcentaje de respuestas no contestadas en alguna de las preguntas fue menor del 1%, excepto en el rendimiento escolar (3,13%). Los alumnos autóctonos representan el 84,9%. La mayoría de extranjeros provienen de América Latina (9,5%).
+El 20,3% refiere bajo rendimiento escolar: mayor en los chicos (24,0% frente al 16,3%; p < 0,01) y en los extranjeros (30,8% frente al 17,3%; p < 0,01).
+Dos tercios de los alumnos realizan actividades extraescolares 2 o más días a la semana. El 40% de los alumnos extranjeros y el 22% de los autóctonos no realizan ninguna.
+El 13,7% ha fumado alguna vez, el 5,8% lo hace a diario. El 57,8% ha consumido alcohol en alguna ocasión. Antes de los 12 años lo han probado el 24,3%, siendo los varones más precoces que las mujeres (27,9% frente a 20,7%). El consumo aumenta con la edad. En primero el 5,1% ha sufrido alguna intoxicación etílica aguda, y en cuarto, el 42,9%. El 27,5% de los alumnos de cuarto han consumido cannabis. En el consumo de tóxicos —tabaco, alcohol, cannabis u otras drogas— no hay diferencias entre autóctonos y extranjeros.
+Respecto al tipo de centro, público o concertado, se encuentran diferencias relevantes (p < 0,001) en la procedencia de los alumnos (19,9% extranjeros frente al 5,1%), el bajo rendimiento escolar (23,0% frente al 13,7%) y el consumo de tóxicos (tabaco: 6,8% y 3,4%; intoxicación enólica: 23,3% y 17,1%; cannabis: 15,7% y 10,2%). En los centros públicos los alumnos usan más horas el ordenador (25,6% versus 15,3%). En los concertados hay mayor uso escolar de Internet (57,5% frente al 45,7%) y mayor uso de SMS (79,6% frente al 67,0%; p = 0,01).
+El acceso a las TIC es masivo: el 98% disponen de ordenador en casa, el 90% tienen móvil. Usan videojuegos el 54% , sin diferencias según el país de origen. Con la edad hay un descenso progresivo de jugadores, pero los que juegan > 2 h se mantienen en el tiempo. Los chicos juegan más que las chicas (75,7% versus 31,3%; p < 0,001). El uso de juegos online evoluciona de manera similar a los videojuegos. Los alumnos autóctonos juegan solos más que los inmigrantes (48,3% frente al 37,6%; p = 0,01). El control paterno del uso de videojuegos disminuye con la edad.
+Respecto al ordenador, el 7,3% de los alumnos foráneos no disponen de él en casa, pero lo utilizan las mismas horas y con fines parecidos a los autóctonos. Su uso aumenta con la edad , y el de correo electrónico y chats se mantiene estable en todos los cursos: alrededor del 70 y del 52%, respectivamente. El control paterno disminuye también con la edad. Las chicas lo usan más horas, para el correo electrónico, Internet, las redes sociales y las tareas escolares (el 51% más de 2 h frente al 38% de los chicos). Los chicos juegan más on line .Figura 1Figura 2
+El bajo rendimiento escolar está asociado en primero (p < 0,001), segundo (p = 0,001) y tercer curso (p < 0,001) tanto a un uso muy alto del ordenador (más de 3 h diarias) como a la falta de uso . En los alumnos que utilizan ordenador se observa un aumento lineal del fracaso escolar a medida que aumentan las horas de uso. En un uso diario menor a una hora, 146 (15,6%) alumnos presentaron bajo rendimiento escolar; con un uso de 1-2 h, 314 (17,1%); entre 2 y 3 h, 323 (19,6%), y cuando su uso era superior a 3 h, 344 (28,8%) (tendencia lineal, p < 0,001). Ni el uso de videojuegos ni el número de horas de juego se asocia al fracaso escolar. Los chicos/as con mayor control paterno del uso de videojuegos u ordenador tienen mejor rendimiento escolar.
+El uso de ordenador más de 3 h al día, de videojuegos más de 5 h semanales o el no control paterno del uso de estas TIC se asocia a un mayor porcentaje de jóvenes que han sufrido una borrachera, han consumido cannabis o han experimentado alguna vez con otras drogas , y es más elevado a medida que aumenta el curso.
+El 88,6% declararon haber accedido al primer móvil entre los 12 y los 13 años. En primer curso, 896 (57,5%) alumnos dispusieron de móvil antes de los 12 años .
+
+
+- DISCUSIÓN
+
+La selección de la población participante en el estudio y el alto porcentaje de respuesta permiten una visión del uso de las TIC de los adolescentes escolarizados de nuestra zona. Aunque el diseño transversal del estudio no permita establecer causalidad entre las variables, se pueden generar hipótesis que deberían seguir estudiándose en posteriores investigaciones. La no participación de centros privados puede suponer un sesgo, ya que podrían tener un perfil de acceso y uso de las TIC diferente al de la población analizada y quizá también un nivel socioeconómico distinto. Al ser una encuesta autoadministrada, también podría existir una infradeclaración de conductas consideradas socialmente negativas, como el fracaso escolar o el consumo de tóxicos.
+El menor porcentaje de bajo rendimiento escolar en primer curso se podría atribuir al cambio de etapa educativa, y es más frecuente en chicos, datos que coinciden con otros estudios.
+El estudio JOITIC muestra un acceso a las TIC parecido al notificado por otras entidades (INE, Escola Catalana de Consum). Las nuevas tecnologías entran cada vez antes en la vida de los jóvenes; esta tendencia es unánime en los estudios referenciados y se confirma también en nuestro trabajo. En el estudio alemán KiGGS las tendencias de uso por edad de videojuegos e Internet son similares al JOITIC, si bien el indicador de uso utilizado no es exactamente el mismo (horas diarias en KiGGS, horas semanales en JOITIC). Quizá los datos de uso de móvil sean menos comparables dado que en los últimos años se han modificado los patrones de uso, las prestaciones y la accesibilidad de esta tecnología que no están contemplados en el KIGGS. En el análisis por género los resultados son parecidos. Las chicas usan más el móvil, como corrobora el estudio de la ECC, el INE y el KiGGS. Los chicos juegan más y compran más por Internet.
+Villadangos y Labrador obtienen resultados sobre la frecuencia de uso de las nuevas tecnologías en función de la edad y el sexo parecidos a nuestro estudio y señalan diferencias en el uso de móvil y videojuegos según el tipo de centro escolar, cosa que no sucede en JOITIC.
+Sanchez-Martinez et al., han relacionado el consumo de tóxicos con un aumento de horas de uso de Internet y videojuegos, de forma parecida al presente trabajo, donde se observa una asociación entre el uso intensivo de ordenador (más de 3 h diarias) e intoxicación enólica o consumo de cannabis. Esta asociación no es significativa entre los usuarios intensivos de videojuegos, aunque se observa una tendencia a un mayor consumo.
+Respecto al fracaso escolar, hay evidencia de que el uso intensivo del ordenador o la ausencia de uso se relacionan con un bajo rendimiento académico entre los adolescentes, . Estos resultados se confirman en el JOITIC, excepto en el tiempo dedicado a los videojuegos, que no se relaciona con el rendimiento escolar. El control paterno se asocia a mejores resultados académicos.
+Según el «Observatori de la Societat de la Informació de les Illes Balears», , dos tercios de los jóvenes de 15 y 16 años navegan solos por Internet y el 62,2% no tienen en casa normas para acceder a la red. En JOITIC se observa que el control parental del uso de ordenador y videojuegos es bajo y disminuye con la edad, perdiéndose la oportunidad educativa que supone el consejo paterno, puesto que la adolescencia es una etapa vital para la formación de la personalidad y es importante acompañarlos en el aprendizaje del uso responsable de las TIC. La asociación entre bajo rendimiento escolar y falta de control paterno del uso de videojuegos o de ordenador debe ser considerada, ya que el fracaso escolar es una preocupación importante de la sociedad. En el desarrollo de futuras actividades preventivas respecto al fracaso escolar se debería incluir la valoración del uso inadecuado o del abuso de las TIC.
+Los posibles riesgos del uso excesivo de las TIC (adicción, aislamiento, pérdida de habilidades sociales…) en los jóvenes no debe ocultar los muchos aspectos positivos y el hecho de que se han convertido en un elemento de comunicación, relación, aprendizaje y ocio imprescindible en sus vidas.
+Las intervenciones orientadas a disminuir problemas de salud se deben llevar a cabo antes de que se inicie la conducta de riesgo. El PSiE recomienda el abordaje del consumo de tóxicos desde primero de ESO; sin embargo, la mayoría de actividades de educación para la salud respecto a estos temas se realizan durante el cuarto curso. Es llamativo el aumento del consumo de tabaco entre segundo y tercero, y el aumento exponencial de las intoxicaciones alcohólicas agudas entre primero y cuarto. Viendo los datos obtenidos, quizá las intervenciones educativas deberían comenzarse en cursos anteriores y mantenerlas durante toda la ESO.
+Es necesario seguir investigando en el uso de las TIC y sus efectos en la salud de niños y jóvenes y en sus conductas, así como desarrollar estrategias e intervenciones en relación con el uso adecuado y responsable de las nuevas tecnologías para la promoción de la salud y la prevención de conductas de riesgo, por el impacto que pueden tener en la salud pública.Lo conocido sobre el temaEl uso generalizado de las TIC por parte de los adolescentes ha supuesto un cambio en sus estilos de vida.Se discute si los adolescentes pueden desarrollar conductas adictivas con el uso de las TIC.Qué aporta este estudioDatos sobre accesibilidad y uso de las TIC en una muestra amplia de adolescentes estudiantes de ESO, y factores relacionados como sexo, edad, rendimiento escolar, tipo de centro, procedencia o consumo de tóxicos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

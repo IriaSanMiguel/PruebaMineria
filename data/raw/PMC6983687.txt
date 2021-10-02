@@ -1,0 +1,87 @@
+ESTUDIO ARAPOC: PREVALENCIA DE SÍNTOMAS RESPIRATORIOS Y ENFERMEDAD OBSTRUCTIVA CRÓNICA EN POBLACIÓN GENERAL<SUP
+
+
+- INTRODUCCIÓN
+
+En las últimas 2 décadas se ha hecho un importante esfuerzo en conocer más acerca de la fisiopatología y la epidemiología de la enfermedad pulmonar obstructiva crónica (EPOC), así como en desarrollar nuevos tratamientos de una enfermedad que causa gran morbimortalidad en todo el mundo. Actualmente se considera la cuarta causa de muerte, pero la OMS estima que llegará a ser la tercera causa en el año 2030, . El desarrollo de guías internacionales como la guía GOLD ha hecho posible unificar criterios a la hora de diagnosticar la enfermedad, y hacer así comparables los estudios epidemiológicos de los distintos países. La iniciativa BOLD ha usado métodos estandarizados para calcular la prevalencia en numerosos países, y los hallazgos han sido muy dispares. El estudio PLATINO, que de forma paralela se desarrolló en Sudamérica, arrojó también datos muy diferentes de prevalencia según las áreas.
+En España el estudio IBERPOC, realizado en 1997, identificó una prevalencia de EPOC del 9,1%, según el criterio antiguo de la European Respiratory Society (ERS). Recientemente, el estudio EPI-SCAN ha encontrado una prevalencia de EPOC del 10,2% con los nuevos criterios GOLD. Sin embargo existen importantes diferencias geográficas en la prevalencia de EPOC en ambos estudios, confirmándose la falta de homogeneidad en la distribución poblacional de la EPOC.
+En Aragón carecíamos de datos poblacionales sobre la prevalencia de EPOC y de las características de estos pacientes, y no sería extraño observar datos diferentes a los de otras poblaciones estudiadas.
+
+
+- OBJETIVO
+
+El proyecto ARAPOC es un estudio epidemiológico de base poblacional, transversal, llevado a cabo en población general de 40 a 75 años residente en Aragón, desarrollado en el ámbito de la atención primaria para conocer la prevalencia de EPOC y las características de la población con esta enfermedad (grupos de edad, tabaquismo, tratamientos, conocimiento previo del diagnóstico, etc.), describir la prevalencia de EPOC según criterios de gravedad y en relación con los estudios ya existentes y evaluar la calidad de vida relacionada con la salud en esta población.
+
+
+- EMPLAZAMIENTO
+
+El proyecto ARAPOC fue ofrecido a todos los centros de salud de Aragón, participando voluntariamente 19 centros, rurales y urbanos, de Zaragoza, Huesca y Teruel.
+
+
+- PARTICIPANTES
+
+El muestreo se realizó aleatoriamente, de forma proporcional según los sexos, y estratificado por edades, según los datos de la tarjeta sanitaria del Servicio Aragonés de Salud. El estudio fue autorizado por el Comité de Ética de Aragón y por el Instituto Aragonés de Ciencias de la Salud. El personal de enfermería de cada centro de salud participante contactaba con los sujetos telefónicamente explicándoles el estudio y ofreciéndoles participar. Si aceptaban se concertaba una cita en el mismo centro de salud, donde se obtenía el consentimiento informado, se rellenaba un cuaderno de recogida de datos y se practicaban las espirometrías.
+Si el paciente no deseaba participar se le invitaba a que respondiese un breve cuestionario telefónico que incluía datos demográficos, datos sobre consumo de tabaco y sobre enfermedades respiratorias. El trabajo de campo se realizó desde abril de 2008 hasta julio de 2011. El hecho de que los centros participaran de forma voluntaria es una de las limitaciones de este estudio, pudiendo incurrir en un sesgo de selección.
+
+
+- MEDICIONES PRINCIPALES
+
+Se recogió información sociodemográfica sobre hábito tabáquico, comorbilidades y tratamientos crónicos empleados para cualquier enfermedad, entre otras variables. Para la detección de síntomas respiratorios se utilizó el cuestionario CECA traducido y validado en castellano.
+Se practicó a todos los sujetos como mínimo 3 espirometrías forzadas prebroncodilatadoras, y 2 con prueba broncodilatadora, de acuerdo con las normas de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR). Se empleó el espirómetro de cada centro de salud, revisado y calibrado diariamente, reproduciendo así las condiciones de la práctica clínica habitual. Como valores teóricos se emplearon los de Roca et al. Se consideraron los criterios diagnósticos y de gravedad de la guía GOLD: EPOC leve si FEV1 ≥ 80%, EPOC moderada si FEV1 menor de 80% y ≥ 50%, EPOC grave si FEV1 menor de 50% y ≥ 30% y EPOC muy grave si FEV1 menor de 30%.
+Las espirometrías fueron realizadas por enfermeras de los centros de salud participantes, tras varias sesiones de perfeccionamiento de la técnica con 2 o más miembros del equipo investigador, que también revisaron, validaron y calibraron los espirómetros utilizados. Las curvas espirométricas y los cuestionarios eran revisados al menos por 2 de los 4 miembros del equipo investigador, formado por un neumólogo y 3 médicos de familia. A los pacientes diagnosticados de EPOC tras realizarles la espirometría se les pasó en un segundo momento el cuestionario de St. George de calidad de vida.
+
+
+-- ESTUDIO ESTADÍSTICO
+
+Para calcular la población a estudio se aceptó un riesgo alfa de 0,05 para una precisión de ± 2% en un contraste bilateral para una proporción poblacional estimada de EPOC de 9,1%. Se precisaba una muestra aleatoria poblacional de 1.115 sujetos, asumiendo una población de 144.317 sujetos entre 40-75 años con una tasa de reposición del 30%. Las características de los pacientes se describieron utilizando tablas de frecuencia para las variables cualitativas, y medidas de tendencia central y de dispersión para las variables cuantitativas. El análisis estadístico de las relaciones entre variables cualitativas se realizó utilizando la prueba de Chi-cuadrado. Para las variables continuas (cuantitativas) se usó la prueba «t» de Student en casos que seguían una distribución normal, y pruebas no paramétricas en los casos que no las seguían. Se manejó el paquete de estudio estadístico SSPS versión 15.0.
+Para estudiar qué variables estaban asociadas de manera significativa e independiente con el diagnóstico de EPOC se utilizó un modelo de regresión logística múltiple con el diagnóstico de EPOC como variable dependiente y el consumo de tabaco, la edad, el sexo y el nivel de estudios como variables dependientes.
+
+
+- RESULTADOS
+
+Se consiguió contactar con 1.416 personas, de las que 12 se negaron a colaborar, 219 rechazaron participar en el estudio pero contestaron un breve cuestionario telefónico y 1.185 sí aceptaron.
+Se compararon estas 2 últimas poblaciones para valorar la presencia de algún sesgo y no se encontraron diferencias significativas en variables como la edad, la cantidad de cigarrillos que fumaba o que fumó, ni en los síntomas como tos, esputos o disnea. Las características clínicas y los datos espirométricos de la población que participó en el estudio se expone en la tabla 1.
+Se analizaron las tasas de prevalencia de los principales síntomas respiratorios en la población estudiada, siendo la de tos de un 12,6% (IC: 11,9-13,3%), de expectoración un 12,3% (IC: 11,7-12,9%), sibilantes un 29,2% (IC: 28,3-30,1%) y disnea de un 14,7% (IC: 14,0-15,4%). El 58,6% (IC: 57,6-59,6%) de la población refirió tener algún síntoma respiratorio. Estos síntomas se compararon en relación con el sexo, la edad, el índice de masa corporal (IMC), el nivel de estudios, según el hábito tabáquico y según la intensidad de consumo de tabaco . Se encontraron diferencias significativas (p < 0,05) en la presencia de esputos, más frecuente en hombres, y en la disnea, más prevalente en mujeres, en mayores de 70 años, en la población con niveles de estudios primarios y conforme aumenta el IMC. Apareció significativamente más tos, más expectoración y más sibilantes en los fumadores, con una p < 0,001. Aumentó la prevalencia de expectoración, de sibilantes o de algún síntoma conforme se incrementaba el consumo de tabaco.
+El porcentaje global de fumadores fue de 23,9% y un 34,2% de exfumadores. El 55,3% de las mujeres nunca fumaron, frente a solo un 23,5% de los hombres (p < 0,001).
+La prevalencia general de EPOC según GOLD fue de 10,4% (IC 95%: 9,8-11,0%), considerablemente más alta en los varones (16,9%) que en las mujeres (5,7%). Esta prevalencia aumentaba al incrementar la edad, el IMC y en estratos de población con menor nivel de estudios. La prevalencia de EPOC era significativamente más alta en población más fumadora. La prevalencia de EPOC en los que nunca habían fumado fue de 4,6% .
+El 78,9% de los sujetos con diagnóstico de EPOC desconocía que padecían la enfermedad. El porcentaje de desconocimiento era mayor en EPOC moderada, siendo considerablemente menor en los pacientes con EPOC más grave.
+El cuestionario St. George sobre calidad de vida se pasó a aquellos sujetos con diagnóstico de EPOC, y se comprobó que existía una buena consistencia interna del cuestionario, ya que el coeficiente alfa de Cronbach superó el 0,7 en el total y en las 3 subescalas: síntomas, actividad e impacto.
+Las personas con EPOC tenían mayores puntuaciones que la población general en el cuestionario de calidad de vida (CV) St. George, y a mayor gravedad de la EPOC, peor CV (p < 0,05).
+El análisis de regresión logística mostró como variables significativamente asociadas con la presencia de EPOC, la mayor edad, el sexo masculino, las altas intensidades de consumo de tabaco y el bajo nivel de estudios.
+Así mismo, los factores asociados al diagnóstico previo de EPOC fueron tener más edad, ser mujer, ser más fumador y tener peor calidad de vida .
+
+
+- DISCUSIÓN
+
+Los síntomas respiratorios son muy frecuentes entre la población estudiada, ya que más de la mitad de los participantes en este estudio (58%), incluido el 51,4% de los no fumadores, refería presentar algún síntoma respiratorio. En nuestro país los estudios dedicados a la epidemiología de los síntomas respiratorios son escasos, y la comparación entre ellos no es fácil, ya que las poblaciones estudiadas incluyen edades diferentes a las de este estudio, alguno solo incluye varones, las formas de valorar los síntomas pueden ser diferentes y los tamaños muestrales son menores que en este trabajo, , .
+La prevalencia global de EPOC resultado de este estudio, un 10,4%, muestra una prevalencia similar a otros estudios epidemiológicos previos realizados en España. Así, en el estudio EPI-SCAN de 2009 se establecía este porcentaje en el 10,2% y aproximadamente 10 años antes, el estudio epidemiológico IBERPOC, que utilizaba los antiguos criterios de diagnóstico de la ERS para EPOC (FEV1/CVF menor del 88% del teórico en hombres o menor del 89% del teórico en mujeres) obtuvo un resultado de 9,1%. La prevalencia de Huesca dentro del estudio EPI-SCAN fue similar a la nuestra, del 11% de EPOC.
+Los rangos de edad de estos dos estudios fueron diferentes y los criterios diagnósticos empleados también. Un artículo posterior comparó ambos estudios: la prevalencia en el estudio IBERPOC si se consideran los criterios diagnósticos de la GOLD, para población entre 40 y 69 años sería del 21,6%, y en el estudio EPI-SCAN, considerando de 40 a 69 años, del 7,7%. En un metaanálisis realizado en 2006 se ponía de manifiesto la enorme variabilidad de prevalencia de EPOC a nivel mundial, que se estimaba en torno al 9-10%.
+La iniciativa BOLD ha encontrado diferencias significativas entre los países, por ejemplo, un 11,4% en China de prevalencia global o un 26,1% en Austria. La prevalencia de EPOC observada en este estudio se ajusta en un rango menor, siendo superior al 7,8% observado en México, pero inferior al 12,1% de Caracas, 15,8% de Sao Paulo, 16,9% de Santiago de Chile o el 19,7% de Montevideo del estudio PLATINO en Latinoamérica, el 17,2% de prevalencia en Corea o el 16,2% de prevalencia publicada recientemente para Suecia.
+Estas diferencias pueden estar relacionadas, al menos en parte, con las variaciones en los patrones genéticos, los hábitos de fumar y la exposición a otros factores de riesgo ambientales, y van acompañados por las diferencias en las tasas de diagnóstico previo y en el tratamiento de la enfermedad en todo el mundo.
+En nuestro estudio los principales factores de riesgo para identificar la presencia de EPOC son la edad, el incremento de consumo de tabaco y el bajo nivel de estudios. Sin embargo, hubo un 4,6% de los que nunca fumaron que cumplían la definición de EPOC, representando un 19% de los casos detectados. Esto es similar a la prevalencia en los distintos estudios.
+Cabe señalar que la mayoría de los no fumadores entre los sujetos identificados como EPOC son individuos de edad avanzada y con EPOC leve. Posiblemente esto se deba a la caída de la función pulmonar con la edad, que cobra más importancia en estos pacientes que el tabaquismo. Así mismo hasta un 34,8% de los fumadores con EPOC presentaban comorbilidades, las más frecuentes las enfermedades cardiovasculares .Figura 1
+Los resultados sobre la gravedad de los pacientes con EPOC obtenidos en este estudio nos pueden orientar a pensar que aproximadamente la mitad de los sujetos con EPOC estarían en estadio moderado, grave o muy grave, con las implicaciones que ello tendría en la planificación y atención sanitaria.
+En cuanto a la calidad de vida se encontró una menor puntuación en el cuestionario de St. George en este estudio que en los pacientes con EPOC del estudio EPI-SCAN, , lo que supone una mejor calidad de vida. Este hallazgo no se explica por la mayor gravedad, pues en este trabajo se encontró mayor prevalencia de EPOC moderada o más grave que en el estudio EPI-SCAN, así como mayor prevalencia de síntomas en la población estudiada. La prevalencia según los sexos o hábito tabáquico era similar en ambos estudios, lo que tampoco explica las diferencias en la calidad de vida.
+Estas diferencias podrían deberse a un sesgo en la participación de los pacientes de este trabajo, ya que nuestra muestra es pequeña, a la menor prevalencia de fumadores con EPOC con aumento de los exfumadores con esta enfermedad en este trabajo, con lo que no ser fumador activo mejoraría la calidad de vida, o al menor índice de paquetes/año en los participantes en este estudio, comparado con el mismo índice en el estudio EPI-SCAN.
+Solo el 21,1% de los casos identificados estaban corroborados por diagnóstico previo de EPOC. Este porcentaje es muy similar al observado en España en 1998 de 21,8%, pero bastante inferior al obtenido por Miravitlles en 2009, que ascendió al 27%. Nuestro resultado está en concordancia con otros estudios internacionales que cifran, por ejemplo, el 20% en Gran Bretaña o el 19% en Grecia.
+Curiosamente, en una encuesta anterior solo al 42,6% de los adultos que consultaron a un médico en España por síntomas respiratorios crónicos se les realizó una espirometría, y los programas de espirometría se han visto obstaculizados por la falta de experiencia, tiempo y motivación de los médicos de atención primaria, . Sin embargo, la accesibilidad y utilidad de la espirometría la hacen fundamental en el diagnóstico de la EPOC en atención primaria, . Aunque en este estudio se ha comprobado que la disponibilidad de espirómetros en los centros de salud de Aragón está próxima al 100%, se podría actuar creando un circuito de calidad con 2 o 3 enfermeras entrenadas en cada centro de salud, concienciando de la necesidad de utilizar la espirometría para el diagnóstico de la EPOC y realizando formación continuada al personal médico y de enfermería en la correcta interpretación de las mismas. Se podrían además realizar posteriores estudios para valorar la mejora en este punto al cabo de unos años.
+
+
+- CONCLUSIONES
+
+En resumen, el estudio ha encontrado una prevalencia de EPOC GOLD-definido de 10,4% en España, con un 78,9% de la enfermedad no diagnosticada. A pesar de ser en la mayoría casos obstrucción leve, los pacientes con EPOC tienen un deterioro significativo de la calidad de vida. Los síntomas respiratorios son muy frecuentes en población aragonesa. A pesar de ello la detección temprana de EPOC sigue siendo un problema sin resolver.Lo conocido sobre el temaLa EPOC es una enfermedad de gran alcance global, cuya prevalencia varía según el área geográfica.Tiene un importante impacto sanitario, social y económico.Se constata que la EPOC está alarmantemente infradiagnosticada e infratratada.Qué aporta este estudioLos síntomas respiratorios son muy prevalentes. Predominan en fumadores y aumentan con el consumo tabáquico.La prevalencia encontrada de EPOC fue del 10,4%. Se observa mayor prevalencia en las mujeres que en otros estudios. El infradiagnóstico fue del 78,9%.El tabaquismo muestra un descenso con respecto a estudios previos, pero disminuyendo también las mujeres que nunca han fumado.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha contado con una beca de Boehringer Alemania para remunerar al personal de enfermería participante en el estudio.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- AGRADECIMIENTOS
+
+A la Unidad de Investigación de Atención Primaria y a las enfermeras participantes de los distintos centros de salud.

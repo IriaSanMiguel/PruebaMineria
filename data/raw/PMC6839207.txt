@@ -1,0 +1,112 @@
+CRIBADO DE RIESGOS DERIVADOS DEL CONSUMO DE DROGAS UTILIZANDO LA HERRAMIENTA ASSIST (<ITALIC>ALCOHOL, SMOKING AND SUBSTANCES INVOLVEMENT SCREENING TEST</ITALIC>) EN PACIENTES DE ATENCIÓN PRIMARIA: ESTUDIO TRANSVERSAL
+
+
+- INTRODUCCIÓN
+
+El consumo de drogas y las adicciones son un problema prevalente a nivel mundial y constituyen una causa de mortalidad prevenible. En el año 2014 cerca de 250 millones de personas de entre 15 y 64 años consumieron al menos una sustancia ilícita. El número de drogodependientes adultos alcanza los 29 millones de personas en todo el mundo según estimaciones de la Oficina de las Naciones Unidas contra la Droga y el Delito.
+En España el Observatorio Español de Drogas y Toxicomanías recoge indicadores sobre la situación de los problemas en la población general incluyendo, de una parte, la encuesta EDADES que habla del consumo y percepción ante las drogas; y de otra parte indicadores de problemas relacionados con drogas, que incluye: el indicador de admisiones a tratamiento ambulatorio por consumo de sustancias, el indicador de urgencias hospitalarias en consumidores de sustancias, el indicador de mortalidad por reacción aguda a sustancias y las infecciones en consumidores de drogas. Sin embargo, estos indicadores procedentes de la población general podrían no reflejar la magnitud de los problemas encontrados en el ámbito sanitario.
+La información disponible dentro del sistema sanitario es incluso más reducida: por un lado disponemos del registro de altas hospitalarias relacionadas con drogas (conjunto mínimo básico de datos), y por otro lado en atención primaria prácticamente no disponemos de registros ni explotaciones de historia clínica fidedignas que reflejen la magnitud del problema de las drogas en el primer nivel asistencial. Existen algunas aproximaciones para cuantificar esto para algunas de las drogas más habituales, , , pero no para todas las drogas.
+Desde el punto de vista clínico-epidemiológico tiene relevancia conocer las prevalencias de trastornos por uso de sustancias. Los instrumentos para el diagnóstico formal de los trastornos son largos y costosos de aplicar a grandes poblaciones, y serían poco viables en ámbitos asistenciales como la atención primaria, . Además, existe un grupo de pacientes en el continuum de la enfermedad adictiva que están en riesgo derivados de su consumo, pero que no tienen criterios diagnósticos de enfermedad. Las herramientas de cribado para este grupo son algo más limitadas.
+En 2002 la Organización Mundial de la Salud (OMS) publicó la creación de una nueva herramienta conocida como Alcohol, Smoking and Substance Involvement Screening Test (ASSIST) , especialmente diseñada para el cribado de trastornos por uso de sustancias en atención primaria. Esta herramienta reduce sensiblemente el tiempo de aplicación respecto de las existentes, y aúna todas las drogas en la misma herramienta, además es útil para detectar policonsumidores.
+El objetivo principal de este estudio es estimar la proporción de pacientes con resultado positivo en el cribado de riesgos por uso de sustancias en una muestra representativa en el ámbito de la atención primaria, así como determinar sus características sociodemográficas y clínicas.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Se trata de un estudio multicéntrico observacional transversal.
+
+
+-- ÁMBITO
+
+Se realizó un muestreo consecutivo de conveniencia entre los pacientes que acudían por cualquier demanda clínica a 5 centros de salud del área Sur de Madrid (correspondientes al área del Hospital 12 de Octubre con una población asignada de 406.000 pacientes). El cribado se llevó a cabo desde mayo hasta agosto de 2012. La participación fue ofrecida a todos a todos los médicos de los 5 centros y finalmente 30 médicos de todos los centros aceptaron participar voluntariamente. Una vez finalizada la demanda clínica por la que acudía el paciente con su médico habitual, este ofrecía, según conveniencia, la participación en una encuesta confidencial sobre el consumo de drogas. Una vez firmado el consentimiento informado, el cuestionario ASSIST era aplicado por el médico habitual del paciente.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+--- PARTICIPANTES
+
+Entre los criterios de inclusión estaba la edad de 16-100 años, que hubiese una demanda clínica cualquiera por parte del paciente y la aceptación de participación en el estudio. Entre los criterios de exclusión se descartó a aquellos con deseo expreso de no participación, embarazadas y menores de edad, así como tener dificultad para comprender el español.
+
+
+--- TAMAÑO MUESTRAL Y SESGO
+
+Se calculó el tamaño muestral para estimar proporciones, teniendo en cuenta la de mayor prevalencia de cribados positivos esperada que en algunas series llegaba a un 30,8-35% para algunos de los trastornos, por lo que asumiendo un riesgo alfa de 0,05 sería necesario reclutar 350 pacientes (411 con un 15% de pérdidas esperadas).
+
+
+-- INSTRUMENTOS Y VARIABLES
+
+Para la determinación de la variable resultado principal se utilizó el test ASSIST, que es un cuestionario breve administrado por el profesional para identificar los niveles de uso perjudicial de sustancias. El cuestionario está validado al castellano y consta de 8 ítems sobre el consumo reciente y a lo largo de la vida de 10 sustancias (tabaco, alcohol, cannabis, cocaína, anfetaminas u otros estimulantes, ansiolíticos, alucinógenos, inhalantes y otras drogas). En este cuestionario se valoraron varios dominios mediante preguntas cerradas multirrespuesta (tiempo de uso, uso reciente, deseo de consumo, problemática de salud, social, legal, dificultad para suspender el consumo...). Derivadas de cada droga y cada área se obtuvieron puntuaciones totales para el test. Las puntuaciones intermedias entre 4 y 26 (11-26 para alcohol) se consideraban puntuaciones con consumo de riesgo moderado o consumo perjudicial. Por encima de 27 puntos el paciente tenía alto riesgo de dependencia, y es probable que pudiese experimentar problemas de pareja, de salud, sociales, económicos o legales derivados del consumo. Al final del cuestionario la pregunta 8 además valoraba el uso inyectado de alguna droga. Se recogieron, además, como variables de paciente las principales características sociodemográficas (sexo, edad, nivel económico en 3 categorías autorreferido, años de escolarización, situación laboral y centro de salud) para el ajuste posterior y la comparación de los grupos.
+Tras la recogida inicial de las variables sociodemográficas y la realización del ASSIST una psicóloga clínica verificaba los resultados mediante la recogida del gold estándar compuesto de Mini-International Neuropsychiatric Interview (MINI-Plus), AUDIT para alcohol validado al castellano para atención primaria, Fagërstrom para tabaquismo y la Escala de gravedad de la dependencia en su versión española.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+--- DESCRIPTIVO
+
+Se estimó la prevalencia global de pacientes con cribado positivo para los trastornos por uso de sustancias estableciendo la incertidumbre de la estimación con el intervalo de confianza (IC) al 95%. Las variables categóricas se muestran en forma de porcentajes. Para la descripción de las variables continuas estas son definidas por sus medidas de tendencia central y dispersión verificada la normalidad de las mismas, o mediana y rango intercuartílico (en el caso de las distribuciones asimétricas).
+
+
+--- INFERENCIAL
+
+Para estudiar la asociación entre las medias de puntuaciones se compararon entre grupos mediante la «t» de Student si la distribución es normal o la U de Mann-Whitney en caso contrario. Para las variables categóricas se compararon las proporciones usando la Chi cuadrado y se aplicó la corrección de Pearson. Para el análisis estadístico se utilizó el software Stata® v14.0 con los comandos extendidos «dc» o Data Check (J.M. Domènech) para verificar la integridad de la base con identificadores.
+
+
+- RESULTADOS
+
+-- PARTICIPANTES
+
+En total se recogieron datos de 441 participantes procedentes de 5 centros de salud distintos sin diferencias significativas detectadas entre ellos. Solo 38 pacientes rechazaron participar . De los 441 pacientes cribados 247 (56,1%) resultaron con algún cribado positivo moderado o grave para alguna de las sustancias cribadas (lo que incluía tabaco). Como se recoge en la tabla 1 se encontraron diferencias estadísticamente significativas para la edad. En el grupo de pacientes con cribado positivo la edad media fue de 47,1 años, frente a los 56,8 (p < 0,001) del grupo sin riesgos. Con respecto al nivel económico referido se encontraron diferencias significativas con mayor número de cribados positivos para pacientes con nivel económico bajo y medio (p = 0,028) (sin tendencia lineal asociada). En relación con los años de escolarización también existieron diferencias, así como en la situación laboral. No se relacionaron de forma relevante el sexo ni el estado civil en nuestra muestra de pacientes para cada uno de los grupos con o sin cribado positivo.Figura 1
+
+
+-- PATRONES DE CRIBADO DE RIESGO
+
+En la tabla 2 se recogen las prevalencias estimadas de riesgo moderado-alto para todas las sustancias. La prevalencia de cribado de riesgo moderado-alto para tabaquismo fue de 41,0% (36,4%-45,8%). El alcohol fue la más consumida (15,4%, IC al 95%: 12,2-19,1%) después del tabaco, y estaba seguida en tercer lugar por sedantes/hipnóticos (13,7%, IC al 95%: 10,5-17,2%). Las prevalencias de cannabis y cocaína fueron las siguientes con 5,7% (IC al 95%: 3,7-8,3%) y 2,7% (IC al 95%: 1,4-4,7%) respectivamente. Anfetaminas, inhalantes y otros alucinógenos prácticamente estaban ausentes en nuestra muestra.
+La prevalencia de policonsumo o cribado de riesgo moderado-alto para 2 sustancias o más fue del 16%, es decir, un 16% de la muestra encuestada presentaba consumo de riesgo para 2 o más sustancias . De los policonsumidores entre los que había riesgo moderado-alto para tabaco el 51,6% tenía también riesgo moderado-alto para alcohol. El patrón de policonsumo de 2 sustancias se asoció de forma significativa, siendo más frecuente en el grupo de hombres.
+Como se observa en la tabla 3, en el análisis por subgrupos se describe asociación estadísticamente significativa entre el consumo de alcohol, cannabis y el género, siendo su consumo más frecuente en el grupo de los hombres. En el caso de los sedantes o hipnóticos se encontraron más mujeres con riesgo moderado que hombres (4,8% vs 2,5%), aunque las diferencias para el patrón de riesgo combinado moderado-grave no fueron estadísticamente significativas. Para el resto de sustancias no se observaron diferencias estadísticamente significativas a destacar en ninguno del resto de los grupos.
+
+
+- DISCUSIÓN
+
+-- RESULTADOS PRINCIPALES
+
+Se trata del primer estudio de prevalencia de consumos de riesgo de todas las drogas utilizando la versión validada del ASSIST en España (herramienta de la OMS para cribado de sustancias en atención primaria). Además, la muestra se ha recogido en atención primaria incluyendo pacientes que acuden a centros de este tipo de un área concreta del Sur de Madrid.
+Entre los principales resultados encontramos que las drogas con cribado de riesgo más consumidas fueron el tabaco (41,7%), el alcohol (15,4%), los sedantes o hipnóticos (13,7%) y el cannabis (5,7%), encontrándose algunas diferencias: los hombres consumían más alcohol y cannabis; las mujeres tenían mayor consumo de sedantes/hipnóticos que los hombres. Se observó policonsumo en un 16% de los sujetos.
+Si comparamos las características sociodemográficas de la muestra con la de otras series, como la de Lee et al., las diferencias son escasas, pues ambas fueron reclutadas en atención primaria (a pesar de las diferencias de población americana y española). La gran mayoría de nuestros entrevistados refirió un nivel socioeconómico bajo. Los centros de atención primaria que participaron en nuestro estudio pertenecen a la antigua área sanitaria 11 de Madrid (zona sur). Entre las características de su población se encuentran, comparado con otras áreas de Madrid, mayor privación socioeconómica, menor renta per cápita, menor nivel de estudios y cifras elevadas de inmigración, entre otros. Estos centros, en general, atienden una casuística de mayor gravedad con peores resultados en salud, como se describe en algunos informes de mortalidad, . Esto podría hacer que encontrásemos cifras más elevadas de prevalencias de consumo de sustancias de las esperadas.
+En nuestro estudio el cribado era realizado por el mismo médico del paciente, quien lo interpretaba a su vez, frente a otros estudios en los que el paciente se autoadministraba el test. Esto podría aumentar la detección de cribados positivos al ofrecérselo más a aquellos para los que podría tener interés. A pesar de lo anterior, los datos de prevalencia coinciden mayoritariamente con los obtenidos en estudios en este tipo de muestras que usan las mismas herramientas, , , .
+De nuestra muestra llama la atención la prevalencia obtenida en el consumo de sedantes o hipnóticos, donde nuestros datos de consumo de riesgo moderado-grave llegan al 13,6% en los 441 participantes, frente al 2,1% de otras series. Esto quizá responda a un cambio de tendencia poblacional en España que ya ha sido recogido en la encuesta EDADES. En 2011 la encuesta estimaba prevalencias de consumo en el último año de un 19,5% de personas entre 15-64 años. En esta misma encuesta, en su versión de 2015, el consumo diario o casi diario de sedantes e hipnóticos se estimaba en un 6,8% de la población, cifra algo más aproximada a las encontradas en nuestro estudio. Su asociación con el sexo ya había sido igualmente descrita en esta misma encuesta.
+En lo que respecta a las prevalencias de policonsumo estas son distintas a las encontradas en otras series. En nuestra muestra se encontró un 16,1% de personas que consumían simultáneamente 2 sustancias con riesgo para ambas. Probablemente esto se deba a las diferencias poblacionales de nuestra muestra, así como al tamaño reducido de las otras series mencionadas, donde sería más difícil detectar ese policonsumo.
+
+
+-- LIMITACIONES
+
+El análisis de nuestro estudio solo incluye a aquellos a los que se les había propuesto participar, por lo que se desconoce la aceptabilidad de la prueba. Esto podría afectar a la validez externa, dado que se produce una selección de forma indirecta en aquellos pacientes más dispuestos, o más enfermos que estén interesados en realizar este cribado.
+Dado que el cálculo del tamaño muestral no tuvo en cuenta la prevalencia previa ya esperada de consumo de tabaco, lo cual nos exigiría una muestra mayor, las mediciones sobre esta podrían no ser representativas de la realidad; sin embargo, en el resto de cribados de consumo de riesgo, al encontrarse por debajo, si existiría suficiente tamaño muestral para estimar adecuadamente la proporción de prevalencias de consumos de riesgo.
+Al haberse excluido de este estudio a las embarazadas y a los menores de edad, no poseemos datos para valorar la aplicabilidad de este tipo de test en población adolescente menor de 18 años, cuyas escalas y herramientas de cribado generalmente se separan de las del adulto que consulta en un centro de atención primaria.
+En lo que refiere a la generalización de los resultados, la herramienta desarrollada por la OMS y utilizada aquí, el ASSIST, está especialmente diseñada para atención primaria. Paralelamente, los sistemas de vigilancia y los servicios estadísticos de los Estados miembros en Europa utilizan preguntas estandarizadas, como las recogidas en la encuesta EDADES mencionada, para explorar el consumo de sustancias en la población general. La estructura de estos cuestionarios recoge prácticamente la totalidad de las preguntas del ASSIST.
+En España la encuesta EDADES se realiza a 20.000 sujetos de forma telefónica y por conglomerados de población y áreas geográficas para garantizar la representatividad. Las prevalencias obtenidas en nuestra muestra no coinciden con las referidas por esta encuesta, probablemente porque no se trata de población general estricta, no dejan de ser pacientes consultantes en centros de salud de un área concreta y, por tanto, lleva incluido ese sesgo, así como el que pudiese introducir el profesional en la selección al realizarse el muestreo según conveniencia y en función de la disponibilidad en la consulta.
+
+
+-- INTERPRETACIÓN
+
+El ASSIST es una herramienta de valor ya desarrollada y validada por la OMS y por otros grupos en varios idiomas. En atención primaria el uso de herramientas para la detección precoz de posibles trastornos por uso de sustancias es especialmente importante, sobre todo porque esta herramienta es capaz de detectar consumo de riesgo sin invertir gran cantidad de tiempo, como necesitarían las previas para realizar el diagnóstico de los trastornos.
+Este estudio representa, hasta donde sabemos, la primera estimación de riesgos derivados de todas las drogas mediante el uso de la herramienta ASSIST en Atención Primaria en España. Se detectaron cifras de prevalencia similares a las encontradas en otros estudios para problemas relacionados con tabaco, alcohol y sedantes, entre otros.
+Además, es importante resaltar que en ocasiones los consumos de riesgo no lo son para una única sustancia, y esta herramienta permite detectar a policonsumidores en riesgo, pues está diseñada para las 9 drogas más comunes. Este tipo de sujetos son pacientes en especial riesgo, y además del posible consumo de recursos asociados podría ser necesario derivarlos de forma precoz a un tratamiento más especializado de segundo nivel.
+El hecho de haber detectado en nuestra muestra una prevalencia mayor de consumo de riesgo para benzodiacepinas (sedantes/hipnóticos) coincidente con la literatura podría requerir de acciones o actividades concretas dirigidas a este tipo de pacientes en atención primaria. Para evitar este consumo en poblaciones especiales, como los ancianos, ya se han puesto en marcha actividades y sistemas dirigidos. El ASSIST podría ayudar a detectar este tipo de situaciones de forma precoz.
+Entre los siguientes objetivos se podría buscar estimar la fiabilidad de la autoaplicación del test, así como determinar el coste-eficacia de su uso en atención primaria, o cómo abordar otras poblaciones como los adolescentes no incluidos en nuestra muestra y para la que ya hay algunos protocolos.Lo conocido sobre el tema•El cribado universal de todas las drogas en atención primaria no tiene suficiente evidencia por falta de herramientas rápidas y fiables.•Las prevalencias de los consumos de riesgo se desconocen en nuestro medio y se estiman a partir de encuestas telefónicas.•El consumo de varias drogas a la vez, incluidas alcohol, tabaco y benzodiacepinas es una realidad en aumento.Lo que aporta este estudio•En atención primaria se podría utilizar ASSIST para el cribado rápido de riesgos derivados del consumo de varias drogas en pacientes.•El test ASSIST es aplicable por el médico de familia o por el paciente.•La prevalencia de consumo de riesgo de benzodiacepinas es algo más elevada en este medio.
+
+
+- FINANCIACIÓN
+
+Esta investigación fue parcialmente financiada mediante las ayudas concedidas por Pfizer Pharmaceutical Company al Instituto de Investigación 12 de Octubre.
+
+
+- AUTORÍA
+
+G.R. concibió el estudio y participó en el diseño y la coordinación. A.R. y J.A.L.R. realizaron el análisis. Todos los autores del Grupo ASSIST de Madrid realizaron parte del trabajo de campo. J.A.L.R. y G.R. escribieron el manuscrito final. A.R., G.R. y M.N.G.L. colaboraron en el manuscrito. Todos los autores revisaron el manuscrito y aprobaron su versión final.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener conflicto de intereses.

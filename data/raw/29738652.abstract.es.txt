@@ -1,0 +1,5 @@
+Este estudio demuestra el efecto que el SPS, y en particular el aseguramiento en salud, tiene como un instrumento de protección financiera. Para futuros estudios se propone analizar la persistencia del alto porcentaje del gasto de bolsillo aprovechando series de tiempo más largas de la ENIGH.
+Se aplicó el método de pareo por puntaje de propensión sobre la afiliación al SPS y se determinó el efecto atribuible en el gasto en salud. Se hizo uso de la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) de 2004 a 2012, del Instituto Nacional de Estadística y Geografía.
+Determinar el impacto del Seguro Popular (SPS) en los gastos catastróficos y empobrecedores de los hogares y la protección financiera del sistema de salud en México.
+El SPS tiene un efecto significativo reductor en la probabilidad de sufrir gastos empobrecedores. En lo que respecta a los gastos catastróficos hubo reducción sin ser significativa entre grupos.
+

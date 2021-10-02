@@ -1,0 +1,98 @@
+EFECTIVIDAD DE LA TERAPIA COMPRESIVA DE DOBLE CAPA FRENTE AL VENDAJE DE CREPÉ EN LA CICATRIZACIÓN DE ÚLCERAS VENOSAS EN ATENCIÓN PRIMARIA. ENSAYO CLÍNICO ALEATORIZADO
+
+
+- INTRODUCCIÓN
+
+Las úlceras de etiología venosa (UEV) son lesiones con pérdida de sustancia, secundarias a la insuficiencia venosa crónica severa. Su prevalencia es del 0,5-0,8%, siendo del 3-5% en mayores de 65 años, y va en aumento, debido al envejecimiento progresivo de la población.
+Las UEV producen un importante impacto en la calidad de vida de los pacientes. Las causas son el dolor, la limitación de la movilidad, la repercusión en su aspecto físico y el exudado de las heridas. Su manejo conlleva elevados costes directos e indirectos debido al largo tiempo de cicatrización, infecciones, recidivas y hospitalización por complicaciones.
+El tratamiento local de las UEV se basa en la cura tópica de la úlcera y el manejo de la insuficiencia venosa mediante una terapia compresiva. Existe evidencia acerca de que la terapia compresiva favorece el proceso de cicatrización de las úlceras venosas, , . En cuanto al tipo de vendaje, no existe un claro consenso, si bien la mayoría de los estudios encontrados hasta ahora sugieren que la utilización de vendaje multicapa es más eficaz que la utilización de vendaje de un solo componente. La mayoría de estos estudios analizan el vendaje multicapa de 4 capas, , .
+Por otro lado, los estudios que comparan la utilización de vendaje de 4 capas frente a vendaje de 2 capas, no encuentran diferencias en el porcentaje de cicatrización de las úlceras, , , , pero sí se observa que los pacientes toleran mejor y muestran preferencias por el vendaje de 2 capas frente al de 4 capas, refieren una percepción de calidad de vida mayor, y su aplicación resulta más fácil para los profesionales.
+En este marco, se recomienda realizar nuevos estudios comparando específicamente el vendaje multicapa de 2 capas, realizado en el ámbito donde habitualmente se presta atención sanitaria a estos pacientes y utilizando técnicas de enmascaramiento para la evaluación de la variable respuesta.
+No hemos encontrado en nuestro país ningún estudio que compare, específicamente, la efectividad del vendaje de 2 capas frente al vendaje con compresión ligera monocapa elástica, que ha sido el utilizado habitualmente en atención primaria (AP).
+Así, realizamos este estudio, cuyo objetivo principal fue evaluar si el vendaje compresivo multicapa de 2 capas es más efectivo que el vendaje con venda de crepé en la cicatrización de las UEV en pacientes atendidos en AP, medido a través de la incidencia de úlceras con cicatrización completa a las 12 semanas de seguimiento.
+Como objetivos secundarios, comparamos si el vendaje con 2 capas es más efectivo en el grado de cicatrización alcanzado, medido a través del cuestionario Resvech 2.0, y en la mejora de la calidad de vida, medida con el cuestionario Charing Cross Venous Ulcer Questionnaire (CCVUQ-e). Analizamos los factores sociodemográficos, clínicos y de tratamiento, asociados a la cicatrización completa de las UEV.
+
+
+- MATERIAL Y MÉTODOS
+
+Desarrollamos un ensayo clínico controlado multicéntrico con grupos paralelos, asignación aleatoria y evaluación ciega de la variable respuesta, de 12 semanas de seguimiento. La metodología del estudio se presenta de forma más detallada en la publicación del protocolo.
+Participaron enfermeras de 22 Centros de Salud de la Comunidad de Madrid. Los sujetos de estudio fueron mayores de 18 años, con diagnóstico de UEV, con índice tobillo-brazo (ITB) entre 0,8 y 1,3, atendidos por las enfermeras que colaboraron en el estudio, que dieron su consentimiento informado (CI) para participar. Se excluyó a los que presentaban contraindicaciones de terapia compresiva, diagnosticados de diabetes mellitus mal controlada y en tratamiento con antineoplásicos.
+Asumiendo un error alfa de 0,05, error beta de 0,2 y una diferencia mínima a detectar del 20%, se estimó estudiar 97 pacientes en cada grupo, que se amplió a 108 al contemplar un 10% de pérdidas.
+Los pacientes se incluyeron por muestreo consecutivo y competitivo hasta alcanzar el tamaño muestral. Cuando el paciente decidía participar y firmaba el CI, se introducían sus datos en un cuaderno de recogida de datos electrónico (CRDe) diseñado ad hoc, y se le asignaba al grupo experimental o control mediante asignación aleatoria simple, utilizando un sistema automatizado incluido en el CRDe.
+
+
+-- INTERVENCIÓN
+
+Grupo control: práctica clínica habitual según recomendaciones para el tratamiento de úlceras cutáneas crónicas de la Comunidad de Madrid: valoración, limpieza, desbridamiento y tratamiento tópico de cura. Aplicación de terapia compresiva con venda de compresión ligera monocapa (crepé).
+Grupo experimental: la misma práctica habitual para el tratamiento de la herida. Aplicación de terapia compresiva con vendaje multicapa de 2 capas.
+Todos los pacientes recibieron consejos higiénico-dietéticos e información de signos y síntomas adversos.
+Las enfermeras aplicaron los 2 tipos de vendaje. Para normalizar la práctica habitual y la experimental, se realizó un entrenamiento previo al comienzo del ensayo.
+
+
+-- VARIABLES
+
+La variable respuesta principal fue la cicatrización completa a las 12 semanas de seguimiento, definida como epitelización completa y mantenida por lo menos durante 2 semanas. Se midió el tiempo transcurrido entre el comienzo del estudio y la cicatrización completa en días.
+Las variables de respuesta secundarias fueron: grado de severidad de las lesiones medido con el cuestionario Resvech 2.0, calidad de vida relacionada con la salud medida con CCVUQ-e y presencia de reacciones adversas.
+Se recogieron variables sociodemográficas (edad, género, nivel de estudios); variables clínicas relacionadas con la cicatrización: índice de masa corporal (IMC), consumo de alcohol, hábito tabáquico, movilidad del paciente, tiempo con las piernas elevadas, si camina y hace ejercicio, si es recidivante, dolor, número de úlceras, tiempo de evolución; patologías asociadas (insuficiencia cardiaca, insuficiencia renal, hipertensión arterial, diabetes, asma o EPOC, artrosis y varices).
+El grado de severidad de la úlcera y la cicatrización fueron valorados por una enfermera evaluadora externa, en la visita previa a la intervención y en las siguientes visitas de seguimiento, desconociendo siempre la intervención.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis comparativo de los 2 grupos en la visita basal, utilizando los test correspondientes (chi cuadrado para comparación de proporciones y t de Student para comparación de medias).
+Análisis de efectividad principal: se comparó la incidencia de úlceras con cicatrización completa a las 12 semanas de seguimiento en ambos grupos, así como el tiempo hasta la cicatrización completa utilizando curvas de Kaplan-Meier (test de log-rank).
+Para ajustar por factores pronósticos, se realizó un modelo de regresión de Cox, en el que la variable dependiente fue el tiempo de cicatrización completa y la variable independiente, el grupo de intervención. Se incluyeron en el modelo aquellas variables que pudieran actuar como confusoras o modificadoras del efecto.
+Para comparar el grado de cicatrización alcanzado medido a través del Resvech2.0 en ambos grupos se utilizaron las medias marginales. Para comparar la mejora de la calidad de vida se utilizó un anova de medidas repetidas.
+Todos los análisis se realizaron por intención de tratar.
+Se utilizó el paquete estadístico SPSS.19.
+
+
+-- ASPECTOS ÉTICOS Y LEGALES
+
+El estudio fue evaluado con informe favorable por la Comisión Central de Investigación de la Gerencia de AP de Madrid y por el Comité de Ética e Investigación Clínica del Hospital Gregorio Marañón. Se respetaron los principios básicos en investigación de acuerdo a los principios de la Declaración de Helsinki (2013). Todos los sujetos que participaron en el estudio fueron informados verbalmente y por escrito y firmaron el CI.
+Registro del Proyecto en Clinical trials.gov: NCT02364921.
+Esquema general del estudio. Ensayo clínico controlado multicéntrico con grupos paralelos, asignación aleatoria y evaluación ciega de la variable respuesta, de 12 semanas de seguimiento. 
+
+
+- RESULTADOS
+
+En el periodo de estudio, de febrero de 2015 a enero de 2018, se invitó a participar a 108 pacientes. Se excluyeron 15, y 93 fueron incluidos en el estudio; 56 fueron aleatorizados al grupo experimental y 37 al grupo control.
+En la tabla 1 se describen las características basales de los pacientes incluidos. Los grupos fueron homogéneos en cuanto a variables clínicamente relevantes, no encontrándose diferencias estadísticamente significativas entre los pacientes de ambos grupos.
+En la tabla 2 se describen las características basales de las úlceras según los aspectos evaluados en la escala Resvech 2.0. Tampoco se encuentran diferencias estadísticamente significativas entre ambos grupos.
+Los pacientes con úlceras con cicatrización completa al finalizar el seguimiento fueron 57, 61,35% (IC al 95% 50,6-71,2). En el grupo de pacientes tratados con vendaje de crepé, 25, 67,5% (IC al 95% 50,2-81,9) y en el de los tratados con vendaje multicapa, 32, 57,1% (IC al 95% 43,2-70,3). No encontramos diferencias estadísticamente significativas en el porcentaje de úlceras con cicatrización completa entre ambos grupos, RR = 1,10 (IC al 95% 0,864-1,424).
+La mediana del tiempo de cicatrización completa fue de 45 días para las úlceras con vendaje multicapa y de 60 para las úlceras con crepé. La figura 1 muestra el tiempo transcurrido hasta la cicatrización completa en los 2 grupos. No encontramos diferencias entre ambos. Log-rank, p = 0,744.Figura 1
+La figura 2 muestra la evolución del grado de cicatrización medido a través de la puntuación Resvech, en las visitas de seguimiento. No encontramos diferencias estadísticamente significativas entre los 2 grupos (p = 0,635).Figura 2
+En relación con las variables asociadas al tiempo transcurrido hasta la cicatrización completa de las úlceras, en el análisis de regresión de Cox, solo se asoció de manera significativa el grado de severidad de las úlceras al comienzo del estudio, medido con la puntuación Resvech, HR = 0,86 (IC al 95% 0,78-0,94); (p = 0,001).
+La tabla 3 muestra la evolución de la calidad de vida, según el tipo de vendaje. En el total de la muestra se observan diferencias estadísticamente significativas en la puntuación de la calidad de vida total antes y después de la intervención, que indican mejora, y al estudiarlo por dimensiones, en la dimensión cosmesis (p = 0,008) y estado emocional (p = 0,012). También se observa mejoría en la dimensión cosmesis en el grupo multicapa (p = 0,001). Al analizar la calidad de vida según el vendaje utilizado, no se encuentran diferencias significativas en la mejora de la calidad de vida total ni por las dimensiones estudiadas.
+No se produjeron reacciones adversas graves en ninguno de los grupos. Se observa una reacción alérgica leve en el grupo intervención doble capa.
+
+
+- DISCUSIÓN
+
+En nuestro estudio, el 61,35% de los sujetos alcanzaron la cicatrización completa al finalizar el seguimiento (12 semanas), el 67,5% de los tratados con crepé y el 57,1% de los tratados con multicapa. No hemos encontrado diferencias estadísticamente significativas entre ambos grupos, ni tampoco en el tiempo de cicatrización.
+Entre los estudios que comparan la cicatrización de las úlceras venosas al aplicar distintos vendajes, encontramos resultados diferentes. En la revisión de O’Meara et al. concluyen que los sistemas de compresión con varios componentes son más efectivos que los de un componente.
+Torra et al. realizaron un estudio comparando la efectividad y el coste entre el vendaje de 4 capas y el de crepé. A pesar de las limitaciones metodológicas, sus resultados orientan a que el vendaje de 4 capas es más efectivo en el manejo del dolor y genera menor coste.
+Guest et al. observaron tasas más elevadas de cicatrización en los pacientes a los que se les aplicó un vendaje de un componente frente a vendajes de más componentes.
+En una reciente revisión sistemática que compara la efectividad de los vendajes de 4 capas frente al de corto estiramiento, concluyen que ambos sistemas son semejantes en cuanto al porcentaje de úlceras con cicatrización completa a las 24 semanas de seguimiento.
+En nuestro estudio, el 61,35% de los pacientes alcanzaron la cicatrización completa a las 12 semanas de seguimiento. Consideramos que es un buen resultado. Además, esta cifra está en el rango superior de las observadas en otros estudios, , , , . Las úlceras de los sujetos de nuestro estudio son, en general, de pequeño tamaño. Este hecho ha podido explicar en parte el alto porcentaje de úlceras que han alcanzado la cicatrización completa. Además, ha podido ser uno de los factores que hayan influido en no encontrar diferencias en la cicatrización entre ambos grupos, ya que el mayor grado de compresión alcanzado con el vendaje multicapa marca la diferencia sobre todo en el caso de úlceras de mayor tamaño.
+También ha podido influir una mayor tasa de abandonos debido a la intolerancia a la compresión que se ha producido en el grupo de vendaje de multicapa (16%) frente al de crepé (3%).
+Otro factor que ayuda a explicar la falta de diferencia en la cicatrización entre los 2 grupos puede ser que, a pesar de la formación recibida previa al estudio, las enfermeras tuvieran diferente habilidad al aplicar una técnica de vendaje u otra, hecho observado en otros estudios. Posiblemente, las enfermeras mostraron mayor habilidad en el vendaje de crepé, por llevar más tiempo utilizando esta técnica.
+El único factor asociado a la cicatrización de las úlceras ha sido el grado de severidad de las úlceras, medido con el Resvech, que valora aspectos específicos de la herida, dimensión, bordes, exudado e infección. La dimensión de la úlcera ha sido identificada como un factor asociado a la cicatrización en los trabajos de O’Meara et al. y de Margolis et al.. Otros estudios identifican, como factores asociados a la cicatrización, el tiempo de evolución de la úlcera, y el ser recurrente.
+Al comparar la calidad de vida de los pacientes, medida al comienzo y al final del estudio, observamos una mejora significativa. Analizando por dimensiones, la mejora es significativa en las dimensiones cosmesis y estado emocional. Esta mejoría se observa en los 2 grupos, sin encontrar diferencias entre ellos. En otros estudios tampoco se encuentran diferencias en la mejora de la calidad de vida entre los tipos de vendajes utilizados, . Sin embargo, la utilización de diferentes instrumentos de medida de la calidad de vida limita la comparación de estos datos.
+La principal limitación de nuestro estudio ha sido no haber alcanzado el tamaño de muestra predeterminado. Dificultades ajenas, como la movilidad laboral de los profesionales durante la captación de pacientes, han condicionado una importante reducción del tamaño muestral. Además, se han producido más pérdidas de las esperadas, un 19% en el grupo de vendaje de crepé y un 30% en el grupo de doble capa, debido principalmente a la intolerancia a la compresión. Los resultados de nuestro estudio muestran una diferencia en el porcentaje de cicatrización entre los 2 grupos de un 10%, menor de la esperada del 20%, y además a favor del vendaje de crepé, en contra de nuestra hipótesis inicial. Todo ello ha derivado en disminuir la potencia del estudio, limitando la posibilidad de encontrar diferencias entre los grupos si realmente existían. Como fortaleza, destaca la evaluación ciega de la variable respuesta principal; la enfermera que evaluaba el grado de cicatrización desconocía el tipo de vendaje aplicado. También, la utilización de instrumentos de medida específicos para úlceras venosas: la escala Resvech, para la cicatrización, y la escala CCQVU-e, para calidad de vida. Además, se comprobó el carácter venoso de las úlceras asegurando un ITB entre 0,8 y 1,3.
+
+
+- CONCLUSIONES
+
+En nuestro estudio, no encontramos diferencias significativas en la cicatrización de las úlceras entre los 2 tipos de vendaje utilizados, por lo que no podemos extraer conclusiones sobre la técnica de vendaje más adecuada. Sin embargo, los datos obtenidos nos permiten concluir que ambas técnicas empleadas son apropiadas para lograr la cicatrización de las úlceras, y para mejorar la calidad de vida, además de seguras para el paciente. Proponemos que al elegir el tipo de vendaje se tenga en cuenta las habilidades y preferencias de los clínicos en la técnica, el coste y la aceptabilidad de los pacientes.
+Creemos que sería adecuado llevar a cabo nuevos estudios en el marco de la AP intentando alcanzar un tamaño de muestra que permita obtener conclusiones, a la vez que explorar otras variables, como las habilidades de los profesionales en la técnica de vendaje, que ayuden a explicar los factores que influyen en la cicatrización de las úlceras y a elegir la mejor opción terapéutica.Lo conocido sobre el tema•Las úlceras de etiología venosa son muy prevalentes en la población mayor de 65 años y producen un importante impacto en la calidad de vida de los pacientes.•Existe evidencia acerca de que la terapia compresiva favorece el proceso de cicatrización de las úlceras venosas, pero no existe un claro acuerdo en cuanto al tipo de vendaje a utilizar.Qué aporta este estudio•Los 2 tipos de vendaje utilizados: doble capa y crepé son apropiados para lograr la cicatrización de las úlceras, así como para mejorar la calidad de vida.•Ambos tipos de vendaje son seguros para el paciente, al no observar reacciones adversas graves.•No encontramos diferencias significativas en la cicatrización de las úlceras entre los 2 tipos de vendaje utilizados, por lo que no podemos extraer conclusiones sobre el método de vendaje más adecuado.
+
+
+- FINANCIACIÓN
+
+Financiado por el Ministerio de Ciencia e Innovación, a través del Instituto de Salud Carlos III. PN de I+D+I 2008-2011 Cofinanciado con fondos FEDER (PI13/01975) y la Fundación para la Investigación e Innovación Biosanitaria de Atención Primaria de la Comunidad de Madrid (FIIBAP).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses relacionado con el contenido del manuscrito.

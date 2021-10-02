@@ -1,0 +1,64 @@
+ABORDAJE PURAMENTE ENDOSCÓPICO SUPRACEREBELOSO INFRATENTORIAL PARA QUISTE EPIDERMOIDE EN TERCER VENTRÍCULO
+
+
+
+
+
+- INTRODUCCIÓN
+
+Los quistes epidermoides (QE) representan una patología tumoral infrecuente del sistema nervioso central (incidencia aproximada entre 0,5-2% de los tumores intracraneanos), siendo aún más infrecuente su localización dentro del tercer ventrículo (incidencia de 1 en 100 millones de habitantes). Su ubicación en la región pineal plantea diagnósticos diferenciales principalmente con tumores germinales/germinales no germinomatosos, pineocitomas, pineoblastomas, gliomas de la placa cuadrigeminal y quistes de glándula pineal. Los diagnósticos diferenciales resultan ser más frecuentes que el QE de mencionada localización.
+Dichas patologías tienen diversas vías de abordaje, la más utilizada es la supracerebelosa infratentorial (ASCI). En 1971, Stein popularizo el ASCI por vía microquirúrgica para acceder a la región pineal. Con el advenimiento de la técnica endoscópica Ruge et al. publico el primer abordaje puramente endoscópico para la fenestración de un quiste aracnoideo de la cisterna cuadrigeminal, desde entonces este abordaje fue ganando terreno como una opción con menos morbilidad intra y postoperatoria respecto a la técnica microquirúrgica.
+En este trabajo se expone un paciente con diagnóstico de QE del tercer ventrículo a quien se le realizo un ASCI puramente endoscópico con resección total del tumor. A su vez se realiza revisión bibliográfica respecto a este tipo de abordaje.
+
+
+- CASO CLÍNICO
+
+-- HISTORIA
+
+Paciente sexo masculino, 16 años de edad que consulta en forma ambulatoria al servicio de endocrinología por poliuria y cefaleas crónicas intermitentes. Niega cambios en la visión o síntomas de hipertensión endocraneana. Se le diagnostica diabetes insípida (DI) y se le solicita resonancia magnética nuclear (RMN) de encéfalo con contraste.
+Con los resultados es derivado al servicio de neurocirugía donde al examen físico no se evidencian signos neurológicos remarcables. Refiere cefaleas intermitentes que ceden con analgésicos comunes. Se encuentra en tratamiento con desmopresina intranasal para manejo de la DI. Modified Rankin Scale (m-RS) 1. En RMN se evidencia imagen de aspecto heterogéneo a predominio hipointenso en T1 e hiperintensa en T2 y FLAIR de localización dentro del tercer ventrículo, presenta focalmente áreas que restringen en difusión. Presenta refuerzo periférico con el contraste a nivel posterior, interpretándose como cápsula tumoral.
+A su vez, se observa a nivel de la hipófisis posterior ausencia de señal hiperintensa con engrosamiento del tallo hipofisario (5 mm AP) que realza en forma homogénea luego de la administración de contraste.
+Sistema ventricular de tamaño conservado sin signos de hidrocefalia .
+Ante la posibilidad de diagnóstico de tumor germinal no germinomatoso se procede a tomar muestras pareadas de líquido cefalorraquídeo y sangre, para determinar niveles de b-HCG y alfa-fetoproteina. Las mismas resultan negativas por lo cual se procede a realizar biopsia endoscópica de la lesión mediante ASCI.
+
+
+-- CIRUGÍA [<XREF REF-TYPE="SUPPLEMENTARY-MATERIAL" RID="SD1">VIDEO 1</XREF
+
+Paciente en posición sentada, cabeza flexionada anteriormente para disminuir el ángulo de deflexión el tentorio. Fijación con cabezal Sugita. Se realiza incisión paramediana derecha de 5 cm de longitud aproximadamente. Se realiza agujero de trepano con ampliación a 2 cm de diámetro. Se progresa con endoscopio rígido de base de cráneo mediante técnica bimanual al corredor paramediano supracerebeloso-infratentorial derecho. Se realiza coagulación de venas puentes. Se identifica la hendidura tentorial con tubérculo cuadrigemino superior derecho hacia lateral y vena de galeno a nivel superomedial. Entre estos dos se observa anatomía distorsionada y se procede a realizar disección con microtijeras y pinza pituitaria. Se progresa a cavidad del tercer ventrículo y se identifica masa tumoral de aspecto escamoso, de color blanco nacarado, avascular y fácilmente aspirable. Se sospecha quiste epidermoide y se procede a realizar resección endoscópica total. Se visualizan estructuras del continente del tercer ventrículo. No se logra visualizar tallo hipofisario .
+
+
+-- POSTOPERATORIO
+
+Cursa postoperatorio en unidad cerrada durante 48 horas. En el postoperatorio inmediato continua con DI y presenta leve paresia braquial izquierda. Presenta diplopía con síndrome de Parinaud. Pasa a sala general sin complicaciones y se otorga el alta hospitalaria a los 5 días postoperatorios. Resultado de anatomía patológica informa quiste epidermoide.
+En RMN de control 3 meses postoperatorios, se evidencia cavidad ventricular libre pero con persistencia de realce a nivel del tallo hipofisario. El paciente recupero la función motora braquial izquierda, no presenta signos de síndrome de Parinaud y niega cefaleas (mRS-1) .
+
+
+- DISCUSIÓN
+
+La cirugía endoscópica ha sido considerada en las últimas décadas como un procedimiento seguro en el tratamiento de patologías de base de cráneo. La menor morbilidad postoperatoria con la mejor resolución visual ha hecho que la cirugía endoscópica vaya ampliando sus horizontes a otras regiones del sistema nervioso central.
+El ASCI descripto en su forma clásica por vía microquirúrgica no es un abordaje exento de complicaciones y morbilidad postoperatoria. Entre estas se presentan alteraciones transitorias en los movimientos oculares, ataxia, fístula de LCR y meningitis, infartos venosos cerebelosos (estos ultimo no muy frecuentes). Dentro de las complicaciones intraoperatorias se encuentran sangrados, embolias aéreas, y lesión de vasos del complejo de la vena de Galeno. Estas complicaciones intraoperatorias también se encuentran presentes dentro del abordaje endoscópico pero el abordaje microquirúrgico posee mayor ventana quirúrgica para solucionarlas .
+Chaussemy et al., engloba a los procedimientos endoscópicos de abordaje a la región pineal en transventriculares/transforaminales (TT) o extracerebrales. El abordaje endoscópico TT es el procedimiento de elección para resolución de la hidrocefalia en aquellos pacientes que debutan con una hidrocefalia obstructiva. Durante el mismo se puede realizar una ventriculostomia (TVE) y toma de muestra de la lesión tanto para citología de LCR e histopatología (la probabilidad de falsos negativos o muestra insuficiente oscila entre 52 al 70% según Uschold et al.). Muchos endoscopistas han evitado el ASCI para bordaje de la región pineal debido al advenimiento de los endoscopios flexibles. Cabe remarcar que estos endoscopios brindan una resolución de imagen sustancialmente inferior y el uso de la vía TT no está exenta del riesgo de lesión forniceal. Se sugiere evitar intentar la resección tumoral por esta vía debido a la imposibilidad de observar el complejo venoso de Galeno, lo cual aumenta las posibilidades de injuria del mismo. A su vez se corre riesgo de dañar la adhesión intertalamica con el riesgo de hemorragia incontrolable.
+En el caso de pacientes con síntomas crónicos y/o hallazgo imagenologico de tumor de región pineal el ASCI puramente endoscópico es una opción segura en manos adiestradas al manejo del endoscopio. Se recomienda el manejo bimanual.
+Dentro de la valoración preoperatoria se sugiere realizar ecocardiografía para descartar la presencia de foramen ovale permeable y a su vez realizar RMN de encéfalo con contraste para determinar característica del tumor y presencia de venas puentes entre el tentorio y el cerebelo. Chaussemy et al., determina que los tumores que podrán tener mejores posibilidades de resección significativa son aquellos menores a 2,5 cm de diámetro en caso de tumores duros y vascularizados y en el caso de tumores blandos, aspirables y poco vascularizados el tamaño tumoral no sería de gran importancia. Uschold et al. concluye que lesiones como el tumor epidermoide, teratomas, tumores germinales, gliomas de bajo grado y pineocitomas son las lesiones más pasibles de resección total endoscópica. En nuestro caso se presentó un tumor epidermoide avascular y aspirable que resulto en complicaciones hemostáticas prácticamente nulas.
+Respecto al riesgo de embolia aérea, Gore et al. enfatiza que su ocurrencia es menor en el ASCI respecto al abordaje microquirúrgico debido a que en la apertura dural los senos no son expuestos y se realiza una craniectomía de menor tamaño disminuyendo el riesgo de ingreso de aire.
+Respecto al posicionamiento del paciente la posición sentada con la cabeza flexionada hacia el tórax posiciona la tórcula a nivel perpendicular respecto al cirujano. Esta posición a su vez disminuye la presión venosa y relaja el cerebelo debido al efecto gravitatorio. A diferencia del abordaje microquirúrgico la cisterna magna no puede ser abordada lo cual dificulta el descenso cerebeloso. Para facilitar la retracción gravitacional del cerebelo ante esta dificultad se puede utilizar Manitol y la colocación de un drenaje lumbar preoperatorio.
+El sacrificio de las venas puentes cerebelosas es considerado para muchos autores como algo necesario y exento de complicaciones graves. Mediante el mismo se obtiene mejor retracción cerebelosa mejorando la exposición de la placa cuadrigeminal. Si bien las complicaciones son poco frecuentes, pueden producir desde síntomas autolimitados, como mareos, náuseas y cefaleas producto de la estasis venosa, hasta a infartos cerebelosos venosos. Ueyama et al., sugiere realizar el sacrificio de venas puente hemisféricas en vez de vermianas ya que presentan abundante circulación colateral.
+Un concepto importante dentro de la cirugía endoscópica es la libertad quirúrgica para manipular estructuras neurovasculares importantes. El estrecho espacio de los corredores utilizados en el ASCI es objeto de constante frustración entre los cirujanos que se inician en la práctica de este método.
+Zaidi et al., realizó un estudio cadavérico para evaluar el mejor corredor endoscópico para abordar lesiones de la región pineal. Utilizó el corredor de la línea media, el paramediano, el lateral y el extremo lateral. Para entender el beneficio de cada corredor hay que tener en claro que las estructuras a abordar se encuentran en una disposición cráneo caudal y que las rutas de abordaje se desplazan en sentido medial a lateral. Conforme nos desplazamos por el cerebelo existe una separación progresiva del mismo respecto al tentorio. A su vez el drenaje venoso aumenta su circulación colateral de medial a lateral hacia los senos petrosos. Bajo estos conceptos, Zaidi descarta el abordaje de línea media por el riesgo de sacrificar venas de drenaje que no tienen drenaje colateral. Encontró que los corredores que brindan mayor liberta quirúrgica para abordar lesiones ubicadas en el esplenio, glándula pineal y coliculos superiores son el paramediano, lateral y extremo lateral respectivamente. En el caso de nuestro paciente se utilizó el corredor paramediano con buenos resultados.
+Se carece al momento de la revisión bibliográfica de este trabajo estudios descriptivos in vivo de estos corredores endoscópicos. Una de las probables limitaciones del estudio cadavérico de Zaidi es la falta de volemia dentro de la fosa posterior que en cierta forma podría limitar más dichas áreas de libertad quirúrgica
+Al momento de la exeresis de la lesión con esta novedosa técnica, la mayoría de los autores consideran que lo fundamental consiste en controlar la hemostasia paso por paso y realizar disección generosa mediante tracción constante con técnica bimanual.
+
+
+- CONCLUSIÓN
+
+Se realizó la presentación de la resolución quirúrgica total de un tumor epidermoide mediante ASCI puramente endoscópico. Podemos concluir que el mismo es un abordaje valido y seguro para el abordaje de lesiones de la región pineal siempre y cuando estas cumplan ciertas características. Presenta menor morbilidad postoperatoria comparada con el abordaje clásico microquirúrgico, lo cual reduce los días de internación. Respecto al abordaje TT el ASCI presenta menor riesgo de lesión forniceal, es independiente del tamaño ventricular para realizarse y ofrece mayor control de estructuras neurovasculares críticas. Si bien este tipo de abordajes necesita de una curva de aprendizaje para los cirujanos, la piedra fundamental esta en intentarlo y no pasar a la técnica microquirúrgica rápidamente si la situación se pone dificultosa, pero con buen control intraoperatorio. Mediante el aumento de procedimientos de este estilo se podrá aumentar la casuística para realizar trabajos descriptivos in vivo sobre los corredores más adecuados para abordar lesiones de la región pineal.
+
+
+-- APOYO FINANCIERO
+
+Este trabajo no requirió apoyo financiero ni patrocinio de ningún tipo.
+
+
+-- CONFLICTO DE INTERÉS
+
+Los autores no declaran ningún conflicto de interés.

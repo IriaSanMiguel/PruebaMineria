@@ -1,0 +1,111 @@
+PAPEL DE LA IMPRESIÓN 3D PARA LA PROTECCIÓN DE LOS PROFESIONALES DEL ÁREA QUIRÚRGICA Y CRÍTICOS EN LA PANDEMIA DE COVID-19
+
+
+- INTRODUCCIÓN
+
+Se estima que hasta un 30% de los pacientes infectados por el coronavirus COVID-19 pueden requerir ingreso hospitalario. El riesgo de contagio de los profesionales que participan directamente en la atención de estos pacientes es especialmente elevado durante procedimientos que generan aerosoles. Así, hasta un 15-20% de los pacientes ingresados necesitan alguna forma de oxigenoterapia y ventilación, y muchos requieren el manejo de la vía aérea para la realización de endoscopias en el tracto respiratorio o digestivo alto o intervenciones quirúrgicas.
+En todas estas áreas los anestesiólogos están en primera línea del cuidado de los pacientes, junto con el personal del área quirúrgica y cuidados críticos, lo que provoca una gran demanda del equipamiento para protección individual frente a gotas y aerosoles, y la necesidad de detectar los casos positivos. Entre otros, se incluyen protectores faciales, mascarillas y kits para toma de muestras de infección.
+A medida que el virus se propaga a un mayor porcentaje de la población y el riesgo de exposición y contagio del personal sanitario aumenta, se eleva la demanda de dicho equipamiento. Al ser esta demanda a nivel mundial se produce caída de los stocks de almacenamiento y ausencia de excedentes. Esto, combinado con la reducción de la producción, la interrupción de las cadenas de transporte y distribución, todas ellas globales y deslocalizadas, junto con el aumento del control aduanero entre países, provoca que no se cubra la demanda de todo el material necesario. Ello origina una puesta en marcha de iniciativas tanto a nivel político y empresarial para intervenir en las cadenas de compra y distribución, así como aumentar y redirigir la producción de suministros necesarios a nivel nacional. A pesar de todas las iniciativas, hay déficit de suministros de algunos materiales como las pantallas de protección facial, hisopos para la toma de muestras nasofaríngeas para pruebas de infección, piezas para ventiladores y otro material como mascarillas o batas.
+La impresión 3D es una tecnología robótica ajustable que permite la superposición de materiales utilizando sistemas de diseño asistidos por computadora para formular diseños personalizados capa por capa con arquitectura y composición controladas. Los avances en la tecnología de impresión 3D, así como el desarrollo de polímeros resistentes, flexibles, biocompatibles y esterilizables ofrecen la posibilidad de soportar la escasez de algunos de los suministros críticos.
+Varias iniciativas internacionales logran repositorios de modelos para la impresión 3D de dispositivos médicos críticos, como el NIH 3D Print Exchange . Ello combinado con la disponibilidad de impresoras 3D en numerosos servicios hospitalarios, centros de simulación, otras instituciones públicas y empresas privadas permite producir algunas piezas o equipamiento sanitario que tienen limitada la cadena de producción durante la pandemia. Sin embargo, no encontramos referencias específicas relativas a todo el proceso de selección y producción del material necesario para la protección del anestesiólogo y otros profesionales del área quirúrgica y de cuidados críticos; y en especial para transformar las ideas generadas en soluciones que puedan utilizarse directamente en la clínica. Ni tampoco, los procesos seguidos para combinar los esfuerzos públicos y privados en el seno de una pandemia.
+Es por ello que el propósito de este manuscrito es describir la experiencia del papel de la impresión 3D en un hospital terciario durante la pandemia de COVID-19, con énfasis en proceso de coordinación público-privada, diseño, aplicación de polímeros biocompatibles, y la evaluación para desarrollar un producto final listo para ser implementado en el entorno clínico de las áreas quirúrgica y críticos.
+
+
+- MATERIAL Y MÉTODOS
+
+-- ENTORNO SANITARIO
+
+El ámbito de aplicación son los hospitales del Servicio Cántabro de Salud en España en el seno de la pandemia de COVID-19 entre el 9 de marzo y el 24 de abril de 2020.
+
+
+-- PROMOTORES Y OBJETIVO
+
+La iniciativa está promovida por la Consejería de Sanidad y coordinada a través del Hospital virtual Valdecilla (HvV). El HvV es un centro de innovación y entrenamiento de alto rendimiento para profesionales sanitarios del Gobierno de Cantabria acreditado por el Colegio Americano de Cirujanos.
+Además, participan la dirección, gerencia y enfermería del hospital Marqués de Valdecilla y, en función de los proyectos seleccionados, un miembro de los servicios clínicos implicados.
+La visión es la de promover la provisión de material para la protección de los profesionales del área quirúrgica y de críticos en la comunidad autónoma cuyo suministro está comprometido durante la pandemia de COVID-19. Su misión es crear un proceso para coordinar las propuestas de impresión 3D recibidas a nivel autonómico.
+
+
+-- PROCESO DE PRODUCCIÓN
+
+El proceso seguido para desarrollar los productos finales listos para ser implementados en el entorno clínico incluye los siguientes pasos:1.Creación del equipo de coordinación en el Hospital virtual Valdecilla.2.Recepción de las propuestas de impresión 3D recibidas a nivel autonómico.3.Comunicación con las instituciones y empresas autonómicos que ofrecen su capacidad de impresión.4.Selección de los dispositivos que pueden ser producidos.5.Creación de equipo interprofesional específico de cada proyecto.6.Diseño del prototipo (geometría y selección de los materiales).7.Evaluación y rediseño del prototipo mediante test de usabilidad y evaluación clínica.8.Diseño final.9.Fabricación, montaje, esterilización y distribución de los materiales producidos.
+Por estos proyectos y su participación los intervinientes no solicitan compensación económica, ni tampoco ninguna propiedad intelectual, y las instrucciones, archivos informáticos e imágenes necesarios para su fabricación se publican en código abierto tanto en la web del HvV, como repositorios internacionales y empresas privadas.
+
+
+-- PROYECTOS SELECCIONADOS Y PARTICIPANTES
+
+Se identifican tres productos relacionados con la seguridad de los profesionales en los que existe escasez de suministros a nivel global durante la pandemia. En primer lugar, dispositivos que ayudan a prevenir el contagio de los profesionales, tales como pantallas de protección facial, accesorios para fotóforos y horquillas salvaorejas para mascarillas. En segundo lugar, productos relacionados con la ventilación de pacientes infectados con el coronavirus, tales como piezas para la adaptación de las máscaras de buceo de Decathlon© a la asistencia ventilatoria de pacientes con insuficiencia respiratoria. En tercer lugar, los hisopos nasofaríngeos, necesarios para la identificación de las personas que son portadoras del coronavirus, con el objetivo de diseñar protocolos de actuación en el área quirúrgica y de otras áreas de salud con el mayor número de datos reales posibles. Los participantes específicos de cada proyecto se reflejan en la tabla 1 . Señalar la participación de un ingeniero industrial en el HvV, 35 empresas del sector privado y cuatro instituciones públicas.
+
+
+-- TECNOLOGÍA DE IMPRESIÓN 3D
+
+Para el prototipado y fabricación de todos los dispositivos de protección y recogida de muestras se han utilizado el material y los equipos de impresión reflejados en la tabla 2 .
+
+
+- RESULTADOS
+
+-- PANTALLAS DE PROTECCIÓN FACIALES, ACCESORIOS PARA FOTÓFOROS Y HORQUILLAS PARA MASCARILLAS
+
+Las pantallas faciales y accesorios para fotóforos aumentan la protección frente al contagio por gotas. Las horquillas permiten aumentar comodidad entre los sanitarios del uso de mascarillas durante tiempo prolongado. Así, contribuyen a limitar la exposición de los profesionales a las partículas infecciosas.
+La producción de las pantallas faciales se coordina con las impresoras que ofrecieron su colaboración en la comunidad autónoma. En total se han distribuido 1.800 unidades en el Hospital Valdecilla. El Servicio de Medicina Preventiva y Riesgos Laborales elaboran las instrucciones para su desinfección antes del primer uso y tras usos sucesivos (tabla 3 ).
+Además, se fabrican pantallas faciales por corte láser que aumentan la seguridad del personal sanitario gracias a su cubierta superior. Este modelo se desarrolla por el consorcio formado por HvV, E.N.S.A., Metacrilatos y grabados y Textil Santanderina alcanzando un número de 700 unidades en el periodo analizado. Esta pantalla ha obtenido el certificado nacional de uso sanitario.
+La impresión 3D permite personalizar conectores para pantallas de protección facial en fotóforos, realizando 20 dispositivos. Además, se producen horquillas «salvaorejas» para todo el personal sanitario que lo solicita, alcanzando 1.200 unidades.
+La información de uso libre para la impresión 3D y la fabricación mediante corte láser de las pantallas de protección facial, así como la impresión 3D tanto de los accesorios para los fotóforos como las horquillas, se incluyen como material suplementario anexo en la revista y también es accesible en la web, .
+
+
+-- CONECTOR DE SISTEMAS DE VENTILACIÓN NO INVASIVA ENTRE TUBULADURA Y MASCARILLA
+
+La pandemia de COVID-19 puede generar la necesidad de ventilación no invasiva en pacientes infectados con insuficiencia ventilatoria, . En este contexto y para conseguir un adecuado sellado se ha descrito el uso de las máscaras de buceo de Decathlon©. El adaptador del sistema que conecta la mascarilla a la tubuladura a través del filtro es un diseño que evita que existen fugas en las diferentes uniones al mismo. Se fabrica con tecnología SLA o SLS que permiten, además de una gran calidad en los puntos críticos, una fusión de las capas que previene la filtración y contaminación vírica (fig. 1 ).Figura 1
+
+
+-- HISOPOS PARA TOMA DE MUESTRAS NASO Y OROFARÍNGEAS
+
+Los hisopos nasofaríngeos y orofaríngeos se hacen con un polímero flexible. Así, en una primera fase se imprimen prototipos para comprobar la combinación de tensiones máximas de tracción y de compresión. El estudio de estos comportamientos también ha sido estudiado por el Centro Tecnológico Cantabria. En una segunda fase se evalúa su efectividad para la recogida de material para el diagnóstico de la infección por el servicio de microbiología del hospital Valdecilla. De una muestra piloto con 14 unidades todas recogieron material suficiente para el test y cinco casos resultaron positivos para infección por COVID-19 (datos internos no publicados). El diseño final aparece en la figura 1 y los detalles de la geometría del eje, del empotramiento de la base y de la raíz del captador, y del mallado sobre el captador del hisopo, los tipos de resina utilizados, así como los test de fuerza y flexibilidad pueden consultarse en abierto como material suplementario anexo en la revista y en la web, . Hasta la fecha de envío de este artículo se han producido más de 7.500 hisopos que contribuyen a generar resultados clínicos de infección que ordenan el enfoque de diagnóstico y tratamiento de los pacientes en el área quirúrgica y otros servicios hospitalarios, lo que contribuye a un uso racional de los recursos de protección disponibles.
+
+
+- DISCUSIÓN
+
+-- IMPRESIÓN 3D PARA LA PROTECCIÓN DE LOS PROFESIONALES FRENTE AL COVID-19
+
+La impresión 3D en un servicio de salud ha permitido que profesionales que cuidan de pacientes con coronavirus en primera línea de las áreas quirúrgica y críticos dispongan de dispositivos de protección personal cuyo suministro está reducido durante la pandemia de COVID-19. Puede ser un recurso alternativo de producción local de pantallas de protección faciales, accesorios para fotóforos, horquillas para mascarillas, conectores de sistemas de ventilación e hisopos para toma de muestras cuando se interrumpe el suministro industrial global.
+En cuanto a los conectores de sistemas de ventilación, unen la tubuladura de ventiladores de perfil domiciliario modo CPAP (12-15 cm H20) o generadores de flujo tipo CPAP con la mascarilla. Estos dispositivos se utilizan cuando no se dispone de ventiladores no invasivos y mascarillas adecuadas para ventilar a un paciente de forma continua en la situación de emergencia. Sin embargo, estas soluciones no están concebidas para ser utilizadas de manera ininterrumpida ya que, debido a los altos flujo que manejan los pacientes, estos sistemas a menudo no responden adecuadamente. Por ello, sólo se utilizan de modo compasivo y previo consentimiento del paciente.
+La participación de un servicio de anestesiología y reanimación en coordinación con todos los agentes que intervienen en el proceso de diseño, evaluación, producción y distribución, resulta determinante para elaborar productos que puedan ser implementados en el entorno clínico con eficiencia y seguridad. Para facilitar que las ideas surgidas de los clínicos en primera línea lleguen al mercado resulta clave considerar todos los pasos que conlleva el proceso, y la efectiva coordinación entre instituciones y empresas públicas y privadas.
+
+
+-- OTROS USOS DE LA IMPRESIÓN 3D DURANTE LA PANDEMIA
+
+Este abordaje coincide con el reportado por otros autores, . También se describe la fabricación de otras piezas, como mascarillas faciales reutilizables con filtro recambiable o válvulas de ventilación para suministrar oxígeno a concentraciones fijas para pacientes con dificultad respiratoria aguda. Igualmente, se imprimen piezas de conexión de material de ventilación como divisorias para tubos y válvulas unidireccionales. Sin embargo, no se encuentran descripciones de cómo abordar este proceso de modo global para que permita transformar ideas en soluciones para el uso clínico directo.
+
+
+-- SELECCIÓN DE MATERIALES
+
+El abanico de materiales disponibles para la fabricación aditiva (impresión 3D) es muy amplio. Este depende de la tecnología de fabricación a utilizar y de las características requeridas del producto final (como flexibilidad, transparencia, resistencia, biocompatibilidad, prototipado rápido o precisión).
+Actualmente la normativa vigente que marca las pautas legislativas para material de uso sanitario se enmarca en el Real Decreto 1591/2009, de 16 de octubre. Por otro lado, la norma ISO 13485 ofrece un marco integral para los productos sanitarios que asegura la calidad del producto y el cumplimiento normativo. Es necesario minimizar al máximo los residuos que llegan al medio ambiente. La base de aprobación de uso de un plástico se basa en estudios de migración en los que se establecen unos valores (mg/kg) que no se pueden superar según la legislación europea o de otros países (Directiva del Consejo de 18 de octubre de 1982, 82/711/CE). Algunos materiales para la fabricación aditiva pueden ser reciclados y actualmente hay empresas que reciclan filamentos plásticos para volver a ser utilizados en impresión 3D.
+Las tecnologías empleadas más frecuentemente son modelados por deposición fundida (FDM), estereolitografía (SLA), sinterización por láser selectiva (SLS) o sinterizado directo de metal por láser (DMLS). La más ampliamente utilizada (FDM) permite utilizar los termoplásticos ácido poliláctico (PLA) y acrilonitrilo butadieno estireno (ABS). La impresión con PLA ha adquirido gran aceptación por estar fabricado a base de recursos renovables como el almidón de maíz, raíces de tapioca o caña de azúcar. Es uno de los más utilizados para comenzar la fabricación aditiva y realizar pruebas de concepto antes de pasar a prototipar, debido a su bajo coste y facilidad de impresión. Sus limitaciones son la menor calidad de acabado, la ausencia de materiales consumibles biocompatibles certificados y la imposibilidad de fabricar piezas de complejidad media.
+Otros materiales flexibles también usados con FDM son elastómeros termoplásticos (TPE), nylon, tereftalato de polietileno (PET-PETG), acetato de polivinilo (PVA), poliestireno (HIPS), materiales con trazas de carbono, madera, cerámica, etc. Por otro lado, tecnologías de uso más específico, como SLA o SLS, permiten fabricar con resinas y partículas de polvo de poliamida que permiten elegir entre una diversidad de propiedades. Además, se está estudiando el comportamiento antimicrobiano de nuevos polímeros, lo que puede proporcionar una alternativa para la creación de prototipos de dispositivos médicos críticos durante una pandemia.
+En nuestro caso se utiliza tecnología de impresión SLA y FDM. Los materiales seleccionados para el proyecto y sus características específicas están reflejados en la tabla 2. Para fabricar las pantallas faciales con impresión 3D se utilizan materiales transparentes, ligeros y con una alta claridad óptica como policarbonato y poliéster, cloruro de polivinilo y otros polímeros sintéticos. Para los conectores de sistemas de ventilación no invasiva se utiliza material que tenga una elongación a rotura de al menos 30% para evitar que la pieza pueda sufrir tensiones no deseadas en su ensamblaje que ocasionen rotura del conector. En la web del HvV se encuentran los archivos del conector necesario.
+La impresión 3D en el campo de la medicina está en continuo crecimiento y, aunque no es objetivo del presente trabajo, se utiliza también para implantes y prótesis específicos del paciente, andamios de ingeniería para la regeneración de tejidos y órganos biosintéticos, personalización de sistemas de entrega de drogas y modelado anatómico para simulaciones perioperatorias. Los materiales para estas indicaciones (metales, cerámicas, composites, metacrilatos, etc.) requieren resistencia mecánica adecuada, biodegradación y propiedades biocompatibles.
+
+
+-- IMPLICACIONES PRÁCTICAS
+
+La implicación práctica de estos resultados es múltiple. Por un lado, ofrece un conjunto de ejemplos prácticos de la utilización de esta tecnología durante una pandemia. Por otro, describe los aspectos técnicos específicos de la impresión 3D. Además, destaca la necesaria participación de un servicio de anestesiología y reanimación en todas las fases del proceso, pues sus profesionales están implicados en la primera línea de cuidado de los pacientes COVID-19 y sus aportaciones tanto en el prototipado, evaluación y diseño final son fundamentales. En este sentido, resulta clave la colaboración con los otros servicios del área quirúrgica más expuestos al contagio, como enfermería y otorrinolaringología. También, la necesidad de hacer un enfoque al proceso desde una perspectiva global de producción, que no es común en la literatura científica médica. Habitualmente se describe la fabricación y uso individual de piezas, y no el abordaje global de la producción para desarrollar un producto final listo para ser implementado en el entorno clínico. Igualmente, en la experiencia descrita resulta crítico la existencia liderazgo local a nivel de los equipos de salud tanto a nivel clínico, como administrativo. También facilita que exista una integración previa de un centro de innovación y entrenamiento de alto rendimiento en la organización sanitaria como el HvV. Más aún, el trabajo conjunto gestores y líderes clínicos permite dar respuesta más eficiente a las necesidades específicas de los profesionales y la organización sanitaria, aunando todos los recursos disponibles. Por último, resulta especialmente significativos la participación conjunta de las instituciones que componen un sistema de salud público y las empresas privadas en el proceso de pilotaje y evaluación de usabilidad de las piezas antes de su producción final.
+
+
+-- LIMITACIONES E INVESTIGACIONES FUTURAS
+
+Los principales retos durante la pandemia son la escasez de suministros de material para la impresión 3D y la limitación de tiempo para analizar los resultados tras su implementación clínica. Esto abre posibles líneas de investigación futura, así como el estudio para aplicar esta tecnología en otras áreas de la anestesiología y reanimación, así como otras disciplinas de la salud.
+
+
+-- CONCLUSIÓN
+
+En conclusión, la aplicación de la impresión 3D de modo coordinado y colaborativo entre los servicios clínicos, los gestores, la administración y las empresas del sector privado facilita la producción de material cuyo suministro está reducido durante una pandemia. Un enfoque al proceso global de producción permite desarrollar dispositivos listos para ser implementados en el entorno clínico.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaramos no tener relaciones financieras con ninguna empresa comercial de productos o servicios relacionados con la simulación. El Hospital virtual Valdecilla está afiliado al Center for Medical Simulation, Boston, EE.UU. Ambas son instituciones docentes sin ánimo de lucro que ofrecen programas de formación con matrícula.

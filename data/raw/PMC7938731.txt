@@ -1,0 +1,18 @@
+LA NECESIDAD DE UN ANÁLISIS RIGUROSO DE LA EFECTIVIDAD Y EFICIENCIA DE LA TERAPIA DE OXÍGENO DE ALTO FLUJO DURANTE LA PANDEMIA POR SARS-COV-2
+
+
+Sr. Editor:
+Agradecemos la oportunidad que nos brinda el editor de la revista para efectuar algunos comentarios a la réplica a la carta científica «Oxigenoterapia de alto flujo en el tratamiento de la neumonía por SARS-CoV-2».
+En primer lugar, en nuestro análisis, y en el contexto de la insuficiencia respiratoria aguda hipoxémica secundaria a neumonía por SARS-CoV-2, «la decisión óptima fue la estrategia high flow nasal cannula (HFNC) seguida de ventilación médica invasiva (VMI) en los fracasos del HFNC». El texto de nuestra carta así lo indica, y estimamos que la probabilidad de que esta estrategia sea más efectiva que la de control es del 0,965. Sin embargo, esta diferencia no alcanzó significación estadística, por lo que nuestros datos no nos permitieron descartar la hipótesis nula. Contrariamente a lo afirmado por los autores de la réplica, no pudimos comprobar «(…) que la oxigenoterapia de alto flujo no es una terapéutica efectiva en términos clínicos», porque ello hubiera significado afirmar la hipótesis nula y nuestro estudio no tenía suficiente poder estadístico para ello.
+En segundo lugar, los autores de la réplica indican que nuestra segunda conclusión es que la HFNC no es efectiva tampoco en términos económicos (sic). Suponemos que con ello se están refiriendo a que nuestro análisis muestra que no parece una terapia eficiente, porque la «Razón de Coste-Efectividad Incremental (RCEI) es igual a 219.294 euros por cada alta de la unidad de cuidados intensivos (UCI)». Y permítasenos reafirmarnos en esta conclusión, y en que parece obligado realizar un análisis de mayor robustez que confirme el impacto económico de dicha estrategia en términos de coste-efectividad.
+No creemos que estas afirmaciones contradigan la evidencia científica recogida en el metaanálisis de Agarwal et al. En este se compara el HFNC con el oxígeno convencional. Y, además, el resultado obtenido del análisis más riguroso (el de menor probabilidad de sesgo), solo encuentra (como nosotros) una diferencia estadísticamente no significativa (RR = 0,87; IC 95% = 0,75 a 1,01; p = 0,06; heterogeneidad: p = 0,84). Usando un modelo bayesiano conjugado beta-binomial y partiendo de una distribución a priori no informativa, con los datos de la tabla proporcionada por los autores, podemos estimar, con una credibilidad del 95%, que, según la literatura científica sobre el tema, la probabilidad de fracaso del HFNO se situará entre el 0,422 y 0,533, con una mediana en 0,477. Prácticamente lo mismo que tirar una moneda al aire, pero con todo el coste derivado del tratamiento.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

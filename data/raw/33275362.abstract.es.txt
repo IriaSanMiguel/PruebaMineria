@@ -1,0 +1,5 @@
+Más del 20% de pacientes con COVID-19 leve dados de alta desde urgencias requiere hospitalización.
+Describir la evolución clínica de pacientes con COVID-19 leve tras el alta de urgencias y analizar los posibles factores de riesgo para una posterior hospitalización.
+Pacientes con COVID-19 leve dados de alta desde urgencias fueron prospectivamente incluidos. Los factores de riesgo de hospitalización fueron evaluados.
+Se incluyeron 74 pacientes y 17 (23%) requirieron hospitalización, de los cuales 3 (4%) fallecieron. La edad, la linfopenia, un mayor índice Charlson y un menor tiempo desde el inicio de los síntomas hasta la primera consulta a urgencias se asociaron a hospitalización, aunque en el análisis multivariado únicamente un tiempo desde el inicio de síntomas a la consulta a urgencias - 6 días se asoció a hospitalización (OR: 4,62: IC 95%: 1,08-19,7).
+

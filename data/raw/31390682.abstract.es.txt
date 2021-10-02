@@ -1,0 +1,5 @@
+Se identificaron las 25 JS en donde deben focalizarse las acciones para reducir la mortalidad por VIH. Por primera vez se analizó un problema de salud en todas las JS mexicanas.
+De 2008 a 2015, la mortalidad por VIH disminuyó más de 20%. En las 25 JS con mayor mortalidad por VIH reside 11% de la población nacional, pero concentra 28.6% de las muertes, con el doble o triple de la mortalidad nacional.
+Analizar la distribución y tendencias de la mortalidad por VIH en las jurisdicciones sanitarias (JS) de México.
+Se calcularon las tasas estandarizadas de mortalidad utilizando las cifras oficiales de defunciones (Instituto Nacional de Estadística y Geografía) y estimaciones de población (Consejo Nacional de Población). Se analizó la magnitud, distribución y tendencias de la mortalidad por VIH a nivel nacional, por entidad federativa y JS utilizando el modelo de regresión JoinPoint.
+

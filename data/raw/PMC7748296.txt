@@ -1,0 +1,87 @@
+DETERMINANTES SOCIALES Y META DE TUBERCULOSIS EN LOS OBJETIVOS DE DESARROLLO SOSTENIBLE EN LAS AMÉRICAS
+
+
+La meta 3.3 de los Objetivos de Desarrollo Sostenible (ODS) busca, entre otras metas, poner fin a la epidemia de tuberculosis (TB). Se plantea reducir su incidencia en 80% y el número de muertes por TB en 90% para el año 2030, tomando como línea de base el año 2015.
+En mayo de 2014, la 67.a Asamblea Mundial de la Salud adoptó la Estrategia mundial y metas para la prevención, la atención y el control de la tuberculosis después de 2015 , conocida como la Estrategia Fin de la TB, la cual se enmarca en la meta 3.3 de los ODS .
+La declaración política de la Reunión de Alto Nivel de la Asamblea General de las Naciones Unidas sobre tuberculosis de 2018 insta a acelerar la aplicación de la Estrategia Fin de la TB con miras a alcanzar las metas propuestas en todos los países del mundo .
+En 2018, se estimaron 10 millones de casos de TB a nivel mundial, y 1,5 millones de personas murieron de tuberculosis, incluidas 251 000 personas con coinfección por el virus de la inmunodeficiencia humana (VIH). En la Región, se estimaron 289 000 casos de TB en 2018, mientras las muertes estimadas para el mismo año fueron 22 900, de las cuales 26% correspondió a personas con coinfección TB/VIH .
+La Organización Mundial de la Salud cuenta con un marco de trabajo para la eliminación de la TB para países con incidencia baja (menos de 10 casos por cada 100 000 habitantes) y, en las Américas, 15 países cumplían con este criterio en 2018 .
+La TB recibe una gran influencia de los determinantes sociales y económicos, así como factores de riesgo específicos para la salud.
+El objetivo de este estudio es determinar el comportamiento de la incidencia de TB y el número de muertes por TB en las Américas respecto a la meta 3.3 de los ODS y su correlación con los determinantes sociales.
+
+
+- MATERIALES Y MÉTODOS
+
+Para determinar el comportamiento de la incidencia en el tiempo y el número de muertes por TB, se utilizó una metodología de estudio ecológico, en el cual la unidad de análisis es la población. Para el análisis de los determinantes sociales, se usó el modelo de regresión binomial negativo y la fuerza de asociación.
+La fuente de los datos son los informes anuales de TB de la OMS, que consolidan y analizan los datos notificados por los países cada año a través del sistema mundial de recolección de información sobre TB . Se analizó la tendencia regional de incidencia y el número de muertes, así como por grupos de países según la carga de TB. Se describió la correlación entre la TB y el desarrollo y la pobreza.
+En este artículo, el término “incidencia” se refiere al número estimado de casos nuevos y recaídas que de TB surgen en un año determinado, expresado como tasa por cada 100 000 habitantes. Se incluyen todas las formas de tuberculosis, incluso los casos de personas que viven con el VIH .
+Se comparó la incidencia y el número de muertes estimadas entre 2015 (línea de base de los ODS) y 2018 (últimos datos oficiales publicados por la OMS), respecto a las metas establecidas para el año 2030.
+Para establecer el descenso esperado anual en la incidencia y el número de muertes desde 2018 hasta la meta en el año 2030, se realizó una progresión aritmética, y se asumió una reducción constante anual hasta cumplir con las metas. En el caso de la incidencia, esta constante fue de 5,3% anual de reducción y de 6% anual de reducción para el número de muertes. La proyección del descenso esperado en la incidencia se basó en la reducción promedio entre los años 2009 y 2018, que fue de 0,27%, y de 2,6% anual en el caso del número de muertes.
+Se clasificaron los países en tres grupos de acuerdo con la carga de TB; se consideraron como países de carga alta aquellos con una tasa de incidencia estimada mayor que 45, carga intermedia entre 10 y 45, y carga baja cuando la incidencia estimada fue menor o igual a 10 casos por cada 100 000 habitantes.
+Al relacionar la incidencia con el número de muertes, se establecieron cuatro situaciones posibles: países con aumento de incidencia y de número de muertes (más lejanos a la meta); con aumento de incidencia, pero con disminución de número de muertes; con disminución de incidencia y de número de muertes (ideal); y con disminución de incidencia, pero con aumento o sin disminución en el número de muertes.
+Para el análisis de los determinantes sociales, se utilizó el modelo de regresión binomial negativo. Se consideró como variable de respuesta el número de casos estimados de TB en cada país y la población en riesgo, y como variables independientes el producto interno bruto (PBI) con datos del Banco Mundial y el índice de desarrollo humano (IDH) con datos del Programa de las Naciones Unidas para el Desarrollo (PNUD) .
+La fuerza de la asociación se midió por medio de la correlación de Pearson. Para estimar estas correlaciones y sus intervalos de confianza corregidos por sesgo de 95% (IC95%), se utilizó el método Bootstrap considerando 2 000 muestras independientes con reemplazo desde los datos originales.
+Para explorar la magnitud de la desigualdad en la incidencia de TB para IDH y PIB, se usaron medidas simples como la brecha absoluta (BA) y la brecha relativa (BR). Por otro lado, las medidas complejas incluyen el índice de desigualdad de la pendiente (IDP) y el índice de desigualdad de la pendiente relativa (IDR).
+Para el cálculo de la BA y BR, se crearon cinco grupos (quintiles) con base en un indicador socioeconómico. El primer grupo (grupo 1) representa a los países con indicadores socioeconómicos más bajos, y el último grupo (grupo 5) representa a los países más favorecidos. La BA y la BR proporcionan la brecha en la incidencia de TB entre el grupo más desfavorecido y el más favorecido; estas se obtienen al restar y dividir la incidencia de TB en cada uno de estos dos grupos.
+El IDP se obtiene al ajustar un modelo de regresión lineal simple de la forma:
+Incidencia_TB(Ridit) = a + b Ridit
+donde Ridit es la posición social que tiene cada país al ordenarlos según un indicador socioeconómico, desde el país más desfavorecido hasta el país más favorecido (sus valores fluctúan entre 0 y 1). El IDP permite comparar la incidencia de TB entre los países extremos, es decir, para el valor del Ridit = 0 (país más desfavorecido socialmente) y el valor del Ridit = 1 (país más favorecido).
+Desde el modelo, esto equivale a comparar
+Incidencia_TB(Ridit=0) = a + b * 0 = a
+con
+Incidencia_TB(Ridit=1) = a + b * 1 = a + b.
+Así, el IDP se obtiene al calcular la diferencia entre estos dos valores (desigualdad absoluta), resultando en IDP = -b, y el IDR se obtiene al calcular la división entre estos valores: IDR = a/(a+b). Para los análisis, se utilizó el programa estadístico SAS 15,1® .
+Este estudio se realizó con base en fuentes secundarias, sin ningún tipo de identificación o cualquier otro dato que permitiera identificar a los pacientes.
+
+
+- RESULTADOS
+
+-- INCIDENCIA
+
+En las Américas se ha presentado una disminución en la incidencia de un promedio de 0,3% anual de 2009 a 2018, pero se informa un aumento de la incidencia, que pasó de 27,6 por cada 100 000 habitantes en 2015 a 28,8 por cada 100 000 habitantes en 2018, lo que representa un aumento de 4,4% .
+Se han presentado cambios muy dispares entre países. Así, mientras en la República Bolivariana de Venezuela la incidencia aumentó 63,8% y en El Salvador este crecimiento fue de 43,0% entre 2015 y 2018, República Dominicana y el Estado Plurinacional de Bolivia presentaron una reducción de 17,1% y 11,6% en el mismo período, respectivamente .
+La tendencia en los países de incidencia baja, a diferencia del total de las Américas, se mantiene a la baja, con una velocidad anual promedio de 2,9%, entre 2015 y 2018, casi el doble del descenso promedio que para la Región (1,4%).
+A continuación, se enumeran los países que se encuentran en cada una de las cuatro situaciones:
+En resumen, nueve países presentan una disminución de la incidencia y del número de muertes, mientras que, en otros nueve, la incidencia y el número de muertes han aumentado o no han disminuido. Cuatro países con carga alta han registrado una disminución de la incidencia y del número de muertes, mientras que, en tres países con carga alta, tanto la incidencia como el número de muertes han aumentado.
+
+
+-- NÚMERO DE MUERTES
+
+En las Américas, las muertes por TB disminuyeron 2,6% anual en promedio entre 2009 y 2018. Si esta tendencia continúa, el número de muertes en el año 2030 sería de 16 032, mientras que la meta sería de 2 500 muertes para el año 2030 .
+El número de muertes por TB registró una velocidad de descenso promedio de 3,1% anual para las defunciones sin asociación con VIH entre 2010 y 2018. Para la mortalidad asociada con VIH, el descenso fue de 2,4% anual en ese mismo período.
+El número de muertes ha disminuido 27,1% en República Dominicana, 12,3% en México y 11,8% en Ecuador. En algunos países con carga alta se ha reducido el número de muertes por TB, pero a un ritmo que no les permitirá alcanzar las metas de los ODS. Entre estos están Bolivia con un descenso de 6,7%, Brasil con una reducción de 9,5% y Perú con una disminución del 9,7% .
+
+
+-- DETERMINANTES SOCIALES DE TB
+
+En términos de la asociación entre la incidencia de TB y el IDH, los resultados muestran una asociación negativa (P < 0,0001), lo que indica que países con IDH más altos tienden a tener incidencias de TB más bajas . La fuerza de la asociación proporcionada por la correlación entre estas dos variables tiene un valor de -0,494 (IC95%: -0,703 - -0,261) cuando se utiliza el método Bootstrap, Por otro lado, la asociación entre la incidencia de TB y el PIB es estadísticamente significativa y negativa (P = 0,0369). La fuerza de la asociación es de -0.461 (IC95%: -0,681 - -0,188), lo que demuestra una asociación un poco más débil que la obtenida con el IDH.
+Se observa una gradiente marcada de la incidencia de TB entre los quintiles de países por IDH y PIB que muestra que grupos de países con IDH y PIB más bajos tienen una incidencia de TB más alta . Desde los resultados del análisis de desigualdades sociales entre los países, la BA = 71,3 indica que existe un exceso de incidencia de TB de 71 casos estimados por cada 100 000 habitantes entre los quintiles de países con IDH más bajo e IDH más alto.
+La BR tuvo un valor de 11,4, y mostró que el riesgo de incidencia de TB en el quintil de países con IDH más bajo es 11 veces el riesgo del quintil de países con IDH más alto. Por otro lado, el IDP = 80,9 indica que hay una diferencia de 81 casos estimados de TB por cada 100 000 habitantes entre los países con IDH más bajo e IDH más alto; y el IDR = 5,9 revela que el riesgo de incidencia de TB en el país con IDH más bajo es seis veces el riesgo en el país con IDH más alto. Resultados similares se obtienen al estudiar la desigualdad social entre la incidencia de TB y el PIB, donde se tiene que la BA = 71,3, BR = 16,5, IDP = 84,3 e IDR = 5,2.
+
+
+- DISCUSIÓN
+
+Al ritmo de la disminución de la tasa de incidencia y del número de muertes debido a la TB, la Región de las Américas no alcanzará las metas propuestas en los ODS y en la Estrategia Fin de la TB. De mantenerse esta tendencia, en el año 2030 se reportaría una incidencia de 26,9, lejos de la meta de los ODS de reducción de la incidencia a un 5,5 por cada 100 000 habitantes.
+Este hallazgo es similar al reportado por la OMS en otras regiones, ya que la reducción mundial de incidencia de TB entre 2015 y 2018 fue de 6,3% y el número de muertes se redujo 11% para el mismo período .
+Las estimaciones de incidencia en TB se han basado en encuestas de prevalencia y de riesgo anual de infección . Estas encuestas requieren grandes cohortes (cientos de miles) que implican costos altos; por lo tanto, este abordaje no se realiza en las Américas. Otras alternativas utilizadas para estimar la incidencia de TB han sido los métodos de captura y recaptura de datos y validación cruzada, combinados con consulta de expertos .
+En las Américas se notificó 81% de los casos esperados en 2018, con una brecha mayor en países como Bolivia (63%) y Haití (67%), de acuerdo con el informe mundial de TB de la OMS .
+En 2017, las muertes registradas por TB corresponden a 70% de las estimadas en personas sin coinfección TB/VIH y a 46% en personas con coinfección TB/VIH. Estas cifras reflejan limitaciones en los sistemas de estadísticas vitales para la identificación y la codificación adecuadas de las defunciones por TB, sobre todo en las asociadas con el VIH.
+Una alternativa a las estimaciones de incidencia es la notificación de casos de TB, pero esto exige una mejora importante en el diagnóstico, el registro de tratamiento y en la calidad de la información. La OPS realiza un trabajo de revisión y triangulación de datos en el nivel regional para mejorar su calidad y para monitorear las metas de la Estrategia Fin de la TB .
+Los promedios ocultan una realidad muy dispar con países que han superado la meta 3.3. de los ODS de disminución de incidencia de TB, como República Dominicana y Nicaragua, mientras que existen países en donde la incidencia ha aumentado de manera notable, como El Salvador, Honduras y Venezuela.
+Por su parte, Venezuela enfrenta un debilitamiento de los programas de vigilancia epidemiológica, la presencia de casos de tuberculosis pulmonar no diagnosticada y no tratada, así como la persistencia de la desnutrición y el hacinamiento, que son determinantes sociales de la TB .
+En el caso de Argentina, se han documentado determinantes que explican 43% de la variabilidad de la tasa de incidencia de TB, como el hacinamiento, la falta de saneamiento básico y la proporción de pacientes que interrumpieron el tratamiento . En Colombia, la epidemia de TB se concentra entre las personas privadas de libertad (7,0%) y la población indígena (5,5%), y se registra un aumento de TB en la población procedente del exterior (93% de Venezuela) desde el año 2018 .
+El Salvador presenta un aumento notable de la incidencia, sobre todo en prisiones, donde se triplicaron las tasas de notificación: de 532 en 2009 a 1688 en 2014, aproximadamente 50 veces más que en la población general .
+Haití reporta una disminución notable de la incidencia de TB a pesar de atravesar por una crisis socioeconómica. Existen estudios que documentan un problema en su capacidad para el diagnóstico y una subnotificación que pueden explicar este descenso .
+Los hallazgos en este artículo coinciden con otros estudios que han demostrado cómo influyen los determinantes sociales en la TB, entre ellos la pobreza, el hacinamiento, la falta de alimentos y la contaminación ambiental , y cómo estos determinantes también influyen en las demoras para el diagnóstico . Otros estudios demuestran cómo la inequidad y el estigma son determinantes sociales de la TB .
+También se ha documentado los resultados positivos al contar con programas que abordan determinantes sociales en pacientes con TB extensamente resistente (TB-XDR) en Perú con una mejora en la adherencia y en los resultados del tratamiento .
+Las limitaciones del estudio se deben a los problemas en la calidad del dato sobre TB y a la subnotificación, así como a la evidencia limitada para establecer la relación entre los determinantes sociales y la TB. Se recomienda realizar estudios sobre las barreras para el acceso al tratamiento y las razones de la limitada disminución en incidencia y mortalidad de TB en las Américas, así como evaluar programas que aborden los determinantes sociales de la TB.
+
+
+- CONCLUSIONES
+
+Se requiere aplicar y ampliar con rapidez las intervenciones de prevención y control de TB establecidas en la Estrategia Fin de la TB y ratificadas en la declaración política de la Reunión de Alto Nivel de la Asamblea General de las Naciones Unidas sobre TB de 2018. Esto implica, entre otras acciones, mejorar intervenciones respecto a las barreras de acceso al diagnóstico y tratamiento, y diseñar iniciativas para abordar los determinantes sociales y herramientas nuevas para lograr la meta de una reducción de 80% de la incidencia y de 90% del número de muertes por TB.
+
+
+-- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.

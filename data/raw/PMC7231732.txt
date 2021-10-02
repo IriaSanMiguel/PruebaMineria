@@ -1,0 +1,62 @@
+MANEJO EMOCIONAL DE LA CRISIS SANITARIA ANTE EL CORONAVIRUS: UNA REVISIÓN NARRATIVA
+
+
+- INTRODUCCIÓN
+
+La urgencia sanitaria declarada por la Organización Mundial de la Salud (OMS) debido a la pandemia del coronavirus SARS-CoV-2 implica consecuencias graves sobre la morbimortalidad poblacional debido a la elevada contagiosidad del virus. Diferentes gobiernos han declarado estados de urgencia confinando a la población en sus hogares y estableciendo políticas estrictas para controlar el brote. Estas medidas, unidas a la continua información-desinformación a través de los medios de comunicación y redes sociales, hacen que el temor, la incertidumbre o la ansiedad sean emociones que se extienden igual de rápido que el propio virus entre la población y los profesionales. De este modo, no se pueden pasar por alto, entre las acciones, los cuidados de salud mental y los aspectos psicosociales que rodean a este problema de salud comunitaria, , .
+Esta revisión bibliográfica tiene como objetivo realizar un mapeado de la evidencia científica disponible acerca del manejo emocional ante la crisis sanitaria declarada por coronavirus.
+
+
+- MÉTODO
+
+Se llevó a cabo una búsqueda bibliográfica amplia, cuyo objetivo fue conseguir evidencias científicas sobre el manejo de emociones en situaciones de crisis por enfermedades por coronavirus. Se incluyó una búsqueda manual en Internet a través de Google® académico, el metabuscador Trip Database™ y páginas de organismos internacionales como la OMS y los Centros para el Control y la Prevención de Enfermedades (CDC). Se diseñó una estrategia de búsqueda inicial que luego se adaptó a la sintaxis de cada una de las siguientes bases de datos: A través de la plataforma EBSCOhost se accedió a las bases de datos Medline, CINAHL® y PsycINFO®; a través de la Web of Science™ se accedió a la base de datos SCI-Expanded™ y, por último, se buscó en la base de datos Scopus. Los resultados se limitaron a publicaciones en inglés y español, sin límite de fecha. La búsqueda se ejecutó en los campos título y abstract, al igual que en el tesauro de las diferentes bases de datos para identificar los MeSH correspondientes. La estrategia de búsqueda incluyó las palabras clave «emotional management» AND «health crisis response» OR «health crisis». Se recuperaron un total de 83 referencias, que fueron gestionadas a través del programa RefWorks.
+
+
+-- EVALUACIÓN CRÍTICA
+
+Los artículos se valoraron críticamente en función de los niveles de evidencia y el grado de recomendación establecidos por el enfoque del Joanna Briggs Institute (JBI) para los cuidados de la salud basados en la evidencia.
+
+
+-- EXTRACCIÓN DE DATOS Y SÍNTESIS DE LA EVIDENCIA
+
+Dos revisores de forma independiente llevaron a cabo el proceso de selección de los estudios y en caso de duda o desacuerdo, un tercer revisor comprobó los criterios establecidos para la selección del estudio. Inicialmente, se tuvo en cuenta el título y resumen para valorar la pertinencia o relevancia de cara a este trabajo. Posteriormente, se recuperaron los textos completos de este primer proceso de criba, incluyendo todas aquellas publicaciones en las que no se pudo determinar su elegibilidad a partir del título y el resumen, comprobando nuevamente la concordancia con los criterios de selección de la revisión. Una vez identificados los estudios que cumplieran con los criterios de selección, se realizó la extracción de los datos para lo que se dispuso de una ficha de extracción de datos, diseñada ad hoc para esta revisión. Posteriormente, se clasificó la información en tablas de evidencia para realizar la síntesis correspondiente.
+
+
+-- LIMITACIONES
+
+Como limitación principal de esta revisión encontramos la emergente producción de nuevas y numerosas publicaciones científicas relacionadas con el nuevo coronavirus SARS-CoV-2. En este sentido los estudios con altos niveles de evidencia relacionados con el manejo emocional de esta nueva crisis sanitaria son muy escasos hasta el momento.
+
+
+- RESULTADOS
+
+Tras eliminar duplicados en la búsqueda, se identificaron 73 artículos para su cribado. De ellos, se descartaron 49 por no cumplir criterios de elegibilidad. Se procedió a leer textos completos de 24 artículos excluyendo finalmente otros 14 (fig. 1 ).Figura 1
+La muestra final quedó compuesta por 10 estudios de diseño transversal (80%), descriptivo epidemiológico (10%) y cualitativo (10%). Un 60% publicados en los últimos 5 años. Referidos a tres ámbitos geográficos: Corea del Sur (60%), Canadá (30%) y China (10%); al entorno hospitalario (90%) y relacionados con los brotes epidémicos de coronavirus MERS-CoV (60%) y SARS-CoV-1 (40%). Siete hicieron referencia a profesionales sanitarios, 2 a pacientes y uno a ambos perfiles. Todos ellos recogieron información mediante encuestas, cuestionarios y entrevistas.
+Las evidencias sobre el manejo emocional en la gestión de crisis sanitarias por pandemias debidas a coronavirus apuntan al estrés como elemento importante a considerar. Los profesionales con niños parecen sentirse más vulnerables y precisan más apoyo psicosocial. Ofrecerles un grupo de apoyo-discusión, mediante tecnologías basadas en Internet produce un efecto positivo de soporte social que permite reducir el impacto emocional de profesionales y familiares (NDE4.b.GR.B).
+Los gestores y responsables de políticas sanitarias deben garantizar que las enfermeras no sufran discriminación social. Así, estas viven menos estrés y mantienen condiciones mentales adecuadas para cuidar del paciente. Se recomienda implantar programas educativos para fortalecer las cualidades de las enfermeras ante los desafíos y su capacidad de control, aumentando la autoconfianza y reduciendo preocupaciones, (NDE4.b.GR.B).
+Los gobiernos con un liderazgo fuerte deben desarrollar sistemas sanitarios resistentes para enfrentarse y controlar enfermedades emergentes, lo que permitiría mejorar el agotamiento y el estrés laboral profesional, los conflictos éticos y la intención de cuidar, (NDE4.b.GR.B).
+Las estrategias recomendadas por las autoridades sanitarias deben ser congruentes con las creencias en salud de grupos minoritarios de cara a favorecer la adherencia ante protocolos de control en futuras epidemias (NDE4.b.GR.B).
+Las instituciones deben reforzar el comportamiento preventivo de las enfermeras, estableciendo los recursos humanos y materiales necesarios para el trabajo en entornos seguros, ofreciendo además soporte y reconocimiento social (NDE4.b.GR.B).
+El reconocimiento social e inclusive el económico, por la realización de esfuerzos adicionales redunda positivamente en la actitud de cara a la gestión de cuidados en estas pandemias (NDE4.b.GR.B). Además, el apoyo y la capacitación por parte de las instituciones revierte a largo plazo en mejor salud mental para los profesionales.
+Los esfuerzos para acometer nuevas tareas y un apoyo emocional efectivo mejoran la recuperación cuando existen problemas (NDE4.b.GR.A). Incluso después de un tiempo, algunos síntomas persisten en los profesionales sanitarios como el insomnio o la insensibilidad, debiendo ser reevaluados para una gestión emocional adecuada (NDE4.b.GR.A).
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+Varios estudios apuntaron al estrés como elemento clave a manejar en relación con los brotes epidémicos. Grace et al. encontraron mayor estrés y estigma en profesionales que habían atendido a pacientes infectados. Su mayor preocupación fue la desatención de pacientes que no padecían SARS, tras suspenderse servicios no esenciales interrumpiendo la asistencia clínica y pudiendo afectar al estado de salud. Como aspectos favorables identificaron la camaradería, la profesionalidad y el espíritu para superar la crisis. Otro estudio comprobó el papel del estrés como mediador entre el estigma, la resiliencia y la salud mental de las enfermeras ante el brote por MERS-CoV. Kim y Choi investigaron sobre el estrés postexposición y el burnout de enfermeras de urgencias identificando factores asociados para prevenirlo o reducirlo. En el estudio de Oh et al. se halló una relación inversa entre la intención de cuidar y el nivel de estrés.
+Otras publicaciones describen la relevancia del estigma social. Choi y Kim encontraron el estigma como conflicto ético en enfermeras de urgencias, además del desacuerdo respecto al control de contagios y el riesgo percibido. Los problemas éticos fueron significativamente menores cuando estas medidas de control mejoraron, siendo este un factor predictor para prestar asistencia.
+Lee y Kang estudiaron la intención de las enfermeras respecto al cuidado ante pacientes contagiados. El predictor más fuerte fue el control percibido de confianza y autoeficacia. La retroalimentación positiva con compañeras y la remuneración económica redujeron el miedo y el estrés, alentando la voluntad ante nuevas pandemias. Lancee et al. analizaron la incidencia de problemas de salud mental, depresión y estrés postraumático en profesionales sanitarios (74% enfermeras) durante dos años después del brote de SARS. Durante el brote, un 19% padeció ataques de pánico, significativamente más frecuentes en la muestra que tenía problemas mentales previos. La experiencia laboral, la percepción de preparación y el respaldo institucional fueron factores protectores.
+Lee et al. comprobaron mayor impacto emocional y riesgo de estrés postraumático en profesionales que prestaron atención directa a pacientes con MERS-CoV (31,5% enfermeras).
+Entre los estudios que incluyeron pacientes, destaca el de Sheng et al., que evaluó los efectos de la gravedad de la enfermedad, el tratamiento corticoideo y los factores sociales, sobre la salud mental de 102 casos con SARS, incluidos profesionales, durante su fase aguda y la de convalecencia. Un 65% mantenía síntomas graves, más en profesionales, con problemas de confianza y desempeño del rol, incluso culpa por contagiar a familiares. Las dosis de corticoides fueron predictoras de ansiedad, depresión, psicosis y síntomas conductuales. La severidad de la enfermedad mantuvo relación directa con los síntomas en fase aguda y con la ansiedad y la depresión durante la convalecencia, así como los factores sociales.
+En estudio cualitativo incluido en la revisión, realizado mediante entrevistas a pacientes y profesionales de una comunidad china en Canadá. Estas personas desarrollaron estrategias, influidos por su cultura, para afrontar el brote de SARS respondiendo a la amenaza comunitaria.
+En los próximos años es probable que aparezcan nuevas pandemias por enfermedades infecciosas como el COVID-19 y las enfermeras deban actuar ante a estos retos, incluso como personas afectadas. La resiliencia del sistema sanitario dependerá de que se disponga de un número suficiente de enfermeras y recursos para afrontar estos nuevos problemas de salud pública.
+En conclusión, los artículos incluidos en la revisión destacan la necesidad de un manejo adecuado de las emociones ante pandemias como la del nuevo coronavirus, tanto en población general como en profesionales, considerando aspectos relacionados con el impacto sobre la salud mental de las personas como el estrés, la incertidumbre, la ansiedad o la estigmatización, entre otros.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

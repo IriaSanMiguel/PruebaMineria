@@ -1,0 +1,115 @@
+EFECTIVIDAD DE UN PROGRAMA DE ESTIRAMIENTOS SOBRE LOS NIVELES DE ANSIEDAD DE LOS TRABAJADORES DE UNA PLATAFORMA LOGÍSTICA: UN ESTUDIO CONTROLADO ALEATORIZADO
+
+
+- INTRODUCCIÓN
+
+Desde que Morris anunciara el riesgo de enfermedades asociadas a la inactividad física, han sido numerosos los estudios enfocados sobre estos aspectos. Existe una relación directa entre actividad física y salud, de manera que un aumento de la actividad y de la aptitud física se asocia a mejoras adicionales en el estado de salud.
+Debido a los beneficios que presenta la práctica de actividad física, algunas empresas han aplicado programas de ejercicio físico en el entorno laboral. Estos programas han permitido acumular evidencia sobre su influencia positiva en la salud de los trabajadores, así como en la reducción de los costes sanitarios para las empresas, , , , , , . La mayoría de estudios que desarrollan programas de ejercicio físico en el trabajo presentan diseños muy distintos en cuanto al tipo de intervención, frecuencia, intensidad, duración de las sesiones, población objeto de estudio y contexto de aplicación. Todo ello plantea inconsistencias, que han de ser resueltas con mayor investigación.
+Los estiramientos son un tipo ejercicio físico en el que un músculo o tendón es elongado, de forma deliberada, con el fin de mejorar su elasticidad y de regular su tono, incidiendo en el funcionamiento del aparato locomotor. Diversos estudios han señalado su eficacia a la hora de disminuir el dolor y los trastornos musculoesqueléticos en el entorno de trabajo, o incluso para la prevención de lesiones, , . También han contribuido a mejorar el equilibrio emocional, la autoimagen y el rendimiento, aliviando la tensión y el estrés. Además, se ha observado que facilitan las relaciones entre los compañeros de trabajo, mejorando el clima laboral. Incluso se han mostrado efectivos para renovar el interés por el trabajo. Sin embargo, no se han aportado suficientes evidencias respecto a su posible contribución en la mejora de los niveles de ansiedad, o sobre el bienestar general de los trabajadores.
+El objetivo principal del presente estudio fue evaluar la efectividad de un programa breve de estiramientos sobre el estado de ansiedad de los empleados de una empresa logística española. Como objetivo secundario nos propusimos evaluar la influencia de dicho programa sobre el burnout, la calidad de vida y la flexibilidad.
+
+
+- MÉTODOS
+
+-- DISEÑO
+
+Se utilizó un ensayo clínico controlado, aleatorizado mediante conglomerados, con sexo y turno de trabajo como variables de bloqueo. Los participantes fueron asignados al grupo experimental, intervenido con un programa de estiramientos, o al grupo control, no tratado (ratio 1:1). Los evaluadores fueron ciegos respecto al grupo asignado a los participantes. No hubo cambios en el método tras comenzar el estudio. Se utilizaron las normas estándar de comunicación para ensayos controlados aleatorizados.
+
+
+-- CONTEXTO Y POBLACIÓN DE ESTUDIO
+
+Los participantes fueron seleccionados entre los trabajadores de almacén de la empresa Plataforma Europa de Zaragoza, España. En el momento del estudio (febrero de 2009), el tamaño de dicho universo era n = 454 personas. Los criterios de inclusión fueron: edad entre 18-65 años, leer y entender español y haber firmado la declaración de consentimiento informado. Los criterios de exclusión fueron: padecer algún trastorno musculoesquelético cursado con dolor agudo, hallarse en tratamiento psicofarmacológico, haberse sometido a tratamiento psicológico en los 2 últimos años, estar embarazada y poseer contrato de trabajo con rescisión dentro del tiempo estimado para el estudio.
+
+
+-- ALEATORIZACIÓN DE LOS SUJETOS
+
+Cada participante fue asignado al grupo de tratamiento o al grupo control mediante una secuencia numérica generada aleatoriamente. La designación fue llevada a cabo por un miembro del equipo no implicado en la implementación del estudio. Los participantes dieron su consentimiento sin conocer el grupo en el cual podrían ser fijados.
+
+
+-- IMPLEMENTACIÓN DEL PROGRAMA
+
+Tras informar a los directivos y al comité de empresa se presentó el estudio a los trabajadores. Los voluntarios que cumplieron los criterios de inclusión realizaron la primera medida pretest. El programa de estiramientos fue dirigido por una licenciada en Ciencias de la Actividad Física y del Deporte, quien organizó un grupo en cada turno. Los participantes y la persona encargada de administrar el programa no fueron ciegos a las condiciones de este.
+
+
+-- INTERVENCIÓN
+
+El tratamiento consistió en un programa grupal supervisado de ejercicios de estiramientos, de diseño propio, compuesto por 60 sesiones, realizado durante 3 meses, 5 días por semana, con una duración de 10′ tras la jornada laboral. Estuvo compuesto de 4 subprogramas, de 3 semanas cada uno, organizados progresivamente según el nivel de dificultad, para optimizar el aprendizaje. Las técnicas progresaron desde lo analítico hacia lo global. Mediante métodos activos se trabajaron los principales grupos musculares, haciendo énfasis en aquellos con tendencia a la hipertonía y al acortamiento. Se buscó el aprendizaje de los estiramientos, la relajación del aparato locomotor y la mejora en la amplitud del movimiento.
+El grupo control no fue intervenido, ni recibió ningún tratamiento especial.
+
+
+-- MEDIDAS
+
+Las evaluaciones se desarrollaron al inicio del estudio y justo después de finalizar el tratamiento, 12 semanas después de la línea de base.
+
+
+--- VARIABLES SOCIODEMOGRÁFICAS Y LABORALES
+
+Fueron recogidas las variables: edad, sexo, estado civil, número de hijos, nivel de estudios, turno de trabajo y práctica de actividades introyectivas en el tiempo libre, como pilates, yoga, tai-chi, relajación o eutonía («práctica» vs «no práctica»).
+
+
+--- VARIABLE RESULTADO PRINCIPAL
+
+Se evaluó la variable ansiedad mediante la subescala «ansiedad-estado» del STAI. Consta de 20 ítems, que evalúan la ansiedad como una condición emocional transitoria, con buena consistencia interna (α = 0,90). Utiliza una escala Likert con 4 opciones de respuesta, de 0 (casi nunca) a 3 (casi siempre). Dicha variable se distribuye de manera continua, de modo que a mayor puntuación, mayores niveles de ansiedad.
+
+
+--- VARIABLES RESULTADO SECUNDARIAS
+
+Para valorar el burnout se utilizó el MBI-GS. Este inventario está formado por 16 ítems, agrupados en 3 dimensiones: agotamiento, cinismo y eficacia. Las respuestas se organizan mediante una escala Likert con 7 opciones, de 0 (nunca) a 6 (siempre). A mayor puntuación, mayores niveles de agotamiento, cinismo y eficacia. El MBI-GS presenta unas características psicométricas adecuadas (α ≥ 0,85).
+Se evaluó la calidad de vida con el SF-36. Dicho cuestionario consta de 36 ítems, que generan un perfil de salud basado en 8 subescalas: función física, rol físico, dolor corporal, salud general, vitalidad, función social, rol emocional y salud mental. Cifras más altas indican mejor calidad de vida. La consistencia interna resulta adecuada en todas sus dimensiones (α > 0,70).
+Se estimó la flexibilidad con el test Sit and Reach modificado. Esta prueba trata de establecer el nivel de flexibilidad de la parte baja de la espalda, extensores de la cadera y flexores de la rodilla, mediante la flexión profunda del tronco. Es uno de los test de flexibilidad más utilizados, forma parte de numerosas baterías y presenta una validez convergente elevada con otras medidas de flexibilidad.
+
+
+-- MÉTODOS ESTADÍSTICOS
+
+--- TAMAÑO DE MUESTRA
+
+Se aceptó que la aplicación de programas de actividad física en el entorno laboral puede producir efectos positivos moderados sobre la variable resultado principal. Adoptando un nivel de confianza del 95% (α = 0,05), una potencia del 80% y un tamaño del efecto d = 0,50, con varianzas desconocidas supuestamente iguales para 2 grupos de igual tamaño, se obtuvo un tamaño de 63 sujetos por grupo. Estimando un 5% de rechazos el tamaño necesario implicó a un total de 132 participantes.
+
+
+--- ANÁLISIS DE DATOS
+
+Las características sociodemográficas se describieron con la media, desviación estándar, frecuencias y porcentajes, según su naturaleza. Se realizaron comparaciones para verificar que no había diferencias en la línea de base, mediante la prueba «t» y el test χ2.
+Tras verificar los supuestos de normalidad y homocedasticidad se realizó un análisis de covarianza (ANCOVA), por intención de tratar (ITT), por el método last observation carried forward (LOCF) sobre las variables resultado. Fueron incluidas como covariables las puntuaciones basales, la práctica de actividades introyectivas fuera del tratamiento y la edad, para examinar las posibles diferencias entre los grupos, eliminando su posible influencia. Se calculó el tamaño del efecto mediante el valor de eta cuadrado parcial (η2). Valores η2 ≤ 0,01 se corresponden con un tamaño del efecto bajo, η2 = 0,06 con un tamaño medio y η2 ≥ 0,14 con un tamaño grande. Se realizaron contrastes entre las medidas pretest y postest, mediante la prueba «t» correspondiente.
+El nivel de significación adoptado fue de α < 0,05. Se utilizó el paquete SPSS-15.
+
+
+-- ASPECTOS ÉTICOS
+
+Se siguieron las normas de la Convención de Helsinki, modificadas en la Declaración de Madrid (World Psychiatric Association). El protocolo fue aprobado por el Comité Ético de Investigación Clínica de Aragón. Todos los participantes proporcionaron su consentimiento informado por escrito antes de dar comienzo el estudio.
+
+
+- RESULTADOS
+
+-- MUESTRA RECLUTADA
+
+Se presentaron 148 voluntarios, de los cuales 14 fueron desestimados por presentar criterios de exclusión . Los participantes no mostraron diferencias respecto al universo total, en el sexo (χ2 = 0,44; p = 0,508) y la edad (F = 1,03; p = 0,594). De los 134 incluidos 67 fueron asignados al grupo experimental, y otros tantos al control. Ambos grupos no fueron diferentes en el porcentaje de sujetos que completaron el estudio (χ2 = 0,49; p = 0,484), aunque las razones de falta de continuidad fueron distintas.Figura 1
+
+
+-- CARACTERÍSTICAS SOCIODEMOGRÁFICAS Y CLÍNICAS DE BASE
+
+No fueron encontradas diferencias basales entre los grupos experimental y control, en ninguna de las características sociodemográficas . Fueron encontradas diferencias de base en las variables resultado: ansiedad, función física y vitalidad, con puntuaciones más elevadas en el grupo experimental en las 2 últimas .
+
+
+-- EFECTIVIDAD SOBRE LAS VARIABLES RESULTADO
+
+Los resultados del ANCOVA señalaron un efecto significativo del tratamiento a la hora de reducir los niveles de ansiedad, con un tamaño del efecto moderado. También fueron revelados efectos significativos y elevados en flexibilidad, moderadamente altos en dolor corporal y moderados en vitalidad, salud mental, salud general y agotamiento. Fueron encontrados efectos no significativos, moderadamente bajos, en función social, y bajos en función física. No fueron encontrados efectos de ningún tipo en rol físico, rol emocional, cinismo y eficacia.
+
+
+- DISCUSIÓN
+
+Una intervención breve compuesta por 10′ de estiramientos tras la jornada laboral en el contexto de trabajo, 5 días por semana, durante 3 meses, fue capaz de reducir los niveles de ansiedad de los trabajadores de almacén de la empresa objeto de estudio. También disminuyó la percepción de dolor corporal y el agotamiento, aumentando los niveles de vitalidad, salud mental, salud general y flexibilidad, con la consiguiente reducción en el riesgo de lesiones.
+La principal fortaleza del estudio fue tomar medidas de varios indicadores de bienestar y calidad de vida. Aunque esto también introduce una limitación, pues el análisis de un elevado número de variables posibilita la obtención de resultados significativos, por acumulación de error. Otra limitación devino de la ausencia de medidas de seguimiento, lo cual impidió valorar la evolución del efecto de la intervención a lo largo del tiempo. Así mismo, hemos de señalar posibles sesgos de selección, por las diferentes razones de abandono en ambos grupos. Por otro lado, las mejoras obtenidas podrían deberse en parte a la dificultad de utilizar diseños ciegos en este tipo de intervenciones. No obstante, mediante el control estadístico de los niveles basales fueron eliminadas las posibles influencias causadas por las diferencias de partida entre los grupos, encontradas por azar. Por último, el análisis ITT desarrollado aumentó la confianza sobre los resultados, situándonos en un escenario realista sobre la efectividad del tratamiento, al penalizar las puntuaciones procedentes de los casos perdidos.
+La muestra estuvo compuesta por jóvenes de mediana edad, de ambos sexos en la misma proporción, que no practicaban actividades introyectivas en su tiempo de ocio, con pareja estable y sin hijos en su mayoría, con un nivel de estudios predominantemente secundario, y con un turno de trabajo diurno en la mayor parte de los casos. Hemos visto que el programa de estiramientos provocó en ellos una disminución importante en los niveles de ansiedad estado. Otros estudios han señalado la existencia de relaciones positivas entre la realización de ejercicio físico en general y la aparición de estados emocionales positivos, debido a que dicha práctica podría aumentar el bienestar psicológico, reduciendo el estrés, la ansiedad y la depresión. Se ha dicho que las consecuencias del ejercicio sobre el bienestar podrían ser debidas a las expectativas que genera su práctica, más que con mecanismos fisiológicos subyacentes a la propia actividad. No obstante, si atendemos al tipo de trabajo desarrollado por los participantes, podemos pensar que las características particulares del programa pudieron desempeñar un papel determinante sobre el bienestar alcanzado.
+Las tareas habitualmente realizadas por los participantes implican el mantenimiento de posiciones estáticas, mediante la contracción isométrica de la musculatura del cuello y de los hombros, lo cual favorece el desarrollo de trastornos musculoesqueléticos. El mantenimiento de posiciones incómodas durante largos períodos, o los movimientos en general repetitivos, comunes en este tipo de empleados, pueden derivar en acusadas limitaciones del rango articular. Estas limitaciones distorsionan el patrón biomecánico, aumentando el riesgo de lesiones. Por el contrario, los estiramientos promueven la extensibilidad de las articulaciones, músculos y tendones, aumentando la amplitud de movimiento. El tratamiento utilizado contribuyó a incrementar la elasticidad de la musculatura de la espalda y de los isquiotibiales. También disminuyó la percepción de dolor corporal en general, favoreciendo al tiempo la vitalidad, salud mental y salud general, todo lo cual podría redundar en una mejora del bienestar psicológico, favoreciendo aumentos en la capacidad de esfuerzo. Aunque no fue valorada la productividad, la utilización de este tipo de programas podría reportar resultados positivos, a través de los aumentos en la capacidad de esfuerzo referidos, .
+La influencia del programa fue escasa sobre la función física y función social, y prácticamente nula sobre el rol físico y el rol emocional, quizá debido a que la brevedad y sencillez de la intervención no permitió consolidar beneficios sobre dichas esferas. Tampoco pudo mejorar síntomas avanzados del burnout como el cinismo y la ineficacia, cuya restauración posiblemente exija la utilización de procedimientos de intervención más específicos, de acuerdo con la complejidad y cronicidad del síndrome. No obstante, sí resultó eficaz a la hora de disminuir el agotamiento, como fase inicial del trastorno, lo cual hace pensar que tal vez este tipo de intervención podría atenuar su desarrollo, especialmente en el caso del subtipo de burnout denominado «frenético», asociado a elevados niveles de sobrecarga. En general, es complicado establecer comparaciones con otros estudios que utilizan programas de actividad física en el entorno laboral, debido a diferencias en el tipo de actividad propuesta, en los diseños del programa de intervención, o por la idiosincrasia de las muestras seleccionadas.
+El programa utilizado consiguió beneficios directos, aunque tal vez limitados, sobre el bienestar de los trabajadores, tal vez debido a que las mejoras obtenidas en parámetros físicos como la movilidad articular, la elasticidad o el tono muscular repercutieron de forma positiva en la disposición del ánimo y en la autopercepción de la salud. El lugar de trabajo podría resultar un entorno adecuado para introducir cambios favorables en los niveles de actividad física y en la salud de los empleados. Otra cuestión es si estas mejoras permiten alcanzar objetivos de salud pública, o si su coste se ve justificado con mejoras en productividad. Para dilucidar estas cuestiones, necesitamos comparar distintos tipos de programas, atendiendo a diferencias como la duración de las sesiones, la extensión del programa o el hecho de ser incluido o no dentro del horario de trabajo.Lo conocido sobre el temaDebido a los beneficios sobre la salud que presenta la práctica de actividad física, algunas empresas han aplicado programas de ejercicio físico en el entorno laboral. Los estudios que han desarrollado estos programas difieren en el tipo de práctica, diseño, frecuencia, duración de las sesiones y contexto de aplicación. La práctica de ejercicios de estiramientos en el entorno laboral se ha mostrado eficaz para disminuir el dolor y los trastornos musculoesqueléticos, pero no hay evidencia suficiente respecto a su contribución sobre la mejora de los niveles de ansiedad o sobre el bienestar en general.Qué aporta este estudioEl presente estudio añade evidencias respecto a la efectividad de un programa abreviado de actividad física en el entorno de trabajo, basado en ejercicios de estiramientos, a la hora de disminuir los niveles de ansiedad, dolor corporal y agotamiento, así como para aumentar la vitalidad, salud mental, salud general y flexibilidad. Este tipo de programas, rara vez aplicado en el contexto empresarial, podrían constituir una estrategia de bajo coste para la mejora del bienestar general relativo a la salud de los trabajadores.
+
+
+- FINANCIACIÓN
+
+La realización del presente trabajo fue posible gracias a los fondos obtenidos a partir del proyecto I + D código 2008/0683: «Implantación de un programa de estiramientos en la empresa», financiado a partir de un contrato con la empresa Plataforma Europa Inditex.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

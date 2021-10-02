@@ -1,0 +1,75 @@
+COVID19-TRACKER: UNA APLICACIÓN SHINY PARA ANALIZAR DATOS DE LA EPIDEMIA DE SARS-COV-2 EN ESPAÑA
+
+
+- INTRODUCCCIÓN
+
+Los primeros casos confirmados de enfermedad producida por SARS-CoV-2 en España se identificaron a finales de febrero de 2020. Desde entonces, España se ha convertido en el segundo país del mundo con mayor afectación (148.220 casos diagnosticados) y el tercero en mortalidad (14.792 fallecidos). El 16 de marzo se decretó el estado de alarma con medidas orientadas a frenar la curva epidémica, restringiendo el contacto social mediante el confinamiento de la población general, reduciendo los transportes públicos y cerrando comercios y empresas, a excepción de aquellos esenciales para abastecer a la población (Real Decreto 463/2020). Sin embargo, esta medida no fue suficiente para cambiar la tendencia creciente de la epidemia. Por esta razón, se sugirió un confinamiento más restrictivo, el cual fue decretado el 30 de marzo (Real Decreto-Ley 10/2020).
+La visualización de datos resulta relevante para explorar y comunicar resultados en la investigación médica, en especial para la vigilancia epidemiológica. En el contexto actual es importante ofrecer a la comunidad científica, así como a los agentes políticos y de salud pública, herramientas automatizadas para la monitorización de la epidemia, pues el análisis crudo de los datos tabulados puede esconder aspectos esenciales de la propia tendencia. La aplicación web COVID19-Tracker analiza y produce de manera sistemática visualizaciones diarias de los datos de la epidemia de COVID-19 en España desde el 24 de febrero de 2020.
+
+
+- MÉTODO
+
+La aplicación se ha desarrollado mediante RStudio (versión 1.2.5033), utilizando la librería Shiny (versión 1.4.0), ya que ofrece la posibilidad de desarrollar interficies gráficas para el usuario que pueden ser cargadas localmente o en línea de forma interactiva. Esto resulta en particular beneficioso para mostrar resultados actualizados a una audiencia amplia.
+La aplicación analiza y visualiza datos diarios de COVID-19, correspondientes a casos diagnosticados y fallecidos desde el 24 de febrero de 2020. Estos datos se recogen diariamente de forma automática del repositorio de Datadista en GitHub. En este repositorio se mantienen actualizados en formato adecuado los datos publicados por el Ministerio de Sanidad, Consumo y Bienestar Social, a través del Instituto de Salud Carlos III.
+Los análisis implementados consideran el modelo de regresión de Poisson, corregido por sobredispersión, para estimar la tendencia y obtener proyecciones a 3 días. Todos los análisis estadísticos se han implementado mediante el programa R, versión 3.6.3.
+
+
+-- ANÁLISIS DE TENDENCIA Y PROYECCIONES
+
+Para evaluar la tendencia se utiliza el modelo siguiente:log(E(ct)) = β0 + β1t + β2t2
+donde t = 1, 2, …, t representa la unidad temporal (desde el primer día hasta el último observado, T días consecutivos en total) y ct es el número de eventos diarios.
+Las proyecciones a 3 días, y su intervalo de confianza del 95%, se obtienen a partir de los parámetros estimados por el modelo. También se calculan las tendencias y las proyecciones por grupos de edad (0-39, 40-49, 50-59, 60-69, 70-79 y 80 o más años).
+En versiones previas de la aplicación también se consideró un modelo alternativo, incluyendo solo la tendencia lineal, y los modelos se comparaban mediante una prueba de razón de similitudes. Con la evolución de la epidemia observamos que el mejor ajuste lo proporcionaba el modelo cuadrático, descrito anteriormente, por lo que es el modelo que se utiliza en la versión actual. En cualquier caso, la bondad de ajuste de los modelos se evalúa regularmente en caso de ser necesaria una reformulación que pudiese proporcionar un mejor ajuste de los datos durante el transcurso de la epidemia.
+
+
+-- ANÁLISIS DE LA LETALIDAD
+
+La tasa de letalidad se define como el cociente entre los fallecidos y los casos diagnosticados. Para evaluar la tendencia se introduce en el modelo de regresión un término offset con los casos diagnosticados:log(E(mt)) = β0 + β1t + β2t2 + log(ct)
+donde mt representa el número diario de pacientes fallecidos y ct los casos diagnosticados. También se calculan las tasas de letalidad para los mismos grupos de edad.
+En la actualidad no es posible realizar un estimación precisa de la tasa de letalidad debido al grado de subregistro de los casos diagnosticados en las estadísticas oficiales, si bien es de interés su estimación y seguimiento considerando dicha limitación.
+
+
+-- ANÁLISIS DE INTERVENCIÓN
+
+Para evaluar el efecto del estado de alarma sobre la tendencia de datos incidentes utilizamos un diseño de series temporales interrumpidas, usando un modelo de interacción para estimar los cambios de tendencia:log(E(ct)) = β0 + β1t + β2 alarma + β3t∗ alarma
+donde alarma identifica los periodos antes y durante los estados de alarma (0 = antes de 16 marzo, 1 = 16-29 marzo y 2 = después de 30 marzo).
+Para facilitar la interpretación en función del incremento diario porcentual de casos incidentes, y su intervalo de confianza del 95%, se asume una tendencia lineal en cada periodo.
+
+
+- RESULTADOS
+
+La aplicación presenta una estructura amigable e intuitiva que, mediante menús, produce visualizaciones de los datos (fig. 1 ). La aplicación contempla un proceso automatizado por el cual los datos se actualizan cada vez que un usuario se conecta a través de la dirección web: https://ubidi.shinyapps.io/covid19/ Figura 1
+Los menús Proyecciones y Proyecciones por edad producen la visualización de la tendencia de los datos y su proyección a 3 días (fig. 2 a y b, respectivamente) en el ámbito estatal y por comunidades autónomas. Los menús Letalidad y Letalidad por edad permiten visualizar la tendencia en la tasa de letalidad (fig. 2 c) estatal y por comunidades autónomas, aunque por grupos de edad solo en el ámbito estatal. Finalmente, el menú Intervención evalúa el efecto de los estados de alarma en datos incidentes nacionales (fig. 2 d).Figura 2
+Los gráficos producidos por la aplicación permiten, cuando el usuario señala un punto concreto con el ratón, mostrar el valor observado y el estimado por el modelo. Asimismo, al seleccionar el gráfico permite la opción de descargarlo en formato imagen (portable network graphic, *.png). Todos los menús están disponibles en castellano, catalán e inglés. El menú Otras aplicaciones recoge una colección de aplicaciones Shiny desarrodadas por otros usuarios, también de utilidad para seguir la evolución de la epidemia de COVID-19 en España y globalmente.
+
+
+- DISCUSIÓN
+
+La aplicación COVID19-Tracker ofrece un conjunto de herramientas para el análisis actualizado y la visualización gráfica que pueden ser de gran utilidad para un mejor conocimiento de la evolución de la epidemia de COVID-19 en España y su vigilancia epidemiológica.
+Como limitaciones, hay que indicar que la aplicación no tiene en cuenta los cambios en la definición de caso diagnosticado por COVID-19 ni en los fallecimientos, por lo que se modeliza directamente el número de eventos en lugar de la tasa de incidencia, asumiendo que toda la población está en riesgo, a excepción de la tasa de letalidad. Por otro lado, los análisis no están libres de los sesgos vinculados a la fuente de los datos, proporcionados diariamente por el Ministerio de Sanidad, Consumo y Bienestar Social y obtenidos a través del GitHub de Datadista, donde se pueden consultar detalles sobre los criterios de definición en los datos según las notas publicadas por el Ministerio.
+Seguimos planeando mejoras de la aplicación para que incluya nuevos análisis y visualizaciones. Además, la aplicación podría ser extensible para su uso en otros países o áreas geográficas. En resumen, esta aplicación, de uso sencillo, viene a ocupar un espacio en este escenario particular para la visualización y la exploración epidemiológica de los datos de la epidemia de COVID-19 en España.
+
+
+- EDITOR RESPONSABLE DEL ARTÍCULO
+
+Carlos Álvarez Dardet.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Todos los autores han contribuido en la concepción de la herramienta, la obtención de los datos, la propuesta de modelización estadística y su implementación informática. La versión final del manuscrito ha sido aprobada por todos los autores, con una contribución igual en su elaboración.
+
+
+- AGRADECIMIENTOS
+
+Se agradece a la plataforma Datadista su dedicación por poner a disposición de forma abierta y estructurada los datos diarios acumulados de la epidemia por SARS-CoV-2 en España.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

@@ -1,0 +1,79 @@
+ANÁLISIS DE LOS MATERIALES PARA LA FABRICACIÓN DE MASCARILLAS: EL RETO DE HACER FRENTE A LA ESCASEZ DE EQUIPOS DE PROTECCIÓN INDIVIDUAL
+
+
+- INTRODUCCIÓN
+
+En la pandemia actual que estamos viviendo por coronavirus (SARS-CoV-2) cobran una especial relevancia los equipos de protección individual (EPI). El principal elemento de estos equipos son las mascarillas, cuyo rendimiento en términos de protección dependen de dos factores esenciales: el ajuste de la mascarilla a la cara y la capacidad de filtración del material. Las mascarillas tienen una función de filtrado del virus que está en suspensión en el aire, pero sirven también como protección ante salpicaduras de fluidos.
+Según la norma UNE para estos dispositivos, se clasifican en FPP1, FPP2 y FPP3 en función de su rendimiento: FPP1 para una eficacia de filtración del 78%, FPP2 para una eficacia de filtración del 92% y FPP3 para una eficacia de filtración del 98%. La cantidad de aire ambiental que fuga hacia el interior varía desde el 22% de la mascarilla FPP1, hasta el 2% de la FPP3, pasando por el 8% de la FPP2.
+Existen experiencias previas de epidemias respiratorias en las que la falta de mascarillas fue determinante para asegurar la protección del personal sanitario. En 2004 con el síndrome respiratorio agudo severo (SRAS) y en 2009 con la pandemia por gripe A o H1N1, Estados Unidos se enfrentó a roturas de stock de mascarillas que puso en peligro la adecuada protección del personal sanitario. Algo similar hemos vivido en esta pandemia de SARS-CoV-2, en la que los distintos países —y el nuestro no es una excepción— se han enfrentado a problemas de falta de material y, notablemente, mascarillas.
+La fabricación de mascarillas no es un proceso tan sencillo como puede ser el de fabricación de batas. Ya en 1918, en los primeros escritos sobre fabricación de mascarillas, se apuntaba que la eficacia de una mascarilla dependía del número de capas de gasa con la que estaba hecha y de la calidad de dicha gasa. Desde inicios del siglo xx distintos materiales han sido utilizados en la fabricación de mascarillas, como la celulosa, el algodón, el lino, la fibra de vidrio o la microfibra polimérica, , . Actualmente, la evolución tecnológica y de los tejidos hace posible que otras opciones de fabricación sean posibles, aunque la correcta utilización de los filtros adecuados es fundamental para una retención efectiva de partículas, .
+El objetivo de este estudio es realizar un resumen de la evidencia existente sobre la filtración de distintos materiales para la elaboración de mascarillas.
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Teniendo en cuenta el objetivo del estudio, se lleva a cabo una scoping review o revisión exploratoria.
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+La búsqueda se ha realizado en la base de datos Pubmed y Scopus, por ser las principales bases de datos de referencia para el ámbito de las ciencias de la salud.
+Los términos de búsqueda utilizados han sido: «respirator», «mask», «facemask», «material» y «tissue». Estos términos se han combinado con los operadores booleanos OR y AND y se han truncado con el objetivo de no dejar fuera los términos que pueden compartir la misma raíz, como por ejemplo el singular y plural de un mismo término. Así, la búsqueda final ha sido la siguiente: (respirator* OR mask* OR facemask*) AND (material* OR tissue*), limitando la aparición de estos términos al título o resumen el documento.
+No se han establecido límites temporales, aunque sí se ha limitado la búsqueda a los idiomas inglés, francés y castellano.
+La búsqueda se ha completado con la técnica «bola de nieve» para obtener los artículos relevantes que no se han identificado a través de la búsqueda en base de datos.
+
+
+-- SELECCIÓN DE ARTÍCULOS Y EXTRACCIÓN DE DATOS
+
+Los artículos han sido seleccionados tras la lectura del título y resumen, identificando los que se relacionaban con la pregunta de investigación y eliminando los que se centraban en otros aspectos, como uso de mascarillas para polución, máscaras de CPAP, mascarillas de belleza facial o evaluación de filtración de mascarillas comerciales, entre otros.
+Para cada uno de ellos se ha recogido la información sobre autores, años de publicación e información relevante sobre objetivo, metodología y resultados.
+Se clasificaron los documentos encontrados por su rigor metodológico y el nivel de evidencia o el grado de recomendación según los criterios establecidos por el Instituto Joanna Brigss, aunque no se utilizó como criterio de selección.
+
+
+-- ANÁLISIS DE LOS RESULTADOS
+
+Una vez seleccionados los artículos y extraída la información relevante, se ha procedido a la realización de una síntesis de los resultados, con el objetivo de presentar un resumen lo más adecuado posible que dé respuesta a la pregunta de investigación planteada.
+
+
+- RESULTADOS
+
+Se han obtenido un total de 148 artículos en las bases de datos consultadas, de los que se han seleccionado 17 tras la lectura del título y resumen, y finalmente 6 tras la lectura del texto completo. Además, mediante la técnica de «bola de nieve» se han seleccionado dos libros, dos documentos técnicos y una guía de elaboración de mascarillas. Los documentos finalmente utilizados provienen de Estados Unidos, China y Reino Unido (fig. 1 ).Figura 1
+
+
+-- RECOMENDACIONES
+
+Entre los artículos encontrados los hay con contenido relacionado con material para la fabricación de mascarillas comerciales, tanto mascarillas quirúrgicas, como mascarillas de media-alta filtración. También existe literatura sobre la fabricación de mascarillas en casa.
+
+
+--- MATERIALES DE FABRICACIÓN DE MASCARILLAS QUIRÚRGICAS Y DE MEDIA-ALTA FILTRACIÓN
+
+La normativa UNE correspondiente establece que para la fabricación de mascarillas quirúrgicas el principal material es el tejido no tejido (TNT) y en ningún caso deben tener componentes elásticos.
+La mascarilla quirúrgica consta de tres capas. Una primera capa, en contacto con la cara, que está realizada normalmente de TNT de polipropileno o de celulosa. La norma UNE española apunta a que esta capa debe ser del 100% polipropileno spunbond de 20 g/m2 . El polipropileno se utiliza debido a su capacidad hidrófuga y de absorción, por lo que asegura un ambiente confortable en la zona de la cara (IoM, 2006). La capa central, encargada de la mayor parte del filtrado, está realizada también de polipropileno, que según la norma UNE debe estar compuesta de una doble tela de polipropileno spunlance de 44 g/m2 . El tejido spunlance es un TNT fabricado con chorros de agua de alta presión que van enredando fibras y fabricando así el tejido. Concretamente, la norma UNE establece que este tejido debe ser de 80% poliéster y 20% viscosa. Por último, la capa exterior está compuesta de polipropileno o celulosa (IoM, 2006). En este caso, la norma UNE establece dos capas de 100% polipropileno spunbond, como en la capa interna, pero en esta ocasión de un gramaje de 40 g/m2.
+Por su lado, las mascarillas de media-alta filtración están compuestas de 4 o 5 capas, tres de las cuales, que se sitúan en medio de las otras dos, hacen las labores de filtro. Normalmente estos tejidos internos que hacen de filtros están hechos de una capa fina de fibras de polipropileno spunbond densamente unidas.
+Estas mascarillas también pueden usar fibras de electreto. Estas fibras son usadas a modo de filtro, entre dos capas de tela de polipropileno. Se ha demostrado que los filtros de electreto capturan la mayoría de las partículas biológicas suspendidas en el aire. Se trata de fibras cargadas eléctricamente y que pueden atrapar partículas y microrganismos mediante atracción electrostática. Una ventaja de este tipo de filtros es que son menos densos que los convencionales, sin perder eficiencia. Sin embargo, pierden eficiencia con el tiempo, sobre todo si son expuestos a aerosoles.
+En los últimos años empiezan también a aparecer estudios que indagan sobre la capacidad de nuevos materiales para la filtración de partículas bacterianas, como las nanofibras compuestas, basadas en poli-ácido láctico reforzadas térmicamente. Estos nuevos materiales, que suponen una filtración que puede variar desde unos pocos nanómetros hasta cientos de nanómetros, no se pueden fabricar mediante técnicas tradicionales y son capaces de filtrar de manera efectiva mediante mecanismos como el del movimiento browniano. En el estudio realizado por Suen et al. las mascarillas de nanofibra de alta filtración demuestran tener la misma capacidad de filtración y mejor permeabilidad (menor resistencia al aire) que una mascarilla de alta filtración de una marca comercial reconocida con la que se realizó el estudio comparativo.
+
+
+--- MATERIALES PARA MASCARILLAS HECHAS EN CASA
+
+Hay que tener en cuenta que las mascarillas realizadas con materiales caseros pueden ser una opción para la población en general, con el objetivo de que dejen las mascarillas comerciales para uso de los profesionales sanitarios y no contribuyan a incrementar la escasez de este material en situaciones de epidemia, como recomiendan algunos organismos internacionales, . También hay que pensar que en ciertas zonas del mundo el acceso a mascarillas comerciales no es posible de la misma manera que en países occidentales, por lo que su único recurso son las mascarillas fabricadas de manera casera. Es importante remarcar, no obstante, que se ha demostrado que estas mascarillas no protegen de la misma manera que las mascarillas quirúrgicas en situaciones de virus respiratorios, no solo por el tipo de material y su capacidad de filtrado, sino también por su retención de humedad. Además, hay que tener también en cuenta que pueden llegar a producir una falsa sensación de seguridad, siendo incluso perjudicial para el usuario que la lleva puesta.
+En un estudio publicado en 2103, Davies et al. evaluaron los materiales caseros más adecuados para fabricar una mascarilla, concluyendo que, desde el punto de vista de su capacidad de filtración, los mejores materiales son la bolsa de aspirador y el trapo de té (tea towel). Sin embargo, estos materiales producen mucha resistencia al usuario a la hora de respirar. La funda de almohada o la tela de camiseta se identificaron como los materiales más adecuados para la fabricación de mascarillas debido al equilibrio entre capacidad de filtración y la adaptación a la cara y su resistencia a la respiración, con una capacidad de filtración en torno al 60% en comparación con la de una mascarilla quirúrgica homologada. El hecho de duplicar las capas de material no parece aportar una ventaja adicional.
+En esta línea, los CDC de Atlanta, ante la pandemia por SARS-CoV-2, acaban de publicar un manual sobre cómo elaborar una mascarilla en casa. Para ello proponen usar dos capas de tela de algodón (que puede ser de una camiseta) e incluso puede incluirse un filtro de café, de las cafeteras de goteo, entre ambas capas de tela de algodón. Recomiendan su uso en lugares públicos donde es difícil mantener las normas de distancia mínima (supermercados, por ejemplo) y como medida para evitar trasmitir el virus por parte de la población asintomática.
+
+
+- CONCLUSIONES
+
+La fabricación de mascarillas se ha planteado en contextos de falta de recursos materiales. Concretamente, las mascarillas caseras se proponen por organismos internacionales para la población en general para evitar agudizar la falta de mascarillas comerciales para el personal sanitario, o en regiones desfavorecidas donde este material no se encuentra a disposición ni tan siquiera del personal sanitario. Para la fabricación de estas mascarillas caseras la tela de camiseta de algodón parece el material con un mejor equilibrio entre capacidad de filtrado y resistencia al aire, siempre sabiendo que no protege de la misma manera que una mascarilla comercial y que puede provocar una sensación de falsa seguridad que puede ser perjudicial para el usuario.
+Las mascarillas quirúrgicas y las de alta filtración están fabricadas todas ellas de tres capas, aunque alguna de ellas puede ser doble. Todas estas capas están hechas de TNT normalmente de tipo polipropileno spunbond o spunlance. La parte central que ejerce de filtro puede estar fabricada también de electreto, que son unas fibras cargadas eléctricamente y que pueden atrapar partículas y microrganismos mediante atracción electrostática. En los últimos años aparecen nuevos materiales, como las nanofibras, que pueden demostrar una capacidad de filtración óptima para su uso como protección frente a virus respiratorios.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras pertenecen al Comité Editorial de la revista Enfermería Clínica, aunque este aspecto no ha condicionado el proceso de revisión del manuscrito ni su resultado final.

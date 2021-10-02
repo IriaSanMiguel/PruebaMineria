@@ -1,0 +1,5 @@
+Comparar la percepción de la calidad de vida relacionada con la salud (CVRS) de padres y médico con respecto al paciente en población infantil sometida a una intervención quirúrgica menor, y analizar la progresión de la CVRS tras un mes de someterse a la intervención.
+Participaron 36 pacientes sometidos a intervenciones quirúrgicas menores. Se les administró el cuestionario EQ-5D-Y, y su versión proxy correspondiente a los padres y al médico. Se utilizó la variable TTO.
+Los pacientes refirieron un peor estado de salud, sobre todo en la dimensión de preocupación/tristeza, que los médicos en el preoperatorio (p < 0.05), pero la percepción postoperatoria fue similar en pacientes y adultos, atribuible al efecto techo por buena salud postoperatoria.
+Los pacientes pediátricos sometidos a cirugía menor mejoran su CVRS tras la intervención, y esta mejora se mantiene tras un mes de la cirugía.
+

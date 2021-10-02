@@ -1,0 +1,122 @@
+TRASTORNOS PSIQUIÁTRICOS EN LOS NIÑOS Y ADOLESCENTES EN TIEMPO DE LA PANDEMIA POR COVID-19
+
+
+- INTRODUCCIÓN
+
+El mundo se enfrenta a uno de los retos globales más importantes desde la segunda guerra mundial: la enfermedad por coronavirus de 2019 (COVID-19). Este brote epidémico comenzó en diciembre del 2019 causado por el coronavirus 2 del síndrome respiratorio agudo grave (SARS-CoV-2).
+Actualmente afrontamos una situación de consecuencias trágicas, la pandemia por COVID-19 que fue declarada como urgencia de salud pública por la OMS. Una crisis multimodal —sanitaria, laboral, económica y social— sin precedentes que repercutirá especialmente en los países en vías de desarrollo. Entre las medidas preventivas para evitar contraer el virus, están el distanciamiento social y el confinamiento, las cuales tienen a la vez una cara amenazante, pues son las que producen un gran impacto en la sociedad.
+La resiliencia es la capacidad de afrontar circunstancias ambientales que probablemente requieran de un niño promedio una adaptación psicológica, social o neurobiológica significativa y que representen una desviación del entorno esperado. Las experiencias adversas en la infancia son comunes. Algunos estudios, por ejemplo, señalan que hasta el 66,7% de los adolescentes han vivido al menos una adversidad y cerca de un 50%, más de una. Las adversidades que se reportan con mayor frecuencia son enfermedades de los padres (24%), dificultades económicas (22%), discordia familiar (18%) y consumo de alcohol paterno (17%), , . Durante la época de la pandemia es muy posible que estas adversidades se presenten en mayor escala.
+Rutter fue uno de los primeros en señalar el papel de la adversidad psicosocial en la etiología de los trastornos mentales. Reveló que el desarrollo de psicopatología se asociaba entre otros factores de adversidad tendrá un niño. Estudios posteriores con su grupo señalaron los indicadores de adversidad, y consideraban 6 características familiares y ambientales: clase social baja, discordia matrimonial grave, familias con más de 4 hijos, criminalidad paterna, trastorno mental paterno y estancia en un hogar de cuidado. La presencia de 2 factores aumenta hasta 4 veces la probabilidad de trastornos mentales y con 4, hasta 10 veces. Pocos estudios en Latinoamérica han estudiado la asociación entre la adversidad psicosocial y los trastornos mentales, pero confirman dicha relación.
+Los estudios sobre niños durante esta pandemia son escasos. Un estudio reporta que factores como una cuarentena prolongada, el temor a la infección, la frustración y el aburrimiento, la falta de contacto con sus compañeros y profesores, la falta de espacio en casa y las pérdidas de sus seres queridos generan repercusiones psicológicas en los niños y adolescentes.
+Este artículo tiene como objetivo revisar los datos disponibles en la literatura actual acerca del efecto de la pandemia en los niños y adolescentes que ya tienen un trastorno psiquiátrico.
+
+
+- MÉTODOS
+
+Se realizó una búsqueda de la literatura a través de PubMed, SCIELO y, por las condiciones excepcionales de la situación de pandemia, directamente en buscadores como Google y Safari. A través de este se obtuvo información de organizaciones oficiales especializadas y dedicadas a la psiquiatría de niños y adolescentes y a los temas de salud pública mundial, como la Organización Mundial de la Salud (OMS), la American Academy of Child and Adolescent Psychiatry (AACAP), el Fondo de las Naciones Unidas para la Infancia (UNICEF) y el Instituto Colombiano de Bienestar Familiar (ICBF). No se limitó la fecha de los artículos encontrados y únicamente se incluyeron aquellos que estaban en inglés y en español. También se revisaron las referencias bibliográficas de los artículos encontrados para ampliar las fuentes de información. Se utilizaron las siguientes palabras clave para la búsqueda: Pandemia, COVID-19, niños, adolescentes, familia, factor de riesgo, emocional, estrés, telepsiquiatría, telesalud mental, telemedicina, trastorno por déficit de atención e hiperactividad, trastorno del espectro autista, neurología, bipolar, ansiedad, esquizofrenia, discapacidad intelectual, trastorno oposicionista desafiante, psicosis, ansiedad, fobia, depresión y duelo. Se realizaron combinaciones de términos usando estas palabras clave tanto en inglés como en español.
+
+
+- RESULTADOS
+
+Se presentan los datos obtenidos en la búsqueda sobre trastornos psiquiátricos preexistentes en los niños y adolescentes durante el tiempo de la pandemia por COVID-19.
+
+
+-- LA FAMILIA Y SUS HIJOS DURANTE LA COVID-19
+
+El coronavirus y la COVID-19 son una amenaza de características complejas y de duración incierta que ha llevado a diversos países a una cuarentena obligatoria. Las repercusiones en el contexto social provenientes de la dinámica entre la amenaza (el virus) y las medidas preventivas (el confinamiento) ejercen una presión que en última instancia afecta al núcleo familiar. El confinamiento, por su parte, es una medida que ha generado grandes tasas de desempleo y carencia de sustento para los trabajadores independientes. Un largo periodo de cuarentena y la imposición de restricciones a la libertad son factores de riesgo de un mayor impacto psicológico. La figura 1 muestra la relación entre los diferentes elementos.Figura 1
+La familia ha sufrido cambios súbitos y de gran impacto durante la pandemia. Además, el confinamiento prolongado y el desempleo aumentan el riesgo de los padres de mayores consumo de alcohol y otras sustancias, maltrato de pareja, discordias familiares, maltrato infantil y abuso sexual. El confinamiento supone una convivencia continua con otras personas que exige cambio en la dinámica familiar. Las familias expuestas previamente a violencia intrafamiliar continuarán con un riesgo latente, y cuantas más dificultades económicas tengan los maltratadores y mayor duración el aislamiento, más posibilidades para el maltrato, . Durante esta pandemia, en China se presentaron más casos de depresión y ansiedad en los adultos, que son factores de adversidad potenciales para los niños y adolescentes convivientes.
+En general, los niños sobrellevan mejor estas situaciones si tienen a un adulto estable y tranquilo a su lado. Sin embargo, además de los factores del entorno familiar, se debe tener presentes los factores individuales: características del niño (como el temperamento), los antecedentes de adversidad, afrontamiento y resiliencia, que en conjunto modularan la respuesta a la amenaza. Para algunos niños el cierre del colegio conlleva factores como no tener acceso a educación y alimentación, no tener contacto cara a cara con sus compañeros y con profesores significativos y no poder realizar sus actividades deportivas y de tiempo libre, entre otras cosas.
+
+
+-- EVALUACIÓN DE LOS TRASTORNOS MENTALES EN NIÑOS Y JÓVENES DURANTE LA PANDEMIA
+
+Existen algunas consideraciones comunes para la evaluación y el tratamiento de los jóvenes con diferentes trastornos mentales en el contexto de la COVID-19, , , , . Las recopiladas en la literatura reciente se exponen en la tabla 1 .
+
+
+-- TRASTORNOS PSIQUIÁTRICOS PREEXISTENTES
+
+La literatura en este campo es escasa. La rápida propagación de la pandemia ha limitado la realización de estudios con mejor duración o calidad. La mayoría de literatura consiste en editoriales, opiniones de expertos y consensos de organizaciones. A continuación se refieren las publicaciones existentes sobre los grupos más sobresalientes de trastornos mentales de la infancia y la adolescencia.
+
+
+--- TRASTORNO POR DÉFICIT DE ATENCIÓN E HIPERACTIVIDAD (TDAH
+
+El Grupo Europeo de Guías para el TDAH publicó una guía para el tratamiento de estos pacientes durante la pandemia. Se recomienda a las familias el uso de estrategias conductuales de manejo parental para mejorar la crianza y reducir las conductas de oposición, desafiantes y disruptivas. Podrían acudir a las versiones de autoayuda, , u online de algunos tratamientos basados en evidencia, teniendo precaución con el uso de aplicaciones móviles no probadas. A quienes reciban otras terapias no farmacológicas, se les debe incentivar la práctica continua de ejercicios que puedan transferirse a las nuevas actividades.
+Los exámenes sistemáticos del riesgo cardiovascular cara a cara podrían posponerse hasta nueva orden, ya que los riesgos superan a los beneficios. De ser posible, se recomienda monitorizar la frecuencia cardiaca y la presión arterial con equipos caseros siguiendo las guías pertinentes. En caso de que se presente algún síntoma cardiovascular (p. ej., dolor de pecho, palpitaciones prolongadas y dificultad para respirar) o cualquier otro síntoma preocupante, se debe contactar con los médicos tratantes.
+Son pocas las recomendaciones sobre el tratamiento farmacológico del TDAH. En lo posible, debe limitarse el uso de antipsicóticos y sedantes para tratar la conducta disruptiva. Por otra parte, dado que el confinamiento y el distanciamiento social pueden exacerbar los riesgos relacionados con el TDAH, no existe una razón contundente para introducir «vacaciones de medicamento» durante esta crisis.
+El insomnio inicial puede ser un efecto adverso del tratamiento con estimulantes, pero también podrían causarlo factores asociados con la pandemia (estrés, levantarse tarde, alteración de las rutinas, etc.). Se debe asegurar una apropiada higiene del sueño antes de considerar el inicio o ajuste de medicamentos hipnóticos (como melatonina hasta 5-6 mg/noche).
+La cefalea es un posible efecto adverso del tratamiento psicofarmacológico, y para este u otros dolores se recomienda el acetaminofeno. Hay incertidumbre acerca de los posibles efectos desfavorables del ibuprofeno en pacientes con COVID-19.
+
+
+--- TRASTORNOS DEL ESPECTRO AUTISTA (TEA
+
+Los jóvenes con TEA requieren tratamientos multimodales y suelen participar varias horas semanales en intervenciones con terapeutas especializados en sus casas, hospitales o centros especializados. Durante el confinamiento, posiblemente no recibirán igual apoyo presencial de los terapeutas ni intervenciones en el exterior.
+El doctor en psicología Antonio Narzisi, del Departamento de Psiquiatría Infantil y Psicofarmacología de la Fundación Stella Maris de la Universidad de Pisa (Italia), publicó una serie de consejos para ayudar a los cuidadores de niños con TEA durante el periodo de confinamiento (tabla 2 ).
+Los jóvenes con TEA presentan con frecuencia trastornos de ansiedad, y la situación de aislamiento puede ser un evento difícil de asimilar para ellos. Durante el confinamiento pueden tener un incremento de las estereotipias en la fase inicial, y se presenta como conducta adaptativa que irá desapareciendo. No obstante, puede presentarse un aumento de los movimientos a medida que se postergue la salida a los sitios que solía disfrutar. Igualmente, sus padres experimentan más estrés y susceptibilidad que los padres de niños con otras discapacidades.
+Una opción de seguimiento para los terapeutas es la realización de videos acerca de la conducta del niño durante el juego libre o las sesiones estructuradas en casa. De esta manera se puede monitorizar a los pacientes.
+
+
+--- DISCAPACIDAD INTELECTUAL (DI
+
+La Facultad de Psiquiatría de la Discapacidad Intelectual del Colegio Real de Psiquiatras del Reino Unido publicó una guía sobre COVID-19 y personas con discapacidad intelectual.
+Los jóvenes con DI o trastorno del desarrollo intelectual tienen un riesgo significativo de infección debido a una mayor prevalencia de comorbilidades sistémicas, sus hábitos personales, la convivencia de algunos en contextos comunales y la exposición constante a otras personas (por el grado de apoyo que requieren). Además, son más vulnerables a los cambios en la atención.
+Aunque el impacto de la pandemia, el confinamiento y los cambios en la atención en la salud mental de estos jóvenes, sus familias y sus cuidadores es todavía incierto, podría generar un incremento en el malestar, las conductas problemáticas, la ansiedad relacionada con la salud y la aparición de trastornos mentales o la exacerbación de los ya hubiera.
+Se propone identificar a las familias con un mayor riesgo o vulnerabilidad, como aquellas con jóvenes que regresaron al hogar desde instituciones o aquellos con vivienda en riesgo. Se recomienda una labor articulada con el equipo de trabajo social.
+Los niños y adolescentes con DI están entre los más vulnerables debido a la necesidad de atención clínica de alto nivel en los servicios hospitalarios. Involucrarlos en el tratamiento y la recuperación en el contexto del distanciamiento social, especialmente con aquellos que contraigan la infección, es un reto para el personal. Algunos sujetos requerirán contención física o farmacológica en caso de que se presente agitación durante el confinamiento, medida que el psiquiatra tratante debe individualizar e indicar.
+Algunas guías de cuidado crítico proponen determinar la fragilidad para guiar el acceso al tratamiento; sin embargo, las personas con DI tienen mayor probabilidad de obtener puntuaciones mayores en las escalas de fragilidad sin que esto necesariamente signifique una menor estabilidad, lo que puede resultar en una desventaja.
+Todos los pacientes deberían tener un plan de acción en salud y un pasaporte hospitalario con detalles sobre su situación de salud que incrementen la vulnerabilidad a las complicaciones de la COVID-19. Idealmente, debería contarse con un personal capacitado en el tratamiento de pacientes con DI para acompañarlos durante la admisión hospitalaria. Finalmente, se debe defender a las personas con DI para un acceso igualitario a las intervenciones en salud.
+
+
+--- TRASTORNOS DE ANSIEDAD
+
+La psiquiatra infantil Nicola Keyhan publicó en la Sociedad Pediátrica Canadiense un artículo que explica cómo apoyar a los jóvenes con trastornos de ansiedad durante esta pandemia. Las estrategias se resumen en la tabla 3 .
+Las personas con trastornos de ansiedad pueden sufrir grandes dificultades para adaptarse a los cambios actuales. En especial aquellos con temor a las enfermedades pueden presentar un empeoramiento de la ansiedad por contaminarse y un lavado de manos excesivo. La preocupación puede continuar aún después de terminar la cuarentena. Algunos niños con ansiedad por separación pueden estar más apegados a sus cuidadores durante la pandemia, y muy posiblemente presentarán dificultad para volver al colegio. Anticipar los cambios, realizar transiciones puede hacer parte del plan de regreso a las actividades. Por otra parte, factores como la violencia intrafamiliar pueden precipitar crisis de ansiedad en estos pacientes.
+Cuando regresen a sus actividades en el plantel escolar, los pacientes con fobia social pueden mostrar un retroceso por estar durante algún tiempo evitando la exposición por el confinamiento o por tener la cara parcialmente cubierta (tapabocas).
+
+
+--- TRASTORNO OBSESIVO COMPULSIVO (TOC
+
+En los pacientes con TOC pueden incrementarse los síntomas como reacción adaptativa, y con apoyo pueden volver al estado previo. El grupo de apoyo virtual de la Fundación Internacional de Trastorno Obsesivo Compulsivo diseñó algunos consejos específicos para los padres de jóvenes con TOC en el contexto de esta pandemia .
+
+
+-- 2] TRASTORNO DE ESTRÉS POSTRAUMÁTICO (TEPT
+
+Sprang y Silman compararon los síntomas de TETP en padres y niños en cuarentena frente a controles que no estuvieron en cuarentena. Encontraron que las puntuaciones de estrés postraumático son 4 veces mayores en los niños que están en cuarentena que en los que no. Hubo más sintomas en el grupo en cuarentena (el 28 frente al 17%).
+Durante el confinamiento, algunos niños estarán expuestos a discordias familiares, maltrato infantil o abuso sexual, , , experiencias adversas que son un evento estresante que podría desencadenar un trastorno de estrés agudo o un TEPT.
+
+
+-- OTROS TRASTORNOS Y LA COVID-19
+
+Aunque no se encontró literatura específica sobre otros trastornos mentales, se cree que los sujetos con alguna enfermedad mental grave, como la esquizofrenia, los trastornos psicóticos y el trastorno afectivo bipolar, estarán expuestos a factores que pueden desencadenar crisis que requieran una hospitalización, con todos los riesgos que esta implica durante la pandemia.
+Por otra parte, en otros trastornos mentales podría haber un aumento de los síntomas durante la pandemia, y por esto se mencionan a continuación.
+La expresión de los síntomas de los pacientes con trastorno de oposición desafiante (TOD) y trastorno disocial de la conducta (TDC) pueden cambiar en función del contexto familiar y social. Durante el confinamiento se ponen a prueba en las habilidades de manejo parental. Los hogares que presenten un índice de adversidad más alto tendrán un aumento de las conductas del TOD. Los factores genéticos y ambientales se comportan como protectores o como factores en la aparición del TOD en la infancia. Las familias con un niño con TOD se verán enfrentadas a las reacciones de estos ante los límites impuestos.
+Se debe considerar que, si bien algunas conductas disociales en los adolescentes durante la pandemia (como robar) pueden ser vistas por sus padres como adaptativas, no dejan de ser parte de la vía hacia un trastorno de conducta. En aislamiento por epidemias anteriores, se ha visto que los adolescentes tienen dificultades para adherirse a las medidas propuestas durante el aislamiento, «rompen la cuarentena», lo cual los hace un grupo con riesgo de conductas disociales y consumo de licor y sustancias.
+Trastornos del sueño como el insomnio pueden aumentar por diversos factores: cambios en los hábitos de higiene del sueño, disminución de la actividad física, aumento de la exposición a la luz (pantallas) y exposición a videojuegos y programas de televisión.
+Los sujetos con antecedentes de trastorno depresivo mayor (TDM) están en riesgo de sufrir un nuevo episodio debido a las posibles pérdidas, no solo por la crisis económica, sino por posibles muertes de familiares. Debido a los protocolos de tratamiento de los pacientes con COVID-19, el aislamiento del cadáver y las barreras para llevar a cabo un ritual funerario son factores de riesgo de recaída del TDM o un duelo complicado.
+Se consideraron las enfermedades neurológicas en la revisión, pues algunas pueden ser diagnósticos diferenciales de trastornos de la conducta y otras pueden acarrear comorbilidad con otros trastornos psiquiátricos. Según la Academia Europea de Neurología, hasta la fecha no hay evidencia de afección del sistema nervioso por SARS-CoV-2 en niños; sin embargo, las características de la infección representan un riesgo para los niños afectados por enfermedades neurológicas crónicas. Está apareciendo evidencia de que el SARS-CoV-2 puede causar complicaciones neurológicas como inflamación cerebral, encefalitis, delirio y complicaciones cerebrovasculares, entre otras, . Para terminar, existe un riesgo de infección y de enfermedades respiratorias graves para los niños con trastornos neuromusculares, terapias inmunosupresoras, enfermedades raras y errores innatos del metabolismo y discapacidades en el neurodesarrollo.
+
+
+- TELEPSIQUIATRÍA CON NIÑOS Y ADOLESCENTES
+
+-- UNA ALTERNATIVA DURANTE LA PANDEMIA
+
+Las barreras para la atención especializada en psiquiatría infantil se han aumentado de manera exponencial durante esta crisis por el coronavirus. Las dificultades para el traslado, el riesgo de contagio en las instituciones de salud, la suspensión de muchos servicios de consulta y la ya difícil tarea de obtener una cita hacen que sea más complicado acceder a un especialista en psiquiatría infantil. En este escenario entra en juego el recurso de la telemedicina y con más precisión la psiquiatría en modalidad de consulta interactiva.
+La telepsiquiatría con niños y adolescentes consiste en el uso de telecomunicaciones y tecnología informática para proveer acceso a servicios de psiquiatría enfocada a la población pediátrica. Esta modalidad debe incluir como mínimo audio y video. Para algunos especialistas es una novedad, pero este campo no es nuevo, lleva en desarrollo varios años. El uso de la telemedicina lleva a disminución de costos, facilidad en el acceso, diagnósticos acertados y tratamientos efectivos. No solo se han utilizado en la consulta general, también se ha llevado al servicio de urgencias, a las unidades de cuidado crítico infantil y a la psiquiatría comunitaria, , .
+Aunque la aceptación del servicio es favorable y se ha documentado con la consulta de telepsiquiatría en pacientes, familiares y el personal de la salud, el servicio tiene algunas limitaciones en comparación con la consulta presencial, como la falta de contacto cara a cara, el lenguaje corporal parcialmente ausente, la ausencia de contacto físico y un cambio de las expresiones emocionales.
+Además de las consideraciones mencionadas, es preciso anotar que entre los modelos de telepsiquiatría, el que cuenta con mayor aceptación y efectividad es aquel que involucra a un personal de salud mental local, que facilita el proceso de comunicación y brinda seguimiento al paciente, ya sea bajo esta modalidad o presencial en el futuro.
+
+
+-- LA EXPERIENCIA DE LA TELEPSIQUIATRÍA EN EL MUNDO
+
+Durante la pandemia actual se han conocido algunas experiencias con esta modalidad. En diferentes latitudes del mundo se ha dado el cambio mayor hacia los servicios de telepsiquiatría. Desde que comenzó el aislamiento en China, tanto el gobierno como las organizaciones académicas implementaron servicios de soporte, supervisión, entrenamiento y psicoeducación a la población general por medios digitales. En Australia se realiza consulta especializada en salud mental de manera virtual a grupos vulnerables, y está en proceso de expansión a la población general. Igualmente en Europa los servicios de salud mental se inclinan actualmente por la atención vía telepsiquiatría, , , . En el ámbito latinoamericano, en Colombia el programa de telepsiquiatría de la Universidad de Antioquia, desarrollado en conjunto con el Living Lab, que ya venía dando exitosamente atención en salud mental, ha implementado una estrategia de atención para el público general y personal de salud, brindando primeros auxilios psicológicos, consulta de psicología y psiquiatría tanto a adultos como a población infantil.
+
+
+-- RECOMENDACIONES PARA IMPLEMENTAR LA TELEPSIQUIATRÍA
+
+Las consultas realizadas por telepsiquiatría probablemente serán efectivas, adecuadas y aceptadas por padres y niños, y servirán como insumo para continuar el seguimiento con la misma modalidad, considerando el plazo temporal de la pandemia.
+La pandemia no solamente nos obliga a implementar alternativas a la consulta presencial, y se convierte en el momento preciso para aplicar la telepsiquiatría, pero se debe tener presentes algunas consideraciones para adaptarse con éxito a este nuevo contexto de consulta. La figura 2 describe algunos consejos para llevar a cabo una consulta de telepsiquiatría.Figura 2
+Se recomienda al lector que consulte las guías actuales de telepsiquiatría para niños y adolescentes para ampliar el tema, .
+
+
+- CONCLUSIONES
+
+La pandemia actual por COVID-19 y el confinamiento son una amenaza para exacerbar los síntomas de los niños y jóvenes con un trastorno psiquiátrico previo. Esto se produce dentro de una dinámica familiar afectada por una crisis económica y social. Aunque no se tiene una evidencia exacta de los efectos de la actual pandemia, los niños y adolescentes con trastornos psiquiátricos son una población vulnerable que requiere vigilancia e intervenciones de personal especializado. Las barreras y los riesgos actuales llevan a que las atenciones durante la pandemia se realicen idealmente mediante la telepsiquiatría.

@@ -1,0 +1,100 @@
+DESIGUALDADES SOCIALES RELACIONADAS CON LA RESISTENCIA A ANTIMICROBIANOS DE <ITALIC>N. GONORRHOEAE</ITALIC> EN COLOMBIA
+
+
+La resistencia antimicrobiana (RAM) ocurre cuando los microorganismos sobreviven a la exposición de antibióticos que, en condiciones normales, los eliminarían o detendrían su crecimiento. Como resultado, los medicamentos ya no funcionan para tratamientos e infecciones que alguna vez fueron de fácil tratamiento y pueden volverse fatales .
+La RAM se acelera por el uso inapropiado de medicamentos antimicrobianos, prescripciones incorrectas y malas prácticas de control de infecciones , y conduce a costos médicos elevados, estadías hospitalarias prolongadas, aumento de la discapacidad y mortalidad evitable . El uso de antibióticos en la agricultura también incrementa la RAM, si los humanos consumen productos agrícolas contaminados con microorganismos resistentes, o si la RAM se transfiere de patógenos animales a patógenos humanos . La RAM debe ser entendida en forma multidimensional, no es un problema solo de salud ni solo del gobierno, sino que involucra múltiples sectores: agropecuario, seguridad alimentaria y nutricional y medio ambiente , tiene impactos sobre la salud pública y los sistemas de salud, y una relación intrínseca con el desarrollo sostenible . El riesgo es alto en países con una legislación y sistemas de vigilancia débiles e insuficientes.
+La Neisseria gonorrhoeae es una amenaza para la salud pública en todo el mundo debido al número creciente de cepas resistentes a los antibióticos . Cada año, 106 millones de personas contraen esta enfermedad por tener relaciones sexuales anales, vaginales u orales con una persona infectada; mujeres embarazadas con gonorrea pueden transmitirla a su bebé durante el parto .
+El aislamiento de N. gonorrhoeae mediante cultivo es el método estándar para el diagnóstico . Sirve para identificar la bacteria y para observar la reacción de las cepas a los diferentes tratamientos antibacterianos. El tratamiento de la gonorrea es complicado debido a la capacidad de esta bacteria para desarrollar resistencia a los antimicrobianos; para mejorar la eficacia del tratamiento se recomienda una combinación de dos antimicrobianos con diferentes mecanismos de acción (p. ej., cefalosporina y azitromicina) .
+En Europa, Canadá, Japón y Sudáfrica se ha confirmado el fracaso del tratamiento de la N. gonorrhoeae con cefalosporinas de tercera generación . En Colombia, se evidenció un aumento de RAM a la tetraciclina, ciprofloxacina y penicilina; en particular, una multirresistencia a la sensibilidad a ceftriaxona .
+La RAM de la N. gonorrhoeae tiene múltiples determinantes: el uso indiscriminado e irracional de medicamentos, la falta de pruebas rápidas para diagnóstico , la convicción de que los antibióticos curan cualquier tipo de enfermedad, los estereotipos de género de hombres adultos y jóvenes que prefieren automedicarse en lugar de buscar los servicios de salud y la falta de información de calidad pueden resultar en prescripciones inadecuadas . Asimismo, la intersección de estos determinantes tiene un impacto negativo en la salud sexual y reproductiva , con cuadros de dolor pélvico crónico y artritis , y se asocia con prácticas sexuales inseguras .
+La Estrategia Mundial del Sector de la Salud contra las Infecciones de Transmisión Sexual 2016-2021 de la Organización Mundial de la Salud (OMS) propuso reducir infecciones nuevas en 90% para el 2030. Colombia se comprometió con la iniciativa global y, en 2018, implementó el Plan Nacional de Respuesta a la RAM para mejorar la vigilancia e investigación para fortalecer la base científica y conocimientos de esta.
+La evidencia previa a este estudio permitió explicar correlaciones de determinantes con la RAM ; sin embargo, no se ha dado suficiente importancia a la medición de desigualdades en la RAM de la N. gonorrhoeae. Colombia ofrece una oportunidad para investigarla aprovechando los desarrollos del Sistema de Información de la Protección Social (SISPRO). De igual forma, el Informe Global de Vigilancia de la Resistencia Antimicrobiana de 2014 de la OMS evidenció limitaciones en la metodología para medir el problema.
+La hipótesis de este estudio es que existen determinantes de la N. gonorrhoeae que pueden estar contribuyendo con la RAM en Colombia. Esta hipótesis fue respondida a partir de tres objetivos específicos: analizar la sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae, medir las desigualdades y definir recomendaciones de política basadas en la evidencia para apoyar la implementación del plan de respuesta nacional a la RAM, con énfasis en la N. gonorrhoeae.
+
+
+- MÉTODOS
+
+-- DISEÑO Y POBLACIÓN DEL ESTUDIO
+
+Estudio ecológico utilizando un multipanel de datos desagregados a nivel departamental durante el período 2009-2018. La población objeto fueron los 33 departamentos de Colombia (incluido Bogotá D. C.) que reportaron personas atendidas y sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae.
+
+
+-- FUENTE DE DATOS UTILIZADOS
+
+Este análisis se basó en cuatro fuentes de información que se combinaron en dos paneles de datos: sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae y aislamientos de N. gonorrhoeae. Los datos fueron accedidos a través del canal de la Bodega de Datos (SISPRO) del Ministerio de Salud y Protección Social (MSPS) y de la Subdirección Laboratorio Nacional de Referencia del Instituto Nacional de Salud. Todas las fuentes de información permitieron desagregaciones a nivel departamental, excepto para los datos de sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae, que se obtuvieron por año de vigilancia y tipo de resistencia a penicilina, tetraciclina y ciprofloxacina .
+En el cuadro 1 se describen las categorías de las variables, los indicadores y las fuentes de información utilizadas.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En primer lugar, se realizó un análisis descriptivo univariado de la variable explicativa: número de personas diagnosticadas con N. gonorrhoeae (códigos CIE-10: A50-A64, infecciones gonocócicas con modo de transmisión predominantemente sexual), número de aislamientos de l N. gonorrhoeae durante 2009-2018 y los determinantes. En segundo lugar, se calcularon los máximos y los mínimos de las variables para identificar los departamentos con más cantidad de casos y su posición según los determinantes estructurales e intermedios. En tercer lugar, se analizaron los porcentajes sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae por años y tipo de resistencia a penicilina, tetraciclina y ciprofloxacina.
+
+
+-- MEDIDAS RESUMEN DE DESIGUALDAD
+
+En cuarto lugar, se necesitaron tres tipos de datos para la medición de desigualdades: datos sobre resultados de salud (número de aislamientos de la N. gonorrhoeae), datos de determinantes que permitieran organizar la población de forma jerárquica, y datos sobre el tamaño de la población. Se estimaron tres medidas para resumir la desigualdad :
+Los valores negativos indican una desigualdad propobre (pro-poor), que afecta los departamentos con menor nivel socioeconómico; mientras valores positivos indican una desigualdad prorrico (pro-rich), que afecta los departamentos con mejor posición social.
+En quinto lugar, la población se clasificó en quintiles (cinco subgrupos de departamentos organizados según nivel socioeconómico) para identificar el epicentro de la desigualdad, simplificar la interpretación de las desigualdades y comunicar fácilmente a audiencias no técnicas. Este enfoque ha sido aplicado en forma amplia por expertos que monitorean las desigualdades en salud . El quintil 1 representa el 20% de departamentos con la peor situación social según determinantes (por ejemplo, departamentos con mayor pobreza según necesidades básicas insatisfechas [NBI]); mientras que el quintil 5 representa el 20% de departamentos que tienen una mejor situación (departamentos con menos pobreza).
+
+
+-- PAQUETE ESTADÍSTICO
+
+Se utilizó la Biblioteca para Medición de Desigualdades en Salud de Epidat 4.2® . Este software fue desarrollado por la Organización Panamericana de la Salud/Organización Mundial de la Salud (OPS/OMS) y es de uso libre.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Esta investigación no requirió aprobación ética porque los autores no recopilaron datos nuevos y el estudio se basó en datos secundarios disponibles públicamente. La investigación en Profamilia se rige bajo por el Consejo de Organizaciones Internacionales de las Ciencias Médicas en colaboración con la OMS ; y la normativa nacional según la resolución 2378 de 2008 expedida por el Ministerio de la Protección Social .
+
+
+- RESULTADOS
+
+Los resultados se presentan de la siguiente forma: análisis descriptivo, análisis de desigualdades (índices absolutos, relativos y de concentración).
+
+
+-- ANÁLISIS DESCRIPTIVO
+
+Ente 2009 y 2018 se diagnosticaron 29 030 personas con N. gonorrhoeae. El mayor número se presentó en Antioquia (n = 6 504) y el menor número en Vaupés (n = 27). Entre el número total de personas diagnosticadas, se presentaron 935 casos de aislamientos invasores de N. gonorrhoeae. Bogotá, D.C. presentó el mayor número (n = 470) de casos, correspondiente a 8,8%, mientras que Cundinamarca, Tolima, Guaviare y Vaupés no presentaron casos. En el cuadro 2 se presenta un resumen descriptivo de las variables y determinantes utilizados en el estudio.
+Bogotá D.C. presentó menor pobreza multidimensional y NBI (4,4% y 9,2%, respectivamente). Vaupés tiene mayor pobreza multidimensional (59,4%) y Chocó, mayores necesidades insatisfechas (81,9%). Sucre tiene mayor analfabetismo (27,0%) y Bogotá D.C. menor porcentaje (1,6%). Por último, Nariño tiene más barreras de acceso a servicios de salud (19,8%) y Bogotá D.C., menos (1,1%).
+En cuanto a los determinantes intermedios, Vaupés tiene porcentaje más alto de personas en pareja que no usan un método anticonceptivo (53,5%), y Casanare, el menor porcentaje (14,3%). Valle del Cauca tiene mayor porcentaje de personas de 13 a 49 años con conocimiento del VIH/sida, y Vaupés, el menor porcentaje (14,9%). Quindío tiene el porcentaje más alto (45,2%) de personas que recibieron información sobre prevención de las infecciones de transmisión sexual (ITS) en las consultas médicas del último año y Chocó, el más bajo (25,6%).
+Los porcentajes de sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae por años indican resistencia a penicilina (50,7%) y tetraciclina (67,3%) durante todo el período analizado. Además, se observa un incremento de la resistencia a la ciprofloxacina a partir del 2009, con una reducción en 2018 (11,6%). En la figura 1 se presenta el comportamiento de la susceptibilidad antimicrobiana de aislamientos de N. gonorrhoeae con resistencia en Colombia en el período 2009-2018.
+
+
+-- ANÁLISIS DE DESIGUALDADES
+
+En el cuadro 3 se presentan estimaciones para las medidas de desigualdad los aislamientos de la N. gonorrhoeae en Colombia. Las celdas coloreadas indican la existencia de las desigualdades de mayor tamaño.
+Las medidas de desigualdad evidencian la existencia de desigualdades absolutas y relativas en los aislamientos de la N. gonorrhoeae explicados por el nivel de pobreza, analfabetismo y barreras de acceso a los servicios de salud sexual y reproductiva. En la figura 2 se ilustran los gradientes en términos absolutos en cada una de las dimensiones de desigualdad.
+La desigualdad absoluta y relativa fue mayor en caso de presencia de barreras de acceso a servicios de salud, no haber recibido información de prevención de ITS, NBI y analfabetismo. Los valores negativos en el IDP en conocimientos del VIH/sida y prevención de ITS en consultas médicas indican una desigualdad propobre (entre los departamentos con menos conocimientos e información en VIH/sida e ITS).
+Las diferencias entre los departamentos con mayor porcentaje de acceso a los servicios de salud (p. ej., Nariño) y aquellos con menor porcentaje (p. ej., Bogotá D.C.) son pequeñas y explicadas por curvas casi aplanadas (aproximadamente 10 casos de aislamientos de N. gonorrhoeae por cada 100 personas con diagnóstico).
+En la figura 3 se muestran las desigualdades relativas en la RAM de la N. gonorrhoeae según determinantes estructurales e intermedios.
+Con respecto a los determinantes estructurales, 30% de los aislamientos de N. gonorrhoeae se concentran en 70% de los departamentos con mayores barreras en los servicios de salud, seguido de NBI y analfabetismo. En relación con los determinantes intermedios, 80% de los aislamientos de N. gonorrhoeae se concentran en la mitad de los departamentos en los cuales las personas reciben menos información sobre prevención de ITS, seguido por los departamentos con menos conocimiento de VIH/sida.
+Los resultados por quintiles evidencian la existencia de un patrón de desigualdad. En la figura 4, se ilustra el tamaño y patrón de estas desigualdades a través de equiplots . La secuencia de puntos coloreados representa cada quintil como 20% del total de los departamentos, conectados por una línea horizontal (que representa la desigualdad) con los valores más extremos entre quintiles. Las líneas más cortas muestran desigualdades de menor tamaño (situación más equitativa); al contrario, las líneas más prolongadas señalan desigualdades más grandes (situación más inequitativa).
+Existe una exclusión social explicada por el analfabetismo (en 40% departamentos: quintiles 2 y 5), las barreras de acceso a los servicios de salud (quintil 5), no recibir información médica sobre prevención de ITS (quintil 2) y no usar métodos anticonceptivos (quintil 5). Es importante señalar que donde hay un porcentaje alto de aislamientos y el quintil 5 es el más excluido, existe una desigualdad prorrico.
+Por otro lado, las líneas cortas en analfabetismo, no usar métodos anticonceptivos y conocimiento del VIH/sida indican una menor desigualdad entre quintiles.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+Este estudio tiene limitaciones que se deben considerar: se requiere de información desagregada por año y departamento para conocer si las desigualdades se han ampliado o reducido en el tiempo, y no se llevó a cabo una medición de desigualdades según el sexo.
+
+
+- DISCUSIÓN
+
+Este análisis representa el primer intento de analizar desigualdades sociales en la RAM de la N. gonorrhoeae a partir de los datos de sensibilidad antimicrobiana de aislamientos de este microorganismo en Colombia. Con base en los resultados, no existen diferencias a nivel de pobreza: Bogotá y Antioquia con mejor nivel socioeconómico y Amazonas con más pobreza, son los departamentos con más cantidad de aislamientos en laboratorio. También, presentan las menores barreras de atención en salud.
+Además, los hallazgos demuestran, por un lado, porcentajes de sensibilidad antimicrobiana de aislamientos de N. gonorrhoeae por años. Se observa resistencia a penicilina (50,7%) y tetraciclina (67,3%) durante todo el periodo analizado; y por el otro, la existencia de desigualdades absolutas y relativas. Se descubrió que las barreras de acceso a servicios de salud, no haber recibido información de prevención de las ITS, NBI y pobreza multidimensional explican las desigualdades en la RAM de la N. gonorrhoeae; también existe una desigualdad propobre entre los departamentos con mayor pobreza multidimensional (quintil 1) y según NBI (quintil 2).
+De manera contradictoria, los departamentos con menos barreras de atención en salud y menos analfabetismo contribuyeron con mayor número aislamientos de la N. gonorrhoeae (quintil 5). Una explicación posible es la forma en que los prestadores de servicios de salud proporcionan información de calidad y precisa sobre prevención y conocimientos de ITS a la población, en particular hombres, y cómo se aborda el uso inapropiado de medicamentos antimicrobianos, prescripciones incorrectas y malas prácticas de control de infecciones. Esto evidencia que la RAM de la N. gonorrhoeae no tiene que ver con problemas de acceso a la atención en salud, sino que está más explicada por contextos de pobreza y comportamientos desde los prestadores y, tal vez, decisiones a nivel individual sobre los cuidados de salud sexual.
+Este hallazgo fue confirmado por la existencia de un patrón común de desigualdad. Una exclusión social prorrico se encuentra presente en el quintil 5 en comparación con otros quintiles y según el analfabetismo, barreras de acceso a los servicios de salud y uso de métodos anticonceptivos.
+Otro resultado destacado de este estudio fue que el acceso a información de calidad sobre ITS y conocimiento sobre VIH/sida contribuyeron con menor desigualdad en la RAM de la N. gonorrhoeae, excepto en el quintil 2 y 4, respectivamente. Una segunda explicación puede ser que los servicios de salud están trabajando en prevención y control de infecciones y entregando información, pero esta no llega a toda la población de forma uniforme. Los quintiles 1 y 5 están recibiendo más información y coinciden con menor número aislamientos de la N. gonorrhoeae
+Identificar la contribución de los determinantes sociales asociados con un mayor riesgo de N. gonorrhoeae resistente a los antibióticos podría ayudar a desarrollar estrategias para mejorar la administración de los antimicrobianos con enfoque de equidad. De esta manera, los patrones de desigualdad social propobre y prorrico observados exige un enfoque específico centrado en los departamentos con mayores casos de RAM para la N. gonorrhoeae según el gradiente social.
+A nivel de la Región de las Américas, la mayoría de los estudios disponibles se han realizado en América del Norte. No obstante, estos resultados coinciden con el estudio de Trecker que exploró determinantes a nivel de comportamiento asociados con una probable resistencia a la ceftriaxona y penicilina en la N. gonorrhoeae en Shanghai . Sus hallazgos contrastan con los nuestros sobre la clase media: grupos de individuos de clase media según el nivel de ingresos tienen menor resistencia a los antibióticos comparados con personas de un nivel socioeconómico bajo (20% más pobre y menos acceso a la información) y alto (20% más rico y con más acceso a la información).
+Por último, es necesario romper este patrón; sin embargo, como señala Guzmán sabemos que no podemos contener la propagación de la RAM sin fortalecer los sistemas de salud locales que tienden a tener sistemas de vigilancia más débiles para el uso de medicamentos y el manejo de enfermedades infecciosas. Sin la disponibilidad, cobertura y desagregación de los datos desde los sistemas de información, nuestros esfuerzos serían inútiles.
+
+
+- RECOMENDACIONES
+
+Con base en los resultados antes descritos, emergen seis recomendaciones:
+
+
+- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.

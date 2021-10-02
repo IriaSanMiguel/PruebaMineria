@@ -1,0 +1,5 @@
+Empleando la información del estudio de cohorte de 10 234 adultos del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ), se identificaron factores de riesgo incluidos en modelos de regresión logística múltiple estratificados por sexo. Los coeficientes beta fueron multiplicados por 10 para obtener el peso de cada variable en el score. Una submuestra de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2012 se usó para validar el score.
+Presentamos el diseño y validación de un score de riesgo estratificado por sexo para determinar si un adulto podría tener prediabetes o diabetes, en cuyo caso deberán realizarse estudios de laboratorio para confirmar o descartar el diagnóstico.
+El score propuesto clasificó correctamente 55.4% a las mujeres con diabetes no diagnosticada y 57.2% a las mujeres con prediabetes o diabetes. Por su parte, clasificó correctamente a los hombres en 68.6 y 69.9%, respectivamente.
+Diseñar y validar un score de riesgo de fácil aplicación para detectar prediabetes y diabetes no diagnosticada en población mexicana.
+

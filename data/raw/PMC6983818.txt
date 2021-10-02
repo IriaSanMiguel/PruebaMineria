@@ -1,0 +1,113 @@
+EFECTIVIDAD DE UNA INTERVENCIÓN EDUCATIVA BREVE EN PACIENTES CON INSOMNIO EN ATENCIÓN PRIMARIA<SUP
+
+
+- INTRODUCCIÓN
+
+El insomnio es una consulta frecuente en atención primaria (AP). Un tercio de la población refiere en algún momento incapacidad para dormir en cantidad o calidad suficiente, , .
+Si el problema no se resuelve cuando desaparece el factor precipitante y persiste más de un mes, se convierte en crónico, , a menudo potenciado por factores perpetuadores.
+Tras abordar la etiología del problema, la OMS recomienda combinar tratamiento farmacológico y no farmacológico. Pero solo un 10% de los pacientes son tratados correctamente, ya que el 5% utiliza remedios caseros y el 85% restante no recibe ayuda.
+Las medidas no farmacológicas incluyen la higiene del sueño, las terapias de relajación, de control de estímulos, de restricción de sueño y cognitivas. Estas técnicas no presentan los riesgos de tolerancia y dependencia de los hipnóticos, y sus efectos, aunque más lentos, son más duraderos. Una sesión semanal de 30 min durante 8-10 semanas consigue beneficios terapéuticos, , , con una efectividad del 70-80% en insomnes crónicos, , y su efecto puede perdurar hasta 2 años, , , .
+Estudios en ámbitos especializados muestran resultados favorables para el tratamiento no farmacológico, pero hay pocos en AP. Por ello diseñamos una intervención educativa breve cuya puesta en práctica cubriera las necesidades clínicas del paciente y fuera compatible con la elevada presión asistencial.
+Existen varias escalas de medición de la calidad del sueño. El Índice de Calidad del Sueño de Pittsburg (ICSP) es una escala autoadministrada de las más aceptadas, ya que valora de manera amplia y global cambios en la cantidad y la calidad del sueño durante el último mes.
+Este estudio evalúa mediante dicha escala la efectividad de la intervención en pacientes que consultan por insomnio en 2 centros de salud (CS) urbanos.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Ensayo clínico no aleatorizado simple ciego.
+
+
+-- EMPLAZAMIENTO
+
+Centros de Salud El Llano y Contrueces, en Gijón (Asturias).
+
+
+-- POBLACIÓN Y MUESTRA
+
+La población de estudio la formaron personas de entre 40 y 80 años que consultaron por insomnio. Fueron criterios de exclusión: duración del insomnio menor de 15 días, resultado del ICSP inicial menor de 6, insomnio secundario a patología física, trastorno cognitivo, trastorno psiquiátrico mayor, turnicidad laboral, haber tomado benzodiacepinas (BZD) o hipnóticos no benzodiacepínicos en los 15 días previos a la inclusión y estar siguiendo ya medidas no farmacológicas. Se eligió un tamaño muestral de 56 pacientes con criterio pragmático. La captación la realizaron médicos y enfermeras de ambos CS entre el 1 de julio de 2012 y el 31 de enero de 2013.
+
+
+- SELECCIÓN
+
+Se ofreció participar en el estudio a todos los pacientes que acudían a uno de los 2 CS consultando por insomnio y que cumplían los criterios de inclusión. Se explicaba el estudio al paciente y se obtenía su consentimiento informado. Seguidamente se tomaban mediciones basales y se les prescribía a todos 1 mg de lorazepam nocturno, por ser uno de los más prescritos en AP para insomnio. Los cambios de medicación posteriores eran decisión del médico de familia de cada participante.
+
+
+-- ASIGNACIÓN A LOS GRUPOS
+
+El primer paciente seleccionado en cada zona se asignó al azar al grupo intervención (GI) o al grupo control (GC), y los siguientes fueron asignados de manera alternativa a cada grupo. Solo la persona que realizaba la intervención conocía el grupo de pertenencia del paciente, ignorando el resto de profesionales la asignación de los participantes. Los pacientes desconocían el contenido de las sesiones del otro grupo. La persona que realizó el análisis estadístico desconocía qué casos pertenecían al GI.
+
+
+-- INTERVENCIÓN
+
+Todos los pacientes fueron citados para 4 visitas de frecuencia semanal, individuales y de 15 min de duración. La intervención que se puso en marcha con el GI consistió en instrucción sobre medidas de control de estímulos, higiene del sueño y técnicas de relajación y respiración. La intervención se diseñó eligiendo las medidas no farmacológicas con evidencia de buenos resultados clínicos, , , , , que pudieran adecuarse más al tiempo disponible en consulta . A los pacientes se les entregó un resumen de las recomendaciones en cada visita, y un tríptico al finalizar el estudio. Los 4 médicos interventores siguieron un periodo de pilotaje de un mes. Paralelamente, los pacientes del GC acudían a visitas en las que no recibieron las instrucciones sino que se les realizaban mediciones y controles clínicos habituales.
+
+
+-- SEGUIMIENTO
+
+En total se citó a los pacientes en 6 ocasiones: visita de reclutamiento (basal), 4 visitas consecutivas de frecuencia semanal y una visita de revisión un mes después.
+
+
+-- MEDICIONES
+
+En la visita de reclutamiento se recogieron datos clínico-epidemiológicos basales, se realizó el ICSP basal (ICSP0) y el test de ansiedad/depresión de Goldberg en castellano. Posteriormente, en la cuarta visita consecutiva (visita final) se midió de nuevo el ICSP (ICSP1) y una vez más en la visita revisión (ICSP2). Se utilizó un diario del sueño como autorregistro, . Se eligió como herramienta de medición el ICSP validado en castellano, que posee unas aceptables sensibilidad (89,6%) y especificidad (86,5%), recogiendo 7 componentes de la calidad de sueño: calidad subjetiva, latencia, duración, eficiencia, perturbaciones, uso de medicación hipnótica y disfunción diurna. Para medir el uso de hipnóticos utilizamos el ítem 7 del test, que cuantifica la frecuencia de consumo en el mes previo, ya que este parámetro tiene una alta significación clínica en la valoración de la mejoría, . También fueron registrados nuevos fármacos introducidos a lo largo del estudio.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se consideraron pérdidas los pacientes que no acudieron a 2 o más visitas, no respondieron tras 3 llamadas telefónicas para contactarlos o abandonaron explícitamente el estudio. El análisis estadístico, tanto por intención de tratar (AIT) como por protocolo (APP), se realizó mediante inferencia bayesiana utilizando en todos los modelos distribuciones previas planas o mínimo-informativas. Se obtuvo como resultado principal la curación y 2 resultados secundarios como medidas de la efectividad de la intervención:
+El análisis se realizó con el programa estadístico R. Las simulaciones Markov Chain Montecarlo (MCMC) se ejecutaron con el programa JAGS 3.2 desde R.
+Esquema general del estudio: Ensayo clínico no aleatorizado simple ciego de pacientes que consultaron por insomnio en 2 centros de salud urbanos.
+
+
+- RESULTADOS
+
+-- FLUJO DE PACIENTES
+
+Tras la captación, 50 pacientes aceptaron participar. Todos cumplían los criterios de inclusión. Durante el proceso 12 pacientes abandonaron el estudio. Hubo 5 abandonos en el GC y 7 en el GI debido a incompatibilidad con el horario laboral o enfermedad que impedía acudir al CS. En 2 casos el motivo fue desconocido.
+
+
+-- DESCRIPCIÓN DE LOS GRUPOS
+
+Se registraron las principales características clínico-epidemiológicas basales de todos los pacientes que aceptaron participar en el estudio . Los resultados se mostraron similares en ambos grupos, considerándose como variables confusoras más relevantes la edad y la puntuación obtenida en el test de Goldberg. Se realizó por ello un AIT ajustado por ambas variables, en el que se tomaron en consideración los 12 abandonos ocurridos tras el inicio del estudio. Se imputó como valor de los ICSP en la visita final (ICSP1) y en la revisión (ICSP2) las medias de los controles en esos momentos bajo el supuesto de no empeoramiento ni mejoría. Se analizaron 26 casos en el GI y 24 en el GC, con 2 mediciones ausentes del ICSP2 a los que se imputó el valor obtenido en el ICSP1. Se obtuvieron los siguientes resultados de las variables de estudio:1.Análisis binario de la curación. Se obtuvieron 12 éxitos entre los 26 del GI (46,2%) frente a un éxito entre los 24 del GC (4,2%). La moda de la distribución posterior de la OR fue 28,2 (ICred95%: 3,9-1.560) .2.Valoración del cambio de puntuación del ICSP desde la situación basal. Las medias posteriores del descenso de ICSP en visita final y revisión fueron de –4,7 (ICred95%: –5,9 a –3,5) y –6,3 (ICred95%: –7,5 a –5,1) en intervenidos frente a –1,8 (ICred95%: –3 a –0,5) y –1,7 (ICred95%: –2,9 a –0,4) en controles .Figura 13.Análisis del consumo de BZD. Se realizó una descripción de la distribución del consumo semanal de BZD (BZD/semana) según grupo. En la visita revisión aún consumían 3 o más BZD/semana 10 pacientes (38,5%) del GI frente a 16 (66,7%) del GC; consumían 2 BZD/semana 3 pacientes (11,5%) y 1 BZD/semana 4 pacientes (15,4%) del GI frente a 4 pacientes (16,7%) que consumían 2 BZD/semana y ningún paciente que consumiese 1 BZD/semana del GC.
+Se consideró de forma dicotómica el abandono total frente a la persistencia de algún consumo de BZD y se obtuvo que al mes aún consumían BZD 20 pacientes del GC frente a 17 del GI. Abandonaron la medicación 9 pacientes del GI (34,6%) frente a 4 del GC (16,7%). La moda de la distribución posterior de la OR fue 1,9 (ICred95%: 0,5-99) .
+
+
+- DISCUSIÓN
+
+-- SITUACIÓN ACTUAL
+
+Más del 50% de los pacientes con problemas de insomnio son atendidos en AP. Los crónicos experimentan mayor angustia psicológica, ineficiencia cognitiva, problemas motores, solicitan más bajas por enfermedad y frecuentan más los servicios de salud. Una de las causas más frecuentes es el insomnio psicofisiológico, .
+Las terapias farmacológicas deben usarse de manera complementaria a las medidas no farmacológicas, , pero recientes estudios alertan sobre el aumento de su prescripción, el incumplimiento de guías de uso y el riesgo de inducir serios efectos adversos como dependencia, caídas, depresión, suicidios y aumento de morbimortalidad, especialmente en ancianos. Además, sus beneficios clínicos son limitados en el tiempo.
+
+
+-- COMPARACIÓN DE NUESTROS RESULTADOS CON LA LITERATURA EXISTENTE
+
+Las características clínico-epidemiológicas basales de nuestros pacientes coinciden con el perfil del paciente que consultó por insomnio encontrado en otros estudios, . Consiste en una mujer de aproximadamente 60 años que ha consultado y tomado medicación previamente por este problema y que presentan un ICSP de 13-14 puntos. Esto va en favor de una buena validez externa de nuestra intervención.
+Los mejoría obtenida va en concordancia con investigaciones existentes sobre intervenciones no farmacológicas que a largo plazo son más efectivas y duraderas, , , , , . Existe poca bibliografía sobre intervenciones en AP, pero en un estudio realizado en un CS de Huelva en 2009 observaron una mejoría de 4,8 puntos del ICSP, mostrando nuestros resultados una tendencia similar con mejoría de aproximadamente 5 puntos, aumentando incluso a 6 al mes de revisión. Casi la mitad de los pacientes intervenidos fueron curados según el ICSP, frente a un único paciente que lo logró tomando la BZD exclusivamente. No se encontraron referencias que empleen un diseño de intervención breve combinado similar al nuestro, pero sí un intento de abreviar el tratamiento no farmacológico para extenderlo a personal no especialista.
+Recientemente ha aumentado el consumo de BZD en la población española, siendo el 2,5% consumidores regulares, con una duración media de la pauta superior al año y 7 meses. Resulta interesante que nuestro estudio muestre no solo una tendencia positiva para el abandono completo, sino también una disminución del consumo, que pasa de ser diario a 1-2 veces por semana en la mayoría de los pacientes. Este uso intermitente de hipnóticos se empieza a considerar una buena alternativa en la práctica clínica, , .
+
+
+-- FORTALEZAS Y LIMITACIONES
+
+Las principales fortalezas de este estudio son la puesta en marcha de un nuevo modelo de intervención no farmacológica, efectiva para el tratamiento del insomnio y realizada en AP.
+Las limitaciones fueron: 1) La asignación sistemática realizada por limitación en los recursos materiales y temporales restando validez interna al estudio, lo cual fue solventado recogiendo variables confusoras que se introdujeron en el modelo estadístico. 2) La captación dependía del personal de los CS, por lo que no se pudieron cuantificar los pacientes a los que no se les ofreció el estudio aunque cumpliesen criterios de inclusión. 3) Los interventores fueron los mismos que promovieron la investigación, y no fue posible introducir en el modelo estadístico los valores en función de cada uno de ellos, por lo que no se pudo valorar su efecto. 4) No se hizo distinción del tipo de insomnio. Aunque el trastorno mental grave y la patología física eran criterios de exclusión, en los resultados se mezclan insomnios primarios con secundarios a trastornos ansiosos y depresivos, para los cuales el tratamiento farmacológico pautado era insuficiente. Utilizamos la escala de ansiedad/depresión de Goldberg para discriminar los pacientes con un posible trastorno de ansiedad o depresión asociado y evaluar su impacto sobre la intervención, y no se mostró relevante.
+
+
+-- IMPLICACIONES PARA LA PRÁCTICA
+
+El esquema de intervención está inspirado en otros validados en ámbitos distintos de AP. Las técnicas elegidas y su duración son resultado de la discusión del grupo promotor con intención de acercar el modelo a la realidad de las consultas con elevada presión asistencial.
+Este estudio recoge información para realizar ensayos clínicos más completos que estudien la efectividad de las medidas no farmacológicas y cómo gestionarlas en AP. Sería interesante ampliar el espectro de población, evaluar el impacto sobre la morbimortalidad y el mantenimiento de los resultados a largo plazo. Las herramientas de estudio fueron el ICSP y el diario de sueño por su fiabilidad y facilidad técnica. En otros estudios se podrían registrar informes de cónyuges y registros polisomnográficos, .
+Creemos que la intervención propuesta es aplicable en AP y podría implementarse en la consulta médica, de enfermería, o de forma compartida. En otros estudios se han planteado también intervenciones por teléfono e Internet, .
+La potencial relevancia de incluir abordajes no farmacológicos en el insomnio es mejorar la calidad de vida del paciente y reducir el consumo crónico de hipnóticos, . Consideramos importante la formación del personal sanitario de AP en estas medidas, ya que es el principal responsable del tratamiento y seguimiento del insomnio.Lo conocido sobre el tema-El insomnio es una consulta frecuente en atención primaria, y es potenciado por factores perpetuadores.-El tratamiento farmacológico debe usarse de manera complementaria a las terapias no farmacológicas, ya que estas son más efectivas y duraderas en el tiempo.-Se han incrementado las prescripciones de psicofármacos, con el consiguiente riesgo de inducir efectos adversos y dependencia.Qué aporta este estudio-Un nuevo modelo de intervención no farmacológica efectiva y aplicable en AP, ya sea en la consulta médica, de enfermería, o de manera compartida.-Mejora la calidad de sueño de los pacientes y disminuye el consumo de BZD.-Recoge información para realizar ensayos clínicos más completos sobre efectividad de las medidas no farmacológicas y la manera de gestionarlas en AP.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno declarado.

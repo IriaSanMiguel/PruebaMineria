@@ -1,0 +1,84 @@
+EVALUACIÓN DE LA EFECTIVIDAD DE UN PROGRAMA DE <ITALIC>MINDFULNESS</ITALIC> Y AUTOCOMPASIÓN PARA REDUCIR EL ESTRÉS Y PREVENIR EL <ITALIC>BURNOUT</ITALIC> EN PROFESIONALES SANITARIOS DE ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La prevalencia del burnout es muy variable en el ámbito sanitario, situándose por encima del 40% en la mayoría de estudios sobre profesionales de atención primaria, , .
+Maslach y Jackson describieron las tres dimensiones del síndrome de burnout: «cansancio emocional», «despersonalización» y «falta de realización personal». El burnout ha sido ampliamente estudiado, desarrollándose un nuevo modelo de clasificación en tres subtipos clínicos («frenético», «sin desafíos» y «desgastado») basado en el grado de compromiso y las estrategias de afrontamiento utilizadas para combatir las dificultades. Estos autores, en un trabajo posterior, aplican dicha clasificación a profesionales sanitarios de atención primaria, relacionando los tres subtipos con las tres dimensiones negativas del constructo autocompasión «auto-juicio», «aislamiento» y «sobre-identificación», señalando la importancia de instaurar tratamientos diferenciados y ajustados a cada subtipo y recomendando facilitar a los profesionales prácticas de mindfulness y autocompasión para afrontar los estresores y aliviar la culpa y otros sentimientos negativos.
+Las prácticas para cultivar mindfulness y compasión son eficaces para aumentar la resiliencia y el bienestar psicológico de los profesionales, mejorando la relación médico-paciente y la práctica clínica, , , .
+Mindfulness es el término con el que se ha traducido de la lengua pali la palabra sati, que significa «atención plena». Por otra parte, mindfulness se define como un estado o rasgo de la personalidad relacionado con la capacidad de prestar atención a la experiencia del momento presente con una actitud de aceptación y no juicio, capacidad que puede medirse con cuestionarios diseñados para ello. Asimismo, mindfulness comprende el conjunto de prácticas, técnicas y programas para cultivar y mejorar la habilidad de prestar atención y, basadas en estos programas, se desarrollan diferentes intervenciones y terapias para trastornos y contextos específicos.
+En 1979, Kabat-Zinn diseñó el programa Mindfulness Based Stress Reduction (MBSR), inspirado en prácticas de meditación budista, que ofrece herramientas para afrontar las circunstancias vitales de una manera más adaptativa, reduciendo el malestar psicológico asociado al estrés.
+Posteriormente, surge un movimiento que defiende el valor de la compasión para el alivio del sufrimiento, recomendando las terapias basadas en compasión en diferentes campos, entre ellos el sanitario. La compasión es la capacidad del ser humano de estar abierto al propio sufrimiento y al de los demás, sin juzgar ni rechazar la experiencia dolorosa. Es una cualidad multidimensional que incluye un factor cognitivo (comprensión del sufrimiento), un factor emocional (sentir el sufrimiento ajeno como propio) y un factor conductual (tener motivación e intención para aliviar el sufrimiento), .
+La compasión es una habilidad central en la práctica de mindfulness. Su cultivo proporciona equilibrio emocional y ayuda al sujeto a afrontar las dificultades con amabilidad y respeto hacia sí mismo y hacia los demás.
+Actualmente existe una importante corriente de estudio sobre los efectos del cultivo de la compasión en la relación médico-paciente, el estrés y la fatiga compasiva, frecuente en las profesiones de ayuda por exceso de empatía hacia el sufrimiento. La fatiga compasiva produce síntomas de agotamiento físico y emocional y una actitud defensiva y de distanciamiento del profesional ante sus pacientes similares al cansancio emocional y la despersonalización presentes en el síndrome de burnout, , , .
+Este estudio pretende evaluar los efectos de un programa de mindfulness y autocompasión sobre los niveles de estrés y burnout en profesionales sanitarios de atención primaria.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Ensayo clínico controlado aleatorizado mediante una intervención basada en mindfulness y autocompasión.
+
+
+-- PARTICIPANTES
+
+Por correo electrónico se informó y se ofertó la formación gratuita, fuera del horario laboral, a los 1.281 profesionales de enfermería y medicina de atención primaria del Servicio Navarro de Salud-Osasunbidea. El muestreo fue no probabilístico y de conveniencia. Participaron 48 profesionales que, en la sesión de presentación, cumplimentaron los cuestionarios de datos sociodemográficos y los de medición del nivel de mindfulness, estrés percibido, autocompasión y burnout. La aleatorización de los grupos se realizó asignando números correlativos a los 48 participantes y seleccionando de un bombo con 48 bolas numeradas un total de 25; estos números formaron parte del grupo intervención, quedando el resto en el grupo control.
+Criterios de inclusión: firmar el consentimiento informado, comprometerse a cumplimentar los cuestionarios pre y postintervención, asistir al menos al 75% de las sesiones y realizar prácticas de mindfulness y autocompasión 45 min al día.
+Criterios de exclusión: haber realizado en los 6 meses anteriores algún programa de mindfulness y/o compasión; padecer enfermedad psiquiátrica que no aconsejara participar en el estudio.
+Se perdieron dos participantes del grupo intervención por no completar el programa y uno del control por asistir a un curso de mindfulness durante el estudio.
+
+
+-- DESCRIPCIÓN DE LA INTERVENCIÓN
+
+Consistió en un curso inspirado en el programa MBSR al que se incorporaron prácticas para el cultivo de la compasión del programa Mindful-SelfCompassion (MSC) de Kristin Neff.
+El curso se desarrolló durante los meses febrero y marzo de 2016 en un Centro de Salud de Pamplona y constaba de una sesión semanal de 2,5 h durante 8 semanas. Fue impartido por una instructora titulada máster en Mindfulness y formada en los programas MBSR y MSC. Cada sesión versó sobre un tema determinado y se realizaron prácticas de mindfulness y autocompasión, incluyéndose un tiempo para el diálogo e intercambio de experiencias entre los participantes. Se entregó material para las prácticas en casa (manual de contenidos teóricos, audios y diarios de prácticas).
+El programa se describe en el .
+
+
+-- INSTRUMENTOS DE EVALUACIÓN
+
+Medición de variables con los siguientes cuestionarios:
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se estimó un tamaño muestral de 50 sujetos, necesario para tener una potencia del 80% en detectar como significativas diferencias entre la situación pre y postintervención de 0,6 desviaciones típicas en los scores de las escalas consideradas. Las características demográficas y laborales de los participantes y sus puntuaciones en los cuestionarios se resumieron mediante frecuencias y porcentajes para variables categóricas y con medias y desviaciones estándar para variables continuas. Las comparaciones de las características demográficas y laborales entre los grupos se realizaron con el test no paramétrico de Mann-Whitney para las variables continuas y el test de la chi-cuadrado o el de Fisher para las categóricas. En cada grupo y para cada cuestionario se compararon las puntuaciones pre-postintervención con la prueba de Wilcoxon pareada para las variables continuas y con la de McNemmar para las variables categóricas. Para evaluar las diferencias pre-postintervención entre grupos se utilizó la prueba de Mann-Whitney para las variables continuas y la de comparación de proporciones para las categóricas. Los cambios pre-post por grupo para cada puntuación global se ilustraron con gráficos de barras de error con medias e intervalos de confianza del 95% para las variables continuas. Los análisis se realizaron con el paquete estadístico SPSS Statistics 20.
+
+
+- RESULTADOS
+
+La tabla 1 describe las características sociodemográficas y laborales de los participantes. El 84,4% eran mujeres, el 93,2% vivían con familiares y el 80% consideraron su estado de salud como bueno. El 53,3% eran profesionales de medicina y el 46,7% profesionales de enfermería, con una media de 24 años de ejercicio profesional (desviación estándar [DE]: 9,34). El 28,9% declararon que habían practicado meditación. Las diferencias entre los grupos control e intervención no fueron significativas en ninguna de las características consideradas.
+La tabla 2 describe los resultados pre-postintervención obtenidos en las diferentes escalas para cada grupo. En el grupo intervención, la puntuación media preintervención en mindfulness (FFMQ) fue 120,5 (DE: 19,5), que mejoró significativamente a 140,1 (DE: 14,2) tras la intervención (p < 0,001). Los cambios fueron significativos en todas las subescalas: «observar» (p < 0,001), «describir» (p = 0,001), «actuar conscientemente» (p = 0,008), «no juzgar» (p = 0,001) y «no reaccionar» (p = 0,001). Los resultados para el grupo control no se modificaron (p = 0,689). La comparación entre grupos muestra una diferencia significativa (p < 0,001).
+En la escala de estrés percibido (PSQ), como medida resumen se utilizó la sugerida por Sanz-Carrillo et al.: PSQ = (row score-30)/90, por lo que la escala tiene un rango de 0 a 1. En nuestro estudio, las puntuaciones se redujeron significativamente de 0,50 a 0,33 en el grupo intervención (p < 0,001). Los cambios en el grupo intervención fueron significativos en todas las sub-escalas: «tensión» (p < 0,001), «aceptación» (p < 0,001), «energía y diversión» (p = 0,009), «sobrecarga» (p = 0,002), «satisfacción» (p < 0,001) y «miedo y ansiedad» (p = 0,030). La comparación entre grupos del resultado global de PSQ presentó una diferencia significativa (p < 0,001).
+Los resultados de la escala de autocompasión (SCS) fueron desglosados en tres subescalas: el grupo intervención obtuvo un incremento en «auto-amabilidad» de 0,78 puntos (p < 0,001) pre-postintervención, y cambios más moderados, aunque aún significativos, en «humanidad compartida» (0,59 puntos; p = 0,004) y en «mindfulness» (0,54 puntos; p = 0,001). En la comparación entre grupos la diferencia fue significativa en «auto-amabilidad» (p < 0,001).
+Los resultados de la escala del burnout (MBI) difieren dependiendo de la dimensión. Para «cansancio emocional» el efecto de la intervención fue significativo (p = 0,046), mejorando de categoría 8 de los participantes (36%), y no así en el grupo control. La diferencia en el porcentaje de mejora entre grupos fue asimismo significativa (p = 0,032). Para las dimensiones de «despersonalización» y «realización personal» los cambios fueron marginales y no difirieron entre los grupos.
+La figura 1 ilustra los resultados de las escalas de mindfulness (FFMQ) y estrés (PSQ), y la figura 2, los de las tres subescalas de la autocompasión (SCS) y los de las tres dimensiones del burnout (MBI).Figura 1Figura 2
+
+
+- DISCUSIÓN
+
+Nuestros resultados, en línea con otros trabajos que aconsejan la práctica de mindfulness para reducir los niveles de estrés y burnout en profesionales sanitarios, , , , muestran que un programa basado en mindfulness y autocompasión disminuye el estrés y el cansancio emocional en profesionales sanitarios de atención primaria y mejora su capacidad de atención plena y autocompasión.
+Al diseñar el estudio se pensó en superar algunos de los problemas metodológicos recurrentes en otros trabajos similares, como los descritos por García-Campayo y Santed. Las limitaciones más importantes de otros estudios, como ausencia de grupo control y remunerar económicamente a los participantes, no afectan a nuestro estudio controlado y con participantes voluntarios. Podría existir un sesgo de selección en la muestra al responder a la oferta personas comprometidas a dedicar parte de su tiempo libre al programa, por lo que la interpretación y la extrapolación de resultados a todos los profesionales de atención primaria deben hacerse con cautela. Sería interesante investigar si la baja tasa de participación en el estudio (48 de 1.281; 3,75%) fue por desconocimiento o escepticismo, por falta de tiempo u por otro tipo de reparos. No obstante, estimando la prevalencia de burnout en profesionales sanitarios de atención primaria en un 40%, se acotaría la población potencial a estudio mejorando la tasa de respuesta (9,36%).
+Otra limitación es el bajo tamaño muestral, que nos garantizaba poder encontrar como significativas diferencias de magnitud media o alta, como las obtenidas (tamaño del efecto en torno a 0,6 para la mayoría de las escalas), pero no encontrar como significativas diferencias de menor magnitud. Sería conveniente realizar otros estudios que analizaran la efectividad de estas intervenciones en contextos similares con el fin de tener resultados conclusivos.
+Antes de la intervención, los participantes mostraban valores medios-bajos en la dimensión de despersonalización y moderados-altos en la de realización personal del burnout. Tras la intervención, no se hallaron cambios significativos en estas dos dimensiones, y sí en la de cansancio emocional. Podría deberse a que la intervención no tuvo efectos en estas variables o a que son percepciones que se modifican lentamente, precisando observaciones a más largo plazo.
+Nuestro estudio contó con un elevado porcentaje de mujeres en ambos grupos. Un reciente metaanálisis señala diferencias de género en los niveles de autocompasión, con valores menores en las mujeres, lo que podría explicar su mayor interés en participar en estos programas.
+Aunque no era el objetivo de este estudio, sería interesante corroborar los resultados analizando otros parámetros, como cambios en neuroimagen, o en niveles de cortisol y oxitocina.
+El incremento en los niveles de mindfulness y en las tres subescalas del constructo autocompasión —«auto-amabilidad», «humanidad compartida» y «mindfulness»— observado tras nuestra intervención coincide con lo afirmado por otros autores, , , respecto a que cultivar las capacidades de mindfulness y compasión mejora las alteraciones del estado de ánimo. Esto ocurre especialmente en aquellas personas con niveles elevados de compromiso, exigencia y autocrítica, perfil que se corresponde con el del profesional sanitario con mayor riesgo de padecer burnout y fatiga por compasión. Asimismo, algunos estudios muestran que existe correlación entre las capacidades de mindfulness y autocompasión y señalan cómo estas pueden potenciarse con prácticas diseñadas para ello, lo que podría ser motivo de futuras investigaciones.
+Dotar al profesional sanitario de habilidades que le ayuden a conectar con los demás, a ser amable consigo mismo y a observar la realidad de una forma ecuánime y con perspectiva puede protegerle del síndrome de burnout y reducir su cansancio emocional. Sería aconsejable realizar estudios de seguimiento para valorar los efectos a largo plazo y la adherencia a las prácticas de este tipo de intervenciones.
+En conclusión, este trabajo sugiere que puede ser beneficioso impulsar prácticas de mindfulness y autocompasión en el ámbito sanitario.Lo conocido sobre el tema•La formación en mindfulness es eficaz para evitar el burnout en profesionales sanitarios.•Las recientes investigaciones sobre los beneficios que el cultivo de la compasión produce en la regulación emocional y en la capacidad de conectar con los demás aconsejan seguir estudiando los efectos de estas intervenciones en el ámbito sanitario.Qué aporta este estudio•Un programa combinado con prácticas de mindfulness y autocompasión ha mostrado eficacia para disminuir el estrés y el cansancio emocional en profesionales sanitarios de atención primaria.•Facilitar a los profesionales de atención primaria formación en mindfulness y autocompasión puede reducir el estrés y prevenir el burnout.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha sido financiado parcialmente por el Departamento de Salud del Gobierno de Navarra, al obtener el primer premio en el II Concurso de Ideas para la Investigación Sanitaria en Atención Primaria.
+
+
+- CONSIDERACIONES ÉTICAS
+
+El protocolo fue aprobado por el Comité de Ética de Investigación Clínica de Navarra (CEIC). Los datos fueron anonimizados y se garantizó la confidencialidad de los sujetos conforme a lo dispuesto por la Ley Orgánica de Protección de Datos de Carácter Personal (LOPD 15/1999 de 13 de diciembre).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no existe conflicto de intereses.

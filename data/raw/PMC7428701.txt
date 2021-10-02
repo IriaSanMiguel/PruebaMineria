@@ -1,0 +1,100 @@
+SÍNDROME HELLP: CONTROVERSIAS Y PRONÓSTICO
+
+
+- INTRODUCCIÓN
+
+El síndrome HELLP es una complicación obstétrica descrita en 1983 por Weinstein y caracterizada por la presencia de hemólisis, elevación de enzimas hepáticas (elevated liver enzymes) y plaquetopenia (low platelet). Se trata de una entidad clínica considerada como una variante o una complicación de la preeclampsia (PE) grave, pero algunos autores consideran que se trata de un síndrome no relacionado con la PE, puesto que hasta en el 15-20% de los casos se presenta sin proteinuria ni hipertensión arterial (HTA).
+En este número de la revista se publica un trabajo en el que se describen las características clínicas y analíticas de una serie de 28 casos de síndrome HELLP. De estos 28 casos, en 17 (61%) fue necesario el ingreso en la unidad de cuidados intensivos (UCI) y 10 casos (36%) presentaron complicaciones relacionadas con el síndrome HELLP. Estas cifras nos pueden ayudar a entender la gravedad de este síndrome y la necesidad de realizar un diagnóstico precoz.
+El tratamiento del síndrome HELLP consiste en la finalización de la gestación, que habitualmente conlleva la resolución de las manifestaciones clínicas y analíticas.
+
+
+- EPIDEMIOLOGÍA
+
+El síndrome HELLP aparece en el 5-9 de cada 1.000 gestaciones y en el 10-20% de los casos con PE severa. En el 70% de los casos aparece antes del parto, desarrollándose el 80% por debajo de la semana 37 de gestación, y el 10% por debajo de la semana 27 de gestación. En el postparto, la mayoría aparece en las primeras 48 horas, aunque puede aparecer hasta siete días después del parto.
+El factor de riesgo más importante para el desarrollo del síndrome HELLP es el antecedente de trastornos hipertensivos del embarazo en gestaciones previas, siendo el riesgo de recurrencia mayor a medida que se presentan a edades gestacionales más tempranas.
+
+
+- ETIOPATOGENIA
+
+La etiopatogenia del síndrome HELLP continúa siendo desconocida. Si consideramos que se trata de una forma severa de PE, su desarrollo estaría relacionado con una anomalía en la placentación que desencadena un desequilibrio entre factores angiogénicos y antiangiogénicos. Sin embargo, existen diferencias en el perfil angiogénico de los casos de síndrome HELLP aislado, HELLP asociado a PE y PE severa, presentando los casos de síndrome HELLP aislado una ratio SFlt1/PlGF menor que los casos asociados a PE severa. Algunos casos de síndrome HELLP podrían estar relacionados con microangiopatías trombóticas, causadas por disrregulación del complemento, lo cual abre una vía hacia posibles tratamientos con terapia biológica dirigida.
+
+
+- PRESENTACIÓN CLÍNICA
+
+Las manifestaciones clínicas fundamentales son dolor epigástrico, dolor abdominal localizado en cuadrante superior derecho, náuseas y vómitos. La mayoría de los pacientes refiere malestar general los días previos. Entre el 30 y 60% de las mujeres refieren dolor abdominal, y el 20% presentan síntomas visuales. En el examen físico, el 85% de las pacientes presentan hipertensión y proteinuria, siendo frecuente también la presencia de edemas y de aumento de peso en los días previos. La sintomatología habitualmente evoluciona rápidamente presentando agravamientos súbitos. La regresión espontánea de la clínica ocurre de forma excepcional.
+
+
+- DIAGNÓSTICO
+
+El diagnóstico se establece mediante la presencia de las anormalidades en los parámetros analíticos que constituyen el acrónimo del síndrome HELLP: hemólisis, elevación de enzimas hepáticas y plaquetopenia. Existen diferentes criterios diagnósticos, (tabla 1 ), siendo los más ampliamente utilizados los descritos por Sibai en la clasificación Tennessee.
+Habitualmente se clasifica en HELLP completo cuando están presentes los tres parámetros y HELLP incompleto cuando aparecen únicamente uno o dos elementos de la tríada.
+Otra forma de clasificación del síndrome HELLP es la clasificación Mississippi, menos empleada en la práctica clínica y que establece tres clases en función de la gravedad de la plaquetopenia y de los niveles de AST/ALT .
+
+
+- DIAGNÓSTICO DIFERENCIAL
+
+Existen enfermedades graves que pueden imitar el síndrome HELLP (tabla 2 ). Se trata de síndromes como el hígado graso agudo del embarazo, síndrome hemolítico urémico (SHU), púrpura trombótica trombocitopénica (PTT) y el lupus eritematoso sistémico (LES), que pueden tener una elevada morbimortalidad, de ahí la necesidad de realizar un diagnóstico diferencial preciso para poder realizar un manejo adecuado.
+Además del diagnóstico diferencial con las enfermedades expuestas en la tabla 2, recientemente se ha descrito en gestantes afectas de COVID-19 (Coronavirus Disease 2019) un cuadro clínico, preeclampsia like, caracterizado por hipertensión, proteinuria, trombocitopenia y elevación de enzimas hepáticas, . Esta situación se ha objetivado en pacientes embarazadas con neumonía grave por SARS-CoV-2. La superposición de signos y síntomas de ambas enfermedades podría dificultar el diagnóstico diferencial entre ambas entidades en gestantes. La presencia de clínica respiratoria típica de COVID-19, una PCR positiva para el virus y una placa de tórax compatible con neumonía por COVID-19 pueden ayudar al diagnóstico diferencial. También se ha estudiado el cociente de marcadores angiogénicos sFlt-1/PLGF, el índice de pulsatilidad medio de las arterias uterinas (IPAut) y el LDH como elementos de diferenciación entre ambos cuadros clínicos. En la COVID-19, a diferencia de la PE, al no producirse alteración en la placentación, los valores de sFlt-1/PLGF y el IPAut deberían ser normales. Por su parte, la LDH en gestantes con cuadro clínico preeclampsia like suele encontrarse en valores menores a 600 U/L. No obstante, nos encontramos ante una enfermedad de reciente aparición, por lo que se requieren más estudios para tener una mayor evidencia científica de la misma.
+
+
+- MANEJO DEL SÍNDROME HELLP
+
+Dado que el tratamiento del síndrome HELLP es la finalización de la gestación, se establecen tres opciones de manejo:-Finalización inmediata de la gestación: es la opción de elección en gestantes de > de 34 semanas.-Finalización de la gestación en las 48 horas siguientes al diagnóstico, tras estabilización del cuadro y tratamiento con corticoides para maduración pulmonar fetal: es la opción elegida en la mayoría de los centros para el manejo de gestaciones por debajo de las 34 semanas.-Manejo expectante > de 48-72 horas: aunque existe controversia en este aspecto, podría ser una opción en edades gestacionales tempranas para disminuir la morbilidad neonatal.
+
+
+-- MANEJO INICIAL
+
+En primer lugar, ante la sospecha de síndrome HELLP se debe evaluar a la paciente para establecer el diagnóstico. Se evaluarán las manifestaciones clínicas maternas y se realizará exploración física general y obstétrica. Como exploraciones complementarias se solicitarán hemograma, estudio de coagulación, AST/ALT, LDH, haptoglobina o frotis periférico para estudio de esquistocitos y se evaluará la presencia de proteínas en orina. También se debe evaluar el estado fetal mediante ecografía y registro cardiotocográfico fetal.
+Inicialmente se manejará a la paciente con fluidoterapia, tratamiento antihipertensivo en caso de HTA y tratamiento con sulfato de magnesio para la prevención de las complicaciones neurológicas.
+
+
+-- MANEJO EXPECTANTE DEL SÍNDROME HELLP
+
+En gestaciones por debajo de 34 semanas existe acuerdo en realizar un manejo conservador del síndrome HELLP durante 48-72 horas para permitir administrar corticoides para la maduración pulmonar fetal. Sin embargo, existe gran controversia acerca de mantener el manejo conservador más allá de las 48 horas. No se han realizado ensayos clínicos con asignación aleatoria que comparen manejo expectante > 48 horas versus manejo activo con finalización inmediata de la gestación, pero el manejo conservador puede ser una opción en gestaciones pretérmino, siempre que se realice una estricta vigilancia materna y fetal. Por supuesto, los beneficios del manejo conservador se deben balancear con el riesgo de aparición de complicaciones tanto maternas como fetales. En un reciente estudio de cohortes que comparaba manejo activo con manejo conservador y que incluía 118 pacientes, se observó un mayor riesgo de hemorragia postparto y de morbilidad neonatal en el grupo de manejo activo, permitiendo el manejo conservador alargar la gestación de tres a 30 días.
+Independientemente de que se decida optar por un manejo conservador, las primeras 48 horas o más allá de 48 horas, la presencia de complicaciones graves maternas o fetales es una indicación para finalizar la gestación de forma inmediata.
+
+
+-- TERAPIA CON CORTICOIDES EN EL SÍNDROME HELLP
+
+Existe gran cantidad de evidencia científica acerca de la utilización de corticoides en el parto pretérmino (por debajo de las 34 semanas) para acelerar la madurez pulmonar fetal. La utilización de dosis altas de betametasona se emplea para prevenir las complicaciones neonatales también en el síndrome HELLP. Es fuente de gran controversia, por el contrario, el empleo de corticoides para prevenir las complicaciones maternas.
+Algunos autores proponen el empleo de corticoides a altas dosis con el objetivo de mejorar la morbilidad materna, dado que podrían disminuir el edema, inhibir la activación endotelial y reducir la disfunción endotelial, prevenir la anemia trombótica microangiopática e inhibir la secreción de citoquinas proinflamatorias. Sin embargo, a pesar de los beneficios teóricos de la terapia con corticoides, los ensayos clínicos aleatorizados realizados no han podido demostrar un beneficio clínico. En la revisión Cochrane publicada en 2010 que evaluaba el empleo de corticoides en el síndrome HELLP, únicamente se mostró un mayor recuento de plaquetas en mujeres tratadas con corticoides, siendo mayor el beneficio en las mujeres tratadas con dexametasona respecto a betametasona, pero no se evidenciaron beneficios en cuanto a morbilidad materna. Un meta-análisis publicado en 2015 también encontró en mujeres tratadas con corticoides un mayor recuento plaquetario y una reducción en la estancia hospitalaria y en la necesidad de transfusión. A nivel práctico, los corticoides, aunque no mejoren significativamente la morbilidad materna, nos pueden ayudar a recuperar las cifras de plaquetas, dando oportunidad en este grupo de pacientes al empleo de anestesia loco-regional.
+
+
+-- FINALIZACIÓN DE LA GESTACIÓN
+
+Ya se ha comentado previamente que el tratamiento del síndrome HELLP es la finalización de la gestación. El síndrome HELLP no es una indicación per se de cesárea, por lo que el parto vaginal es la vía de elección en caso de que no haya indicaciones obstétricas de cesárea. La transfusión de plaquetas habitualmente se recomienda en caso de parto vaginal por debajo de 20 x 109/L y en caso de cesárea electiva por debajo de 50 x 109/L.
+
+
+-- MANEJO POSTPARTO
+
+Habitualmente se produce un empeoramiento en los parámetros analíticos en las primeras 24-48 horas, por lo que es aconsejable realizar controles analíticos. Los parámetros analíticos y la clínica van mejorando a partir de las primeras horas, pero en el caso de pacientes que han presentado casos más severos, la mejoría puede verse retrasada. En el caso de las pacientes que debutan en el postparto, el manejo es el mismo que anteparto, aunque presentan un mayor riesgo de edema pulmonar e insuficiencia renal.
+Las pacientes en las que exista un riesgo alto de presentar complicaciones severas o aquellas en estado crítico se beneficiarían del ingreso en una unidad de cuidados intensivos. Las indicaciones potenciales de ingreso en una unidad de cuidados intensivos serían: rotura hepática o fallo hepático fulminante, coagulación intravascular diseminada (CID), fracaso renal agudo, transfusiones masivas, síndrome de pulmón politransfundido, isquemia cardíaca o cardiomiopatía.
+
+
+- PRONÓSTICO
+
+-- COMPLICACIONES MATERNAS
+
+El síndrome HELLP se asocia a complicaciones tanto maternas como neonatales.
+Aunque el pronóstico de las pacientes con síndrome HELLP es en general bueno, las complicaciones maternas son relativamente comunes y se asocian con la presencia de sintomatología severa y anomalías de laboratorio.
+El hematoma subcapsular hepático se ha descrito en alrededor del 1% de los casos de síndrome HELLP. Se trata de una complicación severa y potencialmente mortal. Habitualmente se produce en el lóbulo hepático derecho. La sintomatología consiste en dolor intenso y súbito en epigastrio, cuadrante abdominal superior derecho, omalgia derecha, anemia e hipotensión. El diagnóstico se puede realizar mediante ecografía, tomografía computarizada (TC) o resonancia magnética (RM). El manejo habitual es conservador, con pruebas de imagen seriadas para ver la evolución y transfusiones de hemoderivados en caso necesario. En caso de rotura del hematoma, se puede optar por manejo conservador si la rotura es contenida o tratamiento quirúrgico con un equipo con amplia experiencia en cirugía hepática, siendo necesario incluso el trasplante hepático.
+El desprendimiento de placenta puede ocurrir hasta en el 16% de las pacientes y es una de las principales causas de muerte fetal y de hemorragia postparto. También es frecuente que el síndrome HELLP se complique por la presencia de coagulación intravascular diseminada (CID), que se ha descrito hasta en el 20% de los pacientes y se asocia también a la hemorragia postparto. La CID es frecuente en los casos de síndrome HELLP asociados a desprendimiento de placenta, y en estos casos también aumenta el riesgo de fracaso renal agudo, edema pulmonar y necesidad de transfusiones. Son también frecuentes en estas pacientes las complicaciones de la herida quirúrgica.
+Otras complicaciones menos frecuentes reportadas en series de casos incluyen síndrome de distrés respiratorio, infarto, edema y hemorragia cerebral.
+La mortalidad materna reportada se sitúa alrededor del 1%, siendo más elevada en los casos de síndrome HELLP complicados con rotura hepática.
+
+
+-- COMPLICACIONES NEONATALES
+
+Las complicaciones neonatales se relacionan con la edad gestacional y el peso al nacimiento, puesto que alrededor del 70% de los nacimientos se producen por debajo de las 37 semanas. La mortalidad neonatal se sitúa entre el 7 y el 20%, siendo las causas principales de muerte el desprendimiento de placenta y la restricción de crecimiento intrauterino.
+
+
+-- RIESGO DE RECURRENCIA
+
+En mujeres con antecedente de síndrome HELLP, el riesgo de presentar algún tipo de trastornos hipertensivos en gestaciones posteriores se sitúa entre el 5 y el 52%. El 7% de las pacientes desarrollarán síndrome de HELLP nuevamente, el 18% PE y el 18% HTA gestacional. Las mujeres que han presentado un síndrome HELLP por debajo o a la semana 28 tienen mayor riesgo de presentar diversas complicaciones obstétricas como parto pretérmino, trastornos hipertensivos de la gestación y óbito intrauterino.
+
+
+- CONCLUSIONES
+
+Existe controversia en cuanto al origen del síndrome HELLP como una variante de PE grave o un síndrome separado de los trastornos hipertensivos del embarazo.
+La presencia de diferentes clasificaciones y diferentes criterios diagnósticos hacen en ocasiones difícilmente comparables los resultados de los ensayos clínicos.
+Aunque existe acuerdo en cuanto al manejo del síndrome HELLP por encima de las 34 semanas, su manejo por debajo de las 34 semanas es controvertido, especialmente en lo referente al tratamiento con corticoides más allá de la maduración pulmonar.

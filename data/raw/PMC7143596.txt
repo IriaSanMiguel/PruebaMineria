@@ -1,0 +1,222 @@
+ENFERMEDADES INFLAMATORIAS NASALES Y DE SENOS PARASALES
+
+
+- INTRODUCCIÓN
+
+Se considera enfermedad inflamatoria nasosinusal a la afectación inflamatoria de la mucosa que tapiza las fosas nasales y los senos paranasales; esta mucosa forma parte del aparato respiratorio y, en la actualidad, se considera la unidad narizbronquio como una entidad desde el punto de vista funcional. Los temas que vamos a tratar tienen una imbricación con la patología asociada como va a ser el asma, la bronquitis crónica o enfermedades sistémicas como la fibrosis quística.
+Desde el punto de vista del otorrinolaringólogo (ORL) vamos a distinguir las rinitis y las rinosinusitis (RS) para facilitar su estudio, pero deberemos considerar su importante interrelación con el resto de las patologías respiratorias.
+
+
+- RINITIS
+
+Como término clínico, rinitis describe un grupo heterogéneo de enfermedades caracterizadas por uno o más de los siguientes síntomas: congestión nasal, rinorrea, prurito nasal y estornudos. Distinguimos 2 entidades principales: rinitis alérgica (RA) y rinitis no alérgica (RNA). La forma alérgica es la más común de las rinitis crónicas (afectando entre un 10 y un 25% de la población en sociedades occidentales), aunque hasta un 30-50% de los pacientes con rinitis presentan factores desencadenantes no alérgicos. Se considera que entre un 44 y un 87% de los pacientes con rinitis presentan una combinación de ambas formas o rinitis mixta.
+Diversos estudios han demostrado una alteración significativa de la calidad de vida en los pacientes con RA, , . Además, dentro de los problemas asociados a la rinitis destaca el asma, con numerosos estudios existentes que han mostrado la estrecha relación entre vía aérea superior e inferior, , siendo necesaria una estrategia combinada de tratamiento para conseguir un manejo óptimo. Concepto. La enfermedad inflamatoria nasosinusal engloba un grupo de patologías que tienen como proceso fisiopatológico común la inflamación de la mucosa que tapiza las fosas nasales y los senos paranasales. Rinitis. La rinitis describe un grupo heterogéneo de enfermedades caracterizadas por uno o más de los siguientes síntomas: congestión nasal, rinorrea, prurito nasal y estornudos. Distinguimos dos entidades principales: rinitis alérgica (RA) y rinitis no alérgica (RNA). Rinosinusitis. Describe un grupo de entidades cuya clínica es: obstrucción nasal, rinorrea anterior y/o posterior, alteraciones de la olfacción y algias cefalofaciales. La causa puede ser infecciosa o de etiología multifactorial.Dentro de las infecciosas deberemos distinguir las de afectación aguda, cuando la clínica sea inferior a 12 semanas, y la crónica en el caso de que la clínica afecte durante más de 12 semanas. Los tipos de rinosinusitis crónica son: rinosinusitis crónica sin pólipos (RSCSP), rinosinusitis crónica con pólipos (RSCCP) y rinosinusitis alérgica eosinofílica fúngica (RAEF).
+
+
+-- RINITIS ALÉRGICA
+
+--- ETIOPATOGÉNESIS
+
+La inflamación alérgica de la mucosa es desencadenada por una reacción de hipersensibilidad tipo I de Gell y Coombs mediada por IgE, a diversos antígenos inhalados, en especial pólenes, ácaros, hongos o alérgenos animales, con el característico desarrollo progresivo de un fenómeno de hiperrespuesta tanto a estímulos específicos (determinados antígenos) como inespecíficos, .
+Son factores de riesgo para la RA: historia familiar de atopia, IgE sérica superior a 100 UI/ml antes de los 6 años y clase socioeconómica elevada.
+
+
+--- CLÍNICA
+
+Las recomendaciones de la guía ARIA 2008 incluyen una nueva clasificación de la RA que distingue entre intermitente (síntomas durante menos de 4 días a la semana o menos de 4 semanas consecutivas) y persistente (síntomas durante más de 4 días a la semana y más de 4 semanas consecutivas). Asimismo, según la intensidad de los síntomas y la alteración de la calidad de vida puede haber cuadros leves (sueño normal; actividades diarias, deporte y ocio normales; trabajo y actividad escolar normales; síntomas presentes pero no molestos) y moderados/graves (alteración del sueño; interferencia en actividades diarias, deportivas o de ocio; interferencia en la actividad escolar o en el trabajo; presencia de síntomas molestos).
+
+
+--- EVALUACIÓN
+
+Historia clínica. Debe ser detallada, en especial en lo referente al momento de presentación de los síntomas o los factores desencadenantes, síntomas predominantes, pruebas anteriores de alergia, posibles complicaciones como sinusitis, asma u otitis media etc.
+Exploración física. Se debe realizar una exploración completa ORL, siendo importantes la rinoscopia anterior y la endoscopia nasal que permite visualizar el estado de los cornetes y el grado de obstrucción al paso de aire, la presencia de secreciones y el estado de la mucosa nasal, así como descartar la presencia de pólipos. La mucosa alérgica es típicamente pálida y edematosa, con rinorrea acuosa (fig. 1 ).Fig. 1
+Son típicos en estos pacientes, el “saludo alérgico” (frotar la mano contra la punta de la nariz en respuesta al prurito) y el “pliegue alérgico” (arruga en el puente de la nariz causada por el saludo alérgico repetido).
+Pruebas complementarias. Las pruebas diagnósticas se basan en la detección de IgE específica (ya que la total se eleva en un 30-40% de pacientes con RA pero también en pacientes con enfermedades no alérgicas y en sujetos sanos, ya sea en piel o en sangre. Se considera que el patrón oro son las pruebas cutáneas, siendo la más común el prick test (fig. 2 ), que por su simplicidad, rapidez y mayor sensibilidad es de elección, . En esta prueba se coloca una gota con un antígeno específico diluido, y luego se realiza una punción con una aguja u otro instrumento similar que eleva la epidermis sin llegar a la dermis, por lo tanto sin producir sangrado. Esto producirá una reacción de inflamación y eritema local en caso de existir alergia al mismo. Requiere la existencia de un control positivo (inyectando histamina) para asegurar una reactividad normal, y un control negativo, para descartar la dermatografía. Los antígenos habitualmente empleados en esta prueba son pólenes, ácaros, hongos y epitelios de animales domésticos comunes. Los resultados pueden verse afectados principalmente por la ingesta de fármacos concomitantes (antihistamínicos) o la edad del paciente, .Fig. 2
+Para la valoración de la IgE específica en suero se emplea el RAST (radioalergoabsorción), que además permite detectar variaciones cuantitativas de la misma, .
+Otras pruebas. La rinomanometría anterior o la rinometría permiten valorar de forma objetiva el grado de obstrucción nasal. La olfatometría puede ser útil como herramienta complementaria, así como la tomografía computadorizada (TC) en pacientes con sospecha de enfermedad sinusal.
+
+
+--- TRATAMIENTO
+
+La principal estrategia consiste en el desarrollo de las conductas de evitación apropiadas. Puesto que éstas no siempre son posibles, o son insuficientes, la mayoría de los pacientes deben recibir además tratamiento farmacológico, , .
+Existen muchas opciones y es necesario ajustar el régimen de fármacos empleados a los síntomas de cada paciente y sus circunstancias:
+Antihistamínicos. Son de primera elección para el tratamiento de la RA en adultos y niños, siendo de elección los de segunda generación por su perfil de seguridad y porque no producen sedación. Actúan principalmente sobre los estornudos, el prurito nasal y ocular y la rinorrea, en este orden. Existen los preparados de acción tópica, tales como la azelastina o levocabastina, y los sistémicos, como la levocetirizina o la loratadina.
+Corticoides. Los corticoides tópicos constituyen la medicación más efectiva para el tratamiento de la RA y la RNA. Logran mayores concentraciones en el lugar de acción con menores efectos adversos, si bien pueden producir sequedad, costras, epistaxis y raramente perforaciones septales. Son de primera elección para la congestión nasal (ya que los descongestionantes sólo se pueden emplear en periodos muy cortos de tiempo) y en pacientes con síntomas muy frecuentes o persistentes, . En ocasiones, se pueden emplear tandas cortas de corticoides orales, si bien su uso de forma prolongada no se recomienda por los efectos secundarios.
+Cromonas. De uso tópico, intranasal u ocular, son especialmente útiles cuando se emplean antes de la exposición anticipada a un alérgeno. Actúan como estabilizadores de los mastocitos y son muy seguros, aunque pueden no ser efectivos en formas graves. Son ejemplos el cromoglicato o el nedocromil, .
+Inhibidores de leucotrienos. Su efectividad es equivalente a la de los antihistamínicos orales para la congestión nasal, pero menor que la de los corticoides tópicos, . Inicialmente se empleaban para el manejo del asma, pero en la actualidad se utilizan también para el tratamiento de la RA. Los más comunes son el zafirlukast y el montelukast.
+Descongestionantes. Son agonistas alfa-adrenérgicos que producen vasoconstricción a nivel de los cornetes disminuyendo la obstrucción nasal. Utiles a corto plazo, la administración tópica no puede mantenerse más de 7-9 días por el riesgo de rinitis medicamentosa. Un ejemplo es la xilometazolina. Dentro de los sistémicos están la pseudofedrina y la fenilefrina, que cuentan con numerosos efectos secundarios debido a su acción vasopresora.
+Anticolinérgicos. Son útiles específicamente para el control de la rinorrea acuosa, destaca el preparado tópico de bromuro de ipratropio que evita los efectos sistémicos anticolinérgicos, .
+El tratamiento médico debe ser escalonado en función del tipo de rinitis y la gravedad de los síntomas (fig. 3 ).Fig. 3
+Otra opción de tratamiento es la inmunoterapia o terapia de desensibilización, en la cual un antígeno especialmente preparado es administrado a lo largo de un determinado periodo de tiempo, para inducir una tolerancia sistémica progresiva que se mantiene años después, . Tradicionalmente la vía de administración es la subcutánea, pero en la actualidad se están empleando vías de administración locales como inmunoterapia sublingual o intranasal. Su administración requiere un diagnóstico preciso de alergia mediada por IgE. La vía subcutánea es útil en niños y adultos con alergia a pólenes y ácaros, si bien presenta la desventaja de las posibles reacciones alérgicas asociadas que pueden ser mortales. La vía sublingual carece de las reacciones adversas sistémicas de la subcutánea, estando recomendada para los pacientes con alergia a pólenes (en los cuales se puede emplear la vía intranasal pero es menos efectiva). La indicación principal del tratamiento con inmunoterapia son aquellos pacientes con alergia demostrada mediada por IgE, no controlada farmacológicamente, con síntomas severos y prolongados, consiguiendo el control a largo plazo de los síntomas hasta en el 75% de los casos. Además, puede prevenir el desarrollo secundario de asma en pacientes con RA. Son contraindicaciones para su administración el tratamiento con bloqueadores beta, la presencia de enfermedades inmunológicas y la falta de adherencia al tratamiento, ya que este puede durar entre 3 y 5 años.
+En la actualidad se está estudiando el uso de omalizumab, anticuerpo monoclonal recombinante anti IgE, cuyo uso se ha aprobado para el tratamiento del asma grave pero no para la rinitis, .
+En caso de no existir una respuesta satisfactoria a las diversas opciones de tratamiento médico, y que uno de los síntomas principales sea la obstrucción nasal, o haya patología nasal asociada (desviación septal, poliposis), el tratamiento quirúrgico puede estar indicado. El objetivo principal en estos casos es reducir el tamaño de los cornetes por medio de la electrocoagulación, o resecando parcialmente la mucosa de los mismos (turbinoplastia). Asimismo se tratará la patología nasal asociada.
+
+
+-- RINITIS NO ALÉRGICA
+
+La definición de RNA es difícil, ya que los síntomas de presentación son muy inespecíficos y en los pacientes pueden manifestarse de diversas formas, aunque en general la mayoría presentan rinorrea y congestión nasal, con una historia de alergia y las pruebas correspondientes negativas. Su incidencia aumenta con la edad, y afecta con mayor frecuencia a mujeres, probablemente en relación con factores hormonales.
+
+
+--- FISIOPATOLOGÍA
+
+Es compleja y todavía bastante desconocida, con un gran número de factores que participan en la fisiología nasal, incluyendo un sistema de inervación complejo donde el sistema nervioso autónomo es responsable del control de la vascularización y las secreciones glandulares de la mucosa nasal. Cualquier alteración de los componentes de la mucosa nasal puede desencadenar una RNA.
+Se han empleado diversos test de provocación para intentar caracterizar la RNA y la reactividad nasal, tales como el test de provocación con metacolina (agonista colinérgico) o la histamina, si bien su respuesta es similar en pacientes con RA y RNA, .
+
+
+--- CLÍNICA
+
+La clínica de rinorrea, estornudos, congestión o prurito aparece habitualmente en relación con diversos factores desencadenantes, como veremos luego dentro de las distintas categorías.
+
+
+--- CLASIFICACIÓN
+
+Destacan las siguientes categorías (las rinitis asociadas a enfermedades sistémicas se consideran aparte).
+Rinitis ocupacional. La rinitis ocupacional (irritativo-tóxica) está producida por la acción de agentes irritantes inhalados en el medio laboral. Se puede incluir en el grupo de RNA o RA, ya que puede estar mediada por el efecto directo de irritantes respiratorios (humo de tabaco, ozono, formaldehídos, etc.) o por mecanismos inmunológicos (proteínas animales, látex, insecticidas y otros alérgenos químicos, etc.). El tratamiento consiste principalmente en las conductas de evitación adecuadas. Si no es posible se emplea la medicación habitual para RNA o RA.
+Rinitis hormonal. Por su acción directa sobre la mucosa nasal las hormonas pueden producir hiperreactividad glandular con rinorrea. Son ejemplos la rinitis asociada al hipotiroidismo, la acromegalia, la menstruación o la pubertad. El tratamiento será el de la etiología subyacente. La más frecuente es la rinitis del embarazo, que cursa con rinorrea y congestión principalmente. Es mucho más frecuente en fumadoras (69%) que no fumadoras (22%). Depende de los niveles de estrógenos, suele aparecer en el último trimestre del embarazo, se resuelve 2 a 4 semanas después del parto y no suele requerir tratamiento, .
+Rinitis inducida por fármacos. Existe una gran cantidad de fármacos que pueden producir síntomas de rinitis como efecto secundario. Entre ellos destacan el ácido acetil salicílico (AAS) y los antiinflamatorios no esteroideos (AINE), psicotrópicos, antihipertensivos (inhibidores de la enzima convertidora de angiotensina, bloqueadores beta), anticonceptivos orales, etc.. Destaca en este grupo la rinitis medicamentosa, que se asocia al uso prologado de agentes vasoconstrictores tópicos como la oximetazolina. Los síntomas consisten en obstrucción nasal, sequedad mucosa y en ocasiones alteraciones del olfato. Estos fármacos producen una reacción de taquifilaxia y al cesar su uso aparece una congestión nasal como “efecto rebote” que puede ser intensa y refractaria al tratamiento.
+Rinitis gustativa. Se caracteriza por rinorrea acuosa y muy abundante que aparece tras la ingesta de comida. La anticipación de la comida o incluso el olor de la misma también pueden desencadenarla. La respuesta está mediada por una estimulación aberrante de las fibras nasales secretomotoras parasimpáticas cuando se estimula la actividad secretora salivar. Los anticolinérgicos tópicos pueden ser útiles en el tratamiento, .
+Rinitis no alérgica con eosinofilia. La rinitis alérgica con eosinofilia (NARES) se caracteriza por la presencia de síntomas perennes: estornudos en salva, rinorrea acuosa, prurito y congestión nasal, en pacientes con pruebas alérgicas negativas, y con más de un 20% de eosinófilos en los frotis nasales como en la RA, . El tratamiento principal es con corticoides nasales.
+Rinitis vasomotora. Es la forma más frecuente de RNA crónica y generalmente es un diagnóstico de exclusión. En su patogenia intervienen alteraciones del sistema nervioso autónomo que controla la irrigación y la actividad glandular de la mucosa nasal. Los síntomas consisten en obstrucción nasal, rinorrea y estornudos, que se relacionan con cambios de temperatura, ingesta de líquidos calientes, alcohol o más raramente situaciones de estrés emocional. En su tratamiento se emplean los antihistamínicos o corticoides tópicos, siendo útil el bromuro de ipratropio tópico cuando el síntoma predominante es la rinorrea, , .
+Rinitis atrófica. La etiología de las formas primarias es desconocida, mientras que las formas secundarias en la actualidad se deben principalmente a cirugías agresivas por patología obstructiva nasal u oncológica, traumatismos, enfermedades granulomatosas, abuso crónico de cocaína o descongestionantes, o radioterapia. Se caracteriza por una sequedad intensa de la mucosa nasal con metaplasia escamosa del epitelio respiratorio. Los casos más severos, especialmente aquellos donde existe una sobreinfección bacteriana, presentan un olor fétido que no es percibido por el propio paciente. La exploración muestra una cavidad nasal amplia con una mucosa seca y con costras. Inicialmente el tratamiento es con medidas conservadoras sintomáticas, tales como lavados nasales y la aplicación de lubricantes. Nunca hay que emplear descongestionantes tópicos ya que producen un empeoramiento.
+Rinitis infecciosa. La rinitis aguda o catarro común es la enfermedad infecciosa más frecuente, y el principal factor predisponente para la sinusitis bacteriana, siendo responsable del 90 al 98% de todos los episodios de sinusitis en niños y adultos. Los rinovirus y los coronavirus constituyen la mitad de los agentes causales de la rinitis aguda viral. La enfermedad cursa con rinorrea acuosa y obstrucción nasal por la inflamación mucosa, junto con malestar general, cefalea y fiebre. Puede existir sobreinfección bacteriana, lo que produce que la rinorrea se torne mucopurulenta. Los síntomas locales y sistémicos generalmente ceden en 1 semana empleando como tratamiento medidas de soporte para aliviar la obstrucción nasal y prevenir la sinusitis, principalmente antiinflamatorios y descongestionantes, estos últimos no más de 1 semana para prevenir las rinitis medicamentosas. Los antibióticos sólo están indicados en caso de sobreinfección bacteriana o afectación sinusal con persistencia de los síntomas.
+
+
+--- EVALUACIÓN
+
+Historia clínica. Es esencial, debiéndose realizar una historia detallada de los síntomas, agentes desencadenantes, fármacos concomitantes, alteraciones hormonales, embarazo, tabaco y exposición ocupacional.
+Exploración física. Se realiza de forma similar a la RA.
+Pruebas complementarias. La RA se puede excluir por medio del prick test o la detección de IgE específica. La RNA con eosinofilia se puede descartar por la detección de eosinófilos en cepillados nasales o citología de lavados nasales.
+Otras pruebas. Son las mismas que las descritas para la RA.
+
+
+--- TRATAMIENTO
+
+Como se ha visto, en muchos casos, la primera línea de tratamiento la constituyen las conductas de evitación apropiadas. Asimismo, a veces el ejercicio físico regular puede ser útil, ya que incrementa el estímulo simpático de la mucosa nasal corrigiendo la pérdida de tono simpático subyacente.
+El tratamiento médico, como se ha visto, consiste fundamentalmente en el uso de corticoides y antihistamínicos tópicos, destacando el uso del bromuro de ipratropio para el tratamiento de la rinorrea acuosa asociada a la rinitis vasomotora.
+De forma similar a lo descrito para la RA, en los casos resistentes a tratamiento médico, la cirugía puede ser útil para la reducción de los cornetes inferiores hipertróficos (turbinoplastia por medio de electrocoagulación o cirugía endoscópica), siempre de forma conservadora. Asimismo, la neurectomía del vidiano y la inyección de toxina botulínica en el ganglio esfenopalatino se han descrito para casos intratables de rinitis vasomotora.
+
+
+- MANIFESTACIONES RINOLÓGICAS DE ENFERMEDADES INFLAMATORIAS SISTÉMICAS
+
+Existen multitud de enfermedades sistémicas que pueden producir sintomatología nasal. Destacan las enfermedades autoinmunes y reumáticas (granulomatosis de Wegener, sarcoidosis, enfermedad de Churg Strauss, policondritis recidivante, etc.), las discinesias ciliares (síndrome de Kartagerner y fibrosis quística) y las alteraciones hormonales, .
+Los síntomas que producen son relativamente inespecíficos, tales como obstrucción nasal, dolor, epistaxis o rinorrea, cuya evaluación requiere un examen completo del área de la cabeza y el cuello, siendo muy útil la endoscopia nasal que además permite obtener biopsias.
+En el caso de este grupo, las pruebas de laboratorio pueden aportar información de utilidad (enzima convertidora de angiotensina [ECA], anticuerpos anticitoplasma de neutrófilos [c-ANCA], etc.).
+Destacamos 3 entidades dentro de las enfermedades inflamatorias sistémicas, porque son las que con mayor frecuencia generan clínica rinológica.
+
+
+-- GRANULOMATOSIS DE WEGENER
+
+Se trata de una vasculitis necrotizante granulomatosa, que a nivel de la nariz, cuya afectación es típica, se caracteriza por producir costras, úlceras en la mucosa, perforaciones, sinusitis crónica y la típica deformidad de la nariz “en silla de montar” por la necrosis de los tejidos blandos y del esqueleto cartilaginoso, con la consiguiente obstrucción nasal y rinorrea sanguinolenta. Los anticuerpos anticitoplasma de neutrófilo con patrón citoplasmático (c-ANCA) son positivos. El tratamiento es el propio de la enfermedad, con inmunosupresores como los corticoides y la ciclofosfamida. También se emplean el metotrexato o el trimetoprim sulfametoxazol, .
+
+
+-- ENFERMEDAD DE CHURG STRAUSS
+
+Es una vasculitis que asocia asma, sinusitis y eosinofilia superior al 10%. El tratamiento es el mismo que el descrito para la granulomatosis de Wegener.
+
+
+-- SARCOIDOSIS
+
+Es una enfermedad granulomatosa sistémica de etiología desconocida que afecta predominantemente a mujeres por debajo de los 40 años. Aunque la afectación es principalmente a nivel de los ganglios linfáticos, los pulmones, las articulaciones y la piel, en ocasiones los síntomas nasales, aunque menos frecuentes, pueden ser los primeros en aparecer. A nivel nasal se caracteriza por la aparición de nódulos submucosos que asemejan granulomas intramucosos, así como edema nasal y costras, con la consiguiente obstrucción nasal. Asocia un aumento de la ECA y su tratamiento son los corticoides sistémicos, .
+
+
+- RINOSINUSITIS
+
+La RS supone un problema importante de salud pública, con una gran afectación de la población (1 de cada 7 adultos en Estados Unidos), que repercute en la calidad de vida y que significa una pérdida considerable de actividad laboral, .
+Han surgido en los últimos años consensos de las distintas sociedades de ORL, alergia, inmunología y neumología tratando de unificar criterios tanto de diagnóstico como de tratamiento y valorando los trabajos científicos en los que se basan según la solidez de las pruebas científicas (recomendaciones tipo A, B, C o D), , , .
+Vamos a abordar un grupo de patologías heterogéneas entre las que distinguimos: RS aguda (RSA), RS crónica sin pólipos (RSCSP), RS crónica con pólipos (RSCCP) y RS alérgica eosinofílica fungica (RAEF).
+La RS es la inflamación de la mucosa que recubre las estructuras de la nariz y de los senos paranasales. La causa puede ser infecciosa o de etiología multifactorial. Dentro de las infecciosas deberemos distinguir las de afectación aguda, cuando la clínica sea inferior a 12 semanas, y la crónica, en el caso de que la clínica afecte durante más de 12 semanas.
+
+
+-- RINOSINUSITIS AGUDA
+
+Las RS víricas van a provenir de una infección respiratoria aguda o catarro común, si después de este proceso hay una reagudización de la sintomatología a los 5-7 días del inicio estaremos ante una RSA bacteriana. Es importante distinguir entre las RSA víricas y las bacterianas. La RSA bacteriana supone sólo un 0,5-2% de las víricas, la diferencia estriba en la mayor duración de los síntomas y la severidad de los mismos. Los gérmenes causales más frecuentes son: Streptococcus pneumoniae, Haemophilus influenzae y Moraxella catarrhalis en menor proporción están Staphilococcus aureus y anaerobios. Estos gérmenes al colonizar la mucosa producen un proceso inflamatorio que obstruye los ostiums de los senos impidiendo el drenaje de secreciones y el normal funcionamiento de las células ciliadas, con la consiguiente ectasia dentro de los senos y de las fosas nasales.
+Insuficiencia respiratoria nasal (IRN), rinorrea anterior o posterior (las secreciones se encuentran en la orofaringe) mucoide o purulenta, y algia facial o frontofacial son los síntomas característicos. Otros síntomas comunes son: hiposmia o anosmia, tos, fiebre, cacosmia, presión ocular y malestar general.
+El diagnóstico según la guía EPOS requiere de la presencia de dos o más de los síntomas mayores, uno de los cuales debe ser rinorrea o IRN (o bloqueo nasal) y uno de los siguientes síntomas: algia facial o alteración del olfato.
+En la exploración mediante rinoscopia anterior veremos una mucosa eritematosa y con dificultad se alcanzará a ver secreción mucoide o mucopurulenta en el suelo de la fosa o corriendo por el meato medio. Las pruebas radiológicas en esta fase no tienen valor porque la radiología (Rx) simple no es definitiva y la TC no es necesaria de entrada.
+Una vez diagnosticada la RSA debemos valorar su grado de afectación, y para ello aplicamos la escala visual analógica (EVA) preguntando al paciente que valore su malestar de 0 a 10, considerando de 0 a 3 como afectación leve, entre 3 y 7 moderada y de 7 a 10 severa.
+
+
+--- TRATAMIENTO
+
+En las afectaciones leves suele ser inferior a 5 días, el tratamiento sintomático con descongestionantes y analgésicos es suficiente; en la enfermedad moderada los síntomas duran más de 5 días, añadiremos corticoides intranasales; en casos severos no hay mejoría después de 14 días, añadiremos antibióticos en régimen adecuado para los gérmenes causales.
+
+
+--- CRITERIOS SOSPECHOSOS DE COMPLICACIÓN
+
+Si con el tratamiento adecuado el paciente no mejora y presenta fiebre elevada, cefalea intensa o afectación ocular (edema palpebral, defecto de la motilidad ocular) deberemos solicitar una prueba de imagen, de elección una TC de senos paranasales.
+Se distinguen dos tipos de complicaciones de la RSA: orbitarias e intracraneales. Dentro de las complicaciones orbitarias que son las más frecuentes, sobre todo en el niño, observamos de menor a mayor gravedad:1.Celulitis preseptal (no afecta más allá del septum orbitario).2.Celulitis orbitaria (inflamación difusa de los contenidos orbitarios sin absceso).3.Absceso superióstico (absceso entre el periostio de la órbita y el hueso).4.Absceso orbitario (puede ser extraconal o intraconal).5.Trombosis del seno cavernoso (ptosis, proptosis, diplopía y disminución de agudeza visual).
+Las complicaciones intracraneales son: absceso epidural (pus entre la duramadre y el hueso craneal, más frecuente en el área frontal), absceso subdural (entre la duramadre y la aracnoides), meningitis (afectación de aracnoides y piamadre), absceso cerebral y trombosis del seno cavernoso (por tromboflebitis retrógrada de la vena oftálmica).
+Estas complicaciones requieren la atención de un especialista y el ingreso hospitalario para realizar un tratamiento intravenoso y en algunas ocasiones drenaje quirúrgico.
+
+
+-- RINOSINUSITIS CRÓNICA
+
+Si con el tratamiento adecuado la sintomatología persiste más de 12 semanas estamos ante una RS crónica (RSC).
+El diagnóstico requiere de una derivación al especialista que someterá al paciente a una endoscopia nasal, exploración fundamental en el diagnóstico de las RSC, además se solicitará una TC de senos paranasales y una resonancia magnética (RM) dependiendo de los hallazgos de la endoscopia.
+
+
+-- RINOSINUSITIS CRÓNICA SIN PÓLIPOS
+
+Se trata de la afectación inflamatoria de uno o más senos consecuencia de la dificultad de drenaje de los senos por los diferentes ostium como consecuencia de una obstrucción mantenida. Puede tratarse de una patología infecciosa bacteriana o fúngica. La afectación bacteriana implica a los mismos gérmenes que la aguda pero se añaden en mayor proporción asociación polimicrobiana y anaerobios de la cavidad oral; se debe descartar la afectación dentaria como causa subyacente que produce unas afecciones sinusales de gran intensidad. La afectación fúngica tiene unas características radiológicas con depósitos cálcicos y puede haber destrucción ósea; ante su sospecha se debe investigar el estado inmunológico del paciente (diabetes mellitus, inmunodeficiencia adquirida, tratamientos inmunodepresores, etc.). Debemos hacer una distinción entre RSC y RSA recurrente (RSAR), que se caracteriza por 2 o 4 episodios de RSA al año con resolución completa de los síntomas entre los episodios. Esta entidad se debe tratar como episodios aislados de RSA, aunque es conveniente descartar una patología asociada: RA, fibrosis quística, síndromes de deficiencias inmunes, discinesia ciliar, anomalías anatómicas, etc.
+La clínica es obstrucción nasal, rinorrea anterior y/o posterior que puede producir halitosis y/o cacosmia, alteraciones de la olfacción y algias cefalofaciales.
+Podemos encontrar los mismos criterios de gravedad que en la RSA y las mismas complicaciones.
+A diferencia de la RSA el diagnóstico no se basa en criterios exclusivamente clínicos, en la RSC tenemos que hacer una endoscopia nasal y una prueba de imagen, la que mejor define las relaciones óseas es la TC.
+
+
+--- TRATAMIENTO
+
+Para la correcta valoración de la sintomatología del paciente y su tratamiento nos apoyaremos en la EVA.
+En la RSC leve (0–3) inicialmente trataremos con corticoides intranasales (ctci) y lavados con suero fisiológico. Si en 3 meses no hay mejoría, haremos un cultivo de una muestra y una terapia mantenida de macrólidos, si en otros 3 meses no hay mejoría se pide una TC.
+Ante una RSC moderada severa (> 3–10) de entrada trataremos con ctci, lavados con suero fisiológico y terapia mantenida de macrólidos. Si no se consigue una mejoría en 3 meses, la imagen de la TC se mantiene y la exploración endoscópica lo corrobora, se actuará quirúrgicamente mediante una cirugía endoscópica nasosinusal (CENS) para ampliar los ostiums de drenajes de los senos y permitir la correcta aireación de los mismos. En el acto quirúrgico se deben tomar muestras para cultivo microbiológico y para el estudio histológico en el caso de que se trate de una patología concomitante (tumores, granulomatosis, etc.).
+
+
+-- RINOSINUSITIS CRÓNICA CON PÓLIPOS
+
+Se define como un proceso inflamatorio crónico de la mucosa de las fosas nasales y los senos paranasales, de etiología desconocida, donde los eosinófilos desempeñan un papel importante, y que conduce a la formación de pólipos edematosos benignos desde los senos, fundamentalmente los etmoidales, hacia la cavidad nasal. La infección bacteriana no parece ser un factor etiológico de la poliposis nasal (PN). En el estudio histológico de los pólipos se ve la ausencia de elementos nerviosos y de tejido conjuntivo.
+
+
+--- ETIOPATOGENIA
+
+En la RSC y la PN existe una hipersecreción e hiperviscosidad del moco que dificulta el aclaramiento mucociliar junto a una inflamación de la mucosa y cambios histológicos que tienden hacia la cronicidad. El principal factor responsable de la formación del pólipo es la inflamación eosinofílica persistente de la mucosa nasosinusal . Hay también linfocitos T activados que segregan interleucina 5 (IL-5) que a su vez activa a los eosinófilos que cuando están activados liberan mediadores proinflamatorios vasoactivos y citotóxicos (proteína catiónica del eosinófilo [ECP] proteína básica principal [MBP] peroxidasa del eosinófilo [EPO], etc.).
+Staphylococcus aureus coloniza frecuentemente la mucosa nasal del meato medio de los pacientes con PN y libera superantígenos que interfieren con las células T y B locales. Un hallazgo característico es la síntesis local de IgE específica frente a enterotoxinas de Staphylococcus aureus.
+Los biofilms son organizaciones de bacterias que se aíslan del medio en el que viven reduciendo la posibilidad de fagocitosis por el sistema inmune. Estas bacterias son muy resistentes a los antibióticos. Cuando hay presencia de biofilms en la PN se correlaciona con formas más graves y con una peor evolución postoperatoria.
+Los síntomas más frecuentes en la PN son la obstrucción nasal, la alteración del olfato, la rinorrea anterior o posterior y el dolor o presión facial. El grado de alteración del olfato correlaciona bien con la gravedad de la RSCCP.
+El diagnóstico se hace mediante la endoscopia nasal y la visualización directa de los pólipos (fig. 4 ). En esta exploración se debe valorar la morfología de cornetes, septum, coanas y en especial el meato medio.Fig. 4
+La prueba de imagen de elección es la TC de senos paranasales con ventana ósea para valorar los senos ocupados y del complejo osteomeatal (fig. 5 ).Fig. 5
+En el diagnóstico diferencial es primordial diferenciar entre poliposis uni o bilateral. En el caso de poliposis unilateral hay que descartar siempre una neoformación tumoral mediante biopsia y pruebas de imagen TC y RM. En el diagnóstico diferencial de masas obstructivas unilaterales distinguiremos una serie de entidades recogidas en la tabla 1 .
+En las PN bilaterales podemos ayudarnos de exploraciones complementarias para valorar el grado de obstrucción nasal como la rinomanometría anterior activa, la rinometría acústica y el flujo inspiratorio nasal máximo. El óxido nítrico está disminuido en los pacientes con PN y nos puede servir como respuesta al tratamiento. La olfatometría nos servirá para valorar la gravedad y el pronóstico.
+
+
+--- TRATAMIENTO
+
+Para la correcta valoración de la sintomatología del paciente y su tratamiento nos apoyaremos en la EVA.
+En RSCCP leve (EVA < 3) trataremos con ctci en la dosis recomendada en el prospecto, si hay mejoría haremos revisiones cada 6 meses; si no hay mejoría pasaremos a tratarla como a la moderada-severa. En PN moderada (> 3–7) daremos una pauta corta de corticoides vía oral (vo) y ctci con una dosis doble de la indicada en el prospecto. Si se trata de síntomas severos (> 7 a 10) pauta de corticoides vo y ctci en una dosis doble de la indicada en el prospecto .
+La pauta de corticoides por vía oral sí se mantiene durante 2 semanas y si es inferior o igual a 50 mg/día de prednisolona no necesita una disminución progresiva.
+Otros medicamentos no corticoideos utilizados son los antileucotrienos (montelukast) que asociados al tratamiento corticoideo parece disminuir algunos síntomas clínicos como la cefalea, el dolor facial y los estornudos y el anticuerpo monoclonal contra la IgE, omalizumab. No hay pruebas suficientes que apoyen su uso generalizado pero parece que podría ser una opción terapéutica en pacientes con enfermedad severa, asma coexistente o que no respondan a otros tratamientos.
+
+
+--- ENFERMEDADES ASOCIADAS
+
+Alergia. Es controvertido el papel de la alergia en la PN. Si se encuentran pacientes alérgicos a neumoalérgenos estará indicado añadir antihistamínicos al tratamiento.
+Asma. En la PN encontramos pacientes con asma en un 45% de los casos según algunas series, . Los pacientes que asocian las dos patologías tienen una peor sensación de control de su enfermedad.
+Intolerancia a antiinflamatorios no esteroideos. Se denomina enfermedad respiratoria exacerbada por aspirina (EREA), es una RSC con PN (en un 80-90% de los casos), intolerancia cruzada a los AINE y asma. Widal la describió como tríada ASA, también llamada tríada de Samter. Esta asociación confiere un peor pronóstico a la PN. Se caracteriza por una intensa eosinofilia tisular y niveles elevados de proteína catiónica del esosinófilo (ECP).
+
+
+-- RINOSINUSITIS ALÉRGICA EOSINOFÍLICA FÚNGICA
+
+Se trata de un tipo de PN donde se observa una reacción alérgica a la mucina eosinofílica colonizada por hongos sin apreciarse invasión de la mucosa por los mismos.
+La clínica va a ser común a la de la RSCCP, obstrucción nasal, alteraciones del olfato y algias faciales, los PN son bilaterales o unilaterales. La exploración mediante la EN no permite distinguir una entidad de otra.
+El diagnóstico se basa en el hallazgo de hifas de los hongos en la mucina alérgica, IgE específica contra los hongos y características radiológicas como son calcificaciones en el interior de los senos y posibilidad de destrucción ósea.
+Son casos con peor evolución y mayor porcentaje de recidivas.
+En las Fig. 6, Fig. 7 se puede observar un esquema del diagnóstico y tratamiento de la PN.Fig. 6Fig. 7
+
+
+- POLIPOSIS NASAL INFANTIL
+
+La PN es excepcional antes de la pubertad, se estima una afectación de un 0,1% de la población. La causa más frecuente de PN en la infancia es la fibrosis quística que se asocia según las series entre un 20 y un 58 % de los casos. Hay otras enfermedades mucho más raras que pueden asociarse con PN: discinesia ciliar, síndrome de Mounier-Kuhn (PN, traqueobroncomegalia y bronquiectasias), síndrome de Kartagener (PN, situs inversus y bronquiectasias), síndrome de Young (PN y azoospermia) y síndrome de Woakes (PN que produce dehiscencia de los huesos faciales).
+El diagnóstico se hace mediante la endoscopia nasal y la TC, donde la imagen de desmineralización y medialización de la pared nasal colindante con el seno maxilar es muy característica de la afectación en la fibrosis quística.
+
+
+-- TRATAMIENTO
+
+La administración oral y tópica de corticoides es el tratamiento de primera línea. La dosis máxima recomendada en niños es de 1 mg/kg/día durante 5-7 días. Hay estudios que demuestran que la mometasona y la fluticasona tópica nasal no influyen en el crecimiento infantil, por lo que son de elección.

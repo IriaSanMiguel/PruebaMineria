@@ -1,0 +1,24 @@
+MUTACIONES, VARIANTES Y CEPAS DE SARS-COV-2
+
+
+Sr. Director:
+En ocasiones se utilizan de forma sinónima términos que tienen un significado epidemiológico diferente. Clado hace referencia a un grupo, en este caso de virus, que tienen un antepasado común. Mutación alude a un cambio en el material genético. Cuando se acumulan mutaciones de manera que aparecen diferencias genéticas hablamos respectivamente de cepas o de variantes, según induzcan o no cambios en el comportamiento viral. Aunque una única mutación puede dar origen a una cepa diferente, lo habitual es que en una cepa se acumulen diferentes mutaciones.
+Actualmente hay miles de variantes de SARS-CoV-2 circulando. La rapidez e intensidad de la propagación de algunas de ellas se explican, más que por sus diferencias genéticas, por los hábitos de la población y la eficacia de las políticas de vigilancia epidemiológica. Las limitaciones de viajes internacionales, aunque han dificultado la extensión mundial de algunas variantes, también han facilitado la aparición de variantes predominantes en cada país.
+En marzo de 2020 se prestó gran atención a la variante D614G, que además de presentar una rápida propagación mundial, parecía tener una mayor virulencia que las detectadas en el origen de la pandemia en China, .
+La variante 20A.EU1 (S: A222 V), predominante en la segunda ola de casos en Europa se detectó inicialmente en el mes de junio de 2020 en España y afectó especialmente a temporeros de Aragón y Cataluña. Actualmente representa casi el 90% de los casos que se analizan en España y en gran parte de Europa, especialmente en Escocia (66%), Gales (74%), Irlanda (51%) y Suiza (37%). Recientemente se ha aislado otro miembro del clado 20A (20A.EU2 [S: S477N]) con más incidencia en Francia, Europa Central y Escandinavia, , .
+Otra variante que generó inquietud por su capacidad de infectar a visones y a humanos fue S: Y453F. El riesgo de generarse un reservorio animal llevó a adoptar severas políticas de control de la transmisión animal, especialmente en Dinamarca y Países Bajos, pero también en España, .
+Actualmente hay gran preocupación por la aparición de una nueva cepa en Reino Unido que, a diferencia de las variantes anteriores, presenta una mayor infectividad (R = 4), dudas razonables sobre su mayor virulencia y algunas incertidumbres sobre la eficacia de las nuevas vacunas de ARN. Esta cepa, denominada VU1-202012/01 (clado 20B), acumula, al menos, 17 mutaciones diferentes, algunas de ellas de enorme importancia biológica, entre las que destacan tres que afectan a la proteína Spike, , , :
+N501Y. Esta mutación altera un aminoácido en los seis residuos claves del dominio de unión al receptor (RBD), confiriéndole una mayor afinidad por el receptor ACE2. Ha aparecido de manera independiente en Sudáfrica, Australia e Inglaterra.
+P681H está ubicada también en el RBD, junto al dominio de corte por furinas. Este dominio promueve la entrada en las células epiteliales respiratorias y se relaciona con una mayor infectividad y virulencia en ratones.
+Deleción de dos aminoácidos en la posición 69 y 70, que afecta a la eficacia de algunas pruebas PCR y se relaciona con la evasión de la respuesta inmune.
+Existe una cierta incertidumbre sobre si mutaciones que afecten a la proteína S pueden interferir con la utilidad de las nuevas vacunas de ARN. Dado que las vacunas provocan una respuesta inmune sobre toda la proteína S, no es de esperar que cambios aislados en la misma produzcan pérdidas significativas de efecto en la respuesta a la vacunación. Por otro lado, no siempre que una mutación aumenta la afinidad de la Spike por el receptor ACE2 supone una ventaja para el virus, pues en ocasiones se acompaña de mayor dificultad para escapar a la acción del sistema inmune.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

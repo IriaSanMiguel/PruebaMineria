@@ -1,0 +1,184 @@
+DIAGNÓSTICO MICROBIOLÓGICO DE LAS INFECCIONES GASTROINTESTINALES
+
+
+- INTRODUCCIÓN
+
+Las infecciones agudas del tracto gastrointestinal figuran entre las enfermedades infecciosas más frecuentes y sólo las infecciones del tracto respiratorio las superan. Aunque muchas veces se trata de un ligero contratiempo en los adultos sanos, un desequilibrio electrolítico puede producir una deshidratación en las personas muy enfermas, en niños y en ancianos. Mundialmente, las infecciones gastrointestinales son una de las causas más importantes de morbimortalidad entre los lactantes y los niños. Se ha estimado que en Asia, África y Latinoamérica la probabilidad de que un niño muera antes de los 5 años puede llegar al 50%; esto depende de factores socioeconómicos y nutricionales.
+
+
+- CONSIDERACIONES CLÍNICAS
+
+Las manifestaciones clínicas más destacadas de las gastroenteritis son fiebre, vómitos, dolor abdominal y diarrea moderada a intensa. La diarrea es un dato central y su presencia y su naturaleza son la base para la clasificación de las infecciones gastrointestinales en 2 síndromes: diarrea acuosa o secretora y diarrea invasiva o disentería. La diarrea acuosa o secretora es la forma más común de gastroenteritis y se caracteriza por evacuaciones intestinales frecuentes más o menos líquidas. Los mecanismos patogénicos que atacan el intestino delgado proximal (porción del intestino en la que se produce más del 90% de la absorción fisiológica de fluidos) producen la diarrea. La forma más pura de la diarrea acuosa o secretora es la que producen bacterias secretoras de enterotoxinas, como por ejemplo Vibrio cholerae o Escherichia coli enterotoxigénica. Por su parte, la diarrea invasiva o disentería comienza con evacuaciones intestinales frecuentes pero las heces son de menor volumen que en la diarrea acuosa o secretora y contienen sangre, moco y pus. La fiebre, el dolor abdominal y el tenesmo son síntomas habituales. Los microorganismos que causan diarrea invasiva o disentería pueden producir cambios inflamatorios y destructivos en la mucosa del colon por invasión directa o mediante la producción de citotoxinas. Este daño es causante del pus y de la sangre observados en las heces pero no origina una pérdida importante de fluidos debido a que la capacidad de absorción y de secreción del colon es mucho menor que la del intestino delgado.
+Ante la sospecha de un cuadro de gastroenteritis debe hacerse una detallada historia clínica y un correcto estudio microbiológico. Los antecedentes epidemiológicos (edad, historia reciente de viajes, fundamentalmente a países subtropicales y tropicales, aparición esporádica o como parte de un brote, tipo de alimento sospechoso y período de incubación), la existencia de factores predisponentes (inmunosupresión), la clínica (fiebre, dolor abdominal, náuseas y vómitos) y el tipo de diarrea (acuosa o invasiva) pueden orientar acerca del microorganismo implicado. No obstante, el diagnóstico definitivo sólo se puede obtener mediante pruebas de laboratorio.
+
+
+-- DIARREA DEL VIAJERO
+
+Las personas que viajan desde países desarrollados a otros en vías de desarrollo pueden experimentar una gastroenteritis durante el viaje o al regreso al país de origen. La ingestión de alimentos crudos o poco cocinados o bien de agua contaminada es la fuente más probable de infección. Entre los microorganismos causantes de diarrea del viajero cabe destacar los E. coli enterotoxigénicos y enteroagregativos.
+
+
+-- TOXIINFECCIÓN ALIMENTARIA
+
+En la mayoría de las infecciones gastrointestinales participan alimentos como vehículos de transmisión. Sin embargo, el término intoxicación alimentaria suele reservarse para los casos en los que puede incriminarse en su génesis a una sola comida. Esta situación se plantea de modo típico cuando se desarrollan al mismo tiempo múltiples casos de idéntico síndrome gastrointestinal entre personas que sólo tienen en común haber compartido una comida en alguna reunión social o en algún restaurante determinado.
+
+
+-- DIARREA RELACIONADA CON EL HOSPITAL
+
+El medio ambiente hospitalario no debe permitir la diseminación de los agentes habituales de infección intestinal endémica. Cuando se produce esta infección, puede atribuirse en general a un empleado que continúa trabajando mientras está enfermo o bien es portador sano, a comidas contaminadas preparadas en el propio hospital o bien fuera de él y que entran en éste a través de familiares o amigos del paciente. Los microorganismos de E. coli enteropatógenos en lactantes y la Clostridium difficile en pacientes con tratamiento antibiótico son los causantes de 2 casos especiales de diarrea asociada al hospital. La C. difficile es la causa más importante de diarrea nosocomial, por esto en algunos laboratorios se utiliza la regla de los 3 días que consiste en no realizar coprocultivo a pacientes en los que se desarrolla diarrea después de 3 días de haber ingresado al hospital. En este caso sólo se investiga la presencia de C. difficile toxigénico.
+
+
+- DIAGNÓSTICO MICROBIOLÓGICO DE LOS DIVERSOS MICROORGANISMOS CAUSANTES DE INFECCIÓN GASTROINTESTINAL
+
+Durante los últimos 20 años se han logrado grandes avances en el conocimiento de las infecciones gastrointestinales. La participación de los distintos microorganismos difiere de unas áreas geográficas a otras y también depende del grupo de población estudiado. En cuanto al predominio estacional, hay mayor incidencia de gastroenteritis vírica en otoño y en invierno, mientras que las bacterias afectan preferentemente en primavera y en verano. En países tropicales este comportamiento estacional también se observa con una mayor prevalencia de gastroenteritis por rotavirus en la época seca que en la época de lluvias.
+
+
+- BACTERIAS
+
+-- INLINE-FORMULA><MATH ID="M1" ALTIMG="SI1.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">ESCHERICHIA</MI></MROW></MROW><MSPACE WIDTH=".25EM"></MSPACE><MROW><MI MATHVARIANT="NORMAL">COLI</MI></MROW></MATH></INLINE-FORMULA><ITALIC>DIARREAGÉNICAS</ITALIC
+
+Actualmente se aceptan 5 grupos de E. coli como causantes de gastroenteritis: 1) E. coli enterotoxigénico; 2) E. coli enteropatógeno; 3) E. coli enterohemorrágico, también llamado verotoxigénico; 4) E. coli enteroinvasivo, y 5) E. coli enteroagregativo. El diagnóstico microbiológico de los procesos enterocolíticos causados por los diferentes grupos de E. coli diarreagénicos se complica debido al hecho de que esta especie es un componente fundamental de la microbiota intestinal del ser humano. El agar MacConkey se incorpora normalmente en los coprocultivos y se puede utilizar para el aislamiento de E. coli. Una vez identificado como E. coli se pueden detectar los diversos patotipos de E. coli diarreagénicos mediante la detección de los genes que codifican los diversos factores de virulencia. Sin embargo, la identificación de estos tipos de E.coli queda fuera de la práctica habitual de la mayoría de los laboratorios. El principal serotipo de E. coli enterohemorrágico es el O157:H7; este serotipo posee la peculiaridad de que fermenta el D-sorbitol por lo que se puede utilizar el agar MacConkey sorbitol para la identificación presuntiva de este serotipo. Una vez que las colonias no fermentadoras del sorbitol se identifican como E. coli, se procede a aglutinar con anticuerpos específicos para el serotipo O157. Además, hay diferentes protocolos para la detección habitual de E. coli enterohemorrágico.
+
+
+-- INLINE-FORMULA><MATH ID="M2" ALTIMG="SI2.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">SHIGELLA</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>SP</ITALIC
+
+Cuatro especies constituyen el género Shigella y varios serotipos constituyen cada especie: Shigella dysenteriae (serogrupo A, 13 serotipos), Shigella flexneri (serogrupo B, 6 serotipos), Shigella boydii (serogrupo C, 18 serotipos) y Shigella sonnei (serogrupo D, un serotipo). El examen de leucocitos en heces puede ser útil. Los cultivos deben realizarse con muestras de las partes fecales con moco, pus o sangre. Las heces se pueden inocular en medios de cultivo moderadamente selectivos, como el agar Hektoen o el agar xilosa-lisina-deoxicolato. Esta bacteria forma colonias verdes transparentes en agar Hektoen (no hay fermentación de la lactosa ni producción de ácido sulfhídrico) y colonias transparentes en agar XLD (no hay fermentación de xilosa ni modificación de la lisina). En tubos de agar triple azúcar hierro o agar Kligler, esta bacteria produce una superficie alcalina (no hay fermentación de la lactosa), un fondo ácido (fermentación de la glucosa) y no hay producción de gas ni de ácido sulfhídrico. Aunque se puede utilizar el agar Salmonella-Shigella (SS), éste no se recomienda debido al bajo rendimiento para aislar S. sonnei. La identificación bioquímica se complementa con la aglutinación mediante antisueros polivalentes.
+
+
+-- INLINE-FORMULA><MATH ID="M3" ALTIMG="SI3.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">SALMONELLA</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>SP</ITALIC
+
+Los serotipos de Salmonella causantes de enteritis varían según la localización geográfica; los más frecuentes en esta área son enteritidis y typhimurium. El diagnóstico etiológico sólo se puede efectuar con seguridad mediante coprocultivo. La utilización de medios líquidos de enriquecimiento, como el caldo de selenito, es fundamental cuando se trata de estudiar portadores asintomáticos, ya que en estos casos suele eliminarse sólo una baja concentración de salmonelas en heces. Sin embargo, en algunos laboratorios el caldo de selenito se ha reemplazado por el caldo de Rappaport debido a su toxicidad. El aislamiento se puede realizar en medios poco selectivos, como el agar MacConkey, o en medios de cultivo con selectividad media, como el agar SS, el agar Hektoen o el agar XLD. Todos los medios se incuban en aerobiosis a 37 °C. Los medios sólidos deben examinarse a las 24 h y el caldo de enriquecimiento se resiembra a las 24 h en uno de los medios sólidos mencionados anteriormente. La identificación bioquímica se complementa con la aglutinación mediante antisueros polivalentes.
+
+
+-- INLINE-FORMULA><MATH ID="M4" ALTIMG="SI4.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">CAMPYLOBACTER</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>SP</ITALIC
+
+Las especies enteropatógenas del género Campylobacter spp. son las siguientes: a) Campylobacter jejuni con 2 subespecies: jejuni, que es una causa mayor de gastroenteritis, y doylei; b) Campylobacter coli; c) Campylobacter laridis, y d) Campylobacter upsaliensis. El género se halla ampliamente distribuido en el tubo digestivo de diversos animales, en especial las aves. La infección en el hombre se encuentra diseminada en todos los países. Los medios de cultivo propios para el aislamiento de esta bacteria deben contener sangre o carbón a fin de eliminar los radicales tóxicos de oxígeno e incluyen, entre otros, los siguientes medios: medio de Butzler, medio de Skirrow y medio de Campy-BAP. En todos éstos se adicionan antibióticos para restringir el crecimiento de la microbiota intestinal. Los cultivos se deben incubar en una atmósfera microaerofílica y una temperatura de incubación de 42 °C. Asimismo, necesitan entre 48 y 72 h para crecer. La identificación preliminar de las cepas se basa en la tinción de Gram de las colonias crecidas en medios selectivos, en las que se observa la morfología sinusoide, y en la prueba de la oxidasa. Además, C. jejuni, la especie más frecuentemente aislada, es hipurato positiva, por lo que la realización de esta prueba permite diferenciar esta especie del resto.
+
+
+-- INLINE-FORMULA><MATH ID="M5" ALTIMG="SI5.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">YERSINIA</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>SP</ITALIC
+
+Yersinia enterocolitica crece en agar MacConkey y agar SS (en los que forma colonias transparentes), en agar entérico de Hektoen (las colonias son de color salmón porque fermenta la sacarosa) y en agar XLD (donde forma colonias amarillas por fermentar la xilosa). Al crecer más lentamente que el resto de las enterobacterias a 37 °C las colonias son muy pequeñas y pueden pasar desapercibidas. Para mejorar su recuperación se usan medios selectivos y diferenciales, como el agar (CIN) que incorpora cefsulodina, irgasan, novobiocina y manitol. Los métodos de enriquecimiento no son rentables para el diagnóstico de la diarrea, ya que no incrementan significativamente la recuperación de fenotipos patógenos de Y. enterocolitica. No todas las cepas aisladas poseen significación clínica, lo que hace recomendable estudiar marcadores epidemiológicos (serotipificación, biotipificación, fagotipificación) que ayuden a caracterizar el aislado. La serotipificación es sencilla y parece ser una buena marcadora de virulencia. En España hay un claro predominio del serogrupo O:3.
+
+
+-- BACILLUS CEREUS
+
+Crece entre 10 y 48 °C, de modo que si los alimentos contaminados se mantienen a temperatura ambiente se pueden multiplicar los microorganismos, lo que produce y libera 2 tipos de toxinas que ocasionan brotes de toxiinfección alimentaria. Debido a la levedad del cuadro y a que la detección de esta bacteria no se realiza habitualmente en pacientes con diarrea, la incidencia real puede ser superior a la incidencia estimada. El diagnóstico de certeza debe hacerse mediante la detección de toxina en los alimentos o en las heces.
+
+
+-- STAPHYLOCOCCUS AUREUS
+
+Suele producir brotes de toxiinfección alimentaria por mecanismo toxigénico. Las enterotoxinas que produce son termoestables y resistentes a las enzimas digestivas, se producen en los alimentos y se ingieren preformadas, por lo que aparecen de forma brusca vómitos y diarrea tras un período de incubación muy corto (entre una y 6 h). La etiología se confirma mediante la detección de enterotoxinas en los alimentos sospechosos. Como sucede con otras toxiinfecciones, su incidencia parece subestimarse debido al carácter leve y autolimitado del proceso y debido a la falta de confirmación microbiológica en la mayoría de los casos.
+
+
+-- CLOSTRIDIUM PERFRINGENS
+
+Produce sobre todo toxiinfecciones alimentarias que casi siempre se asocian a consumo de alimentos cárnicos almacenados inadecuadamente. C. perfringens tipo A produce una enterotoxina termolábil citotóxica que induce un cuadro leve y autolimitado de diarrea secretora con dolor abdominal. Para el diagnóstico se pueden realizar cultivos cuantitativos de heces y de muestras de los alimentos implicados. Se consideran positivos recuentos superiores a 106 unidades formadoras de colonias por g de alimento. No obstante, el método diagnóstico más seguro es la detección de enterotoxina en heces.
+
+
+-- INLINE-FORMULA><MATH ID="M6" ALTIMG="SI6.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">VIBRIO</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>SP</ITALIC
+
+La gastroenteritis causada por vibrios puede ser de tipo colérico o de tipo no colérico. V. cholerae (serogrupos 0:1 y 0:139) causa la forma epidémica de cólera, mientras que la forma no colérica se produce, principalmente, por otros serogrupos de V. cholerae, Vibrio parahaemolyticus, Vibrio hollisae y Vibrio fluvialis. En nuestro medio la investigación específica de V. cholerae se limita a los casos en que puede indicarse por motivos epidemiológicos (viajeros procedentes de zonas endémicas). Para el cultivo se utilizan simultáneamente enriquecimiento en agua de peptona alcalina durante 6 a 8 h a 37 °C o a 42 °C y medios sólidos: no selectivos, como el agar nutriente alcalino, y selectivos, como el agar tiosulfato, citrato, sales biliares y sacarosa. La identificación definitiva se completa mediante la realización de pruebas bioquímicas y de aglutinaciones que permiten establecer el biotipo y el serotipo. Además, conviene confirmar la toxigenicidad de la cepa, .
+
+
+-- INLINE-FORMULA><MATH ID="M7" ALTIMG="SI7.GIF" OVERFLOW="SCROLL"><MROW><MROW><MI MATHVARIANT="NORMAL">AEROMONAS</MI></MROW></MROW></MATH></INLINE-FORMULA><ITALIC>MESOFILAS</ITALIC
+
+Aunque se acepta la existencia de 23 especies, sólo 4 fenoespecies se aíslan con una frecuencia significativa a partir de heces: Aeromonas hydrophila, Aeromonas caviae, Aeromonas veronii biovar sobria y Aeromonas trota. En general, las Aeromonas crecen en los medios utilizados para el aislamiento de otros enteropatógenos (agar MacConkey y agar Hektoen) si bien su morfología coliforme y el carácter lactosa positivo de hasta un 30% de las cepas plantean una dificultad añadida para distinguirlas de otras bacterias aisladas en muestras fecales. Los medios selectivos más utilizados para el aislamiento de Aeromonas de heces son el agar sangre con ampicilina (10 μg/ml) y el agar CIN. La identificación bioquímica de las especies de Aeromonas es muy compleja y su enteropatogenicidad es aún controvertida. A efectos prácticos, puesto que no se puede asegurar que cualquier aislamiento de aeromonas obtenido de heces esté ligado a la producción de enfermedad, las cepas aisladas de heces deberían identificarse en la fenoespecie e informar su presencia y añadir un comentario adicional para indicar que estos microorganismos se han asociado a la producción de gastroenteritis, de modo que el médico pueda valorar el hallazgo microbiológico en función de la clínica que presente el paciente, .
+
+
+-- PLESIOMONAS SHIGELLOIDES
+
+No forma parte de la flora normal del hombre, por esto su aislamiento en heces de pacientes con diarrea, en ausencia de otro enteropatógeno, debería considerarse significativo e informar su probable responsabilidad en el proceso infeccioso. El P. shigelloides crece en la mayoría de los medios de cultivo poco selectivos utilizados para el aislamiento de enteropatógenos, como el agar MacConkey.
+Clostridium difficile
+Los procedimientos para el diagnóstico de enfermedad producida por C. difficile pueden dividirse en 3 categorías: a) pruebas para la detección de sus productos (glutamato deshidrogenasa, ácidos grasos volátiles y toxinas); b) pruebas para detección de sus genes (rRNA 16S, tcdA, tcdB), y c) cultivo para aislamiento de cepas toxigénicas. Los métodos más usados son los que detectan las toxinas a partir de heces diarreicas recientes mediante ensayos de citotoxicidad, cultivo toxigénico o enzimoinmunoanálisis (EIA). No se recomienda el análisis de heces sólidas ya que disminuye de modo importante la sensibilidad y, además, hay portadores sanos de C. difficile toxigénico. El procedimiento óptimo para realizar el diagnóstico de la infección por C. difficile es realizar simultáneamente la detección de toxinas en heces mediante EIA y cultivo. En los casos en los que el resultado de la detección de toxinas sea negativo y se aíslen colonias de C. difficile hay que realizar la determinación de la toxigenicidad de la cepa aislada mediante el test de citotoxicidad o mediante EIA. El cultivo y la investigación de la producción de toxina del aislado incrementan el resultado positivo de infección por C. difficile en torno a un 10%, lo que mejora la seguridad y la fiabilidad del diagnóstico.
+
+
+- VIRUS
+
+El diagnóstico de las infecciones víricas intestinales se basa en métodos directos que consisten en la detección en la muestra de heces del paciente de partículas víricas, antígenos o ácidos nucleicos del virus implicado en la etiología del cuadro de gastroenteritis. La causa más frecuente de gastroenteritis vírica es el rotavirus del grupo A, principal agente etiológico de gastroenteritis infantil. Otros virus productores de estas infecciones son los astrovirus, adenovirus entéricos, calicivirus (norovirus y sapovirus) además de otros agentes con una prevalencia menor o desconocida, como coronavirus, torovirus, picobirnavirus, kobuvirus (virus Aichi), bocavirus, etc.
+
+
+-- ROTAVIRUS
+
+El diagnóstico de las gastroenteritis por rotavirus se puede realizar por: a) detección de antígeno de rotavirus mediante EIA, inmunocromatografía (ICG) o aglutinación de partículas de látex, que en muchos casos presentan valores de sensibilidad y de especificidad superiores al 90%, y b) métodos moleculares basados en la detección de genes específicos mediante transcripción inversa seguida de PCR (reverse transcription and polymerase chain reaction, 'transcripción inversa y reacción en cadena de la polimerasa') convencional, . Esta técnica mejora la sensibilidad de los métodos inmunoenzimáticos, aunque no proporciona información cuantitativa. En los últimos años se han desarrollado instrumentos y técnicas de RT-PCR en tiempo real que detectan y cuantifican la concentración de virus en la muestra.
+
+
+-- NOROVIRUS
+
+Los norovirus son la causa más frecuente de brotes de gastroenteritis aguda, a menudo asociados al consumo de agua o alimentos contaminados. El diagnóstico se puede realizar mediante la detección de antígenos mediante EIA. Recientemente, se ha comercializado un método rápido consistente en un ensayo inmunocromatográfico de membrana. Sin embargo, el diagnóstico de las infecciones por norovirus se realiza principalmente por RT-PCR, que actualmente se considera el método de referencia, , , .
+
+
+-- ADENOVIRUS
+
+Los adenovirus entéricos pertenecen al subgrupo F (serotipos 40 y 41) y se asocian a casos de diarrea en niños (generalmente menores de 3 años), pacientes inmunodeprimidos y pacientes trasplantados de médula ósea. Habitualmente el diagnóstico se realiza por métodos de ICG, aglutinación de partículas de látex o EIA.
+Se puede realizar PCR (polymerase chain reaction 'reacción en cadena de la polimerasa’) con oligonucleótidos específicos.
+
+
+-- ASTROVIRUS
+
+Los astrovirus humanos, con 8 serotipos que han establecido la inmunomicroscopia electrónica, los ensayos de neutralización y los EIA tipoespecíficos, se consideran la segunda o la tercera causa de diarrea vírica en niños pequeños. Desde hace años se dispone de un EIA frente a antígenos conservados de la cápside vírica con una sensibilidad (91%) y una especificidad (98%) similares a las de la inmunomicroscopia electrónica. También se han desarrollado distintos métodos de RT-PCR para diagnosticar infecciones por astrovirus. Asimismo, para aumentar la sensibilidad de la RT-PCR se ha combinado el aislamiento en cultivo celular con la RT-PCR con buenos resultados.
+
+
+-- SAPOVIRUS
+
+Los sapovirus, género de la familia Caliciviridae, infectan a niños y a adultos y pueden producir brotes epidémicos de gastroenteritis. El prototipo de este género es el virus Sapporo. Hasta el momento no hay métodos inmunológicos para el diagnóstico de las infecciones por sapovirus, por lo que el diagnóstico debe realizarse por técnicas de RT-PCR con cebadores específicos de sapovirus o con cebadores comunes a norovirus y a sapovirus.
+
+
+- PARÁSITOS
+
+Las parasitosis intestinales son una causa frecuente de trastornos gastrointestinales. Tanto los protozoos (amebas, flagelados, ciliados, coccidios y microsporidios) como los helmintos (nematodos, cestodos y trematodos) pueden producir un cuadro infeccioso que afecte al tubo digestivo. La principal manifestación es el síndrome diarreico, que puede ir acompañado de fiebre, náuseas, vómitos, dolor abdominal y malabsorción intestinal. Fundamentalmente, su diagnóstico se realiza con la determinación de la presencia de protozoos y de larvas o de huevos de helmintos en las heces, . Para incrementar el rendimiento diagnóstico hay que utilizar técnicas de concentración de las heces y, en algunos casos, tinciones específicas.
+
+
+-- PROTOZOOS
+
+Son el grupo de parásitos más a menudo asociado a diarrea, incluidos amebas, flagelados, ciliados, coccidios y microsporidios.
+
+
+--- AMEBAS
+
+Entamoeba histolytica es el principal patógeno. El examen microscópico de trofozoitos y quistes sólo es positivo en un tercio de los casos. El método diagnóstico de referencia es el cultivo. Además, hay métodos diagnósticos comerciales que determinan antígenos específicos de E. histolytica. Morfológicamente es indistinguible de Entamoeba dispar que no es patógena. Otros métodos diagnósticos de E. histolytica son la PCR (que determina la subunidad pequeña de ácido ribonucleico ribosómico) y la serología (que es muy sensible [entre el 90 y el 100%] pero poco específica, ya que permanece positiva durante largo tiempo). Asimismo, hay otras amebas, que son parásitos comensales no patógenos, que deben diferenciarse microscópicamente de E. histolytica, como Entamoeba coli, Entamoeba hartmanni, Endolimax nana e Iodamoeba butschlii. El Blastocystis hominis es un protozoo anaerobio localizado en ciego e intestino grueso. Su patogenicidad es discutida, produce síntomas gastrointestinales (diarrea, dolor abdominal, náuseas y vómitos) y síntomas sistémicos (anorexia y malestar general).
+
+
+--- FLAGELADOS
+
+El principal representante de este grupo es Giardia lamblia. El diagnóstico se hace por demostración microscópica en heces y aspirado duodenal. Hay diferentes pruebas inmunológicas para su diagnóstico, como la determinación de antígenos en heces, con una sensibilidad y especificidad cercanas al 100%, la inmunocromatografía (ICT) y la inmunofluorescencia indirecta, que además son útiles para el cribado en población infantil y para confirmar la curación. También se incluyen en este grupo Dientamoeba fragilis, Chilomastix mesnili y Tricomonas hominis.
+
+
+--- CILIADOS
+
+Balantidium coli, único miembro de los ciliados que es patógeno para el ser humano, es el protozoo de mayor tamaño. Se identifica microscópicamente por su gran tamaño (60 μm).
+
+
+--- COCCIDIOS
+
+Fundamentalmente afectan a pacientes inmunodeprimidos y producen un cuadro de diarrea crónica y grave difícil de combatir. Isospora belli, ooquistes ovoides, Cryptosporidium parvum, su forma infecciosa es un ooquiste de pared gruesa (3–6 μm) que una vez ingerido por el hospedador, se exquista en el intestino delgado y libera 4 esporozoítos, y Cyclospora cayetanensis presenta esporoquistes esféricos (8–10 μm), resistentes a la cloración y que necesitan un periodo de maduración en el medio ambiente, para madurar sus esporas, y convertirse en infecciosos.
+La detección de los coccidios se realiza normalmente mediante la demostración microscópica de los ooquistes en un concentrado de heces y con la tinción de Kinyoun.
+
+
+--- MICROSPORIDIOS
+
+Son parásitos intracelulares obligados. Hay 6 especies que afectan al ser humano pero las más frecuentes son Enterocytozoon bieneusi y Encephalytozoon intestinalis. El diagnóstico es microscópico, lo que demuestra la presencia de las esporas (1 a 2,5 μm) en las heces con la tinción tricrómica de Weber que les da un color rosarojizo.
+
+
+-- HELMINTOS
+
+Hay 3 grupos de helmintos de importancia médica: nematodos (gusanos redondos), cestodos (gusanos en cinta) y trematodos (o duelas), . Las fases que normalmente se detectan con las técnicas de diagnóstico son los huevos y las larvas. El diagnóstico de algunos cestodos se basa en la observación de las proglótides o de los segmentos. No obstante, en la mayoría de las infecciones por gusanos, el diagnóstico se hace con la identificación microscoscópica de sus huevos o de sus larvas en las heces.
+
+
+--- NEMATODOS INTESTINALES
+
+Ascaris lumbricoides: sus huevos (50 a 60 μm) típicamente tienen una gruesa cubierta, mamelonada (si son maduros) y un color amarillomarronáceo. Enterobius vermicularis (Oxiurus): se diagnostica demostrando la presencia de huevos (50 a 60 μm) en área perianal mediante el test del celo o de cinta de Graham (se pega en los márgenes anales una tira de cinta transparente engomada, se retira la cinta, se coloca sobre un portaobjetos y se mira al microscopio a 400 aumentos); la presencia de huevos en las heces es rara. Strongyloides stercoralis: se determina mediante la demostración de larvas rabditiformes (200 a 300 μm) en heces. Trichuris trichuria: sus huevos (50 μm), con forma de barril o de limón, y sus tapones polares se encuentran en las heces del paciente o en los márgenes anales. Ancylostoma duodenale y Necator americanus (Uncinarias): también se diagnostican por la presencia de sus huevos ovalados (60 μm) en heces, indistinguibles entre las 2 especies.
+Anisakis: u diagnóstico se realiza por la historia de ingesta de pescado crudo y se confirma con la observación del gusano (2 a 2,5 cm) que se obtiene mediante gastroscopia, cirugía o en el vómito del paciente.
+
+
+--- NEMATODOS TISULARES
+
+Trichinella spiralis: se diagnostica observando las larvas enquistadas en biopsia muscular. Gnathostoma: se asocia a la historia de ingesta de pescado y se determina con el hallazgo del gusano adulto en el tubo digestivo.
+
+
+--- CESTODOS<XREF RID="BIB19" REF-TYPE="BIBR"><SUP>19</SUP></XREF
+
+Tenia solium y Tenia saginata: su diagnóstico se realiza mediante la presencia en heces de huevos o de proglótides del gusano adulto. Los huevos (35 a 45 μm) de ambas especies son indistinguibles y presentan estriaciones radiales y 3 pares de ganchos en su interior. También es posible diagnosticarlos en los márgenes anales mediante la cinta de Graham. Para diferenciar las 2 especies se utilizan las proglótides grávidas; T. solium presenta menor número de ramas uterinas (7 a 13) que T. saginata (15 a 20). Hymenolepis nana: sus huevos esféricos (30 a 50 μm) se encuentran en las heces, así como los de Hymenolepis diminuta que son de mayor tamaño (70 μm) y los de Diphylobotrium latum (70×50 μm).
+
+
+--- TREMATODOS
+
+Schistosoma mansoni, Schistosoma intercalatum y Schistosoma japonicum: la detección de trematodos se realiza mediante la presencia de sus huevos en heces. Los huevos de S. mansoni (140×60 μm) presentan una espícula lateral prominente, los huevos de S. intercalatum (175×60 μm) presentan una espícula terminal y los huevos de S. japonicum presentan una espícula lateral menos evidente y son de menor tamaño (80×60 μm). El diagnóstico de Schistosoma haematobium (150×60 μm) se hace en orina, ya que es muy poco frecuente ver huevos en heces, pero pueden encontrarse como un hallazgo casual.

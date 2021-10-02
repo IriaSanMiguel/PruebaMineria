@@ -1,0 +1,6 @@
+Estudios mayoritariamente en adultos han mostrado una asociación entre cantidad de sueño y obesidad.
+Determinar si existe una asociación entre la privación de sueño nocturno durante la semana y el fin de seman los hábitos alimentarios y la actividad física con el estado nutricional en escolares chilenos.
+Se evaluaron 1810 escolares de ambos sexos, pertenecientes a escuelas públicas de Santiago. El 49,9% de los escolares dormía menos de lo recomendado en la semana. Se observó una asociación en el modelo crudo (OR crudo 1,82; IC 95%: 1,29-2,56), el modelo 2 ajustado por bebidas cola (OR 1,83; IC 95%: 1,30-2,59) y el modelo 3 ajustado por consumo de cen bebidas col bebidas con cafeína y nicturia (OR 1,85; IC 95%: 1,30-2,62). Se observó que realizar ejercicios era un factor protector frente al sobrepeso y la obesidad; en cambio, presentar movimientos de piernas durante la noche era un factor de riesgo.
+Hay una asociación entre menos horas de sueño e incremento del riesgo de sobrepeso/obesidad en la muestra estudiada.
+Estudio transversal. En estudiantes de 6 a 11 años, se realizó la evaluación antropométrica; a sus padres se les aplicó la encuesta de sueño de Pittsburg para evaluar la calidad de sueño de su hijo y se consultó sobre hábitos alimentarios y actividad física.
+

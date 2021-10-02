@@ -1,0 +1,152 @@
+ESTUDIO MULTICÉNTRICO DE ADHERENCIA A GUÍAS DE PROFILAXIS QUIRÚRGICA Y SUS DETERMINANTES EN ARGENTINA
+
+
+Las infecciones del sitio quirúrgico (ISQ) se asocian a un aumento de los días de estadía hospitalaria, aumento de la morbimortalidad, incremento de los costos y reducción de la calidad de vida de los pacientes. Están entre las causas más frecuentes de infecciones asociadas a cuidados de la salud (IACS) . En la Región de las Américas, se estima que las ISQ son las IACS más costosas (3500 a 10 000 millones de dólares al año). Se le atribuyen 90 000 readmisiones por año, con un costo adicional de 700 millones de dólares. Aumentan la estadía hospitalaria en un promedio de 9,7 días, las visitas a los departamentos de emergencia y las readmisiones .
+Además, la carga de enfermedad es desproporcionadamente mayor en países de ingresos bajos en comparación con los de ingresos medianos y altos. Se describió una asociación entre la ISQ y mortalidad, con un incremento de tres veces (1,5% a 4,7%) entre pacientes con dicha complicación y pacientes sin ella .
+La morbimortalidad asociada a las ISQ merece especial atención. El uso inapropiado de los antibióticos favorece la aparición de resistencia y expone al paciente a la aparición de efectos adversos .
+“Utilizar de forma óptima los medicamentos antimicrobianos en la salud humana y animal” es uno de los objetivos estratégicos del Plan de Acción Mundial sobre la Resistencia a los Antimicrobianos de la Organización Mundial de la Salud (OMS) .
+Diversos estudios demuestran que la profilaxis quirúrgica adecuada, asociada a otras medidas, es una práctica costo-efectiva que reduce en forma significativa las ISQ. No obstante, su indicación inadecuada genera una cantidad considerable de errores médicos evitables . Por otra parte, el cumplimiento adecuado de la profilaxis quirúrgica es un indicador de calidad de la OMS.
+Numerosas publicaciones mostraron alta prevalencia de estos errores, sobre todo la indicación de un antibiótico inadecuado, duración inapropiada, administración en tiempo incorrecto, ausencia de refuerzo de dosis en cirugías prolongadas o falta de prescripción en los casos en que está indicada . Estos errores se asocian a la aparición de resistencia antibiótica, empeoran el pronóstico quirúrgico y favorecen la aparición de infecciones por Clostidium difficile .
+Se ha observado que la adecuación a las guías puede reducir la tasa de ISQ por debajo de 0,5% en heridas limpias, menos de 1% en heridas limpias contaminadas y menos de 2% en heridas contaminadas .
+La profilaxis antibiótica quirúrgica está estandarizada tanto en guías nacionales como internacionales; sin embargo, en ocasiones su implementación se torna compleja .
+Diversas publicaciones internacionales describen un porcentaje variable de adecuación de la profilaxis antibiótica quirúrgica, que oscila entre 73,5% (con una reducción significativa en la incidencia de ISQ en este grupo), 70,7% en un estudio en el que la profilaxis era controlada por farmacéuticos, hasta tan solo 2,7% en cesáreas. Asimismo, los motivos de inadecuación fueron diversos .
+Con respecto a las experiencias en nuestro país, un estudio de prevalencia realizado en la década de 90 mostró 40,2% de prescripciones inapropiadas en las profilaxis quirúrgicas .
+En el contexto del Programa de profilaxis antibiótica prequirúrgica del Gobierno de la Ciudad de Buenos Aires del año 2002, dicha profilaxis fue inadecuada en 53,8% de los procedimientos evaluados. Se excluyó 6,5% de los procedimientos por datos incompletos, y el motivo más frecuente de inadecuación fue el tiempo prolongado de administración del antibiótico .
+El Proyecto IRIQ, realizado en Argentina en el año 2002, evaluó el tipo de error en las profilaxis en 11 010 cirugías limpias y limpiocontaminadas. Se encontró al menos un tipo de error en 43,6% de los casos; los errores más frecuentes fueron la administración del antibiótico luego de iniciada la cirugía, seguidos de la duración prolongada en el período posoperatorio .
+Según el Proyecto VALIDAR, realizado en Argentina en el año 2004, 70,4% de los antibióticos se utilizaron para profilaxis quirúrgica, con 47,1% de indicaciones inadecuadas .
+El uso optimizado de antimicrobianos es uno de los tres pilares de todo programa integrado para fortalecer los sistemas de salud, junto con las medidas de prevención y control de infecciones y seguridad del paciente .
+La evidencia actual demuestra que la implementación efectiva de programas para la optimización del uso de antimicrobianos (PROA) permite reducir de manera costo-efectiva el consumo de estos agentes en el ámbito hospitalario, ya que aumenta la seguridad de los pacientes, minimiza el uso inapropiado y reduce el nivel de resistencia y los costos asociados. La profilaxis antibiótica quirúrgica adecuada a las guías clínicas es uno de los componentes esenciales e indicadores fundamentales monitorizados en los PROA .
+No conocemos hasta la fecha estudios multicéntricos en Argentina para determinar la prevalencia de adherencia a las guías de profilaxis quirúrgica y sus determinantes.
+Los objetivos del presente estudio fueron describir el grado de adherencia a las guías de profilaxis quirúrgica en las instituciones de salud de la República Argentina y las formas de falta de adherencia, y analizar los factores determinantes de la falta de adherencia según características de la institución, la persona a cargo de la profilaxis y el procedimiento quirúrgico.
+
+
+- MATERIALES Y MÉTODOS
+
+Se realizó un estudio multicéntrico, observacional, retrospectivo, descriptivo y analítico, de corte transversal entre setiembre y diciembre de 2018 en 35 centros del país. Se realizó una convocatoria a participar a través del sitio web de la Sociedad Argentina de Infectología. A cada centro que aceptó participar, se le asignó un período de tiempo de 7 días anterior a su ingreso al estudio, en el cual debían revisar todos los partes de los procedimientos quirúrgicos incluidos en el listado de la National Health Surveillance Network modificado ad hoc.
+Se excluyeron los procedimientos realizados en individuos con inmunosupresión grave, individuos que se encontraban recibiendo tratamiento antibiótico por una infección en curso, individuos que al momento del procedimiento llevaban más de 48 horas de internación, individuos con sospecha o confirmación de colonización por microorganismos resistentes y aquellos partes quirúrgicos que no presentaran datos completos relacionados con la profilaxis.
+La unidad de análisis fue cada procedimiento quirúrgico. En la revisión de cada parte quirúrgico se determinó la adherencia a las guías aplicadas en la institución según antibiótico utilizado, momento de la administración, vía de administración, dosis, duración de la profilaxis, uso de refuerzo intraoperatorio e indicación correcta. Además, se registraron el sexo y experiencia del anestesista que realizaba la profilaxis, edad del paciente, especialidad quirúrgica, tipo de procedimiento, tipo de intervención según la urgencia y duración de la cirugía.
+Se recolectaron datos de cada institución sobre la región geográfica y provincia de pertenencia, tipo de dependencia, población objetivo, número de camas disponibles, aplicación de un PROA, reporte al Programa Nacional de Vigilancia de Infecciones Hospitalarias de Argentina (VIHDA) y tipo de guías utilizadas.
+Se solicitó a cada centro que informara la cantidad de procedimientos que fueron excluidos por no contar con datos completos sobre la profilaxis. Se ingresaron todos los datos en un formulario en línea diseñado ad hoc y se consolidaron en una base de datos centralizada para su revisión, corrección y análisis posterior.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se describieron las variables numéricas con medias, medianas, desviación estándar (DE) y rango intercuartílico (RIC); y las variables categóricas con valores absolutos y proporciones. Se determinó la prevalencia de profilaxis adecuada y la distribución porcentual de las formas de falta de adherencia. Se comparó el nivel de adherencia según características de la institución, edad del paciente, especialidad quirúrgica, tipo de procedimiento según urgencia, duración del procedimiento, reporte al programa VIHDA, sexo y experiencia del anestesista, con prueba de chi cuadrado o prueba T de Student, según correspondiera. Todas las pruebas se realizaron con un nivel de significación de 0,05.
+Se ajustó un modelo de regresión logística con la falta de adherencia como variable de resultado y, como variables regresoras, aquellas que habían sido significativas en el análisis bivariado u otras que, a criterio del investigador, fueran importantes para la adherencia. Todos los análisis se realizaron con el software STATA 12.0®.
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Esta investigación se llevó a cabo en concordancia con los principios éticos emanados de las normas regulatorias de la investigación en salud humana a nivel nacional e internacional, la resolución del Ministerio de Salud y Acción Social de la Nación Argentina, y la Declaración de Helsinki de la Asociación Médica Mundial y todas sus enmiendas. El proyecto contó con la aprobación de los comités de ética y de docencia de cada institución participante. En todos los casos se respetaron las buenas prácticas clínicas de la Conferencia de Armonización Internacional (ICH E6) y la confidencialidad de los datos.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS DE LOS CENTROS PARTICIPANTES
+
+Como se observa en el cuadro 1, participaron 35 instituciones de todo el país con la siguiente distribución geográfica: 10 (28,6%) de la provincia de Buenos Aires, 10 de la Ciudad Autónoma de Buenos Aires (CABA) (28,6%), 4 (11,4%) de Córdoba, 2 (5,7%) de cada una de las siguientes provincias: Corrientes, Entre Ríos, Mendoza y San Luis y 1 (2,9%) de Río Negro, Salta y San Juan. Veintiséis instituciones (74,3%) pertenecían a la Región Pampeana, 5 (14,3%) a Cuyo, 2 al Nordeste (5,7%), una al Noroeste y una a la Patagonia (2,9% cada una).
+Diecisiete (48,6%) instituciones eran públicas, 14 (40%) privadas, 3 (8,6%) de obra social y 1 (2,9%) de comunidad.
+Veintiocho (80%) instituciones atendían población general, 3 (8,6%) patologías específicas (8,6%), 2 atendían población maternoinfantil, y 2 atendían población pediátrica (5,7% cada una). La mediana de camas disponibles en las instituciones fue de 112 (RIC: 77-167).
+Todas contaban con comité de control de infecciones, 54,3% había reportado al Programa VIHDA al menos en el último año y 74,3% contaba con un PROA. Más de 80% de las instituciones aplicaban guías nacionales o propias.
+
+
+-- CARACTERÍSTICAS DE LOS PROCEDIMIENTOS
+
+Como se muestra en el cuadro 2, se revisaron 1 083 procedimientos quirúrgicos, luego de excluir 327 partes por no contar con datos completos sobre la profilaxis. De los procedimientos analizados, 692 (63,9%) se realizaron en CABA y en la provincia de Buenos Aires.
+Seiscientos sesenta y ocho procedimientos (61,7%) fueron en instituciones privadas y el 31,4% en hospitales públicos. Un 87,9% de los procedimientos correspondió a hospitales generales y el 51,4% a instituciones que reportan al programa VIHDA. El 79,5% de las intervenciones se realizó en instituciones que cuenta con un PROA.
+Del total de los procedimientos, 92,1% de los procedimientos fue realizado en adultos. De los anestesistas a cargo de la profilaxis, 680 (62,8%) fueron mujeres y, en su gran mayoría (94,1%), habían finalizado su etapa de formación en la especialidad.
+Con respecto a los procedimientos, en 79,9% de los casos, la cirugía fue programada. La mediana de duración de las intervenciones fue de 60 minutos (RIC: 45-110).
+Las especialidades quirúrgicas más frecuentes fueron cirugía general (30,1%), traumatología y ortopedia (20,3%), obstetricia (12,1%), ginecología (10,5%), urología (7,8%), cirugía plástica (5,1%), cirugía cardiovascular (4,5%) y neurocirugía (4,2%).
+Los tipos de procedimientos más frecuentes fueron las cesáreas (12,4%), traumatológicos con prótesis y sin prótesis (10,3% y 8%, respectivamente), urológicas (7,9%), colecistectomía laparoscópica electiva con riesgo (6,7%) y apendicectomía y cierre de colostomía (5,4%).
+
+
+-- GRADO DE ADHERENCIA Y FORMAS DE NO ADHERENCIA
+
+Se observó adherencia a las guías utilizadas en 67% de los procedimientos.
+En relación con las formas de la falta de adherencia a las guías, en 81% de los procedimientos se reportó una sola causa y, en el 19%, más de una.
+La administración de un antibiótico incorrecto fue la causa más frecuente (28,9%), seguida por la administración de profilaxis cuando no estaba indicada (25,5%), la prolongación de la profilaxis por más de 24 horas (24,4%), el momento incorrecto de administración incorrecto (18,2%), la no administración de profilaxis cuando estaba indicada (12%), la dosis incorrecta (11,2%), la falta de dosis intraoperatoria cuando estaba indicada (2%) o la vía incorrecta de administración (0,3%) . No se observaron diferencias significativas entre las formas de falta de adherencia y el sexo del anestesista.
+
+
+-- DETERMINANTES DE LA ADHERENCIA
+
+En el cuadro 3 se muestran los resultados del análisis bivariado. Se observó una mayor adherencia a las guías cuando el paciente era menor de 18 años (84,9% vs. 65,5%, P < 0,001). Ni el sexo ni la experiencia del anestesista fueron determinantes del grado de adherencia.
+Se observó mayor adherencia en las instituciones de las provincias de Corrientes (94,3%), San Luis (93,8%), Entre Ríos (89%) y San Juan (84,6%), mientras que las provincias con menor adherencia fueron Mendoza (42,7%), Río Negro (57,1%), Salta (66,5%) y Buenos Aires (62,9%) (P < 0,001).
+La adherencia fue menor y estadísticamente significativa cuando la institución dependía de una obra social y aumentaba cuando la institución era privada, pública o de comunidad (33,3%, 64,4%, 78,8% y 83,3%, respectivamente; P < 0,001).
+Se observó una diferencia estadísticamente significativa en la adherencia según la población diana de la institución: fue muy alta en las instituciones de salud maternoinfantil y pediátrica, y menor en las destinadas a patologías específicas y población general (97,9%, 97,2%, 89,4% y 63,2%, respectivamente; P < 0,001).
+La adherencia fue mayor en las instituciones que reportaron al VIHDA al menos en el último año (72,5% frente a 61,2%, P < 0,001). La aplicación de PROA en la institución no fue significativa en el análisis bivariado.
+No se observaron diferencias en la adherencia según la cantidad de camas de la institución.
+Como también se observa en el cuadro 3, en relación con el procedimiento, ni la urgencia ni la duración de la cirugía mostraron diferencias significativas en el análisis bivariado.
+Las mayores adherencias se observaron en los procedimientos de neurocirugía (91,1%), obstetricia (82,4%) y cirugía cardiovascular (72,9%), y las menores en los de otorrinolaringología (47,8%), oftalmología (50%) y urología (56%) (P < 0,001).
+El análisis ajustado por múltiples variables mostró mayor probabilidad de adherencia en las instituciones para población maternoinfantil o de patologías específicas con respecto a aquellas que atienden a la población general (OR: 10,52; IC95: 1,30-85,12) cuando la institución tenía dependencia pública, privada o de comunidad (OR: 9,35; IC95: 3,85-22,70). La edad del paciente era menor de 18 años (OR: 4,97; IC95: 1,13-21,80)cuando el procedimiento era de cirugía vascular, neurocirugía u obstetricia en comparación con otorrinolaringología, oftalmología o urología (OR: 2,73; IC95:, 1,55-4,78) y cuando el procedimiento quirúrgico era de urgencia (OR: 2,18; IC95: 1,11-4,26).
+Como muestra en el cuadro 4, la probabilidad de adherencia fue mayor en las instituciones que aplicaban un PROA (OR: 1,95; IC95: 1,10-3,45).
+
+
+- DISCUSIÓN
+
+Según los programas para la optimización del uso de antimicrobianos en instituciones de salud en países de medianos y bajos ingresos de la OMS, la adaptación e implementación de guías de profilaxis antibiótica quirúrgica que indiquen la elección del antibiótico, dosis y duración, deberían asegurar su indicación correcta. Estas guías son fáciles de implementar, ya que hay pocas controversias sobre su recomendación, aunque requiere coordinación y colaboración de varias disciplinas en la institución de salud .
+Los estudios de prevalencia de adherencia a guías de profilaxis antibiótica quirúrgica realizados en otros países muestran una amplia variabilidad en sus resultados. Nuestro estudio mostró una adherencia de 67%, superior a la reportada en estudios previos realizados en nuestro país (52,9% en el estudio VALIDAR y 56,4% en el proyecto IRIQ) .
+Es probable que el mayor grado de adherencia observado en nuestro estudio se deba a la exclusión de los procedimientos quirúrgicos con datos incompletos. Por otra parte, el hecho de que todos los centros participantes contaran con un comité o programa de control de infecciones, que más de la mitad de las instituciones aplicaran un PROA y que la convocatoria para participar haya partido desde la Sociedad Argentina de Infectología, podría suponer una mayor adherencia a las normas en dichas instituciones.
+En nuestro estudio, la falta de adherencia se debió a más de un motivo en 20% de los casos. Las tres causas más frecuentes fueron la indicación de un antibiótico incorrecto (29%), el uso innecesario de antibióticos (25,5%) y la prolongación de la profilaxis por más de 24 horas (24,4%).
+La variabilidad de formas de no adherencia es muy amplia entre las diferentes publicaciones. Un estudio de Tourmousoglou y col. (2008) describió resultados similares, con un mayor porcentaje de falta de adherencia por uso innecesario de un antibiótico (63,7%) y elección inadecuada de este (30%) .
+En otros estudios, como el de So y col. (2015), la profilaxis prolongada fue la forma principal de no adherencia .
+En nuestro estudio, la prevalencia de adherencia en la población menor de 18 años fue de 84,9%, casi 20% mayor que en los adultos (65,5%). Otros estudios como el de Khoshbin y col. también observaron una tasa elevada de profilaxis quirúrgica adecuada en la población pediátrica (73,5%) .
+El hecho de que las guías de profilaxis quirúrgicas en niños sean de complejidad similar a las utilizadas en adultos sugiere un mayor cuidado de quien indica la profilaxis cuando se trata de un niño.
+Es probable que la mayor adherencia a las guías de profilaxis quirúrgica en la población pediátrica se deba a un mayor cuidado de quien la indica cuando se trata de un niño.
+La adherencia en instituciones maternoinfantiles y de patologías específicas fue mucho mayor (97,9% y 89,4%, respectivamente) que en instituciones para la población general (63,2%). Podríamos suponer que al existir una menor variabilidad en los tipos de procedimientos quirúrgicos que se realizan en instituciones monovalentes y, por consiguiente, en el tipo de antibiótico indicado, el margen de error sea menor.
+Las mayores adherencias se observaron en los procedimientos de neurocirugía (91,1%), obstetricia (82,4%) y cirugía cardiovascular (72,9%). Una explicación plausible es que las especialidades quirúrgicas que realizan procedimientos más complejos, con mayor riesgo de vida inmediato o de secuelas graves, como en las mencionadas, podrían asociarse con un mayor cuidado en la profilaxis. Lo mismo podría suceder con los procedimientos de urgencia que mostraron mayor adherencia (OR: 2,18).
+En nuestro estudio, y en concordancia con las recomendaciones de la OMS, la probabilidad de adherencia a las guías aumentó en las instituciones que aplican un PROA (OR: 1,95). Se presentan resultados similares en otras publicaciones. Una revisión sistemática de Pano Pardo observó un aumento de la adherencia de 46% a 58% con la implementación de un PROA en las instituciones .
+Una de las limitaciones de este estudio podría ser que la adherencia a las guías en las instituciones participantes sea mayor a la real porque todas contaban con especialista en infectología o comité de control de infecciones.
+
+
+- CONCLUSIONES
+
+Nuestro estudio mostró una prevalencia de 67% de profilaxis quirúrgica adecuada y las formas más frecuentes de no adherencia fueron antibiótico incorrecto, uso innecesario y duración prolongada. Cabe destacar la frecuencia baja de otros errores como la ausencia de refuerzo intraoperatorio.
+Los principales determinantes de la adherencia fueron una menor edad del paciente, la aplicación de un PROA en la institución, la dependencia privada o pública de la misma, y la población diana maternoinfantil o de patologías específicas. La probabilidad de adherencia también fue mayor en los procedimientos de urgencia y en algunas especialidades quirúrgicas (cardiovascular, neurocirugía y obstetricia).
+Según nuestro conocimiento, este es el primer estudio multicéntrico realizado en Argentina para medir la prevalencia y los determinantes de adherencia a las guías de profilaxis quirúrgica, y como tal puede ser el punto de partida para reflexionar sobre las propias prácticas, reconocer las deficiencias y aprovechar las oportunidades de mejora.
+Nuestros resultados sugieren la necesidad de reforzar en especial estas medidas en pacientes adultos, procedimientos programados, instituciones de internación general y en algunas especialidades.
+Asimismo, recomendamos firmemente la aplicación de un programa de gestión de antimicrobianos para optimizar la eficacia de la prescripción, y minimizar costos ecológicos y económicos.
+
+
+- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.
+
+
+- COLABORACIONES
+
+Centros e Investigadores participantes
+“Grupo multicéntrico para el estudio de “Adherencia a las guías de profilaxis quirúrgica en Argentina”
+AMEBPBA: Alejandro Garcés Fernandez; Lic. Pedro Montero Ithurralde
+Clínica Privada Hispano Argentina: Maria Lucía Vazquez Pianzola; Daniela Mignes
+Clínica Zabala: María Celia Cuesta; Andrea Duarte; Lic Anabella LIcata Caruso
+FLENI: María Julieta Rodríguez Rivera; Marcelo Del Castillo
+HIEMI: Guadalupe Loizaga; Azqueta Virginia; Farias Silvia; Ilari Laura
+Hospital Aeronáutico Central: Edith Carbone; Paula Nadal
+Hospital Aeronáutico Córdoba: Valeria Stardella; Anchiraico Galarza Lucy, Kaneshiro Vanesa
+Hospital Carlos Francisco Macía Mar de Ajó: Viviana Novarese; Boschi Analía; Balladares Jimena; Farias Natalia
+Hospital El Carmen Osep: Silvia Camuzzi; Valeria Arreghini
+Hospital Escuela JF de San Martín: Silvina Lezcano; Sosa Lucrecia; Capara Laura
+Hospital Florencio Díaz: María Ximena Álvarez; Caro Waldo
+Hospital Infantil Municipal: María Soledad Alvarez
+Hospital Italiano de Buenos Aires: Corina Nemirowsky, Astrid Smud; María Sol Burokas; Marisa Sanchez; María Inés Staneloni; Lady Soto Tascón; Emilia Villibar;Harold Silva; María Julia Alarcón; Vanina Stanek
+Hospital Luis Lagomaggiore: Silvia Atorri; Elena Quiroga; Damián Alvarado
+Hospital Marcial Quiroga: Rosa Contreras; Vanesa Sanchez (ECI); Antonia Nievas (ECI)
+Hospital Maternoinfantil de Tigre: Gladys Ferrucci; Carla Palombo (ECI)
+Hospital Nacional de Clìnicas: Rosana Trucchia; Carlos Quinteros Grecco
+Hospital Raul F. Larcade: María Mastruzzo; Marcela Acevedo
+Hospital San Juan de Dios: Natalia Fantoni; Ana Melisa Solari
+Hospital San Martin Entre Ríos: María Eugenia Oliva; Diego Franco; Pablo Ríos; Flavia González; Patricia Fletes Silva
+Hospital Zatti: Marta Aparicio;Fanny Gualpa
+Hospital Zubizarreta: Silvia Lemos; Della Bianca Gabriela; Agugliaro Hugo; Gejlichen Yael
+IMAC: María Paula Herrera; Juan Pablo Zorrilla; César Guillermo Lemir
+Instituto de Cardiología de Corrientes Juana F Cabral: María del Carmen Bangher; Edit Martinez; Santoro Margarita; Freschi, Pablo
+Instituto de Diagnóstico: Yanina Nuccetelli; Hugo Videla; Juan Manuel Fernández Castillo; Silvia Natal
+Instituto Quirúrgico Del Callao: Sylvia Errea; Lic Maria de los Angeles Baigorria
+Maternidad Dra. Teresita Baigorria: Silvia Forciniti; Silvina Medina; Marina Coila Blasco; Rachide Medawar.
+Policlínico Regional Juan D. Perón: Alejandra Cuello; Paola Pascual; María Carolina Melo; Carina Chirino; Gilda Suarez Barboza, Karina Cabral, María Cristina Arias
+Sanatorio Adventista del Plata: Haroldo Rojas; Grethel Samojluk; Gabriela Bernhardt; Gabriela Zurita
+Sanatorio Argentino: Yanina Nuccetelli; María Laura Yantono; María Marta Greco; Eduardo Fortunato; Lorena Dolche y Sebastián Scala
+Sanatorio Guemes: María Teresa Verón; Noma Bonafine; Veronica Lacal Rdilenir; Mercedes Galarza; Laura Sabater
+Sanatorio Modelo de Caseros: Elida Pallone; Karina Arnedo; Viviana Leguizamón
+Sanatorio Trinidad Mitre: Silvia Clara Kogan; Romina Musante; Verónica Latini
+Trinidad San Isidro: Rocío Tempelsman; Cecilia Niccodemi; Mercedes Monserrat

@@ -1,0 +1,5 @@
+. A partir de la Encuesta Nacional de Consumo de Drogas, Alcohol y Tabaco 2016 (n=7 331), se analizó la escala de dependencia física a la nicotina de Fagerström (FTND) y la escala corta de dependencia psicológica al tabaco (TAPDSc). Se realizaron análisis bivariados y regresiones logísticas ordinales generalizadas para evaluar los factores asociados.
+82.3% de fumadores diarios y 98.8% de ocasionales reportaron dependencia física leve, mientras que 47.9 y 37.9%, respectivamente, presentaron dependencia psicológica moderada. La edad de inicio temprana de consumo de tabaco, uso de drogas, consumo alto de alcohol y malestar emocional se asociaron con niveles altos de dependencia psicológica en todos los fumadores.
+El uso exclusivo de FNTD no permite evaluar adecuadamente a los fumadores mexicanos. La dependencia física y psicológica al tabaco debe ser diagnosticada con escalas independientes y validadas en esta población.
+Evaluar la dependencia física y psicológica de los fumadores mexicanos y su asociación con factores físicos, psicológicos y sociales.
+

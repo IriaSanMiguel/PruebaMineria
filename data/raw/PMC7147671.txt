@@ -1,0 +1,289 @@
+INFECCIONES NEONATALES (II)<SUP
+
+
+- INFECCIONES VÍRICAS
+
+Durante el primer trimestre del embarazo, las infecciones víricas congénitas son responsables de embriopatías que causan a menudo la muerte del feto. En el segundo y el tercer trimestre, las fetopatías muestran una expresión clínica variable que va desde la infección asintomática cuyas consecuencias pueden manifestarse varios años después, hasta un cuadro sindrómico grave.
+
+
+-- HERPES
+
+--- EPIDEMIOLOGÍA
+
+La frecuencia de las infecciones herpéticas neonatales oscila en el mundo entre 1/7 500 y 1/100 000 nacidos vivos; en los Estados Unidos, la prevalencia se ha multiplicado por 10 en 18 años. Los causantes son los virus de tipo herpes simple, el HSV1 y, sobre todo, el HSV2. Las lesiones fetales son 10 veces más frecuentes durante una primoinfección por HSV2 (75 %) que en los casos de recurrencia (2–5 %). La presencia de HSV2 en el cuello uterino explica que la contaminación sea generalmente perinatal; el contagio prenatal es poco frecuente. La contaminación posnatal se observa sobre todo con el HSV1 a partir de la madre o del entorno . La mejoría del pronóstico con el tratamiento antivírico depende de un diagnóstico precoz.
+
+
+--- ESTUDIO CLÍNICO
+
+En el niño, los primeros signos clínicos aparecen entre 6 y 14 días después del contagio , , por lo que los neonatos son asintomáticos al nacer.
+Se describen tres grandes formas clínicas , , , :
+Las formas clínicas poco frecuentes son engañosas: fiebre aislada, neumopatía primaria, lesión ocular aislada, infecciones sistémicas de aspecto bacteriano, deterioro clínico en un prematuro en incubadora, etc.
+Las formas localizadas suelen evolucionar favorablemente; más del 50 % de los casos curan, con secuelas o sin ellas.
+El pronóstico depende de la localización, de la precocidad del tratamiento y de los niveles de anticuerpos de origen materno. El 55 % de los neonatos cuya madre ha padecido una primoinfección herpética y el 76 % de aquellos cuya madre padece una recurrencia tienen niveles elevados, superiores a 1/40 .
+
+
+--- DIAGNÓSTICO
+
+En el 70 % de los casos no se observa ningún signo materno en el momento del parto. Si se identifica o se sospecha una infección materna, en particular una primoinfección, se empieza a administrar un tratamiento antivírico (aciclovir) hasta disponer del resultado de los cultivos víricos. El diagnóstico se basa en la detección del virus por la reacción en cadena de la polimerasa (PCR) específica en la sangre y, sobre todo, en el líquido cefalorraquídeo (LCR), en el que es positiva en el 93 % de las formas sistémicas, en el 36 % de las formas neurológicas y en el 24 % , de las formas localizadas. Pueden orientar la búsqueda unas cifras elevadas de interferón alfa en el LCR, indicador inespecífico de replicación vírica.
+El examen del frotis de una lesión externa (pus, boca, conjuntiva) puede evidenciar anomalías celulares sospechosas: células multinucleadas gigantes e inclusiones intranucleares. La inmunfluorescencia en placa, realizada en un espécimen obtenido tras el colapso y la aspiración de una vesícula, permite obtener el diagnóstico en 12 horas. Éste se confirma 5 días después en cultivos celulares.
+La serología es poco útil debido a la elevación tardía de los anticuerpos, que además es inhibida por el tratamiento.
+
+
+--- TRATAMIENTO <XREF RID="BIB0450" REF-TYPE="BIBR"><SUP>[90</SUP></XREF><SUP>,</SUP><XREF RID="BIB0500" REF-TYPE="BIBR"><SUP>100</SUP></XREF><SUP>,</SUP><XREF RID="BIB0515" REF-TYPE="BIBR"><SUP>103]</SUP></XREF
+
+El tratamiento preventivo busca reducir el riesgo de contagio y, por lo tanto, cuando se diagnostica una infección herpética materna, debe pensarse en practicar una cesárea antes de la rotura de las memrranas, ya que una rotura de más de 6–12 horas de duración aumenta el riesgo de infección fetal. La cesárea sólo parece indicada en las primoinfecciones, y su eficacia preventiva no es absoluta (entre un 5 y un 10 % de fracasos). Se ha propuesto el tratamiento de la madre con aciclovir; pero sus indicaciones todavía no se han definido, y no se recomienda su administración sistemática a las madres con infección herpética al final del embarazo; aun así, no parece tóxico para el feto. La prevención de las infecciones posnatales se basa en la información de las familias .
+Ya no se utiliza la vidarabina, por lo que el tratamiento curativo consiste en la administración de aciclovir por vía intravenosa en dosis de 60 mg/kg/d, más eficaz que 30 mg/kg/d. La duración mínima del tratamiento es de 14 días y su eficacia se controla mediante la PCR en el LCR. Si ésta es negativa el tratamiento se suspende, y se continúa si es positiva, aunque ningún esquema posológico ha validado una duratión óptima. En el curso de una primoinfección, se empieza a administrar una farmacoterapia probabilística al neonato, a la espera de las muestras virológicas. En caso de recurrencia, cuando el estudio clínico y de laboratorio ofrece resultados negativos, se les proporciona a los padres una ficha de información; por lo general se recomienda la abstención terapéutica.
+En los pacientes tratados, la evolución de las lesiones localizadas periféricas y del sistema nervioso central es mejor que la de las formas diseminadas. Con la dosis de 60 mg/kg/d se logra una reducción de la mortalidad del 61 al 30 % en las formas sistémicas y del 14 al 4 % en las neurológicas. A medio plazo, se reducen las secuelas del 50 al 17 %.
+
+
+-- CITOMEGALOVIRUS (CMV
+
+--- EPIDEMIOLOGÍA Y FISIOPATOLOGIA <XREF RID="BIB0025" REF-TYPE="BIBR"><SUP>[5</SUP></XREF><SUP>,</SUP><XREF RID="BIB0080" REF-TYPE="BIBR"><SUP>16</SUP></XREF><SUP>,</SUP><XREF RID="BIB0085" REF-TYPE="BIBR"><SUP>17</SUP></XREF><SUP>,</SUP><XREF RID="BIB0090" REF-TYPE="BIBR"><SUP>18</SUP></XREF><SUP>,</SUP><XREF RID="BIB0345" REF-TYPE="BIBR"><SUP>69</SUP></XREF><SUP>,</SUP><XREF RID="BIB0435" REF-TYPE="BIBR"><SUP>87]</SUP></XREF
+
+La infección por CMV es la más frecuente de las infecciones víricas del neonato, con una incidencia comprendida entre el 0,5 y el 2,7 %. El riesgo de contagio fetal es más elevado (entre el 31 y el 45 %) en las primoinfecciones durante el embarazo que en las recurrencias (0,5 a 3 %). Cuando la seroprevalencia del CMV es elevada, el contagio durante una recurrencia es más frecuente que durante una primoinfección. En estos casos, la madre tiene anticuerpos de tipo inmunoglobulinas (Ig) G, pero la infección del feto se acompaña de anticuerpos específicos IgM en el nacimiento. Se piensa que las reactivaciones del virus latente y la transmisión al feto se deben a una depresión transitoria de la inmunidad celular frente al CMV durante el embarazo.
+El contagio intrauterino se efectúa por vía transplacentaria, como lo demuestra la identificación del virus en el líquido amniótico y la sangre fetal , , así como en la orina, desde el primer día de vida , .
+
+
+--- CLÍNICA <XREF RID="BIB0080" REF-TYPE="BIBR"><SUP>[16</SUP></XREF><SUP>,</SUP><XREF RID="BIB0345" REF-TYPE="BIBR"><SUP>69]</SUP></XREF
+
+Casi el 90 % de los neonatos son asintomáticos. La enfermedad congénita generalizada es poco frecuente; afecta aproximadamente al 10 % de los neonatos contaminados y se observa sobre todo antes de las 27 semanas. Se trata generalmente de neonatos hipotróficos o prematuros. Desde el nacimiento se presenta un cuadro de infección grave con ictericia, púrpura, hepatosplenomegalia, disnea (infirtrados intersticiales) o trastornos neurológicos (convulsiones, hipotonía, microcefalia). Puede acompañarse de calcificaciones periventriculares, proteinorraquia elevada y coriorretinitis. En ausencia de tratamiento, la evolución de las formas generalizadas suele ser rápida y fatal. Si el paciente sobrevive, estas formas graves se complican con secuelas neurológicas o sensoriales: microcefalia, hidrocefalia, retraso mental, anomalías oculares, sordera.
+Las formas paucisintomáticas son más frecuentes: hepatitis, púrpura trombocitopénica, manifestaciones neurosensoriales de aparición a menudo tardía.
+Una hernia inguinal bilateral es frecuente (26 %). Las infecciones asintomáticas en el nacimiento se acompañan también del riesgo de secuelas neurológicas o sensoriales. El riesgo de sordera, que puede manifestarse tardíamente, es más elevado en los niños en los que la viruria desaparece antes de los 4 años que en los que lo hace después de esta edad (43 % frente a 17 %). En las dos terceras partes de los casos es de aparición progresiva , , .
+El diagnóstico prenatal se orienta por el descubrimiento de anomalías fetales sospechosas (lesiones cerebrales, hipotrofia fetal): identificación del CMV en el líquido amniótico, detección de anticuerpos específicos IgM y del virus en la sangre fetal , . El diagnóstico posnatal se basa en el aislamiento del virus en la orina y/o en la nasofaringe ; la lesión vírica se confirma con la búsqueda de la antigenemia y/o con la PCR.
+Recientemente se ha propuesto un tratamiento específico con ganciclovir , , . Todavía no se han codificado sus indicaciones en el neonato, pero son fundamentalmente la coriorretinitis, la hepatitis y la neumopatía.
+Las pautas posológicas están en fase de validación.
+En la actualidad se está evaluando una pauta basada en una dosis de 6 mg/kg dos veces al día durante 6 semanas, con vigilancia de las cifras de leucocitos y plaquetas. Es frecuente que la viruria recidive. En caso de recaída sintomática (cf coriorretinitis) es preciso reanudar el tratamiento.
+
+
+-- HEPATITIS B
+
+El riesgo de que un recién nacido contraiga una hepatitis B depende del grado cie infección de la madre. Es casi constante si la madre tiene antígenos HBs y HBe positivos en el tercer trimestre del embarazo o si es portadora crónica del antígeno HBs en ausencia de tratamiento preventivo. El riesgo es menor si la madre es portadora crónica del antígeno HBs y no presenta el antígeno HBe. Cuando la madre no presenta antígenos HBs y posee anticuerpos anti-HBs, no existe riesgo para el neonato.
+El contagio es fundamentalmente perinatal, lo que permite la eficacia del tratamiento posnatal inmediato. Las consecuencias de la transmisión del virus de la hepatitis B de la madre al hijo son variables: una infección subclínica reflejada en una antigenemia transitoria seguida de títulos elevados de anticuerpos, o una hepatitis común, pocas veces grave y, en casos excepcionales, crónica y acompañada de cirrosis. Al no existir tratamiento curativo, deben aplicarse rigurosamente las medidas de prevención si la madre es portadora de antígenos HBs. Se inyectan al neonato Ig específicas en las primeras 48 horas; la dosis recomendada es de 0,2 a 0,5 ml/kg (200 UI/ml) , . Ésta se completa con la primera dosis, 1 ml, de vacuna específica (una suspensión inactivada del antígeno HBs producido sobre la línea celular CHO, purificado; o un antígeno de superficie recombinante de la hepatitis B [AgHBs]) en el primero, segundo y doceavo mes , .
+Es indispensable una vigilancia serológica específica en las embarazadas de riesgo. Esta precaución atañe no tanto al personal médico y paramédico, cuya cobertura vacunal se acerca al 100 %, como a las madres emigrantes del África negra o del Sudeste asiático, las toxicómanas, las prostitutas y las mujeres con hepatitis crónica.
+
+
+-- VIRUS DE LA INMUNODEFICIENCIA HUMANA (VIH) Y EMBARAZO
+
+En el neonato, el síndrome de inmunodeficiencia adquirida (sida) es consecuencia del contagio transplacentario por una madre portadora del virus al final del embarazo , . Pese a la utilidad de un tratamiento perinatal específico, lamentablemente, la serología del VIH no es obligatoria durante el embarazo. Si no se instaura un tratamiento, el riesgo de contagio fetal es del 20 %. El riesgo se reduce al 7 % si se administra una monoterapia con azidotimidina (AZT) durante el período prenatal, el perinatal y durante las 6 primeras semanas de vida , , y desciende al 1 % si se acompaña de una cesárea antes de que se inicie el parto , .
+El pronóstico de los neonatos contaminados sigue siendo grave. Están en curso ensayos clínicos de bi- o triterapia perinatal y posnatal, pero estos tratamientos exigen una vigilancia neurológica específica debido al riesgo de toxicidad mitocondrial.
+El seguimiento serológico combina el ensayo de inmunosorbencia ligado a enzima (Elisa) y la inmunotransferencia (Western blot) que se repite en el nacimiento y entre 6 y 8 semanas después .
+En la actualidad, la infección por el VIH secundaria a una transfusión de sangre contaminada es excepcional, pero las pruebas para detectarla forman parte del estudio postransfusional.
+
+
+-- RUBÉOLA
+
+Se previene mediante una vacunación que sólo es plenamente eficaz si se administra una dosis de recuerdo a los 11 años. En la embriofetopatía rubeólica se combinan la hipotrofia, la microcefalia, las cataratas, la cardiopatía y la sordera . En 1997, se notificaron en Francia 78 primoinfecciones y 6 infecciones cutáneas en mujeres embarazadas. De estas 84 mujeres, 7 dieron a luz a 8 niños con rubéola congénita, es decir, una incidencia de 1,1/100 000 nacimientos.
+De estas mujeres, el 49 % eran multíparas . La responsabilidad del pediatra podría verse comprometida si a las madres primíparas seronegativas no se les prescribe tras el parto una vacunación que puede realizarse durante el puerperio.
+
+
+-- OTROS VIRUS
+
+En casos excepcionales, el virus varicela-zoster es responsable de una fetopatía con lesiones cutáneas, acompañadas a menudo de hipoplasia de las extremidades , . La viremia materna en los días que anteceden o suceden al parto da origen a una varicela neonatal grave en un plazo de 10 a 21 días. Cursa con lesiones cutáneas y un cuadro pulmonar de evolución grave en ausencia de tratamiento (aciclovir). El período de mayor riesgo va desde los 3 días anteriores a la erupción hasta los 2 días posteriores a ella, cuando la madre, virémica, todavía no ha empezado a secretar anticuerpos. El contagio durante el tercer trimestre del embarazo (exceptuando el período inmediatamente anterior al parto) no suele tener expresión clínica durante el primer mes de vida; sin embargo, puede complicarse con un zoster en los dos primeros años.
+
+
+-- PARVOVIRUS B19
+
+Puede causar anemia fetal aguda, anasarca o peritonitis meconial; es factible el diagnóstico prenalal , 
+
+
+-- SARAMPIÓN
+
+Es excepcional. Puede causar malformaciones. La infección placentaria complica la infección al final del embarazo, y aparece un exantema neonatal en los 10 primeros días de vida .
+
+
+-- PAROTIDITIS
+
+Su curso es benigno durante el embarazo. La aparición de paperas o de meningitis es excepcional en el recién nacido. Se ha señalado a esta infección como causante de fibroelastosis endocárdica .
+Muchos otros virus pueden causar lesiones cuya manifestación es prenatal, posnatal o de ambos tipos: coxsackie (miocarditis, pericarditis, meningitis), adenovirus (hepatitis), virus de Epstein Barr, etc.
+
+
+-- INFECCIONES VÍRICAS POSNATALES
+
+Los virus son los responsables más frecuentes de infecciones posnatales primarias de aparición tardía. Las más comunes son las infecciones pulmonares , , (virus respiratorio sincitial) y digestivas (rotavirus) , .
+Las infecciones por enterovirus, y en particular las meningitis, para cuyo diagnóstico se ha desarrollado recientemente una PCR específica, representan entre el 0,5 y el 1 % de los ingresos hospitalarios. Cursan con fiebre, generalmente poco elevada, y signos neurológicos moderados (irritabilidad, letargia, rechazo del biberón, etc.), erupción, ictericia y trastornos hemodinámicos periféricos. Las modificaciones del LCR se caracterizan por pleocitosis de predominio linfocítico, junto a concentraciones normales de albúmina y glucosa. El síndrome inflamatorio suele ser poco importante, pero pueden medirse cifras de proteína C reactiva (CRP) superiores a 80 mg/1, mientras la procalcitonina permanece negativa. Durante el primer mes de vida, los datos clínicos y de laboratorio exigen descartar una infección herpética. La enfermedad suele manifestarse después de los 15 días de vida, pero pueden darse formas tempranas (durante la primera semana) , .
+
+
+- PRINCIPALES LOCALIZACIONES DE LAS INFECCIONES
+
+-- MENINGITIS BACTERIANAS
+
+--- EPIDEMIOLOGÍA
+
+La frecuencia de las meningitis es de 0,2–0,3 ‰ nacidos vivos. Cuando son tempranas, durante la primera semana de vida, pueden representar la complicación de una infección sistémica, confirmada o no por el hemocultivo; las meningitis tardías son a menudo aisladas. La ausencia de anticuerpos de origen materno (estreptococo B y probablemente Escherichia coli) y la positividad del hemocultivo son factores de riesgo de lesiones meníngeas.
+
+
+--- BACTERIOLOGIA <ITALIC>(</ITALIC><XREF RID="TBL0005" REF-TYPE="TABLE">CUADRO I</XREF><ITALIC>)</ITALIC
+
+En las meningitis bacterianas precoces, los microorganismos más frecuentes son los estreptococos del grupo B (en particular los estreptococos B III), en una proporción del 74 % de los casos frente al 12,5 % de Escherichia coli. Por el contrario, en las meningitis bacterianas tardías, Escherichia coli es 1,5 veces más frecuente que los estreptococos del grupo B (49,5 % frente a 33,6 %). En las formas tardías, es posible hallar neumococos y Haemophilus (primeros microorganismos responsables de meningitis bacterianas en el lactante), pero el 8 % de los casos se deben a Listeria.
+
+
+--- CLÍNICA
+
+Las manifestaciones neurológicas (trastornos del comportamiento, de la conciencia, del tono muscular y/o convulsiones) son inconstantes; cuando están presentes, debe investigarse sistemáticamente una posible afectación meníngea. La fiebre es más frecuente en las meningitis que en las formas sistémicas. La exploratión revela los trastornos del tono y, en ocasiones, un abombamiento de la fontanela. Los demás signos no son específicos de la afectación meníngea y reflejan una eventual infección sistémica acompañante. Aun así, en el 37 % de los casos no se aprecia ningún signo sospechoso de afectación meníngea.
+
+
+--- PRUEBAS DE LABORATORIO
+
+El diagnóstico se basa en las modificaciones del LCR: albuminorraquia superior a 1,30 g/1, relación glucorraquia/glucemia inferior al 40 % y, sobre todo, pleocitosis superior a 30/mm3. El examen directo con tinción de Gram puede ser sospechoso, pero sólo es positivo cuando la concentración de micro-organismos es superior o igual a 100 000/ml. La detección de antígenos bacterianos en el LCR ofrece una orientación etiológica inmediata, pero inconstante: estreptococo B, Escherichia coli K1. En las formas tardías se investiga también la presencia de antígenos de Haemophilus B y cie los neumococos en el LCR y en la orina. Un LCR con parámetros iniciales normales no permite descartar una afectación meníngea, que sólo es posible confirmar o descartar mediante cultivos y en ausencia de una antibioticoterapia previa. El estudio microbiológico se completa con un hemocultivo que es positivo en el 64 % de las meningitis por Escherichia coli . Por el contrario, se constata una afectación meníngea en el 30 % de los hemocultivos positivos.
+Sigue siendo objeto de controversia la práctica sistemática de una punción lumbar ante la sospecha de una infección maternofetal. La punción lumbar es poco discutible en las formas sistémicas o en las que cursan acompañadas de signos inflamatorios importantes, pero podría posponerse en las formas conpocos o ningún síntoma, en las cuales el problema principal reside en saber si está indicada o no la antibioticoterapia. Cuando la afectación meníngea queda sin diagnosticar, se administran dosis demasiado bajas y durante un tiempo demasiado corto, lo que expone al riesgo de recaída. Si las condiciones hemodmamicas o respiratorias son inestables, es preciso posponer el tratamiento antibiótico entre 24 y 48 horas, y son entonces las alteraciones de la citología del LCR las que permiten emitir el diagnóstico. En las formas tardías, reveladas generalmente por fiebre o signos sistémicos, la punción lumbar forma parte del estudio diagnóstico initial , . Las alteraciones de los parámetros hemttológicos y bioquímicos del suero son las propias de las infecciones maternofetales; cifras de CRP superiores o iguales a 80 mg/1 son sospechosas de meningitis, aunque inespecíficas. En el análisis del LCR puede investigarse la presencia de ácido desoxirribonucleico (ADN) bacteriano «universal» mediante una técnica de PCR actualmente en fase de evaluación.
+
+
+--- PRONÓSTICO
+
+Ha mejorado gracias a los avances en la antibioticoterapia y a la detección precoz. Las complicaciones iniciales son frecuentes sobre todo los abscesos cerebrales (20 %), las ventriculitis y los accidentes isquemicohemorrágicos.
+Los abscesos representan una localización parenquimatosa contemporánea de la afectación meníngea en el curso de la bacteriemia inicial; los accidentes vasculares probablemente consecuencia de una arteritis bacteriana, causan convulsiones. Se sospecha una ventriculitis ante la persistencia de microorganismos en el LCR o de hipoglucorraquia; la ecografía transfontanelar muestra un «afelpamiento» del suelo de los ventrículos y, en algunos casos, depósitos hiperecógenos intraventriculares y una hidrocefalia precoz , . La tomografía axial computada y, aún mejor, la resonancia magnética (RM) permiten apreciar el estado del parénquima cerebral y revelan lesiones periencefálicas (derrames, empiemas subdurales) que en la ecografía se visualizan mal o no aparecen . La mottalidad sigue siendo alta (entre el 30 y el 50 %). Las secuelas neurológicas motoras, sensoriales, intelectuales o epilépticas muestran una frecuencia variable que se correlaciona con la concentración inicial de microorganismos en el LCR y, por consiguiente, con el retraso en el daiagnóstico , , 
+La administración precoz de una fluoroquinolona (ciprofloxacino) reduce la frecuencia de complicaciones inmediatas y de fallecimientos, y mejora el pronóstico a mediano plazo, con una evolución hacia la curación en el 92,8 % de los casos, frente al 57,8 % en el grupo sin tratamiento .
+El tratamiento se basa en la asociación de un betalactámico y de un aminoglucósido, el primero en dosis doble. La concentración del aminoglucósido, inyectado por vía intravenosa, en el LCR es suficiente para generar un efecto sinérgico y bactericida, y permite evitar un posible efecto inóculo que reduce la actividad de los betalactámicos in vivo. La inyección intraventricular del aminoglucósido agrava el pronóstico de las meningitis por enterobacterias. Puede asociarse una quinolona (ciprofloxacino) por vía intravenosa (al margen de la autorización de comercialización) en los primeros días del tratamiento, a razón de 10 mg/kg dos veces cada 24 horas durante la primera semana y 10 mg/kg tres veces cada 24 horas en los días sucesivos. El riesgo de recidiva, que debe distinguirse de las recaídas, existe con todos los microorganismos pero es más frecuente en el caso de las enterobacterias. Por ello está indicado un tratamiento prolongado, de 15 días para el estreptococo del grupo B y de 21 días para las enterobacterias.
+
+
+-- MENINGITIS VÍRICAS
+
+Son más frecuentes que las meningitis bacterianas. Se manifiestan a veces por una pleocitosis importante, pero sin modificación de la albuminorraquia ni de la glucorraquia. Suelen deberse a enterovirus. Cursan con aumento de la concentración de interferón en el LCR, que permanece normal en la sangre. En el caso de los virus herpes y los enterovirus , , es posible un diagnóstico rápido mediante una técnica específica de PCR utilizable en el LCR.
+
+
+-- NEUMOPATÍAS
+
+Las neumopatías congénitas son secundarias a un contagio transplacentario o, más a menudo, a una contaminación pulmonar directa por el líquido amniótico infectado , . Suelen ser de pronóstico grave y se diagnostican a veces en nacidos murrtos. En realidad, la localización pulmonar de las infecciones maternofetales (estreptococo, Escherichia coli) es frecuente y representa ya sea una lesión focal de una infección sistémica, o bien una lesión localizada y única cuyo diagnóstico radiológico y de laboratorio es a menudo difícil. Los microorganismos implicados son los propios de las infecciones maternofetales, aun cuando se discute el papel patógeno de los micoplasmas (Ureaplasma urealyticum y Mycoplasma hominis). Estos pueden causar en el neonato una neumopatía precoz que se sospecha por cursar con una leucocitosis elevada.
+Las neumopatías perinatales se deben a la colonización y ulterior multiplicación de un microorganismo patógeno procedente de la flora vaginal, en particular de Chlamydia trachomatis, también pueden deberse a otros patógenos (CMV, micoplasmas).
+Las neumopatías posnatales primarias son bacterianas (neumococo y Haemophilus) y sobre todo víricas (adenovirus y, con mayor frecuencia, virus respiratorio sincitial).
+Las neumopatías bacterianas nosocomiales se observan sobre todo en neonatos sometidos a ventilación. Las malformaciones sub-yacentes pueden sobreinfectarse, en particular por estafilococos dorados o klebsielas, y complicarse con lesiones extensas del tipo de abscesos.
+Las infecciones pulmonares se manifiestan clínicamente por un cuadro de disnea con polipnea y signos de lucha. La auscultación suele ser normal. Los signos radiológicos, a veces sospechosos (opacidades micro y macronodulares en ambos campos), suelen ser inespecíficos, e incluso engañosos (imágenes de retraso de la reabsorción, de inhalación o de enfermedad de las membranas hialinas). En el neonato intubado es fácil obtener la confirmación bacteriológica mediante la toma «protegida» de un espécimen traqueal. En el neonato en ventilación espontánea, esta técnica permite analizar la flora faringotraqueal. El recuento de microorganismos basta para emitir el diagnóstico etiológico cuando revela una flora monomorfa en concentración elevada (≥ 105/ml) y asociada a numerosos leucocitos.
+La mayoría de las infecciones respiratorias evolucionan favorablemente, pero algunas se complican con una hipoxia rebelcle al tratamiento asociada a una hipertensión arterial pulmonar (estreptococo B). Los avances en la ventilación (en particular la oscilación a alta frecuencia y el empleo del monóxido de nitrógeno [NO]) han mejorado mucho el pronóstico.
+
+
+-- INFECCIONES INTESTINALES
+
+Suelen ser víricas y de evolutión benigna.
+
+
+--- DIARREAS VÍRICAS
+
+El agente causal más frecuente es el rotavirus , , pero también pueden deberse a otros virus (adenovirus, astrovirus y parvovirus). Estas diarreas son extrahospitalarias, aparecen en forma de epidemias durante el invierno y la primavera, o son nosocomiales . La diarrea suele ser poco importante, acuosa, sin moco ni sangre, y viene acompañada a veces de vómitos.
+Las técnicas enzimológicas por inmunofluorescencia (rotavirus, adenovirus) permiten un diagnóstico fiable y rápido, y tienen una importancia sobre todo epidemiológica. El portador asintomático constituye un riesgo de transmisión cruzada idéntico al de los niños infectados, por lo que debe ser objeto del mismo aislamiento y de una señalización específica, como en el caso de las bacterias multirresistentes.
+
+
+--- DIARREAS TOXÍNICAS
+
+Los tres microorganismos identificados con más frecuencia son los colibacilos enteropatógenos, las salmonelas y las shigelas . También se identifican con menor frecuencia Campylobacter fetus y Yersinia entewcolitica , . Se mamtiestan por una gastroenteritis aguda con fiebre moderada acompañada de vómitos y heces acuosas; el riesgo de deshidratación aguda es especialmente grave en el período neonatal.
+Algunas diarreas invasoras se acompañan de manifestaciones sistémicas. Los microorganismos responsables son los colibacilos enteropatógenos «invasores», las salmonelas, algunas shigelas, Campylobacter jejuni y Yersinia enterocolitica.
+La antibioticoterapia es ineficaz en las diarreas de tipo toxínico. En el recién nacido, la gravedad potencial de las diarreas invasoras justifica una antibioticoterapia preventiva que logre una buena concentración sistémica y digestiva, como la ceftriaxona, un aminoglucósido o ambos por vía parenteral. Se ha propuesto la eritromicina en los casos de proliferation microbiana intestinal de enterobacterias y en las infecciones por Campylobacter y Yersinia.
+
+
+--- ENTEROCOLITIS ULCERONECRÓTICAS (ECUN) <XREF RID="BIB0445" REF-TYPE="BIBR"><SUP>[89]</SUP></XREF
+
+No son de origen infeccioso; la aparición de algunos casos próximos entre sí ha llevado a sospechar un origen vírico (coronavirus, rotavirus) , no confirmado . Las ECUN son, en efecto, consecuencia de un trastorno isquémico intestinal debido a la estasis y a la liberatión de gases por la flora anaerobia, y cuya imagen radiológica es casi patognomónica, pero transitoria. Sólo se observa bacteriemia en una tercera parte de los casos y parece secundaria a la proliferación, consecuencia a su vez de la estasis: enterobacterias, anaerobios.
+Por lo general, el aumento del volumen de los residuos precede a la distensión abdominal. La aparición de una diarrea sanguinolenta es más tardía e inconstante. Las radiografías revelan una neumatosis intestinal, a Veces incluso portal. La peritonitis (neumoperitoneo, líquido intraperitoneal) es signo de estadio avanzado. El tratamiento médico comporta, ya desde la sospecha diagnoística, la interrupción de la alimentación, la aspiración digestiva continua, la instauración de la nutrición parenteral total y de una antibioticoterapia por vía parenteral adaptada a los microorganismos que se aíslan con mayor frecuencia (ticarcilina/aícido clavulaímco o cefalosporina de tercera generación/aminoglucoísido). El tratamiento quirúrgico se limita a las complicacionss: peritonitis por perforación intestinal y estenosis intestinal como secuela. Se ha abandonado la profilaxis antibiótica.
+
+
+-- INFECCIONES URINARIAS
+
+La prevalencia de la infección urinaria es del 0,7 al 1 % en el recién nacido a término y del 2,9 % en el prematuro , . Estas cifras probablemente sean superiores a las reales, debido a una contaminación de los especímenes, y seguramente serían más bajas si las muestras de orina se tomaran sistemáticamente por punción suprapúbica, bajo control ecográfico o no , . El predominio masculino es importante, de 8 a 9/1.
+Los primeros signos aparecen a los 14 ± 6 días y son poco específicos: anorexia, escaso aumento de peso, trastornos digestivos (voímitos, diarrea). La fiebre es frecuente, se presenta en el 70 % de los casos. El hemocultivo sólo es positivo en el 20 % de los casos; otra localización, en particular meníngea (6 %) puede encontrarse asociada. Es poco frecuente que la infección se descubra por una ictericia colestática, probable consecuencia de una colangitis. El diagnóstico se basa en el examen citobacteriológico de la orina (ECBU). Aun realizando una desinfección local, la recogida de la orina en bolsa estéril autoadherente puede ser responsable de una falsa bacteriuria, acompañada a menudo de leucocituria. Se confirma la infección ante una bacteriuria superior o igual a 106 microorganismos/ml. Se acompañia de piuria en el 80 % de los casos , . Es preciso distinguir las infecciones urinarias de las bacteriurias (en particular por estreptococo B) concomitantes con una bacteriemia o una septicemia.
+En el 90 % de los casos se aísla Escherichia coli. Los otros microorganismos aislados en las infecciones urinarias extrahospitalarias son los enterococos y los estafilococos. En las infecciones urinarias nosocomiales predomina siempre Escherichia coli, pero también se encuentran otras enterobacterias, entre ellas las klebsielas.
+En el 30 % de los casos se asocia una uropatía, que exige realizar un examen sistemático combinando la ecografía renal y la cistografía miccional . La dilatatión descubierta en el período prenatal se confirma en la maternidad mediante una ecografía y, al final del primer mes, con una cistografiía. La sospecha cie estenosis de la unión pieloureteral se confirma con una urografiía intravenosa. No se ha establecido la utilidad de la gammagrafía renal en el recién nacido.
+El tratamiento se basa en antibióticos con concentraciones activas tanto en suero como en la orina y en el parénquima renal. Por lo general se administran un betalactámico y un aminoglucósido. Las asociaciones más utilizadas son cefotaxima/aminoglucósido y ceftriaxona/aminoglucósido . Es habitual limitar la administración del aminoglucósido a los 3 o 4 primeros días de tratamiento, al igual que en el lactante, pero esta pauta no se ha evaluado prospectivamente.
+La esterilidad de la orina se comprueba mediante un ECBU 48 horas después del comienzo del tratamiento. La duración de éste es de 7 a 10 días. Se realiza un nuevo ECBU transcurridas al menos 48 horas del final del tratamiento. Si existen anomalías de las vías urinarias es preciso un tratamiento profiláctico. No se ha evaluado prospectivamente ningún fármaco para esta indicación. Puede utilizarse el cefaclor (de 5 a 10 mg/kg/d en una sola dosis); después de las 6 semanas de vida también puede administrarse la combinación trimetoprim/sulfametoxazol.
+
+
+-- INFECCIONES CUTÁNEAS
+
+Pueden adoptar diversas presentaciones clínicas:
+Existen diversos modos de contagio: transplacentario por viremia (rubéola, varicela), durante el paso por el canal del parto (herpes, Candida) y posnatal (herpes, estafilococo). El diagnóstico se basa en el examen directo de las muestras tomadas en el niño y la madre (muestras bacteriológicas, citodiagnóstico, microscopia electrónica).
+El tratamiento consiste en curas locales con una solución antiséptica del tipo de la eosina, asociada a menudo a una pomada antibiótica (clortetraciclina, ácido fusídico) o antimicótica. En la mayoría de las dermatosis infecciosas del neonato está también indicado un tratamiento por vía general: un antiinfeccioso por vía oral (sinergistina) y un antimicótico (nistatina) capaz de prevenir los riesgos de diseminación sistémica. En los casos de sospecha de herpes se aplica pomada de aciclovir como complemento de un eventual tratamiento sistémico.
+La prevención se basa en medidas de higiene y de asepsia, y en el alejamiento de todo individuo que suponga un alto riesgo de contagio (forúnculo o panadizo por estafilococos, herpes).
+La onfalitis es una infección umbilical debida a Staphylococcus aureus o a Proteus en la que está indicada la toma de una muestra local. La onfalitis por Proteus puede complicarse con un absceso cerebral sin meningitis, secundario a una bacteriemia; se trata con la asociación de un tratamiento local y una antibioticoterapia por vía general.
+
+
+-- INFECCIONES OSTEOARTICULARES
+
+Suelen ser secundarias a la diseminación hematógena a partir de una puerta de entrada cutánea o umbilical, o de un catéter . La lesión inicial es metafisaria. Es frecuente la extensión hacia la epífisis, con destrucción de los cartílagos de crecimiento, y en la mayoría de los casos se observa una artritis séptica por contiguidad. La más grave es la lesión de la articulatión de la cadera , .
+El diagnóstico se sospecha ante la impotencia funcional dolorosa de una extremidad, sobre todo si se acompaña de signos inflamatorios locales. Los signos ecográficos anteceden a los radiológicos y revelan un engrosamiento de los tejidos musculotendinosos, un ensanchamiento del espacio articular o ambas alteracionss; es necesario hacer una punción articular. Si el diagnóstico es tardío, las imágenes radiológicas muestran engrosamiento del periostio, destrucción de la cortical o irregularidades epifisarias . El agente causal más frecuente es Staphylococcus aureus y, con menor frecuencia, el estreptococo del grupo B, Proteus o enterobacterias (salmonelas). El tratamiento se orienta en función del examen citobacteriológico del líquido articular. En las infecciones estafilocócicas están indicados la vancomicina y un aminoglucósido o, para lograr una mejor penetración osteoarticular, la asociación cefotaxima/fosfomicina. En las infecciones por enterobacterias se emplea una cefalosporina de tercera generación (cefotaxima o ceftriaxona). El tratamiento antibiótico por vía parenteral durante 15 a 20 días se sustituye por un tratamiento antibiotico por vía oral consistente en pristinamicina o incluso en una quinolona (al margen de la autorización de comercialización) durante un mínimo de 2 meses en las infecciones estafilocócicas.
+
+
+-- INFECCIONES OCULARES
+
+Ante un cuadro de hiperemia ocular, lagrimeo y secreción que aglutina las pestañas, la sospecha diagnóstica más frecuente es la de conjuntivitis . La conjuntivitis gonocócica se ha vuelto excepcioriai en Francia desde la instilación ocular sistemática de un colirio antibiótico o de nitrato de plata en el momento del nacimiento. Los microorganismos más frecuentes son los estafilococos, Haemophilus y Chlamydia trachomatis, cuya responsabilidad es cacla vez mayor (14 a 32 %). El tratamiento más utilizado es un colirio antibiótico (rifampicina, tobramicina) hasta la desaparición de los síntomas. Se prescribe sistemáticamente un tratamiento antibiótico por vía general con un macrólido para prevenir la diseminación pulmonar de Chlamydia; este tratamiento también se recomienda para los padres.
+
+
+-- INFECCIONES OTORRINOLARINGOLÓGICAS
+
+La otitis media aguda es la menos rara de las infecciones ORL del neonato (0,6 %) , . Se ve favorecida por la intubación prolongada. Su gravedad guarda relación con. la naturaleza de algunos microorganismos responsables (estafilococos, Haemophilus y, sobre todo, Pseudomonas o enterobacterias a veces multirresistentes) y con la gravedad de las posibles complicaciones neurológicas (absceso cerebral, meningitis purulentas). El diagnóstico clínico se obtiene con la otoscopia neumática, que permite, previa paracentesis, el aislamiento del microorganismo y el antibiograma . El tratamiento antibiótico inicial combina en primera intención un betalactámico del tipo de la ceftazidima y un aminoglucósido. La antibioticoterapia ajusta ulteriormente en función del microorganismo identificado.
+Las laringitis neonatales infecciosas bacterianas o víricas, incluidas las de origen herpético , son excepcionales. A esta edad, ante un cuadro de disnea inspiratoria o de disfonía está indicada laringoscopia para buscar posibles signos inflamatorios de los tres niveles de la laringe , permitiendo la recogida de una muestra con escobillón.
+
+
+- TRATAMIENTOS
+
+-- ANTIBIOTICOTERAPIA
+
+El tratamiento antibiótico inicial se decide en función de los datos clínicos y de laboratorio que conducen al diagnóstico de posible infección bacteriana. En su elección se tienen en cuenta la epidemiología bacteriana, las variaciones locales de las resistencias microbianas y los primeros resultados bacteriológicos conocidos (especímenes vaginales y periféricos del neonato) , , , .
+La asociación de dos antibióticos sinérgicos (del tipo de un betalactámico y un aminoglucósido) tiene por objeto ampliar el espectro antibacteriano, reducir la frecuencia de mutantes resistentes y ejercer una acción bactericida más rápida que una montterapia, aminorando así un posible efecto inóculo. La aceleración del efecto bactericida se ha demostrado en el estreptococo B, Escherichia coli y Listeria , .
+Las dosis se ajustan en función de las particularidades farmacocinéticas, que dependen fundamentalmente de la edad gestacional, y de la localización ( cuadro II ).
+
+
+--- INFECCIÓN MATERNOFETAL
+
+En París y sus cercanías, la epidemiología bacteriana se caracteriza por un predominio moderado de los estreptococos del grupo B, un aumento de Escherichia coli, una mayor presencia de estreptococos no B, en particular enterococos, y una casi desaparión de Listeria. La resistencia a la ampicilina es del 40 % en Escherichia coli no K1 y del 20 % en la K1. Los enterococos y Listeria son resistentes a las cefalosporinas de tercera generación. Estos datos avalan firmemente el empleo de una asociación triple ampi(amoxi)cilina/cefotaxima/aminoglucósido. Sin embargo, en ausencia de microorganismos resistentes (lo cual sólo puede saberse con un antibiograma), ha resultado útil una biterapia de tipo cefotaxima/aminoglucósido o amoxicilina/aminoglucósido. El escaso número de microorganismos resistentes a la ampicilina en las primeras 24 horas de vida hace recomendable este antibiótico . Sin embargo, a pesar de que los resultados bacteriológicos sólo se conocen transcurridas 48 horas, las constataciones conservan su validez para un posible tratamiento preventivo. En la región parisina, la triterapia tiene un 97 % de probabilidades de éxito, frente al 75 % de la biterapia. La asociación ampicilina/aminoglucósido fracasa en el 20 % de las septicemias y de las meningitis neonatales, aunque los microorganismos sean sensibles a uno o a ambos antibióticos . La combinación amoxicilina/ácido clavulánico/aminoglucósido no está indicada en primera intención, porque el ácido clavulánico no penetra en el LCR, pero puede utilizarse como tratamiento de relevo . En la actualidad, se han abandonado las ureidopenicilinas (azlocilina, piperacilina) debido al progresivo aumento de la resistencia de Escherichia coli. Puede utilizarse la ceftriaxona en ausencia de riesgo de ictericia, en la práctica a partir de la tercera semana de vida. La cefotaxima es el antibiótico más utilizado en los primeros días de vida , .
+La elección del aminoglucósido se fundamenta sobre todo en la búsqueda de una menor toxicidad auditiva y, sobre todo, renal. No existen argumentos bacteriológicos para elegir entre la gentamicina, la amikacina y la netromicina; esta última es menos tóxica para los túbulos renales. La tobramicina se reserva para las infecciones por Pseudomonas, mientras que la kanamicina, cuya concentración no puede determinarse rápidamente mediante un método inmunoenzimático, se utiliza poco o nada. Se ajustan los intervalos de administración a la edad gestacional y a la edad posnatal, mientras se mantiene invariada la dosis unitaria , , . También se amplían los intervalos en caso de insuficiencia renal.
+Los aminoglucósidos se administran en infusión intravenosa lenta de 30 minutos; pueden también admimstrarse por vía intramuscular, pero es dolorosa. Se ha recomendado la inyección en dosis única diaria en el recién nacido , . Sus ventajas bacteriológicas son teóricas; sus indudables ventajas prácticas se ven contrarrestadas en los niños muy prematuros por la necesidad de ampliar el intervalo de administración de las monodosis más de 24 horas y de modular la dosis unitaria en función de la edad gestacional, sin que exista una regla preestablecida. La escasa frecuencia de las infecciones maternofetales confirmadas por hemocultivos hace casi imposible la evaluación bacteriológica.
+La determinación de la concentración sérica del aminoglucósido en el tercero y el cuarto día, permite confirmar la ausencia de toxicidad y comprobar si la concentración se encuentra dentro de los intervalos terapéuticos (pico = 6 a 10 μg/ml para la gentamicina y la netromicina; entre 25 y 30 μg/ml para la amikacina; concentración mínima, antes de la siguiente dosis: entre 1 y 2 μg/ml y entre 3 y 5 μg/ml, respectivamente). Esta comprobación carece de interés cuando se interrumpe el tratamiento antibiótico o el aminoglucósido en el tercero o cuarto día. En el séptimo día, si se continúa la biterapia, la determinación de la concentración permite confirmar el acortamiento del intervalo. Esta comprobación es indispensable en los pacientes con insuficiencia renal, en los tratamientos con fármacos nefrotóxicos (indometacina) y en los niños muy prematuros (≤ 30 semanas). La duración óptima de la administración de estos aminoglucósidos se desconoce: limitación a los 3 o 4 primeros días de tratamiento, prolongación sistemática durante toda la duración del mismo o únicamente si el hemocultivo inicial es positivo, o en caso de meningitis. Este problema sólo puede resolverse mediante un estudio prospectivo de la evolución a corto y a mediano plazo según se emplee una monoterapia o una biterapia.
+
+
+---- ADAPTACIÓN DE LA ANTIBIOTICOTERAPIA
+
+En más del 50 % de los casos, la rapidez de la curación clínica y la ausencia de confirmación de laboratorio permiten interrumpir el tratamiento. En el recién nacido a término, la ausencia de factores de riesgo permite, si la evolución es rápida y favorable, interrumpir la antibioticoterapia al cabo de 24 horas . En el niño prematuro es más difícil tomar esta decisión cuando se desconoce la causa de la prematuridad y no se ha descartado un origen infeccioso. El excelente valor predictivo negativo de los parámetros inflamatorios, en particular de la CRP, desempeña un papel fundamental en esta decisión. En el tercer día de vida, si se decide continuar el tratamiento antibiótico y éste consiste en una triterapia, es indispensable reducirla. La elección dependerá del resultado de los hemocultivos (de la madre y el recién nacido), por lo general negativos, y de los cultivos de las muestras periféricas (en particular gástricas), y/o de la positividad de un antígeno soluble en la orina o el LCR. Teniendo en cuenta los índices terapéuticos (relación entre concentración y concentración minima inhibidora), las elecciones óptimas son:
+El empleo de un catéter corto heparinizado es una manera práctica cie ahorrar capital venoso; con ello se evita tener que prescribir y vigilar una infusión intravenosa periférica entre las inyecciones de antibióticos.
+Existen otros posibles tratamientos de relevo:
+Ya se han abordado las especificidades terapéuticas en función de los microorganismos y las localizaciones.
+
+
+---- EFICACIA Y DURACIÓN DE LA ANTIBIOTICOTERAPIA <XREF RID="BIB0230" REF-TYPE="BIBR"><SUP>[46]</SUP></XREF
+
+La eficacia bacteriológica se comprueba entre 24 y 48 horas después del comienzo del tratamiento, y 48 horas después de su interrupción. Antes, se recomendaba vigilar la CRP y el orosomucoide para determinar el momento de suspender el tratamiento, en la actualidad, la duración del mismo depende fundamentalmente de escjuemas preestablecidos y varía dependiendo de la localizatión . Las infecciones sistémicas, confirmadas por hemocultivos positivos, se tratan generalmente durante 10 días. Sin confirmación bacteriológica, el plazo puede reducirse a 7 días, al igual que en las infecciones pulmonrres. Las infecciones urinarias se tratan también durante 10 días. Las meningitis por estreptococos del grupo B, cuya evolución sea de entrada favorable, pueden tratarse durante 15 días, mientras que para todos los demás microorganismos el tratamiento se prolonga 3 semanas. En las infecciones osteoarticulares, el plazo mínimo son 6 semanas . El tratamiento de las infecciones nosocomiales sistémicas dura también 10 días.
+
+
+---- TRATAMIENTO PREVENTIVO DE LAS INFECCIONES MATERNOFETALES
+
+Sólo se recomienda en el caso de infecciones debidas al estreptococo del grupo B y se basa en la administración de 2 g de ampicilina en las 12 horas anteriores al parto y luego de 1 g cada 6 horas. Este protocolo, propuesto inicialmente para todas las madres colonizadas, sólo se aplica en la actualidad cuando existen uno o vanos factores de riesgo: prematuridad, rotura prolongada de la bolsa de las aguas y/o antecedentes de infección maternofetal por este microorganismo. No tiene en cuenta los demás microorganismos responsables de infecciones maternofetales y resistentes a la ampicilina, en concreto los colibacilos. Se le ha responsabilizado, además, del aumento de las infecciones resistentes a la ampicilina (enterobacterias). Si se aísla un microorganismo resistente a la ampicilina, está indicado un tratamiento alternativo de tipo amoxicilina/ácido clavulánico o cefotaxima. En caso de sepsis materna, indicativa de corioamnionitis sintomática (fiebre, dolores uterinos, taquicardia fetal), la elección de la antibioticoterapia es más difícil, pero se basa en la identificación de los microorganismos en la muestra vaginal . Puede administrate una combinación de cefotaxima y amoxicilina.
+
+
+--- INFECCIONES NEONATALES PRIMARIAS DE APARICIÓN TARDÍA
+
+Los principios que rigen la elección del tratamiento, basados en el conocimiento de la epidemiología bacteriana, no son diferentes. Sin embargo, puede sospecharse de algunos microorganismos gracias al cuadro clínico y a los signos bioquímicos y radiológicos, con lo que puede orientarse la antibioticoterapia:— Haemophilus influenzae: cefotaxima o ceftriaxona y/o aminoglucósido;—neumococo: amoxicilina o cefotaxima o ceftriaxona; si se presenta meningitis, cefotaxima (300 mg/kg/d) + vancomicina (60 mg/kg/d);— Chlamydia trachomatis y micoplasmas (Ureaplasma urealyticum y Mycoplasma hominis): en las formas graves se administra ciprofloxacino por vía intravenosa (al margen de la autorización de comercialización); en el resto de los casos se prescribe un macrólido por vía oral, del tipo de la josamicina.
+
+
+--- INFECCIONES NOSOCOMIALES
+
+La elección del tratamiento antibiótico inicial se funda en el conocimiento de la epidemiología bacteriana y de los factores de riesgo, en particular de la presencia o no de un catéter venoso central. Esta antibioticoterapia inicial debe ser activa frente a los estafilococos resistentes a la meticilina, las enterobacterias y Pseudomonas. La combinación más empleada en la actualidad asocia vancomicina, ceftazidima, y un aminoglucósido, ya que más del 70 % de los estafilococos son resistentes a la meticilina y Pseudomonas es resistente a la cefotaxima y a la ceftriaxona. Esta asociación se reduce a una biterapia una vez aislado el microorganismo, circunstancia mucho más frecuente en las infecciones nosocomiales que en las maternofetales. El aislamiento de Candida, cuarto microorganismo por orden de frecuencia en las infecciones nosocomiales del prematuro de menos de 1 500 g, exige un tratamiento antimicótico cuya referencia sigue siendo la asociación de anfotericina B y flucitosina.
+En los casos de infección asociada a un catéter venoso central, el aislamiento de un estafilococo coagulasa negativo permite mantener colocado el catéter siempre y cuando la evolución inicial sea rápida y favorable. Por el contrario, si la evolución es desfavorable o si se aísla un microorganismo patógeno poco habitual en los hemocultivos (Staphylococcus aureus, Candida, Pseudomonas, enterobacteria), el catéter debe retirarse de inmediato.
+
+
+-- FARMACOTERAPIA ANTIVÍRICA
+
+En la infección herpética neonatal puede prescribirse un medicamento de eficacia demostrada: el aciclovir. En la actualidad, la dosis recomendada es de 60 mg/kg/24 horas repartidos en tres infusiones intravenosas de 60 minutos durante un mínimo de 14 días. La vidarabina ya no se encuentra disponible. Ante la persistencia del antígeno vírico, determinado por PCR en el LCR (cf capítulo Herpes) puede ser necesario prolongar el tratamiento, en particular en las localizaciones sistémicas y neurológicas , .
+En la actualidad se está evaluando una suspensión oral, que puede utilizarse como tratamiento de relevo en la forma sistémica. Su escasa biodisponibilidad (20 %) obliga a admirtistrar dosis elevadas, entre 80 y 90 mg/kg/d. El objetivo del tratamiento es impedir una lesión cerebral o tratar de prevemr su extensión.
+En las infecciones por CMV, puede utilizarse el ganciclovir pero sus indicaciones no están definidas. Los esquemas terapéuticos son muy variables, con una dosis diaria que oscila entre 7 y 12 mg/kg/d , durante 3 a 6 semanas. El seguimiento clínico y virológico a menudo revela recaídas (coriorretinitis) por las que puede ser necesario reanudar el tratamiento.
+En el neonato con una infección grave por virus respiratorio sincitial puede utilizarse la ribavirina en aerosol. Este tratamiento parece eficaz sobre todo en los pacientes con broncodisplasia y en los que están aquejados de una cardiopatía congénita .
+
+
+-- TRATAMIENTO ANTIMICÓTICO
+
+El tratamiento de referencia de las micosis sistémicas es la anfotericina B en dosis de 0,5 mg/kg que, de resultar ineficaz, puede aumentarse hasta un máximo diario de 1 mg/kg. Este esquema no es aplicable con el fluconazol. Al comienzo del tratamiento es habitual asociar flucitosina en dosis de 100 a 150 mg/kg por vía intravenosa. El fluconazol es una alternativa, en dosis de 6 a 8 mg/kg/d; este medicamento a diferencia de la anfotericina, no es eficaz frente a Aspergillus.
+La utilizatión de anfotericina B en dosis moderadas previene la nefrotoxicidad, que también se reduce mediante la administración de cloruro de sodio (NaCl) antes y después de la infusión.
+Los demás antimicóticos tienen pocas indicaciones en el período neonatal, a excepción de los productos no absorbibles por vía digestiva, como la nistatina.
+
+
+-- TRATAMIENTO SINTOMÁTICO <XREF RID="BIB0360" REF-TYPE="BIBR"><SUP>[72]</SUP></XREF
+
+Se han recomendado las transfusiones de gammaglobulinas polivalentes o de plasma fresco congelado con carácter profiláctico en las infecciones nosocomiales del prematuro, y con fines curativos en el neonato a término y el prematuro infectados. Además de aportar inmunollobllinas, el plasma garantiza un aporte de complemento, deficitario en el neonato. Aun así, el riesgo de contaminación vírica ha reducido mucho las indicaciones.
+Fischer et al , han evaluado la transfusión de gammaglobulinas polivalentes en los neonatos infectados por estreptococo B. Una transfusión única de 500 mg/kg eleva significativamente la concentración de anticuerpos específicos antiestreptocócicos durante más de 2 semanas. Una dosis de 0,5 a 1 g/d durante 6 días reduce la mortalidad en los neonatos infectados .
+En el prematuro, la administración de IgG en la prevención de las infecciones secundarias parece lógica, y de hecho ha sido objeto de numerosos estudios. Sin embargo, su utilización es ineficaz, como lo han demostrado dos metaanálisis recientes , . Este fracaso se debe probablemente a la heterogeneidad de las concentraciones de anticuerpos específicos y, sobre todo, a la escasa actividad opsonizante de las preparaciones comerciales. Los niveles más bajos, se observan con las IgG antiestafilococo coagulasa negativo, que se encuentran implicadas con mayor frecuencia.
+La exanguinotransfusión desempeña un papel muy limitado en el tratamiento de la infección neonatal. Su objetivo es triple: tratar los trastornos de la hemostasia, aportar anticuerpos y complemento, y acelerar la depuración de la endotoxina bacteriana . Sólo puede realizarse en una situación de buena estabilidad hemodinámica y utilizando un catéter central o dos catéteres, venoso y arterial. En la actualidad, su indicación se limita a los síndromes hemorrágicos.
+La transfusión de concentrados de leucocitos , se ha recomendado en las infecciones acompañadas de leucopenia profunda, y se ha observado una reducción de la mortalidad . Al igual que la exanguinotransfusión, el paciente queda expuesto a efectos secundarios inmunológicos, en particular a una reacción del injerto contra el huésped, así como al riesgo de contaminación vírica.
+Por último, las demás medidas sintomáticas, como la ventilación artificial en caso de hipoxia, y la administración de macromoléculas y fármacos inótropos en caso de insuficiencia circulatoria aguda, son fundamentales .
+
+
+- CONCLUSIÓN
+
+Las infecciones maternofetales son un problema de salud pública, mundial. Por lo general son secundarias a una contaminación prenatal por el líquido amniótico, colonizado por un microorganismo procedente de la flora vaginal. Los dos agentes causales más importantes por orden de frecuencia son, en Francia, los estreptococos del grupo B y Escherichia coli. Con todo, el conocimiento de la epidemiología y de la evolución de las resistencias en cada región es fundamental para establecer las reglas de la antibioticoterapia probabilística.
+Las infecciones primarias de aparición tardía son muy heterogéneas, consecuencia de una colonización perinatal o posnatal. Su expresión clínica es poco específica, pero un diagnóstico tardío repercute mucho en el pronóstico.
+La escasa especificidad y la insuficiente sensibilidad de los parámetros clínicos y de laboratorio de las infecciones neonatales explican el empleo abusivo de los antibióticos en este período. Tanto la vigilancia clínica la interpretación de los parámetros bacteriológicos y biocquimicos, apoyada en su buen valor predictivo negativo, deberían ayudar a orientar las indicaciones, en particular en los recién nacidos con pocos o ningún síntoma. Lina suspensión temprana del tratamiento, en 48–72 horas, es una decisión fundamental que debe tomarse sea cual sea la edad gestacional.

@@ -1,0 +1,61 @@
+HALLAZGOS INCIDENTALES DE COVID-19 EN PET/CT 18F-FDG DE PACIENTES ASINTOMÁTICOS CON CÁNCER EN DOS INSTITUCIONES DE SALUD DE BOGOTÁ, COLOMBIA
+
+
+El 30 de enero de 2020, el Director General de la Organización Mundial de la Salud (OMS) declaró el brote de enfermedad por coronavirus (COVID-19), notificado por primera vez en Wuhan (China) el 31 de diciembre de 2019, como una emergencia de salud pública internacional . La COVID-19 es la infección viral causada por el SARS-CoV-2 que, para septiembre del 2020, ya había contagiado a más de 25 millones de personas en el mundo y causado la muerte de más de 840.000 . El 28 de septiembre de 2020 los casos confirmados en Colombia alcanzaron los 818.203 y las muertes ya eran 25.641 . En estos momentos, el diagnóstico de la enfermedad es principalmente clínico y se confirma mediante una prueba de reacción en cadena de la polimerasa (PCR).
+Las unidades de imágenes diagnósticas y medicina nuclear no han sido ajenas a la enfermedad. Como ha sucedido con el resto de especialidades, los pacientes han continuado asistiendo a practicarse los exámenes diagnósticos y los procedimientos terapéuticos que requieren , lo cual implica la posibilidad de registrar hallazgos incidentales en las imágenes de medicina nuclear, como la tomografía PET/CT F18-FDG (Positron Emission Tomography and Computed Tomography with 2-deoxy-2-[fluorine-18]fluoro-D-glucose) en pacientes asintomáticos sin diagnóstico previo de COVID-19.
+Se ha reportado una prevalência de hallazgos incidentales de casos sospechosos de COVID-19 de hasta el 16,25 % en este tipo de exploraciones , los cuales incluyen opacidades pulmonares con patrón de vidrio esmerilado, engrasamiento de los tabiques interlobulillares e intralobulillares, opacidades alveolares (consolidaciones), engrosamientos broncovasculares y bronquiectasias por tracción. Es común el compromiso bilateral y multilobar, sobre todo en las zonas inferiores. Estas alteraciones se acompañan de un incremento metabólico del trazador, con rangos en el Standardized Uptake Value (SUVmáx) de 3,7 a 12 . Asimismo, se debe tener en cuenta que los pacientes con cáncer tienen un mayor riesgo de infección por COVID-19. Cerca del 40 % de los pacientes con cáncer y COVID-19 han debido ser hospitalizados, el 20 % desarrolló la enfermedad respiratoria grave y el 12 % murió en el curso de los 30 días posteriores al diagnóstico .
+Además, este tipo de pacientes evolucionan, al parecer, con peor pronóstico porque deben asistir a más citas médicas en diferentes centros hospitalarios para las quimioterapias, los procedimientos médicos y quirúrgicos, y los frecuentes estudios diagnósticos en servicios de medicina nuclear, radiología y PET/CT. Suelen llegar asintomáticos y, por ello, los médicos especialistas en medicina nuclear y los radiólogos deben estar atentos a dichas eventualidades.
+Se presentan aquí imágenes de PET/CT F18-FDG con hallazgos incidentales de COVID-19 de pacientes con diferentes condiciones oncológicas, pero sin sintomatologia respiratoria. Los pacientes ingresaron al servicio de medicina nuclear y PET/CT de dos instituciones de salud de Bogotá y, debido a los hallazgos de las imágenes, se remitieron para la prueba de PCR, la cual fue positiva.
+
+
+- CASO 1
+
+Hombre de 60 años, asintomático respiratorio, con antecedentes de linfoma B difuso de células grandes, remitido para PET/CT F18-FDG de estadificación inicial . Antes de este diagnóstico, el paciente se había hecho una tomografia de tórax el 14 de julio de 2020 en la cual no se evidenciaba ninguna alteración. El 4 de agosto siguiente, se le tomó una PET/CT con F18-FDG en el Instituto Nacional de Cancerología de Bogotá, y se encontró una masa hipermetabólica en la región cervical derecha, conglomerados adenopáticos supraclaviculares derechos y focos hipermetabólicos en el parénquima esplénico relacionados con compromiso por linfoma. En el tórax se detectaron derrames pleurales bilaterales y múltiples opacidades alveolares hipermetabólicas. Dados estos hallazgos, se remitió al paciente para que se le practicara una prueba de PCR para diagnóstico de la COVID-19, la cual fue positiva.
+Figura 1
+
+
+- CASO 2
+
+Mujer de 26 años, sin sintomatología respiratoria, con diagnóstico de linfoma B difuso de células grandes, remitida para PET/CT F18-FDG de estadificación inicial . El 7 de agosto de 2020 se le tomó una angiotomografía de tórax en la que no se observaba compromiso parenquimatoso (flechas blancas). Posteriormente, el 13 de agosto, se le tomo una PET/CT F18-FDG en el Instituto Nacional de Cancerología de Bogotá, y se evidenció compromiso ganglionar hipermetabólico cervical, supraclavicular, axilar bilateral y mediastinal relacionado con su condición de base. Incidentalmente se observaron en el tórax opacidades parenquimatosas con patrón de vidrio esmerilado que no se evidenciaban en la angiotomografía computarizada previa. Dada la pandemia actual, se envió a la paciente para que se le practicara una prueba de PCR para diagnóstico de la COVID-19, con resultado positivo.
+Figura 2
+
+
+- CASO 3
+
+Hombre de 53 años con linfoma b difuso transformado de folicular sometido a múltiples esquemas de quimioterapia. Se le hizo la PET/CT F18-FDG para la evaluación final del tratamiento . Se le había hecho una tomografía computarizada de alta resolución de tórax el 29 de agosto de 2020 y no presentaba compromiso parenquimatoso. La PET/CT F18-FDG se hizo el 13 de agosto en el Instituto Nacional de Cancerología de Bogotá, y no se evidenciaron adenopatías o conglomerados hipermetabólicos infiltrativos asociados con la enfermedad de base del paciente. Sin embargo, en el segmento del tórax se evidenciaron múltiples opacidades con patrón de vidrio esmerilado y dispersas en ambos parénquimas pulmonares con gran actividad metabólica. Dados estos hallazgos se envió al paciente a la toma de la PCR para COVID-19, la cual resultó positiva.
+Figura 3
+
+
+- CASO 4
+
+Mujer de 57 años sin síntomas respiratorios y con antecedentes de linfoma no Hodgkin de células B de la zona marginal. Se solicitó la PET/CT F18-FDG para valorar la respuesta al final del tratamiento . El 17 de agosto de 2020 se le había hecho una tomografía computarizada de alta resolución de tórax en la que solo se detectaron algunas atelectasias en el lóbulo superior derecho. En la PET/CT realizada el 25 de junio de 2020 en el Instituto Nacional de Cancerología, no se evidenciaron lesiones hipermetabólicas sospechosas de compromiso secundario. En el tórax se observaron múltiples opacidades en vidrio esmerilado con aumento difuso del trazador asociado con una consolidación hipermetabólica y derrame pleural bilateral sin actividad metabólica. Con estos hallazgos la paciente fue remitida para que se le practicara una prueba de PCR para COVID-19 y el resultado fue positivo.
+Figura 4
+
+
+- CASO 5
+
+Mujer de 74 años con antecedentes de linfoma no Hodgkin folicular de grado histológico 2, quien recibió seis ciclos de quimioterapia. Se hizo la PET/CT F18-FDG para valorar la respuesta al tratamiento en el Instituto de Diagnóstico Médico (Idime) en Bogotá . Los hallazgos de la PET/CT fueron negativos para lesiones hipermetabólicas relacionados con la enfermedad de base. En el tórax se evidenciaron opacidades con patrón de vidrio esmerilado y actividad metabólica difusa de aspecto inflamatorio e infeccioso. Dada la situación actual de pandemia, se hizo el seguimiento clínico de la paciente para descartar la COVID-19 y el resultado de la PCR fue positivo.
+Figura 5
+
+
+- CASO 6
+
+Mujer de 68 años, sin síntomas respiratorios previos, con antecedentes de carcinoma gástrico de patrón difuso de células en anillo de sello, etapa IV, con compromiso peritoneal, tratada con ocho ciclos de quimioterapia, el último de ellos el 10 de agosto de 2020. La PET/CT F18-FDG se hizo para valorar el tratamiento en el Instituto de Diagnóstico Médico (Idime) de Bogotá. En la PET/CT se detectó engrosamiento difuso de la pared gástrica relacionado con el compromiso infiltrativo causado por la condición primaria. En el segmento pulmonar se observaron opacidades con patrón de vidrio esmerilado hipermetabólicas, de aspecto inflamatorio e infeccioso, en ambos parénquimas pulmonares. Se remitió a la paciente para la toma de la PCR de diagnóstico de la COVID-19, la cual fue positiva.
+Figura 6
+
+
+- CASO 7
+
+Hombre de 34 años, sin síntomas respiratorios previos, con antecedentes de seminoma tratado con orquiectomía izquierda y cuatro ciclos de quimioterapia, el último de ellos el 29 de abril de 2020. Se lo remitió para tomarle una PET/ CT F18-FDG al instituto Idime para nueva estadificación y en ella se observaron en el tórax múltiples opacidades nodulares en ambos parénquimas pulmonares altamente sospechosos de COVID-19, por lo que se le envió a para que se le practicara una prueba de PCR, la cual fue positiva.
+Figura 7
+
+
+- CASO 8
+
+Hombre de 54 años hospitalizado con cuadro febril sin claridad sobre la causa y estudios de imágenes convencionales negativos, motivo por el cual se solicitó una PET/CT F18-FDG al instituto Idime. En ella se detectaron en el tórax opacidades nodulares con incremento glucolítico y apariencia de vidrio esmerilado en ambos parénquimas pulmonares. Se recomendó entonces que se le hiciera la prueba de PCR para COVID-19, la cual fue inicialmente negativa, pero que, al repetirla, arrojó un resultado positivo.
+Figura 8
+
+
+- CONCLUSIÓN
+
+Los hallazgos de las imágenes diagnósticas presentados deben servir como ayuda para que el especialista en Medicina Nuclear pueda reconocer y sospechar una eventual infección por coronavirus intercurrente en este tipo de pacientes, lo cual constituye información crucial para los familiares y el médico tratante. Además, es importante remitir al paciente para que se le haga la prueba confirmatoria y pueda instaurarse un tratamiento eficaz.

@@ -1,0 +1,6 @@
+El propósito de este trabajo es informar el primer caso de enfermedad COVID-19 confirmado en Córdoba (Argentina), destacando a la telemedicina como una novedosa forma de manejo ambulatorio.
+El manejo ambulatorio de pacientes seleccionados evita la transmisión del virus dentro del hospital y la saturación de camas. La telemedicina es una estrategia efectiva y novedosa para esta situación.
+La enfermedad COVID-19 es una neumonía viral aguda causada por el SARS-CoV-2. Su principal medio de transmisión es de persona a persona a través de gotas respiratorias. Se presenta como un cuadro febril con síntomas respiratorios con una alta tasa de transmisibilidad. No existe vacuna, por lo que la sospecha y aislamiento inmediato del enfermo son primordiales.
+Se describe el primer caso confirmado de enfermedad COVID-19 en Córdoba (Argentina), en un paciente sin comorbilidades, con buen estado clínico, manejándose el mismo mediante telemedicina.
+El manejo ambulatorio mediante telemedicina resultó ser óptimo, evitando la utilización de camas y la transmisión del virus intrahospitalaria mediante el manejo en su domicilio.
+

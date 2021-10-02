@@ -1,0 +1,99 @@
+DILEMAS EN LA ENFERMEDAD CRÓNICA AVANZADA: ¿PREVENCIÓN O DESPRESCRIPCIÓN
+
+
+- INTRODUCCIÓN
+
+Uno de los pilares más importantes del Plan de Salud en Cataluña es mejorar la atención a la cronicidad. Con esa intención se ha acordado definir el paciente crónico complejo (PCC) y el paciente con enfermedad crónica avanzada (ENCA) para que obtengan ciertos beneficios asistenciales, como la atención multidisciplinar 24 h × 7 días. La decisión de identificar a una persona como ENCA se basa en la pregunta: ¿te sorprendería si este paciente muriera antes de los próximos 12 meses? Una respuesta negativa es el determinante para que empiece el tratamiento paliativo y que este prevalezca por encima del tratamiento curativo. El reconocimiento precoz de esta situación mejorará el manejo del final de la vida en este paciente.
+Por otro lado, la medicina actual padece el grave y creciente problema del sobrediagnóstico y del sobretratamiento, y es en este grupo de pacientes, frágiles y vulnerables, donde deberíamos ser más cautos en la prescripción de fármacos con perfil de riesgo/beneficio desfavorable.
+Generalmente la desprescripción se lleva a cabo por falta de evidencia en la indicación, por posibles reacciones adversas o por cambios en los objetivos terapéuticos. Podemos utilizar cuatro principios éticos para desprescribir en pacientes de edad avanzada: autonomía, beneficencia, no maleficencia y justicia. También nos puede ayudar agrupar los tratamientos en dos grupos: aquellos que tratan síntomas y mejoran la calidad de vida del día a día o bien aquellos que se utilizan en la prevención de la enfermedad con efectos beneficiosos posibles a largo plazo.
+Un aspecto a tener en cuenta son las reacciones adversas que pueden ocasionar los tratamientos utilizados de forma crónica. Los pacientes con enfermedad avanzada reciben normalmente regímenes terapéuticos complejos formados por fármacos que se han ido prescribiendo a lo largo de la vida y que muchas veces se mantienen como tratamientos crónicos. La evidencia científica actual sugiere que el uso de fármacos en edades avanzadas muchas veces es inadecuado. Hacen falta estudios en este grupo de pacientes que verifiquen si el beneficio supera el riesgo en el uso de fármacos preventivos durante el último periodo de la vida. Una prescripción inadecuada puede generar morbilidad y además representa una carga clínica y económica para los pacientes y para la sociedad en general.
+En este contexto, conocer la medicación preventiva que nuestros pacientes tomaron hasta los últimos días de su vida nos puede ayudar a reflexionar y a impulsar la desprescripción en una sociedad muy medicalizada.
+El objetivo de este estudio fue analizar la prescripción y la adecuación de la misma en seis grupos terapéuticos (estatinas, antiagregantes, inhibidores de la bomba de protones (IBP), bifosfonatos, calcio/vitamina D [Ca/vitD] y vitamina B12 [vitB12]) de los pacientes ENCA y PCC que fallecieron a lo largo del 2015 en cuatro centros de atención primaria.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio transversal retrospectivo dirigido a recoger información de pacientes identificados como ENCA y PCC que fallecieron a lo largo del 2015 en nuestra Unidad de Gestión de Atención Primaria (UGAP) que presta servicios de atención primaria a cuatro poblaciones (Castellar del Vallès, Polinyà, Sentmenat y Sant Llorenç) y atiende a una población de 33.600 personas.
+A través de la historia clínica informatizada (e-CAP) se obtuvo un listado con todos los pacientes que cumplían con los criterios. Se calculó que una muestra de 127 individuos sería suficiente para estimar, con una confianza del 95% y una precisión de ± 8 unidades porcentuales, un porcentaje de medicación evitable alrededor del 30%.
+
+
+-- VARIABLE PRINCIPAL
+
+Número de fármacos activos en relación a 6 grupos terapéuticos (estatinas: C10AA*, C10BA*, C10BX*/antiagregantes: B01AC*/IBP: A02BC*/bifosfonatos: M05B*/VitD y Ca: A12AX*/VitB12: B03BA*/).
+
+
+-- VARIABLES SECUNDARIAS
+
+Edad, desprescripción por motivos de cronicidad (si constaba escrito en curso clínico de los 6 meses previos a la muerte), prevención primaria o secundaria en el uso de estatinas y antiagregantes, atención por el servicio de paliativos del hospital (PADES) e institucionalizados en residencia.
+
+
+-- PROCEDIMIENTO DEL ESTUDIO
+
+Cada médico de familia registró el número de medicamentos seleccionados (estatinas, antiagregantes, bifosfonatos, vitB12 y Ca/vitD) mediante la revisión del plan de medicación vigente en la historia clínica que constaba en la fecha de muerte de sus pacientes. Así mismo se confirmó la retirada del mismo en la farmacia ese último mes para asegurar que el paciente lo tomó hasta los últimos días.
+Para determinar la medicación evitable o prescripción innecesaria se recogió, con la metodología antes descrita, la información clínica en IBP/estatinas /antiagregantes, unificando criterios previamente en una reunión de los médicos participantes. En el caso de los IBP nos basamos en las recomendaciones de la comisión farmacoterapéutica del Institut Català de Salut para valorar si la indicación del fármaco era correcta. Para la adecuación en la prescripción de las estatinas tuvimos en cuenta los criterios Screening Tool of Older Person's Prescriptions/Screening Tool to Alert doctors to Right (STOPP/START) creados para mejorar la prescripción en la población anciana, donde las estatinas solo están recomendadas en prevención secundaria y cuando la situación funcional del paciente sea de independencia para las actividades básicas de la vida diaria y la esperanza de vida sea superior a los 5 años. Por tanto, el tratamiento con estatinas se consideró adecuado en PCC solo en prevención secundaria e inadecuado en todos los ENCA. Referente a los antiagregantes, se estimó una prescripción adecuada si la indicación era por prevención secundaria, pues últimamente es controvertido su uso en prevención primaria. En el año 2016 la US Preventive Services Task Force publicó las nuevas recomendaciones sobre el uso de la aspirina en prevención primaria. Se considera favorable hasta los 69 años, pero la evidencia es insuficiente para los pacientes con edades superiores.
+
+
+-- ASPECTOS ÉTICOS
+
+La información de los pacientes fue proporcionada sin datos identificativos por sus médicos de familia que revisaron a sus respectivos pacientes. El protocolo del estudio fue revisado y evaluado por el Comité Ético de Investigación Clínica del Instituto universitario de Investigación en Atención Primaria Jordi Gol.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cuantitativas se describen con su media y desviación estándar y las cualitativas con su frecuencia absoluta y porcentaje.
+En los contrastes entre variables cualitativas se utilizó la prueba de ji cuadrado de Pearson o la exacta de Fisher, en función de las condiciones de aplicación.
+El nivel de significación usado fue de p ≤ 0,05. Los análisis se realizaron con el paquete estadístico SPSS para Windows, versión 22.0
+
+
+- RESULTADOS
+
+Durante el año 2015 murieron 363 pacientes, de los cuales 73 fueron previamente considerados ENCA y 60 PCC por sus respectivos profesionales sanitarios. Se excluyeron 3 pacientes ENCA y 2 pacientes PCC por falta de datos.
+La edad media en el momento de morir fue de 84,8 (10,3) años en PCC y de 85,7 (10,4) años en ENCA .
+El 5,2% de los PCC y el 24,3% de los ENCA eran pacientes compartidos con el servicio de PADES del hospital (p = 0,003).
+La desprescripción por motivos de cronicidad durante los 6 meses previos a la muerte fue del 22,9% en PCC y del 8,6% ENCA (p = 0,008).
+La prescripción global de estatinas fue del 19,5%, la de bifosfonatos del 4,7%, la de vitD/Ca del 20,3%, la de antiagregantes del 40,0%, la de IBP del 67,2% y la de vitB12 del 7,8% .
+La indicación IBP fue inadecuada en el 51,2% de los PCC y en el 47,9% de los ENCA (p = 0,126).
+La indicación de los antiagregantes fue por prevención primaria en el 36% de los PCC y en el 60% de los ENCA (p = 0,126), y en el 48% del total de casos.
+La prescripción de las estatinas por prevención primaria fue del 42,9% en los PCC y del 50% en los ENCA (p = 0,527).
+No hubo diferencias entre la prescripción, la adecuación de la misma y la desprescripción entre el grupo compartido con el PADES del hospital y el resto de pacientes no compartidos. Tampoco hubo diferencias con los pacientes institucionalizados .
+
+
+- DISCUSIÓN
+
+Este estudio muestra que, razonablemente, el paciente PCC recibió en general más prescripción preventiva que el paciente ENCA. Aun así, la desprescripción fue significativamente menor en este último grupo; quizás el manejo clínico del paciente con enfermedad avanzada sea más complejo y contradictoriamente nos asuste tomar las decisiones terapéuticas oportunas.
+
+
+-- INHIBIDORES DE LA BOMBA DE PROTONES
+
+Más de la mitad de los pacientes tomaron un IBP hasta el final, casi un 70% de los ENCA, superando claramente el 10% de la población adulta española, que se estima que toma un IBP a diario. Este aumento de la prescripción no se relacionó con una correcta adecuación por enfermedad, pues la mitad de estos tratamientos (44 pacientes) no tenía una indicación médica correcta y, por tanto, fue medicación evitable. Este alto porcentaje de pacientes con medicación innecesaria es interesante, pues hoy en día hay suficiente evidencia científica de la morbilidad añadida que supone su uso crónico. En un estudio observacional de prescripción-indicación de IBP en atención primaria en nuestro país la prescripción de IBP se ajustó a un 36,4% de las indicaciones autorizadas, inferior a la de nuestro estudio (50,4%). Esta prescripción elevada de IBP, no justificada en muchos casos, puede deberse a que nuestros pacientes llevan años tomando un «protector» y, al no revisar cuidadosamente sus planes de medicación, el IBP se queda como una medicación residual (que en el fondo, parece ser, tampoco nos molesta del todo). Algunas sociedades de geriatría recomiendan que, ante la necesidad de una prescripción más segura, hay que reevaluar su uso crónico y discontinuarlo si no hay una indicación clara al respecto.
+
+
+-- ANTIAGREGANTES
+
+La prescripción de los antiagregantes fue del 40%. A destacar que el 60% de los pacientes ENCA no tenían enfermedad cardiovascular establecida previa. Actualmente existe controversia en el uso de los antiagregantes en pacientes mayores sin evidencia de enfermedad cardiovascular. La US Preventive Services Task Force de 2016 considera que no hay suficiente evidencia científica para recomendar ácido acetilsalicílico (AAS) en pacientes a partir de los 70 años. En nuestro caso, la edad media de los ENCA fue de 86 años, y teniendo en cuenta su característica principal (enfermedad avanzada y corta esperanza de vida), parece claro que el 60% de tratamientos con AAS en prevención primaria deberían haberse evitado. Además, si el AAS no era necesario el IBP gastroprotector que lo acompaña tampoco, con lo cual tenemos más medicación evitable. Faltan estudios en gente mayor que proporcionen evidencia científica sobre el beneficio/riesgo en la prevención primaria con AAS, pero mientras tanto deberíamos ser cautos a la hora de recetarlo, recordando siempre el riesgo asociado que tiene el AAS de producir hemorragia digestiva potencialmente grave. Actualmente está en curso el ensayo clínico ASPREE con la intención de saber si el AAS es beneficioso en prevención primaria de pacientes mayores y sanos. En este contexto, el artículo publicado en BMJ, «Preventive health care in elderly people needs rethinking», nos invita a pensar sobre les medidas preventivas que ofrecemos a la población anciana, las cuales probablemente solo sirven para cambiar la causa de la muerte o la manera de morir de nuestros pacientes. Quizás un paciente encamado con demencia avanzada pensaría que un infarto es una buena manera de decir adiós.
+
+
+-- ESTATINAS
+
+La prescripción de estatinas fue del 20%, ligeramente más elevada en los PCC que en los ENCA estudiados. El uso en prevención primaria es controvertido y la evidencia disponible no aconseja su uso en mayores de 80 años. Parece, pues, que en prevención primaria no queda claro el beneficio del tratamiento con estatinas en pacientes ancianos, pero también es cierto que están poco representados en los ensayos clínicos y se mantiene la incertidumbre en este grupo de edad. El estudio PROSPER, único ensayo clínico hecho específicamente en población de edad avanzada(70-82 años), demostró que la pravastatina reducía respecto a placebo la variable combinada de mortalidad cardiovascular, infarto de miocardio no fatal e ictus, pero este beneficio no se observó en prevención primaria. Estudios observacionales en personas mayores de 80 años indican que niveles por debajo de 212 mg/dl se relacionan con mayor mortalidad global y que, por tanto, el uso de las estatinas podría ser incluso perjudicial. Según los criterios STOPP/START, herramienta creada para mejorar la prescripción en la población anciana, las estatinas solo estarían indicadas en prevención secundaria siempre y cuando la situación funcional del paciente sea de independencia para las actividades de la vida diaria y su esperanza de vida sea superior a los 5 años. En este sentido, el proyecto CRIME recomienda, en base a la evidencia disponible, que el uso de este grupo terapéutico en pacientes con esperanza de vida limitada (< 2 años), incluyendo pacientes con demencia avanzada, no aporta ningún beneficio ni en prevención primaria ni en prevención secundaria, ya que el beneficio del tratamiento continuado con estatinas aparece a los dos años de tratamiento. En nuestro caso, la mitad de los pacientes ENCA que tomaba una estatina no habían sufrido ningún evento cardiovascular previo y, por tanto, este tratamiento no era necesario. Pero según los criterios antes mencionados, tampoco estaría indicado en prevención secundaria, con lo cual se podría haber evitado esta medicación en un total de 10 pacientes. La reflexión es la misma que hacíamos antes con el AAS: ¿es ético que un paciente que sufre una enfermedad avanzada siga tomando un tratamiento con efecto a largo plazo, no exento de reacciones adversas y con posibles interacciones farmacológicas?
+
+
+-- BIFOSFONATOS - CALCIO/VITAMINA D – VITAMINA B<SUB>12</SUB
+
+Como era de esperar, la prescripción de los bifosfonatos fue muy baja, tan solo un 1% de los ENCA. Quizá las vacaciones terapéuticas características de estos medicamentos sean las que nos ayudan a su desprescripción.Una revisión sistemática publicada en BMJ en 2015 concluía que no hay suficiente evidencia de que la dieta suplementada con calcio prevenga riesgo de fracturas. El aumento en la ingesta de calcio de fuentes alimentarias o tomando suplementos produce un pequeño aumento progresivo de la DMO, siendo poco probable que conduzca a una reducción clínicamente significativa del riesgo de fractura. Ante esto, hay que decir que un 20% de nuestros pacientes murieron tomando este tratamiento: 26 pacientes en total, 11 de los cuales eran ENCA. Teniendo en cuenta que no es un tratamiento sintomático, sería innecesario tratar con este fármaco a un paciente en sus últimos días de vida. Es muy importante tener en cuenta toda la evidencia disponible para tomar decisiones, pero también debemos individualizar cada caso para encontrar la mejor decisión posible, teniendo siempre muy presente los efectos adversos que podemos causar.A destacar el uso de vitB12 en 7 pacientes ENCA, de los cuales más de la mitad padecía una demencia con un deterioro global GDS-7 (defecto cognitivo muy grave). La administración intramuscular de un tratamiento no sintomático en el final de la vida en estos pacientes es éticamente cuestionable, o al menos invita a la reflexión.
+
+
+-- LIMITACIONES
+
+La información obtenida a través de la historia clínica puede resultar poco fiable por falta de registro en algunos casos; aun así, los datos analizados en este estudio pueden ser útiles en nuestra práctica diaria, dado que este grupo de pacientes PCC/ENCA suelen ser enfermos revisados correctamente gracias a su identificación previa y, por tanto, los problemas debidos a un déficit de registro deberían ser mínimos.
+
+
+- CONCLUSIONES
+
+Un porcentaje elevado de pacientes con enfermedad crónica avanzada y esperanza de vida corta sigue tomando tratamientos preventivos hasta sus últimos días, evitables en muchos casos y no exentos de efectos secundarios. Deberíamos aumentar la deprescripción de medicamentos con beneficios a largo plazo en este grupo de pacientes.
+Lo conocido sobre el tema•Actualmente se debate el uso inadecuado de fármacos preventivos en pacientes de edades avanzadas.•Es necesario realizar estudios que verifiquen el riesgo/beneficio de los tratamientos preventivos en gente mayor con una esperanza de vida corta.•La evidencia no recomienda el uso de estatinas en prevención primaria de pacientes con edad superior a los 80 años, ni en prevención secundaria si la esperanza de vida es inferior a dos años.Qué aporta este estudio•Conocer la medicación preventiva que nuestros pacientes tomaron hasta los últimos días de su vida nos puede ayudar a reflexionar y a impulsar la desprescripción en una sociedad muy medicalizada.•Así mismo, conocer la cantidad real de medicación evitable por indicación inadecuada invita a la reflexión individual sobre el daño involuntario que hace la medicina sobre la salud.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses

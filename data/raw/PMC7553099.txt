@@ -1,0 +1,75 @@
+TELEMEDICINA EN OFTALMOLOGÍA DURANTE LA PANDEMIA DE COVID-19: UNA EXPERIENCIA PILOTO
+
+
+- INTRODUCCIÓN
+
+Telemedicina» es el nombre que se da al uso de las tecnologías de la información y las comunicaciones para la prestación de cuidados sanitarios de forma remota, mediante la transmisión de textos, sonidos e imágenes. La telemedicina ha demostrado su utilidad, en los últimos 20 años, en aspectos como la prevención, el diagnóstico, el tratamiento y el seguimiento de pacientes en diversas especialidades, particularmente en países en desarrollo con altos porcentajes de zonas rurales. Esta metodología ha aumentado la cobertura sanitaria de la población, ha reducido los costes y ha mejorado el seguimiento de patologías.
+Existen informes sobre el uso de la telemedicina en oftalmología (TMO), incluyendo la transmisión de fotografías y vídeos, y la evaluación remota por especialistas en programas de cribado y seguimiento de retinopatía diabética, retinopatía del prematuro y glaucoma, , , .
+El uso de la TMO en su modalidad open care, o en teleconsulta (mediante videollamada síncrona del paciente al médico), ha sido limitada debido probablemente a la necesidad de un examen directo con microscopía de lámpara de hendidura, fundoscopía y tonometría ocular, para una mayor precisión en el diagnóstico. No existen estudios, hasta donde sabemos, que hayan evaluado esta modalidad de TMO a nivel nacional.
+La necesidad de usar la TMO en su modalidad de teleconsulta ha surgido por las contingencias epidemiológicas generadas por la pandemia de COVID-19, que han llevado a imponer restricciones en la atención sanitaria optativa en la mayoría de los centros médicos. Se considera la oftalmología como una de las especialidades con mayor riesgo de infección por COVID-19 debido al alto grado de contacto con los pacientes o por la contaminación del instrumental usado en el examen clínico, , .
+Nuestro servicio estableció la TMO-OC (open care) en una situación de pandemia, como una forma excepcional de asistencia sanitaria, con los siguientes objetivos:-Reducir la ansiedad de los pacientes mediante la escucha activa, el apoyo, y la opinión experta.-Buscar criterios de gravedad y factores de riesgo que pudieran justificar una asistencia presencial inmediata.-Resolver necesidades administrativas (certificados, renovación de recetas).-Proporcionar recomendaciones terapéuticas básicas.-Monitorizar la evolución clínica de los pacientes.
+
+
+- MATERIALES Y MÉTODOS
+
+La TMO-OC fue implantada en el Servicio de Telemedicina de la Red de Salud UC-Christus (www.ucchristus.cl), durante un período de 10 semanas entre marzo y junio de 2020, el mismo periodo en el que se suspendió (parcial o totalmente) la asistencia oftalmológica ambulatoria optativa.
+El sistema de asistencia por teleoftalmología incluye: una videollamada de 30 minutos, planificada con antelación con un especialista acreditado, a través de la plataforma Zoom® (Zoom Video Communications Inc., San José California, EE.UU.), un consentimiento informado de las condiciones de prestación del servicio, una cláusula de confidencialidad, el registro obligatorio en el historial clínico (gráfico electrónico único que incluye toda la asistencia a pacientes ingresados en la Red de Salud UC-Christus), la opción de receta electrónica, y el contacto directo para el seguimiento por parte del profesional (correo electrónico y/o teléfono).
+Un comité de oftalmólogos del servicio preparó una Guía Clínica para la Práctica de la Telemedicina Oftalmológica, basada en conversaciones y análisis de los aspectos éticos, médico-legales, tecnológicos y clínicos de la actividad. Dicha guía se utilizó para la formación de los oftalmólogos que realizaron las teleconsultas, e incluyó técnicas de entrevista, protocolos de inspección para la revisión en pantalla de los exámenes oculares, y criterios de derivación y seguimiento, entre otros aspectos.
+El estudio incluyó a todos los pacientes que buscaron asistencia mediante teleconsulta durante todo el tiempo de su desarrollo, sin aplicar criterios de exclusión.
+Todos los especialistas guardaron registro de los datos demográficos y clínicos tras cada consulta, realizándose una evaluación de la asistencia prestada por todos los médicos a sus pacientes mediante una encuesta online anónima (surveymonkey.com®, California, EE. UU.).
+El estudio se realizó conforme a los requisitos de la Declaración de Helsinki y fue aprobado por el Comité de Ética de la institución, e incluyó consentimiento informado online firmado por los participantes.
+
+
+- RESULTADOS
+
+-- DEMOGRAFÍA
+
+Los 12 especialistas realizaron 291 consultas de teleoftalmología durante las diez semanas de duración del estudio. Un 58,1% de los pacientes fueron mujeres, con una edad media de 38,0 ± 22,5 años (rango 0-90 años).
+Un 85,4% de los pacientes atendidos procedían de la Región Metropolitana, 13,5% de otras provincias y 1,1% del extranjero.
+
+
+-- RESULTADOS CLÍNICOS
+
+La consulta recibida fue la primera en el Servicio de Oftalmología de UC-Christus para un 74,5% de los pacientes. Entre aquellos pacientes que ya habían asistido a consulta en nuestro servicio (25,5%) un 49,3% ya había acudido a consulta con el mismo especialista al que luego vieron para asistencia remota. El tiempo medio empleado en cada teleconsulta fue de 21 ± 8 minutos.
+La tabla 1 muestra las razones para acudir a consulta, categorizadas por signos y síntomas. Las razones más frecuentes fueron los procesos inflamatorios de la superficie ocular (43,3%) y de los párpados (36,1%).
+Los especialistas derivaron un 7,5% de los pacientes (n = 22) a consultas presenciales, de acuerdo con criterios de gravedad y/o factores de riesgo definidos previamente. Los hallazgos clínicos y de anamnesis que propiciaron consultas presenciales fueron la celulitis preseptal (n = 6), la sospecha de escleritis/queratitis (n = 5), los traumatismos oculares (n = 4), la sospecha de estrabismo (n = 4) y los síntomas vitreorretinales (n = 3).
+Un 83% de los pacientes recibió tratamiento con al menos un fármaco; los más habituales fueron los lubricantes oculares (35,6%), las gotas combinadas de antibióticos y corticoesteroides (28,4%), y los corticoesteroides de superficie (17,1%).
+La tabla 2 muestra los procedimientos de control indicados por los especialistas a los pacientes. La opción principal de control recomendada fue informar de los síntomas a través del correo electrónico (54,3%).
+
+
+-- ENCUESTA DE EVALUACIÓN (PACIENTES
+
+Con respecto a la encuesta de evaluación, 91 pacientes cumplimentaron el cuestionario, lo que equivale a un 31,2% del total de pacientes que recibieron una invitación por correo electrónico para participar en la encuesta. La mayoría de los pacientes (93,4%) afirmaron sentirse satisfechos con la asistencia prestada, con un porcentaje similar para los que se mostraron de acuerdo con otras afirmaciones sobre una asistencia sanitaria satisfactoria. Esto puede consultarse en la tabla 3 .
+En cuanto a la experiencia con la asistencia recibida, la mayoría de los pacientes (un 96,7%) consideró la teleoftalmología como un servicio útil, que volverían a utilizar y/o recomendarían (un 94,5%). Un 17,6% de los pacientes mencionó la necesidad de una segunda consulta.
+
+
+-- ENCUESTA DE EVALUACIÓN (ESPECIALISTAS
+
+Doce oftalmólogos cumplimentaron el cuestionario de evaluación, lo que representa un 100% de los especialistas que realizaron teleconsultas durante el período del estudio.
+Se realizó una evaluación de los recursos tecnológicos en una escala del 1 al 5, obteniendo una puntuación media de 4,4, con la nota más alta para el sistema de citas y la plataforma Zoom® (4,7), seguida del sistema de receta electrónica, con 4,3, y la historia clínica electrónica, con 3,9 puntos.
+En cuanto a la asistencia sanitaria prestada, un 100% de los oftalmólogos afirmaron sentirse satisfechos, y convencidos de que los pacientes tienen la misma impresión, siempre, o en la mayoría de las ocasiones. La tabla 4 especifica la frecuencia de estas afirmaciones.
+Con respecto al futuro de la telemedicina, 83% de los médicos la considera una herramienta que se seguirá utilizando, y 66,7% de ellos se plantea continuar con ella para atender a ciertos pacientes una vez concluya la pandemia. También se consideran potencialmente útiles otras modalidades de telemedicina: consultas remotas (100%), triaje de urgencias (92%), control de pacientes crónicos (92%), herramienta académica para seminarios (92%) y supervisión de residentes (41,7%).
+
+
+- DISCUSIÓN
+
+Según la información de que disponemos, el presente estudio es el primero en realizar una experiencia piloto en open care por telemedicina, dentro de la especialidad de oftalmología, en nuestro entorno.
+Con anterioridad a la implantación clínica de las teleconsultas en oftalmología, un comité de oftalmólogos con experiencia y formación reglada en bioética y psicología y en las subespecialidades de córnea, glaucoma, retina y oftalmología pediátrica, realizó una revisión de los aspectos éticos, legales y clínicos de la actividad y elaboró una guía clínica y ética para la misma, .
+Teniendo en cuenta que las consultas presenciales fueron suspendidas en nuestro servicio durante el período del estudio, el número de teleconsultas realizadas fue bajo (aproximadamente un 1,7% de la media mensual de consultas). Esto podría deberse a que la OTM-OC es un servicio completamente nuevo y sin precedentes, no muy conocido entre los pacientes y no incluido además en el catálogo de prestaciones sanitarias a las que tiene derecho un 98% de la población chilena.
+Tanto médicos como pacientes realizaron una evaluación positiva de los recursos tecnológicos utilizados con un alto grado de satisfacción, a pesar de ser una experiencia pionera en el ámbito de la oftalmología.
+Las razones principales de consulta fueron las inflamaciones de la superficie ocular y de los párpados, algo a considerar junto al número limitado de elementos clínicos disponibles para formular hipótesis diagnósticas y un plan terapéutico a la hora de definir las capacidades necesarias para realizar teleconsultas oftalmológicas.
+Es esencial considerar la TMO-OC como parte de un sistema integral de salud que deberá incluir un seguimiento longitudinal de pacientes por medio de canales digitales, así como un sistema de derivación para la asistencia presencial, diferida (postpandemia) o inmediata, si fuera necesario, de acuerdo con los factores de riesgo y gravedad definidos previamente.
+Una situación excepcional requiere medidas excepcionales. Así, aunque la TMO-OC posee importantes limitaciones, ha visto demostrada su validez en este estudio como herramienta de cribado para patologías oculares, y como un método relevante para el alivio del estrés de los pacientes por síntomas oculares de implicaciones desconocidas, para la reducción del número de consultas presenciales y, en última instancia, para la reducción del riesgo de infección de COVID-19, .
+De acuerdo con los resultados de nuestro estudio piloto, sugerimos los siguientes elementos como partes esenciales en una asistencia oftalmológica óptima:•Cobertura sanitaria, tanto pública como privada, que puede facilitar un mejor y más acceso horizontal de los pacientes a la asistencia sanitaria.•Garantías, por parte del centro sanitario, de una confidencialidad adecuada durante la videollamada y en la plataforma de registro de datos.•Formación del personal médico en tecnologías de videoconferencia, habilidades comunicativas virtuales, diagnóstico y tratamiento de patologías de la superficie ocular, y criterios de gravedad y derivación.•Formación para los pacientes sobre las indicaciones y limitaciones de esta modalidad de asistencia y sobre el proceso de firma del consentimiento informado.•Protocolo para la monitorización y seguimiento virtuales de las consultas realizadas (correo electrónico y videollamadas).•Registro de la asistencia prestada durante las visitas presenciales para el mismo cuadro clínico.•Sistema de derivación urgente para asistencia presencial inmediata en aquellas patologías que así lo requieran.
+Nuestro estudio tuvo las siguientes limitaciones:•El bajo porcentaje de respuestas obtenidas para la encuesta de evaluación, debido posiblemente a la realización de una encuesta anterior diseñada por la Red de Salud UC-Christus, y dirigida a todos los pacientes tratados por TM en todas las especialidades.•Dada la situación de confinamiento y la naturaleza descriptiva del estudio, no fue posible realizar un examen en persona de todos los pacientes atendidos de forma remota, a fin de reconfirmar las hipótesis de diagnóstico o la eficacia terapéutica del tratamiento prescrito tras cada consulta.
+Como conclusión, la telemedicina oftalmológica en su modalidad open-care durante el período de la pandemia ha sido un instrumento de utilidad en el cribado, con potencial para reducir el número de consultas presenciales y el riesgo de infección de COVID-19, además de proporcionar respuestas terapéuticas sencillas, que pueden reducir la incomodidad física y psicológica de los pacientes, con una gran satisfacción para éstos y para los especialistas.
+
+
+- FINANCIACIÓN
+
+Esta investigación no ha recibido ninguna ayuda económica específica de ninguna agencia del sector público o privado, ni de ninguna organización sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no declaran potenciales conflictos de intereses en la investigación, la autoría y/o la publicación de este artículo.

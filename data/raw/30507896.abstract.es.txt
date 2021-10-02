@@ -1,0 +1,4 @@
+Los tratamientos biológicos han aparecido como principal alternativa para el manejo de los pacientes con psoriasis en placa que no responden a tratamiento convencional, resultando necesario evaluar su real efectividad y seguridad.
+Realizamos una búsqueda en Epistemonikos, la mayor base de datos de revisiones sistemáticas en salud, la cual es mantenida mediante el cribado de múltiples fuentes de información, incluyendo MEDLINE, EMBASE, Cochrane, entre otras. Extrajimos los datos desde las revisiones identificadas, analizamos los datos de los estudios primarios, realizamos un metanálisis y preparamos una tabla de resumen de los resultados utilizando el método GRADE.
+Identificamos 21 revisiones sistemáticas que en conjunto incluyeron diez estudios primarios, todos correspondientes a ensayos aleatorizados. Concluimos que secukinumab logra mejoría clínica en pacientes con psoriasis en placa, aunque probablemente se asocia a efectos adversos graves.
+

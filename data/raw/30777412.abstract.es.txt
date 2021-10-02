@@ -1,0 +1,6 @@
+determinar y describir a nivel nacional las principales causas de muerte en adultos mayores por grado de rezago social (GRS), edad y sexo.
+la mortalidad en México ha disminuido de manera importante en los últimos años; sin embargo, existen grupos poblacionales rezagados.
+las principales causas de muerte en el GRS muy alto fueron enfermedades del corazón, neoplasias, desnutrición y anemia, diabetes mellitus (DM) y “falta de un diagnóstico preciso relacionado con el tipo de atención recibida”; en los otros GRS las causas fueron enfermedades del corazón, DM, neoplasias, enfermedad pulmonar obstructiva crónica y enfermedad vascular cerebral o enfermedades hepáticas.
+se detectaron varios perfiles de mortalidad; se sugiere la planeación de acciones específicas.
+se analizaron variables del Censo de Población y Vivienda, de las estadísticas de mortalidad y GRS del año 2010; las variables demográficas y socioeconómicas fueron edad, sexo, estado civil, derechohabiencia y localidad; las relacionadas con mortalidad fueron causa principal de muerte, año de defunción, edad y municipio de residencia del fallecido; el GRS que se analizó fue a nivel municipal. Se aplicaron técnicas para análisis de poblaciones y se utilizaron los paquetes estadísticos STATA© y SPSS©. Se analizó información de 1 197 496 adultos de ≥ 60 años que representaron a 10 602 181.
+

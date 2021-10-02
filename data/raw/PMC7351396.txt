@@ -1,0 +1,134 @@
+RECOMENDACIONES PRÁCTICAS EN LA PACIENTE OBSTÉTRICA CON INFECCIÓN POR COVID-19
+
+
+- INTRODUCCIÓN
+
+Durante estos meses una emergencia de salud pública, la pandemia de COVID-19 que hemos vivido en nuestros centros, ha provocado la suspensión de todas las cirugías programadas, algo sin precedentes. Sin embargo, la actividad obstétrica no se ha paralizado en ningún momento, dado que la obstetricia es una actividad difícilmente programable y que con frecuencia requiere de la participación del anestesiólogo en la mayor parte de los escenarios. Estos escenarios son: la analgesia en el parto, la atención a la cesárea o parto quirúrgico, la atención posparto o postoperatoria y la atención a la paciente gestante o puérpera con COVID-19 grave.
+Los cambios fisiológicos del embarazo hacen a la gestante menos tolerante a la hipoxia y más susceptible a las infecciones virales. La alteración en la regulación de las citoquinas y en la cascada del complemento puede tener consecuencias en el desarrollo y maduración de algunos sistemas fetales.
+Las mujeres embarazadas con diferentes enfermedades respiratorias virales parecen tener un alto riesgo de desarrollar complicaciones obstétricas y resultados adversos perinatales en comparación con las mujeres no grávidas, debido a los cambios en las respuestas inmunes. También podemos suponer que las mujeres embarazadas pueden estar en riesgo de desarrollar una enfermedad grave y mayor morbimortalidad en comparación con la población general. Así se observa en los casos de otras infecciones por coronavirus (incluido el coronavirus del síndrome respiratorio agudo severo [SARS-CoV] y el coronavirus del síndrome respiratorio del Medio Oriente [MERS- CoV]) y otras infecciones respiratorias virales, como la gripe, durante el embarazo. Con más de dos millones y medio de afectados en el mundo por la pandemia debida a SARS-CoV-2, tenemos actualmente datos suficientes para identificar a la población vulnerable y protegerla, .
+Los datos disponibles hoy día respecto a las series publicadas de gestantes con infección por COVID-19 son escasos. No parece existir hasta el momento evidencia alguna de una mayor incidencia de enfermedad grave en las pacientes gestantes en comparación con la población no gestante.
+Una serie de 147 casos de gestantes reveló que el 8% sufrían una enfermedad respiratoria grave y un 1% se consideraron pacientes críticas.
+La presentación clínica más frecuente es fiebre (68%) y tos (34%). Las alteraciones analíticas más frecuentes son: linfopenia (59%) y elevación de proteína C reactiva (70%). El 91% de casos se resolvió obstétricamente practicando una cesárea, habitualmente debido a riesgo de pérdida de bienestar fetal. En esta serie descrita, tres pacientes precisaron ingreso en UCI y no se registraron muertes maternas. Se documentó una muerte intrauterina fetal y una neonatal. Los autores recomiendan una vigilancia estrecha de los embarazos y medidas encaminadas a prevenir la infección neonatal, no pudiendo descartarse la transmisión vertical, .
+En otra reciente serie (45 cesáreas en un solo centro) la mayoría fueron realizadas con anestesia intradural. Cuando el anestesiólogo usó un nivel de protección 3 (mascarilla con filtro FFP2-3, traje completo impermeable y doble guante de protección), además de presión negativa en la estancia, el número de contagios se redujo significativamente (p < 0,01).
+En las últimas semanas hemos vivido un aluvión de protocolos y recomendaciones en torno al manejo de la gestante y en lo referente al manejo anestésico y la analgesia en el parto. Existe unanimidad respecto a la recomendación de técnicas regionales, siempre que la paciente obstétrica no esté hipoxémica, tolere el decúbito (SpO2 < 93%) y el recuento plaquetario se mantenga en límites aceptables (> 70.000 - 80.000/μL), .
+La transmisión al neonato puede ser vertical u horizontal. Hay escasa evidencia de la transmisión vertical (antes, durante o tras el parto por lactancia materna) en mujeres que adquieren la infección durante el tercer trimestre de embarazo. El riesgo de transmisión horizontal (por gotas o por contacto), a través habitualmente de un familiar próximo infectado, es igual que en la población general. Hasta ahora se han descrito pocos casos cuyo síntoma principal fue fiebre.
+En la fase actual de transpandemia o fase transicional de la pandemia, debe protegerse a la comunidad de forma universal, teniendo en cuenta los datos conocidos sobre la población obstétrica, con un alto porcentaje de gestantes asintomáticas con COVID-19 positivo. En un estudio sobre 215 pacientes, un 13,5% de las gestantes fueron COVID-19 positivo asintomáticas frente a gestantes con sintomatología leve, en un 1,9%. El cribado debe realizarse mediante un cuestionario clínico-epidemiológico, telefónicamente a distancia y prueba PCR con frotis de exudado nasofaríngeo con la menor antelación posible a su ingreso hospitalario.
+El objetivo de esta revisión es establecer unas recomendaciones basadas en la mejor evidencia disponible hasta ahora (22 de junio de 2020), que sirva de orientación a los anestesiólogos que tengan que proporcionar atención con altos estándares de calidad y con garantía de seguridad para los profesionales.
+Se discutirán aspectos relacionados con la seguridad del anestesiólogo, de la organización de la atención, la analgesia en el parto, la cesárea, la atención postoperatoria y algunos aspectos específicos relacionados con la paciente gestante o puérpera con COVID-19 grave. Dado que aparecen continuamente nuevas evidencias (casi a diario) las guías están en continua evolución y pueden tener que cambiar en los próximos meses.
+
+
+- EQUIPOS DE PROTECCIÓN INDIVIDUAL (EPI
+
+Se trata de las prendas especializadas y usadas por los anestesiólogos (y otros profesionales sanitarios) para protegerse y prevenir la diseminación de la infección formando la primera medida de barrera contra la enfermedad. Incluye guantes, batas, delantales, gafas y visores y mascarillas.
+El uso de EPI no garantiza la protección total, ya que es muy importante la colocación y retirada correctas de dichos EPI, así como una higiene rigurosa, . Conviene seguir las recomendaciones locales de los servicios de medicina laboral/protección de riesgos laborales y/o medicina preventiva en caso de que las haya. En caso contrario, se seguirán las recomendaciones del Ministerio de Sanidad y de las sociedades científicas, siendo aconsejable un entrenamiento previo mediante talleres de formación o simulación, un checklist de autoayuda para su colocación y retirada y finalmente, si es posible, contar con un observador en el momento de la retirada del equipo.
+Los aspectos técnicos de protección de cada mascarilla y componente del EPI no son el objeto de esta revisión.
+Se sugiere que se extremen las medidas de precaución y se adopte el nivel máximo de protección ante una anestesia general y también si existen elevadas posibilidades de que el bloqueo neuroaxial deba ser convertido en anestesia general. Se recomienda, asimismo, la existencia de un algoritmo de actuación ante el bloqueo fallido, para paciente COVID y no COVID.
+
+
+- GESTANTE ENFERMA POR COVID-19: ENFERMEDAD LEVE, MODERADA O GRAVE
+
+Según la gravedad del cuadro infeccioso que presenten las mujeres gestantes, pueden requerir destinos distintos y terapias diferenciadas. Los anestesiólogos formamos parte del equipo multidisciplinar en la valoración de la gravedad de estas pacientes, su seguimiento y su cuidado perioperatorio, por lo que una valoración exhaustiva de las gestantes ingresadas, gracias al uso de algoritmos como el presentado en la figura 1 , permite aumentar la eficiencia de nuestro cuidado: Figura 1
+
+
+- CUIDADOS ANESTÉSICOS CON COVID-19 POSIBLE, PROBABLE O CONFIRMADO: GENERALIDADES
+
+Debe realizarse un esfuerzo coordinado entre todos para asegurar la protección y cuidado de pacientes y profesionales sanitarios y también para evitar la transmisión nosocomial de la infección del nuevo coronavirus (fig. 2 ).Figura 2
+En una paciente infectada con COVID-19, el momento de mayor riesgo de exposición de los profesionales al virus es el relacionado con la exposición y contacto directo con gotas provenientes de la vía aérea durante la manipulación de la misma, sobre todo durante la intubación y extubación traqueal.
+El uso adecuado de los EPI y la correcta higiene de manos son factores que pueden contribuir significativamente a controlar la transmisión del virus.
+Los EPI deben colocarse y retirarse siguiendo un estricto protocolo previamente ensayado y, en el caso de la analgesia neuroaxial para el parto, se debe colocar fuera de la sala donde está la paciente.
+Las siguientes recomendaciones fueron publicadas desde el inicio de la pandemia:-Ante un caso de infección por SARS-CoV-2 en una paciente embarazada, se deberán adoptar las mismas medidas de aislamiento que en pacientes infectados no gestantes.-En el periodo periparto, la mujer deberá realizar su periodo de dilatación y/o parto y recuperación posparto en las mismas condiciones de aislamiento.-Los procedimientos quirúrgicos en pacientes obstétricas deben planearse y coordinarse dentro de un equipo multidisciplinar, con la mayor anticipación posible.-Las mujeres no deben enviarse a una sala común con otros pacientes de recuperación postanestésica para así evitar la transmisión a otros pacientes y/o profesionales sanitarios.-La evidencia es escasa en cuanto a la seguridad neonatal. La comunicación con el equipo pediátrico es esencial para planificar el cuidado del neonato desde el nacimiento.
+La protección personal (EPI) es una prioridad: las mascarillas FFP2 o FFP3 son obligatorias durante la manipulación de la vía aérea, así como guantes, bata de protección impermeable y gafas estancas, de acuerdo con las recomendaciones de la OMS, el Ministerio de Sanidad y otros organismos y sociedades nacionales e internacionales.
+El personal debe recibir formación y simulación para la correcta colocación y retirada de los EPI.
+Las técnicas de anestesia general, o cuando haya riesgo elevado de conversión de una técnica regional a general, requerirán una mayor protección del anestesiólogo a cargo.
+
+
+- RECOMENDACIONES EN ANALGESIA DE PARTO PARA LAS PACIENTES OBSTÉTRICAS CON COVID-19
+
+Los datos publicados hasta el momento no son abundantes, pero cada vez hay más casos y series publicadas.
+La analgesia neuroaxial se recomienda para mujeres con sospecha o infección confirmada por COVID-19. No hay evidencia de contraindicación alguna para ello y la aplicación de estas técnicas puede evitar la necesidad de una anestesia general en caso de urgencia, , .
+Sin embargo, se ha descrito una trombocitopenia leve en pacientes no gestantes hospitalizados con COVID-19. En pacientes con un nivel de gravedad mayor, la trombocitopenia puede ser más notoria, si bien recuentos plaquetarios por debajo de 100.000/μL son raros.
+La eficacia del bloqueo debe vigilarse estrechamente para evitar el riesgo de un bloqueo fallido ante una posible cesárea. Deben desarrollarse protocolos de actuación frente al bloqueo fallido en cada hospital.
+El EPI mínimo necesario para un bloqueo epidural es: gorro, protección ocular, mascarilla quirúrgica, bata estéril resistente al paso de fluidos y guantes estériles.
+Con frecuencia la analgesia epidural se asocia a fiebre intraparto. Si la paciente es, además, COVID-19, se debe monitorizar aún más cuidadosamente y atender a los posibles efectos negativos de la fiebre sobre el feto.
+Respecto a la técnica anestésica, se redactaron las siguientes recomendaciones:•En relación con la técnica neuroaxial:-Se aconseja la analgesia neuroaxial (epidural o combinada), precozmente, para evitar cualquier posibilidad de una cesárea urgente con anestesia general.-Se debe tener un recuento plaquetario reciente dada la posibilidad de trombocitopenia leve asociada a la infección por COVID-19.-No hay evidencia de que una técnica neuroaxial tenga más riesgo que otra, por lo que la decisión dependerá del anestesiólogo (epidural, intradural o combinada) y de la práctica local.•En relación con las alternativas a la analgesia neuroaxial:-No se recomienda el uso de técnicas de analgesia inhalatoria por el elevado riesgo de generación de aerosoles y diseminación aérea del virus.-Las técnicas analgésicas intravenosas con remifentanilo requieren una vigilancia estrecha y directa por el anestesiólogo y pueden incrementar el riesgo de transmisión al personal, además de aumentar el riesgo de hipoxia en una paciente con neumonía.-En mujeres con COVID-19 y SpO2 < 95%, con o sin oxígeno suplementario, no se recomienda el uso de remifentanilo.
+
+
+- PREPARACIÓN, EVALUACIÓN Y MONITORIZACIÓN DE LA PACIENTE OBSTÉTRICA
+
+Es importante insistir que el entorno obstétrico es un medio en el que la comunicación y el trabajo multidisciplinar son elementos fundamentales. La propia naturaleza del trabajo en esta área hace que se tengan que tomar decisiones rápidas con frecuencia, por lo que la toma de decisiones debe ser necesariamente multidisciplinar y protocolizada siempre que sea posible.
+Las pacientes con sospecha de COVID-19 o casos confirmados deben evaluarse cuidadosamente en busca de posibles complicaciones específicas o bien en busca de signos de gravedad.
+En la anamnesis, que puede ser telemática, se debe interrogar respecto a signos y síntomas. Los más frecuentes son: fiebre y tos, alteraciones del gusto y del olfato, se puede interrogar sobre signos de insuficiencia respiratoria y en la actualidad se recomienda la realización de prueba PCR a todas las gestantes antes del ingreso. Una analítica básica y un panel metabólico completo parecen razonables, e incluso una gasometría arterial según el estado clínico. En caso de afectación respiratoria está justificado el uso de pruebas radiológicas en función de la gravedad y sospecha diagnóstica, informando y obteniendo el consentimiento informado de la paciente siempre que sea posible.
+Los riesgos y/o beneficios de la terapia tocolítica, de los corticoides para la maduración fetal, del sulfato de magnesio como neuroprotección del feto, etc., aún deben establecerse del todo en la paciente COVID-19.
+Antes de llevar a la paciente a quirófano para una cesárea, debe discutirse y consensuarse un plan respecto: al traslado a quirófano, a la colocación previa de los EPI recomendados, a las necesidades de fármacos y técnicas necesarias, al lugar de recuperación postanestésica y al destino en la sala de hospitalización. La planificación del circuito de la paciente COVID-19 es esencial para la seguridad de todo el equipo.
+Antes del bloqueo neuroaxial es conveniente disponer de un recuento plaquetario reciente, no necesariamente del mismo día, para comprobar si existe trombocitopenia. Esta trombocitopenia, descrita en los casos COVID-19, hasta ahora ha sido leve y en ningún caso se ha descrito por debajo de las 80.000/μL, nivel considerado seguro.
+Con frecuencia las pacientes obstétricas diagnosticadas de COVID-19 están en tratamiento con heparina de bajo peso molecular de forma profiláctica o terapéutica. Se debe recordar el respeto a los intervalos de seguridad para evitar complicaciones potencialmente graves.
+La monitorización rutinaria incluye la habitual, con especial atención a la pulsioximetría, donde el objetivo es mantener SpO2 por encima de 95% (con o sin oxígeno). Herramientas como los sistemas de detección precoz de anomalías (MEOWS) pueden ser útiles.
+A las mujeres con SpO2 < 95% o que requieren oxígeno suplementario para mantener esa saturación, se les debe hacer una gasometría lo antes posible y deben ser sometidas a monitorización y vigilancia por si precisan ventilación mecánica. La necesidad progresiva de oxígeno es un marcador de deterioro.
+Una vez en ventilación mecánica, se debe recordar que, en la gestante, los niveles fisiológicos de PaCO2 son 28-32mmHg., teniendo en cuenta el aumento en el aporte de oxígeno al feto, si bien la prioridad es mantener la oxigenación materna.
+
+
+- LA CESÁREA DE UNA PACIENTE COVID-19 (CASO SOSPECHOSO O CONFIRMADO
+
+Hay una serie de aspectos clave para asegurar el éxito y aumentar la seguridad para el personal y, por ende, para la parturienta:-Transporte adecuado desde la sala de dilatación o la planta al quirófano. Se debe garantizar un traslado sincronizado y seguro.-Se debe minimizar el número de personas en el quirófano.-Se recomienda una lista de fármacos necesarios en el quirófano COVID (se recomienda un «check list» específico y añadir lo que sea diferente en función de las peculiaridades de la paciente).-Registro intraoperatorio de eventos, constantes y actos anestésicos (electrónico o papel).-Estrategia consensuada de atención postoperatoria.
+
+
+-- CESÁREA PROGRAMADA
+
+Siempre que sea posible, se diseñará un quirófano y circuito específico COVID, separado del circuito no COVID. Si esto no es posible en el quirófano, la paciente COVID se programará en último lugar, para facilitar la limpieza de quirófano.
+Se recomienda la anestesia neuroaxial realizada por un anestesiólogo experto y con el equipo de protección que permita evitar retrasos y/o accidentes en caso de conversión en anestesia general.
+Las recomendaciones españolas contemplan los siguientes aspectos con respecto a la cesárea en paciente COVID-19:
+Antes de la cesárea: se debe preparar el quirófano y la medicación necesaria, tener un plan y colocación previa del EPI. El lugar necesario para la recuperación postoperatoria, debe consensuarse y planearse en función del estado de la paciente y sus necesidades (quirófano, URPA, UCI).
+Con respecto a la cesárea: la anestesia general es un procedimiento de alto riesgo y por lo tanto no se recomienda para la cesárea como primera opción.
+Se recomienda anestesia general si la paciente con COVID-19 tiene SpO2 < 93% (a pesar de oxígeno suplementario). La intubación se hará por parte de la persona más experta. Se seguirán los protocolos vigentes en términos de preoxigenación e inducción de secuencia rápida (se recomienda protocolo local), etc., habituales en pacientes gestantes.
+En caso de intubación difícil, se sugiere el uso de videolaringoscopio y/o dispositivos supraglóticos de segunda generación como opción inicial, siempre que se cuente con experiencia en su uso.
+La comprobación de la intubación se hará con capnografía, no mediante auscultación.
+Se debe reducir al mínimo el número de personas en el quirófano
+La extubación es un procedimiento de riesgo. Se debe evitar la tos y se sugiere el uso de plásticos para proteger de la generación de aerosoles.
+Si no existe contraindicación, la anestesia neuroaxial (intradural, epidural o combinada) es la técnica recomendada.
+Se debe prevenir la aparición de hipotensión arterial con el uso adecuado de vasopresores. Esta estrategia además ayudará a evitar vómitos intraoperatorios. Se recomienda el uso de profilaxis antiemética adicional rutinaria, aunque no dexametasona, .
+Se recomienda el uso de algoritmos locales de actuación frente al bloqueo fallido, para así minimizar la posibilidad de una anestesia general por bloqueo insuficiente.
+
+
+-- CESÁREA URGENTE
+
+La anestesia neuroaxial sigue siendo la técnica recomendada para evitar los riesgos asociados a la aerosolización, .
+Si existe riesgo de conversión a anestesia general, se recomienda el uso de medidas de protección máxima del personal de anestesia (nivel 3).
+En caso de precisar anestesia general, cualquier «check list» para anestesia general, se podrá adaptar para la cesárea. Las precauciones y medidas estándar ante una anestesia general para cesárea deben seguirse en los casos COVID-19.
+Se debe prestar especial atención en evitar desconexiones accidentales del circuito, para evitar que se produzca alguna contaminación accidental por el virus.
+Los cambios fisiológicos del embarazo y la infección por COVID hacen a la paciente obstétrica más susceptible a la hipoxia, por lo que es importante la preoxigenación, si bien, en general no se recomienda el uso de gafas de alto flujo.
+Se sugiere el uso de dos pares de guantes para intubar, dada la posibilidad de contaminación con secreciones.
+Para evitar la tos en la extubación se puede usar dexmedetomidina, remifentanilo, fentanilo, lidocaína iv o traqueal).
+La utilidad de estas estrategias en la paciente COVID aún no ha sido establecida y posiblemente aparezcan evidencias en los próximos meses.
+En la paciente gestante sometida a cirugía no obstétrica con carácter urgente o no demorable, posiblemente serían de aplicación las recomendaciones habituales para cada caso con las medidas de prevención actuales en caso de sospecha de infección o infección confirmada por COVID-19.
+
+
+- CUIDADOS POSTOPERATORIOS
+
+Se recomienda el aislamiento y traslado a áreas COVID en el postoperatorio.
+Durante el traslado de pacientes extubadas, éstas deben llevar una mascarilla quirúrgica, . Si el traslado es con administración de oxígeno suplementario, la mascarilla se colocará por encima.
+No hay datos que indiquen que no se deban usar los antiinflamatorios no esteroideos para el tratamiento del dolor postoperatorio en pacientes con COVID-19.
+En cuanto a la separación materna del neonato o no, nos remitimos a las vigentes recomendaciones del Ministerio de Sanidad. Existen otras guías internacionales al respecto y también para la lactancia materna.
+Cada vez hay mayor evidencia respecto a la hipercoagulabilidad, dado que se suman varios factores (hospitalización, infección y embarazo), unido al aislamiento. En el Reino Unido se recomienda que toda mujer embarazada hospitalizada con sospecha o COVID-19 confirmado, debe recibir HBPM, a menos que se espere el nacimiento en las siguientes 12 horas.
+Los estándares de atención de las pacientes obstétricas deben mantenerse a pesar de la pandemia, y los hospitales deben esforzarse en proporcionar y mantener dichos estándares.
+Las recomendaciones nacionales contemplan los siguientes aspectos:
+Ante un caso de infección por SARS-CoV-2 en una paciente embarazada, se deberán adoptar las mismas medidas de aislamiento que en pacientes infectados no gestantes. En el periodo periparto, la mujer deberá realizar su periodo de dilatación y/o parto y recuperación posparto en las mismas condiciones de aislamiento.
+Existe evidencia de hipercoagulabilidad en el embarazo y en pacientes con COVID-19. Se sugiere la aplicación de guías y recomendaciones de anticoagulación en gestantes COVID de la SEDAR. En el Reino Unido se recomienda profilaxis con HBPM a toda embarazada con COVID-19, a menos que se espere el alumbramiento en las siguientes 12 horas.
+Las mujeres no deben enviarse a una sala común con otros pacientes de recuperación postanestésica, para así evitar la transmisión a otros pacientes y/o profesionales sanitarios.
+No hay datos sobre la seguridad del parche hemático en caso de cefalea pospunción dural (no hay descritos hasta el momento). El bloqueo del ganglio esfenopalatino puede generar aerosoles y, por tanto, debiera evitarse como opción terapéutica ante una cefalea pospunción dural.
+La protección personal es una prioridad: las mascarillas FFP2 o FFP3 son obligatorias durante la manipulación de la vía aérea, así como guantes, bata de protección impermeable y gafas, de acuerdo con las recomendaciones de la OMS, el Ministerio de Sanidad y otros organismos y sociedades nacionales e internacionales. Las técnicas de anestesia general, o cuando haya riesgo elevado de conversión de una técnica regional a general, requerirán una mayor protección del anestesiólogo a cargo.
+Es importante el reconocimiento precoz de la paciente con COVID-19 gestante grave y el diagnóstico diferencial con otros cuadros. La implicación en el equipo de un médico especialista en cuidados críticos (anestesiólogo ó intensivista) y la ayuda de pruebas de ecocardiografía, ayudarán a guiar el tratamiento en un sentido u otro .
+
+
+- CONCLUSIONES
+
+Aunque las pacientes obstétricas podrían tener una mayor susceptibilidad a la infección por COVID-19, no parece que sea el caso en la actualidad.
+El trabajo en equipo multidisciplinar se erige en un pilar fundamental en estas pacientes, dado que está en juego la seguridad de muchas personas.
+Las técnicas de anestesia y analgesia neuroaxial parecen seguras en la paciente obstétrica.
+La anticoagulación sistemática debe considerarse.
+La práctica en la colocación y retirada de EPI es importante para la seguridad de todos.
+Existen más incertidumbres que certezas, pero el sentido común y algunas recomendaciones pueden ser de utilidad.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

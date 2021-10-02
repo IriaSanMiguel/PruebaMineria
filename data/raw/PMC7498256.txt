@@ -1,0 +1,72 @@
+REPERCUSIÓN DE LA PANDEMIA COVID-19 SOBRE LA ACTIVIDAD QUIRÚRGICA DE UROLOGÍA PEDIÁTRICA: ANÁLISIS DE LAS COMPLICACIONES POSQUIRÚRGICAS SEGÚN LA CLASIFICACIÓN DE CLAVIEN-DINDO
+
+
+- INTRODUCCIÓN
+
+Desde diciembre de 2019, el brote de neumonía infecciosa conocida como coronavirus disease 2019 (COVID-19), originada por el virus SARS-CoV-2 ha ido expandiéndose y ocasionando una pandemia de repercusión mundial. En España, país europeo especialmente afectado por COVID-19, los casos diagnosticados fueron en aumento hasta superar el medio millar de casos confirmados, provocando la declaración del estado de alarma para la gestión de la situación de crisis sanitaria (Real Decreto 463/2020 del 14 de marzo). Entre la población afectada se incluían niños, en quienes los cuadros clínicos registrados fueron de menor gravedad, siendo los síntomas más frecuentes fiebre, tos y rinorrea, en el contexto de infecciones respiratorias de vías altas y neumonía, .
+Paralelamente a las medidas sociopolíticas tomadas con la declaración del estado de alarma, la necesidad de dedicar los recursos económicos y asistenciales a pacientes COVID-19 adultos, más afectados por dicha patología que los pediátricos, derivó en la reestructuración de las actividades e infraestructuras médico-quirúrgicas pediátricas, suspendiéndose la actividad quirúrgica no urgente o programada de Urología Pediátrica. En este contexto, la Asociación Europea de Urología (EAU) y la Sociedad Europea de Urología Pediátrica (ESPU) describieron unas recomendaciones detallando qué patología urológica pediátrica debía ser pospuesta dada la situación que acontecía, y cuáles deberían continuar tratándose con brevedad debido a su potencial repercusión clínica, .
+De semejante manera, con la mejoría de la situación y la tendencia decreciente en el número de contagios y decesos diarios, la actividad comercial se reanudó progresivamente y cesaron las restricciones de aislamiento. Estas medidas de desescalada fueron estadificadas en fases en función de cada comunidad autónoma (CA) española y los casos de COVID-19 registrados en la misma. Igualmente se reanudó la actividad quirúrgica infantil, no sin que ello requiriese de una readaptación de las prioridades quirúrgicas previamente establecidas, que la EAU/ESPU propuso fueran recíprocas a las introducidas previamente, .
+La clasificación Clavien-Dindo de complicaciones quirúrgicas surgió de la necesidad de eliminar la subjetividad a la hora de describir las complicaciones o desviaciones en el curso normal del periodo postoperatorio. Esta clasificación, propuesta para la población adulta en el 2004 y aplicada a pacientes pediátricos posteriormente, permite describir de manera objetiva y comparativa las complicaciones en función del tratamiento requerido para la resolución de la misma.
+El objetivo de este estudio fue analizar la repercusión de la pandemia COVID-19 sobre la actividad quirúrgica de la sección de Urología Pediátrica en un hospital de tercer nivel español desde la implantación del estado de alarma, mediante el análisis de la patología intervenida y la prioridad de la misma. Así mismo, se pretende evaluar las complicaciones quirúrgicas registradas en dichos pacientes, según la clasificación de Clavien-Dindo.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Realizamos un estudio observacional retrospectivo registrando la actividad quirúrgica realizada por la sección de Urología Pediátrica desde la declaración del estado de alarma (Real Decreto 463/2020 del 14 de marzo) y hasta el levantamiento del mismo, el 21/06/2020 (Real Decreto-ley 21/2020 de 9 de junio).
+El periodo de tiempo fue dividido en cinco fases o bloques temporales, en función de su relación con las medidas sociopolíticas y las fases de desescalada dentro del plan para la transición a una nueva normalidad adoptadas en Madrid, CA del hospital analizado. Estas fases fueron implantadas de manera asimétrica en función de los datos epidemiológicos, movilidad e impacto social y económico de cada CA del estado español. Se denominaron:-Fase previa - Periodo desde la declaración del estado de alarma hasta el inicio de las medidas de desescalada. Del 14/03/2020-04/05/2020.-Fase 0 o de preparación. Del 04/05/2020-18/05/2020.-Fase 0 con medidas de alivio (o 0,5). Del 18/05/2020-25/05/2020.-Fase 1 o inicial. Del 25/05/2020-08/06/2020.-Fase 2 o intermedia. Del 08/06/2020-21/06/2020.
+Se incluyeron todos los pacientes intervenidos de patología urológica menores de 16 años, seguidos o valorados por la sección de Urología Pediátrica tras tomarse muestras para la prueba de PCR del SARS-CoV-2 y obtener el consentimiento escrito de los padres o tutores legales para la realización de la intervención. Se excluyeron aquellos pacientes cuyos padres o tutores legales no aceptaron la intervención quirúrgica.
+
+
+-- DATOS
+
+Se procedió a la revisión sistemática de los datos epidemiológicos, clínicos y quirúrgicos de los pacientes mediante la revisión del historial médico electrónico, incluyendo las características de las complicaciones, tratamiento de las mismas y reingresos en los primeros 30 días posquirúrgicos. Así mismo, se interrogó por fiebre o inicio de cuadros infecciosos de vías altas en la primera revisión posoperatoria a los siete-14 días de la intervención.
+Los criterios seguidos para seleccionar la prioridad del procedimiento quirúrgico fueron las recomendaciones indicadas por la EAU/ESPU, , diferenciando cuatro grupos en función del daño clínico que supondría el retraso en la realización del mismo (tabla 1 ).
+
+
+-- CLASIFICACIÓN DE CLAVIEN-DINDO DE COMPLICACIONES QUIRÚRGICAS
+
+Se procedió a la identificación y graduación de las complicaciones, siguiendo la clasificación de Clavien-Dindo basada en el tratamiento requerido para corrección de la misma como principio para graduarla. Engloba las complicaciones en siete grados, como se muestra en la tabla 2 .
+
+
+- RESULTADOS
+
+Se realizaron un total de 49 intervenciones quirúrgicas en 45 pacientes en el periodo de tiempo analizado (13/03/2020-21/06/2020), 13 de las cuales fueron de sexo femenino. Dos pacientes fueron intervenidos de dos procedimientos diferentes en un mismo acto quirúrgico, mientras que otros dos pacientes se reintervinieron dentro del tiempo estudiado para la retirada del doble J insertado al final del primer procedimiento, siendo excluidos del análisis comparativo. Ocho pacientes fueron intervenidos antes de la implantación de las fases de desescalada y 37 en las fases 0-2 del plan para la transición a una nueva normalidad, distribuidos como se muestra en la figura 1 .Figura 1
+Ninguno de los pacientes estudiados fue excluido por positividad de la PCR del SARS-CoV-2, pese a que cinco se consideraron como tales y se tomaron las medidas de seguridad personal oportunas, dada la urgencia de la intervención quirúrgica (torsión testicular).
+
+
+-- PRIORIDAD
+
+Se observó un mayor porcentaje de intervenciones quirúrgicas de prioridad alta en las primeras tres fases de la desescalada analizada (predesescalada, fase 0 y fase 0,5), disminuyendo de forma gradual. Inversamente, la tasa de intervenciones de baja prioridad fue en aumento conforme progresaron las fases de desescalada. Las fases con mayor proporción de intervenciones urgentes fueron la fase 1 y la 2, con tres intervenciones urgentes en cada una de ellas (tabla 3 y figura 2 ).Figura 2
+
+
+-- PATOLOGÍAS
+
+La patología descrita que requirió tratamiento quirúrgico más frecuentemente durante el periodo de tiempo evaluado fue la estenosis de la unión piolureteral (EPU), referida en 10 pacientes. El resto de las patologías se recogen en el Apéndice (ver material adicional).
+Destacamos a dos pacientes por su complejidad. Un paciente con síndrome de Prune Belly, previamente seguido en su país de origen con creación de ureterostomía derecha, pero que a nuestra valoración no aportaba informes que describiesen su anatomía renoureteral ni procedimientos diagnóstico-terapéuticos realizados y que fue diagnosticado de criptorquidia. Previo al abordaje laparoscópico para realizar el primer tiempo de Stephen Fowler, se realizó una cistoscopia exploratoria evidenciando una imagen compatible con válvulas de uretra posterior, no sospechadas previamente, que se resecaron en el mismo acto quirúrgico. Otro paciente fue un chico de 11 años que contaba como antecedente personal un rabdomiosarcoma vesicoprostático embrionario, intervenido en dos ocasiones a los seis y nueve meses de edad, recibiendo posteriormente radioterapia adyuvante, en seguimiento en conjunto con cirugía general por desarrollo de una fístula rectouretral complicada con infecciones del tracto urinario de repetición. En la cistoscopia se visualizó la fistula con paso de fecalitos de recto a uretra, realizándose retirada de los mismos, lo que favoreció la resolución de los cuadros infecciosos sin nueva clínica hasta la fecha de la revisión.
+
+
+-- COMPLICACIONES
+
+Se registraron cuatro complicaciones (8,8%), una complicación grado I y tres complicaciones grado II, según la clasificación de Clavien-Dindo (tabla 4 ).
+No se registró ninguna complicación respiratoria o fiebre de origen desconocido en el postoperatorio de los 45 pacientes.
+
+
+- DISCUSIÓN
+
+Nuestro estudio analiza la repercusión de la pandemia COVID-19 sobre la actividad quirúrgica en una sección de Urología Pediátrica en un hospital de tercer nivel español, desde la implantación del estado de alarma. Describe la sucesión de fases y la reincorporación gradual de la actividad quirúrgica, adaptando las indicaciones de las patologías urológicas al limitado número de horas quirúrgicas disponibles, dada la situación pandémica que acontecía, demostrando que con la aplicación de las recomendaciones de la EAU se puede retomar la actividad quirúrgica sin aumentar el riesgo de complicaciones respiratorias.
+Al analizar la prioridad de las patologías intervenidas, y dado que seguimos las recomendaciones de la EAU con respecto a la capacidad de demorar las patologías en función del potencial daño clínico que supondría en el paciente, no es de extrañar que el periodo en el que se presentó más porcentaje de prioridad alta sea el primero, o la fase de predesescalada. Existen ciertas intervenciones quirúrgicas de menor prioridad que destacan en las primeras fases, que se pueden explicar al ser procedimientos de menor tiempo quirúrgico y que pueden complementar la actividad quirúrgica diaria propuesta, priorizando tiempos de espera de inclusión en lista de espera.
+Destaca también que la patología de prioridad urgente, aunque sin analizar su significación estadística, fue más prevalente en las últimas etapas. En ese sentido, queríamos resaltar el desenlace adverso que sufrieron dos tercios de los pacientes en los que se tuvo que realizar orquiectomía por mal aspecto del teste afecto. Esto concuerda con trabajos previos que describen cuadros clínicos más evolucionados en pacientes pediátricos en probable relación con retraso en consultar por miedo a la infección por COVID-19. Hay que resaltar la importancia de la asistencia no demorada a los servicios de atención hospitalaria urgente ante enfermedades de alta prevalencia y repercusión clínica, como la torsión testicular, debiéndose aumentar la conciencia social.
+Analizando las complicaciones, los resultados muestran una tasa del 8,8%, pero sin registrarse ninguna complicación tipo III o IV. Estas últimas incluirían aquellas que requiriesen de intervención quirúrgica o de ingreso en UCI y, por tanto, podrían considerarse complicaciones mayores o de alta gravedad. En nuestros pacientes no se han descrito complicaciones de origen respiratorio, habiéndose recogido complicaciones de carácter infeccioso que afectaban únicamente la vía urinaria, sin aparente relación con la pandemia.
+
+
+- CONCLUSIONES
+
+La infección por COVID-19 ha supuesto una modificación de la actividad quirúrgica pediátrica en muchos aspectos, debiendo adaptarse los recursos físicos, personales y materiales a la situación de emergencia. En Urología Pediátrica, las recomendaciones de la EAU/ESPU para la readaptación de la actividad quirúrgica han permitido una correcta y gradual transición al ritmo quirúrgico habitual.
+La clasificación de Clavien-Dindo de las complicaciones quirúrgicas es útil y válida para su aplicación en Urología Pediátrica. No se han descrito complicaciones respiratorias, infecciosas o no, en la población pediátrica intervenida durante el periodo de tiempo analizado, sin que esto demuestre necesariamente una nula tasa de infección.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

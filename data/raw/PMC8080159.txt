@@ -1,0 +1,23 @@
+REINFECCIÓN, REACTIVACIÓN O COMPLICACIÓN TARDÍA DE LA INFECCIÓN INICIAL POR SARS-COV-2
+
+
+Sr. Editor:
+A medida que avanzan los meses y aumenta el número de infecciones por SARS-CoV-2 (COVID-19) se identifican situaciones clínicas nuevas y complejas a las que se les intenta dar respuesta desde un punto de vista etiopatogénico. Así pues, existen personas que habiendo padecido la infección por la COVID-19 y presentando mejoría y negativización de las pruebas microbiológicas, posteriormente vuelven a presentar sintomatología compatible con la misma infección y positivización de las pruebas de laboratorio.
+Mientras que algunos autores sostienen que se trata de portadores asintomáticos del virus, otros creen que es un efecto residual de la infección inicial en las vías respiratorias bajas que, por la tos recurrente, se transfiere a las vías altas. Por otro lado, algunos opinan que esta situación representa complicaciones tardías de la infección inicial o que, sobre todo, en pacientes inmunodeprimidos y de edad avanzada, el aclaramiento viral puede ser más lento favoreciendo así la reactivación del virus.
+Se presenta un estudio descriptivo de una serie de seis casos en los que tras haber padecido COVID-19 confirmada se aisló por segunda vez el SARS-CoV-2, a través de PCR nasofaríngea entre octubre y noviembre de 2020. Se realizó un análisis descriptivo de las principales variables sociodemográficas, así como variables de interés clínico y epidemiológico. El estudio fue aprobado por el Comité de Ética de la Investigación de la Comunidad Autónoma de referencia (CEImPA 2020.550).
+Se identificaron cuatro mujeres y dos hombres. La media de edad fue 68,5 años. En el primer episodio, cuatro de los seis pacientes presentaron síntomas de intensidad variable, desde tos y mucosidad nasal hasta neumonía bilateral grave. Cuatro de los seis pacientes presentaban enfermedades crónicas sin inmunodepresión y estaban polimedicados. El número de copias del SARS-CoV-2 osciló entre 17.864 copias y 66.988.460 copias.
+En el segundo episodio, los seis pacientes presentaron síntomas y el número de copias fue muy inferior al inicial. Cuatro pacientes precisaron ingreso hospitalario. Uno de ellos falleció a los 11 días del ingreso. La tabla 1 muestra información detallada sobre las variables clínicas y epidemiológicas del estudio.
+La serie incluye pacientes de avanzada edad con diabetes mellitus, obesidad, HTA y cáncer, pero también una persona más joven sin antecedentes de interés y una gestante. Hoy por hoy, no existe ningún marcador específico que sea capaz de predecir una nueva repositivización de las PCR para coronavirus.
+El tiempo entre la detección inicial y la negativización registró una media de 15,1 días. El tiempo medio entre la negativización y la nueva positivización fue 13,3 días. La nueva PCR positiva se ha identificado en un rango de entre 3 y 22 días, muy similar a lo registrado en otras series, , , . Se cree que cuando la repositivización se produce en un breve período de tiempo se debe a la secreción intermitente y prolongada del virus en la nasofaringe o a la detección de fragmentos de ARN viral que no necesariamente implica infección activa ni transmisibilidad. En estos casos, los pacientes son asintomáticos o presentan sintomatología leve. Cuando la nueva PCR positiva tiene lugar en un rango mayor de tiempo, esto suele estar asociado con sintomatología más marcada, e incluso, a síntomas diferentes a los primeros, siendo la hipótesis más plausible la complicación tardía de la infección inicial.
+Teniendo en cuenta lo anterior, los autores consideramos que esta situación corresponde con una serie de complicaciones tardías de la infección inicial, más que con nuevas infecciones, ya que principalmente se observa un corto período de tiempo entre ambos episodios, síntomas marcados y hospitalización en la mayoría de los casos.
+Por último, a pesar de que la mayoría de los autores comparten que estos pacientes no tienen capacidad para contagiar, parece oportuno aplicar el principio de precaución, y que el manejo de estos pacientes sea igual que el de los individuos en los que se detecta la infección por primera vez. Finalmente, dado que se trata de un fenómeno muy reciente y del que se desconoce la trascendencia en términos de salud pública, resulta de interés realizar un registro exhaustivo y seguimiento de los casos con el fin de ampliar el conocimiento de la COVID-19 y, en consecuencia, su prevención, control y tratamiento.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,130 @@
+INFECCIONES POR VIRUS DE LA GRIPE Y VIRUS RESPIRATORIOS
+
+
+- GRIPE
+
+-- HISTORIA NATURAL Y ETIOPATOGENIA
+
+La gripe causa una gran morbimortalidad que cursa con brotes epidémicos anuales y ocasionalmente pandemias. El virus influenza pertenece a la familia Orthomyxoviridae que incluye tres géneros: Influenzavirus A, B y C. Siendo los principales los géneros A y B, Influenzavirus C es responsable de casos leves y esporádicos. Es un virus ARN con gran facilidad para la mutación. El genoma está segmentado en 8 fragmentos, lo que favorece la reordenación genética, explicando la gran variabilidad que presenta. Es un virus con envuelta, donde se encuentran dos glucoproteínas que tienen un papel importante: la hemaglutinina (H) y la neuraminidasa (N). En el género Influenzavirus A tiene 15 subtipos de H distintos y 9 de N, hasta ahora solo H1, H2, H3, N1 y N2 se han asociado a brotes significativos. Influenzavirus B tiene menos propensión a los cambios antigénicos y solo se han descrito variaciones en la H. El virus interacciona con las células del epitelio respiratorio mediante la H, produciéndose la fusión de la envoltura del virus con la membrana de la célula a infectar. Además, la H es la responsable de la producción de anticuerpos neutralizantes. La N es importante en la replicación vírica, ya que es responsable de la liberación de los virus de la célula infectada, siendo responsable del efecto infeccioso del virus. También genera anticuerpos neutralizantes, aunque en menor medida que los generados por la H. La inmunidad adquirida tras la infección es específica de subtipo y de la variante menor.
+La gripe tiene un amplio reservorio animal. Los virus influenza se denominan según el tipo de H y N, así como según el origen de la especie animal en la que se aisló inicialmente. Las epidemias de gripe ocurren solo durante los meses de invierno, tanto en el hemisferio norte como en el sur. Esto significa que ocurre en diferentes momentos del año y que puede ser causa de fiebre en pacientes procedentes del trópico durante todo el año. La gripe epidémica se presenta en brotes durante las estaciones frías como consecuencia de cambios antigénicos menores de los virus A y B, estando la población parcialmente inmunizada por exposición previa a cepas parecidas. En ámbitos cerrados como colegios o residencias de ancianos puede afectar a la mayoría de las personas. Cuando se producen cambios antigénicos mayores por reordenamiento genético entre dos cepas diferentes que infectan a un mismo hospedador, se originan pandemias como consecuencia de la aparición de nuevos subtipos, frente a los que la población no está inmunizada, esto solo ocurre en la gripe A. Cuando el origen es un reservorio animal (ave, cerdo, caballos) y pasa al ser humano se denomina gripe zoonótica, aunque el virus tiene facilidad para producir salto interespecies, la transmisión posterior entre seres humanos no se produce. Un ejemplo de gripe zoonótica sería la gripe de origen aviar H5N1 que infecta a aves domésticas y que se transmite a los granjeros, con alta tasa de letalidad.
+La transmisión del virus se produce al ser eliminado en las secreciones respiratorias, el mecanismo fundamental de transmisión es por vía aérea, llegando a las mucosas respiratorias donde puede ser neutralizado por anticuerpos locales o ser eliminado por el moco y el sistema mucociliar. Si se inicia la infección por interacción de la H a los receptores de las células epiteliales se producirá el contagio e inicio de la replicación. Las personas pueden contagiar desde el día antes del inicio de los síntomas hasta 3-4 días después. Son factores de riesgo para su adquisición las cardiopatías, neumopatías, la inmunosupresión incluida la diabetes, el tabaquismo y el embarazo.
+
+
+-- PANDEMIAS POR GRIPE A
+
+En abril de 2009 apareció una nueva cepa de gripe A de origen porcino (H1N1) con una combinación única de segmentos genéticos no detectada previamente. Dado el patrón de difusión, fue declarada por la Organización Mundial de la Salud como la primera pandemia de gripe del siglo XXI. Es una cepa de baja patogenicidad, pero a diferencia de los virus estacionales presentó mayor morbimortalidad. Afectó a pacientes más jóvenes, ocurriendo el 30% de los casos graves en pacientes sin comorbilidad previa. El 25% de los pacientes graves requirió ser ingresado en Unidades de Cuidados Intensivos por desarrollar una neumonía vírica con distrés respiratorio.
+En julio de 2011 los Centers for Disease Control and Prevention (CDC) comenzaron a detectar casos de una nueva variante de gripe A (H3N2) causada por la recombinación del virus H3N2 de origen porcino, con la variante pandémica H1N1 de 2009. Este virus es más transmisible a seres humanos en comparación con otros virus de influenza porcina; sin embargo no se ha descrito transmisión entre seres humanos y la enfermedad es leve. La mayoría de los casos asistieron a ferias donde había cerdos. Las medidas recomendadas por los CDC para prevenir la transmisión es el lavado de manos con agua y jabón después de la exposición a cerdos, así como evitar comer y beber en áreas dedicadas a los animales y evitar el contacto con cerdos que puedan estar enfermos.
+En marzo de 2013, en China se detectaron casos de infección por una nueva variante aviar H7N9. La transmisión se produce por contacto con aves y no se han descrito casos de transmisión entre personas, habiéndose descrito casos graves.
+
+
+-- MANIFESTACIONES CLÍNICAS
+
+La gripe tiene un periodo de incubación de entre 1 y 4 días, siendo la media de 2 días, por lo que es sencillo identificar la fuente de contagio. El inicio de los síntomas es rápido, comenzando con fiebre, dolores musculares generalizados, tos, astenia, cefalea y malestar general. La fiebre dura normalmente hasta 3 días, aunque puede persistir hasta 8 días. Hasta un 20% de los pacientes pueden presentar fiebre mayor de 40°C, sobre todo en niños. La cefalea suele ser intensa y posterior a la fiebre. Respecto a la sintomatología respiratoria, esta es variable de unas epidemias a otras, en general es tos no productiva con congestión nasal los 3 primeros días. Puede haber fotofobia, dolor con los movimientos oculares y lagrimeo. Los síntomas digestivos son raros pero pueden aparecer, entre ellos se presentan: vómitos, diarrea, dolor abdominal o estreñimiento. En general, es un cuadro autolimitado, cediendo los síntomas más intensos en 3-5 días, finalizándose a los 6-7 días y pudiendo persistir la tos y la astenia varias semanas.
+
+
+--- GRIPE EN PACIENTES CON COMORBILIDAD
+
+Los pacientes con enfermedades crónicas pulmonares y cardíacas y los fumadores tienen más riesgo de presentar mayor mortalidad o morbilidad grave. Los pacientes que presentan enfermedades respiratorias crónicas como bronquitis o asma presentan agudizaciones de su enfermedad de base y además tienen más riesgo de padecer neumonía tras la infección por la gripe. El 25-60% de las agudizaciones de la enfermedad pulmonar obstructiva crónica son por infecciones víricas, entre ellos un 25% en relación con la gripe. En los pacientes diabéticos existe un mayor riesgo de neumonía por gripe que en la población general, esta situación tiene una mortalidad muy importante. En pacientes inmunodeprimidos tienen mayor tiempo de secreción del virus y presentan más frecuentemente neumonía. En pacientes trasplantados, la mortalidad se relaciona con el grado de neutropenia. En embarazadas hay mayor riesgo de complicaciones pulmonares y hospitalización, sobre todo en el segundo y tercer trimestre de embarazo. No aumenta el riesgo de malformaciones congénitas.
+
+
+-- COMPLICACIONES
+
+Las complicaciones de la gripe se presentan sobre todo en pacientes con comorbilidad previa, en todos los grupos de edad, salvo el síndrome de Reye que se da en la infancia y en jóvenes.
+
+
+-- DIAGNÓSTICO
+
+Diagnóstico clínico
+Durante la época de epidemia, un cuadro respiratorio con fiebre aguda puede diagnosticarse de gripe con alta probabilidad solo con criterios clínicos. Sin embargo, fuera de la época epidémica es difícil de diferenciar de otros virus respiratorios solo con diagnóstico clínico.
+Diagnóstico de confirmación
+Se debe realizar una prueba de confirmación de Influenza a aquellos pacientes en los que el resultado vaya a influir en las decisiones terapéuticas y diagnósticas. En época de epidemia, tienen indicación de diagnóstico confirmatorio los pacientes que tienen infección respiratoria febril, independientemente del tiempo de evolución en inmunocomprometidos y en aquellos que van a ser hospitalizados, y dentro de los 5 primeros días del inicio de la sintomatología a los pacientes inmunocompetentes con alto riesgo de complicaciones. El diagnóstico de gripe puede reducir el uso inadecuado de antibióticos, disminuir las consultas a Urgencias, así como guiar en el tratamiento y otros estudios diagnósticos. Las muestras preferidas son el aspirado, los hisopos y los lavados nasofaríngeos, siendo los lavados más sensibles que los hisopos nasofaríngeos. También puede tomarse como muestra el lavado bronquioalveolar o hisopos nasales o de faringe. Cuando está indicado realizar diagnóstico confirmatorio, este debe realizarse lo más pronto posible, ya que el pico de secreción vírica se produce a las 24-48 horas del inicio de la sintomatología y rápidamente disminuye. Para ello existen los siguientes métodos diagnósticos.
+RT-PCR. Es la prueba de elección por ser la más sensible y específica para el diagnóstico de la gripe y que puede diferenciar entre tipos y subtipos. El resultado se puede obtener en 1-8 horas.
+Pruebas rápidas moleculares. Se puede usar como alternativa a la RT-PCR convencional. El resultado se obtiene en menos de 20 minutos. Puede distinguir entre influenza A y B pero no entre subtipos.
+Detección de antígenos por inmunoensayo. Son pruebas donde se da un resultado cualitativo de forma rápida (menos de 20 minutos). Se pueden usar como prueba inicial; no obstante, dada su baja sensibilidad, debe plantearse realizar RT-PCR o cultivo para confirmación sobre todo en periodo de alta incidencia.
+Detección de antígenos por inmunofluorescencia. La tinción de anticuerpos con inmunofluorescencia directa e indirecta para la detección del antígeno de influenza tiene una sensibilidad y especificidad ligeramente inferiores a las del cultivo vírico, frente a este el resultado es más rápido (horas).
+Cultivo vírico. Es el patrón oro para el diagnóstico. Tarda entre 48-72 horas, por lo que no es útil para el diagnóstico inicial, pero puede ser útil como confirmación de pruebas de detección.
+Serología. No se recomienda su uso para el diagnóstico de la infección aguda, aunque puede ser útil para el diagnóstico retrospectivo. Cuando está indicado iniciar tratamiento antivírico no debe retrasarse a la espera de resultado diagnóstico.
+
+
+-- TRATAMIENTO
+
+El tratamiento de la gripe no complicada es sintomático con antitérmicos y analgésicos como paracetamol o antiinflamatorios no esteroideos. Respecto al tratamiento dirigido, existen dos clases de antivíricos: los inhibidores de la N (zanamivir, oseltamivir y peramivir) que presentan actividad frente influenza A y B y los inhibidores de la M2 (amantadina y rimantadina) que solo presentan actividad frente influenza A, por lo que no se recomienda su uso. La terapia antivírica con inhibidores de la N si se inicia dentro de las primeras 48 horas del comienzo de la sintomatología puede acortar la duración de los síntomas entre 1 y 3 días. Aunque algunos estudios demuestran que los beneficios son escasos, , , otros revelan que puede disminuir el riesgo de complicaciones y el riesgo de hospitalización, . Los pacientes que tienen indicación de tratamiento antivírico son aquellos que presentan infección grave (grado de evidencia 1B) que requiere hospitalización o existe evidencia de afectación del tracto respiratorio inferior con disnea, taquipnea o insuficiencia respiratoria; o bien presentan alto riesgo de complicación (tabla 1 ) y llevan menos de 48 horas de sintomatología (grado de evidencia 1A). Se debe iniciar lo antes posible, independientemente de que exista confirmación microbiológica.
+La pauta preferida es de 5 días de oseltamivir 75 mg por vía oral dos veces al día o de zanamivir 10 mg dos inhalaciones dos veces al día. Peramivir se administrará en dosis de 600 mg por vía intravenosa en dosis única. Oseltamivir y peramivir precisan ajuste a función renal. En pacientes inmunodeprimidos la pauta se puede prolongar más de 5 días, sobre todo aquellos que presentan RT-PCR positiva en muestras respiratorias. Tanto oseltamivir como zanamivir son fármacos de categoría C en la mujer embarazada. Entre los efectos adversos de zanamivir está la producción de broncoespasmo, por lo que debe tenerse precaución en pacientes con asma y en la enfermedad pulmonar obstructiva crónica. No está recomendada su administración nebulizada o asociada a ventilación mecánica. Oseltamivir puede ocasionar náuseas o vómitos, aunque en general no condiciona la suspensión del tratamiento.
+
+
+-- PREVENCIÓN
+
+La principal medida de prevención para la gripe es la vacunación de los grupos de riesgo (tabla 2 ), pudiéndose resumir en aquellas personas que presentan factores de riesgo para adquirirla y aquellas que factores de riesgo para transmitirla a personas con riesgo.
+Existen vacunas con virus inactivados o atenuados. Se usan más las inactivadas, que pueden ser de virus enteros fraccionados (presentan H, N entre otros) o compuestas por subunidades que contienen solo la H y N. Cada año se producen nuevas vacunas que incluyen los antígenos de influenza más probables para la siguiente epidemia, basándose en los virus circulantes al final de la temporada anterior. La vacuna se debe administrar anualmente en torno al mes de octubre en el hemisferio norte y al mes de abril en el hemisferio sur, ha demostrado disminuir la mortalidad, la hospitalización y las complicaciones, sobre todo la neumonía.
+La mayoría de las vacunas de influenza tanto las inactivadas como las atenuadas contienen una pequeña cantidad de proteína de huevo. Esta ha ido disminuyendo significativamente a través de los años, de tal forma que con las actuales vacunas no se han notificado reacciones graves en pacientes alérgicos al huevo, incluso en aquellos que tienen historia de anafilaxia. Actualmente se recomienda su administración en pacientes con historia de alergia al huevo, no obstante es recomendable la evaluación previa por un especialista en alergología (grado de evidencia 1 A).
+Se recomienda la vacunación de las mujeres embarazadas, independientemente de la etapa del embarazo, y de las mujeres que podrían estar embarazadas durante la temporada de gripe. En pacientes inmunodeprimidos, incluidos los pacientes con infección por el virus de la inmunodeficiencia humana, enfermedades neoplásicas y trasplantados, está recomendada la vacunación con influenza inactivada, estando contraindicadas las vacunas atenuadas.
+
+
+- OTROS VIRUS RESPIRATORIOS
+
+Las infecciones respiratorias de vías altas están causadas fundamentalmente por virus respiratorios. Los cuadros suelen ser benignos y autolimitados, produciendo catarro, rinitis, laringitis, otitis media, sinusitis, epiglotitis y faringoamigdalitis. En un 5% de los casos pueden afectar a las vías respiratorias inferiores produciendo bronqutis, bronquiolitis y neumonía, siendo en estos casos afectaciones más graves. Además de la gripe, se han identificado más de 200 virus productores de estos cuadros. Cada uno de estos virus puede producir distintos síndromes diferentes, aunque cada uno de ellos se asocia con un tipo de afectación; no obstante, esto dependerá de la edad del paciente, de la inmunidad y del área geográfica (tabla 3 ).
+
+
+-- DIAGNÓSTICO
+
+La muestra de elección para las infecciones víricas respiratorias es el aspirado nasofaríngeo, preferiblemente obtenido en los tres primeros días después de haber iniciado la sintomatología. Tienen menor rendimiento el exudado nasal, el faríngeo y los lavados nasales. Lo óptimo es que las muestras sean procesadas en las 2 o 3 horas posteriores a la obtención para la detección de antígenos víricos mediante inmunofluorescencia. Se puede realizar la reacción en cadena de la polimerasa (PCR) en dichas muestras de múltiples virus simultáneamente. Las serologías tienen poca utilidad, reservándose como herramientas de estudios epidemiológicos.
+
+
+-- RINOVIRUS
+
+Son los principales causantes del catarro común, hay más de 100 serotipos y su infección no produce inmunidad generalmente, lo que conlleva la alta incidencia de esta infección. Causan entre un tercio y la mitad de todas las infecciones respiratorias de las vías altas, son más frecuentes en climas templados durante las estaciones frías. Se disemina por contacto con secreciones respiratorias o a través de fómites. No se ha encontrado relación entre la exposición al frío, la astenia o la falta de sueño y la adquisición de catarros. El cuadro típico del resfriado o catarro se caracteriza por estornudos, tos, rinorrea y obstrucción nasal y odinofagia, siendo un cuadro autolimitado. Ocasionalmente puede producir otitis media aguda, sinusitis y neumonía en pacientes inmunodeprimidos. También produce agudizaciones de bronquitis crónica y de asma. El tratamiento es sintomático con antihistamínicos y antiinflamatorios, aunque no reduce la duración de los síntomas. La prevención fundamental es mediante el lavado de manos.
+
+
+-- VIRUS SINCITIAL RESPIRATORIO
+
+El virus sincitial respiratorio (VSR) es el principal virus respiratorio en la edad infantil, siendo la primera causa de bronquiolitis aguda. Es responsable del 42-45% de los ingresos en menores de 2 años en España. A los 2 años, prácticamente todos los niños han sido infectados por el VSR. Los adultos inmunodeprimidos y los ancianos también son grupos susceptibles. La estacionalidad coincide con los meses de otoño e invierno y principios de primavera. En los niños pequeños produce típicamente bronquiolitis (50% de los casos), neumonía, traqueobronquitis o laringotraqueítis. Inicialmente la infección se manifiesta por rinitis, tos no productiva y disnea progresiva con fiebre. En los recién nacidos la sintomatología respiratoria es leve, predominando la irritabilidad, letargia y rechazo de las tomas. En la exploración se observan sibilancias con crepitantes, taquipnea y tiraje respiratorio. La radiografía de tórax suele ser normal, o presentar atelectasias segmentarias o infiltrado intersticial bilateral o hiperinsuflación pulmonar. La evolución suele ser leve y la clínica es autolimitada en unas 2 semanas. En prematuros, inmunodeprimidos con displasia broncopulmonar o cardiopatías congénitas, la infección puede ser grave (fig. 2 ). Las reinfecciones en niños mayores y adultos se presentan como cuadros de vías respiratorias altas (catarro, rinitis, faringitis, otitis media). Puede producir agudizaciones de bronquitis crónica o asmática.Fig. 2
+Para el tratamiento se puede usar ribavirina nebulizada, aunque su eficacia es limitada, siendo las claves del tratamiento medidas de soporte. Requiere aislamiento de contacto en unidades de neonatos. Palivizumab intramuscular se puede administrar mensualmente durante los meses de incidencia, está indicado como medida preventiva en niños menores de 2 años con neumopatía crónica o prematuros.
+
+
+-- PARAINFLUENZA
+
+Es la causa más frecuente de crup en niños. Produce cuadros respiratorios similares a los producidos por el VSR, aunque precisan con menos frecuencia ingreso hospitalario. El virus Parainfluenza 3 infecta más a niños menores de 2 años, produciendo rinitis y faringitis. Hasta los 6 meses, las infecciones pueden afectar a las vías respiratorias bajas produciendo bronquiolitis y neumonía. El virus Parainfluenza 1 típicamente produce en niños entre los 2 y 6 años laringotraqueobronquitis (crup). En niños mayores de 6 años y adultos las infecciones son de vías respiratorias altas. En ancianos las infecciones por parainfluenza son menos graves que las producidas por el VSR. El tratamiento fundamental es la humidificación del ambiente. Se pueden administrar corticoides o adrenalina para la afectación laríngea. Requiere aislamiento de contacto en pacientes hospitalizados.
+
+
+-- ADENOVIRUS
+
+Son la causa más frecuente de faringoamigdalitis vírica. El 100% de los adultos presentan anticuerpos frente a múltiples serotipos. Los serotipos 3 y 7 son la causa de la fiebre faringoconjuntival, que ocurre en brotes en niños. Otros adenovirus producen diarrea, cistitis hemorrágica o queratoconjuntivitis epidémica.
+
+
+-- METANEUMOVIRUS
+
+Produce infecciones en climas templados desde invierno a primavera. En España el pico se produce de febrero a abril, sobre todo en pacientes infantiles con bronquiolitis o asma. Provoca cuadros similares al VSR, produciendo cuadros respiratorios tanto de vías altas como bajas acompañada de fiebre. El tratamiento es sintomático y su prevención fundamental es la higiene de manos y evitar el contacto con secreciones respiratorias.
+
+
+-- CORONAVIRUS
+
+Son la segunda causa de catarro después de los Rinovirus. Su estacionalidad es en otoño e invierno y principios de primavera, cuando los rinovirus son menos frecuentes.
+
+
+--- SÍNDROME RESPIRATORIO AGUDO GRAVE (SARS-COV
+
+Tradicionalmente, los coronavirus se han relacionado con cuadros leves de resfriado común, pero en el año 2003 se identificó en China un nuevo Coronavirus (SARS-CoV) que causa un síndrome respiratorio agudo grave (SARS) que produce neumonía atípica con distrés respiratorio agudo, con una mortalidad del 9-12%. Presenta una alta transmisibilidad en hospitales. Actualmente no circula entre seres humanos. En estos casos, en la radiografía y en la tomografía computadorizada de tórax se observan consolidaciones uni- o bilaterales que pueden evolucionar a fibrosis y producir neumotórax o neumomediastino. Para su confirmación microbiológica se debe obtener una PCR positiva en al menos dos tipos de muestra, por ejemplo muestras respiratorias, heces y sangre. No existe tratamiento antivírico dirigido, aunque se ha usado rivabirina, lopinavir e inmunomoduladores. Para su prevención se debe de realizar higiene de manos y evitar el contacto con secreciones respiratorias.
+
+
+--- SÍNDROME RESPIRATORIO DE ORIENTE MEDIO (MERS-COV
+
+En septiembre de 2012 se identificó un nuevo Coronavirus que causa infección zoonótica en la Península Arábiga. Se relaciona con el contacto con dromedarios, pudiendo ser el reservorio los murciélagos. Produce cuadros respiratorios que con frecuencia evolucionan a insuficiencia respiratoria y fallo multiorgánico con alta mortalidad, aunque la infección asintomática también puede ocurrir. La intensidad de los síntomas es directamente proporcional a la edad del paciente. Puede asociar clínica gastrointestinal como diarrea o vómitos. La RT-PCR en secreciones respiratorias es la prueba de elección para el diagnóstico; no obstante, se prefieren las muestras del tracto respiratorio inferior. No existe tratamiento antivírico dirigido, siendo el tratamiento de soporte. Se recomiendan medidas de prevención de la transmisión. No existe vacuna.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+Protección de personas y animales. Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+Confidencialidad de los datos. Los autores declaran que en este artículo no aparecen datos de pacientes.
+Derecho a la privacidad y consentimiento informado. Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

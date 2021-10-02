@@ -1,0 +1,45 @@
+BENEFICIO DEL EMPLEO PRECOZ DE LA OXIGENOTERAPIA NASAL DE ALTO FLUJO (ONAF) EN PACIENTES CON NEUMONÍA POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+La oxigenoterapia nasal de alto flujo (ONAF) es una modalidad que ha demostrado beneficios en un gran número de situaciones en las que el intercambio gaseoso está comprometido. Son muchos los beneficios que aporta la ONAF, siendo los más importantes la consecución de una FiO2 más estable, a un mayor flujo, la disminución de la resistencia aérea al conseguir una aire templado y adecuadamente humidificado, disminución del espacio muerto y mejoría de la ventilación alveolar.
+Por otro lado, la infección por SARS-CoV-2 produce, en algunos pacientes, una neumonía bilateral hipoxemiante, que progresa rápidamente, requiriendo oxigenoterapia en aumento y que hasta en un 15-20% de los pacientes obliga a ingreso en Unidad de Cuidados Intensivos (UCI) para intubación orotraqueal (IOT) y conexión a ventilación mecánica (VM).
+A pesar de los beneficios conocidos de la ONAF en pacientes con insuficiencia respiratoria, la recomendación inicial de los expertos fue la intubación precoz de los pacientes con neumonía hipoxemiante por COVID-19 por el riesgo de aerosolización y contagio, junto por las dudas acerca de la eficacia de ONAF en estos pacientes, recomendándose, en caso de ser necesaria una oxigenación distinta a la administración de oxígeno en mascarilla facial tipo Ventimask® o en cánula nasal, el empleo de presión positiva continua de las vías respiratorias (CPAP).
+En nuestro hospital, la oxigenoterapia de los pacientes con neumonía bilateral por COVID-19 hipoxemiante fue evolucionando conforme mejoró el conocimiento de la fisiopatología de la COVID-19, instaurando cada vez más precozmente el tratamiento con ONAF, pasando de un primer momento en que se utilizaba en pacientes con SpO2 < 90% con FiO2 50% (Ventimask > 10 lpm), a un empleo precoz en aquellos pacientes con una PaFi < 300 con FiO2 40% (Ventimask 6-8 lpm), decidiendo valorar el resultado de la aplicación precoz vs. la aplicación no precoz de la ONAF.
+
+
+- PACIENTES Y MÉTODOS
+
+Estudio retrospectivo en el que se incluyeron todos los pacientes que precisaron ONAF como parte del tratamiento durante el ingreso, atendidos en nuestro hospital desde marzo de 2020 a febrero de 2021. El Hospital HLA Inmaculada es un hospital privado de especialidades, con 83 camas de hospitalización convencional y seis camas de UCI.
+Para la definición de ONAF precoz y ONAF no precoz se utilizó la PaFi, sustituyendo la PaO2 por la SpO2 . De esta manera se definió ONAF precoz a aquella que se inició en pacientes sin distrés grave (SpO2/FiO2 > 100), y ONAF no precoz si se inició en pacientes con distrés grave (SpO2/FiO2 ≤ 100).
+Se consideró que un paciente presentaba un síndrome hiperinflamatorio si presentaba dos o más de los siguientes criterios; PCR > 100 mg/L, ferritina > 500 ng/mL, LDH> 300 UI/L y dímero D > 1 mg/L.
+
+
+- RESULTADOS
+
+Se incluyeron 53 pacientes de los que 32 (60%) fueron varones. La edad media de los pacientes fue de 68,5 años (48-90 años), de los que 44 presentaron alguna comorbilidad, siendo las más frecuentes, HTA (19/53), obesidad (14/53) y DM (6/53).
+En la tabla 1 se reflejan los valores analíticos en el momento del ingreso y en el momento de la instauración de la ONAF.
+Del total de pacientes, 20 (37,7%) precisaron ingreso en UCI para IOT y VM y 15 pacientes (28,3%) fallecieron.
+De los 53 pacientes, nueve (17%) presentaron distrés grave en el momento de iniciar el tratamiento con ONAF, por lo que se consideró que en nueve paciente el empleo de la ONAF fue no precoz y en 44 pacientes (83%) el empleo de la ONAF fue precoz.
+En la tabla 2 se detallan las características epidemiológicas y analíticas de los pacientes con ONAF precoz y los pacientes con ONAF no precoz.
+
+
+- DISCUSIÓN
+
+En este estudio el empleo de ONAF precoz, es decir, cuando existe un incremento progresivo del requerimiento de oxígeno, pero antes de que el paciente presente un distrés respiratorio grave se asoció con una disminución estadísticamente significativa de la necesidad de ingreso en UCI (p = 0,044) y con una reducción de la mortalidad que estuvo muy cerca de alcanzar la significación estadística (p = 0,061). Asimismo, se asoció con una marcada reducción de los días de hospitalización, diferencia que también alcanzó la significación estadística (p = 0,011).
+De acuerdo con las recomendaciones de la OMS sobre el empleo de ONAF, el uso de esta modalidad ventilatoria se reservó a pacientes con muy altos requerimientos, con resultados profundamente decepcionantes, por lo que, tras la publicación de datos relativos a la seguridad de la ONAF en cuanto al riesgo de transmisión de la infección, decidimos iniciar precozmente el tratamiento con ONAF, a pesar de la ausencia de ensayos clínicos en pacientes con COVID-19.
+Recientemente se han publicado algunos estudios y revisiones que, al igual que lo que sucede en el nuestro, demuestran una reducción de la necesidad de ingreso en UCI para IOT y VM, mortalidad y estancia hospitalaria global, ; sin embargo, y a diferencia de nuestro estudio, no diferencian entre el empleo precoz o no de la ONAF. Si bien el empleo de ONAF, incluso en pacientes con distrés respiratorio grave puede asociarse con algún beneficio, la aplicación de la ONAF en fases iniciales es la estrategia más eficaz, lo que está en consonancia con lo reflejado por otros autores, que ya consideran la ONAF como la modalidad ventilatoria no invasiva de elección en los pacientes con COVID-19.
+Nuestro estudio posee algunas limitaciones, como su naturaleza retrospectiva, si bien que dada la evolución de la pandemia no era posible establecer un ensayo clínico, por lo que la única opción era el diseño retrospectivo. No obstante, dado el limitado número de profesionales implicados en el manejo de los pacientes con COVID en nuestro hospital, y a la inclusión de todos los pacientes a los que se les aplicó la ONAF, creemos que los sesgos inherentes a este tipo de estudio no existen. Por otro lado, decidimos no valorar como criterio para la utilización de la ONAF la existencia de disnea, dado que en la OCIVD-9 es frecuente la existencia de una disociación entre la hipoxia del paciente y la disnea, conocida como hipoxia feliz en pacientes con COVID-19, por lo que decidimos no valorar este aspecto. Por último, aunque la disminución de la mortalidad no alcanzó la significación estadística, si existió una tendencia muy próxima a la significación (p = 0,061), con una reducción considerable de la mortalidad (22,7 vs. 55,5%), lo que la convierte en clínicamente muy relevante. Por último creemos que tampoco existen factores de confusión respecto al tratamiento que afecten a los resultados; todos los pacientes recibieron glucocorticoides de acuerdo con el protocolo de tratamiento del hospital, metilprednisolona 1,5-2 mg/kg/d i.v. por desarrollo de insuficiencia respiratoria y, con respecto al empleo de inmunosupresores (tocilizumab, baricitinib, anakinra), no existieron diferencias significativas entre los dos grupos (p = 0,338), aunque si porcentuales (25 vs. 11%, ONAF precoz vs. ONAF tardía), no pudiendo descartar que, por el tamaño muestral pueda existir algún sesgo no detectado, si bien por la magnitud de la p creemos que no es el caso.
+Es importante reseñar que los pacientes con ONAF precoz estuvieron más tiempo con ONAF que aquellos con ONAF tardía (7,2 días ± 3,2 vs. 2,56 días ± 1,74, p = 0,0001), explicable por la menor necesidad de ingreso en UCI y mayor supervivencia de los pacientes.
+Los resultados de este estudio sugieren que el empleo precoz de la ONAF se asocia con una disminución de la necesidad de intubación, de la mortalidad y de la estancia hospitalaria global, debiendo implementarse su uso en cuanto los pacientes presenten una SpO2/FiO2 < 300 con FiO2 > 40% (Ventimask a 6-8 lpm).
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

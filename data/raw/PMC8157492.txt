@@ -1,0 +1,79 @@
+VACUNAS FRENTE A SARS-COV-2 Y PIEL
+
+
+- INTRODUCCIÓN
+
+Las lecciones aprendidas de otras epidemias (Ébola, SARS-CoV y MERS-CoV) y la coordinación internacional del conocimiento generado han facilitado la respuesta global a la pandemia COVID-19. La iniciativa internacional de investigación COVID-NMA, surgida del plan I+D de la OMS, ha facilitado la valoración conjunta de un número elevado de ensayos clínicos y de evidencias sobre la prevención, el tratamiento y las vacunas frente a la enfermedad. Esto ha posibilitado el avance del conocimiento, la toma de decisiones y la consecución de una vacuna, herramienta imprescindible para el control de la pandemia, en un tiempo récord, .
+Aunque estaban en desarrollo, hasta el momento no se había utilizado ninguna vacuna eficaz en humanos contra coronavirus (CoV). Con SARS-CoV se alcanzó un desarrollo preclínico que se paralizó por la desaparición del virus como amenaza para la salud. Pero la similitud de la secuencia genómica de SARS-CoV-2 y SARS-CoV, redujo el tiempo dedicado al diseño. Pronto empezaron los ensayos fase i/ii y, en base al análisis intermedio de sus resultados, se iniciaron, de manera acelerada y con ensayos en paralelo, los de fase ii. Antes de finalizar los estudios, ya empezaron a producirse varias vacunas candidatas. Todo ello ha posibilitado su disponibilidad para la inoculación a la población con una rapidez impensable.
+La tecnología novedosa empleada y la rapidez del proceso no implica que se hayan pasado por alto los controles necesarios de seguridad. Pero era esperable que, como estamos viendo, con el uso clínico vayan irrumpiendo efectos secundarios no encontrados o no categorizados suficientemente durante el periodo preclínico. Las manifestaciones cutáneas y su categorización fueron importantes para el entendimiento de la enfermedad de la misma forma que pueden ser las generadas por las vacunas. En muchas de estas manifestaciones dermatológicas asociadas a la COVID-19 no se encontró el virus o su acción citopática directa y pueden estar relacionadas con la repuesta inmunitaria del huésped.
+En los documentos de autorización de todas las vacunas disponibles se informa de la presencia de efectos secundarios dermatológicos y, tras su uso clínico, siguen apareciendo publicaciones de reacciones cutáneas variadas. Como dermatólogos, es importante conocer las características de los distintos tipos de vacunas, su interacción con el huésped y el rango de reacciones sistémicas y dermatológicas que podemos encontrar.
+
+
+- LAS VACUNAS FRENTE A SARS-COV-2
+
+El SARS-CoV-2 se introduce en la célula huésped uniéndose a la enzima convertidora de angiotensina 2 (ACE2) a través de su proteína «spike» de superficie (S). La liberación del ARN conduce a la replicación, transcripción y síntesis del ARN viral y las proteínas estructurales resultantes (ARN viral, proteínas de la nucleocápside [N], de membrana [M], de envoltura [E] y S) forman el virión maduro, capaz de liberarse de la célula huésped para infectar a otras.
+En el huésped, SARS-CoV-2 induce una respuesta inmune innata, con participación de IFN-I y otras citocinas proinflamatorias y una respuesta inmune adaptativa, en la que los linfocitos T CD4+ y CD8+ reaccionan contra las proteínas virales S, M y N, Nsp y ORF3a. En la mucosa de la vía respiratoria alta, el contacto con el virus induce la formación de IgA secretora. A nivel sistémico, la IgG específica contra las proteínas S y la proteína de su dominio de unión al receptor (RBD) es reclutada desde el suero hacia la vía respiratoria baja. Las respuestas de IgM e IgA sérica son menos intensas, .
+Las vacunas entrenan al sistema inmunológico usando antígenos inofensivos del SARS-CoV-2 para estimular una respuesta inmunitaria sin causar enfermedad. Las de administración intramuscular inducen fundamentalmente una inmunidad humoral pero no son capaces de mejorar la respuesta local. Las administradas vía intranasal inducen una inmunidad local dependiente de IgA, potencialmente esterilizadora, pero inducen una inmunidad sistémica menos eficaz. Algunas vacunas utilizan adyuvantes para activar los receptores celulares e inducir una respuesta inmune innata local y en los ganglios linfáticos regionales, o para polarizar el tipo de respuesta inmune deseado. Mejoran la respuesta inmune, aunque también aumentan las reacciones a la vacuna, . Se formulan con adyuvantes tanto las de virus inactivado como las basadas en proteínas.
+Cada vacuna introduce un tipo de antígeno, desencadena una respuesta inmune específica que, a su vez, genera la memoria inmunitaria que permite combatir al SARS-CoV-2 ante futuras exposiciones. Este antígeno es procesado por las células presentadoras de antígeno y presentado a las células T CD8+ y CD4+. Las citocinas Th1 también estimulan a las células T CD8+ y las citocinas Th2 inducen la producción de anticuerpos neutralizantes por parte de las células B.
+Todas las vacunas inducen algún nivel de inflamación desencadenada por la activación de la inmunidad innata. El desequilibrio de estas respuestas pueden originar reacciones inflamatorias que pueden manifestarse en la piel.
+Los anticuerpos antiproteína S inhiben la unión SARS-CoV-2 - ACE-2 por lo que el desarrollo de vacunas se ha centrado en antígenos derivados de la proteína S. Las diferentes formas que usan las vacunas para introducir el antígeno se detallan en la figura 1 . Y las diferentes características de las principales vacunas disponibles y en desarrollo se muestran en la tabla 1 .Figura 1
+
+
+- REACTOGENICIDAD DE LAS VACUNAS
+
+La reactogenicidad, o manifestación física de la respuesta inflamatoria, puede presentarse como una reacción local en el punto de inyección (dolor, calor, enrojecimiento, hinchazón, induración) y/o con la presencia de síntomas sistémicos (fiebre, mialgia, dolor de cabeza…). La sucesión de reacciones inducidas desde el contacto con la vacuna se detallan en la figura 2 .Figura 2
+El perfil de tolerabilidad e inmunogenicidad de las vacunas varía según el tipo de antígeno y el adyuvante empleados. Las vacunas de ARN (potente activador de la inmunidad innata) inducen frecuentes reacciones adversas, aunque leves. Otros factores que modifican estos efectos son la edad (más reactogenicidad en jóvenes), un índice alto de masa corporal (quizá relacionado con una mala técnica de administración por inyección subcutánea), la inmunidad preexistente, la vía y punto de administración, la técnica de inyección, el sexo (mayor reactogenicidad en mujeres), algunos factores genéticos o raciales y la ansiedad.
+
+
+- EFECTOS SECUNDARIOS DE LAS VACUNAS COVID-19
+
+Los ensayos clínicos previos a la aprobación de las vacunas disponibles notificaron efectos secundarios, entre los que se encuentran reacciones cutáneas, en ocasiones poco detalladas, que se resumen en la tabla 2 , , , .
+Los efectos secundarios cutáneos que han sido publicados poscomercialización son, en parte, los mismos a los descritos en los ensayos clínicos. Entre ellos se incluyen:
+
+
+-- BRAZO-COVID (COVID-ARM) (<XREF RID="FIG0015" REF-TYPE="FIG">FIG. 3</XREF
+
+Es la reacción comunicada con más frecuencia. Se trata de la aparición de unas placas eritematosas y edematosas de distintos tamaños en la zona donde se recibió la vacuna. Estas erupciones se han descrito con otras vacunas, como la combinada antineumocócica. Figura 3
+Los primeros casos publicados aparecieron 7 a 10 días después de la primera dosis de Moderna®, que se atribuyó inicialmente a una reacción de hipersensibilidad al polietilenglicol contenido en la vacuna. Sin embargo, en otra serie, la prueba intradérmica con polietilenglicol-polisorbato solo mostró una positividad en un paciente con una reacción que se presentó únicamente tras la segunda dosis. Esto no apoya como causa una reacción IgE mediada a estos compuestos. Otro estudio apoya como causa una reacción de hipersensibilidad retardada o mediada por células T, en base al cuadro histopatológico, que mostraba la presencia de unos infiltrados linfocíticos perivasculares y perifoliculares superficiales con mastocitos y eosinófilos dispersos, . En un estudio retrospectivo se analizaron las reacciones cutáneas en un grupo de trabajadores sanitarios vacunados con Pfizer®. Un 2,1%, presentaron una reacción local retardada, tanto tras la primera dosis como tras la segunda. Como se describe en otras series, en la mitad de los casos la reacción se repitió tras la segunda dosis. Dos fueron biopsiados, encontrándose un infiltrado linfocitario perivascular superficial y profundo, con vasos dilatados, neutrófilos intraluminales e inmunohistoquímica negativa para la proteína SARS-CoV-2 «spike» 1A9.
+Todos los casos comunicados se resolvieron con tratamiento conservador, como la aplicación local de frío, corticoides tópicos y/o mediante la toma de antihistamínicos. No se han comunicado reacciones adversas graves tras la segunda dosis, por lo que no se recomienda modificar la pauta.
+
+
+-- REACCIONES INFLAMATORIAS EN LAS ÁREAS CON RELLENOS DÉRMICOS DE ÁCIDO HIALURÓNICO (<XREF RID="FIG0020" REF-TYPE="FIG">FIG. 4</XREF
+
+Es conocida la aparición de eritema, edema y nódulos en zonas que anteriormente habían sido sometidas a rellenos dérmicos tras procesos como infecciones virales o vacunas e, igualmente, se ha descrito coincidiendo con la infección por SARS-CoV-2 y algunos casos aislados tras la vacunación frente a la COVID-19, . Teniendo en cuenta el número de vacunas administradas globalmente y el número de personas portadoras de rellenos dérmicos, parece probable que su frecuencia sea muy baja. Figura 4
+Como mecanismo fisiopatológico se postula una cascada de acontecimientos que comienza por una fagocitosis deficiente del ácido hialurónico, la formación de «biofilm» alrededor del material de relleno, la activación de células T y la formación de fibrosis y de granulomas. Estas alteraciones favorecen la presencia de células T Th1/CD8+ y las altas concentraciones de ACE2 en las células residentes. Esto ocasionaría una alteración de la regulación entre la producción de angiotensina ii proinflamatoria y angiotensina i antiinflamatoria. La unión de la proteína S inducida por la vacuna a ACE2 inclinaría la balanza hacia la inflamación. Esta hipótesis justificó, en 5 casos, el tratamiento de estas reacciones bloqueando la angiotensina ii con un IECA, obteniendo buenos resultados. Recomiendan lisinopril 5 mg/día, doblar la dosis si en 72 h no se obtiene mejoría y pretratar antes de la segunda dosis a los pacientes que tuvieron esta complicación en la primera.
+Es importante tener en cuenta que, siendo muy pocos de momento, todos los casos comunicados han tenido buena evolución independientemente del tratamiento pautado, que ha sido muy diverso. Así, se han descrito casos que se trataron con antihistamínicos, antibióticos o corticoides sistémicos, corticoides y 5-fluorouracilo intralesional e inyecciones de hialuronidasa. Sin duda, es necesario un conocimiento más profundo y una experiencia más amplia, antes de obtener conclusiones.
+
+
+-- OTRAS ERUPCIONES CUTÁNEAS
+
+Igual que sucedió con la COVID-19, se han descrito una gran variedad de manifestaciones cutáneas de aparición coincidente con la vacunación y sin otra causa aparente. Erupciones morbiliformes, urticarianas, máculo-papulares, liquen plano, , eritema multiforme y reactivaciones de herpes zóster. Estos datos los corrobora la publicación reciente de 414 reacciones tras la vacuna Moderna® y Pfizer® comunicadas por distintos profesionales de la salud, a través del registro de manifestaciones cutáneas del SARS-CoV-2 de la Academia Americana de Dermatología. No se encontraron reacciones graves y la mitad de los pacientes con reacciones tras la primera dosis no las presentan tras la segunda. Añaden reacciones diferentes, observadas tanto tras la primera como tras la segunda dosis, como eritromelalgia y perniosis.
+
+
+-- OTRAS MANIFESTACIONES
+
+Se han descrito adenopatías supraclaviculares autolimitadas, que se han relacionado con la inyección en un lugar inadecuado, más alto del recomendado (2-3 dedos bajo el acromion) y reacciones anafilácticas poco frecuentes y sin ningún desenlace fatal pero en un porcentaje mayor al de las vacunas habituales (4,2 frente a un caso por millón).
+La CDC ha hecho recomendaciones para las vacunas de ARNm, sobre cuándo dar luz verde, actuar con precaución o evitar administrarlas, que se resumen en la figura 5 . Aunque la mayoría de los pacientes que han tenido reacciones anafilácticas tienen antecedentes de alergia, los pacientes atópicos, con urticaria y con eccema, si bien deben estar correctamente tratados en el momento de la vacuna, no deben retrasar la vacunación ni tienen un riesgo aumentado de reacciones alérgicas graves.Figura 5
+
+
+- ESTUDIO VACUNAS COVID-PIEL
+
+De la misma manera que sucedió con la emergencia de la COVID-19, la administración masiva a la población de una vacuna de nueva creación y tecnología está sacando a la luz una gran variedad de manifestaciones cutáneas. Como dermatólogos, tenemos la misión de estar pendientes, analizar, categorizar, valorar el significado y las consecuencias de cada una y comunicar nuestros hallazgos a las unidades de farmacovigilancia y a la comunidad científica.
+Con este fin y con el apoyo de la Academia Española de Dermatología, muchos dermatólogos del país nos proponemos recoger el máximo número posible de efectos secundarios dermatológicos.
+Por el momento, la mayoría de los más de 100 casos comunicados corresponden a mujeres y a la vacuna de Pfizer®. Se han comunicado un número equivalente tras la primera y tras la segunda dosis. Las manifestaciones más habituales están siendo el «brazo-covid», las erupciones urticariales y la reactivación de un herpes zóster. Información: vacunascovidpiel@gmail.com; https://aedv.es/reacciones-cutaneas-tras-la-administracion-de-vacunas-frente-a-sars-cov-2/
+
+
+- CONCLUSIÓN
+
+Las vacunas tienen un perfil de seguridad contrastado. Sin embargo, presentan reacciones sistémicas y locales que debemos conocer.
+La categorización correcta de las reacciones cutáneas a las vacunas permitirá ofrecer una adecuada información a nuestros pacientes, evitar rechazos innecesarios a la vacunación, disminuir los efectos secundarios graves en los individuos predispuestos y ahondar en los mecanismos fisiopatológicos que subyacen a la reacción inmunitaria al SARS-CoV-2.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

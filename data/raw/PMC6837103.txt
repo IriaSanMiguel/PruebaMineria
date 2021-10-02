@@ -1,0 +1,113 @@
+EFICIENCIA ENTRE LOS DIFERENTES PATRONES DE MEDIDA DE LA AUTOMONITORIZACIÓN DE LA PRESIÓN ARTERIAL EN EL SEGUIMIENTO DEL HIPERTENSO EN ATENCIÓN PRIMARIA<SUP
+
+
+- INTRODUCCIÓN
+
+El diagnóstico y seguimiento de un paciente con hipertensión arterial (HTA) inicia una cascada de consumo de recursos profesionales, terapéuticos y diagnósticos, con el fin de controlar las cifras de presión arterial, previniendo así los probables daños cardiovasculares que provocarían su mal control. La HTA en España alcanza el 35% de la población total, mientras que en Europa ronda el 40% de la población general. Tanto en hombre como en mujeres la prevalencia crece de forma importante conforme aumenta la edad, llegando a un 68% en los mayores de 60 años. En cuanto a la morbimortalidad, la HTA se ha relacionado con una de cada 2 muertes de origen cardiovascular en individuos mayores de 50 años. Debido a su importancia también los costos de su manejo se disparan. Se estima que la HTA supuso en toda la unión europea un coste sanitario superior a los 192 billones de euros en el año 2008. En España, según el informe del Ministerio de Sanidad y Consumo, los antihipertensivos fueron los medicamentos más consumidos por los españoles, con un total de 230 DDD/1.000habitantes/día, según el informe del 2010; mientras que el consumo sanitario directo asociado a la HTA representa el 2,6-3,9% del gasto sanitario total español.
+Actualmente el método más utilizado para el seguimiento de la HTA es la medida de la presión arterial en consulta (PAC) cuya menor capacidad predictiva y menor correlación con daño a órgano diana se ha demostrado en diversos estudios cuando se ha comparado con los 2 métodos de toma tensional fuera de la consulta (automonitorización de la presión arterial [AMPA] y monitorización ambulatoria de la presión arterial [MAPA]). La MAPA es el método que se considera hoy por hoy, por las diferentes sociedades científicas, el gold estándar de los métodos de toma tensional, tanto para el diagnóstico como para el seguimiento de la HTA, . El que este método sea poco accesible hace que su implementación, de forma general, en los centros sanitarios de atención primaria sea todavía poco menos que una utopía. Otra alternativa es la AMPA realizada por el propio paciente en su domicilio. La AMPA es un método de medición que ha tomado auge en los últimos años, debido a que comparada con la PAC permite obtener múltiples mediciones durante varios días y en el ambiente habitual del paciente. Comparada con la MAPA la aventaja en que permite mediciones durante largos periodos de tiempo, por ende, permite valorar la variabilidad del día a día. También es más barata, aceptada por el paciente, y disponible, tanto para su realización como para su repetición. En cuanto al pronóstico, predice mejor la morbimortalidad cardiovascular que la PAC, y su correlación con el daño a órganos diana es similar a la de la MAPA.
+Entre sus limitaciones está la imposibilidad del registro de mediciones nocturnas y los errores introducidos por el paciente al realizar la técnica. Por ello no se toma en cuenta como una técnica definitiva para el diagnóstico, solo complementaria, aunque sí se le reconoce su relevancia en el seguimiento y valoración del tratamiento. Pese a que ha ido adquiriendo mayor protagonismo cada día, tanto sus cifras de control como el patrón de días de registro solo han sido establecidos por consenso dentro de las diferentes sociedades científicas. El grupo de trabajo de la Sociedad Europea de Hipertensión aconseja por lo menos 3-4 días para el seguimiento del hipertenso, con 2 tomas diurnas y nocturnas, despreciando siempre el primer día. Desde Asia se recomiendan 3-5 días, con 2-6 medidas al día. En el 2011 la guía británica mostraba una mayor eficiencia en recoger las lecturas de 4 días, despreciando como siempre el primer día.
+El artículo de consenso de la SEH-LELA apoyándose en diversos estudios, sugiere como óptimo para el seguimiento del paciente hipertenso a largo plazo el protocolo de 7 días de AMPA con 2 tomas matutinas y 2 vespertinas previo a la consulta de revisión por parte de medicina/enfermería, y como optativo en pacientes estables, un patrón de 1-2 días a la semana, con 2 tomas matutinas y 2 vespertinas.
+Dada tal disyuntiva, este estudio tiene como objetivo: Medir la precisión y validez de los diferentes patrones de medida de la AMPA en el seguimiento del hipertenso en atención primaria, tomando la MAPA de 24 h como gold-estándar.
+
+
+- DISEÑO
+
+Estudio descriptivo transversal para validación de prueba diagnóstica.
+
+
+-- POBLACIÓN
+
+Hemos trabajado con pacientes hipertensos registrados en el programa informático del centro de salud urbano Vistalegre-La Flota en Murcia, y como parte de la práctica clínica habitual.
+
+
+-- CRITERIOS DE INCLUSIÓN Y EXCLUSIÓN
+
+Los criterios de inclusión abarcaban el diagnóstico de HTA complicada y no complicada de 18-80 años de edad, con visión y audición suficientes para realizar la automedición, así como capacidad intelectual adecuada, o por lo menos, con un cuidador que se hiciera responsable. Los criterios de exclusión que fueron considerados para los pacientes que se iban a incluir en el estudio son los tenidos como válidos en las diversas guías internacionales de HTA, : Pacientes inmovilizados, sin un cuidador responsable; hipertensos diagnosticados de neurosis obsesivocompulsiva; o aquellos que presentaran una fibrilación auricular en el momento de la toma tensional.
+
+
+-- MECANISMO DE SELECCIÓN
+
+A partir de los listados anonimizados se depuran las duplicidades, errores diagnósticos, pacientes en archivo histórico y última visita al centro de salud (médico o enfermero) en el año anterior al inicio de la selección de pacientes (N = 2.245). La muestra se eligió de un total de 2.245 pacientes que componen la población de hipertensos del centro de salud Vistalegre-La Flota, para una estimación de proporciones con una precisión del 5% y con un nivel de confianza del 95%, y una variabilidad según la sensibilidad del 85,7% (IC95%: 78-91,2) y especificidad del 62,4% (IC95%: 48-75) de la AMPA como prueba, que nos dio como resultado n = 142;, a esta cifra obtenida le calculamos un porcentaje de pérdidas esperadas del 15%, necesitando al menos un tamaño de muestra n = 153). El cálculo del tamaño muestral se realizó con la calculadora online de fisterra.
+
+
+-- MÉTODO MUESTREO
+
+Se realizó un muestreo aleatorio sistemático. El primer sujeto se eligió al azar y la fracción de muestreo empleada fue de 1/10 pacientes. El reclutamiento del paciente, seleccionado de la muestra, que cumpliera los criterios de selección se realizó mediante contacto con el paciente telefónicamente, o a través de su médico; sí acudieron a consulta en el centro de salud durante el periodo de selección de pacientes. Ante negativas o no contacto tras varios intentos se elegía el siguiente.
+A cada paciente seleccionado que aceptó participar, tras dar su consentimiento, se le citó en consulta a primera hora (08:30) para realizar la MAPA.
+Se midió el perímetro del brazo del paciente y se le proporcionó el manguito adecuado a la circunferencia de este; si era mayor de 32 cm, se le proporcionaba el manguito grande.
+Se les tomó la presión arterial en ambos brazos y se eligió el que presentaba la medida de presión arterial menos elevada, brazo no-dominante, como el brazo de medida. Si ambas medidas eran iguales, se situaba en el brazo izquierdo para diestros o en el derecho para zurdos. Tras la colocación del equipo de MAPA se realizó inmediatamente una medida forzada con el dispositivo. El registro comenzaba por la mañana, desde el momento de la colocación del equipo.
+Se recomendaba al paciente que hiciera su vida normal a excepción de que cuando el manguito le avisara del inicio inmediato de la medida, dejara el brazo en posición relajada. Debía volver al día siguiente a la misma hora.
+La programación del equipo fue la siguiente:-Frecuencia de las lecturas: 15 min durante la actividad diurna y 30 min durante el sueño. Para ello se interrogó al paciente en el momento de la colocación del dispositivo sobre el horario de sueño, que se confirmó y reajustó al día siguiente al retirar el aparato. Con esos datos el programa calculó el inicio del periodo nocturno o de sueño y el diurno o de actividad a efectos del análisis.-Tipos de registro: medida de presión arterial sistólica, presión arterial diastólica y FC en 24 h, diurno, nocturno.-Rango de la medida: FC: 40 a 180 latidos por minuto. Presión: 70 a 285 mmHg para sistólica; 40 a 200 mmHg para diastólica y 60 a 240 mmHg para la media de los valores arteriales.
+Calidad del registro válido: un 70% de mediciones válidas en la MAPA, más de 14 mediciones válidas de presión arterial sistólica y diastólica durante el día y más de 7 mediciones de presión arterial sistólica y diastólica durante la noche.
+Al día siguiente se retiraba el MAPA.
+A continuación, después de un periodo de 5 min de reposo, se realizaron 2 determinaciones con 1 min de intervalo, en el brazo dominante, repitiendo una tercera si se detectaba una diferencia mayor de 5 mmHg entre ambas, con el aparato de AMPA, estas son las medidas de PAC.
+Inmediatamente después se le instruyó al paciente en el manejo adecuado del tensiómetro de la AMPA: Que debía estar en sentado, en reposo, colocárselo en qué parte del brazo no-dominante (2-3 cm por encima de la flexura del codo) y cómo colocar el manguito, su adecuación al brazo, y la posición del brazo para tomar la presión.
+Se comprobaba la correcta realización de las 2 primeras medidas del primer día por parte del paciente delante del investigador, se le entregaba el AMPA y se le instruía por escrito que debía tomar 2 medidas en la mañana (entre las 7:00-10:00 a.m.) y 2 antes de acostarse (entre las 21:00-23:00 p.m.) con 1-2 min entre una y otra, durante 7 días consecutivos. Se obtuvieron un total de 28 mediciones por cada paciente (descartándose posteriormente las mediciones del primer día), estableciéndose con las mediciones los diferentes patrones de la AMPA.
+
+
+-- SEGUIMIENTO
+
+Cuando el paciente devolvía el aparato a la semana y comentaba las incidencias que pudiera haber presentado, se le recomendaba citarse con su médico, a partir de 48 h, que ya dispondría de los resultados impresos para comentarlos con él.
+
+
+-- ANÁLISIS ESTADÍSTICOS
+
+Se utilizaron los programas estadísticos SPSS versión 22, Excel 2013, y Epidat versiones 3.1 y 4.1 para el análisis de los datos.
+
+
+-- ANÁLISIS DE VALIDACIÓN DE LAS PRUEBAS
+
+Para la validación de la AMPA y de la PAC como pruebas seguimos el esquema establecido. Las comparaciones de los datos recogidos para los diversos patrones de AMPA como pruebas de seguimiento se realizaron con las cifras obtenidas por la MAPA como patrón de referencia. La MAPA está considerada hoy por hoy como el «gold estándar» de las pruebas diagnósticas indirectas de HTA, por lo cual se le atribuye una sensibilidad y una especificidad del 100%, considerando el punto de corte la cifra de 130/80 mmHg para el periodo de 24 h. Los cálculos de estudio de la capacidad predictiva de las pruebas diagnósticas se realizó en una calculadora estadística de la web de Fisterra.
+Al ser pruebas con variables continuas, realizamos un análisis con curvas COR y el área bajo la curva (ABC) para determinar cuál patrón de días de la AMPA tenía mayor poder discriminativo para el seguimiento del hipertenso; para esta valoración comparamos las ABC resultantes para cada método (por convenio el área es siempre igual o superior a 0,5 y llega hasta un máximo de 1. Valores entre 0,5 y 0,69 indican baja exactitud; entre 0,7 y 0,89 pueden ser útiles; y superior a 0,9 la exactitud es alta), . Para comprobar si existía una concordancia entre las mediciones obtenidas de los diferentes patrones de AMPA y siendo los resultados de estas mediciones variables cuantitativas, se utilizó el coeficiente de correlación intraclase (CCI) y el método gráfico de Bland-Altman. En el caso de los CCI, valores < 0 hablan de ausencia de concordancia; de 0-0,4 fiabilidad baja; 0-41-0,74 fiabilidad moderada; 0,75-0,99 fiabilidad alta. El método de Bland-Altman consiste en presentar gráficamente, en un diagrama de dispersión, la media de las 2 mediciones, como la mejor estimación del verdadero valor, frente a la diferencia absoluta entre los 2 valores.
+
+
+- ASPECTOS ÉTICOS
+
+La realización de este estudio fue aceptada por la comisión de ética de investigación de la universidad de Murcia, con número de registro 1018/2015. Se obtuvo el consentimiento de los pacientes previo informe verbal de los procedimientos a realizar.
+
+
+- RESULTADOS
+
+Con el muestreo se obtuvieron 419 pacientes, de los cuales 153 presentaron AMPA y MAPA con la calidad requerida .Figura 1
+De estos, el 50,3% eran mujeres. La media de edad fue de 61,54% con un rango de 23-80 años. En cuanto a la actividad económica, el 67,3% eran pensionistas y/o sin recursos .
+Además de la HTA, entre los pacientes hipertensos estudiados se encontraron otras enfermedades crónicas asociadas . La más frecuente fue la dislipidemia (41,8%).
+
+
+-- COMPARACIÓN ENTRE LOS DIFERENTES PATRONES DE AUTOMONITORIZACIÓN DE LA PRESIÓN ARTERIAL
+
+Las siguiente figura muestra gráficamente la comparación de todas las curvas de las determinaciones sistólicas y diastólicas de los diferentes métodos estudiados. Todas las líneas de la figura, las cuales representan las determinaciones sistólicas de presión arterial, presentan una trayectoria muy parecida.Figura 2
+Las mejores ABC para la presión sistólica de los diferentes patrones de la AMPA correspondieron al patrón de 4 días: 0,837 (IC95%: 0,77-0,90); y al de 3 días: 0,834 (IC95%: 0,77-0,90). En cuanto a la diastólica, el patrón de 7 días presentó un ABC de 0,889 (IC95%: 0,84-0,94); y en segundo lugar, coincidiendo con la misma cifra, los patrones de 3 y 4 días: 0,834 (IC95%: 0,83-0,94). La parte «a» de la tabla 3 nos muestra el valor de las ABC de las determinaciones sistólicas de los diferentes patrones de AMPA, mientras que en la «b» se reflejan las determinaciones diastólicas.
+Con el resultado de las ABC para los diferentes métodos, se procedió a realizar el contraste de hipótesis de las ABC sistólicas y diastólicas, cuyos resultados muestran que las diferencias no son significativas entre los diversos patrones de medición de la AMPA .
+La tabla 5 nos muestra que el nivel de correlación de las determinaciones de la presión arterial, tanto sistólica como diastólica, de la AMPA con respecto al gold estándar (MAPA 24 h) es alta; y que no hay diferencias significativas entre los CCI de la presión arterial sistólica y diastólica de los diferentes patrones de duración de las mediciones.
+El patrón de 3 días mostró con el método Bland-Altman una dispersión menor y aleatoria para ambas presiones arteriales. Mientras que de forma aislada, el patrón de 5 días tuvo menor dispersión para la presión sistólica; y para la diastólica los patrones de 6 y 7 días, según puede verse en la figura 3.Figura 3
+
+
+- DISCUSIÓN
+
+-- LIMITACIONES DEL ESTUDIO
+
+Entre estas tenemos que se ha realizado en un único centro de salud, con una población procedente de un área geográfica con distinta prevalencia de HTA lo que limita la extrapolación de los datos al conjunto del territorio nacional.
+Otra limitación del estudio proviene del hecho de que parte de los datos utilizados en el análisis son comunes para todos los patrones de AMPA, por lo que las cifras de los CCI y del ABC en los diferentes patrones de medición son similares.
+
+
+-- COMPARACIÓN CON LA LITERATURA ACTUAL
+
+Como ya hemos dicho, los diversos protocolos de valoración tensional en el seguimiento del hipertenso que proponen cada una de las sociedades científicas a nivel internacional están establecidos solo por consenso, no está demostrada su precisión diagnóstica. Lo que sí se ha demostrado en varios estudios es que si aumentamos el número de lecturas, mejoramos la reproducibilidad y la capacidad pronóstica de la AMPA, siempre y cuando se descarten las lecturas del primer día, ya que se ha demostrado que estas no aportan ningún beneficio adicional y excluirlas mejora la reproducibilidad.
+Basados en estos datos, varios investigadores han tratado de definir el patrón de días de AMPA más adecuado para el seguimiento del hipertenso. Las conclusiones son variadas. Brook señala que más que la posibilidad de obtener múltiples medidas, la ventaja de la AMPA radica básicamente en la obtención de las medidas fuera del entorno clínico, lo que la hace una técnica precisa, incluso con 2 mediciones en un día. Stergiou et al., entre otros autores, indican que con un mínimo de 2 días se obtienen resultados aceptables, ; otros apoyan la automonitorización durante por lo menos 3 días, ; y otros más conservadores como Celis et al. opinan que, si bien es cierto que con 3 días se obtienen resultados confiables, la AMPA es una técnica barata y aceptada por los pacientes, por lo que se les puede pautar un número mayor de automediciones de las recomendadas, a pesar de que el beneficio adicional sea moderado.
+
+
+-- APLICABILIDAD PRÁCTICA DE LOS RESULTADOS
+
+Tras los resultados obtenidos al valorar la AMPA y los diversos patrones que adopta dependiendo del número de días realizados, nos hemos decantado por el patrón de 3 días (despreciando el primer día), debido a que el patrón de 3 días muestra la segunda mejor cifra de ABC (tanto en la medición de las presiones sistólica y diastólica), presentando además una alta concordancia (CCI) con las cifras de MAPA (tanto para mediciones sistólicas como diastólicas); por lo tanto el patrón de 3 días presenta una alta fiabilidad y un poder discriminativo bueno, comparándolo con el MAPA. Por último, valoramos la ventaja de medir las cifras tensionales durante 3 días frente a 7 o 4 días, lo que supone una menor duración en la obtención de resultados, y por ende, un menor retraso en la toma de decisiones en el ámbito de la atención primaria. Por estas razones consideramos que este patrón es el más eficiente.
+Directrices para futuras investigaciones
+La valoración ideal de la validez de cualquier método diagnóstico se realiza a través de un estudio prospectivo, es decir, el seguimiento del paciente desde el momento en que contrae la enfermedad hasta que inicia con los eventos mórbidos secundarios a padecer dicha enfermedad. Sugerimos un seguimiento prospectivo, a gran escala, multicéntrico y con múltiple representación étnica para corroborar la validez de la AMPA como método de seguimiento.Lo conocido sobre el tema•La AMPA es una técnica sencilla, segura, de bajo coste que puede ser muy útil en el manejo clínico del paciente hipertenso con el objetivo de mejorar su clasificación, control y tratamiento.•La decisión sobre cuál patrón de tomas tensionales con AMPA es el más eficiente en el seguimiento del hipertenso está realizada solo por consenso, y cada sociedad científica tiene una opinión particular.Qué aporta este estudio•La demostración, de forma científica, de que el patrón de 3 días no es menos eficiente que los demás patrones de la AMPA en el seguimiento del paciente hipertenso.•La posibilidad de disminuir el tiempo de espera (hasta 4 días) en la toma de decisiones en la consulta de seguimiento del hipertenso en atención primaria.
+
+
+- FINANCIACIÓN
+
+Este trabajo de investigación ha sido parcialmente financiado con una beca para investigación concedida por la entidad bancaria Cajamurcia.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

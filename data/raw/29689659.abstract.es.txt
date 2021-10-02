@@ -1,0 +1,5 @@
+Evaluar la prevalencia de anticuerpos antiparotiditis en niños y adolescentes de México, a dos años de haberse introducido la vacuna SRP.
+La seropositividad en niños de 1 a 2 y de 6 a 9 años fue probablemente atribuible a vacunación durante 1998-2000 y la de otros grupos etarios a exposición natural relacionada con el tiempo transcurrido en cada cohorte de nacimientos hasta el reclutamiento al estudio.
+La seroprevalencia fue 70.6% (IC95% 69.3-71.9) y resultó mayor en adolescentes (83.0%, IC95% 81.5-84.5) que en niños (56.0%, IC95% 53.9-58.11) (OR 3.83; IC95% 3.34-4.39, p=0.0000000). Los niños de 1 a 2 y de 6 a 9 años, que a partir de 1998 formaron parte del grupo blanco de vacunación vs parotiditis, tuvieron mayor seroprevalencia que el grupo de 3 a 5 años no vacunado.
+Se estudiaron 2 111 niños (1-9 años) y 2 484 adolescentes (10-19 años). Se evaluaron anticuerpos IgG con un kit comercial de ELISA indirecto.
+

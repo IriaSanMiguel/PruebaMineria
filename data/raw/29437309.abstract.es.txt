@@ -1,0 +1,5 @@
+La versión AIS 2005 –actualización 2008– clasifica un menor número de pacientes como graves en comparación con la versión AIS 98.
+Estudio descriptivo de una serie de casos con análisis transversal que incluyó a pacientes ingresados por lesiones debidas a causas externas en dos hospitales españoles, llevado a cabo entre febrero de 2012 y febrero de 2013. Se calculó el Injury Severity Score (ISS) y el New Injury Severity Score (NISS) de cada uno de los casos con ambas versiones de la escala AIS.
+La muestra estuvo compuesta por 699 casos, con una edad media de 52,7 (DE 29,2) años, de los cuales 388 (55,5%) fueron varones. Se obtuvo una mayor clasificación de pacientes graves con la versión AIS 98, tanto para el ISS (2,6%) como el NISS (2,9%).
+Estudiar si existen diferencias en la asignación de gravedad entre las versiones 98 y 2005 –actualización 2008– de la escala Abbreviated Injury Scale (AIS) y determinar si estas posibles diferencias podrían tener repercusión en la definición de paciente traumatológico grave.
+

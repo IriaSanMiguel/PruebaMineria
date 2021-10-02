@@ -1,0 +1,124 @@
+ASPECTOS BÁSICOS DE LA COVID-19 PARA EL MANEJO DESDE ATENCIÓN PRIMARIA
+
+
+- EPIDEMIOLOGÍA Y TRANSMISIÓN
+
+En España, entre marzo y diciembre del 2020, se ha notificado a la Red Nacional de Vigilancia Epidemiológica (RENAVE) 1,7 millones de casos de COVID-19.
+Las características epidemiológicas han variado desde el cambio de estrategia diagnóstica en mayo del 2020 , . Dicho cambio, rastreo-pruebas-aislamiento, ha aumentado el número de pacientes diagnosticados con antecedente de contacto con caso confirmado conocido previo .
+La infección es una zoonosis, originada por el SARS-CoV-2, un betacoronavirus, que penetra en la célula, empleando como receptor a la enzima convertidora de angiotensina 2 (ACE-2), . El SARS-CoV-2 se transmite principalmente por la inhalación o contacto a corta distancia (< 2 m) a través de los ojos, boca o nariz, con las gotitas respiratorias, emitidas al hablar, gritar, toser o estornudar, . La transmisión por fómites es posible, aunque inusual. La propagación por aerosoles es probable, especialmente, en espacios cerrados y mal ventilados, . La vía de transmisión vertical se produciría fundamentalmente en el período postnatal, por el contacto estrecho del niño con las secreciones respiratorias de la madre; aunque se han detectado receptores ACE-2 en la placenta en mínimas cantidades, así como ARN del virus en la leche materna, no pudiéndose descartar la transmisión por contacto, . No se ha informado de esta por productos sanguíneos, pinchazos por agujas o fecal-oral. El período infectivo se inicia dos a tres días antes (fase presintomática), hasta siete a ocho días después del inicio de los síntomas, , , . En los casos más graves, esta transmisión sería más duradera, .
+La transmisión predominante fue la intrafamiliar con una tasa de ataque secundario en contactos convivientes de entre un 7,6 y un 10,5%, llegando, incluso, al 35% en eventos sociales.
+El período de incubación mediano es de 5,1 días (rango 1 a 14 días). A los 11,7 días (IC 95%: 9,7 a 14,2) el 95% de los casos sintomáticos ya se han desarrollado. El 99,7% de los pacientes de la serie de RENAVE, presentaban síntomas antes del día 10.
+
+
+- MANIFESTACIONES CLÍNICAS
+
+La infección por SARS-CoV-2 puede ser asintomática (33 a 50%) o un cuadro de infección respiratoria aguda leve, moderado o grave, .
+Además de los síntomas respiratorios, existe una amplia gama de otros relacionados con distintos sistemas , , , , , , , .
+Los niños tienen tasas similares de infección a los adultos, pero más frecuentemente son asintomáticas y leves, , . La ausencia de tos, disminuiría la transmisión. Esta última junto con la fiebre son las manifestaciones más frecuentes, , . La sintomatología gastrointestinal puede presentarse sin clínica respiratoria. La acrocianosis parece más específica en niños y adolescentes. Se han notificado casos graves por un síndrome inflamatorio sistémico, con características del de Kawasaki y el shock tóxico. Las embrazadas tiene mayor riesgo de hospitalización, 3 veces mas de riesgo de ingreso en UCI y 1,7 veces más de fallecer.
+El riesgo de ingresar en la unidad de cuidados intensivos (UCI) en el embarazo y en el puerperio precoz es tres veces mayor y la probabilidad de morir por COVID-19 es de 1,7 veces más. No obstante, el riesgo absoluto de complicaciones, en relación con el conjunto de la población, es bajo. La posibilidad de contraer COVID-19 grave se relaciona con la edad materna, el índice de masa corporal alto y las comorbilidades preexistentes. Además, esta enfermedad aumenta el riesgo de parto prematuro y la probabilidad de ingreso del neonato en una UCI neonatal.
+En pacientes de edad avanzada, puede presentarse como caídas, astenia, delirio o alteración de la conciencia en caso de disfunciones cognitivas previas.
+Aunque el diagnóstico de sospecha de la infección por el SARS-CoV-2 es clínico, la presencia o ausencia de signos o síntomas no son lo suficientemente precisas como para confirmar una COVID-19. Por esto, el diagnóstico de sospecha deber tener en cuenta los antecedentes epidemiológicos de contactos en las dos a tres semanas previas.
+Entre un 80 a 85% de los casos son leves o moderados (incluye neumonía leve), un 10 a 14% son graves (neumonía grave), requiriendo hospitalización y un 5 a 6% son críticos (insuficiencia respiratoria, shock séptico y/o fallo multiorgánico) con elevada mortalidad, . Al inicio de la pandemia, la mediana de días entre el inicio de los síntomas y la hospitalización fue de seis (tres a nueve), de nueve (seis a 12) hasta el ingreso en la UCI y de 11 (siete a 18) hasta la defunción. La edad (> 65 años), el sexo masculino y las comorbilidades tienen un gran impacto en la gravedad y en la mortalidad en la infección COVID-19, , , . Además, determinados hallazgos de laboratorio han sido identificados como marcadores de gravedad , .
+La neumonía grave, generalmente bilateral con requerimientos de oxígeno y sin necesidad de ventilación mecánica (frecuencia respiratoria [FR] > 30 inspiraciones/min, dificultad respiratoria grave o saturación de oxígeno [SatO2] < 90% con aire ambiente) es la manifestación grave más frecuente en la infección COVID-19 y la principal causa de ingreso, . El síndrome de dificultad respiratoria aguda (SDRA) es una complicación crítica, caracterizada por la necesidad del uso de dispositivos mecánicos de ventilación. La septicemia y el fallo multiorgánico están relacionados con el alto riesgo de fallecimiento (40 a 50%), , . Otras complicaciones agudas y potencialmente mortales son: fenómenos inflamatorios vasculares y tromboembólicos (tromboembolismo pulmonar, coagulación intravascular diseminada y accidente cerebrovascular agudo), cardiovasculares (miocarditis, insuficiencia cardiaca, arritmias, síndrome coronario agudo y muerte súbita) o neurológicos (enfermedad cerebrovascular aguda, deterioro de la conciencia, convulsiones, meningoencefalitis, encefalopatía, encefalomielitis y síndrome confusional agudo), , . Al igual que en niños, en adultos se han descrito un síndrome inflamatorio multisistémico grave.
+
+
+- PRUEBAS COMPLEMENTARIAS
+
+-- PRUEBAS DE DETECCIÓN MICROBIOLÓGICA
+
+Los cuadros clínicos sospechosos de COVID-19 o asintomáticos con un contacto estrecho reciente con un infectado confirmado deberían someterse a pruebas diagnósticas microbiologías para identificar el SARS-CoV-2.
+La sensibilidad de las pruebas depende de la muestra, del tipo de test y del tiempo de inicio de la infección. Las pruebas virológicas son las más rentables para diagnosticar la infección en la fase aguda, en las dos primeras semanas, . Las pruebas serológicas no son adecuadas para detectar la enfermedad aguda y su utilidad diagnóstica es mayor a partir de la tercera semana, .
+Todas ellas deben interpretarse con cautela pues, además de la sensibilidad y especificidad, dependen de la probabilidad estimada de la enfermedad preprueba, que se relaciona con la prevalencia local de la COVID-19. En un entorno de alta prevalencia, el valor predictivo positivo (VPP) aumenta y un resultado negativo debe comprobarse repitiendo la prueba. En entornos de baja prevalencia, el VPP disminuye y aumenta el valor predictivo negativo (VPN) por lo que los resultados positivos no permiten confirmar la enfermedad y deben ser interpretados con cautela, valorando cuidadosamente la clínica y la epidemiologia e incluso repetir la prueba para confirmar el resultado .
+
+
+-- PRUEBAS VIROLÓGICAS
+
+--- DETECCIÓN DEL ARN VIRAL DEL SARS-COV-2 MEDIANTE TÉCNICAS DE LA REACCIÓN EN CADENA DE LA POLIMERASA CON TRANSCRIPTASA INVERSA (RT-PCR
+
+Es la prueba de elección para realizar el diagnóstico microbiológico de COVID-19 en la fase temprana, . En los casos leve-moderados no se detecta virus viable en exudados nasofaríngeo (NF) u OR, después de los primeros nueve días y la RT-PCR se negativiza entre la segunda y tercera semanas. No obstante, un 20 a 25% de los infectados prolonga la eliminación de material genético y el resultado positivo de la RT-PCR más de un mes, . Esta positividad alargada no se ha asociado con un empeoramiento clínico, ni con mayor riesgo de contagio de los contactos, , relacionándose el resultado con la presencia de material no infectivo. Al respecto, los valores del umbral de ciclo (Ct) de la RT-PCR superiores a 30 se correlacionan con menor carga viral en la muestra y menor capacidad infectiva. Existe un vínculo positivo entre los valores del Ct más bajos (< 25) y un cultivo viral positivo e infección activa.
+Un resultado positivo es indicativo de infección activa, en casos sintomáticos o en asintomáticos con antecedente reciente (dos a tres semanas previas) de un contacto epidemiológico con un caso confirmado, . Un resultado negativo no descarta la infección si la sospecha clínico-epidemiológica es alta y obliga a repetir la RT-PCR dos o tres días después, .
+
+
+--- DETECCIÓN DE ANTÍGENOS VIRALES MEDIANTE TEST ANTIGÉNICO
+
+Se detecta de forma directa las proteínas N y las subunidades de la proteína espiga (S) del SARS-CoV-2, mediante la técnica de inmunocromatografía de difusión («lateral-flow») en exudado NF, con menor sensibilidad que la RT-PCR . El resultado se obtiene en 15 a 20 minutos, en el punto de atención sanitaria y mediante un procedimiento sencillo, rápido y a coste reducido, , .
+Son más rentables en situaciones con alta carga viral (Ct < 25) en presintomáticos y en los primeros cinco días de síntomas, , y pierden utilidad en casos con Ct > 30 y clínica superior a siete días. Existe menos experiencia de uso en pacientes asintomáticos. Por su relación directa con la carga viral, el rendimiento parece ser elevado en asintomáticos con alta concentración del virus en el tracto respiratorio, así como en la primera semana tras un contacto epidemiológico confirmado, .
+Podría ser la primera prueba para realizar en los primeros cinco días de síntomas. Un resultado positivo confirmaría la infección aguda por SARS-CoV-2, sin necesidad de confirmación por RT-PCR, incluso en asintomáticos, en entornos con probabilidad preprueba ≥ 10%, . En cambio, un resultado negativo necesitaría repetir la prueba antigénica (dos días después) o confirmarlo con RT-PCR, , . En entornos de baja prevalencia podrían identificar rápidamente los casos altamente infecciosos. También podría usarse para descartar enfermedad asintomática en los contactos estrechos de un paciente confirmado, tres a siete días después de la exposición donde un resultado negativo, descartaría razonablemente la infección, . Si han pasado más de siete días desde la exposición, se recomienda realizar la RT-PCR.
+
+
+--- TÉCNICAS DE DETECCIÓN DE ANTICUERPOS
+
+Las pruebas serológicas detectan la presencia de anticuerpos (Ac) frente a la proteína N, subunidades de la proteína S o el dominio de unión al receptor (RDB-S) del SARS-CoV-2. La detección se realiza con pruebas cuantitativas automatizadas de laboratorio que utilizan técnicas de enzimoinmunoanálisis (ELISA) o de quimioluminiscencia (CLIA) o cualitativas, de ensayos de flujo lateral inmunocromatográfico, . Las pruebas detectan anticuerpos totales (Ab), inmunoglobulina M (IgM) e inmunoglobulina G (IgG) por separado, por término medio a los 11, 12 y 14 días de síntomas. La sensibilidad es muy baja en la primera semana, moderada en la segunda y buena entre la tercera y quinta después del inicio de los síntomas. La detección de IgG en personas que hayan presentado síntomas sospechosos confirma la infección en fase de recuperación o resuelta. Por este motivo, no están indicadas para diagnosticar la enfermedad aguda.
+Algunos estudios confirman la persistencia de la seropositividad de IgG con actividad neutralizante, en la mayoría de los infectados y de otros componentes de la memoria inmunológica del SARS-CoV-2, al menos seis meses después de la infección.
+
+
+-- PRUEBAS DE IMAGEN
+
+Los hallazgos radiológicos de la COVID-19 no son específicos para la infección por SARS-CoV-2 . La radiografía del tórax (RT) es la prueba inicial del estudio en los casos de COVID-19 con sospecha clínica de neumonía. La tomografía computarizada (TC) podría ser más útil en pacientes con enfermedades pulmonares preexistentes, .
+
+
+-- PULSIOXIMETRÍA
+
+La saturación de oxígeno (SatO2) es un factor predictivo de mortalidad o de ingreso en la UCI. En la COVID-19, la saturación de oxígeno puede descender y precipitar una insuficiencia respiratoria aguda, sin la presencia de síntomas evidentes de dificultad respiratoria, . La automonitorización domiciliaria de la SatO2 permite detectar situaciones de hipoxia que no se traducen en signos y síntomas de compromiso respiratorio. Se recomienda en pacientes con infección inicialmente leve o moderada que presentan problemas respiratorios previos. Cualquier valor menor de 90% a cualquier edad o menor de 92% en personas menores de 55 años debe valorarse clínicamente.
+La prueba de desaturación de oxígeno en esfuerzo se recomienda ante valores en reposo repetidos < 94%, mediante la prueba de sentado y de pie de un minuto (levantarse desde la posición sentada, tantas veces como pueda en un minuto) y la de 40 pasos (caminar 40 pasos sobre una superficie plana). El resultado es positivo con un descenso de la SatO2 basal antes de las pruebas ≥ 5 o un valor inferior a 90%.
+
+
+- TRATAMIENTO
+
+En la actualidad, no existe un tratamiento específico para SARS-CoV-2 con suficiente evidencia científica.
+El manejo depende, principalmente, de la gravedad de la enfermedad y de la fase evolutiva de la infección . La mayoría de los casos de COVID-19 son cuadros asintomáticos o leve-moderados, se resuelven espontáneamente, con tratamiento sintomático. Estos requieren un seguimiento estrecho hasta su completa recuperación para diagnosticar precozmente el deterioro clínico que puede aparecer a partir del séptimo al noveno día . El tratamiento específico de la infección se reserva para los cuadros graves y críticos. La COVID-19 grave es una enfermedad bifásica, con una etapa inicial de replicación viral, seguida de una cascada de eventos inflamatorios, . En función de la fase de evolución de la infección grave, se empleará la terapia antiviral (en la primera y segunda semana después del inicio de los síntomas) o inmunomoduladora (a partir de la segunda semana).
+
+
+-- TRATAMIENTO ANTIVIRAL
+
+Remdesivir es el único antiviral autorizado para el tratamiento del SARS-CoV-2. Inhibe la ARN polimerasa del SARS-CoV-2, bloqueando la replicación viral. Se administra por vía intravenosa, durante cinco días, tras una dosis de carga inicial. Produce efectos secundarios como elevación de transaminasas, hipotensión, náuseas, vómitos, sudoración y reacciones de hipersensibilidad al fármaco.
+Está autorizado para el tratamiento de la COVID-19 en mayores de 12 años y 40 kg, con neumonía que requieran oxígeno suplementario. No se recomienda en el embarazo y puede administrarse junto con corticoides en pacientes graves o críticos.
+Frente al placebo, reduce la necesidad de medidas de soporte, incluida la ventilación mecánica, y del tiempo hasta la mejoría clínica, en pacientes con enfermedad leve, moderada o grave que necesitan ayuda de oxígeno. No se ha demostrado beneficio en personas con enfermedad más grave o crítica Los datos del estudio Solidarity (Organización Mundial de la Salud [OMS]) determinan que el efecto es muy escaso o nulo en relación con la mortalidad a los 28 días y en la evolución de los pacientes hospitalizados.
+
+
+-- TRATAMIENTO INMUNOMODULADOR
+
+Los corticoesteroides sistémicos reducen la mortalidad a los 28 días en pacientes con enfermedades graves y críticas (número necesario para tratar [NNT]:14), con un nivel de evidencia de calidad moderada. En la actualidad, estos fármacos (dosis bajas de dexametasona o hidrocortisona intravenosa u oral) se recomiendan, durante siete a 10 días, en casos graves o críticos que requieren oxigenoterapia y/o ventilación mecánica.
+Actualmente, hay otros tratamientos inmunomodulares en investigación (inhibidores de la interleucina-6 [IL-6], interleucina-1 [IL-1] o de las kinasas).
+
+
+-- TRATAMIENTO DE LAS COINFECCIONES BACTERIANAS
+
+Las coinfecciones y sobreinfecciones son poco frecuentes en la COVID-19 (10%), . El riesgo es mayor en casos graves y críticos. La antibioterapia solo se recomienda si existe elevada sospecha de sobreinfección, atendiendo a criterios clínicos, pruebas de imagen y/o valores indirectos como los biomarcadores inflamatorios (proteína C reactiva y procalcitonina). También, debería usarse en casos con compromiso respiratorio grave y/o enfermedad crítica. El cuadro clínico, en la mayoría de las veces, es una neumonía, la etiología es la típica de pacientes no-COVID de similar edad y perfil de morbilidad (neumococo, Haemophilus influenzae y Klebsiella pneumoniae). El tratamiento debe seguir las recomendaciones de las guías locales y/o nacionales, .
+
+
+-- TROMBOPROFILAXIS
+
+La incidencia de complicaciones trombolíticas como trombosis venosa profunda o embolismo pulmonar, en pacientes con COVID-19, es elevada, . El riesgo es mayor en los casos graves. Por este motivo, en la actualidad, se recomienda la profilaxis farmacológica de la enfermedad tromboembólica venosa (ETEV), en todos los pacientes hospitalizados con COVID-19, salvo contraindicaciones. Se utiliza, habitualmente, heparina de bajo peso molecular (HBPM) a dosis profilácticas durante el ingreso y se mantienen siete a 10 días después del alta.
+En los casos leves a moderados tratados ambulatoriamente, se aconseja realizar una evaluación individualizada del riesgo trombótico de la ETEV, mediante anamnesis y con escalas de valoración de riesgo trombótico (Padua, IMPROVE) y hemorrágico (IMPROVE). En los pacientes con este riesgo elevado se realizará tromboprofilaxis con HBPM a dosis profiláctica, durante dos semanas. El embarazo y el puerperio suponen situaciones de riesgo alto de ETEV. En estas circunstancias, se administrará HBPM a dosis profiláctica durante las dos semanas y hasta siete días tras la resolución de la COVID-19 e inicio de la movilización, en casos de inmovilización prolongada.
+
+
+- SEGUIMIENTO
+
+En los casos leves-moderados y graves tras el alta hospitalaria, debe realizarse una monitorización de la situación clínica durante un tiempo mínimo de dos semanas. El objetivo es detectar el deterioro temprano de la fase aguda que recomiende su remisión a la urgencia hospitalaria o la persistencia de los síntomas (COVID-19 postagudo) o secuelas tras la mejoría clínica. Después de la fase aguda, debe realizarse una valoración integral inicial (estado físico, nutricional, emocional, sueño, calidad de vida y fragilidad), . En función de los hallazgos, se debe realizar un plan de seguimiento individualizado.
+En los casos que no requieran ingreso hospitalario, en la fase aguda se recomienda un seguimiento no presencial (telefónico), con control de signos y síntomas agudos, utilizando procedimientos o cuestionarios de verificación protocolizados. Para controlar la disnea, se recomienda la monitorización domiciliaria de la SatO2 . El seguimiento se prolongará hasta el control y/o resolución de los síntomas, normalmente a 10 días desde el inicio.
+Los pacientes hospitalizados que no han requerido ingreso en UCI ni ventilación mecánica pueden seguirse desde atención primaria (AP). En estos casos, se realizará un control periódico de la evolución de los síntomas residuales y de la aparición de otros problemas concurrentes, . El seguimiento se prolonga un mínimo de dos a seis semanas tras el alta hospitalaria. La necesidad de solicitar pruebas complementarias va a depender de la evolución de los síntomas .
+Los pacientes con cuadros críticos tras el alta hospitalaria pueden tener necesidades de salud inmediatas y a más largo plazo, como las físicas (rehabilitación pulmonar y cardiaca, heridas de traqueostomía, úlceras por presión, disfagia, fatiga, neuropatía, debilidad muscular y trastornos respiratorios crónicos), psicológicas (ansiedad, depresión y trastorno de estrés postraumático), neuropsicológicas (delirio y deterioro cognitivo) y sociales. El seguimiento se realizaría en unidades clínicas o en consultas monográficas hospitalarias multidisciplinares coordinadas con AP, .
+
+
+- COVID-19 POSTAGUDO
+
+La mayoría de los casos de COVID-19 no críticos, se recuperan en dos a cuatro semanas, pero algunos pueden presentar síntomas durante meses. En la actualidad, se emplea el término de «COVID-19 postagudo», para definir la prolongación de los síntomas más allá de las tres semanas desde el inicio de los primeros y COVID-19 crónico como el que se extiende más allá de las 12 semanas. Casi el 90% de los pacientes hospitalizados que se recuperaron de COVID-19 informaron la persistencia de, al menos un síntoma, dos meses después del alta. El 35% de los adultos con enfermedad leve no recuperan su estado de salud habitual a las dos o tres semanas, .
+Los síntomas prolongados varían ampliamente. Generalmente, son de la fase aguda como tos, febrícula, dificultad respiratoria y astenia. También, se describen artromialgias, debilidad muscular, dolor torácico, cefalea, erupciones cutáneas o el control deficiente de la diabetes.
+La mayoría de estos pacientes se recuperan de forma espontánea, con medidas conservadoras (apoyo holístico, descanso, tratamiento sintomático y aumento gradual de la actividad), sin necesidad de realizar pruebas complementarias adicionales. A pesar del curso benigno, los síntomas se pueden prolongan en exceso en el tiempo y, en ocasiones, enmascarar las complicaciones graves en curso o las comorbilidades, .
+
+
+-- SECUELAS DEL COVID-19
+
+La comprensión de las secuelas tardías de la infección por SARS-CoV-2 todavía es limitada. Se han descrito aquellas que involucran manifestaciones cardiovasculares (insuficiencia cardiaca y aumento de la frecuencia cardiaca en reposo), pulmonares (fibrosis y deterioro de la función pulmonar), neurológicas (neuropatías y deterioro cognitivo a largo plazo), artromialgias prolongadas y psicológicas, , . Podrían atribuirse a una respuesta inflamatoria o viral del huésped tardía (cuatro semanas después de la infección inicial) que continúan por una duración aún no caracterizada.
+A veces, no es fácil diferenciar las secuelas inflamatorias de los síntomas de curación tardía (COVID-19 postagudo). En AP, las indicaciones para la realización de pruebas y la posible evaluación en la consulta especializada en COVID-19 incluyen los síntomas persistentes (dos meses en casos leves-moderados y tres en casos graves), progresivos o de nueva aparición, .
+
+
+- FINANCIACIÓN
+
+Para la elaboración de este artículo no se ha contado con ningún tipo de financiación de agencias del sector público, privado ni de entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

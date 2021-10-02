@@ -1,0 +1,66 @@
+ANÁLISIS COMPARATIVO DE MENINGIOMAS CEREBRALES GRADO I VS GRADO II EN UNA SERIE RETROSPECTIVA DE 63 PACIENTES OPERADOS
+
+
+- INTRODUCCIÓN
+
+Los meningiomas son los tumores primarios cerebrales más frecuentes de origen no glial. Representan aproximadamente el 20% de todos los tumores cerebrales. La denominación de “meningioma”, fue acuñada por Cushing en 1922 para describir una neoplasia benigna originada en las meninges del cerebro. La gran mayoría de los meningiomas ocurren en la edad adulta y son poco frecuentes en el grupo etario pediátrico (1,4 al 4%). Mantienen una relación Mujer-Varón 2:1. La incidencia anual de meningiomas es de aproximadamente 6 por 100.000 habitantes.
+Se clasifican según la Organización mundial de la Salud (OMS) en 3 grados:
+Benignos (Grado I).Atípicos (Grado II).Malignos (Grado III).
+Los meningiomas atípicos representan un subgrupo de tumores con características histológicas y clínicas que sugieren un comportamiento más agresivo. Los criterios de clasificación de la OMS cambiaron de manera significativa en el año 2007, basado en series retrospectivas que asocian los resultados obtenidos de los pacientes operados de meningiomas con los criterios de clasificación histológicos.
+Estos nuevos criterios ampliaron la definición de meningioma atípicos modificando la incidencia del 5% al 20-35% del total.
+Este incremento efectivo en la incidencia de meningiomas grado II subraya la importancia de determinar la terapéutica óptima para estos tumores, ya que presentan una peor evolución clínica comparado a los tumores de grado I. La sobrevida libre de progresión tumoral a los 5 años posterior al tratamiento definitivo, ha sido reportada del 20 al 50% cuando son considerados los meningiomas atípicos y anaplásicos en conjunto, y un 38 a 62% cuando se evalúan únicamente los meningiomas atípicos. La sobrevida a 15 años de los meningiomas atípicos es del 57% comparado con el 86% de los meningiomas Grado I.
+En este trabajo se presentan los resultados del estudio de una serie retrospectiva de 63 pacientes operados de meningiomas cerebrales en el Hospital Nac. Prof. A. Posadas durante el periodo 2009-2015.
+
+
+-- OBJETIVO
+
+Establecer diferencias entre los meningiomas Grado I y II de la clasificación de la OMS, en lo que respecta a evolución, mortalidad, necesidad de re-intervención, grado de resección quirúrgica alcanzado, tratamiento radiante y localización tumoral en una serie de 63 pacientes operados.
+
+
+- MATERIALES Y MÉTODOS
+
+Luego de la aprobación por el comité de ética del Hospital Nacional Prof. A. Posadas, se analizaron en forma retrospectiva las historias clínicas de 63 pacientes consecutivos operados de meningiomas cerebrales, entre Mayo del 2009 y Agosto del 2015. Todos los pacientes fueron operados por médicos integrantes del Servicio de Neurocirugía del Hospital Nac. Prof. A. Posadas. Se recogieron para su análisis las siguientes variables: sexo, edad, escala de Karnofsky pre y postquirúrgico, anatomía patológica, localización tumoral, grado de resección quirúrgica, tratamiento radiante adyuvante, evolución y mortalidad.
+Solo se reclutaron pacientes con al menos 12 meses de seguimiento posoperatorio.
+La extensión de la resección tumoral se obtuvo del parte operatorio y se utilizó la clasificación de Simpson dicotomizado a resección total los grados (I–II–III) y subtotal los grado (IV–V).
+En lo que respecta a la evolución clínica, fueron considerados como buena evolución a aquellos pacientes con puntaje ≥70 en la escala de Karnofsky, y mala evolución a aquellos con un puntaje <70. Con los datos obtenidos se construyó la Tabla 1, donde figuran las características de los pacientes estratificados según su grado histológico.
+Los datos fueron analizados con el programa estadístico EPIINFO 7.0. Para comparar variables categóricas se utilizó el chi cuadrado y el test exacto de Fisher. Para el análisis de datos continuos utilizamos Mann- Whitney y t-test para muestras independiente. Para todo el análisis estadístico se consideró como significativo un valor de P < 0.05.
+
+
+- RESULTADOS
+
+Se analizaron comparativamente 63 pacientes que fueron sometidos a cirugía, de los cuales 51 presentaron meningiomas Grado I de la OMS y los 12 restantes meningiomas Grado II. Estos últimos representaron el 19% de la serie total. La mediana de edad fue de 57 años (rango 15-82) para ambos grados de meningiomas. No se hallaron diferencias significativas para la variable sexo entre ambos grupos: femenino 62,7% para los meningiomas Grado I de la OMS vs 50% en los Grado II (P = 0.4). Tampoco hubo diferencias en lo que respecta a la condición clínica prequirúrgica medida por la escala de Karnofsky (P = 0.7).
+Con respecto a la localización tumoral, el 55% de los meningiomas Grado I de la OMS se localizaron fuera de la base del cráneo comparado con el 91.6% de los meningiomas Grado II (P = 0.02). RR 6.7 IC 95% (0.93–49). (Gráficos 1 y 3).
+Se logró una resección completa en el 74,5% de los meningiomas Grado I de la OMS versus el 58.3% de los meningiomas Grado II (P = 0.3). La tasa de reintervención mostró una diferencia significativa: se reintervinieron el 9,8% de los meningiomas Grado I de la OMS vs el 33,3% los Grado II (P = 0.03). RR 3 IC 95% (1.13-7.9).
+El tratamiento con radioterapia adyuvante se realizó en el 1,9% de los meningiomas Grado I y en el 33,33% de los atípicos. (P = 0.004). En la serie total solo recibió esta terapéutica el 8% de los pacientes.
+En lo que respecta a la evolución clínica; tuvieron una mala evolución el 13,7% del grupo de meningiomas Grado I de la OMS vs el 41,6% del grupo de los atípicos. (P = 0.01). RR 3.36 IC 95% (1.3-8.3) .
+La mortalidad para el grupo de los meningiomas grado II de la OMS fue del 41,6% vs el 11,7% en los meningiomas benignos. (P < 0.01) RR 3.3 IC 95% (1.3-8.7).
+
+
+- DISCUSIÓN
+
+Los datos obtenidos en nuestra serie muestran que el 91,2% de los meningiomas atípicos se localizan fuera de la base del cráneo, marcando una diferencia con respecto a los benignos. Esta amplia diferencia encontrada probablemente se deba al escaso número de Meningiomas Grado II reclutados. En la bibliografía consultada, Kane y col. en una revisión retrospectiva de 378 pacientes, demostraron que los meningiomas de la convexidad tenían el doble de probabilidad de ser grado II o III comparado con aquellos ubicados en la base del cráneo. Sade y col. informaron que el 75% de los meningiomas atípicos se encontraban sobre la convexidad cerebral mientras que un 25%, sobre la base del cráneo. Estos autores concluyen que la localización anatómica podría considerarse como un factor de riesgo para el desarrollo de meningiomas atípicos/anaplásicos.
+Habría una embriogénesis meníngea diferencial que resulte en el predominio de un tipo de célula aracnoidal sobre el otro.
+Está establecido que la prevalencia de meningiomas benignos es mayor en las mujeres. En el caso de los meningiomas atípicos hay una relación varón-mujer igual o incluso un ligero predominio del sexo femenino. En contraste, los meningiomas anaplásicos parecen ser más comunes en el sexo masculino. Esto es coincidente con nuestra serie donde no hubo diferencias en cuanto al género en ambos grupos.
+El grado de resección quirúrgica de todo tipo de meningioma es el factor pronóstico más importante de recidiva. Como los meningiomas Grado I, los atípicos, generalmente pueden ser resecados con una tasa baja de complicaciones graves. La mayoría de los pacientes con meningiomas grado II tratados únicamente con cirugía recurren. Al igual que con los meningiomas benignos, la exéresis quirúrgica debiera ser lo más completa posible; incluyendo un margen de duramadre alrededor del tumor, tejido blandos y hueso infiltrado por el meningioma.
+Las tasas de supervivencia a 5 años de los pacientes con meningiomas atípicos y anaplásicos es del 28 al 70%, con una peor sobrevida en aquellos pacientes sometidos a resecciones incompletas. Al analizar el grado de resección tumoral en ambos grupos no hubo diferencias estadísticamente significativas.
+Con respecto a la tasa de reintervención, en nuestra serie se obtuvo una diferencia significativa: 9,8 vs 33,3% Grado I/Grado II; esto refleja la progresión y recurrencia tumoral diferencial entre los distintos grados histológicos.
+Aunque no existe aún un estudio prospectivo para comparar la radioterapia postoperatoria temprana en meningiomas GII, la utilización de la radioterapia fraccionada como tratamiento temprano es controversial. Hay estudios que muestran resultados significativamente favorables en los pacientes con resección quirúrgica completa y radioterapia adyuvante. Goyal y col. mostraron control local del tumor en el 87% a los 5 y 10 años con la terapia de radiación externa. Por su parte, Mair et al., en una serie retrospectiva de 114 pacientes con meningiomas atípicos, no recomiendan la radioterapia postoperatoria en los pacientes con resección Simpson 1 y 2; además, en los pacientes con un remanente tumoral en las imágenes de control recomiendan la radiocirugía en primer término. Actualmente se está llevando a cabo un estudio randomizado para comparar la radioterapia vs la observación en meningiomas Grado II operados.
+En nuestros casos, solo el 7,8% de la serie del total, y el 30% de los meningiomas atípicos fueron tratados con radioterapia adyuvante. Esto dificulta la realización de un análisis concluyente al respecto. Se necesitará mayor número de pacientes y mayor seguimiento para valorar el impacto de dicha terapéutica.
+Como limitaciones del trabajo encontramos la naturaleza retrospectiva de la serie analizada, con todas las limitaciones que este diseño presenta a la hora de la recolección de datos. También el escaso número de meningiomas atípicos reclutados que resta potencia al análisis; la falta de aspectos moleculares como receptores de progesterona y características citogenéticas implicados en la progresión tumoral y el escaso tiempo de seguimiento de los pacientes (mediana de 50 meses).
+
+
+- CONCLUSIÓN
+
+La incidencia de los subgrupos de meningiomas ha cambiado a partir del año 2007, basados en los nuevos criterios histológicos de la OMS. Esto produjo un aumento en la incidencia de meningiomas atípicos (entre 25 y 30%). Por lo tanto la comparación con series clásicas de meningiomas (trabajos como el de Simpson de 1957), tendrán que ser reevaluadas si se quiere obtener conclusiones en lo que respecta a recurrencia y progresión tumoral de los Meningiomas Grado II. La localización tumoral parece ser un factor de riesgo para el desarrollo de meningiomas atípicos, ya que la mayoría se localizan en convexidad y parasagitales, lejos de la base del cráneo.
+Los meningiomas atípicos tienen un peor pronóstico evolutivo y presentan una mayor tasa de reintervención.
+La radioterapia adyuvante podría estar indicada en meningiomas Grado II con resecciones incompletas y/o ante la recurrencia/progresión tumoral, pero se necesita un mayor número de pacientes y trabajos de mejor calidad metodológica para determinar el rol que juega en esta patología.
+
+
+-- FINANCIAL SUPPORT AND SPONSORSHIP
+
+Nil.
+
+
+-- CONFLICTS OF INTEREST
+
+There are no conflicts of interest.

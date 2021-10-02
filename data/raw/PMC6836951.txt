@@ -1,0 +1,29 @@
+FÁRMACOS BIOLÓGICOS Y BIOSIMILARES: ACLARANDO CONCEPTOS
+
+
+- INTRODUCCIÓN
+
+Se habla de medicamentos biológicos al referirse a principios activos que se obtienen a partir de material biológico, como fluidos, tejidos humanos o animales, o microorganismos. Cuando estos medicamentos se obtienen a partir de sistemas vivos en los que se ha implantado material genético con la tecnología del ADN recombinante, se les llama medicamentos biotecnológicos. Actualmente estos medicamentos están totalmente incorporados al arsenal terapéutico. Fármacos como la epoetina, los análogos de la insulina, la hormona del crecimiento y los anticuerpos monoclonales se han introducido en terapéutica y han sustituido, en algunos casos a los de síntesis química. Una vez que ha caducado la patente, se han empezado a producir y comercializar «copias» de estos productos originales al igual que aparecieron los genéricos con respecto a los medicamentos de origen químico. A estas copias se les ha llamado biosimilares.
+
+
+- ¿POR QUÉ NO HABLAR DE GENÉRICOS EN VEZ DE BIOSIMILARES
+
+Los genéricos son productos sintetizados por procesos químicos fácilmente reproducibles y con un estudio de bioequivalencia se puede mostrar que el producto que se obtiene es idéntico al de referencia. La reproducibilidad de los procesos de producción biotecnológicos entraña ciertas dificultades y pequeñas variaciones, en el proceso pueden comportar cambios o modificaciones en la estructura de la molécula. Aunque el biosimilar y el de referencia han de ser el mismo, desde el punto de vista molecular y biológico, pueden no tener una estructura totalmente idéntica, por ejemplo proteínas con la misma secuencia de aminoácidos pero alguna diferencia en cuanto a la glicosilación, la desaminación o la oxidación, así como en la estructura terciaria.
+
+
+- ¿QUÉ APORTAN LOS MEDICAMENTOS BIOSIMILARES
+
+Los medicamentos biotecnológicos han supuesto para algunas enfermedades como la artritis reumatoide o para el abordaje de algunas neoplasias un cambio importante en su pronóstico. Sin embargo, el coste del tratamiento de la mayoría de medicamentos biotecnológicos es muy elevado, hablamos de varios miles de euros por paciente. Ello ha contribuido al incremento del gasto en medicamentos, sobre todo en hospitales donde son mayoritariamente prescritos y dispensados. En España, en el año 2011, el coste de estos fármacos supuso casi un 30% del gasto total en medicamentos a cargo del Sistema Nacional de Salud. En Europa, en el año 2013, 8 de los 10 medicamentos que generaron más gastos fueron biológicos. La finalización de la patente de algunos de los biotecnológicos en la Unión Europea en el año 2001, ha permitido comercializar biosimilares y abaratar los costes, ampliando el acceso a más pacientes, , .
+
+
+- ¿CÓMO SE ASEGURA LA BIOSIMILITUD
+
+Debido a los cambios en la estructura de la molécula biosimilar, consecuencia de las dificultades en la reproducibilidad de los procesos de producción, la Agencia Europea del Medicamentos (EMA) es más exigente que en el caso de los genéricos para establecer que un fármaco es biosimilar. Es necesario disponer de estudios preclínicos y clínicos sobre la eficacia en comparación con el biotecnológico de referencia para alguna de las indicaciones previamente aprobadas, así como datos sobre la seguridad, sobre todo en referencia a su inmunogenicidad. Si hay una adecuada justificación científica, los biosimilares se autorizan también para otras indicaciones que tiene aprobada el medicamento de referencia basada en la extrapolación de datos.
+La EMA ha establecido unas directrices sobre qué tipo de estudios son requeridos en función de las características del medicamento y las áreas o indicaciones clínicas en las que vaya a ser aprobado el medicamento biosimilar. También exige, como si se tratara de un nuevo medicamento, un plan detallado de gestión de riesgos y un programa de farmacovigilancia que asegure un seguimiento después de su autorización. Por lo tanto, para su aprobación como biosimilar, es necesaria la demostración de una similitud de las propiedades fisicoquímicas y la actividad biológica entre el biosimilar y el producto de referencia, una similitud en el efecto clínico entre les indicaciones, el mecanismo de acción y los receptores, y la caracterización del perfil de seguridad del biosimilar.
+La EMA no se posiciona sobre si el fármaco biosimilar y el de referencia son intercambiables y deja su regulación a cada estado. En España, es posible el intercambio de forma consensuada con el médico si se ha aprobado en la comisión farmacoterapéutica, sin embargo no son sustituibles en la farmacia comunitaria.
+
+
+- ¿DE QUÉ FÁRMACOS BIOSIMILARES DISPONEMOS ACTUALMENTE
+
+En la tabla 1 se presentan los medicamentos biosimilares autorizados hasta el 2017 por la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS). La EMA también ha aprobado biosimilares de enoxaparina sódica, teriparatida y adalimumab que todavía no están autorizados en España.
+De los biosimilares disponibles actualmente, la mayoría son de uso hospitalario. Podemos afirmar que el primer biosimilar de prescripción en atención primaria es la insulina glargina. De las 2 especialidades aprobadas, solo Abasaglar® está actualmente comercializada. Disponemos de estudios preclínicos que confirman la similitud estructural de las 2 moléculas de insulina, así como la similitud farmacodinámica y farmacocinética. Además, se han realizado ensayos clínicos sobre su eficacia que ha mostrado la no inferioridad con respecto a la insulina glargina de referencia. En estos estudios tampoco se han observado diferencias en relación a la inmunogenicidad. Como recomendación general se reserva Abasaglar® para el paciente que inicia insulinización y en caso de querer intercambiar por la insulina glargina de referencia, las dosis serán las mismas y se aconseja un seguimiento estricto los primeros días.

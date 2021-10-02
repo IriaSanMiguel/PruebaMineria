@@ -1,0 +1,133 @@
+RECOMENDACIONES PARA EL CRIBADO DE ENFERMEDAD INFECCIOSA, SALUD MENTAL Y MUTILACIÓN GENITAL FEMENINA EN PACIENTES INMIGRANTES ATENDIDOS EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En un mundo globalizado con desequilibrios demográficos y crisis político-económicas, la migración es un fenómeno omnipresente y de interés para todas las comunidades.
+A pesar de haberse ralentizado durante la crisis, el fenómeno migratorio en España permanece estable. Según datos del 2018, hay más de 4,5 millones de inmigrantes en España (13,7% de su población total).
+La población inmigrante tiene unas necesidades de salud específicas dependiendo del país, la edad y el sexo, que pueden ser diferentes de las de la población autóctona, y que en ocasiones pasan inadvertidas en nuestro sistema sanitario.
+Existen infecciones cosmopolitas como la tuberculosis (TB), el VIH o las hepatitis B y C, que son prevalentes en el colectivo inmigrante, así como otras enfermedades importadas no endémicas en nuestro contexto, como son la estrongiloidiasis, la esquistosomiasis y la enfermedad de Chagas. Todas ellas presentan unas características que las hacen idóneas para implementar un programa de cribado. Son enfermedades crónicas, asintomáticas o con síntomas inespecíficos y potencialmente graves, suponiendo una alta carga para el sistema de salud. La detección precoz de estas enfermedades mediante un programa de cribado podría llevar a la curación o a un mejor control de la enfermedad, evitando el desarrollo de complicaciones.
+Por otro lado, la mutilación genital femenina (MGF) que afecta a mujeres y niñas en riesgo de ser tratadas mediante esta práctica en sus países de origen o los de sus progenitores y la salud mental (SM) en la población inmigrante son áreas lamentablemente desatendidas y desconocidas en Atención Primaria (AP).
+Este documento presenta las recomendaciones obtenidas en el marco del proyecto Cribado en población inmigrante (CRIBMI) tras consenso entre expertos del ámbito de la salud internacional sobre los problemas de salud más importantes en población migrante. El objetivo del proyecto CRIBMI es implementar un programa de cribado de condiciones de salud entre la población inmigrante basado en las recomendaciones, para guiar y sensibilizar a los profesionales sanitarios en necesidades de salud específicas, y orientar en el proceso de toma de decisiones.
+
+
+- METODOLOGÍA
+
+Tras las reuniones entre expertos, se seleccionaron las siguientes enfermedades/condiciones para elaborar las recomendaciones: VIH, hepatitis B y C, TB activa, enfermedad de Chagas, estrongiloidiasis, esquistosomiasis, SM y MGF.
+Se realizó una revisión narrativa de la literatura, incluyendo todas las guías clínicas, protocolos y recomendaciones sobre cribado de enfermedad infecciosa y no infecciosa en población inmigrante, publicadas en los últimos 5 años en la literatura o en organismos oficiales (última revisión realizada en noviembre del 2018). Se seleccionaron aquellas guías con recomendaciones basadas en la evidencia en las que se había desarrollado una revisión sistemática de la literatura o metaanálisis y que siguieron la metodología GRADE para construir las recomendaciones o bien otras guías que basaron sus recomendaciones en guías que siguieron la metodología GRADE. Finalmente, se han seleccionado para la elaboración de las recomendaciones las guías del Centro Europeo para el Control y Prevención de Enfermedades (ECDC) recientemente publicadas, y las guías de los sistemas nacionales de Salud de Reino Unido, Irlanda, Canadá, Australia y Estados Unidos.
+El documento inicial de las recomendaciones se ha sometido posteriormente a la revisión externa de un grupo multidisciplinar de profesionales expertos de diferentes disciplinas (AP, especialistas en enfermedad infecciosa, medicina tropical y psiquiatría de diferentes centros hospitalarios) en Cataluña que trabajan en el ámbito de la inmigración. Finalmente, se realizó un taller para debatir los resultados de la revisión inicial y elaborar unas recomendaciones sobre estrategias de cribado en la población inmigrante adaptadas al contexto de la AP en el ámbito nacional.
+
+
+- RECOMENDACIONES
+
+Todas ellas quedan reflejadas en la tabla 1, en la que se muestran listados todos los países y que constituye un documento de consulta rápida y práctica adaptada a las necesidades de los profesionales de la AP. Se ha elaborado información gráfica para cada una de las condiciones de salud en forma de mapa coloreado, como se muestra en la figura 1.Figura 1
+
+
+-- VIRUS DE LA INMUNODEFICIENCIA HUMANA
+
+La población inmigrante tiene más riesgo de adquisición de la infección por VIH y representa el 37% del total de casos reportados de VIH en Europa. Estas cifras son atribuidas principalmente al patrón epidemiológico en sus países de origen, a los comportamientos de riesgo y vulnerabilidad de esta población durante su proceso migratorio y a su llegada al país de destino, y por último, a las dificultades de acceso al sistema sanitario. Esto último, junto con otros factores sociales (el estigma, la discriminación, la falta de educación o la pobreza) y culturales (barreras lingüísticas, religiosas, el comportamiento sexual, y la baja percepción del riesgo de contraer la enfermedad), son limitantes a la hora de solicitar un test diagnóstico a tiempo. Aunque algunos estudios sugieren un mayor riesgo de adquisición de la enfermedad en el país de origen en inmigrantes subsaharianos, otros estudios muestran que la población que proviene de África subsahariana adquiere la enfermedad fundamentalmente a su llegada a países de la UE o durante la visita de esta población a sus países de origen. Existen múltiples guías que incluyen a la población migrante en programas de prevención de VIH y señalan la necesidad de disponer de un acceso a la salud más adecuado a sus necesidades .
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Todos los individuos adultos y jóvenes deberían tener acceso a un test de VIH pero además es altamente recomendable cribar a todas aquellas personas provenientes de un área donde la prevalencia de VIH sea > 1%. Estos datos de prevalencia se han recogido de ONUSIDA 2016 .
+
+
+-- HEPATITIS B Y C
+
+Las hepatitis B y C son infecciones graves que pueden causar un daño crónico en el hígado y en algunos casos cirrosis o cáncer hepatocelular. Sin embargo, el tratamiento reduce la morbimortalidad atribuida a ambas infecciones y es curativo en la mayoría de casos de la hepatitis C.
+Aunque la incidencia de ambas infecciones se encuentra en descenso en muchos países de la UE, los inmigrantes provenientes de áreas de alta prevalencia presentan un mayor riesgo de infección por hepatitis B y C. La falta de conocimiento de los factores de riesgo para adquirir la enfermedad, así como factores socioeconómicos, lingüísticos y culturales, actúan como potentes barreras para su diagnóstico y tratamiento. Un estudio realizado en AP muestra que el cribado integrado de enfermedades como hepatitis B y C y VIH incrementa la aceptación del cribado y existen guías que recomiendan su cribado en población inmigrante .
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Realizar el cribado de:
+VHB mediante detección de antígeno australiano (HBs-Ag) y IgG-anticore VHB a todas las personas no vacunadas o con estado vacunal desconocido que provengan de un área con una prevalencia de hepatitis B mayor o igual al 2% . Se debería ofrecer vacunación de VHB a aquellos en los que ambos resultados fueran negativos.
+VHC mediante IgG anti-VHC a todas las personas que provengan de un área con una prevalencia de hepatitis C mayor o igual al 2% .
+Los datos sobre la prevalencia de estas infecciones han sido obtenidos del Informe técnico sobre la evaluación epidemiológica de hepatitis B y C entre migrantes de la UE/EE. UU. del ECDC.
+
+
+-- TUBERCULOSIS
+
+Más del 25% de los casos de TB ocurridos en 2015 en la región europea fueron en población inmigrante. Además, en la mayoría de países de la UE con incidencia baja de TB (< 20 casos/100.000 habitantes), la proporción de inmigrantes en los casos detectados de TB supera el 50%, aunque esto no aumenta el riesgo de transmitir la infección a la población autóctona.
+Por otro lado, la TB en población migrante ocurre en individuos más jóvenes y está asociada a mayores fallos en el tratamiento y mayores cifras de TB multirresistente.
+Varias revisiones sistemáticas han evaluado el rendimiento del cribado de TB activa en población inmigrante, con resultados heterogéneos y con variaciones según el tipo de inmigración y el lugar donde se realizó el cribado, siendo más efectivo el cribado en población que proviene de países de alta endemicidad. La radiografía de tórax como técnica de cribado para la detección de TB activa es la estrategia más coste-efectiva dada su alta sensibilidad (S) (98%) y moderada especificidad (E) (75%) en comparación con el cribado mediante síntomas (S: 78% y E: 68%). No existe evidencia sobre el impacto absoluto y atribuible al programa de cribado de TB activa ni sobre el umbral de incidencia de TB en el país de origen por encima del cual se debería plantear el cribado. El cribado de TB activa se debería condicionar a la epidemiología de TB del país y también a la capacidad del sistema de salud de poder implementar un programa de este tipo.
+Existen varias guías de cribado de tuberculosis en diferentes países dirigidos a la población inmigrante .
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Cribar la TB activa mediante radiografía de tórax a toda la población inmigrante procedente de países con una incidencia alta de TB (> 50 casos/100.000 habitantes) que hayan llegado al área de baja incidencia en los últimos 5 años . Los datos sobre la incidencia y distribución de la enfermedad por países se obtuvieron de la Organización Mundial de la Salud, publicados en 2016.
+
+
+-- INFECCIÓN TUBERCULOSA LATENTE
+
+La mayoría de casos de TB en población extranjera ocurren debido a una reactivación de una infección tuberculosa latente (ITL) adquirida en sus países de origen. Entre un 25-45% de los inmigrantes procedentes de países con incidencia de TB moderada y alta tienen una ITL subyacente.
+La mayoría de los test de detección de ITL tienen una alta sensibilidad, aunque predicen pobremente el futuro desarrollo de una TB activa, siendo más coste-efectivo utilizar la técnica de interferon-gamma-release-assay (IGRA), o la secuencia test tuberculina-IGRA, comparado con la prueba de tuberculina sola. Además, los tratamientos desarrollados para la ITL son moderadamente efectivos en prevenir la enfermedad activa, y su larga duración, entre 3 y 9 meses, limita la adherencia.
+El cribado de ITL se debería ofrecer a inmigrantes recién llegados procedentes de países con incidencia de TB alta. Dado que los estudios sugieren utilizar como cribado el IGRA como estrategia más coste-efectiva y no estar estas técnicas disponibles en AP, consideramos que la implementación de un programa de cribado de ITL en AP debe ser consensuada con los diferentes actores y evaluar mejor su factibilidad y viabilidad.
+
+
+-- ESTRONGILOIDIASIS Y ESQUISTOSOMIASIS
+
+El incremento en los flujos migratorios ha puesto de manifiesto 2 patologías parasitarias olvidadas en Europa: la estrongiloidiasis y la esquistosomiasis. Estimaciones recientes sugieren que Strongyloides stercoralis (S. stercoralis) infecta aproximadamente a 370 millones de personas y más de 200 millones presentan esquistosomiasis. Un reciente metaanálisis muestra una seroprevalencia de estrongiloidiasis en población inmigrante en torno al 12,2% y otro estudio muestra una seroprevalencia de esquisotosomiasis del 34%. Además, hay evidencias recientes de un aumento de los diagnósticos hospitalarios de estrongiloidiasis. Ambas enfermedades cumplen los requisitos idóneos para implementar un programa de cribado; son entidades asintomáticas o que presentan síntomas inespecíficos, son enfermedades crónicas y pueden presentar complicaciones a largo plazo, con un gran coste a nivel de salud pública. Cabe destacar la hiperinfestación y la infección diseminada por S. stercoralis en pacientes inmunocomprometidos y las complicaciones urogenitales y hepato-intestinales por Schistosoma spp..
+El mejor método para cribar estas 2 parasitosis en países con baja prevalencia es la detección de anticuerpos con una sensibilidad mucho mayor que los métodos parasitológicos tradicionales. Estos últimos son más específicos, pero la técnica es laboriosa y requieren personal capacitado, por lo que no son considerados una buena herramienta. Para infecciones por S. stercoralis, se usa habitualmente un test ELISA comercial y para la detección de Schistosoma spp., la combinación de ELISA y Kato-Katz test en heces puede mejorar ostensiblemente la detección de Schistosoma spp. en áreas de baja endemicidad, . Ambas infecciones tienen una alta tasa de curación con el tratamiento recomendado, de dosificación muy sencilla (1-3 días) y con un perfil de seguridad muy bueno, , aunque no están aprobados por la Agencia Española del Medicamento y son, por tanto, medicamentos extranjeros de dispensación hospitalaria.
+Existen diversas estrategias de cribado de estos parásitos en distintos países .
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Cribar esquistosomiasis y estrongiloidiasis mediante test serológico a toda persona que provenga de área endémica . Para considerar cuáles son las áreas endémicas, hemos tomado como referencia las guías del ECDC.
+
+
+-- ENFERMEDAD DE CHAGAS
+
+La enfermedad de Chagas es producida por el parásito Trypanosoma cruzi (T. cruzi), que se ha extendido silenciosamente desde Latinoamérica hasta zonas no endémicas. España es el segundo país no endémico con mayor número de casos después de Estados Unidos. La infección se puede transmitir en nuestra área a través de transfusiones sanguíneas, trasplantes de órgano sólido o de tejidos, o por vía vertical de la madre al feto. La afectación cardíaca es la principal causa de mortalidad de la enfermedad. Existen 2 tratamientos antiparasitarios cuya eficacia es muy elevada en la fase aguda de la enfermedad y en menores de 12 años, de manera que la efectividad va disminuyendo con la edad. Además, el reciente estudio BENEFIT ha mostrado que el tratamiento no es efectivo cuando las personas ya han desarrollado complicaciones cardíacas de la enfermedad. Por eso, un buen sistema de identificación de la infección precoz es clave no solamente para ofrecer tratamiento de forma temprana y evitar la progresión de la enfermedad, sino también para reducir la transmisión de la misma. En este sentido, un estudio reciente ha demostrado el coste-efectividad de realizar el cribado de T. cruzi en AP a todas las personas que provengan de un área endémica.
+No hemos encontrado ninguna otra guía oficial o recomendación que proponga el cribado de T. cruzi en AP.
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Cribar con serología para T. cruzi a personas originarias de países endémicos o cuyas madres procedan de estos países.
+
+
+-- MUTILACIÓN GENITAL FEMENINA
+
+La MGF es el nombre genérico que se le da a la extirpación total o parcial de los genitales externos femeninos u otras agresiones a los órganos genitales por razones culturales, religiosas u otras acciones no terapéuticas. No se trata de un precepto islámico ni de las principales religiones conocidas.
+Esta práctica se realiza en 26 países africanos y en algunos de Asia, y tiene consecuencias tanto físicas como psicológicas y sexuales en mujeres y recién nacidos. En España, existe un marco legal que pena esta práctica. La MGF es un tema muy sensible, tanto en los países de origen de estas mujeres cómo en Europa, y el hecho de que no sea mencionado no significa que no tenga consecuencias en la salud y la vida de las mujeres que han sufrido esta práctica. El desconocimiento sobre esta práctica y sus implicaciones legales en nuestro país se agrega a las barreras culturales ya existentes en la atención sanitaria a mujeres migrantes.
+Los datos sobre la procedencia de las mujeres a las que se les debería investigar un posible antecedente de MGF proceden del Protocolo de actuación para prevenir la MGF de la Generalitat de Catalunya.
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Valorar el riesgo de haber sufrido MGF en aquellas mujeres que provienen de países donde se realiza esta práctica siempre que el ambiente o clima de la consulta sea propicio para abordar este tema. En caso de haberla sufrido, evaluar secuelas no solamente desde un punto de vista médico, sino también psicológico y referir a los especialistas que sean requeridos.
+
+
+-- SALUD MENTAL
+
+SM y migración es un área de creciente importancia para el sistema de salud y la calidad de atención médica. El mero hecho del proceso migratorio produce un estrés crónico con consecuencias en el estado psicosocial de los migrantes. La anamnesis sistemática respecto a la trayectoria migratoria y el seguimiento de los indicadores socioculturales y de funcionamiento familiar permite a los clínicos reconocer los problemas de adaptación y SM de forma precoz.
+Los datos sobre SM en migrantes son escasos y la poca evidencia existente es poco concluyente para determinar un incremento del riesgo relativo de trastornos del estado de ánimo asociados a la migración. Los jóvenes migrantes y menores no acompañados presentan un riesgo aumentado de psicopatología en algunos estudios (estrés pos traumático, depresión, trastornos de conducta y abuso de sustancias), mientras otros muestran que la tasa de trastorno psiquiátrico en jóvenes migrantes no es mayor que la de los autóctonos.
+Los migrantes tienen mayor riesgo para presentar desórdenes psiquiátricos relacionados con la guerra, los conflictos, la violencia, la tortura, la trata de personas y la migración forzada en los países receptores, .
+Durante 2017 se registraron 33 conflictos armados, de los cuales 32 seguían activos al finalizar el año. La violencia sexual estuvo presente en un gran número de estos conflictos armados. Su utilización, que en algunos casos formó parte de las estrategias de guerra deliberadas de los actores armados, fue documentada en diferentes informes.
+Nuestra recomendación se basa en evaluar la SM mediante un test sencillo a 2 poblaciones que consideramos claves por su vulnerabilidad: personas víctimas de conflictos o violencia extrema y adolescentes (jóvenes entre 15 y 25 años), sabiendo que existen muchos grupos vulnerables y todos susceptibles de sufrimiento emocional, pero cuyo abordaje, enfocándolo desde el cribado, se escapa a las posibilidades de la consulta clínica de AP.
+
+
+--- RECOMENDACIÓN CRIBMI
+
+Valorar un cribado sistemático a personas que vengan de zonas en conflicto o de tensiones de alta y media intensidad , investigando si han padecido algún tipo de violencia, presentan trastornos adaptativos o del sueño. En población inmigrante adolescente valorar la presencia de algún tipo de adicciones. Para determinar los países de origen donde actualmente existen conflictos o violencia extrema, hemos consultado datos publicados por la Escola de Cultura de Pau de Barcelona .
+
+
+- DISCUSIÓN
+
+La AP como puerta de entrada al sistema sanitario es el lugar estratégico para llevar a cabo programas de detección en nuestro contexto sanitario. Así, programas exitosos como el de cáncer de colon, de mama o enfermedad cervical han servido de ejemplo para potenciar este tipo de programas.
+Del mismo modo, el cribado precoz de múltiples enfermedades puede ser clave a la hora de mejorar la eficiencia de este tipo de programas. Y en este sentido, el papel de la AP en este tipo de programas es clave. De hecho, experiencias previas han demostrado la eficacia de implementar programas de cribado del VIH, la TB y otras enfermedades importadas, como es el caso de la enfermedad de Chagas, , .
+Paralelamente, el cribado simultáneo de varias enfermedades podría mejorar la cobertura y la aceptación del programa de cribado. El presente documento resume una revisión cuasisistemática realizada con ánimo de dar soporte a los profesionales de AP a la hora de valorar qué condiciones de salud asociadas a la migración se han de cribar. Establecer el proceso de toma de decisiones sobre el cribado en población inmigrante con base en el país de origen, el sexo y la edad parece una estrategia fácilmente abordable a nivel de AP.
+
+
+- FINANCIACIÓN
+
+Proyecto PERIS de la Generalitat de Catalunya con código SLT002/16/00455.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

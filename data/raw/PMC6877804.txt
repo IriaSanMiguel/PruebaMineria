@@ -1,0 +1,93 @@
+ADAPTACIÓN CULTURAL AL ESPAÑOL Y VALIDACIÓN PSICOMÉTRICA DEL <ITALIC>SUMMARY OF DIABETES SELF-CARE ACTIVITIES MEASURE</ITALIC> (SDSCA) EN PERSONAS CON DIABETES MELLITUS TIPO 2
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus (DM) constituye en la actualidad una de las enfermedades crónicas de mayor prevalencia, con unas cifras auténticamente pandémicas. Según la International Diabetes Federation, hay 366 millones de personas diagnosticadas de DM tipo 2 en el mundo y la previsión es que, en el año 2030, esta cifra ascienda a 552 millones. En España, según el estudio Di@bet.es, la prevalencia media ajustada por sexo y edad es del 13,8% (IC 95%: 12,8-14,7%), con una DM desconocida del 6% (IC 95%: 5,4-6,7%).
+El fomento de conductas de autocuidado, entendido como una actividad iniciada de forma consciente y con un proceso de aprendizaje, apropiada a una determinada situación y centrada en un objetivo concreto, constituye un elemento nuclear en el abordaje de las enfermedades crónicas de forma general, y en la DM especialmente, . Una aproximación válida para medir este constructo es la utilización de cuestionarios que aporten información desde el punto de vista de los pacientes. En la literatura se encuentran disponibles diversos instrumentos que miden conductas y barreras de autocuidado en DM tipo 2, fundamentalmente validados en población anglosajona y con numerosas debilidades psicométricas. El Summary of Diabetes Self-Care Activities measure (SDSCA) es un cuestionario de 12 ítems que mide estas capacidades con una escala de respuesta de 0 a 7, siendo uno de los más utilizados en la literatura, , pero no se dispone de una versión validada en contexto español, a pesar de existir una versión en nuestra lengua, validada en México.
+El objetivo del presente estudio es llevar a cabo la adaptación cultural y validación clinimétrica del SDSCA en población española con DM tipo 2.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Se ha llevado a cabo un estudio transversal de validación clinimétrica. Se ofreció participar a los centros de salud del Distrito Sanitario Málaga-Valle del Guadalhorce, y de un total de 33 unidades de gestión clínica, 15 decidieron colaborar.
+Criterios de inclusión: personas con DM tipo 2 con una edad <70 años, en tratamiento con antidiabéticos orales o insulinoterapia y que supieran leer y escribir.
+Criterios de exclusión: deterioro cognitivo y/o enfermedad mental, algún tipo de discapacidad sensitiva (p.ej. ceguera) o dificultades de comprensión lectoescritora.
+La muestra se obtuvo de forma intencional por enfermeras de atención primaria, en el periodo comprendido entre octubre de 2013 y noviembre de 2014. La captación se realizó a partir de las personas que acudían a consulta y cumplían los criterios de inclusión, o bien de forma activa, contactando previamente por teléfono y concertando cita. La recogida de los datos se llevó a cabo en todos los casos mediante entrevista presencial en el centro de salud, cumplimentándose el cuestionario de forma autoadministrada. Además esta entrevista incluyó variables sociodemográficas, comorbilidades y tratamientos prescritos.
+De forma previa a la participación, todos los sujetos firmaron el correspondiente modelo de consentimiento informado y se les proporcionó y explicó hoja informativa con los detalles del estudio, dando la oportunidad de preguntar cuantas cuestiones surgieran. El estudio fue aprobado por el Comité de Ética Málaga Nordeste.
+El tamaño de la muestra necesaria para testar un modelo trifactorial, asumiendo la hipótesis nula de un error cuadrático medio de aproximación entre 0,04 y 0,08, con un valor alfa de 0,05, una potencia estadística de 0,8 y un máximo de 18 grados de libertad, según el método sugerido por MacCallum et al., era de 310 sujetos, y se sobrestimó en un 5% para cubrir posibles pérdidas. Los cálculos han sido realizados con el software Statistica 12.
+
+
+-- DESCRIPCIÓN DEL INSTRUMENTO
+
+El SDSCA validado en población mexicana constituye un cuestionario de 12 ítems, en el que se abordan diferentes áreas de autocuidados presentes en las personas con DM tipo 2 como son alimentación, actividad física, medicación, autoanálisis de glucemia capilar o tabaquismo. Presenta una escala de respuesta de 0 a 7, en función del número de días que la persona ha llevado a cabo una determinada conducta en la última semana. El ítem sobre tabaco tiene una escala de respuesta dicotómica.
+Cuanto menor puntuación se obtiene, menor adherencia presenta la persona con DM a las conductas de autocuidado favorables. El cuestionario no presenta punto de corte, por lo que debe valorarse cada ítem de forma individual.
+
+
+-- PROCESO DE ADAPTACIÓN CULTURAL
+
+Dos investigadores del equipo llevaron a cabo de forma independiente la adaptación de la versión validada con población mexicana al castellano, resolviendo las diferencias un tercer investigador ajeno al estudio. Esta propuesta se sometió al escrutinio de un panel de 5 expertos (3 enfermeras doctoras y 2 con máster) que evaluaron la equivalencia semántica y de contenido del cuestionario, mediante una escala con 3 opciones de respuesta (sí, no, o dudoso), siendo necesario un consenso del 80% de aceptación por los panelistas. Para evaluar la legibilidad del texto resultante se utilizó el índice de Flesch-Szigriszt (escala INFLESZ), que combina ambos instrumentos pero ajustado a los hábitos lectores de los españoles con una puntuación de 0-100. La escala establece 5 tramos: «muy difícil» (<40), «algo difícil» (40-55), «normal» (55-65), «bastante fácil» (65-80) y «muy fácil» (>80). Los textos con una puntuación superior a 55 se consideraron aptos para la población general.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se evaluó en primer lugar el efecto techo-suelo mediante la frecuencia de endose de los ítems y como descriptivos se utilizó la media y desviación típica (DT). Se consideró la consistencia interna mediante el cálculo del coeficiente α de Cronbach y se determinó tanto la correlación interítem, como el índice de homogeneidad. La validez de constructo se examinó mediante análisis factorial exploratorio utilizando como método de extracción la factorización del eje principal con rotación oblimin. De forma previa se realizó el test de Kaiser-Meyer-Olkin y la prueba de esfericidad de Barlett para valorar la adecuación de la muestra y el nivel de intercorrelaciones de las variables respectivamente. Posteriormente, se llevó a cabo análisis factorial confirmatorio tomando como índices de ajuste la comprobación de la multinormalidad, la función penalizadora chi cuadrado dividida por los grados de libertad, la hipótesis nula de un error cuadrático medio de aproximación y su intervalo de confianza al 90%, el comparative fit index y el goodness of fit index. Por último, para la evaluación de la fiabilidad test-retest, se empleó la diferencia de medias mediante t de Student y la correlación entre puntuaciones e ítems, así como la posible validez discriminante mediante las diferencias entre personas con diabetes insulino o no insulinodependiente (DMID vs. DMNID). Para el análisis estadístico se utilizó el paquete IBM SPSS 20 y para el factorial confirmatorio AMOS 20.
+Esquema general del estudio: 
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS SOCIODEMOGRÁFICAS
+
+Las principales características de la muestra de 331 personas se presentan en la tabla 1. Su edad media era de 59,7 años (DT: 8,0) años y 208 (62,8%) eran hombres. De ellos 169 (51%) tenían estudios primarios o no habían recibido alfabetización básica, 100 (30,3%) se encontraban activas en el momento de realización del estudio, y 255 (77%) reconocieron disponer de apoyo para el autocuidado en caso de necesitarlo. El tiempo medio de evolución de la enfermedad fue de 6,58 años (DT: 5,07), con una HbA1c de 7,06% (DT: 1,35), siendo insulinodependientes el 24,5% de los casos (n = 81). La hipertensión arterial (n = 184; 55,6%), la dislipidemia (n = 129; 39%) y la obesidad (n = 94; 28,4%) fueron las comorbilidades más frecuentes.
+
+
+-- VALIDEZ DE CONTENIDO
+
+Aunque la versión validada en población mexicana tenía inicialmente 12 ítems, tras contactar con la autora, nos confirmó que la pregunta que abordaba tabaco había sido eliminada del análisis pues tenía una escala de respuesta distinta a las demás, por lo que se sometieron al Delphi finalmente 11 preguntas. En primera ronda fue aceptada la adaptación de 6 ítems (3, 4, 6, 7, 10 y 11), mientras que las 5 preguntas restantes requirieron una segunda ronda. La pregunta 9 («cuántos días se ha realizado los análisis de azúcar en sangre en el número de veces que le han sido recomendados por los profesionales sanitarios») necesitó incluso una revisión semántica (Anexo 1). En cuanto a la legibilidad, los resultados de la escala INFLESZ oscilaron entre «bastante fácil» y «normal» para todas las preguntas e instrucciones. Solo el ítem 1 obtuvo una valoración de «algo difícil», pero se decidió no modificarlo para evitar perder equivalencia semántica.
+
+
+-- CARACTERÍSTICAS DE LOS ÍTEMS Y CONSISTENCIA INTERNA
+
+En primer lugar se determinó la frecuencia de endose de los ítems, observándose un importante efecto techo en la pregunta 11 sobre medicación (91,9% de respuestas = 7), que determinó su eliminación.
+La puntuación media del SDSCA de 10 ítems fue de 4,48 (2,13-5,25) con desviaciones típicas entre 1,52-2,85. El análisis reveló que todos los ítems obtuvieron correlaciones ítem-total superiores a 0,20, excepto la pregunta 4. El valor de α de Cronbach obtenido fue de 0,63, y si se eliminaba la pregunta 4, aumentaba a 0,65 .
+
+
+-- VALIDEZ DE CONSTRUCTO
+
+El análisis factorial exploratorio ofreció un modelo con 3 factores y 7 ítems que explicaba el 79,2% de la varianza . Este modelo excluyó los ítems 4 (comidas con contenido graso) y 10 (cuidado de los pies) al no ser incluidos en ningún factor. También fue excluido el ítem 5 (solo se incluía en la versión original como pregunta adicional a la dimensión de alimentación).
+El análisis confirmatorio permitió confirmar este modelo trifactorial con 7 ítems (dieta, ejercicio físico y autoanálisis) con unos buenos índices de ajuste . El análisis de multinormalidad mostró que los parámetros eran adecuados.Figura 1
+Tras los análisis factoriales, se determinó el coeficiente de Cronbach del cuestionario resultante con 7 ítems (SDSCA-Sp; Anexo 2) que fue finalmente de 0,62.
+
+
+-- FIABILIDAD TEST-RETEST
+
+Un total de 198 (59,8%) pacientes realizaron el retest en un periodo medio de 41,4 (DT: 18,2) días (t-test = 0,462-0,796, p < 0,001). La correlación global entre las dos mediciones de los 7 ítems que conforman la versión definitiva fue de 0,764 (p < 0,0001).
+
+
+-- VALIDEZ DISCRIMINANTE
+
+Se compararon los grupos DMNID y DMID mediante la diferencia de medias de cada ítem obtenidas por el SDSCA-Sp. Tanto los ítems relacionados con la actividad física (ítems 6 y 7) como con el autocontrol (ítems 8 y 9) muestran diferencias significativas entre los dos grupos . Las puntuaciones en el factor alimentación son muy similares.
+
+
+- DISCUSIÓN
+
+El presente estudio muestra la validación del SDSCA en población española con características psicométricas similares a las obtenidas en recientes validaciones del instrumento, . Este proceso ha estado basado en una validación del contenido, coherencia cultural y comprensibilidad, mediante panel de expertos en la búsqueda de equivalencia semántica y de contenido, con buenos resultados. Esta propiedad es considerada por algunos autores, y organizaciones como ISPOR, esencial con objeto de dar fiabilidad a los resultados obtenidos en los análisis posteriores. Tras el análisis de fiabilidad y el análisis factorial exploratorio, se decidió la eliminación del ítem 4 por ausencia de correlación con alguno de los factores, tal y como hicieron previamente otros autores, . La versión revisada por Toobert et al. ya obtuvo que el ítem 11 (medicación) mostraba un importante efecto techo, por lo que recomendaba su eliminación del cuestionario, como se ha llevado a cabo en el presente estudio. El equipo también decidió eliminar el ítem 5, pues supone una pregunta complementaria a la versión original del SDSCA y se consideró no aportaba información adicional para la validación del instrumento.
+El análisis factorial exploratorio estuvo basado en el método de ejes principales para la extracción de factores y en rotación oblicua (oblimin), métodos que proporcionan mejores estimaciones y mayor realismo y flexibilidad al análisis, aunque explican menos varianza, frente a métodos más convencionales como son la extracción por componentes principales y rotación varimax. La metodología utilizada podría no garantizar la convergencia en muestras pequeñas, situación que no se produce en el estudio pues conforma una muestra incluso más elevada que las versiones disponibles en la literatura, , .
+A su vez se ha determinado la validez discriminante del instrumento entre DMID y DMNID, propiedad que no había sido abordada con anterioridad para el SDSCA en la literatura pero sí en otros instrumentos con personas diabéticas y que tiene importantes repercusiones clínicas en el abordaje de los subgrupos. El SDSCA-Sp ha determinado que los DMNID realizan más actividad física que los DMID, lo cual parece coherente pues las personas DM tipo 2 se insulinizan a una edad más avanzada, con más años de evolución de la enfermedad y más comorbilidades, las cuales actúan como barreras importantes como recogen estudios cualitativos. A su vez la relación entre barreras de autocuidado, complicaciones microvasculares y dificultades para llevar a cabo actividad física en personas DM tipo 2 también ha sido recientemente demostrada. Por otro lado, las personas DMID son las que se realizan más autoanálisis de glucemia capilar, lo que refleja fielmente la realidad, sobre todo en los últimos años en los que las personas con antidiabéticos orales no hipoglucemiantes no se están realizando determinaciones cuando su control metabólico es estable.
+No obstante el estudio presenta una serie de limitaciones. Se ha tomado como referencia la versión validada en población mexicana del SDSCA, esta validación no incorporaba un segundo ítem sobre el autocuidado en los pies («en cuántos de los últimos 7 días se ha inspeccionado los zapatos»). Por este motivo, otras versiones ajustaron el modelo con 4 factores (incluyendo el cuidado de los pies y 9 ítems) y el SDSCA-Sp ha ajustado a 3 factores (7 ítems), siendo eliminada la pregunta 10 (sobre el cuidado de los pies) por ausencia de correlación con ningún factor.
+Por otra parte, el cuestionario cuenta con una moderada-baja consistencia interna como en múltiples estudios previos, con coeficientes por debajo, o ligeramente superiores, al 0,70. Tal y como recomienda la literatura la validez interna del instrumento debe estar entre 0,70-0,95, aunque en nuestra investigación esta propiedad se encuentra condicionada por el escaso número de ítems repartidos en 3 factores, que finalmente miden aspectos muy diferentes entre sí. Esta validación tampoco ha abordado alguna propiedad adicional como la sensibilidad al cambio o la validez de criterio.
+La validación de instrumentos que reporten información proporcionada directamente por pacientes con DM, supone una cuestión que está siendo desarrollada fuertemente en nuestro país en la actualidad. Muestra de ello, son las validaciones culturales llevadas a cabo al español, de instrumentos como el Problem Areas in Diabetes Scale que aborda aspectos psicosociales de la DM o el Diabetes Self-care inventory-revised version questionnaire.
+El SDSCA-Sp supone un instrumento fácilmente aplicable en consulta para evaluar conductas de autocuidado en personas con DM tipo 2 consumiendo poco tiempo en su contestación. En investigación es uno de los instrumentos más utilizados como validez de criterio de otros cuestionarios y para identificar conductas de autocuidados en estudios experimentales.Lo conocido sobre el tema•La DM supone un problema de salud pública en España con una prevalencia ajustada por edad y sexo del 13,8% y una DM desconocida del 6%.•Se recomienda la utilización de cuestionarios que recojan información reportada directamente por los pacientes como método para evaluar sus necesidades.•El SDSCA es uno de los instrumentos más utilizados en la práctica clínica y en investigación.Qué aporta este estudio•La adaptación cultural de la versión validada en población mexicana mediante Delphi de expertos y posterior análisis de legibilidad.•La validación psicométrica en población española ajusta a un modelo trifactorial (dieta, ejercicio físico y autoanálisis) con 7 ítems.•Los resultados son aplicables en la práctica clínica para guiar intervenciones educativas, y en investigación para identificar adherencia a conductas de autocuidado
+
+
+- FINANCIACIÓN
+
+Este estudio ha contado con financiación procedente de la ayuda a grupos de investigación en la convocatoria de 2013 de la Conserjería de Igualdad, Salud y Políticas Sociales de la Junta de Andalucía, con el n.° de expediente AC-0067-2013 y de la Facultad de Ciencias de la Salud de la Universidad de Málaga.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

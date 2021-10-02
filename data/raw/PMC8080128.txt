@@ -1,0 +1,33 @@
+REINFECCIÓN POR SARS-COV-2 EN RESIDENCIA SOCIOSANITARIA. DESCRIPCIÓN DEL BROTE<SUP
+
+
+Sr. Editor:
+En todas las residencias sanitarias de nuestro ámbito, siguiendo las indicaciones de cribado del documento del Ministerio «Estrategia de detección precoz, vigilancia y control de COVID-19, 18.12.2020», se han realizado estudios periódicos con PCR nasofaríngea en residentes y personal sociosanitario.
+En octubre de 2020, en el cribado en una de nuestras residencias se identificó un brote con 12 residentes positivos en PCR nasofaríngea con ciclo de amplificación (Cycle threshold [Ct]) ≥ 30 . Este índice Ct correlaciona de forma inversa con los valores de carga viral, de tal manera que estos pacientes con Ct altos presumiblemente presentaron una baja carga viral en sus exudados nasofaríngeos. En este brote todos los residentes fueron asintomáticos y ninguno precisó derivación hospitalaria.
+El 25 de noviembre se les realizó un estudio serológico con valoración de anticuerpos neutralizantes mediante técnica de Liaison (IgG/IgM), que emplea la tecnología de quimioluminiscencia para la determinación cuantitativa de anticuerpos IgG específicos anti-S1 y anti-S2 y cualitativa de IgM contra el SARS-CoV-2. Se realizó utilizando LIAISON® XL Analyzer. En ninguno de ellos se detectó la presencia de anticuerpos neutralizantes.
+El 25 de noviembre se realizó nueva PCR de control, y no se detectó SARS-CoV-2 en ninguno de ellos en los frotis nasofaríngeos.
+El 5 de enero de 2021, 10 de ellos recibieron la primera dosis de vacuna Pfizer/BioNTech (BNT162b2) - COMIRNATY®. Dos de ellos habían fallecido por causas no relacionadas con la COVID-19.
+El 13 de enero se realiza un nuevo cribado y se detecta SARS-CoV-2 en 6 de ellos en PCR nasofaríngea, esta vez con valores de Ct más bajos .
+El 26 de enero se realizó un tercer cribado, detectando positividad en PCR nasofaríngea para el virus en 3 de los 4 pacientes hasta ahora libres de nuestra serie de casos. De estos 9 casos, ninguno presentó síntomas ni precisó atención hospitalaria.
+La vacunación de la segunda dosis se realizó el 28 de enero, a excepción de los 3 detectados el día 26 de enero, que siguiendo los criterios de la Estrategia de Vacunación del Consejo Interterritorial tienen la segunda dosis pendiente.
+El estudio muestra que el haber sufrido infección inicial por SARS-CoV-2 asintomática no generó respuesta inmunitaria evidente. Nueve de los 12 pacientes sufrieron una reinfección. Esta serie de pacientes en primer brote presentaron una carga viral baja y una ausencia de positividad en anticuerpos IgG neutralizantes.
+Todos los pacientes eliminaron la infección en la PCR nasofaríngea de control y posteriormente recibieron la primovacunación.
+Ya se ha demostrado en otras viriasis que la eliminación viral sin respuesta de formación de anticuerpos no confiere protección contra la reinfección. De hecho, un porcentaje de pacientes (entre el 10 y el 20%) con SARS-CoV-2 muestran títulos negativos en estos anticuerpos.
+Ninguno de estos pacientes, algunos con edades muy avanzadas y pluripatológicos, desarrolló enfermedad sintomática.
+Recientemente se ha publicado un trabajo que muestra en un subgrupo de pacientes vacunados (n = 17) con infección previa con una dosis de vacuna alcanzaron una respuesta inmune superior a la observada con dos dosis de vacuna de los pacientes que no tenían antecedente de enfermedad previa. La infección previa se documentaba por PCR o existencia de anticuerpos IgG neutralizantes frente a SARS-CoV-2. Ello ha generado, junto con otros estudios, controversia en la estrategia vacunal sobre si una sola dosis es suficiente en este grupo de pacientes para conseguir la inmunización.
+Nuestros resultados coinciden con otras observaciones donde pacientes ingresados sintomáticos con Ct altos, carga viral baja, presentaron una baja o nula respuesta inmunitaria para defenderse de posibles reinfecciones, lo cual creemos debe tenerse en cuenta a la hora de valorar la vacunación.
+
+
+- CONSIDERACIONES ÉTICAS
+
+Aprobado por el CEIM de HGUE con código PI 25/2021. El acceso a los registros de historia clínica informática se realizó por los sanitarios habituales autorizados en condiciones de práctica clínica habitual.
+
+
+- FINANCIACIÓN
+
+No hubo ninguna financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores manifiestan no presentar ningún conflicto de intereses.

@@ -1,0 +1,5 @@
+Se identificaron pacientes con IMA y determinación de la glucemia antes y después de haber recibido CA. Se compararon estos cambios de glucemia con los generados por el desayuno en un grupo control de no intoxicados.
+La administración de CA induce un aumento estadísticamente significativo de la glucemia, pero sin relevancia clínica y equiparable al producido por un desayuno.
+La suspensión líquida de carbón activado (CA) contiene como excipiente 600 mg/mL de sacarosa. Se evalúa el impacto glucémico de la administración de CA en pacientes con intoxicación medicamentosa aguda (IMA).
+Se incluyeron 55 IMA. En el 82% de los casos la glucemia aumentó tras administrar CA. La media de las glucemias previas al carbón fue de 98,2 mg/dL y a la hora posterior de 124,2 mg/dL (p < 0,001). El cambio glucémico no condicionó eventos clínicos adversos. En el grupo control (n = 23) la glucemia aumentó en el 82,6% de los casos. La media de las glucemias antes del desayuno fue de 117,1 mg/dL y la posterior de 152,0 mg/dL (p < 0,001).
+

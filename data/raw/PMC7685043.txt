@@ -1,0 +1,185 @@
+DIAGNÓSTICO RADIOLÓGICO DEL PACIENTE CON COVID-19
+
+
+- INTRODUCCIÓN
+
+La COVID-19 (enfermedad por coronavirus 2019) es una enfermedad infecciosa causada por una cepa de coronavirus denominada SARS-CoV-2 (síndrome respiratorio agudo severo coronavirus 2). Los primeros casos se vieron en Wuhan, China, a fines de diciembre de 2019 y desde allí se ha extendido rápidamente a prácticamente todo el mundo. Fue reconocida oficialmente como pandemia por la Organización Mundial de la Salud (OMS) el 11 de marzo de 2020. La rápida expansión internacional del virus ha provocado un enorme impacto social, económico y sanitario y ha obligado a la adopción de medidas extraordinarias de confinamiento social para frenar su propagación y a la reestructuración sanitaria para evitar su colapso. A finales de octubre de 2020, el número de casos confirmados de COVID-19 en todo el mundo alcanzó los 46 millones, y el número de muertos supera ya la cifra de 1.140.000.
+La infección se transmite predominantemente a través del contacto con gotitas de secreciones del tracto respiratorio superior de las personas infectadas. Las gotas contaminadas depositadas en los objetos pueden facilitar la transmisión del virus. Otras vías de transmisión como la orofecal, sexual, sanguínea o vertical no están, en la actualidad, claras.
+La infección ocurre generalmente dentro de los 14 días posteriores a la exposición y en la mayoría de los casos a los 4-5 días. Aunque puede ocurrir a cualquier edad, es más frecuente en adultos varones de mediana edad y ancianos.
+Debido a la novedad de la enfermedad y su desconocimiento inicial se ha producido una ingente producción científica en revistas biomédicas. En esta actualización realizamos un compendio de los hallazgos más relevantes del diagnóstico radiológico de la COVID-19.
+
+
+- MANIFESTACIONES CLÍNICAS
+
+-- PRESENTACIÓN CLÍNICA
+
+En muchos casos, la infección por SARS-CoV-2 es asintomática. En una revisión de la literatura científica se ha estimado que la proporción de pacientes asintomáticos es del 30-40%.
+En los individuos sintomáticos, la COVID-19 típicamente se presenta con manifestaciones sistémicas y/o respiratorias, aunque también se ha descrito clínica gastrointestinal, cardiovascular o más infrecuentemente dermatológica y neurológica.
+Los síntomas y los signos de COVID-19 no son específicos y no puede diferenciarse clínicamente de otras infecciones respiratorias víricas, aunque el desarrollo de disnea tras varios días del inicio de los síntomas es sugestivo de COVID-19, .
+Los síntomas asociados más frecuentes incluyen: tos (50%), fiebre subjetiva o mayor de 38 oC (43%), mialgias (36%), dolor de cabeza (34%), disnea (29%), dolor de garganta (20%), diarrea (19%), náuseas/vómitos (12%), anosmia, ageusia, disgeusia (<10%), dolor abdominal (<10%) y rinorrea (<10%), , . Cabe destacar que la fiebre no es un hallazgo universal en la presentación, incluso entre las cohortes hospitalizadas.
+Las alteraciones del olfato y/o del gusto se han descrito principalmente en pacientes con COVID-19 leve o moderada, con tasas que oscilan entre el 34% y el 87%.
+Los síntomas gastrointestinales son menos frecuentes, aunque pueden ser la primera manifestación. Se ha descrito una prevalencia de clínica digestiva del 18% (diarrea, 13%; náuseas/vómitos, 10%; y dolor abdominal, 9%).
+Se han descrito también alteraciones cutáneas similares al eritema pernio (sabañones), especialmente en los dedos de las manos y de los pies, generalmente en niños y adultos jóvenes, a veces sin otros síntomas asociados y con PCR negativa, la mayoría de curso autolimitado y con resolución espontánea gradual.
+
+
+-- ESPECTRO DE GRAVEDAD
+
+El espectro clínico de la COVID-19 varía desde formas asintomáticas o paucisintomáticas hasta formas graves caracterizadas por insuficiencia respiratoria, sepsis, shock y síndromes de disfunción orgánica que requieren ventilación mecánica e ingreso en la unidad de cuidados intensivos (UCI). En un estudio chino de 44500 pacientes con infección confirmada, el 81% presentó enfermedad leve; el 14%, enfermedad grave (disnea, hipoxia o afectación pulmonar mayor del 50% en imagen); y el 5%, enfermedad crítica (insuficiencia respiratoria, shock o disfunción multiorgánica).
+Entre los pacientes ingresados por COVID-19, la proporción de enfermedad crítica o mortal es mayor. En un estudio de 2741 pacientes hospitalizados, el 24% murió y el 27% requirió cuidados intensivos, de los cuales el 60% falleció.
+
+
+--- FACTORES DE RIESGO
+
+La edad avanzada se asocia con una mayor mortalidad. Se ha descrito una tasa de letalidad del 8-12% entre las personas de 70 a 79 años y del 15-20% en los mayores de 80 años, en contraste con la letalidad global del 2,3%, . En otro estudio, el 80% de las muertes ocurrieron en personas de 65 años o mayores. Los hombres tienen una mortalidad mayor que las mujeres, , .
+También se ha descrito un mayor riesgo de enfermedad grave en pacientes con comorbilidades médicas, como enfermedad cardiovascular, diabetes mellitus, hipertensión arterial, enfermedad pulmonar crónica, cáncer (especialmente neoplasias hematológicas, cáncer de pulmón y enfermedad metastásica), enfermedad renal crónica, obesidad y tabaquismo, .
+Las alteraciones analíticas que se han asociado a peor pronóstico incluyen: linfopenia, elevación de enzimas hepáticas, de LDH, de marcadores inflamatorios como PCR y ferritina, de dímeros D (>1 μg/mL), de troponina y de CPK, tiempo de protrombina alargado y daño renal agudo. También se han observado alteraciones en las pruebas de coagulación, con un estado de hipercoagulabilidad que condiciona tendencia a la trombosis.
+
+
+- DIAGNÓSTICO
+
+La prueba estándar para detectar SARS-CoV-2 es la reacción en cadena de la polimerasa con transcriptasa inversa (RT-PCR) obtenida habitualmente de muestra nasofaríngea o de secreciones respiratorias. La RT-PCR se cree que es altamente específica, pero la sensibilidad puede oscilar del 60-70% al 95-97%, por lo que los falsos negativos son un problema clínico real, especialmente en las fases precoces. La sensibilidad varía según el tiempo transcurrido desde la exposición al SARS-CoV-2, con una tasa de falsos negativos del 100% el primer día después de la exposición, que disminuye al 38% el día de inicio de los síntomas y al 20% el tercer día de sintomatología, su nivel más bajo.
+Las pruebas de imagen tienen un papel importante en la detección y manejo de estos pacientes y se han utilizado para apoyar el diagnóstico, determinar la gravedad de la enfermedad, guiar el tratamiento y valorar la respuesta terapéutica. La recomendación actual de la gran mayoría de las sociedades científicas y asociaciones radiológicas es que las pruebas de imagen no deben emplearse como herramientas de detección de la COVID-19, sino que deben reservarse para la evaluación de complicaciones.
+
+
+- RADIOGRAFÍA DE TÓRAX
+
+-- SALAS Y PROYECCIONES
+
+La radiografía de tórax es generalmente la primera prueba de imagen en los pacientes con sospecha o confirmación de COVID-19 por su utilidad, disponibilidad y bajo coste, aunque es menos sensible que la tomografía computarizada (TC). El estudio óptimo incluye las proyecciones posteroanterior (PA) y lateral en bipedestación.
+La realización de radiografía de tórax en salas convencionales pone en riesgo a los pacientes no infectados y al personal de radiodiagnóstico, dada la posibilidad de transmisión de la enfermedad a través de superficies contaminadas por gotas, lo que hace necesaria la desinfección de la sala después de cada uso, . La creación de una sala de referencia de radiología convencional para todos los enfermos de COVID-19 puede ser útil para disminuir la transmisión, si bien no todos los centros pueden disponer de estos recursos.
+La realización de una radiografía de tórax portátil en proyección anteroposterior (AP) ayuda a una menor propagación de la infección, ya que estos equipos pueden limpiarse con facilidad y localizarse en instalaciones designadas para pacientes con COVID-19, lo que reduce la necesidad de transportar pacientes potencialmente infectados dentro del hospital y disminuye el uso de equipos de protección personal (EPP), , , . Es la prueba radiológica recomendada en primera instancia por el American College of Radiology (ACR). Además, es la única posible en los pacientes críticos o ingresados en la UCI. Su interpretación a menudo está limitada por el menor grado de inspiración y por la magnificación de la silueta cardiomediastínica derivada de la proyección AP. Pero, a pesar de las limitaciones, permite valorar la colocación de catéteres y dispositivos, detectar posibles complicaciones como neumotórax, enfisema subcutáneo y neumomediastino, y de forma seriada monitorizar la evolución de la enfermedad.
+
+
+-- SENSIBILIDAD
+
+Al igual que la PCR, una de las limitaciones de la radiografía de tórax es el alto índice de falsos negativos, considerándose como posibles causas: la precocidad de la prueba de imagen y la ausencia de patología pulmonar en el momento de la presentación, o la limitación de la técnica radiológica, especialmente en las radiografías portátiles; las opacidades en vidrio deslustrado y el patrón reticular, típicos de la COVID-19, pueden ser difíciles de detectar en la radiografía de tórax.
+Pueden ser causa de falsos positivos en las radiografías de tórax la falta de inspiración, la prominencia mamaria y el mal posicionamiento del paciente, que puede condicionar que las escápulas y las partes blandas se proyecten sobre los campos pulmonares aumentando la densidad de la periferia del pulmón y simular opacidades en vidrio deslustrado (fig. 1 ). La sensibilidad de la radiografía de tórax portátil en la detección de pacientes con COVID-19 respecto a la PCR ha sido objeto de numerosos estudios que inicialmente no demostraron valores muy altos, aunque ha mejorado hasta el 89% en entornos con una prevalencia muy alta de la enfermedad.Figura 1
+La sensibilidad de la radiografía de tórax portátil es menor que la de la TC (69% versus 97-98%), aunque en algunas publicaciones se igualan.
+Aunque existen diferencias significativas entre la sensibilidad de la PCR, la TC y la radiografía portátil, está aceptado que esta última puede ser empleada como método de triaje en determinados escenarios, , , : ambientes donde existe una alta prevalencia de COVID-19 (transmisión comunitaria), en centros con acceso limitado a pruebas de PCR, TC o test rápidos y que tengan disponibilidad de equipos portátiles de radiografía de tórax, o en pacientes con síntomas graves, acelerando su proceso de clasificación, ingreso hospitalario y tratamiento.
+
+
+- HALLAZGOS DE LA RADIOGRAFÍA DE TÓRAX
+
+La radiografía de tórax puede ser normal en los casos leves o en las fases precoces de la enfermedad, pero es poco probable que los pacientes con clínica moderada o grave tengan una radiografía de tórax normal, . La mayoría son patológicas en aquellos que precisan hospitalización (el 69% al ingreso y el 80% en algún momento del ingreso). Los hallazgos son más extensos a los 10-12 días del inicio de los síntomas.
+Los hallazgos más frecuentes son las opacidades del espacio aéreo, ya sean las consolidaciones o, con menos frecuencia, las opacidades en vidrio deslustrado.
+Los hallazgos de la radiografía de tórax en pacientes con sospecha de COVID-19 se han dividido en cuatro categorías para facilitar el diagnóstico, , , :
+Se ha encontrado correlación en la evolución de los hallazgos en la radiografía de tórax respecto al inicio de los síntomas: durante los primeros días predomina la afectación reticular sobre el vidrio deslustrado que, después de un período de solapamiento, se convierte en el patrón dominante, mientras que las consolidaciones son más típicas de fases más tardías.
+
+
+- GRADUACIÓN DE LA ENFERMEDAD
+
+Han surgido multitud de publicaciones que buscan establecer criterios para graduar la gravedad de la afectación en la radiografía de tórax en los pacientes con COVID-19. Sus objetivos son:
+Todos los autores utilizan las proyecciones AP o PA y las dividen en varias regiones: algunas basadas en límites anatómicos, y otras dividiendo los campos pulmonares en dos o tres partes iguales, (fig. 4 ). Para establecer la gravedad, algunos autores asignan un valor cuantitativo al tipo de afectación, y/o al número o porcentaje de campos afectados, , y obtienen al final un score de gravedad.Figura 4
+Algunos estudios han referido la asociación de índices de gravedad mayores en pacientes que fallecieron con COVID-19 respecto a los que recibieron el alta hospitalaria o la asociación de enfermedad pulmonar grave con grupos de edad y sexo concretos.
+Por el momento no existe ninguna recomendación por organismos internacionales para utilizar de manera sistemática alguno de los sistemas existentes.
+
+
+-- INFORME RADIOLÓGICO
+
+El gran volumen de radiografías de tórax realizadas durante la pandemia por COVID-19 que han requerido un informe radiológico ha supuesto un reto para los servicios de radiodiagnóstico. Muchos de estos informes se han realizado en ausencia de los resultados de PCR y con escasa información clínica. Esto, junto con la ausencia de una nomenclatura y guías estandarizadas, ha derivado en una gran heterogeneidad en los informes radiológicos. Un informe estructurado proporciona las herramientas para informar con seguridad los hallazgos que sugieren COVID-19, mejora la comunicación con los médicos peticionarios y el manejo de los pacientes y facilita el análisis posterior de cara a estudios científicos.
+Algunas publicaciones proponen una estandarización del lenguaje clasificando los hallazgos como típicos, indeterminados, atípicos o negativos y añaden una conclusión que debe ser puesta en el contexto de la prevalencia de la COVID-19 y de los factores de riesgo del paciente (tabla 1 ).
+
+
+- TOMOSÍNTESIS
+
+La tomosíntesis digital torácica es una técnica que aplica rayos X en proyecciones con angulación diferente para obtener información de diferentes secciones pulmonares; esto evita la superposición de estructuras y permite detectar con más precisión pequeñas lesiones pulmonares no visibles en la radiografía de tórax convencional (fig. 5 ). Con una dosis de radiación que no llega al doble de una radiografía de tórax convencional se obtiene una serie de aproximadamente 50 imágenes reconstruidas. Aunque en pacientes con COVID-19 no hay aún estudios publicados, los resultados preliminares de los estudios en proceso sugieren que mejora la sensibilidad y especificidad para detectar pequeñas consolidaciones pulmonares, como ya se ha publicado en otras lesiones.Figura 5
+
+
+- TOMOGRAFÍA COMPUTARIZADA
+
+-- CONTROVERSIA SOBRE SU USO COMO HERRAMIENTA DE CRIBADO
+
+La TC de tórax de alta resolución es una prueba accesible y rápida y se considera la prueba de imagen más sensible para detectar COVID-19, con una sensibilidad descrita de hasta el 97%. En algunos estudios se ha visto que los hallazgos de la TC torácica pueden preceder a la positividad de la RT-PCR, .
+Existen discrepancias y controversia en cuanto al uso de la TC como modalidad diagnóstica, ya que, a pesar de su elevada sensibilidad, tiene una baja especificidad (25%), al superponerse los hallazgos de la COVID-19 a los de otras infecciones víricas como la gripe H1N1, SARS o MERS. Por ello, la mayoría de las sociedades, como la ACR, consideran la TC una técnica de segunda línea. Otras sociedades con limitaciones de pruebas de PCR, como la china, usan la TC como modalidad diagnóstica inicial. Lo justifican por su mayor sensibilidad comparada con la radiografía de tórax y la menor probabilidad de falsos negativos, sobre todo en estadios precoces de la enfermedad, , .
+La elección de TC o de radiografía en el diagnóstico inicial del paciente se debe realizar teniendo en cuenta los atributos de cada técnica y los recursos disponibles en cada hospital.
+
+
+-- INDICACIONES COMO PRUEBA DIAGNÓSTICA
+
+La TC es especialmente útil para guiar el manejo en escenarios complejos, en pacientes con deterioro clínico y para excluir diagnósticos alternativos.
+La Sociedad Española de Radiología Médica (SERAM) recomienda su uso en las siguientes situaciones:•Discrepancia clínica/analítica/radiológica: pacientes graves con alta sospecha clínica o analítica, radiografía de tórax normal y dificultad para obtener PCR o con PCR negativa o no concluyente.•Pacientes con COVID-19 confirmada y empeoramiento clínico y/o analítico con sospecha de embolia pulmonar, sobreinfección o aparición de derrame pleural.•En pacientes graves con sospecha clínica, en quienes ha de tomarse una decisión en cuanto a su ubicación hospitalaria en UCI convencional (limpia) o UCI de aislamiento (infectados por COVID-19).•En pacientes con otra patología crítica, con sospecha o duda diagnóstica de ser positivos, que requieren tomar una decisión terapéutica inmediata y, por tanto, un diagnóstico rápido para elevar la protección de los profesionales intervinientes (cirugía, técnicas intervencionistas).
+
+
+-- TÉCNICA
+
+Para la sospecha y la valoración inicial de la COVID-19 con TC, la mayoría de los autores recomiendan la realización de un estudio de tórax sin contraste intravenoso y en inspiración, , . Dado que muchos pacientes presentan disnea o tos, en ellos es recomendable utilizar tiempos de rotación más rápidos (≤0,5 segundos) y valores de “pitch” más altos (>1:1) para evitar artefactos de movimiento.
+Los pacientes con COVID-19 pueden requerir varios estudios en cortos espacios de tiempo, lo que condiciona un aumento de la radiación acumulada, que debe tenerse en cuenta especialmente en las poblaciones más sensibles, . Se ha propuesto el uso de protocolos de baja dosis con reconstrucción iterativa para disminuir la exposición a radiación, que han demostrado una eficacia comparable a la TC convencional en la detección de opacidades en vidrio deslustrado y consolidaciones, , , aunque se requieren más investigaciones que evalúen su precisión diagnóstica y la calidad de imagen en las fases más tempranas de la infección.
+
+
+-- HALLAZGOS DE TC EN PACIENTES CON COVID-19
+
+--- HALLAZGOS TÍPICOS
+
+
+Otros signos menos frecuentes:
+El derrame pleural, el derrame pericárdico, las linfadenopatías, los cambios quísticos y el neumotórax son algunos de los hallazgos poco comunes, pero posibles, observados con la progresión de la enfermedad, , generalmente asociados a los cuadros graves.
+
+
+--- LOCALIZACIÓN Y DISTRIBUCIÓN
+
+La afectación suele ser multifocal, bilateral, de distribución periférica y subpleural. Puede haber opacidades en vidrio deslustrado unilaterales, principalmente en las fases tempranas. Aunque todos los segmentos pulmonares pueden estar involucrados, existe predilección por los lóbulos inferiores.
+Ninguno de los hallazgos descritos es exclusivo de la neumonía COVID-19, pero la distribución típica y la combinación de aquellos en el contexto epidémico sugieren fuertemente su diagnóstico.
+
+
+--- HALLAZGOS INDETERMINADOS
+
+Son formas de presentación inespecífica, ya que pueden observarse tanto en neumonía COVID-19 como por otros agentes patógenos, incluso en entidades no infecciosas:•Consolidaciones u opacidades en vidrio deslustrado parcheadas, no periféricas (centrales o peribroncovasculares), de distribución unilateral, más frecuente en lóbulos superiores.•Fibrosis con vidrio deslustrado.•Adenopatías.•Derrame pleural.
+
+
+--- HALLAZGOS ATÍPICOS
+
+•Cavitación.•Calcificación.•Nódulos sólidos bien definidos o masas.•Bronquiolitis – patrón en árbol en brote.•Consolidación focal.•Opacidades en vidrio deslustrado difusas de distribución peribroncovascular.•Cambios fibróticos (panal de abejas y bronquiectasias de tracción).
+Estas entidades orientan a un diagnóstico alternativo.
+
+
+--- HALLAZGOS DE LA TC SEGÚN EL ESTADIO EVOLUTIVO DE LA INFECCIÓN
+
+En algunos estudios se describen hallazgos anormales de la TC pulmonar en pacientes asintomáticos. También se ha observado que la TC puede ser negativa en los primeros días de los síntomas. Por lo tanto, una TC negativa no debe usarse para excluir la posibilidad de COVID-19, particularmente en la fase temprana.
+Existe una relación entre los hallazgos radiológicos y el tiempo transcurrido desde el inicio de síntomas, , (fig. 9 ). Se han descrito cuatro etapas evolutivas: Figura 9
+En algunos pacientes, el engrosamiento septal inter- e intralobulillar asociado a dilataciones bronquiales aumenta progresivamente a partir de la segunda semana. Estos hallazgos indican una afectación intersticial, lo que sugiere el desarrollo de fibrosis, si bien no se conoce por completo la evolución de la enfermedad para calificar estos cambios de fibrosis irreversible.
+
+
+-- INFORME ESTRUCTURADO
+
+El informe estructurado ofrece un lenguaje estandarizado que puede ser comprendido por toda la comunidad médica. Debe ser correlacionado con la sospecha clínica, el tiempo de evolución de los síntomas y la prevalencia local.
+La Radiological Society of North America (RSNA) propone cuatro categorías: apariencia típica, indeterminada, atípica y negativo para neumonía COVID-19 (tabla 2 ).
+La Sociedad Holandesa de Radiología propone un consenso para el informe estructurado de los hallazgos en la TC torácica de los pacientes con sospecha de COVID-19, la clasificación CO-RADS, con una escala de sospecha de cinco puntos, desde muy bajo (CO-RADS 1) hasta muy alto (CO-RADS 5), desarrollada para pacientes con síntomas moderados a graves en un entorno de prevalencia moderada a alta (tabla 3 ).
+
+
+-- GRAVEDAD Y PRONÓSTICO
+
+La mayoría de los pacientes infectados por SARS-CoV-2 tienen síntomas leves y buen pronóstico. Pero en ocasiones el virus ocasiona una enfermedad grave en forma de neumonía, edema pulmonar, SDRA o fallo multiorgánico que puede conducir a la muerte. El estudio de los factores clínicos, analíticos y de imagen asociados a la gravedad del proceso es clave para promover estrategias terapéuticas efectivas que disminuyan las complicaciones y la mortalidad.
+La TC de tórax se considera una de las herramientas principales para evaluar la gravedad de la infección, , , , , . Permite estratificar a los pacientes en categorías de riesgo y estimar su pronóstico ayudando a la toma de decisiones clínicas.
+El hallazgo de imagen más comúnmente asociado a la gravedad clínica es la extensión de la afectación pulmonar, , , , , , , , , , , .
+Se han propuesto varias escalas semicuantitativas para TC que de forma visual calculan el alcance de las alteraciones (fig. 10 ). Su inconveniente es la falta de precisión. Es ahí donde los sistemas de inteligencia artificial pueden realizar un análisis cuantitativo y riguroso del volumen pulmonar lesionado, , .Figura 10
+Otras alteraciones pulmonares significativamente más frecuentes en pacientes graves son la distribución difusa de las lesiones, , , , , la afectación de zonas medias y centrales, , , las consolidaciones, , , , el patrón en empedrado, , el engrosamiento septal interlobulillar, el engrosamiento de paredes bronquiales, el broncograma aéreo, las bronquiectasias de tracción, las opacidades lineales, las atelectasias y la distorsión de la arquitectura pulmonar. Las lesiones extrapulmonares como el crecimiento ganglionar intratorácico, y el derrame pleural, , y pericárdico (60) también parecen asociarse a mayor gravedad .
+
+
+-- CORRELACIÓN CLÍNICA Y HALLAZGOS PATOLÓGICOS
+
+La Guía para el Diagnóstico y Tratamiento de la Neumonía por el Nuevo Coronavirus (versión 5) de la Comisión Nacional de Salud China distingue clínicamente cuatro niveles de gravedad:
+La TC puede mostrar patrón en empedrado. Según Wang et al., el 70% de los pacientes con esta alteración serán clasificados como graves o críticos. Se produce por la suma de un patrón alveolar e intersticial. Refleja un aumento del exudado alveolar y la dilatación con aumento de la permeabilidad de los capilares de los septos interlobulillares, dando lugar a edema intersticial interlobulillar, .4.Crítico. Pacientes con al menos uno de los siguientes criterios:•Fallo respiratorio que precisa ventilación mecánica.•Shock.•Fallo multiorgánico.
+En la TC presentan extensas consolidaciones difusas que pueden tener la apariencia de “pulmón blanco”, . Se producen por lesión alveolar con acumulación de exudados y edema en la cavidad alveolar que conducen a una alteración de la ventilación-perfusión. Esto, sumado a una reacción inmunitaria anómala (desregulación), acaba provocando un SDRA y un cuadro sistémico grave, , .
+
+
+-- COVID-19 EN EMBARAZADAS
+
+El embarazo no parece aumentar la susceptibilidad a la infección por SARS-CoV-2; sin embargo, las mujeres embarazadas tienen un riesgo mayor de enfermedad grave y aquellas que desarrollan neumonía tienen un riesgo mayor de parto prematuro y cesárea.
+La radiografía de tórax, habitualmente la proyección PA, es suficiente para la evaluación inicial de las complicaciones pulmonares en la mayoría de las pacientes embarazadas. Una sola radiografía de tórax conlleva una dosis de radiación fetal muy baja (0,0005-0,01 mGy). Si está indicada, la TC debe realizarse, ya que la dosis de radiación fetal también es baja (0,01-0,66 mGy) y no está asociada con un mayor riesgo de anomalías fetales o pérdida del embarazo.
+
+
+- CONCLUSIÓN
+
+Las pruebas de imagen tienen un papel importante en el manejo del paciente con sospecha o con confirmación de COVID-19. La prueba de imagen inicial es la radiografía de tórax. La TC, que es más sensible, se reserva para detectar posibles complicaciones, proporcionar diagnósticos alternativos, en casos de discrepancia clínica, analítica y radiológica o cuando no sea posible el diagnóstico microbiológico.
+La neumonía COVID-19 se caracteriza por la presencia de opacidades en vidrio deslustrado y/o consolidaciones, típicamente bilaterales y periféricas, con frecuencia subpleurales y más comúnmente en los campos inferiores. Evolutivamente, a partir de la segunda semana de la enfermedad aparecen cambios reparativos caracterizados por líneas subpleurales, mayor distorsión subpleural y dilataciones bronquiales.
+Además, las pruebas de imagen permiten monitorizar la evolución de la enfermedad y graduar la gravedad de la afectación pulmonar.
+
+
+- AUTORÍA
+
+1.Responsable de la integridad del estudio: EMC, ADT, LIS, SOV, SBN.2.Concepción del estudio: EMC, ADT, LIS, SOV, SBN.3.Diseño del estudio: EMC, ADT, LIS, SOV, SBN.4.Obtención de los datos: EMC, ADT, LIS, SOV, SBN.5.Análisis e interpretación de los datos: EMC, ADT, LIS, SOV, SBN.6.Tratamiento estadístico: N/A.7.Búsqueda bibliográfica: N/A.8.Redacción del trabajo: EMC, ADT, LIS, SOV, SBN.9.Revisión crítica del manuscrito con aportaciones intelectualmente relevantes: EMC, ADT, LIS, SOV, SBN.10.Aprobación de la versión final: EMC, ADT, LIS, SOV, SBN.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

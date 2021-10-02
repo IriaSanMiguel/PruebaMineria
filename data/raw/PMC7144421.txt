@@ -1,0 +1,202 @@
+BRONQUIECTASIAS
+
+
+- CLASIFICACIÓN ETIOPATOGÉNICA
+
+Las bronquiectasias son dilataciones anormales e irreversibles de los bronquios que pueden estar causadas por múltiples etiologías. La fisiopatología de esta enfermedad se explica mediante el círculo vicioso de Cole (fig. 1 ) en donde el aclaramiento mucociliar se ve comprometido por una agresión inicial sobre la vía aérea, permitiendo el contacto prolongado de las bacterias con el epitelio, lo que desencadena una respuesta inflamatoria crónica, con liberación de proteasas que producen daño epitelial y mayor alteración del sistema mucociliar, perpetuando así el círculo vicioso patogénico.Fig. 1
+Localmente las secreciones respiratorias presentan un incremento de neutrófilos, del contenido de elastasa, mieloperoxidasa, factor de necrosis tumoral alfa (TNF-alfa), interleucina 6 y 8, interleucina 1 alfa, interleucina 1 beta y factor estimulador de colonias de granulocitos. El reclutamiento de neutrófilos está mediado fundamentalmente por la interleucina 8, TNF-alfa y el leucotrieno B4, siendo especialmente potente esta acción quimiotáctica en los períodos de agudización, , .
+La etiología de las bronquiectasias es muy variada (tabla 1 ). Existen numerosas enfermedades que a lo largo de su historia natural pueden provocar bronquiectasias. En la mayoría de las series, las formas postinfecciosas son las más frecuentes (30% de los casos). En un 25-45% se desconoce la causa (idiopáticas), pudiendo guardar relación con infecciones respiratorias sufridas en la infancia, con un reflujo gastroesofágico no diagnosticado o poco sintomático, o con la coexistencia de una enfermedad pulmonar obstructiva crónica (EPOC) grave.
+Las causas que siempre habrá que descartar ante la presencia de bronquiectasias sin orientación clínica son: las inmunodeficiencias con déficit de producción de anticuerpos, el reflujo gastroesofágico, la aspergilosis broncopulmonar alérgica (ABPA), infecciones por micobacterias no tuberculosas, fibrosis quística, discinesia ciliar primaria y déficit de alfa 1 antitripsina.
+
+
+- MANIFESTACIONES Y FORMAS ANATOMOCLÍNICAS
+
+Las manifestaciones clínicas clásicas de las bronquiectasias (tabla 2 ) son la tos y la expectoración crónica o intermitente. Suelen cursar con infecciones respiratorias de repetición y entre estos episodios pueden estar asintomáticos. Otros síntomas descritos son la disnea según el grado de la función pulmonar, expectoración hemoptoica de intensidad variable, el dolor torácico pleurítico, hiperreactividad bronquial, la astenia y la pérdida de peso. Pueden asociarse a sinusitis, en especial las relacionadas con fibrosis quística, discinesia ciliar primaria e inmunodeficiencias. La exploración respiratoria puede ser normal o haber estertores crepitantes, roncus y/o sibilancias.
+
+
+- HISTORIA NATURAL
+
+Con la evolución natural de la enfermedad se suele desarrollar obstrucción progresiva al flujo aéreo, infección bronquial crónica por Pseudomonas aeruginosa y otros microorganismos multirresistentes, lo que se traduce a su vez en un mayor número de agudizaciones y de ingresos hospitalarios, y con ello a una progresión más rápida de las bronquiectasias.
+Los pacientes presentan una media de descenso del vo-lumen espiratorio forzado en el primer segundo (FEV1) de 50-55 ml al año, siendo este el parámetro funcional pronóstico más importante, .
+Las fases terminales de la enfermedad se caracterizan por la clínica de disnea progresiva, acropaquias, caquexia, aparición de insuficiencia respiratoria crónica, cor pumonale y muerte.
+
+
+- CRITERIOS DE SOSPECHA
+
+Se consideran criterios de sospecha de las bronquiectasias la tos y la expectoración persistentes, infecciones respiratorias recurrentes y/o hemoptisis recidivantes en ausencia de hábito tabáquico. La exploración física puede ser normal o presentar grados variables de crepitantes, roncus y/o sibilancias. Los pacientes con enfermedad avanzada pueden presentar acropaquias, caquexia o signos de insuficiencia respiratoria o cor pulmonale. Funcionalmente, el hallazgo más habitual es la obstrucción progresiva al flujo aéreo poco reversible tras tratamiento broncodilatador.
+
+
+- COMPLICACIONES
+
+-- INSUFICIENCIA RESPIRATORIA
+
+Suele estar presente en las fases avanzadas de la enfermedad y puede requerir de inicio de oxigenoterapia crónica domiciliara y/o ventilación mecánica no invasiva.
+
+
+-- HEMOPTISIS
+
+Es más frecuente que suceda durante las agudizaciones, y está originada por el daño a través de la mucosa superficial neovascular de las arteriolas bronquiales. En caso de ser leve requiere de inicio de antibioterapia intravenosa, evitando fármacos inhalados y fisioterapia respiratoria durante las primeras 24-48 horas. En los casos moderados o graves se debe realizar una fibrobroncoscopia (FBC) para localización del lugar de sangrado, y la realización de medidas terapéuticas para su cese (taponamiento con balón, aspiración, instalación de fármacos vasoconstrictores, láser, electrocauterio y argón plasma, entre otras). Si la FBC terapéutica no ha logrado parar el sangrado, se realizará la embolización de las arterias bronquiales patológicas. La cirugía solo está indicada cuando hay riesgo vital (más de 600 ml/día), cuando el origen del sangrado está bien localizado y si no se ha podido controlar con las medidas anteriormente descritas.
+
+
+-- AMILOIDOSIS
+
+La inflamación crónica que está presente en las bronquiectasias favorece la producción hepática de amiloide A. El diagnóstico se realiza por biopsia del órgano afecto.
+
+
+- DIAGNÓSTICO Y DIAGNÓSTICO DIFERENCIAL
+
+El diagnóstico de las bronquiectasias se basa en una sospecha clínica inicial, junto con una anamnesis completa, exploración física, analítica y estudio funcional concordante. Dado que el concepto de las bronquiectasias es eminentemente morfológico, las técnicas de imagen tienen un papel fundamental en su identificación (fig. 2 ). Actualmente la elevada fiabilidad de la tomografía computadorizada de alta resolución (TCAR) de tórax ha hecho que se haya convertido en el diagnóstico de elección de las bronquiectasias (recomendación alta, calidad de evidencia elevada).Fig. 2
+
+
+-- ANALÍTICA
+
+Se deberán solicitar marcadores de inflamación sistémica (entre ellos proteína C reactiva, velocidad de sedimentación globular, número de neutrófilos periféricos), niveles de inmunoglobulinas (IgG, IgM, IgA, subclases de IgG), proteinograma, IgE total, alfa 1 antitripsina, factor reumatoide, e IgE e IgG frente a Aspergillus, entre otros.
+
+
+-- MICROBIOLOGÍA
+
+Se deberán recoger cultivos de esputo antes de iniciar el tratamiento, con el objetivo de identificar los microorganismos potencialmente patógenos. Los más habituales son Haemophilus influenzae, Pseudomonas aeruginosa, Streptococcus pneumoniae, Moraxella catharralis y Straphylococcus aureus, siendo el aislamiento de Pseudomonas el que tiene peor pronóstico de todos. Recientemente ha aumentado el aislamiento de enterobacterias, bacilos Gram negativos no fermentadores como Achromobacter xylosoxidans y Stenotrophomonas maltophilia, -Nocardia spp., hongos: Candida y Aspergillus fumigatus .
+
+
+-- EXPLORACIÓN FUNCIONAL
+
+Lo más frecuente es que los pacientes con bronquiectasias presenten una limitación crónica al flujo aéreo irreversible relacionada con el engrosamiento de la pared bronquial. Esta limitación es mayor en los casos de infección crónica por Pseudomonas. El test de la marcha de los 6 minutos puede otorgar información adicional. En un estudio realizado en 27 pacientes con bronquiectasias se correlacionó íntimamente con la calidad de vida de los pacientes.
+
+
+-- RADIOLOGÍA
+
+La radiografía de tórax, aunque posee una escasa sensibilidad y especificidad para el diagnóstico, nos ayudará a descartar posibles complicaciones (atelectasia, neumonías, neumotórax). La TCAR tiene una sensibilidad y especificidad mayor del 90%, siendo por tanto la técnica de elección para el diagnóstico, así como para valorar la morfología (cilíndricas, varicosas o quísticas), extensión y progresión de la enfermedad. Se debe realizar con cortes de 1 mm a intervalos de 10 mm, en inspiración máxima. Para el diagnóstico radiológico de bronquiectasias se aconseja seguir los criterios descritos por Naidich et al (tabla 3 ).
+La TCAR puede asimismo indicar la etiología en algunos casos: malformaciones congénitas, situs inversus, traqueobronqueomegalia, obstrucción bronquial o enfisema por déficit de alfa 1 antitripsina. Las predominantes en lóbulos superiores sugieren infección tuberculosa y las secundarias a ABPA en zonas centrales. La presencia de múltiples nódulos alrededor de las bronquiectasias sugiere infección por micobacterias tuberculosas.
+El diagnóstico diferencial clínico se debe realizar con otras enfermedades respiratorias crónicas o de evolución prolongada, caracterizadas clínicamente por tos, expectoración, con o sin disnea: EPOC, asma, bronquiolitis obliterante, fibrosis quística y tuberculosis pulmonar activa y, radiológicamente, con enfermedades que puedan cursar con cavitación como las enfermedades pulmonares quísticas difusas (histiocitosis X, linfangioleiomiomatosis, esclerosis tuberosa, neumonía intersticial linfocítica), los abscesos pulmonares, neumonía por Pneumocystis jirovecii, S. aureus, micobacterias, carcinoma bronquioloalveolar, metástasis pulmonares, linfoma pulmonar, neurofibromatosis, émbolos pulmonares sépticos, pseudoquistes postraumáticos, alveolitis alérgica extrínseca, entre otros).
+
+
+- FACTORES PRONÓSTICOS
+
+El pronóstico depende de la enfermedad subyacente, la extensión de las lesiones, la repercusión en la función respiratoria y la gravedad. No existe una única variable que marque el pronóstico ni la gravedad de la bronquiectasias, por lo que, con frecuencia, es necesaria la valoración de diferentes parámetros relacionados con la edad, la clínica (disnea, cantidad y purulencia del esputo), medidas antropométricas (índice de masa corporal), radiología (la extensión pulmonar), función pulmonar (deterioro de la función pulmonar),microbiología (la presencia de microorganismos patógenos en las vías aérea, infección bronquial crónica por Pseudomonas aeruginosa), la presencia de inflamación sistémica, el número y la gravedad de las agudizaciones.
+Se han creado varias escalas pronósticas multidimensionales que incluyen las variables anteriormente mencionadas para valorar de una manera sencilla y rápida el pronóstico y la gravedad inicial de las bronquiectasias. Entre ellas destacan dos escalas clínicas multidimensionales (FACED, BSI) (tabla 4 ) y dos escalas de puntuación radiológica Reiff modificada y Bhalla.
+
+
+- TRATAMIENTO
+
+El objetivo del tratamiento es mejorar la clínica y la calidad de vida y detener la progresión de la enfermedad.
+
+
+-- DE LA ETIOLOGÍA
+
+Se realizará siempre que se haya identificado y que sea posible. Entre otras:1.Fibrosis quística: moduladores del CFTR (Cystic fibrosis transmembrane conductance regulator). DNasa.2.Discinesia ciliar primaria: técnicas de aclaramiento mucociliar.3.Infecciones por micobacterias no tuberculosas: según guías clínicas.4.Panbronquiolitis difusa: macrólidos.5.Inmunodeficiencias: inmunoglobulinas intravenosa o subcutánea.6.Reflujo gastroesofágico: inhibidores de la secreción de ácido.7.ABPA: corticoides orales. Antifúngicos.8.Enfermedades asociadas (EPOC, asma, enfermedad inflamatoria intestinal, enfermedades sistémicas).9.Déficit de alfa 1 antitripsina: abstinencia del hábito tabáquico. Alfa 1 antitripsina intravenosa en fenotipos PIZZ.10.Obstrucción bronquial: cirugía o dilatación bronquial.
+
+
+-- DE LA AGUDIZACIÓN
+
+Clínicamente se caracterizan por un aumento de la tos habitual y de cambios en las características del esputo (purulento, aumento de la viscosidad o del volumen) y/o incremento de la disnea. Puede acompañarse de fiebre, astenia, pérdida de peso, mal estado general, dolor pleurítico, hemoptisis, cambios en la exploración respiratoria, deterioro de la función pulmonar o incremento de los marcadores de inflamación.
+Se deben considerar exacerbaciones graves las que cursan con insuficiencia respiratoria, disminución de la saturación de oxígeno, criterios de sepsis, hemoptisis franca o deterioro significativo de la función pulmonar, inestabilidad hemodinámica y/o deterioro del estado general, .
+Los patógenos más frecuentemente aislados durante las agudizaciones son Pseudomonas aeruginosa, Haemophilus influenzae, Streptococcus pneumoniae, Staphylococcus aureus, Moraxella catarrhalis y las enterobacterias. Los virus se aíslan en un 25% de los casos (coronavirus, rinovirus, influenza), .
+El tratamiento antibiótico empírico .
+Los broncodilatadores y los corticoides pueden ser útiles en las exacerbaciones que cursan con broncoespasmo. Asimismo, debe favorecerse la expulsión de la mayor cantidad de moco, fluidificando las secreciones y realizando fisioterapia respiratoria.
+Algunos pacientes pueden requerir de oxigenoterapia y/ o ventilación mecánica no invasiva.
+
+
+-- DE LA PRIMOINFECCIÓN: COLONIZACIÓN INICIAL (ESPUTO MUCOSO
+
+--- PRIMER CULTIVO POSITIVO PARA <ITALIC>PSEUDOMONAS AERUGINOSA</ITALIC
+
+La infección bronquial crónica por Pseudomonas en pacientes con bronquiectasias (tabla 7 ) se ha asociado con un mayor riesgo de agudizaciones y un mayor declive de la función pulmonar, lo que secundariamente origina un peor pronóstico. Por esta razón, algunos autores recomiendan iniciar un tratamiento erradicador ante un primer aislamiento en el esputo de Pseudomonas (recomendación fuerte, calidad de evidencia baja), .
+Tras finalizar el tratamiento erradicador se debe realizar un cultivo de esputo mensual durante los tres primeros meses y después cada 2 meses durante un año.
+Se deberá considerar un fracaso de la erradicación si durante el primer año vuelve a presentar Pseudomonas en los esputos. Añadiremos un tratamiento inhalado si no se había añadido inicialmente, si se había añadido hay que repetir la misma pauta de ciprofloxacino más antibiótico inhalado, o cambiaremos el tratamiento inhalado utilizado en la primera pauta. Si fracasan al menos dos estrategias con antibióticos inhalados y orales se recomienda el uso de inhalados más tratamiento intravenoso. Si fracasan al menos tres estrategias se la debe considerar infección crónica, , .
+
+
+--- PRIMER CULTIVO POSITIVO PARA <ITALIC>STAPHYLOCOCCUS AUREUS</ITALIC> RESISTENTE A METICILINA
+
+Según antibiograma, se iniciarán durante 2 semanas diferentes combinaciones de antimicrobianos por vía oral: clindamicina 300 mg/ 6 horas vía oral o cotrimoxazol 160/800 mg/12 horas vía oral o rifampicina 600 mg/24 horas vía oral o linezolid 600 mg/12 horas vía oral, pudiendo añadir por vía inhalada vancomicina 250 mg/ 2 veces al día. La vía intravenosa se reservará para los fracasos de tratamiento.
+
+
+--- PRIMER CULTIVO POSITIVO PARA OTROS MICROORGANISMOS
+
+Se deberá individualizar en cada paciente, ya que no existe una evidencia firme. Si se realiza se recomienda según antibiograma durante 2 semanas.
+
+
+-- DE LA INFECCIÓN BRONQUIAL CRÓNICA (ESPUTO PURULENTO
+
+Se recomienda el tratamiento antibiótico prolongado (tabla 8 ) en pacientes con infección bronquial crónica por Pseudomonas (recomendación alta, calidad de evidencia moderada), y en el caso de aislamiento de otros microorganismos diferentes a Pseudomonas si el paciente ha presentado en el último año 2 o más agudizaciones y/o ingresos, un deterioro de su calidad de vida (con empeoramiento clínico) o un grave deterioro funcional (recomendación alta, calidad de la evidencia baja), .
+Para el tratamiento de la infección bronquial es de elección la vía inhalada (recomendación alta, calidad de evidencia moderada) y se podrá mantener durante períodos largos de tiempo según riesgo/beneficio. En función de la terapia inhalada seleccionada se realizarán pautas continuas o terapias con períodos de descanso (on-off). Si en estos últimos se evidencia un empeoramiento clínico en los períodos de descanso, se podrá valorar alternar con otro antibiótico inhalado sin períodos de descanso entre ellos. Si persiste un mal control se deberá asociar antibioterapia oral o intravenosa cada 1-2 meses.
+
+
+-- DE LA INFLAMACIÓN BRONQUIAL
+
+--- MACRÓLIDOS
+
+Interfieren en la formación de biopelículas. Se recomiendan en pacientes clínicamente estables que a pesar de un tratamiento correcto presentan 2 o más agudizaciones anuales (recomendación alta, calidad de evidencia elevada), , . La pauta recomendada es de 500 mg de azitromicina 3 veces por semana en días no consecutivos.
+
+
+--- CORTICOIDES INHALADOS
+
+Tan solo si hay evidencia de hiperreactividad bronquial, asma o broncorrea resistente. Se debe tener precaución en los pacientes con infecciones bronquiales crónicas (recomendación alta, calidad de evidencia baja).
+
+
+-- ASPECTOS NUTRICIONALES
+
+Los pacientes con bronquiectasias se caracterizan por pérdida de peso y riesgo de desnutrición. El índice de masa corporal se considera un factor de riesgo independiente. Se debe detectar precozmente y derivar a endocrinología y nutrición para un manejo multidisciplinar. Si el índice de masa corporal es inferior a 20 kg/m2 valorar iniciar suplementos nutricionales.
+
+
+-- REHABILITACIÓN RESPIRATORIA
+
+Entrenamiento muscular: ejercicio aeróbico (cicloergómetro, elíptica). Se recomienda en pacientes estables con disnea MRC , , (recomendación alta, calidad de evidencia moderada).
+
+
+-- DRENAJE DE SECRECIONES
+
+Contraindicada en situaciones inestables. Entre ellas: manuales (drenaje autógeno, espiración lenta con glotis abierta y ciclo activo con técnicas ventilatorias) e instrumentales (oscilación espiratoria positiva, presión espiratoria positiva y oscilación extratorácica de alta frecuencia) (recomendación alta, calidad de evidencia baja).
+
+
+-- MUCOLÍTICOS
+
+No existe evidencia para recomendar su uso.
+
+
+-- SUSTANCIAS HIPERTÓNICAS
+
+En pacientes con expectoración superior a 10 ml al día o con más de 2 agudizaciones al año, a pesar del tratamiento, inhalaciones de 5 ml en una concentración del 6-7% una o dos veces al día durante al menos 3 meses (recomendación fuerte, calidad de evidencia moderada).
+
+
+-- BRONCODILATADORES
+
+Si se presenta una obstrucción al flujo aéreo sintomática se recomienda el uso de betaadrenérgicos de acción prolongada (recomendación alta, calidad de evidencia moderada).
+
+
+-- CIRUGÍA Y TRASPLANTE PULMONAR
+
+La cirugía está indicada en caso de bronquiectasias localizadas o de hemoptisis grave que no responden al tratamiento convencional. El trasplante pulmonar es la única solución en aquellos pacientes con enfermedad en estado avanzado, cuya supervivencia se estime inferior a 2 años, una vez empleados todos los tratamientos disponibles sin obtener respuesta (recomendación fuerte, calidad de evidencia moderada).
+
+
+-- VACUNA ANTIGRIPAL ANUAL Y VACUNA ANTINEUMOCÓCICA
+
+Las exacerbaciones respiratorias en pacientes con bronquiectasias se asocian con una menor calidad de vida, un mayor deterioro de la función pulmonar, más hospitalizaciones y mayor morbimortalidad. Las vacunas antineumocócica y antigripal han demostrado reducir de manera significativa las exacerbaciones infecciosas, por lo que se recomienda de manera sistemática en estos pacientes.
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

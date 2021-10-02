@@ -1,0 +1,84 @@
+PRIORIZACIÓN DE FACILITADORES PARA LA IMPLANTACIÓN DEL SEGUIMIENTO FARMACOTERAPÉUTICO EN LAS FARMACIAS COMUNITARIAS ESPAÑOLAS MEDIANTE LA APLICACIÓN DE ANÁLISIS FACTORIAL EXPLORATORIO
+
+
+- INTRODUCCIÓN
+
+En la situación actual en la que se utilizan diferentes políticas sanitarias para abordar el cada vez más importante problema de la cronicidad, se deben analizar nuevas propuestas asistenciales que puedan contribuir a la sostenibilidad del sistema de salud utilizando un abordaje multidisciplinario de colaboración de todos los agentes de salud, en un entorno de crisis. Los farmacéuticos comunitarios pueden contribuir al abordaje de la cronicidad mediante la implantación de servicios profesionales farmacéuticos (SPF), y más concretamente del servicio de seguimiento farmacoterapéutico (SFT).
+Este servicio tiene como objetivo la detección de problemas relacionados con medicamentos (PRM), para la prevención y resolución de los resultados negativos asociados a la medicación (RNM).
+En las pasadas décadas se han identificado facilitadores potenciales para su implantación pero, a pesar de ello, el SFT sigue sin realizarse de una manera generalizada en las farmacias comunitarias (FC) españolas. Esta nueva actividad más clínica requiere la colaboración entre pacientes, médicos y farmacéuticos, siendo por tanto muy importante la participación del farmacéutico comunitario en los equipos de salud.
+Para afrontar este cambio en la práctica de la FC se suelen considerar 2 tipos de abordajes amplios: el que asume que es el farmacéutico quien debe cambiar y otro que entiende la farmacia como una organización:
+En cualquier caso, se han descrito una serie de elementos básicos, facilitadores, que deben concurrir en una farmacia comunitaria para que en esta se pueda realizar una actividad más clínica: el equipo debe tener una filosofía de la práctica orientada al paciente; debe existir una zona privada para atender pacientes (ZAP); los farmacéuticos deben formarse en aspectos clínicos que le permitan realizar una actividad más asistencial que distributiva; es preciso utilizar sistemas de gestión que integren los nuevos servicios en la gestión global de la farmacia, .
+Desde un punto de vista holístico y positivo parece interesante priorizar los facilitadores identificados en estudios previos en España, que coinciden con las dimensiones y categorías que se muestran en la tabla 1, ya que esto puede permitir diseñar estrategias que faciliten la implantación generalizada del SFT y su sostenibilidad en este país.
+
+
+- MÉTODO
+
+-- DISEÑO DEL INSTRUMENTO
+
+El equipo investigador diseñó un primer borrador de cuestionario basado en las dimensiones y categorías obtenidas en un estudio cualitativo previo realizado en España para identificar facilitadores para el cambio en la práctica de las farmacias comunitarias españolas. Para validar el cuestionario se constituyó un panel de expertos que siguiendo el método RAND/UCLA redefinió los diferentes ítems del cuestionario (n = 30) (anexo 1).
+Estaba constituido por 12 expertos, miembros del grupo de investigación en Atención Farmacéutica de la Universidad de Granada (GIAF-UGR). Seis eran farmacéuticos comunitarios, uno farmacéutico de hospital, 2 farmacéuticos de atención primaria, 2 integrantes de la coordinadora del programa Dáder de SFT, y uno experto en diseño de investigación que actuó como coordinador del panel.
+El cuestionario final incluía además variables sociodemográficas (sexo) y profesionales (titular o adjunto), así como una pregunta libre sobre qué aspectos creían que podrían facilitar la implantación del SFT en las farmacias comunitarias. En la tabla 1 se muestran las dimensiones con sus categorías y número de ítems del mismo.
+Todas las preguntas se midieron utilizando una escala de tipo Likert de 5 puntos (1,muy en desacuerdo; 5, muy de acuerdo).
+Para el análisis de la información se utilizó el paquete estadístico SPSS 15.0.
+
+
+-- POBLACIÓN Y TAMAÑO
+
+Se calculó un tamaño de muestra representativa del total de las farmacias comunitarias españolas mediante muestreo aleatorio simple con una precisión absoluta de 0,2 unidades y un nivel de significación α = 0,05. Dado que no se había realizado un pilotaje previo, y por tanto no se conocía la desviación estándar de la población, se decidió utilizar una muestra total de 200 farmacias (población: 20.537; fracción de muestreo: 0,97%).
+El cuestionario se pasó a los titulares, o adjuntos cuando aquellos no estaban presentes, utilizando el método computer-assisted telephone interviewing (CATI), mediante una empresa externa de prestigio, «dmercados», por entrevistadores formados y conocedores del mencionado método.
+
+
+-- VALIDEZ Y FIABILIDAD DEL CUESTIONARIO
+
+Previamente el grupo de expertos había confirmado la validez de contenido (face validity) del cuestionario.
+La validez de constructo y fiabilidad de la escala fueron establecidas usando análisis factorial exploratorio y alfa de Cronbach, respectivamente, a los resultados obtenidos de los farmacéuticos entrevistados .
+
+
+-- ANÁLISIS FACTORIAL EXPLORATORIO
+
+Dada la naturaleza exploratoria de los ítems que componían el cuestionario, al desarrollo inicial del mismo y al deseo de comprender los constructos subyacentes, se decidió realizar un análisis factorial exploratorio (AFE).
+La factorabilidad de /R/ se analizó utilizando como criterio de correlación valores de los diferentes ítems iguales o superiores a ǀ0,30ǀ, de manera que todos los ítems cumplieran siempre dicho criterio. El test de esfericidad de Bartlett fue significativo (< 0,000). La medida de adecuación de la muestra de Kaiser (KMO) resultó ser de 0,717 lo que indicaba buena factorabilidad. Solo se utilizaron ítems con una correlación en la matriz anticorrelación mayor a 0,60, , .
+Los resultados fueron comparados utilizando varios métodos de extracción (Oblimin y Promax), mediante los que se correlacionaron las diferentes variables. Finalmente, para elegir la solución factorial más apropiada se utilizaron los siguientes criterios, , : a) el mayor porcentaje de varianza explicada; b) autovalores (eigenvalues) superiores a uno; c) valor del α de Cronbach superior a 0,600; d) que al menos hubiera 3 ítems por factor; e) aplicación de la solución factorial al marco utilizado con el fin de obtener una mayor interpretabilidad e implicaciones teóricas de la solución.
+La mejor interpretabilidad se obtuvo cuando se utilizó un método de extracción de factorización del eje principal (PAF) con rotación Direct Oblimin que explicaba el 40,0% de la varianza, como se muestra en la tabla 3. El tipo de rotación utilizado en el estudio mejora la interpretación de los resultados a la vez que disminuye un poco la varianza explicada, como ocurre habitualmente.
+Se excluyó el factor 5, porque a pesar de tener un autovalor superior a 1 (1.004), solo contiene 2 ítems. En el factor 3, se aceptó un α de Cronbach de 0,556 ya que cumplía con el resto de los criterios de inclusión y resultaba un factor muy interesante dada la función exploratoria del estudio.
+
+
+- RESULTADOS
+
+Se realizaron un total de 1.271 llamadas de las que se obtuvieron 549 respuestas (43,2%). De ellas, participaron cumplimentando correctamente el cuestionario completo 200 farmacias (tasa de respuesta del 36,4%).
+La respuesta se caracterizó por ser mayoritariamente de sexo femenino (69,5%). En cuanto al perfil profesional, la mayoría de los entrevistados eran titulares de farmacia (75,5%) frente a un 22% de adjuntos; el 2,5% restante contaban con un tipo de contrato de sustitución.
+El resumen de los resultados de las respuestas agrupadas por categorías y dimensiones, así como un análisis comparativo de las mismas con otras variables de interés se muestran en las Tabla 4, Tabla 5.
+En el AFE se identificaron 4 factores, como muestra la matriz de componentes . Estos factores se denominaron: «Incentivos», «Campañas externas», «Experto en SFT» y «Profesionalidad del farmacéutico».
+El factor 1, «Incentivos», incluye principalmente incentivos económicos para la realización del SFT, aunque en menor medida también hace referencia a otro tipo de reconocimiento, de tipo profesional. De las respuestas se concluye que los ingresos obtenidos por la realización de nuevos servicios profesionales deben consistir en un ingreso adicional al obtenido por el sistema actual de márgenes comerciales sobre el precio del medicamento.
+El factor 2, «Campañas externas», explica la necesidad de realizar distintas acciones de marketing del servicio para que este sea conocido y demandado por la población y por los agentes sanitarios. También incluye la cooperación con los médicos ya que para la correcta provisión del servicio los farmacéuticos necesitan y valoran esta colaboración interprofesional.
+El factor 3, «Experto en SFT», hace referencia a la necesidad de que se entienda al farmacéutico como un experto en SFT, por lo que los farmacéuticos que han respondido al cuestionario demandan formación adicional para la realización del SFT manifestándose la necesidad de un cambio en la orientación universitaria hacia una formación más clínica, tanto en los estudios de pregrado como en los de posgrado. Incluye la necesidad de que sea el Consejo General de Farmacéuticos quien lidere el proceso de implantación del servicio.
+Por último, el cuarto factor hace referencia a la profesionalidad del farmacéutico. La implantación del SFT puede contribuir a afianzar al farmacéutico como un profesional de la salud y a que se entienda la farmacia como un establecimiento sanitario.
+
+
+- DISCUSIÓN
+
+En el análisis factorial se identificaron 4 factores: «Incentivos», «Campañas externas», «Experto en SFT» y «Profesionalidad del farmacéutico».
+Aunque la varianza explicada no es muy elevada, los resultados obtenidos guardan buena relación con los resultados de otros autores a nivel internacional, .
+El factor 1, «Incentivos», se desdobla en incentivos económicos y de otro tipo, siendo los primeros los que más peso tienen. El incentivo económico hace referencia a lo que la literatura médica se denomina «pago por el servicio». Este factor prioritario está refrendado por otros muchos trabajos, , , , que afirman que el pago de los servicios es un requisito imprescindible para la implantación y sostenibilidad de los mismos.
+Constituye uno de los facilitadores más importantes, ya que para el farmacéutico supone un gran coste económico tanto por los costes de inversión como el coste en tiempo necesario para la realización de este servicio. Además, todo profesional que implanta un nuevo servicio busca la rentabilidad del mismo, y el farmacéutico comunitario no puede ser una excepción.
+Parece que para conseguir que el pago por servicios sea una realidad en España es necesario que la profesión farmacéutica sea capaz de demostrar que dichos servicios, además de generar un impacto clínico y humanístico son capaces de originar un ahorro económico.
+Otro tipo de incentivo, aunque contribuye menos a la carga de este primer factor, es la necesidad de reconocimiento del esfuerzo que supone la implantación del SFT al farmacéutico que lo realiza diferente al reconocimiento económico. Se trata de incentivos como créditos de formación continuada, asistencia a actividades formativas, a congresos e investigación, entre otras acciones.
+Actualmente los SPF no están implantados de una manera generalizada, , , a pesar de que diferentes estudios reflejan los beneficios clínicos, humanísticos y económicos de su implantación. Es posible que, por tratarse de nuevos servicios, la mayoría de los pacientes no conoce su existencia o, si la conoce, no sabe en qué consisten, para qué se utilizan y cómo y cuándo utilizarlos y, por tanto, no existe demanda de los mismos.
+Las campañas de marketing, de los SPF están destinadas a comunicar en qué consisten estos servicios y los beneficios que se derivarían de su implantación. El marketing de los SPF contribuiría a que el colectivo médico comprenda que el objetivo de la implantación en la farmacia comunitaria de los SPF es ayudar a sus pacientes. De ahí que, en este factor, los encuestados hayan incluido la cooperación con los médicos.
+Una de las mayores barreras descritas por el farmacéutico comunitario para la implantación del SFT es la carencia de formación adecuada para afrontar este reto, . Es preciso que la universidad reoriente tanto la formación de pregrado como la de posgrado a fin de que el farmacéutico sea capaz de implantar nuevos servicios.
+La necesidad de una formación más clínica se encuentra presente en muchos estudios. Mientras que la especialidad en SFT es considerada por algunos autores como el trampolín para la implantación de este nuevo servicio, otros opinan que el que haya especialistas reduciría su ejercicio a unos pocos, por lo que no tendría el impacto social necesario para generar demanda en la población, .
+Se considera indispensable el liderazgo tanto de los colegios oficiales de farmacéuticos como de su consejo general para propiciar el cambio de la práctica en las farmacias comunitarias, .
+El SFT representa la apuesta del farmacéutico para mejorar su imagen como profesional sanitario implicado en mejorar la calidad de vida del paciente a través del uso adecuado, seguro y efectivo de su medicación, mediante la vigilancia y evaluación de sus resultados.
+
+
+- CONCLUSIONES
+
+Para la implantación y sostenibilidad de este nuevo servicio (SFT) es necesario que este sea remunerado como ingreso adicional al sistema actual de márgenes comerciales del medicamento.
+Se deben comunicar correctamente los servicios que se realizan en la farmacia comunitaria para que la población sea consciente de que la farmacia, además de dispensarles el medicamento, puede ayudarles a que este sea efectivo y seguro. Además las campañas de marketing ayudarán al resto de profesionales sanitarios a entender en qué consiste el SFT, facilitando así la imprescindible colaboración del colectivo médico.
+Es necesaria una formación más clínica para que el farmacéutico pueda abordar las nuevas tareas asistenciales.
+La implantación del SFT exige una mayor responsabilidad y compromiso del farmacéutico como profesional sanitario, lo que puede contribuir a que la farmacia se vea como un centro de salud y no solo como una empresa.Lo conocido sobre el tema:En estudios anteriores se han identificado facilitadores potenciales de la implantación del SFT. Sin embargo, este servicio sigue sin implantarse de una manera generalizada en las farmacias comunitarias españolas.Qué aporta este estudio:Este estudio prioriza los facilitadores para la implantación de servicios farmacéuticos, identificados en estudios previos, y pone de manifiesto la necesidad del pago por servicios como paso previo, imprescindible para la implantación y sostenibilidad del SFT.Además, emergen como facilitadores más importantes la realización de campañas externas para dar a conocer este nuevo servicio, la necesidad de un experto en SFT y el aumento de la responsabilidad y compromiso del farmacéutico como profesional sanitario.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses

@@ -1,0 +1,25 @@
+NO ES COVID-19 TODO LO QUE RELUCE
+
+
+Sr. Director:
+La ecografía es una herramienta diagnóstica cada vez más extendida en los servicios de urgencias, como ya preconizaba el Dr. Nogué en el año 2008, siendo útil en la identificación de diversas patologías pleuropulmonares, realizando lo que se denomina ecografía a pie de cama (EPICA).
+En el estado actual de pandemia por COVID-19, el uso de la ecografía pulmonar está implementándose en la atención a pacientes sospechosos de infección, mediante la observación de hallazgos que puedan ser característicos para, de esta forma, entre otros objetivos, desarrollar un sistema de triage .
+Estos signos ecográficos encontrados en los pacientes con COVID-19 (+), con distribución en patrón parcheado bilateral, correlacionados con hallazgos propios de la exploración por tomografía axial computarizada (TAC) son: irregularidad de línea pleural, líneas B focales, patrón B coalescente difuso y consolidaciones subpleurales, acompañados o no de otros hallazgos menos frecuentes como puede ser el derrame pleural localizado.
+Sin embargo, no se debe inferir una valoración diagnóstica de la exploración ecográfica debiendo esta última ir siempre de la mano de la clínica y de otras herramientas diagnósticas, y ser un apoyo a las mismas.
+Presentamos el caso de un paciente de 89 años de edad, hipertenso, con fibrilación auricular paroxística e insuficiencia renal sin patología pulmonar previa, que acude por hematuria y edemas en extremidades, sin fiebre ni tos, con una frecuencia respiratoria de 17 respiraciones/minuto y saturación de oxígeno (SatO2) de 98% respirando aire ambiente, y al que en la exploración, realizando una sistemática mediante ecocardiografía y ecografía pulmonar a pie de cama, encontramos (fig. 1 ) muchos de los hallazgos ecográficos publicados para los pacientes con infección por COVID-19: irregularidad de línea pleural, líneas B focales, y consolidación subpleural (además de derrame pleural bilateral), por lo que, pensando en la infección por coronavirus, solicitamos test rápido de detección de inmunoglobulinas, siendo negativo su resultado, y PCR mediante frotis nasofaríngeo con el mismo resultado.Figura 1
+Tras ello llegamos a la conclusión de estar ante una posible patología pleuropulmonar previa no diagnosticada en el contexto de un cuadro de insuficiencia cardíaca, por lo que desestimamos la idea inicial de conseguir realizar una detección en etapa pre-sintomática de infección por COVID-19, asumiendo que la patología ya existente sigue siendo susceptible de atención en urgencias y siendo conscientes de la importancia de valorar el resultado de pruebas exploratorias dentro de un contexto clínico compatible, ya que por el momento en esta enfermedad no se ha descrito un signo clínico que nos permita un diagnóstico certero en el 100% de los pacientes.
+
+
+- CONSIDERACIONES ÉTICAS
+
+Se ha contado con el consentimiento de la paciente cumpliéndose los protocolos de los centros de trabajo sobre tratamiento de la información de los pacientes.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

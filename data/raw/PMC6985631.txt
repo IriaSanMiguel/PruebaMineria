@@ -1,0 +1,114 @@
+SISTEMA GRADE: METODOLOGÍA PARA LA REALIZACIÓN DE RECOMENDACIONES PARA LA PRÁCTICA CLÍNICA
+
+
+- INTRODUCCIÓN
+
+Las guías de práctica clínica (GPC) se definen como el conjunto de recomendaciones basadas en una revisión sistemática de la evidencia y en la evaluación de los riesgos y beneficios de las diferentes alternativas, con el objetivo de optimizar la atención sanitaria a los pacientes. Su éxito depende del rigor en su elaboración, así como de las estrategias de diseminación, implantación y actualización.
+En los últimos años, con el objetivo de obtener GPC de mayor calidad, diversas instituciones e iniciativas han aportado progresivamente la metodología de su elaboración, , . GRADE surgió como una iniciativa internacional con el propósito de optimizar la evaluación de la calidad de la evidencia y la graduación de la fuerza de las recomendaciones, superando las limitaciones de los sistemas de clasificación previos y proponiendo un sistema nuevo que mejora la trazabilidad y la transparencia del proceso (http://www.gradeworkinggroup.org/). Actualmente, más de 70 instituciones como la Organización Mundial de Salud, la Colaboración Cochrane o el National Institute of Clinical Excellence (NICE) se adhieren o utilizan GRADE en la realización de sus recomendaciones. En nuestro entorno, el Programa de GPC del Sistema Nacional de Salud, coordinado por GuíaSalud (http://portal.guiasalud.es/web/guest/gpc-sns), o la Sociedad Española de Medicina de Familia y Comunitaria también comienzan a introducirlo en la elaboración de recomendaciones. El objetivo del presente artículo es describir las características básicas del sistema GRADE utilizando ejemplos relevantes para atención primaria.
+
+
+- PLANTEAMIENTO DE LA PREGUNTA CLÍNICA Y CLASIFICACIÓN DE LOS DESENLACES DE INTERÉS
+
+Las GPC están estructuradas para responder a preguntas clínicas. Una pregunta clínica debe incorporar una población, una intervención a evaluar, un comparador, así como unos desenlaces (resultados) de interés (p. ej., mortalidad o efectos indeseables). Esta estrategia de formulación de preguntas se conoce con el acrónimo PICO (paciente/intervención/comparación/desenlace [outcome, en inglés]), y a pesar de no ser exclusiva del sistema GRADE, es una parte fundamental para aplicarlo.
+Si tomamos como ejemplo la GPC para el tratamiento de pacientes con enfermedad pulmonar obstructiva crónica (EPOC) del Programa de GPC del Sistema Nacional de Salud, una de las preguntas fue: la utilización del mucolítico carbocisteína ¿está justificada en los pacientes con EPOC? Esta pregunta puede estructurarse de la siguiente forma: a) paciente/problema: pacientes con EPOC en fase estable; b) intervención: mucolítico carbocisteína; c) comparación: placebo, y d) desenlaces: número de exacerbaciones y hospitalizaciones, calidad de vida, síntomas respiratorios, tolerancia al ejercicio, mortalidad por cualquier causa y eventos adversos.
+En la selección de los desenlaces de interés a evaluar, el grupo elaborador debe considerar aquellos que sean más importantes para los pacientes, así como para otros actores relacionados con la intervención evaluada (p. ej., cuidadores). Serán estos desenlaces los que deban tenerse en cuenta a la hora de evaluar la calidad de la evidencia y de graduar la fuerza de las recomendaciones. La figura 1 muestra cómo se definieron estos desenlaces en la pregunta sobre el uso de carbocisteína en la GPC de la EPOC.Figura 1
+
+
+- IDENTIFICACIÓN DE LA LITERATURA CIENTÍFICA DISPONIBLE
+
+Cada pregunta de una GPC debe basarse en una revisión sistemática (RS) de la literatura. Las RS permiten presentar de forma resumida la evidencia disponible sobre las intervenciones que se están evaluando. Los resultados de la RS sirven para informar al grupo elaborador, facilitando el juicio entre los beneficios y riesgos de las intervenciones y apoyando la elaboración de recomendaciones en la GPC. La RS puede realizarse por el grupo elaborador, usando los resultados de los estudios individuales disponibles (ensayos clínicos aleatorizados [ECA], estudios observaciones, etc.), o pueden identificarse a través de una búsqueda de la literatura. Independientemente del proceso seguido, es importante que la búsqueda de estudios relevantes cuente con una descripción clara de los criterios para su identificación y selección. Estos criterios deben ser acordes con los componentes de la pregunta planteada.
+
+
+- EVALUACIÓN DE LA CALIDAD DE LA LITERATURA CIENTÍFICA
+
+La evaluación de la calidad de la evidencia nos permite conocer el grado de confianza que tenemos en los resultados de la literatura. En otras palabras, hasta qué punto confiamos o no en los resultados obtenidos en los estudios localizados. Algo muy característico de GRADE es que la evaluación de la calidad de la evidencia se realiza inicialmente para cada uno de los desenlaces de interés. Esto quiere decir que, una vez encontremos los estudios relevantes (p. ej., RS de ECA sobre mucolíticos en EPOC), identificaremos el efecto que tiene la intervención en los desenlaces de interés que hemos elegido (p. ej., mortalidad, frecuencia de exacerbaciones, etc.). Evaluaremos entonces la calidad de la evidencia para cada desenlace de forma individual para, posteriormente, emitir un juicio acerca de la calidad global del conjunto de desenlaces. Esta calidad global se determina tomando la calidad de la evidencia más baja de los desenlaces de interés que se han considerado como claves para la elaboración de las recomendaciones, como explicaremos más adelante. GRADE propone clasificar la calidad de la evidencia en 4 categorías: calidad alta, moderada, baja y muy baja. Estas categorías reflejan un gradiente de confianza en los resultados, así como en que estudios posteriores puedan modificar los resultados disponibles.
+De entrada los ECA se consideran como calidad alta y los estudios observacionales como calidad baja. En esta valoración se tienen en cuenta los potenciales limitaciones de los estudios: limitaciones en el diseño y ejecución (riesgo de sesgo), resultados inconsistentes, resultados imprecisos, ausencia de evidencia directa y sesgo de publicación. Tanto para los ECA como para los estudios observacionales se han determinado una serie de factores que pueden aumentar o disminuir la confianza en la estimación del efecto observado .
+
+
+-- FACTORES QUE PUEDEN DISMINUIR LA CALIDAD DE LA EVIDENCIA
+
+--- LIMITACIONES EN EL DISEÑO Y EJECUCIÓN (RIESGO DE SESGO
+
+En los ECA se consideran fundamentalmente los siguientes factores: método de generación de la secuencia de aleatorización inapropiado, ausencia de ocultamiento de la secuencia de aleatorización, enmascaramiento inadecuado de las intervenciones, pérdidas de seguimiento importantes, ausencia de análisis por intención de tratar y/o descripción selectiva de desenlaces de interés. En el caso de los estudios observacionales, los factores que limitan la confianza (calidad) en los resultados son: criterios inapropiados de selección de la población, medidas de exposición o desenlace inapropiadas, control inadecuado de los factores de confusión o seguimiento incompleto de los pacientes.
+
+
+--- INCONSISTENCIA EN LOS RESULTADOS
+
+Si existen diferencias entre los resultados de los distintos estudios que han evaluado un desenlace (resultados heterogéneos), y estas diferencias persisten tras haber explorado las razones que podrían explicarlas, se considera que se debe disminuir la calidad de la evidencia. Habitualmente esta variabilidad es debida a que los estudios presentan diferencias en las poblaciones o intervenciones, en la evaluación de los desenlaces o a que presentan diferentes riesgos de sesgo. En estas circunstancias pueden existir diferencias reales entre las estimaciones del efecto y, por tanto, nuestra confianza disminuye.
+La GPC para el tratamiento de pacientes con EPOC evaluó la eficacia de la rehabilitación respiratoria en el contexto de una exacerbación. Uno de los desenlaces fue la tolerancia al ejercicio evaluada con la prueba de andar durante 6 min. Una RS que analizó 6 estudios para esta prueba mostró unos resultados muy variables entre los estudios, con intervalos de confianza que no se solapaban, y se objetivó heterogeneidad estadística . En situaciones como esta, como en el caso de esta guía, nuestra confianza en los resultados disminuye.Figura 2
+
+
+--- AUSENCIA DE EVIDENCIA DIRECTA
+
+Es frecuente que ciertas decisiones se basen en estudios con poblaciones, intervenciones o desenlaces distintos a los de nuestra pregunta de interés. También es habitual que no existan estudios que hayan comparado de forma directa 2 o más alternativas terapéuticas. Por ejemplo, en la evaluación del efecto de diferentes bisfosfonatos en la prevención de fracturas vertebrales en mujeres posmenopáusicas con osteoporosis, una RS comparó la eficacia del ácido zolendrónico respecto a otros fármacos (alendronato, ibandronato y risedronato). Al no encontrarse estudios que los evaluaran de forma directa, los autores realizaron una comparación indirecta a través de ensayos clínicos que comparaban los diferentes fármacos respecto a placebo. En estas comparaciones indirectas el ácido zolendrónico se mostró más eficaz que el resto de bisfosfonatos. Si utilizáramos los resultados de esta RS, al no tratarse de una comparación directa, disminuiría la confianza sobre la superioridad observada del ácido zolendrónico en la prevención de fracturas.
+Otro ejemplo lo encontramos en una reciente GPC sobre el tratamiento antitrombótico y prevención de la trombosis, la cual evaluó el uso de las medias de compresión graduada como profilaxis inicial para trombosis pulmonar respecto a su no uso, en pacientes sometidos a cirugía mayor ortopédica. Sin embargo, a pesar de utilizarse con frecuencia en combinación con otros tratamientos tromboprofilácticos, los autores identificaron solo una RS en la que la mayoría de los estudios incluidos fueron realizados en pacientes sometidos a cirugía no ortopédica. El hecho de que la información provenga de una población diferente a la pregunta de interés hace que disminuya, la confianza en sus resultados.
+
+
+--- IMPRECISIÓN
+
+Para considerar que el efecto de una intervención es impreciso se debe valorar, según las circunstancias, el intervalo de confianza del estimador y el número de eventos o el número de sujetos incluidos. Por ejemplo, en la GPC de la EPOC, una RS mostró que los mucolíticos reducían las hospitalizaciones respecto a placebo . Si nos fijamos en el intervalo de confianza, esta reducción, en términos relativos, puede ser tan importante como un 51% (sin duda recomendaríamos los mucolíticos) o llegar a aumentar 1% las hospitalizaciones (probablemente no recomendaríamos los mucolíticos. Si lo valoramos en términos absolutos, por cada 1.000 pacientes el tratamiento con mucolíticos podría reducir 131 hospitalizaciones o aumentar 3 hospitalizaciones. Si una decisión clínica o recomendación puede cambiar dependiendo de si se tiene en cuenta un extremo u otro del intervalo de confianza, nuestra confianza en la estimación del efecto debería disminuir, .Figura 3
+Asimismo, incluso con un intervalo de confianza preciso, si el número de episodios o el número de sujetos evaluados son escasos, debería considerarse la necesidad de disminuir la calidad. En la RS del ejemplo anterior se evaluó la mortalidad . En los 6 ECA incluidos hubo 26 muertes: 11 en pacientes que recibieron mucolítico y 15 en pacientes que recibieron placebo. Cualquier resultado con este escaso número de episodios es muy incierto, y nuestra confianza en los resultados disminuye.Figura 4
+
+
+--- SESGO DE PUBLICACIÓN
+
+Cada vez se conoce mejor que hay situaciones en las que podrían existir estudios, principalmente con resultados negativos, que no se han publicado y que por tanto el efecto observado con los estudios disponibles podría estar sobreestimándose. Este potencial sesgo debe sospecharse ante situaciones en las que se dispone de un conjunto de ensayos de pequeño tamaño, positivos y financiados por la industria. En estos casos se podría llegar a reducir la confianza en la estimación de un efecto. Para detectar el sesgo de publicación también existen pruebas estadísticas (test de Egger) o gráficas (funnel plot) que podrían proporcionar información complementaria de utilidad.
+
+
+-- FACTORES QUE PUEDEN AUMENTAR LA CALIDAD DE LA EVIDENCIA
+
+A pesar de que los estudios observacionales son considerados por GRADE como de calidad baja para dirimir los efectos de una intervención, hay situaciones que pueden justificar una mayor confianza en sus resultados. Son situaciones poco comunes y solo tiene sentido considerarlas si no existen limitaciones en el diseño y la ejecución de los estudios (riesgo de sesgo). Estas son: a) la fuerza de la asociación: cuando el efecto observado de una intervención muestra una asociación fuerte (riesgo relativo u odds ratio > 2 o < 0,5) o muy fuerte (riesgo relativo u odds ratio > 5 o < 0,2), aumenta nuestra confianza, ya sea un efecto protector o perjudicial; b) el gradiente dosis-respuesta: la existencia de un gradiente claro entre la intensidad de la exposición o dosis y el efecto observado nos aporta una mayor certidumbre sobre una potencial relación causa-efecto, y c) la consideración de otros potenciales factores de confusión que no se han tenido en cuenta en el estudio y que, de presentarse, reforzarían sus resultados.
+
+
+-- TABLA DE SÍNTESIS DE LOS RESULTADOS
+
+El sistema GRADE hace especial énfasis en la presentación explícita y transparente de todo el proceso. Una de las herramientas disponibles es la tabla de síntesis de los resultados (summary of findings). Esta tabla permite presentar para las comparaciones de interés el resumen de los estudios y sus resultados, así como la confianza en los mismos (calidad de la evidencia) respecto a los desenlaces más importantes.
+
+
+- ELABORACIÓN DE LA RECOMENDACIÓN
+
+-- DIRECCIÓN Y FUERZA DE LAS RECOMENDACIONES
+
+Las recomendaciones pueden ser clasificadas según su dirección y su fuerza. Según GRADE, su dirección puede ser a favor o en contra de la intervención evaluada y, según su fuerza, fuertes o débiles (también denominadas condicionales).
+GRADE tiene en cuenta 4 criterios para determinar la dirección y la fuerza de las recomendaciones: a) el balance entre los beneficios y riesgos e inconvenientes; b) la confianza en la magnitud de las estimaciones del efecto de la intervención en los desenlaces importantes (calidad global de la evidencia); c) los valores y preferencias de los pacientes, y d) el uso de recursos y costes.
+Teniendo en cuenta la fuerza y la dirección, las recomendaciones pueden ser fuertes a favor, fuertes en contra, débiles a favor o débiles en contra de una intervención. Por otra parte, una calidad baja no implica necesariamente una recomendación débil o la situación inversa, una calidad alta tampoco implica una recomendación fuerte. Se deben tener en cuenta otros aspectos para determinar la fuerza o la dirección de la recomendación, como son los valores y preferencias de los pacientes o el uso de recursos y costes, entre otros. Respecto a la redacción de las recomendaciones, GRADE propone, en el caso de las recomendaciones fuertes, utilizar términos como «se recomienda», y en el caso de las débiles, «se sugiere».
+
+
+-- BALANCE ENTRE BENEFICIOS Y RIESGOS
+
+Para realizar el balance entre beneficios y riesgos deben considerarse las diferencias que hay entre los estimadores del efecto de los desenlaces considerados. Si existe una gran diferencia entre los beneficios (p. ej., disminución de ingresos hospitalarios y/o disminución de exacerbaciones) y los riesgos (p. ej., efectos adversos leves), es más probable realizar una recomendación fuerte (a favor o en contra). Si la diferencia es pequeña, será más probable hacer una recomendación débil.
+Tomemos nuevamente como ejemplo la GPC de EPOC, y esta vez la pregunta versa sobre el uso de corticoides por vía oral para el manejo de las exacerbaciones moderadas. En esta pregunta, el grupo elaborador consideró que había un beneficio neto a favor de la intervención, es decir, las consecuencias deseables (mejora del fracaso terapéutico y la disnea) superaban a las indeseables (efectos adversos como la ganancia de peso y/o insomnio) .
+
+
+-- CALIDAD GLOBAL DE LA EVIDENCIA
+
+Después de realizar la valoración de la calidad de la evidencia de forma individual por desenlace (ver apartado «Evaluación de la calidad de la literatura científica»), GRADE realiza una valoración global de la misma. Al igual que en la valoración individual, esta valoración global expresa la confianza general que tenemos en los desenlaces de interés y corresponde al menor nivel de confianza de los desenlaces claves. Así, si para responder una pregunta tenemos 3 desenlaces claves, 2 de ellos con una calidad alta y otro con calidad moderada, la calidad global de la evidencia será valorada como moderada.
+Típicamente, una recomendación fuerte está sustentada con una confianza alta o moderada en las estimaciones del efecto para los desenlaces claves y una recomendación débil, en una confianza baja o muy baja. Sin embargo, pueden existir situaciones poco comunes en las cuales se pueden realizar recomendaciones fuertes a pesar de contar con baja calidad de la evidencia. Un ejemplo sería el uso de escáner total para el cribado del cáncer. En esta situación se dispondría de evidencia que sugiere un beneficio para la detección temprana del cáncer pero de calidad baja, y a su vez se tendría evidencia de un potencial daño de calidad alta y un coste muy elevado. En este caso se haría una recomendación fuerte en contra de su uso.
+
+
+-- VALORES Y PREFERENCIAS
+
+Los valores y preferencias de los pacientes son un concepto que abarca sus perspectivas, creencias, expectativas y metas para su salud y vida en general. Es el resultado del proceso por el que valoran los potenciales beneficios, daños, costes e inconvenientes asociados a las diferentes opciones terapéuticas o de manejo de su enfermedad.
+En la elaboración de GPC, si bien los profesionales implicados aportan los conocimientos (clínicos o metodológicos) y la evidencia científica disponible, es la perspectiva de los pacientes la que es relevante al valorar los desenlaces de interés. No obstante, en la mayoría de las ocasiones los grupos elaboradores al hacer recomendaciones no hacen explícitos los valores que están asignando a los pros y contras de las intervenciones. Sin embargo, a pesar de no ser conscientes de este proceso, están realizando juicios tomando en la mayoría de los casos sus valores y preferencias y no la de los pacientes.
+Desafortunadamente, aunque los grupos elaboradores de GPC quieran incorporar los valores y preferencias de los pacientes, a menudo esta información no se encuentra en la literatura científica. En estos casos el panel puede usar su experiencia en la toma de decisiones compartidas del problema de salud de interés y explicitar qué valores han tenido en cuenta y utilizar su estimación aproximada de manera explícita. Otra posibilidad, ante la ausencia de evidencia, es realizar investigación con pacientes mediante técnicas cualitativas o cuantitativas para explorar este aspecto.
+Continuando con el ejemplo del uso de corticoides vía oral para el tratamiento de las exacerbaciones moderadas del EPOC , el grupo elaborador no encontró literatura sobre valores y preferencias de los pacientes y consideró que, al ser un tratamiento de administración extrahospitalaria, tendría buena aceptabilidad entre los pacientes, a pesar de la presencia de efectos adversos asociados al tratamiento. En otras palabras, el panel asignó una importancia mayor a la mejora de la disnea y el fracaso terapéutico que a los inconvenientes de la medicación (beneficio neto de la intervención).
+
+
+-- USO DE RECURSOS Y COSTES
+
+Como cualquier otro desenlace importante, el uso de los recursos (p. ej., personal sanitario, insumos, quirófanos, etc.) y los costes (p. ej., precio de los medicamentos, precio hora/médico) son a menudo relevantes a la hora de realizar recomendaciones. La intervención evaluada y sus comparaciones pueden diferir en la cantidad de recursos y costes necesarios. La integración de estos aspectos a las recomendaciones puede variar dependiendo del país, del sistema sanitario y de los pacientes a los cuales se aplican las intervenciones. El grupo elaborador debe evaluar cuáles de las preguntas de la GPC pueden incluir intervenciones en las cuales el uso de recursos y costes son claves para realizar la recomendación. Una vez hecha esta evaluación es necesario revisar los estudios existentes relevantes y, en caso de no encontrarlos, plantearse la necesidad de desarrollar análisis económicos propios.
+
+
+-- OTROS ASPECTOS
+
+Según la perspectiva elegida para elaborar la GPC y la pregunta, el grupo elaborador puede incorporar otros aspectos en la realización de las recomendaciones como la equidad (impactos en las inequidades en salud), la aceptabilidad para los agentes implicados o la factibilidad de implementar la recomendación.
+
+
+-- INTEGRACIÓN DE LOS FACTORES
+
+Para formular la recomendación y graduar la fuerza de una recomendación es necesario integrar los factores mencionados anteriormente. Por ejemplo, en la GPC de la EPOC los autores hicieron una recomendación fuerte a favor de utilizar prednisona por vía oral en pacientes no hospitalizados con exacerbaciones moderadas. Después de evaluar estos cuatro factores, los autores consideraron que podría existir un beneficio neto asociado a su uso .
+
+
+- CONCLUSIÓN
+
+El sistema GRADE es un sistema para la evaluación de la calidad de la evidencia y la formulación de recomendaciones que busca mejorar las limitaciones de sistemas previos. GRADE proporciona un marco para estructurar el proceso de formulación de recomendaciones de manera explícita, evaluando la calidad de la evidencia por desenlaces de interés e incorporando otros factores relevantes en la elaboración de recomendaciones como los valores y preferencias de los pacientes y el uso de recursos y costes.

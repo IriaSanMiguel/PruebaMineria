@@ -1,0 +1,49 @@
+PROTOCOLO DE DIAGNÓSTICO DIFERENCIAL DE LAS FARINGOAMIGDALITIS
+
+
+- INTRODUCCIÓN
+
+Las faringoamigdalitis agudas (FAA) constituyen una patología de alta prevalencia entre el conjunto de la población general, cuyo abordaje diagnóstico tiene importantes implicaciones terapéuticas que repercuten sobre el estado de salud de los pacientes afectados y sobre la aplicación de una política racional del uso de antibióticos.
+
+
+- ETIOLOGÍA
+
+El diagnóstico clínico de la FAA se basa en la presencia de odinofagia y disfagia, con amígdalas prominentes, exudado faríngeo de características variables y a veces acompañado de petequias, ulceraciones y posibles vesículas sobre la mucosa faríngea y amigdalina, junto con fiebre de grado variable.
+Excepcionalmente es preciso distinguir este proceso de otras entidades no infecciosas como el pénfigo, el penfigoide bulloso, la enfermedad de Kawasaki, el síndrome de Behçet, el síndrome de Stevens-Johnson u otras enfermedades autoinmunes o por hipersensibilidad que cursan con afectación de la mucosa faríngea y pueden imitar una faringitis aguda infecciosa. En general, el diagnóstico diferencial va dirigido a intentar una tipificación etiológica entre los diversos microorganismos potencialmente responsables, a saber: virus (entre ellos adenovirus, enterovirus, coronavirus, influenza, parainfluenza, virus de Epstein-Barr, virus herpes simple, virus de la inmunodeficiencia humana), Mycoplasma pneumoniae, Chlamydia pneumoniae o bacterias (estreptococo del grupo A, gonococo, Corynebacterium diphtheriae, Arcanobacterium haemolyticum, Treponema pallidum o Fusobacterium necrophorum). De todos estos agentes etiológicos, el más destacado desde el punto de vista diagnóstico es el estreptococo del grupo A (Streptococcus pyogenes), dada su frecuencia, las posibles complicaciones supuradas y no supuradas que puede originar, y que constituye la causa tratable más importante. De modo que la orientación diagnóstica en buena medida va dirigida a establecer si se trata de una faringoamigdalitis estreptocócica o no estreptocócica.
+El diagnóstico de sospecha debe basarse en criterios epidemiológicos y clínicos, y se confirmará a partir de los resultados de las pruebas complementarias (cultivo, test rápido de antígeno estreptocócico en exudado faríngeo y serología) (fig. 1 ).Fig. 1
+
+
+- CRITERIOS EPIDEMIOLÓGICOS
+
+La edad del paciente es un elemento importante de apoyo, aunque la etiología viral es la más frecuente en todos los grupos de edad. En los niños menores de 3 años la gran mayoría de las faringitis agudas son víricas. Entre los 6 y los 15 años de edad la etiología estreptocócica puede llegar hasta el 50% de los casos, mientras que esta causa está representada entre el 15 y el 25% de los pacientes mayores de 18 años.
+También es útil considerar las características estacionales de la aparición del proceso, de modo que las faringitis por rinovirus tienden a surgir en primavera y otoño, y las producidas por enterovirus son más frecuentes en verano. Sin embargo, las faringitis estreptocócicas o secundarias a coronavirus se dan más a menudo en invierno. Por otra parte, las faringitis por influenza suelen coincidir con fases epidémicas de gripe entre la población, dada su elevada contagiosidad.
+
+
+- DIAGNÓSTICO DIFERENCIAL CLÍNICO
+
+Aunque las faringitis con exudado abundante, espeso y purulento han de ser consideradas en principio de origen estreptocócico, y los cuadros con exudado claro o blanquecino y de cuantía escasa suelen ser víricos, en la mayoría de los casos el diagnóstico etiológico no puede establecerse en base a criterios clínicos.
+Excepcionalmente la presencia de pseudomembranas adheridas a la pared faríngea y a la úvula orienta hacia el diagnóstico de una posible faringitis diftérica. Más a menudo puede ser de ayuda la presencia de ulceraciones o vesículas en la superficie mucosa faríngea o labial, como signo indicativo de una faringitis por enterovirus o por virus herpes simple, respectivamente. Con frecuencia es útil el hallazgo de ciertos rasgos sistémicos para el diagnóstico etiológico: así pues, el paciente que, además de la afectación faríngea, presenta rinitis, tos, ronquera, mialgias o diarrea probablemente padezca una faringoamigdalitis vírica, y la presencia de adenopatías cervicales y esplenomegalia orientan a una posible mononucleosis infecciosa por virus de Epstein-Barr, o menos probablemente por citomegalovirus (tabla 1 ).
+Como herramienta de ayuda en el diagnóstico diferencial entre faringoamigdalitis producida por estreptococo del grupo A o de otro origen, se han establecido los criterios de Centor para el diagnóstico clínico de faringitis estreptocócica que incluyen: exudado faringoamigdalino; adenopatías cervicales anteriores dolorosas; fiebre y ausencia de tos.
+Se acepta que, en la mayoría de la población, el valor predictivo positivo de la presencia de 3 o 4 de estos criterios es del 40 al 60%. Por el contrario, si no se cumplen 3 o 4 de los mismos criterios, el valor predictivo negativo es del 80%. Por consiguiente, si la decisión de administrar tratamiento antiestreptocócico se basa solamente en estos criterios clínicos, ha de asumirse que se aplicará un tratamiento antibiótico innecesario en el 50% de los casos.
+
+
+- CULTIVO DE EXUDADO FARÍNGEO
+
+Aunque ésta sea la prueba de referencia (patrón oro) para establecer o descartar el diagnóstico de la FAA estreptocócica, presenta las siguientes limitaciones:1.Se requiere la recogida de la muestra en condiciones adecuadas (a ser posible hisopo seco) y su siembra rápida en placas de agar sangre.2.Es preciso que la toma de muestras se realice antes de iniciar el tratamiento antibiótico.3.En las mejores condiciones, su sensibilidad es del 90%, y su especificidad del 95 al 99% (falsos positivos por portadores faríngeos de estreptococo grupo A).4.Se precisa esperar 24–48 horas hasta tener los resultados del cultivo.
+Para la confirmación microbiológica de las faringitis no estreptocócicas pueden realizarse cultivos en condiciones específicas como cultivos virales, cultivos en medio de Thayer-Martin o de Loeffler (medio selectivo de telurita), con los que se facilita el aislamiento de gonococo o de C. diphtheriae, respectivamente, y hemocultivos si se sospecha la existencia de bacteriemia.
+
+
+- DETECCIÓN RÁPIDA DEL ANTÍGENO ESTREPTOCÓCICO
+
+A partir del exudado faríngeo y mediante un procedimiento de aglutinación o inmunoabsorción (ELISA) se detecta la presencia del carbohidrato de la pared del estreptococo A. Es un procedimiento que permite disponer de los resultados de un modo prácticamente inmediato, para poder decidir acerca del tratamiento antibiótico. Es de gran utilidad si el resultado es positivo (especificidad del 90-100% frente al cultivo), pero si el resultado es negativo no puede excluirse el diagnóstico de faringitis estreptocócica (sensibilidad aproximada del 75-90%, dependiendo de las diferentes técnicas empleadas), .
+
+
+- SEROLOGÍA
+
+Durante la fase aguda de las faringitis producidas por estreptococo de grupo A y especialmente una vez transcurridas 2–3 semanas del episodio agudo, se produce una elevación del título de anticuerpos frente a elementos de este microorganismo (Ac anti-estreptolisina o, ASLo), que resulta útil en el diagnóstico de las posibles complicaciones no supuradas (fiebre reumática o glomerulonefritis postestreptocócica), o con fines epidemiológicos. Su utilidad para el diagnóstico diferencial del paciente con FAA es nula.
+
+
+- ENFOQUE DIFERENCIAL PRÁCTICO
+
+Se admite que los tres pilares básicos para el diagnóstico diferencial de las faringitis agudas son los criterios clínicos de Centor, el cultivo del exudado faríngeo y la detección rápida en el mismo del antígeno estreptocócico.
+La realización de las pruebas diagnósticas de confirmación de infección estreptocócica (cultivo y/o test antigénico) debe restringirse a los casos en que se sospeche esta etiología frente al origen viral en base a criterios clínicos. En general, se recomienda limitar la administración de tratamiento antibiótico antiestreptocócico a los casos con confirmación etiológica.1.Si el paciente reúne menos de 2 criterios de Centor se desestima la realización de las pruebas diagnósticas de confirmación y el tratamiento antiestreptocócico .

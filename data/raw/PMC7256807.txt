@@ -1,0 +1,105 @@
+ECOLAE: VALIDACIÓN DE UN CUESTIONARIO SOBRE CONOCIMIENTOS Y HABILIDADES EN LACTANCIA MATERNA PARA ENFERMERÍA
+
+
+- INTRODUCCIÓN
+
+La lactancia materna (LM) representa el patrón de oro para la alimentación infantil. Sin ninguna duda al respecto, la evidencia científica reconoce a la leche materna la excelencia como alimentación del recién nacido y del niño pequeño. No podemos considerar la leche materna como un simple acopio de nutrientes, es un fluido orgánico, variable y de gran complejidad biológica, activamente protectora e inmunomoduladora que favorece e impulsa el correcto desarrollo del lactante.
+El apoyo y la promoción de la LM son las herramientas más eficaces en la prevención de enfermedades y en la promoción de la salud maternoinfantil a corto, medio y largo plazo. Se ha demostrado que la inversión en medidas que favorezcan el inicio y la duración de la lactancia obtiene no solo la recuperación rápida de las inversiones necesarias, sino importantes ahorros para el sistema sanitario, , , , , .
+La Organización Mundial de la Salud y la Asociación Española de Pediatría recomiendan una lactancia exclusiva hasta los 6 meses y continuar con alimentos complementarios hasta al menos los 2 años. Sin embargo, las cifras de LM están por debajo de las recomendaciones que, desde hace años, realizan las organizaciones nacionales e internacionales.
+Las rutinas inadecuadas de atención al amamantamiento y la falta de apoyo a la LM en el sistema sanitario ocasionan un aumento de incidencia de problemas que, con frecuencia, conducen a pérdidas de lactancias. A este respecto, el papel de los profesionales de la salud en el apoyo a la mujer para la LM es crucial. Todos los profesionales con responsabilidad directa en el cuidado madre-hijo desempeñan un papel importante en el establecimiento y duración de la lactancia. La falta de conocimientos y habilidades en LM de los profesionales sanitarios, junto con actitudes desfavorables pueden influir negativamente en el inicio y mantenimiento de esta. La mejora en la formación de los profesionales y la estructuración de cuidados adecuados en las instituciones sanitarias han demostrado su eficacia para mejorar la prevalencia y la duración media de la lactancia, además de aumentar los índices de satisfacción y mejorar el aprovechamiento eficaz de los recursos, .
+Dos recientes revisiones sistemáticas sobre el impacto de actividades educativas sobre los conocimientos, actitudes y habilidades en LM de los profesionales sanitarios han puesto de relieve la dificultad de comparar resultados al no disponer de un método estándar de evaluación de las mismas que impiden un resumen de resultados homogéneos y posterior metaanálisis. Los instrumentos utilizados por los estudios incluidos en estas revisiones para determinar el nivel de conocimientos, habilidades y actitudes han sido diseñados ad hoc, sin un proceso de validación, careciendo de propiedades psicométricas objetivamente validadas, .
+En nuestro entorno disponemos de un cuestionario validado para valorar la formación en lactancia de pediatras y residentes de pediatría: «Encuesta sobre conocimientos en lactancia» (ECoLa), que evalúa conocimientos básicos en lactancia, junto con habilidades en el manejo cotidiano de problemas de lactancia (fisiología, problemas de los primeros días, problemas tardíos, evaluación de la toma, compatibilidad de fármacos con lactancia y actitudes). El ECoLa es por tanto, y hasta nuestro conocimiento, el primer cuestionario en satisfacer los pasos requeridos por el proceso de validación, adaptado a nuestro contexto, razonablemente breve y autoadministrable en papel o en versión online. Sin embargo, no está validado en población enfermera.
+Nuestro objetivo fue validar en personal de enfermería el cuestionario ECoLa.
+
+
+- MÉTODOS
+
+-- POBLACIÓN DIANA
+
+Personal de enfermería perteneciente a todos los ámbitos con implicación directa en el apoyo a LM: enfermeras generalistas, enfermeras especialistas en pediatría, enfermeras especialistas en obstetricia (matronas) del Hospital Universitario Marqués de Valdecilla y de la gerencia de Atención Primaria del Servicio Cántabro de Salud.
+Criterios de inclusión: enfermeras y matronas con responsabilidad directa en el cuidado madre-hijo, trabajar en unidades hospitalarias de obstetricia, urgencias pediátricas, pediatría, neonatología, y de atención primaria.
+Criterios de exclusión: trabajar en la UCI obstetroginecológica (por tratarse de personal que atiende a madres que deciden amamantar, pero están separadas de sus hijos debido a que su situación clínica lo impide).
+
+
+-- DESCRIPCIÓN DEL ECOLA
+
+El instrumento está compuesto por un total de 22 preguntas, cuya puntuación máxima son 26 puntos: Se trata de 14 preguntas dicotómicas (que han de ser contestadas en términos de verdadero o falso), 7 preguntas tipo test con 4 opciones de respuesta y una pregunta abierta. También consta de una serie de preguntas, que sin ser puntuables, recogen variables que pueden completar la información objeto de estudio. En su proceso de validación para pediatras, ECoLa presentó buenas propiedades psicométricas (consistencia interna: Kuder-Richardson 20 [KR20] = 0,87; validez de contenido: índice de acuerdos jueces > 0,90 para cada ítem; concordancia interobservadores: kappa ajustado por prevalencia y sesgo 0,90). El cuestionario original categoriza las puntuaciones como notas para hacerlas fácilmente interpretables: < 55% muy insuficiente, 55-70% insuficiente, 70-85% bien, > 85% excelente.
+
+
+-- VALIDEZ
+
+Durante el proceso de validación del instrumento original se trabajó la validez de contenido y de criterio. Para examinar la validez de contenido, en el cuestionario original se sometió al criterio de 22 jueces pediatras expertos en lactancia y miembros del Comité de Lactancia Materna de la Asociación Española de Pediatría. Se preguntó a los jueces 3 aspectos de cada ítem: la respuesta correcta, una valoración de 1 a 5 sobre la importancia dentro del constructo y si podría existir controversia respecto a la respuesta correcta. Además se ofreció opinar de forma abierta sobre cada ítem, las áreas de competencias y sobre el cuestionario como globalidad. Para cuantificar sus respuestas se utilizó el índice de acuerdos (acuerdos/total de respuestas). Se consideraron valores > 0,80 como válidos. No se utilizó la habitual V de Aiken por ser variables no ordinales. Para la validez de criterio, en la elaboración del cuestionario original utilizaron una aproximación examinando sus hipótesis de partida (que los conocimientos de un experto en LM serían mayores y que los alumnos de una formación específica en LM mejorarían las puntuaciones obtenidas tras la misma).
+En la validación para enfermería, se estimó que estos procedimientos eran adecuados, ya que el cuestionario medía y tenía el mismo propósito para el que había sido construido.
+
+
+-- PILOTAJE VIABILIDAD
+
+Se realizó un pilotaje inicial en el mes de noviembre de 2017 con una muestra de conveniencia conformada por 15 enfermeras expertas en LM y cuidados al binomio madre-hijo (3 de cada tipo de enfermera de la población a estudio). Se trataba de una aproximación inicial al instrumento para realizar una validación lingüística y así valorar aspectos relacionados con la comprensibilidad y claridad del mismo. Se les entregó el cuestionario original en papel explicándoles el motivo del pilotaje y pidiéndoles que reflejasen aspectos relacionados con la viabilidad del cuestionario para enfermeras en términos de claridad de las preguntas, comprensión, extensión y adaptaciones necesarias. Se realizó un análisis cualitativo de las respuestas, identificándose la necesidad de adaptar ciertas expresiones en el enunciado de algunas preguntas, realizándose las siguientes modificaciones:
+-Se sustituye donde aparece «residencia» por «periodos de formación», en las preguntas 22, 24 y 25.
+-Se sustituye donde aparece «tratamiento» por «abordaje», en las pregunta 17.
+-Se sustituye donde aparece «diagnóstico» por «identificación», en la pregunta 17.
+El equipo investigador consideró que las modificaciones realizadas no alteraban la validez del cuestionario y se adaptaban a la realidad competencial de las enfermeras.
+La versión final del ECoLa adaptado para enfermeras (ECoLaE) .
+
+
+-- FIABILIDAD
+
+-Consistencia interna: se examinó mediante alfa de Cronbach para las preguntas de respuesta múltiple y para el global, y el KR20 para las preguntas con respuestas dicotómicas (verdadero/falso).
+-Concordancia interobservadores: se evaluó mediante el coeficiente kappa en los ítems 18 y 21.
+-Fiabilidad test-retest: se evaluó con 11 sujetos con una diferencia de entre 2-3 semanas, mediante el coeficiente de correlación intraclase. Se analizó la estabilidad temporal de la pregunta 30.
+
+
+-- TAMAÑO MUESTRAL
+
+Aplicando criterios estandarizados de metodología de validación de instrumentos, se estimó un tamaño muestral adecuado de 3 sujetos a estudio por cada ítem de la encuesta (N = 90).
+
+
+-- RECOGIDA DE DATOS
+
+Se invitó a participar a los profesionales en el estudio mediante correo electrónico, en el que se les adjuntó una hoja informativa/consentimiento informado y se les facilitó un hipervínculo donde cumplimentar el formulario online. A los 15 días del envío del primer correo se envió un correo electrónico recordatorio.
+Las respuestas del formulario generaron de forma automática una base de datos tipo Excel.
+
+
+-- ANÁLISIS DE LOS DATOS
+
+Los resultados obtenidos se analizaron mediante el paquete estadístico IBM SPSS Statistics versión 20. Se realizó un análisis descriptivo de las respuestas obtenidas, además de un análisis inferencial bivariado para obtener información acerca de la correlación entre las puntuaciones obtenidas y las características personales de los encuestados, que pudiesen influir del constructo del cuestionario (sexo, edad, perfil profesional etc.). Para el análisis inferencial se utilizaron diversos test, en función de la distribución de la puntuación y del tipo de variable (ANOVA, U de Mann-Whitney, Kruskal-Wallis y Chi-cuadrado).
+
+
+-- CONSIDERACIONES ÉTICAS
+
+El proyecto fue aprobado por el Comité Ético de Investigación Clínica de Cantabria.
+
+
+- RESULTADOS
+
+Se obtuvieron 112 respuestas de enfermeras tanto del ámbito hospitalario como de atención primaria (tasa de respuesta del 60,54%). En la tabla 1 se muestran las características sociodemográficas de las enfermeras encuestadas. Presentaron una edad media de 42,53 ± 9,86 años (IC 95%: 40,68-44,38; rango 22-62 años), siendo las más jóvenes las matronas (edad media: matronas 38,5 ± 3,14 años, enfermera 41,48 ± 9,74 años, enfermera especialista en pediatría 47,57 ± 8,85 años; p = 0,002).
+Entre las que tenían experiencia personal en lactancia, la media de tiempo con LM fue de 13,52 ± 14 meses (IC 95% 40,68-44,38; rango 0-73 meses).
+La puntuación media del cuestionario fue de 21,15 ± 4,67 puntos (rango 3-26 puntos y una mediana de 23 puntos ). Respecto a la puntuación, no hubo diferencias estadísticamente significativas con respecto al sexo (hombres 19,43 ± 4,68 puntos vs. mujeres 21,27 ± 4,68 puntos; IC 95% −1,780-5,460; p = 0,316) ni al número de hijos (ninguno 19,39 ± 5,85 puntos, un hijo 21,52 ± 4,28 puntos, 2 hijos 21,9 ± 3,83 puntos, 3 o más hijos 23 ± 3,46 puntos; p = 0,120). Sin embargo, sí hubo asociación entre la puntuación obtenida en el cuestionario y la experiencia previa en lactancia (con experiencia 21,88 ± 3,93 puntos vs. sin experiencia 19,34 ± 5,86 puntos; IC 95% 0,651-4,429; p = 0,017) y con el perfil profesional (matrona 24,23 ± 2 puntos, enfermera especialista en pediatría 21,20 ± 4,47 puntos, enfermera 20 ± 4,99 puntos; p < 0,01). En la figura 2 se muestra el porcentaje de respuestas correctas según categoría profesional.Figura 1Figura 2
+Destacar que las matronas referían haber recibido mayor formación en LM (90,9%) que las enfermeras especialistas en pediatría (46,7%) y que las enfermeras (56,7%), siendo esta diferencia estadísticamente significativa (p < 0,01). Asimismo, aquellos que refirieron formación previa en LM obtuvieron mejores puntuaciones que los que no (formación previa 22,9 ± 3,26 puntos vs. no formación previa 18,45 ± 5,26 puntos; IC 95% 2,856-6,044; p < 0,01). El 28,6% refería que la formación previa en LM había sido deficiente o muy deficiente, con una puntuación media de 3,21 ± 1,25 puntos sobre 5; valorando mejor esta formación las matronas sobre el resto (matrona 3,77 puntos, enfermera 3,22 puntos, enfermera especialista en pediatría 2,77 puntos; p = 0,015).
+Ante la pregunta «¿Te sientes preparado para diagnosticar y aportar soluciones a los problemas específicos de la lactancia?», un 17,9% refería estar poco o nada preparado, con una puntuación media de 3,38 ± 1,08 puntos sobre 5. Aquellos que mejor preparados se sentían presentaron mayores puntuaciones totales en el cuestionario (en absoluto 15,44 puntos, poco 16,09 puntos, más o menos 20,57 puntos, bastante 23,02 puntos, completamente 21,15 puntos; p < 0,01).
+
+
+-- FIABILIDAD
+
+1.-Consistencia interna. El KR20 para las preguntas con respuestas dicotómicas fue de 0,802. El alfa de Cronbach para las preguntas de respuesta múltiple fue de 0,719, y para la totalidad fue de 0,866.
+2-Concordancia interobservadores: Ítem 18: n = 11, kappa = 0,6; ítem 30 n = 11 kappa = 0,825; puntuación total n = 11, kappa = 0,856
+3.-Fiabilidad test-retest: Puntuación global: CCI = 0,856 (IC 95% 0,55-0,96) Pregunta 30: CCI = 0,93 (IC 95% 0,750-0,985).
+
+
+- DISCUSIÓN
+
+El déficit de conocimientos y capacidades en LM, además de posibles actitudes desfavorables, puede interferir de forma negativa en el inicio y mantenimiento de la misma. Resulta primordial tener habilidades y conocimientos en consejería sobre lactancia, para poder apoyar y orientar en el manejo de la lactancia. Disponer de un sistema sanitario con estructura de apoyo, con prácticas basadas en la evidencia, facilita el éxito de la lactanciapero es preciso identificar la falta de conocimiento, posibles áreas de mejora y, por supuesto, determinar la efectividad de la formación. Por todo lo anteriormente expuesto, es fundamental tener una herramienta que nos permita evaluar periódicamente esos conocimientos y habilidades de los profesionales implicados, .
+Teniendo como punto de partida el ECoLa, un cuestionario validado que permite evaluar los conocimientos y habilidades en LM en pediatras y residentes de pediatría, nuestro objetivo fue adaptarlo y homologarlo para los profesionales de enfermería. Se respetó en todo momento el cuestionario original dadas sus buenas características psicométricas, además no se trataba de hacer un cuestionario específico para enfermería. Todo el personal que atiende a la díada madre-hijo tiene una responsabilidad en la promoción, asesoramiento y apoyo a la LM. En el caso de la enfermería, aunque no tenga una participación activa en la prescripción de fármacos, es importante que esté formada, y no aporte mensajes contradictorios que puedan generar dudas en la madre lactante, y esta pierda credibilidad y confianza en su capacidad de amamantamiento.
+El ECoLa es un cuestionario que cumple los criterios de validación, adaptado al medio sanitario, conciso, y de fácil comprensión. Por todas estas razones, resultó útil adaptarlo a los profesionales de enfermería, con el fin de validar su formación y capacidades en LM.
+Nuestro propósito fue precisamente adecuar el cuestionario para el personal de enfermería, realizando adaptaciones lingüísticas, que se correspondiesen con el perfil competencial de las enfermeras, dado que la validez del test no es una propiedad implícita sino sujeta a la muestra a quien va dirigida. Como ya se explicó en el apartado material y métodos se realizaron muy pocas modificaciones, respetando el constructo de la totalidad del cuestionario.
+El ECoLaE nace como herramienta validada para los profesionales de enfermería, con el fin de tener un cuestionario fiable y acondicionado a la profesión.
+Resulta significativo y reseñable el hecho de la influencia de la experiencia personal en LM. Aproximadamente el 80% de los encuestados contaban con dicha experiencia, y han obtenido resultados más favorables en la resolución de las preguntas, dato que no hemos podido avalar con la bibliografía existente, pero que nos abre una nueva línea de investigación. Añadir también que aquellos que refirieron formación previa en LM obtuvieron mejores puntuaciones. Esto apoya la tutoría y asesoramiento entre pares profesionalizados. Ya se ha constatado en muchas ocasiones que las mujeres que acuden a un Grupo de Apoyo a la lactancia, reuniones donde las madres comparten experiencias e información, tienen más posibilidades de conseguir tener éxito en su lactancia, logrando, además que se prolongue más en el tiempo, , .
+No hay que obviar que la enfermería es una profesión mayoritariamente constituida por mujeres y esto puede ser un valor añadido, ya que si, además de una formación científica, contamos con una experiencia personal en lactancia estaremos doblemente preparados para ayudar a las mujeres a resolver sus dudas, problemas, y con ello evitar abandonos indeseados.
+A pesar de que la pregunta número 30 está fuera de las baremables, nos parece destacable la correlación existente entre el nivel de conocimientos y la sensación de preparación. La enfermería reconoce falta de formación en LM y su sensación (pregunta: «¿Te sientes preparado?») es precisamente esa, no creer estar experimentado en LM. No se siente capacitado en la enseñanza de práctica en LM, no considera tener los conocimientos necesarios para ayudar a la población en lactancia. Siente carencias en cuanto a su destreza en LM y a la posibilidad de abordar problemas o necesidades que surjan del aprendizaje. Promocionar e invertir en LM pasa por la formación de todos los profesionales implicados y antes de formar hay que detectar cuáles son precisamente las carencias existentes.
+La enfermería es la categoría profesional «a pie de cama» por excelencia, con mucho impacto en la población, de ahí la importancia de su formación, el interés de documentar o evidenciar posibles necesidades formativas, con el propósito de justificar la instauración de medidas que suplan este déficit.
+Se concluye que la escala posee propiedades psicométricas que hacen válido y fiable su uso en la evaluación de la formación de los profesionales de enfermería. La información que aporta el cuestionario resulta valiosa para medir el grado de conocimientos del personal, resulta una herramienta muy útil para detectar posibles carencias formativas, con el fin de diseñar una actividad curricular específica y adecuada a los resultados obtenidos.Lo conocido sobre el tema•El apoyo y la promoción de la LM son las herramientas más eficaces en la prevención de enfermedades y en la promoción de la salud maternoinfantil.•La mejora en la formación de los profesionales y la estructuración de cuidados adecuados en las instituciones sanitarias ha demostrado su eficacia para mejorar la prevalencia y la duración media de la lactancia.•No existen escalas validadas para evaluar los conocimientos y habilidades en LM de los profesionales de enfermería.Qué aporta este estudio•Un escala validada para evaluar el conocimiento y habilidades en LM del personal de enfermería.•Un método estandarizado para evaluar acciones formativas sobre LM.•Una herramienta muy útil para detectar posibles carencias formativas, con el fin de diseñar una actividad curricular específica y adecuada a los resultados obtenidos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

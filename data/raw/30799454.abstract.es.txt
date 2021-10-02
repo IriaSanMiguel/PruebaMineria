@@ -1,0 +1,6 @@
+El éxito en nefrolitotomía percutánea (NLP) se define como estatus libre de litos, sin embargo, las complicaciones mayores se presentan con alta frecuencia y han sido reportadas como resultado secundario.
+Presentar una nueva definición de éxito en NLP que comprenda la tasa libre de litos sin complicaciones mayores y una escala de riesgo para predecir este desenlace.
+Se incluyeron 568 procedimientos, 59 % en el sexo femenino. La mediana de edad fue de 49 años; 65, 22 y 13 % de los casos tuvieron éxito, éxito intermedio y fracaso. El sexo femenino, urocultivo positivo, lito complejo e ICC severo se asociaron con fracaso.
+La probabilidad de éxito fue directamente proporcional al número de factores de riesgo.
+Cohorte histórica de pacientes sometidos a NLP. Las variables incluidas fueron edad, sexo, urocultivo, índice de comorbilidad de Charlson (ICC) y lito complejo. Se definió éxito: sin litos, sin o con complicación Clavien ≤ 2; éxito intermedio: con litos sin o con complicación Clavien ≤ 2; fracaso: con o sin litos con complicación Clavien > 2. Se realizó análisis bivariado para identificar los factores asociados con el desenlace. Por regresión logística múltiple se calculó el peso independiente de cada factor.
+

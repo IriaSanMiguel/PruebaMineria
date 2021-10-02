@@ -1,0 +1,6 @@
+Las infecciones fúngicas invasivas son una importante causa de morbimortalidad en pediatría. La caspofungina es una equinocandina utilizada como alternativa en la prevención y/o tratamiento de ciertas infecciones fúngicas invasivas en niños, aunque con poca evidencia sobre su eficacia y seguridad en comparación con el tratamiento habitual.
+La estrategia de búsqueda inicial tuvo como objetivo identificar estudios controlados aleatorizados de aceptable calidad metodológica (escala de Jadad 〉 3) mediante la palabra clave "caspofungin" realizados en pacientes de entre los 0 y los 18 años.
+Evaluar la eficacia y seguridad de la caspofungina comparada con otros antifúngicos en la prevención y/o tratamiento de infecciones fúngicas invasivas en pediatría.
+Esta revisión sistemática sugiere que la caspofungina podría considerarse como una alternativa para su indicación en pediatría en la prevención y tratamiento de las infecciones fúngicas invasivas. Sin embargo, dado el pequeño número de publicaciones existentes, se requieren más estudios para alcanzar conclusiones definitivas.
+Solo 3 publicaciones cumplieron los criterios de inclusión. De ellas, 2 fueron en población pediátrica y una en neonatal. No se documentó una mayor incidencia de efectos adversos para la caspofungina y su eficacia no se diferenció de otros antifúngicos (RR típico 1,47; IC 95%: 0,78-2,79).
+

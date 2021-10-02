@@ -1,0 +1,5 @@
+Describir la prevalencia de obesidad en adultos mexicanos estratificando por condiciones físicas y sociode-mográficas, y analizar tendencias.
+La prevalencia de sobrepeso fue 39.1%, obesidad 36.1% y adiposidad abdominal 81.6%. Se presentaron las prevalencias más altas en >40-50 años y en las mujeres. No hubo diferencia por nivel socioeconómico. En el periodo 2000-2018 aumentó la prevalencia de obesidad 42.2% y de obesidad mórbida 96.5%. Las mujeres con talla baja tuvieron mayor riesgo (RM=1.84) de tener obesidad que las mujeres sin esta condición, mientras que en hombres el riesgo fue menor (RM=0.79).
+En México, la prevalencia de obesidad sigue aumentando sin importar nivel socioeconómico, región o localidad.
+Análisis de 16 256 adultos de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2018-19. Se clasificó obesidad (OMS), adi-posidad abdominal (IDF) y talla baja (NOM-008-SSA3-2017). Se realizaron modelos de regresión logística para asociar obesidad y factores de riesgo. Para evaluar tendencias se analizaron Encuesta Nacional de Salud 2000 y Ensanut (2006, 2012, 2018-19).
+

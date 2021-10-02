@@ -1,0 +1,7 @@
+Evaluar la asociación de edad, sexo, obesidad, desarrollo puberal, nivel de escolarización, trabajo y constitución familiar con la consulta por dolor en adolescentes.
+Estudio de casos y controles realizado entre el 1/2/14 y el 30/6/15.
+Edad mayor, sexo femenino y abandono escolar fueron factores de riesgo independientes en la consulta por dolor en adolescentes. La pubertad y el trabajo se asociaron, pero no fueron factores de riesgo independientes.
+Se evaluaron 4224 historias clínicas; se incluyeron 237 casos y 468 controles. Los adolescentes con dolor tuvieron: mayor edad (p < 0,0001; OR 2,3; IC 95%: 1,6-3,2); mayor cantidad de mujeres (p < 0,0001; OR 2,24; IC 95%: 1,61-3,12); 3) mayor desarrollo puberal (p= 0,0035; OR 2,16; IC 95%: 1,3-3,6); mayor abandono escolar (p < 0,0001; OR 13,4; IC 95%: 3,9-42,9); y mayor actividad laboral (p= 0,0001; OR 3,04; IC 95%: 1,7-5,3). Solamente la edad, sexo femenino y abandono escolar se asociaron independientemente a la consulta por dolor. No hubo diferencias significativas con obesidad y constitución familiar.
+edad 10 a 20 años, ambos sexos, consultaron por dolor (casos) o para control de salud y/o apto físico escolar (controles). Se utilizaron los test de chi<sup>2</sup> y de Student. Se calcularon Odds Ratios (OR). Se construyó un modelo de regresión logística binaria para evaluar independientemente cada variable asociada con dolor.
+Los síndromes dolorosos más comunes (cefalea, dolor abdominal y dolor musculoesquelético) aparecen o empeoran durante la adolescencia, y son frecuente motivo de consulta.
+

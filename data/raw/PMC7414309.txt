@@ -1,0 +1,137 @@
+LUCHANDO CONTRA LA COVID-19: LABOR ASISTENCIAL DE LOS MÉDICOS REHABILITADORES ESPAÑOLES. ESTUDIO TRANSVERSAL
+
+
+- INTRODUCCIÓN
+
+En diciembre de 2019 en Wuhan (China) aparecieron los primeros casos de un síndrome agudo respiratorio causado por un nuevo virus que posteriormente se ha denominado SARS-CoV-2. Este virus pertenece a la familia de los Coronaviridae, al igual que el SARS-CoV que causó la epidemia del síndrome respiratorio agudo severo en 2002 y que el MERS-CoV que produjo la epidemia del síndrome respiratorio de Oriente Medio en 2012.
+Este nuevo virus se ha ido extendiendo rápidamente por todo el mundo, siendo España uno de los países europeos más afectados. Desde la gripe española acaecida en 1918 no ha habido ninguna otra pandemia como la que estamos viviendo actualmente.
+La OMS propuso el nombre COVID-19 a la enfermedad (acrónimo COrona VIrus Disease-2019) siguiendo una guía de buenas prácticas para evitar denominaciones que se asocian a lugares, animales o profesiones. Fue declarada como pandemia por la OMS el pasado 11 de marzo.
+La pandemia COVID-19 ha puesto contra las cuerdas a nuestro actual sistema sanitario, afectando fundamentalmente a la Atención Primaria, Urgencias Hospitalarias, Servicios de Medicina Interna y Geriatría y las Unidades de Cuidados Intensivos, pero prácticamente todos los servicios médicos y quirúrgicos se han visto afectados de algún modo y muchos de ellos se han puesto a disposición de los Servicios de Medicina Interna y Urgencias.
+Desde que esta crisis sanitaria comenzara en España, los servicios de Medicina Física y Rehabilitación (MFyR) se han ido adaptando a las necesidades de los hospitales tanto de personal como de infraestructura. La organización de los Servicios no ha sido fácil por muchas razones, pero fundamentalmente por el desconocimiento sobre el virus, su velocidad de propagación y por la heterogeneidad de afectación en el territorio español.
+Esto ha ido provocando, al igual que sucedió con anterioridad en Italia, que los Servicios hayan ido variando su labor asistencial desde que empezaran los primeros casos. En las primeras semanas muchos servicios anularon las consultas, valorando de manera presencial únicamente pacientes con criterios de urgencia, realizando consultas telefónicas y cerrando salas de tratamiento; posteriormente muchos rehabilitadores pasaron a formar parte de equipos médicos de valoración de pacientes COVID tanto en planta como en urgencia y en las últimas semanas se empieza a recuperar la actividad rehabilitadora con la valoración de las patologías derivadas del propio virus, fundamentalmente de pacientes de unidades de críticos, sin haberse recuperado la total normalidad en el funcionamiento de los Servicios hasta el momento.
+El objetivo del presente trabajo es analizar el impacto y la organización tanto asistencial como docente en los Servicios de Medicina Física y Rehabilitación del territorio español durante la crisis sanitaria de la COVID-19.
+
+
+- MATERIAL Y MÉTODO
+
+Se realizó un estudio descriptivo transversal sobre la actividad de los médicos rehabilitadores españoles en la crisis sanitaria de la COVID-19.
+El estudio se realizó a través de una encuesta realizada durante la semana del 14 al 22 de abril de 2020, que recogía información sobre la actuación de los Servicios de Medicina Física y Rehabilitación de España con acreditación para la formación MIR.
+La encuesta realizada se dirigió al colectivo de tutores debido a su conocimiento sobre el funcionamiento tanto de facultativos como de residentes en los servicios de Rehabilitación y a su nivel alto de colaboración habitual en los grupos de trabajo.
+El cuestionario se realizó utilizando el servicio de alojamiento de ficheros Google Drive y se difundió vía telemática (aplicación de mensajería Whatsapp).
+Un total de 31 preguntas se dividieron en seis apartados:-Información general del Servicio de Rehabilitación: nombre del centro hospitalario y ciudad; número total de facultativos especialistas; número de médicos internos residentes por año; edad media de los facultativos del servicio (según rangos de edad 30-40, 40-55, >55 años).-Adaptación del Servicio de Rehabilitación durante el periodo COVID: situación de consultas presenciales, de tratamientos ambulatorios y hospitalarios en pacientes no COVID, utilización de las salas de tratamiento de rehabilitación durante la crisis COVID-19.-Labor de médicos rehabilitadores durante el periodo COVID: labor asistencial diaria de facultativos y residentes, incluidas guardias por parte de los facultativos.-Abordaje desde el punto de vista rehabilitador de pacientes COVID: valoración y/o tratamiento de pacientes COVID ingresados en Unidades de Cuidados Intensivos (UCI) o planta, peticiones de valoración más frecuentes, elaboración de protocolos, videos y folletos, fuentes científicas de información sobre COVID.-Consecuencia de la pandemia sobre la salud de los médicos rehabilitadores: número de incapacidades temporales por alguna condición médica previa con el objetivo de prevenir contagio de COVID, número de ingresos y aislamientos debido a la COVID-19 y síntomas de ansiedad durante este periodo.-Labores de tutoría durante ese periodo, así como rotaciones de residentes canceladas.
+Al ser un cuestionario no presencial, puede dar lugar a sesgos en cuanto a la recogida de datos (dudas al contestar preguntas o falta de interés por parte de los encuestados para cumplimentar todo el cuestionario). Otro sesgo puede ser la vía de difusión elegida, a priori una vía rápida, pero puede que no sea la más efectiva para asegurar su recepción en todos los hospitales con docencia.
+El análisis estadístico se realizó mediante el programa informático IBM SPSS Statics v.22.0. Se realizó un análisis descriptivo mediante técnicas estadísticas básicas estimando las medias como medida de tendencia central y las desviaciones estándar como medidas de dispersión en las variables cuantitativas. Para las variables cualitativas se obtuvieron las frecuencias absolutas y las proporciones para las distintas categorías. Un valor de p< 0,05 fue asumido para significación estadística. Para los contrastes de hipótesis entre variables cualitativas se usó la prueba de chi cuadrado.
+
+
+- RESULTADOS
+
+De un total de 64 hospitales con acreditación para la formación MIR se respondieron 54 encuestas pertenecientes a todas las Comunidades Autónomas (tabla 1 ).
+
+
+-- INFORMACIÓN GENERAL DE LOS SERVICIOS DE REHABILITACIÓN PARTICIPANTES
+
+Del total de las encuestas 11 (20,3%) procedían de la Comunidad de Madrid, 7(12,9%) de Andalucía, 7 (12,9%) de la Comunidad Valenciana, 5 (9,2%) de Castilla La Mancha, 4 (7,4%) de Cataluña, 4 (7,4%) de Castilla y León y el resto de Comunidades representan entre el 1,8 y 5,5%.
+La media de número de facultativos de todos los servicios encuestados fue de 11,9 (rango 5-23), con una edad predominante entre los 40-55 años (90,7%). La media de residentes por año fue de 1,71 (rango 1-4).
+
+
+-- ADAPTACIÓN DE LOS SERVICIOS DE REHABILITACIÓN A LA CRISIS
+
+De los servicios encuestados 21 (38,9%) cancelaron todas las consultas presenciales programadas y el resto solo valoraron los pacientes con patologías urgentes.
+Respecto a los tratamientos 36 servicios (66,7%) cancelaron todos los tratamientos ambulatorios y el resto solo trataban los pacientes urgentes. En cuanto a los pacientes ingresados, 28 servicios (51,9%) continuaron con la totalidad de los tratamientos, 23 servicios (42,6%) solo en algunos casos, y el pequeño porcentaje que restaba cancelaron todos los tratamientos.
+Hay que tener en cuenta que en 26 hospitales (48,1%) las salas de tratamiento de rehabilitación se utilizaron para ampliar el número de camas debido a la sobrecarga asistencial del hospital.
+
+
+-- LABOR ASISTENCIAL DE LOS MÉDICOS REHABILITADORES
+
+Comenzando con los residentes, en 30 de los hospitales encuestados (55,6%) los residentes permanecieron en Rehabilitación, en 9 de ellos en exclusiva, y en el resto adquiriendo otras responsabilidades fuera de los Servicios de Rehabilitación.
+La pregunta sobre dichas funciones era multirrespuesta pudiendo señalar una o varias opciones. Las respuestas más frecuentes fueron apoyo en plantas COVID (57,4%), seguido de asistencia telefónica familiares-pacientes (18,5%), apoyo a Salud laboral o Preventiva (16,7%), residencia de ancianos (7,4%), apoyo a otros servicios (26%) y en otras funciones en pequeño porcentaje (fig. 1 ).Figura 1
+En cuanto al trabajo de los facultativos en este periodo, en 49 hospitales (90,7%) continuaron trabajando en el servicio de Rehabilitación, 16 (29,6%) en exclusiva y el resto además en otras áreas. Cada encuestado podía señalar una o más labores (multirrespuesta) que se hayan realizado en su servicio, como apoyo en plantas COVID (55,6%), asistencia telefónica a familiares –pacientes (20,4%), Salud laboral y preventiva (16,7%), apoyo en Residencias de ancianos (3,7%), apoyo a otros Servicios (20%) y otras funciones (9,3%)–. Casi la totalidad (91,2%) de los que han trabajado en plantas COVID ha sido formando parte un equipo médico.
+De los servicios encuestados en 11 de ellos (20,4%) han realizado guardias durante este periodo, a pesar que previamente no se hacía y en 10 de ellos (18,5%) ya se hacían previamente.
+Analizando las Comunidades Autónomas más golpeadas por la pandemia, en Madrid 10 de los 11 hospitales que completaron la encuesta hicieron apoyo a plantas COVID y en Castilla La Mancha 5 de 5.
+Igualmente, los Servicios de Rehabilitación han colaborado en la elaboración de material tanto visual como gráfico para minimizar las complicaciones de los pacientes COVID.
+Se han editado folletos en un 83,3% de los Servicios y videos en un 63,3% tanto de ejercicios respiratorios como de movilidad activa global para pacientes estables clínicamente y folletos de cuidados posturales para los más críticos (43,4%) (fig. 2 ).Figura 2
+De todos los hospitales que editaron videos, en 16 (47,05%) de ellos se ofertaba desde las televisiones del hospital, en 9 (26,4%) desde las redes sociales (Facebook, YouTube, Whatsapp, etc.) y en otros 9 en ambas opciones.
+Los rehabilitadores se han estado actualizando científicamente sobre la COVID-19 principalmente (esta pregunta era multirrespuesta), a través de foros profesionales de rehabilitadores en un 79,6% de los casos, a través de Pubmed en un 74,1% y a través de Uptodate en un 51,9%.
+
+
+-- REHABILITACIÓN EN LOS PACIENTES COVID
+
+La mayoría de los Servicios de Rehabilitación han realizado protocolos de valoración y tratamiento rehabilitador de pacientes en planta y en UCI (78,8 y 89,9% respectivamente) .
+Se observa que la petición más frecuente al Servicio de Rehabilitación es sobre patología secundaria a ingresos prolongados para valorar tratamiento rehabilitador motor (29,6%), respiratorio (3,7%), y principalmente ambas (66,7%) (fig. 3 ).Figura 3
+En el momento de la realización de la encuesta (tercera semana de abril) casi la totalidad de los hospitales (90,9%) estaban valorando pacientes COVID ingresados en la UCI, la mayoría (87,3%) en plantas de hospitalización, y el resto o no se valoraban o aún no habían sido requeridos para dicha valoración.
+
+
+-- CONSECUENCIAS EN LA SALUD DE LOS MÉDICOS REHABILITADORES DE LA PANDEMIA
+
+En 20 de los Servicios de Rehabilitación (37%) algún médico ha precisado de manera preventiva incapacidad laboral temporal debido a alguna condición médica que le hacía ser más vulnerable a la infección COVID-19.
+En 26 y 33 (48,1% y 61,1%) de los Servicios encuestados han tenido algún residente y facultativo respectivamente aislado o ingresado debido a la COVID siendo la media de los servicios afectados de 1,69 y 2,27 en cada grupo.
+En casi la mitad de los Servicios de Rehabilitación (44,6%) algún facultativo y/o residente ha presentado algún síntoma de ansiedad durante este tiempo y en el 31,1% el tutor desconocía este dato (fig. 4 ).Figura 4
+No se ha podido demostrar relación estadísticamente significativa (p > 0,4) entre ansiedad con diferentes variables (Comunidad Autónoma, apoyo a plantas COVID, valoración de rehabilitación en UCI o planta).
+
+
+-- LABORES DE TUTORÍA DURANTE EL PERIODO COVID
+
+En el 40,7% de los hospitales no se realizó ninguna función de tutoría, en el 35,2% se realizaron pocas, y en el resto hubo un funcionamiento normal.
+El 92,6% de las encuestas muestran que los residentes tuvieron que cancelar alguna rotación obligatoria y el 64,85% alguna optativa.
+
+
+- DISCUSIÓN
+
+En líneas generales y desde que se declarara el primer foco de contagio en China los profesionales que se enfrentan a la COVID-19 han ido describiendo los diferentes cuadros clínicos, evolución, pronóstico y tratamientos, intentando desarrollar guías clínicas, recomendaciones o descripciones de casos, tan rápido como la pandemia lo ha exigido, sabiendo que la experiencia de los primeros países afectados es muy útil, pero en ocasiones puede parecer insuficiente.
+En el campo de la Rehabilitación el sentimiento ha sido el mismo, los médicos rehabilitadores hemos ido adaptando nuestro trabajo a diario según las necesidades que exigía la rápida propagación del virus al igual que ocurrió previamente en Italia. Los cambios comenzaron desde las etapas iniciales afectando al trabajo habitual, dando apoyo a los servicios médicos más sobrecargados «reconvirtiéndonos» en profesionales COVID. Al mismo tiempo con el abordaje rehabilitador de los pacientes COVID hemos seguido posicionando a nuestra especialidad como la especialidad médica clave para minimizar las limitaciones físicas y posibles secuelas en pacientes críticos.
+
+
+-- ADAPTACIÓN DE LOS SERVICIOS DE REHABILITACIÓN A LA CRISIS
+
+La norma en los servicios de Rehabilitación ha sido la anulación o disminución de la actividad asistencial programada, manteniendo en algunos casos la valoración presencial de pacientes con patologías urgentes y realizando consultas telefónicas cuando ha sido posible, según la gravedad de la pandemia en cada comunidad. Las primeras informaciones sobre la organización de los servicios afectados más precozmente sentaron las bases de la organización del resto.
+En este sentido y con fecha 16 de marzo, la Sociedad Española de Medicina Física y Rehabilitación (SERMEF) publicaba las recomendaciones de actuación en los servicios de Rehabilitación, como ya hicieran otras Sociedades Científicas españolas y la propia Sociedad Italiana de Medicina Física y Rehabilitación (SIMFER).
+La SIMFER publicó un primer manuscrito en la misma fecha con respecto al primer impacto de la COVID-19 en los Servicios de Rehabilitación italianos, analizando los dos factores iniciales fundamentales. Podemos decir que han sido exactamente los mismos en los hospitales españoles, por una parte, la necesidad de suspender consultas y tratamientos en pacientes ambulatorios debido al confinamiento y por otra la necesidad de utilizar las salas de tratamiento de rehabilitación para camas de ingresos COVID. Según nuestro estudio, casi la mitad de las salas de tratamiento de rehabilitación de los hospitales españoles encuestados se utilizaron para desplegar camas de ingreso de pacientes siendo otro motivo más de la anulación de los tratamientos. Esta también ha sido la norma en los Servicios de Rehabilitación de la ciudad de Nueva York.
+
+
+-- LABOR ASISTENCIAL DE LOS MÉDICOS REHABILITADORES DURANTE LA CRISIS
+
+En muchos hospitales no hay camas de hospitalización a cargo de rehabilitación, lo que conlleva a una «pérdida de manejo en los pacientes hospitalizados», pero dada la formación como especialidad médica una gran parte de los servicios de Rehabilitación del territorio español han pasado a formar parte de los equipos médicos que han tratado pacientes COVID, con dedicación parcial o total. La situación ha provocado la «necesidad de reconvertirse de profesionales de la salud a expertos COVID-19». Además, nuestra especialidad se caracteriza por la detección precoz de la discapacidad y de las posibles secuelas que puedan acontecer a los pacientes, con amplia experiencia en explicar y detallar situaciones complicadas tanto a pacientes como familiares, esto aporta una cualidad adicional en la información telefónica. No tenemos datos diferenciados y exactos de otros países para comparar con respecto a la dedicación exacta de los médicos rehabilitadores durante la crisis.
+Durante las primeras semanas de la pandemia la gran mayoría de los hospitales se volcaron en aportar material gráfico (folletos y videos de ejercicios y folletos de cuidados posturales) para los pacientes ingresados y/o aislados en sus domicilios. El uso de las redes sociales ha permitido que los Servicios de Rehabilitación puedan llegar a todos los pacientes que tienen acceso a estas tecnologías permitiéndoles realizarlos a nivel domiciliario.
+Igualmente interesante aunque no sorprendente en la era de la comunicación y la tecnología, es que gran parte de la información entre los rehabilitadores se ha difundido a través de foros de profesionales, fundamentalmente vía Whatsapp, lo que ha permitido una rápida propagación de la información médica y del estado epidemiológico de los distintos territorios, pudiendo haber ayudado este aspecto a mejorar la planificación en los Servicios de comunidades en los que la pandemia golpeó más tarde.
+
+
+-- REHABILITACIÓN EN LOS PACIENTES COVID
+
+Los datos objetivados en nuestro estudio muestran que la mayoría de los hospitales han pasado por diferentes fases de actividad asistencial y en el momento del desarrollo de este manuscrito se estaba trabajando en los propios servicios para valoración de pacientes en UCI y post-UCI.
+Ya ha sido descrito en diferentes publicaciones que cuanto más prolongado sea el ingreso en UCI, mayor riesgo de desarrollar complicaciones físicas, cognitivas y emocionales, .
+En cuanto al perfil de las peticiones de valoración al Servicio de Rehabilitación, parece que el Síndrome de Debilidad Adquirida en UCI y el encamamiento prolongado, así como el desacondicionamiento cardiovascular son las entidades más frecuentes a valorar, dato que también concuerda con otras publicaciones.
+Staam et al. en su artículo de abril del 2020 ya advierten de la necesidad de trabajar de manera coordinada para adelantarnos al gran número de pacientes post-UCI que la pandemia COVID va a generar, emplazando a los médicos rehabilitadores dentro de equipos multidisciplinares a diseñar métodos de cribado que detecten pacientes con riesgo de desarrollar el ya descrito Síndrome de Cuidados Post-UCI (PICS). Esta circunstancia también la reflejan en su reciente publicación el Comité ejecutivo de la SERMEF, dentro de los principales problemas a los que se van a enfrentar los rehabilitadores. Por este motivo nuestra especialidad juega un papel principal en la prevención de las potenciales discapacidades secundarias que van a acontecer, y es prioritario anticiparse y diseñar estrategias adecuadas. Es posible que en un futuro estemos hablando de un «síndrome específico pos-COVID-19».
+El alto porcentaje de Servicios de Rehabilitación españoles (casi el 90%) que han elaborado protocolos de derivación consensuados para apoyar en el manejo de estos pacientes deja ver la alta implicación de nuestra especialidad durante la pandemia. Todo ello ha sido posible gracias a la propia experiencia clínica en abordar pacientes críticos junto con la evidencia científica existente sobre la COVID-19, , .
+La alta demanda de valoración rehabilitadora en pacientes COVID y la anulación necesaria de consultas y tratamientos ambulatorios durante el periodo de confinamiento hace predecir un futuro incierto en cuanto a la alta carga asistencial a la que vamos a vernos sometidos en un breve periodo de tiempo. Recuperar el funcionamiento normal de los Servicios a corto y medio plazo va a ser complicado, sobre todo en aquellos que previamente ya estaban sobrecargados, sumado a las adaptaciones de la «desescalada» para evitar aglomeraciones de pacientes en salas de espera y de tratamiento. Algunos autores proponen planificar de otro modo la atención a nuestros pacientes, insistiendo en potenciar más aún la prevención primaria de la población con ejercicio físico y hábitos de vida saludable, trabajar más coordinadamente con Atención Primaria y otras especialidades, creando grupos de trabajo no solo hospitalarios y/o con Primaria sino a nivel de Sociedades Científicas. El uso de la telemedicina, con consultas a distancia y ejercicios vía redes sociales como hemos estado haciendo durante el confinamiento puede sentar la base de una nueva valoración no presencial de pacientes «no urgentes» o con patologías crónicas que suelen ser derivados a los Servicios de Rehabilitación, . La implementación de consultas que no precisen presencia física del paciente mediante tecnologías de la información y la comunicación se presenta ahora más que nunca como modelo de atención a la discapacidad.
+
+
+-- CONSECUENCIAS EN LA SALUD DE LOS MÉDICOS REHABILITADORES DE LA PANDEMIA
+
+Los datos que publica el Ministerio sobre sanitarios infectados son a nivel global en todos los colectivos con lo cual no podemos extrapolar nuestros datos, pero prácticamente la mitad de los Servicios de Rehabilitación encuestados han tenido algún médico contagiado. Sin embargo, no se puede predecir cuántos nuevos casos habrá en las próximas semanas o meses, y cuántos casos asintomáticos no estudiados ha habido.
+Autores italianos documentan sin aportar porcentajes exactos el creciente estrés emocional de los miembros de los equipos de rehabilitación debido a la velocidad de los cambios y la incertidumbre del proceso. Esto coincide con nuestro estudio, ya que independientemente de la labor asistencial realizada, en casi la mitad de los servicios encuestados se ha detectado casos de ansiedad sin haberse contabilizado los no conocidos por el/los tutores. En un estudio publicado en marzo en 1257 profesionales de la salud de China el 44,6% de los profesionales encuestados habían presentado síntomas de ansiedad, esos datos no son del todo comparables a los nuestros porque incluía al colectivo de la enfermería, fuertemente castigado por trabajar en primera línea, .
+
+
+-- TRABAJO DE DOCENCIA
+
+Desde que se iniciara la crisis epidemiológica de la COVID-19 en España a principios de marzo 2020, los residentes de todas las especialidades incluyendo los de Rehabilitación se vieron obligados a abandonar sus rotaciones externas durante la segunda y tercera semanas de marzo y volver a sus hospitales formando parte de un pool único de docencia para cubrir las necesidades de cada hospital.
+La formación de muchos residentes se ha visto por tanto afectada por la cancelación de rotaciones tanto obligatorias como optativas que en muchos de los casos será difícil recuperar por la sobredemanda de determinadas rotaciones o encajarlas con las ya programadas. Sin embargo y con relación a la formación y a la pandemia, esta situación excepcional ha hecho que los residentes hayan tenido la oportunidad de adquirir conocimientos, habilidades, responsabilidades y capacidad de trabajar en equipo, algo que siempre se les exige y con seguridad en esta crisis lo han conseguido.
+En este escenario de cambio constante durante la pandemia, la gestión con los residentes también ha ido pasando por varias fases, desde la prórroga de la residencia hasta, según el BOE del 16 de abril, la orden de finalizar la misma en el tiempo establecido inicialmente y la necesidad de realizar las evaluaciones durante los meses restantes de abril y mayo. Sin olvidarnos de los futuros residentes, aún a la espera de la elección de su plaza, lo que va a implicar un decalaje en el tiempo entre la finalización de los residentes de último año y comienzo de los de primer año. Por todos los cambios comentados y ocurridos en los Servicios de Rehabilitación durante esta crisis la mayoría de los tutores no han podido respetar las h obligatorias de dedicación a labores de tutoría.
+
+
+-- LIMITACIONES DEL ESTUDIO
+
+Varios aspectos pueden suponer limitaciones del estudio. En primer lugar y aunque el número de encuestas analizadas es amplio (54 encuestas de 64 hospitales con acreditación), la representatividad de la muestra puede verse afectada por el perfil del encuestado. Los respondedores a los cuestionarios suelen ser personas activas y motivadas, lo que puede hacer que el resultado no sea representativo del global; si bien el colectivo elegido para realizar la encuesta fue precisamente un colectivo muy implicado como son los tutores de los residentes.
+Otro aspecto podría ser el tipo de preguntas realizadas, pero han tenido un carácter objetivo con respuestas cerradas lo que hace al cuestionario menos proclive a los sesgos.
+En cuanto a la vía de difusión se eligió un medio fácil, disponible y rápido lo que facilita el reclutamiento de encuestados, pero puede dejar a hospitales sin acceso a dicha encuesta pudiendo ser la causa de que haya hospitales con docencia no respondedores.
+
+
+- CONCLUSIÓN
+
+La organización de los Servicios de Rehabilitación para hacer frente a la pandemia provocada por la COVID-19 ha sido similar en todo el territorio español.
+Durante el inicio del confinamiento se han cancelado prácticamente la totalidad de consultas y tratamiento presenciales, así como las rotaciones de residentes. En el pico de la pandemia los médicos rehabilitadores han formado parte de los equipos COVID, han editado material gráfico y audiovisual con ejercicios para pacientes ingresados y/o aislados y elaborados protocolos de derivación y tratamiento rehabilitador. Actualmente se está realizando valoración y tratamiento de pacientes COVID ingresados en UCI y planta. Las labores de tutoría disminuyeron o desparecieron en un amplio porcentaje.
+La respuesta de los Servicios de Rehabilitación a la pandemia ha visualizado la versatilidad de trabajo de los rehabilitadores.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,123 @@
+COMPETENCIA EN COMUNICACIÓN EN EL CURRÍCULO DEL ESTUDIANTE DE MEDICINA DE ESPAÑA (1990-2014): DE LA ATENCIÓN PRIMARIA AL PLAN BOLONIA. UN ESTUDIO DESCRIPTIVO
+
+
+- INTRODUCCIÓN
+
+La comunicación eficaz médico-paciente constituye la piedra angular sobre la que descansa el peso de la relación entre ambos, considerándose «una de las actividades más comunes e importantes en la práctica clínica». No obstante, el estudio de dicho proceso ha sufrido diferentes avatares desde los años setenta hasta la actualidad. En la concepción clásica, las competencias clínicas básicas del médico no incluían las habilidades de comunicación (HC), siendo «la comunicación una habilidad innata del profesional, que no se podía aprender y […] no requería enseñanza». En aquel momento, destinar los esfuerzos a su docencia se entendía como algo fútil, contrastando con las recomendaciones ulteriores: «las habilidades de comunicación pueden y deben ser enseñadas», .
+Paralelamente a la integración de esta competencia en las universidades anglosajonas (pioneras en esta disciplina), en España el proceso de implantación no brotaba del ámbito universitario, quedando relegado al posgrado y especialmente vinculado al colectivo de Atención Primaria. Asimismo, mientras que en la década de los noventa la carga en créditos en nuestro currículo era de 0,0, diferentes estudios, avalan que dichos contenidos ya se encontraban integrados en las Facultades de Medicina (FM) anglosajonas.
+Conscientes de tales particularidades, en 2005, la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) contempló las HC como «una de las 7 competencias específicas en la educación médica». También se incorporó transversalmente en cada uno de los bloques de conocimientos. Simultáneamente, la Sociedad Española de Educación Médica instó a las FM a considerar las HC en el proceso de definición de las competencias propias, equiparándose a las recomendaciones internacionales, . Por este motivo, cabría esperar un intenso desarrollo de tal enseñanza en nuestra estructura curricular.
+En 2006 se afirmó que esta docencia no había sido aún implantada «como un área integral del currículo a través de las universidades […]. Son pocas las facultades de medicina de nuestro ámbito [España] que contemplen […] este tipo de educación». Análogamente, en otros países hispanohablantes se ha descrito un verdadero interés (aunque con poco éxito) en trasladar dicha enseñanza al pregrado. Posteriormente, se ha publicado que «la comunicación […] no ha sido reconocida en los planes de estudio […] hasta muy recientemente con el desarrollo del Plan Bolonia».
+La representación de las HC en los planes de estudio (PE) del Pregrado en Medicina no ha sido estudiada sistemáticamente, especialmente en nuestro entorno. Esta circunstancia, en combinación con los recientes cambios promovidos en el currículo europeo con la implantación del Plan Bolonia, invita a conocer cómo ha evolucionado cuantitativa y cualitativamente esta enseñanza en nuestras universidades.
+Así, los objetivos que pretendemos alcanzar con este trabajo son: describir el panorama actual de la docencia en HC y valorar en qué medida se están integrando las recomendaciones nacionales e internacionales al respecto.
+
+
+- MATERIAL Y MÉTODOS
+
+Estudio descriptivo a nivel nacional, comparativo, transversal, desarrollado en el ámbito docente-universitario en 2 fases: una cuantitativa-cualitativa (presentada en este artículo), y otra ulterior, puramente cualitativa.
+
+
+-- PARTICIPANTES
+
+La población del estudio estuvo constituida por todas las FM españolas que cumplieran los siguientes criterios de inclusión:1.Impartir durante el curso 2013-2014 el Título de Grado en Medicina homologado por la ANECA.2.Ofrecer la información pertinente a través de las páginas web de cada universidad, vía telefónica o por e-mail.
+Los criterios de exclusión fueron:1.FM que, aun disponiendo de la homologación por parte de la ANECA, no ofrecieran dicho título durante el curso 2013-2014 (por ejemplo: Universitat de les Illes Balears).2.FM en proceso de construcción y/o acreditación por parte de la ANECA (por ejemplo: universidades de Almería, Huelva, Jaén, Mare Nostrum University y Católica San Antonio de Alicante).
+Estrictamente, no se excluyó ninguna FM puesto que las citadas universidades tampoco se contemplaron en los listados oficiales de FM españolas, .
+No se requirió calcular el tamaño muestral, ya que no se investigó una muestra representativa, sino toda la población de FM. Tampoco fue necesario realizar estudios de estadística inferencial con la aplicación de test de hipótesis para extender la información muestral a la supuesta población total con un nivel de confianza de 1 − α.
+
+
+-- RECOGIDA DE LOS DATOS
+
+Los datos se obtuvieron entre agosto de 2013 y mayo de 2014. Se realizaron sendas revisiones para detectar posibles modificaciones en relación con el número de FM y con las características de los PE. Cada autor recogió la información independientemente, contrastándose posteriormente entre el resto de firmantes.
+Se consideraron las siguientes variables:1.«Existencia de asignaturas sobre HC». Para incluir una materia en la categoría «Existencia de asignaturas sobre HC» se fijó un límite de créditos mínimos, sobre comunicación médico-paciente, mayor o igual al 18% del total de créditos de la asignatura en cuestión.2.Tipo de docencia: «exclusiva» o «combinada».3.Formato de asignatura: «troncal», «obligatoria» u «optativa».4.Número de créditos reservados a modo de asignatura, excluyéndose los correspondientes a la competencia transversal.5.Duración de la materia: «trimestral», «cuatrimestral» o «anual».6.Curso: primero-tercero (primer ciclo) y cuarto-sexto (segundo ciclo).
+En primer lugar, realizamos un exhaustivo estudio del Libro Blanco: Título de Grado en Medicina de la ANECA, prestando especial atención al contenido sobre las HC. Tras analizar sus recomendaciones, consultamos 2 bases de datos oficiales, donde figurasen todas las universidades españolas que impartiesen dicho título bajo los criterios descritos. Todas las FM fueron categorizadas en 2 grupos: titularidad «privada» o «pública».
+Seguidamente, consultamos las páginas web de cada universidad, revisando detalladamente el PE y los programas docentes de todas las asignaturas. En este proceso se clasificó cada FM en 2 categorías: «existencia» o «ausencia de asignaturas sobre HC». Dentro de las FM que sí albergaron en su estructura curricular esta enseñanza, establecimos 2 nuevos grupos de materias: «formación exclusiva» (por ejemplo: «Comunicación asistencial») o «formación combinada» (por ejemplo: «Ética, legislación y comunicación asistencial»). Finalmente, comprobamos que el PE reflejado en cada website coincidiese con el publicado en el Boletín Oficial del Estado.
+En una segunda fase obtendremos nuevos datos a través de un cuestionario autocumplimentado creado con la herramienta Google Docs y que será remitido, a partir de junio de 2015, a los profesores responsables de esta competencia y a los decanos de todas las FM españolas.
+
+
+-- ANÁLISIS DE LOS DATOS
+
+Fue desarrollado por una estadística y revisado por un Doctor en Matemáticas. El resumen de los datos se generó usando Microsoft® Excel® 2010, empleando el paquete estadístico SPSS® versión 19.0 (Windows®) para el análisis estadístico.
+En primer lugar, se realizó un profundo estudio estadístico descriptivo en el que se analizaron los siguientes parámetros: media, mediana, moda, cuartiles, desviación estándar y coeficiente de asimetría de Fisher. Posteriormente se calculó un parámetro determinante para el estudio comparativo de los datos obtenidos: el coeficiente de Cohen (d), resultando de especial interés al determinar el tamaño o magnitud del efecto de las diferencias tipificadas. Cabe señalar que estas fueron, en cualquier caso, significativas al disponer de toda la población de estudio.
+El coeficiente de Cohen, parámetro más empleado en los estudios sobre Ciencias de la Educación para calcular el tamaño del efecto, se aplicó con el objeto de analizar la magnitud de las diferencias entre:1.Carga en créditos de 1990 y media nacional actual.2.Media de créditos (MdC) nacional y el valor recomendado por la ANECA.3.MdC de cada comunidad con respecto a: MdC nacional, MdC de Andalucía y valor de 5,0 créditos recomendados por la ANECA.4.MdC entre las FM privadas y públicas.5.MdC de las universidades privadas y el valor de 5,0 créditos recomendados por la ANECA.6.MdC de las universidades públicas y el valor de 5,0 créditos recomendados por la ANECA.7.Comparación del porcentaje de FM españolas que imparten esta competencia con las homólogas estadounidenses.
+
+
+- RESULTADOS
+
+Véanse las características pormenorizadas por comunidades autónomas (CC. AA.) en las Tabla 1, Tabla 2. No se produjo ninguna pérdida de la población de estudio.
+
+
+-- EXISTENCIA O AUSENCIA DE ASIGNATURAS SOBRE HABILIDADES DE COMUNICACIÓN
+
+Según los datos oficiales, , actualmente existen en España 42 FM, 10 privadas (23,81%) y 32 públicas (76,19%), agrupadas en 15 CC. AA., de las cuales 11 (73,33%) albergaron en sus PE al menos una asignatura sobre HC. Es decir, se concibió esta docencia en 30 FM (71,43%).
+Con respecto al tipo de institución, cabe señalar que 25 FM públicas (78,12%) incluyeron esta competencia a modo de asignatura frente a 5 universidades privadas (50%).
+
+
+-- TIPO DE DOCENCIA
+
+Realizando un análisis por FM, se observó, grosso modo, una distribución de tercios, ya que el 38,10% de las universidades presentaron una «docencia exclusiva», frente a un 33,33% con «enseñanza combinada». El tercio restante de FM (28,57%) no consideró esta competencia a modo de asignatura.
+Andalucía, la Comunidad Valenciana y Galicia fueron las CC. AA. que desarrollaron la «formación exclusiva» como única forma de transmitir dicha competencia. La Comunidad de Madrid y Cataluña contemplaron ambos formatos. El resto presentó una «docencia combinada» .
+
+
+-- FORMATO DE LA ASIGNATURA
+
+La asignatura con carácter «obligatorio» fue el formato más frecuente, representado en 15 FM (50,00%), especialmente en las universidades públicas (86,66%). Seis FM presentaron esta competencia como materia «optativa». La Universidad de Zaragoza-Campus de Zaragoza fue la única en albergar simultáneamente asignaturas con carácter «obligatorio» y «optativo». Las 8 universidades restantes incluyeron un modelo de materia «troncal».
+La Comunidad de Madrid y Cataluña fueron las únicas CC. AA. que concibieron los 3 formatos, aunque en ningún caso se ofreció simultáneamente en la misma FM.
+
+
+-- NÚMERO DE CRÉDITOS SOBRE HABILIDADES DE COMUNICACIÓN EN EL PLAN DE ESTUDIOS DE CADA FACULTAD DE MEDICINA
+
+La media de créditos nacional, por FM, fue de 2,77 (σ = 2,41), con un rango de 0 a 9. La Universidad Autónoma de Madrid y la Universitat de Barcelona presentaron la mayor carga lectiva, con 9 y 8 créditos, respectivamente.
+Atendiendo al valor de la desviación estándar, se observó una alta dispersión en el territorio nacional, quedando reflejada la heterogeneidad existente en la forma en la que cada FM concibió esta enseñanza. El coeficiente de asimetría de Fisher (γ = 0,59 > 0) indicó una distribución asimétricamente positiva . La elevada dispersión influyó en la media, por lo que se calculó la mediana: 3,0 créditos.Figura 1
+Cataluña fue la comunidad que más créditos destinó a esta enseñanza . No obstante, Andalucía presentó la media de créditos más elevada , siendo sus FM las únicas en ofrecer una carga lectiva promedio superior a los 5,0 créditos recomendados por la ANECA. Por ello, consideramos a Andalucía el parámetro gold standard, de utilidad para establecer comparaciones con el resto de CC. AA. .Figura 2
+Aplicando el coeficiente de Cohen se identificaron diferencias relevantes entre:Asimismo, se obtuvieron diferencias moderadas entre la MdC de las FM públicas (3,20) y el valor de 5,0 créditos recomendados por la ANECA (d3 = 0,77 ≈ 0,5).
+
+
+-- DURACIÓN DE LA MATERIA
+
+Nueve CC. AA. (81,81%) presentaron una duración «cuatrimestral», correspondiéndose con 27 FM (90,00%) de las 30 que contemplaron esta enseñanza. Las excepciones particulares fueron las universidades de Pompeu Fabra («trimestral»), Rovira i Virgili y Europea de Madrid (ambas con una duración «anual»), siendo Cataluña la única comunidad que albergó los 3 formatos de duración en sus PE.
+
+
+-- CURSO EN EL QUE SE IMPARTEN ESTOS CONTENIDOS
+
+Siete CC. AA. (63,63%) incluyeron esta asignatura únicamente en el primer ciclo (moda: segundo curso), con un total de 23 FM (76,67%). Aragón, Cataluña, la Comunidad de Madrid y la Comunidad Valenciana integraron esta enseñanza en sendos ciclos, si bien es cierto que en diferentes FM dentro de la misma comunidad y no simultáneamente. Ninguna universidad contempló de forma obligatoria esta competencia en el sexto curso .
+
+
+- DISCUSIÓN
+
+Antes de profundizar en la discusión conviene aclarar lo siguiente: aunque una FM no dedique una asignatura a esta enseñanza (cuantificada en el presente estudio con 0,0 créditos), no necesariamente implica que no se contemple en forma de competencia transversal. Esta circunstancia supuso una limitación a la hora de contabilizar los créditos en aquellas FM que no reconocían una asignatura específica sobre HC, sino que la incorporaban a distintas materias a lo largo del currículo (por ejemplo: «Atención Primaria», «Psicología médica» o «Semiología»). La Universidad de Las Palmas de Gran Canaria y la Universidad de Navarra son 2 claros ejemplos de ello.
+Otra posible limitación alude a la naturaleza eminentemente cuantitativa de nuestro trabajo. Sin embargo, en las habituales bases de datos consultadas no abundan estudios similares sobre este tema, especialmente con una muestra de FM hispanohablantes. Por ello, esta investigación parece ofrecer unos datos originales y complementarios sobre un ámbito poco explorado, pudiendo orientar en la elaboración de los programas docentes y en la definición de esta competencia en cada FM. Asimismo, también puede emplearse como fuente de consulta fiable y actualizada. En la segunda fase de este proyecto esperamos poder resolver tales limitaciones, además de profundizar en la metodología docente empleada en esta enseñanza.
+Desde los años ochenta hasta las más recientes publicaciones nacionales, , , e internacionales, , , , se ha demandado la inclusión de dicha competencia en el diseño curricular tanto del pregrado como de los siguientes niveles formativos: posgrado y formación médica continuada. En la misma línea, Epstein señala que «resulta más fácil cambiar la conducta de un estudiante que la de un médico», incidiendo en la conveniencia de dotar precozmente al estudiante con estos conocimientos.
+Según nuestros datos, la mayoría de las CC. AA. presentaron esta enseñanza en el primer ciclo, coincidiendo con la tendencia estadounidense (moda: primer curso) pero contrastando con la del Reino Unido (moda: quinto curso). ¿Qué consecuencias puede presentar esta circunstancia para nuestros estudiantes? Se ha informado de un descenso significativo de la empatía en los alumnos del Grado en Medicina a partir del tercer curso. Asimismo, parece existir una transición problemática de los conocimientos desde el pregrado a la práctica. Por ello, entendemos que sería conveniente afianzar esta competencia en el sexto curso, recordando al estudiante el enorme valor de adherir tal habilidad al proceso asistencial diario.
+Respetando la necesaria libertad de cátedra y las peculiaridades de cada universidad, sorprende que únicamente el 50,00% de las FM privadas haya incluido esta asignatura (frente al 75,12% de las públicas). En este sentido, parece que las universidades públicas están más concienciadas con dicho proceso de inclusión en el currículo del estudiante (diferencia prácticamente relevante: d3 = 0,77 ≈ 0,8) y, especialmente, las universidades andaluzas. Igualmente, llama la atención la variedad en cuanto a las características de estos contenidos en las FM de una misma comunidad, reflejado en el análisis estadístico con una elevada dispersión. CC. AA. como Canarias o Castilla y León contrastan con Andalucía , demostrando esta última unanimidad a la hora de definir tal competencia .
+Realizando una visión retrospectiva, parece lógico pensar que: a) desde 1990 se han producido importantes cambios en el desarrollo curricular de esta enseñanza (d1 = 1,43 >> 0,8), y b) las distancias tradicionales en este tema con los países anglosajones se han reducido. No obstante, sigue existiendo una diferencia relevante (d6 = 0,82 > 0,8) al comparar el porcentaje de FM españolas que presentó esta enseñanza (71,43%) con el homólogo en Estados Unidos (95,65%), si bien cabe recordar que los países anglosajones son pioneros en este proceso, mientras que en España dicho proceso de implantación en el pregrado comenzó a surgir a partir del año 2000. Quizás por ello la media de créditos (2,77) siga siendo inferior a la recomendada por la ANECA (d2 = 1,63 >> 0,8).
+Con respecto a las perspectivas de futuro, entendemos que la esfera institucional debe garantizar la inclusión de estos contenidos en todas las FM españolas, no únicamente a modo de competencia transversal, sino específicamente a lo largo de todo el currículo, y en ningún caso a modo de asignatura aislada con «docencia combinada». Proponemos destinar los esfuerzos a evaluar cómo se sigue integrando esta enseñanza en los PE y a establecer un seguimiento sobre la evolución en comparación con los países anglosajones.
+En conclusión, es sabido que las HC pueden y deben enseñarse, , sin embargo, para ello es necesaria la concienciación por parte de 3 elementos: las instituciones de educación médica, el profesorado y el estudiante. Este objetivo debe ser legitimado por todas las FM en aras de asegurar un adecuado encuentro clínico entre el futuro médico (los estudiantes del presente) y el paciente. Los estudiantes españoles deben tener la oportunidad de recibir esta enseñanza durante el pregrado. Afortunadamente el diseño curricular está evolucionando, encontrándose esta competencia implementada en los PE de la mayoría de las CC. AA. y FM. Sin embargo, teniendo en cuenta que las recomendaciones existentes tienen el matiz de ser, casi, de obligatorio cumplimiento, humildemente creemos que la enseñanza en HC debería estar más integrada en el currículo de nuestros estudiantes.
+
+
+- OTRA INFORMACIÓN
+
+Los resultados preliminares del presente proyecto de investigación se han presentado en las siguientes plataformas. Nótese que en algunos casos los resultados no coinciden con los presentados en este artículo al ser la fecha de divulgación de aquellos anterior a la finalización del análisis estadístico.
+1. Ponencia en jornada organizada por la Sociedad Valenciana de Medicina Familiar y Comunitaria (SVMFyC):
+Ferreira Padilla G. Habilidades de comunicación y de entrevista clínica en las Facultades de Medicina españolas. En: II Jornadas de MFyC para estudiantes de la Universidad Católica de Valencia: Medicina de Familia, mi especialidad. Valencia: SVMFyC; 2012.
+2. Póster con defensa en los 2 últimos congresos de la Sociedad Española de Medicina Familiar y Comunitaria (semFYC):
+Ferreira Padilla G, Ferrández Antón T, Baleriola Júlvez J. Representación de la docencia sobre habilidades de comunicación y de entrevista clínica en las Facultades de Medicina españolas. En: XXXIII Congreso semFYC. Granada; semFYC; 2013.
+Ferreira Padilla G, Ferrández Antón T, Almeida R. ¿Está la docencia en habilidades de comunicación integrada en las facultades de medicina de Canarias? En: XXXIV Congreso semFYC. Las Palmas; semFYC; 2014.
+3. Carta al Director en la revista Medical Teacher:
+Ferreira-Padilla G, Ferrández-Antón T, Baleriola-Júlvez J, Almeida R. Is teaching communication skills integrated into Spanish medical schools curricula? Med Teach. 2014;Jun 5:1. [Epub ahead of print].
+4. Póster electrónico en la jornada organizada por la Red Española de Atención Primaria (REAP):
+Ferreira Padilla, Ferrández Antón, Baleriola Júlvez J, Almeida Cabrera R. Docencia en comunicación en el Grado de Medicina de la Universidad de Zaragoza: A partir de un estudio nacional. En: XVII Jornadas de la REAP. Zaragoza; REAP; 2014.
+Este proyecto de investigación fue presentado el 21 de mayo de 2014 en la Facultad de Medicina de la Universidad Católica de Valencia como el Trabajo de Fin de Grado del estudiante, de 6.° de medicina, Guillermo Ferreira Padilla (firmante de esta publicación), obteniendo la calificación de «Sobresaliente».Lo conocido sobre el tema-En la década de los años setenta, la docencia en habilidades de comunicación se encontraba ausente en la mayoría de las facultades de Medicina. En ese momento, se pensaba que su enseñanza no tenía sentido al considerarse esta competencia una habilidad innata.-Desde entonces ha proliferado una extensa evidencia científica que justifica la inclusión de este tipo de asignaturas en el currículo del estudiante, siendo los países anglosajones pioneros en este desarrollo de implementación.-En los países hispanohablantes ha existido un verdadero interés en trasladar esta enseñanza del posgrado al pregrado en Medicina, si bien es cierto que no se ha producido con el éxito esperado. Concretamente, en España son diversos los autores que «denuncian» una escasa representación de la docencia en comunicación en nuestras universidades españolas.Qué aporta este estudio-Hasta el momento, en las bases de datos habitualmente consultadas no hemos encontrado ningún trabajo de investigación que ofrezca una visión holística sobre el estado actual de esta enseñanza en nuestras universidades. Este estudio, además de descriptivo, establece una comparación con las recomendaciones al respecto.-La primera fase del presente proyecto de investigación, que ha tomado como muestra todas las facultades de Medicina españolas (un total de 42), revela una media de créditos destinados a esta enseñanza de 2,77 (σ = 2,41), inferior a los 5,0 recomendados por la ANECA. Se ha observado una diferencia relevante (d = 1,63 >> 0,8).-Nuestros resultados pueden ser de utilidad a la hora de desarrollar las guías docentes de este tipo de asignaturas, así como en el momento de definir esta competencia en cada facultad de Medicina. A su vez, ofrece una base de datos original, fiable y actualizada sobre la docencia en habilidades de comunicación en España.
+
+
+- FINANCIACIÓN
+
+ComunVista es un Grupo de Investigación adscrito a la Facultad de Medicina de la Universidad Católica de Valencia (UCV), autofinanciado totalmente gracias a los ingresos económicos personales e individuales de los miembros del grupo, a saber: un Médico de Familia (Profesor de la UCV), dos Graduados en Medicina (estudiantes de la UCV durante la elaboración del presente estudio) y una Licenciada en Matemáticas estudiante de Doctorado.
+
+
+- AUTORÍA/COLABORADORES
+
+Todos los autores han contribuido en el diseño del estudio y en la obtención, contrastación e interpretación de los datos. Rut Almeida Cabrera ha desarrollado el análisis estadístico, que ha sido revisado por un Doctor en Matemáticas independiente a nuestro grupo de trabajo. Todos los autores han leído y aprueban el manuscrito final, que se ha elaborado específicamente para la revista Atención Primaria de Elsevier.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

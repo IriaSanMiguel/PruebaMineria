@@ -1,0 +1,5 @@
+Análisis secundario del registro ESPHERIA que incluyó pacientes consecutivos con ETV sintomática en 53 SU.
+Determinar el impacto pronóstico de la enfermedad pulmonar obstructiva crónica (EPOC) en los pacientes diagnosticados de enfermedad tromboembólica venosa (ETV) en servicios de urgencias (SU) españoles.
+La EPOC tiene impacto pronóstico en los pacientes diagnosticados de ETV en SU españoles, en términos de mortalidad y reingreso hospitalario.
+Se incluyeron 801 pacientes de los que 71 (9%) tenían EPOC, siendo la tromboembolia pulmonar la forma de presentación más frecuente de ETV en este subgrupo de pacientes (77,5% vs 47,1%, p < 0,001). Los pacientes con EPOC tuvieron con más frecuencia disfunción de ventrículo derecho en la angiotomografía pulmonar (18,2% vs 13,1%; p < 0,001) y necesidad de soporte ventilatorio (7% vs 0,5%; p < 0,001). Los pacientes con ETV y EPOC tuvieron mayor incidencia de reingreso o mortalidad en el seguimiento a 180 días [HR 1,52 (IC 95% 1,00-2,29; p = 0,048)], comparados con los pacientes con ETV sin EPOC.
+

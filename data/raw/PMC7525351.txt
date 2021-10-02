@@ -1,0 +1,30 @@
+LESIONES ERITEMATOVESICULOSAS CUTÁNEAS
+
+
+- CASO CLÍNICO
+
+Varón de 60 años de edad. Antecedente de TVP unos meses antes, había recibido tratamiento con heparina de bajo peso molecular que ya había sido suspendido. No alergias medicamentosas ni otros antecedentes médico-quirúrgicos de interés.
+Seis días antes había ingresado en otro centro hospitalario por cuadro agudo de fiebre, astenia y tos seca. Diagnosticado de COVID-19 con neumonía bilateral, confirmado por PCR en muestra nasofaríngea y Rx de tórax compatible. Se inició tratamiento con lopinavir/ritonavir + hidroxicloroquina con evolución clínica favorable habiendo sido dado de alta a las 48 h del ingreso para completar tratamiento a nivel ambulatorio.
+El día anterior al ingreso en nuestro servicio comenzó con rash cutáneo eritemato-vesiculoso ligeramente pruriginoso con afectación únicamente del tronco (figs. 1 A-C). Valorado por dermatología, se realizó biopsia cutánea, fue diagnosticado de probable varicela e ingresó en la planta de Infecciosas en tratamiento con aciclovir iv.Figura 1
+El paciente no recordaba haber tenido varicela en la infancia. No presentaba fiebre ni clínica respiratoria. Se realizó Rx de tórax donde no se apreciaban datos de neumonía.
+
+
+- EVOLUCIÓN
+
+Durante el ingreso se obtuvo el resultado de la biopsia cutánea que fue informado como patrón inflamatorio. Se realizó serología del virus de la varicela-zóster (VZV) con resultado de IgM negativa e IgG positiva. Así mismo la PCR del VZV en la muestra de biopsia fue negativa.
+Con dichos resultados se suspendió el aciclovir. Se solicitó la realización de PCR por SARS-CoV-2 en la muestra de biopsia cutánea que también resultó negativa.
+En el ingreso completó tratamiento con lopinavir/ritonavir + hidroxicloroquina iniciado previamente. Permaneció afebril y asintomático desde el punto de vista respiratorio. La Rx de tórax realizada fue normal y el rash cutáneo remitió en pocos días.
+
+
+- COMENTARIO FINAL
+
+Los síntomas clínicos más frecuentes del COVID-19 son la fiebre, la tos y la disnea. Aunque hay otros órganos que también se pueden ver afectados como el corazón, el riñón, el sistema nervioso central y la piel.
+Respecto a la afectación cutánea, al principio de la pandemia existían pocos datos en la literatura. En la serie de Guan WJ et al., publicado en el NEJM el 28 de febrero, solo se presentó en 2 pacientes de un total de 1.099 pacientes, un 0,2%. Un artículo posterior de Recalcati S. del hospital Alessandro Manzoni del norte de Italia, describe los datos analizados en una serie de 88 pacientes donde 18 pacientes (20,4%) presentaron afectación cutánea: 14 rash eritematoso, 3 urticaria y uno rash variceliforme. Galván C et al. han publicado un estudio prospectivo multicéntrico con 375 pacientes en el que se clasifican las manifestaciones cutáneas en 5 patrones: (maculopapulares [los más frecuentes: 47%], seudoperniosis, vesiculosos, urticariformes y lívedo-necrosis), estableciéndose una relación entre la gravedad de la enfermedad y cada uno de los 5 patrones, así como una relación entre el patrón y el curso evolutivo de la enfermedad. Estos patrones se han confirmado en publicaciones posteriores, , .
+En nuestro caso el paciente presentó un rash cutáneo de aspecto variceliforme, ligeramente pruriginoso y con afectación del tronco, en el contexto de infección por SARS-CoV-2. De hecho, fue diagnosticado de probable varicela e ingresó en la planta de infecciosas habiéndose iniciado tratamiento con aciclovir iv.
+El rash se presentó en la fase aguda de la infección, tras unos días del inicio de la clínica viral.
+La evolución clínica fue favorable. Permaneció afebril y asintomático desde el punto de vista respiratorio. En la Rx de tórax realizada no se objetivó neumonía. Las lesiones cutáneas fueron remitiendo en pocos días.
+
+
+- FINANCIACIÓN
+
+Los autores declaran no haber recibido financiación para la realización de este trabajo.

@@ -1,0 +1,48 @@
+DESEMPEÑO DE LA DEFINICIÓN DE CASO SOSPECHOSO DE INFLUENZA ANTES Y DURANTE LA PANDEMIA POR COVID-19
+
+
+- ANTECEDENTES
+
+A pesar de los esfuerzos de vacunación, la carga relacionada con la influenza en el mundo sigue siendo alta.
+En el hemisferio norte, los casos estacionales comienzan en octubre y terminan en mayo. Las definiciones de caso sospechoso de influenza utilizadas en los programas de vigilancia nacionales y regionales suelen diferir de las recomendadas por la Organización Mundial de la Salud (OMS).
+En México y según estándares normativos, la definición de caso en pacientes de cinco o más años incluye la presencia de fiebre (38 °C o superior), dolor de cabeza y tos, acompañados de por lo menos dos síntomas: rinorrea, coriza, artritis, artralgia, mialgia, postración, odinofagia, dolor torácico, dolor abdominal, congestión nasal o diarrea. La fiebre no es un síntoma esencial entre los pacientes de mayor edad (65 o más años).
+Los casos que cumplen los criterios se clasifican como enfermedad tipo influenza (ETI) o infección respiratoria aguda grave (IRAG) si se presentan síntomas sistémicos o de decaimiento. Esta definición comparte muchas similitudes a la propuesta por el Groupes Régionaux d’Observation de la Grippe (GROG, acrónimo en francés), que ha mostrado un buen desempeño en la vigilancia comunitaria de la influenza.
+En México, los primeros casos de trasmisión comunitaria registrados de enfermedad por coronavirus 2019 (COVID-19) debido al síndrome respiratorio agudo severo coronavirus 2 (SARS-CoV-2) fueron a finales de febrero de 2020. Aproximadamente tres meses después, se habían registrado a nivel nacional alrededor de 75 mil casos y 8 mil fallecidos.
+Dado que los casos sospechosos de la COVID-19 y de influenza comparten similitudes clínicas, la identificación de estos últimos, que pueden beneficiarse del empleo de los inhibidores de la neuroaminidasa (NAI), puede ser un desafío en entornos sanitarios con limitaciones.
+Nuestro objetivo fue evaluar el desempeño, antes y durante la pandemia de la COVID-19 en México, de la definición de caso de influenza. Analizamos dos campañas consecutivas de influenza estacional (2018-2020) para beneficiarnos de un marco temporal más amplio.
+
+
+- MÉTODOS
+
+Realizamos un análisis transversal de un estudio de cohorte retrospectivo a nivel nacional. Se eligieron los casos sospechosos de influenza en individuos de cinco o más años, registrados durante dos estaciones consecutivas (2018-2020) en un sistema normativo para la vigilancia epidemiológica de enfermedades respiratorias virales (SISVER) y que, posteriormente, fueron confirmados o descartados como casos de infección por el virus de la influenza.
+Los análisis de la reacción cuantitativa en cadena de la polimerasa en tiempo real (qRT-PCR; SuperScript ® III Platinum ® One-step RT-qPCR System) se llevaron a cabo sobre muestras clínicas (hisopado nasofaríngeo o nasal profundo). Con anterioridad, se publicó una descripción detallada de los métodos de laboratorio empleados en el Instituto Mexicano del Seguro Social.
+La evaluación del desempeño de la definición de caso sospechoso de influenza se llevó a cabo en términos de sensibilidad, especificidad, precisión e índice de verosimilitud (iv + / -). Se obtuvieron estimadores estratificados por edad (5-9; 10-19; 20-44; 45-64 y 65 años o más) y tiempo (de acuerdo con la aparición de los síntomas: octubre de 2018 a febrero de 2019; marzo de 2019 a abril de 2019; octubre de 2019 a febrero de 2020; marzo de 2020 a abril de 2020). El período pandémico fue el cuarto. También se calculó el área bajo la curva de las características operativas del receptor (AUROC) y el 95% de intervalo de confianza (IC).
+Este estudio fue aprobado por el Comité Local de Ética en Investigación en Salud (601) del IMSS (R-2020-601-015).
+
+
+- RESULTADOS
+
+Se analizaron los datos de 20.511 casos. La prevalencia general de influenza confirmada por laboratorio en la muestra del estudio fue del 38,8% (n = 7.955). La tabla 1 resume las estimaciones. La prevalencia en el laboratorio de positivos de influenza fue menor entre los ancianos, particularmente durante el período de la pandemia (65 + años; 13,2%). La sensibilidad media de la definición de caso fue alta en todos los grupos de edad y la última estimación general (92,7; 95% IC 91,3-94,1) fue parecida a la del período previo (p = 0,274).
+La especificidad general calculada durante el período de la pandemia fue del 12,2% (95% IC 10,5-14,0) y mayor a la estimada del período tres (p = 0,001), aunque menor a la estimada entre marzo-abril de 2019 (p < 0,001). La precisión del diagnóstico pasó del 48,7% al 38,0% (disminución del 22%; p < 0,001) en los períodos tres y cuatro, respectivamente, y fue similar a la precisión del período uno (p = 0,459).
+En la figura 1 está representada la AUROC y osciló desde 0,544 (95% IC 0,533-0,556) hasta 0,607 (95% IC 0,586-0,628). No se registraron diferencias significativas entre los períodos previos y los períodos durante la pandemia (p = 0,855).Figura 1
+
+
+- DISCUSIÓN
+
+Este estudio evaluó el desempeño de la definición de caso de influenza tomando como base una cohorte y normativa nacional de influenza. Nuestros resultados no sugieren cambios significativos en los parámetros evaluados antes y durante la pandemia de COVID-19.
+El estudio cuenta con varias fortalezas e incluye: a) la infección por virus influenza fue confirmada mediante el análisis qRT-PCR, que es el patrón de oro; b) la base de datos incluyó casos procedentes de todos los grupos de edad, y c) se dispuso de datos de los virus influenza A y B.
+La identificación de la infección por el virus influenza puede ayudar a los proveedores de atención médica a determinar estrategias óptimas para prevenir o tratar la gripe, incluido el uso de medicamentos antivirales. Dichas intervenciones también reducen la diseminación de la influenza.
+Actualmente se utilizan en todo el mundo diferentes definiciones de casos sospechosos de influenza e incluyen, entre otras, las propuestas por los Centers for Disease Control and Prevention (CDC), la OMS y el GROG. Todas ellas tienen un desempeño parecido en la detección de casos positivos de laboratorio, y su sensibilidad y especificidad oscilan entre el 90 y el 96% y desde el 7 al 21%, respectivamente. Los AUROC calculados utilizando cualquiera de estas clasificaciones son similares a los estimados en nuestro estudio (≈ 0,550).
+En otro estudio publicado recientemente no se encontraron diferencias en el desempeño de la definición de caso o en los síntomas en los casos de influenza según el tipo de virus. Los subtipos de virus de influenza identificados fueron (n = 7.955): A/H1N1, 57%; B/Victoria, 17%; A/H3, 16%; B/Yamagata, 9% y B no identificado, 1%.
+Se ha demostrado que la vacunación contra la influenza estacional es rentable en su prevención; sin embargo, entre los mexicanos se han registrado bajas tasas de aceptación, incluso en grupos de alto riesgo (ancianos, alrededor del 56%). La cobertura de vacunación entre las personas en edad productiva es aún menor (20%).
+Se deben citar las limitaciones potenciales del estudio. Durante marzo de 2020, aproximadamente el 16% de los casos que cumplían los criterios ETI/IRAG se confirmaron (qRT-PCR) como COVID-19 por SARS-CoV-2. En abril de 2020, esta proporción llegó al 50% junto con el crecimiento epidémico. No obstante, consideramos que nuestros hallazgos son válidos para identificar los casos que pueden beneficiarse del uso de los inhibidores de la neuraminidasa, ya que en México sigue siendo alta la carga asociada a la influenza.
+
+
+- CONCLUSIONES
+
+Nuestros resultados sugieren que la definición de caso sospechoso utilizada en las campañas de vigilancia de la influenza tiene un buen desempeño, incluso durante la pandemia de la COVID-19. Por tanto, se puede usar esta definición en la identificación de los pacientes que puedan beneficiarse de un acceso temprano a los inhibidores de la neuraminidasa. El uso oportuno de los fármacos antivirales, acompañado del fomento de la inmunización, puede reducir la carga social y económica de la influenza.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

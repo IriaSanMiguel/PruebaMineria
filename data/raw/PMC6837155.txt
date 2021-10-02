@@ -1,0 +1,104 @@
+PREVALENCIA DE OSTEOPOROSIS, ESTIMACIÓN DE LA PROBABILIDAD DE FRACTURA Y ESTUDIO DEL METABOLISMO ÓSEO EN PACIENTES CON RECIENTE DIAGNÓSTICO DE CÁNCER DE PRÓSTATA EN EL ÁREA SANITARIA DE LUGO<SUP
+
+
+- OBJETIVO
+
+La osteoporosis se define como una enfermedad esquelética sistémica caracterizada por una baja masa ósea y un deterioro de la microarquitectura ósea. Estas alteraciones cuantitativas y cualitativas determinarán un aumento de la fragilidad ósea.
+La osteoporosis es una enfermedad más frecuente en mujeres, sin embargo, es también una enfermedad de gran repercusión en el varón, . Las fracturas osteoporóticas son una causa importante de morbimortalidad y aunque las fracturas son menos frecuentes en el varón, la mortalidad asociada es mayor.
+La Organización Mundial de la Salud (OMS) estableció el diagnóstico de osteoporosis basado en la densidad mineral ósea (DMO) estimada mediante absorciometría con rayos X de doble energía (DXA). Los puntos de corte inicialmente descritos para mujeres, hoy también se emplean en los hombres .
+No obstante, la actual evidencia científica reconoce que los factores de riesgo clínicos tienen gran importancia para identificar a aquellos pacientes con elevado riesgo de fractura osteoporótica. Así, se han desarrollado diferentes herramientas clínicas que permiten estimar dicho riesgo. Entre ellas destaca la herramienta FRAX® (FRAX).
+La fractura previa osteoporótica es un importante factor de riesgo independiente para el desarrollo de ulteriores fracturas. Otro factor de riesgo importante es la vitamina D (VitD), hormona esencial para la correcta fisiología ósea, y que proviene de la síntesis cutánea o a través de la ingesta dietética.
+Dado que la osteoporosis en el varón está menos estudiada, hemos diseñado un estudio para conocer la prevalencia de osteoporosis y la probabilidad de fractura en pacientes con cáncer de próstata (CaP). Ello podría permitir prevenir fracturas, disminuir la morbimortalidad asociada y ahorrar costes al Sistema Nacional de Salud.
+
+
+- DISEÑO
+
+Diseñamos un estudio observacional, descriptivo y transversal para estudiar desde el punto del metabolismo óseo y de la probabilidad de fractura a todos aquellos pacientes diagnosticados recientemente de CaP.
+Un médico de familia fue el encargado de la coordinación del estudio e inclusión de pacientes. El Servicio de Urología estuvo encargado del diagnóstico y tratamiento del CaP. Un reumatólogo fue el encargado del diagnóstico de osteoporosis, déficit de VitD, etc., y responsable del tratamiento correspondiente.
+La recogida de los datos se realizó a través de la historia clínica y de diversas entrevistas.
+
+
+- EMPLAZAMIENTO
+
+El Hospital Universitario Lucus Augusti (HULA) se encuentra situado en la ciudad de Lugo, es centro de referencia para el diagnóstico y tratamiento del CaP en el área Centro de Lugo y da una cobertura sanitaria a aproximadamente 212.218 pacientes (102.842 varones; edad media de 46,4 años). Es una población de predominio rural, con gran dispersión geográfica y envejecida.
+
+
+- PARTICIPANTES
+
+Criterios de inclusión: se incluyeron todos los pacientes diagnosticados de CaP mediante estudio anatomopatológico a lo largo de un año. Todos los pacientes debían aceptar la inclusión en el estudio y firmar el consentimiento informado.
+Criterios de exclusión: pacientes con enfermedad metastásica. En nuestro estudio solo se consideró a pacientes en los que se pudo realizar estadificación y que era cualquier T, N0 y M0.
+
+
+- MÉTODO
+
+Hemos incluido todos los pacientes con intención de tratar, asumiendo que ello puede provocar alguna pérdida.
+Para el estudio de las variables continuas en primer lugar hemos valorado su normalidad mediante el test de Kolmogorov-Smirnov (KS) ajustado con la corrección de Lilliefors.
+Para comparar las variables continuas se ha empleado la t de Student y para las frecuencias, la Chi-cuadrado.
+Las correlaciones se analizaron mediante el coeficiente de correlación de Pearson.
+Se ha considerado estadísticamente significativa si p < 0,05.
+Para la base de datos se empleó el programa Excel y el análisis estadístico se realizó con el programa SPSS versión 19.0 y con el software estadístico R versión 3.2.2.
+
+
+- DEFINICIÓN DE VARIABLES
+
+La herramienta FRAX incluye: edad, sexo, peso, estatura, fractura previa, padres con fractura de cadera, fumador activo, tratamiento con glucocorticoides, artritis reumatoide, osteoporosis secundaria, alcohol y DMO.
+Se estimó la probabilidad de fractura mediante FRAX usando o no el valor de la DXA, introducida esta en forma de T-score.
+Para comparar FRAX con la DXA y la indicación de tratamiento hemos empleado los puntos de corte para el riesgo de fractura propuestos por Azagra et al.: bajo riesgo < 5; riesgo intermedio entre ≥ 5 y < 7,5, y riesgo alto ≥ 7,5; que equivaldrían a un riesgo de fractura real de < 10%, entre el 10-20% y > 20%, respectivamente.
+Se consideró fractura previa osteoporótica la ocurrida en la vida adulta de manera espontánea o la causada por un trauma que, en un individuo sano, no se hubiese producido. También se incluyeron las fracturas vertebrales morfométricas, para lo cual se realizaron a todos los sujetos de investigación radiografías de columna dorso-lumbar centradas en D7-D8 y L2. Ello permitió detectar fracturas morfométricas no recogidas en la historia clínica, .
+Dado que las fracturas vertebrales presentan ausencia de líneas de fractura que definan inequívocamente su existencia, se han propuesto diversos métodos de diagnóstico, aunque a día de hoy sigue sin haber un patrón de oro, .
+En nuestro estudio hemos utilizado el método semicuantitativo de Genant, uno de los más empleados para el diagnóstico de fracturas vertebrales .Figura 1
+A todos los pacientes se les realizó una DXA tanto de cuello femoral como de columna lumbar. Se empleó el densitómetro GE Lunar Modelo DPX PRO™.
+Se realizaron determinaciones de laboratorio (hemograma, velocidad de sedimentación glomerular, función renal, función hepática, colesterol, albúmina, calcio, fósforo, fosfatasa alcalina) que permitieron detectar situaciones que influían en el metabolismo óseo. Todos los valores de referencia fueron proporcionados por nuestro laboratorio.
+Para estudiar la VitD hemos empleado puntos de corte basados en los valores séricos de calcidiol. Los rangos de referencia para la VitD propuestos en la bibliografía se basan en diferentes estudios poblacionales que varían en función de la ingesta de VitD y la insolación.
+Los puntos de corte utilizados por nuestro laboratorio se encuentran en concordancia con el conocimiento científico actual y son, :•Deficiencia: si VitD < 10 ng/ml.•Insuficiencia: VitD ≥ 10 y < 30 ng/ml.•Suficiencia: VitD 30-100 ng/ml.
+La indicación de tratamiento farmacológico se realizó en función de los criterios establecidos por la guía SEIOMM 2014, actualización 2015, y también por la ESCEO 2013, y siempre tras una información individualizada de riesgos y beneficios .
+A todos los pacientes se les aseguró una adecuada cantidad de calcio y VitD: el calcio preferiblemente dietético y la VitD en forma de suplemento debido a la baja disponibilidad de este componente en la dieta. En caso de indicación de tratamiento para osteoporosis, se pautó tratamiento antirreabsortivo según la práctica clínica habitual.
+
+
+- CONSIDERACIONES ÉTICAS
+
+Este trabajo de investigación ha obtenido:-Dictamen favorable por parte del Comité de Ética e Investigación Clínica (CEIC) de Galicia.-La viabilidad por la Comisión de Investigación del HULA.
+Durante el desarrollo del mismo, se han cumplido las normas éticas del citado CEIC, de la Comisión de Investigación del HULA y de la Declaración de Helsinki.
+
+
+- RESULTADOS
+
+De todos los pacientes diagnosticados de CaP a lo largo de un año, 83 cumplieron los criterios de inclusión en el estudio. La edad media fue de 67 años, con una desviación estándar (DE) de 6,69. El paciente más joven fue de 52 años y el de mayor edad, de 84 años.
+El IMC tuvo una media de 28,28, con una DE de 3,73; un mínimo de 16,7 y un máximo de 37,6.
+Veinticinco (30,1%) pacientes presentaban fracturas osteoporóticas previas, todas diagnosticadas mediante radiografía. De ellas, 22 fueron vertebrales (26,5%), 2 fracturas de cuello femoral (2,4%), 2 fracturas de Colles (2,4%) y 8 fracturas de diferentes localizaciones (9,6%).
+Uno de los pacientes estaba en tratamiento para la osteoporosis antes de comenzar el estudio (1,2%). Dos fueron considerados como osteoporosis secundaria.
+Otros factores de riesgo frecuentes fueron el consumo de alcohol 22 (26,5%) y el tabaquismo 19 (22,9%).
+Los resultados de calcemia, paratohormona (PTH), fosfato y magnesio se describen en la tabla 3.
+Considerando normocalcemia los valores de 8,7-10,4 mg/dl, el 95,7% presentaron valores plasmáticos de calcio normales.
+Se consideró PTH normal los valores incluidos en el rango 14,0-72,0 pg/ml, según lo cual el 29,3% tenían PTH elevada con valores de calcio normal.
+La DXA de cuello femoral tuvo una media de T-score de –1,13, mediana de –1,20 y DE de 1,04. El valor mínimo del T-score fue de –4,10 y el máximo fue de 1,10. Siete (8,86%) pacientes presentaron osteoporosis densitométrica, 42 (53,16%) osteopenia y 30 (37,98%) tuvieron DXA normal. En esta variable hemos tenido 4 pérdidas.
+La DXA de columna lumbar tuvo una media T-score de –1,32, mediana de –1,23 y DE de 1,57. El valor mínimo de la DXA fue T-score –5,4 y el máximo fue de 2,20. Diecinueve (23,15%) pacientes presentaron osteoporosis densitométrica, 27 (33,75%) osteopenia y 34 (42,50%) tuvieron DXA normal. En esta variable hemos tenido 3 pérdidas.
+La probabilidad de fractura estimada con FRAX para fractura principal incluyendo la DXA fue del 5,27% y para fractura de cadera fue del 2,63%. En la tabla 4 se presentan los estadísticos descriptivos de la variable FRAX.
+Veintisiete pacientes (32,53%) fueron subsidiarios de tratamiento para la osteoporosis. Siete tenían DXA con T-score < –2,5. Diecinueve pacientes con DXA con T-score ≥ –2,5 también fueron tratados (73,07% del total de los pacientes tratados). Uno ya se encontraba previamente en tratamiento.
+Si consideramos a los sujetos con osteopenia densitométrica, 18 de ellos fueron tratados para osteoporosis (42,85%).
+Veinticuatro pacientes (28,92%) tuvieron un valor de FRAX para fractura principal sin DXA de más del 5% y 8 sujetos (9,64%) lo tuvieron mayor del 7,5%. Si incluimos la DXA en FRAX, 23 pacientes (29,11%) tenían una probabilidad de fractura de más del 5% y 15 pacientes de más del 7,5% (18,99%).
+Se analizaron las diferencias entre el diagnóstico densitométrico de osteoporosis, la herramienta FRAX y el criterio clínico para tratamiento de la osteoporosis y no se encontraron diferencias estadísticamente significativas.
+El valor medio de la VitD fue de 13,67 . Veintidós pacientes (26,5%) tenían deficiencia de VitD, 60 (72,3%) tenían insuficiencia y uno (1,2%) tenía VitD normal . Así pues, un 98,80% presentaron hipovitaminosis D.Figura 2
+Dado que es bien conocido que la síntesis de VitD está en relación con el grado de insolación, hemos categorizado la variable VitD en función de la estación del año en que se tomó la muestra. Se obtuvo una media de 12,86 para la primavera, 13,53 para el verano, 14,94 para el otoño y 13,97 para el inverno.
+Se analizó la posible existencia de diferencias en la VitD en función de la estación del año y no hubo diferencias estadísticamente significativas (p = 0,299).
+Se prescribió tratamiento antiosteoporótico a 26 (31,3%) pacientes. La vía de diagnóstico para estos casos fue la presencia de fractura osteoporótica previa en 25 casos (30,1%), constituyendo la fractura vertebral radiográfica, con 22 sujetos (88%), la más frecuente. El caso restante fue osteoporosis por DXA con T-score ≤ –2,5. Un paciente recibía tratamiento con bifosfonatos previamente a la inclusión en el estudio.
+El 98,79% de los sujetos recibieron algún tipo de suplemento que incluía VitD: 59 (71,08%) pacientes recibieron suplementos de calcio y VitD y 23 (27,71%) pacientes, suplementos de VitD.
+
+
+- DISCUSIÓN Y CONCLUSIÓN
+
+La edad media de los pacientes al diagnóstico del CaP fue de 67 años, siendo esta edad similar a estudios previos.
+En nuestro de estudio, a pesar de que muchos sujetos tenían el antecedente de fractura osteoporótica, solo uno (4%) había recibido tratamiento antiosteoporótico. Llama la atención que este grupo de pacientes con fractura previa no estuvieran en tratamiento antirreabsortivo. Por tanto, la osteoporosis y las fracturas osteoporóticas podrían estar infradiagnosticadas en el varón con CaP.
+Los factores de riesgo como el consumo de alcohol y el tabaco fueron muy frecuentes. Sin embargo, en nuestro caso es posible que hayan sido infraestimados, ya que no se encontraban recogidos de forma sistemática en la historia clínica y la entrevista clínica tiene sus limitaciones.
+No hemos encontrado diferencias estadísticamente significativas entre el FRAX y la indicación de tratamiento basada en características clínicas y densitométricas. Sin embargo, el 77,77% de los pacientes que fueron tratados en nuestro estudio no lo hubiesen sido si solamente se hubiese considerado FRAX. En España, se han publicado diferentes estudios que cuestionan FRAX y parece que no se correlaciona bien con el riesgo de fractura osteoporótica, , , . Azagra et al. establecen el uso de umbrales FRAX (bajo riesgo: < 5; riesgo intermedio: entre ≥ 5 y < 7,5, y riesgo alto: ≥ 7,5) en población femenina española según la incidencia real de fractura. Mediante estos puntos de corte, la incidencia de fractura con estos valores fue: riesgo bajo (3,6%), riesgo intermedio (13,7%) y alto riesgo (21,4%), . En nuestra cohorte de pacientes con cáncer CaP, un 18,99% presentaban alto riesgo.
+Además, el consumo de alcohol y de tabaco son factores de riesgo que parecen tener un efecto dependiente de la dosis, y en FRAX no se toma en consideración la dosis y se asume una exposición promedio.
+Los criterios de tratamiento antiosteoporótico desglosados en la tabla 2 establecen que la vía diagnóstica principal que conduce al tratamiento es la presencia de fractura previa; aunque no hemos observado diferencias estadísticamente significativas entre la utilización de criterios clínicos frente a una osteoporosis densitométrica. Teniendo en cuenta que 19 pacientes con T-score de la DXA > –2,5 fueron tratados de osteoporosis, la DXA parece incapaz de predecir a todos los sujetos con indicación de tratamiento. De hecho, el 73,07% de los tratados para la osteoporosis no tenían DXA con T-score ≤ –2,5. Ello nos podría plantear que la DXA no es una herramienta muy sensible para el tratamiento de la osteoporosis en este grupo de pacientes.
+Más del 98% de la población de estudio presentó hipovitaminosis D, lo que supone un importante problema de salud. El 95,7% presentaron valores plasmáticos de calcio normal y aproximadamente un tercio, hiperparatiroidismo secundario compensador. Van der Wielen et al. incluían en su trabajo una población cercana a Lugo, Betanzos, dónde el 52% de los varones presentaban unos niveles de VitD bajos.
+González-Clemente et al. estudiaron la VitD solo en invierno, y obtuvieron que el 34,6% tenían un déficit de VitD. En nuestro estudio se evidencia que no hay diferencia significativa en los niveles de VitD en relación con la estación del año.
+Nuestro estudio presenta algunas limitaciones; aunque se han recogido a todos los pacientes diagnosticados de CaP durante un año, dada la elevada prevalencia de osteoporosis y fracturas en esta cohorte de pacientes, sería necesario un mayor número de estudios epidemiológicos y con un tamaño muestral mayor para esclarecer el impacto de la osteoporosis, el papel de FRAX y el manejo de este grupo de pacientes en la práctica clínica. Nuestro estudio intenta simular la práctica clínica habitual, por lo que en algunas variables presenta pérdidas.
+En conclusión, los principales factores de riesgo osteoporótico en los pacientes con CaP son el consumo de alcohol y de tabaco. Además, la osteoporosis y las fracturas osteoporóticas están infradiagnosticadas en el varón con CaP. Más del 98% de la población de estudio presentó hipovitaminosis D sin relación con la época del año y aproximadamente un tercio presentó hiperparatiroidismo secundario compensador, lo que supone un importante problema de salud.Lo conocido sobre el tema•La osteoporosis en el varón está poco estudiada.•La cohorte de pacientes con cáncer de próstata supone una población de especial riesgo para la osteoporosis ya que su tratamiento implica un bloqueo hormonal.•El déficit de vitamina D es frecuente.Qué aporta este estudio•El consumo de alcohol y de tabaco son los principales factores de riesgo osteoporótico en los pacientes con cáncer de próstata.•La osteoporosis y las fracturas osteoporóticas están infradiagnosticadas en el varón con cáncer de próstata.•Más del 98% de la población de estudio presentó hipovitaminosis D, lo que supone un importante problema de salud.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

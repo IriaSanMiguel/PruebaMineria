@@ -1,0 +1,5 @@
+La reducción de anemia, de 2006 a 2012, fue seguida de un incremento en 2016. Es necesario identificar otros factores de riesgo que estén favoreciendo en el aumento de la prevalencia de anemia y evaluar la ingesta de alimentos ricos en hierro, mediante un cuestionario de recordatorio de 24 horas.
+Describir la prevalencia de anemia en mujeres de 20 a 49 años de edad, según la Encuesta Nacional de Salud y Nutrición de Medio Camino 2016 (Ensanut MC 2016), y comparar su tendencia con la registrada en las Encuestas Nacionales de Salud (Ensanut) 2006 y 2012, así como su asociación con la presencia de hierro en la dieta y factores sociodemográficos.
+La prevalencia de anemia resultó mayor en la Ensanut MC 2016 que en la Ensanut 2012 (p<0.001) y difirió por grupos de edad, área (urbano-rural) y región (Norte, Centro, Ciudad de México y Sur). El modelo logístico mostró un incremento de la prevalencia de anemia en 2016.
+La Ensanut MC 2016 tiene un diseño metodológico comparable con el de las Ensanut 2006 y 2012. Se obtuvo hemoglobina (Hb) capilar y se clasificó anemia con valores de Hb <120g/L. Se excluyó a las embarazadas.
+

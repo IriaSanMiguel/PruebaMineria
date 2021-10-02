@@ -1,0 +1,92 @@
+ADAPTACIÓN TRANSCULTURAL AL ESPAÑOL DEL CUESTIONARIO PATIENT EMPOWERMENT IN LONG-TERM CONDITIONS
+
+
+- INTRODUCCIÓN
+
+El concepto de empoderamiento se utiliza en una amplia gama de contextos. Uno de los primeros contextos de los que se tiene referencia de su uso es en la filosofía de la educación liberadora de Paulo Freire, quien utiliza el concepto como una respuesta a la opresión y a las desigualdades sociales. Posteriormente, se analizó en psicología comunitaria, teoría social crítica, estudios de género, economía rural y, finalmente, en la educación sanitaria y promoción de la salud, , .
+En su aplicación en el campo de la salud, el concepto también tiene un largo recorrido. En primer lugar, se adoptó como elemento vertebrador en la promoción de la salud, posteriormente se utilizó como una forma de aumentar la autonomía y la participación de los pacientes en la toma de decisiones relacionadas con su salud. Finalmente, y con el incremento de las enfermedades crónicas, es la estrategia utilizada para que los pacientes participen y asuman la responsabilidad de su cuidado con el fin de mejorar los resultados de salud y, secundariamente, hacer un uso racional de los recursos sanitarios, , , .
+Aunque existe un amplio consenso sobre la importancia del término y su carácter multidimensional, no existe una definición única para el concepto y para las diferentes dimensiones que este contempla.
+Angelmar y Berman recogen la propuesta de la Organización Mundial de la Salud (OMS) que define empoderamiento como un proceso mediante el cual las personas adquieren un mayor control sobre las decisiones y acciones que afectan a su salud. Estos autores especifican que las condiciones necesarias para que el paciente adquiera empoderamiento son: la comprensión del nuevo rol por parte de los pacientes (papel más activo, responsable y participativo), la mejora de sus conocimientos sobre su estado de salud y opciones de tratamiento, y el desarrollo de habilidades para llevar a cabo actividades de cuidados de forma competente. Y además requiere de un entorno propicio en el que los profesionales sean habilitadores a 2 niveles del proceso, en la motivación y en la alfabetización en salud.
+Varekamp et al. lo definen como un proceso para ayudar a los pacientes a desarrollar conocimientos y habilidades, y a tomar conciencia de sus necesidades. Esto, a su vez, les permite definir sus metas, tomar responsabilidad de su tratamiento médico y aumentar su autonomía.
+Small et al. consideran que el empoderamiento es tanto un proceso como un resultado derivado de la comunicación entre los profesionales y los pacientes, en el que se intercambia información sobre los recursos con relación a la enfermedad y que logra aumentar el autocontrol, la autoeficacia, las habilidades de afrontamiento y la capacidad de lograr un cambio en su estado.
+Para Funnell y Anderson el empoderamiento es también un proceso y un resultado. En el proceso se busca aumentar la capacidad para pensar de forma crítica y actuar de manera autónoma, mientras que el resultado muestra la autoeficacia.
+Del anterior análisis se desprende que las intervenciones de los profesionales deben ir dirigidas tanto al proceso como al resultado. A nivel de proceso deben establecerse relaciones terapéuticas que fomenten la continuidad en la relación y que esta esté centrada en el paciente, fomente la toma de decisiones, incorpore habilidades de afrontamiento y promueva actitudes positivas, , , , .
+Small et al. proponen un nuevo instrumento para medir el empoderamiento basado en un análisis cualitativo del concepto de empoderamiento desde la perspectiva de los pacientes con enfermedades crónicas.
+En nuestro país no existen instrumentos validados que permitan medir de forma conjunta los conocimientos, actitudes y habilidades que permiten al paciente ser más autónomo y más autoeficaz en la gestión de su enfermedad. Esta carencia se contrapone, en primer lugar, con la exigencia por parte de los Planes de Salud de algunas comunidades autónomas de buscar e implementar estrategias que permitan el empoderamiento de los pacientes crónicos y, en segundo lugar, con la necesidad fijada por la OMS, que reclama herramientas para medir resultados de empoderamiento y que estas utilicen resultados informados por los pacientes (PROM, Patient Reported Outcomes Measures).
+En consecuencia, y ante la falta de instrumentos validados en español, nos propusimos realizar la adaptación transcultural y validación de la versión al español del cuestionario Patient empowerment in long-term conditions, que evalúa el grado de empoderamiento de los pacientes en el manejo de las enfermedades crónicas. En el presente trabajo describimos las características y los resultados del proceso de adaptación transcultural del cuestionario.
+
+
+- MATERIAL Y MÉTODOS
+
+El instrumento se basa en un modelo de empoderamiento centrado en el paciente con enfermedades crónicas. Inicialmente, y tras un análisis conceptual y cualitativo, se propusieron 51 ítems agrupados en 5 dimensiones. Sin embargo, tras el análisis factorial, no se confirmó la estructura de 5 factores y el instrumento quedó formado 47 ítems y 3 dimensiones.
+La primera dimensión, que hemos traducido como actitud positiva y sentido del control, está compuesta por 21 ítems. Refleja los cambios que experimentan los pacientes en cuanto a la autopercepción tras el diagnóstico, cómo reducen el impacto de la enfermedad en su vida y cuyo resultado es un mayor autocontrol de la enfermedad. El ámbito en el que se desarrolla está dimensión es personal y fuera del contexto asistencial
+La segunda dimensión, toma de decisiones compartida e informada, está compuesta por 13 ítems. Hace referencia a la adquisición de conocimientos y a la capacidad para tomar decisiones relativas a la gestión de su enfermedad, tener la opción de participar en el proceso de toma de decisiones junto a los profesionales, y posibilidad de cambiar sus preferencias en cuanto a tratamiento. Está dimensión se desarrolla dentro del ámbito asistencial.
+La tercera dimensión, búsqueda de información y compartir entre iguales, está formada por 13 ítems. Hace referencia a la capacidad de buscar información fuera del contexto asistencial y de compartir con otros pacientes sus experiencias y estrategias utilizadas para la autogestión de la enfermedad.
+Las opciones de respuesta para cada ítem es en forma de escala tipo Likert de 5 puntos, en donde 1 se corresponde a muy en desacuerdo y 5 con muy de acuerdo. Para cada paciente se obtiene una puntuación global, en la que la puntuación mínima, 47, se correspondería con peor empoderamiento, y la máxima, 235, con mejor empoderamiento.
+El objetivo del proceso de la adaptación transcultural del cuestionario Patient empowerment in long-term conditions es que el instrumento sea equivalente a nivel semántico, conceptual y de contenido, al de la versión original.
+Con la equivalencia semántica se busca obtener el mismo significado en cada uno de los ítems, la equivalencia conceptual nos asegura que el cuestionario mide el mismo constructo teórico en ambas culturas y la equivalencia de contenido prueba que cada ítem tiene relevancia para las 2 culturas.
+Existen diferentes métodos para la adaptación de instrumentos que incluyen técnicas de traducción directa, traducción inversa, evaluación por un comité y prueba piloto, , , , . Para este procedimiento se ha seguido las recomendaciones del comité científico del Medical Outcomes Trust.
+
+
+- RESULTADOS
+
+-- FASE 1: TRADUCCIONES INDEPENDIENTES AL ESPAÑOL
+
+Se realizaron 3 versiones independientes por traductores bilingües cuya lengua materna fuese el castellano y que conocían los contenidos y el propósito del cuestionario, todos ellos eran profesionales de las Ciencias de la Salud. El objetivo era que se hicieran traducciones que fueran equivalentes a nivel de concepto y no traducciones literales .
+
+
+-- FASE 2: CONCILIACIÓN Y SÍNTESIS DE LAS TRADUCCIONES
+
+Se creó un panel de expertos formado por una enfermera, un médico del contexto hospitalario, un médico del área de primaria y una experta en metodología de desarrollo de instrumentos de medición de salud percibida. Se revisó y discutió cada una de las traducciones de cada uno de los ítems, realizándose una revisión semántica, conceptual y de contenido, hasta obtener una única versión unificada
+En 24 ítems (2, 4, 7, 8, 9, 12, 13, 14, 23, 24, 28, 29, 33, 34, 36, 37, 38, 39, 41, 42, 44, 45, 46 y 47) el panel de expertos aceptó algunas de las traducciones aportadas. En el ítem 8, único en construcción negativa, se aceptó una de las traducciones propuestas; sin embargo, el panel consideró que su comprensión sería difícil y propuso consultar con la autora original del instrumento las posibilidades de convertir la frase a positivo o bien invertir la puntuación en este ítem.
+En 15 ítems (1, 3, 5, 11, 16, 17, 18, 19, 21, 26, 27, 30, 31, 35 y 40) se introdujeron cambios menores; estos se consideraron así cuando el panel aceptaba una de las traducciones aportadas pero consideraba que cambiando alguna palabra mejoraba la comprensión de la frase.
+En 8 ítems (6, 10, 15, 20, 22, 25, 32 y 43) se introdujeron cambios mayores ya que el panel propuso una construcción alternativa .
+
+
+-- FASE 3: TRADUCCIÓN INVERSA AL INGLÉS
+
+Tras la obtención de la versión unificada en español se realizó una traducción inversa al idioma original por un traductor bilingüe cuya lengua materna fuera el inglés .
+
+
+-- FASE 4: CONSENSO DE LA VERSIÓN DE TRADUCCIÓN INVERSA CON EL AUTOR DE LA VERSIÓN ORIGINAL
+
+Tras obtener la traducción inversa, fue enviada al autor de la versión original para que determinara si todos los ítems seguían manteniendo la equivalencia conceptual. Así mismo se le consultó la controversia generada con el ítem 8. La autora dio su consentimiento a la versión propuesta, sin embargo, no ofreció ninguna solución respecto al ítem 8.
+
+
+-- FASE 5: ENSAYO DE ADMINISTRACIÓN A MUESTRA DE PACIENTES
+
+Esta fase, llamada también evaluación cognitiva o entrevistas cognitivas (cognitive debriefing), pretende evaluar la comprensión y la aplicabilidad de la versión adaptada. Para ello se realizó un ensayo de administración a una muestra de conveniencia formada por 10 pacientes. Los pacientes fueron reclutados de forma voluntaria durante su ingreso en la Unidad de Cardiología. Se eligió a pacientes con enfermedad crónica y perfiles heterogéneos en cuanto a edad, sexo, diagnóstico y comorbilidad. La muestra estaba formada por 6 hombres (60%) y 4 mujeres (40%), y la edad media ± desviación estándar fue de 77,3 ± 11,3 años.
+Seis pacientes (60%) estaban diagnosticados de insuficiencia cardiaca y 4 (40%) de cardiopatía isquémica. Para valorar la comorbilidad, se utilizó la versión abreviada del índice de Charlson: uno (10%) presentaba ausencia de comorbilidad; 4 (40%), comorbilidad baja, y 5 (50%), alta.
+Se les solicitó que explicasen lo que entendían de cada uno de los enunciados y que identificasen los que les generasen dificultades de comprensión. En aquellos casos que hubo discrepancia respecto al concepto original, se les solicitaba ofrecieran un enunciado alternativo. En 5 ítems hubo dificultad de comprensión, sin embargo, ninguno de los pacientes ofreció una alternativa .
+
+
+-- FASE 6: EVALUACIÓN DE LA COMPRENSIÓN Y APLICABILIDAD Y ELABORACIÓN VERSIÓN DEFINITIVA
+
+Dos de las personas que habían participado en el panel de expertos revisaron y discutieron cada una de las informaciones recogidas del ensayo de administración. El ítem 8, que presentó una mayor tasa de incomprensión (60%), se decidió mantener igual en espera de la evaluación de las propiedades psicométricas. En los ítems 10 y 21, con una tasa de respuesta de no comprensión del 20 y el 10%, respectivamente, se decidió no sustituir el enunciado, en los ítems 14 y 47, con una tasa de respuesta de no comprensión del 20 y el 30%, respectivamente, se decidió introducir un enunciado alternativo que mejoraba la comprensión . Con estos 2 cambios se elaboró la versión definitiva.
+
+
+- DISCUSIÓN
+
+Se ha obtenido una versión adaptada al español del Cuestionario de empoderamiento del paciente con enfermedad crónica (CEPEC).
+En nuestro contexto, no existen instrumentos validados que permitan valorar el empoderamiento de los pacientes, por lo que era necesario o bien desarrollar uno nuevo, o adaptar uno desarrollado en otra cultura. Dos factores condicionaron la decisión de adaptar un cuestionario a nuestra cultura: por un lado, que el desarrollo de nuevos instrumentos es un proceso de gran complejidad y, por otro lado, que es necesario disponer de instrumentos genéricos, en diferentes idiomas, que permitan estudios comparativos a nivel internacional, .
+Tras una revisión de los instrumentos de empoderamiento disponibles se eligió el que es objeto de este trabajo con base en 3 criterios: 1) se había se había generado recientemente; 2) se había realizado evaluación de las propiedades psicométricas en términos de fiabilidad y validez, y 3) es un instrumento genérico tanto por el entorno como por el tipo de enfermedad de los pacientes a los que va dirigido.
+El paso previo al análisis psicométrico de un instrumento es la traducción y la adaptación cultural; esta tiene como objetivo conservar el significado y garantizar la equivalencia entre la cultura en que se desarrolló originalmente y la población a la que va destinada, , .
+Siguiendo las recomendaciones metodológicas utilizadas, la primera fase del proceso es la traducción directa, en la que se deben traducir los ítems y las opciones de respuesta del instrumento original, con al menos 2 versiones independientes, aunque preferentemente más, seguida de una conciliación y síntesis de las versiones en una única versión consensuada. Si bien es cierto que la mayoría de la literatura revisada realiza 2 traducciones directas, , , , , podemos encontrar variabilidad entre una y 3. Creemos que, además del número, es necesario especificar las características que deben presentar los traductores, , : bilingües, con conocimientos de la cultura de origen y de destino, y con conocimientos sobre las áreas de interés del cuestionario, o lingüísticas. Las fortalezas de esta primera fase realizada es que los traductores no solo conocían los contenidos y el propósito del cuestionario, sino que todos pertenecían a profesiones vinculadas con la salud y, por tanto, familiarizados con los términos técnicos y no técnicos del cuestionario. También se han descrito en otros procesos la incorporación de los traductores al panel de expertos, , .
+En la siguiente fase, traducción inversa y conciliación de diferencias entre el instrumento original y la retrotraducción, se realizó una única retrotraducción y una conciliación mediante consulta al autor de la versión original. En otros estudios se han realizado 2 retrotraducciones, , y la conciliación se ha alcanzado tras la formación de un panel de expertos, , , , .
+En la fase final, las recomendaciones indican no solo realizar un ensayo de administración a una muestra de conveniencia, sino realizar entrevistas cognitivas para evaluación de la comprensión y la aplicabilidad, metodología empleada en la mayor parte de los estudios consultados, , , , mientras que otros utilizan un panel de expertos para evaluar la comprensibilidad, , .
+En nuestro caso, durante el proceso de conciliación de las traducciones por el panel de expertos, la búsqueda de equivalencias conceptuales generó discusión y cambio en 23 ítems. Al realizar la prueba piloto con pacientes, en la que solo se identificaron problemas de comprensión en 5 ítems, se evidenció que, a pesar de que el comité de expertos estaba formado solo por profesionales, estos consiguieron dotar al cuestionario de expresiones naturales para los pacientes.
+
+
+- CONCLUSIONES
+
+Contamos con una versión adaptada culturalmente del CEPEC para su uso en el contexto español, con lo cual estamos en condiciones de llevar a cabo los estudios de validación en términos de fiabilidad, validez y sensibilidad al cambio.Lo conocido sobre el temaEl empoderamiento es un concepto multidimensional que ofrece información no solo sobre la capacidad de autocuidado y autogestión de la enfermedad, también recoge aspectos psicosociales, que son determinantes en la percepción de la calidad de vida.El empoderamiento también se alinea con el objetivo de la atención centrada en el paciente en el que tanto los pacientes como los profesionales deben comprender su nuevo rol, con pacientes más activos y con profesionales más facilitadores de este proceso de forma que se promueva una relación de asociación en la que se trata de ayudar a los pacientes a ser más activos a través de la transferencia de conocimientos y habilidades.Qué aporta este estudioLos documentos marco Health 2020 y Horizonte 2020 marcan como objetivo la capacitación de las personas para la autogestión de su salud y de su enfermedad.Las mismas directrices europeas señalan la necesidad de integrar herramientas que permitan medir resultados de empoderamiento de pacientes.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha recibido una beca del Instituto de Salud Carlos III (Ministerio de Economía y Competitividad y Ministerio de Salud, Servicios Sociales e Igualdad), cofinanciado por FEDER (PI15 / 00089), tras un proceso de financiación revisado por pares. También recibió un Premio Esteve a la Innovación en Salud en 2015.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

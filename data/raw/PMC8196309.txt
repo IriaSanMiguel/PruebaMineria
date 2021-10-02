@@ -1,0 +1,33 @@
+PERICARDITIS TRAS LA ADMINISTRACIÓN DE LA VACUNA DE ARNM BNT162B2 CONTRA LA COVID-19
+
+
+Sr. Editor:
+Recientemente se ha publicado el primer caso reportado de miocarditis tras la administración de la vacuna BNT162b2 (BioNTech-Pfizer, Alemania-Estados Unidos) contra la COVID-19.
+Según la Brighton Collaboration, las miocarditis y pericarditis constituyen riesgos teóricos de la vacunación contra el SARS-CoV-2 por mecanismos inmunopatológicos y deberían considerarse como un evento adverso de especial interés, con vigilancia estrecha de su aparición o un aumento de su incidencia respecto a la esperada en vacunados. Se han publicado múltiples casos de pericarditis tras la infección por SARS-CoV-2, pero hasta la fecha, ninguno de pericarditis posvacunación contra la COVID-19 en una publicación científica.
+Aquí se comunican 2 casos de pericarditis después de la administración de la vacuna BNT162b2. Ambos pacientes han dado su consentimiento para la publicación del caso clínico y, además, se han notificado estos acontecimientos adversos al Sistema Español de Farmacovigilancia de Medicamentos de Uso Humano.
+El caso 1 es un varón de 36 años con antecedentes de pericarditis aguda idiopática en 2013, sin tratamiento habitual. Acudió a urgencias por dolor torácico opresivo de horas de evolución, que no mostraba relación con los esfuerzos, aumentaba con la inspiración profunda y el decúbito y mejoraba con la sedestación. El paciente refirió similitud del dolor con el episodio previo de pericarditis. No presentaba fiebre y negó infecciones respiratorias recientes. No tenía antecedentes de COVID-19. Había recibido la segunda dosis de la vacuna de ARNm BioNTech-Pfizer 11 días antes del inicio de los síntomas.
+Durante su estancia en el centro, el paciente se mantuvo hemodinámicamente estable, con saturación adecuada y exploración física sin hallazgos relevantes (sin soplos ni roce pericárdico).
+En el electrocardiograma (figura 1A ) se observó taquicardia sinusal sin signos claros de pericarditis. La analítica sanguínea mostró leucocitosis (11,60 × 103/μl) con neutrofilia (8,7 × 103/μl), sin elevación de reactantes de fase aguda (proteína C reactiva, 1,80 mg/l; dímero D, 117 ng/ml). Los marcadores de daño miocárdico fueron negativos: troponina de alta sensibilidad, 9 ng/l (0-72). La radiografía de tórax no mostró hallazgos relevantes.Figura 1
+El paciente fue dado de alta con juicio clínico de pericarditis aguda incipiente, aunque en ese momento cumplía únicamente un criterio diagnóstico (dolor de características pericardíticas). Por ello, ante la sospecha clínica, se inició tratamiento con antiinflamatorios no esteroideos (ibuprofeno 600 mg/8 h) y colchicina. Se valoró al paciente en la consulta externa de cardiología 48 h después, y se confirmó el diagnóstico de pericarditis tras la realización de un nuevo electrocardiograma , en el que se aprecia descenso del segmento PR con elevación incipiente del segmento ST, inframilimétrica, cóncava y generalizada, no presente en el electrocardiograma previo. Se realizó un ecocardiograma transtorácico, en el que no se visualizó derrame pericárdico ni otros hallazgos. El paciente presentó una evolución favorable, con cese completo del dolor, y se mantiene asintomático.
+El caso 2 es un varón de 80 años con antecedentes de fibrilación auricular paroxística tratada mediante crioablación de venas pulmonares en 2009. Fue derivado a urgencias por su médico de atención primaria por un dolor de 4 días de evolución localizado en el hemitórax izquierdo. No existía relación con los esfuerzos y empeoraba con la inspiración profunda. No presentaba fiebre y negaba infecciones respiratorias recientes. Había recibido la segunda dosis de la vacuna de ARNm BioNTech-Pfizer 11 días antes del inicio de los síntomas. No tenía antecedentes de COVID-19.
+El paciente se mantuvo en estabilidad hemodinámica, con buenas saturaciones y sin hallazgos relevantes a la exploración física (sin soplos ni roce pericárdico).
+En el electrocardiograma (figura 2A ) se observó supradesnivelación del segmento ST localizada a nivel de las caras inferior (II, III y AVF) y lateral baja (V4-V6), con voltajes disminuidos en dichas derivaciones. La analítica sanguínea mostró elevación de reactantes de fase aguda (proteína C reactiva, 58 mg/l; dímero D, 586 ng/ml) y valores del hemograma normales. Los marcadores de daño miocárdico fueron negativos: troponina de alta sensibilidad 7 ng/l. La radiografía de tórax no mostró hallazgos relevantes.Figura 2
+El diagnóstico de pericarditis se realizó con base en el dolor de características pericardíticas y el electrocardiograma compatible. El paciente fue dado de alta en tratamiento con antiinflamatorios no esteroideos y colchicina, y se suspendió la antiagregación plaquetaria. El paciente acudió de nuevo a urgencias 5 días después por diarrea por colchicina; se halló una leucocitosis (14,56 × 103/μl) con neutrofilia (12,5 × 103/μl), persistencia de parámetros inflamatorios (proteína C reactiva, 56,3 mg/l; fibrinógeno, 736 mg/dl) y ECG compatible . Valorado en consultas externas, se le realizó un ecocardiograma transtorácico, en el que se visualizó mínimo derrame pericárdico de distribución global.
+En ambos casos se completó el estudio con una serología posterior a la vacuna, que evidenció respuesta vacunal positiva (anticuerpos anti-proteína S) a títulos de 333 y 133 UA/ml, respectivamente, sin evidencia serológica de COVID-19 previa (anticuerpos anti-nucleocápside).
+Aunque no puede establecerse causalidad, la correlación temporal (ambos casos acontecidos 11 días después de la segunda dosis), así como la plausibilidad biológica de respuesta autoinmunitaria o reacción cruzada por mimetismo molecular, hacen razonable la sospecha de reacción adversa medicamentosa.
+En conclusión, se presentan los 2 casos de pericarditis acontecidos tras la vacunación anti-SARS-CoV-2. Se recuerda la importancia de vigilar y notificar los eventos adversos que los pacientes sufran tras la vacunación y comunicar aquellos que sean graves o desconocidos.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONTRIBUCIÓN DE LOS AUTORES
+
+A. Ramírez-García es la redactora principal del texto. S. Lozano Jiménez, la correctora principal de los casos clínicos. A. Ramírez-García, S. Lozano Jiménez, I. Darnaude, A. Gil Cacho y R. Aguado-Noya atendieron y diagnosticaron a los pacientes. J. Segovia es el jefe del Servicio de Cardiología del hospital.
+
+
+- CONFLICTO DE INTERESES
+
+Todos los autores declaran que no existen conflictos de intereses.

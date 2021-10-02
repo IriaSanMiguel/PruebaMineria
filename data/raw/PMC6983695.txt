@@ -1,0 +1,107 @@
+DISEÑO Y VALIDACIÓN DE UN CUESTIONARIO SOBRE CONOCIMIENTOS Y HÁBITOS EN HIGIENE CORPORAL INFANTIL (HICORIN<SUP>®</SUP>)<SUP
+
+
+- INTRODUCCIÓN
+
+Un adecuado nivel de higiene corporal es importante para la salud. Así lo demostró la instauración de hábitos de higiene personal en el siglo xx que, junto a otros factores, tuvo un papel decisivo en la disminución de la mortalidad infantil y el aumento de la esperanza de vida en todos los grupos de edad.
+En la actualidad es conocido que unos hábitos de higiene corporal deficitarios pueden suponer problemas de salud a nivel individual y comunitario, pudiendo aparecer enfermedades infecciosas y parasitarias como neumonía, otitis, micosis, diarrea, caries dental, gingivitis, pediculosis, etc.
+Por otro lado, según sugiere la «hipótesis de la higiene», el exceso de higiene, unido a la mejora de las condiciones de salud, contribuiría a un aumento de la incidencia de trastornos autoinmunes como esclerosis múltiple, enfermedades alérgicas o enfermedad inflamatoria intestinal.
+Muchas de las enfermedades mencionadas poseen una alta prevalencia en la edad infantil. Así, se observa una prevalencia de caries y gingivitis en niños superior al 80%, y problemas como la vulvovaginitis en niñas, relacionada en un 76% con una higiene inadecuada. Los datos sobre prevalencia empeoran en menores de entornos con un nivel socioeconómico bajo, donde se ha encontrado una tasa de caries casi 3 veces superior, y 9 veces superior en enfermedades óticas. Además, y aunque la desatención en la higiene afecta especialmente a su salud, también se relaciona con efectos como el rechazo social, la disminución de la calidad de vida o el estigma social.
+Por otra parte, la etapa infantil, sobre todo con edades comprendidas entre los 6 y 12 años, es clave para la adquisición de conocimientos y hábitos relacionados con la higiene corporal, y en esta adquisición temprana son determinantes tanto el entorno familiar como el escolar. Además, la educación a los padres y otros agentes que intervienen en el aprendizaje de hábitos relacionados con la higiene infantil, aspecto que se incluiría en la prevención primaria, debe ser un objetivo clave en los servicios de atención primaria. Pese a ello, son escasos los estudios en higiene corporal infantil. Esta carencia puede verse favorecida por la escasez de instrumentos dirigidos a estudiar la higiene infantil. Más de la mitad de los cuestionarios hallados en la literatura especializada no están validados o no aportan suficientes pruebas acerca de su validación. Dichos cuestionarios solo valoran aspectos concretos: higiene bucodental, manos, zona perineal, cabello, piel corporal y pies, no existiendo ninguno que valore de manera integral la higiene corporal.
+El objetivo del estudio fue diseñar y validar un cuestionario que valore integralmente conocimientos y hábitos de higiene corporal en población infantil de 7 a 12 años en el ámbito escolar y sociosanitario.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO
+
+Validación de un cuestionario desarrollado en 5 etapas : 1) selección y redacción de ítems, 2) validación de contenido por expertos, 3) pilotaje cognitivo, 4) análisis de la respuesta a los ítems, y 5) evaluación de la fiabilidad.Figura 1
+
+
+-- SELECCIÓN Y REDACCIÓN DE ÍTEMS
+
+Se realizó una búsqueda bibliográfica con el objetivo de identificar ítems recogidos en instrumentos que midieran conocimientos y hábitos de higiene corporal en el entorno doméstico y escolar en población infantil. Para ello se utilizaron las bases de datos: MEDLINE, CUIDEN, MEDES, SciELO e IME. Para las bases de datos en inglés se emplearon los «Major MeSH»:«Hygiene», «Child»; y el «Minor MeSH»: «Questionnaire». Para las bases de datos en castellano los DeCS: «higiene», «niño», «cuestionario» y el término «escolares» en lenguaje natural. Los límites establecidos fueron: idioma (inglés, francés y castellano) y fecha de publicación (enero 1992-marzo 2013). La estrategia de localización de documentos se completó con la búsqueda inversa de artículos.
+Posteriormente se decidieron las dimensiones de la higiene corporal que debía incluir el cuestionario y se seleccionaron los ítems que se adaptaban al objetivo del estudio. Finalmente se redactaron nuevos ítems en las dimensiones en las que la bibliografía no aportaba suficientes .
+
+
+-- VALIDACIÓN DE CONTENIDO POR EXPERTOS
+
+Los constructos o conceptos a medir determinan los procesos de validación. En nuestro caso, al ser la higiene corporal un hábito observable y medible, lo adecuado es aportar pruebas de la validez de contenido del cuestionario. Se consultó a un grupo multidisciplinario de 7 expertos del ámbito asistencial y/o académico con una dilatada experiencia en el tema de estudio. Se pidió al grupo de expertos que: 1) asignaran los ítems a cada una de las dimensiones de la higiene corporal incluidas en el cuestionario; 2) evaluaran los ítems atendiendo a su relevancia (escala Likert: 1 nada relevante, 3 muy relevante); 3) evaluaran el grado de comprensión del ítem (escala Likert: 1 no comprensible, 3 muy comprensible) así como la necesidad de una redacción alternativa; 4) elaborasen nuevos ítems que completaran cada dimensión; y 5) evaluaran globalmente el cuestionario y las dimensiones que lo integraban.
+Para la validación de contenido se calculó el índice de validez de contenido a partir de la puntuación media obtenida en la pregunta «relevancia» de cada uno de los ítems del cuestionario. Se estableció como criterio de selección una puntuación igual o mayor a 2,25.
+Con respecto a la respuesta referida a la «comprensión», los ítems que no alcanzaron la puntuación mínima de 2,25, pero que fueron considerados relevantes por los expertos, se reformularon atendiendo a las observaciones y redacciones alternativas propuestas.
+Finalmente, se revisaron las observaciones globales indicadas por los expertos, siendo introducidas en el cuestionario.
+
+
+-- PILOTAJE COGNITIVO
+
+Se realizó sobre la versión obtenida tras la validación por expertos, seleccionándose una muestra intencional de 14 menores de entre 7 y 12 años, con diferentes perfiles socioeconómicos y familiares. Ocho menores pertenecían a entornos sociofamiliares estructurados y 6 provenían de una situación familiar no normalizada estando tutelados por la Administración Pública y residiendo en un centro de menores. Se valoró la aceptabilidad del cuestionario, el tiempo de cumplimentación y la comprensión del mismo según la edad del menor. También se valoró si la secuencia y orden de las preguntas tenían una organización lógica.
+
+
+-- ANÁLISIS DE LA RESPUESTA AL ÍTEM
+
+Se administró el cuestionario de hábitos y conocimientos de higiene corporal infantil (HICORIN®) a una muestra de 72 menores con edades comprendidas entre 7 y 12 años. Se realizó un análisis de la respuesta a los ítems con la intención de detectar aquellos con una elevada frecuencia de no repuesta.
+
+
+-- ESTUDIO DE LA FIABILIDAD DEL CUESTIONARIO
+
+Para valorar la fiabilidad del cuestionario se utilizó como indicador de estabilidad temporal el método test-retest. Se administró el cuestionario 2 veces a 16 sujetos con una diferencia de 14 días entre ambas mediciones. Se calculó el coeficiente de correlación Rho de Spearman de cada uno de los ítems del cuestionario. Se omitieron del análisis los ítems con una varianza cero (10 ítems) y los que se refieren a preguntas sobre conocimientos (8 ítems), dado que tras la primera administración puede producirse un aprendizaje, modificando la respuesta en el retest. Para el análisis de los datos se utilizó el programa SPSS 21.0.
+
+
+-- ASPECTOS ÉTICOS
+
+Este estudio ha obtenido la autorización del Comisión de Ética de Investigación de la Universidad de Murcia. Para la colaboración de los niños en el pilotaje cognitivo y el estudio de la respuesta de los ítems del cuestionario se solicitó por escrito autorización a los padres y/o tutores legales de los niños. La Dirección General de Política Social, para los menores en situación de desamparo tutelados por la comunidad autónoma de la Región de Murcia, también autorizó la recogida de datos en sus centros.
+
+
+- RESULTADOS
+
+-- SELECCIÓN Y REDACCIÓN DE ÍTEMS
+
+Se obtuvieron 1.529 artículos de los que finalmente se seleccionan 20 . De los artículos seleccionados 17 tratan aspectos sobre higiene bucodental, 11 sobre manos, 11 sobre piel corporal, 6 sobre cabello, 3 sobre higiene perineal y uno sobre higiene podal. Ninguno incluye el estudio de la higiene ótica. Doce de los 20 estudios presentan instrumentos que señalan haber sido sometidos a validación, aunque ninguno hace una descripción completa de su proceso; solo 3 de estos 12 cuestionarios aportan características psicométricas.
+El total de ítems obtenidos de la bibliografía relacionados con nuestro objetivo fue 107, seleccionándose 34. Se valoró que era necesario incluir nuevos ítems para estudiar integralmente los hábitos y conocimientos en higiene infantil, por lo que se redactaron 48 ítems. En la tabla 2 se detalla el proceso de selección y diseño de los ítems.
+Así se obtuvo una primera versión del HICORIN® con 82 ítems, que fueron estructurados en 3 secciones: 1) características familiares y sociodemográficas; 2) valoración de conocimientos y hábitos en higiene corporal, compuesto por 7 dimensiones: piel corporal, cabello, manos, bucodental, pies, oídos e higiene íntima; y 3) otros aspectos relacionados con la higiene.
+En la sección 2 (valoración de conocimientos y hábitos en higiene corporal) la secuencia en el orden de los ítems para cada dimensión sigue una misma estructura: frecuencia y hábitos de limpieza; momento de realización; grado de autonomía; procedimiento; uso de material y conocimientos.
+
+
+-- VALIDACIÓN DE CONTENIDO
+
+De la primera versión del cuestionario se eliminaron 12 ítems cuya puntuación en el índice de validez de contenido estaba por debajo de 2,25. Con respecto al grado de comprensión de los ítems, el grupo de expertos valoró 8 por debajo de 2,25. De estos, 5 ya habían sido descartados al presentar puntuaciones de índice de validez de contenido inferiores a 2,25. Los 3 ítems considerados relevantes se volvieron a redactar siguiendo las recomendaciones de los expertos.
+El grupo de expertos propuso modificaciones en la redacción de 34 ítems. Además señalaron las siguientes recomendaciones:-Diferenciar el tipo de administración entre niños de 7 a 10 años y niños de 11 y 12 años. Dicha distinción viene justificada por el desarrollo cognitivo del niño para comprender la temporalidad de algunos ítems. Así, se decidió que HICORIN® para niños de 7 a 10 años fuera heteroadministrado, y para niños de 11 y 12 autoadministrado.-Agrupar los ítems sobre hábitos de higiene similares (ejemplo, ducha vs. baño). Esto supuso la reducción de 7 ítems.-Reducir la extensión del cuestionario. Esta recomendación se consiguió con la eliminación de los ítems mencionados anteriormente.-Minimizar los saltos entre preguntas que llevan a otra sección del cuestionario y advertirlos de manera sencilla y clara.-Informar sobre los hábitos de higiene corporal correcta, tanto a niños como a padres y/o tutores legales tras la aplicación del cuestionario.
+Finalmente se obtuvo una versión del cuestionario HICORIN® con 63 ítems agrupados en 3 secciones: 1) características familiares y sociodemográficas (14 ítems); 2) valoración de conocimientos y hábitos en higiene corporal (45 ítems); y 3) otros aspectos relacionados con la higiene (4 ítems).
+
+
+-- PILOTAJE COGNITIVO
+
+Tras el pilotaje y para mejorar el grado de comprensión de los niños, se realizaron modificaciones gramaticales y se adaptaron algunos términos a un lenguaje más coloquial.
+Los menores encuestados indicaron que les resultó fácil y que ninguna pregunta les hacía sentir incómodos. El tiempo para responder el cuestionario, en niños de 7 a 10 años osciló entre 13-15 min y para los niños de 11 y 12 años entre 10-12 min.
+
+
+-- ANÁLISIS DE RESPUESTA A LOS ÍTEMS
+
+La frecuencia de no respuesta a los ítems fue baja. Únicamente se superó el 10% en la opción de respuesta «no lo sé» del ítem 60 («¿Quién te ha enseñado como debes lavarte y asearte?») con un 23,61% de no respuesta; y en la opción «solo cuando me acuerdo» del ítem 39 («Señala en qué momentos te lavas los dientes») con un 11,11% de no respuesta. Se decidió la supresión de la opción «No lo sé» del ítem 60.
+
+
+-- ESTUDIO DE LA FIABILIDAD DEL CUESTIONARIO
+
+La fiabilidad test-retest sobre la muestra utilizada, medida con la prueba Rho de Spearman, mostró que en un 27,27% de los ítems analizados la concordancia fue muy buena (valores entre 0,81 y 1); en el 34,1% de los ítems buena (valores entre 0,61 y 0,80); en el 22,72% de los ítems moderada (valores entre 0,41 y 0,60); y en el 9% de los ítems débil (valores entre 0,21 y 0,40). Obtuvieron puntuaciones próximas al valor nulo 2 de las opciones del ítem 42 («¿Para lavarte los dientes?»), opción 5: «usas limpiador lingual» y opción 8:«usas cepillo interdental». Se decidió eliminarlas al considerar que el infrecuente uso de estos utensilios dificulta la consistencia de la respuesta y la hace poco fiable.
+
+
+- DISCUSIÓN
+
+A pesar de que la higiene corporal infantil constituye un aspecto básico para el mantenimiento de la salud y la prevención de numerosas enfermedades infectocontagiosas, existen pocos estudios e instrumentos de valoración de la higiene corporal.
+HICORIN® es un instrumento que ha demostrado poseer una fiabilidad y validez adecuada para valorar los conocimientos y hábitos de higiene corporal en niños de 7 a 12 años. Además presenta una buena comprensibilidad con porcentajes de no respuesta muy bajos y su administración es rápida tanto en niños de 7 a 10 (heteroadministrado) como en menores de 11 y 12 años (autoadministrado).
+HICORIN® mejora algunos aspectos del resto de los instrumentos localizados. En primer lugar, supera la insuficiente descripción del proceso de validación y detalle de las propiedades psicométricas de los instrumentos encontrados, , , , , , , , , , , , , , , , , , , que solo es descrita en 3 de ellos, , . En segundo lugar, ofrece una valoración integral de la higiene corporal infantil valorando 7 dimensiones (piel corporal, cabello, manos, bucodental, pies, oídos e higiene íntima). De los cuestionarios hallados, solamente uno es específico para la evaluación de hábitos higiénicos y el resto valoran la salud infantil en general e incluyen aspectos concretos de la higiene corporal, , , , , , , , , , , , , , , , , , . En tercer lugar, HICORIN® es un instrumento validado para población infantil tanto general como institucionalizada y en el contexto español. Otros cuestionarios desarrollados en España no contaban con estas características, , , , , , , . Asimismo permite su uso en poblaciones de diverso nivel socioeconómico.
+Por otra parte, la mayoría de los cuestionarios están dirigidos al individuo enfermo o a su cuidador, lo cual podría enmarcarse en el ámbito de la prevención secundaria o terciaria. Un aspecto a destacar de HICORIN® es la aproximación positiva que posee, ya que se puede utilizar en personas sanas para evitar enfermedades que podrían no suceder incluyendo claramente el nivel de prevención primaria.
+HICORIN® evalúa los conocimientos, frecuencia y hábitos higiénicos en población infantil; permite estudiar para cada dimensión el grado de autonomía en los autocuidados higiénicos cotidianos, reconocer los agentes transmisores de conocimientos y hábitos en higiene corporal, valorar la importancia autodeclarada que les merece la higiene corporal e identificar si existe rechazo social motivado por una inadecuada higiene corporal. Por tanto, la información obtenida con este cuestionario puede ser útil para realizar una adecuada planificación sanitaria, ayudando en el diagnóstico de salud de la comunidad, en la identificación de necesidades y problemas de salud, así como la asignación de medios y recursos, y en la evaluación de resultados.
+Hay que destacar que el ámbito de uso del cuestionario abarca tanto al entorno educativo como sociosanitario. Entre sus utilidades, destacar que podría emplearse en los servicios de protección de menores, formando parte de los protocolos de valoración infantil, y en los procesos de supervisión sanitaria de los menores.
+Como limitaciones debemos señalar que HICORIN® debe ser utilizado exclusivamente en los contextos para los que ha sido validado (educativo y sociosanitario), y siguiendo las recomendaciones descritas, ya que puede presentar dificultades de comprensión para menores de 7 años. La naturaleza de las variables que se pretenden medir (hábitos higiénicos) ha determinado que no se pueda realizar una validación de constructo del cuestionario. Tampoco se ha podido realizar una validación de criterio por no contar con otros cuestionarios validados que midieran el mismo concepto. En términos generales HICORIN® proporciona bastantes garantías respecto a la precisión con la que mide. Los resultados del coeficiente de fiabilidad test-retest han sido entre muy buenos y moderados en un 84,1% de los ítems. Sin embargo, hay 4 ítems con puntuaciones débiles; el ítem 49 «¿Has usado el mismo calzado los últimos siete días?»; el ítem 50 «¿Alguien te ayuda a cortarte las uñas de los pies?»; el ítem 54 «¿Con qué te limpias los oídos?»; y la primera opción del ítem 39 «Señala en qué momentos te lavas los dientes, opción: Al levantarme por la mañana». Se debe tener precaución en el análisis de estos ítems y constatar su adecuado funcionamiento en próximos estudios.
+Podemos concluir señalando que HICORIN® es un instrumento fiable y valido que valora integralmente los conocimientos, los hábitos y la autonomía de los cuidados en higiene corporal en población infantil de 7 a 12 años. Es útil para la identificación de hábitos de higiene inadecuados, posibilitando la educación en higiene corporal del niño y las familias de manera focalizada. Además es aplicable tanto en el ámbito sociosanitario como en el educativo y para niños sanos de diverso nivel socioeconómico. Lo conocido sobre el temaHay pocos cuestionarios que incorporen el estudio de los hábitos y conocimientos en higiene corporal en la población infantil.Los cuestionarios que existen estudian aspectos focalizados de higiene, no existiendo ninguno que valore la higiene corporal infantil de manera integral.La mayoría de los cuestionarios se dirigen al ámbito de la prevención secundaria o terciaria.Qué aporta este estudioHICORIN® es un instrumento fiable y valido que valora integralmente los conocimientos, los hábitos y la autonomía de los cuidados en higiene corporal en una población infantil sana de entre 7 y 12 años.Es útil para la identificación de hábitos de higiene inadecuados, posibilitando la educación en higiene corporal del niño y las familias de manera focalizada. Se enmarca en la prevención primaria.Es aplicable en ámbitos sociosanitario y educativo y para niños de diverso nivel socioeconómico.
+
+
+- FINANCIACIÓN
+
+Sin financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno.

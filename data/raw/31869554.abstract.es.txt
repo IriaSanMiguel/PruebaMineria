@@ -1,0 +1,5 @@
+La prevalencia de lesiones acciden­tales fue 5.15% (IC95%: 1.43-6.16) equivalente a cerca de 3.3 millones de personas. La probabilidad fue mayor en hombres, en la región CDMX-EdoMex y en personas con discapacidad auditiva/motora.
+Diseño transversal que analiza el componente de accidentes de la Ensanut 100k, encuesta probabilística, estratificada, por conglomerados que sobrerrepresenta hogares beneficiarios del programa Prospera y aquellos con menos recursos económicos. Su asociación con distintas variables independientes se estableció a partir de un modelo de regresión logística, considerando el muestreo complejo.
+Estimar la prevalencia de lesiones accidentales en población que reside en localidades con <100 000 habitantes y analizar su asociación con características individuales, ambien­tales y del hoga.
+Es necesario fortalecer la política de prevención de lesiones accidentales, especialmente la dirigida a grupos con alta vulnerabilidad social y económica, para cuidar su salud y calidad de vida, y reducir la carga que generan para la salud pública.
+

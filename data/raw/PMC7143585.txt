@@ -1,0 +1,61 @@
+ACTITUD DIAGNÓSTICA Y TERAPÉUTICA ANTE EL PACIENTE CON FIEBRE DE RECIENTE COMIENZO
+
+
+- INTRODUCCIÓN
+
+La temperatura corporal se mantiene próxima a los 37 °C, a pesar de los cambios en la temperatura ambiental, gracias a mecanismos de termogénesis y termólisis situados en el hipotálamo. La fiebre se define como el aumento de la temperatura corporal, medido en forma objetiva, que sobrepasa los 37,8 °C en la cavidad oral o los 38,4 °C en el recto. Normalmente existe un ritmo circadiano que hace que la temperatura varíe en el transcurso del día, siendo más baja en horas tempranas de la mañana y más elevada en las horas de la tarde.
+La fiebre no es una manifestación clínica exclusiva de la infección, pudiendo aparecer también en otras patologías como neoplasias. Sin embargo, la fiebre de aparición reciente (siete días o menos) es habitualmente secundaria a un proceso infeccioso. En un paciente con fiebre pueden existir diferentes signos o síntomas que nos ayudan a orientar el diagnóstico, pero en otras ocasiones la fiebre es el único síntoma clínico, por lo que el diagnóstico puede resultar más complicado. En algunos casos, el patrón de la fiebre puede ser característico de patologías concretas; por ejemplo, la fiebre en agujas con escalofríos sugiere una infección bacteriana más que vírica. Definimos fiebre de reciente comienzo o de corta duración aquella que tiene menos de 7 días de evolución. La fiebre de duración intermedia (FDI) es aquella que dura entre 1 y 4 semanas, sin antecedentes de estancia hospitalaria, de inmunodeficiencia u otra enfermedad subyacente crónica que pueda justificar su presencia, y que tras una evaluación clínica y complementaria elemental permanece sin orientación diagnóstica. Finalmente, definimos fiebre de origen desconocido (FOD) como la presencia de una temperatura corporal superior a 38,3 °C, durante un período no inferior a 3 semanas, sin antecedentes de estancia hospitalaria, de neutropenia o de infección por el virus de la inmunodeficiencia humana (VIH) y que persiste sin diagnosticar a pesar de estudios adecuados y después de, al menos, 3 visitas ambulatorias o tres días de estancia hospitalaria, .
+Es importante diferenciar la fiebre de la hipertermia. En la hipertermia la temperatura corporal se eleva de forma incontrolada, perdiéndose el ritmo circadiano, y los antipiréticos no reducen su elevación. Las causas más importantes de hipertermia son el ejercicio exhaustivo, el golpe de calor, el síndrome neuroléptico maligno, la administración de ciertas sustancias como anestésicos, cocaína o anfetaminas, el exceso de catecolaminas (feocromocitoma), la tirotoxicosis y la deshidratación intensa, .
+
+
+- VALORACIÓN DEL PACIENTE CON FIEBRE DE RECIENTE COMIENZO
+
+En el paciente con fiebre de menos de una semana de evolución sin signos de alarma, procederemos, tras la historia clínica y la exploración física, a identificar aquellos signos de focalidad que orienten a la localización de la causa del proceso febril, y que determinarán los exámenes complementarios a realizar para confirmar la localización sospechada e iniciar el tratamiento más adecuado (Tabla 1 ).
+
+
+-- ANAMNESIS Y EXPLORACIÓN FÍSICA
+
+En la anamnesis se preguntará por el tiempo de evolución de la fiebre, su intensidad y su ritmo, la presencia de síntomas acompañantes (mialgias, artralgias, cefalea, escalofríos, exantemas), enfermedades previas, vacunación, consumo de alimentos no higienizados, contacto con animales, picaduras de insectos, consumo de drogas o fármacos, hospitalización reciente, hábitos sexuales, viajes recientes, enfermedades febriles en otros miembros de su familia, profesión e interrogatorio completo de síntomas por aparatos. En la exploración, debe valorarse de forma fundamental el estado general recogiendo las constantes y, después, proceder a una exploración general sistemática y especialmente dirigida al lugar definido por posibles síntomas localizadores. Se atenderá al estado de la piel y las mucosas, lesiones por picaduras de insectos, examen de boca y faringe, examen de senos paranasales, adenopatías, exploración de tiroides y signos meníngeos, auscultación cardíaca y respiratoria, abdomen (masas, puntos dolorosos, organomegalias y ascitis), puño percusión lumbar y de columna vertebral. En ciertas ocasiones en las que el paciente refiere sintomatología concreta puede ser necesaria una exploración articular y neurológica completa (fig. 1 ).Fig. 1
+
+
+-- CRITERIOS DE ALARMA
+
+En el manejo de los pacientes que tras una anamnesis cuidadosa y una exploración completa no muestran datos de focalidad, se tendrán en cuenta la presencia de signos de alarma que requieran ingreso hospitalario. Existen determinados criterios clínicos y analíticos que indican la gravedad y, por tanto, la necesidad del ingreso hospitalario. Dentro de los criterios clínicos tenemos que tener en cuenta: la inestabilidad hemodinámica, insuficiencia respiratoria, cardíaca o hepática, abdomen agudo, obnubilación, hipotensión y shock y, dentro de los criterios analíticos, la granulopenia (cifras de granulocitos < a 1.000/mm3), criterios de coagulación intravascular diseminada (CID) y acidosis metabólica. En los casos en los que el paciente muestra signos o síntomas de gravedad, el tratamiento debe instaurarse precozmente, con antibióticos empíricos de amplio espectro y soporte hemodinámico y/o ventilatorio.
+
+
+-- NO FOCALIDAD CLÍNICA NI SIGNOS DE ALARMA
+
+En un paciente previamente sano, que no presenta signos de alarma que requieran ingreso, y que consulta por fiebre de reciente comienzo con buena tolerancia, sin focalidad y en ausencia de epidemia conocida, no será preciso realizar ningún examen complementario; únicamente administraremos tratamiento sintomático (antipiréticos) y control clínico, y le instruiremos acerca de posibles signos de alarma. Habitualmente son procesos benignos, autolimitados y de origen viral; la causa más frecuente es la gripe estacional y el resfriado común.
+
+
+-- PRUEBAS COMPLEMENTARIAS
+
+En aquellos pacientes con comorbilidades (previamente enfermos) donde es más probable la presencia de infección bacteriana (ancianos, pacientes con sonda urinaria o dispositivos protésicos, ingreso reciente, inmunosupresión o enfermedades crónicas debilitantes), se realizarán estudios complementarios para localizar el foco primario y ayudar a definir la gravedad del proceso causal. Las exploraciones complementarias a realizar serán: hemograma con recuento diferencial y plaquetas, bioquímica (glucosa, urea, iones, creatinina), radiografía de tórax y sedimento de orina. En función de la patología previa del paciente y de la gravedad de los síntomas puede ser necesario realizar algún otro estudio complementario como gasometría arterial, electrocardiograma o pruebas de imagen (tomografía computarizada o ecografía). En estos casos siempre obtendremos muestras para hemocultivos (al menos 2 extracciones de puntos diferentes con media hora de intervalo), un urocultivo y cultivo de todos aquellos líquidos, secreciones o lesiones cutáneas que parezcan relevantes desde el punto de vista clínico (fig. 2 ).Fig. 2
+
+
+- DIAGNÓSTICO DIFERENCIAL
+
+-- CRITERIOS DE SOSPECHA DE INFECCIÓN BACTERIANA
+
+El mejor método para el diagnóstico de una infección bacteriana es el cultivo de muestras biológicas, pero el resultado de las mismas se obtiene de forma tardía. A pesar de ello hay marcadores que nos pueden orientar hacia una infección bacteriana para poder iniciar precozmente el tratamiento antibiótico. Los datos que orientan a una infección bacteriana son: leucocitosis con desviación a la izquierda, aumento de la proteína C reactiva (PCR) o procalcitonina, sedimento urinario patológico con sintomatología miccional o puñopercusión lumbar positiva, radiografía de tórax con imagen de condensación y análisis bioquímico de líquidos corporales patológicos (líquido cefalorraquídeo [LCR], pleural, ascítico).
+
+
+-- SEGÚN FOCALIDAD CLÍNICA
+
+En función de la sintomatología focal del paciente trazaremos las directrices diagnósticas. Si el paciente presenta diarrea es importante la anamnesis dirigida a viajes recientes, alimentos contaminados y medicación recibida. Habitualmente la mayoría de los pacientes con enteritis no requieren pruebas complementarias, salvo en mayores de 65 años, fiebre > 38 °C con presencia de sangre en heces, afectación del estado general y/o deshidratación, ingresos hospitalarios recientes y antecedentes epidemiológicos de exposición a patógenos (como viajes a zonas endémicas). En estos casos solicitaremos hemograma, coprocultivo y otras determinaciones de patógenos en heces y evaluaremos la necesidad de ingreso hospitalario. Si el paciente presenta dolor abdominal será prioritario descartar las causas de abdomen agudo que requieran intervención quirúrgica (apendicitis, colecistitis, etc.). Prácticamente siempre que exista fiebre y dolor abdominal realizaremos analítica completa con función hepática y una prueba de imagen que puede incluir radiografía de abdomen y/o ecografia abdominal. Las causas más frecuentes son colecistitis, apendicitis, diverticulitis y enfermedad inflamatoria pélvica.
+En caso de que el paciente presente síntomas urinarios y dolor lumbar, con una puñopercusión lumbar positiva, la causa más frecuente será la pielonefritis aguda (especialmente en mujeres). En el varón se recomienda descartar prostatitis mediante un tacto prostático.
+Los pacientes que presenten sintomatología neurológica no focal, como obnubilación, rigidez de nuca, vómitos, deberemos pensar en primer lugar en una meningitis bacteriana y realizar una punción lumbar y tratamiento antibiótico empírico de forma precoz, ya que la meningitis bacteriana es un cuadro muy grave, con alta mortalidad y en el que la precocidad del tratamiento condiciona el pronóstico del paciente. Cuando el paciente presente además focalidad neurológica o bien tenga clínica neurológica (síntomas o signos) previos a la aparición de fiebre o se trate de un paciente con enfermedad inmunodepresora de base, deberemos considerar siempre la realización de una tomografía computarizada craneal previa a la punción lumbar para descartar una lesión ocupante de espacio o herniación cerebral.
+Si los síntomas acompañantes son de origen respiratorio como tos, expectoración mucopurulenta o herrumbrosa, dolor torácico pleurítico, hemoptisis o disnea, deberemos pensar como primera posibilidad en una neumonía bacteriana. Otras causas incluyen las exacerbaciones de la bronquitis crónica y las bronquitis agudas virales.
+También existen otras causas de fiebre en las que agrupamos infecciones de la piel y partes blandas (celulitis, eritema nodoso, infección de herida, mordedura de animales, úlcera cutánea) lesiones en piel, odontológicas, tropicales (viajeros), ostoarticulares (artritis séptica), síndromes mononucléosidos, otitis y faringitis. En ellas se realizarán, según el caso, los diferentes estudios complementarios.
+
+
+-- FIEBRE DEL VIAJERO
+
+Un caso especial es la aparición de fiebre en personas que regresan de viajes procedentes de zonas de riesgo de enfermedades con restricción geográfica. En estos casos, el abanico diagnóstico se amplía. Muchas veces se trata de pacientes jóvenes sin focalidad infecciosa aparente. El interrogatorio debe incluir el país de destino, el tiempo de estancia y la realización de profilaxis (tanto vacunas como profilaxis antimalárica). Tras viajes a zonas endémicas de malaria, siempre deberemos considerar el realizar una gota gruesa para descartar esta enfermedad.
+
+
+- TRATAMIENTO
+
+El tratamiento dependerá de cada enfermo, considerando la existencia o no de foco o causa de la fiebre, la duración del cuadro y los criterios clínicos y analíticos de gravedad.
+Los antitérmicos no deben emplearse de forma rutinaria, ya que la curva térmica nos puede ayudar a diferenciar entre infección bacteriana, vírica o proceso no infeccioso. Cuando optamos por administrar antipiréticos, el paracetamol es el fármaco de elección por su eficacia, comodidad y escasa toxicidad si se utilizan en dosis adecuadas.
+En casos en los que la sospecha diagnóstica sea una infección bacteriana, administraremos el antibiótico lo más precozmente posible y la elección del mismo se basará en la etiología que sospechemos.

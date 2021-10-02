@@ -1,0 +1,84 @@
+PREVALENCIA DE ENFERMEDADES CARDIOVASCULARES Y DE FACTORES DE RIESGO CARDIOVASCULAR EN MAYORES DE 65 AÑOS DE UN ÁREA URBANA: ESTUDIO DERIVA
+
+
+- INTRODUCCIÓN
+
+Las enfermedades del sistema circulatorio fueron la primera causa de mortalidad en 2010 en España. Los principales datos disponibles sobre la epidemiología de las enfermedades cardiovasculares (ECV) se basan en registros institucionales sobre mortalidad y morbilidad hospitalaria, . A pesar de la importancia de estas enfermedades, no hay estudios poblacionales sobre los mayores de 65 años que analicen conjuntamente su prevalencia, .
+Respecto a los factores de riesgo cardiovascular (FRCV) se han desarrollado más estudios, , , . La Encuesta Nacional de Salud es la que aporta mayor información sobre la prevalencia de FRCV a escala nacional, pero no incluye medidas objetivas, lo que supone una limitación importante. Los estudios epidemiológicos en muestras representativas poblacionales que incluyen medidas antropométricas, de presión arterial y de laboratorio los evalúan con más precisión. Aunque el estudio DARIOS, que comprende la mayoría de los estudios conocidos sobre población española entre 35 y 74 años, encontró una variabilidad inferior al 20% en relación con la zona geográfica y el método empleado, en otro estudio encontraron una prevalencia de FRCV más elevada en las zonas sureste y mediterránea que en el norte y centro. Además, estos estudios, , , ponen de manifiesto que no disponemos de datos referidos a grupos de mayor edad, excepto para algunos FRCV aislados, . Por ello, es necesario conocer la distribución de estas enfermedades y sus factores de riesgo relacionados en las personas mayores.
+El objetivo fue estimar la prevalencia de enfermedades cardiovasculares, los factores de riesgo cardiovascular y las características psicosociales asociadas en mayores de 65 años.
+
+
+- MÉTODOS
+
+-- DISEÑO DEL ESTUDIO Y PARTICIPANTES
+
+Los datos se tomaron del estudio DERIVA, cuyos métodos han sido publicados. El propósito inicial de esta investigación fue explorar las necesidades y preferencias de servicios de promoción de la autonomía personal y de la atención y cuidado de las personas mayores de 65, por lo que se realizó una evaluación multidimensional de una muestra seleccionada aleatoriamente. Se trata de un estudio transversal de ámbito poblacional. Se realizó una encuesta en el domicilio de los participantes durante los meses de mayo a noviembre de 2009. La muestra fue tomada considerando como población de referencia las personas mayores de 65 años (enero de 2009) que vivían en la ciudad de Salamanca. Se excluyeron: personas fallecidas, no localizados por errores en la dirección o que residían fuera del municipio y las personas que se negaron a participar (figura 1). El protocolo fue aprobado por el Comité de Ética en Investigación del Hospital Universitario de Salamanca. Los participantes firmaron el consentimiento informado acorde a la Declaración de Helsinki.
+
+
+-- TAMAÑO DE LA MUESTRA
+
+Aceptando un riesgo alfa de 0,05 y beta de 0,20, para una prevalencia estimada de ECV del 16%, con un error del 4% y teniendo en cuenta que la población de más de 65 años era de 34.020 personas, se requiere un total de 320 participantes. El tamaño de la muestra estimado se incrementó un 50%, hasta 480 personas, para suplir posibles pérdidas, como se ha observado en estudios previos. Se realizó un muestreo aleatorio estratificado por zonas de salud.
+
+
+-- VARIABLES
+
+Se administró un cuestionario de salud basado en el OARS Multidimensional Functional Assessment Questionnaire que incluye datos demográficos y psicosociales (edad, sexo, estado civil, años de educación, convivencia, número de hijos vivos). Se preguntó por los diagnósticos recogidos en el cuestionario de morbilidad del Índice de Comorbilidad de Charlson, por los diagnósticos previos de ECV y los FRCV. Se registraron los tratamientos farmacológicos tomados en el último mes y se evaluó la información clínica disponible. Se realizaron medidas antropométricas (peso, talla, perímetro abdominal) y de presión arterial. Se determinaron las cifras de glucemia y colesterol a partir de muestras de sangre tomadas en los centros de salud respectivos y los análisis se realizaron en el hospital de la ciudad que participa en programas oficiales de garantía de calidad externa. Se evaluó el nivel de dependencia para las actividades de la vida diaria mediante el Índice de Katz. En 16 pacientes que no pudieron completar la evaluación debido a una condición clínica deteriorada –insuficiencia cardiaca (IC) (2 casos), sordera (4 casos), movilidad severamente reducida (2 casos) o discapacidad mental severa (4 casos)–, los datos fueron recogidos a través del cuidador principal, responsable del cuidado del paciente. Las entrevistas fueron realizadas por 4 evaluadores entrenados para recoger información con cuestionarios y las mediciones antropométricas programadas. Toda la información fue evaluada con el fin de establecer el diagnóstico final de la morbilidad que se considera para calcular el Índice de Charlson, las ECV y los FRCV.
+
+
+-- ESTIMACIÓN DE LA PREVALENCIA
+
+La prevalencia de ECV y FRCV se consideró de acuerdo a los criterios mostrados en la tabla 1, . La prevalencia bruta se calculó teniendo en cuenta el total de casos con respecto a la muestra total. Se calcularon la prevalencia global y específica, así como los intervalos de confianza del 95% (IC 95%), y para estimar la prevalencia ajustada mediante el método directo por edad y sexo se utilizó la población estándar europea como base para el ajuste.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+La diferencia de medias entre variables cualitativas de 2 categorías ha sido analizada con la prueba t de Student para muestras independientes. Valoramos la asociación entre variables cualitativas con el test de la ji cuadrado y el test de Fisher. Se realizó un análisis de regresión logística para explorar los factores sociodemográficos asociados con la ECV (1: presencia de cardiopatía isquémica [CI], enfermedad cerebrovascular [EC] o IC, ECV; 0: ausencia de estas enfermedades). Las variables independientes introducidas en el modelo fueron: edad; con cuántas personas vive (0 = con alguien; 1 = solos); años de estudios; Índice de Katz (0 = una o ninguna necesidad de ayuda; 1 = el resto) e Índice de Comorbilidad de Charlson por edad. Los datos fueron analizados utilizando la versión de SPSS/PC + 18,0 paquete estadístico (SPSS Inc., Chicago, IL, EE.UU.).
+
+
+- RESULTADOS
+
+-- MUESTRA ESTUDIADA
+
+De los 480 seleccionados no respondieron el 31,87%, el 34,83% de los varones y el 30,13% de las mujeres. La causa más común de la pérdida de casos fue la negativa a participar (83,0%). Esto sucedió especialmente entre las personas más jóvenes (edad media: 75, años ± 7,01) (p < 0,001). No había diferencia entre sexos en cuanto a la causa de la pérdida. Los 327 participantes entrevistados tenían una edad media de 76 años (± 7,33). Vivían en hogares para mayores 17 (5,2%) participantes. La tabla 2 muestra sus características sociodemográficas. Los hombres vivían más frecuentemente con pareja, tenían mayor nivel educativo y habían trabajado habitualmente a jornada completa (p < 0,01).
+
+
+-- PREVALENCIA DE ENFERMEDADES CARDIOVASCULARES Y DE FACTORES DE RIESGO CARDIOVASCULAR
+
+La tabla 3 muestra la prevalencia bruta y estandarizada de ECV y FRCV. La CI fue la ECV más frecuente en varones y la IC en mujeres. La CI, la EC y la arritmia fueron más prevalentes entre los varones, mientras que la IC y la insuficiencia renal fueron más prevalentes entre las mujeres, aunque no se encontraron diferencias significativas.
+La hipertensión fue el FRCV más frecuente tanto en varones como en mujeres . El segundo lugar corresponde a la diabetes en varones y al sedentarismo en mujeres. Se encontró en varones mayor prevalencia de fumadores (p < 0,01), ex fumadores (p < 0,01) y diabéticos, mientras que el resto de FRCV fue más prevalente entre las mujeres, especialmente obesidad (p < 0,01) y sedentarismo (p = 0,02).
+
+
+-- OTROS RESULTADOS
+
+La tabla 4 muestra las diferentes características según la presencia o no de alguna de las principales ECV (CI, EC o IC). Los que presentaban ECV tenían una edad media superior (p = 0,026) y tanto varones como mujeres eran más dependientes para actividades de la vida diaria. El Índice de Comorbilidad de Charlson mostraba un peor pronóstico en los que presentaban ECV y la hipertensión y la diabetes eran más frecuentes entre estos. Según muestra el análisis de regresión logística , la variable que favorece en mayor medida la posibilidad de ECV es el Índice de Comorbilidad de Charlson (OR = 3,06 [2,21-4,24]).
+
+
+- DISCUSIÓN
+
+Los resultados de este estudio indican que el 20,1% de los mayores de 65 años presenta una de las 3 principales causas de mortalidad cardiovascular. La CI fue la ECV más frecuente entre los varones y la IC entre las mujeres. Es el primer estudio poblacional que informa sobre la prevalencia de las ECV en mayores de 65 años en España.
+La prevalencia de CI en este estudio (global: 9,2%; estandarizada: 7,8%) es similar a la encontrada en el estudio PANES, que fue del 8,0% en varones y del 8,8% en mujeres de 65 a 74 años. En el estudio de Baena Diez et al., sobre población consultante en atención primaria, se observó una prevalencia superior al 11% en los mayores de 65 años que se incrementaba con la edad. En el Cardiovascular Health Study se ha observado un importante aumento en el grupo de 75-84 años, pero desciende en los más ancianos. Respecto al sexo, los resultados de este estudio está en la misma línea que los datos publicados en el estudio de Baena Diez et al. y en el Cardiovascular Health Study es más frecuente la CI en varones que en mujeres, aunque en el estudio PANES no encontraron diferencias.
+En este estudio, la IC la presentan el 7,5% de los mayores de 65 años. En otro estudio de base poblacional sobre prevalencia de IC realizado en Asturias, el porcentaje de sujetos mayores de 40 años con este síndrome fue del 5%, y la prevalencia aumentaba con la edad, alcanzando el 18% en mayores de 80 años. En el estudio PRICE la prevalencia de IC se duplica entre el grupo de 65-74 años y el de 75 o más (el 8 y 16,1%, respectivamente).
+A partir de los escasos datos disponibles sobre la prevalencia de EC en España, se estima que presenta unas cifras entre el 3,8 y el 11,8% en mayores de 65 años, y es más frecuente en varones y en zonas urbanas. Los resultados de este estudio muestran cifras dentro de ese rango (4,3%; IC 95%: 1,5-6) y es más frecuente en varones, coincidiendo con los datos publicados por Baena Diez et al.. En el estudio poblacional de incidencia de ictus en Alcoy se encontró un aumento de incidencia en los grupos de más de 85 años. Es importante destacar este resultado porque en las medidas preventivas en los mayores de 80-85 años habría que tener en cuenta las diferencias específicas en cuanto a factores de riesgo, etiología y gravedad de los ictus.
+Respecto a los FRCV, destaca la hipertensión como el más frecuente tanto en varones como en mujeres, los mismos resultados que obtienen Medrano et al.. Respecto a la Encuesta Nacional de Salud de 2006, no se encontraron diferencias en la prevalencia de fumadores (9,1/8,1), hipercolesterolemia (26,5/26,6) y obesidad (24,6/23,5) y fue algo inferior la prevalencia referida a ex fumadores (15,7/25,7) y sedentarios (26,9/37,7). Sin embargo, fue mayor la prevalencia de hipertensión (63,8/48,2) y diabetes (30,6/17,7). Esto podría significar un hecho negativo para nuestro ámbito ya que los datos del Framingham Heart Study indican que la hipertensión arterial es el FRCV más importante de IC, seguido de la CI. Sin embargo, en Inglaterra, una mayor detección de la hipertensión se asocia con una menor mortalidad por CI, quizás porque supone un descenso de los casos no detectados y por ello puedan estar mejor controlados. En comparación con el estudio ERICE, los resultados de este estudio sobre hipertensión y tabaquismo coinciden incluso en la distribución por sexos considerando el grupo de mayores de 65 años, pero no en el caso de la hipercolesterolemia. En este fue inferior en varones (25,8/18,7) y superior en mujeres (22,7/26). También fue menor la prevalencia de obesidad en varones (12,9/22,5), aunque fue similar en mujeres (30,3/34,8). La mayor diferencia se encontró en diabetes, en la que el estudio ERICE encontró cifras inferiores al 14%.
+
+
+- EVALUACIÓN DE LOS FACTORES DE RIESGO PSICOSOCIAL Y PREVENCIÓN DE LAS ENFERMEDADES CARDIOVASCULARES
+
+En este estudio, casi el 80% de los mayores de 65 años no presentaba ninguna de las 3 ECV que suponen las principales causas de muerte en este grupo de edad, mientras que el 63,3% de ellos tenían al menos 2 de los FRCV más estudiados , por lo que el riesgo de aparición de nuevos eventos era elevado. Como se indica en la European Guidelines on Cardiovascular Disease Prevention in Clinical Practice (versión 2012), hay otros factores determinantes para la aparición del ECV que pueden ser incorporados en las tablas de estimación de riesgo de ECV. En el caso de la epidemiología de las ECV en los mayores es necesario considerar especialmente los factores psicosociales . Aunque en el análisis de la regresión logística no hemos encontrado que la presencia de ECV tenga una clara asociación con el resto de variables , esto puede estar en relación con las limitaciones propias de un estudio transversal, ya que se conoce que las personas que viven solas tienen mayor riesgo cardiovascular y, si sufren un infarto, tendrán menos posibilidades de beneficiarse de un tratamiento precoz.
+Otra consideración particular sobre las tablas de estimación de riesgo en los mayores es la edad y la comorbilidad, . Dado que los resultados de este estudio en relación con el Índice de Comorbilidad de Charlson muestran una asociación adecuada con la presencia de ECV , este podría ser tenido en cuenta en el momento de poner en marcha las medidas terapéuticas y preventivas.
+Entre las limitaciones del estudio está la tasa de respuesta, aunque puede considerarse aceptable al tratarse de un estudio poblacional. La causa más común de la pérdida de casos fue la negativa a participar (83,0%), y esto fue más frecuente entre los más jóvenes, lo cual puede estar en relación con el tipo de encuesta, ya que se proponía realizarla en el domicilio de los participantes. Es posible que la prevalencia real de las ECV sea superior a la encontrada ya que las estimaciones de la enfermedad basadas solo en el autoinforme pueden subestimar la prevalencia de las ECV en personas de edad avanzada.
+
+
+- CONCLUSIONES
+
+Casi el 80% de los mayores de 65 años no presentaban ninguna de las ECV que suponen las principales causas de muerte en este grupo de edad. La CI fue la ECV más prevalente entre los varones mayores de 65 años (12,1%) y la IC entre las mujeres (10,4%). Los que presentaban alguna ECV eran más dependientes para las actividades de la vida diaria.Lo conocido sobre el tema:•En España en 2010 (INE), las enfermedades del sistema circulatorio son responsables de 31,2 de cada 100 defunciones y son la principal causa de muerte por grandes grupos de enfermedades.•La información sobre morbilidad cardiovascular en España se basa en datos hospitalarios y la mayoría de los estudios epidemiológicos sobre factores de riesgo cardiovascular excluyen a los mayores de 65-75 años.Qué aporta este estudio:•Los resultados del estudio DERIVA indican que casi el 80% de los mayores de 65 años no presentaba ninguna de las 3 ECV que suponen las principales causas de muerte en este grupo de edad, mientras que el 63,3% de ellos tenían al menos 2 de los FRCV más estudiados, por lo que el riesgo de aparición de nuevos eventos es elevado.•Es el primer estudio poblacional que informa sobre la prevalencia de las 3 ECV principales en mayores de 65 años en España.
+
+
+- FINANCIACIÓN
+
+Este proyecto ha sido financiado por la Fundación INFOSALUD y el SACYL (Junta de Castilla y León) (GRS 270/A/08 y SAN/1056/2010), ISCIII (RD06/018/27).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

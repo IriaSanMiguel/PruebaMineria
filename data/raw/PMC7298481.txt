@@ -1,0 +1,128 @@
+MANEJO FARMACOLÓGICO DE PACIENTES CON ENFERMEDADES HEPÁTICAS Y PANCREÁTICAS QUE INVOLUCRAN TERAPIAS INMUNOSUPRESORAS. POSICIONAMIENTO EN EL MARCO DE LA PANDEMIA DE SARS-COV-2 (COVID-19
+
+
+- INTRODUCCIÓN
+
+La enfermedad por coronavirus 2019 (COVID-19) es causada por el virus del síndrome respiratorio agudo grave-coronavirus 2 (SARS-CoV-2). La COVID 19 ha afectado a más de 6 millones de personas en todo el mundo en menos de 4 meses posterior al reporte de los primeros casos en China en diciembre 2019. En marzo 2020 se reportaron los primeros casos en Estados Unidos, y casi simultáneamente se reportó el primer caso importado en la Ciudad de México; desde entonces el número de casos en el continente se ha multiplicado exponencialmente, siendo responsable de aproximadamente el 45% de todos los casos a nivel mundial.
+Del 70 al 80% de los casos siguen un curso leve; sin embargo, los pacientes mayores de 65 años y/o con comorbilidades como diabetes, obesidad e hipertensión se consideran grupos de riesgo para una evolución grave. Debido a la rapidez con la que ha incrementado el número de contagios y de tratarse de un patógeno nuevo, se desconoce el efecto que pueda tener sobre diversas patologías crónicas, incluyendo las de tipo gastrointestinal. Al respecto, un reporte preliminar de un estudio multinacional que incluyó a 103 pacientes con cirrosis hepática encontró que los pacientes con cirrosis hepática requirieron ser admitidos en terapia intensiva en el 23.3% y uso de ventilación mecánica invasiva en el 17.5%. En este mismo estudio se reportó una mortalidad del 39.8%, cifra que excede por mucho a la de la población general con neumonía por COVID-19.
+Igualmente importante e incierta es la relación que guarda la enfermedad por SARS-CoV-2 con el tratamiento inmunosupresor utilizado en diversos trastornos gastrointestinales. Esto genera el debate sobre suspender el tratamiento inmunosupresor para mejorar el pronóstico de la infección, lo cual incluye el riesgo inherente de rechazo de injerto o agudización de enfermedades autoinmunes que potencialmente pudieran agravar el curso de la infección.
+La actividad científica está dirigiendo sus esfuerzos a la búsqueda de un tratamiento específico y al desarrollo de vacunas, mientras que la práctica clínica y los sistemas de salud nacionales han modificado sus prioridades dirigiendo gran parte de los recursos médicos (humanos y tecnológicos) a la atención de la COVID-19. Esto, asociado a las medidas de distanciamiento social implementadas, ha cambiado y limitado la forma de atención y vigilancia de pacientes con padecimientos crónicos. Dentro de estos, existe un grupo de padecimientos gastrointestinales que requieren tratamiento inmunosupresor; afortunadamente son pocos, y se asocian a bajas tasas de incidencia y prevalencia (p.ej., trasplante hepático, hepatopatía autoinmune, pancreatitis autoinmune, enfermedad inflamatoria intestinal). El riesgo de infección por COVID-19 de esta población no parece ser mayor que el de la población general, pero se desconoce si su evolución será la misma o si la probabilidad de requerir atención intrahospitalaria se incrementa. En base a reportes provenientes de China y de otros países asiáticos, los pacientes infectados pueden cursar con elevación de transaminasas, diarrea o dolor abdominal, y en un cuadro agudo de COVID-19 es difícil diferenciar si estos síntomas son ocasionados directamente por la infección viral, por la toxicidad por fármacos, por la respuesta inflamatoria sistémica o bien por la actividad de la enfermedad de base.
+Otras interrogantes sobre el manejo de estas enfermedades surgen en el grupo de pacientes que reciben algún tipo de inmunosupresión. Debido a la escasa y baja calidad de la evidencia disponible, las clínicas de hígado, páncreas y trasplante hepático del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ) decidieron documentar y reportar su posicionamiento y emitir recomendaciones sobre el manejo de hepatopatías autoinmunes, trasplante hepático y pancreatitis autoinmune en pacientes infectados por SARS-CoV-2.
+Las potenciales modificaciones terapéuticas deben considerar el desconocimiento que tenemos sobre los efectos que puede tener el SARS-CoV-2 sobre estos padecimientos crónicos, y como estos últimos y el uso de inmunosupresores pudieran contribuir a un curso grave.
+
+
+- PACIENTES CON ENFERMEDADES HEPÁTICAS AUTOINMUNES
+
+El grupo de pacientes con hepatopatías autoinmunes incluye a aquellos con diagnóstico de hepatitis autoinmune, colangitis biliar primaria y colangitis esclerosante primaria; sin embargo, solo en la primera es donde está indicado el uso de inmunosupresores. Estos pacientes pueden estar en riesgo de mayor infección o enfermedad grave por el uso crónico de inmunosupresores y la presencia de enfermedad hepática avanzada. Por lo anterior, se recomienda extremar las precauciones generales y el aislamiento social en este grupo de pacientes.
+La infección por SARS-CoV-2 se asocia a alteraciones en las pruebas de funcionamiento hepático, y se desconoce si esto incrementa el riesgo de provocar descompensación aguda de la hepatopatía crónica.
+Los medicamentos más comúnmente utilizados en estas patologías incluyen corticoesteroides, fármacos antiproliferativos (p.ej., azatioprina, mofetil micofenolato) e inhibidores de calcineurina (p.ej., tacrolimus y ciclosporina) tanto para inducción a la remisión como para terapia de mantenimiento.
+
+
+-- PACIENTES NO INFECTADOS POR COVID-19
+
+Por consenso internacional no se debe modificar el esquema basal de tratamiento inmunosupresor durante la pandemia de COVID-19 en pacientes no infectados.
+
+
+-- INFECCIÓN AGUDA POR COVID-19
+
+En caso adquirir la infección, el ajuste de tratamiento debe individualizarse considerando la gravedad del cuadro infeccioso, el grado de actividad actual de la enfermedad hepática de base y el riesgo de reactivación de la misma al modificar el tratamiento, especialmente en el caso de hepatitis autoinmune. Es muy importante no asumir que la transaminasemia en un paciente con infección por COVID-19 se debe a actividad de la hepatopatía de base, ya que la COVID-19 puede alterar las pruebas de función hepática.
+Hasta este momento se han emitido las siguientes recomendaciones en pacientes infectados por COVID-19 que tienen una enfermedad hepática autoinmune de base y usan inmunosupresores, , , :
+
+
+-- VIGILANCIA AMBULATORIA DE PACIENTES CON CIRROSIS
+
+--- CIRROSIS COMPENSADA
+
+
+
+
+--- CIRROSIS DESCOMPENSADA
+
+
+
+
+-- BIOPSIA HEPÁTICA DURANTE LA PANDEMIA DE COVID-19
+
+•De preferencia diferir este tipo de procedimientos.•En caso de sospechar colangitis biliar primaria seronegativa, considerar iniciar tratamiento en lugar realizar biopsia hepática.
+En caso de sospechar hepatitis autoinmune, se deberá considerar la gravedad de la enfermedad para determinar la necesidad de una biopsia urgente; se puede considerar incluso iniciar tratamiento sin biopsia en casos particulares.
+
+
+- ATENCIÓN A PACIENTES CON TRASPLANTE HEPÁTICO
+
+-- IMPACTO DE LA COVID-19 EN PACIENTES CON TRASPLANTE
+
+Hasta la elaboración de este manuscrito no existen estudios con número de pacientes suficientes que nos permitan evaluar los desenlaces de SARS-CoV-2 (COVID-19) en población con trasplante hepático. Sin embargo, algunos reportes de casos indican que la presentación clínica, radiológica y bioquímica es similar a la de los pacientes inmunocompetentes, aunque la progresión y la tasa de admisión a las unidades de cuidados intensivos pueden ser mayor, así como la frecuencia de sobreinfecciones bacterianas. En infecciones virales de vías respiratorias bajas causadas por otros agentes distintos al SARS-CoV-2 sabemos que el periodo de mayor incidencia es el postrasplante temprano, donde se han descrito repercusiones como inducción al rechazo y mortalidad, que puede llegar hasta el 20% en el caso del virus sincitial respiratorio. En un artículo de correspondencia se reportó la experiencia de un centro de trasplante hepático en el norte de Italia: en esta serie de casos, 3 pacientes de 111 (periodo de trasplante mayor a 10 años) fallecieron por COVID-19; los 3 pacientes compartían las características de ser hombres, mayores de 65 años, tener sobrepeso, hipertensión y diabetes mellitus tipo 2. Así mismo, 3 de 40 pacientes en estatus postrasplante hepático (periodo de trasplante menor a 2 años) que padecieron neumonía por COVID-19 tuvieron un curso benigno. Aún se desconoce si la inmunosupresión en los pacientes trasplantados de hígado los vuelve más susceptibles a la infección por SARS-CoV-2. Sin embargo, hasta ahora su mortalidad no ha sido mayor a la de la población general y parece estar más relacionada con la presencia de complicaciones metabólicas posteriores al trasplante que con la propia inmunosupresión.
+
+
+-- ALTERACIÓN DE PRUEBAS DE FUNCIÓN HEPÁTICA EN PACIENTES CON TRASPLANTE HEPÁTICO
+
+Sabemos que del 14 al 53% de los pacientes hospitalizados con COVID-19 pueden presentar alteración en las pruebas de función hepática, con elevación de AST y ALT principalmente. Esta elevación suele ser transitoria y no requiere tratamiento específico. Los mecanismos de daño que se han sugerido son:
+Al respecto, la Asociación Americana para el Estudio de las Enfermedades del Hígado (AASLD) menciona que no se debe asumir un rechazo celular agudo en el escenario de COVID-19 y trasplante hepático. Sin embargo, se ha documentado que las neumonías virales pueden inducir rechazo agudo, por lo que en caso de elevación moderada a grave de transaminasas y/o falta de descenso de las mismas posterior a la resolución de la infección por COVID-19 debe mantenerse la sospecha.
+Dentro del abordaje diagnóstico en un paciente trasplantado de hígado se recomienda:•Panel de hepatitis viral hepatotrópicos y no hepatotrópicos.•Estudios de gabinete (USG o colangiorresonancia) solo en caso de un patrón colestásico con sospecha de problemas vasculares y/o colangitis (factor R < 2).•Las pruebas de funcionamiento hepático deben ser monitorizadas cada 24-48 h.•Presentar alteraciones en las pruebas de función hepática no limita iniciar el tratamiento para COVID-19.
+
+
+-- AJUSTES ANTICIPADOS EN LA INMUNOSUPRESIÓN EN PACIENTES CON TRASPLANTE HEPÁTICO
+
+Ante la falta de estudios, no existe una estrategia de prevención diferente a las medidas generales aplicadas al resto de la población. Los datos actuales sugieren que la respuesta inmune innata puede jugar un papel importante en el daño pulmonar, y la inmunosupresión teóricamente pudiera ser protectora, . Además sabemos que la inmunosupresión no fue un factor de riesgo para mortalidad asociada a los brotes previos de SARS o MERS. También, hasta el momento, no se ha reportado una asociación con mayor riesgo de infección, formas graves o mortalidad en pacientes trasplantados, . Al momento, y concordando con otras asociaciones, concluimos lo siguiente:•No se deben hacer ajustes anticipados a las dosis de los inmunosupresores.•No se deben recomendar cambios en el esquema de inmunosupresión.
+
+
+-- MEDIDAS GENERALES RECOMENDADAS PARA PACIENTES CON TRASPLANTE HEPÁTICO
+
+Las medidas generales recomendadas para pacientes trasplantados son las mismas que se aplican para la población general.•Lavado de manos frecuente.•Limpieza de superficies que se tocan con frecuencia.•Medidas de distanciamiento social y mantenerse alejado de grandes multitudes.•Mantenerse alejado de personas enfermas.•No realizar viajes durante la pandemia.•Reducir al mínimo las consultas en persona y hacer uso de la telemedicina.•Abogar por permisos de ausencia en el trabajo o considerar el trabajo desde casa.
+
+
+-- MANEJO DEL PACIENTE CON TRASPLANTE HEPÁTICO Y DIAGNÓSTICO DE COVID-19
+
+Las recomendaciones generales para el manejo de pacientes con trasplante hepático y diagnóstico de COVID-19 se realizan de acuerdo con los diferentes escenarios posibles a que nos podemos enfrentar en la práctica clínica. Básicamente, se contemplan tres escenarios posibles: 1) pacientes con trasplante hepático y COVID-19 leve; 2) pacientes con trasplante hepático y COVID-19 grave sin necesidad de ventilación mecánica invasiva, y 3) pacientes con trasplante hepático y COVID-19 grave con necesidad de ventilación mecánica invasiva. Se debe tener en cuenta en la toma de decisiones la gravedad del paciente con COVID-19, el estado de inmunosupresión de acuerdo con el tiempo después del trasplante y las posibles interacciones farmacológicas entre los inmunosupresores y las terapias off-label utilizadas en este tipo de pacientes. Esto permite valorar el riesgo-beneficio de cada una de las intervenciones para tomar la mejor decisión, siempre considerando lo que puede poner en riesgo la vida del paciente o la sobrevida del injerto. En ocasiones será necesario individualizar las decisiones caso por caso. En la figura 1 se presenta el algoritmo de tratamiento propuesto para los pacientes con trasplante hepático y COVID-19.Figura 1
+Es importante recordar que todos los pacientes que tengan cualquiera de las siguientes características al momento o después de la admisión se deben clasificar como casos graves: 1) dificultad respiratoria (≥ 30 respiraciones/min); 2) saturación de oxígeno en reposo ≤ 93%; 3) relación entre la presión arterial de oxígeno y la fracción inspirada de oxígeno o PAFI ≤ 300 mmHg; o 4) complicaciones graves de la enfermedad (insuficiencia respiratoria, necesidad de ventilación mecánica, choque séptico u otras fallas orgánicas).
+Todos los pacientes con trasplante hepático y COVID-19 demostrado (RT-PCR) deben ser considerados para ingresar a una unidad hospitalaria, debido a que actualmente no están bien establecidos los efectos de la inmunosupresión. Es importante poder vigilarlos por lo menos 72 h y así determinar el curso de la enfermedad (requerimiento de oxígeno suplementario o desarrollo de hipoxemia). Se ha descrito que los casos graves tardan en requerir mayor apoyo aproximadamente 8 días después del inicio de la infección.
+La valoración inicial de los pacientes con trasplante hepático y COVID-19 debe incluir laboratorios generales (biometría hemática, química sanguínea, electrolitos séricos, pruebas de función hepática y tiempos de coagulación), laboratorios con valor pronóstico (ferritina, dímero D, fibrinógeno, creatinina fosfoquinasa [CPK], proteína C reactiva, procalcitonina, troponina I y lactato) y una tomografía axial computada de alta resolución de tórax.
+
+
+--- PACIENTES CON TRASPLANTE HEPÁTICO CON COVID-19 LEVE O GRAVE SIN NECESIDAD DE VENTILACIÓN MECÁNICA INVASIVA
+
+
+
+
+--- PACIENTES CON TRASPLANTE HEPÁTICO Y COVID-19 GRAVE Y NECESIDAD DE VENTILACIÓN MECÁNICA INVASIVA
+
+
+En los pacientes hospitalizados con trasplante hepático y COVID-19 es fundamental implementar ciertas medidas para su atención debido al mayor riesgo que tienen los trabajadores de la salud de adquirir la enfermedad COVID-19. Las medidas sugeridas para la atención de estos pacientes son las siguientes:•Considerar restringir la atención directa a las personas de mayor riesgo.•Limitar el menor número necesario de personal para ingresar a las habitaciones.•Considerar realizar llamadas telefónicas o conferencias virtuales para reducir las interacciones directas con el personal.•Limitar la cantidad de visitantes que pueden ver al paciente.•Solicitar únicamente estudios esenciales para su atención.•Evitar el traslado de pacientes entre las diferentes áreas del hospital.•Evaluar las necesidades del paciente antes del alta para determinar su seguimiento y las precauciones adecuadas para los cuidadores o familiares.
+
+
+-- INTERACCIONES FARMACOLÓGICAS
+
+Siempre es importante investigar las interacciones farmacológicas entre los diferentes tratamientos off label utilizados para tratar a pacientes con COVID-19 y los medicamentos inmunosupresores utilizados en los pacientes con trasplante hepático. Algunas de estas combinaciones requieren realizar ECG seriados o ajustes en las dosis de los inmunosupresores, como se muestra en la tabla 1 .
+
+
+- EXPERIENCIA EN EL INCMNSZ
+
+En el INCMNSZ nos hemos apegado a las recomendaciones previamente mencionadas. Hasta el momento los pacientes infectados por COVID-19 con enfermedad hepática autoinmune que hemos recibido en el instituto han tenido enfermedad leve, la cual se ha podido manejar únicamente con tratamiento de soporte y al reajustar el tratamiento inmunosupresor, como lo establecen las recomendaciones; no hemos encontrado datos de reactivación o descompensación de la enfermedad de base.
+En este momento el programa de trasplante hepático se ha detenido a nivel nacional, por lo cual no hemos podido enlistar ni evaluar a los pacientes considerados prioritarios. La atención de la mayoría de los pacientes y el ajuste de tratamiento se ha realizado vía telefónica o mediante telemedicina, con lo cual logramos disminuir el riesgo de exposición de los mismos al acudir al hospital. Los pacientes con hepatocarcinoma en espera de tratamiento se han referido a otras instituciones para no postergar el tratamiento, o se les ha dado tratamiento con radioterapia, que continúa funcionando.
+
+
+- PANCREATITIS AUTOINMUNE
+
+No existe hasta el momento de esta publicación información sobre el riesgo de infecciones en pacientes con inmunosupresión y pancreatitis autoinmune (PAI), muchos menos en el contexto del nuevo coronavirus SARS-CoV-2. Sin embargo, teóricamente este riesgo no debería ser mayor al observado para otro tipo de infecciones. Se desconoce también, al igual que en otras patologías, si la inmunosupresión condiciona mayor riesgo a cuadros graves de COVID-19.
+Los pacientes con PAI pueden cursar con cuadros de pancreatitis aguda (< 20%); sin embargo, la mayoría se presenta con cambios asociados a pancreatitis crónica, y en nuestra experiencia cerca del 50% cursa con estenosis biliares o incremento de volumen del páncreas, siendo estas las principales indicaciones de inmunosupresión. Similar a otros trastornos inmunológicos, el tratamiento inicial (inducción a la remisión) va enfocado en disminuir rápidamente el proceso inflamatorio y lograr su remisión, lográndose generalmente con el uso de esteroides. En el caso de la PAI, la gran mayoría de los casos responde y permanece en remisión después de un curso de 12 semanas de esteroides. Un porcentaje de casos, especialmente aquellos con manifestaciones extrapancreáticas, requerirá tratamiento de mantenimiento a base de otros inmunosupresores, como azatioprina, 6-mercaptopurina y, en casos excepcionales, rituximab.
+Resulta bien conocido que el riesgo de infecciones con el uso de esteroides sistémicos es dependiente del tiempo de administración y de la intensidad de la dosificación, . En el caso de la inducción de la remisión, habrá que seleccionar y diferenciar adecuadamente a los pacientes con necesidad de tratamiento urgente (ictericia obstructiva, dolor abdominal) de aquellos con indicaciones no urgentes (lesiones extrapancreáticas asintomáticas, pacientes asintomáticos con masa pancreática persistente en imagen). Se debe considerar e informar al paciente que el retraso en el tratamiento incluso de lesiones pancreáticas asintomáticas se asocia con el eventual desarrollo de pancreatitis crónica e insuficiencias exocrina y endocrina.
+De preferencia deberá optarse por esquemas de inducción acortados con 2 semanas de administración de prednisona a dosis de 0.6 mg/kg/día con posterior reducción de dosis semanal. Siempre valorar riesgo-beneficio al inicio de dosis más altas. Es incierto si el uso de esteroides puede ser útil o deletéreo, considerando que en casos graves de COVID-19 se ha descrito una tormenta de citocinas cuya intensidad hipotéticamente pudiera disminuirse con el uso de este tipo de fármacos, pero el efecto en cuanto a carga y replicación viral es también incierto.
+En los casos que se encuentran en terapia de mantenimiento consideramos que debe continuarse sin modificaciones, pues la suspensión del mismo puede generar reactivación de la enfermedad y agregar comorbilidad al paciente. Cambios de terapia en cuanto a tipo de fármaco o dosificación deberán individualizarse, y preferiblemente posponerse.
+Debe siempre considerarse la gravedad de la infección por SARS-CoV-2 y el riesgo de mantener la inmunosupresión; sin embargo, en el caso particular de la PAI, que en el mantenimiento suele utilizarse azatioprina, la depuración del fármaco y de sus efectos inmunosupresores suele ocurrir 3 a 6 meses posterior a su suspensión, por lo que los efectos sobre la respuesta inmune no son inmediatos. Sin embargo, la dosis deberá disminuirse en caso de presentarse linfopenia, que es un dato asociado a COVID-19 y potencialmente de mal pronóstico.
+Pacientes con enfermedad leve en mantenimiento con dosis baja de prednisona (2.5-10 mg/día), azatioprina o rituximab podrían continuar sin cambio en su tratamiento, ya que no existe evidencia de que incrementen el riesgo de infecciones graves, , , . En los que tengan mantenimiento con rituximab es aconsejable la medición de niveles de inmunoglobulinas; de encontrarse disminuidas, principalmente la inmunoglobulina G, puede haber beneficio en disminuir la mortalidad con el reemplazo de inmunoglobulina intravenosa.
+En casos graves o críticamente enfermos se deberá suspender el tratamiento inmunosupresor, solo considerando esteroides sistémicos para evitar la insuficiencia suprarrenal o por alguna otra indicación específica considerada por los médicos a cargo del paciente.
+
+
+- CONSIDERACIONES ÉTICAS
+
+Los artículos citados han declarado dar cumplimiento a las normativas internacionales en investigación bioética y han sido autorizados por los comités de ética de las instituciones donde fueron elaborados. Así mismo, las series y reportes de casos no contienen información personal que permita la identificación personal de pacientes.
+
+
+- FINANCIACIÓN
+
+No hubo financiamiento para la realización de este artículo.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener conflicto de intereses en la realización de este artículo.

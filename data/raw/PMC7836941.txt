@@ -1,0 +1,223 @@
+COVID-19 Y SALUD MENTAL
+
+
+- INTRODUCCIÓN
+
+Los coronavirus, incluidos en la familia Coronoviridae, son virus ARN monocatenarios. Hay siete subtipos de coronavirus que afectan a los seres humanos, la mayoría de los cuales causan resfriados comunes e infecciones leves del tracto respiratorio superior en individuos inmunocompetentes. El síndrome respiratorio agudo grave por coronavirus 2 (SARS-CoV-2), denominado así por la Organización Mundial de la Salud (OMS) el 11 de febrero de 2020 es el agente etiológico de la enfermedad por coronavirus 2019 (COVID-19), enfermedad que ha sido considerada la primera pandemia del siglo XXI, convirtiéndose en un gran problema de salud a nivel mundial, ya que se ha extendido por todo el mundo mediante viajes y contactos basados en la comunidad. El virus, del cual se tiene la primera constancia en la provincia de Hubei, en la ciudad china de Wuhan, se ha transmitido a casi todos los países del mundo en menos de 6 meses. El virus pertenece a la misma familia de virus que el coronavirus del síndrome respiratorio agudo grave (SARS-CoV) y el coronavirus del síndrome respiratorio del Medio Oriente (MERS-CoV), denominados así en 2003 y 2012, respectivamente. Sin embargo, a diferencia de los anteriores, la pandemia de COVID-19 ha conllevado una diseminación y morbimortalidad considerablemente mayores. La infección y la diseminación viral están asociadas con la afectación de diferentes órganos. Como sugiere su nombre, se sabe que el SARS-CoV-2 afecta a los pulmones de los pacientes, a menudo induciendo un síndrome de distrés respiratorio del adulto (SDRA), . Sin embargo, médicos e investigadores de todo el mundo han informado de los efectos devastadores de la COVID-19 en otros órganos importantes, incluidos los vasos sanguíneos, el cerebro, el tracto gastrointestinal, los riñones, el corazón y el hígado. Este conocimiento ha ampliado los criterios de diag-nóstico y los tratamientos para los pacientes con COVID-19. A medida que la COVID-19 se ha extendido por todo el mundo y se ha tenido mayor conocimiento sobre su curso y su pronóstico, ha aumentado también la comprensión de las implicaciones neuropsiquiátricas de la misma.
+
+
+- AFECTACIÓN DEL SISTEMA NERVIOSO CENTRAL
+
+Los mecanismos patogénicos relacionados con las manifestaciones neuropsiquiátricas en pacientes con COVID-19 son actualmente desconocidos. Se han propuesto diferentes vías de acción para afectar al sistema nervioso central (SNC): acción directa o indirecta (tabla 1 ).
+
+
+-- INFECCIÓN DIRECTA DEL SISTEMA NERVIOSO CENTRAL POR EL VIRUS
+
+Los coronavirus humanos comúnmente comparten estructuras virales y mecanismos de infección, junto con el potencial de invasión del SNC del huésped. Estudios previos han demostrado que los coronavirus humanos acceden al SNC a través de la circulación sistémica o mediante conexiones sinápticas y diseminación neuronal retrógrada. La ruta exacta por la que los coronavirus entran en el SNC continúa siendo un tema en investigación.
+El SARS-CoV-2 entra en la célula después de unirse a la enzima convertidora de angiotensina (ECA-2) con la internalización endocítica subsiguiente. Los objetivos principales del virus, por tanto, están representados por células epiteliales de los pulmones y el tracto gastrointestinal. Sin embargo, la invasión del virus no se limita a estos dos órganos, particularmente considerando que existe una expresión significativa de la ECA-2 en otros tejidos, incluyendo corazón, riñón, endotelio y SNC. La infección vírica del cerebro puede tener múltiples consecuencias neurológicas y psiquiátricas, contribuyendo tanto a la fase aguda de la enfermedad como a sus posibles secuelas. Aun así, la distribución tisular de la ECA-2 del receptor del huésped puede no ser suficiente para describir completamente el tropismo viral, por lo que es probable que estén involucrados otros mecanismos tales como el transporte axonal. La ruta neuronal, a su vez, puede ocurrir a través de al menos dos vías diferentes: a través de los nervios olfativos y/o a través del sistema nervioso entérico, . La vía hematógena puede ocurrir por al menos dos mecanismos: a través de leucocitos infectados que cruzan la barrera hematoencefálica portando el virus al cerebro y/o a través de la infección directa de células endoteliales microvasculares cerebrales que expresan ECA-2. Sin embargo, esta vía parece no ser la principal, ya que prácticamente no se han detectado partículas virales en las células no neuronales de las áreas cerebrales infectadas en la etapa inicial de la infección.
+
+
+-- INFECCIÓN INDIRECTA
+
+La infección indirecta del SNC tendría lugar mediante la confluencia de diferentes vías, entre las cuales se encontrarían: la propia respuesta inmune del organismo del huésped al virus, por la existencia de una encefalopatía tóxica aguda asociada con una infección sistémica grave, o como consecuencia de los efectos secundarios tóxicos y nocivos del propio tratamiento médico instaurado para combatir la propia infección.
+
+
+-- PAPEL DE LAS CITOQUINAS EN LA NEUROINFLAMACIÓN
+
+Se ha visto que el mecanismo patogénico de la infección por COVID-19 involucra la activación de la cascada inflamatoria, junto con la liberación de citoquinas al organismo. Es probable que el aumento masivo de factores proinflamatorios en la circulación sanguínea dañe la barrera hematoencefálica, lo cual posibilita el daño funcional. Una vez en el cerebro, las moléculas inflamatorias periféricas, así como las células inflamatorias, provocan una neuroinflamación, alterando de esta manera la homeostasis y las redes neuronales e induciendo la muerte neuronal, . Se ha propuesto que esta llamada «tormenta de citoquinas» sea un mecanismo clave en la fisiopatología del SARS-CoV-2 que se relaciona con el daño pulmonar y la letalidad observada en pacientes. Estos niveles elevados de citoquinas se han observado en pacientes con MERS, SARS o COVID-19, pero también en diferentes trastornos psiquiátricos.
+Al propio impacto de la infección por SARS-CoV-2 se añade el estrés físico y psicológico excesivo sobre el SNC, lo que termina por estimular el eje hipotalámico-hipofisario-adrenal (eje HHA), agravando aún más el estado neuroinflamatorio. Cuando se activa el eje HHA, el núcleo paraventricular del hipotálamo secreta hormona liberadora de corticotropina (CRH) y arginina vasopresina (AVP). La CRH y la AVP luego activan la pituitaria anterior para secretar hormona adrenocorticotrópica (ACTH) que, a su vez, estimula la corteza suprarrenal aumentando la producción de corticosteroides (fig. 1 ). La activación del HHA ocurre también en patologías que involucran un proceso inmunológico/inflamatorio como las infecciones virales. La activación de este eje neuroendocrino por citoquinas proinflamatorias desencadena un aumento en la producción de glucocorticoides, una respuesta fisiológica que contribuye a evitar los efectos deletéreos de la producción excesiva de mediadores inflamatorios y un reclutamiento inespecífico de células con poca o nula afinidad por antígenos desencadenantes. En este sentido, existe un estado de hiperactividad del eje HHA en pacientes infectados, debido a la «tormenta de citoquinas». Es por tanto posible que el aumento de los niveles de citoquinas proinflamatorias en pacientes con COVID-19 desencadenen una hipo- o hiperactividad del eje HHA que, debido a una disfunción en la retroalimentación negativa entre el eje HHA y el sistema inmunológico mediante la producción de citoquinas proinflamatorias, no sea capaz de reducir la producción de mediadores inflamatorios. En este sentido, se ha planteado la hipótesis de que dicha disfunción podría estar asociada con el pronóstico de los trastornos mentales de la infección por SARS-CoV-2, lo que correspondería conceptualmente a una disfunción psiconeuroinmunoendocrina, . De este modo, es esperable que una infección por SARS-CoV-2 conduzca a la activación del eje HHA asociado con la activación derivada del estrés mental.Fig. 1
+Es sabido que la exposición a un estrés prolongado mejora la respuesta inflamatoria mediante la liberación de varios factores proinflamatorios. Sin embargo, el estrés crónico origina una respuesta inflamatoria sostenida perjudicial. La inflamación, por tanto, actúa como elemento beneficioso y perjudicial para el organismo, ya que es un componente esencial de la inmunovigilancia y la defensa del huésped, mientras que un estado inflamatorio crónico de bajo grado, entendido como la presencia crónica de factores proinflamatorios que pueden surgir de factores estresantes persistentes en el cuerpo, incluido un mayor estrés oxidativo y psicosocial, es característico de una amplia gama de enfermedades crónicas como el síndrome metabólico, la esteatosis hepática no alcohólica, la diabetes mellitus tipo 2 o la arterioesclerosis, así como de enfermedades neuropsiquiátricas y neurocognitivas, incluidos los trastornos neurodegenerativos, la depresión, la psicosis, el autismo, el abuso de sustancias, en especial, el alcohol, los trastornos del sueño y la epilepsia, .
+Los casos graves de COVID-19 se acompañan casi invariablemente de una respuesta inmune excesiva del huésped, caracterizada principalmente por un aumento masivo de los niveles plasmáticos de IL-6 que se correlaciona directamente con un peor pronóstico de la enfermedad. De igual manera, este aumento de IL-6 se ha encontrado en distintos trastornos mentales como, por ejemplo, la depresión. En el SNC, la IL-6 actúa como un mediador proinflamatorio que promueve la síntesis y secreción de factores inflamatorios adicionales y proteínas de fase aguda por los astrocitos y la microglía, .
+Es probable que las manifestaciones neuropsiquiátricas de la COVID-19 sean multifactoriales y podrían deberse tanto a la acción directa del virus como a la respuesta inmune indirecta, enfermedad cerebrovascular o la respuesta emocional causada por estresores psicológicos agudos como el aislamiento social, el impacto psicológico de una nueva enfermedad grave y potencialmente mortal, la preocupación por infectar a otros y el propio estigma.
+
+
+- IMPACTO DE LA INFECCIÓN POR SARS-COV-2 SOBRE LA SALUD MENTAL
+
+La pandemia actual está cambiando las prioridades de la población general, pero también está desafiando la práctica clínica habitual de los profesionales de la salud, incluida la de los psiquiatras y otros profesionales de la salud mental. Es previsible que el número de personas que necesitarán ayuda psiquiátrica y psicológica vaya a aumentar en los próximos meses, lo que conllevará, necesariamente, un replanteamiento del modelo actual. Desde un punto de vista psicopatológico, la pandemia actual es una forma relativamente nueva de estresor o trauma, tanto para la población como para los profesionales de la salud. La COVID-19 genera preocupaciones de pánico generalizado y ansiedad creciente y, aunque los efectos del coronavirus en la salud mental no se han estudiado sistemáticamente, se anticipa que la COVID-19 tendrá efectos ondulantes. Además, es sabido que dicha preocupación puede exacerbar y agravar síntomas de ansiedad y depresión en personas más vulnerables o con un diagnóstico de enfermedad mental.
+Ante la presencia de una nueva enfermedad emergente, las noticias sobre el número de muertos, la aceleración del número de casos nuevos y la atención expansiva de los medios de comunicación pueden aumentar los temores, frustraciones, impotencia y ansiedad de la gente por la situación. De este modo, se han descrito diferentes alteraciones psicológicas, entre las cuales las más comunes son: preocupaciones, ansiedad, alteraciones del estado de ánimo, falta de sueño y creencias hipocondríacas. Los sentimientos generalizados de desesperanza, incertidumbre y miedo tienden a estar muy presentes en la sociedad como resultado de que la vida tal y como la conocemos cambia. Estos sentimientos pueden surgir de una mayor amenaza percibida, lo que impulsa comportamientos en busca de la seguridad en los individuos y en la propia comunidad que pueden ser desadaptativos. Entre los mismos se incluyen la hipervigilancia (es decir, un constante estado de alerta a los peligros potenciales) y la evitación (es decir, permanecer alejados del peligro). El miedo y el pánico intensos también se utilizan a veces como excusa, aunque a menudo de forma involuntaria, para llevar a cabo comportamientos discriminatorios injustificados como la xenofobia y la estigmatización, o la acumulación indiscriminada de suministros. Por esta razón, dado que la ansiedad, la ira y el estrés son reacciones normales a eventos extremadamente adversos tales como la pandemia de la COVID-19, es importante que se brinde una intervención temprana de atención en salud mental para prevenir la aparición de alteraciones mentales a largo plazo.
+Aunque toda la población puede verse afectada por los impactos psicológicos de la COVID-19, algunos grupos pueden ser más vulnerables (tabla 2 ), entre los cuales se encuentran los ancianos con multicomorbilidades, los niños y las mujeres confinados en casa que sufren violencia doméstica, las personas con problemas mentales preexistentes o personas con problemas de salud, personas con dificultades en el aprendizaje que podrían verse afectadas por la interrupción del apoyo y por la soledad, trabajadores sanitarios en primera línea que pueden verse afectados por el miedo a la infección y grupos de población en riesgo de exclusión o con dificultades socioeconómicas.
+
+
+- IMPACTO DEL CONFINAMIENTO SOBRE LA POBLACIÓN GENERAL
+
+Diferentes estudios han probado que el confinamiento ha podido ser un mecanismo eficaz para evitar la propagación de la COVID-19. Sin embargo, un confinamiento estricto y prolongado, con medidas severas puede tener un impacto negativo sobre la salud mental de los individuos. El estado de cuarentena impuesto a nivel nacional puede producir diferentes reacciones negativas, ya que suele ser una experiencia desagradable para quienes están expuestos a ella. Esto es debido a distintos factores como la sensación de pérdida de control y de pérdida de libertad, la incertidumbre o el aburrimiento pueden tener efectos muy negativos. La mayoría de las encuestas realizadas en la población general muestran un aumento de los síntomas de depresión, ansiedad y estrés relacionados con la COVID-19 como resultado de factores estresantes psicosociales (cambios en el estilo de vida, miedo a la enfermedad o miedo a los efectos económicos negativos). Se ha comunicado ansiedad fóbica, compras compulsivas producto del pánico (sentimientos falsos con respecto a la acumulación de recursos o elementos esenciales diarios como desinfectante de manos, medicamentos, máscaras protectoras o incluso papel higiénico), un uso excesivo de la televisión (asociado con alteraciones del estado de ánimo, alteraciones del sueño, fatiga y dificultad para la autorregulación) y una mayor exposición a las redes sociales asociada con mayores probabilidades de ansiedad y depresión.
+En la revisión de Brooks et al., la mayoría de los estudios revisados informaron de los efectos psicológicos negativos del confinamiento, incluyendo, fundamentalmente, síntomas de estrés postraumático, confusión e ira. Dicha revisión encontró evidencia mixta relacionada con los factores predictores del impacto psicológico de la cuarentena en relación con las características sociodemográficas de los participantes. En concreto, la presencia de antecedentes psiquiátricos se asoció con experimentar ansiedad e ira de 4 a 6 meses después del fin de la cuarentena en un estudio. Los factores estresantes identificados incluyeron (tabla 3 ): una mayor duración de la cuarentena, temores en relación con la infección, frustración, aburrimiento, tener suministros básicos inadecuados (por ejemplo, comida, agua, ropa o alojamiento), información inadecuada o escasa de las autoridades de salud pública, pérdidas económicas y el estigma. Para los autores, la evidencia de que el efecto psicológico negativo del confinamiento aún puede detectarse meses o años después es más preocupante, por lo que abogan por garantizar que se establezcan medidas de mitigación eficaces como parte del proceso de planificación de la cuarentena, tratando de que esta sea lo más corta posible, informar a la gente sobre lo que está sucediendo y por qué, explicar cuánto tiempo durará, brindarles actividades significativas para que las realicen mientras están confinados, ofrecer una comunicación clara, garantizar los suministros básicos y, por último, reforzar el sentido de altruismo y de pertenencia al grupo. En este sentido, otro artículo de Raony et al. incide en la importancia de contar con información de salud veraz para reducir el impacto de la incertidumbre, mediante un lenguaje sencillo y accesible para la población general, tras evaluar un estudio en el que de 1210 participantes encuestados durante el momento inicial de la pandemia de la COVID-19, el 8,1%, 28,8% y 16,5% tenían niveles de estrés de moderados a graves, síntomas de ansiedad y depresión, respectivamente. Otro estudio identificó hasta doce factores de riesgo para la salud mental asociados a la COVID-19 (como por ejemplo, la duración del confinamiento, tener algún familiar infectado por la COVID-19, aumento de la violencia doméstica y de hábitos de vida poco saludables), y después de controlar las variables sociodemográficas, la flexibilidad psicológica global y cuatro de sus subprocesos (el yo como contexto, la de-fusión, los valores y la acción comprometida), mitigaron los impactos perjudiciales de los factores de riesgo de la COVID-19 sobre la salud mental. En cambio, la inflexibilidad psicológica global y cuatro de sus subprocesos (falta de contacto con el momento presente, fusión, el yo como contenido, falta de contacto con los valores personales) exacerbaron los impactos perjudiciales de los factores de riesgo de la COVID-19 sobre la salud mental.
+En pandemias anteriores, los niños en cuarentena tenían más probabilidades de desarrollar un trastorno de estrés agudo, trastornos de adaptación y duelo que aquellos que no habían sido puestos en cuarentena. Durante una pandemia como la provocada por la COVID-19, los programas de mitigación basados en el confinamiento como el cierre de colegios y escuelas, parques y áreas de juego interrumpirán el estilo de vida habitual de los niños, lo que potencialmente puede promover estados de angustia y confusión. Los factores estresantes como la monotonía, la decepción, la falta de contacto con compañeros de clase, amigos y maestros, la falta de suficiente espacio personal en el hogar y las pérdidas económicas familiares durante los encierros pueden desencadenar consecuencias mentales adversas problemáticas e incluso prolongadas en los niños. También se ha registrado un aumento en las ventas y en el consumo de alcohol, lo que podría significar un aumento de los trastornos por consumo de alcohol y los casos de violencia doméstica. Aunque los datos publicados son pocos, las personas, incluidos los niños, podrían tener un mayor riesgo de abuso físico y sexual en el hogar durante la pandemia.
+
+
+- EFECTOS SOBRE PERSONAS CON ANTECEDENTES DE ENFERMEDAD MENTAL
+
+Las personas con trastornos de salud mental preexistentes pueden tener un mayor riesgo de infección por SARS-CoV-2 que aquellas sin trastornos de salud mental, . Los factores de riesgo para desarrollar una infección por SARS-CoV-2 grave incluyen: una enfermedad mental grave, abuso de alcohol o drogas, falta de vivienda y afecciones físicas comórbidas, siendo todos ellos factores de riesgo per se para un peor pronóstico en una enfermedad mental. Las personas con trastornos mentales tienen un mayor riesgo de infecciones en general y presentan más probabilidades de desarrollar una disfunción orgánica grave en comparación con las personas sin trastornos mentales.
+
+
+- MANIFESTACIONES NEUROPSIQUIÁTRICAS DE LA COVID-19
+
+Como hemos descrito previamente, la pandemia del SARS-COV-2 plantea un desafío duradero que no solo afecta al sistema cardiorrespiratorio, sino que vincula la infección sistémica con las enfermedades neuropsiquiátricas. La inflamación sistémica, así como los cambios neuroinflamatorios están asociados con un aumento masivo de las moléculas proinflamatorias cerebrales, la reactividad neuroglial, una alteración en los neurotransmisores y una remodelación patológica de las redes neuronales. Estos cambios orgánicos, que surgen junto con el estrés ambiental causado por la nueva pandemia, promueven el desarrollo de patologías neuro-psiquiátricas como el trastorno depresivo mayor, el trastorno bipolar, la psicosis, el trastorno obsesivo compulsivo y el trastorno por estrés postraumático (TEPT).
+Un metaanálisis sobre la COVID-19 sugiere que existen signos de delirium en la etapa aguda de la enfermedad, tal y como sucedió en las epidemias del SARS y del MERS. A ello se añade que, si bien existe evidencia de depresión, ansiedad, fatiga y TEPT en la etapa posterior a la enfermedad en las epidemias anteriores, los datos sobre la COVID-19 son aún limitados.
+Otros estudios apuntan a que existe un alto número de pacientes infectados por SARS-CoV-2 que están experimentando síntomas psiquiátricos tales como ansiedad, miedo, depresión e insomnio, y que estos pueden ser difíciles de distinguir de los efectos secundarios del tratamiento antiviral para la propia infección.
+Dos estudios diferentes analizados en la revisión de Raony et al. demostraron una prevalencia del 96,2% de los síntomas de TEPT en 714 pacientes con COVID-19 durante la fase aguda, y una prevalencia de 34,72% y 28,47% de síntomas de ansiedad y depresión, respectivamente, en 144 pacientes con COVID-19. Otro estudio basado en una población de supervivientes de la COVID-19 comunicó tasas del 28% para síntomas de TEPT, 31% para síntomas de depresión, 42% para síntomas de ansiedad, 20% para síntomas obsesivo-compulsivos y 40% para insomnio. Además, el 56% de la muestra (N = 402) puntuó en el rango patológico en al menos una dimensión clínica. En la revisión de Krishnamoorthy et al., los pacientes con COVID-19 tenían la mayor tasa de depresión (42%; intervalo de confianza #-IC#- del 95%: 28-57%) se-guido por los trabajadores de la salud (25%; IC del 95%: 19-32%) y la población general (24%; IC del 95%: 14-36%). También en el caso de la ansiedad, la tasa fue mayor entre los pacientes con COVID-19 (37%; IC del 95%: 19-57%) seguido de la población general (26%; IC del 95%: 20-32%) y los trabajadores de la salud (24%; IC del 95%: 16-32%). La tasa de malestar psicológico fue más común entre los trabajadores de la salud (41%; IC del 95%: 19-65%) en comparación con la población general (26%; IC del 95%: 21-32%). La tasa de síntomas de TEPT fue mayor en pacientes con COVID-19 (96%; IC del 95%: 95-97%) seguido de la población general (15%; 95% IC: 4-31%) y trabajadores de la salud (13%; 95% IC: 11-16%). La tasa mayor de mala calidad del sueño fue entre los pacientes con COVID-19 (82%; IC del 95%: 66-92%) seguidos por los trabajadores de la salud (43%; IC del 95%: 28-59%) y la población general (34%; IC del 95%: 12-60%). Sin embargo, la mayor tasa de insomnio ocurrió en los trabajadores de la salud (37%; IC del 95%: 32-42%) seguida de la población general (7%; IC del 95%: 7-8%). El impacto de la pandemia de la COVID-19 afectó la salud mental del 44% (IC del 95%: 42-47%) de la población general. Un estudio español que exploró el impacto de la pandemia en 2055 adultos, encontró que la mayoría tuvo la sensación de que la pandemia había tenía un alto impacto sobre su vida y sus rutinas diarias. Alrededor del 36% de los participantes tuvieron un impacto entre moderado y grave, el 25% mostró niveles de moderados a leves de ansiedad, el 41% informó sobre síntomas depresivos y el 41% también sufrió estrés. Los factores de riesgo para tener mayor gravedad en los síntomas psicológicos fueron: ser mujer, edad joven y haber perdido el trabajo durante la crisis sanitaria. En la tabla 4 se recogen los síntomas y manifestaciones neuropsiquiátricas recogidas en los distintos estudios revisados.
+En conjunto, estos datos indican que la infección por SARS-CoV-2 puede producir manifestaciones psiquiátricas que parecen ser desproporcionadas en relación con el grado de infección pulmonar o los efectos secundarios esperados de la terapia con corticosteroides, con el correspondiente impacto negativo sobre la salud mental, tanto en el corto como en el largo plazo.
+En aquellas personas en duelo por la muerte de amigos y seres queridos debido a la COVID-19, con una incapacidad para lograr una despedida adecuada en forma de rito funerario, pueden aparecer sentimientos de ira, resentimiento, trauma y secuelas psiquiátricas a largo plazo.
+En una revisión sobre los síntomas mentales en la población general, la prevalencia de síntomas depresivos osciló entre el 14,6% y el 48,3%. Se identificaron diferentes factores de riesgo asociados con síntomas de depresión en la pandemia de COVID-19 (tabla 5 ): ser mujer, , edad más joven, ser estudiante en comparación con otros estatus (como estar trabajando o jubilación) o el nivel de educación (en un estudio el factor de riesgo era tener un nivel de educación más bajo, mientras que en otro el factor de riesgo identificado era tener estudios de educación superior y trabajos profesionales). Otros factores predictivos de los síntomas de depresión incluyeron: vivir en áreas urbanas, estado de mala salud percibida, sentimientos de soledad, estar divorciado/viudo, estar soltero, ingresos familiares más bajos, estado de cuarentena, preocupación por estar infectado, desempleo, no tener hijos, antecedentes de enfermedad mental, o problemas médicos, tener un conocido con infección por la COVID-19, riesgos percibidos de desempleo, exposición a noticias relacionadas con la COVID-19, mayor vulnerabilidad percibida, menor autoeficacia para protegerse, presencia de enfermedades crónicas y la existencia de síntomas físicos específicos.
+
+
+- INTERACCIONES MEDICAMENTOSAS
+
+Dado que muchos pacientes precisarán de tratamiento psicofarmacológico con antipsicóticos, antidepresivos o ansiolíticos, a la vez que reciben un tratamiento específico para la COVID-19, se ha establecido que la opción más segura de tratamiento será aquella que no actúe (o lo haga de manera muy escasa) sobre el citocromo P450 (citalopram, escitalopram, olanzapina, valproato), con el fin de evitar interacciones farmacológicas con los fármacos antiinflamatorios y los antivirales, la mayoría de los cuales se metabolizan a través del citocromo P3A4 y citocromo P2D6.
+
+
+- IMPACTO PSICOLÓGICO DE LA PANDEMIA DE LA COVID-19 EN EL PERSONAL SANITARIO
+
+Al describir los problemas que afrontan los trabajadores sanitarios que responden a la pandemia de la COVID-19, Kang et al. destaca: «un alto riesgo de infección, protección inadecuada contra el contagio, exceso de trabajo, frustración, discriminación, aislamiento, problemas emocionales, falta de contacto con sus familias y agotamiento». Tales problemas tienen un impacto psicológico relevante en los trabajadores sanitarios que actúan durante los brotes de una pandemia. En particular, durante los brotes de las últimas pandemias sufridas por la humanidad (SARS, MERS, H1N1 y SARS-CoV-2), los trabajadores sanitarios refirieron síntomas de estrés (11-73,4%), síntomas depresivos (27,5-50,7%), insomnio (34-36,1%), síntomas de ansiedad grave (45%), síntomas psiquiátricos generales (17,3-75,3%) y altos niveles de estrés relacionado con el trabajo (18,1-80,1%). Entre todas estas alteraciones psicopatológicas, la ansiedad, la depresión y las reacciones postraumáticas fueron las más investigadas, y los resultados apuntaron a una alta prevalencia de tales síntomas en los trabajadores sanitarios que se enfrentan a brotes epidémicos/pandémicos. Esto no es sorprendente dada la naturaleza traumática de las situaciones a las que están expuestos en su trabajo diario. Además, con respecto a las alteraciones en salud mental, los trabajadores sanitarios se consideran un grupo de alto riesgo incluso en épocas no pandémicas.
+En la población española, destacamos el trabajo de Ruiz-Fernández et al. (2020) en el que se analiza una muestra de 506 trabajadores sanitarios durante la crisis de la COVID-19. El estudio concluye que los sanitarios que se enfrentaron a la COVID-19 obtuvieron puntuaciones significativamente más altas en fatiga de compasión o «desgaste por empatía», burnout y estrés percibido que los sanitarios que no se enfrentaron directamente con la crisis producida por la COVID-19.
+
+
+-- ESTRÉS POSTRAUMÁTICO
+
+Diversos estudios sobre la pandemia de la COVID-19 sugieren una prevalencia de síntomas de estrés postraumático entre el 71,5 y el 73% en personal sanitario. Para tener una perspectiva más compleja de la cuestión, es importante resaltar que en otras pandemias (SARS, MERS, ébola) la prevalencia de síntomas de estrés postraumático se sitúa entre el 11 y el 73,4%.
+No obstante, subrayamos que se trata de síntomas del TEPT, no cuadros psicopatológicos completos. Es decir, no reúnen suficiente número de síntomas para diagnosticar un TEPT. De hecho, solo un 5% del personal sanitario incluido en los estudios de revisión cumplían criterios DSM-IV para el diagnóstico de un TEPT. No obstante, aún es pronto para poder evaluar el impacto real que se puede llegar a producir.
+A modo orientativo, es relevante citar que, en otras pandemias, del 18,6 al 28,4% de los trabajadores sanitarios todavía tenían síntomas significativos de estrés postraumático después de un mes desde el final de la pandemia; un 17,7% después 6 meses y entre un 10 y un 40% después de 1-3 años.
+
+
+-- DEPRESIÓN Y BAJA CALIDAD DE SUEÑO
+
+Durante la fase aguda de las últimas pandemias sufridas, la prevalencia de sintomatología depresiva estuvo entre el 27,5 y el 50,7% en el personal sanitario, con tasas más altas durante la pandemia de COVID-19: del 50,4 al 50,7%.
+Por otra parte, en lo referente a insomnio y calidad de sueño, la literatura científica habla de entre un 34 y un 36,1% de insomnio significativo autoinformado en trabajadores sanitarios durante la pandemia de COVID-19.
+
+
+-- ANSIEDAD
+
+Respecto a la sintomatología de ansiedad, dos extensos es-tudios realizados durante la fase pico de la pandemia de la COVID-19 estimaron que alrededor del 45% de los trabajadores sanitarios presentaba síntomas de ansiedad. Estos niveles de ansiedad afectaron al bienestar del personal, aumentando los niveles de angustia y disminuyendo la percepción de autoeficacia en el trabajo.
+Nuevamente, para darle una perspectiva comparativa y prospectiva a este impacto psicológico, es importante comentar que un estudio evaluó longitudinalmente los cambios en toda esta sintomatología después de la pandemia del SARS. Los hallazgos sugieren una reducción significativa en síntomas depresivos y síntomas de ansiedad en el seguimiento de un mes, así como importantes mejoras en la calidad del sueño de los trabajadores sanitarios.
+
+
+- FACTORES MEDIADORES EN EL IMPACTO PSICOLÓGICO EN EL PERSONAL SANITARIO
+
+Existen factores de riesgo y factores de protección que median en el impacto psicológico de la crisis del coronavirus en el sujeto. Esta mediación sucede a nivel de la población general; sin embargo, varios estudios se han centrado en cuáles son dichos factores, particularmente en el personal sanitario. Estos son los hallazgos más significativos.
+
+
+-- FACTORES SOCIODEMOGRÁFICOS
+
+Los resultados de varios estudios apuntan a que el género femenino tiene mayor vulnerabilidad para sufrir niveles altos de estrés, desarrollar TEPT y padecer síntomas depresivos. Aunque otros estudios no corroboran estos hallazgos y no encuentran diferencias entre géneros.
+Respecto a las diferencias de edad, la evidencia disponible aún no es clara y, en algunos casos, no se han obtenido diferencias. La edad no representó un factor predictivo para desarrollar síntomas psicopatológicos durante la epidemia de COVID-19, .
+En cuanto a factores familiares, parece que tener hijos hace que los profesionales sanitarios perciban menos angustia. Esto se explica por dos factores de protección implícitos en esto. Uno es que los hijos hacen que el sanitario pueda concentrarse en aspectos positivos de su vida. Por otra parte, hay mayor percepción de apoyo social cuando se tiene hijos. En esta misma línea, parece que tener pareja rebaja el impacto psicológico de la crisis sanitaria en el profesional por la percepción de apoyo social que supone. Profesionales con pareja informaban de menos síntomas depresivos y menor estrés autoinformado, . No obstante, ninguno de estos dos factores familiares ha encontrado respaldo en otras investigaciones. De hecho, algunos autores señalan en la dirección opuesta: tener pareja aumenta el riesgo de padecer insomnio y aumenta la gravedad de la sintomatología psiquiátrica. Relacionan este hallazgo con el temor a contagiar a su cónyuge.
+El nivel socioeconómico no tuvo relación con el impacto psicológico en el profesional. Este hallazgo contrasta con el hecho de que en otros estudios centrados en la población general sí hay diferencias en función del nivel socioeconómico, correlacionando menos ingresos con mayor sintomatología psiquiátrica, . Algunos autores plantean la siguiente hipótesis para explicar este hecho: la carga laboral y la fatiga en el profesional sanitario es tal que se reduce significativamente el disfrute de las comodidades de su vivienda.
+
+
+-- FACTORES PERSONALES
+
+Algunos estudios investigaron el papel de las variables personales como mediadores de la experiencia de la crisis sanitaria. Los hallazgos señalan que rasgos de carácter como un alto nivel de neuroticismo, la rigidez cognitiva y un estilo de apego disfuncional son factores de riesgo.
+Otro factor individual muy estudiado ha sido el estilo de afrontamiento. Los afrontamientos desadaptativos, como el afrontamiento por evitación o la negación, se correlacionan con un mayor malestar psicológico, . Por otro lado, un estilo de afrontamiento con actitud positiva correlacionó las diversas investigaciones como un factor de protección ante la angustia. De hecho, cuanto mayor era la actitud positiva, menores son los niveles de angustia. Este estilo de afrontamiento permite reinterpretar las situaciones negativas, mantener la autoeficacia percibida y mejorar la calidad de vida. También el afrontamiento centrado en la resolución de problemas se correlacionó con una mejor salud mental del trabajador. El estilo de afrontamiento basado en creencias religiosas no obtuvo resultados positivos ni negativos.
+Tener antecedentes de trastorno mental y relatar una vida con acontecimientos traumáticos y estresantes también son factores de riesgo para un mayor impacto en la salud mental del profesional, , . Por otra parte, indicadores de resiliencia y percepción de autoeficacia son factores de protección ante el desarrollo de síntomas de trastorno mental.
+Con referencia a niveles de exposición más personales, los estudios muestran una tendencia de mayor predisposición a la presencia de síntomas de TEPT y preocupaciones relacionadas con la infección en trabajadores que han sido puestos en cuarentena. También hay más riesgo de impacto psicológico grave en trabajadores sanitarios con familiares y/o allegados infectados, y, particularmente, los trabajadores con exposición prolongada a eventos traumáticos, muerte de pacientes, muerte de colegas y/o muerte de familiares tuvieron más riesgo de padecer ansiedad severa, TEPT y síntomas depresivos.
+
+
+-- FACTORES LABORALES
+
+Respecto a la profesión dentro de la red sanitaria, cuatro estudios encontraron que los médicos estaban menos preocupados por la infección, en comparación con otros trabajadores sanitarios. Además, las enfermeras informaron de un mayor estrés percibido, mayor carga subjetiva de trabajo, síntomas psicopatológicos, síntomas afectivos negativos y síntomas de TEPT en comparación con otros trabajadores sanitarios. Teorizan que esto puede deberse a un mayor contacto con los pacientes con la COVID-19 y sus familias, mayor vínculo con ellos, mayor exposición a los temores de los pacientes y mayor temor propio a un posible contagio. A esto se suman otros hallazgos que señalan menores niveles de satisfacción laboral y menor apoyo experimentado por parte de las instituciones.
+Como se ha señalado en el apartado anterior, la edad no correlaciona con el estrés percibido. No obstante, la experiencia profesional sí actuaría como mediador. Más tiempo ejerciendo como profesional supone menor riesgo para padecer estrés y síntomas psicopatológicos, .
+La estabilidad laboral también influyó en el aumento del estrés. Los trabajadores sanitarios con contratos precarios que presentaron dudas y preocupaciones sobre el futuro individual puntuaron más en síntomas de estrés.
+La unidad de trabajo también es relevante, dado que el nivel de exposición a la infección parece afectar psicológicamente de forma significativa. Como era de esperar, trabajar con pacientes con COVID-19 suponía un factor de riesgo. De hecho, parece que a mayor número de pacientes con COVID-19 tratados, más síntomas de estrés, . Además, los estudios demostraron que los trabajadores sanitarios en unidades con alto riesgo de infección presentan síntomas de salud mental más graves, en comparación con los trabajadores sanitarios en unidades con bajo riesgo de infección, , . Curiosamente, dos estudios encontraron que ser reclutado en una unidad con bajo riesgo de infección y llevado a una con alto riesgo de infección es un factor de riesgo específico para una peor salud mental. Por el contrario, presentarse voluntario y aceptar de forma altruista el riesgo de infección es un factor protector para la salud mental. En cualquier caso, de manera independiente pero relacionada, parece que el aumento de horas de trabajo semanales influye en la aparición de síntomas de salud mental.
+Uno de los factores más estudiados ha sido la confianza en las medidas de protección proporcionadas por el centro sanitario como los equipos de protección individual (EPI) administrados y las pruebas de cribado practicadas a los sanitarios, , , , . La confianza en estas medidas de control demostraron ser factores de protección de la percepción de estrés diario, el agotamiento y las preocupaciones relacionadas con el estrés, , , pero no protegían en general la salud mental del trabajador.
+Por otro lado, la falta de habilidades y la formación inadecuada para realizar el trabajo fue un factor de riesgo importante para el malestar psicológico durante la crisis, . La mala organización del trabajo, las prácticas innecesarias y la definición deficiente de papeles y expectativas fueron también factores de riesgo relevantes.
+En cuanto al papel del apoyo social, parece que la percepción de apoyo social por parte de líderes y de iguales fue un factor de protección relevante para la percepción del estrés, , .
+Otros autores señalan que la percepción de poca supervisión o de supervisión errática empeora el impacto psicológico de la crisis, . Por otra parte, parece que un liderazgo de tipo inclusivo y visible mejora el entorno de trabajo, aumenta el compromiso con la tarea y actúa como factor de protección ante la angustia psicológica. Los investigadores proponen la teoría de intercambio social para explicar este hallazgo, por la cual el comportamiento abnegado y de apoyo del líder a sus subordinados crea una dinámica de apoyo de sus seguidores al propio líder y al objetivo común, además de impulsar indirectamente dinámicas de apoyo entre pares.
+En cuanto al apoyo psicológico ofertado por las instituciones sanitarias, es importante destacar que los trabajadores sanitarios que disponían de la posibilidad de recibir apoyo psicológico, aunque no lo usaran, tenían menos síntomas de estrés que los que no tenían la posibilidad de recibir apoyo profesional.
+En lo referente a la jornada laboral, percibir durante el turno fatiga física, agotamiento, hambre, deshidratación, mala higiene personal y/o estrés moral son factores de riesgo para generar un malestar psicológico relevante.
+
+
+- INTERVENCIONES PARA REDUCIR EL IMPACTO PSICOLÓGICO
+
+En este apartado citaremos las intervenciones psicológicas dirigidas a conservar la salud mental del profesional sanitario recopiladas en la literatura científica. Nos basaremos en el modelo de Tomlin et al. del año 2020 que comprende cuatro fases:1.Fase de preparación: continuamos en pandemia, pero no hay rebrote.2.Prefase: indicios de rebrote, pero no hay casos en la unidad.3.Fase principal: hay casos en la unidad del profesional.4.Fase fin de casos: fin de casos de COVID-19 en la unidad.
+En cada fase se hará una recopilación de las recomendaciones para el personal sanitario (como individuo) y para la institución/unidad (como equipo). La clasificación de las recomendaciones por fases es solo orientativa, pueden aplicarse a conveniencia. Las fases no tienen por qué cumplirse linealmente y actúan de forma cíclica; es decir, después de la fase de fin de casos puede venir la fase de preparación y, a continuación, la prefase, dependiendo del desarrollo de la pandemia.
+
+
+-- FASE DE PREPARACIÓN
+
+La pandemia continúa, pero no hay rebrote.
+
+
+--- RECOMENDACIONES INDIVIDUALES
+
+Señales a tener en cuenta:
+Actuaciones recomendables:
+
+
+--- RECOMENDACIONES INSTITUCIONALES
+
+Señales a tener en cuenta:
+Intervenciones recomendables:
+Prevención primaria:
+
+
+-- PREFASE
+
+Hay noticias de rebrotes, pero aún no hay casos en la unidad en la que trabaja el profesional sanitario.
+
+
+--- RECOMENDACIONES INDIVIDUALES
+
+Señales a tener en cuenta:
+Intervenciones recomendables:
+
+
+--- RECOMENDACIONES INSTITUCIONALES
+
+Señales a tener en cuenta:
+Intervenciones recomendables:
+
+
+-- FASE PRINCIPAL
+
+Hay casos de COVID-19 en la unidad donde trabaja el profesional.
+
+
+--- RECOMENDACIONES INDIVIDUALES
+
+Señales a tener en cuenta:
+Intervenciones recomendadas:
+
+
+--- RECOMENDACIONES INSTITUCIONALES
+
+Señales a tener en cuenta:
+Intervenciones recomendadas:
+
+
+-- FASE FINAL Y A LARGO PLAZO
+
+Se mantiene estable la ausencia de casos de COVID-19 en la unidad.
+
+
+--- RECOMENDACIONES INDIVIDUALES
+
+Señales a tener en cuenta:
+Intervenciones recomendadas:
+
+
+--- RECOMENDACIONES INSTITUCIONALES
+
+Señales a tener en cuenta:
+Intervenciones recomendadas:
+
+
+- RESPONSABILIDADES ÉTICAS
+
+-- PROTECCIÓN DE PERSONAS Y ANIMALES
+
+Los autores declaran que para esta investigación no se han realizado experimentos en seres humanos ni en animales.
+
+
+-- CONFIDENCIALIDAD DE LOS DATOS
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+-- DERECHO A LA PRIVACIDAD Y CONSENTIMIENTO INFORMADO
+
+Los autores declaran que en este artículo no aparecen datos de pacientes.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

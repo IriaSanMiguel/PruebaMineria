@@ -1,0 +1,6 @@
+FE DE ERRORES DE «SUPLEMENTO ATENCIÓN PRIMARIA - ACTUALIZACIÓN PAPPS 2018» ATEN PRIMARIA. 2018;50 SUPL 1:S4-28 - DOI: 10.1016/S0212-6567(18)30360-3
+
+
+En este artículo ya publicado, se ha detectado en el apartado de DISLIPEMIA:
+Donde dice: «Más recientemente, el estudio Odissey ha demostrado que el evolucumab comparado con placebo reducía también de una manera significativa, un 15%, la morbimortalidad cardiovascular a los 4 años de seguimiento en pacientes que habían padecido un síndrome coronario agudo en el último año y todos en tratamiento con estatinas de alta intensidad, pero un cLDL ≥ 70 mg/dl (resultados presentados en el ACC 2018, todavía no publicados).»
+Debería decir: «Más recientemente, el estudio Odissey ha demostrado que el alirocumab, comparado con placebo reducía también de una manera significativa, un 15%, la morbimortalidad cardiovascular a los 2,9 años de seguimiento en pacientes que habían padecido un síndrome coronario agudo en el último año y todos en tratamiento con estatinas de alta intensidad, pero un cLDL ≥ 70 mg/dl (resultados presentados en el ACC 2018, todavía no publicados).»

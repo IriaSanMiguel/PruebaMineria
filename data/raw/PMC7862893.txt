@@ -1,0 +1,56 @@
+UTILIDAD Y ACEPTACIÓN DEL SEGUIMIENTO TELEFÓNICO DE UN ASISTENTE VIRTUAL A PACIENTES COVID-19 TRAS EL ALTA
+
+
+- INTRODUCCIÓN
+
+La pandemia por COVID-19 ha supuesto un desafío para los sistemas sanitarios que se han visto desbordados para cubrir las necesidades asistenciales de estos pacientes, tanto a nivel de atención primaria como hospitalaria. Adicionalmente ha potenciado la incorporación de nuevas tecnologías, adaptadas a la situación de la pandemia para llevar a cabo el seguimiento y tratamiento de los pacientes.
+El objetivo de este trabajo es evaluar la utilidad, y satisfacción de los usuarios, de un cuidador virtual diseñado para monitorizar la salud de los pacientes tras un ingreso hospitalario por COVID-19 durante los 30 días siguientes al alta hospitalaria.
+
+
+- MÉTODOS
+
+Se incluyó a 100 pacientes, infectados por SARS-CoV-2, dados de alta entre el 14 de mayo y el 15 de agosto de 2020 en el Hospital Universitario de La Princesa de Madrid.
+El seguimiento lo realizó el Servicio de Medicina Interna del hospital junto con la empresa Tucuvi, sociedad que ha desarrollado un asistente virtual para el sector sociosanitario, tecnología de voz e inteligencia artificial, con el objetivo de mejorar la calidad asistencial. El asistente virtual realizaba llamadas telefónicas de seguimiento a los pacientes a las 48 horas, 7 días, 15 días y 30 días después del alta. Si no se localizaba al paciente en el primer intento, se realizaban hasta un total de 3 intentos más por cada llamada programada.
+El asistente virtual formulaba las siguientes preguntas al paciente o a su cuidador: ¿Le cuesta más respirar que cuando le dieron el alta? ¿Ha tenido fiebre en las últimas 24 h? ¿Cuánta? En comparación a cuando le dieron el alta, ¿se encuentra mejor o peor? ¿Le ha aparecido alguna molestia nueva? ¿Cuál? ¿Ha tenido que acudir a Urgencias desde que le dieron el alta?
+Con cualquier respuesta afirmativa, se generaba una alerta y se enviaba un informe en formato excel con el ID del paciente y el tipo de alerta. La enfermera hospitalaria se encargaba de contactar con el paciente personalmente en las siguientes 24 h y le indicaba los pasos que debía seguir. En los casos necesarios se derivaba al paciente al equipo médico. La llamada desde enfermería también se realizaba, con hasta 3 intentos, en los casos en los que el asistente no había localizado al paciente.
+A la semana de finalizar el estudio se realizó una breve encuesta telefónica para conocer la satisfacción de los usuarios. Las preguntas formuladas fueron las siguientes: grado de satisfacción con el uso del sistema para mejorar la comunicación con su equipo sanitario; si el sistema le había ayudado a controlar mejor la evolución de su enfermedad y el grado de satisfacción con la voz utilizada por el sistema que le había llamado. Tenían que puntuarlas entre 1 (mínimo) y 5 (máximo).
+
+
+-- ASPECTOS ÉTICOS
+
+El estudio fue aprobado por el Comité Ético de Investigación del Hospital Universitario de la Princesa. Los pacientes dieron su consentimiento verbal, que se recogió en la historia clínica, para ser incluidos en el estudio.
+
+
+- RESULTADOS
+
+De los 100 pacientes incluidos, 59 eran hombres y 41 mujeres, con un rango de edad entre 18 y 93 años. Un 5% se encontraba entre 18 y 31 años; un 10%, entre 31 y 44 años; un 8%, entre 44 y 57 años; un 29%, entre 57 y 70 años; un 26%, entre 70 y 83 años y un 22%, entre 83 y 93 años. Todos los pacientes habían ingresado por neumonía por COVID-19 o reingresado por complicaciones tras el alta por COVID-19.
+Se realizó un total de 680 llamadas, de las cuales se contestaron 423 (un 62%) y se completaron 278 (un 66%). La duración media de las llamadas fue de 2 min 16 s.
+Un 15,25% de las llamadas resultó en alerta, generadas por 45 pacientes. El número total de alertas detectadas fue de 85, siendo su distribución según la edad: < 50 años, 17 alertas; 50-60 años, 4 alertas; 60-70 años, 24 alertas; 70-80 años, 21 alertas y en >80 años, 19 alertas. La media de alertas detectada en cada llamada fue 1,35. En la figura 1 se muestra la frecuencia y tipo de alerta por grupos de edad.Figura 1
+La alerta por dificultad respiratoria fue más frecuente a medida que avanzaba la edad, mientras que la fiebre fue infrecuente en los de mayor edad. En los pacientes menores de 80 años las alertas más frecuentes fueron la disnea y el malestar general; sin embargo, la fiebre fue globalmente la más frecuente.
+En la figura 2 se muestra la evolución de la prevalencia de alertas en función del momento de la llamada.Figura 2
+Se detectó el mayor número de alertas en las llamadas a los 30 días: la mayoría en relación con aparición de nuevos síntomas, no relacionados con la COVID-19.
+Cinco pacientes acudieron a Urgencias, 2 derivados por el equipo de atención primaria y 3 por decisión propia. En 2 ocasiones por causas relacionadas directamente con la infección por SARS-CoV-2, malestar general y fiebre, por decisión propia del paciente y el día previo a una llamada de seguimiento. Ninguno de los 2 pacientes requirió ingreso.
+De las 87 llamadas realizadas por parte de enfermería, 49 (56%) llamadas eran alertas generadas por el asistente telefónico Tucuvi, de las cuales enfermería confirmó 42 (86%). En 4 llamadas no se localizó al paciente y en 3 no se confirmó la alerta siendo los motivos: no haber entendido la pregunta, no se explicaron bien durante la llamada y generaron una alerta, o que querían contactar con la enfermera.
+Se realizaron 38 llamadas (44%) por enfermería, al no haber contactado el asistente con el paciente. En 6 de ellas se confirmó la alerta; en 17, el paciente/cuidador no refirió síntomas de alerta y en 15 no se logró respuesta.
+En total se confirmaron por parte de enfermería 48 alertas (55% de todas las llamadas), derivando un 6% al equipo médico.
+Una semana después de terminar con el seguimiento se realizó una evaluación de la satisfacción de los usuarios mediante una breve encuesta. A esta encuesta respondieron 46 de los pacientes. Las valoraciones medias fueron: a la pregunta sobre el grado de satisfacción con el uso del sistema para mejorar la comunicación con su equipo sanitario, un 3,8 sobre 5; a si el sistema les había ayudado a controlar mejor la evolución de su enfermedad, un 3,4 sobre 5; y al grado de satisfacción con la voz utilizada por el sistema que le ha llamado, un 4 sobre 5 (siendo 1 el mínimo y 5, el máximo).
+Treinta y nueve pacientes indicaron agradecimiento al servicio de asistencia virtual por: el seguimiento, la preocupación por el paciente, la rápida comunicación, la frecuencia de contacto.
+
+
+- DISCUSIÓN
+
+El seguimiento telefónico de los pacientes tras un alta hospitalaria se ha identificado como una herramienta útil y coste efectiva, , , que suele aplicarse a patologías crónicas como la insuficiencia cardíaca, la EPOC o la diabetes mellitus, . Sin embargo, esta estrategia consume recursos de enfermería al requerir una llamada de la enfermera a todos los pacientes dados de alta. La posibilidad de hacer una selección de los que realmente necesitan una llamada personalizada mediante un sistema de alertas, basado en las nuevas tecnologías, ha supuesto un avance relevante. Los sistemas de llamada automática representan una forma pragmática y económica de mejorar el seguimiento telefónico, , , .
+En nuestra experiencia, el asistente virtual ha permitido el seguimiento de un colectivo muy vulnerable, como son los pacientes ingresados por COVID-19. Ha servido para identificar a aquellos que necesitaban una intervención específica sanitaria, y evitarles la sensación de abandono y dificultad de acceso al sistema sanitario que podían tener.
+El rango de edad de los pacientes incluidos en este proyecto es amplio y representativo de todos los pacientes ingresados por COVID-19. La llamada por parte de enfermería a aquellos pacientes con los que el asistente virtual no pudo contactar redujo a 15 de los 100 pacientes el número de pacientes con los que no se contactó. La enfermera resolvió el 94% de las alertas, y las que no solucionó estaban relacionadas con el circuito asistencial que debía seguir el propio paciente.
+Como limitación para evaluar la satisfacción está el escaso número de pacientes/cuidadores que contestaron a la encuesta. A pesar de ello fue casi la mitad de la muestra.
+En resumen, el cuidador virtual es una herramienta útil para realizar el seguimiento de los pacientes tras el alta hospitalaria, independientemente de la edad. La mayoría de las resoluciones de alertas las puede llevar a cabo enfermería. La satisfacción de los pacientes con el cuidador virtual de alertas fue alta.
+
+
+- FINANCIACIÓN
+
+Ninguna.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

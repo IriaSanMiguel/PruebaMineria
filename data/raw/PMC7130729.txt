@@ -1,0 +1,83 @@
+INFECCIONES VIRALES GRAVES EN PACIENTES INMUNOCOMPETENTES
+
+
+- INFECCIONES VIRALES COMUNITARIAS GRAVES
+
+-- INTRODUCCIÓN
+
+Los procesos sépticos continúan siendo una de las principales causas de morbimortalidad en las UCIs en todo el mundo. En este contexto, las infecciones por virus, causantes de gran cantidad de cuadros infecciosos comunitarios en la población general, también presentan marcada relevancia en las infecciones en pacientes críticos, entre las que destacan las infecciones virales respiratorias graves. Entre las causas de neumonía grave comunitaria que requiere ingreso hospitalario, los virus se presentan como causantes del 15-40% de los casos con etiología conocida.
+
+
+-- TIPOS DE VIRUS
+
+Los virus que nos invaden por vía aérea pueden agruparse en:
+
+
+--- INFLUENZA
+
+El virus de la gripe estacional, virus influenza, es un virus ARN con tres subtipos conocidos (A, B y C), perteneciente a la familia Orthomyxoviridae, que presenta gran variabilidad genética y potencial para causar epidemias y pandemias. Cursa clínicamente con datos de enfermedad respiratoria alta, autolimitante, con un comienzo abrupto, fiebre, escalofríos, malestar, cefaleas, mialgias y tos no productiva que persiste 3 o 4 días. Pueden aparecer complicaciones de varios tipos, destacando las neumonías e infecciones bacterianas secundarias, principalmente en personas con enfermedad respiratoria crónica y en mayores de 65 años. Las secreciones respiratorias de los enfermos con gripe constituyen la principal fuente de infección, al ser eliminadas con la tos o los estornudos. Se transmite vía aérea, durante el período sintomático de la enfermedad. La virulencia y la antigenicidad del virus, la inmunidad del huésped y el ambiente interaccionan entre sí, afectando la transmisión del virus persona-persona. El virus influenza tipo A, por sus frecuentes variaciones antigénicas, posee mayor virulencia. El diagnóstico generalmente se establece por las manifestaciones clínicas, si bien se puede apoyar en técnicas complementarias como pruebas de determinación antigénica, tests de ácidos nucleicos, PCR o cultivos virales. Entre las opciones de tratamiento farmacológico los inhibidores de la neuraminidasa (oseltamivir y zanamivir) se prefieren frente a amantadina y rimantadina, dado el alto grado de resistencias de estas últimas. El papel de la última pandemia por virus H1N1 no se analizará en esta revisión al considerarse que necesita, por su complejidad y características, una descripción exhaustiva tal y como está llevando a cabo el grupo de estudio creado con ese fin en el seno de nuestra sociedad (SEMICYUC).
+
+
+--- VIRUS RESPIRATORIO SINCITIAL (VRS) Y VIRUS PARAINFLUENZA
+
+Los virus parainfluenza y VRS comparten similitudes estructurales (virus ARN), de pertenencia a la misma familia (Paramyxoviridae), y también respecto a epidemiología, patogenia y clínica. Ambos desarrollan infecciones graves con mayor frecuencia en pacientes de edad avanzada o grupos de riesgo para infecciones respiratorias graves (EPOC evolucionados, fibrosis quística, trasplantados de pulmón), donde se describen cuadros de bronquiolitis y neumonía con infrecuente progresión a SDRA. Desarrollan cuadro clínico similar a infecciones por influenza, con aparición frecuente de broncospasmo y bronquiolitis. El diagnóstico se basa en hallazgos clínicos, test de detección antigénica, aislamiento del virus y PCR. Tratamiento básico de soporte, broncodilatadores y corticoides, y ribavirina nebulizada en pacientes de alto riesgo. Mortalidad cercana al 10% en edades avanzadas. Transmisión por fomites o secreciones infectadas.
+
+
+--- CORONAVIRUS-SARS (SARS-COV
+
+El denominado síndrome respiratorio agudo grave (siglas en inglés, SARS) es producido por un virus ARN, Coronavirus (Coronaviridae) de reciente aparición, descrito por primera vez tras brote epidémico en 2003. Presenta clínica bifásica con pródromo (fiebre, escalofríos, mialgias, náuseas, cefalea) y progresión en unos 7-8 días a clínica respiratoria con hipoxemia grave (el 45% de los casos), fallo respiratorio y SDRA (en un 20%). El diagnóstico se establece por PCR e inmunofluorescencia, se puede obtener también de cultivos virales y mediante ELISA. El tratamiento fundamental es de soporte, en algunos casos es beneficioso el empleo de corticoides (tras desarrollo de SDRA). Se comunican datos de mortalidad en torno al 11%, mayor en pacientes de edad > 65 años. Transmisión por gotas, vía aérea y por contacto.
+
+
+--- OTROS VIRUS RESPIRATORIOS
+
+Adenovirus. Clínica: afectación de tracto respiratorio inferior en población militar sana. Raramente, neumonía con progresión a SDRA y síntomas extrapulmonares (gastritis, hepatitis, meningitis, cistitis hemorrágica). Diagnóstico: PCR y cultivos virales. Tratamiento: soporte, cidofovir y ganciclovir parecen tener actividad in vitro. Transmisión: por gotas y por contacto.
+Hantavirus. Causa dos cuadros clínicos diferentes: síndrome hemorrágico febril con fallo renal (SHFR) y síndrome cardiopulmonar por hantavirus (SPH). Clínica: pródromo (fiebre, escalofríos, mialgias, dolor abdominal) y rápida progresión hacia fallo respiratorio, SDRA, coagulopatía y shock. Diagnóstico: tests serológicos. Tratamiento: soporte y ribavirina en el SHFR (no efectiva en SPH). Transmisión: contacto con orina o excrementos de ratones infectados.
+
+
+-- OTROS CUADROS CLÍNICOS VIRALES GRAVES
+
+
+
+
+-- DIAGNÓSTICO, TRATAMIENTO Y MANEJO NO FARMACOLÓGICO
+
+Los recientes progresos en los métodos de diagnóstico virológico se han traducido en mejoras sustanciales en el rendimiento y la rapidez de los medios de cultivo de virus (Shell-vial), la ganancia en sensibilidad y especificidad de las técnicas de detección de antígenos virales, la ampliación del catálogo de técnicas serológicas disponibles y, sobre todo, en los avances de los métodos basados en técnicas de amplificación de ácidos nucleicos (TBAN), como la reacción en cadena de la polimerasa (PCR). Los métodos diagnósticos más empleados en los principales cuadros clínicos descritos se reflejan en la tabla 2 .
+Los antivirales disponibles actualmente (tabla 3 ) pertenecen a dos grupos, según su mecanismo de acción, por un lado amantadina y rimantadina actúan sobre la proteína M2 del virus de influenza A, inhiben su habilidad para disminuir el pH del hábitat del endosoma, esencial para destruir la envoltura viral y liberar la nucleocápside. La amantadina es sólo efectiva contra el virus de la influenza A y no contra el B (no tiene la proteína M2, sino una proteína sustituta llamada NB que no se afectan por la amantadina) y por otra parte, oseltamivir (Tamiflu®) y zanamivir (Relenza®), que bloquean el sitio activo de la neuraminidasa, lo que impide la diseminación del virus. Tienen actividad demostrada frente a los virus influenza A y B.
+Entre las medidas de soporte básico común a muchos de estos cuadros está la oxigenoterapia apropiada, corticoides y aerosolterapia (broncodilatadores, corticoides o ribavirina). El manejo no farmacológico de pacientes críticos con datos de enfermedad febril respiratoria grave variará según el agente infeccioso implicado (sospechado o identificado) y la gravedad de la afectación respiratoria, si bien la mayoría presenta similitudes clínicas que permiten establecer un cierto patrón de conducta. En todos los casos será preciso un tratamiento intensivo de soporte (fluidos, aminas, técnicas de reemplazo renal) como el empleado en shock séptico de otras etiologías. En estos pacientes suele acontecer lesión pulmonar grave, lo cual determinará la necesidad de ventilación mecánica. En casos de desarrollo de SDRA, deberán instaurarse estrategias protectoras de ventilación mecánica (volumen corriente bajo [Vc, 6 ml/kg], valores altos de PEEP para reducir áreas atelectásicas). Los casos más leves, en ocasiones, responden bien a ventilación no invasiva (VNI) precoz, pero hay disparidad de opiniones comunicadas respecto al uso de VNI en estos pacientes.
+
+
+- INFECCIONES NOSOCOMIALES GRAVES CAUSADAS POR VIRUS, NEUMONÍA ASOCIADA A VENTILACIÓN MECÁNICA (NAVM
+
+-- INTRODUCCIÓN
+
+Si bien la etología ha sido siempre catalogada como bacteriana, es cierto que existen hoy en día episodios no catalogados etiológicamente. En especial, con el advenimiento de técnicas de alta sensibilidad para la detección de virus en el tracto respiratorio, se han publicado trabajos en la última década que parecen indicar un papel de los virus en la patogenia de esta infección importante y prevalente en las unidades de cuidados intensivos. Si bien hasta el momento no existe un estándar para el diagnóstico disponible de forma habitual, ninguno de estos trabajos ha establecido relación causal entre el aislamiento y el episodio infeccioso, además no existe evidencia en forma de estudio o ensayo clínico sobre el papel de los antivirales en estos procesos supuestamente de etiología viral.
+
+
+-- EPIDEMIOLOGÍA
+
+En un estudio prospectivo francés realizado en un hospital universitario, se incluyó, durante un periodo de 9 meses, a todos los pacientes ventilados más de 48 horas (139). Se realizó estudio de aspirado traqueal para detectar la presencia de virus mediante varias técnicas, incluida técnica de PCR, los virus aislados fueron rinovirus, herpes simple, influenza, sincitial respiratorio, enterovirus, parainfluenza, adenovirus, coronavirus y CMV, detectados en un 25% de los pacientes, si bien no hubo ningún caso de neumonía viral atribuible en los episodios de NAVM, aunque bien es cierto que herpes simple virus tipo I (HSVI) se aisló en el 31% de los episodios de NAVM. Por lo tanto, HSVI se convierte en el agente viral más posiblemente involucrado, corroborado este hecho tanto por una reciente serie nacional como varios trabajos internacionales publicados en la última década en la literatura, , , , . Su frecuencia oscila entre el 5 y el 64% y su mediana se sitúa ente el 15 y el 20%.
+Si bien la reactivación y la enfermedad por CMV, clásicamente, se han ligado a pacientes con alteraciones en la inmunidad celular, en la última década se ha descrito su reactivación en enfermos críticos inmunocompetentes, , , . La incidencia es variable dependiendo del método diagnóstico utilizado (cultivo o PCR), que oscila entre el 12 y el 33%.
+En un reciente estudio, un 19% de los pacientes ventilados con sospecha de NAVM tuvieron serología positiva para Acanthomaeba polyphaga (si bien en el 64% de los episodios hubo positividad en el cultivo bacteriano en el BAL), un mimivirus que se había asociado previamente a episodios de neumonía comunitaria y nosocomial.
+
+
+-- PATOGENIA Y FACTORES DE RIESGO
+
+La reactivación del virus latente parece ser el mecanismo inicial en todos los pacientes con neumonía en UCI causada por HSVI. El hecho de tener serología previa positiva e ir precedido de lesiones cutaneomucosas y/o positividad en frotis faríngeo en la mayoría de los episodios confirma esta suposición, . La reactivación causada por la instrumentalización o el traumatismo de la vía aérea puede producirse en la mucosa orofaríngea y vía aérea alta con posterior microaspiración a las zonas más distales, o bien en la propia mucosa bronquial directamente. El inicio de la reactivación se produce entre el tercero y el quinto día de ventilación mecánica, llegando a un pico de forma exponencial al día 12 de carga viral que puede llegar a 108 copias/ml, para luego descender lentamente. La carga viral se ha correlacionado con el diagnóstico de bronconeumonitis viral.
+Los factores de riesgo, , , , , más frecuentemente descritos para infecciones del tracto respiratorio inferior por HSVI han sido: presencia de lesiones herpéticas cutaneomucosas, frotis faríngeo positivo, lesiones mucosas traqueales, trombocitopenia, scores SOFA y/o APACHE II elevados, ventilación mecánica más de 7 días, edad avanzada, uso de corticosteroides durante el ingreso en UCI y positividad de IgG VHSI al ingreso.
+Como se ha comentado, la reactivación de CMV es frecuente en el enfermo crítico. Esta se produce entre los días 14 y 21 de estancia en UCI, , . Puede iniciarse en el parénquima pulmonar activada por la sepsis, como ha sido demostrado en modelos animales con infección latente por CMV, y producir un aumento persistente de la respuesta inflamatoria mediada por citocinas.
+Los factores de riesgo descritos para infección activa por CMV, en pacientes inmunocompetentes sometidos a ventilación mecánica, son hemotransfusión, hospitalización previa, edad y uso de corticoides previo.
+En el único estudio clínico publicado sobre mimivirus y NAVM en la literatura, los factores de riesgo asociados a serología positiva frente a este virus fueron: la duración de la ventilación mecánica previa a la realización del lavado broncoalveolar, no haber identificado otro virus y la ausencia de nutrición enteral.
+
+
+-- ENTIDADES CLÍNICAS SEGÚN ETIOLOGÍA
+
+El papel de HSV está todavía por definir como causante de infección en el tracto respiratorio inferior y su aislamiento en sí puede corresponder a contaminación desde el tracto respiratorio superior, excreción viral de la mucosa o bronconeumonitis, ya que en más de la mitad de los casos de supuesta NAVM viral coexiste aislamiento bacteriano, , por lo que podría tratarse de un simple marcador de gravedad o un patógeno con entidad propia.
+Existen varios trabajos publicados que tratan de documentar la incidencia real de NAMV causada por CMV, , . El 29,4% de 85 pacientes diagnosticados de síndrome de distrés respiratorio del adulto con sospecha de NAVM y con cultivos negativos tuvieron hallazgos anatomopatológicos compatibles con neumonía por CMV en un estudio publicado en 1996. Estos mismos autores, 11 años más tarde, demostraron, por biopsia in vivo, en una población de 100 pacientes, una alta incidencia de neumonía por CMV (30%) y una baja rentabilidad diagnóstica tanto de PCR como de cultivo de BAL (sensibilidad del 53% y especificidad del 92%). En un reciente estudio, la incidencia de enfermedad activa por CMV fue elevada, en una población de 242 pacientes inmunocompetentes, ventilados más de 48 horas (16,1%).
+Por todo ello, debemos sospechar la etiología por CMV en episodios de NAVM con infiltrados persistentes, sin mejoría clínica y cultivos bacterianos negativos, evaluando la posibilidad de reactivación de CMV mediante técnicas de PCR. Se debe iniciar tratamiento antiviral y, en casos necesarios, se puede precisar confirmación del diagnóstico por biopsia pulmonar.
+
+
+-- IMPLICACIONES PRONÓSTICAS Y TRATAMIENTO
+
+Los pacientes infectados por VHS precisan mayor tiempo de ventilación mecánica y tienen una mayor estancia hospitalaria, sin contar con ningún estudio que haya podido demostrar un aumento en la mortalidad, , , . No hay datos de estudios adecuados para recomendar el tratamiento antiviral en casos de infección por HSV, si bien la necesidad de ensayos clínicos se hace mandatoria dada la incidencia creciente de esta infección y su asociación a mayores estancia y tiempo de ventilación mecánica, ya que podría existir un beneficio para los pacientes.
+En un estudio citado previamente, en que se evaluó la incidencia, los factores de riesgo y el pronóstico de los pacientes con enfermedad activa por CMV, esta se asoció con mayores estancia, días de ventilación mecánica y número de infecciones nosocomiales que en los pacientes sin enfermedad activa. La mortalidad tanto en UCI (54% frente a 37%; p = 0,082) como hospitalaria (59% frente a 41%; p = 0,058) fue más alta en el grupo con enfermedad, con una importante tendencia a la significación estadística. La enfermedad activa sí se asoció en el análisis mutivariante de forma independiente junto al score APACHE II con la mortalidad intra-UCI.
+En la tabla 4 se resumen las principales características de las NAVM de posible origen viral descritas previamente.

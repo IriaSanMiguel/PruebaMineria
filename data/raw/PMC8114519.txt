@@ -1,0 +1,97 @@
+CRITERIOS DE SEGUIMIENTO DE LOS PACIENTES CON AFECTACIÓN RESPIRATORIA GRAVE POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+La sorprendente y aparatosa aparición de una nueva enfermedad infecciosa, la enfermedad por coronavirus del 2019 (COVID-19), ha supuesto un vuelco total no solo en los sistemas sanitarios, sino también en la forma de vida de todas las personas que habitan en la tierra.
+Producida por el virus SARS-CoV-2, e inicialmente descrita en la localidad de Wuhan (China) a finales de 2019, se extendió en pocos meses por todo el mundo, detectándose por primera vez en España en febrero de 2020. Desde entonces su extensión y progresión fue rápida, de forma que a primeros de marzo de 2020 se hizo necesario un confinamiento estricto de toda la población, para tratar de disminuir su incidencia y, sobre todo, su mortalidad.
+Hasta el 20 de abril de 2021, y según los datos oficiales del Ministerio de Sanidad, se habían registrado en España 3 435 840 casos de COVID-19, con 77 216 fallecidos (tasa de letalidad: 2,2%). Tras comenzar la vacunación en enero de 2021, se han administrado hasta ahora más de 13 millones de dosis de vacuna.
+Entre los pacientes infectados, una parte importante permanecen asintomáticos (en el estudio de seroprevalencia realizado en España suponían el 33%), si bien hasta en el 70% de ellos se pueden apreciar algunas alteraciones radiológicas.
+Entre quienes presentaron síntomas, en España lo más frecuente fue la fiebre (68,7%), tos (68,1%), dolor de garganta (24,1%), disnea (31%), escalofríos (27%), diarrea (14%), vómitos (6%) y otros síntomas respiratorios (4,5%). Se han descrito igualmente un número variable de casos con síntomas neurológicos, cardiológicos, oftalmológicos, de la esfera otorrinolaringológica (especialmente anosmia y ageusia, hasta el 43,3% en España), dermatológicos y hematológicos (mayor incidencia de eventos trombóticos).
+En nuestro país, durante los primeros meses de la pandemia, requirieron hospitalización el 43% de los pacientes diagnosticados, y el 3,9% precisó ingreso en la unidad de cuidados intensivos (UCI). Sin embargo, en agosto de 2020 solo requirieron ingreso hospitalario el 3,7%, y el 0,3% en UCI. Hay que señalar que esta aparente situación de benignidad cambió rápidamente: en los últimos días de septiembre de 2020 estaban aumentando mucho los casos ingresados y los pacientes internados en UCI.
+Los principales síntomas al ingreso fueron la astenia, la fiebre y la disnea, acompañados de infiltrados alveolares en la radiografía de tórax. El síndrome de distrés respiratorio agudo (SDRA) fue la principal causa para el traslado a la UCI.
+El SDRA es la complicación más frecuente y grave en estos pacientes. El tiempo entre el inicio de la enfermedad y la aparición de disnea es de unos 5 días, 7 días para la hospitalización y 8 días para presentar SDRA.
+
+
+- FISIOPATOLOGÍA DE LA INFECCIÓN POR SARS-COV-2
+
+El SARS-CoV-2 es un virus de RNA envuelto en una pared que, vista al microscopio, tiene el aspecto de una corona, debido a las múltiples espículas que presenta en su superficie. Se trata del séptimo coronavirus descrito; de los 6 anteriores, cuatro son endémicos en todo el mundo, responsables de infecciones respiratorias leves en invierno. Los otros dos, aparecidos a principios del siglo xxi, son el SARS-CoV (que provocó una epidemia de alta mortalidad en 2003 en el sudeste asiático y China, actualmente desaparecida) y el coronavirus del síndrome respiratorio de Oriente Medio (MERS-CoV), que provocó en 2015 una epidemia en Corea del Sur, y que permanece como endémico en la península arábiga.
+El SARS-CoV-2 se transmite por vía aérea de dos formas diferentes: gotículas o “droplets” (mayores de 5 micras) y aerosoles (partículas menores de 5 micras). Cuando una persona infectada tose, respira fuertemente o habla en tono alto puede emitir aerosoles que permanecen largo tiempo en suspensión en el aire. Por el contrario, las gotículas apenas permanecen en el aire unos 10 minutos.
+Tras la infección, el periodo de incubación es de unos 5 días, pero puede llegar a 14 días. La primera fase de la infección es la de replicación viral. El SARS-CoV-2 se fija a las células diana mediante la unión de la proteína S de la espícula del virus al receptor de la enzima convertidora de la angiotensina 2 (ACE2), lo que permite la entrada del virus en la célula y su replicación (fig. 1 ). Esta propiedad de unirse al receptor ACE2 explica la afectación de las vías respiratorias y de los pulmones, donde dicho receptor es muy abundante, pero también de muchos otros tejidos y órganos donde también se expresa dicho receptor: riñón, sistema cardiovascular, miocardio, hígado y tubo digestivo, sistema nervioso central, testículos y placenta. La COVID-19 puede ir, pues, desde una enfermedad asintomática a una afectación multiorgánica grave que podría, potencialmente, dejar secuelas de larga duración en los individuos afectados.Figura 1
+
+
+- SECUELAS EN LA COVID-19
+
+Tras sufrir la COVID-19, un gran número de pacientes tienen una recuperación completa, mientras que la mortalidad aumenta con la edad, especialmente en mayores de 60 años, y en personas con más de 80 años, en las que la mortalidad puede ser 10 veces mayor que en grupos de edades medias.
+En un porcentaje aún desconocido de pacientes se da una prolongación de los síntomas durante semanas o meses (COVID prolongado o “long COVID”) y en un número menor, la persistencia de secuelas, principalmente pulmonares, pero también cardiológicas, neurológicas y de otros tipos.
+Vamos a ver a continuación las características de la COVID prolongada y de las principales secuelas respiratorias de la COVID-19.
+
+
+- COVID PROLONGADA O “LONG COVID”
+
+El termino de COVID prolongada, COVID postaguda o “long COVID” se utiliza para describir la enfermedad en aquellos individuos que se han recuperado de la COVID-19, pero que presentan síntomas durante más tiempo del esperado, en ocasiones varios meses, pero sin presentar fiebre ni otros signos o síntomas de enfermedad aguda.
+Se ha propuesto definir como COVID prolongada la presencia de síntomas más allá de 3 semanas desde el inicio de los síntomas, y como COVID crónica cuando se extienden durante más de 12 semanas.
+En un estudio italiano sobre pacientes dados de alta del hospital, tras un seguimiento de 60 días, solo el 12,6% no presentaba ningún síntoma, mientras que el 33% presentaba uno o dos síntomas, y el 55% tres o más. Entre los síntomas relatados con mayor frecuencia estaban la fatiga (53%), la disnea (43%), las artralgias (27%) y el dolor torácico (22%).
+Por otra parte, entre los pacientes seguidos en el UK COVID Symptom Study, 1 de cada 10 pacientes de COVID-19 permanece enfermo 3 semanas o más.
+Los síntomas más comunes de la COVID prolongada se resumen en la tabla 1 .
+
+
+-- SEGUIMIENTO DE LOS PRINCIPALES SÍNTOMAS RESPIRATORIOS DE COVID PROLONGADA EN ATENCIÓN PRIMARIA<XREF RID="BIB0060" REF-TYPE="BIBR"><SUP>12</SUP></XREF
+
+--- TOS
+
+En ausencia de datos de otras patologías, como sobreinfección o inflamación pleural, se obtienen buenos resultados en la reducción de la tos con ejercicios de control de la respiración (tabla 2 ).
+
+
+--- DISNEA, SENSACIÓN DE FALTA DE AIRE
+
+Se trata de una situación que aparece comúnmente tras la fase aguda de la COVID-19, aunque se da raramente en pacientes que no hayan sido hospitalizados. En algunos casos puede llegar a ser grave y requerir el ingreso del paciente. Suele mejorar con ejercicios respiratorios.
+El uso domiciliario de un pulsioxímetro puede ser muy útil para valorar los síntomas respiratorios post-COVID, especialmente para detectar la hipoxia oculta o la caída de la saturación en el ejercicio ligero (una caída del 3% de la saturación tras caminar 40 pasos en llano es anormal y requiere estudio).
+
+
+--- PÉRDIDA DE LA CAPACIDAD DE DIFUSIÓN PULMONAR
+
+La prueba de difusión de monóxido de carbono (DLCO), que mide la capacidad de difusión de los gases a través de las paredes alveolares hacia la sangre, puede estar alterada en un grupo de pacientes que hayan sufrido enfermedad pulmonar grave, como el SDRA o neumonías bilaterales. Una disminución de la DLCO puede indicar la existencia de fibrosis, y se puede prolongar meses o años, a juzgar por la experiencia del SARS-CoV de 2003.
+No obstante, la afectación intersticial persistente grave parece ser rara en pacientes que no sufran o hayan sufrido hipoxia.
+Se ha descrito también una disminución de la capacidad aeróbica en adultos jóvenes tras superar la COVID-19.
+
+
+--- DOLOR TORÁCICO
+
+Es un síntoma muy frecuente en pacientes con COVID postaguda. Suele tratarse de un dolor de características musculoesqueléticas, pero en ocasiones es inespecífico y debe realizarse una cuidadosa anamnesis y exploración para tratar de descartar un problema cardiaco. Si existen dudas, o el paciente se encuentra muy mal de forma aguda, debe remitirse al hospital para valoración cardiológica urgente.
+
+
+-- SECUELAS PULMONARES PARENQUIMATOSAS
+
+Se ha observado en numerosos pacientes con COVID-19 grave, especialmente si sufrieron SDRA, la aparición de fenómenos de fibrosis y remodelado en el parénquima pulmonar. Se desconoce si se debe a daño directo por el virus, a la hiperinflamación (“tormenta de citoquinas”) o bien a los tratamientos empleados o a la ventilación.
+Generalmente, la secuencia temporal en pacientes con COVID grave se inicia con una neumonía organizada que conduce a una lesión pulmonar aguda grave. En este proceso se producen fenómenos fibróticos, observándose que en una gran parte de los fallecidos estaba presente la fibrosis pulmonar.
+Sin embargo, debido a que el SARS-CoV-2 apareció hace solo unos meses, se desconoce si esa fibrosis es un fenómeno total o parcialmente reversible o, por el contrario, dejará secuelas permanentes.
+Una pista de lo que puede suceder es observar la historia natural del SARS-CoV-1 de 2003. La enfermedad aguda duraba 1 o 2 semanas, y la mayoría de los pacientes se recuperaban; sin embargo, hasta en un tercio de los casos se desarrollaba lesión pulmonar aguda y SDRA. La aparición de fibrosis se iniciaba en la fase aguda, seguía una fase de deposición de fibrina (semanas 2 a 5) y se consolidaba con el depósito de colágeno (semanas 6 a 8). La fibrosis se relacionó con la duración y la gravedad de la enfermedad, y los pacientes con SARS de mayor edad tenían más riesgo de fibrosis pulmonar. En el seguimiento de estos pacientes, se identificaban características radiológicas de la fibrosis a los 3 y a los 6 meses en un tercio de los casos.
+En la COVID-19 la mayoría de los pacientes mejoran clínica y radiológicamente después de 10-21 días de tratamiento. En los estudios realizados con tomografía computarizada de alta resolución (TCAR) tras la fase aguda, se observa ya afectación intersticial con tres tipos de patrón radiológico y clínico:1.Predominio en vidrio deslustrado y áreas organizativas, con mejoría tras tratamiento corticoideo prolongado a dosis bajas.2.Cambios fibrosantes como engrosamiento septal, con escasa o nula mejoría con corticoides.3.Combinación de las dos anteriores.
+En el primer caso, las secuelas que provoca son de tipo inflamatorio, y pueden requerir tratamiento corticoideo y fisioterapia respiratoria durante semanas o meses, pero en caso de dejar alguna secuela radiológica, estas no tienen apenas repercusión funcional. Por el contrario, en el segundo caso predominan los signos fibrosantes, responden mucho peor al tratamiento antiinflamatorio y su evolución a medio y largo plazo han de ser aún evaluadas: la fibrosis pulmonar inducida podría mantenerse estable durante años o progresar y afectar a la calidad de vida y a la supervivencia.
+La enfermedad en la que más se ha estudiado el fenómeno de la fibrosis es la fibrosis pulmonar idiopática (FPI), en el que se van desvelando los mecanismos que conducen a la aparición de esta enfermedad progresiva. La respuesta profibrótica de la FPI, con incremento del factor de necrosis tumoral (TNF-α), angiotensina II (por la acción de la ACE2) y factor de crecimiento plaquetario (PDGF), entre otros, resulta ser muy similar a los fenómenos implicados en la cascada de liberación de citoquinas inducida por el SARS-CoV-2 en las formas graves de COVID-19. Esta vía común podría explicar la alta prevalencia de fibrosis observada en pacientes dados de alta tras recuperarse de un SDRA asociado al SARS-CoV-2.
+Se ha observado que la fibrosis es más frecuente en personas de más edad, lo que sugiere que las células pulmonares senescentes, además de tener una mayor replicación viral, tienen una inadecuada respuesta reparadora de los cambios inflamatorios desencadenados en los cuadros graves.
+Estas similitudes entre la FPI y la fibrosis desencadenada por el SARS-CoV-2 ha llevado a estudiar posibles tratamientos antifibróticos para la COVID-19, como en los ensayos Fibro-COVID-19, o en el ensayo INBUILD con nintedanib, , u otro llevado a cabo con pirfenidona. Los resultados preliminares parecen sugerir que estos fármacos, administrados tempranamente, pueden reducir el daño fibrótico, pero hoy por hoy no existe ningún tratamiento eficaz.
+
+
+-- SECUELAS PULMONARES VASCULARES
+
+Uno de los hallazgos más llamativos en pacientes de COVID- 19 ha sido la aparición de fenómenos trombóticos vasculares periféricos y pulmonares en un número mayor de lo esperado. El SARS-CoV-2 parece promover disfunción endotelial, y microtrombos pulmonares, a través de mecanismos como la inflamación, la hipoxia, el estrés oxidativo, la disfunción mitocondrial y el daño del ADN.
+En el curso de la infección por SARS-CoV-2 se produce endotelitis y vasculitis que provocan un importante daño endotelial, aumentando así el riesgo de trombosis. Se desconoce si la vasculitis asociada al SARS-CoV-2 se debe a la propia acción viral o a la respuesta inmunitaria desencadenada por la misma.
+En algunas series de autopsias de enfermos graves de COVID-19 se ha observado la presencia de tromboembolismo venoso en los pulmones en el 58%. Se ha observado también niveles muy elevados de dímero D en pacientes que precisaron ingreso en UCI.
+El porcentaje de trombosis vascular es variable en estos pacientes, señalándose un 11% a los 7 días y un 23% a los 14 días, lo que ha llevado a incrementar la dosis de anticoagulación profiláctica con heparina. Se ha descrito incluso pacientes que sufrían fenómenos trombóticos importantes, incluso mortales, semanas después del alta.
+En la afectación vascular pulmonar parecen tener importancia tanto la trombosis “in situ” como el tromboembolismo venoso. Este último es mucho más frecuente en pacientes ingresados en UCI (50%), pero también lo sufren un porcentaje no desdeñable de pacientes no-UCI (18%).
+La administración de profilaxis anticoagulante con heparina ha mostrado mejorar la supervivencia de estos pacientes, aunque algunos autores indican que los principales beneficios de la heparina podrían ser mediados por su efecto antiinflamatorio, antiviral y protector del endotelio. En este sentido, es llamativo el hecho de que en pacientes infectados de COVID-19 y que ya tomaban previamente anticoagulantes tienen una menor incidencia de trombosis, pero no una menor mortalidad total.
+El tratamiento precoz de la trombosis venosa profunda y de la trombosis pulmonar es clave para la supervivencia de estos pacientes. Además, en los pacientes que superan un evento trombótico pulmonar pueden existir secuelas posteriores, con posibilidad de cronificarse, como la hipertensión pulmonar o la limitación al esfuerzo, o bien de resolverse tras meses de mantener el tratamiento anticoagulante.
+El Registro Informatizado de Enfermedad TromboEmbólica (RIETE) ha comenzado a incorporar datos de pacientes de COVID-19.
+
+
+- SEGUIMIENTO DE LAS SECUELAS RESPIRATORIAS DE LA COVID-19 EN ATENCIÓN PRIMARIA
+
+Hay que tener en cuenta en primer lugar que la gravedad de la enfermedad inicial marcará todo el devenir de la historia natural en cada paciente. En aquellos que fuesen asintomáticos o con enfermedad leve, es poco probable la persistencia de secuelas graves, si bien algunos pacientes con enfermedad leve pueden manifestar ciertos síntomas durante muchas semanas, principalmente la astenia y una disnea ligera. Por el contrario, entre aquellos pacientes que requirieron hospitalización, y especialmente entre quienes precisaron ingreso en UCI, la aparición de secuelas es mucho más frecuente y puede condicionar la calidad de vida de forma notable. Entre las más graves a nivel pulmonar se cuentan la fibrosis residual y las consecuencias de la trombosis y los tromboembolismos.
+Desde atención primaria, el seguimiento ha de tener dos objetivos: comprobar que la evolución de estos pacientes, a medio y largo plazo, es buena, y detectar tempranamente las posibles complicaciones o la persistencia de secuelas, para poder actuar de forma precoz.
+En la figura 2 se expone un esquema de seguimiento desde atención primaria para pacientes con COVID prolongada, basado en el propuesto por Greenhalgh et al, pero con algunas modificaciones para adaptarlo a nuestro entorno.Figura 2
+Es de especial importancia la vigilancia acerca de la aparición de posibles secuelas respiratorias graves, para poder actuar precozmente. La aparición o empeoramiento de disnea es un signo capital que no debemos pasar por alto nunca. Ha de tenerse también en cuenta que se han llegado a producir eventos trombóticos graves varias semanas después del alta en pacientes ingresados, por lo que el seguimiento debe prolongarse en el tiempo. La dificultad estriba en que aún no sabemos cuanto tiempo, si bien parece razonable pensar en unos 6 meses.
+Tanto la astenia que se da en estos pacientes, incluso en los no ingresados, como la importante pérdida y desacondicionamiento muscular que se produce principalmente en aquellos pacientes que precisaron un ingreso prolongado, especialmente si fue en UCI, han de tratarse mediante fisioterapia y rehabilitación muscular y respiratoria. Uno de los principales objetivos ha de ser recuperar la capacidad de ejercicio. En este sentido, los pacientes que practicaban deporte antes de enfermar deben recibir unas pautas para poder recuperar poco a poco los entrenamientos (tabla 3 ).
+Las secuelas graves normalmente van a ser seguidas por los especialistas hospitalarios correspondientes, pero el médico de familia ha de estar atento a la aparición de posibles complicaciones o secuelas tardías, o a la posibilidad de empeoramiento de pacientes ya dados de alta por otros especialistas. Dependiendo de la capacidad diagnóstica de cada zona (disponibilidad de TCAR o analíticas completas en atención primaria) podrá prolongarse el seguimiento por el médico de familia, o remitir al paciente al segundo nivel.
+En cualquier caso, deben valorarse no solo los condicionantes físicos del paciente, sino también aquellas circunstancias personales o sociales que puedan limitar o dificultar la recuperación completa del paciente. Tanto para la parte clínica, como para el seguimiento, cuidados y valoración social, ha de plantearse como una actividad pluridisciplinar de todo el equipo de atención primaria.

@@ -1,0 +1,126 @@
+VALIDEZ DE LOS GRUPOS DE MORBILIDAD AJUSTADOS RESPECTO A LOS CLINICAL RISK GROUPS EN EL ÁMBITO DE LA ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La multimorbilidad es un tema de interés actual: la multimorbilidad es la norma y no la excepción. La mayoría de enfermos atendidos en el ámbito de la atención primaria (AP) presenta multimorbilidad (especialmente en enfermedades crónicas) y esta aumenta con la edad, , , . La presencia de multimorbilidad está asociada a un mayor consumo de recursos asistenciales, así como a un peor nivel en la calidad de vida, , .
+Debido a ello es importante poder disponer de medidas de la multimorbilidad, , . Los agrupadores de morbilidad se desarrollan, precisamente, con el fin de determinar la carga de morbilidad de los enfermos y poder estratificar la población en distintos niveles de riesgo.
+Existen diferentes agrupadores de morbilidad en el mercado como, por ejemplo, los clinical risk groups (CRG) de 3M, que han sido utilizados en el ámbito de la AP del Instituto Catalán de la Salud (ICS) hasta diciembre del 2014.
+Dentro del marco de colaboración entre el Servicio Catalán de la Salud y el ICS, se desarrolló un agrupador propio (los grupos de morbilidad ajustados [GMA]) basado en nuestro sistema sanitario utilizando información del año 2011. Posteriormente, se estableció un convenio con el Ministerio de Sanidad, Seguridad Social e Igualdad para su implantación en 13 comunidades autónomas. Los GMA actualmente se están utilizando en el ámbito de la AP del ICS desde enero del 2015.
+En el presente trabajo se comparan los GMA y los CRG siguiendo las recomendaciones de Huntley et al., que remarcan la necesidad de evaluar las medidas de multimorbilidad específicamente en el ámbito de la AP.
+
+
+- MATERIAL Y MÉTODOS
+
+El presente trabajo se trata de un estudio transversal, observacional, centrado específicamente en el ámbito de la AP, donde se analiza la población asignada a centros de AP del ICS a fecha de 31 de diciembre del 2014 (5,9 millones personas distribuidas en 293 centros). Se escogió este período por tratarse de la fecha más reciente en que se disponía de ambos agrupadores en el ICS simultáneamente (CRG y GMA).
+
+
+-- VARIABLES
+
+Las variables respuesta analizadas son:–Número de visitas en AP.–Gasto en farmacia por prescripción (€/año).–Ingreso urgente.
+El número de visitas analizadas corresponde a las especialidades de enfermería, medicina de familia y pediatría llevadas a cabo en centros de AP. Para cada usuario se calcula el número total de visitas durante el año 2014.
+El gasto en farmacia se obtiene por usuario calculando el total debido a prescripción en AP durante todo el año 2014. No se incluye la medicación hospitalaria de dispensación ambulatoria.
+El ingreso urgente se calcula a nivel de usuario identificando si durante el período de estudio ha requerido o no algún ingreso urgente. Es decir, esta variable la tratamos de manera dicotómica.
+Cada una de las variables respuesta anteriores las analizaremos en función de las siguientes variables explicativas: edad, sexo y morbilidad.
+La edad se categoriza en los siguientes grupos: 0 años, 1 a 2 años, 3 a 7 años, 8 a 14 años, 15 a 29 años, 30 a 49 años, 50 a 64 años, 65 a 79 años y 80 o más años.
+La morbilidad se mide a partir de las 2 herramientas que queremos comparar: los GMA y los CRG. Ambos sistemas ofrecen distintos niveles de agregación tras la agrupación. En este trabajo se compara específicamente el ACRG3 (nivel de máxima agregación que genera 44 grupos finales) respecto el GMA (31 grupos). Medidas que se pueden considerar conceptualmente equivalentes y que de hecho han sido ambas utilizadas en el ICS para el ajuste de indicadores en AP.
+En ambos casos, para la agrupación, se utiliza únicamente la información clínica disponible en el ámbito de la AP, es decir, el histórico de problemas de salud.
+
+
+-- UNIDAD DE ANÁLISIS
+
+La unidad de análisis es el individuo. Para cada individuo disponemos de la siguiente información: edad, sexo, número de visitas, gasto en farmacia, ingreso urgente, ACRG3 y GMA.
+Pero los resultados se analizan a nivel de centro de AP. El motivo de analizar los resultados por centros y no globalmente es minimizar posibles efectos de confusión que o bien no podemos controlar, o bien no podemos asignar a nivel individual. Efectos como el socioeconómico, riesgo psicosocial o la accesibilidad, así como posibles efectos debidos a diferencias organizativas o estructurales entre los propios centros de AP.
+Para ello, y dado que el objetivo es comparar el rendimiento que ofrecen los 2 agrupadores de morbilidad (GMA y CRG) y no determinar efecto alguno, se lleva a cabo un análisis estratificado por centros.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+En cada centro se ajustan 2 modelos lineales generalizados con el fin de explicar cada variable respuesta (visitas, farmacia, o ingreso urgente) en función de las variables edad, sexo y morbilidad:–Variables explicativas del modelo 1: edad + sexo + ACRG3.–Variables explicativas del modelo 2: edad + sexo + GMA.
+Para el caso de las visitas, se ajustan modelos de regresión de Poisson; en el caso de la farmacia, modelos de regresión lineal con transformación logarítmica de la variable dependiente para corregir el sesgo de la distribución de la variable original, y en el caso del ingreso urgente, regresiones logísticas.
+Así pues, para cada centro se ajustan 6 modelos debidos a las 3 variables respuesta analizadas y los 2 agrupadores (modelo 1 y modelo 2).
+Las medidas de comparación de modelos son: el índice de Akaike (AIC), el criterio de información de Bayes (BIC) y la seudovarianza explicada mediante cambio de deviance.
+Por lo tanto, en cada centro de AP se obtienen 18 medidas de comparación de modelos (6 modelos × 3 medidas).
+Para comparar el rendimiento de los GMA y los CRG (en cada centro y para cada variable respuesta) se utiliza la razón entre las medidas de comparación en el modelo 2 (GMA) y las medidas en el modelo 1 (ACRG3). Este resultado permitirá ver si el rendimiento es mejor (o peor) en el modelo con GMA respecto al modelo con CRG.
+En primer lugar, analizaremos gráficamente los resultados anteriores (razones) obtenidos por centros mediante el uso de histogramas.
+Para comprobar analíticamente los resultados recurriremos a la prueba la t de Student (paramétrica) y de Wilcoxon (no paramétrica) para muestras apareadas con hipótesis alternativa unilateral.
+El análisis estadístico se llevó a cabo mediante el paquete R 3.1.2.
+
+
+- RESULTADOS
+
+En las Tabla 1, Tabla 2 podemos ver la distribución de la población analizada según las agrupaciones ACRG3 y GMA.
+
+
+-- VISITAS EN ATENCIÓN PRIMARIA
+
+En las figura 1 a-c se puede ver la distribución por centros de la razón entre las medidas de comparación obtenidas en el modelo con GMA y la correspondiente medida en el modelo con ACRG3.Figura 1
+Para el caso del AIC (fig. 1 a) se observa que la distribución está acotada por la derecha por el valor unitario. Esto indica que en todos los centros el AIC obtenido en el modelo con GMA es inferior al AIC obtenido en el modelo con ACRG3. Esta misma situación se observa para el caso del BIC (fig. 1 b) y, en sentido contrario, para la seudovariabilidad explicada (fig. 1 c). Es decir, en este último caso en todos los centros el valor obtenido de la seudovariabilidad explicada mediante cambio de deviance es mayor en el modelo con GMA.
+
+
+-- GASTO EN FARMACIA POR PRESCRIPCIÓN
+
+En la figura 2 a-c se pueden ver los mismos resultados para el gasto en farmacia.Figura 2
+Se observa el mismo patrón que en el caso anterior, donde en todos los casos los resultados son favorables al modelo con ajuste mediante GMA.
+
+
+-- INGRESO URGENTE
+
+En la figura 3 a-c se pueden ver los resultados para el análisis de la probabilidad de ingreso urgente.Figura 3
+En un 86% de los centros el AIC es inferior, en un 98,3% el BIC es inferior y en un 67,2% la seudovariabilidad explicada es superior en el modelo mediante ajuste por GMA.
+En un 67,2% de los centros el resultado es concordante entre las 3 medidas y favorable a los GMA.
+Por el contrario, únicamente en un 1,7% de los centros las 3 medidas ofrecen simultáneamente valores favorables al modelo con los ACRG3.
+En todos los casos, tanto por variables respuesta (visitas, farmacia e ingreso urgente) como por tipo de medida de comparación de modelos (AIC, BIC y seudovariabilidad explicada) el valor p de la prueba de la t de Student y el test de Wilcoxon fue inferior a 0,001.
+
+
+- DISCUSIÓN
+
+-- DISTRIBUCIONES DE MORBILIDAD SEGÚN AGRUPADORES CLINICAL RISK GROUPS Y GRUPOS DE MORBILIDAD AJUSTADOS
+
+A partir de los resultados de las Tabla 1, Tabla 2 puede parecer que haya grandes diferencias entre ambos agrupadores. Por ejemplo, a partir del agrupador CRG de 3 M se observa que un 38% de la población queda clasificada como sana frente a únicamente un 19% en el caso de los GMA. Este último valor puede parecer muy bajo pero cabe mencionar que en los GMA este grupo corresponde a los individuos sin ningún problema de salud, mientras que en los CRG se incluyen casos con enfermedad banal. Por otro lado, se observa a partir del agrupador GMA que un 70% presenta alguna enfermedad crónica. Cifra que no se aleja tanto del resultado observado con los CRG, donde se obtiene un valor del 60% si sumamos todos los estados de enfermedad crónica (incluida la menor).
+
+
+-- LOS CLINICAL RISK GROUPS EN EL INSTITUTO CATALÁN DE LA SALUD
+
+El ICS en 2009 empezó a utilizar como agrupador de morbilidad los CRG de 3 M en el ámbito de la AP. Se utilizaron para el ajuste de indicadores y también se mostraba su información en la estación clínica de los profesionales.
+Para aplicar los CRG, se debe llevar a cabo un trabajo previo importante sobre el tratamiento de los códigos, ya que el agrupador de 3 M requiere que la codificación esté vinculada a los contactos, por lo que si se aplica directamente sobre nuestro sistema de registro se obtiene que la mayoría de los usuarios quedan clasificados como población sana, ya que no se registra sistemáticamente en cada contacto toda la morbilidad (aunque la información registrada es reconocida como fiable).
+Los CRG utilizan como información básica de entrada los diagnósticos y los procedimientos codificados en cualquier nivel asistencial (clasificación CIE-9-MC), así como la prescripción, recogida a través de los códigos Anatomical, Therapeutic, Chemical classification system (ATC), en versiones más recientes.
+Como ha sido descrito en el apartado de la metodología en este trabajo, se han tenido únicamente en cuenta los problemas de salud a la hora de agrupar tanto en GMA como en CRG.
+El motivo para no utilizar los procedimientos es básico y no es otro que en AP esta información no está disponible.
+En cuanto a la no utilización de la prescripción a la hora de agrupar, se debe a un criterio más clínico. El agrupador CRG utiliza los códigos ATC en una fase previa a la agrupación en sí y con un único objetivo: asociar un diagnóstico al fármaco en cuestión. Es decir, el objetivo de utilizar la prescripción en los CRG es identificar diagnósticos (que posiblemente pueden no estar registrados).
+La dificultad radica en deducir un problema de salud a partir de un código ATC, ya que una misma medicación puede administrarse a enfermos con diferentes enfermedades. Esto era muy evidente en enfermos tratados con fármacos antipsicóticos: a todos ellos el CRG les asignaba un diagnóstico de esquizofrenia sin ser cierto que todos ellos lo fueran.
+Como en el ICS se tenía el objetivo de mostrar los resultados de la agrupación a los profesionales, no se consideró oportuno utilizar la prescripción en la agrupación para evitar clasificaciones de pacientes incorrectas. Por ejemplo, un profesional podría ver etiquetado a un paciente como esquizofrénico sin serlo, únicamente por tomar algún medicamento asociado.
+Es por este motivo que, tanto en la agrupación en CRG llevada a cabo en el ICS, como en este trabajo, no se ha utilizado la prescripción.
+Por otro lado, como ya se ha comentado, existe un consenso aceptado en nuestra organización acerca de la fiabilidad de la información registrada en AP por parte de los profesionales (especialmente en lo que se refiere a las enfermedades crónicas).
+
+
+-- LOS GRUPOS DE MORBILIDAD AJUSTADOS EN EL INSTITUTO CATALÁN DE LA SALUD
+
+Los GMA se generaron a partir de información de nuestro sistema sanitario con datos del año 2011 con el objetivo de identificar las diferentes necesidades asistenciales de los enfermos en función de toda su morbilidad. Y han sido validados con la información de años posteriores; en particular, en este trabajo la información analizada corresponde a 3 años después de la información utilizada para su desarrollo.
+Los GMA parecen recoger adecuadamente las diferentes necesidades asistenciales de los usuarios. Particularmente en los indicadores analizados dentro del ámbito de la AP: visitas, prescripción e ingreso urgente.
+
+
+-- JUSTIFICACIÓN DEL ANÁLISIS ESTRATIFICADO
+
+Los modelos lineales generalizados han sido ampliamente utilizados en el ámbito de la salud pública para analizar variables respuesta relacionadas con la mortalidad, el gasto o el uso de recursos sanitarios, , , . Si bien el uso de los modelos multinivel (modelos lineales mixtos o de efectos aleatorios) también han sido utilizados para recoger el efecto de los distintos niveles de la estructura sanitaria (medico-equipo-organización), , . De este modo, no toda la variabilidad queda asumida a nivel individual (como sucede en los modelos lineales generalizados), sino que parte de ella queda recogida en cada uno de los niveles. Pudiendo detectar el efecto (impacto) de cada uno de ellos.
+En nuestro caso, no existe interés en estimar efecto alguno (por centros, por ejemplo), sino sencillamente comparar el rendimiento de 2 herramientas (GMA y CRG) en unos mismos datos. Por lo que se lleva a cabo un análisis centro a centro. De este modo, se reduce en buena medida el efecto estructural-organizativo, así como el efecto socioeconómico que tiene un gran impacto en la morbilidad, mortalidad y consumo de recursos, , u otros no disponibles como factores de accesibilidad o de riesgo psicosociales.
+
+
+-- VALORES COMPARATIVOS ENTRE LOS GRUPOS DE MORBILIDAD AJUSTADOS Y LOS CLINICAL RISK GROUPS
+
+Los resultados de las razones entre las medidas obtenidas para el ajuste por GMA y el ajuste por ACRG3 pueden no ser muy grandes en cuanto a su magnitud se refiere: las diferencias entre las medidas de comparación no superan en 2-5% en muchos centros.
+Esto supone un resultado diferencial respecto lo obtenido en el trabajo previo, donde se comparaban los GMA con medidas básicas de comorbilidad, como el índice de Charlson, . Si bien este resultado era de esperar dada la naturaleza, la complejidad y la exhaustividad de los CRG de 3 M.
+Sin embargo, sí se observa una tendencia significativa por centros al observar mejores resultados mediante el ajuste con GMA (p valor < 0,001), tanto en lo que se refiere al análisis según el AIC, BIC o la seudovariabilidad explicada.
+A la hora de comparar modelos, es recomendable utilizar diferentes medidas y no centrarse en una en exclusiva. A partir de las 3 medidas utilizadas se observa que, en el caso de las visitas y el gasto en farmacia, en todos los centros el resultado de las 3 medidas es concordante y favorable al ajuste por GMA. En el caso del ingreso urgente, en la mayoría de los centros se observan mejores resultados para el caso de los GMA: en un 67,2% de los centros las 3 medidas ofrecen simultáneamente un mejor rendimiento para el modelo con GMA frente a un 1,7% en el caso del modelo con el ajuste mediante CRG.
+Respecto a las medidas de comparación de modelos cabe destacar que el AIC y el BIC penalizan el sobreajuste (especialmente el BIC). No es de extrañar, por lo tanto, que los resultados más favorables a los GMA se observen para el BIC, dado que los GMA generan un número menor de grupos finales (31 respecto los 44 de los ACRG3).
+
+
+-- SÍNTESIS
+
+En un trabajo anterior se muestran los buenos resultados explicativos de los GMA respecto a medidas básicas como el índice de Charlson (la medida de multimorbilidad más utilizada). Mientras que en el presente trabajo se comparan los GMA con una herramienta de estratificación más compleja y exhaustiva como son los CRG.
+Los GMA muestran un poder explicativo más elevado que los CRG en nuestro entorno en los diferentes indicadores analizados (especialmente en las visitas y el gasto en farmacia), por lo que se revelan como una herramienta de utilidad para la medición de la carga de morbilidad en el ámbito de la AP.Lo conocido sobre el tema•Los agrupadores de morbilidad (como los GMA o los CRG) mejoran el ajuste de variables clínicas e indicadores de interés relacionados con las necesidades asistenciales y el consumo de recursos de los enfermos.•El ajuste por morbilidad es esencial para reducir la variabilidad y permitir una mejor comparativa entre unidades asistenciales u organizativas.•La mayoría de los estudios se han aplicado a nivel poblacional y no exclusivamente en el ámbito de la AP.Qué aporta este estudio•En este estudio se analiza el poder explicativo de 2 herramientas de estratificación exclusivamente en el ámbito de la AP.•Los GMA muestran un mejor rendimiento que los CRG en el ámbito de la AP del ICS.•Los GMA se muestran como una herramienta útil que ofrece la posibilidad de detectar centros de salud comparables y facilitar el estudio de la variabilidad en consumo de recursos y en otros aspectos organizativos y clínicos.
+
+
+- CONFLICTO DE INTERESES
+
+David Monterde, Emili Vela y Montse Clèries son los desarrolladores de los grupos de morbilidad ajustados.

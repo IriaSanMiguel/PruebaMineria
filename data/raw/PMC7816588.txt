@@ -1,0 +1,54 @@
+SEROPREVALENCIA DE INFECCIÓN FRENTE A SARS-COV-2 EN TRABAJADORES DE LA SALUD EN UN HOSPITAL MONOGRÁFICO PEDIÁTRICO EN MADRID (ESPAÑA
+
+
+- INTRODUCCIÓN
+
+En Madrid, el primer caso de COVID-19 se registró el 25 de febrero. A 30 de abril se habían notificado 203.715 casos (Red Nacional de Vigilancia Epidemiológica [RENAVE]), 58.486 en Madrid. El 21,4% eran trabajadores de la salud (TS).
+La prevalencia de infección por SARS-CoV-2 en la población general se sitúa entre el 5-11%. España es el país del mundo con más TS infectados, con importantes variaciones de seroprevalencia en los estudios realizados en hospitales generales, , , , , . La prevalencia serológica en menores de 19 años se encuentra entre el 1-4%. El pico máximo de contagios en la pasada primavera en Madrid fue el 26 de marzo con 3.364 casos.
+El procedimiento diagnóstico de elección de infección aguda SARS-CoV-2 es la Real time reverse transcription polymerase chain reaction (rRT-PCR) de frotis nasofaríngeo. Es necesario disponer de pruebas rápidas, simples, altamente sensibles y precisas que a gran escala identifiquen personas que han pasado la infección asintomática o subclínica, , . Los test serológicos detectan anticuerpos IgM e IgG frente SARS-CoV-2 en sangre, suero o plasma, y ayudan a entender la epidemiología y el papel de los portadores asintomáticos, , . Esto es especialmente importante en el personal sanitario y sociosanitario.
+El objetivo del estudio es conocer la prevalencia de infección por SARS-CoV-2 en los profesionales de un hospital monográfico pediátrico, ya que al tener menos pacientes infectados se podría presuponer una mayor exposición comunitaria.
+
+
+- MÉTODOS
+
+Estudio descriptivo transversal realizado en los trabajadores del Hospital Infantil Universitario Niño Jesús (Madrid), hospital monográfico de 180 camas.
+Durante los meses de marzo y abril ingresaron 52 pacientes menores de 18 años con PCR positiva a SARS-CoV-2.
+El centro cuenta con 1.523 trabajadores, 1.197 mujeres (78%). A todos se les ofreció realizar un test serológico entre el 13 y 30 de abril de 2020 y rellenar una encuesta. Se excluyeron los trabajadores de baja laboral y los que no se hicieron la serología.
+Las variables analizadas sobre los trabajadores seropositivos fueron: edad, sexo, enfermedades crónicas, hábito tabáquico, síntomas (fiebre o febrícula, tos, dolor de garganta, dificultad respiratoria, ageusia, anosmia, mialgias, cefalea, astenia, escalofríos, mialgias, otros), fecha de inicio de síntomas y contacto con casos confirmados o posibles COVID-19. Se recogieron los resultados de rRT-PCR previas.
+Se utilizó un test de inmunocromatografía rápida en sangre venosa (All Test® test rápido de 2019-nCoV IgG/IgM inmunoanálisis lateral flow) por su disponibilidad y su facilidad de uso. En ese momento no se habían comercializado los test ELISA.
+
+
+- ASPECTOS ÉTICOS
+
+El estudio fue aprobado por el Comité de Ética para la Investigación del Hospital.
+
+
+- ANÁLISIS ESTADÍSTICO
+
+La edad, única variable cuantitativa, se describió como mediana y rango intercuartílico. Se calcularon los porcentajes para las variables cualitativas, con sus intervalos de confianza del 95%. Las variables cualitativas se compararon mediante la prueba de Chi-cuadrado (χ2). Se determinó que una diferencia era estadísticamente significativa si el valor de p era 0,05.
+
+
+- RESULTADOS
+
+El 84,3% (1.292/1.523) de los trabajadores se realizaron la prueba. La prevalencia de serología positiva (IgM y/o IgG) a SARS-CoV-2 fue del 17,2% (IC 95%: 15,16-19,35%). Los resultados que pasamos a detallar son sobre este grupo de seropositivos:•La mediana de edad fue de 46 años, rango: 20-68, el 74% eran mujeres. Entre los trabajadores sanitarios (75%), el 27% (60) eran auxiliares, el 19% (43) médicos y el 19% (42) enfermeros. Entre los no sanitarios el mayor porcentaje de positivos fueron los administrativos, con un 10,9% (24), seguido del personal de limpieza, con un 6,3% (14). El 40% de los trabajadores referían el inicio de los síntomas el 16 de marzo.•Los síntomas más frecuentes fueron: respiratorios (50%), fiebre o febrícula (34%), ageusia y/o anosmia (38,7%), síntomas generales (30%) y digestivos (26%). El 33,8% fueron asintomáticos. No hubo diferencias significativas en el porcentaje de asintomáticos por rango de edad y género. Un 12% eran fumadores. El 18,7% de los asintomáticos eran fumadores frente a un 8,8% de los sintomáticos (p < 0,05) (tabla 1 ).•El mayor número de seropositivos trabajaban en área de hospitalización general (19,8%) seguido de oncología (14,9%) y cuidados intensivos (8,6%). En 32 (14,3%) trabajadores existía un contacto previo con un familiar.•En la tabla 2 se reflejan los resultados de la serología y rRT-PCR y el número de profesionales asintomáticos.•A los que se detectó IgM+, se solicitó rRT-PCR posterior para comprobación de infección y resultaron todas negativas.
+
+
+- DISCUSIÓN
+
+Dado que el número de pacientes ingresados en un hospital monográfico pediátrico es muy inferior que en adultos, este estudio es importante para comparar los resultados con otros centros con atención preferente a COVID-19.
+La prevalencia de infección por SARS-CoV-2 en los trabajadores fue superior (17%) a la detectada en la población general española (5%) y de Madrid (11%). Desestimando los casos con IgM+ y considerando solo los que tenían IgG+, la prevalencia se reduciría al 15,5%.
+Según nuestros resultados, la fiabilidad del diagnóstico obteniendo un resultado de IgM+ tiene un valor limitado ya que se comprobó con rRT-PCR y todas resultaron negativas y la mayoría de los IgM+ (80,9%) estaban asintomáticos. Esto sugiere que es un test muy sensible pero poco específico, y nos hace pensar en la posibilidad de que fuesen falsos positivos.
+Es importante destacar que más de uno de cada 4 trabajadores fueron asintomáticos.
+Esta mayor prevalencia se podría explicar por el hecho de que el personal ha permanecido trabajando y expuesto al contagio fuera del hogar. Se desconoce si la fuente más importante de contagio fue el medio comunitario, familiar o intrahospitalario, y dentro de este, si pudo producirse por contacto con pacientes y/o sus familiares o con compañeros de trabajo. El hecho de que durante los 2 primeros meses solo ingresaran en nuestro hospital, 52 pacientes COVID-19, hace más probable, que la fuente de contagio intrahospitalaria fueran los propios trabajadores, más aún si tenemos en cuenta que el 33% pasaron la infección de forma asintomática y muchos otros de forma paucisintomática. No obstante, también es importante considerar que el mayor número de casos positivos se dio en las áreas con mayor número de pacientes COVID-19 (hospitalización, oncología y UCIP).
+Es esencial establecer una estrategia preventiva, mediante la búsqueda activa por rRT-PCR de los profesionales infectados, bien de forma sistemática (p. ej., a intervalos de tiempo específicos) o cuando se detectan en un área de trabajo, una agrupación de casos y/o en aquellos con mayor riesgo de exposición o que atienden a pacientes vulnerables. Los estudios serológicos son esenciales para la estimación del nivel de exposición e identificar áreas de mayor riesgo, , . El pico de inicio de síntomas se produjo paralelo al de contagios comunitarios, por lo que esta estrategia sería más útil en el momento de máxima expansión epidémica.
+Las limitaciones de este estudio incluyen que se ha analizado la muestra de los trabajadores con serología positiva y que la encuesta fue autocumplimentada, por lo que algunas preguntas pueden no haber sido correctamente interpretadas. Además, falta información fidedigna sobre el tipo de contacto con pacientes sospechosos y las medidas de protección personal que se utilizaron en cada caso. La técnica serológica elegida puede condicionar los resultados. La inmunocromatografía puede servir de cribado o tamizaje para conocer el perfil de seroprevalencia de la población, . Su sensibilidad en suero o plasma es mejor que en sangre capilar. Las pruebas de ELISA muestran una mejor sensibilidad diagnóstica, por lo que se han impuesto en la actualidad, .
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

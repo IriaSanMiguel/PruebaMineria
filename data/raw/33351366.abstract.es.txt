@@ -1,0 +1,5 @@
+Se realizó un estudio descriptivo de una cohorte prospectiva de pacientes en seguimiento por telemedicina en el Hospital Italiano de San Justo.
+Se evaluaron 47 días de seguimiento, un total de 1345 pacientes. De éstos 46,9% (n=631) obtuvieron un resultado de hisopado nasofaríngeo con técnica de PCR  positivo y fueron ingresados al sistema de seguimiento por telemedicina. El 10,14% (n=64)  requirió una reevaluación clínica en guardia externa. De estos pacientes  el 60.1%  (n=39)  requirió  internación en sala general (n=39).
+Debido a la pandemia por COVID-19 los sistemas sanitarios han tenido que adaptarse a la demanda asistencial. La telemedicina es una herramienta práctica para poder realizar seguimiento ambulatorio de pacientes correctamente seleccionados.
+Es fundamental poder generar otras formas de cuidado de la salud. El sistema de telemedicina es una herramienta importante a desarrollar en situaciones de sobrecarga del sistema de salud.
+

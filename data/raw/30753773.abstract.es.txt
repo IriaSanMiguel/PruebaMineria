@@ -1,0 +1,5 @@
+Se utilizó la Encuesta Nacional de Salud y Nutrición (Ensanut) 2012. Se identificó el grupo de ANBADE y se estimaron modelos probit sobre las probabilidades de consumo (PC) y de alto consumo después de ajustar por energía total (PAC), en función de características sociodemográficas.
+Los escolares tienen 10.7 puntos porcentuales (pp) más PAC frente a los preescolares. Pertenecer a hogares con el mayor gasto o escolaridad del jefe se asocia con una PC 3.3 y 3.2 pp mayor en comparación con los hogares de menor gasto o escolaridad del jefe, respectivamente. Vivir en localidades metropolitanas se asocia con una PAC 5.2 pp mayor frente a localidades rurales.
+El estudio identificó las condiciones sociodemográficas que se asocian con las mayores PC o PAC de ANBADE, que podrán considerarse en el diseño y evaluación de la política alimentaria.
+Caracterizar el perfil sociodemográfico que se asocia con las probabilidades de consumo de alimentos no básicos de alta densidad energética (ANBADE), gravados desde 2014.
+

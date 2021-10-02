@@ -1,0 +1,80 @@
+COVID-19 Y DIABETES MELLITUS: UNA RELACIÓN BIDIRECCIONAL
+
+
+- INTRODUCCIÓN
+
+En diciembre del 2019 inició en China un brote de enfermedad respiratoria aguda caracterizada por fiebre, tos seca y dificultad para respirar. Un mes después se identificó un nuevo coronavirus al que se denominó coronavirus 2 del síndrome respiratorio agudo grave (SARS-CoV-2), causante de la enfermedad por coronavirus 2019 (COVID-19).
+En general, las personas con diabetes tienen mayor riesgo de desarrollar complicaciones cuando presentan COVID-19, . En Italia más de 2 tercios de las defunciones asociadas a COVID-19 se observaron en pacientes diabéticos. Esta relación entre diabetes y mortalidad también se evidenció en epidemias previas ocasionadas por otros coronavirus, como el causante del SARS en 2002 y el síndrome respiratorio agudo de Oriente Medio (MERS) en 2012.
+Por otra parte, se ha descrito el desarrollo de diabetes en pacientes infectados con SARS-CoV-2, por lo que es posible que el SARS-CoV-2 pudiera ocasionar alteraciones en el metabolismo de la glucosa que pueden conllevar la aparición de diabetes mellitus. En este artículo revisaremos los mecanismos fisiopatológicos que explican la relación bidireccional entre COVID-19 y diabetes mellitus.
+
+
+- DIABETES MELLITUS COMO FACTOR DE RIESGO PARA COVID-19
+
+Los diabéticos infectados con SARS-CoV-2 tienen una tasa más alta de admisión hospitalaria, neumonía severa y mayor mortalidad en comparación con sujetos no diabéticos infectados con SARS-CoV-2, . De hecho, la diabetes constituye un factor de mal pronóstico en la COVID-19, ya que un metaanálisis reciente mostró que la diabetes incrementa 2,3 veces el riesgo de severidad y 2,5 veces el riesgo de mortalidad asociada a COVID-19.
+El síndrome de distrés respiratorio agudo (SDRA) constituye la principal causa de muerte por COVID-19 y ocurre como consecuencia de una respuesta inflamatoria exagerada que provoca la liberación de citocinas proinflamatorias, como interleucinas (IL) y factor de necrosis tumoral alfa. Los receptores tipo Toll (toll-like receptors [TLR]) son una familia de proteínas que actúan como sensores y ayudan al sistema inmunitario a discriminar entre elementos propios y extraños. El SARS-CoV-1 y presumiblemente el SARS-CoV-2 interactúan con TLR en la membrana de la célula huésped y aumentan la expresión del gen de respuesta primaria de diferenciación mieloide 88 (MyD88), que a su vez activa el factor nuclear kappa B, promoviendo finalmente una cascada inflamatoria que incrementa el daño pulmonar.
+Por su parte, la hiperglucemia crónica puede comprometer la inmunidad innata y la inmunidad humoral. Además, la diabetes se asocia con un estado inflamatorio crónico de bajo grado que afecta a la regulación de la glucosa y a la sensibilidad periférica a la insulina. En pacientes diabéticos infectados con SARS-CoV-2 se ha evidenciado un aumento en los niveles de IL-6 y proteína C reactiva (PCR) por lo que el estado proinflamatorio propio de la diabetes puede favorecer la tormenta de citocinas y la respuesta inflamatoria sistémica que acompaña al SDRA en pacientes con COVID-19.
+
+
+- SARS-COV-2 COMO AGENTE DIABETOGÉNICO
+
+-- SISTEMA RENINA ANGIOTENSINA
+
+El sistema renina angiotensina (SRA) es una elegante cascada de péptidos vasoactivos que orquesta procesos clave en la fisiología humana. El angiotensinógeno producido en el hígado es escindido por acción de la renina en un decapéptido denominado angiotensina (Ang) I y este a su vez es convertido por la enzima conversora de angiotensina (ECA) en un octapéptido llamado Ang II que, al actuar sobre el receptor tipo 1 de Ang (AT1-R), ejerce efectos vasoconstrictores y oxidativos, y a nivel pulmonar induce contracción del músculo liso bronquial, proliferación de fibroblastos, apoptosis de células epiteliales alveolares y aumento de la permeabilidad vascular, .
+Por otra parte, la ECA2 puede hidrolizar la Ang I y generar Ang (1-9); sin embargo, su actividad catalítica es 400 veces mayor sobre la Ang II y conlleva a la formación de Ang (1-7) con propiedades vasodilatadoras a través del receptor Mas (MAS-R). De esta manera, el SRA funciona como un sistema endocrino dual en el que las acciones vasoconstrictoras/proliferativas y las acciones vasodilatadoras/antiproliferativas son reguladas por un balance entre la ECA y la ECA2 (fig. 1 ).Figura 1
+
+
+-- MECANISMO DE INFECCIÓN CELULAR DEL SARS-COV-2
+
+Las infecciones virales dependen de la entrada del virus a la célula y el uso de la maquinaria celular del huésped para replicar múltiples copias que subsecuentemente irán a infectar más células. Los coronavirus SARS-CoV-1 y SARS-CoV-2 ingresan en las células del huésped usando la ECA2 como receptor funcional. La ECA2 se expresa en las células epiteliales alveolares tipo 1 y tipo 2, y tiene 2 fracciones: una soluble y una unida a membrana.
+El SARS-CoV-1 y el SARS-CoV-2 expresan en su envoltura una proteína denominada proteína S, que contiene una región de unión al receptor que se une con alta afinidad al dominio extracelular de la ECA2 provocando la fusión de la membrana y la internalización del virus por endocitosis (fig. 2 ). La internalización de la ECA2 por el SARS-CoV-2 resulta en una pérdida de la ECA2 en la superficie de la célula y evita, por tanto, la degradación de la Ang II en Ang (1-7), lo que pudiera contribuir con el daño pulmonar y la fibrosis asociada a la COVID-19.Figura 2
+
+
+-- SARS-COV-2 Y PÁNCREAS
+
+Múltiples virus, como Coxsackie B, enterovirus, rubéola, citomegalovirus, de Epstein-Barr y el virus de la varicela zóster, se han implicado en el desarrollo de la diabetes tipo 1. De hecho, existe evidencia serológica de infección y aislamiento de virus del páncreas de pacientes con diabetes de reciente inicio, por lo que es posible que algunos virus puedan actuar como agentes diabetogénicos.
+Recientemente, se ha demostrado que la expresión de la ECA2 en el páncreas (principalmente en células de los islotes) es incluso mayor que en los pulmones, por lo que es posible que el SARS-CoV-2 pueda unirse a este receptor e ingresar a las células β del páncreas produciendo disfunción celular con hiperglucemia aguda (fig. 3 ).Figura 3
+Se destaca que solo 1-2% de los pacientes con infección leve por COVID-19 presentan lesiones pancreáticas, mientras que el 17% de los pacientes con casos severos cursan con lesión del páncreas, lo cual puede acentuar la respuesta inflamatoria sistémica y, por tanto, acelerar la aparición de SDRA.
+
+
+- CONSIDERACIONES TERAPÉUTICAS EN EL MANEJO DE PACIENTES DIABÉTICOS CON COVID-19
+
+-- INFLUENCIA DE LOS HIPOGLUCEMIANTES ORALES EN LA COVID-19
+
+El control adecuado de la hiperglucemia ha demostrado que conduce a una menor tasa de desenlaces adversos en los pacientes con diabetes mellitus y COVID-19. La metformina es el fármaco de primera línea en el manejo de la diabetes tipo 2 y mejora la sensibilidad a la insulina mediante la activación de la proteincinasa dependiente de AMP (AMPK) en el hígado. Se ha postulado que la metformina podría ser útil en la COVID-19 debido a que la activación de AMPK provoca la fosforilación de la ECA2 y, por tanto, genera cambios funcionales que disminuyen la unión del SARS-CoV-2 con el receptor. Por el contrario, los agonistas del receptor del péptido similar al glucagón tipo 1 y los inhibidores del cotransportador de sodio glucosa tipo 2 pueden inducir una sobreexpresión de la ECA2, por lo que pudieran ser inadecuados en pacientes diabéticos infectados con SARS-CoV-2; sin embargo, tienen probado beneficio en prevención de enfermedad cardiovascular y renal, por lo que no deben ser descartados. Recientemente, se ha descrito que, con base en su efecto inmunomodulador, los inhibidores de la dipeptidil peptidasa 4 pueden disminuir la severidad de la infección por SARS-CoV-2 y las tiazolidinedionas son capaces de reducir la producción de citocinas proinflamatorias, como la IL-6, lo que pudiera mejorar el pronóstico de los pacientes diabéticos infectados con SARS-CoV-2.
+
+
+-- FACTORES QUE INTERVIENEN EN EL CONTROL METABÓLICO DURANTE LA PANDEMIA DE COVID-19
+
+Los pacientes diabéticos son más susceptibles a desarrollar estrés psicológico, ansiedad y depresión. El estrés en los diabéticos se asocia con peor control metabólico, que incluye mayor nivel de hemoglobina glucosilada, mayor índice de masa corporal y elevación de la presión arterial. Por tanto, el escenario actual de la pandemia aun en sujetos no infectados puede favorecer el deterioro del control metabólico por las dificultades de acceso al sistema sanitario, la falta de actividad física y el aumento del estrés asociado con el confinamiento. Las estrategias terapéuticas deben dirigirse a facilitar el acceso al sistema sanitario mediante la telemedicina para asesorar al paciente sobre la adaptación del tratamiento o cualquier otra situación médica manejable de forma remota y orientar a los pacientes y cuidadores en el control de la diabetes a fin de prevenir la hospitalización (tabla 1 ). La telemedicina en este contexto, además de la asistencia médica a distancia, permitiría profundizar en la educación del paciente diabético, la educación médica y el intercambio de información entre especialistas e incluso promover la investigación clínica con otros centros asistenciales.
+
+
+-- MANEJO DE LOS PACIENTES DIABÉTICOS CON COVID-19
+
+El tratamiento de los pacientes diabéticos infectados con SARS-CoV-2 es básicamente igual al usual, pero es importante hacer ciertas consideraciones. Si la persona está asintomática y mantiene un buen control glucémico, no deben hacerse cambios en la medicación. Si un diabético contrae COVID-19 y desarrolla un cuadro infeccioso leve, sin complicaciones, un simple ajuste de la medicación según las directrices de la monitorización glucémica, podría ser suficiente. En los pacientes con evolución severa de su condición, con dificultad respiratoria o que ameriten hospitalización, se debe revaluar el tratamiento tomando en cuenta algunas consideraciones especiales para cada fármaco (tabla 2 ). Los casos graves deben ser tratados con insulina. Las pautas de administración de insulina más eficaces y seguras son la infusión por vía intravenosa continua de insulina en los pacientes críticos y la administración de insulina en pauta basal-bolo-corrección, adaptada al tipo de nutrición en los pacientes no críticos.
+Existen controversias en la meta de control glucémico de los diabéticos con COVID-19, por lo que esta debe ser individualizada. En pacientes diabéticos con infección leve a moderada por COVID-19 que no se encuentran hospitalizados, se ha propuesto una meta de 72-144 mg/dl y en pacientes hospitalizados de 72-180 mg/dl (fig. 4 ). Por otra parte, el tratamiento específico de la COVID-19 es similar en los diabéticos y no diabéticos. Considerando la mayor frecuencia de progresión severa en condiciones de hiperglucemia, se justifica un abordaje más intensivo en los pacientes con diabetes.Figura 4
+
+
+-- MANEJO DE LA HIPERTENSIÓN ARTERIAL
+
+Es importante un adecuado manejo de todas las comorbilidades que estén presentes. En particular, el manejo de la hipertensión arterial es clave en diabéticos con COVID-19. Existe controversia acerca del uso de inhibidores de la ECA y bloqueadores del receptor de angiotensina (BRA) en pacientes con COVID-19, ya que estos fármacos pueden incrementar la expresión de la ECA2 y, por tanto, facilitar el ingreso del virus en las células, . A pesar de ello, diversas sociedades científicas y la Agencia Europea de Medicamentos han destacado que no existe suficiente evidencia para justificar la omisión de estos fármacos en pacientes con COVID-19. Además, estudios recientes han mostrado seguridad e incluso beneficio potencial con el uso de estos medicamentos, .
+
+
+-- ANTICOAGULACIÓN EN EL DIABÉTICO CON COVID-19
+
+Los marcadores de inflamación (PCR, velocidad de sedimentación globular, IL-1, IL-6, ferritina) y de hipercoagulabilidad (dímero D) suelen estar más elevados en los pacientes con diabetes mellitus. Esto apoyaría racionalmente el uso de medicamentos antiinflamatorios y bloqueantes de citocinas, muchos de ellos experimentales, con fines compasivos en los pacientes con diabetes.
+Los pacientes diabéticos son propensos a desarrollar trombosis y en el contexto de la infección por SARS-CoV-2 tienen un mayor riesgo de eventos tromboembólicos, lo que podría justificar el tratamiento con anticoagulantes. En diabéticos hospitalizados por COVID-19 se sugiere el uso de dosis profilácticas de heparina de bajo peso molecular en ausencia de contraindicaciones (hemorragia activa o recuento plaquetario ˂ 25 × 109/l), con ajuste de dosis para los pacientes con elevación franca de dímero D y aquellos que presentan criterios de gravedad. Los estudios derivados de la COVID-19 utilizan enoxaparina 40-60 mg/día durante al menos 7 días. El uso de heparina de bajo peso molecular reduce la generación de trombina, tiene propiedades antiinflamatorias y disminuye la aparición de un evento tromboembólico venoso.
+
+
+- CONCLUSIONES
+
+Existe una relación bidireccional entre COVID-19 y diabetes mellitus. Por un lado, las personas con diabetes tienen mayor riesgo de desarrollar complicaciones cuando presentan COVID-19 y, por otro, el SARS-CoV-2 pudiera actuar como un agente diabetogénico al unirse a la ECA2 en las células beta del páncreas causando disfunción aguda y alteración en la regulación de la glucosa. Hasta la fecha, no existen datos claros acerca del impacto de esta pandemia en la incidencia de complicaciones crónicas asociadas a la diabetes; sin embargo, resulta fundamental optimizar el manejo metabólico de los pacientes a fin de mejorar el pronóstico y disminuir la carga en los sistemas de salud.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin fines de lucro.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no existen conflictos de interés en esta investigación.

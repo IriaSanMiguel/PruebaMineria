@@ -1,0 +1,88 @@
+MÉTODOS ALTERNATIVOS DE CPAP PARA EL TRATAMIENTO DE INSUFICIENCIA RESPIRATORIA GRAVE SECUNDARIA A NEUMONÍA POR COVID-19
+
+
+- INTRODUCCIÓN
+
+La aplicación de presión positiva continua en la vía aérea (CPAP) provoca un despliegue o reclutamiento de unidades alveolares parcial o totalmente colapsadas, mejora la compliance pulmonar, aumenta la presión transpulmonar y la capacidad residual funcional. Esto supone una mejoría del trabajo respiratorio, así como del intercambio gaseoso. A nivel hemodinámico, la aplicación de CPAP se traduce en una disminución de la precarga y de la postcarga (al reducir el retorno venoso y la tensión sistólica de la pared del ventrículo izquierdo), con una disminución ligera de la presión arterial sistólica y del gasto cardiaco en pacientes con función cardiaca normal. En pacientes con fallo cardiaco con aumento de la presión capilar pulmonar e hipervolemia, puede aumentar el gasto cardiaco. La comparación de la CPAP con los sistemas tradicionales de oxigenación muestra una reducción significativa de las necesidades de intubación (50 a 60%) y de la mortalidad intrahospitalaria (40 a 47%), y es considerado como el sistema de oxigenoterapia de elección en muchas patologías. Recientemente, un estudio sugiere el uso de este dispositivo para CPAP, para limitar la propagación de virus al aire ambiente. También se ha descrito para evitar o retrasar el ingreso a la unidad de cuidados intensivos (UCI) y diversas publicaciones han comunicado la utilidad de la CPAP en el edema agudo de pulmón, , y su aplicación en los servicios de urgencias.
+La Sociedad Europea de Cuidados Intensivos ha recomendado el uso de CPAP en pacientes con insuficiencia respiratoria aguda por COVID-19, . No obstante, en los momentos de mayor presión asistencial por la pandemia de COVID-19, no había en el mercado suficientes sistemas de CPAP convencional para tratar a estos pacientes. Para poder dar soporte ventilatorio a pacientes con insuficiencia respiratoria aguda secundaria a COVID-19, se han desarrollado diversos sistemas alternativos capaces de producir esa CPAP.
+Los dispositivos que se han ido usando se han modificado a lo largo de este primer envite contra la enfermedad. Los dispositivos alternativos más usados han sido desarrollados por los profesionales de las UCI del Hospital Universitario (HU) Príncipe de Asturias y del HU del Henares, y se montan con similares elementos:1.Válvula de presión al final de la espiración (PEEP)2.Filtro antibacteriano y antivírico3.Balón de respirador de doble rama4.Toma de oxígeno convencional5.Mascarilla (Ventimask con obturadores tapados, interfase de CPAP convencional o máscara de submarinismo de Decathlon©)
+En las Figura 1, Figura 2 se muestra la disposición de los elementos.Figura 1Figura 2
+En el caso del primer dispositivo, la pieza en T para la instalación de los diversos elementos ha sido fabricada con impresoras en 3 D, específicamente para este dispositivo. La fabricación ha corrido a cargo de Hewlett Packard®.
+El objetivo de este estudio es comprobar la eficacia de estos dispositivos en el estado clínico y respiratorio de los pacientes a quienes que se les aplica. Nuestra hipótesis es que el uso de estos dispositivos alternativos mejora el estado ventilatorio del paciente de forma más rápida que la oxigenoterapia convencional.
+
+
+- MATERIAL Y MÉTODOS
+
+-- TIPO DE ESTUDIO
+
+Se trata de un estudio observacional descriptivo en el que se recogen datos clínico-epidemiológicos de los pacientes mayores de edad que fueron tratados en el Hospital de Campaña de IFEMA, con fecha de ingreso de entre el 24 de marzo y el 28 de abril, por neumonía por SARS CoV-2 y que presentaron insuficiencia respiratoria (saturación de oxígeno [SatO2] < 93 y saturación de oxígeno/fracción inspirada de oxígeno [SatO2/ FiO2] < 300), y que precisaron la utilización de mascarilla reservorio o Ventimask efecto Venturi, así como dispositivos de CPAP alternativos. Se recogieron las siguientes variables:-Edad-Sexo-Comorbilidad (obesidad, enfermedad pulmonar obstructiva crónica [EPOC], asma, enfermedad neuromuscular, hipertensión arterial [HTA], cardiopatía isquémica) y tromboembolia pulmonar (TEP).-Tiempo de evolución de la enfermedad (días desde el inicio de síntomas)-Tipo de dispositivo alternativo de CPAP prescrito-Medicación para la COVID y tiempo en días desde el inicio del mismo:∘lopinavir/ritonavir∘cloroquina∘azitromicina∘IL-6∘corticoides∘tocilizumab∘anakinra∘heparina∘otro-SatO2/FiO2 al inicio de la terapia-SatO2 cada hora después del inicio de la terapia-Frecuencia respiratoria (FR) al inicio de la terapia-FR cada hora después de la terapia-Necesidad de ingreso en UCI
+No se recogieron datos de los pacientes en los que existan circunstancias clínicas que impidieran la valoración correcta del uso de estos dispositivos como son:-Imposibilidad de proteger vía aérea: enfermo en coma o agitado-Cirugía gastrointestinal o de vía aérea superior reciente (< 15 días), vómitos no controlados y hemorragia digestiva alta (HDA) activa-Imposibilidad de controlar las secreciones-Inestabilidad hemodinámica (shock establecido no controlado con fluidos y/o fármacos vasoactivos) o arritmia maligna no controlada-Crisis comicial-Imposibilidad de fijación de la máscara-Desconocimiento de la técnica
+La recogida de variables se realizó desde el sistema informático donde se realizaba el registro clínico de los pacientes. No existía una indicación clara de uso de CPAP alternativa. Se instauraba en los casos de insuficiencia respiratoria refractaria a oxigenoterapia convencional con un índice de saturación parcial de oxígeno (PaO2)/FR menor de 150.
+
+
+-- ANÁLISIS DE DATOS
+
+Se formaron dos grupos de pacientes, aquellos en los que se usó oxigenoterapia convencional exclusivamente y aquellos en los que se usó CPAP alternativa. Se estudió la posible asociación de las características de los pacientes (datos demográficos, factores de riesgo y tratamiento farmacológico) con el empleo de CPAP alternativa mediante la prueba chi-cuadrado de Pearson y/o el test exacto de Fisher, mientras que las posibles diferencias en términos de parámetros bioquímicos se analizaron con la prueba t de Student. Los análisis anteriores se llevaron a cabo con el programa SPSS V.20 (IBM Inc., Chicago, Il., EE. UU.) y se consideró que existían asociaciones/diferencias estadísticamente significativas cuando el valor p se situó por debajo de 0,05.
+Por otro lado, la comparación de la evolución (diferencia entre los valores iniciales y los finales tras el empleo de oxigenoterapia) de la SatO2, FR y el análisis de la saturación de oxígeno (SpO2)/FiO2 entre los pacientes en los que se empleó CPAP y aquellos en los que no se usó esta alternativa, se llevó a cabo mediante regresión lineal. Para ello, se utilizó el paquete lme4 de R, versión 3.4 (RCoreTeam, 2017).
+
+
+-- CONSENTIMIENTO INFORMADO
+
+Todos los pacientes que cumplieron con los criterios de inclusión y accedieron a participar en el estudio cumplimentaron una hoja de consentimiento informado. Dicho documento recogió la información más importante del estudio que atañe al paciente, de los posibles efectos adversos, de la confidencialidad y del derecho a retirarse en cuanto lo deseara.
+El estudio ha recibido un dictamen positivo del Comité de Ética e Investigación Clínica del Hospital Universitario Clínico San Carlos.
+
+
+- RESULTADOS
+
+-- ANÁLISIS DESCRIPTIVO
+
+Se reclutaron un total de 23 pacientes. El 52,2% (n = 12) eran hombres, mientras que se desconoce el sexo de uno de ellos. La edad media fue de 63 años (desviación estándar [DE] = 11,3), siendo la paciente más joven de 44 años y el paciente más anciano de 85 años.
+Los antecedentes personales de los pacientes fueron los siguientes: el 52,2% (n = 12) de los pacientes padecía hipertensión arterial, el 13,0% (n = 3) diabetes mellitus, el 26,1% (n = 6) obesidad, únicamente el 8,7% (n = 2) sufría de cardiopatía isquémica, el 21,7% (n = 5) enfermedad renal crónica, el 13% (n = 3) admitió ser fumador y el 26,1% (n = 6) padecía neumopatía, siendo esta, en concreto, asma en cuatro pacientes, EPOC en dos y síndrome de la apnea obstructiva del sueño (SAOS) en un único paciente.
+El inicio de la sintomatología de todos los pacientes reclutados fue entre el 16 de marzo hasta el 12 de abril.
+Los valores promedio de los parámetros bioquímicos (y DE) fueron los siguientes: dímero D = 2.053 ng/dL (3.178,8); IL-6 = 29,3 pg/mL (21,0); ferritina = 1.052 μg/L (537,7).
+Los medicamentos utilizados como tratamiento para la COVID-19 fueron los siguientes: hidroxicloroquina, 100% de los pacientes del estudio; lopinavir/ritonavir, 56,5% (n = 13); tocilizumab, 60,9% (n = 14); corticoides, 95,7% (n = 22); antibióticos, azitromicina en el 82,6% (n = 19) y ceftriaxona en el 13,0% (n = 3).
+Se empleó CPAP alternativa en cinco pacientes (21,7%), algo que no se hizo en los otros 18 (78,3%). En la tabla 1 se observa la secuencia temporal del soporte ventilatorio de los pacientes reclutados.
+
+
+-- ANÁLISIS DE SATURACIÓN DE OXÍGENO
+
+La SatO2 media inicial global fue de 96% (2,25). La SatO2 anterior al uso de CPAP en los pacientes en los que se empleó esta alternativa era dos unidades porcentuales menor (IC 95% entre -0,13 y 4,75) a la saturación inicial registrada en el resto de pacientes (tabla 2 ).
+Se observó un aumento progresivo de la SatO2 en aquellos pacientes en los que se empleó CPAP alternativa, de un promedio inicial de 94% a una saturación media de 98 y 99% tras 30 y 60 minutos, respectivamente. Posterior a la retirada del dispositivo, la saturación media de estos pacientes fue de 96% (2,08), mientras que la registrada en ese mismo momento en los pacientes en los que no se empleó CPAP fue de 95% (1,44), siendo significativamente superior el incremento alcanzado con CPAP (p = 0,013).
+
+
+-- ANÁLISIS DE LA FRECUENCIA RESPIRATORIA
+
+La FR media inicial global fue de 22 rpm (5,51). En el grupo CPAP, esta era de siete unidades (IC 95% entre 0,1 y 12,0) superior a la registrada en los pacientes en los que posteriormente no se empleó esta alternativa .
+Tras el empleo de la CPAP, la FR se mantuvo en valores similares a los iniciales (media final = 27 rpm, DE = 9,64), mientras que la FR registrada en el resto de los pacientes en los que no se empleó esta alternativa descendió hasta una media de 15 rpm (p = 0,033) .
+
+
+-- ANÁLISIS DE SPO2/FIO2
+
+La SpO2/FiO2 inicial global fue de 164,38 (104,22). En el grupo de CPAP, esta era de 74,8 unidades (IC 95% entre 11,3 y 138,2), inferior a la registrada en los pacientes en los que posteriormente no se empleó esta alternativa. Tras el uso de la CPAP, la SpO2/FiO2 media ascendió a 186,73 unidades, alcanzando un valor final de 293,33 (75,04), similar al que se alcanzó en el resto de los pacientes en los que no se empleó esta alternativa (media = 299,50, DE = 106,91), por lo que ambos abordajes fueron igualmente útiles en lo que respecta a la restauración de la SpO2/FiO2 (p = 0,759) .
+
+
+-- ANÁLISIS DE OTRAS VARIABLES
+
+Un paciente presentaba sensación de disnea moderada previa a la colocación de la CPAP alternativa, dos disneas leves y los otros dos pacientes que usaron CPAP no referían sensación de disnea.
+La CPAP empleada en todos los casos presentaba válvula en la parte inferior (CPAP alternativa de tipo A) y la PEEP fue de media 9,50 cm de H2O, con una DE de 1,12; la tolerancia de la máscara fue buena en los cinco casos y, por otro lado, ninguno de los pacientes con CPAP alternativa requirió la administración de mórficos.
+No hemos encontrado diferencia significativa en relación con los antecedentes personales entre los pacientes que han recibido la CPAP alternativa y los que no (tabla 3 ). En cambio, se objetiva una asociación entre pacientes con niveles de ferritina alta y uso de la CPAP alternativa (tabla 4 ). Tampoco hay asociación entre los fármacos usados para el tratamiento de la infección y la necesidad de soporte ventilatorio alternativo (tabla 5 ).
+
+
+- DISCUSIÓN
+
+Según nuestros datos, parece que el uso de la CPAP alternativa mejora el estado ventilatorio de los pacientes con insuficiencia respiratoria refractaria a oxigenoterapia convencional. En los pacientes con síndrome de distrés respiratorio agudo, la heterogeneidad en el llenado del parénquima pulmonar da lugar a la aparición, existan tanto áreas distendidas como colapsadas. Las estrategias de ventilación protectora basadas en el empleo de volúmenes bajos han mostrado, en este contexto, un aumento de supervivencia. Para distender el pulmón, además de usar la PEEP, se emplean las maniobras de reclutamiento, todavía en debate. Para el desarrollo de esa PEEP lo ideal es el uso de ventilación mecánica no invasiva, pero el elevado número de pacientes con insuficiencia respiratoria grave y la poca cantidad de dispositivos de ventilación no invasiva han obligado al uso de alternativas de CPAP que fueran capaces de producir esa PEEP.
+A priori, los pacientes a los que se colocó la CPAP no tenían una saturación diferente al resto. En la serie se observa cómo la indicación para el uso de estos dispositivos fue el trabajo respiratorio ya que, los niveles de saturación iniciales fueron similares en ambos grupos, no así la frecuencia respiratoria que fue mucho mayor en el grupo de CPAP alternativa antes de su colocación. Aun así, pasado un tiempo, la SatO2 aumenta en el grupo de CPAP alternativa y disminuye en el otro grupo, contrario a la frecuencia respiratoria que queda similar.
+Si unimos las variables de SatO2/FiO2 sí que hay una evolución significativa en la mejoría de los pacientes que precisaron el uso de CPAP alternativa. La utilidad de la SatO2/FiO2 es equiparable a PaO2/FiO2 (PAFi) para el diagnóstico de distrés respiratorio, . La SpO2/FiO2 ha demostrado ser equiparable a la PAFi en pacientes con deterioro de la función ventilatoria y puede ser un indicador fiable de la necesidad de escalada en el soporte ventilatorio. Pacientes con una relación entre la SatO2 y una FiO2 inferior a 100 o 200 deberían ser candidatos a este tipo de terapia.
+Otro dato interesante es que no se demuestra alguna relación entre el uso del soporte ventilatorio con patologías previas. Si buscamos relación con niveles analíticos de pacientes que estén peor, desde el punto de vista ventilatorio, encontramos una asociación, solamente, con la ferritina. A mayores valores de ferritina se observa peor pronóstico, como atestiguan otros estudios recientemente publicados.
+Las limitaciones más importantes del estudio son el tamaño muestral que se ha visto reducido con el cierre del hospital de campaña y la heterogeneidad en la recogida de datos retrospectiva al ir realizando cambios dinámicos en el hospital cada día.
+El uso de estos dispositivos ha ayudado a disminuir el trabajo ventilatorio de varios pacientes, mejorando sus parámetros de oxigenación. Son necesarios más estudios para observar mejor la evolución de los pacientes sometidos a esta terapia y compararlos con pacientes con otro tipo de soporte ventilatorio. El uso de dispositivos inventados «sobre la marcha» por profesionales puramente asistenciales ha sido fruto de la improvisación bien entendida y de la necesidad de adaptarse a los tiempos que hemos vivido. En artículos recientes se han mostrado las dificultades a las que nos hemos encontrado, que se han ido superando gracias a la aportación de muchos profesionales de distintos niveles asistenciales. Este es un ejemplo más de todo lo vivido en estas últimas semanas.
+
+
+- FINANCIACIÓN
+
+Este artículo no ha recibido financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

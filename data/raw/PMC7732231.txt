@@ -1,0 +1,117 @@
+ESTUDIO PILOTO DE LA TELEDERMATOLOGÍA DIRECTA DURANTE EL ESTADO DE ALARMA POR LA PANDEMIA COVID-19 EN UN ÁREA SANITARIA DE MADRID (ESTUDIO EVIDE-19
+
+
+- INTRODUCCIÓN
+
+La enfermedad por coronavirus 2019 (COVID-19) está teniendo un enorme impacto en la práctica dermatológica, con una reducción notable de las consultas presenciales en favor de la teledermatología (TD). Desde que el brote SARS-CoV-2 fue reclasificado como pandemia el 11 de marzo de 2020, la práctica totalidad del Hospital Universitario La Paz (HULP) se transformó para priorizar la asistencia de la enfermedad, con la consiguiente reordenación de puestos asistenciales, convirtiendo la atención dermatológica en un auténtico desafío.
+En el marco de la situación de alerta sanitaria nacional activa, que promulgó el confinamiento domiciliario obligatorio de toda la población, vimos reducida nuestra actividad a la atención de urgencias dermatológicas e interconsultas hospitalarias. En este contexto la CDC y otros organismos públicos indicaron que los sistemas de telemedicina deberían ser considerados como parte de la respuesta sanitaria a la COVID-19, , .
+La teledermatología (TD) es una tecnología que se define como la evaluación clínica de las lesiones cutáneas por dermatólogos mediante técnicas de telemedicina. La TD se puede desarrollar: de forma diferida (asíncrona o store and forward), a tiempo real (variante síncrona) o en modalidad híbrida (una fase síncrona y otra asíncrona). Habitualmente se lleva a cabo de forma indirecta, entre atención primaria (AP) y dermatología, con o sin imágenes dermatoscópicas asociadas. La modalidad digital asíncrona directa corresponde a una consulta digital directa entre el paciente y el dermatólogo mediante imágenes capturadas con el smartphone del paciente. Esta modalidad tiene la desventaja de presentar una menor calidad en la imagen y en la información necesaria para la correcta anamnesis, .
+Las ventajas de la TD han sido demostradas en múltiples estudios: capacidad para reducir lista de espera, servir de triaje o permitir el acceso al dermatólogo desde localizaciones remotas, . España es uno de los países que más publicaciones tiene sobre TD, siendo una modalidad de consulta implantada en más del 25% de todos los servicios de dermatología públicos de España, .
+Durante el confinamiento poblacional se ha descrito el uso de plataformas como WhatsApp o correos electrónicos, pero el envío de imágenes a través de plataformas no seguras resulta desaconsejable, , , . Por este motivo iniciamos un estudio piloto cuyo objetivo fue evaluar la aplicación de una modalidad de TD directa híbrida en la asistencia de pacientes nuevos, citados en el período comprendido entre el anuncio del estado de alarma hasta el inicio de la desescalada, con entrada en la fase 0 en la Comunidad de Madrid.
+El estudio recibió la aprobación del Comité de la Ética de la Investigación Clínica del Hospital Universitario La Paz el 20 de abril de 2020.
+
+
+-- OBJETIVOS
+
+Evaluar el impacto de un programa de TD como herramienta para evitar consultas presenciales (CP) durante el período referido.
+Primario: determinar el porcentaje de pacientes nuevos en los que se logra evitar una CP en un período de un mes, 3 y 6 meses.
+Secundarios:•Determinar el porcentaje de consultas virtuales en las que según el criterio del dermatólogo se alcanza un diagnóstico, o en los que este no es posible, así como describir cuál ha sido la causa de que no se haya podido emitir.•Determinar el porcentaje de pacientes en los que es posible iniciar un tratamiento o incluir en lista de espera quirúrgica.•Determinar el porcentaje de pacientes en los que se sospecha una neoplasia.•Determinar el porcentaje de urgencias dermatológicas (precisa atención en 24 horas).•Describir diferencias en el impacto del programa en las siguientes áreas de asistencia: cáncer-precáncer, melanocítica, inflamatoria, infecciosa, pediátrica, y miscelánea.•Evaluar la satisfacción por parte del paciente y del dermatólogo.
+
+
+- MÉTODOS
+
+-- PARTICIPANTES
+
+Se ofreció la participación a todos los pacientes citados como nuevos en las agendas de consulta general del HULP y centros de especialidades periféricos (CEPS) adscritos, cuya cita había sido anulada entre el inicio del confinamiento (14 de marzo) y la entrada en la fase 0 (4 de mayo de 2020) en la Comunidad de Madrid. Dichos pacientes venían derivados desde atención primaria o desde otras especialidades. Participaron en el estudio 16 dermatólogos, médicos adjuntos del servicio de dermatología del HULP. Se excluyeron del estudio los pacientes citados en consultas monográficas de láser, pigmentadas, ecografía, pruebas epicutáneas, anoscopia de alta resolución y consultas hospitalarias de pediatría.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Pacientes citados como nuevos en dermatología en el HULP o en CEPS, que presentan lesiones cutáneas en el momento del estudio y firman el consentimiento informado para participar. En los pacientes menores de 18 años los padres o tutores firman el consentimiento informado para participar.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+•Pacientes que no firman el consentimiento informado.•Pacientes en los que no es posible obtener una fotografía de su dermatosis.•Pacientes que habían sido atendidos por otra vía (por ejemplo habían acudido a urgencias).
+
+
+-- PLATAFORMA DE TELEDERMATOLOGÍA
+
+Como sistema de TD se utilizó la aplicación MyDoctor App™, que desarrolló un caso de uso específico para este proyecto. Se trata de una App que permite enviar imágenes y vídeos entre pacientes y médicos de 35 especialidades. Durante el período de confinamiento se unió a la iniciativa «quédate en casa» y funcionó de forma gratuita. Para evitar que pacientes ajenos a nuestras consultas accedieran a los dermatólogos del HULP se abrieron 16 «agendas» privadas que correspondían a las consultas de los dermatólogos donde estaban citados los pacientes. El paciente recibía un correo electrónico con un enlace para descargar la App, de forma que dicha consulta era dirigida directamente a su dermatólogo.
+El modelo de TD que se utilizó fue híbrido: primero una fase asíncrona en la que el paciente enviaba una imagen a través de la App y en segundo lugar el dermatólogo establecía una conexión telefónica en tiempo real.
+
+
+-- DISEÑO
+
+--- VISITAS
+
+Visita 1 (día 0): contacto telefónico en el que se informa del estudio. Se evalúan criterios de inclusión/exclusión. Si acepta se envía un correo electrónico para descargar la App. Se insiste en que las imágenes deben ser tomadas con buena luz y enfocadas, y que se remita al menos una imagen de lejos y otra de cerca. Se firma digitalmente el consentimiento informado a través de la App. El paciente se toma las fotografías que considera oportunas y las transmite.
+Visita 2 (día 1-7): el dermatólogo contacta telefónicamente con el paciente, bien desde su domicilio (con acceso VPN), bien desde su consulta.
+Se lleva a cabo la visita según la práctica habitual: anamnesis, solicitud y evaluación de estudios complementarios y tratamiento a través del sistema informático del hospital/VPN. Se recoge la historia clínica en el sistema informático del HULP. Si el dermatólogo lo considera oportuno puede solicitar el envío de imágenes adicionales.
+Como medidas de seguridad tan solo se consideró el alta con revisión en primaria en el caso de enfermedad dermatológica banal y diagnóstico de certeza. Se consideró banal toda aquella afección que a criterio del dermatólogo no supusiera un deterioro significativo en la calidad de vida del paciente, como por ejemplo un acné leve, queratosis seborreicas o pitiriasis versicolor. Se le aportó al paciente un teléfono de contacto para volver a las consultas. La aplicación envió una encuesta de satisfacción al paciente a las 24 horas y al médico al finalizar el estudio.
+
+
+-- VARIABLES
+
+Edad, sexo, raza, fototipo, estudios universitarios, factores de riesgo de COVID-19, diagnóstico, categoría diagnóstica, sospecha de cáncer, emergencia dermatológica, grado de confianza del dermatólogo en el diagnóstico en una escala del 1 al 10 (siendo 1 ninguna confianza en el diagnóstico y 10 diagnóstico de certeza), capacidad diagnóstica (certeza, probable, no posible), motivos de la imposibilidad diagnóstica, calidad de la imagen (suficiente/insuficiente), necesidad de continuidad asistencial especializada según el criterio del dermatólogo (en uno, 3 y 6 meses), tratamiento prescrito telefónicamente, inclusión en lista de espera quirúrgica, grado de satisfacción del paciente y resultados en la escala Likert acerca de la satisfacción de los dermatólogos .
+En cuanto a la categoría diagnóstica se incluyen cáncer-precáncer (incluye queratosis actínicas, cáncer cutáneo no melanoma, melanoma), melanocítica (nevus típicos y atípicos), inflamatoria, infecciosa, pediátrica, miscelánea (incluye lesiones tumorales benignas, alopecia, acné, afectación ungueal, etc.).
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se realizó un análisis descriptivo de todas las variables clínicas y analíticas estudiadas mediante el programa estadístico SPSS-12. Las variables se presentan en frecuencias absolutas y relativas en el caso de variables cualitativas, y las principales medidas de dispersión (media, desviación típica, mediana, mínimo, máximo, rango intercuartílico e intervalo de confianza al 95%) en caso de variables cuantitativas. Para evaluar la confianza en el diagnóstico emitido se utilizaron escalas de Likert.
+
+
+- RESULTADOS
+
+Desde el servicio de admisión del HULP se contactó telefónicamente con 2.316 pacientes, todos ellos citados como nuevos en las agendas del HULP y CEPS. Los pacientes fueron llamados progresivamente desde la fecha de aprobación del estudio por parte del CEIC el 20 de abril de 2020 hasta el 4 de mayo de 2020. Un total de 1.497 (64,6%) pacientes aceptaron participar. En el correo electrónico de invitación a descargar la App adjuntamos el teléfono de la secretaría de dermatología, además del correo electrónico del helpdesk de la App. A los pacientes que no deseaban o no podían participar se les ofreció generar una cita que se activaría al abrirse las agendas presenciales.
+Las razones para no participar en el estudio en los 819 restantes fueron: no tener un smartphone (9%, n = 73), no tener correo electrónico (24%, n = 193), no tener lesiones visibles en la piel (23%, n = 185), o simplemente no querer participar (45%, n = 368).
+De los 1.497 que aceptaron participar 896 pacientes completaron el proceso de registro, pero solo 452 pacientes enviaron una consulta virtual al dermatólogo (30%). De ellos 374 adjuntaron una imagen (detalles en la fig. 1 ).Figura 1
+
+
+-- CARACTERÍSTICAS DEMOGRÁFICAS
+
+Se analizaron los datos de los pacientes que completaron la visita adjuntando una imagen (n = 374). La edad media fue de 42 ± 19,5 años, siendo el 62% mujeres. El 91,5% de los pacientes eran de raza caucásica. El fototipo Fitzpatrick fue clasificado por el propio paciente como I (2,5%), II (58%), III (35,5%) o IV (4%). El 44% de los pacientes tenía un título universitario. El 7% de los pacientes presentaba factores de riesgo de infección por COVID-19 (> 70 años, comorbilidad).
+
+
+-- DIAGNÓSTICO
+
+Tal y como se detalla en la figura 2 el diagnóstico se incluyó en las siguientes categorías: melanocítica, inflamatoria, infecciosa, cáncer-precáncer, pediátrica o miscelánea. Se incluyeron en la categoría cáncer-precáncer 34 pacientes, de los cuales se consideró que el diagnóstico era cáncer en 18 (4,8%; IC: 2,6-7%).Figura 2
+En la tabla 1 se recogen los diagnósticos más frecuentes recogidos en el estudio. En la figura 3 se observan algunos ejemplos.Figura 3
+Un paciente fue clasificado como una emergencia dermatológica. Se trataba de un paciente atópico que presentaba eritrodermia. Ciento cinco pacientes (28,3%) requirieron pruebas complementarias que fueron solicitadas telemáticamente.
+
+
+-- CAPACIDAD DIAGNÓSTICA
+
+De entre los pacientes que enviaron una imagen (n = 374) se pudo emitir un diagnóstico en el 87,1% (IC 95%: 83,7-90,5%), siendo este diagnóstico probable a criterio del dermatólogo en el 48,6% (IC 95%: 43,5-53,6%) y de certeza en el 38,5% (IC 95%: 33,5-43,4%).
+La confianza en el diagnóstico emitido fue valorada subjetivamente por cada dermatólogo, con una puntuación ≥ 7/10 en 290 casos (77,5%, IC 95%: 73,2-81,7%). La calidad de la imagen se consideró suficiente en el 52,1% (IC 95%: 47-57,1%) de los casos.
+Por el contrario, el diagnóstico no fue posible en el 12,8% (IC 95%: 9,4-16,1%) (n = 49). Las razones para no alcanzarlo fueron: imagen no acorde a la consulta (58,3%), mala calidad de la imagen (22,9%) y necesidad de pruebas complementarias (18,7%).
+La capacidad diagnóstica y la confianza en el diagnóstico emitido fue diferente en las distintas áreas, tal y como se recoge en la figura 4 .Figura 4
+
+
+-- IMPACTO EN LAS CONSULTAS
+
+De los 374 pacientes que consultaron con imagen, el 17% (IC 95%: 13,1-20,8%) (n = 64) fueron remitidos para control por AP. En 309 pacientes se requirió continuidad asistencial. Se consideró que esta debía efectuarse de forma prioritaria en menos de un mes en el 15% (IC 95%: 11,3-18,6%) (n = 56). En el 50% (n = 190) de los pacientes la visita presencial pudo retrasarse 3 meses, y hasta 6 meses en el 17% (IC 95%: 13,1-20,8%) (n = 64). Por tanto, en un 85% (IC 95%: 81,2-88,6%) de los pacientes se logra evitar la CP durante al menos 3 meses (n = 318),tal y como se recoge en la figura 5 .Figura 5
+Ciento un pacientes recibieron un tratamiento prescrito por teléfono (27%, IC 95%: 22,5-31,5%) y 8 pacientes fueron incluidos directamente en la lista de espera quirúrgica.
+Los pacientes puntuaron del 1 al 5 el grado de satisfacción con la visita virtual. El promedio de puntuación obtenido entre los 16 dermatólogos involucrados fue de 4,5/5.
+Los dermatólogos puntuaron los resultados de satisfacción según los distintos ítems consultados, tal y como se recoge en la figura 6 .Figura 6
+
+
+- DISCUSIÓN
+
+El objetivo principal del estudio era determinar el porcentaje de CP que se podían evitar por medio TD durante el período del confinamiento. En nuestra muestra se logró evitar completamente la CP especializada en el 17% de los pacientes y retrasar al menos 3 meses la CP en un 68% adicional. Por otra parte, se priorizó la asistencia de los pacientes que lo requerían, incluso en 24 horas en el caso de un paciente eritrodérmico.
+Según datos del estudio DIADERM, en la asistencia ambulatoria pública el porcentaje de altas con revisión por AP y revisión por el dermatólogo son de 6% y 65%. Estos mismos datos aplicados a la TD son del 33% y 42%. En ambos casos, la necesidad de continuidad asistencial es elevada, aunque en menor medida que en nuestro estudio (82%). Muy distintos son los datos de un estudio reciente de TD asíncrona llevado a cabo en Alemania, en el que se incluyó un total de 1.364 pacientes, y se logró evitar un 64% de las consultas presenciales. Estos datos contrastan con los de nuestro estudio, aunque esto se explica porque establecimos que por protocolo solo los pacientes con diagnóstico de certeza y enfermedad banal se darían de alta para revisión por AP, citándose el resto para revisión por el mismo especialista. Aunque dicho protocolo se diseñó así por seguridad del paciente (dada la falta de experiencia en TD en nuestro centro), nos impide sacar conclusiones fidedignas acerca de la eficacia de la TD como herramienta de cribado. Hay que considerar además que los datos de TD asíncrona directa suelen ser inferiores a los obtenidos por TD asíncrona indirecta, en los que la imagen y el uso de dermatoscopia asociada garantizan una mayor capacidad diagnóstica, lográndose evitar hasta el 58% de las CP.
+A pesar de ello, nuestra capacidad diagnóstica fue elevada, lográndose emitir un diagnóstico en el 87,1% de los pacientes, con un alto nivel de confianza. Estos resultados no difieren de los publicados por Sondermann et al., con un 90,3% de pacientes en los que se establece un diagnóstico telemático. En nuestro estudio la confianza en el diagnóstico emitido fue mayor en las categorías infecciosa, cáncer-precáncer e inflamatoria y menor en el área melanocítica y pediátrica, en línea con lo publicado en otras series, .
+Los diagnósticos más frecuentes fueron nevus melanocítico, acné, eccema, queratosis actínica, queratosis seborreica y carcinoma basocelular. Estos diagnósticos reflejan los diagnósticos principales más habituales en los CEPS de dermatología y no difieren de otros estudios como el DIADERM, en el que los diagnósticos más frecuentes fueron queratosis actínicas (8,2%), carcinoma basocelular (8,1%) y nevus melanocíticos (7,5%), , .
+Se consideró que la calidad de la imagen fue suficiente para el diagnóstico en el 52,1% de los casos, equiparable al encontrado recientemente en un estudio de TD por WhatsApp, en el que el 54,3% de los dermatólogos consideraron la calidad de las imágenes suficiente para el diagnóstico, si bien inferior al 81% obtenido en TD de almacenamiento indirecta. ÓConnor publicó un estudio realizado en niños, en el que comparó la capacidad diagnóstica de la TD en 2 grupos, con y sin envío previo de instrucciones para la toma de imágenes, sin encontrar diferencias significativas entre ambos.
+Respecto a los resultados de la encuesta a los dermatólogos del HULP, el nivel de satisfacción global fue bueno en el 68,7%. Cabe destacar que se mostraron DA/TA con una elevada confianza en el diagnóstico el 81,25%. El 74% estaba DA/TA con un impacto positivo en la gestión de su servicio y el 87,2% lo aplicaría a nuevas áreas terapéuticas.
+En cuanto a la satisfacción de los pacientes, el promedio de puntuación otorgado a los 16 dermatólogos involucrados fue de 4,5/5, que es ligeramente superior a un reciente estudio que incluyó 243 consultas de TD, con un promedio de puntuación de 4,38/5. Esto apoya las publicaciones que avalan un alto índice de satisfacción de los pacientes con los sistemas de telemedicina directa al consumidor, .
+España es un país muy digitalizado, lo que se refleja en el alto porcentaje de usuarios de Smartphone en nuestro estudio. A pesar de ello, solo uno de cada 4 pacientes reclutados envió finalmente una consulta con imagen, siendo el 44% universitarios. No hicimos un análisis estructurado de los motivos por los que este elevado porcentaje de pacientes no logró concluir la visita, pero según lo recogido en las llamadas telefónicas a la secretaría de dermatología y al helpdesk de la App, los motivos principales fueron las dificultades tecnológicas, la desconfianza en la seguridad del proceso y la resolución de la dermatosis. Consideramos que posiblemente estos datos habrían mejorado utilizando un sistema que abriera directamente la cámara del paciente mediante un SMS, sin necesidad de descargar una App.
+Otra de las limitaciones de nuestro estudio es que no se ha llevado a cabo un estudio de concordancia diagnóstica de TD, por lo que no podemos garantizar la fiabilidad diagnóstica de la misma. Sin embargo, en el trabajo de Sondermann et al. se estudió la concordancia en el diagnóstico de 100 pacientes de forma aleatoria, encontrando concordancia en el 97% de los mismos.
+Son escasos los estudios que describen la capacidad diagnóstica de un programa de TD asíncrona directa, , , y no hemos encontrado ninguno que se desarrolle durante el período de confinamiento por la infección por COVID-19.
+Podemos concluir que se trata de una herramienta eficaz, que permite mantener la actividad dermatológica en períodos de pandemia de manera satisfactoria para médicos y pacientes. La implementación de esta forma de TD podría complementar la actividad asistencial presencial, especialmente en pacientes en seguimiento. Sin embargo, el desarrollo de un sistema de TD eficiente implica necesariamente la integración de la imagen digital a los sistemas de información médicos, por lo que es necesario asegurar las infraestructuras necesarias para el almacenamiento y envío seguro de imágenes, evitando sobrecargar innecesariamente a los facultativos.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

@@ -1,0 +1,5 @@
+Se encontró que 65% de las mujeres recibieron APP,y 56.8% de las adolescentes un método reversible de larga duración (43.7% DIU y 13.1% implantes). Ser indígena, tener un hijo, o recibir atención en los servicios estatales de salud/IMSS-Prospera o privadas, se asocia con menores posibilidades de APP.
+Se analizaron datos de la Encuesta Nacional de Salud y Nutrición (Ensanut) 2018-19 en4 548 mujeres de 12-49 años que tuvieron un parto. Se ajustaron modelos de regresión logística (n=4 544) y multinomial (n=2 903) con variables dependientes APP y tipo de anti-conceptivo recibido.
+Analizar la anticoncepción posparto (APP) y tipo de método anticonceptivo recibido según características sociodemográficas y de atención del parto de las mujeres.
+Se identificaron progresos en la cobertura de APP en las adolescentes. Persisten brechas de acuerdo con el asegura-miento en salud tanto en la recepción de APP como en el tipo de método recibido.
+

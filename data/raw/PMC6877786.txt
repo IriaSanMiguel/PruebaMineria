@@ -1,0 +1,97 @@
+LA FORMACIÓN ENTRE IGUALES PARA PACIENTES CON DIABETES MELLITUS 2. UNA EVALUACIÓN CUANTITATIVA Y CUALITATIVA EN EL PAÍS VASCO Y ANDALUCÍA
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus tipo 2 (DM2) es una enfermedad crónica con una prevalencia del 12% en la población española, y se prevé que para el año 2030 afecte al 10% de la población adulta.
+Teniendo en cuenta que los principales cuidados de las enfermedades crónicas se proporcionan a domicilio, las necesidades formativas de estos/as pacientes se han enfocado en los últimos años desde programas específicos de autocuidados, orientados a promover sus habilidades para manejar su enfermedad, con el fin de alcanzar tanto los objetivos terapéuticos como su bienestar emocional, .
+En España, las autoridades sanitarias apostaron por los programas de educación diabetológica entre iguales, utilizando la metodología de la Universidad de Stanford (Diabetes Self-Management Program [Manejo Personal de la Diabetes]), que había implantado un centro pionero en los años ochenta. Entre los programas existentes cabe destacar a nivel nacional: Programa Paciente Activo-Paziente Bizia. Osakidetzaren Osasun Eskola (País Vasco), Universidad de Pacientes, Programa Paciente Experto del Institut Català de la Salut, Forum Clínic, Escuela de Salud y Cuidados de Castilla-La Mancha, Escuela de Salud de Castilla y León, Programa Paciente Experto de Murcia, Escola Galega de Pacientes o la Red Ciudadana de formación en Seguridad del Ministerio de Sanidad. El programa «Paciente Activo» del País Vasco capacita a pacientes a través de talleres grupales de 24 h, y la «Escuela de Pacientes» de Andalucía, mediante 10 h presenciales y 12 virtuales.
+El contenido de las estrategias formativas (alimentación, tratamiento farmacológico, actividad física, resolución de problemas, uso de recursos sanitarios y gestión emocional) prioriza no solo la adquisición de conocimiento sobre la DM2, sino también la importancia del apoyo social, la relación con el personal sanitario, la gestión de las emociones, la responsabilización y la confianza para la mejora de los autocuidados, .
+Tomando la autoeficacia en los cuidados como principal factor de éxito en el control de la DM2, el objetivo general de este estudio es evaluar la estrategia formativa entre iguales para pacientes con DM2 de los programas «Paciente Activo» (País Vasco) y «Escuela de Pacientes» (Andalucía).
+Los objetivos específicos son: 1) conocer el impacto de las estrategias de formación-aprendizaje sobre salud autopercibida, desempeño de actividades diarias, dieta y ejercicio físico, utilización de servicios sanitarios y automanejo en los cuidados, y 2) conocer las opiniones de los pacientes y formadores sobre el acceso y la motivación para realizar la formación, la evaluación y el impacto de la formación, sus limitaciones y propuestas de mejora.
+
+
+- MATERIAL Y MÉTODOS
+
+Se utilizó un diseño exploratorio descriptivo mixto cuantitativo/cualitativo de evaluación pre/post de los programas de formación del País Vasco y Andalucía.
+
+
+-- PARTICIPANTES
+
+En diseño del estudio cuantitativo contemplaba la inclusión de toda la población participante en la formación. Posteriormente, dada la dificultad de contactar a todas las personas en la fase post-test, en el País Vasco se seleccionó una muestra representativa de 171 personas de las 981 personas formadas entre 2012-2013, mediante un muestreo no probabilístico por estratos de sexo, edad y perfil de formador/paciente. En Andalucía se incluyó toda la población participante en el Aula de Diabetes de la Escuela de Pacientes, con un porcentaje de respuesta del 60%, que corresponde a 109 pacientes formados pertenecientes a los distritos sanitarios del Servicio Andaluz de Salud.
+El estudio cualitativo se realizó entre marzo y octubre de 2014, con 44 personas (26 del País Vasco y 18 de Andalucía), captadas a través de un muestreo intencional, respetando la heterogeneidad de sexo, medio rural o urbano, edad, años con la enfermedad, nivel de estudios y ocupación. Los datos sociodemográficos de los participantes pueden consultarse en una tabla disponible en la versión electrónica. El contacto lo realizaron profesionales sanitarios de Osakidetza, del Servicio Andaluz de Salud y de asociaciones de pacientes de Andalucía.
+Los criterios de inclusión fueron: 1) ser paciente con DM2 o familiar cuidador/a de una persona con DM2; 2) ser mayor de 18 años, y 3) haber completado el taller de formación entre iguales para pacientes o pacientes-formadores con diabetes. Se excluyeron los casos con un estado de salud física o psíquica incompatible con la participación en el estudio o que pusiera en peligro su seguridad.
+
+
+-- RECOGIDA DE DATOS
+
+En el estudio cuantitativo se utilizaron los cuestionarios pre-test (antes de iniciar la formación) y post-test (tras los 6 meses de la formación) empleados en la evaluación de los programas formativos del País Vasco y de Andalucía, seleccionándose solo las dimensiones y variables comunes medidas en ambos programas: salud autopercibida, actividades diarias, ejercicio físico, uso de servicios sanitarios y automanejo en los cuidados . Para homogeneizar las variables medidas en escalas diferentes se emplearon los criterios propuestos en el programa de Paciente Experto de la Universidad de Stanford.
+El estudio cualitativo se basó en 8 grupos focales con pacientes y pacientes-formadores realizados a partir de un guión semiestructurado . Todas las personas fueron informadas sobre los objetivos del estudio y dieron su consentimiento informado antes de iniciarse la recogida de datos. Las entrevistas grupales se grabaron en audio, tuvieron una duración media de 1,5-2 h y se transcribieron literalmente.
+
+
+-- ANÁLISIS DE DATOS
+
+Los datos cuantitativos se agruparon en una base de datos común que se analizó con el software SPSS 15.0, realizando estudios estadísticos descriptivos y bivariantes, tomando como variables independientes el sexo y la edad. Para evaluar el impacto de la formación se calcularon las ganancias netas en las variables dependientes pre-test/post-test, a través de la prueba T para muestras relacionadas (para datos paramétricos) o el test de Wilcoxon (para datos no paramétricos). Para comprobar los supuestos que permiten utilizar las pruebas paramétricas se aplicó la prueba de Shapiro-Wilk (distribución normal de las puntuaciones) y la prueba de Levene (de homogeneidad de las varianzas).
+El análisis de contenido de los grupos focales se realizó con ayuda del programa informático Nudist Vivo, usando como mecanismo de saturación la aparición de información redundante. El análisis de contenido incluyó una primera codificación de la información en categorías preestablecidas en el guión de las entrevistas grupales, así como en categorías emergentes, recodificación en árbol de categorías y triangulación de los resultados entre las personas investigadoras.
+
+
+- RESULTADOS
+
+En el estudio cuantitativo se recogieron 171 cuestionarios pre-test y post-test en el País Vasco (47% mujeres; media de edad: 64 años) y 109 en Andalucía (50% mujeres; media de edad: 64 años). La tabla 3 recoge los resultados pre-test/post-test diferenciados por sexo. No se encontraron diferencias estadísticamente significativas según la edad.
+
+
+-- ACCESO Y MOTIVACIÓN PARA REALIZAR LA FORMACIÓN
+
+En los grupos focales, las personas con DM2 describen una escasez informativa y de conocimiento sobre su enfermedad, situando la responsabilidad social no solo en el personal sanitario, a menudo colapsado y carente de recursos, sino también en la «administración, que tendría que pringarse un poco, porque […] lo que más necesita un diabético es eso, información…» (Mujer, 50 años, Andalucía).
+El personal sanitario se identifica como agente implicado en mayor medida en la captación de pacientes para los programas formativos y, según las personas entrevistadas, su motivación para iniciar la formación residió en la búsqueda de información y conocimiento sobre la enfermedad: «Me apunté porque me parecía interesante y además quería saber si lo estaba haciendo bien o no…» (Mujer, 55 años, paciente País Vasco).
+
+
+-- EVALUACIÓN DE LA FORMACIÓN: TÉCNICAS DIDÁCTICAS, MATERIALES Y CONTENIDOS
+
+Las personas participantes valoran positivamente la variedad de temáticas abordadas, la calidad y la utilidad de los materiales empleados, la priorización de los contenidos sobre alimentación (aspectos prácticos, comidas por raciones, desmitificación de creencias y hábitos nutricionales erróneos) y el uso de la técnica didáctica de planificación de retos.
+La estrategia formativa entre iguales se considera efectiva tanto por asegurar una mejor comprensión de las necesidades de los/las pacientes, como también porque incentiva las relaciones interpersonales y la participación de todos en la creación y distribución del conocimiento: «Al haber sido paciente entiendes mucho mejor qué es lo que están esperando de ti como instructor…» (Mujer, 57 años, formadora, País Vasco).
+«La sinergia grupal fue interesante para unas personas, poder interactuar, compartir conocimientos, experiencias…» (Mujer, 45 años, paciente, País Vasco).
+
+
+-- IMPACTO DE LA FORMACIÓN
+
+Pacientes y formadores/as consideran que la estrategia formativa representó un punto de inflexión en la adopción de hábitos de vida saludables, sobre todo con respecto a alimentación, realización de ejercicio físico, pérdida de peso y abandono del hábito tabáquico:
+«La verdad que estoy encantada, he dejado de fumar […] me tiré un año a régimen, lo pasé fatal, fue horroroso y, bueno, conseguí bajar como 18 kilos…» (Mujer, 49 años, formadora, País Vasco).
+«Yo me tiré toda mi vida creyendo que el melón está prohibido…» (Mujer, 63 años, paciente, Andalucía).
+Para formadores/as, el hecho de estar en contacto con los contenidos de la formación y asumir la responsabilidad de transmitir los conocimientos al resto de pacientes prolonga además el impacto positivo y asegura la consolidación de esos beneficios:
+«Tú ejerces cierto modelaje al ir y tú eres responsable de la imagen que transmites a los demás, y tienes que transmitir cierta coherencia entre lo que estás explicando y lo que estás haciendo […]. Y realmente los cumplo, con lo cual estás metido en una dinámica súper positiva para ti […] entonces […] pues […] es una cosa fantástica…» (Hombre, 56 años, formador, País Vasco).
+En relación con la comunicación y las relaciones sociales, a través de la interacción grupal los/las pacientes consiguen establecer una especie de lenguaje común, accesible y compartido por todos/as, que fomenta la empatía, una sensación de cohesión grupal e incluso la existencia de una identidad grupal común:
+«Es un poco como que tienes con quién hablar lo que realmente tú no puedes decirlo en tu casa porque no te lo van a entender, son personas que están en lo mismo que tú y que te pueden entender» (Mujer, 55 años, paciente, País Vasco).
+«El compartir con otras personas que tienen el mismo problema que tú, que no te sientes a lo mejor tan bichito raro…» (Mujer, 46 años, paciente, Andalucía).
+El sentido de pertenencia al grupo facilita además la aceptación de la enfermedad, sirve como un punto de apoyo emocional importante y aleja al/a la paciente de la perspectiva victimista y autocompasiva sobre la enfermedad, a favor de una mirada más optimista y llena de energía positiva:
+«De repente te encuentras en un sitio donde todo el mundo habla de que es diabético, y […] no es solo como un exhibicionismo, sino el compartir… para mí es de lo más enriquecedor […] toda esa socialización de la enfermedad, pero no para lamentarnos todos […] sino todo lo contrario…» (Hombre, 49 años, paciente, País Vasco).
+En la relación con el personal sanitario, los/las participantes consideran que la formación mejora sus habilidades comunicacionales, confiere mayor grado de implicación y proactividad y aumenta la cercanía y la calidad del trato:
+«Mira, otra de las cosas que se inciden en el curso es esa, que hay que hablar, porque si tú no hablas el médico no se entera de lo que tienes…» (Hombre, 66 años, formador, País Vasco).
+Los y las participantes explican que la formación mejora su sensación de autocontrol y aumenta su confianza y seguridad, reduce sus miedos y preocupación, ofrece recursos y habilidades para mantener hábitos de vida saludables, facilita la aceptación de la enfermedad, favorece la autoestima y la sensación de utilidad social y refuerza la proactividad, la visibilidad y la movilización social de los/as pacientes:
+«Gracias a estos programas he superado lo que es la enfermedad y sabes cómo controlar mejor» (Mujer, 49 años, formadora, País Vasco).
+«La formación te da serenidad…» (Mujer, 45 años, paciente, País Vasco).
+«Sí, te quita la preocupación de lo que puedes estar haciendo mal y que no sabes» (Mujer, 45 años, paciente, País Vasco).
+«Yo ahora no tengo vergüenza de decirlo públicamente que soy diabético» (Hombre, 56 años, formador, País Vasco).
+«Lo mejor es lo que puedes ayudar a la gente. Es muy gratificante» (Hombre, 49 años, formador, Andalucía).
+Las principales limitaciones de la formación y sus propuestas de mejora se recogen en la tabla 4.
+
+
+- DISCUSIÓN
+
+Los resultados de las 2 comunidades autónomas muestran que la formación entre iguales influye positivamente en la adopción de hábitos saludables, genera apoyo grupal, reduce cuantitativamente y mejora cualitativamente la relación con el personal sanitario y mejora la autoeficacia, la confianza y la autoestima de las personas con DM2, lo que es congruente con los resultados de otras investigaciones, , , , , .
+Las limitaciones del estudio son metodológicas: 1) la participación voluntaria podría relacionarse con un perfil de paciente concienciado, motivado y activo, no necesariamente representativo de la población general con DM2; 2) los datos recogidos con cuestionarios diferentes se tuvieron que homogeneizar a través de las medidas de la Universidad de Stanford, llevando a muchos datos perdidos, y 3) el reducido análisis de la diversidad sociocultural existente y la dificultad de extrapolar los resultados al resto de población con DM2. Sin embargo, la combinación de metodología cuantitativa y cualitativa permite preservar no solo el rigor de los datos numéricos, sino también la riqueza y la sutileza de los datos cualitativos.
+Los resultados pre/post de este estudio confirman los registrados en otros programas formativos de Estados Unidos, Australia o Reino Unido, , , con la principal diferencia de que en nuestra población el tiempo dedicado a la actividad física es mayor. Los datos indican diferencias por género, acordes con la bibliografía disponible. Los hombres prestan atención a las dimensiones físicas y clínicas de los cuidados y, a la vez, mayor preocupación por cómo la DM2 afecta sus actividades laborales, sociales y de ocio, . Las mujeres sienten de forma individual la responsabilidad de sus cuidados, socializan con más facilidad su enfermedad, expresan más necesidad de apoyo social y se refieren al manejo de su enfermedad con una mayor dosis de carga emocional.
+Estos estilos y necesidades diferentes por género pueden explicar el impacto diferencial de la formación: los hombres mejoran su percepción sobre las limitaciones impuestas por la DM2, reducen el número de visitas a atención primaria y su (auto)manejo del nivel de glucosa en sangre; las mujeres, tras referir sacrificios para mantener la dieta, adquieren conocimientos y habilidades que cambian las percepciones negativas sobre los alimentos «prohibidos», y desdramatizan y relativizan las dificultades en el manejo de la dieta.
+Los principales ámbitos de mejora identificados se refieren al acceso a la formación y el mantenimiento de sus beneficios en el tiempo. La formación entre iguales, valorada por sus efectos de apoyo psicológico y social, requiere la continuidad a medio y a largo plazo, reclama la implicación del núcleo familiar y social, y debe contar con la colaboración activa del personal sanitario, que interviene tanto en la difusión y la captación, como en garantizar una atención personalizada, complementaria a las ventajas de la formación grupal. Las instituciones competentes también son consideradas responsables de promover y aportar recursos, siendo además el agente social capacitado para armonizar las medidas político-formales con las necesidades de pacientes, formadores/as y sanitarios/as.
+Podemos concluir que el impacto positivo de la formación entre iguales sobre la adopción de hábitos saludables, la calidad de las relaciones sociales y la autoeficacia en los cuidados de pacientes con DM2 se puede asegurar a través de la colaboración de las instituciones y el personal sanitario, que deben facilitar el acceso, la continuidad y la adecuación del contenido y formato de la formación a las necesidades y expectativas de los/as pacientes.
+Lo conocido sobre el tema•La autoeficacia en los cuidados representa un factor determinante del éxito en el control de la DM2.•La eficacia en el autocuidado implica adquisición de conocimientos y resultados clínicos, tanto como mejora en la salud emocional, apoyo social y calidad de las relaciones interpersonales.•La formación entre iguales constituye una herramienta clave para la autoeficacia en los cuidados.Qué aporta este estudio•Los hombres y las mujeres participantes en el estudio valoran positivamente la estrategia formativa de la educación entre iguales, con algunas diferencias por género.•El acceso, la difusión y la continuidad de las estrategias formativas entre iguales son las principales áreas de mejora identificadas por los y las pacientes con DM2.•La formación entre iguales requiere indispensablemente la implicación y la colaboración activa del personal y de las instituciones sanitarias.
+
+
+- FINANCIACIÓN
+
+Trabajo financiado por Laboratorios Esteve.
+
+
+- CONFLICTO DE INTERESES
+
+Laboratorios Esteve ha colaborado económicamente en la parte logística de la recogida de datos.

@@ -1,0 +1,137 @@
+SOSTENIBILIDAD EN LA PREVENCIÓN DE ENFERMEDADES CRÓNICAS: LECCIONES DEL PROGRAMA SALUD AL PASO EN ECUADOR
+
+
+En Ecuador, aproximadamente 65% de la población mayor de 19 años tiene sobrepeso u obesidad -factores de riesgo de enfermedades no transmisibles (ENT)- con un costo directo e indirecto equivalente a 4,3% del producto interno bruto (PIB) anual . En forma paralela a un sistema privado de salud, el sistema público funciona de manera fragmentada y centralizada en dos sectores: los diferentes regímenes de seguridad social y el Ministerio de Salud Pública. El modelo curativo nacional predominante limita abordajes preventivos frente al incremento de las ENT; las políticas en salud son inerciales o formuladas con discrecionalidad por los gobiernos de turno, sin visión en el mediano o el largo plazo que promuevan su sostenibilidad , y más bien son pensadas en función de la visibilidad del político y su partido, y los réditos que puedan obtener a corto plazo .
+El Distrito Metropolitano de Quito (DMQ), con cerca de 2,5 millones de habitantes, experimenta un aumento significativo de ENT , en especial diabetes e hipertensión arterial, condicionadas por la malnutrición, el sedentarismo, el sobrepeso y la obesidad . Además de tres unidades municipales de salud de limitado funcionamiento con atención de libre demanda, el municipio del DMQ mantuvo programas preventivos promocionales para población “cautiva”, bajo responsabilidad municipal, que representa menos de 5% de la población de Quito. La Ordenanza Metropolitana N.° 494 de 2014 dispuso emprender acciones de promoción, prevención y vigilancia en todo el DMQ, para lo cual el Plan Decenal de Salud Quito 2015-2025 fijó el objetivo de promover la adopción de estilos de vida saludables, que contribuyen a prevenir o controlar ENT . En este contexto, se crea el programa “Salud al Paso” (SAP) en mayo de 2015 .
+El presente estudio analiza las condiciones y posibilidades de permanencia del programa “Salud al Paso” de la Secretaría Metropolitana de Salud del Municipio de Quito, Ecuador, efectuado el cambio de gobierno en mayo de 2019. En particular, se examinan factores que pudiesen haber influido en la decisión adoptada por las nuevas autoridades de suspender el programa, así como necesidades de mejora frente a eventuales iniciativas similares.
+
+
+- MATERIALES Y MÉTODOS
+
+-- DISEÑO DEL ESTUDIO Y MUESTRA
+
+El estudio forma parte de la iniciativa “Mejoras en la ejecución de programas a través de la investigación en implementación” (iPIER, del inglés Improving Program Implementation through Embedded Research), desarrollada por la Alianza para la Investigación en Políticas y Sistemas de Salud en colaboración con la Organización Panamericana de la Salud (OPS). Esta iniciativa coloca a los ejecutores de programas en el centro de investigaciones con el objetivo de entender las barreras a la implementación, lo que permite identificar soluciones y contribuir a la efectividad de programas y políticas de salud .
+Se llevó a cabo un estudio descriptivo centrado en el diseño y ejecución del programa SAP de la Secretaría de Salud del DMQ, las características de los usuarios y las percepciones sobre el programa del personal operativo y de líderes locales o de opinión. Utilizando el marco de análisis de implementación de políticas de salud de Peters et al , se estudiaron variables aplicables de resultado, y potenciales necesidades de mejora.
+La percepción del personal de salud sobre el programa SAP se obtuvo de la opinión de 69 de los 76 profesionales nutricionistas que trabajaban directamente en tamizaje, educación de usuarios sobre prevención de enfermedades no transmisibles, adopción de estilos de vida saludables y superación de riesgo nutricional, en 25 unidades de atención.
+Participaron también 90 líderes locales seleccionados según criterios de representación de sectores beneficiarios (juntas parroquiales rurales, instituciones educativas municipales, mercados municipales, líderes comunitarios barriales) y líderes de opinión (academia, gestión social y de salud, periodismo, política, autoridades locales y actores sociales).
+
+
+-- RECOLECCIÓN DE DATOS
+
+--- BASE DE DATOS
+
+Se accedió a la base de datos anonimizados de usuarios de puntos SAP mediante un acuerdo de confidencialidad con la Secretaría de Salud. Dicha base, correspondiente al periodo abril de 2015 a mayo de 2019, incluyó a 525 252 personas (1 058 880 atenciones), de las cuales 444 990 (934 525 atenciones) eran mayores de 18 años.
+
+
+--- DOCUMENTACIÓN
+
+La información analizada incluye documentos emitidos por la Secretaría de Salud del Municipio del DMQ: por una parte, los marcos jurídicos, las normas, el Plan Decenal de Salud del Municipio del DMQ y el manual de procedimientos del programa SAP y, por otra parte, informes de gestión técnica, operativa y financiera, comunicaciones oficiales de la nueva administración sobre el programa y la “Propuesta de restructuración del SAP” de la Secretaría de Salud de junio de 2019.
+
+
+--- ENCUESTA A PERSONAL OPERATIVO
+
+La encuesta estructurada autoadministrada fue enviada al personal operativo del programa SAP mediante un formulario virtual para envío de respuestas de manera anónima y confidencial, previo envío de un instructivo y firma del consentimiento informado. Esta encuesta incluía preguntas abiertas y preguntas cerradas sobre condiciones de trabajo, percepciones y perspectivas sobre el programa, y su propio desempeño.
+
+
+--- ENCUESTA A LÍDERES
+
+La encuesta a líderes locales y de opinión fue aplicada por un miembro del equipo de investigación, en acompañamiento a los participantes. Algunos participantes respondieron por cuenta propia por medio de un formulario virtual y otros de manera telefónica. Un instructivo y el consentimiento informado precedían a las preguntas. Se decidió realizar una encuesta en lugar de una entrevista para tratar de abarcar el mayor número posible de participantes, pues el contacto inicial realizado dejó ver que los participantes estaban más dispuestos a responder una encuesta, que incluyó preguntas abiertas y preguntas cerradas y estaba dirigida a identificar su conocimiento del programa SAP y enfermedades no transmisibles, y su posicionamiento y opinión sobre la continuidad de SAP.
+
+
+--- TALLER DE RETROALIMENTACIÓN
+
+Luego de las encuestas, se realizó un taller de retroalimentación en el que participaron 69 profesionales: 62 nutricionistas de atención directa, cinco supervisores y dos personas de logística.
+Los participantes compartieron sus perspectivas en aspectos organizativos, opiniones de los usuarios y el futuro del programa. Las conversaciones se grabaron con autorización y las contribuciones escritas fueron recopiladas, transcritas y almacenadas en un archivo protegido con acceso exclusivo de los investigadores.
+
+
+--- PROCESAMIENTO Y ANÁLISIS
+
+Las encuestas telefónicas a líderes de opinión se transcribieron de manera textual y se compila junto con las respuestas enviadas mediante el formulario virtual. Las repuestas cuantitativas de las dos encuestas se desagregaron y tabularon por pregunta, y las respuestas cualitativas se compilaron por pregunta y se codificaron en un primer momento de manera abierta e inductiva en una matriz.
+Con los datos cuantitativos de la base de datos, se realizó un análisis estadístico descriptivo sobre usuarios, atenciones y planes de intervención. Se codificaron y se compilaron los textos de las preguntas cualitativas por similitud de acuerdo con categorías temáticas, y se tabuló su frecuencia para identificar las opiniones más comunes entre los participantes.
+Se examinaron tanto los datos cuantitativos como los cualitativos con base en las recomendaciones de Peters et al. . Dado de que se trataba de una intervención novedosa, el análisis se centró en temas de aceptabilidad, adopción, apropiación y viabilidad, aunque también se contemplaron la cobertura y los costos. Se relacionaron los datos cuantitativos de la base de datos y la información proporcionada por las nuevas autoridades de la Secretaría de Salud de manera analítica entre sí, y con datos cualitativos de las encuestas aplicables, al documentar los fundamentos de la decisión institucional sobre el futuro del programa SAP.
+
+
+--- RETROALIMENTACIÓN CON LAS NUEVAS AUTORIDADES
+
+El 12 de mayo de 2019 se analizaron los resultados preliminares del estudio con los nuevos directivos técnicos de la Secretaría de Salud; en reunión ampliada del 10 de setiembre de 2019, se recibieron criterios y documentos con los que las autoridades justificaban la decisión de suspender el programa SAP.
+
+
+-- ASPECTOS ÉTICOS
+
+Se informó a los participantes de manera escrita u oral de sus derechos como participantes, antes de dar su consentimiento. Las transcripciones de los talleres no contienen sus nombres y las encuestas a líderes se identificaron con un código numérico. El estudio fue aprobado por el Comité de Revisión Ética de la Organización Panamericana de la Salud (PAHOERC-2019-01-0003) y por el Comité de Bioética para la Investigación en Seres Humanos de la Universidad Internacional del Ecuador (CEU-082-19).
+
+
+- RESULTADOS
+
+En el cuadro 1 se presenta un resumen de los resultados de cada una de las variables y sus resultados de implementación, según el modelo de Peters et al. .
+
+
+-- COBERTURA
+
+Los registros estadísticos oficiales del país se obtuvieron del Instituto Nacional de Estadística y Censos (INEC); no incluyen actividades de prevención nutricional, como las ofertadas por SAP, dado que solo registran producción de consultas de prevención realizadas por médicos, obstetras, psicólogos y actividades de enfermería, y de cobertura de prevención en odontología .
+En el cuadro 2 se presentan los resultados de cobertura obtenidos por el programa SAP mientras duró su permanencia (abril 2015 - mayo 2019). Se elaboraron tres indicadores: uno general, referido al total de población del DMQ, y dos específicos: población mayor de 18 años y usuarios residentes en el DMQ mayores de 18 años.
+La cobertura del programa SAP (2015 - 2019) alcanzó a 21,6% de personas mayores de 18 años del DMQ y, por lo tanto, se encaminaba a alcanzar la meta de cobertura de 40% hacia el 2025. En cuanto al número de personas con riesgo de ENT que iniciaron un plan de intervención, SAP incluyó a la población entre 18 y 64 años. Si se realiza un análisis global de cohortes de seguimiento semestral, entre abril de 2015 y setiembre de 2018 se identificaron 233 753 usuarios mayores de 18 años con sobrepeso u obesidad que iniciaron el plan de intervención, de los cuales 52 565 usuarios (22,5%) asistieron luego en más de una ocasión.
+
+
+-- COSTOS
+
+El presupuesto total devengado entre abril 2015 y diciembre de 2018, según las cédulas presupuestarias de la Dirección Financiera del Municipio del DMQ, fue de 9 880 168 dólares estadounidenses (USD). Dentro de este período, el costo unitario por personas atendidas (n = 525 252) fue de USD 18,81 y, por atenciones (n = 1 058 880), USD 9,33.
+
+
+-- ACEPTABILIDAD
+
+Se consultó al personal operativo sobre sus percepciones relacionadas con la aceptabilidad del programa. Consideran que el programa es novedoso y de actualidad, está ubicado en puntos convenientes para la población y se promueve en actividades populares como ferias y eventos, de manera que, en su opinión, son de fácil acceso y, al ser gratuitos, no tienen obstáculos financieros. Destacan también la asesoría personalizada y la entrega de material didáctico que incentiva a la población a prácticas saludables.
+Entre las restricciones, señalan que no todos los usuarios acuden con el tiempo necesario para una valoración completa, lo que podría afectar a personas en situación de riesgo nutricional que requieren mayor dedicación. Se reportó también la inexistencia de espacios de espera o falta de privacidad.
+Por otra parte, la mayoría (85%) de los 32 líderes consultados que recibieron atención en el programa valoraron su experiencia como excelente o muy buena, y el 15% restante como buena.
+
+
+-- ADOPCIÓN
+
+La variable adopción se definió como la “intención, decisión inicial o acción destinada a tratar de utilizar una intervención” . El estudio analizó la gradación del programa; se observó una disminución en el número de personas atendidas por año con relación al período inicial abril - diciembre 2015. Hasta mayo de 2019, el programa SAP atendió a 444 990 personas mayores de 18 años , en una población estimada de 1 728 717 habitantes en 2019 .
+Aunque el número de personas atendidas bajó, el número de atenciones por usuario creció y los servicios se ampliaron, pasando de solo tamizaje nutricional y consejos generales sobre hábitos saludables, a un enfoque con criterios de riesgo en junio de 2016, incluyendo asesoría y monitoreo personalizado de personas categorizadas de riesgo bajo, que ingresaban a un plan de intervención de duración de 6 meses, con al menos 4 visitas. Las personas con mayor riesgo eran derivadas para atención cardiometabólica de las Unidades Municipales de Salud u otros servicios de salud .
+La variable “adopción” podría también ser considerada como “apropiación” del programa por parte del personal operativo del programa SAP. Este aspecto se abordó preguntando si “aportaban regularmente con ideas y opiniones para mejorar el programa”. Del personal operativo de SAP, 88% (n = 61) informó que lo hacía, aunque mientras 29 profesionales consideraban que sus aportes eran tomados en cuenta, 14 opinaban lo contrario. Los 18 restantes se mostraban neutrales.
+En tal contexto, en encuestas y el taller de retroalimentación, las sugerencias de mejora tuvieron dos ámbitos: uno interno, con mejoras en la planificación operativa; y uno externo, con posibles medidas para incrementar la cobertura y obtener índices más altos de retorno de usuarios. Los participantes sugieren incrementar los puntos de atención, sobre todo rotativos, durante los fines de semana, y mejorar los asuntos de comunicación y el registro de información. En cuanto a los recursos humanos del SAP, creen necesario mejorar la rotación de jornadas y horarios, propiciar la actualización de conocimientos, mejorar el clima de trabajo, y prevenir y resolver los riesgos laborales.
+Para mejorar la atención, la cobertura y el retorno de usuarios se propone aumentar la publicidad, la difusión y la comunicación del programa, la realización de más eventos de promoción de salud vinculados al SAP, la creación de ambientes de espera, alianzas con gobiernos parroquiales, líderes comunitarios y actores sociales, empresas e instituciones; así como mayor coordinación con las administraciones territoriales del municipio de Quito y el sistema de salud.
+
+
+-- IDONEIDAD
+
+Sobre la pertinencia de SAP como una estrategia preventiva apropiada, 93% del personal operativo (n = 64) se pronunciaron en tal sentido, y calificaron los resultados como excelentes o muy buenos, y solo 7% (n = 5) como buenos. No obstante, recomendaron un seguimiento más oportuno del avance o retroceso de riesgo nutricional de los usuarios, así como mecanismos efectivos de derivación médica, cuando se requería, con mejoras en el acceso y el seguimiento en zonas rurales.
+
+
+-- VIABILIDAD
+
+La variable viabilidad se define en la guía de Peters et al. como el “grado en que se puede realizar una intervención en un entorno o en una organización en particular”, el programa Salud al Paso tiene el respaldo normativo de la Ordenanza N.° 0494 de 2014, vigente a la fecha del estudio. La viabilidad institucional en el municipio del DMQ se confirma con la existencia de recursos organizativos y financieros que constan en los presupuestos anuales de la Secretaría de Salud, instancia que según la norma debe “liderar la gestión integral de salud al interior de la municipalidad…”. Dicha viabilidad institucional se sustenta, a su vez, en mandatos constitucionales de orientación similar .
+En cuanto al entorno, una preocupación creciente de la ciudadanía por el incremento de las ENT y de sus factores de riesgo, así como la evidencia global de la urgencia de prevenir sus impactos sociales y económicos graves y los casos exitosos de intervenciones similares en otros países otorgan viabilidad a programas como SAP. En el estudio, 99% de líderes entrevistados conocían que la “obesidad y el sobrepeso contribuyen a la diabetes, la hipertensión, el cáncer y otras enfermedades no transmisibles”, y 71% informaba la existencia de personas con hipertensión, diabetes o cáncer en su entorno familiar.
+En todo caso, las iniciativas dotadas de sustentación, como SAP, podrían tener mayor viabilidad en contextos de solidez institucional sanitaria que posicionan políticas de Estado en materia de salud. En ausencia de este tipo de contextos, siempre existirá la posibilidad de que las autoridades de turno otorguen, de manera discrecional, viabilidad o no a tales iniciativas; de hecho, el mayor riesgo u obstáculo que los líderes identificaron para la permanencia del SAP fue el “apoyo de las autoridades” (n = 24), seguida del “financiamiento” (n = 23).
+
+
+-- SUSTENTABILIDAD
+
+La sustentabilidad se define como el “grado en que una intervención se mantiene o se institucionaliza en un entorno dado”. El programa SAP, como tal, no logró su permanencia en el municipio de Quito, ya que las nuevas autoridades decidieron suspender su ejecución y reenfocar la estrategia original de prevención de ENT del programa “Promover la adopción de estilos de vida saludables en el Distrito Metropolitano de Quito” y “detectar y manejar oportunamente los riesgos de enfermedades crónicas no transmisibles en la población mayor de 2 años del DMQ” (n= 2 672 429) . En su lugar, la nueva administración decidió “intervenir en la población de responsabilidad municipal en un tamizaje para identificar factores de riesgo metabólico, con el fin de promocionar estilos de vida saludable, prevenir enfermedades crónicas no transmisibles y tratar a las personas que presenten riesgo” . De esta manera, la población a cubrir quedaría reducida a 60 221 personas, más los pacientes con riesgo cardiometabólico identificado .
+
+
+- DISCUSIÓN
+
+El presente estudio analiza las condiciones y posibilidades de permanencia del programa “Salud al Paso” de la Secretaría Metropolitana de Salud del Municipio de Quito, Ecuador, producido el cambio de gestión en mayo de 2019. En el contexto débil de las instituciones sanitarias del país , es posible que la decisión de la nueva administración del municipio de Quito de suspenderlo haya considerado la poca capacidad de apropiación ciudadana, evidenciada en la disposición limitada (27%) (n = 24) de los líderes entrevistados para expresar públicamente su apoyo. Puede también haber influido el conocimiento escaso del programa por parte de presidentes de gobiernos parroquiales rurales (8 de 17 en este estudio) que, aun siendo líderes con influencia política, tuvieron poco contacto con SAP (solo 3 de 17 informaron haber demandado atención). Además, es posible que el segundo medio de conocimiento del programa por parte de líderes (29%), a través de promoción y publicidad municipal o noticias, haya establecido una identificación política del SAP con la gestión municipal precedente.
+El grado insuficiente de institucionalidad del programa, concebido más como proyecto, con una también insuficiente visión de permanencia en el tiempo, contribuyó a que, tras el relevo de autoridades municipales en Quito el 15 de mayo de 2019, el nuevo alcalde anunciara su decisión de suspender el programa SAP en sus alcances originales. Entre los cambios introducidos , los más importantes fueron: dejar de considerar el universo poblacional del DMQ cuando los índices de sobrepeso y obesidad, factores de riesgo para ENT superan 60% en personas entre 20 y 59 años de edad , y cambiar el énfasis promocional y preventivo de SAP a un enfoque más bien curativo, de efectividad limitada frente a las ENT .
+La inexistencia de registros oficiales de actividades preventivas nutricionales, tarea pendiente para Ecuador, puede explicarse por la falta de iniciativas como Salud al Paso que, de haberse mantenido, podría haber generado la necesidad de incorporar su registro. Pero también puede interpretarse como una falencia al no haber establecido desde su inicio la coordinación con el ente rector a nivel nacional, el Ministerio de Salud. De hecho, recién hacia finales de 2018 se suscribió un convenio general entre el Municipio del DMQ y la instancia territorial correspondiente del MSP .
+Por otro lado, la disminución observada en la producción de actividades podría deberse a que la demanda en puestos fijos de atención se haya “agotado”, por lo que se debió planificar una renovación mayor de usuarios, sin soslayar la importancia del seguimiento a personas en riesgo nutricional. En este y otros aspectos habría sido de mucho valor conocer las opiniones de usuarios que, por limitaciones logísticas y financieras, no se recabaron, por lo que el análisis quedó restringido a información secundaria. Una limitación adicional es la falta de un estudio de impacto presupuestario del programa.
+En el contexto de la afectación mundial por la pandemia por COVID-19, a la fecha de revisión actualizada de este estudio (27 de julio de 2020), y en medio de deficiencias graves de información y dificultades notorias para la detección oportuna de casos sospechosos, aislamiento y control , el DMQ llegó a acumular el mayor número de casos confirmados en Ecuador, con 12 561 (superando a Guayaquil, con 11 823) . De haberse mantenido, la capacidad instalada del programa SAP, con 25 unidades fijas y móviles en el DMQ, debidamente adaptada, habría sido crucial para la toma de muestras, seguimiento de casos y contactos, suministro de información y medidas de protección social.
+
+
+-- CONCLUSIONES
+
+La creciente prevalencia de ENT, con sus secuelas de morbimortalidad, documentadas en el DMQ, demanda iniciativas e innovaciones para su prevención, que deben institucionalizarse para asegurar su continuidad. Este es un desafío especial frente a cambios de gobierno y pudo haber sido el caso del programa SAP, implementado entre abril de 2015 y junio de 2019, limitado en su alcance en la siguiente gestión municipal.
+En tal contexto, es importante reflexionar sobre cómo sostener iniciativas semejantes a futuro. Para ello, en iniciativas regionales similares, se pueden considerar las siguientes lecciones aprendidas:
+Los datos de costos y cobertura, y la respuesta de proveedores y líderes comunitarios, muestran que la permanencia del programa Salud al Paso, con los ajustes pertinentes, podría haber sido beneficioso para la población.
+
+
+--- FINANCIAMIENTO
+
+El estudio fue financiado por la Organización Panamericana de la Salud, que no participó en el diseño del estudio, la colecta y análisis de los datos, la decisión de publicar este trabajo ni la preparación del manuscrito.
+
+
+--- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son únicamente responsabilidad de los autores y no reflejan necesariamente los de la Revista Panamericana de Salud Pública o la Organización Panamericana de la Salud.

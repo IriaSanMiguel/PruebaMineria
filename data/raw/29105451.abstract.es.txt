@@ -1,0 +1,5 @@
+Los EC atendieron 37.553 llamadas, 92% resueltas sin necesidad de movilizar recursos o pacientes. De ellas, el 97% no fue objeto de rellamada, ni de complicaciones en las 24 horas siguientes.
+Estudio retrospectivo, observacional y descriptivo que incluyó todas las llamadas telefónicas atendidas por los EC entre julio de 2013 y 2014. Se consideró como resolución efectiva cualquier demanda que tras ser resuelta sin movilizar recursos no originase una nueva llamada telefónica, ingreso hospitalario o fallecimiento del paciente en las 24 horas siguientes.
+Describir la actividad del enfermero de consulta (EC) en la Central de Coordinación de Urgencias Sanitarias de Galicia-061 (CCUSG-061), en términos de capacidad de resolución de problemas y adecuación de decisiones.
+Los EC resuelven de forma segura la mayoría de las necesidades asistenciales de los pacientes, sin movilizar pacientes o recursos sanitarios.
+

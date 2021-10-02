@@ -1,0 +1,5 @@
+Se incluyó información de 4 464 hogares de la Encuesta Nacional de Salud y Nutrición en localidades de México con menos de 100 000 habitantes (Ensanut 100k). La IA se midió con la Escala Latinoamericana y Caribeña de Seguridad Alimentaria. El acceso y la disponibilidad se analizaron con gasto en alimentos, mientras que el consumo se analizó con la diversidad de la dieta en mujeres. Se estimó la asociación entre IA y gasto en alimentos y la asociación entre IA y diversidad de la dieta con modelos de regresión logística múltiple.
+La IA moderada y severa se mantuvo en 43% entre 2012 y 2018. Mayor gasto en azúcar, aceite y comida fuera de casa, así como el consumo de carnes y lácteos, se asociaron con menor posibilidad de IA.
+Es importante integrar distintas dimensiones de la IA para fortalecer su medición y monitoreo.
+Evaluar cambios en la magnitud de la inseguridad alimentaria (IA) en hogares mexicanos en pobreza, en el periodo entre 2012 y 2018 y analizar la asociación entre IA y acceso, disponibilidad y consumo de alimentos.
+

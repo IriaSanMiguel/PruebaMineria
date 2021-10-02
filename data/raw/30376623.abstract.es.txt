@@ -1,0 +1,5 @@
+La tabla de vida es un valioso instrumento para medir el impacto de la atención médica en una población. En este caso reportamos la situación de la población usuaria de los servicios de salud del Instituto Mexicano del Seguro Social en el estado de Jalisco, México.
+Si se compara con cálculos previos, se observa una desaceleración en la ganancia de expectativa de vida en pacientes hospitalizados de ambos sexos, aunque se conserva una mayor esperanza para las mujeres.
+Se utilizó el método abreviado de Reed-Merrell, que muestra la esperanza de vida en grupos quinquenales de edad.
+En 2015 la esperanza de vida en asegurados hospitalizados hombres fue de 77.93 años y en mujeres, de 80.51 años. Para el total de asegurados mujeres y hombres fue de 77.65 y 73.73, respectivamente.
+

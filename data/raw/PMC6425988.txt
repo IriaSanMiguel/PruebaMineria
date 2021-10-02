@@ -1,0 +1,108 @@
+REDUCCIÓN DE COSTOS EN SALUD POR OBRAS DE AGUA Y ALCANTARILLADO EN BUENOS AIRES
+
+
+En Buenos Aires, las epidemias de cólera y fiebre amarilla de 1870 fueron clave para la ampliación del sistema de agua potable y obras de alcantarillado . Uno de los últimos trabajos sobre el impacto en salud de las intervenciones de agua, saneamiento e higiene (ASH) concluye que las muertes atribuidas a condiciones inadecuadas de ASH decrecieron de 2,2 millones en 2005 a 1,8 millones en 2015 a nivel global (18,9%). Los años de vida perdidos debido a muerte prematura y a discapacidad (AVAD) ocasionados por las diarreas disminuyeron 26,2% en el mismo período , en parte por las mejoras de ASH. Aun así, la mortalidad por diarrea es todavía la novena causa de muerte en el mundo (en 1990 era la quinta causa).
+Este trabajo tiene como objetivo cuantificar los beneficios generados por la mejora de las condiciones de ASH, al disminuir la incidencia de la diarrea en la población de 25 partidos de la de Buenos Aires (PBA).
+
+
+- MATERIALES Y MÉTODOS
+
+En el área considerada viven 9,8 millones de personas, que corresponden a 24,5% de la población del país y 62,9% de la población de la PBA. El beneficio se estima a través de los años de vida perdidos debido a muerte prematura y a discapacidad (AVAD) evitados por la mejora de las condiciones de agua, saneamiento e higiene (ASH). La cuantificación de los beneficios asociados a ASH inadecuada no existe en Argentina (excepto por [3]).
+
+
+-- RIESGO ATRIBUIBLE A DEFICIENCIAS EN LA PROVISIÓN DE AGUA Y SANEAMIENTO
+
+El riesgo atribuible proporcional poblacional (RAPP) es la proporción de casos de diarrea en la población (muertes, hospitalizaciones y casos adicionales) que pueden ser atribuidos a condiciones inadecuadas de ASH. Se calcula con la fórmula [1] .
+Donde:
+pi: proporción de la población en cada uno de los escenarios de exposición i.
+pi′: proporción de la población en cada uno de los escenarios de exposición i después de hacer ciertas obras.
+RRi: riesgo relativo asociado a cada escenario de exposición i comparado con el nivel de referencia.
+RR: tasa de enfermedad entre los individuos expuestos, dividido la tasa de enfermedad en los individuos no expuestos: si es > 1 representa una mayor RR.
+RR es la tasa de enfermedad entre los individuos expuestos, dividido la tasa de enfermedad en los individuos no expuestos: si es mayor que uno representa una mayor probabilidad de enfermarse en presencia del factor de riesgo.
+Para la definición de escenarios se utiliza la metodología de Global Burden of Disease (GBD) 2000-2004 . No se adoptan versiones más recientes del GBD debido a que han sido objeto de algunas críticas .
+De acuerdo al Programa Conjunto de Monitoreo del Abastecimiento de Agua y el Saneamiento de la Organización Mundial de la Salud (OMS) y el Fondo de las Naciones Unidas para la Infancia (UNICEF, por sus siglas en inglés) , una fuente de agua mejorada es segura si por su diseño y construcción tiene el potencial de distribuir agua segura, accesible y libre de contaminantes. Una facilidad sanitaria mejorada y de manejo seguro es aquella que separa, de manera higiénica, las heces del contacto humano, no es compartida por otros hogares y puede ser transportada o tratada en forma correcta.
+En base a esta definición, y a la información censal disponible, las facilidades como no mejoradas se clasifican en: Saneamiento: cuando el desagüe sea con descarga de agua a pozo ciego, hoyo u excavación, no tenga descarga de agua, o sea sin baño o letrina.Agua para el consumo: cuando no provenga de red pública o la cañería no sea dentro de la vivienda con bomba a motor.
+Así, la población se distribuye en los siguientes escenarios: Escenario I: ausencia de transmisión de diarrea por falta de obras de infraestructura de agua y alcantarillado (mínimo riesgo teórico).Escenario II: oferta por red pública de agua con calidad regulada y tratamiento parcial de efluentes sanitarios en un país con más de 98% de la población cubierta.Escenario III: conexión a red pública de agua dentro de la vivienda y desagüe sanitario con descarga de agua a red pública en un país con menos de 98% de la población cubierta. Este escenario se subdivide en a y b. Esta subdivisión no los hace independiente uno del otro, sino que es para captar la reducción del riesgo de agua y desagüe sanitario a la red.Escenario IV: agua y saneamiento mejorados (agua por red pública dentro o fuera de la vivienda o cañería dentro de la vivienda proveniente de una perforación con bomba a motor, y servicio sanitario con desagüe a cámara séptica con descarga de agua, o agua por red pública fuera de la vivienda y facilidad sanitaria con desagüe a red pública o cámara séptica con descarga de agua).Escenario Va: provisión de agua no mejorada y facilidad sanitaria mejorada (desagüe a red pública o cámara séptica y pozo, con descarga de agua).Escenario Vb: facilidad sanitaria no mejorada, y mejorada de agua (proveniente de red pública o perforación con bomba a motor con cañería dentro de la vivienda).Escenario VI: facilidad no mejorada, tanto de agua como de saneamiento.
+A medida que se pasa del escenario I al VI, la probabilidad de enfermarse aumenta. En varios de los estudios del GBD no se hace diferencia entre una facilidad sanitaria mejorada (por ejemplo, descarga a pozo) y un servicio con conexión de efluentes sanitarios a la red pública. Aquí se considera en el escenario III a la población con acceso a la red de alcantarillado y a la red de agua potable (no en el IV), porque aún existiría una mejora asociada a tener un sistema de agua y saneamiento seguro . Los beneficios se calculan teniendo en cuenta que la población pasa al escenario I o II en el área considerada.
+Una vez clasificada la población en los distintos escenarios, se obtiene el grado de exposición diferencial en cada partido según el último Censo de Argentina (2010).
+Los RR asociados a condiciones inadecuadas de ASH para la transición entre cada escenario de exposición surgen de la literatura . En este trabajo se consideran valores mínimos, medios y máximos, según la disponibilidad de estudios . Por ejemplo, para la transición entre los escenarios IV y IIIb, se utiliza en el caso base la reducción del riesgo asociada a realizar tratamiento del agua en el lugar de uso con almacenamiento seguro : 44,7% (RR = 100/ [100-44,7] = 1,81). Para el límite inferior, se considera la reducción del riesgo de enfermarse al realizar intervenciones sobre la calidad del agua, como tratamiento en el lugar de uso (cloración, hervor, etc.) o protección de la fuente de 39,3% (RR = 1,65). Para el límite superior se utiliza una reducción del riesgo de 46,0% (RR = 1,85), obtenida de una metarregresión de 32 estudios de intervenciones de calidad de agua .
+
+
+-- AÑOS DE VIDA AJUSTADOS POR DISCAPACIDAD (AVAD
+
+Para estimar los casos de diarrea atribuidos a las malas condiciones de ASH, se multiplica la fracción atribuible calculada de acuerdo a la por la cantidad de casos de diarrea estimados en términos de AVAD:
+Donde:
+RAPP: riesgo atribuible proporcional poblacional.
+AVAD: suma de los años de vida perdidos por muerte prematura (AVMP) y los años de vida perdidos por condiciones de discapacidad (AVD).
+Se entiende por discapacidad a cualquier condición de salud imperfecta: problemas de movilidad, incapacidad de participación en actividades usuales, dolor o incomodidad constantes, ansiedad, depresión o deterioro cognitivo.
+El cálculo de AVAD surge de :
+Donde:
+D: constante de peso o gravedad de la enfermedad.
+K: constante de moderación del peso de la edad.
+C: constante de corrección del peso de la edad.
+B: constante de peso de la edad.
+r: tasa de descuento.
+a: edad del paciente.
+L: expectativa de vida (AVMP) o duración de la enfermedad (AVD).
+Para calcular los AVAD se parte del número de muertes ocurridas por diarrea y el número de casos de enfermedad, tanto las que requirieron hospitalización como las que no. Se consideran las enfermedades infecciosas intestinales (A00 a A09), tracoma (A71) y enfermedades parasitarias (B65 a B83) incluidas en la Clasificación Internacional de Enfermedades 10° edición (CIE-10), tal como en la literatura relacionada . Los datos de egresos hospitalarios del subsector público oficial y defunciones fueron provistos por la Dirección de Estadísticas e Información en Salud del Ministerio de Salud de la Nación y las notificaciones (eventos de diarrea registrados que no resultan en internaciones), por la Dirección de Epidemiología del Ministerio de Salud de la PBA. En los datos se presentan casos de varios de los códigos requeridos, aunque no de todos.
+Para L en AVMP, se utiliza la Tabla abreviada de expectativa de vida por grupo de edad para ambos sexos publicada por el Instituto Nacional de Estadísticas y Censos (INDEC) para la PBA . Para L en AVD, se toma la estadía media en establecimientos municipales por casos de hospitalizaciones de diarrea: 2,71 días para el año 2013 . Dado que el diagnóstico puede no ocurrir en forma inmediata, y que una vez que el paciente sale del hospital puede no encontrarse en condiciones de retomar sus actividades, se considera L = 7 días (mínimo: 4 días; máximo: 14 días) para los egresos hospitalarios. Por otra parte, se considera L = 3 días (mínimo: 2 días; máximo: 4 días) para las notificaciones.
+Para D, GBD usa una encuesta en la que se comparan dos estados de salud descritos en términos de efectos funcionales y síntomas a que se ven sometidos los individuos hipotéticos y el encuestado debe decidir qué estado es más saludable . Dadas las críticas que reciben este tipo de encuestas , se toman valores alternativos. Para el escenario base se utilizan los D estimados para el GBD 2013, los cuales se estiman con información de varios países como para capturar las perspectivas de diferentes comunidades . Para egresos hospitalarios, se considera D = 0,247 (diarreas graves) y para notificaciones, D = 0,188 (gravedad media). Los D estimados por y se utilizan como valores mínimos y máximos, respectivamente.
+La idea para incorporar las constantes de peso de la edad es que habría una preferencia por la sociedad a valorar más un año de vida vivido por un adulto joven que por un anciano o un niño , ya que el adulto es más productivo. Para ponderar la edad a en el cálculo de los AVAD se incluye K.C.a.e −βa en [3]. Si K = 0, la edad no pesa, mientras que si K = 1, la edad pesa completamente y depende de los parámetros β y C . No todos los estudios concuerdan que a los jóvenes y a los adultos mayores haya que asignarles menor peso; por eso, para el escenario base se considera K = 0 y para el análisis de sensibilidad se permite K = 1. El valor medio de β que suele utilizarse es 0,04 , que implica un máximo de ponderación a los 25 años de edad. Los valores mínimo (0,02) y máximo (0,06), escogidos siguiendo a los autores del GBD , implican una ponderación máxima a la edad de 50 y 17 años, respectivamente.
+La tasa de descuento (r) incorpora una preferencia intertemporal: cuanto mayor es, menor resulta el valor que el individuo le asigna a su salud en el futuro que en el presente. Se utiliza para el escenario base una tasa de 3% y para el análisis de sensibilidad un valor mínimo de 1% y máximo de 5% .
+
+
+-- VALOR ACTUAL DE LOS BENEFICIOS POR REDUCCIÓN DE LA DIARREA
+
+Luego de obtenidas la mortalidad y la morbilidad evitadas en términos de AVAD, los convertimos en dinero multiplicándolos por el ingreso. Se supone una evolución de los AVAD de acuerdo al crecimiento poblacional para cada partido, proyectado por el Instituto Nacional de Estadísticas y Censos (INDEC) en base al Censo 2010 .
+El valor presente de los beneficios se obtiene con la ecuación:
+Donde:
+Bt: beneficio en cada período t (AVAD evitados por ingreso).
+d: tasa de descuento.
+t: período de tiempo.
+T: horizonte de valuación.
+Como las enfermedades parasitarias e infecciosas se transmiten sobre todo en contextos con inadecuadas condiciones de ASH, se supone que la mayor parte de las personas afectadas corresponden a grupos ingresos bajos. Por ello, se considera para el escenario de mínima, el ingreso mínimo, vital y móvil para 2016 (ARS 6 748/mes, que equivalían a USD 422 en 2016). Para el escenario de máxima se toma la remuneración promedio del año 2016 en el sector privado (ARS 17 742/mes, que equivalía a USD 1 109).
+Se considera un horizonte temporal de 40 años para las conexiones domiciliarias de agua y alcantarillado , se utilizaron límites de 30 y 50 años para el análisis de sensibilidad.
+No existe consenso en la literatura sobre la mejor manera de descontar flujos de fondos derivados de proyectos sociales . Se utiliza la tasa calculada para Chile (5,05%) en el caso base, para Argentina (2,36%) como mínimo y, como máximo, 12%, recomendado por los organismos multilaterales de crédito.
+Para el análisis de sensibilidad se utiliza Simula 4.0® con distribuciones triangulares (excepto para K, que se supone una binomial).
+
+
+- RESULTADOS
+
+Del análisis de los datos censales se desprende el porcentaje de población que se encuentra en cada escenario . La disparidad entre partidos es amplia. Al considerar el conjunto del área, 32,4% de la población se encuentra en el escenario III, 30,3% de la población tiene acceso a servicios mejorados de agua y alcantarillado (escenario IV) y el 27,9% tiene acceso a servicio de agua mejorado pero no de saneamiento, lo que confirma la tendencia mundial que la provisión de saneamiento va detrás de la de agua mejorada . Con los RR y la población en cada escenario , se calcula el RAPP en el área bajo estudio: en el escenario I podrían evitarse en promedio 89,5% de los casos de diarrea (y 73,7% de los casos, para pasar al escenario II), en línea con estimaciones internacionales 85-90% para países en desarrollo .
+La cantidad de defunciones por diarrea para el período 2001-2014 en el área bajo estudio es de 53,2 en promedio por año (59 en 2013): 45,5% ocurre en niños menores de un año y 40,7% en adultos mayores de 70 años. En cuanto a los egresos hospitalarios, los mismos son en promedio, 4 136 por año (5 062 en 2013) para el período que se dispone de datos (2005-2013): 54% ocurre en niños menores de 5 años y 10,9% en adultos mayores a 70 años. Las notificaciones para el período del que se tienen datos (2006-2015) son, en promedio, 132 637 por año (135 108 en 2013).
+Es de esperar que, como en otros países, los datos de salud estén subestimados . La mortalidad se suele reportar como “paro cardiorrespiratorio no traumático” aunque el origen haya sido una deshidratación por diarrea. En las notificaciones, es posible que la diarrea no se reporte por no considerarla importante y puede haber subestimación si las personas no buscan ayuda médica . Por estos motivos, se opta por estimar un sesgo “bajo” (casos 3,3 veces mayores a los registrados) y uno “alto” (10 veces más casos que los registrados) . En el caso de nuestros datos, existe un sesgo adicional ya que los egresos hospitalarios corresponden solo a los hospitales públicos.
+En el cuadro 3 se resumen, como ejemplo, los eventos de salud reportados en el año 2013 (año en que hay datos completos de los tres tipos de eventos), los casos y los AVAD evitados al pasar al escenario I. Las defunciones evitadas para el caso base serían 52,9 y los AVAD se reducirían en 1 053,2. Para los egresos hospitalarios y las notificaciones, los AVAD resultan inferiores a los casos registrados. Esto se debe a que una diarrea implica pocos días de enfermedad y a que su gravedad es baja. Al pasar al escenario I se evitarían 21,6 AVAD por 4 555 egresos hospitalarios evitados y 187,0 AVAD por 120 685,9 notificaciones evitadas. Las defunciones evitadas dan cuenta de 83,5% de las AVAD, mientras las notificaciones evitadas representan 14,8%.
+En el cuadro 4 se expone el valor presente de los beneficios como resultado del análisis de sensibilidad, que es de tipo probabilístico (una simulación de Monte Carlo con 10 000 iteraciones, considerando la incertidumbre en quince variables). Los beneficios en salud por pasar al escenario I y II ascienden a ARS 3 262,0 millones (USD 203,9 millones) y a ARS 2 701,2 millones (USD 168,8 millones), respectivamente. Los primeros varían entre 67,5 y 559,5 y los segundos, entre 55,7 y 466,0 millones de dólares. Como se observa en la figura 1, al correr simulaciones mediante la fijación de las variables en los valores determinísticos con excepción de una variable por vez, queda claro que el salario y la tasa de descuento son los que más incertidumbre aportan al cálculo de los beneficios evitados.
+
+
+- DISCUSIÓN
+
+Los economistas suelen evaluar la mortalidad y morbilidad mediante la disponibilidad a pagar o el enfoque del capital humano, y les asignan un valor monetario a las muertes a través del valor presente del ingreso perdido por muerte prematura y el costo de la enfermedad por morbilidad . Los especialistas en salud traducen morbilidad y mortalidad a un número homogéneo y comparable (años vividos con discapacidad) mediante el cálculo de AVAD. Para comparar los AVAD evitados por la realización de obras de agua y saneamiento, con sus respectivos costos, se expresan en términos monetarios a través del salario .
+Los beneficios así obtenidos ascienden a USD 203,9 millones al alcanzar el escenario I, con USD 559,5 millones el límite superior resultado del análisis de sensibilidad. Los mismos son bajos comparados con el costo de las obras, estimado en USD 10 289 millones a valores de 2016, alcanzan una cobertura de aproximadamente 95% en agua y 85% en saneamiento en el área considerada . Este resultado puede deberse, en primer lugar, a la subestimación de los datos de salud. La relación beneficio costo (B/C) es de 0,35 cuando se ajustan los beneficios por subestimación de los datos de salud.
+Algunos estudios realizados a nivel internacional dan cuenta de una relación B/C de entre 1,4 y 4,8 para las intervenciones combinadas de agua y saneamiento de alto costo, con un valor de 4,7 para América Latina . No hay datos de intervenciones conjuntas publicados para Argentina, aunque, por ejemplo, para intervenciones de agua la relación B/C es de 2,5 . Gran parte de la diferencia se debe a la estimación de los costos de inversión de las obras. Otra parte se origina en la limitación del alcance de este trabajo. Al no incluir los beneficios generados por el valor del tiempo evitado (viajar o esperar para conseguir agua, tener que adaptar su calidad, hervirla, o acceder a una facilidad sanitaria), los cuales constituyen 80% de los beneficios totales de las obras según algunos autores .
+Por otra parte, las siguientes limitaciones conllevan una subestimación de los beneficios generados por las obras de agua y saneamiento; no se consideran otras enfermedades; existe evidencia de que la diarrea da cuenta de 38,6% de los AVAD estimados asociados al factor de riesgo de ASH inadecuados, también son importantes las enfermedades asociadas a la malnutrición (21%) y la malaria (14,2%); no se consideran los riesgos para la salud derivados de la concentración elevada de nitritos, nitratos y arsénico, sobre todo en las zonas donde se toma agua de pozo; no se incluyen beneficios sociales, como mejoras en los niveles educativos por mayor asistencia a la escuela, seguridad, privacidad, dignidad confort y estatus ; y no se incluyen beneficios ambientales derivados de la conservación del recurso fluvial y de la reutilización de aguas residuales (el Río de la Plata es receptor de los desechos sanitarios que, sin tratamiento adecuado, encarecen el proceso de potabilización del agua extraída de él).
+
+
+- CONCLUSIÓN
+
+La importancia del ASH en la reducción de enfermedades es reconocida a nivel mundial. Si bien los beneficios calculados en este trabajo distan de alcanzar los costos que las obras implican, deben entenderse como un límite inferior de los potenciales beneficios que acarrean la realización de las obras. Mejoras en la información estadística disponible y la realización de estudios epidemiológicos locales, podrán permitir ir refinando los cálculos de este tipo en el futuro.
+
+
+- CONTRIBUCIÓN DE LAS AUTORAS
+
+Ambas autoras concibieron el estudio original, recolectaron y analizaron los datos, eligieron el método para el análisis, interpretaron los resultados, escribieron y revisaron el manuscrito desde el primer borrador hasta versión final aprobada.
+
+
+- AGRADECIMIENTOS
+
+Las autoras agradecen a Agustín Shehadi su labor como ayudante de investigación.
+
+
+- FINANCIACIÓN
+
+El trabajo que dio origen a este artículo se realizó en el marco de un proyecto de investigación de la Maestría en Evaluación de Proyectos de la Universidad del CEMA (Buenos Aires, Argentina).
+
+
+- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son responsabilidad de los autores y no reflejan necesariamente los de la empresa AySA ni los de la Universidad del CEMA. Los datos en salud fueron todos obtenidos de organismos oficiales. Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.

@@ -1,0 +1,5 @@
+Se utiliza la regresión lineal para obtener la esperanza de vida a nivel estatal y éste considera variables como la tasa bruta o cruda de mortalidad y la población mayor a 65 años. Esto permite conocer el nivel de convergencia entre los estados.
+Estimar y analizar para el período 1990 al 2010 los patrones regionales de la esperanza de vida al nacer en México por medio del método de regresión lineal.
+Existe un patrón de convergencia que sugiere que las diferencias de los niveles de esperanza de vida se han reducido entre los estados durante el período de estudio, esta tendencia se presenta también a nivel regional.
+Se puede mencionar que este análisis puede ser útil en la evaluación de las políticas de salud pública de México que se han centrado en la disminución de las desigualdades en salud entre las poblaciones más pobres y vulnerables. Asimismo, este tipo de método permite tener un método alternativo para conocer las condiciones de acceso a los servicios de salud y conocer las expectativas de vida de la población.
+

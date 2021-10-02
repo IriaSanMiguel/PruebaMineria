@@ -1,0 +1,115 @@
+MANEJO TERAPÉUTICO DE LA FIEBRE HEMORRÁGICA DE CRIMEA-CONGO
+
+
+- INTRODUCCIÓN
+
+El virus de la fiebre hemorrágica de Crimea-Congo (FHCC) presenta una amplia distribución a nivel mundial, . En 2010 se identificaron en Extremadura garrapatas del género Hyalomma infectadas con virus de la FHCC, cuyo linaje coincidía con cepas del virus procedentes de Mauritania y Senegal. Sin embargo hasta el diagnóstico de los dos primeros casos de FHCC en agosto de 2016 en España, no se habían descrito casos humanos de adquisición autóctona en Europa Occidental.
+El virus de la FHCC pertenece a la familia Bunyaviridae, género Nairovirus. Sus principales vectores son las garrapatas del género Hyalomma . Diferentes animales, tanto domésticos como salvajes, actúan como reservorios del virus (gatos, ovejas, cabras, caballos, burros, cerdos, liebres, erizos, etc.). El ganado es uno de los hospedadores más relevantes. El ser humano puede infectarse tanto por la picadura de garrapata como por manipulación directa de carne o fluidos infectados. La transmisión nosocomial está descrita en personal sanitario que sufre pinchazos accidentales o exposición no protegida a sangre, fluidos corporales o aerosoles de pacientes diagnosticados de FHCC, . También se han descrito contagios en trabajadores sanitarios que participaban en la asistencia de enfermos sin haberse identificado la vía exacta de transmisión (en algunos artículos estos contagios sin fuente clara suponen hasta el 10-15% de los casos nosocomiales), , .
+El espectro de gravedad de la FHCC es muy variable. Estudios de seroprevalencia en zonas endémicas sugieren que hasta un 80% de los casos son asintomáticos, . Clásicamente la evolución clínica de la FHCC se ha dividido en cuatro periodos: incubación, fase prehemorrágica, fase hemorrágica y convalecencia, . La mortalidad descrita oscila entre el 3 y el 30%, dependiendo del brote estudiado, ocasionada fundamentalmente por hepatitis fulminante, trombocitopenia y sangrado masivo, , . En Turquía desde que se describieron los primeros casos en 2002, se han comunicado más de 9.700 casos con una mortalidad, estable a lo largo de los años, de aproximadamente el 5%.
+El virus de la FHCC se clasifica como patógeno tipo 4con capacidad de transmisión interpersonal. Se recomienda que el manejo de pacientes con sospecha o confirmación diagnóstica de FHCC se realice empleando precauciones estrictas de contacto, aislando al paciente en una habitación individual y preferiblemente con una vía de entrada distinta a la de salida. El aislamiento del virus se realizará en laboratorios de alta contención de nivel 4 de bioseguridad y el manejo de los pacientes con FHCC en Unidades de Aislamiento de Alto Nivel, .
+Es fundamental el tratamiento de soporte, ya que no existe un tratamiento etiológico específico eficaz. En los casos más graves se recomienda el uso de ribavirina a dosis altas, si bien su empleo es controvertido al no existir estudios concluyentes que hayan demostrado su eficacia. Otros tratamientos, como el suero hiperinmune obtenido de pacientes convalecientes, no han demostrado su utilidad. Tampoco se dispone de vacunas de eficacia y seguridad probadas en humanos.
+
+
+- MEDIDAS DE PROTECCIÓN EN EL ÁMBITO HOSPITALARIO FRENTE A LA FIEBRE HEMORRÁGICA DE CRIMEA-CONGO
+
+El virus de la FHCC es un patógeno tipo 4 trasmisible y capaz de producir brotes nosocomiales con una alta tasa de mortalidad. El contacto con material y fluidos contaminados, con el sangrado proveniente del tracto digestivo, las punciones accidentales o las intervenciones quirúrgicas en pacientes cuyo diagnóstico no era conocido, se han descrito como las principales vías de contagio en el medio sanitario. El contacto estrecho interpersonal con el paciente o la manipulación del aparato respiratorio son vías de trasmisión aún en debate, aunque sí se han descrito brotes nosocomiales durante la intubación orotraqueal de casos de FHCC. La escasa repercusión en el entorno doméstico pone de relieve que son los procedimientos invasivos y el contacto no protegido en la fase hemorrágica lo que más casos secundarios produce.
+Idealmente los pacientes con FHCC deben ser atendidos en Unidades de Aislamiento de Alto Nivel, capaces de proporcionar cuidados críticos, dado el rápido empeoramiento con el que puede evolucionar la FHCC. La habitación debe contar con sistemas de presión negativa, ante la eventualidad de tener que realizar procedimientos que generen aerosoles, .
+El personal sanitario asistencial debe estar bien informado sobre la enfermedad, sus posibles mecanismos de contagio, tener la formación adecuada y entrenamiento periódico en la puesta y retirada de los equipos de protección individual (EPI), . Los servicios de Urgencia en regiones endémicas deben estar instruidos para mantener desde el inicio las precauciones de contacto estrictas así como asegurar el aislamiento de cualquier caso sospechoso. En algunos estudios retrospectivos se ha observado que cerca del 50% de los contagios nosocomiales se produjeron a partir de pacientes aún no diagnosticados de FHCC.
+Aunque las barreras universales básicas de protección podrían ser suficientes para prevenir la mayoría de los contagios nosocomiales, hay que tener en cuenta que la asistencia hospitalaria se realiza en pacientes más graves y con mayor viremia. La evidencia existente de brotes nosocomiales y las recomendaciones de la Organización Mundial de la Salud (OMS) para otras fiebres hemorrágicas de alta letalidad, justifica utilizar un EPI que reúna como mínimo los siguientes elementos: bata impermeable, guantes, mascarilla y gafas (o pantalla facial), . Para el manejo clínico de casos confirmados se recomienda emplear el mismo EPI que se emplea para el manejo de la enfermedad por virus ébola: mono corporal impermeable, doble cobertura de calzas y guantes, capuz, mascarilla y gafas estancas. Siempre adecuaremos el EPI al tipo de asistencia sanitaria que se vaya a realizar, ya que puede variar el riesgo de contagio, .
+
+
+- MANEJO TERAPÉUTICO
+
+-- TRATAMIENTO SINTOMÁTICO
+
+No deben administrarse fármacos mediante inyecciones por vía intramuscular, para evitar hematomas y sangrado local en las zonas de punción.
+Como antitérmico se recomienda administrar paracetamol y evitar en la medida de lo posible los antiinflamatorios no esteroideos por su potencial repercusión sobre la coagulación.
+Con el objetivo de prevenir el sangrado digestivo, que se puede producir tanto por complicación de la enfermedad como por estrés, se pueden utilizar inhibidores de la bomba de protones, , . En una mujer puede estar indicada la inhibición del sangrado menstrual mediante la administración de progesterona.
+
+
+-- ANTIBIÓTICOS
+
+Aunque en el caso confirmado de FHCC no deben usarse antimicrobianos, salvo sospecha de sobreinfección, en un caso en investigación habrá que considerar su uso valorando las distintas entidades incluidas en el diagnóstico diferencial y la procedencia geográfica del paciente. El diagnóstico diferencial de la FHCC es amplio. Si tenemos en cuenta la procedencia geográfica del paciente incluye la fiebre de Alkhurma y del valle del Rift en Oriente Medio; fiebre hemorrágica de Omsk en Rusia; enfermedad del bosque de Kyasanur en India; hantavirus en Europa y Asia; virus Lassa, ébola, Marburg, fiebre del valle del Rift y fiebre amarilla en África; y dengue principalmente en Asía y África central. En países tropicales y subtropicales, la malaria es la alternativa diagnóstica más importante a excluir. Si tenemos en cuenta el vector trasmisor, habría que considerar además: Ricketssia spp., Ehrlichia spp., Borrelia, Anaplasma y Babesia. Además otras muchas enfermedades infecciosas pueden tener un cuadro clínico inicial similar: tularemia, fiebre Q (Coxiella burnetii), hepatitis virales, infección por virus influenza, meningitis meningocócica, leptospirosis, fiebre tifoidea, sepsis por estafilococos o bacilos gramnegativos, síndrome del shock tóxico, salmonelosis, shigelosis, psitacosis, tripanosomiasis, infección séptica por Yersinia pestis, rubeola, y sarampión.
+
+
+-- GLUCOCORTICOIDES
+
+La eficacia de los glucocorticoides para el tratamiento de la FHCC no está confirmada. Existen escasos estudios dedicados a evaluar su utilidad, siendo series de casos pequeñas, tanto en adultos como en pacientes pediátricos. En ellos, la administración de metilprednisolona a dosis altas (20-30 mg/día) pareció favorecer la recuperación temprana de las series hematológicas, revertir las lesiones hemorrágicas y disminuir las necesidades de transfusión de hemoderivados. Los resultados de estos estudios no han sido concluyentes porque los pacientes recibieron simultáneamente ribavirina, . En el caso de desarrollar un síndrome hemofagocítico secundario a la FHCC estaría más claramente indicado el tratamiento con corticoides, ya que sí ha demostrado su eficacia en los casos secundarios a infecciones por otros microorganismos, .
+
+
+--- TRATAMIENTO DE SOPORTE
+
+La atención a los pacientes con FHCC exige una minuciosa monitorización de sus constantes vitales para detectar precozmente el fallo orgánico e instaurar inmediatamente los cuidados de soporte necesarios.
+La FHCC obliga a un estrecho control analítico: hemograma completo, alanina-aminotransferasa (ALT), aspartato-aminotransferasa (AST) y bilirrubina total, creatinina, el INR y el tiempo de tromboplastina parcial activado (TTPa), la creatinkinasa y la lactato-deshidrogenasa. Ante un recuento de plaquetas por debajo de 40.000/mm3 se recomendaría realizar al menos dos controles analíticos diarios. Se deben obtener valores de D-dímero y gasometría si se sospecha un cuadro de coagulación intravascular diseminada (CID), .
+Hay que asegurar una adecuada reposición hidroelectrolítica y ajustar la fluidoterapia, evitando soluciones hipotónicas. En caso de fracaso renal, que requiera terapia renal sustitutiva, es preferible la hemodiálisis frente a la diálisis peritoneal.
+El paciente puede desarrollar alteraciones del nivel de conciencia, convulsiones, coma y fallo respiratorio, lo cual planteará la necesidad de intubación endotraqueal. Esta técnica debe realizarse con máxima precaución, para no producir sangrado, y estricta protección del equipo sanitario asistencial.
+
+
+- TRATAMIENTO TRANSFUSIONAL EN LAS COMPLICACIONES HEMORRÁGICAS
+
+En los casos graves, las manifestaciones hemorrágicas suceden a los 3-6 días desde el inicio de la fiebre, .
+Tratamiento con concentrado de plaquetas (tabla 1 )
+Se recomiendan los concentrados de plaquetas obtenidos por aféresis de donante único porque separa y selecciona los elementos de la sangre de un mismo donante, lo que disminuye su potencial inmunogénico en comparación con la transfusión proveniente de donantes múltiples. El volumen a trasfundir es de 0,1 unidades por kg de peso del paciente (la diferencia radica en que para obtener unidades de plaquetas equivalentes, en el caso de múltiples donantes, se requieren entre 4 y 6 trasfusiones distintas frente a una en la plaquetoaféresis). Si la transfusión está indicada por un sangrado activo se realizará a demanda según respuesta clínica. Una vez administrada se hará un control analítico 18-24 h después. Si no se produce un ascenso en torno a 30-50.000 plaquetas/μL hay que pensar la posibilidad de un evento de aloinmunización por anticuerpos anti-HLA, una CID o una complicación por sepsis, .
+
+
+-- PLASMA FRESCO
+
+Puede ser útil en casos de hemorragias masivas, fallo hepático, púrpura trombótica trombocitopénica, coagulopatía dilucional, CID, deficiencia de vitamina K, INR 1,5 veces por encima del límite normal o descenso del TTPa. El beneficio que nos aporta es su mayor concentración en factores de coagulación respecto a otros hemoderivados. Se administrará 10-15 ml/kg o según la monitorización de la respuesta analítica. Debe usarse con precaución en insuficiencia cardiaca. Actualmente se dispone de preparados comerciales, muy útiles en situaciones de trastornos de coagulación, obtenidos de proteínas de plasma humano. Estos son sometidos a filtración celular y tratados con solventes/detergentes para neutralizar los anticuerpos contra los antígenos leucocitarios, reducir los lípidos bioactivos y eliminar agentes víricos. Su papel no ha sido investigado en el contexto de la FHCC.
+
+
+-- INMUNOGLOBULINAS
+
+Por su actividad inmunomoduladora, podrían ser útiles en trombocitopenias refractarias, pero los datos de su uso en FHCC son anecdóticos.
+
+
+- TRATAMIENTO ETIOLÓGICO
+
+No existe ningún fármaco antiviral de eficacia probada frente al virus de la FHCC. Uno de los principales problemas para la investigación sobre fármacos activos frente al virus es la ausencia de un modelo animal. El virus de la FHCC no es patógeno en animales, a excepción del ser humano no se ha descrito enfermedad en ningún mamífero con sistema inmune intacto.
+Hasta el momento solo disponemos del modelo de ratones lactantes o ratones inmunodeficientes.
+
+
+- ANTIVIRALES
+
+
+
+
+- OTROS FÁRMACOS EN FASE EXPERIMENTAL Y SIN EVIDENCIA EN HUMANOS
+
+
+
+
+- INMUNOTERAPIA
+
+
+
+
+- FACTORES PRONÓSTICOS
+
+Entre los factores generales asociados a mal pronóstico destacan: la edad superior a 60 años, comorbilidades de base, rápido deterioro del estado clínico y empeoramiento acelerado de los valores analíticos (tabla 2 ).
+Swanepoel et al., en 1989, describieron una mortalidad del 90% ante la presencia de cualquiera de las siguientes alteraciones analíticas en los primeros 5 días: leucocitos ≥10 × 109/l, plaquetas ≤ 20 × 109/l, AST ≥ 200 U/l, ALT ≥ 150 U/l, TTPA > 60 s y fibrinógeno ≤110 mg/dl. Bakir et al. propusieron una escala pronóstica, que posteriormente validaron en una cohorte externa (tabla 3 ).
+Finalmente, la carga viral también se ha relacionado estrechamente con el pronóstico. Cifras superiores a 10 copias/mL se asocian a alta mortalidad, .
+
+
+- CRITERIOS DE ALTA
+
+Respecto a los criterios de alta la información publicada es diversa y a veces controvertida, en parte porque la mayoría de las regiones endémicas para FHCC no disponen de sistemas sanitarios similares a los de nuestro medio. La OMS, de forma genérica para las fiebres hemorrágicas, considera seguro proceder al alta de aislamiento ante mejoría clínica del paciente y desaparición de la sintomatología (que le permita realizar con autonomía las funciones básicas vitales) y al menos una PCR en sangre negativa separada no menos de 48 h de la última PCR positiva. Sin embargo en Turquía, la recomendación para el alta se basa en datos clínicos (ausencia de síntomas al menos 3 días) y analíticos (plaquetas >50.000/mm3; normalización de coagulación y curva descendente de transaminasas), sin requerir PCR negativa para virus FHCC. Incluso existen centros turcos que se limitan a confirmar la ausencia de fiebre durante 48-72 h o la desaparición de las complicaciones propias de la enfermedad. Estos criterios clínico-analíticos de alta parecen ser seguros para el paciente y para evitar la trasmisión comunitaria de la enfermedad según datos de un análisis multicéntrico prospectivo llevado a cabo en Turquía.
+
+
+- MANEJO DE LA EXPOSICIÓN DE ALTO RIESGO
+
+Ribavirina: el uso de ribavirina como profilaxis postexposición es controvertido, por lo que la recomendación se limita a los casos de mayor riesgo: contacto directo con fluidos, contaminación de mucosas o conjuntivas con fluidos o punciones accidentales, . No hay un consenso claro en la dosis (las mismas que la pauta terapéutica o iniciar una dosis de carga de 2g/día seguido de 4 g al día durante 4 días finalizando con 2 g al día durante 6 días, etc.). Si se indica la administración se debe iniciar de manera muy precoz, , .
+Vacunación: no hay una vacuna con eficacia demostrada mediante ensayos clínicos, . El hecho de que sucedan brotes esporádicos con un número recortado de casos, dificulta la realización de ensayos clínicos. A principios de la década de los setenta se ensayó en Rusia una vacuna obtenida a partir de tejido cerebral de ratón e inactivada con formaldehído, con una limitada respuesta de anticuerpos que se incrementaba con una revacunación al año (se demostró un incremento de anticuerpos entre 1-4 semanas después de la tercera dosis con descenso de los mismos entre 3-6 meses después). No se publicaron posteriormente más datos al respecto de esta vacuna.
+Existen otras dos vacunas experimentales. La primera obtenida de células infectadas de cerebro de ratón, inactivada con cloroformo. En 1974 se realizó un ensayo en Bulgaria con menos de 583 participantes, objetivándose una seroconversión en torno al 96%. Otro estudio sobre población que había sido vacunada cada 2 años detectó anticuerpos de manera significativa después de recibir este recordatorio bianual. La pauta sugerida consistiría en una primera dosis, una segunda entre 30-45 días después y un recuerdo al año seguido de revacunación cada 5 años. El Ministerio de Salud de Bulgaria comunicó que se habían reducido por 4 el número de casos notificados por FHCC aunque no hay estudios elaborados posteriores que avalen por completo su utilidad. La segunda vacuna experimental es una vacuna ADN basada en el segmento M del virus y que ha demostrado desarrollar anticuerpos neutralizantes en ratones. Esta vacuna no fue comercializada posteriormente. Ninguna de las vacunas mencionadas han sido aprobadas para su uso por la European Medicine Agency o la US Food and Drug Administration.
+Actualmente, en Turquía se está llevando a cabo un ensayo clínico de una nueva vacuna frente a FHCC (NCT03020771).
+
+
+- CONCLUSIONES
+
+El virus de la FHCC es el responsable de la fiebre hemorrágica más extendida en el mundo. El pilar fundamental de su tratamiento es la terapia de soporte, prestando especial atención a las alteraciones en la coagulación, la necesidad de transfusión de hemoderivados y plasma fresco congelado y las alteraciones iónicas que pudieran aparecer.
+Aunque por el momento carece de tratamiento específico, la ribavirina es el único fármaco que puede ofrecer algún beneficio, si bien los estudios publicados ofrecen resultados contradictorios.
+En el caso de la profilaxis postexposición, nuevamente ribavirina es el fármaco que más se ha empleado, estando recomendado su uso en exposiciones de alto riesgo. Sin embargo, no existen datos concretos de eficacia ni una pauta bien establecida en cuanto a dosis y duración de la profilaxis.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

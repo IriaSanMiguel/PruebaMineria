@@ -1,0 +1,93 @@
+ANÁLISIS POBLACIONAL DE LA PRESCRIPCIÓN POTENCIALMENTE INADECUADA EN ANCIANOS SEGÚN CRITERIOS STOPP/START (ESTUDIO STARTREC)<SUP
+
+
+- INTRODUCCIÓN
+
+La prescripción potencialmente inadecuada (PPI) es aquella cuyo riesgo de efectos adversos es mayor que el beneficio clínico. También se considera potencialmente inadecuado el uso de fármacos con una dosis o duración superior a la óptima, con potenciales interacciones entre sí o con las enfermedades del paciente, o las duplicidades terapéuticas. Por otra parte, la omisión de medicamentos con indicación establecida puede ser igualmente inadecuada.
+Los estudios realizados en diferentes países demuestran que la PPI afecta, como mínimo, a la cuarta parte de la población anciana. En Estados Unidos se ha estimado que afecta al 24% de los pacientes ancianos de la comunidad y al 40% de los institucionalizados, mientras que el 58% de pacientes no reciben uno o más fármacos indicados según su patología. En Irlanda la PPI alcanza un 36% en personas de más de 70 años, con un coste estimado de 45 millones de euros al año. En España se estima que afecta a un 35% de los ancianos inmovilizados no institucionalizados y a un 69% de los pacientes comunitarios de más de 85 años.
+Una de las herramientas más usadas en Europa para la detección de la PPI son los criterios STOPP/START, propuestos por Gallagher et al. en 2008, avalados por la European Union Geriatric Medicine Society, validados en 6 países europeos y adaptados al contexto español. Se dividen en 2 listas de indicadores: 65 que corresponden a fármacos a evitar (STOPP) y 22 que identifican potenciales omisiones (START), según diferentes escenarios clínicos.
+La PPI detectada mediante los criterios STOPP/START se relaciona con resultados desfavorables en salud. Existe un riesgo mayor de efectos adversos graves evitables en pacientes con criterios STOPP. En pacientes hospitalizados, la PPI está implicada en el 27% de los ingresos, principalmente por fracturas osteoporóticas tras caídas. De estos pacientes, el 48% y el 63% presentan algún criterio STOPP y START, respectivamente. Los criterios STOPP se asocian con reingresos relacionados con fármacos a los 12 meses del alta hospitalaria.
+Hasta la fecha, la mayoría de los estudios realizados con los criterios STOPP/START analizan muestras pequeñas de pacientes. Existe menos experiencia en la evaluación de la PPI a nivel poblacional, destacando los estudios irlandeses con bases de datos de facturación de farmacia. No incluyen datos clínicos, habiéndose descrito que la introducción de los mismos disminuye la PPI según STOPP, mientras que detecta más omisiones potenciales.
+En nuestro país, la informatización de las consultas de atención primaria hace más de una década permite combinar datos de prescripción con datos clínicos. Esto supone una oportunidad para el análisis de la PPI en grandes grupos de población, el seguimiento de las tendencias de prescripción y la identificación de oportunidades de mejora.
+El objetivo de este estudio es determinar la prevalencia de PPI, según criterios STOPP/START, en toda la población de 70 años de edad o más de una región sanitaria, a partir de bases de datos clínicos y de dispensación de fármacos.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO Y POBLACIÓN
+
+Se realiza un estudio descriptivo transversal donde el cumplimiento de los criterios se evalúa en diciembre de 2012, sobre los datos del período enero-diciembre de 2012.
+La población la forman todas las personas de 70 años o más, asignadas a los centros de salud de la Región Sanitaria de Lleida (RSLL) y visitadas por cualquier profesional de atención primaria de su centro correspondiente. Se excluyen aquellos individuos trasladados o en situación de exitus al final del período de estudio
+
+
+-- VARIABLES Y FUENTES
+
+Las variables principales se han definido a partir del cumplimiento de los criterios explícitos STOPP/START durante el año estudiado. Para ello se ha tenido en cuenta la adaptación al castellano de Delgado et al. y los comentarios de Lertxundi et al..
+Los criterios a analizar se han revisado y consensuado entre 2 médicos de familia, un geriatra y 2 farmacéuticos. Como aproximaciones a algunos diagnósticos se han utilizado fármacos específicos (p.e. antigotosos en gota). Asimismo, varios indicadores han sido modificados ante la aparición en el mercado de nuevas moléculas (p.e. clopidogrel como antiagregante plaquetario). Se han considerado situaciones que justifican el uso de un fármaco aparentemente inadecuado (p.e. el acenocumarol durante más de 6 meses en primer episodio de trombosis venosa profunda si coexiste fibrilación auricular). Finalmente, y en función de la información clínica disponible en las historias electrónicas, se ha podido calcular el cumplimiento de 43 criterios STOPP y 12 criterios START.
+Las variables sociodemográficas (edad, sexo, residencia), administrativas (número de visitas), clínicas y analíticas provienen de las historias electrónicas de atención primaria, mientras que las de prescripción (principio activo y dosis, número de envases dispensados mensualmente, número de principios activos por paciente) se recogen en la base de datos de dispensación en farmacia con receta médica oficial. Los problemas de salud están codificados atendiendo a la Clasificación Internacional de Enfermedades versión 10 (CIE-10) y los principios activos según la Anatomical Therapeutic Chemical Classification System (ATC).
+Según el lugar en que se realiza la asistencia sanitaria, se ha clasificado a los pacientes en ambulatorios, en atención domiciliaria o en residencias geriátricas.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Se ha calculado la frecuencia absoluta y relativa de cada uno de los criterios. La frecuencia se ha calculado para toda la población y para el grupo de pacientes en los que está indicado aplicar cada criterio .
+Se han estimado los odds ratios (OR) crudos y ajustados, como medida de asociación entre la prevalencia de incumplimiento de alguno de los criterios START/STOPP y los distintos niveles de las variables analizadas. Los OR ajustados se han estimado mediante modelos de regresión logística (método Enter), incluyendo las variables edad, sexo, situación, número de visitas y número de principios activos. Se evaluó la bondad de ajuste de los modelos mediante el test de Hosmer y Lemeshow, y la calibración a partir del área bajo la curva ROC.
+Todos los cálculos se han realizado con el paquete estadístico IBM-SPSS v18.
+
+
+-- ASPECTOS ÉTICOS
+
+La confidencialidad de los datos se ha respetado en todo momento, de acuerdo con la ley orgánica de protección de datos personales 15/1999. El proyecto ha sido valorado por el CEIC del IDIAP J Gol (P13/55), que considera que respeta los supuestos de confidencialidad y de buena práctica clínica vigentes. El equipo investigador declara no tener conflicto de intereses.
+
+
+- RESULTADOS
+
+La población que cumple los criterios de inclusión es de 45.408 personas, con un 58% de mujeres y una edad media de 79,7 años. El 5,3% reciben atención exclusivamente domiciliaria y el 6,9% residen en instituciones geriátricas. Las características de la población general y de la que cumple como mínimo un criterio STOPP o START se muestran en la tabla 1. El 58,1% de los pacientes cumplen, como mínimo, un criterio de PPI. Presentan al menos un criterio STOPP el 39% y/o al menos un criterio START el 33,9%.
+En la tabla 2 se resume el porcentaje de pacientes según el número de PPI detectadas para STOPP y START.
+En población general, las PPI STOPP más prevalentes son la antiagregación en prevención primaria (14,8%), la prescripción de antiinflamatorios no esteroideos (AINE) y benzodiacepinas (BZD) por un período superior al recomendado (5% y 4,3% respectivamente), el uso de AINE en insuficiencia renal (4,1%) y el ácido acetilsalicílico a dosis superior a 150 mg al día (3,1%) .
+Por indicación, los criterios STOPP más prevalentes afectan al uso de BZD de vida media larga durante más de un mes (70,7%). Le siguen los AINE en hipertensión arterial moderada/severa, insuficiencia renal o insuficiencia cardíaca en un 34,2%, 29,6% y 26,2% de los pacientes respectivamente, y con uso prolongado en artrosis en el 18,5%. Los inhibidores de la bomba de protones se prescriben durante más de 8 semanas en el 24,5% .
+En relación con los criterios START, sobre el total de población, destaca la ausencia de antiagregación o estatinas en prevención primaria en pacientes diabéticos con uno o más factores de riesgo cardiovascular (11,72% y 10,41% respectivamente), de metformina en diabetes tipo 2 (8,72%) y de suplementos de calcio/vitamina D en osteoporosis (7,08%) .
+Por indicación, los más prevalentes son la falta de bifosfonatos en el 80,9% de los pacientes tratados con corticoides orales, o la falta de calcio/vitamina D en el 52,15% de los que tienen osteoporosis. El segundo grupo afecta al riesgo cardiovascular, con la ausencia de antiagregación y de estatinas en el 52,39% y 46,52% de los pacientes diabéticos con al menos un factor de riesgo cardiovascular y, finalmente, la falta de metformina en el 37,05% de los diabéticos y de betabloqueantes en el 37% de los pacientes con cardiopatía isquémica .
+Las variables relacionadas con una mayor PPI, tanto para los criterios STOPP como los START, fueron el sexo femenino, la edad avanzada (excepto tener más de 95 años), estar ingresado en residencia geriátrica o en régimen de atención domiciliaria, el número de contactos con los profesionales sanitarios y la polifarmacia. Cuando se estimaron los OR ajustados se mantuvieron los mismos resultados excepto para el sexo .
+
+
+- DISCUSIÓN
+
+Los resultados obtenidos indican que el 58% de los pacientes de 70 años o más de la RSLL tienen, al menos, una prescripción potencialmente inadecuada, según los criterios STOPP/START, bien por exceso o por defecto.
+Los grupos terapéuticos más implicados son las BZD, AINE, e inhibidores de la bomba de protones, para los criterios STOPP. Para los START, los tratamientos para la osteoporosis, antiagregantes y estatinas en prevención primaria, metformina y betabloqueantes en prevención secundaria.
+La inadecuación es directamente proporcional al número de principios activos que toma el paciente y varía según el entorno en que este reside (ambulatorio, atención domiciliaria o institucionalización).
+
+
+-- COMPARACIÓN CON OTROS ESTUDIOS
+
+En cuanto a los criterios STOPP, el porcentaje global de PPI detectada es similar al publicado en varios estudios irlandeses basados en datos de facturación de farmacia, . Los grupos terapéuticos implicados con más frecuencia coinciden con los nuestros (inhibidores de la bomba de protones, AINE y BZD), aunque con diferencias en los porcentajes. Las diferencias en algunas indicaciones específicas pueden atribuirse a la inclusión de diagnósticos clínicos en nuestro caso, o a las particularidades de la farmacopea y de las guías de prescripción de cada país.
+En muestras reducidas de ancianos ambulatorios, la PPI para STOPP oscila entre el 21,4 y el 51,4%, identificando como grupos responsables más frecuentes los ya citados, , , , . Las duplicidades terapéuticas aparecen en algunos estudios, no así en el nuestro, hecho que atribuimos a la inclusión en la historia clínica informatizada de alertas al prescriptor y a figurar entre los objetivos de calidad de prescripción de la región.
+Para los criterios START no disponemos de estudios poblacionales con que comparar. En una muestra amplia de pacientes irlandeses se detectó un porcentaje de omisiones inferior al nuestro (22,7% frente a 34%), afectando también a antiagregantes, estatinas y calcio/vitamina D.
+En muestras pequeñas de nuestro país, los criterios START afectaron entre el 20,1 y el 53,6% de pacientes ambulatorios, siendo los antiagregantes en diabetes tipo 2 con factores de riesgo cardiovascular, el calcio/vitamina D en osteoporosis y la metformina en diabetes tipo 2 los más relevantes, , .
+En cuanto a la residencia del paciente, nuestros resultados coinciden con los publicados, que detectan PPI en el 70% de los ancianos de instituciones geriátricas, , hecho posiblemente atribuible a su mayor complejidad clínica y dependencia.
+Al igual que en otros estudios, la PPI aumenta con la edad, el número de medicamentos y el número de contactos sanitarios, variables que se asocian a una mayor morbilidad y complejidad. Los elevados porcentajes de PPI en octogenarios y nonagenarios, especialmente por omisión, pueden atribuirse al intento de evitar la polifarmacia, a la falta de evidencia sobre determinadas intervenciones en este grupo de edad, o al predominio de la atención paliativa sobre la prevención secundaria.
+
+
+-- UTILIDAD DE LA DETECCIÓN DE PRESCRIPCIÓN POTENCIALMENTE INADECUADA A NIVEL POBLACIONAL
+
+El fenómeno de la PPI es extremadamente complejo, multifactorial y de difícil abordaje. Ni todas las PPI identificadas son necesariamente inapropiadas, ni todas las PPI detectadas pueden evitarse. Las herramientas de detección de PPI pueden facilitar la labor de revisión y conciliación de la prescripción en los contactos sanitarios, aunque esta estrategia no siempre es compatible con la presión asistencial en las consultas.
+El análisis poblacional de la PPI a partir de bases de datos sanitarias aporta una visión complementaria. Permite medir los niveles de PPI en diferentes entornos o grupos de pacientes, facilita las comparaciones entre zonas en cuanto a variabilidad y costes, y ayuda a priorizar, planificar y monitorizar intervenciones concretas. Como se ha comentado, la máxima PPI corresponde a un grupo reducido de indicadores en los que hay que concentrar esfuerzos. También puede ser útil para implementar y evaluar estrategias de formación de los profesionales, sobre las que actualmente hay pocos estudios. Queda por responder si la detección de la PPI y las intervenciones de mejora que han demostrado ser factibles tienen impacto clínico y económico. Algunos estudios recientemente publicados así lo sugieren, .
+Los criterios STOPP/START presentan, desde nuestro punto de vista, algunas limitaciones. La principal es que están sometidos a la evolución constante del conocimiento médico y sujetos a actualización periódica, . También es necesario el consenso respecto a la codificación empleada para homogeneizar su análisis en bases de datos sanitarias. En este sentido, destacamos la reciente publicación de la nueva versión de los criterios STOPP/START en 2014, no disponible en el momento de la redacción de este artículo. Será interesante evaluar las aportaciones de esta nueva herramienta a los resultados descritos.
+
+
+-- FORTALEZAS Y DEBILIDADES
+
+La principal fortaleza de este estudio es la inclusión de toda la población de más de 70 años de una región, con cobertura sanitaria pública, frente muestras no representativas de la población general. Asimismo, la inclusión de datos clínicos permite un cálculo más ajustado de los indicadores.
+Como limitaciones, citar el posible infradiagnóstico de patologías en las historias clínicas, aunque hemos visto que al considerar las variables clínicas el porcentaje de PPI disminuye y, por tanto, creemos que esta situación no invalida los resultados.
+En conclusión, la herramienta STOPP/START aplicada a las bases de datos sanitarias de la población de más de 70 años de una región sanitaria española identifica PPI en más de la mitad de la misma, especialmente en personas de mayor edad, polimedicadas y en atención domiciliaria o ingresadas en centros geriátricos.
+Son campos abiertos de investigación el efecto de la PPI y de las intervenciones encaminadas a corregirla sobre la mortalidad o la calidad de vida, así como la evaluación de la eficiencia de las mismas. Disponer de datos fiables de PPI a nivel poblacional se postula como una herramienta útil para responder a dichas preguntas en futuros estudios.Lo conocido sobre el temaLa prescripción potencialmente inadecuada en ancianos es prevalente y relevante.La mayoría de estudios realizados con los criterios STOPP/START analizan muestras pequeñas, no existiendo análisis poblacionales en nuestro país.La informatización de las consultas permite evaluar la prescripción inadecuada a nivel poblacional a partir de las bases de datos sanitarias.Qué aporta este estudioDetecta prescripción potencialmente inadecuada en un 60% de los ancianos de 70 años o más de una región sanitaria española.Determina los fármacos y situaciones de riesgo más frecuentes: benzodiacepinas e inhibidores de la bomba de protones a largo plazo, antiinflamatorios no esteroideos en hipertensión e insuficiencia renal y cardíaca, falta de bifosfonatos o vitamina D en osteoporosis, o falta de prevención primaria en diabetes con riesgo cardiovascular.Demuestra la factibilidad de la aplicación poblacional de los criterios STOPP/START, y sugiere su potencial para detectar, priorizar y evaluar el impacto clínico y económico de intervenciones de mejora.
+
+
+- FINANCIACIÓN
+
+Sin financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

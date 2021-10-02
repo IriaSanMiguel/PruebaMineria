@@ -1,0 +1,5 @@
+Se realizó un estudio longitudinal en 255 niñas y niños de 3 a 8 años. Se midió la ganancia de peso durante un año, y la ingesta energética total se estimó por medio de un cuestionario de frecuencia de consumo. La energía proveniente del DEF se dividió en terciles y su asociación con la ganancia de peso fue estimada a través de regresión lineal múltiple.
+En los escolares, la interacción entre los terciles de energía del DEF y sexo mostró que las niñas del segundo y tercer tercil ganaban 500g (p=0.063) y 800g (p=0.015) más, respectivamente.
+Un mayor consumo de energía proveniente del desayuno escolar se asocia con un incremento en la ganancia de peso en niñas de edad escolar.
+Evaluar el consumo del Desayuno Escolar Frío (DEF) y su asociación con la ganancia de peso en población preescolar y escolar beneficiaria en San Luis Potosí, México.
+

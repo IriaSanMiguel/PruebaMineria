@@ -1,0 +1,50 @@
+PUNCIÓN POST MORTEM CON AGUJA GRUESA A CADÁVERES FALLECIDOS POR COVID-19
+
+
+- INTRODUCCIÓN
+
+Debido a la crisis sanitaria que estamos sufriendo por el virus llamado SARS-CoV-2, la Sociedad Española de Anatomía Patológica (SEAP) desaconsejó inicialmente la práctica de autopsias con pacientes infectados por el virus, ya que a la apertura del cadáver y disección de pulmones y demás órganos se podían producir aerosoles, infectar al personal que realizara la autopsia y contaminar el medio ambiente, propagando la enfermedad. Este tipo de autopsias se debe realizar en salas con nivel de bioseguridad BSL-3 o similar, con unas características especiales como filtros HEPA, ventilación al exterior con un número determinado de renovaciones del aire, presión negativa, etc.. La sala del Hospital Clínico San Carlos, actualmente en obras, carece del nivel de bioseguridad requerido por lo que, dado el interés en evaluar las lesiones producidas en estos pacientes, se decidió realizar toma de biopsia post mortem con aguja gruesa (BAG).
+Aunque este procedimiento se puede hacer con control ecográfico, se optó por no utilizar ecógrafo para simplificar el procedimiento y disminuir el número de técnicos expuestos en el momento de su realización.
+
+
+- MATERIAL Y MÉTODOS
+
+Para la realización de la punción hay que contar con el siguiente instrumental y equipo:•Mango automático PRO-MAG I. En el caso de no disponer del mango semiautomático se pueden obtener las muestras de manera manual con la aguja para biopsias Tru-cut 14G (fig. 1 ).Figura 1•Aguja semiautomática PRO-MAG 14G (fig. 2 ).Figura 2•Contenedores predispensados con formaldehído tamponado al 10%.•EPI (guantes, bata impermeable, gafas).•Lejía rebajada al 10% para la limpieza posterior del instrumental y cadáver.
+Con el fin de facilitar el procedimiento y minimizar la contaminación, tras la colocación adecuada de los EPI, se etiquetan los contenedores predispensados indicando el órgano y los datos del fallecido. Se utilizará un contenedor por cada órgano.
+A continuación prepararemos el material para la punción: una aguja PRO-MAG del calibre 14G y el mando semiautomático PRO-MAG I. Pondremos la aguja en el mango y la cargaremos con un movimiento hacia atrás del gatillo y desbloquearemos el seguro.
+El procedimiento para la obtención de las muestras es el siguiente:
+Se introduce la aguja en el órgano elegido y se presiona el botón. Esto provoca que la pistola haga un movimiento rápido en la aguja y permite la obtención de la muestra. También podemos usar agujas manuales Tru-cut 14G, igual de efectivas que las automáticas, pero algo más complicadas de utilizar.
+Extraemos la aguja del cadáver y vemos si hemos conseguido muestra del órgano; si es así, introducimos la aguja en el frasco con formol debidamente etiquetado y la agitamos para que se desprenda la muestra. Se vuelve a cargar el mango automático para el siguiente disparo utilizando el mismo orificio de entrada.
+Los cilindros obtenidos son de unos 3-4 cm × 2-3 mm aproximadamente. Dependiendo del órgano puede variar: en pulmones, hígado y cerebro suelen salir los cilindros enteros debido al tamaño y consistencia del órgano, sin embargo, los procedentes del corazón suelen estar fragmentados.
+Dado que todo el proceso se realiza sin control ecográfico, para conseguir la mayor rentabilidad en las punciones, hemos sistematizado los puntos de punción:
+Pulmones: para la obtención de muestras de pulmón buscaremos el espacio que hay entre la 2.a y 3.a costilla (en ambos lados del tórax). Introduciremos la aguja en el mismo orificio y modificando el ángulo obtendremos muestras de los distintos lóbulos. Hay que tener cuidado en el lóbulo inferior, ya que (si tiene hepatomegalia) el hígado invadiría el espacio superior torácico, obteniendo muestras de hígado y no de pulmón.
+Corazón: introducimos la aguja por debajo del apéndice xifoides y con un ángulo ligeramente bajo. No obtendremos cilindros enteros debido a la naturaleza del propio órgano.
+Hígado: accederemos desde el cuadrante superior derecho de la cavidad abdominal (entre las costillas 9.a y 11.a) en diferentes direcciones y por el mismo orificio.
+Bazo: pincharemos en la zona del hipocondrio izquierdo, entre las costillas 10.a y 11.a. Basta con introducir la aguja unos 3 cm para obtener la muestra.
+Riñones: localizamos el hueco que hay entre la cresta ilíaca y la última costilla y entre medias de ese espacio colocamos la aguja mirando hacia el apéndice xifoides, introduciendo la aguja unos 5 cm. Accionamos el mecanismo y obtenemos el cilindro.
+Cerebro: deberemos atravesar la lámina cribosa del etmoides con la aguja en un movimiento firme, pero no agresivo para no doblar la aguja. Variamos el ángulo de la aguja en las siguientes tomas para obtener muestra de otras partes del cerebro.
+Todos los órganos son puncionados con el mango automático PRO-MAG I, salvo en el caso del sistema nervioso central (SNC), en el que se utiliza la aguja semiautomática PRO-MAG 14G.
+La totalidad del procedimiento de punción se realiza en un tiempo aproximado de 30 min. En todos los casos se realizó entre 30 y 60 min tras el fallecimiento.
+Se obtuvieron muestras de 19 pacientes. No en todos los pacientes se puncionaron todos los órganos. En los 19 se intentó conseguir material de pulmones, corazón e hígado; en 17 de riñones; en 8 de bazo y, por último, en 4 de SNC.
+Se obtuvo el consentimiento informado de los familiares de todos los pacientes por vía telemática o presencial, según el proyecto aprobado por el CEIC del Hospital («Cambios patológicos en pacientes fallecidos por COVID-19»; código interno: 20/324-E_COVID).
+
+
+- RESULTADOS
+
+Debido a que no hacíamos uso de guiado ecográfico, en algunas ocasiones se extrajeron muestras de otros órganos accidentalmente, como intestino delgado y grueso, estómago, páncreas y pared muscular digestiva. Por el mismo motivo no se consiguió material de todos los órganos en algunos casos. La rentabilidad del material obtenido se muestra en la tabla 1 . Se ha considerado que se ha obtenido material cuando el órgano está suficientemente representado para poder realizar una valoración morfológica y un diagnóstico anatomopatológico; la presencia de pequeños grupos de células sueltas pertenecientes al órgano diana se ha considerado, sin embargo, como fallido. En todos los casos el tejido mostraba una conservación óptima que permitió el estudio morfológico con hematoxilina eosina, así como la aplicación de técnicas especiales e inmunohistoquímicas (fig. 3 ).Figura 3
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+A finales de 2019 surgió en Wuhan, China, un brote de una nueva enfermedad producida por el coronavirus SARS-2 (SARS-CoV-2) que ha sido designada por la OMS como enfermedad por coronavirus 2019 (COVID-19) y que se transformó en una pandemia. La importancia de la autopsia en las enfermedades infecciosas emergentes está bien establecida en la literatura. La imposibilidad de su realización en el inicio de la pandemia hizo necesaria la aplicación de técnicas alternativas de obtención de material para poder estudiar las lesiones producidas por el SARS-CoV-2 en los órganos, especialmente en los pulmones. Aunque la técnica de la llamada ecopsia, de la que este Hospital fue pionero, es sencilla, necesita de un ecógrafo y de al menos 2 técnicos que realicen el procedimiento. Con el fin de simplificarlo y minimizar riesgos se optó por prescindir del control ecográfico y realizar las punciones con criterios anatómicos por personal especializado y entrenado, como son los técnicos especialistas de anatomía patológica adscritos a la Unidad de Sanidad Mortuoria para la realización de la autopsias.
+Para la obtención de muestras de SNC se prefirió utilizar la aguja semiautomática PRO-MAG 14G porque no tiene un retroceso tan brusco como el sistema automático y facilita la punción a través de la lámina cribosa del etmoides.
+Como se observa en la tabla 1, la rentabilidad de obtención de material apto para el estudio microscópico es muy alta en algunos órganos, especialmente en pulmones, los órganos diana de esta enfermedad.
+En el paciente que no se consiguió obtener muestras de ninguno de los pulmones se obtuvo hígado en ambos casos, probablemente porque mostraba marcada congestión con hepatomegalia importante.
+En los pacientes que no se obtuvo hígado, el material conseguido fue tejido adiposo y pared de tubo digestivo. Y en los que no se obtuvo riñón se extrajo, también, pared intestinal, músculo estriado y en un caso del lado izquierdo páncreas.
+El porcentaje de aciertos en la obtención del SNC es del 100%, si bien solo se intentó en 4 casos y como es lógico no se puede realizar un estudio topográfico adecuado.
+Debido a la imposibilidad de hacer autopsias convencionales, consideramos que la extracción de muestras con aguja gruesa a cadáveres reduce el riesgo de transmisión de la enfermedad y es una técnica de rápida ejecución, sencilla y de fácil aplicación, obteniéndose un aceptable nivel de acierto, lo que permite el estudio de la COVID-19 por parte de los patólogos y por tanto profundizar en el conocimiento de esta enfermedad.
+
+
+- CONFLICTOS DE INTERESES
+
+Ninguno.

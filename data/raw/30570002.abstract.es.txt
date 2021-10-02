@@ -1,0 +1,5 @@
+Analizar los resultados del Índice de Riesgo de la Calidad del Agua para Consumo Humano (IRCA) para los 116 municipios del Departamento de Cundinamarca, del año 2007 a 2013.
+Información recolectada de los 116 municipios del Departamento de Cundinamarca, seleccionados y clasificados en función de los datos porcentuales del IRCA.
+Se observa una disminución del promedio anual del IRCA, lo cual refleja un mejoramiento de la calidad del agua entregada en el departamento; sin embargo, un 26,7% de municipios no reportan información de la zona rural y un 56,9% de los municipios reportan un IRCA superior a 5, que aunque se ubican en Riesgo Bajo, son un agua no apta para consumo humano.
+Se propone una nueva ponderación de los parámetros evaluados en el IRCA, con el fin de permitir que este índice sea más representativo del riesgo a la salud y, como estudios futuros un análisis estadístico concienzudo sobre el tamaño de la muestra que permita que los resultados obtenidos sean confiables para los tomadores de decisiones sobre el mejoramiento de la calidad del agua potable.
+

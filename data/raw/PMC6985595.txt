@@ -1,0 +1,153 @@
+DOCUMENTO DE CONSENSO SOBRE EL ABORDAJE DE LA ENFERMEDAD DE CHAGAS EN ATENCIÓN PRIMARIA DE SALUD DE ÁREAS NO ENDÉMICAS<SUP
+
+
+- ANTECEDENTES EPIDEMIOLÓGICOS
+
+La tripanosomiasis americana o enfermedad de Chagas (EC) es una enfermedad infecciosa endémica en 21 países de América Latina , estrechamente vinculada con aspectos socioeconómico-culturales deficitarios, siendo reconocida por la Organización Mundial de la Salud como una de las 17 enfermedades tropicales desatendidas del mundo.
+Está causada por la infección de un parásito protozoario hemoflagelado, Trypanosoma cruzi (T. cruzi).
+Su principal vía de transmisión en área endémica es vectorial, a partir de insectos triatominos que tienen su ecosistema natural en el continente americano; estos insectos son conocidos como «vinchuca» en Bolivia, Argentina y Chile, «chipo» en Venezuela, «chiribico» en Colombia, «chinche besucona» en México o «barbeiro» en Brasil, entre otros. Si bien su hábitat natural se extiende desde el sur de Estados Unidos a la región central de Argentina y Chile, su distribución es muy heterogénea, siendo las áreas más afectadas el centro y sur de Bolivia (con prevalencias cercanas al 30% de la población general), norte de Argentina, sur de Perú y determinadas áreas de Paraguay, Brasil, Ecuador, Nicaragua, El Salvador y sur de México.
+Otras formas de transmisión son: congénita, por transfusión de sangre, por trasplante de órganos, vía oral (por la ingesta de alimentos contaminados con parásitos) o por accidente de laboratorio.
+En las últimas décadas, debido a los flujos migratorios, se han producido importantes cambios epidemiológicos en la EC, diagnosticándose un número creciente de personas en áreas no endémicas, principalmente en Europa y Norteamérica. En Europa el Estado español es el país más afectado y se estima que puede haber entre 50 y 70.000 personas con EC.
+Son numerosas las publicaciones que han detectado casos individuales o que han evaluado la prevalencia de la EC en nuestro país, tanto en la población inmigrante, , como en los bancos de sangre, en los programas de trasplante y maternidades, , .
+En España estos resultados, junto a estudios de evaluación económica, sirvieron para mostrar la conveniencia de implementar protocolos de actuación para el control de las vías de transmisión del T. cruzi posibles en área no endémica.
+El Real Decreto 1088/2005 establece la obligatoriedad de cribar en los bancos de sangre a los potenciales donantes con riesgo epidemiológico de EC. El Plan nacional de sangre de cordón (14 de marzo de 2008) recoge las mismas recomendaciones que las relacionadas con la transfusión de sangre.
+La transmisión vertical se controla por el cribado sistemático de gestantes. En Valencia, Cataluña y Galicia existen protocolos específicos para el cribado y diagnóstico de EC en mujeres embarazadas latinoamericanas y en sus recién nacidos.
+En el año 2005 la Sociedad Española de Medicina Tropical y Salud Internacional inició la elaboración de documentos de consenso para el diagnóstico y tratamiento de la EC importada, que abarcan diversos aspectos de la problemática y complicaciones de esta enfermedad, , , , .
+
+
+- JUSTIFICACIÓN
+
+A pesar de los avances descritos, se estima que el porcentaje de población infectada por T. cruzi diagnosticada en Europa no alcanza el 10% del total.
+Existen aún importantes retos para el sistema sanitario en el abordaje de la EC, como son: extender la implementación del programa de control de transmisión vertical a todas las comunidades y el diagnóstico, tratamiento y seguimiento adecuado de los infectados.
+La atención primaria de salud (APS) constituye el marco habitual de acceso al sistema de salud, y es el ámbito idóneo para detectar de forma precoz aquellas personas afectadas por la EC que pudieran beneficiarse de un tratamiento.
+
+
+- OBJETIVOS DEL DOCUMENTO
+
+Definir las características demográficas, epidemiológicas y clínicas de las personas susceptibles de estar infectadas por T. cruzi, para facilitar su detección y manejo por el médico de familia o pediatra, integrando el cuidado de los afectados por la EC en los servicios de APS.
+
+
+- METODOLOGÍA
+
+Para la elaboración del documento se realizó una revisión exhaustiva de la evidencia científica disponible utilizando el motor de búsqueda PubMed de libre acceso a la base de datos Medline (última revisión de marzo de 2014).
+El documento ha sido sometido a la revisión externa de un grupo multidisciplinar de profesionales expertos, miembros de diversas sociedades científicas, que han participado de forma voluntaria y altruista.
+
+
+- ASPECTOS CLÍNICOS DE LA ENFERMEDAD DE CHAGAS
+
+-- FASES DE LA ENFERMEDAD DE CHAGAS Y MANIFESTACIONES CLÍNICAS
+
+La EC evoluciona en 2 fases, aguda y crónica, cada una de ellas con características clínicas, criterios diagnósticos y terapéuticos diferentes.
+
+
+--- FASE AGUDA
+
+Se inicia al adquirir la infección por cualquiera de sus vías y dura entre 30 y 90 días. Se caracteriza por la presencia de una alta parasitemia detectable por métodos parasitológicos directos. Generalmente es asintomática o presenta síntomas inespecíficos como fiebre, adenomegalias, hepatoesplenomegalia, anemia, anorexia o diarrea.
+En áreas endémicas, cuando la vía de transmisión es vectorial, en un 8% de los casos pueden aparecer síntomas específicos como el chagoma de inoculación. Las manifestaciones clínicas graves y poco frecuentes de esta fase son miocarditis y meningoencefalitis.
+En países no endémicos la fase aguda solo se puede observar en neonatos (transmisión congénita), personas transfundidas o trasplantadas.
+La mayoría de los recién nacidos con EC adquirida por transmisión congénita permanecen asintomáticos. Cuando aparecen, las manifestaciones y cuadros clínicos más importantes son hepatoesplenomegalia, hepatitis, sepsis, meningitis, miocarditis o anemia hemolítica, pudiendo ser ocasionalmente causa de muerte.
+Habitualmente, las manifestaciones agudas de la EC remiten de forma espontánea, dando paso a la fase crónica indeterminada o asintomática.
+
+
+--- FASE CRÓNICA
+
+La parasitemia periférica es escasa e intermitente y el diagnóstico se realiza por medio de técnicas serológicas.∘EC en fase crónica, forma indeterminada, asintomática, consiste en la positividad de las pruebas serológicas con ausencia de afectación orgánica demostrable y puede persistir toda la vida del paciente.
+Aproximadamente un 20-30% de estos pacientes, entre 10 y 20 años después de la primoinfección, evolucionan lentamente hacia una fase crónica sintomática que cursa con disfunción autonómica, micro-inflamaciones y fibrosis, produciendo lesiones irreversibles en los órganos diana (corazón, esófago, colon y sistema nervioso periférico).∘EC en fase crónica con afectación cardiaca. Cursa con miocardiopatía dilatada y trastornos de la conducción, que producirá insuficiencia cardiaca, tromboembolismos y arritmias.
+Las alteraciones electrocardiográficas y ecocardiográficas más frecuentes en la cardiopatía chagásica, se detallan en la tabla 2.∘EC en fase crónica con afectación digestiva. Puede llegar a afectar al 15-20% de los pacientes con EC. Se producen dilataciones del tracto digestivo (megaesófago, megacolon) y trastornos motores gastrointestinales como acalasia esofágica, alteración del vaciado gástrico, alteración del tránsito intestinal y estasis biliar.
+Los síntomas principales son: disfagia, odinofagia, regurgitación, estreñimiento crónico y/o dolor abdominal.
+
+
+-- DIAGNÓSTICO
+
+Solo es posible detectar la forma circulante del T. cruzi durante la fase aguda de la infección, por lo que los métodos diagnósticos más idóneos son los directos (parasitológicos) y los moleculares (PCR). Estas pruebas también son útiles en los casos de reactivación.
+En la fase crónica de la enfermedad la parasitemia es de baja intensidad e intermitente, por lo que el diagnóstico se realiza mediante la detección de anticuerpos IgG anti-T. cruzi (diagnóstico serológico).
+De acuerdo con los criterios internacionales, se consideran positivos para EC aquellos sueros que son reactivos mediante 2 técnicas serológicas que utilizan antígenos distintos, y cuando los resultados son discordantes o dudosos es necesario realizar una tercera prueba confirmatoria.
+En los recién nacidos de madres con EC las pruebas serológicas no son útiles para llegar a un diagnóstico precoz de la EC congénita, ya que las IgG anti-T.cruzi halladas en el recién nacido hasta los 9 meses de vida pueden ser de origen materno, y la detección de IgM no ofrece resultados satisfactorios, por lo que, siempre que sea posible, deben realizarse pruebas parasitológicas directas (microhematocrito o PCR) durante el primer mes de vida para detectar el parásito o el ADN del mismo y reservar las pruebas serológicas a partir de los 9 meses de edad.
+
+
+-- TRATAMIENTO
+
+En la fase aguda de la EC y en niños menores de 12 meses se establecen cifras serológicas de curación cercanas al 100% tras el tratamiento con benznidazol (BNZ). En la fase crónica de la enfermedad las tasas de curación disminuyen. Aunque la patogénesis de la EC crónica es multifactorial, la persistencia del parásito es el hecho clave para su desarrollo. Por ello, la eliminación o la disminución de la carga parasitaria modifican la evolución natural de la enfermedad.
+Actualmente los únicos fármacos disponibles para tratar la EC son nifurtimox (NF) y BNZ. Ambos fármacos están contraindicados en mujeres embarazadas y en pacientes con insuficiencia renal o hepática severa. Durante el tratamiento debe evitarse el consumo de alcohol.
+La pauta terapéutica consiste en:-BNZ: en adultos 5 mg/kg de peso/día (máximo 300 mg/24 h), repartidos en 2-3 dosis orales diarias, durante 60 días. En niños menores de 12 años la dosis recomendada es de 10 mg/kg de peso/día.BNZ puede producir efectos secundarios gastrointestinales al inicio del tratamiento, pero suelen ser leves y bien tolerados. Las reacciones adversas que más frecuentemente inducen al abandono del tratamiento son las derivadas de hipersensibilidad cutánea, con aparición de exantema eritematoso y pruriginoso que en ocasiones puede ser grave.-NF (no disponible en España): en adultos 8-10 mg/kg/día, administrado oralmente en 3 o 4 tomas diarias, durante 60 días. En niños de 11 a 16 años la dosis recomendada es de 12,5-15 mg/kg/día y en niños menores de 11 años la dosis será de 15-20 mg/kg/día.
+Las reacciones adversas más frecuentes son la anorexia, las náuseas, los vómitos y, en menor medida, dolor abdominal, diarrea, pérdida de peso, irritabilidad, somnolencia y alteraciones psiquiátricas. La neuropatía periférica es un efecto dosis dependiente que ocurre más frecuentemente durante el 2.° mes de tratamiento y que requiere la discontinuidad del mismo.
+En la tabla 3 se exponen las recomendaciones para el tratamiento antiparasitario de la EC, según el nivel de evidencia.
+
+
+- ABORDAJE DE LA ENFERMEDAD DE CHAGAS DESDE LA ATENCIÓN PRIMARIA DE SALUD
+
+Figura 1, Figura 2.Figura 1Figura 2
+
+
+-- ANAMNESIS ESPECÍFICA EN RELACIÓN CON LA ENFERMEDAD DE CHAGAS
+
+Al ser una enfermedad parasitaria crónica que puede permanecer asintomática, el diagnóstico requiere de un alto grado de sospecha clínica, basado en los antecedentes epidemiológicos del paciente.
+El objetivo de la anamnesis será doble:
+Debe tenerse en cuenta que la mayor parte de los pacientes con EC se encontrarán en fase crónica indeterminada y por consiguiente asintomáticos.
+
+
+-- EXPLORACIÓN FÍSICA ESPECÍFICA DE LA ENFERMEDAD DE CHAGAS
+
+-Peso, talla (o longitud en menores de 2 años) e índice de masa corporal (IMC en kg/m2).-Presión arterial, frecuencia cardiaca.-Exploración cardiovascular detallada. Auscultación cardíaca durante 1 min.-Exploración abdominal exhaustiva.
+
+
+-- POBLACIÓN SUSCEPTIBLE DE ESTUDIO
+
+--- POBLACIÓN ADULTA
+
+En los países no endémicos para EC, tras los resultados obtenidos en diversos estudios, , se recomienda la detección de la infección por T. cruzi a los adultos originarios de Latinoamérica continental, o que hayan realizado largas estancias (más de un mes) en estos países, que hayan sido informados correctamente y accedan a ser estudiados y que presenten:a) Antecedentes epidemiológicos sugestivos.b) Embarazo.c) Inmunodepresión.d) Síntomas/signos sugerentes de EC.
+
+
+--- POBLACIÓN PEDIÁTRICA
+
+Los pediatras de APS tienen una responsabilidad fundamental para la detección y abordaje de la EC en la población que atienden. Todo niño/a que es atendido en una primera visita al centro es tributario de ser interrogado por su origen biográfico y familiar.
+Serán susceptibles de ser estudiados los niños/niñas en edad pediátrica (de 0 a 14 años), previa información y consentimiento de los padres o tutores, con los siguientes antecedentes epidemiológicos:a) Haber nacido o haber realizado largas estancias (más de un mes) en Latinoamérica continental.b) Ser hijos de madre nacida en país endémico.c) Haber recibido alguna transfusión de hemoderivados o haber sido receptores de algún trasplante de un órgano en país endémico.
+
+
+-- MÉTODOS DIAGNÓSTICOS
+
+Para descartar la EC en fase crónica desde la APS deben solicitarse anticuerpos IgG anti-T. cruzi.
+
+
+-- EXPLORACIONES COMPLEMENTARIAS
+
+Con el objetivo de determinar si un paciente con infección por T. cruzi presenta enfermedad orgánica se recomienda practicar:a) Electrocardiograma (ECG) convencional de 12 derivaciones, con un registro largo de 30 seg, en DII.b) Radiografía de tórax (posteroanterior y lateral): la evidencia de cardiomegalia podría ser un factor predictivo de riesgo de muerte súbita en pacientes con EC crónica. También puede detectar alteraciones del mediastino secundarias a megaesófago.c) Ecocardiografía: valorar la función ventricular y descartar aneurismas.
+En la tabla 4 se detallan otras exploraciones complementarias optativas en función de la disponibilidad y de la clínica.
+
+
+-- TRATAMIENTO
+
+A pesar de que BNZ es el único fármaco autorizado en España para el tratamiento de la EC, no está disponible en el circuito habitual de las farmacias, y solo puede dispensarse como medicamento extranjero.
+Durante el tratamiento es aconsejable realizar visitas de seguimiento y control analítico (hemograma, la función hepática y renal) cada 2-3 semanas para controlar la aparición de reacciones adversas y el cumplimiento terapéutico. La coordinación entre el servicio especializado y la APS puede ofrecer grandes ventajas.
+En mujeres en edad fértil descartar la posibilidad de embarazo previo al inicio del tratamiento e indicar la anticoncepción durante el mismo.
+
+
+-- SEGUIMIENTO
+
+--- ENFERMEDAD DE CHAGAS EN FASE CRÓNICA INDETERMINADA
+
+Para detectar precozmente la afectación orgánica se aconseja practicar anualmente un ECG y realizar anamnesis sobre síntomas y signos de afectación cardiaca o digestiva.
+
+
+--- ENFERMEDAD DE CHAGAS CON AFECTACIÓN CARDIACA O DIGESTIVA O MIXTA
+
+El seguimiento de la enfermedad cardiaca y/o digestiva chagásica por el médico de familia será la habitual que realizará en estas mismas enfermedades debidas a otras etiologías.
+
+
+--- RECIÉN NACIDOS HIJOS DE MADRES POSITIVAS
+
+Aunque el resultado de la parasitemia haya sido negativo en el periodo neonatal es obligatorio realizar un seguimiento del niño/a y una serología a los 9-12 meses de edad, cuando es esperable que los anticuerpos maternos hayan sido eliminados. Una serología negativa a esta edad descarta la transmisión vertical de la EC. Si es claramente positiva con un título serológico elevado se iniciará el tratamiento del lactante, pero si el título está cercano al punto de corte deberá confirmarse el diagnóstico con una nueva determinación serológica un mes después.
+No se ha demostrado la presencia de T. cruzi en la leche de las madres con EC, por lo que la lactancia materna no se desaconseja, a no ser que existan heridas sangrantes en el pezón.
+
+
+-- ASPECTOS PREVENTIVOS EN VIAJEROS
+
+La APS ocupa una situación clave para la prevención primaria de la EC, aconsejando medidas antivector a los viajeros a zonas endémicas (especialmente el altiplano andino y Bolivia).
+La población de mayor riesgo la constituyen los inmigrantes que viajan a zonas endémicas para visitar a familiares y amigos.
+El riesgo de contraer la EC durante el viaje es bajo, aunque hay que considerar factores como el tipo de viaje, la duración, la estancia en zonas rurales y el tipo de alojamiento.
+Debe aconsejarse a toda persona que haya estado en zona endémica de EC y que al regreso de su viaje presente síntomas de malestar, fiebre, erupción cutánea, dolor abdominal o cualquier otro síntoma que acuda a su médico.
+
+
+-- OTRAS CONSIDERACIONES
+
+La APS será responsable del estudio de los familiares u otras personas del entorno del paciente con EC que hayan sido expuestas a los mismos riesgos epidemiológicos.

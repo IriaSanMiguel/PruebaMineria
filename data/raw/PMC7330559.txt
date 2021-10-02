@@ -1,0 +1,53 @@
+ESTATINAS EN COVID-19: ¿EXISTE ALGÚN FUNDAMENTO
+
+
+- BOLD>INTRODUCCIÓN</BOLD
+
+En diciembre de 2019 se presentó en China un brote de enfermedad respiratoria aguda caracterizada por fiebre, tos seca y dificultad para respirar. Posteriormente, se identificó un nuevo coronavirus al que se denominó coronavirus tipo 2 del síndrome respiratorio agudo grave (SARS-CoV-2), causante de la enfermedad por coronavirus 2019 (COVID-19).
+El síndrome de distress respiratorio agudo (SDRA) constituye la principal causa de muerte por COVID-19 y ocurre como consecuencia de una respuesta inflamatoria exagerada que provoca la liberación de citocinas proinflamatorias como interleucinas y factor de necrosis tumoral alfa (TNF-α), por lo que se ha propuesto el uso de agentes antiinflamatorios en el tratamiento de estos pacientes.
+Las estatinas son fármacos hipolipemiantes, pero también son conocidas por sus efectos antiinflamatorios y antioxidantes. Hasta la fecha no existen ensayos clínicos aleatorizados controlados que hayan demostrado beneficio de las estatinas en pacientes con COVID-19; sin embargo, un estudio observacional, multinacional que incluyó más de 8.000 pacientes hospitalizados con COVID-19 mostró que el uso de estatinas se asoció con una mejor tasa de supervivencia en estos pacientes. Además, las estatinas han mostrado beneficio como fármacos inmunomoduladores en varias enfermedades infecciosas, incluyendo neumonía adquirida en la comunidad y gripe, .
+En esta revisión abordaremos los fundamentos que apoyan el uso racional de estatinas en pacientes con COVD-19.
+
+
+- BOLD>SISTEMA RENINA ANGIOTENSINA</BOLD
+
+El sistema renina angiotensina (SRA) es una elegante cascada de péptidos vasoactivos que orquesta procesos claves en la fisiología humana. El angiotensinógeno es una glucoproteína de 452 aminoácidos producido en el hígado y circula como un péptido biológicamente inactivo. Por medio de la acción de la renina, el angiotensinógeno es escindido en un decapéptido denominado angiotensina (Ang) I y este a su vez es convertido por la enzima convertidora de angiotensina (ACE) en un octapéptido llamado Ang II, que al actuar sobre el receptor tipo 1 de Ang (AT1-R) ejerce efectos vasoconstrictores y oxidativos y a nivel pulmonar induce la contracción del músculo liso bronquial, proliferación de fibroblastos, apoptosis de células epiteliales alveolares y aumento de la permeabilidad vascular, .
+En el año 2000, dos grupos independientes identificaron una nueva enzima homóloga de la ACE, a la cual denominaron enzima convertidora de angiotensina 2 (ACE2), . Esta enzima es homóloga en un 42% con la ACE, pero con actividades bioquímicas diferentes. La ACE2 al hidrolizar a la Ang I genera Ang (1-9); sin embargo, la actividad catalítica de la ACE2 es 400 veces mayor sobre la Ang II que sobre la Ang I y conlleva a la formación de Ang (1-7) con propiedades vasodilatadoras a través del receptor Mas (MAS-R). De esta manera, el SRA funciona como un sistema endocrino dual en el que las acciones vasoconstrictoras/proliferativas y las acciones vasodilatadoras/antiproliferativas son reguladas por un balance entre la ACE y la ACE2 (fig. 1 ).Figura 1
+
+
+- BOLD>INTERACCIÓN ENTRE SARS-COV-2 Y EL SISTEMA RENINA ANGIOTENSINA</BOLD
+
+Las infecciones virales dependen de la entrada del virus a la célula y el uso de la maquinaria celular del huésped para replicar múltiples copias que subsecuentemente irán a infectar más células. Los coronavirus SARS-CoV-1 y SARS-CoV-2 ingresan en las células del huésped usando la ACE2 como un receptor. La ACE2 se expresa en las células epiteliales alveolares tipo 1 y tipo 2 y tiene dos fracciones: una soluble y una unida a membrana.
+El SARS-CoV-1 y SARS-CoV-2 expresan en su envoltura una proteína llamada proteína S que contiene una región de unión al receptor que se une con alta afinidad al dominio extracelular de la ACE2, provocando la fusión de la membrana y la internalización del virus por endocitosis. La internalización de la ACE2 por el SARS-CoV-2 resulta en una pérdida de la ACE2 en la superficie de la célula y evita, por tanto, la degradación de la Ang II en Ang (1-7), lo cual podría contribuir con el daño pulmonar y la fibrosis asociada a la COVID-19.
+
+
+- BOLD>CORONAVIRUS E INFLAMACIÓN</BOLD
+
+Los receptores tipo Toll (Toll-like receptors) (TLR) son una familia de proteínas que actúan como sensores y ayudan al sistema inmune a discriminar entre elementos propios y extraños. El SARS-CoV-1 y, presumiblemente, el SARS-CoV-2 interactúan con TLR en la membrana de la célula huésped y aumentan la expresión del gen de respuesta primaria de diferenciación mieloide 88 (MyD88), que a su vez activa al factor nuclear kappa B (NF-κB), promoviendo finalmente una cascada inflamatoria que incrementa el daño pulmonar (fig. 2 ).Figura 2
+En el coronavirus causante del síndrome respiratorio agudo de Oriente Medio (MERS-CoV) se observó que el aumento en la expresión del gen MyD88 se asoció a mayor mortalidad. Por otra parte, en un modelo murino de SARS-CoV-1 se demostró que la inhibición del NF- κB resultó en un menor daño pulmonar y aumento en la sobrevida, por lo que este mecanismo parece ser de particular importancia en la infección por coronavirus.
+
+
+- BOLD>FUNDAMENTOS FISIOPATOLÓGICOS PARA EL USO DE ESTATINAS EN COVID-19</BOLD
+
+Las estatinas ejercen efectos pleiotrópicos y existen al menos 4 razones que podrían apoyar el uso de estatinas en pacientes con COVID-19:
+
+
+- BOLD>SEGURIDAD DE LAS ESTATINAS EN PACIENTES CON COVID-19</BOLD
+
+Hasta el momento no existen suficientes estudios acerca del efecto del SARS-CoV-2 en el hígado, pero es plausible que también use la ACE2 para ingresar en estas células. De hecho, la COVID-19 se asocia con alteraciones en la analítica hepática en el 15-53% de los pacientes, siendo la alteración más común la elevación de las aminotransferasas (AST y ALT), con incrementos ocasionales de la fosfatasa alcalina y de la bilirrubina total.
+Las estatinas se asocian con elevación leve y transitoria de las aminotransferasas en el 1-3% de los pacientes e incrementos de tres veces el límite superior normal solo en el 0,7% de los casos. Se destaca que un estudio comparó 342 pacientes con alteraciones en el perfil hepático y 1.437 pacientes sin alteraciones quienes iniciaron tratamiento con estatinas, no observando diferencias estadísticamente significativas entre los grupos en el desarrollo de enfermedad hepática severa, por lo que el uso de estatinas en pacientes con COVID-19 podría ser seguro.
+
+
+- BOLD>CONCLUSIONES</BOLD
+
+Las estatinas son fármacos bien estudiados, de bajo costo y generalmente bien tolerados que podrían ser utilizados como tratamiento coadyuvante en pacientes con COVID-19 debido a sus efectos inmunomoduladores, antiinflamatorios y cardioprotectores. Se requieren ensayos clínicos aleatorizados controlados que permitan confirmar estas hipótesis.
+
+
+- BOLD>FINANCIACIÓN</BOLD
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin fines de lucro.
+
+
+- BOLD>CONFLICTO DE INTERESES</BOLD
+
+Los autores declaran que no existen conflictos de intereses en esta investigación.

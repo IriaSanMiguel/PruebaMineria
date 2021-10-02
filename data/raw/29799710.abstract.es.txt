@@ -1,0 +1,7 @@
+La elastografía en su modalidad cualitativa y semicuantitativa, resulta útil para ayudar a determinar la posibilidad de malignidad de los nódulos tiroideos como un elemento adicional al ultrasonido,
+sin embargo no sustituyen el resultado citopatológico ni otras pruebas diagnósticas, por lo que no debe ser tomado como única prueba.
+Los resultados mostraron que la elastografía cualitativa por el Score de Asteria presenta una sensibilidad del 86%, especificidad del 56%, VPP del 36% y VPN del 92%, y para la elastografía semicuantitativa valores de sensibilidad de 40% , especificidad de 87%, VPP del 50% y VPN del 82%.
+Los nódulos tiroideos son una patología común que se enfrenta en la práctica clínica y en estudios de imagen. El objetivo de este trabajo es valorar la certeza diagnóstica de la elastografía en la evaluación de nódulos tiroideos con sospecha de malignidad comparando el resultado obtenido en la elastografía de forma cualitativa y semicuantitativa con el estudio citopatológico obtenido por BAAF de los nódulos tiroideos y el sistema TI-RADS.
+Se incluyeron pacientes mayores de 18 años de edad, derechohabientes del IMSS, con diagnóstico de uno o varios nódulos tiroideos, enviados al servicio de ultrasonido para la realización de la biopsia con aguja fina (BAAF) y con reporte histopatológico al término del estudio. En el análisis estadístico se
+obtuvieron valores de sensibilidad, especificidad, valor predictivo positivo (VPP) y valor predictivo negativo (VPN).
+

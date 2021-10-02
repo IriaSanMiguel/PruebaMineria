@@ -1,0 +1,6 @@
+Con ayuda del programa HAISS se redujo el tiempo para resolver los 10 casos en más de 50%, la aceptación por parte del usuario de la escala AIS también mejoró. La fiabilidad de obtener la codificación de las lesiones con AIS no mejoró, pero no se ve afectada la obtención del ISS.
+El programa HAISS mostró aceptación en un grupo de residentes de ortopedia, mejoró en forma subjetiva su uso y además ocupa poco tiempo.
+Se creó el programa HAISS (Herramienta de Aprendizaje ISS) para mejorar la factibilidad y aprendizaje de las escalas de gravedad en trauma AIS (Abbreviated Injury Score) e ISS (Injury Severity Score).
+Obtener una herramienta de computación que promueva el aprendizaje y facilite el uso adecuado de las escalas AIS e ISS.
+Se toma una muestra de 40 residentes de primero a cuarto grado de ortopedia de cuatro hospitales de la Secretaría de Salud. Se realizó un estudio longitudinal prospectivo con estadística analítica. Se entregaron 10 casos clínicos para obtención de ISS mediante la escala AIS, se utilizó el manual AIS 2005 actualización 2008, se plantearon dos preguntas para evaluar facilidad de uso y factibilidad, se midió el tiempo de realización. Se repitió el proceso al mes con el programa HAISS.
+

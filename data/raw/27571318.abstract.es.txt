@@ -1,0 +1,6 @@
+Realizamos un estudio prospectivo de cohorte en pacientes hipertensos atendidos en la consulta especializada de hipertensión arterial de la policlínica de especialidades del Hospital General Universitario Carlos Manuel de Céspedes del municipio Bayamo, Cuba, desde el 1ro de enero de 2000 hasta el 31 de diciembre de 2009.
+Identificar la influencia de los diferentes factores de riesgo para el desarrollo de la cardiopatía hipertensiva.
+El análisis multivariado mostró una relación estadística significativa independiente entre la mayoría de los factores y el riesgo de aparición de la cardiopatía. El lugar más relevante lo ocupó la falta de control adecuado de la presión arterial (HR: 2,022; IC 95%: 1,659-2,465; p<0,005) seguido por el estadio 2 de la hipertensión arterial (HR: 2,015; IC 95%: 1,715-2,366; p< 0,005). Otros factores con HR significativos fueron la microalbuminuria (HR=1,9; IC 95%: 1,6-2,2) y la edad mayor de 60 años (HR=1,6; IC 95%: 1,4-1,9).
+Varios factores de riesgo deberán tenerse en cuenta para la prevención de cardiopatía hipertensiva en pacientes hipertensos.
+La afección de órganos diana por hipertensión arterial que presenta mayor morbilidad y mortalidad es la cardiopatía hipertensiva. Su prevención debería ser objeto de los programas de atención a pacientes hipertensos.
+

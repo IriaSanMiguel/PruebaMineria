@@ -1,0 +1,128 @@
+PRUEBAS DIAGNÓSTICAS COVID-19: IMPORTANCIA DEL CONTEXTO CLÍNICO
+
+
+- INTRODUCCIÓN
+
+La actual pandemia SARS-CoV-2 plantea retos sanitarios, sociales y económicos de enorme magnitud. El diagnóstico correcto y rápido de la infección por SARS-CoV-2 es crítico, tanto desde el punto de vista epidemiológico (dado que muchas personas infectadas están asintomáticas) como desde el punto de vista clínico (para identificar y tratar a los pacientes cuanto antes).
+Existen dos tipos fundamentales de pruebas diagnósticas de SARS-CoV-2: las que informan sobre la presencia de una infección actual y las que confirman una infección previa. Junto a ellas, otras pruebas diagnósticas, como algunas pruebas de imagen y determinados marcadores bioquímicos, pueden ayudar a complementar el diagnóstico de la enfermedad producida por SARS-CoV-2 (COVID-19). Como en el caso de cualquier otra prueba diagnóstica, las de COVID-19 tienen limitaciones metodológicas de sensibilidad (S) y especificidad (E) que determinan su valor predictivo positivo (VPP) y negativo (VPN). Además, su rendimiento diagnóstico depende del contexto clínico en el que se evalúan, es decir de la probabilidad pretest. Este artículo: 1. revisa los principales aspectos metodológicos que influyen sobre la S, E, VPP y VPN de las pruebas diagnósticas más habituales de COVID-19 y 2. discute su utilidad diagnóstica en diferentes escenarios clínicos.
+
+
+- PRUEBAS DIAGNÓSTICAS DE COVID-19
+
+-- REACCIÓN EN CADENA DE LA POLIMERASA EN TIEMPO REAL
+
+La reacción en cadena de la polimerasa en tiempo real (RT-PCR) identifica la presencia de ARN del SARS-CoV-2 en diversas muestras biológicas y se considera la prueba de diagnóstica de referencia. En general, las muestras del tracto respiratorio inferior proporcionan un rendimiento diagnóstico más alto que las del tracto respiratorio superior, pero su obtención es más invasiva y aumenta el riesgo de contagio del personal sanitario. Como se discute a continuación, deben tenerse en cuenta además diversos condicionantes metodológicos en función del tipo de muestra analizada.
+
+
+--- HISOPOS OROFARÍNGEOS/NASOFARÍNGEOS
+
+Son las muestras biológicas más frecuentemente utilizadas para el diagnóstico de COVID-19. Deben ser obtenidos por personal entrenado, siguiendo una metodología protocolizada que incluye desde disponer del material necesario, un correcto etiquetado de los tubos y el uso adecuado de los Equipos de Protección Individual (EPI), hasta las instrucciones al paciente, el propio procedimiento de obtención de la muestra y su correcta manipulación y traslado al laboratorio. Una obtención deficiente de la muestra puede dar lugar a un resultado falsamente negativo. Por otra parte, aunque la E de esta técnica es próxima al 100%, su S es más variable y depende del momento evolutivo del proceso infeccioso (la carga viral es mayor en etapas iniciales) y del lugar de toma de la muestra. Por ello, como se discute más adelante, un resultado negativo de RT-PCR debe evaluarse teniendo en cuenta la prevalencia y la probabilidad previa a la prueba de la enfermedad en la población analizada. El VPN, que disminuye con el aumento de la prevalencia, debe interpretarse con precaución y el autoaislamiento está indicado para cualquier paciente con síntomas típicos de COVID-19. Puede estar indicada una segunda prueba para el paciente que tiene varios síntomas típicos, que tendría una probabilidad previa del 40-50%.
+
+
+--- ESPUTO
+
+Las muestras de esputo son difíciles de obtener porque pocos pacientes con COVID-19 producen esputo espontáneo y no está indicado el esputo inducido por el riesgo de diseminación viral. Sin embargo, se ha observado que la carga viral suele ser superior en muestras de esputo que en las obtenidas con hisopos nasofaríngeos y orofaríngeos.
+
+
+--- MUESTRAS SALIVALES
+
+Las glándulas salivales expresan el receptor de superficie de la enzima convertidora de angiotensina II (ACE2), que facilita la entrada a la célula del SARS-CoV-2. La toma de muestras de saliva para el diagnóstico de infección por SARS-CoV-2 presenta ciertas ventajas como su fácil obtención no invasiva, menor riesgo de contagio para el personal sanitario, la posibilidad de realizar una automuestra y menor riesgo de hemorragia para pacientes con trastornos en la coagulación, entre otros. Sin embargo, la S de la PCR en muestras de saliva es inferior a la obtenida en muestras nasofaríngeas. Por otra parte, en la fase de convalecencia la carga viral disminuye antes en muestras de saliva que, en muestras nasofaríngeas, en las que el virus muerto podría persistir y dar lugar a un «falso positivo». Finalmente, la saliva tiene un papel importante en la transmisión del SARS-CoV-2 en la población, por lo que las muestras salivales podrían ser una alternativa para la monitorización de la carga epidemiológica de SARS-CoV-2 en la población general.
+
+
+--- ASPIRADO TRAQUEOBRONQUIAL
+
+Este tipo de muestras solo son posibles en pacientes ventilados mecánicamente o portadores de traqueostomía. Aunque la carga viral detectada es alta, este procedimiento puede suponer un riesgo importante para el profesional sanitario que lo realiza.
+
+
+--- LAVADO BRONCO-ALVEOLAR
+
+En pacientes críticos con neumonía COVID-19 es posible detectar SARS-COV-2 en muestras de lavado bronco-alveolar (BAL), incluso en ausencia de positividad en muestras del tracto respiratorio superior. Igual que en el caso del aspirado traqueobronquial, este procedimiento puede suponer un riesgo importante para el profesional sanitario que lo realiza, por lo que tampoco está indicados de forma rutinaria para el diagnóstico de COVID-19, .
+
+
+--- HISOPOS RECTALES Y MUESTRAS FECALES
+
+Algunos pacientes COVID-19 presentan síntomas digestivos. Se puede detectar SARS-CoV-2 en muestras rectales, especialmente en las fases avanzadas de la infección. Dado que los pacientes con enfermedad temprana o leve pueden tener una carga viral baja en frotis nasales y faríngeos, la obtención de muestras fecales puede ser una estrategia diagnóstica alternativa, incluso en ausencia de síntomas gastrointestinales.
+
+
+-- DETECCIÓN RÁPIDA DE ANTÍGENOS EN EL PUNTO DE ATENCIÓN
+
+Dado que los resultados de la RT-PCR no son inmediatos (generalmente no están disponibles hasta unas horas, que tiende a aumentar a las 24-48 horas en función de la demora en el transporte del centro asistencial al laboratorio central, y que en situaciones de colapso asistencial, incluso puede demorarse unos siete a 10 días el resultado) que deben procesarse en un laboratorio central con nivel de bioseguridad 2 o superior, y que es una técnica cara, se han desarrollado pruebas rápidas (más baratas) de antígenos que mediante inmunocromatografía de difusión (lateral-flow) puede presentar resultados en muestras orofaríngeas en 15-30 minutos. No precisan un laboratorio de bioseguridad y se pueden realizar en el punto habitual de atención al paciente. Su principal limitación es que, en individuos asintomáticos, su S es baja (alrededor del 50%) por lo que puede dar lugar a falsos negativos. Además, la S disminuye si se retrasa la realización de la prueba desde la toma de muestra (se ha de realizar en menos de dos horas desde la toma de la muestra). Por otra parte, la S aumenta de forma significativa en pacientes sintomáticos (98,2%). En cualquier caso, su E es muy alta (99,5%). Estas pruebas solo pueden realizarse con hisopos nasofaríngeos y, al ser cualitativas, no pueden cuantificar la cantidad de antígeno presente. Las pruebas en el punto (POCT), ofrecen resultados en pocos minutos, lo que permite tomar decisiones diagnósticas rápidas, facilitando el acceso a pruebas diagnósticas a las comunidades y poblaciones remotas que no pueden acceder fácilmente a la atención sanitaria.
+
+
+-- INMUNIDAD HUMORAL
+
+En muestras de sangre es posible detectar niveles de anticuerpos (IgM, IgG y IgA) específicos para SARS-CoV-2. Sin embargo, el organismo no produce estos anticuerpos de forma inmediata. Los anticuerpos IgG e IgM específicos SARS-CoV-2 S no son detectables en los tres primeros días de la infección. A partir del día cuatr post-infección se pueden detectar anticuerpos IgM específicos para SARS-CoV-2, que alcanzron un máximo en el día 20 aproximadamente y luego disminuyeron. Los de IgG tardan más tiempo en aparecer, pero persisten elevados varios meses. La E de este tipo de pruebas es alta (98,7%) y su S varía con el tiempo: 72,2% entre los ocho y 14 días y 100% entre los 15 y 39 días del proceso, . Por otra parte, cabe destacar que los anticuerpos humanos son más estables que el ARN viral, por lo que las muestras serológicas son menos propensas al deterioro durante la recolección, preparación, transporte, almacenamiento y análisis de muestras en comparación con las muestras de RT-PCR. Además, las muestras serológicas tienen menor variabilidad en comparación con las muestras nasofaríngeas, porque los anticuerpos se dispersan homogéneamente en la muestra sanguínea. Finalmente, las muestras serológicas se pueden recolectar fácilmente con una molestia mínima para el paciente durante la flebotomía.
+La IgA secretora desempeña un papel importante en la protección de las superficies mucosas contra patógenos mediante la neutralización de virus o la obstaculización de su adhesión a las células epiteliales. En un modelo experimental murino de infección por SARS-CoV-2, la instilación intranasal de proteínas del SARS-CoV-2 induce respuestas IgA específicas del virus (localizadas y sistémicas) y proporciona una mejor protección contra la exposición al SARS-CoV-2 en comparación con la administración intramuscular. Se ha sugerido que la inmunidad de la mucosa mediada por IgA también pudiera reducir la infectividad de las secreciones humanas y, por lo tanto, la transmisión viral poblacional. Estas observaciones pueden informar el desarrollo de vacunas que induzcan respuestas de IgA respiratorias específicas frente a SARS-CoV-2.
+
+
+-- INMUNIDAD CELULAR
+
+Recientemente se ha demostrado que algunos pacientes pueden montar una respuesta inmunitaria celular (linfocitos T CD4+ y CD8+), con o sin respuesta humoral simultánea. Aunque este conocimiento puede ser importante para la mejor comprensión de la patogénesis de la infección por SARS-CoV-2 y puede ayudar al diseño y evaluación de vacunas potenciales, actualmente no existen pruebas diagnósticas basadas en este tipo de respuesta inmunológica.
+
+
+-- TÉCNICAS DIAGNÓSTICAS COMPLEMENTARIAS
+
+Diversas pruebas pueden contribuir a complementar el diagnóstico de COVID-19. Entre ellas destacan las pruebas de imagen y algunos marcadores bioquímicos.
+
+
+--- PRUEBAS DE IMAGEN
+
+La COVID-19 es, inicial y fundamentalmente, una infección respiratoria (neumonía). Por ello, las pruebas de imagen torácica son fundamentales para definir el contexto clínico en el que interpretar las pruebas diagnósticas realizadas en el momento agudo de la infección, aunque por sí mismas no establecen el diagnostico de COVID-19. Se utilizan para apoyar el diagnóstico, establecer la gravedad de la enfermedad pulmonar, guiar el tratamiento y valorar la respuesta terapéutica. Existen diversas pruebas de imagen torácica a considerar en este contexto.
+
+
+--- RADIOGRAFÍA SIMPLE DE TÓRAX
+
+La radiografía simple de tórax (RT) es una exploración complementaria fundamental para identificar la presencia de neumonía por SARS-CoV-2 (COVID-19). Las imágenes radiológicas más habituales en estos pacientes incluyen opacidades irregulares, parcheadas, nebulosas, reticulares y en vidrio esmerilado bilaterales, aunque la RT puede ser normal en pacientes con síntomas y RT-PCR positiva. En general, las imágenes radiológicas en la RT suelen mejorar a partir de las dos semanas de evolución satisfactoria de los síntomas de la enfermedad, pero la mayoría de los pacientes (98%) continúa presentando alteraciones en la RT 28 días después del inicio de síntomas. Algunos estudios sugieren que los hallazgos de la RT pueden variar según la edad de los pacientes, siendo más frecuentes las consolidaciones en pacientes de mayor edad, mientras que las imágenes en vidrio deslustrado suelen ser más constantes en pacientes jóvenes.
+
+
+--- TOMOGRAFÍA COMPUTARIZADA DEL TÓRAX
+
+Las imágenes de tomografía computarizada (TC) en pacientes con COVID-19 son diversas y dependen de la etapa de infección después del inicio de los síntomas. Son frecuentes las opacidades bilaterales y periféricas de vidrio esmerilado y de consolidación pulmonar. Estas alteraciones son frecuentes (56%) en las primeras etapas de la enfermedad (0-2 días) y alcanzan su máximo alrededor de 10 días después del inicio de los síntomas. La TC tiene una S del 86-98% pero su E es baja (25%) ya que estas imágenes pueden observarse en otras patologías respiratorias. En pacientes con RT-PCR negativa, la TC no puede usarse como prueba diagnóstica. Otros aspectos logísticos a considerar tienen relación con los problemas de control de infecciones relacionados con el transporte de pacientes a las salas de TC, posibles ineficiencias en la descontaminación de la sala de TC y la falta de disponibilidad de TC en algunas zonas. Por todo ello, la radiografía de tórax portátil es la modalidad recomendada para la identificación y seguimiento de anomalías pulmonares.
+
+
+--- ECOGRAFÍA PULMONAR
+
+En manos de personal cualificado, la ecografía pulmonar (EP) es una técnica útil en pacientes con sospecha de COVID-19. Entre sus ventajas destaca que es una técnica que se puede hacer en el punto de atención, que es segura (no irradia) y reproducible, que ofrece información rápida sobre el estado del parénquima pulmonar, que es de bajo coste y que solo es necesario el profesional sanitario que realiza la exploración, lo que disminuye el riesgo de contagio. Entre sus limitaciones hay que mencionar que es fundamental tener experiencia en la técnica y que la EP no detecta lesiones que no estén en contacto con la pleura debido al aire interpuesto entre la sonda y la lesión (en estos casos es preciso complementar la exploración con RT o TC). Los hallazgos de la EP en pacientes con COVID-19 dependen de la fase evolutiva de la enfermedad, la gravedad de la lesión pulmonar y las posibles comorbilidades existentes. En general, en pacientes COVID-19 se aprecian diversos grados de afectación intersticial y consolidación alveolar, especialmente en los pacientes más graves. La EP también puede ser útil para evaluar la posible presencia de síndrome de distrés respiratorio agudo (SDRA) por SARS-CoV-2, para monitorizar la evolución de la enfermedad en respuesta al tratamiento establecido, el efecto de las maniobras de reclutamiento pulmonar, la respuesta a la posición prona y para tomar decisiones relacionadas con el destete (weaning) del paciente de la ventilación mecánica.
+
+
+--- MARCADORES BIOQUÍMICOS
+
+Los pacientes con COVID-19 pueden presentar múltiples alteraciones bioquímicas que incluyen: 1. leucocitosis o leucopenia, en general acompañada de linfopenia, eosinopenia y neutrofilia, 2. elevación de niveles de reactantes inflamatorios de fase aguda, como la proteína C reactiva, la ferritina, interleucina-6, amiloide sérico y la procalcitonina, , 3. marcadores de disfunción hepática (ALT, AST, LDH, bilirrubina) y renal (creatinina), , 4. alteraciones de la coagulación, que incluyen trombocitopenia o trombocitosis y elevación de los niveles de dímero D, 5. aumento de troponina, 6. disminución de niveles séricos de albúmina y 7. elevación de la glucemia. Muchas de estas alteraciones tienen valor pronóstico. Por ejemplo, son predictores de mortalidad intrahospitalaria los valores elevados de glucemia, AST, LDH y creatinina. Valores elevados de dímero D informan sobre la posibilidad de eventos tromboembólico, los de troponina sobre el riesgo de infarto agudo de miocardio, miocarditis, insuficiencia cardiaca, arritmias y muerte súbita y los de disfunción hepática de la posible presencia de hepatitis. Finalmente, biomarcadores inflamatorios como IL-6, proteína C reactiva, recuento de linfocitos y niveles de fibrinógeno se han relacionado con la necesidad de ventilación mecánica en pacientes con infección por SARS-CoV-2.
+
+
+- CONTEXTO CLÍNICO E INTERPRETACIÓN DE LAS PRUEBAS DIAGNÓSTICAS COVID-19
+
+Los principios de la estadística Bayesiana establecen que el valor de cualquier prueba diagnóstica depende de la probabilidad pretest de sufrir la enfermedad. Por ello, la interpretación de sus resultados debe siempre tener en cuenta el contexto clínico en el que se realiza la prueba. A continuación, se discuten algunos aspectos contextuales que pueden complementar los algoritmos recomendados por la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud en diveras situaciones clínicas (https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_Estrategia_vigilancia_y_control_e_indicadores.pdf).
+
+
+-- PERSONA ASINTOMÁTICA/CRIBADO POBLACIONAL
+
+En este contexto, tanto la RT-PCR como las pruebas serológicas pueden jugar un papel diagnóstico importante. En primer lugar, la RT-PCR, que detecta la presencia de ARN viral en las muestras biológicas con independencia de los síntomas del individuo, es útil en la detección de contactos y, por tanto, en su aislamiento con objeto de detener la cadena de transmisión comunitaria de la enfermedad. Sin embargo, si un paciente asintomático se ha recuperado de la infección inicial por SARS-CoV-2, la PCR no identificará esta infección previa. En cualquier caso, deben continuar aplicándose las medidas de control epidemiológico estándar (distancia, mascarilla, lavado de manos). También se están realizando pruebas rápidas de antígeno en cribados poblacionales o grupos de riesgo, aunque la sensibilidad sea más baja en asintomáticos.
+Las pruebas serológicas ofrecen información epidemiológica importante (pero no inmediata), ya que la determinación de anticuerpos (sobre todo IgG) permiten determinar el papel de las infecciones asintomáticas en la comunidad y, en especial, en profesionales sanitarios y población de riesgo (residencias de la tercera edad).
+
+
+-- PACIENTE AGUDO
+
+En primer lugar se debe considerar si el cuadro clínico del paciente es compatible con el diagnóstico de COVID-19 (cuadro agudo, febril, anosmia, ageusia, etc.). En este contexto, las pruebas de detección de infección activa (RT-PCR o prueba rápida de detección de antígenos) están indicadas en las primeras horas de aparición de los síntomas. La realización de una u otra dependerá del ámbito de realización, su disponibilidad y los días de evolución de los síntomas. Si esta prueba resulta negativa y hay alta sospecha clínica de COVID-19 se repetirá la prueba. Si se realizó una detección rápida de antígeno de inicio, se realizará una RT-PCR. Si se realizó una PCR de inicio, se repetirá la PCR a las 48 horas. Si continúan siendo negativa y han trascurrido varios días (al menos siete) desde el inicio de los síntomas, se podría plantear la detección de IgM o IgA mediante una prueba serológica1 tipo ELISA u otras técnicas de inmunoanálisis de alto rendimiento. La cinética de respuesta de ambas inmunoglobulinas es similar, alcanzándose su valor máximo entre los días ocho a 14 después de la aparición de los primeros síntomas.
+El VPP y el VPN de estas pruebas varía según la probabilidad pretest. Así en un contexto con baja prevalencia de la infección, el VPN será alto y el VPP bajo, mientras que, en una situación epidemiológica con alta probabilidad pretest de infección, el VPN será bajo y el VPP alto (tabla 1 ) . Aunque, como se ha comentado anteriormente, las muestras del tracto respiratorio inferior, especialmente el BAL, tienden a proporcionar un rendimiento diagnóstico más alto que las muestras del tracto respiratorio superior en pacientes con neumonía, su obtención también aumenta el riesgo de contagio del personal sanitario, .
+
+
+-- PACIENTE CONVALECIENTE
+
+En la mayoría de los pacientes que han padecido COVID-19 pueden detectarse anticuerpos específicos (de uno o varios isotipos) en los primeros 15 días después de la aparición de los síntomas, con independencia de la naturaleza de la prueba serológica empleada.
+Algunos pacientes convalecientes que han sido positivos para SARS-CoV-2 mediante RT-PCR o prueba de detección rápida de antígenos en el momento agudo de COVID-19, pueden continuar siéndolo durante un tiempo prolongado (Long COVID-19 ). En general se considera que el ARN viral puede detectarse durante aproximadamente dos a cuatro semanas desde el inicio de la enfermedad pero que la capacidad infecciosa del virus disminuye después de siete a 10 días. Sin embargo, no está claro si la persistencia de una RT-PCR positiva en pacientes COVID-19, con mantenimiento del cuadro clínico, indica que el paciente sigue siendo una fuente de infección potencial. En estos casos puede ser útil considerar el valor del número de replicación (Cycle threshold - CT) de la RT-PCR. Dado que el valor de CT está inversamente relacionado con la carga viral, su consideración puede ayudar en el proceso de toma de decisiones (aislamiento más corto, etc.). Se ha sugerido que un valor CT > 30 indica que la carga viral es baja, . Si el paciente, además, tiene anticuerpos positivos es posible que no tenga riesgo de desarrollar COVID-19 o infectar a los contactos cercanos.
+
+
+- CONCLUSIONES
+
+La RT-PCR y las pruebas de detección rápida de antígeno son útiles para el diagnóstico de infección aguda por SARS-CoV-2. Las pruebas serológicas identifican exposición previa al virus (con la correspondiente respuesta inmune humoral). Junto a ellas, existen una serie de pruebas diagnósticas complementarias como las pruebas de imagen (Radiografía y TC de tórax, ecografía pulmonar) y algunos marcadores bioquímicos que son útiles para valorar la gravedad de la enfermedad y ayudar a establecer su pronóstico. Como cualquier otra prueba diagnóstica, sin embargo, todas ellas han de ser interpretadas teniendo en cuenta tanto sus características metodológicas (E, S, VPP y VPN) metodológicas como el contexto clínico (probabilidad pretest) en el que se interpretan (paciente agudo, paciente convaleciente, persona asintomática o cribado poblacional).
+
+
+- FUENTE DE FINANCIACIÓN
+
+Los autores declaran que no existen entidades financiadoras ni instituciones que hayan proporcionado financiación económica para la realización de la investigación y/o la preparación del artículo, ni tampoco han formado parte del papel en ninguno de los siguientes apartados: en el diseño del estudio, ni revisión en el análisis y la interpretación de los datos, la redacción del artículo o la decisión de enviar el artículo para su publicación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no tienen intereses económicos en competencia o relaciones personales conocidas que puedan haber influido en el trabajo informado en este documento.

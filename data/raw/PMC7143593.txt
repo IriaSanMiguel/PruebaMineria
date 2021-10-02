@@ -1,0 +1,189 @@
+INFECCIONES EN EL PACIENTE INMUNOCOMPROMETIDO (II). PACIENTE TRASPLANTADO
+
+
+- INFECCIONES EN RECEPTOR DE TRASPLANTE DE PRECURSORES HEMATOPOYÉTICOS
+
+Los receptores de trasplante de precursores hematopoyéticos (TPH), especialmente aquellos que han recibido trasplante alogénico, presentan un riesgo elevado de infección. Desde el punto de vista temporal, se consideran tres períodos: período previo al prendimiento que se extiende desde la infusión hasta la recuperación de neutrófilos (20-30 días), el período posprendimiento precoz (30-100 días) y el período posprendimiento tardío (después del día 100). El TPH alogénico se asocia con un mayor riesgo de infección durante los tres períodos, mientras que los receptores de TPH autólogos suelen ser más vulnerables durante los 2 primeros. En ambos casos, persiste cierta predisposición a las complicaciones infecciosas hasta que no se produce la total recuperación inmune de las células B y T. Las terapias supresoras de linfocitos T (glucocorticoides en dosis altas, anticuerpos anticélulas T, análogos de purina), la enfermedad de injerto contra huésped (EICH) y la recepción de un injerto con depleción de linfocitos T puede retrasar la recuperación de células T.
+
+
+-- PERIODO PREVIO AL PRENDIMIENTO
+
+Durante este período predominan las infecciones nosocomiales favorecidas por el daño mucocutáneo y la neutropenia. La mayoría de los pacientes suelen presentar neutropenia febril, aunque solo en el 20-30% de estos casos se llega a conocer el origen de la infección. Hay mayor riesgo de infección tras un tratamiento mieloablativo, porque se produce una neutropenia más prolongada. Son frecuentes la neumonía, la infección gastrointestinal y la infección asociada a catéter. La fiebre persistente tiene un amplio diagnóstico diferencial que incluye infecciones producidas por bacterias, infección fúngica invasora (IFI), infección oculta, respuesta inflamatoria al daño tisular y fiebre medicamentosa. En pacientes que no reciben profilaxis vírica es muy común la reactivación del virus del herpes simple (VHS) que ocasionalmente puede causar esofagitis.
+
+
+--- DIARREA
+
+La diarrea es frecuente en estos pacientes, y puede deberse a causas infecciosas y no infecciosas. Una de las causas más comunes es la infección por C. difficile (ICD), cuya incidencia es del 5-10% durante los primeros meses. La ICD no se asocia con un mayor índice de recidivas ni de mortalidad que en otros pacientes. No es infrecuente que un paciente portador de C. difficile (con detección positiva de toxinas en heces) presente diarrea por otro motivo como la EICH. Otra causa frecuente de diarrea es la enterocolitis necrotizante (o tiflitis) cuyo diagnóstico diferencial debe incluir la ICD, colitis por citomegalovirus (CMV), infección por norovirus, colitis isquémica, síndrome de Ogilvie (pseudoobstrucción colónica), colangitis y colecistitis. Los casos que no responden al reposo intestinal y a antibióticos deben ser tratados con resección quirúrgica del segmento afectado.
+
+
+--- INFILTRADOS PULMONARES
+
+Los infiltrados de apariencia nodular (fig. 1 ) pueden estar originados por hongos y menos frecuentemente por bacterias (Gram positivas y Gram negativas). Requieren la realización de una tomografía computadorizada (TC) torácica y la obtención de muestras respiratorias para conocer su etiología. Cuando es producida por hongos filamentosos se puede producir una necrosis en su interior (signo del creciente lunar) que suele aparecer tras la recuperación del recuento de neutrófilos. La afectación pulmonar difusa puede ser debida a causas no infecciosas (edema pulmonar, daño pulmonar por el régimen de acondicionamiento) o por neumonía vírica difusa.Fig. 1
+
+
+-- PERIODO POSPRENDIMIENTO TEMPRANO
+
+Los principales factores de riesgo de infección durante este período son la EICH (y su terapia), así como mucositis residual y daño cutáneo.
+
+
+--- INFECCIÓN PULMONAR
+
+La aspergilosis pulmonar es una causa frecuente de lesiones nodulares detectadas durante este período, especialmente en pacientes con factores de riesgo como EICH, uso de esteroides, infección por CMV o por el virus respiratorio sinicitial. Coincidiendo con la generalización de la profilaxis antifúngica, se han detectado IFI menos comunes como las producidas por zigomicetos, Fusarium y Scedosporium. La afectación pulmonar difusa durante este periodo suele estar causada por CMV, por virus respiratorios o por Pneumocystis jirovecii. En receptores alogénicos es frecuente la neumonitis idiopática por el régimen de acondicionamiento. La neumonía por P. jirovecii (NPJ) puede ser ocasionada por primoinfección o por reactivación de una infección latente previa. Suele acompañarse de fiebre alta, tos seca, hipoxemia y neumonitis intersticial en pacientes sin profilaxis o con agentes subóptimos (pentamidina en aerosol o dapsona en días alternos). En pacientes con recuperación inmunológica pobre o EICH se debe prolongar la profilaxis. La hiperinfestación por estrongiloidiasis causa un síndrome de distrés respiratorio que ha sido evidenciado en algunos receptores de TPH. La infección se desarrolla en el contexto de la infestación intestinal crónica que se disemina tras la inmunosupresión. La toxoplasmosis diseminada es rara, pero a menudo se asocia con afectación pulmonar, por lo general con infiltrados difusos en las imágenes.
+
+
+--- DIARREA
+
+La diarrea durante este período suele ser debida a EICH aguda, colitis por CMV, medicamentos como el magnesio oral, ICD, adenovirus y virus enteropatógenos (Coxsackie A, Rotavirus, Norovirus).
+
+
+--- AFECTACIÓN HEPÁTICA
+
+Puede estar causada por toxicidad medicamentosa, EICH aguda, sobrecarga de hierro, virus de la hepatitis B (VHB) y C (VHC), CMV, virus de Epstein-Barr (VEB), adenovirus y candidiasis diseminada crónica (candidiasis hepatoesplénica). La reactivación del VHC ocurre en más del 50% en pacientes seropositivos receptores de TPH alogénico. En pacientes con serología sugestiva de infección curada (HBsAc positivo) se puede evidenciar una reactivación de la infección con daño hepático y presencia de HBsAg postivo (seroconversión inversa), .
+
+
+--- ENCEFALITIS
+
+Aunque la reactivación del virus herpes humano (VHH) 6 ocurre en el 30-50% de los pacientes sometidos a TPH alogénico, solo una pequeña proporción de estos pacientes presenta encefalitis. Otros patógenos como Toxoplasma gondii, VHS, virus varicela zoster (VZV) y CMV pueden causar encefalitis. La replicación del poliomavirus en el sistema nervioso central (SNC) puede producir leucoencefalopatía multifocal progresiva y manifestarse con déficits neurológicos subagudos que incluyen convulsiones, alteración del estado mental, síntomas visuales relacionados con defectos del campo visual (hemianopsia y diplopía), debilidad, hemiparesia o monoparesia y/o ataxia. La mayoría de las infecciones descritas hasta ahora pueden presentar un empeoramiento paradójico coincidiendo con la recuperación inmune (incremento de los linfocitos o reducción de inmunosupresión o tratamiento esteroideo) que se caracteriza por la aparición de nuevos signos de infección o el empeoramiento de los previos.
+
+
+-- PERIODO POSPRENDIMIENTO TARDÍO
+
+Los pacientes siguen teniendo un alto riesgo de infecciones, especialmente los que fueron sometidos a un régimen mieloablativo intenso a irradiación corporal total, receptores alogénicos que presentan EICH crónica y en casos de receptor con infección por CMV con donante sin infección por CMV. Se detectan infecciones similares a las padecidas por inmunococompetentes: bacteriemias, infecciones respiratorias y meningitis (producidas por S. pneumoniae, H. influenzae, N. meningitidis). También se siguen produciendo casos de neumonía por microorganismos oportunistas como CMV, virus respiratorios, P. jirovecii, Nocardia, Aspergillus y otros hongos filamentosos.
+
+
+--- INFECCIÓN POR CITOMEGALOVIRUS
+
+Con el uso de profilaxis frente a CMV, la infección tardía por CMV se ha convertido en un problema más frecuente. Los factores predictivos de esta infección son la discordancia serológica frente a CMV, trasplante con incompatibilidad HLA, la profilaxis anti-CMV y la reactivación temprana de CMV. La relación entre un descenso en la cuantificación de la carga vírica en sangre de CMV mediante reacción en cadena de la polimerasa (PCR) y la mejoría del paciente es menos discriminativa que en receptores de trasplante de órgano sólido (TOS). La aparición de letermovir, que puede ser empleado en la profilaxis y tratamiento, ha supuesto un avance relevante en el manejo de esta infección porque no presenta resistencia cruzada con otros antivíricos y no produce mielosupresión, aunque no tiene actividad frente a otros herpesvirus.
+
+
+--- INFECCIÓN POR MICOBACTERIAS
+
+La infección pulmonar por micobacterias es infrecuente (1-3% de los receptores alegénicos) y suele aparecer de forma tardía. La TB extrapulmonar se produce en aproximadamente el 15% de los pacientes y puede afectar al sistema urinario, médula ósea, SNC y articulaciones. Las micobacterias no tuberculosas pueden afectar al pulmón, torrente sanguíneo, catéter, los tejidos blandos, los huesos y las articulaciones.
+
+
+--- INFECCIÓN HEPÁTICA
+
+En estos pacientes, la afectación hepática suele ser debida a micobacterias de crecimiento rápido, virus hepatotropos, otros virus (CMV, VEB, VHH 6, adenovirus) y Candida. Durante este período puede producirse una reactivación aislada en el hígado del VZV y la hepatitis por VHS, .
+
+
+--- LISTERIOSIS
+
+Suele producir bacteriemia o meningitis (dos tercios de los pacientes) y con menos frecuencia otras formas de infección cerebral parenquimatosa como la encefalitis y el absceso cerebral (rhombencefalitis). El uso de la profilaxis con cotrimoxazol para la profilaxis de la NPJ y las recomendaciones sobre alimentos generalmente protegen contra la listeriosis. En estos casos, hay que hacer el diagnóstico diferencial con la infección tuberculosa del SNC, la criptococosis, la toxoplasmosis cerebral y las infecciones fúngicas diseminadas.
+
+
+--- INFECCIÓN POR EL VIRUS DE EPSTEIN-BARR
+
+El VEB en los receptores de TPH produce un cuadro similar a la mononucleosis (primeros meses tras la inducción) por proliferación benigna de células B policlonales. También puede ocasionar una forma más grave (enfermedad linfoproliferativa –ELP–) que cursa con fiebre, linfadenopatía o proliferación linfomatosa extranodal (hígado, tracto gastrointestinal, pulmón, SNC o médula ósea). Cursa con proliferación de células B monoclonales con anomalías citogenéticas y reordenamientos génicos de inmunoglobulina. El riesgo es mayor en pacientes con profunda citopenia de células T, discrepancia serológica del VEB del donante/receptor, reactivación previa del VEB o esplenectomía.
+
+
+- INFECCIONES EN RECEPTOR DE TRASPLANTE DE ÓRGANO SÓLIDO
+
+-- INTRODUCCIÓN
+
+Los avances en las técnicas quirúrgicas y el empleo de calcineurínicos han sido factores esenciales para mejorar la supervivencia de los receptores de TOS. La mortalidad debida a infecciones ha seguido disminuyendo durante los últimos años en todos los tipos de TOS. A pesar de ello, entre un 10-20% de los fallecimientos en estos pacientes son debidas a procesos infecciosos. El empleo de otros inmunosupresores como los inhibidores del receptor de la interleucina 2 (basiliximab) y anticuerpos anticélulas T (alemtuzumab) ha permitido reducir el deterioro renal y otras alteraciones metabólicas derivados del uso de calcineurínicos. Entre las causas para desarrollar una infección en receptores de órgano sólido se encuentran la transmisión a través del órgano trasplantado, la reactivación de infecciones latentes del receptor y la adquisición de infecciones en el periodo postrasplante (incluyendo las trasmitidas por hemoderivados).
+
+
+-- CRONOLOGÍA DE LAS INFECCIONES TRAS TRASPLANTE DE ÓRGANO SÓLIDO
+
+La incidencia, localización y los microorganismos responsables de las infecciones tras el TOS cumplen, a grandes rasgos, un patrón de aparición temporal predecible.
+
+
+--- PRIMER MES
+
+Durante este período, son frecuentes las infecciones nosocomiales relacionadas con la cirugía o la estancia en la Unidad de Cuidados Intensivos, como la infección del catéter, neumonía, infección del sitio quirúrgico y la ICD. Pueden presentarse casos de candidiasis o aspergilosis, especialmente si no se emplea profilaxis antifúngica. Las infecciones víricas son raras durante el primer mes, exceptuando la reactivación del VHS. Las infecciones transmitidas por el propio órgano trasplantado suelen manifestarse durante este periodo
+
+
+--- INFECCIONES ENTRE EL PRIMER Y EL SEXTO MES
+
+Lógicamente, la incidencia de infecciones adquiridas en el hospital es menor durante este período, con un claro aumento de las relacionadas con la inmunodepresión celular. Entre ellas destacan las producidas por P. jirovecci, hongos, Toxoplasma gondii, Nocardia y CMV. Durante los últimos años se evidencian más casos de infección por CMV tardía debido al empleo de profilaxis con ganciclovir o valganciclovir (durante los primeros 3-6 meses tras el TOS). Igualmente, el tratamiento preventivo con cotrimoxazol ha reducido mucho las infecciones por P. jirovecii y la toxoplasmosis. La mayoría de los casos de aspergilosis aparece entre 1-6 meses después del trasplante.
+
+
+--- INFECCIONES QUE APARECEN DESPUÉS DE LOS PRIMEROS 6 MESES TRAS TRASPLANTE DE ÓRGANO SÓLIDO
+
+Suelen ser infecciones adquiridas en la comunidad y semejantes a las de los pacientes no inmunodeprimidos. No obstante, hay estudios que muestran que la etiología de las infecciones y la mortalidad asociada a las infecciones es similar en ambos períodos, aunque con una incidencia muy inferior en este último período. Esto significa que el riesgo de infecciones oportunistas se reduce pero nunca se elimina de forma definitiva, de hecho las infecciones por el VVZ se pueden reactivar en cualquier momento tras el TOS. Durante este período pueden aparecer tumores secundarios a papilomavirus (VPH) y la ELP debida a infección crónica por VEB.
+
+
+-- CARACTERÍSTICAS DE LAS INFECCIONES EN FUNCIÓN DEL TIPO DE TRASPLANTE
+
+Los receptores de trasplante pulmonar (o cardiopulmonar) presentan más infecciones que los receptores de trasplante renal (con la incidencia más baja). Los receptores de trasplante hepático o cardíaco muestran tasas intermedias (tabla 1 ). Las IFI son frecuentes en los receptores de trasplante de hígado y trasplante pulmonar; intermedias en el trasplante de corazón e infrecuentes en el trasplante renal. En general, la localización de las infecciones guarda relación con el lugar de la intervención, incluyendo las colecciones de las infecciones posquirúrgicas próximas al injerto.
+
+
+--- RECEPTORES DE TRASPLANTE CARDÍACO
+
+Las infecciones más frecuentes después del trasplante cardíaco se localizan en el pulmón, vías urinarias y piel (virus del grupo herpes). Las infecciones quirúrgicas como mediastinitis e infección de la herida son más frecuentes en pacientes con diabetes mellitus, reintervención por hemorragia y tratamiento preventivo del rechazo del injerto. Las infecciones de los dispositivos de asistencia ventricular se localizan en la vía de alimentación, en el bolsillo que rodea al dispositivo o en la parte interna del dispositivo, y son una causa frecuente de bacteriemia. Hay que prestar atención a otros microorganismos menos frecuentes como M. hominis, Legionella, Aspergillus, zigomicetos y Nocardia. La primoinfección por Toxoplasma en el trasplante cardíaco (que recibe un injerto de un paciente seropositivo) se debe a la reactivación de microorganismos enquistados en el músculo cardíaco. Estos pacientes suelen presentar neumonía necrotizante, miocarditis y encefalitis semanas o unos pocos meses después del trasplante y es infrecuente en pacientes que toman profilaxis con cotrimoxazol. Las dosis de cotrimoxazol habitualmente empleadas para la profilaxis de la NPJ no consiguen evitar completamente la infección por Nocardia. Una complicación devastadora en los trasplantados por enfermedad de Chagas es su reactivación (que ocurre en el 25% de los casos) y que suele manifestarse con fiebre, miocarditis y lesiones cutáneas. La endocarditis postrasplante suele ser de adquisición nosocomial y se produce durante el primer año. Hay que señalar que los trasplantados cardíacos con valvulopatía deben recibir la profilaxis con amoxicilina en caso de que vayan a someterse a procedimientos odontológicos invasores de la mucosa.
+
+
+--- RECEPTORES DE TRASPLANTE DE PULMÓN
+
+Los pacientes con trasplante de pulmón experimentan una tasa elevada de infecciones pulmonares bacterianas, micóticas y víricas (CMV, fundamentalmente) que son más frecuentes durante las primeras semanas postrasplante. Esta elevada incidencia de infecciones es debida a un menor aclaramiento mucociliar, reducción del drenaje linfático y del reflejo de la tos. Un factor muy relevante es la colonización previa del árbol respiratorio por bacterias multirresistentes (frecuente en pacientes con fibrosis quística, bronquiectasias secundarias a otras enfermedades) que pueden producir infección respiratoria tras el trasplante. Las infecciones pulmonares recidivantes por CMV, VHS, paramixovirus y adenovirus son más frecuentes en casos de bronquiolitis obliterante y contribuyen de manera decisiva a la mortalidad de estos pacientes. Otras complicaciones frecuentes en estos enfermos son las infecciones extrahospitalarias por virus respirato-rios (gripe, parainfluenza, virus respiratorio sincitial –VRS–, metaneumovirus, coronavirus, rinovirus y adenovirus) y las infecciones pulmonares por micobacterias atípicas. La IFI es más frecuente que en los receptores de otros órganos. Entre los factores de riesgo están la colonización previa al trasplante, el trasplante de un solo pulmón y un aumento de la inmunosupresión para el rechazo del injerto. Una forma peculiar de aspergilosis en estos pacientes es la afectación de la mucosa de las vías respiratorias o de las anastomosis bronquiales, denominada aspergilosis traqueobronquial. Para prevenir estas infecciones se emplea profilaxis antifúngica con azoles o anfotericina B inhalada.
+
+
+--- RECEPTORES DE TRASPLANTE RENAL
+
+La mayoría de las infecciones se originan en el riñón y las vías urinarias. Los factores de riesgo de infección más importantes son la obesidad, la diabetes mellitus, la inmunosupresión con micofenolato, las fugas urinarias y la reintervención. Los pacientes que han recibido un regimen inmunosupresor más intenso o muestran una disfunción crónica del riñón trasplantado tienen más riesgo de infección tardía. Muchas infecciones corresponden a infecciones urinarias bajas, pero también son frecuentes las pielonefritis del riñón trasplantado. Alteraciones como el reflujo ureteral, estenosis en la unión ureterovesical o la vejiga neurógena puede producir infecciones de repetición. En relación con la bacteriuria asintomática, no hay datos suficientes para su tratamiento, por lo que no se recomienda la obtención de urocultivo de contol tras la infección urinaria. Con menos frecuencia pueden aparecer infecciones de orina ocasionadas por M. tuberculosis, Mycoplasma hominis, adenovirus, virus BK. La hepatitis por virus C (VHC) es especialmente frecuente en receptores de trasplante renal, a veces relacionada con el consumo de hemoderivados o la etapa previa de hemodiálisis.
+
+
+--- RECEPTORES DE TRASPLANTE HEPÁTICO
+
+Los receptores de trasplante hepático presentan un riesgo de infección intermedio. La mayoría de la infecciones son debidas a bacterias y la mitad se detectan durante las dos primeras semanas tras el trasplante (nosocomiales). Las localizaciones más frecuentes son la vía biliar, el sitio quirúrgico, los pulmones y el torrente sanguíneo. La incidencia de IFI es del 15-42%, con una mortalidad bastante elevada. Los factores de riesgo más importantes para este tipo de infecciones son la insuficiencia renal, el fracaso hepático fulminante, la cirugía prolongada, el retrasplante, la sobrecarga hepática de hierro y la colonización por Candida en el momento del trasplante. Casi un tercio por especies de Candida no albicans (en relación con profilaxis con fluconazol). La aspergilosis invasiva se produce en el 1-8% y casi siempre más de 90 días después del trasplante, lo que se ha relacionado con la profilaxis antifúngica y la aparición tardía de algunos factores de riesgo como la infección por CMV. La anastomosis del conducto biliar con un asa de yeyuno en Y de Roux, la estenosis biliar o trombosis de la arteria hepática suelen favorecer las infecciones abdominales tras el trasplante de hígado. El diagnóstico se establece mediante ecografía o TC y el tratamiento mediante drenaje y antibioterapia intravenosa. Los abscesos abdominales suelen afectar a pacientes que han sufrido intervenciones abdominales frecuentes o prolongadas y suelen localizarse en el espacio subhepático.
+
+
+--- OTROS TRASPLANTES
+
+Los receptores de trasplante de intestino delgado son particularmente propensos a desarrollar EICH por la abundancia de linfocitos en el órgano trasplantado. Predominan las infecciones piógenas intraabdominales y las hematógenas. El intestino trasplantado, igual que el pulmón trasplantado, es muy susceptible a la infección por CMV. Siguen siendo muy susceptibles a las infecciones en el período tardío postrasplante. La incidencia de síndromes linfoproliferativos asociados al VEB se aproxima al 10% a los 5 años y suelen afectar al intestino. La incidencia de infecciones en receptores de trasplante de páncreas se considera elevada. Son frecuentes las infecciones por CMV o Candida e infecciones del lecho quirúrgico.
+
+
+-- LOCALIZACIONES Y TIPOS DE INFECCIONES
+
+--- INFECCIONES DEL TORRENTE SANGUÍNEO
+
+La bacteriemia aparece en el 5-10% de los receptores renales y cardíacos, con tasas más altas (10-25%) en el trasplante hepático y pulmonar. El aparato respiratorio, la vía urinaria, la cavidad abdominal (incluidas las vías biliares), la piel y los tejidos subcutáneos y las vías venosas son los orígenes más frecuentes en estas infecciones. En el 20% de los casos no es posible determinar el foco infeccioso. Las resistencias locales deben considerarse para establecer la terapia antibiótica empírica en estos pacientes.
+
+
+--- INFECCIONES DEL SISTEMA NERVIOSO CENTRAL
+
+El riesgo de estas infecciones es mayor entre el primer y el sexto mes tras el trasplante, aunque la meningitis por criptococo suele aparecer tardíamente. Listeria puede producir bacteriemia, meningitis y cerebritis en estos pacientes. El líquido cefalorraquídeo (LCR) suele mostrar pleocitosis mononuclear con cultivo negativo en más del 50% de los casos. El diagnóstico se suele establecer mediante los hemocultivos o del LCR y presenta tendencia a las recurrencias a pesar de la respuesta inicial a los antimicrobianos. Al tratarse de una bacteria sensible a cotrimoxazol, su incidencia es menor que la esperada, considerando la inmunodepresión celular de estos pacientes. La infección del SNC por Aspergillus suele presentar una vía de entrada pulmonar, es más frecuente en el trasplante pulmonar y hepático y sus factores de riesgo más importantes son la disfunción renal y una inmunosupresión intensa. La detección de galactomanano en sangre es una buena herramienta diagnóstica. La meningitis por criptococo suele aparecer después del primer año postrasplante y se caracteriza por fiebre y síndrome meníngeo de evolución subaguda. Puede acompañarse de neumonitis y fungemia. La detección del antígeno del criptococo es muy útil para realizar el diagnóstico. Toxoplasma gondii es un protozoo que puede producir distintos tipos de infección del SNC que se presentan como meningoencefalitis difusa o lesiones cerebrales en forma de absceso. La mortalidad es elevada y el tratamiento consiste en pirimetamina y sulfadiazina. La nocardiosis puede producir meningitis o abscesos cerebrales y suele comenzar mediante la invasión pulmonar, generalizándose posteriormente. Las sulfamidas se emplean en su tratamiento. Algunos fármacos como amikacina, imipenem y cefotaxima muestran buena actividad frente a este microorganismo y se pueden utilizar en un tratamietno combinado con cotrimoxazol.
+
+
+--- INFECCIONES RESPIRATORIAS
+
+Los pacientes con neumonía subaguda (más de 7 días de evolución) que presentan tos no productiva o tienen infiltrados difusos o lesiones nodulares en la radiografía de tórax requieren un estudio profundo de su etiología y deben someterse a broncoscopia. Los estudios invasivos también pueden estar indicados si no hay respuesta al tratamiento inicial. Las infecciones producidas por virus respiratorios extrahospitalarios, como los virus de la gripe, parainfluenza, VRS, metaneumovirus, coronavirus, rinovirus o adenovirus pueden producir neumonía en pacientes trasplantados; su diagnóstico puede realizarse mediante la detección de antígenos, cultivos o PCR. Apenas hay tratamiento para las neumonías causadas por virus respiratorios, con excepción de la gripe, con oseltamivir oral. Zanamivir por vía intravenosa estará disponible en los próximos años. El diagnóstico de la infección por Aspergillus o Nocardia suele requerir la realización de broncoscopia.
+
+
+--- INFECCIONES INTRAABDOMINALES
+
+Este tipo de infecciones son más frecuentes en los trasplantados de hígado, páncreas o intestino delgado. Suelen estar relacionadas con trastornos médicos de base, como litiasis biliar, diverticulosis y con el propio acto quirúrgico. La ICD se ha convertido en una de las causas más frecuentes de diarrea en pacientes trasplantados, y guarda relación con las estancias hospitalarias prolongadas y las infecciones bacterianas que son tratadas con antibióticos. Suele afectar durante el primer postrasplante. En una minoría de casos se desarrolla alguna complicación como megacolon o perforación que requeriría cirugía. Igual que en la población general, el 20% de los casos, aproximadamente, desarrollan recurrencias. La infección por Helicobacter pylori se ha asociado a una neoplasia linfoproliferativa de bajo grado, llamada MALToma. La mayor parte de estas neoplasias responden bien a la reducción de la inmunosupresión y a la erradicación de la infección con antibióticos. La hiperinfestación y la infección diseminada por Strongyloides stercoralis constituyen problemas relevantes en la actualidad dada la escasa sospecha de esta infección crónica en donantes o receptores de trasplante. La determinación de PCR en heces ayuda al diagnóstico y el tratamiento de elección es ivermectina.
+
+
+--- INFECCIONES DE LA PIEL Y LA HERIDA QUIRÚRGICA
+
+Las infecciones cutáneas son frecuentes tras el trasplante, aunque no suelen ocasionar riesgo vital. Los microorganismos más comunes son S. aureus, enterococos, bacterias Gram negativas, Candida y M. hominis. En raras ocasiones, la nocardiosis, la mucormicosis y la criptococosis también pueden dar lugar a celulitis o a infecciones necrosantes cutáneas. La afectación cutánea por VHS y VVZ es muy frecuente, aunque suele presentar buen pronóstico. Las verrugas son un problema común, sobre todo una vez transcurridos más de 5 años desde el trasplante.
+
+
+--- HEPATITIS
+
+Las causas más importantes de hepatitis en pacientes trasplantados son el VHB, el VHC y el CMV, y las menos frecuentes VHS, VVZ, adenovirus y VHH 6. Los candidatos a trasplante hepático con infección crónica por el VHB suelen infectar al injerto. La disponibilidad de técnicas que permiten monitorizar la carga vírica en sangre y la aparición de fármacos capaces de tratar o prevenir la recurrencia hacen que los resultados de los trasplantados con infección por el VHB hayan mejorado notablemente. La estrategia más conveniente para prevenir la recurrencia del VHB consiste en un tratamiento combinado (por ejemplo, lamivudina y tenofovir) antes y después del trasplante. Aunque hay casos de infección por el VHC en todos los grupos de trasplantados, la prevalencia es mayor en los trasplantes hepáticos y renales. Aproximadamente, el 5% de los receptores de trasplantes infectados por el VHC desarrollará colestasis hepática progresiva fatal durante el primer año tras el trasplante. Estos casos presentan una elevada carga vírica y citolisis importante con mínima inflamación parenquimatosa. Los candidatos a trasplante hepático que tienen viremia por el VHC antes del trasplante casi siempre infectan el injerto después del trasplante y una proporción muy relevante desarrollará una hepatitis durante los primeros años tras el trasplante. Los antivíricos de acción directa (inhibidores de la proteasa, inhibidores de la polimerasa de ARN, inhibidores de NS5A) consiguen la curación de la infección antes del trasplante en casi todos los pacientes.
+
+
+-- PROBLEMAS ESPECÍFICOS DE LAS INFECCIONES POR VIRUS EN RECEPTORES DE TRASPLANTE DE ÓRGANO SÓLIDO
+
+El VHS suele reactivarse y afectar a la piel en más de la mitad de los casos si no se administra profilaxis con aciclovir. La infección visceral por VHS es muy infrecuente. En la mayor parte de los casos se trata de hepatitis por VHS tras el trasplante hepático o neumonía por VHS tras el trasplante pulmonar.
+La infección por CMV es más grave en receptores con serología negativa que reciben un órgano de un donante seropositivo (infección primaria). La presentación clínica más común es el denominado síndrome vírico (mononucleósico) que cursa con fiebre, leucopenia, trombopenia y elevación discreta de las enzimas de citolisis. Los órganos más afectados en los casos más graves son el pulmón, el tubo digestivo y el hígado. La neumonitis puede ser grave y se acompaña de disnea, hipoxemia y patrón intersticial difuso en la radiografía. La confirmación diagnóstica requiere cultivo positivo o la visualización de cuerpos de inclusión en la biopsia transbronquial. La afectación entérica se caracteriza por úlceras digestivas que se evidencian por endoscopia y se confirman con la biopsia. La afectación hepática es más frecuente en receptores de trasplante de hígado y en la infección primaria en comparación con los casos de reactivación. Ganciclovir es el antivírico de elección de la enfermedad por CMV en trasplantados. En casos leves, valganciclovir (vía oral) es una alternativa razonable, lo que facilita el alta precoz en algunos casos. En pacientes con CMV resistente a ganciclovir se puede emplear cidofovir y foscarnet.
+La infección por el VHH 6 suele producirse durante el primer mes postrasplante, por reactivación de la infección latente, y puede afectar a un tercio aproximadamente de los pacientes trasplantados, especialmente en quienes no se realiza profilaxis antivírica para el CMV. Producen un síndrome vírico inespecífico con fiebre y leucopenia, y rara vez afectación grave neurológica, respiratoria o hepática.
+La infección por VHH 8 es más frecuente en África central y del sur, en Oriente Medio y en los países europeos cercanos al Mediterráneo (fenómeno diferenciador respecto a otras infecciones del grupo herpes). Es la causa del sarcoma de Kaposi postrasplante, la enfermedad de Castleman y el linfoma de cavidades. El sarcoma de Kaposi experimenta una regresión cuando se reducen de forma sustancial las dosis de inmunosupresores. El empleo de sirolimus (que presenta efecto antiproliferativo) en lugar de un calcineurínico también mejora el pronóstico. Si no hay respuesta a estas medidas es necesaria la quimioterapia.
+La infección primaria por VEB se produce aproximadamente en el 75% de los receptores de trasplantes seronegativos. También hay que señalar que el 30% de los trasplantes seropositivos presenta una reactivación de la infección evidenciada mediante la PCR en sangre. La mayor parte de estas infecciones se producen durante los primeros 4 meses tras el trasplante. La incidencia de ELP es muy superior en los receptores de trasplante seronegativos. El otro factor de riesgo fundamental es la utilización de dosis altas de inmunosupresores. Se trata de tumores linfoproliferativos de estirpe B que contienen el genoma del VEB, que puede ser detectado mediante hibridación in situ o mediante inmunohistoquímica. Esta enfermedad puede ser monoclonal u oligoclonal. Los fármacos antivíricos, como aciclovir o ganciclovir, inhiben la fase lítica de la infección por el VEB y la producción de viriones, pero no son eficaces contra la replicación de las células con una infección latente por VEB. El tratamiento de los casos más graves puede requerir quimioterapia y la infusión de anticuerpos monoclonales contra los antígenos de superficie de los linfocitos B. Los tumores de fenotipo más maligno necesitan quimioterapia.
+La presencia de poliomavirus en la orina puede detectarse en más de la mitad de los receptores de trasplante renal.
+El virus BK ha sido relacionado con disfunción renal transitoria y estenosis ureteral.
+Los virus JC y SV40 se han detectado como causa de nefropatía en unos pocos pacientes, aunque su papel patogénico está peor establecido. La infección por el virus BK puede originarse de forma primaria, por la transmisión extrahospitalaria o por el donante, o mediante una reactivación, dado que la mayoría de los adultos son seropositivos. El rechazo del injerto (y su tratamiento) puede ser un factor predisponente importante para esta reactivación. La detección de estos virus es posible mediante distintas técnicas, como cultivo, citología, microscopio electrónico y PCR. La biopsia sigue siendo muy importante para establecer un diagnóstico definitivo. La reducción de la inmunosupresión es la medida más eficaz para prevenir la progresión de la nefropatía por el virus BK. La afectación del SNC por el virus JC (leucoencefalopatía multifocal progresiva) es mucho menos frecuentes que en pacientes infectados por el VIH. Los pacientes afectados desarrollan un cuadro de varias semanas o meses de duración, caracterizado por sintomatología motora, sensitiva, visual o cognitiva. Es necesaria la biopsia cerebral para establecer el diagnóstico. Aunque se ha evidenciado cierta mejoría al reducir la inmunosupresión, no existe una terapia antivírica eficaz para esta enfermedad neurológica.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+ Importante
+ Muy importante
+ Metaanálisis
+ Artículo de revisión
+ Ensayo clínico controlado
+ Guía de práctica clínica
+ Epidemiología

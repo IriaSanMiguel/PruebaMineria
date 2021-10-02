@@ -1,0 +1,137 @@
+TELEMEDICINA Y TRABAJO INTELIGENTE: ADAPTACIÓN AL ESPAÑOL DE LAS RECOMENDACIONES DE LA ASOCIACIÓN EUROPEA DE UROLOGÍA
+
+
+- INTRODUCCIÓN
+
+La actual pandemia por COVID-19 está creando grandes presiones en nuestro sistema de salud y ha ocasionado cambios dramáticos en nuestra vida diaria. Muchos países han impuesto controles estrictos sobre el movimiento y la socialización, en un esfuerzo por controlar su expansión. Estas medidas de protección han cambiado drásticamente la forma en que estamos practicando la medicina. La atención médica se ha visto obligada a adaptarse rápidamente, incluso se han publicado recomendaciones para ayudar a clasificar la prioridad de las cirugías urológicas, , , , , , , , .
+Muchos centros están convirtiendo rápidamente su actividad presencial en telemedicina, y esto ha supuesto que llegue a ser la nueva realidad de la mayoría de los mismos. Se espera que muchos pacientes pasen largos períodos de confinamiento en el hogar, por lo que la aparición o empeoramiento de síntomas urológicos o la interrupción del seguimiento pueden generar ansiedad y una sensación de impotencia. Hoy en día una de cada 10 personas en el mundo tienen más de 60 años; para el 2050 se estima que este número se duplique. Aunque las enfermedades urológicas afectan a un amplio espectro de grupos de edad (desde la edad prenatal hasta la vejez), muchas enfermedades urológicas se encuentran en pacientes de alto riesgo de infección por COVID-19, y de mala evolución (edad avanzada, varones…). Como tal, es deseable reducir las visitas médicas presenciales innecesarias y las visitas a las urgencias para evitar contactos innecesarios, protegiendo a los pacientes y reduciendo la carga de la atención sanitaria y el consumo de recursos. Es evidente, por tanto, que muchos aspectos de la asistencia sanitaria pueden resolverse mediante el uso de la tecnología.
+Como la telemedicina se ha utilizado en brotes epidémicos anteriores, se ha incorporado rápidamente como solución para controlar a los pacientes con COVID-19, y en varios países para continuar con la atención especializada. Los ejemplos incluyen pacientes aislados en Taiwán durante la epidemia de SARS en 2003, la influenza pandémica H1N1 en 2009 y pacientes infectados con influenza H7N9 en 2013 en China, , , , , . Están involucrados muchos problemas legales, de privacidad y de facturación, pero se están adaptando rápidamente debido a la crisis de la COVID-19, .
+Es difícil predecir cuánto durará la pandemia y el distanciamiento social puede convertirse en la «nueva normalidad» en nuestra sociedad. Incluso después de esta, la telemedicina ofrece muchas ventajas potenciales, como la conveniencia del paciente y una reducción de las emisiones contaminantes provocadas por el transporte. Es hora de formalizar el lugar de la telemedicina en la práctica clínica diaria de la urología, y es nuestra responsabilidad hacer esfuerzos para adaptar y aprender todos los instrumentos y posibles estrategias para su óptima aplicación, . Nuestro objetivo es proporcionar recomendaciones prácticas para el uso apropiado y efectivo de las herramientas tecnológicas en la medicina virtual.
+
+
+- MATERIALES Y MÉTODOS
+
+Esta revisión examinará el escenario actual en el que la telemedicina se utiliza para la práctica urológica diaria. Se ha realizado una investigación exhaustiva de la literatura en artículos originales y revisiones utilizando la base de datos de Medline y la literatura gris hasta abril de 2020. Buscamos los siguientes términos: «COVID-19 outbreak» y/o «smartworking» y/o «telemedicine» y/o «telehelth» y/o «urology». La combinación de «COVID-19 outbreak» con cada uno de los otros términos dio lugar a encontrar 149 artículos relacionados. La coherencia de estas recomendaciones se ve afectada por la falta inherente de pruebas sólidas en la urología.
+
+
+- RESULTADOS
+
+-- CARACTERÍSTICAS Y CONSIDERACIONES
+
+La telesalud se refiere al uso de información electrónica y herramientas de telecomunicación para proporcionar apoyo de atención médica clínica a distancia, educación profesional y de salud pública y administración de la salud, , . La telemedicina se utiliza para describir servicios clínicos a distancia, como el diagnóstico y la vigilancia, . El trabajo inteligente es un modelo de trabajo que utiliza tecnologías nuevas o existentes para mejorar su rendimiento: está vinculado al concepto de flexibilidad y teletrabajo. Cualquier idea innovadora es aplicable y defiende el concepto de trabajar desde cualquier lugar, incluidas las cafeterías, los espacios de trabajo conjunto y especialmente desde el hogar. El trabajo inteligente es utilizado por las empresas en diferentes áreas como las finanzas, los servicios de apoyo y la consultoría, . La telesalud (incluida la telemedicina) puede incluir cualquier tecnología de comunicación como el correo electrónico, el teléfono, la mensajería, las llamadas, las videollamadas, la transmisión de vídeo, el almacenamiento de datos, las imágenes, las videoconferencias y los seminarios web. Sin embargo, la aplicación de esas tecnologías requiere abordar los problemas relacionados con la privacidad, el reembolso y otras cuestiones de organización, , , .
+
+
+-- BENEFICIOS DE LA TELEMEDICINA EN LA PANDEMIA COVID-19
+
+
+
+
+--- LA TELEMEDICINA Y LOS BENEFICIOS DEL TRABAJO INTELIGENTE MÁS ALLÁ DE LA PANDEMIA DE COVID-19
+
+Los contaminantes del aire emitidos por el tráfico contribuyen a las enfermedades respiratorias. Las emisiones de los coches y otras formas de transporte contribuyen a los gases de efecto invernadero que conducen al cambio climático. Con el teletrabajo se evitan viajes hacia el trabajo, disminuyendo estas emisiones y ayudando a mejorar la calidad del aire regional y a proteger el medio ambiente.
+Los edificios utilizan la energía para calentar, enfriar e iluminar las oficinas y para hacer funcionar los equipos. Los edificios de oficinas representan casi 1/5 de todo el consumo de energía comercial y casi 3/4 de esa cantidad se utiliza para la iluminación, la calefacción, la refrigeración y la alimentación de los equipos de oficina. Si se reduce la cantidad de espacio de oficinas, es probable que también se reduzcan las emisiones del uso de electricidad. El ahorro neto depende de los cambios en el uso del espacio y el equipo tanto en la oficina como en el lugar de teletrabajo.
+El teletrabajo es una forma de aumentar la productividad, al permitir a los trabajadores evitar distracciones y sustituir parte del tiempo de desplazamiento por tiempo de trabajo.
+
+
+-- ¿CÓMO SEGUIR CON LA TELEMEDICINA Y EL TRABAJO INTELIGENTE EN LA UROLOGÍA
+
+La telemedicina es un esfuerzo en equipo que incluye urólogos, enfermeras, personal administrativo, coordinación interdisciplinaria con otros servicios, como laboratorio, radiología y oncología, y técnicos en informática sanitaria.
+
+
+-- ACCESO AL REGISTRO Y A LOS DATOS DEL PACIENTE
+
+Los registros y los datos deben ser electrónicos cumpliendo las normas de privacidad y protección de datos. En la Unión Europea (UE) debe regirse por el Reglamento General de Protección de Datos (RGPD). También aborda la transferencia de datos personales fuera de la UE. El RGPD tiene como objetivo dar control a los individuos sobre sus datos personales y simplificar el entorno regulador para los negocios internacionales unificando la regulación dentro de la UE. Cada país, región, sistema de salud y hospital tiene su propio programa para gestionar de forma segura los datos de los registros médicos, imágenes, diagnósticos y pruebas de laboratorio. Es deseable que se pueda acceder a ellos desde cualquier ordenador/dispositivo y lugar, incluso desde el hogar; si esta opción no está disponible, la administración del hospital debería considerar la posibilidad de proporcionar acceso remoto a la Virtual Private Network (VPN).
+
+
+-- PLANIFICACIÓN DE PACIENTES
+
+Es conveniente proporcionar a los pacientes diferentes métodos para programar su consulta, incluidos sitios web, correos electrónicos, números de teléfono o a través de aplicaciones móviles. Se recomienda una llamada previa del equipo de la clínica, mensajes de texto o recordatorios por correo electrónico para verificar que el paciente sepa cómo acceder a la visita y tener a su disposición los registros necesarios. Los pacientes pueden cargar los registros médicos directamente en su expediente a través de un teléfono o un ordenador de modo que los médicos puedan ver sus pruebas o los resultados de las imágenes de otras instalaciones durante la consulta. Se debe generar y gestionar una cita al paciente con la ayuda del equipo de tele-enfermería y el personal administrativo siendo su programación más flexible.
+
+
+-- ¿CÓMO CONTACTAR CON LOS PACIENTES Y HACER UNA TELECONSULTA
+
+Se puede contactar con los pacientes mediante una simple llamada telefónica, videollamada, correo electrónico, mensaje de texto, software específico o a través de una aplicación móvil. La forma más interactiva de hacer una teleconsulta parece ser en vídeo; se puede realizar un examen físico limitado guiando al paciente telemáticamente. Sin embargo, las plataformas con capacidad para realizar videoconsultas con protección segura de datos pueden estar limitadas en muchos países, debido a cuestiones de privacidad, facturación y costo. Además, algunos pacientes pueden tener dificultades para conectarse a una consulta por vídeo por cuestiones técnicas. En tal caso, una llamada telefónica puede ser la mejor opción. Las aplicaciones de telemedicina disponibles, por sí solas, suelen ser menos interactivas y pueden no tener suficiente apoyo en comparación con una plataforma telemática de atención integral (fig. 1 ).Figura 1
+
+
+-- ¿CÓMO SE REALIZA EL TRIAJE EN TELEMEDICINA
+
+La mejor forma de gestionar una teleconsulta se basa en la creación de un buen triaje. La clasificación de los pacientes en grupos es crucial, por ejemplo: 1) primera consulta o seguimiento de enfermedades oncológicas frente a las no oncológicas; 2) un motivo de consulta agudo (p. ej., infección urinaria, dolor costal, hematuria); 3) pacientes que necesitan un estudio complementario cara a cara (p. ej., para una cistoscopia o pruebas de imagen como el ultrasonido o la TAC); 4) pacientes que realmente necesitan ir a la urgencia o a la consulta para un procedimiento (p. ej., cateterismo para la retención urinaria aguda o cólico renal con fiebre) y, 5) pacientes con un diagnóstico que necesitaría intervención quirúrgica.
+En un mundo globalizado, los pacientes podrían necesitar servicios de traducción. En la actualidad esto no está disponible directamente en algunas plataformas de telemedicina como EPIC® (EPIC, Verona, EE. UU.). Sin embargo, las instituciones deberían esforzarse por contratar un servicio telefónico de traducción u otras opciones para facilitar la comunicación.
+
+
+-- CONSENTIMIENTO INFORMADO EN LA HISTORIA CLÍNICA
+
+Es importante documentar todos los datos del expediente clínico como una consulta cara a cara en la historia clínica. La nota debe incluir una referencia que exima de responsabilidad, como por ejemplo: «la teleconsulta se realiza con el consentimiento del paciente».
+
+
+-- GESTIÓN DE LOS EXÁMENES DE DIAGNÓSTICO COMPLEMENTARIOS
+
+En un entorno clínico, la solicitud de pruebas de laboratorio o imágenes de diagnóstico puede gestionarse a través de la VPN. Muchos pacientes necesitarán solicitudes de pruebas, algunas de ellas con relativa urgencia. Es importante poder enviar archivos de forma segura a través de correos electrónicos de manera regular. Un ejemplo de una aplicación codificada segura es Doximity: ofrece diferentes maneras de llegar a los pacientes desde los móviles sin compartir el número privado.
+La pandemia de COVID-19 está limitando la movilidad de los pacientes y los recursos sanitarios. La solicitud de pruebas complementarias debe hacerse de manera racional, teniendo en cuenta que muchos departamentos y laboratorios con funciones diagnósticas (p. ej., radiología) están trabajando en condiciones excepcionales y atendiendo principalmente a los pacientes de COVID-19 durante este crítico período. Debe considerarse la posibilidad de aplazar los exámenes de laboratorio y de diagnóstico por imágenes que no sean urgentes, en función de la urgencia clínica de la prueba, la edad y el estado de salud del paciente y la situación local de COVID-19, , , .
+
+
+-- CONSULTA DE SEGUIMIENTO
+
+En la visita de seguimiento, el equipo de telemedicina debe asegurarse de que los resultados de las pruebas complementarias que se soliciten estén a disposición del médico. Una vez que se disponga de los resultados y se puedan tomar decisiones clínicas, se recomienda enviar los informes al paciente y se deben programar las visitas. En la actual pandemia, es comprensible que las consultas de seguimiento de los pacientes de bajo riesgo puedan programarse más tarde de lo habitual.
+
+
+-- PLATAFORMAS DE TELEMEDICINA
+
+Es conveniente contar con una plataforma que integre la gestión segura de los datos y el acceso a los registros electrónicos, así como la capacidad de permitir videoconsultas de manera integrada. En muchos países europeos se necesitan plataformas de telesalud integradas dentro de un marco legal. En la actualidad existen plataformas disponibles comercialmente como el sistema de registros médicos EPIC® y NHS Attend Anywhere®. Durante el brote, el EPIC® se está utilizando con éxito en los EE. UU. Sin embargo, la capacidad de respuesta para la rápida implementación de plataformas como estas durante una pandemia es limitada en muchos países debido a los costos y a las regulaciones (tabla 1 ).
+
+
+-- ¿CÓMO INTERACTUAR CON OTROS MIEMBROS DEL EQUIPO DE TELEMEDICINA
+
+La comunicación continua con el equipo es crucial. Se utilizan canales regulares como llamadas, correos electrónicos y mensajería. Para las videoconferencias se pueden utilizar aplicaciones en línea como Zoom®, Hangouts® y Skype®, aunque esto puede depender de las restricciones de cada país, y se debe tener especial cuidado al compartir datos. El uso de Zoom® ha aumentado durante la pandemia de COVID-19, con millones de personas en todo el mundo teletrabajando, y ha sido esta práctica la que ha hecho que nos preocupemos sobre la privacidad. En el momento actual el servicio de Zoom® no admite el encriptado total de los contenidos de vídeo y audio. Algunos paquetes corporativos de pago, como Microsoft® Teams® y G Suite, ofrecen servicios de correo electrónico con dominios empresariales, capacidad de almacenamiento y hojas de cálculo que permiten actualizaciones en tiempo real, canales de chat, agendas, calendarios y herramientas de videoconferencia para grupos empresariales, que ofrecen un mejor rendimiento que las versiones gratuitas con un número cada vez mayor de usuarios. La recomendación es utilizar aplicaciones seguras en términos de privacidad, y crear bases de datos codificadas en forma segura para las tareas de seguimiento de los pacientes, que puedan actualizarse y ponerse a disposición de todo el equipo. Consulte a sus administradores clínicos y familiarícese con las normativas locales vigentes antes de adoptar estas tecnologías.
+
+
+-- LA MANERA DE TELETRABAJAR DESDE CASA
+
+Trabajar desde casa requiere autodisciplina, orden y organización. Es aconsejable hacer horarios de actividades, agenda de pacientes y respetar el tiempo como si fuera una consulta presencial. Preparar un área de trabajo adecuada en el hogar que proteja la confidencialidad de los pacientes y con tecnología disponible (ordenador, conexión a Internet, cámara de video y micrófono), así como vestimenta profesional. Mantener una buena comunicación y entusiasmo con el equipo, y hábitos y rutinas saludables que ayudan a mejorar la productividad, .
+
+
+-- LA FORMACIÓN TELEMÁTICA EN UROLOGÍA
+
+El año 2020 es un año excepcional, ya que los congresos anuales de la Asociación Europea de Urología (EAU), de la Asociación Americana de Urología (AUA) y de la Asociación Española de Urología (AEU) se suspendieron físicamente y se han vuelto totalmente virtuales debido a la pandemia COVID-19. Ahora más que nunca es crucial seguir aprendiendo y compartiendo conocimientos a través de plataformas virtuales, . En este sentido, se han creado varias plataformas virtuales, incluyendo redes sociales como Twitter®, Facebook® e Instagram®, así como seminarios web urológicos organizados desde las diferentes asociaciones, , , . Se pueden utilizar varias plataformas para crear seminarios web y congresos, por ejemplo la plataforma LogMeIn (https://www.logmeininc.com/) ofrece plataformas como GoToMeeting, GoToWebinar y GoToTraining que permiten organizar seminarios web, reuniones y congresos virtuales de manera relativamente sencilla, con precios accesibles y cumpliendo con la normativa europea sobre protección segura de datos. También hay alternativas más sencillas, como la transmisión en directo a través de aplicaciones y plataformas en línea como Facebook®, Instagram® o Zoom®, que pueden ser una opción para transmitir una videoconferencia. La privacidad debe respetarse plenamente en todos estos procesos.
+
+
+-- PRIVACIDAD Y FACTURACIÓN
+
+La adhesión a la política de privacidad de datos es esencial. Es aconsejable utilizar canales de comunicación seguros para proteger la confidencialidad de los datos de los pacientes. Las plataformas proporcionadas por el propio centro son las más recomendables. La reglamentación de la privacidad y la facturación varía según las distintas regiones y países, lo que se ha complicado aún más debido a la rápida evolución de la situación de COVID-19, . Una vez más, se aconseja encarecidamente que se compruebe la normativa local con su administrador clínico.
+
+
+-- LIMITACIONES Y RIESGOS
+
+Una limitación de las teleconsultas es que no se puede realizar un examen físico convencional. Por otro lado, un autoexamen dirigido por el médico puede ser una opción razonable, especialmente en las visitas de video, ; tampoco es posible obtener muestras diagnósticas (como la prueba de orina, la medición de la orina residual posmiccional, las pruebas de laboratorio) durante el encuentro, por lo que cualquier prueba importante que se requiera deberá hacerse por separado.
+Las condiciones de facturación de la telemedicina, varían en cada país y son complicadas; sin embargo, se están estudiando cambios en las reglamentaciones de la telemedicina, y se nos debería alentar a estudiar y adaptarlas a cada país y región.
+La confidencialidad es otro problema, sin embargo, siguiendo las recomendaciones, utilizando los canales adecuados y el sentido común, podemos resolverlo. También se están abordando las consideraciones reglamentarias sobre la confidencialidad: debe notificarse a los pacientes qué protecciones existen y se debe incluir una cláusula de exención de responsabilidad en la documentación clínica.
+Es posible que algunos urólogos no tengan experiencia previa con el teletrabajo y la telesalud; los posibles desafíos incluyen la programación de las teleconsultas, las reuniones de equipo, la autodisciplina, las distracciones del teletrabajo, los sentimientos de soledad, la pérdida de motivación, la depresión, las perturbaciones de la vida familiar dentro del hogar y la creación de un entorno de trabajo profesional a distancia.
+
+
+-- RECOMENDACIONES DE BUENAS PRÁCTICAS SOBRE TELEMEDICINA Y TRABAJO INTELIGENTE
+
+Estas recomendaciones tratan de proporcionar las mejores prácticas para aplicar en la telemedicina dentro de la urología. La pandemia de COVID-19 está cambiando rápidamente y estas recomendaciones deberían actualizarse regularmente.
+Trate de cumplir las recomendaciones, siga sus políticas locales y evite las conductas indebidas (tabla 2 ).
+
+
+-- DESAFÍOS Y DIRECCIONES FUTURAS
+
+En el escenario actual, debemos hacer esfuerzos para asegurar la viabilidad de la telemedicina y el trabajo inteligente. Estas herramientas son útiles durante esta crisis y probablemente estén aquí para quedarse. Es deber de las asociaciones nacionales y regionales, así como de los departamentos de urología de cada institución, encontrar estrategias adaptadas a su entorno local. Debemos buscar estrategias simples y eficaces a corto plazo y pensar en estrategias a medio y largo plazo. Cuando la incidencia de COVID-19 disminuye, nadie sabe actualmente cómo volver a la «práctica clínica normal».
+Todo parece indicar que las consultas presenciales van a estar restringidas durante un período de tiempo indeterminado y tenemos que evolucionar rápidamente con la telemedicina y la medicina virtual. Una cuestión importante es el acceso a la atención sanitaria, que puede resultar problemático para las personas de las zonas rurales; se trata de otra población que puede beneficiarse a largo plazo de una mayor expansión de la telemedicina.
+Las instituciones deben crear programas de telemedicina de acuerdo con las necesidades de cada departamento. Esto incluye la definición de los tipos de servicios que se han de ofrecer (p. ej., primeras consultas, seguimientos, lectura rápida de pruebas o imágenes...) y la forma en que se prestará la telemedicina. Después de definir las necesidades, viene la fase de planificación, donde se crean los plazos y las listas de tareas para lanzar y mantener el programa de telemedicina. Esto incluye:1.Definir el objetivo de los pacientes y las enfermedades que se incluirán en el programa de telemedicina y los calendarios a seguir (p. ej., seguimiento del cáncer de próstata de bajo riesgo, HBP con síntomas bajos a moderados…)2.Seleccionar a personas entusiastas y motivadas e impartir una formación específica3.Determinar las horas necesarias para completar las tareas y crear un calendario de aplicación4.Discutir y crear los materiales necesarios para dar forma al programa de telemedicina
+La etapa final es la implementación y la retroalimentación. La implementación de un programa de telemedicina implica un cambio organizativo en los departamentos, y como todo cambio implica a las personas. La tecnología es una piedra angular de los programas de telemedicina; sin embargo, para que la implementación sea exitosa se requiere la capacidad de formar el mejor equipo.
+
+
+- CONCLUSIONES
+
+La telemedicina y el trabajo inteligente proporcionan apoyo clínico especializado a los urólogos a distancia utilizando herramientas tecnológicas como alternativa logísticamente viable a la consulta presencial. Esta novedosa forma de práctica médica reduce las visitas innecesarias a las instalaciones médicas, y es útil para reducir el riesgo de transmisión en la actual pandemia de COVID-19. Además, consideraciones tanto personales como sociales (p. ej., las emisiones de gases de efecto invernadero, una mayor eficiencia) pueden favorecer el uso continuado de la telemedicina cuando sea aplicable, incluso más allá de la pandemia de COVID-19.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- AGRADECIMIENTOS
+
+Agradecemos a todo el personal de la EAU y de la AEU dedicado a mantener el trabajo durante esta pandemia COVID-19.

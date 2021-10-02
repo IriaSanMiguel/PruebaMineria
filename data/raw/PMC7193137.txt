@@ -1,0 +1,142 @@
+RECOMENDACIONES DE CONSENSO SEPAR Y AEER SOBRE EL USO DE LA BRONCOSCOPIA Y LA TOMA DE MUESTRAS DE LA VÍA RESPIRATORIA EN PACIENTES CON SOSPECHA O CON INFECCIÓN CONFIRMADA POR COVID-19
+
+
+- INTRODUCCIÓN
+
+Este documento de consenso está elaborado por el área de Técnicas y Trasplante y el área de Enfermería de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), así como por la Asociación Española de Endoscopia Respiratoria (AEER), con el objetivo de proporcionar conocimientos para el uso efectivo y seguro de la broncoscopia en pacientes con sospecha o con confirmación de la infección por COVID-19. Es prioritario proporcionar la mayor seguridad a nuestros pacientes, a los sanitarios que los atienden y a la comunidad en general.
+En este momento de pandemia, la información de la que disponemos acerca del uso de la broncoscopia en este tipo de pacientes se basa en la experiencia de otros centros y países, y las publicaciones científicas son escasas. El objetivo de este documento es recoger esas experiencias y, en base a las recomendaciones de los organismos oficiales, ofrecer un documento de ayuda para la práctica clínica diaria. Dada la evolución de la enfermedad, es posible que haya cambios respecto a las recomendaciones a corto plazo, por lo que se actualizará siempre que sea preciso.
+El coronavirus SARS-CoV-2 se transmite de persona a persona por vía respiratoria a través de las gotas respiratorias de más de 5 μm, cuando el enfermo presenta sintomatología respiratoria (tos y estornudos) y contacto con fómites. Debido a ello, las precauciones para el manejo de los pacientes en investigación, probables o confirmados deben incluir las precauciones estándar, precauciones de contacto y precauciones de transmisión por gotas, , , .
+El periodo medio de incubación es de 5,2 días y puede variar entre 2 y 14 días. La transmisión aérea por núcleo de gotitas o aerosoles (capaz de transmitirse a una distancia de más de 2 m) no ha sido demostrada para el SARS-CoV-2. Sin embargo, se cree que esta podría ocurrir durante la realización de procedimientos asistenciales invasivos del tracto respiratorio como la broncoscopia. Se debe señalar que la broncoscopia no debe usarse como un medio de rutina para el diagnóstico de la infección COVID-19.
+Este documento tiene como objeto conocer los riesgos y los beneficios de la realización de broncoscopias en este tipo de pacientes, así como evitar las infecciones cruzadas paciente-paciente y garantizar la seguridad del personal sanitario implicado en la realización de estas.
+
+
+- RECOMENDACIONES GENERALES PARA LA TOMA DE MUESTRAS RESPIRATORIAS
+
+-- CONSIDERACIONES GENERALES SOBRE LA BRONCOSCOPIA
+
+La broncoscopia no es el método diagnóstico de rutina para la toma de muestras en la infección por COVID 19, .
+Sin embargo, puede ser necesaria en determinadas circunstancias que hay que valorar individualmente teniendo en cuenta los riesgos y beneficios de la misma.
+Riesgo de la broncoscopia:–Puede causar deterioro del estado clínico del paciente debido a la instilación de suero salino y por la sedación.–El riesgo de transmisión por aerosolización es muy grande.–Es necesario consumir una gran cantidad de recursos materiales muy necesarios en épocas de epidemia, como son guantes, mascarillas, personal sanitario, etc.
+Beneficios de la broncoscopia:–Realizar un diagnóstico de certeza antes de aplicar un tratamiento específico.–Descartar otras infecciones concomitantes en pacientes inmunodeprimidos como otras infecciones víricas, neumonía fúngica o por Pneumocystis.–Realizar tratamientos endoscópicos urgentes como atelectasia por retención de secreciones o tapones mucosos, hemoptisis, etc.
+
+
+-- RECOMENDACIONES RELACIONADAS CON LA TOMA DE MUESTRAS
+
+
+
+
+-- RECOMENDACIONES GENERALES PARA LA BRONCOSCOPIA NO URGENTE
+
+1.Debe consultarse previamente al paciente antes de la cita programada sobre su historial de viaje o contacto de riesgo, en cuyo caso se pospondrá la prueba. Si el paciente presenta clínica de fiebre o síntomas infecciosos o respiratorios continuados debe posponerse la exploración hasta el control de estos y posterior reevaluación. En todos los casos, la PCR para COVID-19 debe ser negativa.2.Cualquier broncoscopia, dada la situación de pandemia actual, debe realizarse en todos los pacientes incluso asintomáticos, siguiendo las recomendaciones de aislamiento para casos de infección por COVID con limitación de personal esencial presente en la sala de broncoscopia o de quirófano con presión negativa o sala de aislamiento.
+
+
+-- RECOMENDACIONES GENERALES PARA LA BRONCOSCOPIA EN PACIENTES CON INFECCIÓN POR COVID-19 SOSPECHADO O CONFIRMADO
+
+La broncoscopia es una prueba de segunda elección para la toma de muestras respiratorias. Sin embargo, hay otras indicaciones principales que se recogen más adelante. Debe hacerse con un equipo de protección individual (EPI) adecuado, incluidos guantes, batas impermeables de manga larga, mascarilla FFP3 y protección ocular ajustada con montura integral o facial completa como se describe más adelante en el epígrafe sobre medidas de protección.
+
+
+-- RECOMENDACIONES RELACIONADAS CON LA PREPARACIÓN, LA SEDACIÓN, LA OXIGENACIÓN Y LA MONITORIZACIÓN EN LA BRONCOSCOPIA
+
+
+
+
+- INDICACIONES DE REALIZACIÓN DE BRONCOSCOPIA
+
+La indicación de una broncoscopia —flexible o rígida— para la toma de muestras respiratorias en un paciente con sospecha clínico-epidemiológica de infección por COVID-19 no es de primera elección. Esto es así dado el alto riesgo de contagio para el personal sanitario que realiza la técnica y manipula el instrumental, y las muestras obtenidas. Sin embargo, en pacientes con diagnóstico confirmado de COVID-19 puede ser una herramienta muy valiosa en determinadas circunstancias.
+Así, la indicación de una técnica endoscópica o pleural se debe valorar de forma individualizada en cada paciente según 2 posibles escenarios (fig. 1 ):1. Pacientes con diagnóstico de infección por COVID-19. En esta situación, los análisis de las muestras del tracto respiratorio superior han sido diagnósticas y no será necesario realizar técnicas endoscópicas ni pleurales, salvo en determinados supuestos que se exponen a continuación.2. Pacientes sin diagnóstico de infección por COVID-19 y con sospecha clínico-epidemiológica de infección. En esta circunstancia, lo primero es obtener una muestra adecuada de las vías respiratorias altas. El esputo puede ser una muestra adecuada para el diagnóstico, pero supone una técnica con alto riesgo de diseminación y contagio del virus por lo que no se debe utilizar. Si el resultado microbiológico de la muestra obtenida de las vías respiratorias altas no es concluyente (2 tomas), está indicada, a continuación, la toma de una muestra mediante broncoscopia. Figura 1
+Circunstancias en las que está indicada la realización de una broncoscopia en pacientes con o sin diagnóstico de infección por COVID-19 : 
+En los pacientes sin sospecha clínica ni epidemiológica de infección por COVID-19, la realización de una endoscopia respiratoria o una técnica pleural estará condicionada a la situación epidemiológica local (fig. 2 ).Figura 2
+
+
+- RECURSOS PARA LA REALIZACIÓN DE BRONCOSCOPIA
+
+-- PERSONAL
+
+El equipo de trabajo debe ser el mínimo imprescindible para la realización del procedimiento:–En broncoscopia básica: endoscopista, enfermero y técnico auxiliar de enfermería (TCAE). Si es posible, podría realizarse solo con endoscopista y enfermero, y el TCAE responsabilizarse de las muestras en otra sala.–En broncoscopia avanzada: además de lo anterior un anestesista.–En broncoscopia en UCI: además de lo anterior un intensivista.
+El equipo debe ser el más experimentado en la realización de procedimientos para reducir el tiempo de exploración.
+
+
+-- EQUIPAMIENTO
+
+
+
+
+-- LUGAR DE REALIZACIÓN
+
+
+
+
+- MEDIDAS DE PROTECCIÓN DIRIGIDAS AL PERSONAL SANITARIO
+
+
+A continuación, se describen los EPI que podrían ser necesarios, así como las características o los aspectos de estos que pueden ser destacables en el entorno laboral que nos ocupa. No se trata de una descripción de todos los EPI que pudieran proteger frente a un riesgo biológico, sino de los indicados en el caso del personal potencialmente expuesto en el manejo de las personas en investigación o confirmadas de infección por el coronavirus. La evaluación del riesgo de exposición permitirá precisar la necesidad del tipo de protección más adecuado.
+
+
+-- PROTECCIÓN RESPIRATORIA
+
+Los casos confirmados y en investigación deben llevar mascarillas quirúrgicas con el fin de evitar contagios. Las mascarillas quirúrgicas deben cumplir la norma UNE-EN 14683:2019 + AC:2019. La colocación de la mascarilla quirúrgica a una persona con sintomatología respiratoria supone la primera medida de protección para el trabajador.
+Si se utiliza una mascarilla autofiltrante, en ningún caso esta incluirá válvula de exhalación. Con esta válvula el aire es exhalado directamente al ambiente sin ningún tipo de retención y se favorecería, en su caso, la difusión del virus.
+La protección respiratoria generalmente recomendada para el personal sanitario que pueda estar en contacto a menos de 2 m con casos en investigación o confirmados es una mascarilla autofiltrante tipo FFP2 o media máscara provista con filtro contra partículas P2.
+Las mascarillas autofiltrantes (que deben cumplir la norma UNE-EN 149:2001 + A1:2009) o, en su caso, los filtros empleados (que deben cumplir con las normas UNE-EN 143:2001) no deben reutilizarse y, por tanto, deben desecharse tras su uso.
+Cuando de la evaluación de riesgos se derive que en el desarrollo de la actividad se realizan procedimientos asistenciales en los que se puedan generar bioaerosoles en concentraciones elevadas, se recomienda el uso por el personal sanitario de mascarillas autofiltrantes contra partículas FFP3 o media máscara provista con filtro contra partículas P3.
+Los equipos de protección respiratoria deben quitarse en último lugar, tras la retirada de otros componentes como guantes, batas, etc.
+
+
+-- GUANTES Y ROPA DE PROTECCIÓN
+
+--- GUANTES DE PROTECCIÓN
+
+1.Los guantes de protección deben cumplir con la norma UNE-EN ISO 374.5:2016.2.En actividades de atención al paciente y en laboratorios, los guantes que se utilizan son desechables, ya que las tareas asociadas requieren destreza y no admiten otro tipo de guante más grueso.3.En otro tipo de actividad que no requiera tanta destreza, como, por ejemplo, en tareas de limpieza y desinfección de superficies que hayan estado en contacto con pacientes, puede optarse por guantes más gruesos, más resistentes a la rotura.
+
+
+--- ROPA DE PROTECCIÓN
+
+1.Es necesaria la protección del uniforme del trabajador de la posible salpicadura de fluidos biológicos o secreciones procedentes del paciente confirmado o en investigación al que examina o trata.2.Este tipo de ropa, como EPI, debe cumplir con la norma UNE-EN 14126:2004, que contempla ensayos específicos de resistencia a la penetración de microorganismos. Puede ofrecer distintos niveles de hermeticidad tanto en su material como en su diseño, cubriendo parcialmente el cuerpo como batas, delantales, manguitos, polainas, etc., o el cuerpo completo. En la designación, se incluye el tipo y la letra B (de biológico).3.En caso de que sea necesaria protección adicional en alguna zona, como cierta impermeabilidad, también puede recurrirse a delantales de protección química que cumplen con la norma UNE-UNE-EN 14605:2009, denominados tipos PB (3) y PB (4) (PB procede de «partial body»), que, aunque no sean específicamente de protección biológica, pueden ser adecuados para el uso de protección contra salpicaduras mencionado o para complementar una bata que no sea un EPI.4.Se recomienda que la ropa de protección biológica sea desechable. El motivo es porque tiene la ventaja de que al eliminarse se evitan fuentes de posible contagio que pudieran aparecer en el caso de que la desinfección del equipo no se realizase correctamente.
+
+
+-- PROTECCIÓN OCULAR Y FACIAL
+
+1.Se debe usar protección ocular por riesgo de contaminación de los ojos a partir de salpicaduras o gotas (sangre, secreciones, etc.).2.Los protectores oculares certificados con base en la norma UNE-EN 166:2002 para la protección frente a líquidos pueden ser gafas integrales frente a gotas o pantallas faciales frente a salpicaduras (ambos, campo de uso 3), donde lo que se evalúa es la hermeticidad del protector (en el caso de la gafa integral) o la zona de cobertura de este (en el caso de la pantalla facial). En realidad, no existe una norma específica de protectores oculares frente a microorganismos. Los posibles campos de uso a considerar según UNE EN 166 serían: protección frente a impactos (todo tipo de montura), líquidos (montura integral/pantalla facial), polvo grueso > 5 μm (montura integral), gas y polvo fino < 5 μm (montura integral).3.Es posible el uso de otro tipo de protector ocular, como sería el caso de gafas de montura universal con protección lateral, para evitar el contacto de la conjuntiva con superficies contaminadas, por ejemplo, contacto con manos o guantes. No obstante, si por el tipo de exposición se precisa garantizar cierta hermeticidad de las cuencas orbitales deberemos recurrir a gafas integrales (campos de uso 3, 4 o 5 según UNE-EN 166:2002, en función de la hermeticidad requerida) y para la protección conjunta de ojos y cara, a pantallas faciales. Los campos de uso se definen: 3 (gotas de líquidos, admite ventilación directa), 4 (polvo grueso, admite ventilación indirecta) y 5 (gas y polvo fino, no admite ventilación).4.Se recomienda siempre protección ocular durante los procedimientos de generación de aerosoles. Cuando sea necesario el uso conjunto de más de un EPI, debe asegurarse la compatibilidad entre ellos, lo cual es particularmente importante en el caso de la protección respiratoria y ocular simultánea, para que la hermeticidad de estos y, por tanto, su capacidad de proteger no se vean mermadas.
+En la tabla 1 se resumen los requisitos necesarios para la realización de broncoscopias en pacientes COVID-19.
+
+
+-- COLOCACIÓN Y RETIRADA DE LOS EPI
+
+Tal y como se ha indicado, los EPI deben seleccionarse para garantizar la protección adecuada en función de la forma y nivel de exposición y que esta se mantenga durante la realización de la actividad laboral. En este sentido, deben respetarse las instrucciones del fabricante.
+Después del uso, debe asumirse que los EPI y cualquier elemento de protección empleado pueden estar contaminados y convertirse en nuevo foco de riesgo. Por lo tanto, un procedimiento inapropiado de retirada puede provocar la exposición del usuario.
+Consecuentemente, debe elaborarse e implementarse una secuencia de colocación y retirada de todos los equipos detallada y predefinida, cuyo seguimiento debe controlarse.
+Los EPI deben colocarse antes de iniciar cualquier actividad probable de causar exposición y ser retirados únicamente después de estar fuera de la zona de exposición. Se debe evitar que los EPI sean una fuente de contaminación, por ejemplo, dejándolos sobre superficies del entorno una vez que han sido retirados.
+
+
+-- DESECHO Y CONTAMINACIÓN
+
+Después de la retirada, los EPI desechables deben colocarse en los contenedores adecuados de desecho y ser tratados como como residuos biosanitarios clase iii.
+
+
+- MEDIDAS DIRIGIDAS A LA SALA DE BRONCOSCOPIAS Y AL REPROCESADO
+
+-- MEDIDAS GENERALES
+
+En el lugar donde se haya realizado la broncoscopia, se debe realizar la limpieza y la desinfección de las superficies con las que ha estado en contacto el paciente o sus secreciones.
+La limpieza y la desinfección se realizará con un desinfectante incluido en la política de limpieza y desinfección del centro sanitario, y que cumpla con la normativa en UNE-EN 14476. Estos virus se inactivan tras 5 min de contacto con desinfectantes de uso por el público en general, como la lejía, o con una solución de hipoclorito sódico que contenga 1.000 ppm de cloro activo (dilución 1:50 de una lejía con concentración 40-50 g/l preparada recientemente).
+
+
+-- MEDIDAS DE LIMPIEZA Y DESINFECCIÓN DEL BRONCOSCOPIO
+
+
+
+
+-- TRANSPORTE DEL BRONCOSCOPIO REUTILIZABLE
+
+1.El broncoscopio contaminado se debe trasportar desde el lugar de realización de la broncoscopia hasta la sala de reprocesado en doble bolsa cerrada y un contenedor sólido con tapa.2.El personal que lo ha utilizado y que porta doble guante lo introduce en la primera bolsa sin tocar el exterior de esta. Seguidamente, se retira el primer par de guantes y cierra la bolsa, y se la introduce en la segunda bolsa sin tocar el exterior de esta. Otra persona con guantes cierra la segunda bolsa y transporta el broncoscopio a la zona de reprocesado.3.El personal que lo va a reprocesar lo recibe con el EPI completo en una zona completamente despejada.
+
+
+-- TRAZABILIDAD
+
+La trazabilidad es el registro de los datos que permite conocer y establecer la relación de un broncoscopio con el procedimiento para el que se usó y su posterior reprocesado. De tal forma que, ante una contaminación microbiológica o un incidente legal, se pueda identificar el equipo implicado, el personal que lo usó y a los pacientes con los que se utilizó.
+Los datos que hay que recoger son como mínimo: fecha, identificación del paciente, motivo de la exploración, identificación del médico que realizó la exploración, identificación de la persona que realizó en su limpieza y desinfección, qué método se siguió para ello y cuándo se almacenó, , .
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

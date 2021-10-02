@@ -1,0 +1,84 @@
+VALIDACIÓN DE UNA ESCALA DE CONOCIMIENTO SOBRE EL VIH Y OTRAS INFECCIONES DE TRANSMISIÓN SEXUAL EN POBLACIÓN ADOLESCENTE
+
+
+- INTRODUCCIÓN
+
+Las Naciones Unidas resaltan la importancia de la información sobre el VIH para prevenir el contagio de infecciones, afirmando que el conocimiento sobre el VIH es esencial a la hora de protegerse frente al mismo. Además, la mejora del conocimiento sobre VIH y el sida es uno de los principales objetivos para el periodo 2010-2015 de esta organización. Los jóvenes europeos tienen un conocimiento medio sobre el VIH, habiendo diversas ideas erróneas al respecto que se repiten de forma frecuente.
+La administración de información sobre el VIH aumenta la eficacia de los programas de intervención en diversos grupos, . Un mayor nivel de conocimientos sobre las infecciones de transmisión sexual (ITS) y la prevención de embarazos no deseados, está relacionado con iniciar las relaciones sexuales más tarde, un mayor uso del preservativo, y actitudes positivas hacia este. De forma indirecta, la información proveniente de familia y amigos, modula la edad de inicio de las relaciones sexuales. No obstante, no se encuentra relación entre el conocimiento y el número de parejas sexuales.
+Pese a la importancia del conocimiento para prevenir conductas sexuales de riesgo, la información por sí misma no es suficiente para modelar la conducta, ya que aquellos programas preventivos en los que únicamente se aporta información no resultan efectivos. Por tanto, resulta imprescindible incluir otros módulos en los programas de prevención del VIH.
+El nivel de conocimiento de los adolescentes respecto al VIH es medio alto en los adolescentes españoles, aunque Gascón Jiménez y Navarro Gochicoa hallaron niveles inferiores. Además, en el caso de los inmigrantes en España, el conocimiento es menor, habiendo unas tasas de conocimiento incorrecto muy elevadas.
+Para la evaluación del nivel de conocimientos sobre el VIH en adolescentes españoles se dispone de la escala HIV-KS. Este instrumento no cuenta con ítems específicos para evaluar el conocimiento sobre otras ITS diferentes al VIH. Otro de los instrumentos es el de Panigua et al., que evalúa conocimiento sobre VIH, autoeficacia y variables de riesgo. Esta escala de 164 ítems ha sido adaptada en España.
+El conocimiento sobre el VIH y las ITS resulta imprescindible en los programas preventivos, por ello es importante poder medirlo adecuadamente, con el fin de evaluar su eficacia. El objetivo de la presente investigación es crear una escala para la evaluación de conocimientos sobre VIH y otras ITS (ECI) para adolescentes. Para lograr este objetivo general hay que analizar la fiabilidad y validez estructural de la misma.
+
+
+- MÉTODOS
+
+-- DISEÑO Y POBLACIÓN DE ESTUDIO
+
+Para el estudio se siguió un procedimiento de tipo transversal. La muestra estuvo compuesta por 1.570 adolescentes con edades comprendidas entre los 13 y los 17 años, habiendo un 5,3% del total de la muestra con 13 años, un 35% con 14, un 36,3% con 15, un 16,3% con 16 y un 7,1% con 17 años. Respecto al sexo, 768 eran mujeres (48,9%). La muestra procede de cinco provincias españolas. Para establecer una medida test-retest, se aplicó el cuestionario 8 semanas después de la primera administración a 403 adolescentes.
+
+
+- INSTRUMENTO
+
+A los participantes se les administró un cuadernillo donde se preguntaba por el sexo, la edad, la ciudad, el nombre del centro y la clase a la que asistían. Seguidamente, se aplicó un banco de ítems de conocimientos sobre el VIH y otras ITS, formado por 40 afirmaciones en las que la persona debía contestar si cada una de ellas era verdadera, falsa o si no conocía la respuesta. De este total, había 27 ítems relativos a VIH y 13 sobre diversas ITS, concretamente la gonorrea, clamidia, sífilis, herpes genital y hepatitis B.
+
+
+- PROCEDIMIENTO
+
+En primer lugar un grupo de expertos seleccionaron ítems de diversas escalas relacionados con el conocimiento sobre el VIH y sobre diversas ITS, adaptándolos a una métrica común. Seguidamente, se obtuvo la aprobación del comité de ética del centro responsable del estudio. Tras ello, se aplicó un piloto a 30 adolescentes de características sociodemográficas similares a las de la muestra final. Mediante este piloto se facilitó la comprensión de algunos ítems.
+Se contactó con los centros educativos seleccionados por conglomerados a partir del universo total para colaborar en la administración de las pruebas. En total participaron en el estudio 17 centros de Alicante, Asturias, Castellón, Granada y Murcia (habiendo tres centros por provincia, salvo Murcia con dos centros). Un experimentador asistía al centro y aplicaba los cuadernillos de forma colectiva. La aplicación se realizó (siempre que fue posible) mediante el uso de ordenadores, accediendo a una plataforma donde se encontraban las preguntas. En aquellos centros sin la infraestructura informática necesaria, se administró la misma prueba en papel.
+Dos meses después de la aplicación, se aplicó los cuestionarios a una submuestra de adolescentes. Se empleó el código personal de cada cuestionario, con el fin de vincular las respuestas de pre y postest. Este código se determinaba en función de la posición que ocupase la persona en una lista completa de alumnos del centro. La administración fue idéntica a la de la primera aplicación. La selección de los alumnos incluidos en el postest fue incidental, incluyendo aquellos que se encontraban en el centro en la segunda aplicación. Un resumen de todo el proceso se recoge en la figura 1.Figura 1
+
+
+- ANÁLISIS ESTADÍSTICO
+
+Para determinar los factores del cuestionario se empleó un análisis factorial exploratorio, mediante la matriz de correlaciones tetracóricas, utilizando el método de los mínimos cuadrados ponderados. La rotación seleccionada fue Oblimin, ya que algunos de los factores están teóricamente relacionados entre sí. La determinación del número de factores se realizó mediante un análisis paralelo. La fiabilidad se calculó mediante el valor alfa ordinal obtenido, con la misma matriz de correlaciones.
+
+Esquema general del estudio:
+
+
+- RESULTADOS
+
+-- ANÁLISIS DE ÍTEMS
+
+Se calculó el porcentaje de acierto correcto para cada uno de los ítems, junto a su desviación. En la tabla 1 se recogió un resumen donde se puede ver que hay índices de dificultad muy dispares (rango de 0,12 a 0,91). Las varianzas fueron también muy dispares (de 0,09 a 0,25).
+
+
+-- ANÁLISIS FACTORIAL
+
+Previamente al análisis factorial final se llevó a cabo un análisis en el que únicamente se incluía los ítems relativos a otras ITS (13 ítems). La extracción se fijó en un factor. Con ello se logró determinar los ítems que mejor representan un factor de conocimiento sobre otras infecciones de transmisión sexual en general. Para ello, se comprobó la adecuación de los datos mediante las pruebas de esfericidad de Bartlett (χ2(81) = 1.956,86; p < 0,001) y la Kaiser-Meyer-Olkin (KMO = 0,81). Tras forzar la extracción de factores a 1, se observó las comunalidades de los ítems, para establecer cuáles eran los que mostraban un mejor funcionamiento. En este caso, únicamente en los ítems 29 (comunalidad = 0,31), 31 (comunalidad = 0,41), 32 (comunalidad = 0,41), 33 (comunalidad = 0,35), 34 (comunalidad = 0,41) y 40 (comunalidad = 0,42), se observan comunalidades superiores a 0,3.
+Tras determinar cuáles eran los ítems que mejor representaban el factor de información sobre otras ITS, se mantuvo dichos ítems en el banco original de ítems y se realizó un análisis factorial. Se comprobó la esfericidad (χ2(528) = 6 266,86; p < 0,001) y el ajuste de los datos (KMO = 0,85), observando valores adecuados. Se estableció la existencia de 10 factores. Tras ello, en la matriz de saturación se observaron tres ítems (2, 6 y 14) que no saturaban en ningún factor. Se eliminaron esos ítems y se repitió el proceso, obteniendo siete factores. En este segundo paso se eliminó el ítem 25 por no saturar en ningún factor. Del mismo modo, se eliminaron los ítems 4, 11, 24, 26 y 27 por no encajar teóricamente en el factor. Tras ello, se realizó un nuevo análisis factorial con el nuevo conjunto de ítems24. Se determinó que el número de factores era de cinco. La factorización resultó adecuada no habiendo ítems que no saturasen en ningún factor o que saturasen, predominantemente, en un factor teóricamente erróneo. En la tabla 2 se resumen las saturaciones de este último análisis factorial, para cada uno de los factores seleccionados. El porcentaje de varianza total explicada por estos cinco factores fue de un 46,2%.
+
+
+-- ANÁLISIS DE LA FIABILIDAD
+
+En primer lugar se calculó el coeficiente alfa para los 24 ítems que se mantienen tras los análisis previos. En este total se obtuvo: α = 0,883 (la eliminación de los ítems 2, 11 y 25 mejoraba el alfa un máximo de 2 milésimas). Tras ello, se reprodujo este análisis para cada uno de los factores obtenidos. En el conocimiento general del VIH: α = 0,765 (la eliminación del ítem 15 mejoraba este valor en 13 milésimas); en el factor de preservativo: α = 0,656; en conocimiento sobre la transmisión del VIH: α = 0,857; en la prevención del VIH: α = 0,706 y, por último, en conocimiento sobre otras infecciones de transmisión sexual: α = 0,786. Otra prueba empleada fue el análisis test-retest obteniendo una correlación de 0,59 para el banco total de ítems.
+
+
+- RELACIÓN DE LOS FACTORES
+
+Tras determinar que la consistencia interna de los factores tenía sentido teórico, se procedió a analizar la relación entre ellos. Para ello se emplearon correlaciones de Pearson. En la tabla 3 se muestra un resumen de las mismas. Todas las correlaciones resultaron significativas aunque moderadas. Así pues, la máxima correlación se encontraba entre el conocimiento de prevención del VIH y el conocimiento sobre las vías de transmisión del mismo.
+Por último, se calculó la media de cada uno de los factores para el total de la muestra y separadamente por sexo. En conocimiento general del VIH la media fue de 5,33 (DT = 1,66) y de 5,3 (DT = 1,6) para mujeres y 5,36 (DT =1,72) para varones. En conocimientos sobre el preservativo como forma de protección la media fue de 1,41 (DT = 0,66) para el total de la muestra, de 1,41 (DT = 0,65) para mujeres y 1,42 (DT = 0,67) para varones. En conocimiento sobre la transmisión del VIH la media total fue de 2,82 (DT = 1,68), en mujeres de 3,04 (DT = 1,67) y en varones 2,62 (DT = 1,67). En conocimiento sobre la prevención del VIH la media es 1,07 (DT = 0,8), siendo para mujeres y varones respectivamente de 1,14 (DT = 0,79) y de 0,99 (DT = 0,79). Por último, en conocimiento sobre otras infecciones de transmisión sexual la media total es de 1,61 (DT = 1,57), en el grupo de mujeres de 1,51 (DT = 1,55) y en el de varones de 1,72 (DT = 1,58).
+
+
+- DISCUSIÓN
+
+El principal objetivo de este trabajo es validar la Escala de Conocimientos sobre VIH y otras ITS (ECI) para su utilización con adolescentes. Es necesario poder contar con medidas válidas y fiables que permitan evaluar el conocimiento en VIH. En este caso, se ha establecido una selección de ítems que permite evaluar cinco componentes: conocimiento general del VIH, del preservativo como método protector, de las vías de transmisión del VIH, de la prevención del VIH y sobre otras infecciones de transmisión sexual. Estos factores explican un elevado porcentaje total de la varianza explicada. En la versión propuesta por Espada, Huedo-Medina a partir del mismo banco de ítems (excluyendo los ítems relativos a conocimiento sobre otras ITS) se presentan tres factores relacionados con la transmisión oral, los efectos del VIH y otras vías de transmisión. Una posible explicación a este hecho es la selección de las técnicas estadísticas empleadas. De esta forma, Espada, Huedo-Medina, partiendo de un banco similar de ítems, emplean un modelo de análisis de componentes principales. En el presente artículo se ha optado por el empleo de análisis factorial, por lo que es normal encontrar un mayor número de factores.
+En lo que respecta a la fiabilidad, se observa que los valores alfa son elevados y que la eliminación de ítems apenas mejora los valores obtenidos. Por todo ello, se puede concluir que la consistencia interna es adecuada. La correlación test-retest resulta adecuada, teniendo en cuenta que la diferencia temporal entre ambas aplicaciones fue de dos meses. Por lo tanto, el cuestionario muestra una adecuada consistencia interna y una estabilidad temporal adecuada.
+En el análisis de medias de los factores obtenido se observa un conocimiento medio o medio-alto. Estos datos coinciden con los de estudios similares, en los que se remarca que es necesario mejorar el conocimiento de los adolescentes ya que no tienen, de forma general, un conocimiento alto, . De hecho, en España, los diversos estudios que analizan el nivel del conocimiento no encuentran resultados consistentes: pasando de conocimiento bajo a un conocimiento medio-alto.
+Disponer de una medida para evaluar el grado de conocimiento sobre el VIH y otras ITS adecuada y válida permite detectar poblaciones con mayor riesgo de realizar conductas sexuales de riesgo e igualmente facilita la evaluación de la eficacia de los programas. De hecho, esta variable es una de las más empleadas a la hora de determinar la eficacia de programas preventivos ya que los módulos de información son muy importantes en dichas intervenciones.
+
+
+-- DIRECTRICES PARA FUTUROS ESTUDIOS
+
+Como limitaciones del presente estudio cabe resaltar que no se ha utilizado un análisis confirmatorio de la estructura factorial final para corroborar su adecuación. Además, cabría realizar análisis de invarianza para comprobar el ajuste para ambos sexos. La última limitación es no haber incluido medidas para estudiar el análisis convergente y discriminante con otras medias cognitivas y conductuales, con el fin de aportar medidas de validez e incluir ítems que hagan referencia a otras ITS como verruga genital, escabiosis, virus del papiloma humano, etc. A pesar de estas limitaciones, este estudio aporta una escala fiable y con una estructura factorial adecuada que permite evaluar el componente de conocimientos del VIH y otras ITS de los programas de prevención de las conductas sexuales de riesgo.Lo conocido sobre el temaEl conocimiento sobre el VIH es uno de los factores que se relacionan con la emisión de conductas sexuales de riesgo. Sin embargo, no hay instrumentos breves que permitan la evaluación del conocimiento del VIH así como otras ITS.Qué aporta el estudioLa aportación de un cuestionario para evaluar el conocimiento del VIH y otras ITS, aportando datos de fiabilidad y validez. Esto favorecerá la evaluación del conocimiento sobre VIH y otras ITS en adolescentes y su uso en programas preventivos favorecerá la evaluación de su efectividad.
+
+
+- FINANCIACIÓN
+
+Este trabajo ha sido financiado por la Fundación para la Investigación y la Prevención del Sida en España (FIPSE 360971/10) y del programa Vali + d de Formación de Personal Investigador de la Conselleria de Cultura, Educació y Ciència de la Generalitat Valenciana.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran que no existe ningún conflicto de intereses.

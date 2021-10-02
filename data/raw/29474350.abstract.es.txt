@@ -1,0 +1,4 @@
+Concluimos que la administración de hidratación parenteral podría hacer poca o ninguna diferencia en la sobrevida y en la calidad de vida de los pacientes oncológicos terminales, y que no está claro si tiene algún otro beneficio porque la certeza de la evidencia es muy baja.
+Es común que los pacientes en estado terminal tengan una reducida ingesta de líquidos, lo que muchas veces repercute en una necesidad de mayor apoyo médico. Sin embargo, no está claro si esta medida tiene un impacto clínico real.
+Para responder esta pregunta utilizamos Epistemonikos, la mayor base de datos de revisiones sistemáticas en salud, la cual es mantenida mediante búsquedas en múltiples fuentes de información, incluyendo MEDLINE, EMBASE, Cochrane, entre otras. Extrajimos los datos desde las revisiones identificadas, reanalizamos los datos de los estudios primarios y preparamos una tabla de resumen de los resultados utilizando el método GRADE.
+

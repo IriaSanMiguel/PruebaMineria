@@ -1,0 +1,91 @@
+DESCRIPCIÓN DE LA CONCORDANCIA CLINICOPATOLÓGICA Y SATISFACCIÓN DEL PACIENTE EN LA CIRUGÍA MENOR EN UN CENTRO DE ATENCIÓN PRIMARIA<SUP
+
+
+- INTRODUCCIÓN
+
+Como parte del plan de mejoras y competencias del plan de salud de las distintas comunidades autónomas, los médicos de familia ampliamos progresivamente nuestras competencias y habilidades. Por ello, dentro de la cartera de servicios de muchos centros de salud (CS) se incluye la cirugía menor (CM) como una herramienta más a disposición del usuario.
+La CM se define como aquellos procedimientos quirúrgicos sencillos y de corta duración que se realizan sobre tejidos superficiales y estructuras accesibles, bajo anestesia local, y de los que no se derivan complicaciones importantes. No ha de realizarse sobre lesiones en las que se sospeche etiología maligna, ni en pacientes con antecedentes de cicatriz hipertrófica o queloide; tampoco en zonas con riesgo de lesión de estructuras nobles o donde no se pueda garantizar un buen resultado estético. Tampoco deben intervenirse pacientes con antecedentes de alergia a anestésicos locales, coagulopatías o tratamientos anticoagulantes y antiagregantes sin las precauciones pertinentes. Deben tenerse en cuenta las situaciones específicas de pacientes con tendencia a infecciones o mala cicatrización, déficit inmunitario, vasculopatías periféricas, porfirias o esclerodermias, .
+Realizamos, pues, procedimientos de los que se tiene seguridad técnica de un resultado satisfactorio, y tras informar adecuadamente al paciente y obtener su consentimiento informado.
+La CM ha demostrado ser coste-efectiva, , evitando numerosas derivaciones a atención especializada, dando solución más rápida, efectiva y satisfactoria a los pacientes en un medio más cercano, familiar y conocido como lo es la atención primaria (AP), .
+Como criterios de calidad se estiman el envío de muestras a anatomía patológica, la concordancia entre el diagnóstico de visu y el de anatomía patológica, así como la satisfacción del usuario, , , , . Según la literatura, el estándar óptimo de envío de muestras a anatomía patológica es del 60-80% de las lesiones. El estudio de concordancia entre el diagnóstico presuntivo y la anatomía patológica según la bibliografía oscila entre el 55 y el 86%, , , . Los estudios describen un alto grado de satisfacción, y múltiples trabajos describen los beneficios de la CM en AP, .
+Si bien en España la CM forma parte de la asistencia, docencia e investigación, se debería incentivar aún más.
+
+
+- OBJETIVOS
+
+Evaluar y describir la evolución de la CM en nuestro CS urbano, las características de su población, los motivos de consulta del paciente, las técnicas más utilizadas, las características de las lesiones más frecuentemente intervenidas, la concordancia anatomopatológica y la satisfacción de los usuarios mediante encuesta de satisfacción.
+
+
+- MATERIALES Y MÉTODOS
+
+Se ha realizado un estudio descriptivo retrospectivo a fin de dar respuesta a los objetivos planteados.
+La población diana fueron los pacientes pertenecientes al CS Almería Centro perteneciente al Distrito Sanitario Almería. Dicha población fue de 15.551 personas en 2013, de las cuales 3.548 fueron mayores de 65 años (22,8%). Esta población es asistida por 11 médicos, 3 pediatras y 11 enfermeros. Los pacientes son derivados desde la consulta de su médico y/o pediatra.
+Las actividades de CM se efectúan los lunes a primera y última hora por 2 médicos, un enfermero y un auxiliar, interviniéndose un promedio de 5-6 pacientes en cada tramo horario. Intervienen también 3 médicos residentes. En dicha consulta, una vez derivado el enfermo desde el propio médico, se realiza evaluación preoperatoria del paciente y, acto seguido, intervención quirúrgica de CM en acto único. El seguimiento de los cuidados posquirúrgicos lo realizan ambos médicos mediante la consulta a demanda.
+La actividad se realiza en un quirófano adaptado para dicha actividad que existe en las instalaciones del CS, adecuadamente equipado.
+La población de estudio fueron todos los usuarios atendidos en el programa de CM en el CS durante el año 2013, excluyendo los meses de verano (julio y agosto), en los que se suspende el programa.
+Fuente de información. Los datos fueron recogidos de la historia clínica digital (DIRAYA) y de los informes en papel remitidos desde el servicio de Anatomía Patológica del Hospital Torrecárdenas como centro de referencia.
+Criterios de inclusión. Se incluyeron todos los pacientes del CS que consultaron por lesiones en piel tributarias de tratamiento mediante CM ambulatoria que fueron derivados por su médico durante el año 2013 (excepto el periodo vacacional) y que presentaron lesiones de etiología benigna y aceptaron y firmaron el consentimiento informado.
+Fueron excluidos los pacientes cuyas lesiones no presentaron sospecha de benignidad, lesiones complejas o susceptibles de presentar complicaciones importantes (siendo en este caso derivadas al especialista), negativa a realización de la misma por parte del paciente o a firmar consentimiento informado, existencia de alergias o patología que impidieran una segura realización de la cirugía o de sus resultados (antecedentes de cicatrización queloide, lesiones periorificiales, alergia a anestésicos locales, tratamiento anticoagulante sin previo aviso).
+Satisfacción del paciente. Se evaluó mediante el procedimiento de encuesta. Para conseguir una precisión del 5% en la estimación de una proporción mediante un intervalo de confianza asintótico normal con corrección para poblaciones finitas al 95% bilateral, asumiendo que la proporción esperada es del 50% y que el tamaño total de la población es de 223, será necesario incluir 142 sujetos en el estudio. Teniendo en cuenta un porcentaje de no respuesta del 10%, se consideró necesario obtener un número mínimo de 156 sujetos.
+Variables de estudio. Se analizaron variables sociodemográficas (edad y sexo), localización de las lesiones, tipo de intervención, diagnóstico clínico, diagnóstico anatomopatológico, complicaciones y satisfacción del paciente.
+El diagnóstico clínico tuvo en cuenta los siguientes ítems: fibroma, nevo melanocítico, queratosis actínica, queratosis seborreica, quiste epidérmico, quiste mucoide, lipoma, verruga vulgar, otras verrugas, uña encarnada y otras. Este fue obtenido bien de los informes de CM, bien de los informes de anatomía patológica o de la historia clínica en la que el médico que efectuó la intervención quirúrgica reflejó el diagnóstico presuntivo.
+Envío de muestras a anatomía patológica. Sí/no.
+Localización de las lesiones. Espalda, cabeza, cuello, extremidad superior, extremidad inferior y otros.
+Tipos de intervención. Cirugía uña, criocirugía, electrocirugía, escisión, drenaje, reparación de heridas y extracción de cuerpo extraño.
+Diagnóstico anatomopatológico (según informe de anatomía patológica). Fibroma, nevo melanocítico, queratosis actínica, queratosis seborreica, quiste epidérmico, quiste mucoide, lipoma, verruga vulgar, otras verrugas, uña encarnada y lesiones no clasificadas. Se valora la concordancia con diagnóstico clínico o de visu.
+Complicaciones. Prurito cicatriz, queloide, herida abierta, infección y otras.
+Evaluación de la satisfacción del paciente. Se efectuó mediante encuesta realizada retrospectivamente por correo o telefónicamente a los pacientes o familiares. Se consideró un máximo de llamadas (3 ocasiones). En la encuesta se indagó si recordaba haberse intervenido quirúrgicamente en su CS y 5 preguntas con 4 o 5 ítems como respuesta .
+Recogida de datos. Los registros se extrajeron del listado de CM del programa DIRAYA. Se obtuvo el consentimiento informado según protocolo. Se realizó revisión en forma retrospectiva entre las 2-3 semanas de efectuada la intervención, con el resultado de anatomía-patológica si lo hubiera, en consulta de seguimiento.
+Análisis de datos. Se realizó un estudio descriptivo de todas las variables: las cuantitativas (media, moda, varianza, máximos y mínimos y desviación típica) y las cualitativas (frecuencias y porcentajes). Se realizó análisis bivariante de correlación entre las variables diagnóstico clínico previo y resultado de anatomía patológica, se utilizó una tabla de contingencias calculándose el coeficiente Kappa. Se utilizó el programa estadístico SPSS 2.0.
+
+
+- RESULTADOS
+
+Sexo masculino 53,8%(120); 46,2% mujeres (103). La edad media en años 51,12, mediana 49, moda 47, varianza 361,81, mínimos 5 y máximo 90, con desviación típica de 19,02. Se observó una distribución normal según Kolmogorov-Smirnov de 1,249, con una significación de 0,088.
+Varios pacientes repiten las intervenciones en 16 casos; 6 de ellos en 2 ocasiones. Veintiséis pacientes (11,6%) se intervinieron por múltiples lesiones en el mismo acto quirúrgico, siendo por orden de frecuencia: fibromas, verrugas, queratosis seborreica, nevo-angiomas, otras (3 pacientes), quiste mucoide (2 pacientes) y lipoma.
+La localización de las lesiones más intervenidas radicó en la cabeza (35,4%), seguida de espalda (16,6%), cuello (14,8%), otras localizaciones (9%), tórax (9%), extremidad inferior (6,3%) y extremidad superior (3,1%) . En la categoría «otras localizaciones» lo más frecuente fue axila y glúteo, y con menor frecuencia ingle, hombro y abdomen.Figura 1
+El procedimiento más utilizado fue la electrocirugía (62,8%), seguida por la escisión (28,7%), la cirugía de uña (2,7%), la reparación de heridas (2,2%), la criocirugía (1,8%), la extracción de cuerpo extraño (1,3%) y, por último, el drenaje (0,4%) .Figura 2
+Se biopsiaron el 16,9% de los casos (36). Las lesiones más frecuentes diagnosticadas clínicamente fueron fibromas (32,3%), seguidas de quiste epidérmico (13,9%), verruga vulgar (13%), otros (11,7%), queratosis seborreica (9%), nevo melanocítico (7,6%), otras verrugas (3,6%), quiste mucoide (3,1%), uña encarnada (3,1%), lipoma (2,2%) y queratosis actínica (0,4%) . El diagnóstico «otros» incluyó, por orden de frecuencia: angiomas y cuerno cutáneo, tumores o nódulos sin especificar, reparación de heridas y —poco frecuente— molusco contagioso y absceso.Figura 3
+Los diagnósticos anatomopatológicos recibidos fueron: quiste epidermoide (36,11%), nevo melanocítico (22,22%), otros (19,44%), verruga vulgar (8,33%), fibroma (2,7%) y lipoma (2,7%) . Dentro de «otros» se describen: dermatofibroma, fibrohistiocitoma, hiperplasia de glándula sebácea, reacción tipo cuerpo extraño, carcinoma espinocelular y espiradenoma ecrino.Figura 4
+Se valoró la concordancia entre el diagnóstico clínico y el anatomopatológico, obteniéndose una correlación clinicopatológica superior al 80%, con un índice Kappa de 0,783 (p < 0,001), por lo que se rechaza la H0, aceptándose la alternativa de relación.
+Las complicaciones estuvieron presentes en el 6,3% (14) de los pacientes, de los cuales el 98,2% consistieron en infección de la herida, queloide en un paciente, y otras en 3 pacientes.
+En cuanto a la satisfacción del paciente, se obtuvo respuesta en el 70%(156) de los pacientes. Tan solo el 10% respondieron a la encuesta por correo, por lo que en la mayoría de los casos fue necesario efectuarla en forma telefónica. El 1,2% no recordaban haber sido intervenidos en el CS. Con respecto al tiempo que transcurrió entre que su médico lo derivó con el problema y se le resolvió, el 66% (103) respondieron que les pareció poco, el 17,3% (27) muy poco, sumando ambos el 83,3% (130); el 14,7% (23) no recordaban, y solo al 1,9% (3) les pareció bastante o mucho.
+Acerca de las explicaciones recibidas de su médico, al 71,8% (112) le parecieron bastantes, el 10,3% (16) consideraron que eran muchas (en total 82,1%), el 10,9% (17) no recordaban o no sabían, y el 7,1% (11) respondieron que fueron pocas.
+Atendiendo a la higiene de la sala, al 78,8% (123) les pareció buena, y al 10,3% (16) muy buena. El 9,6% (15) no recordaban, y el 0,6% (1) respondieron mala y muy mala, respectivamente.
+A la pregunta 4 sobre cómo piensa que le han atendido en relación con su problema en el CS, el 64,1% (100) respondieron bien, y al 24,4% (38) les pareció muy bien. El 9,6% (15) respondieron no recordar, el 1,3% (2) mal, y el 0,6% (1) muy mal.
+Finalmente, la última cuestión acerca de si elegiría nuevamente el CS en caso similar, el 82,7% (129) respondieron que elegiría nuevamente el CS, el 10,3% (16) no sabían y el 7% (11) afirmaron que preferirían un especialista.
+
+
+- DISCUSIÓN
+
+Un dato a tener en cuenta es la existencia de duplicidad de pacientes, es decir, que un mismo paciente realice varias intervenciones en distintas oportunidades.
+La principal limitación del estudio es que para la recogida de datos dependemos de registros ya hechos, faltando algunas variables de las que proponemos, como el motivo de consulta del paciente, que no se encontraba reflejado en la mayor parte de las historias clínicas.
+Otra limitación radicó en el listado de CM, el cual presenta el inconveniente de autoborrado antes del año. Muchos pacientes de la lista no asistían, o al ser reevaluados no eran susceptibles de CM (por ejemplo, abscesos que habían drenado espontáneamente al momento de la consulta).
+Con respecto a la edad media, esta fue algo superior en el presente trabajo que en la literatura revisada, , , . Una posible explicación es que nuestra población cuenta con el predominio de ancianos, como lo es la población de referencia, lo cual también podría condicionar el tipo de lesiones más frecuentes y esto, a su vez, otros parámetros.
+Acerca de la localización, se muestra un claro predominio de cabeza, coincidiendo con otros autores, .
+Entre los tipos de procedimientos más utilizados destaca la electrocirugía, seguida de la escisión, y esto está en consonancia con la literatura publicada, evidenciando una predisposición al uso de técnicas más sencillas de CM. En algunos trabajos se considera separada la electrocirugía de la biopsia por rebanado-electrodesecación superficial (BR + EDS), que se consideran conjuntamente.
+Llama la atención el bajo porcentaje de biopsias realizadas: el 10% en el presente estudio, frente a casi el 60% de la literatura. Creemos que este hecho puede deberse al tipo de lesiones por el que se deriva en nuestra población, viéndose un claro predominio de lesiones benignas (fibromas, quistes epidérmicos y verrugas vulgares) que no requieren biopsia.
+Dentro del diagnóstico «otros» figuran nódulos y lesiones de aspecto no claramente definido, siendo el cáncer de piel (como el cuerno cutáneo) uno de ellos. De hecho, las lesiones con sospecha de malignidad no deben ser resueltas habitualmente mediante CM, salvo en los casos de personas de edad avanzada, donde el pronóstico de vida sea corto y con factores de riesgo para una cirugía de mayor envergadura.
+Creemos que la concordancia entre el diagnóstico clínico y el anatomopatológico aumentaría si se enviaran todas las muestras a estudio patológico, pero consideramos que esto solo aumentaría los costes, y considerando que es imposible enviar las muestras que requieren electrocoagulación, pudiera considerarse una buena medida teórica pero poco eficiente. Nuestros resultados de concordancia (superiores al 80%) entre el diagnóstico clínico y la anatomía patológica son altos y se enmarcan dentro de lo descrito por la literatura (60-84%), , , . Las complicaciones presentadas están dentro del rango asumible (6,3%) y principalmente dadas por infección de herida o queloide.
+Un trabajo que describe diferencias entre una población urbana y otra rural encuentra mayor envío de muestras a anatomía patológica con menor concordancia diagnóstica y mayor número de complicaciones en el centro urbano respecto al rural. En nuestro caso encontramos escaso envío de muestras a anatomía patológica, con alta concordancia y bajo número de complicaciones.
+Con respecto a la satisfacción, al realizarse la encuesta de forma retrospectiva y tanto tiempo después a veces el paciente no responde o no recuerda lo ocurrido, lo que influye negativamente en los resultados. La encuesta es satisfactoria en la mayor parte. En otros trabajos la satisfacción es mayor del 80%, lo que coincide con nuestros hallazgos, , , . Nos parece interesante comentar que los pacientes que no estuvieron satisfechos coinciden con la presencia de complicaciones en 2 casos (cicatriz queloide y mácula hipocrómica).
+
+
+- CONCLUSIONES
+
+Aunque se han generalizado técnicas sencillas de CM, como la electrocoagulación, tanto esta como otras técnicas realizadas en AP siguen siendo seguras y satisfactorias para el usuario. A pesar del bajo porcentaje de envío de muestras a anatomía patológica, la concordancia es buena. Consideramos que debe seguir incentivándose su práctica entre los médicos de AP y valorar más sus beneficios.Puntos claveLo conocido sobre el tema1.La cirugía menor (CM) es eficaz y coste-efectiva, pero aún no se encuentra suficientemente incentivada en nuestro medio.2.La CM es satisfactoria para el usuario.3.La concordancia diagnóstica es alta.4.Aumenta el número de médicos que practican CM, a la vez que se ha generalizado el uso de algunas técnicas sencillas.Qué aporta este estudio1.Conocer las características de la población que se somete a cirugía menor (CM) en nuestro medio.2.La CM es segura y satisfactoria en nuestro medio.3.Si bien el envío de muestras a anatomía patológica es muy bajo, la concordancia en el diagnóstico es alta.4.A pesar de la generalización del uso de algunas técnicas sencillas de CM, debería incentivarse más la CM en AP.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha sido financiado por ninguna entidad.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.
+
+
+- AGRADECIMIENTOS
+
+Agradecemos a todo el personal del Centro de Salud Almería Centro, al servicio de Anatomía Patológica del Hospital Torrecárdenas, así como a todos nuestros pacientes.

@@ -1,0 +1,55 @@
+USO DE APLICACIONES MÓVILES Y PÁGINAS WEB PARA EL DIAGNÓSTICO DE LA COVID-19 EN ESPAÑA
+
+
+- INTRODUCCIÓN
+
+Ante el brote de COVID-19, el uso de la tecnología de la información y comunicación (TIC) se plantea como un aliado en el manejo de esta crisis. La m-Health (salud móvil) está ampliamente extendida, y en una situación de emergencia sanitaria se postula como una herramienta útil que permite el autodiagnóstico, así como el seguimiento de pacientes con sospecha de COVID-19.
+El uso de TIC en la COVID-19 nace en China. Allí se lanzó una aplicación móvil (app) que informaba de la localización de las personas en las dos semanas previas al contacto con personas con la COVID-19. Este modelo ha sido implantado en otro países como Corea del Sur, Europa y en América, .
+El objetivo de este trabajo ha sido realizar una revisión de las diferentes TIC, apps y páginas web, dirigidas al manejo y/o diagnóstico de presunción de la COVID-19 en España.
+
+
+- MÉTODOS
+
+A través de una búsqueda por las diferentes páginas web de las Consejerías de Sanidad de las CCAA de España, se ha localizado la TIC de cada región. El estudio de la TIC se ha llevado a cabo con voluntarios de cada región autonómica, no pudiendo obtener representación de Castilla La Mancha, La Rioja y Navarra. Los voluntarios recibieron información expresa del objetivo del estudio, obteniendo un consentimiento verbal de aceptación para su participación. El uso de la TIC se ha realizado con la persona voluntaria, introduciendo sus datos personales, en presencia telemática o presencial con una de las coautoras para la recogida de las características.
+Se han revisado todas las TIC (apps y páginas web) disponibles hasta la fecha en las diferentes comunidades autónomas (CCAA) y la del Ministerio de Sanidad (que da servicio a Islas Canarias, Cantabria, Castilla La Mancha, Extremadura y Principado de Asturias), dirigidas a realizar un seguimiento o diagnóstico de presunción de la COVID-19 basado en un cuestionario. La app de Aragón utiliza el algoritmo de Andalucía, considerando cada app por separado a pesar de su similitud.
+La estructura del cuestionario de evaluación se ha realizado con los ítems de relevancia para la evaluación de una persona con sospecha de la COVID-19. Siguiendo las recomendaciones del Ministerio de Sanidad y de su app, se recopiló la siguiente información: características sociodemográficas, antecedentes patológicos de la persona, descripción epidemiológica, posibles síntomas de COVID-19, realización de diagnóstico y seguimiento.
+En la revisión se han analizado y comparado los datos solicitados por estos recursos digitales.
+
+
+- RESULTADOS
+
+De las 17 CCAA, se pudo acceder a la información para la evaluación de COVID-19 vía app en cinco de ellas: Andalucía, Aragón, Cataluña, Comunidad de Madrid (CMad) y País Vasco (PV). Los datos sociodemográficos se recogen específicamente en Cataluña, pudiendo ser obtenidas en el resto de apps, a través de los datos de la tarjeta sanitaria. La geolocalización se solicita en Cataluña, CMad y PV. En todas ellas, se consideran antecedentes o situaciones de vulnerabilidad. En el caso de los síntomas a evaluar, en todas se pregunta por la tríada de tos, fiebre y disnea. El diagnóstico de sospecha de infección por COVID-19 se observa en las apps de Cataluña y CMad. El contacto telefónico por parte del circuito sanitario se describe en la app de CMad, dando opción a poder contactar con servicios sanitarios en Aragón y PV. El diagnóstico de sospecha COVID-19 solo se ha encontrado en las apps de Cataluña y CMad, el seguimiento telefónico activo en PV, y en la mayoría se recomienda el aislamiento, facilitando un número de teléfono para activar el circuito sanitario correspondiente. La app del Ministerio de Sanidad se muestra completa en contenido, diagnóstico y seguimiento. Las apps consultadas cumplen la ley de protección de datos. La recogida de datos por apps está resumida en la tabla 1 .
+Por otro lado, la opción de realizar un test vía web está en Castilla y León, Comunidad Valenciana, Galicia, Islas Canarias y Región de Murcia. Los algoritmos usados son más escuetos que en las apps, no siendo recogidos datos sociodemográficos, teléfono ni el diagnóstico de sospecha de coronavirus. Los resultados están resumidos en la tabla 2 .
+Las CCAA de las que no se pudo disponer del contenido de las apps para evaluar la COVID-19 fueron Castilla La Mancha, La Rioja y Navarra. No cuentan con web ni apps las ciudades autónomas de Ceuta y Melilla, así como Cantabria, Extremadura, Islas Baleares y Principado de Asturias, , , , , .
+
+
+- DISCUSIÓN
+
+Se ha obtenido información de TIC de la COVID-19 en seis apps y cuatro páginas web de CCAA. Las apps más completas son las de Cataluña, CMad, PV y Ministerio de Sanidad. Las evaluaciones de las páginas web se muestran pobres en la valoración de la COVID-19.
+Ni la OMS ni la Unión Europea se han pronunciado sobre el diagnóstico de la COVID-19 a través de apps o páginas web. En España hemos visto la aparición de estas herramientas asociadas a tarjeta sanitaria. El grado de disponibilidad de las TIC puede presentar una limitación en su acceso a aquellos que no dispongan de tarjeta sanitaria de la autonomía correspondiente. Ninguna de las apps ha sido validada ni posee certificado de las agencias de calidad de apps en salud. La calidad técnica de dichos dispositivos es esencial, siendo la certificación el garante de que las TIC cumplen con unos estándares mínimos de calidad y seguridad.
+En cuanto al asesoramiento al ciudadano sobre la probabilidad de padecer COVID-19 ante la presencia de determinados síntomas, se han observado dos tendencias: la consideración de la tríada clásica (fiebre, tos, disnea) y la ampliación de otros síntomas considerados por la OMS (astenia, expectoración, odinofagia, cefalea, mialgia, escalofríos, náuseas o vómitos, congestión nasal, diarrea o hemoptisis). Al abordar todos estos posibles síntomas, cada comunidad hace un acercamiento distinto. Se ha observado una variabilidad entre las preguntas, salvo en las relativas a la tríada clásica, e incluso entre ellas no ha habido unanimidad en cuanto valores como la temperatura para sospechar infección. En el trascurso de la pandemia también son sugestivas de COVID-19 la mialgia, la cefalea, la hiposmia, la hipogeusia o las alteraciones digestivas. Además, el tiempo de evolución debería ser considerado como pregunta principal para cribar la gravedad. La variabilidad de las preguntas registradas en las múltiples TIC consultadas dificulta el diagnóstico en pacientes sin síntomas típicos, así como la discriminación de los síntomas de alarma, salvo en la app de Cataluña. La escasez de síntomas COVID-19 considerados ha podido ocasionar un infradiagnóstico en las fases iniciales de la pandemia.
+Existe gran heterogeneidad en el seguimiento de los usuarios que realizan el cuestionario de las TIC. En algunas CCAA se ofrece una evaluación y seguimiento por parte de profesionales sanitarios, pero no se especifica el circuito ni quién se responsabiliza del mismo. Una de las principales debilidades es que no muestran de forma transparente el algoritmo de toma de decisiones, que consideramos debería ser público para los profesionales sanitarios. A su vez, las apps y las páginas web podrían usarse desde los centros de salud para derivar llamadas a los profesionales sanitarios, garantizando el seguimiento según la gravedad, por lo que su potencial no está integrado en el circuito de atención sanitaria habitual.
+Por otra parte, las TIC analizadas informan, pero no registran formas de contacto con otros casos en seguimiento por sospecha COVID-19. La trazabilidad de contactos es de gran importancia en las pandemias, pero no se ha podido llevar a cabo y podría deberse al cumplimiento de la ley de protección de datos. El uso de TIC para facilitar la trazabilidad de contacto debería ser considerado, reevaluando el beneficio de recoger dicha información.
+Si las TIC remitiesen a los servicios de salud en caso necesario, sin depender única y exclusivamente de la proactividad del ciudadano, podrían ser una herramienta con un potencial de screening y mapeo poblacional. La coexistencia de múltiples TIC, con acceso limitado a los ciudadanos de cada autonomía, condiciona que el acceso a los recursos sea desigual, tanto por la necesidad de tarjeta sanitaria de la comunidad autónoma correspondiente, como por los diferentes ítems evaluados en cada región. Consideramos que una única aplicación con registro mediante DNI-NIE sería más accesible a toda la población.
+Finalmente, es evidente el potencial de estas herramientas por su capacidad de detección de posibles casos, seguimiento de los mismos, estudio de contactos y, sobre todo, prevención de complicaciones por un diagnóstico precoz, pero precisan validación para generalizar su uso con garantía de seguimiento por profesionales sanitarios con acceso a la historia clínica del paciente.
+Este estudio tiene algunas limitaciones a considerar. Por una parte, no se ha podido evaluar todas las TIC de las 17 CCAA de España. Por otro lado, no se han reevaluado las TIC desde el inicio del periodo de estado de alarma, finales de marzo, pudiendo haber presentado cambios en consonancia con la dinamización de la pandemia.
+
+
+- CONCLUSIONES
+
+La ausencia de consenso entre las distintas regiones lleva a una amplia heterogeneidad en los ítems que conforman la evaluación de COVID-19, por parte de las TIC. El potencial como herramienta diagnóstica de las TIC debe ser evaluado con prudencia por los organismos competentes para unificar criterios.
+
+
+- CONTRIBUCIONES DE AUTORÍA
+
+Sara Ares-Blanco realizó el primer esbozo del artículo, siendo completado por Lubna Dani Ben Abdellah y Marina Guisado-Clavero. Las tablas han sido diseñadas y completadas por Sara Ares-Blanco y Marina Guisado-Clavero. Las tres autoras han contribuido en la elaboración de la discusión y las conclusiones. Las tres autoras han aprobado la versión final del manuscrito y han colaborado de la misma manera en la realización del artículo.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

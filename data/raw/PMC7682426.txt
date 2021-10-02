@@ -1,0 +1,114 @@
+FORMAS ATÍPICAS DE PRESENTACIÓN DE LA ENFERMEDAD COVID-19 OBSERVADAS EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+En diciembre de 2019 se inició un brote epidémico de neumonía de origen viral en la ciudad china de Wuhan asociado a un nuevo coronavirus, que se llamó virus de Wuhan o nuevo coronavirus 2019. Posteriormente se ha transformado en una pandemia global de inciertas y trágicas consecuencias.
+La denominación taxonómica oficial para el nuevo virus que se estableció en febrero de 2020 fue Coronavirus (CoV) tipo 2 asociado al síndrome respiratorio agudo grave (SARS) o SARS-CoV-2, y a la enfermedad que causa, COVID-19 (Coronavirus disease 2019).
+La Organización Mundial de la Salud (OMS) declaró la epidemia como urgencia de salud pública de interés internacional el 30 de enero de 2020, y, posteriormente, como pandemia global.
+El SARS-CoV-2 se transmite por vía respiratoria mediante pequeñas gotitas que se dispersan uno o dos metros al hablar o toser. En hospitales y recintos cerrados pueden formarse aerosoles, de mayor tamaño, con una capacidad de contagio mayor, en los que el virus perdura varias horas. La transmisión por fómites es posible. Según estudios experimentales, el SARS-CoV-2 persiste 24 horas en cartones y 72 horas en superficies de acero inoxidable y plástico.
+
+
+- CLÍNICA DE LA INFECCIÓN
+
+El periodo medio de incubación es de 5 días (rango medio: 3 a 7 días, con un máximo de 14 días). Durante la fase de replicación viral, los sujetos pueden presentar síntomas leves como consecuencia del efecto del virus y de la respuesta inmunitaria innata.
+La COVID-19 se presenta hasta en un 80% de los pacientes con síntomas leves o moderados, que se recuperan sin necesidad de hospitalización.
+Los síntomas más habituales son: la fiebre (77-98%), la tos seca (46-82%) y la astenia (11-52%). Otros menos comunes son: la producción de esputo (33%), la disnea (3-31%), las artromialgias (15%), la odinofagia (14%) y la cefalea (14%).
+La prevalencia de la anosmia y ageusia ha sido analizada en un registro de casos de 12 hospitales europeos en pacientes con síntomas leves o moderados, presentándose en un 85% de los casos anosmia y en un 88% de los casos ageusia.
+La afectación de las vías respiratorias bajas sucede cuando el sistema inmunitario no consigue frenar la propagación y replicación del virus, y los síntomas respiratorios surgen a consecuencia del efecto citopático sobre las células del pulmón.
+Se estima que un 30-40% de los casos considerados graves presentan neumonía (5-6% del total), de las cuales un 16% son neumonías graves. La neumonía grave por COVID-19 tiene un 50% de mortalidad y representa un 1-3% de la mortalidad total que causa la enfermedad.
+Aunque las manifestaciones principales de esta pandemia son respiratorias, es posible que otros aspectos de menor gravedad hayan sido pasados por alto en las descripciones hospitalarias iniciales. Su evaluación podría completar el espectro clínico de esta pandemia.
+A continuación, presentamos una serie de casos de pacientes vistos en nuestra labor asistencial durante la pandemia en un centro de salud de la zona norte de Madrid, los cuales presentan manifestaciones o síntomas que consideramos atípicos de la COVID-19, ya sea como inicio de la enfermedad o de aparición durante el transcurso de esta.
+
+
+- CASOS CLÍNICOS
+
+-- CASO 1. CARDIOLOGÍA
+
+Paciente varón de 26 años, sin antecedentes, que acude a Urgencias de nuestro centro de salud por palpitaciones. El paciente presenta desde hace un mes síntomas compatibles con COVID-19, y sigue recomendación de aislamiento domiciliario desde atención primaria. En la última semana narra palpitaciones irradiadas al cuello cada vez que realiza un esfuerzo en el domicilio, que ceden con el reposo. Niega otra sintomatología asociada. A su llegada muestra una taquicardia sinusal a 100 latidos por minuto (lpm) en reposo y 120 lpm en bipedestación, con morfología de bloqueo incompleto de rama derecha (figs. 1 y 2 ).Figuras 1 y 2
+En la exploración física se objetiva taquicardia sinusal en reposo, cuya frecuencia aumenta con los esfuerzos ligeros. En el monitor llega a alcanzar un ritmo sinusal a 150 lpm, repitiéndose la clínica de palpitaciones. No presenta ortostatismo.
+Ante la sospecha de una taquicardia sinusal inapropiada, se remite al servicio de urgencias hospitalarias. En las pruebas complementarias realizadas se observa una analítica sin leucocitosis ni aumento de reactantes de fase aguda. Se realiza una angiotomografía torácica donde se descartan tromboembolismo pulmonar, signos de neumonía por COVID-19 o cardiopatía estructural. Se realiza PCR SARS-CoV-2 que es positiva.
+Al alta del servicio de urgencias, se realiza, en atención primaria, analítica con perfil tiroideo que es normal. El paciente es derivado para ser estudiado en consultas externas de Cardiología como sospecha de taquicardia sinusal inapropiada secundaria a infección por SARS-CoV-2.
+
+
+-- CASOS 2 Y 3. DERMATOLOGÍA
+
+Presentamos el caso de una mujer de 37 años con antecedentes de hipotiroidismo autoinmune y asma extrínseca, que acude a nuestra consulta de atención primaria aquejando aparición de lesiones cutáneas en tronco y extremidades superiores, eritematosas y muy pruriginosas, de 24 horas de evolución. Además, refiere un cuadro de tos leve, anosmia y ageusia, sin fiebre u otra sintomatología acompañante desde hace 10 días. Niega alergias medicamentosas o alimenticias, o la ingesta de nuevos fármacos o alimentos. En la exploración física se objetivan lesiones urticariformes en las zonas mencionadas. La auscultación cardiopulmonar es normal y presenta una buena saturación basal. Se propone tratamiento con antihistamínicos y se realiza seguimiento ante la elevada sospecha de COVID-19. La paciente decide realizarse test PCR de SARS-CoV-2 a través de un servicio privado, con resultado positivo.
+Presentamos también un segundo caso de un paciente varón de 79 años con antecedentes de leucemia mieloide crónica, en seguimiento por Hematología, y diabetes mellitus tipo 2 de mal control. El paciente se encuentra en aislamiento domiciliario ante la sospecha de infección por SARS-CoV-2 desde hace aproximadamente una semana, al presentar astenia, febrícula y mialgias. La familia solicita valoración domiciliaria del paciente tras la aparición de lesiones cutáneas de predominio en muslo, asociadas a mal estado general y disnea de moderados esfuerzos. En la exploración física el paciente presenta saturación de oxígeno basal del 87% en reposo y roncus dispersos en la auscultación pulmonar. Además, presenta tres lesiones ampollosas sobreelevadas de contenido seroso, sospechosas de pénfigo ampolloso (figs. 3 y 4 ). El paciente es derivado a urgencias hospitalarias donde fallece a las 48 horas diagnosticado de neumonía bilateral grave con signos de COVID-19 radiográficos.Figuras 3 y 4
+
+
+-- CASO 4. APARATO DIGESTIVO
+
+Presentamos el caso de una mujer de 79 años con antecedentes de leucemia mieloide crónica, adenocarcinoma de colon ascendente en remisión y asma extrínseca, que acude a nuestra consulta de atención primaria por cuadro de 3 días de evolución, consistente en diarrea de cuatro deposiciones diarias sin productos patológicos, vómitos posprandiales, dolor abdominal y mialgias, sin fiebre ni clínica respiratoria. La paciente convive con su marido, que ha sido recientemente dado de alta por neumonía por COVID-19 confirmada. Realizamos analítica, en la que la paciente presenta una ligera linfopenia con elevación de reactantes de fase aguda (ferritina y proteína C reactiva). Hacemos seguimiento de la paciente, que presenta evolución del cuadro diarreico durante una semana, seguido de unos 10 días con astenia y cefalea.
+
+
+-- CASOS 5 Y 6. NEUROLOGÍA
+
+Paciente mujer de 84 años con antecedentes de hipertensión arterial, enfermedad pulmonar obstructiva crónica (EPOC), bronquiectasias y asma intrínseca, cuyos familiares nos consultan telefónicamente por alteraciones del comportamiento de la paciente. Desde hace una semana presenta desorientación temporoespacial, hipoactividad y alteraciones del ciclo vigilia-sueño, con ocasional heteroagresividad. La paciente no presenta fiebre, disnea u otra clínica respiratoria. Convive con su marido, que ha estado ingresado por neumonía por SARS-CoV-2 confirmada mediante PCR. Ante la sospecha clínica de síndrome confusional, solicitamos analítica para descartar causa metabólica e infecciosa. Los hallazgos normales de la prueba, junto con una tomografía computarizada (TC) cerebral sin datos patológicos, descartan organicidad. Por ello, decidimos iniciar tratamiento neuroléptico nocturno, con el que se logra el control de los síntomas a la semana. Dado el ambiente epidemiológico de la paciente, solicitamos PCR SARS-CoV-2, con resultado positivo. Por iniciativa de la familia, deciden realizar test rápido de anticuerpos por vía privada, que confirma el diagnóstico.
+Presentamos un segundo caso de un paciente de 73 años con antecedentes de hipertensión arterial, EPOC tipo enfisema y cáncer epidermoide de pulmón intervenido en 2019 con resección. Consulta por dos episodios convulsivos con rigidez generalizada sin movimientos tónico-clónicos, con desconexión y periodo poscrítico. Los días previos no presentó fiebre, clínica respiratoria o infecciosa a otro nivel. Derivamos al paciente al Servicio de Urgencias, donde se inicia estudio para descartar recidiva neoplásica, que se descarta con TC craneal y resonancia magnética (RM) cerebral normales. Antes de la realización de las pruebas, se solicita por vía hospitalaria la realización de la PCR SARS-CoV-2, con posterior resultado positivo. Ante la estabilidad clínica del paciente, se decide dar el alta hospitalaria con inicio de tratamiento anticonvulsivo, pendiente de completar estudio por Neurología.
+
+
+-- CASO 7. OFTALMOLOGÍA
+
+Presentamos a un varón de 83 años con antecedentes personales de EPOC de grado III, múltiples ingresos por descompensación cardiaca e infarto agudo de miocardio en 2016. Acude a nuestra consulta refiriendo clínica, de varios días de evolución, de eritema conjuntival de ojo izquierdo que ha ido en aumento hasta presentar quemosis conjuntival en contexto de conjuntivitis de probable etiología viral (fig. 5 ). Iniciamos tratamiento con colirio, medidas higiénicas y citamos al paciente para revisión. Posteriormente, acude a la consulta un familiar del paciente, refiriendo que este se encuentra ingresado en su hospital de referencia al presentar a lo largo del fin de semana fiebre de hasta 39 grados que no cedía con antitérmicos y tos seca. En las pruebas realizadas durante su estancia se observa analítica compatible con COVID-19 y TC pulmonar con datos de infiltrado leve bilateral de dicha enfermedad.Figura 5
+
+
+-- CASO 8. HEMATOLOGÍA
+
+Presentamos un paciente varón de 48 años, sin antecedentes, que es dado de alta hospitalaria tras sufrir recientemente una neumonía bilateral por COVID-19, confirmada mediante PCR SARS-CoV-2 y TC torácica. Fue tratado con oxigenoterapia, hidroxicloroquina y corticoterapia, dado de alta con tratamiento analgésico y corticoide inhalado, con seguimiento por nuestra parte desde atención primaria. El paciente acude a nuestra consulta una semana después por aparición súbita en la tarde del día anterior de dolor en el gemelo izquierdo, con aumento de perímetro y enrojecimiento de este, que él atribuye a esfuerzo físico. Realizamos exploración física, que es compatible con sospecha de trombosis venosa profunda del miembro. Derivamos a Urgencias hospitalarias para confirmación diagnóstica y estudio de otras posibles complicaciones tromboembólicas.
+
+
+- DISCUSIÓN
+
+-- CASO 1. CARDIOLOGÍA
+
+Según varios estudios de casos, el síntoma cardiaco más frecuente en pacientes con COVID-19 es la taquicardia, seguido de la hipertensión y la bradicardia, generalmente autolimitadas, y la patología cardiaca más frecuente es la descompensación cardiaca y la miocarditis, con una elevación de troponina ultrasensible en hasta un 20% de los pacientes. En su fisiopatología tiene un papel destacado la enzima de conversión de la angiotensina II (ECA II), presentando una alta expresión en el corazón. Esto explicaría la aparición de daño miocárdico yvascular observado en la infección. En el desarrollo de la pandemia surgió la polémica de retirar el tratamiento con IECA, sin llegar a demostrarse su efecto protector.
+Debido al tropismo por las células miocárdicas y por el sistema nervioso podríamos pensar en una afectación del nodo sinusal por el SARS-CoV-2, provocando una taquicardia sinusal inadecuada, como es el caso de nuestro paciente.
+
+
+-- CASOS 2 Y 3. DERMATOLOGÍA
+
+Los síntomas cutáneos de las infecciones virales son ampliamente conocidos. En la enfermedad COVID-19 están siendo extensamente estudiados. Entre ellos destacan el exantema y las erupciones variceliformes, las erupciones urticariformes, las lesiones ampollosas purpúricas o la acrocianosis parcheada en pies y manos, , .
+En un estudio sobre lesiones cutáneas en pacientes afectados por COVID-19 se comprobó que un 20,4% de ellos desarrollaron manifestaciones cutáneas, que en un 16,7% de los casos fueron en forma de urticaria. En distintos estudios se han observado lesiones cutáneas en pacientes con neumonía por COVID-19, tipo urticariformes, vasculíticas y ampollosas, , . Diversas publicaciones defienden que las manifestaciones cutáneas pueden deberse al tropismo cutáneo del SARS-CoV-2, por la expresión de la ECA II y niveles aumentados de linfocitos T CD8 + en la piel. Otras establecen que podría deberse a la infección directa de la piel, la afectación del endotelio generando microtrombosis o la afectación indirecta inmunitaria con la denominada “tormenta de citoquinas”, , .
+
+
+-- CASO 4. APARATO DIGESTIVO
+
+Los coronavirus humanos causan síntomas respiratorios y gastrointestinales. En el brote de SARS de 2003, entre el 16% y el 73% de los pacientes presentaron diarrea.
+El genoma del SARS-CoV-2 es idéntico en un 79,5% al del SARS-CoV y comparten el mismo tropismo por el receptor ECA II anteriormente mencionado, presente en el tracto gastrointestinal, , . Otras teorías sugieren que el SARS-CoV-2 daña el sistema digestivo a través de una respuesta inflamatoria directa o indirecta, o que el virus puede causar cambios en la composición y función de la flora intestinal de forma secundaria al daño de la flora del tracto respiratorio, mediante el efecto conocido como “eje intestino-pulmón”, .
+En una cohorte de 1099 pacientes confirmados de COVID, el 5% presentaba diarrea y el 3,8% vómitos. En un estudio sobre patología gastrointestinal en pacientes con COVID-19 se objetivó que un 50,5% presentó uno o más síntomas digestivos, tales como diarrea (33,98% de los casos), vómitos (3,88%) y dolor abdominal (1,94%), presentándose sin síntomas respiratorios en un 17% de los casos.
+
+
+-- CASOS 5 Y 6. NEUROLOGÍA
+
+Los virus respiratorios pueden penetrar en el sistema nervioso central (SNC) (neuroinvasión), afectar a neuronas y células gliales (neurotropismo) e inducir diversas patologías neurológicas (neurovirulencia), siendo esto extrapolable al SARS-CoV-2.
+La cefalea, mialgias, mareo y fatiga son los síntomas inespecíficos más frecuentemente descritos a nivel neurológico. La encefalitis necrotizante hemorrágica, el síndrome de Guillain-Barré y la enfermedad cerebrovascular trombótica y hemorrágica son las complicaciones neurológicas más habituales. En estudios de necropsia han mostrado la presencia de edema cerebral y degeneración neuronal en pacientes fallecidos con COVID-19.
+El 17 de marzo de 2020, la Sociedad Española de Neurología puso en marcha un registro para notificar manifestaciones y complicaciones neurológicas en pacientes con infección por el virus SARS-CoV-2. Hasta la fecha, una serie de 103 casos muestran que la manifestación neurológica más frecuente es el síndrome confusional o encefalopatía leve-moderada (28,3%), seguido del infarto cerebral (22,8%), la anosmia/hiposmia (19,6%) y la cefalea (14,1%). Se han notificado 11 casos de crisis epilépticas (12%), 4 (4,3%) de ellos con estatus y 6 de ellos sin antecedentes de epilepsia conocida.
+La encefalopatía asociada a la COVID-19 puede deberse a causas tóxicas por la neurovirulencia, que podría guardar relación con la expresión del receptor de la ECA II en el SNC. La hipoxia induce un metabolismo anaeróbico en las células del SNC, edema celular e intersticial, e isquemia y vasodilatación en la circulación cerebral. En este contexto, pueden suceder síncopes, crisis anóxicas e ictus.
+
+
+-- CASO 7. OFTALMOLOGÍA
+
+Se ha descrito conjuntivitis en los pacientes hospitalizados por COVID-19 en China, detectando la presencia de SARS-CoV-2 en las secreciones oculares.
+En otros estudios se ha documentado congestión conjuntival en el 0,8% de los pacientes hospitalizados. La conjuntivitis puede presentarse en casi el 1% de los pacientes.
+
+
+-- CASO 8. HEMATOLOGÍA
+
+Diversas publicaciones apoyan que la COVID-19 causa una seria de complicaciones secundarias a una coagulopatía provocada por el SARS-CoV-2, .
+El efecto protrombótico de la infección podría estar justificado por la respuesta del organismo a la infección, con la producción de la conocida “tormenta de citocinas”, que puede causar una inflamación y fibrinólisis pulmonar secundarias, elevando el D dímero (DD). Además, se aumenta la expresión de factor tisular, activando el sistema hemostático, el endotelio y las plaquetas, produciendo el depósito de fibrina, microangiopatía y daño tisular.
+Respecto al DD, su elevación se ha relacionado con un aumento de la mortalidad. Por otro lado, el tratamiento con heparina de bajo peso molecular en los pacientes con elevación de DD ha demostrado disminuir dicha mortalidad, . El 21 de abril de 2020, la Sociedad Española de Trombosis y Hemostasia publicó las recomendaciones de tromboprofilaxis en pacientes con COVID-19 que respaldan lo anteriormente descrito.
+
+
+- CONCLUSIONES
+
+Las infecciones virales pueden causar síndromes coronarios agudos, arritmias o la aparición o empeoramiento de episodios de insuficiencia cardiaca. En nuestro caso número 1, se muestra que el SARS-CoV-2 es también causa de trastornos del ritmo cardiaco, que pueden parecer banales, pero que son mal tolerados por los pacientes.
+Consideramos que las manifestaciones cutáneas dentro del actual contexto epidemiológico pueden ser la primera manifestación de la COVID-19, de forma aislada o acompañada de clínica respiratoria, o ser otro síntoma que considerar en una infección evolucionada, como se demuestra en los casos número 2 y 3.
+Creemos importante conocer que los síntomas digestivos pueden ser una forma de presentación de la COVID-19, y es un dato que facilitaría el reconocimiento temprano de los pacientes infectados. Hay que tener en cuenta la posible transmisión de la enfermedad por vía fecal-oral, la cual puede prolongarse incluso después de la eliminación viral en el tracto respiratorio.
+Los casos neurológicos que presentamos (casos 5 y 6) revelan que se deben incluir las manifestaciones neurológicas como forma de presentación de la enfermedad COVID-19.
+Los hallazgos descritos en el caso 7 demuestran que la enfermedad COVID-19 puede ser transmisible por secreción conjuntival, siendo la conjuntivitis un síntoma de presentación de esta infección, aunque sea infrecuente.
+Consideramos interesante que el médico de familia conozca la importancia de los eventos tromboembólicos en la COVID-19, descritos en el caso número 8, ya que dichos eventos pueden ocurrir durante la enfermedad o en el seguimiento al alta hospitalaria de nuestros pacientes. Debemos realizar una correcta tromboprofilaxis.
+La mayoría de los países que han sufrido la pandemia de COVID-19 no cuentan con una red de atención primaria tan desarrollada como la española. En dichos países han seguido un modelo “hospitalo-centrista” para hacer frente a la epidemia. En España hemos tomado este modelo como referencia.
+Las emergencias de salud pública causan una reducción de acceso de las personas al sistema sanitario, así como una pérdida de vidas y bienestar social secundarios. Un modelo eficiente en epidemias y catástrofes se debe a apoyar en los profesionales acostumbrados a la prevención, tratamiento y seguimiento de las enfermedades agudas y crónicas en la población que atienden, contemplando los aspectos biopsicosociales y proporcionando una atención integral, universal, longitudinal en el tiempo, humana y de calidad.
+Nosotros proponemos una cooperación entre atención primaria y los servicios de radiología, laboratorio y otros especialistas hospitalarios, como modelo para enfrentarnos a los posibles nuevos brotes de esta pandemia, colaborando en la atención domiciliaria, en la detección precoz y en la contención de los casos leves y moderados, aliviando, de este modo, la saturación de pacientes que ha bloqueado los hospitales.
+Nuestro trabajo precisa de dotación de recursos materiales y humanos, así como de protocolos y estrategias organizativas fieles a la realidad pandémica.

@@ -1,0 +1,41 @@
+TIROIDITIS INDOLORA EN INFECCIÓN POR SARS-COV-2
+
+
+Sr. Editor:
+Las infecciones virales parecen ser un factor implicado en numerosas formas de tiroiditis, caracterizadas por alguna forma de inflamación tiroidea, tiroiditis subaguda y enfermedades tiroideas autoinmunes.
+En diciembre de 2019, surgió un coronavirus de la ciudad de Wuhan (China) que ha ocasionado una pandemia; el virus ha recibido el nombre de SARS-Cov-2, y es capaz de producir un síndrome de dificultad respiratoria aguda conocido como COVID-19 (enfermedad por coronavirus 2019). El virus se ha extendido rápidamente por más de 180 países y el número de casos continúa aumentando en todo el mundo.
+Presentamos el caso de un paciente con tiroiditis en contexto de infección por SARS-CoV-2.
+
+
+- CASO REPORTADO
+
+Hombre de 52 años con antecedente de hipertensión arterial, diabetes mellitus tipo 2 con microalbuminuria, dislipemia, obesidad grado I y enfermedad arterial periférica, que ingresó en Medicina Interna por cuadro de febrícula, epigastralgia y náuseas. En la exploración física destacaban fiebre, crepitantes bilaterales hasta campos medios e hipoxemia con SatO2 persistentes del 90-92% sin disnea.
+En la radiografía de tórax del ingreso presentaba infiltrados alveolares periféricos bilaterales compatibles con infección por SARS-CoV-2.
+Se trató con ritonavir/lopinavir y antibioticoterapia empírica con levofloxacino y ceftriaxona. Se realizaron 2 pruebas de PCR de frotis nasofaríngeo que resultaron negativas y una última en una muestra de esputo, positiva para infección por SARS-CoV-2. Debido a la elevación de los parámetros inflamatorios y a la hipoxemia persistente, tras la confirmación diagnóstica se administró una dosis de tocilizumab.
+En los análisis de ingreso destacaba alteración tiroidea con niveles elevados de tiroxina 1,83 pg/mL (0,93-1,7 pg/mL), trioyodotironina normal 3,21 pg/mL (1,8-4,6 pg/mL), y niveles suprimidos de tirotropina 0,10 pg/mL (0,27-4,2 pg/mL) con autoinmunidad negativa anticuerpos (ac) antitiroglobulina 1,22 UI/mL (0-4,11), ac antitiroperoxidasa 0,89 UI/mL (0-5,61) y ac receptores TSH 0,2 UI/L y tiroxin binding globulin 21,9 μg/Ml (14-31). Destacaba elevación de la VSG 58 mm/h (1-15), PCR 10 mg/dL (0-0,5), ferritina 394 ng/mL (30-400), IL-6 113 ng/L (VN < 40 ng/L).
+El paciente no presentó en ningún momento clínica compatible con hipertiroidismo. En la exploración física no se evidenció presencia de bocio ni dolor cervical.
+Con el objetivo de medir la actividad de la glándula tiroidea, se realizó una gammagrafía tiroidea que mostraba un incremento de captación del fondo vascular con práctica ausencia de actividad por parte de la glándula tiroides, sugestiva de tiroiditis (fig. 1 ).Figura 1
+En base a la anamnesis del paciente se descartó la administración previa de contraste yodado y el antecedente de toma de amiodarona. Negaba historia familiar de patología tiroidea. Tenía una analítica previa con función tiroidea de marzo 2018 normal, con valor de tirotropina 0,95 pg/mL (0,27-4,2 pg/mL).
+No se inició tratamiento específico con antitiroideos, se inició tratamiento empírico con betabloqueantes (propranolol) que posteriormente se retiró por ausencia de sintomatología. Destaca la normalización de la función tiroidea en la analítica de control y ecografía tiroidea con ausencia de signos de tiroiditis con isogenicidad en toda la glándula tiroidea.
+
+
+- DISCUSIÓN
+
+La tiroiditis subaguda o De Quervain es un trastorno inflamatorio de la glándula tiroides, autolimitado, que se caracteriza por dolor cervical y tirotoxicosis. La enfermedad presenta características típicas de infecciones virales, incluyendo el pródromo viral con mialgias, malestar y fatiga.
+Analíticamente uno de los signos característicos es la elevación de la velocidad de sedimentación globular. Habitualmente, las concentraciones plasmáticas de hormonas tiroideas se encuentran elevadas y la TSH indetectable con ac anti-TPO y anti-Tg negativos. El recuento de leucocitos suele ser normal con aumento de PCR, IL-6 y ferritina, como observamos en el caso reportado. La captación de I131 es característicamente muy baja y la ecografía tiroidea muestra áreas de hipoecogenicidad focal.
+Parece que tras una infección viral, se puede producir una respuesta inmunológica mediada por linfocitos T citotóxicos, ocasionando un daño a las células foliculares tiroideas. La aparición de tiroiditis subaguda y su recurrencia en el tiempo parece estar asociado con el HLA B35. Por lo tanto, el inicio de la tiroiditis subaguda está influido genéticamente y parece que puede ocurrir en pacientes genéticamente predispuestos, durante una infección viral.
+Esta entidad se encuentra relacionada con diversos virus en su patogenia: Enterovirus, Coxsackievirus, Adenovirus, Ortomyxovirus, virus de Epstein-Barr, virus de hepatitis E, virus de VIH, citomegalovirus, virus del dengue y de la rubeola, aunque no se han observado cuerpos de inclusión virales en el tejido tiroideo, .
+La tiroiditis silente es una tiroiditis autoinmune que cursa con tirotoxicosis causada por la liberación de hormonas tiroideas de una glándula tiroidea no dolorosa. Es característico encontrar títulos elevados de ac anti-TPO y anti-Tg. El proceso inflamatorio destruye los folículos liberándose grandes cantidades de T4 y T3 al torrente sanguíneo, provocando tirotoxicosis. El recuento de leucocitos es normal y la VSG puede estar ligeramente elevada. Durante la fase de tirotoxicosis, la captación de I131 está disminuida.
+En nuestro caso, el paciente presentaba tirotoxicosis analítica con VSG ligeramente elevada con glándula tiroides no dolorosa y ausencia de captación de I131, con estudio de autoinmunidad negativo, hallazgos que son posibles en las tiroiditis silentes. No requirió tratamiento específico por ausencia de sintomatología, por lo que la sospecha es de una tirotoxicosis silente en el curso de la infección por SARS-CoV-2.
+Por otra parte, un número sustancial de pacientes infectados por SARS-CoV-1 presentaron alteraciones en la función tiroidea en un estudio publicado en 2007. En el caso del SARS-CoV-1 se especuló sobre la posibilidad de un daño directo sobre la glándula tiroidea por parte del propio virus por mecanismos no aclarados. En las muestras de tejido tiroideo se encontró destrucción del epitelio folicular y parafolicular. Otra posibilidad era que el virus causara un hipotiroidismo central inducido por hipofisitis o disfunción hipotalámica, .
+A día de hoy, se ha reportado un único caso de tiroiditis subaguda por SARS-CoV-2 con la diferencia de que presentaba sintomatología. Está por determinar la prevalencia y diversidad de esta patología en los pacientes con COVID-19, se necesitarían mayor número de casos para establecer causalidad y relación con el virus.
+
+
+- CONCLUSIÓN
+
+La infección por SARS-CoV-2 ha tenido un gran impacto en muchos países por su rápida expansión y el gran número de pacientes afectados por la COVID-19; aún no se han podido establecer las complicaciones secundarias a la infección por SARS-CoV-2. En este artículo mostramos la coincidencia de un paciente con infección por SARS-CoV-2 y tiroiditis.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores no presentan conflicto de intereses que declarar.

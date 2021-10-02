@@ -1,0 +1,110 @@
+INFLUENCIA DE LAS CONDICIONES DE TRABAJO SOBRE LA INCAPACIDAD TEMPORAL POR CONTINGENCIAS COMUNES
+
+
+- INTRODUCCIÓN
+
+El médico del sistema público de salud prescribe la incapacidad temporal (IT) como parte del plan terapéutico, una vez valorado el diagnóstico de la enfermedad, factores pronósticos como la edad, el puesto de trabajo y las tareas que se realizan. La gestión de la IT conlleva dificultades sociales, laborales, éticas y sanitarias que la convierten en una tarea poco gratificante.
+El médico del sistema público de salud certifica la baja y alta por contingencia común. Si la contingencia es profesional, la mayoría de las veces es el facultativo de la mutua colaboradora con la Seguridad Social quien certifica la baja; a excepción de que la contingencia profesional sea competencia del Instituto Nacional de la Seguridad Social, entonces el parte de baja lo extenderá el médico de atención primaria.
+En 2015 la incidencia de IT en España fue de 20,51 casos por 1.000 afiliados, la prevalencia de 26,5 casos por 1.000 afiliados y la duración media de los procesos de 37,8 días de baja por afiliado.
+La prevalencia de los daños en el lugar de trabajo se asocia con insatisfacción laboral, y esta con las ausencias por enfermedad. Se estima que de un 15-20% de las bajas tiene un origen laboral, como lo demuestran estudios previos en España, Europa y EE. UU., , , lo que implica mayores derechos del trabajador si la contingencia es laboral, y a la vez representa un trasvase de trabajadores de las mutuas al sistema público de salud y al Instituto Nacional de la Seguridad Social que asumen la prestación de servicios sanitarios y el subsidio económico.
+Aunque se han publicado trabajos sobre factores asociados a ausencia por enfermedad, poco se sabe sobre la relación entre condiciones de trabajo e incapacidad temporal.
+La vi Encuesta europea sobre las condiciones de trabajo muestra desigualdades y diferencias estructurales referidas al género, la situación laboral y la ocupación entre los trabajadores europeos.
+La sostenibilidad del trabajo significa que las condiciones de trabajo y las trayectorias profesionales permitan a los trabajadores mantener su salud física y mental, su motivación y su productividad.
+El objetivo del presente estudio es conocer la asociación entre ambiente de trabajo e incapacidad temporal, a partir de los criterios de salud laboral aplicados por expertos, y mostrar las posibles relaciones con variables clínico-laborales y características de los procesos que causan baja.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Se realizó un estudio observacional descriptivo entre el 1 de enero y el 31 de diciembre de 2015.
+
+
+-- POBLACIÓN Y MUESTRA
+
+Trabajadores de la provincia de Córdoba en situación de IT por contingencias comunes, y que de forma voluntaria prestaron su consentimiento cuando eran revisados en la inspección médica del servicio público de salud.
+
+
+-- TAMAÑO MUESTRAL
+
+Con ayuda de EpiDat4.1 se calculó el tamaño muestral (prevalencia esperada 20%, precisión 2,5% y nivel de confianza 95%, obteniéndose una muestra de 981 personas). A partir de 10.500 trabajadores valorados en 2015, se recogieron las respuestas de 1.016 que aceptaron participar en el estudio.
+
+
+-- FUENTES DE INFORMACIÓN Y VARIABLES
+
+Se cumplimentó un cuestionario específico para recoger datos de su historia clínico-laboral y de condiciones de trabajo (percepción del trabajador sobre medio ambiente, tarea y factores psicosociales-organizacionales).
+Además, se utilizaron las bases de datos de la historia de salud digital (Diraya) para conocer las características de los procesos que causaron IT.
+A partir de esta información, un residente de la especialidad de medicina familiar y comunitaria de 2.° año formado en prevención de riesgos laborales, y una especialista en medicina del trabajo valoraron el papel de las condiciones de trabajo en cada episodio de IT.
+La variable resultado ha sido la relación entre la baja laboral y las condiciones de trabajo, determinada por la decisión de los expertos (especialista en formación de medicina de familia y especialista en medicina del trabajo). La variable se ha recogido de forma cualitativa dicotómica: «sí» o «no» existe relación entre el episodio de baja por IT con las condiciones de trabajo.
+Las variables explicativas han sido: edad, sexo, estado civil, nivel de estudios, residencia, zona asistencial sanitaria, antigüedad, tipo de contrato, régimen de la Seguridad Social, profesión (categorías Código nacional de ocupaciones, CNO-2011), actividad (Clasificación nacional actividades, CNAE-2009) y tamaño de empresa, evaluación de riesgos, diagnóstico del proceso de la baja (codificado Clasificación internacional de enfermedades, CIE- 9 MC), otras bajas en los últimos 12 meses y su diagnóstico (CIE 9 MC) y la percepción del trabajador sobre relación entre la IT y su origen laboral. Las 2 variables se analizan de forma separada. La causa laboral percibida por el trabajador cuando la cree relacionada con la baja es cualitativa (categorías: medio ambiente, tarea y factores psicosociales-organizacionales).
+
+
+-- CONSIDERACIONES ÉTICAS
+
+Todos los participantes fueron informados de los objetivos del estudio, recogiendo el consentimiento por escrito según establece la Ley 41/2002, sobre autonomía y decisión del paciente. Se garantizó la confidencialidad y el anonimato conforme a la Ley 15/1999, Ley orgánica de protección de datos de carácter personal.
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cualitativas se resumieron como frecuencias absolutas y relativas (porcentajes). Para las cuantitativas se calcularon la media y la desviación típica. Se determinaron intervalos de confianza (IC) del 95% para los principales estimadores del estudio. Para conocer la relación entre variables cualitativas se usó la prueba de la Chi-cuadrado. Para la comparación de medias se emplearon los test paramétricos como la prueba «t» de Student (2 medias) o análisis de varianza (ANOVA) (3 o más medias), o test no paramétricos como la prueba U de Mann Whitney o Kruskal Wallis, según estuviera indicado. La bondad de ajuste a una distribución normal de las variables cuantitativas se evaluó con la prueba de Kolmogorov-Smirnov.
+Se llevó a cabo un análisis multivariante mediante regresión logística binaria. Se determinaron los valores de odds ratio (OR), crudos y ajustados. La bondad de modelo se evaluó mediante el test de Hosmer-Lemeshow, y como prueba de contraste de significación estadística se utilizó el test de Wald. Mediante el cálculo del logaritmo neperiano se transformaron aquellas variables cuantitativas que mostraron límites superiores a 102 en los intervalos de confianza.
+Para valorar la concordancia entre criterios de los expertos y la percepción de los trabajadores se calculó el índice Kappa.
+Se ha considerado estadísticamente significativo un valor p < 0,05.
+
+
+- RESULTADOS
+
+-- DESCRIPCIÓN DE LA MUESTRA
+
+El 47,6% de los episodios de baja sucedió en hombres y el 52,4% en mujeres. La media de edad fue de 47,1 años (rango 19-70 años). La antigüedad media en el puesto de trabajo fue de 13,08 años (desviación típica 11,2 años).
+La mayoría eran casados (75%), residentes en núcleo urbano (75,2%) y pertenecientes al Régimen General de la Seguridad Social (72%). Con estudios básicos el 50,4%, frente a un 17,1% sin estudios y un 11,6% con titulación superior. Un 48,4% de las bajas ocurrieron en trabajadores cuyas empresas tenían menos de 10 trabajadores.
+Las principales actividades fueron: comercio (13,2%), sanitaria (12,8%) y hostelería (9,6%). La actividad agrícola-ganadera y la relacionada con la construcción supusieron unos porcentajes del 10% y 6,5% respectivamente. Trabajaban con contrato laboral fijo un 73,7%.
+Las profesiones de los trabajadores estudiados eran en su mayoría: peón agrícola (8,3%), administrativo (6,9%), camarero-hostelería (6,4%), albañil (5,5%), limpiadora (4,7%), ordenanzas/celadores/conserjes (4,6%).
+El 63,5% de los trabajadores no habían sido informados de los riesgos específicos a los que estaban expuestos en su puesto, tras la evaluación de riesgos.
+
+
+-- CARACTERÍSTICAS DE LOS PROCESOS QUE CAUSARON INCAPACIDAD TEMPORAL
+
+Los procesos que motivaron la baja laboral con mayor prevalencia fueron las lesiones musculoesqueléticas (60%), la mayoría a expensas de proceso patológico lumbar (33%) y cervical (14,6%). La prevalencia de trastornos mentales fue del 10,3%, igual que para los trastornos digestivos (10,3%). En cuanto a enfermedad respiratoria causante de casos de IT, la enfermedad pulmonar obstructiva crónica y la neumonía constituyeron el 2,9% del total .Figura 1
+Un 29,6% de asegurados sufrió alguna otra baja laboral en el periodo de estudio. Los diagnósticos más frecuentes fueron: enfermedad osteomuscular (53,7%), enfermedades del aparato respiratorio (13,4%) y enfermedad psiquiátrica (5,4%).
+Casi un tercio de los trabajadores estudiados (32,1%) consideraron que existía relación entre el proceso de salud que causó la baja y su ambiente de trabajo. Sobre las condiciones de trabajo las variables más señaladas por los trabajadores fueron la exposición a agentes químicos, sustancias peligrosas y polvos (33,3%), las temperaturas extremas (31,1%) y, finalmente, el ruido (24,3%).
+Con respecto a la tarea relacionada con el episodio de IT se destaca: la manipulación manual de cargas (46,7%), las posturas forzadas (32%) y los movimientos repetidos (21,3%). En relación con los factores psicosociales-organizacionales la mayoría de los trabajadores indicaron el estrés (76,3%) y el trabajo a turnos (8,8%).
+Solo la manipulación manual de cargas presentó diferencias significativas (p < 0,05), al estudiar la asociación entre percepción del trabajador ante estas variables e IT relacionados o no con las condiciones de trabajo, según los expertos .
+Al comparar la decisión de los expertos con la percepción de los trabajadores, la concordancia obtenida a través del índice Kappa fue 0,48 (0,42-0,54).
+
+
+-- RELACIÓN ENTRE BAJA LABORAL Y AMBIENTE DE TRABAJO
+
+Los expertos encontraron un 17,1% de procesos en los que existía relación con ambiente de trabajo inadecuado. La tabla 2 muestra asociación significativa entre las actividades «sanitaria» y «hostelería» y condiciones de trabajo como causa de la baja laboral (p < 0,001).
+Han presentado asociación significativa con las condiciones de trabajo, los diagnósticos IT, trastornos ansioso depresivos (p < 0,01) y las lumbalgias (p < 0,05) .
+Finalmente, la tabla 4 recoge el análisis por regresión logística binaria crudo y ajustado. En los resultados no ajustados se destaca que los trabajadores con residencia rural han obtenido una prevalencia de IT del 20,2% frente al 7,9% urbanos, ORc = 2,9 (1,8-4,8) p < 0,001. En cuanto al nivel de formación los de estudios superiores mostraron mayor prevalencia de IT, ORc 1,7 (1,2-2,4) p < 0,01. Los trabajadores fijos y los que pertenecían a empresas de más de 100 trabajadores presentaron prevalencias de situaciones de IT mayores que temporales y empresas pequeñas, ORc 2,0 (1,3-3,1) p < 0,05 y ORc 1,97 (1,3-2,9) p < 0,05, respectivamente. Los informados sobre riesgos específicos de su puesto de trabajo obtuvieron una prevalencia superior de IT (24,9%) con respecto a los que no la tuvieron (12,7%), ORc = 2,7 (1,6-3,2) p < 0,001.
+En el análisis ajustado se han incluido todas las variables significativas del bivariante, quedando solo 2 en el modelo final: lugar de residencia urbano ORa = 0,48 (0,27-0,83) p < 0,001 y percepción del trabajador ORa = 23 (14-35,4) p < 0,001.
+
+
+- DISCUSIÓN
+
+Se ha evaluado la relación de las condiciones de trabajo con los procesos de IT en una muestra de trabajadores de la provincia de Córdoba.
+Una proporción de IT calificadas como enfermedad común están relacionadas con las condiciones de trabajo. El porcentaje de episodios de IT asociado a las condiciones de trabajo, según la opinión de expertos, es elevado (17,1%), y concuerda con trabajos publicados en España y EE. UU., .
+La edad media de nuestra muestra se sitúa en torno a los 47 años. Algunos estudios confirman una relación significativa entre la edad y el absentismo. La sostenibilidad del trabajo significa, respecto de los trabajadores, conseguir que los que tienen más edad puedan seguir cumpliendo las exigencias de su trabajo y que la organización de este les permita trabajar de un modo saludable, proteja su vulnerabilidad y les faculte para el mejor uso posible de su experiencia y conocimientos.
+La exposición en el lugar de trabajo a agentes físicos o químicos, la manipulación de cargas o factores psicosociales puede causar o agravar enfermedades comunes de los trabajadores.
+Más de un 30% de los trabajadores perciben que su baja está relacionada con el ambiente de trabajo, lo que está en consonancia con la última encuesta europea de condiciones de trabajo. Un 23% de los trabajadores consideran que su trabajo pone en riesgo su salud y seguridad. Manipulación de cargas, movimientos repetitivos y posturas se señalan en nuestro estudio y están de acuerdo con lo manifestado por los trabajadores europeos; identificándose, además, con riesgos asociados a enfermedades de posible origen laboral atendidas por nuestro sistema sanitario.
+Con respecto a factores psicosociales un porcentaje importante de trabajadores señala que ha de enfrentarse a un nivel elevado de exigencias del trabajo, quizás por: plazos ajustados, necesidad de trabajar deprisa, frecuentes interrupciones molestas, o trabajo excesivo, sin tiempo suficiente para realizarlo. La alta demanda psicológica y el bajo control sobre el trabajo se relacionan con las ausencias por razones de salud por motivos laborales, , .
+Con respecto a los diagnósticos más frecuentes, las enfermedades osteomusculares, de salud mental, respiratorias y digestivas coinciden en nuestro estudio con las de otros autores, , , , , .
+Nuestro estudio muestra que la evaluación de riesgos permite informar a los trabajadores sobre riesgos específicos de su puesto de trabajo y proporciona evidencia de la relación entre baja laboral y condiciones de trabajo. Según la vi Encuesta europea de condiciones de trabajo, un 10% de los trabajadores declara estar «no muy bien informado» o «nada bien informado» sobre los riesgos para la salud y la seguridad relacionados con sus tareas.
+Al considerar el lugar de residencia del trabajador, las diferencias encontradas podrían tener explicación por las características de cada área. Los sectores de producción con mayor porcentaje de trabajadores en un área geográfica se pueden relacionar con los indicadores de absentismo en esa zona.
+Algunos autores encuentran correlación positiva entre la antigüedad y el absentismo, por mayor exposición a situaciones estresantes al asumir más responsabilidad laboral o como respuesta a un empleo estable, .
+El tamaño de la empresa condiciona el tipo de relaciones laborales y la organización del trabajo, pudiendo explicar la asociación entre IT y condiciones de trabajo, .
+La muestra estudiada sigue una distribución similar por sectores de actividad a la población trabajadora de Córdoba. La actividad sanitaria destacó entre las que se asocian con las condiciones de trabajo como causa de la baja laboral, probablemente porque los profesionales sanitarios son más vulnerables a la IT por la alta demanda psicológica a las que están expuestos. Otros trabajos señalan la administración pública, la sanidad y educación como las actividades con mayor probabilidad de tener alguna ausencia por enfermedad.
+La concordancia entre criterios de expertos y percepción de los trabajadores fue moderada, aunque cuando un trabajador afirmaba que su episodio de IT no estaba relacionado con el trabajo, la probabilidad de coincidir con la opinión del experto era del 96,52%, coincidencia menor cuando lo que se valoraba era si el episodio estaba relacionado con el trabajo, lo que puede explicarse por la sobrevaloración del trabajador al calificar su episodio de IT como relacionado con las condiciones de trabajo.
+Entre las limitaciones del estudio señalamos la voluntariedad de los participantes con tasa de respuesta del 100%, pudiendo afectar la validez externa; aunque al completar la encuesta, a partir de los datos de los asegurados, en el momento en que recogen el alta se eliminaría la posible percepción fiscalizadora por parte del trabajador.
+Otro posible sesgo, relacionado con cuestionarios, es el de información empleando instrumentos que no han demostrado ser válidos y fiables; para evitarlo se comprobó el proceso diagnóstico que causó la baja, a través de Diraya, y la decisión de los expertos. Al compartir criterios semejantes por su formación en prevención de riesgos laborales, se consideran válidos como instrumento de medida. Supone un valor añadido en nuestro trabajo precisar el diagnóstico que causó la baja laboral, a diferencia de otros estudios, .
+La IT es relevante como indicador de salud laboral. Se ve afectada por distintos factores, entre los que se encuentran los relacionados con el ambiente de trabajo, aspectos ergonómicos, factores psicosociales y derivados de la organización del trabajo.
+Como conclusiones podemos señalar: uno de cada 3 trabajadores en situación de IT percibe que las condiciones de trabajo (CT) han contribuido a su situación de enfermedad. Sin embargo, existe una concordancia moderada con la decisión de los expertos, ya que solo el 17,1% de las bajas estudiadas son debidas a las CT.
+Las variables sociodemográficas más asociadas a la relación entre IT y CT han sido la percepción positiva que tiene el trabajador en esta asociación, y el lugar de residencia rural frente al urbano. Desgraciadamente, todavía existe un elevado porcentaje de trabajadores que no son informados sobre los riesgos específicos de su puesto de trabajo (63,5%). La manipulación manual de cargas y los movimientos repetitivos son los riesgos más presentes en las tareas que generan episodios de incapacidad temporal. De esta forma, los TME se han erigido como la principal causa de IT.
+Serían interesantes actuaciones preventivas específicas para los trabajadores en su puesto, que permitirían disminuir las bajas de origen laboral clasificadas como contingencia común y reducir el gasto que asume el Sistema Público de Salud. Basándonos en la evidencia que aporta el análisis de los resultados obtenidos se recomiendan programas de medicina preventiva que incluyan aspectos de: vigilancia epidemiológica, información al trabajador desde los servicios de prevención y atención primaria y colaboración entre inspección médica del servicio público de salud y el profesional de atención primaria. Esto último, a través de la formación a los profesionales de atención primaria, así como el apoyo de la inspección médica del servicio público de salud en la toma de decisiones del médico de familia, responsable de emitir la baja laboral.
+Futuras investigaciones serían recomendables, a través de estudios prospectivos de base poblacional, para valorar el impacto de las condiciones de trabajo en la IT.Lo conocido sobre el temaLa prevalencia de los daños en el lugar de trabajo se asocia con insatisfacción laboral y esta con las ausencias por enfermedad.Se estima que de un 15-20% de las bajas tiene un origen laboral.Qué aporta el estudioLa ocupación desempeña un papel explicativo importante en la incidencia de episodios de IT.El trabajo es original y relevante, pues hay pocos estudios sobre la relación entre ausencia por enfermedad y condiciones de trabajo.El conocimiento de esta relación es útil en la planificación y puesta en marcha de actuaciones preventivas específicas para los trabajadores en su lugar de trabajo; y así reducir las bajas de origen laboral, calificadas como contingencia común y cuyo gasto asume el sistema público de salud.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses

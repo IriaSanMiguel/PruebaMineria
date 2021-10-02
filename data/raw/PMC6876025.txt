@@ -1,0 +1,100 @@
+EFECTIVIDAD E IMPACTO ECONÓMICO DE UN PROGRAMA DE ATENCIÓN INTEGRADA CON SOPORTE DE TELEMEDICINA A PACIENTES DIABÉTICOS TIPO 2 TRATADOS CON INSULINA (ESTUDIO GITDIABE
+
+
+- INTRODUCCIÓN
+
+La diabetes mellitus (DM) es una enfermedad crónica común y costosa. El control glucémico y un seguimiento adecuado disminuyen la aparición de complicaciones, y requieren implicación del paciente y del profesional. Se ha propuesto la gestión «personalizada» de la diabetes como un proceso que incluye la educación del paciente para mejorar la adherencia y los resultados del tratamiento. La telemedicina podría ser parte de este proceso, mejorando la eficiencia y los costes, .
+La telemedicina se está incorporando a la práctica clínica para aumentar el grado de implicación de los pacientes diabéticos y mejorar el control de su enfermedad, , , . Es factible y aceptable, pero la evidencia sobre su efectividad no es suficientemente fuerte, , , . En nuestro país los estudios realizados son escasos, con análisis de aspectos concretos y la mayoría de corta duración, , , .
+Nuestro grupo publicó recientemente un análisis de la atención de la diabetes en la comarca del Baix Empordà18.
+El objetivo principal del trabajo es evaluar si pacientes diabéticos con insulina y autocontrol incluidos en un programa de gestión integrada que incluyera el seguimiento telemático lograban un grado de control metabólico a los 12 meses mejor que los no incluidos. Como objetivo secundario se evaluó el impacto en la utilización y el coste de servicios sanitarios, así como del consumo de fármacos y tiras reactivas.
+
+
+- MATERIAL Y MÉTODOS
+
+-- DISEÑO
+
+Estudio prospectivo de cohortes paralelas.
+
+
+-- ÁMBITO
+
+Cuatro áreas básicas de salud (ABS) del Baix Empordà y Hospital de Palamós, gestionados por Serveis de Salut Integrats Baix Empordà (SSIBE), cubriendo el continuum asistencial de 92.000 personas.
+
+
+-- POBLACIÓN DE ESTUDIO
+
+Diabéticos de 15 o más años de edad en tratamiento con insulina y autocontrol mediante tiras reactivas de glucemia (DIA), al menos 3 meses previos a la selección: 877 personas. Eran posibles casos 347 DIA asignados a profesionales de atención primaria (AP) participantes voluntarios en el proyecto. Los controles se obtuvieron de 530 DIA asignados a profesionales no participantes. Los criterios de inclusión y exclusión se recogen en la tabla 1.
+
+
+-- MUESTRA Y SELECCIÓN
+
+Se calculó el tamaño de muestra mínimo para el objetivo principal. Considerando como diferencia mínima clínicamente relevante un 1% de HbA1c, una desviación típica de 1,69% (según datos propios de 2012), un riesgo alfa de 0,05 y un poder estadístico del 80%, para un contraste bilateral, con una razón 1:2 entre grupos y pérdidas esperadas del 5%, se requerían 36 sujetos para el grupo de intervención y 72 para el grupo control. Los casos fueron seleccionados por revisión de historia clínica y visita de selección, y se incluyeron 42 individuos. Todos los seleccionados fueron DM tipo 2. Como controles, se seleccionaron aleatoriamente 84 personas, emparejadas por edad, sexo, tipo de insulina, grado de control de la DM y estado de salud según Clinical Risk Groups (CRG), .Figura 1
+
+
+-- INTERVENCIÓN
+
+Los casos seleccionados siguieron un programa de gestión integrada con apoyo de telemedicina (INDIAM), utilizando la plataforma tecnológica Emminens eConecta® de Roche Diagnostics que intercomunicaba profesionales y pacientes. En cada ABS se seleccionaron 2 profesionales referentes que recibieron formación sobre manejo de la plataforma, formaron al resto de profesionales participantes y aportaron seguimiento y soporte durante la intervención. Los profesionales participantes realizaron la formación de los pacientes y atendieron las dudas sobre acceso y prestaciones de la plataforma. El proceso de reclutamiento y formación requirió 2-3 visitas de AP.
+Los pacientes volcaban los datos quincenalmente los 2 primeros meses y después mensualmente. Los profesionales programaban en la plataforma los controles y el tratamiento recomendados con la misma frecuencia. Se programaron visitas de seguimiento presencial a los 6 y 12 meses. Los pacientes recibían una recomendación de utilización de tiras reactivas acorde a las guías clínicas. El suministro de tiras reactivas a los casos se efectuaba a domicilio según el consumo detectado en la plataforma. Los controles las recibían en el centro de salud a demanda según la pauta establecida.
+Los controles solo eran conocidos por el equipo técnico del estudio, y siguieron los procedimientos clínicos habituales.
+
+
+-- VARIABLES
+
+La variable principal de respuesta fue el grado de control metabólico según hemoglobina glucosilada (%HbA1c) inicial y a los 12 meses, el factor de estudio la inclusión en el programa INDIAM. En los casos, se valoró la percepción de la calidad de vida en el momento inicial y final, mediante los instrumentos EsDQOL y EuroQol, , , así como la satisfacción con el programa mediante una encuesta autoadministrada propia de la plataforma, adaptación del cuestionario TSUQ.
+Otras variables independientes fueron: edad, sexo, morbilidad según CRG, tipo de insulina y fármacos antidiabéticos orales. Otras variables dependientes fueron los datos acumulados a los 12 meses de número de visitas a atención primaria (AP), urgencias de AP, visitas a consultas externas, urgencias hospitalarias, hospitalizaciones (altas y días de estancia), consumo de medicamentos, consumo de tiras reactivas y cumplimiento de la remisión de datos al programa. Igualmente se registraron presión arterial, IMC, perímetro de cintura, datos analíticos (colesterol total, colesterol LDL) y riesgo cardiovascular según REGICOR, .
+El consumo de tiras reactivas en casos se valoró según el número de determinaciones volcadas en el programa de telemedicina. En los controles se consideró que consumían todas las tiras entregadas al paciente durante el estudio. Los casos de abandono voluntario se computaron con ambos sistemas.
+Para las variables de seguimiento clínico se seleccionaron los datos de fecha más cercanos a la inclusión en el programa y a los 12 meses de esta. En los controles, se consideró como fecha de inclusión la correspondiente a la del caso con el que estaban emparejados y la de seguimiento, a los 12 meses de esta. Se consideraron pérdidas los datos que sobrepasaban en 3 meses la fecha de corte correspondiente.
+
+
+-- MÉTODOS DE RECOGIDA Y REGISTRO DE DATOS
+
+En la visita de selección y de seguimiento a los 12 meses se actualizaron las variables biológicas y antropométricas y se pasó la encuesta de calidad de vida. El trabajo de campo se desarrolló entre el 1 de julio de 2013 y el 17 de diciembre de 2014. Todas las variables se obtuvieron de la base de datos corporativa de SSIBE. Roche Diagnostics facilitó un volcado completo de los datos registrados en eConecta. SSIBE dispone de un sistema de cálculo de costes propio. La evaluación de calidad de vida se registró en formularios específicos autoadministrados.
+
+
+-- ESTRATEGIA DE ANÁLISIS
+
+Se efectuó el análisis por intención de tratar, incluyendo los datos disponibles para cada variable de la totalidad de los casos y controles seleccionados. Se efectuó un análisis bivariable del factor de estudio vs. todas las variables dependientes, mediante t de Student, ANOVA, prueba Chi2 o test exacto de Fischer según el tipo de variable. Se consideró un nivel de confianza del 95% y se utilizó el programa SPSS v. 21.0.
+
+
+-- ASPECTOS ÉTICOS Y LEGALES
+
+Se respetaron las normas de buena práctica clínico-investigadora según la declaración de Helsinki actualizada. Los casos fueron informados y firmaron un consentimiento. El estudio fue autorizado por el Comité de Investigación de SSIBE.
+
+
+- RESULTADOS
+
+La descripción de la muestra aparece en la tabla 2. No hubo diferencias relevantes entre el grupo control y el grupo intervención. Se produjeron 11 abandonos voluntarios de casos (7 en los primeros 6 meses). Completaron los 12 meses 31 pacientes (74%). No se solicitaba el motivo, para evitar condicionar la libre decisión y esos pacientes volvieron al sistema habitual de seguimiento. En los controles no se imputaron pérdidas. Se registraron 2 fallecimientos en cada grupo. No hay diferencias significativas de mortalidad (prueba exacta de Fischer p = 0,6).
+La media del %HbA1c disponible previo a la selección fue de 7,76% en ambos grupos (DE = 1,36 en casos y 1,26 en controles). En la fecha de inclusión, la media global fue de 7,63% (DE 1,35%), sin diferencias significativas entre grupos.
+A los 12 meses, la media global fue de 7,57% (DE 1,31%), con una diferencia entre casos y controles del 0,38% (IC95% −0,89 a 0,12%), no significativa .Figura 2
+Se valoró la variación del %HbA1c en cada individuo, observando una diferencia entre grupos de 0,28% (IC95% −0,72 a 0,16%). El contraste entre pacientes que completaron los 12 meses de estudio tampoco mostró diferencias significativas. Las otras variables clínicas analizadas no mostraron diferencias ni entre grupos ni entre el inicio y el final del periodo.
+Respecto a la utilización de recursos sanitarios por persona durante los 12 meses, solo se observaron diferencias significativas en el número de visitas: los casos realizaron un promedio de 7,5 visitas totales en AP más que los controles (p = 0,02); y en concreto 5,3 visitas más de enfermería (p = 0,04). No hubo diferencias entre visitas presenciales y no presenciales .Figura 3
+El consumo medio de tiras reactivas fue en los casos 512 tiras/año (DE: 338) y en los controles 545 tiras/año (DE: 592). El coste estimado en los casos fue 151 €/año (DE: 41) frente a 161 €/año (DE: 180) en los controles, sin diferencias estadísticamente significativas. El consumo de recetas dispensadas fue en los casos 105 recetas/año (DE: 67) y en los controles 115 recetas/año (DE: 81). El coste medio fue de 1.757,04 €/año (DE: 1.303,75) para casos y de 1.841,07 €/año (DE: 1.375,20) en controles. Los fármacos antidiabéticos representaron el 41,6% del consumo en casos y el 42,1% en controles, sin diferencias significativas.
+El coste medio total por persona fue de 3.831,93 €/año (DE: 3.392,43) en los casos, frente a 3.660,33 €/año (DE: 3.396,49) en los controles, sin diferencias significativas entre grupos.
+La encuesta de calidad de vida, autoadministrada a los 42 casos, fue respondida inicialmente por 37 (88%) y por 29 (69%) a los 12 meses. No se detectaron diferencias estadísticamente significativas .
+La cumplimentación de datos telemáticos por los casos alcanzó una media del 81% (mediana 92%). La adherencia al consumo estipulado de tiras tuvo una media del 69% (mediana 78%). La encuesta de satisfacción fue respondida por 24 pacientes usuarios de la plataforma, y alcanzó una puntuación de 3,8 sobre 5, con una tasa de respuestas positivas del 88%.
+
+
+- DISCUSIÓN
+
+El seguimiento y control de la DM tipo 2 en AP mediante un sistema de telemedicina es posible y aplicable Se observó una modesta reducción, no estadísticamente significativa, del nivel de HbA1c en el grupo que utilizó el sistema de telemedicina.
+Los resultados obtenidos en este estudio están en línea con los de otros autores. Rodríguez-Idígoras et al. hallaron una disminución significativa de %HbA1c a los 12 meses en los casos, encontrando variaciones intragrupo en otras variables clínicas sin diferencias significativas entre grupos. López-Torres et al. describieron los resultados del control metabólico y la percepción de calidad de vida, sin demostrar una mejoría del control metabólico.
+La disminución del %HbA1c observada es comparable con un metaanálisis sobre telemedicina en DM tipo 2 que detecta una pequeña disminución en los grupos de intervención (media = −0,37%; IC 95%: −0,49 a −0,25%; p = 0,001). Una revisión Cochrane aporta valores similares (−0,31%, IC 95%: −0,37 a −0,24; p < 0,00001). Otro metaanálisis presenta mejores resultados, con una disminución significativa de %HbA1c (−0,54%; IC 95%: −0,75 a −0,34%), asociada, entre otras variables, a muestras pequeñas y a niveles iniciales de HbA1c superiores al 8%.
+Los pacientes incluidos presentaban un %HbA1c inferior al conjunto de individuos potencialmente seleccionables. Ello pone de manifiesto un cierto sesgo de selección, con tendencia a incluir pacientes mejor controlados, aunque el proceso de apareamiento garantizó la comparabilidad entre grupos . Sin embargo, partir de niveles inferiores de %HbA1c puede haber reducido la posibilidad de mejora del control metabólico durante la intervención realizada. Precisamente un metaanálisis mostraba resultados mejores cuanto peor era el punto de partida.
+La única diferencia significativa detectada en la actividad asistencial fue el mayor uso de visitas a AP por parte de los casos, superior a las 4-5 que implicaban la selección, la formación y el seguimiento. Esto podría estar relacionado con consultas sobre el funcionamiento del programa, y un efecto de prestar más atención a su enfermedad. Por contra, en un estudio en pacientes con diabetes gestacional se evitaron visitas no programadas en los «casos», y los controles hicieron más visitas a AP. Esta diferencia puede ser debida al diferente perfil de pacientes que componen los diferentes estudios (mujeres jóvenes sanas vs. paciente anciano pluripatológico).
+Respecto al consumo y costes de medicamentos y tiras reactivas, en los que no observamos diferencias significativas, no se dispone de estudios cercanos a nuestra realidad en que estas variables fueran evaluadas.
+El presente estudio aporta también información económica sobre un programa de estas características. No se han encontrado diferencias significativas asociadas a la intervención pero es difícil valorar este resultado, dado que es escaso el número de estudios que incluyen esta perspectiva y las conclusiones no son claras.
+En cuanto a la percepción de calidad de vida, los resultados no son concluyentes. La encuesta EsDQOL y el EQ-5D muestran resultados muy variables al considerar los diferentes ítems de la misma, por lo que se optó por utilizar una escala de valoración global. Se observan cambios coherentes en el sentido de mejoría, pero no son significativos. López-Torres et al. sí encontraron significativa la percepción de un mejor estado de salud al final del estudio, probablemente debido al mayor tamaño de muestra, ya que las variaciones en valores absolutos fueron del mismo orden. La mayoría de participantes se consideraron satisfechos con la información recibida por el programa, de modo similar al estudio de López-Torres et al.. La ausencia de datos de calidad de vida en los controles se puede considerar una limitación, pero el diseño del estudio hacía inviable hacerles ninguna prueba específica, aunque aportó la ventaja de los controles enmascarados.
+Una limitación del estudio, que afecta en conjunto a una cuarta parte de los casos, ha sido no registrar los motivos de abandono del mismo. Aunque las características de los pacientes seleccionados fueron muy homogéneas, puede existir algún sesgo no detectado. Otra limitación parcial fueron las pérdidas en el seguimiento, que afectó solo de forma relevante a la información sobre calidad de vida. Se completaron unas dos terceras partes de las encuestas, sobre un número de casos ya pequeño. A pesar de ser autoadministradas, la formación de los profesionales que las dispensaban podría haber mejorado el nivel de respuesta.
+Este estudio ayuda a ver que la integración de las nuevas tecnologías en el control de enfermedades crónicas, que precisan un estrecho control, no es tan fácil ni tan satisfactoria como se esperaría. Algunos trabajos han mostrado efectos más positivos sobre el control de la HbA1c, pero conviene tener en cuenta el sesgo de publicación hacia resultados positivos detectado en diversos metaanálisis, .
+El perfil de paciente a quien van dirigidas es un paciente anciano y pluripatológico que, hoy por hoy, no tiene todavía grandes habilidades tecnológicas. Para superar estas barreras se debería dedicar más tiempo a la formación y a mejorar la accesibilidad tecnológica.
+La telemedicina es una gran herramienta de comunicación que seguramente en un futuro formará parte de la práctica clínica habitual, aunque queda trabajo y barreras que superar. Habrá que continuar con la línea de estudios controlados que aporten evidencias sobre la utilidad de estas nuevas herramientas.Lo conocido sobre el tema•El control glucémico y el seguimiento personalizado de la diabetes, con implicación del paciente, mejoran el pronóstico de la enfermedad.•Los instrumentos de telemedicina se introducen en la práctica clínica para aumentar el grado de implicación de los pacientes diabéticos y el control de su enfermedad.•La evidencia sobre el impacto de la telemedicina en la mejora y/o mantenimiento del control metabólico de la diabetes o la reducción de costes no es suficientemente fuerte.Qué aporta este estudio•Un programa de gestión integrada de la diabetes mellitus con seguimiento telemático es bien valorado por los pacientes, pero consigue una modesta mejoría en el grado de control metabólico a los 12 meses respecto a la práctica habitual.•En la interpretación de resultados de estudios sobre telemedicina conviene tener en cuenta el sesgo de publicación hacia resultados positivos detectado en metaanálisis.•La integración de nuevas tecnologías en el control de enfermedades crónicas que precisan un estrecho control no es fácil. El perfil de paciente a quien van dirigidas es anciano y pluripatológico, y sin grandes habilidades tecnológicas
+
+
+- FINANCIACIÓN
+
+Roche Diagnostics financió parcialmente y de forma no condicionada el desarrollo del Proyecto.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

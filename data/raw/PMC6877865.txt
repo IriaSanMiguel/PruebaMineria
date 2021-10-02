@@ -1,0 +1,88 @@
+RELACIÓN DE LA INTELIGENCIA EMOCIONAL Y LA CALIDAD DE VIDA PROFESIONAL CON LA CONSECUCIÓN DE OBJETIVOS LABORALES EN EL DISTRITO DE ATENCIÓN PRIMARIA COSTA DEL SOL
+
+
+- INTRODUCCIÓN
+
+La calidad de vida profesional (CVP) se define como el sentimiento de bienestar que se deriva del equilibrio que el individuo percibe entre las demandas o cargas de la profesión y los recursos (psicológicos, organizacionales y relacionales) de que dispone para afrontar estas demandas. Una persona refiere una buena CVP cuando experimenta un bienestar derivado del equilibrio entre las demandas de un trabajo desafiante, complejo e intenso y la capacidad percibida para afrontarlas, de manera que a lo largo de su vida se consiga un desarrollo óptimo de la esfera profesional, familiar y de uno mismo.
+Un factor importante en el bienestar percibido es la inteligencia emocional (IE), que se define como la habilidad para percibir, valorar y expresar emociones con exactitud, para acceder y/o generar sentimientos que faciliten el pensamiento; para comprender emociones y el conocimiento emocional y para regular las emociones promoviendo un crecimiento emocional e intelectual.
+El desarrollo de la IE redundaría en satisfacción en el trabajo, implicación, cohesión, participación y reconocimiento en el desarrollo del mismo, buenas relaciones interpersonales y profesionales en el equipo, y cumplimiento de objetivos marcados por la unidad. En definitiva, eficiencia en las actividades laborales.
+La gestión avanzada, aplicada en los sistemas sanitarios actuales, se desarrolla en un entorno dinámico y abierto, y a su vez más competitivo y exigente. Desarrolla estrategias en un entorno cambiante y se fundamenta en el crecimiento humano y la excelencia en la organización y en los resultados. Estas estrategias se basan en el capital humano, hasta tal punto de convertirse en una «ventaja competitiva» que se puede mejorar día a día.
+Existen estudios que concluyen que el desarrollo de la IE es una de las variables que influye en la salud laboral del profesional.
+Sobre el desgaste profesional en el personal sanitario y su relación con factores personales y ambientales, se encuentra que el optimismo y la satisfacción profesional muestran una relación inversa al cansancio emocional en el personal estudiado, y se recomienda mejorar el clima organizacional y potenciar el optimismo y la autoestima individual para disminuir dicho desgaste.
+En atención primaria, la variedad en el tipo de trabajo, el sentimiento de valor en el trabajo y el estímulo intelectual influyen en la satisfacción laboral.
+Estudios de intervención sobre el trabajo en equipo revelan una mejora en la interacción entre los profesionales y la cohesión del grupo de trabajo, y una disminución de la tasa de abandono del trabajo, , .
+Existen trabajos recientes donde se explora la IE en las enfermeras en distintos entornos: cuidados intensivos, atención primaria y cuidados paliativos, concluyendo la importancia de incluir en la enseñanza curricular de grado el correcto manejo de las emociones.
+Tanto en hospital como en atención primaria, se ha estudiado el clima emocional pero no la relación del mismo con los resultados obtenidos por las unidades de gestión clínica, .
+El objetivo de este trabajo fue explorar la relación existente entre CVP percibida e IE percibida, y a su vez la relación de ambas con el porcentaje de consecución de objetivos obtenidos por los profesionales de las unidades gestión clínica del Distrito Costa del Sol en el año 2010.
+
+
+- MATERIAL Y MÉTODO
+
+-- DISEÑO
+
+Estudio observacional descriptivo transversal.
+
+
+-- ÁMBITO Y SUJETOS DE ESTUDIO
+
+El estudio englobó las 12 unidades de gestión clínicas que componían en ese momento (2010) el Distrito Sanitario Costa del Sol, en la provincia de Málaga.
+Los sujetos de estudio fueron los profesionales que trabajan en dichas unidades de gestión clínica: médicos, odontólogos, enfermeros, fisioterapeutas, técnicos, auxiliares de clínica, auxiliares administrativos y celadores.
+Se incluyó al personal con más de 6 meses de relación laboral en el momento en el que se realizó el estudio, independientemente del tipo de relación laboral (eventual, fija o interina), y se excluyó el personal con vinculación laboral mayor de 6 meses pero que pasó en ese periodo de tiempo por distintas unidades.
+Justificación tamaño de la muestra: no se encontraron estudios previos donde se analice el objetivo general expuesto, pero sí se halló un estudio similar realizado en profesionales de enfermería donde el coeficiente de correlación entre la satisfacción laboral total y la reparación emocional fue 0,19. Para conseguir una potencia del 85,0% y detectar diferencias en el contraste de la hipótesis nula H0: ρ = 0 mediante una prueba T-Student bilateral para el coeficiente de correlación de Pearson entre 2 variables, con un nivel de significación del 5%, y asumiendo una correlación esperada de 0,19, fue necesario incluir 242 individuos en el estudio. Para controlar el posible sesgo introducido por las pérdidas en el seguimiento, el tamaño de la muestra se incrementó en un 5% siendo el tamaño final de la muestra de 303 sujetos.
+
+
+-- VARIABLES DEL ESTUDIO
+
+Se midieron las variables: IE, CVP percibida, edad, sexo, profesión, tipo de contrato, tiempo de desempeño profesional en el mismo puesto de trabajo y porcentaje global de consecución de objetivos laborales individuales.
+
+
+-- INSTRUMENTOS
+
+Para la medida de los datos sociolaborales y consecución de objetivos se utilizó un cuestionario ad hoc autoadministrado. Dentro del cuestionario, además de la valoración de las variables de estudio, se pidió cumplimentar la nota de resultados de objetivos individuales (expresado en valor absoluto de 0-10) que se le comunica a cada profesional en la evaluación anual, de manera que no se emplease una base de datos nominal identificativa para incluir estos resultados. Se presentó el proyecto en cada uno de los centros, y se dieron instrucciones sobre cómo cumplimentar los distintos cuestionarios. Posteriormente, se realizó un muestreo estratificado (proporcional) por unidad de gestión y categoría profesional. La selección de individuos en cada uno de los estratos se realizó mediante muestreo aleatorizado simple.
+En todo momento la participación fue voluntaria y se obtuvo consentimiento informado de todos los participantes en el estudio. Asimismo, se contó con la colaboración de la dirección de las distintas unidades del distrito, que asignaron un código a cada cuestionario para mantener la confidencialidad de los datos y no proporcionar a los investigadores ningún dato identificativo de cada participante.
+El resto de los datos se recogió mediante 2 cuestionarios validados: Calidad de Vida Profesional Global Percibida (CVP-35) y Trait Meta-Mood Scale (TMMS-24) en el periodo comprendido entre enero y mayo del 2011 en los 12 centros de salud del Distrito Sanitario Costa del Sol que participaron en el desarrollo de la investigación.
+Con el cuestionario CVP-35 se realiza una medida multidimensional de la CVP percibida por los profesionales. Este cuestionario ha sido utilizado y validado en Atención Primaria, , tiene fiabilidad y es operativo (α de Cronbach > 0,7 para los factores y 0,81 para la puntuación global). Consta de 35 preguntas que se responden en una escala de 1-10, a la que se superponen, como ayuda, las categorías «nada» (valores 1 y 2), «algo» (valores 3, 4 y 5), «bastante» (valores 6, 7 y 8) y «mucho» (valores 9 y 10). Las preguntas se agrupan en 3 dimensiones: «apoyo directivo», «demandas de trabajo» y «motivación intrínseca», y la pregunta referente a «calidad de vida», que no se agrupa bajo ninguna dimensión. La primera dimensión es valorada mediante 12 ítems haciendo referencia al apoyo emocional recibido de los directivos, la segunda dimensión hace referencia a la percepción que el trabajador tiene de las demandas del puesto de trabajo, siendo valorada por 12 ítems, y la tercera dimensión se valora mediante 10 ítems.
+Para la medida de la IE, se utilizó la TMMS-24. Esta escala esta validada y es una versión reducida del TMMS-48 de Salovey y Mayer. Está compuesta por las 3 dimensiones de la escala original: atención, claridad y reparación, relacionadas respectivamente con las habilidades de percepción (soy capaz de sentir y expresar mis sentimientos de forma adecuada), comprensión (comprendo bien mis emociones) y regulación (soy capaz de regular mis estados emocionales). A los sujetos se les pide que evalúen el grado en el que están de acuerdo con cada uno de los ítems sobre una escala de tipo Likert de 5 puntos (1 = Nada de acuerdo, 5 = Totalmente de acuerdo). La escala final está compuesta por 24 ítems, 8 ítems por factor, y su fiabilidad para cada componente es: atención (α = 0,90); claridad (α = 0,90) y reparación (α = 0,86). Asimismo, presenta una fiabilidad test-retest adecuada. Como ocurre con la versión extensa, los 3 subfactores correlacionan en la dirección esperada con variables criterios tales como depresión, rumiación y satisfacción vital.
+
+
+-- ANÁLISIS DE LOS DATOS
+
+Se realizó un análisis descriptivo para resumir la distribución de frecuencias de las UGC, sexo, profesión, contrato y TMMS-24 con sus distintas dimensiones midiendo las habilidades de las mismas «percepción», «comprensión» y «regulación», en los casos analizados.
+Para analizar la asociación entre CVP y TMMS, y de ambos con la consecución de objetivos, se calculó el coeficiente de correlación de Spearman. Con el objeto de analizar la relación entre las variables de perfil y la consecución de objetivos y CVP se aplicó el test de Kruskal-Wallis y el test de Mann Whitney con la correspondiente corrección de Bonferroni en el caso de comparaciones múltiples.
+Esquema del estudio: 
+
+
+- RESULTADOS
+
+Se analizaron las respuestas de 247 profesionales (tasa de respuesta: 0,81). De los profesionales que respondieron, 163 (66,3%) eran mujeres, en concordancia con la proporción mujeres/hombres de la población de estudio. Se recibieron datos de todas las unidades de gestión clínica, en una proporción acorde al tamaño de cada una en el distrito sanitario. Por categoría profesional, el 37,8% eran médicos, el 32,9% enfermeros, el 7,3% auxiliares de enfermería, el 13% auxiliares administrativos y el 3,7% celadores. Por situación laboral, el 69,5% era personal fijo, el 15,9% personal interino, y el 14,6% eventuales. El análisis descriptivo de las diferentes dimensiones de la IE para todas las categorías profesionales muestra una mayoría de adecuada comprensión y regulación (61,1 y 62,8% respectivamente), y en cuanto a la percepción, el 52,2% de los sujetos presentaban insuficiente percepción, mientras que el 44,9% presentaban adecuada percepción .
+En el análisis de la relación entre IE y CVP se observaron correlaciones positivas entre valores absolutos del TMMS, en las categorías comprensión y regulación, y CVP (p < 0,05 y p < 0,01 respectivamente). Esta correlación indica que los profesionales que tienen una mejor compresión y regulación emocional perciben una mayor CVP. En cuanto a la percepción emocional, no hay correlación significativa. No obstante, cuando hay una adecuada percepción se manifiesta una tendencia positiva a tener una mayor CVP .
+Se analizó la correlación de cada categoría de la IE y el resultado de CVP con el porcentaje de consecución de objetivos individuales, encontrando en todos los casos unos coeficientes de correlación muy bajos y no significativos .
+Analizando la consecución de objetivos frente al resto de variables del estudio, se observa asociación significativa entre categoría profesional y porcentaje de consecución de objetivos, siendo este mayor en categorías de menor cualificación (media: celadores 8,75, auxiliares 8,57, enfermeros 8,42, médicos 7,93) (p < 0,05). También existe asociación entre el nivel de consecución de objetivos y el tipo de contrato, siendo mayor en personal fijo (media 8,39) y menor en el eventual (media 7,84) (p < 0,05). No se observaron diferencias significativas en la consecución de objetivos entre hombres y mujeres .
+En el análisis de la CVP se observaron diferencias significativas en el tipo de vinculación laboral, siendo esta mayor en el personal eventual (6,57), seguido del interino (6,32) y menor en el personal fijo (5,76) (p < 0,05). No se observaron diferencias en la CVP entre los distintos sexos y categorías profesionales .
+
+
+- DISCUSIÓN
+
+Un hallazgo destacado del estudio es la correlación significativa entre adecuada comprensión y adecuada regulación emocional con la CVP en consonancia con otros estudios, . Esto significa que los profesionales con una adecuada comprensión y una adecuada regulación tienen una mejor CVP.
+En este trabajo se estudiaron todas las categorías profesionales que forman parte de los equipos de atención primaria, mientras que la mayoría de los artículos encontrados solo hacen referencia a algunas categorías u otros entornos que no son atención primaria, .
+Es interesante observar que aunque se evidencia una adecuada comprensión y a su vez una adecuada regulación emocional, en los sujetos de nuestro estudio se observó una insuficiente percepción emocional .
+Aunque la comprensión, regulación y percepción emocional son aspectos independientes de la IE, todas ellas afectan a un mismo individuo, por lo que con base en los hallazgos de este estudio, si potenciamos y mejoramos todas las habilidades de la IE aumentaríamos la CVP percibida del profesional.
+En otros estudios donde se discute la importancia de la innovación y el éxito empresarial, se mide la CVP en el entorno de atención primaria y especializada, con resultados positivos en cuanto a la consolidación del modelo de gestión.
+También hemos encontrado relación entre tipo de contrato y CVP, teniendo una mejor CVP los eventuales que los fijos. A su vez, obtienen una mejor consecución de objetivos los fijos que los eventuales. Aunque nuestro estudio no permite analizar en profundidad dicha asociación, estos datos serian la base para realizar un estudio que utilizara técnicas más apropiadas, incluyendo técnicas cualitativas.
+El hecho de que en este trabajo las categorías de menor cualificación tengan un mejor porcentaje de cumplimiento de objetivos que los de mayor cualificación, puede deberse a que los de mayor cualificación tienen muchos más objetivos evaluables y de más dificultad en la consecución. Por ello pueden existir limitaciones y sesgos en la evaluación de los objetivos individuales por parte de los gestores, lo que impide hacer un estudio más fiable de esta correlación. Esto supone una limitación en nuestro estudio.
+Si bien en algunos trabajos, se observa que existe correlación entre IE y CVP con la consecución de objetivos en el ámbito empresarial, en este estudio no se ha conseguido demostrar dicha relación. Creemos que esto se debe a que no hay una herramienta diseñada y validada desde esa perspectiva que tenga en cuenta los aspectos de IE y CVP en nuestro ámbito sanitario para medir los objetivos de los distintos profesionales.
+
+
+- CONCLUSIÓN
+
+Teniendo en cuenta la correlación entre IE y CPV percibida hallada en este estudio, el desarrollo de las distintas habilidades de la IE supondría una práctica innovadora en gestión sanitaria, lo que mejoraría la calidad de vida de los profesionales en el ámbito de la salud. Desde los órganos de gestión se debe promover el conocimiento en sus profesionales de distintos métodos en el manejo de las emociones. Tomar estas medidas, constituiría una herramienta facilitadora que permitiría un mejor clima laboral, tan importante en momentos de limitación de recursos y presión creciente sobre los profesionales.Qué se sabe sobre el temaSe han hecho estudios en el ámbito sanitario sobre inteligencia emocional y calidad de vida profesional pero casi exclusivamente en el ámbito de hospital y en el personal de enfermería, Encontrándose relación entre calidad de vida profesional y regulación emocional en este grupo de profesionales.Qué aporta este estudioEl estudio se ha realizado en todos los profesionales que trabajan en el ámbito sanitario de un distrito de atención primaria y nos permite saber en nuestro momento actual la influencia que ejerce las habilidades de la inteligencia emocional «comprensión, regulación emocional y percepción» en la calidad de vida profesional. El conocimiento de las mismas nos puede ayudar a desarrollar estrategias que mejoren la calidad de vida profesional de los equipos multidisciplinares que trabajan en nuestro sector.
+
+
+- FINANCIACIÓN
+
+Sin financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

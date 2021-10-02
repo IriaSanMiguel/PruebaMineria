@@ -1,0 +1,45 @@
+VALORACIÓN DE SECUELAS CLÍNICA, RADIOLÓGICAS Y FUNCIONALES EN PACIENTES SUPERVIVIENTES DE NEUMONÍA POR SARS-COV-2
+
+
+- INTRODUCCIÓN
+
+El virus SARS-CoV-2 provoca una enfermedad sistémica (COVID-19) que afecta al pulmón, con poca evidencia científica sobre las secuelas respiratorias. Los trabajos publicados indican la persistencia de lesiones radiológicas a largo plazo en un porcentaje considerable de pacientes con impacto en función pulmonar, siendo la capacidad de esfuerzo escasamente valorada.
+
+
+- OBJETIVO
+
+Evaluar las secuelas clínicas, radiológicas y funcionales en pacientes hospitalizados por neumonía COVID-19.
+
+
+- METODOLOGÍA
+
+Estudio observacional prospectivo entre el 1 mayo y el 30 junio de 2020 de casos confirmados de COVID-19 por reacción en cadena de la polimerasa (PCR) y/o serología positiva, ingresados por neumonía en el Hospital Universitario Virgen Macarena; revisados presencialmente al mes del alta, con control telefónico o presencial a los tres meses en función de persistencia de alteraciones radiológicas y/o funcionales. Se siguieron las recomendaciones de la declaración STROBE.
+Se recogieron variables clínicas, ansiedad/depresión (Hospital Anxiety and Depression Scale [HADS]), radiológicas/ecográficas y de función pulmonar. La espirometría (Jaeger Viasys Masterscope), capacidad de difusión de monóxido de carbono (DLCO) (Jaeger modelo MS-PFT) y la prueba de marcha de seis minutos (PM6M) se realizaron según recomendaciones de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR). Se solicitó tomografía axial computarizada (TAC) de tórax ante hipoxemia, alteración funcional respiratoria o radiológica.
+El estudio fue aprobado por el Comité Ético y de Investigación Clínica de los hospitales universitarios Virgen Macarena-Virgen del Rocío, el 25 de mayo de 2020.
+
+
+- RESULTADOS
+
+De los 127 pacientes evaluados al mes, 31 precisaron visita presencial a los tres meses. El 61,4% fueron varones con mediana de edad de 47 (27-60) años. El índice de Charlson fue 0,81±1,3 puntos (hipertensión arterial [37%], diabetes [14,2%] y cardiopatía isquémica [9,4%]). El 13,4% ingresó en UCI. El 61,4% recibió oxigenoterapia convencional, 7,9% terapia de alto flujo nasal (TAFN) y 7,9% CPAP. La mediana de días de ingreso fue de 8 (6-11) días.
+El 23,5% presentó puntuaciones patológicas para ansiedad y el 9,6% para depresión (≥ 11 puntos) al mes, significativamente mayores en mujeres (ansiedad: mujer 8 [4-12] vs. hombre 4 [2-12], p 0,002/depresión: mujer 4,5 [1-9] vs. 2 [0-5], p 0,012).
+Los resultados de función pulmonar y radiología se muestran en la tabla 1.
+No se encontró ninguna variable asociada a la persistencia de alteraciones radiológicas o de DLCO a los tres meses.
+El 31,5% presentó alteraciones ecográficas al mes, detectándose alteraciones no evidenciadas en la radiología en 14 pacientes. La incidencia de fibrosis fue del 7,1%.
+
+
+- DISCUSIÓN
+
+Nuestros datos demuestran que la incidencia de secuelas respiratorias en pacientes con COVID-19 ingresados por neumonía en nuestra área es más baja de los esperado, siendo concordantes con Tabernero et al., quien describe alteración de DLCO en 21,2% de los pacientes, aunque con seguimiento menor. En otro trabajo evaluado a tres meses detectaron alteración en DLCO en el 16,3%, en nuestro caso no fue superior al 8% en este plazo.
+Se ha descrito la persistencia de sintomatología prolongada tras padecer COVID-19, . En nuestra serie, un porcentaje considerable presentó ansiedad/depresión al mes, así como algún grado de disnea a los tres meses.
+En cuanto a alteraciones radiológicas, aunque autores como Zhao et al. encontraron alteraciones en el 71% de los pacientes a tres meses, nuestro trabajo muestra que las lesiones radiológicas se resuelven en el 90% de los pacientes en este mismo tiempo. La realización de ecografía, aunque más sensible que la radiología, no condicionó un cambio de actitud, ya que las alteraciones fueron inespecíficas.
+En conclusión, este estudio pone de manifiesto que, aunque las secuelas respiratorias en los casos graves de neumonía por COVID-19 son menores de lo esperado inicialmente, un porcentaje no despreciable de pacientes va a presentar trastornos fibróticos establecidos a los tres meses. Además, la clínica de disnea continúa presente en un número considerable de pacientes, quienes también muestran niveles elevados de ansiedad/depresión, aspectos importantes a tener en cuenta en el seguimiento, fundamentalmente de cara a atención primaria, y que en general terminan por resolverse con el tiempo.
+
+
+- FINANCIACIÓN
+
+Este trabajo no ha recibido ningún tipo de financiación.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

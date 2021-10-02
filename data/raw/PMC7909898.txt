@@ -1,0 +1,55 @@
+¿ES POSIBLE LA REINFECCIÓN POR SARS-COV-2
+
+
+- DESCRIPCIÓN DEL CASO
+
+El caso que nos ocupa es el de una mujer de 48 años, auxiliar de enfermería en un centro sociosanitario de atención a mayores. El 11 de abril, tras la detección en su centro de trabajo de un anciano con COVID-19, se le realizó PCR con re- sultado positivo, siendo en ese momento completamente asin- tomática.
+La paciente llamó al centro de salud para comunicar la infección por SARS-CoV-2 y procedimos, tal y como indica el protocolo del Ministerio de Sanidad y la Conselleria de Sanitat, a incluirla en el programa de Seguimiento telefónico del Centro de Salud para control de síntomas, recogiendo todos los datos que nos aportó en la Hoja de Evolución como posible caso COVID-19, creada en Abucasis para tal fin.
+Siguiendo el protocolo, se pautaron las recomendaciones de aislamiento y manejo domiciliario de casos en investigación, probables o confirmados de COVID-19 del Ministerio de Sanidad.
+Gracias al seguimiento telefónico detectamos, a las 48 horas de tener la PCR positiva, síntomas leves de la infección; en su caso, tos, congestión y leve disnea. En ese momento se inició tratamiento sintomático con paracetamol y acetilcisteína. La paciente empeoró discretamente al sexto día del diagnóstico y se le pautó azitromicina.
+El seguimiento telefónico continuó los días siguientes sin novedades destacables, hasta llegar al decimoquinto día del diagnóstico, momento en que nos comunicó que había aumentado discretamente su disnea basal y asociaba dolor costal. Con estos datos y ante la evidencia del empeoramiento clínico, decidimos solicitarle una radiografía de tórax, que en su caso fue negativa para neumonía por COVID-19.
+Ante la persistencia de síntomas leves y con la radiografía de tórax normal, a las tres semanas del diagnóstico se repitió la PCR, siendo esta nuevamente positiva.
+La paciente tenía síntomas leves pero constantes (tos seca, cefalea, mialgias) y no tuvo fiebre alta en ningún momento. Pasados 36 días de la PCR diagnóstica y 15 de la segunda PCR, se solicitó el Test rápido de anticuerpos totales SARS-CoV-2 (ICT) con resultado POSITIVO. El Test rápido de detección de anticuerpos IgG/IgM-SARS-CoV-2 (ICT) dio como resultado Ac IgG SARS-CoV-2 POSITIVO y Ac IgM SARS-CoV-2 NEGATIVO. Ese día se cursó también la tercera PCR.
+Con todos estos datos, la revaloramos a las 48 horas. En ese momento la paciente estaba asintomática y el resultado de la PCR fue NEGATIVA.
+Por lo tanto, con los datos clínicos, la tercera PCR NEGATIVA y la serología con Ac IgG POSITVOS e IgM NEGATIVOS, decidimos cerrar la Hoja de Seguimiento por posible caso COVID-19 y dar de alta a la paciente, finalizando este proceso asistencial 40 días después de realizar la primera PCR (fig. 1 ).Figura 1
+Hasta aquí, el caso que os presentamos es solo un caso más de infección leve por SARS-CoV-2. Cinco días después de ser dada de alta, gracias a la accesibilidad de la atención primaria, la paciente nos comunica que su pareja, con el que había estado en contacto esos días, tenía una PCR POSITIVA, detectada por los servicios de Prevención de Riesgos Laborales de la empresa donde trabaja.
+Pasó a formar parte del circuito asistencial como contacto asintomático, se abrió la hoja de seguimiento pertinente y se reinició seguimiento telefónico.
+Siguiendo los protocolos, separamos de nuevo a la pareja; a él lo aislamos y a ella la pusimos en cuarentena (término empleado para el aislamiento de los contactos asintomáticos).
+El día 1 de junio, siete días después, se le realizó a él otra PCR con resultado NEGATIVO y se cursó alta médica.
+Nuestra paciente se mantuvo asintomática desde su alta, el día 20 de mayo, por lo que se la citó el día 3 de junio para realizar nueva PCR por ser ella trabajadora sociosanitaria. Tras la toma de la PCR, nos relató que inició de nuevo síntomas de infección por SARS-CoV-2. En esa ocasión notó tos seca. A las 48 horas de la toma, nos llegó el resultado de la PCR que resultó ser POSITIVA.
+Teníamos a la paciente clasificada como caso resuelto siguiendo los criterios del Ministerio de Sanidad, con PCR negativa, IgG positiva e IgM negativa. Ahí nos planteamos si se trataba de una reinfección por SARS-CoV-2 por la PCR positiva.
+A pesar de tener síntomas leves, le repetimos la radiografía de tórax el día 62, y volvió a ser normal.
+Una semana después de la PCR positiva, le solicitamos determinación de anticuerpos. En esta ocasión, el laboratorio utiliza la determinación de anticuerpos totales (CLIA) frente a SARS-CoV-2 siendo estos POSITIVOS. Se realiza ICT de detección de anticuerpos IgG/IgM-SARS-CoV-2 POSITIVA para IgG y POSITIVA para IgM (fig. 2 ). Figura 2
+Con todos estos resultados, constatamos la nueva positivización de la IgM SARS-CoV-2.
+En el alta inicial (día 40) teníamos IgM NEGATIVA, PCR NEGATIVA, IgG POSITIVA; 16 días después (día 56 desde la primera PCR) obtenemos PCR POSITIVA y 23 días tras el alta (día 63 desde la primera PCR) obtenemos los resultados IgM POSITIVA, IgG POSITIVA, y nos llevó a pensar que se trataba de una REINFECCIÓN POR SARS-CoV-2.
+Continuó en seguimiento telefónico para ver la evolución de los síntomas que poco a poco fueron remitiendo. A pesar de ello se le realizaron los días 16 y 26 de junio (71 y 81 días después de la primera PCR) nuevas determinaciones de PCR, que fueron POSITIVAS. Finalmente, el 10 de julio, 96 días después de la primera PCR, esta se NEGATIVIZÓ, cerrando el proceso asistencial (fig. 3 ).Figura 3
+
+
+- DISCUSIÓN
+
+La atención primaria es la puerta de entrada al sistema de salud, y durante esta pandemia se ha convertido en uno de los pilares fundamentales en el diagnóstico, seguimiento y tratamiento tanto de los casos sospechosos de infección por SARS-CoV-2 como de sus posibles contactos.
+Con los datos expuestos, os planteamos la siguiente discusión: ¿se trata de una reinfección por SARS-CoV-2?, ¿es una reactivación del SARS-CoV-2?, ¿puede tratarse de un error en la toma de la muestra o en la lectura de anticuerpos?, ¿se trata de una mutación que puede estar conviviendo con nosotros?
+Al ser una enfermedad reciente, la literatura de la que disponemos es escasa.
+Tal y como indican los Centers for Disease Control and Prevention de los Estados Unidos, “la respuesta inmune a COVID-19 todavía se desconoce. Es poco probable que los pacientes con infección por MERS-CoV vuelvan a infectarse poco después de recuperarse, pero aún no se sabe si se observará una protección inmune similar en pacientes con COVID-19”.Un estudio realizado en China con 4 pacientes (personal sanitario con infección leve) con COVID-19, que cumplieron los criterios para el alta hospitalaria o la interrupción de la cuarentena (ausencia de síntomas clínicos, anomalías radiológicas y dos resultados negativos de la prueba RT-PCR), tuvieron resultados positivos de la prueba RT-PCR de 5 a 13 días después. Estos hallazgos sugieren que al menos una proporción de pacientes recuperados aún pueden ser portadores del virus.
+Entre el 10 y el 20 de marzo de 2020 fueron readmitidos 3 pacientes en el Hospital de Tongji, después de haber sido dados de alta con anticuerpos IgM negativos e IgG positivos con ARN no detectable, pero fueron reingresados de nuevo sin ningún síntoma debido a que la nueva prueba de ARN del SARS-CoV-2 mostró resultados positivos, mientras que la IgM y la IgG siguieron siendo negativa y positiva respectivamente.
+Un estudio del Journal of Infection demostró que el 9% de 55 pacientes que fueron dados de alta presentaron reactivación para SARS-CoV-2.
+Los autores consideraron que los principales factores para la reactivación podrían ser el estado del paciente, la carga viral y algún tipo de inmunosupresión; aunque ninguno de los pacientes tenía enfermedades subyacentes como diabetes, hipertensión o problemas cardiovasculares.
+Nuestro estudio es relevante porque la paciente que nos ocupa, tras superar la enfermedad por COVID-19, presentó PCR negativa, IgM negativa e IgG positiva y posteriormente, tras contacto familiar estrecho, desarrolló de nuevo síntomas COVID-19 con PCR positiva, IgM e IgG positivas.
+Por ello nos planteamos la posible reinfección por SARS-CoV-2, ya que los datos analíticos así nos los corroboran.
+La batería de pruebas de las que disponemos en atención primaria es escasa y en nuestro hospital comarcal de referencia no se puede titular la cantidad de anticuerpos, por lo que tenemos cierta incertidumbre al afirmar que se trata de reinfección.
+Nos planteamos otras posibles opciones, como la reactivación de la cepa de SARS-CoV-2 que la infectó en abril, a pesar de que la paciente no padece enfermedades concomitantes, o que se trate de una infección por otra nueva cepa del SARS-CoV-2.
+
+
+- LECCIONES APRENDIDAS
+
+La infección por SARS-CoV-2 nos ha sorprendido a todos. Está en constante evolución y cada día aprendemos algo nuevo, las evidencias existentes hasta el momento no nos permiten afirmar que existan reinfecciones, pero los datos obtenidos en este caso nos hacen pensar lo contrario.
+
+
+- CONCLUSIONES
+
+Hemos encontrado durante el estudio de la paciente un cambio significativo en la determinación de anticuerpos IgM, siendo negativos para SARS-CoV-2 con anticuerpos IgG positivos y PCR negativa tras la primera infección, e IgM positiva para SARS-CoV-2 manteniendo anticuerpos IgG positivos y PCR positiva posteriormente, coincidiendo con clínica compatible con enfermedad por COVID-19.
+
+
+- REFERENCIA NO CITADA
+
+.

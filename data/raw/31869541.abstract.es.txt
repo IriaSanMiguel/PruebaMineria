@@ -1,0 +1,5 @@
+Estudio transversal a partir de resultados de la Encuesta Nacional de Salud y Nutrición (Ensanut 100k) que se enfocó en adolescentes de entre 10 y 19 años. Se estimaron modelos de regresión logística ajustados y se obtuvieron razones de momios (RM) e intervalos de confianza al 95% (IC95%).
+Evaluar los factores sociales asociados con el consumo de tabaco y alcohol en adolescentes mexicanos de poblaciones menores a 100 000 habitantes.
+Para reducir el consumo de alcohol y tabaco en adolescentes deben implementarse estrategias de prevención integrales que tomen en cuenta el contexto individual y social.
+La prevalencia de consumo de tabaco en el último mes fue de 5.5% (10-14 años=1.0%, 15-19 años= 11.2%); de consumo de alcohol, 9.3%, y de consumo excesivo de alcohol, 2.8%. Factores asociados: consumo de tabaco, sexo (hombre, RM= 6.00; IC95%: 2.89-12.46), edad (RM=1.73; IC95%: 1.46-2.04), trabajo remunerado (RM= 2.87; IC95%: 1.12-7.34) y afiliación a servicios de salud (RM= 0.26; IC95%: 0.08-0.82); consumo de alcohol, (hombre, RM= 5.11; IC95%: 2.38-11.0), edad (RM= 1.70; IC95%: 1.51-1.92) y trabajo remunerado (RM= 2.51; IC95%: 1.01-6.24).
+

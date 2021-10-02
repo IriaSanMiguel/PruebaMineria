@@ -1,0 +1,5 @@
+Estudiar el apoyo familiar y escolar, considerando la influencia del entorno social, permite mayor entendimiento de la adquisición de habilidades para una conducta sexual preventiva en hombres durante la adolescencia temprana.
+Identificar la asociación entre conocimiento sobre riesgo de embarazo y autoeficacia en el uso del condón, con el apoyo parental y factores escolares, en hombres.
+Los conocimientos sobre riesgo de embarazo se asocian con el que los padres hablen sobre sexualidad (RM=2.45, IC95% 1.35-4.47), con el agrado por asistir a la escuela (RM=2.18, IC95% 1.15-4.13), con el que los profesores hablen frecuentemente/muy frecuentemente sobre equidad de género (RM=1.69, IC95% 1.06-2.67) y con la edad (RM=1.77, IC95%1.26-2.50). La autoeficacia en el uso de condón se relaciona con el que los padres hablen sobre sexualidad (RM=1.80, IC95% 1.01-3.20), con el agrado por asistir a la escuela (RM=2.60, IC95% 1.42-4.77), con el nivel socioeconómico medio (RM=1.82, IC95% 1.07-3.11) y con alto grado de marginación (RM=0.47, IC95% 0.30-0.73).
+Estudio transversal con 448 estudiantes en Puebla y Morelos. Se ajustaron dos modelos logísticos.
+

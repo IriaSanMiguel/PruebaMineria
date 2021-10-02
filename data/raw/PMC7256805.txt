@@ -1,0 +1,89 @@
+FIABILIDAD DE LA RETINOGRAFÍA PARA LA DETECCIÓN DE RETINOPATÍA HIPERTENSIVA EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La hipertensión arterial (HTA) constituye una de las enfermedades más frecuentes en población general. En la actualidad, llega a una prevalencia global del 30-45%. Su importancia reside en las complicaciones que ocasiona en el lecho vascular de órganos diana como riñón, corazón, cerebro y ojo. Para evaluar a estos pacientes se recomienda un examen del fondo de ojo para detectar retinopatía hipertensiva, especialmente en grados II y III de HTA. Aunque no existe consenso en todas las guías clínicas, ya que en otras no se menciona esta recomendación.
+Desde hace tiempo se estudia la afectación de la microvasculatura retiniana relacionada con HTA, . Hay diversos trabajos que consideran la asociación de los grados más leves de retinopatía y la alteración del calibre de los vasos retinianos con el aumento de riesgo para ictus y enfermedad cardíaca, , , aunque otros lo relacionan con declive cognitivo, .
+La oftalmoscopia directa para detectar retinopatía hipertensiva y su grado de gravedad presenta una elevada variabilidad interobservador, . Desde la aparición de la retinografía con cámara amidriática, su uso se ha extendido en Atención Primaria, fundamentalmente para el control del paciente diabético. Utilizando aplicaciones telemáticas, se facilita el cribado y control de esta enfermedad, lo que permite múltiples posibilidades en la lectura de las imágenes. El desarrollo de las nuevas tecnologías, con la integración del procesamiento de imágenes en los sistemas de informatización de la historia clínica, hace accesible esta prueba a la mayoría de los clínicos y la convierte en aplicable a amplios grupos poblacionales.
+Por otra parte, el desarrollo de aplicaciones informáticas para la lectura semiautomática de algunos parámetros de las lesiones observadas en el fondo de ojo y de las relaciones entre la microvasculatura retiniana permite abrir nuevas perspectivas en la utilidad de la valoración inicial del fondo de ojo en pacientes hipertensos.
+El objetivo de este trabajo es evaluar la concordancia en la lectura e interpretación de retinografías de pacientes hipertensos realizadas por médicos de familia y por oftalmólogos.
+
+
+- PACIENTES Y MÉTODOS
+
+Estudio transversal para evaluar la fiabilidad en la lectura de alteraciones retinianas mediante retinografías con cámara amidriática, obtenidas de pacientes hipertensos e interpretadas por 6 médicos de familia y 2 oftalmólogos expertos en retinopatía hipertensiva.
+Los sujetos de estudio pertenecen al proyecto «Investigating Silent Strokes in HYpertensives: a Magnetic Resonance Imaging Study» (ISSYS). El estudio ISSYS se realizó sobre una muestra aleatorizada de pacientes hipertensos entre 50 y 70 años, atendidos habitualmente en su centro de salud, para determinar la prevalencia de isquemia cerebral silente. Fueron seleccionados aleatoriamente estratificando por edad y sexo de una muestra potencial de 27.000 sujetos del área norte de Barcelona. Se invitó a través de llamada telefónica a los sujetos para programar una visita en la que los criterios de inclusión y exclusión fueron evaluados por investigadores entrenados.
+
+
+-- CRITERIOS DE INCLUSIÓN
+
+Pacientes hipertensos como mínimo de un año de evolución, entre 50 y 70 años con firma de consentimiento informado para la realización de una retinografía.
+
+
+-- CRITERIOS DE EXCLUSIÓN
+
+Historia previa de ictus o demencia; contraindicación para RMN; sospecha de hipertensión de bata blanca; existencia de enfermedad terminal o previsión de imposibilidad de seguimiento. Limitación física o funcional para la práctica e interpretación de la retinografía: opacidad de medios, retina fotocoagulada, miopía magna, cicatrices corneales, hemorragia vítrea, cirugía previa de la retina, ojo único funcional y enfermedad con trastornos del movimiento.
+
+
+-- PROCEDIMIENTO
+
+En el momento de la visita para el proyecto ISSYS se invitaba a los sujetos a realizarse una retinografía. Se obtuvieron en 2 centros de Atención Primaria que disponían del aparataje necesario, previa citación de los participantes, entre marzo de 2011 y julio de 2012.
+A cada paciente, tras la obtención del consentimiento informado, se le realizó una retinografía de ambos ojos centrada en el disco óptico/mácula, a 45°, sin midriasis previa y en condiciones lumínicas comparables. Cuando fue posible, se obtuvieron también imágenes centradas en papila. Para obtener las fotografías digitales, se utilizó un retinógrafo TOPCON TRC-NW65, que incluía: cámara Nikon D7000 para TRC-NW6, Ibase Digi Captura, monitor TFT19”, ordenador con sistema operativo Windows 7, de tipo I, ATE-600 y el software Eye-Viewer para visualizar y medir las imágenes de la vasculatura retiniana (desarrollado por TOPCON). Las imágenes se almacenaron en formato jpg en un servidor creado a tal efecto.
+Se creó una base de datos Access y un programa de gestión en Visual Basic para facilitar la lectura e interpretación de las retinografías a los evaluadores.
+
+
+-- LECTURA DE LAS RETINOGRAFÍAS
+
+Las retinografias fueron anonimizadas, recodificadas y almacenadas en un servidor. Las imágenes de 50 pacientes fueron duplicadas y recodificadas para una lectura repetida a los 2 meses (test-retest), de manera que no fueran recordadas por los evaluadores. Las imágenes fueron leídas e interpretadas independientemente por 6 médicos de familia y 2 oftalmólogos expertos en retinopatía hipertensiva.
+Para obtener un patrón diagnóstico de referencia se revisaron todas las lecturas de los 2 oftalmólogos y las discordancias fueron consensuadas.
+Para estandarizar las lecturas se impartió un programa formativo y de entrenamiento consistente en una sesión inicial de contenido teórico y 6 sesiones en las que cada evaluador debía interpretar 50 retinografías y posteriormente discutir en grupo los resultados en presencia de un oftalmólogo experto que revisaba y explicaba los criterios de identificación y definición de cada tipo de lesión. Estas imágenes fueron proporcionadas por el oftalmólogo y no pertenecían a los sujetos del estudio. Se computó un total de 14 h de formación presencial.
+Cada evaluador buscó la presencia de lesiones de retinopatía hipertensiva y se procedió a clasificar las imágenes según los criterios de Keith-Wagener-Barker considerando 5 posibles grados: sin patología; grado i (estrechamiento focal arteriolar, ratio AV [RAV] patológica: <0,66); grado II (cruces AV); grado III (microaneurismas, hemorragias en llama, exudados blandos); grado IV (edema de papila) .
+Para ello se proporcionó a cada observador acceso a la base de datos en la que estaban almacenadas todas las retinografias . Esta base de datos disponía de las casillas correspondientes a todas las lesiones que se valoran en función de los criterios de Keith-Wagener-Barker. Al hacer las lecturas, cada observador quedaba identificado; las imágenes estaban anonimizadas y no se disponía de ningún dato clínico de los pacientes. Las lecturas se efectuaron, durante los 3 meses siguientes a la formación recibida, en los ordenadores de las consultas de sus centros de trabajo.Figura 1
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+Las variables cualitativas se describen con sus frecuencias absolutas y relativas, y las cuantitativas con su media y desviación estándar.
+Para el análisis de fiabilidad se valoró la concordancia inter- e intraobservador a través del coeficiente kappa, siguiendo los criterios de Landis y Kock y tomando como patrón de referencia la lectura consensuada de los 2 oftalmólogos expertos. Para la concordancia intraobservador, se duplicaron 50 retinografías de manera que no pudieran ser reconocidas en una segunda lectura pasados 2 meses.
+El nivel de significación para todos los contrastes fue de p ≤ 0,05. Todos los análisis estadísticos se hicieron con el paquete estadístico Stata 15.1.
+
+
+- RESULTADOS
+
+De los 976 pacientes del estudio ISSYS, se obtuvieron imágenes retinográficas en 776. En 9 casos resultaron no valorables por mala calidad de la imagen. Finalmente, se analizaron las retinografías correspondientes a 767 pacientes .Figura 2
+La edad media de los participantes fue de 62,7 (5,5) años; el 50,2% eran varones, el 0,7% eran diabéticos de tipo 1 y el 20,6% de tipo 2. El resto de las características se describe en la tabla 1.
+Solo 11 pacientes (1,4%) no presentaron ninguna lesión. La más frecuente fue la alteración en la RAV (98,7%), seguida de la presencia de cruces AV (63,8%) y de microaneurismas (2,9%). El resto de las alteraciones presentaron una baja frecuencia .
+El grado de acuerdo kappa combinado (todos los evaluadores) respecto al patrón de referencia fue nulo para RAV, bajo para la clasificación de Keith-Wagener-Barker (κ = 0,28), cruces (κ = 0,31), los exudados blandos (κ = 0,24) y duros (κ = 0,31), moderado para los microaneurismas (κ = 0,51) y las hemorragias en llama (κ = 0,56) .
+La concordancia intraobservador en la evaluación de la clasificación de Keith-Wagener-Barker presentó valores kappa entre bajos y moderados para los médicos de familia (κ entre 0,25 y 0,56), mientras que fueron moderados para los oftalmólogos (κ = 0,42-0,55) .
+
+
+- DISCUSIÓN
+
+Los resultados del presente estudio muestran una concordancia baja en las lecturas de las retinografías de pacientes hipertensos realizadas por médicos de familia y por oftalmólogos.
+Existen trabajos que, al valorar las lesiones por retinopatía hipertensiva, miden la concordancia entre distintos observadores.
+The Atherosclerossis Risk in Communities (ARIC) Study compara la concordancia en la lectura de retinopatía hipertensiva entre imágenes tomadas en diferentes días y reevaluadas posteriormente, concordancia con sistemas distintos de medición y concordancia entre observadores diferentes. Se valoraron 233 retinografías para la concordancia interobservador de las lesiones de retinopatía hipertensiva.
+El Cardiovascular Health Study (CHS) describe la prevalencia de las características microvasculares de la retina y su asociación con aterosclerosis en ancianos no diabéticos. En este estudio, se realizó retinografía a 2.050 pacientes, de los cuales un 56,8% eran hipertensos y un 6,5% habían presentado un ictus previamente, a diferencia de nuestro estudio, en que ningún participante presentaba ictus previo al inicio del estudio.
+El Blue Mountains Eye Study (BME) describe las prevalencias específicas por edad y sexo de retinopatía (hemorragias, microaneurismas o ambos) en personas no diabéticas. En él, se realizó dilatación pupilar a todos los participantes, a diferencia de nuestro estudio y al resto comentado.
+En nuestro trabajo, la presencia de RAV patológica presentó una concordancia interobservador nula respecto al patrón de referencia (κ = 0), lo que indica una alta subjetividad en su valoración. En el estudio ARIC el acuerdo en esta medida fue κ = 0,73 y en el CHS κ = 0,81, aunque en ellos se utilizó un método de medición computarizado. Una vez obtenidas las imágenes, se digitalizaban con un escáner de alta resolución y se realizaban las medidas de forma semiautomática, lo que elimina en gran parte la subjetividad en la medición de la RAV en nuestro caso.
+La concordancia interobservador en la clasificación de Keith-Wagener-Barker en nuestro trabajo fue baja (κ = 0,28). Estos resultados serían comparables al estudio realizado por Figuereido Neto, que valoró en 99 pacientes hipertensos la concordancia entre 2 observadores, mediante oftalmoscopia directa, de la presencia de retinopatía hipertensiva y obtuvo un índice κ = 0,22 y, en cuanto a la diferenciación entre grado de retinopatía I o II, un κ = 0,33. Posteriormente se compararon las imágenes de los mismos pacientes obtenidas a partir de angiografía, se analizó la gravedad entre los grados I y II y se obtuvo un coeficiente κ = 0,70. Este hecho también contribuye a considerar la gran subjetividad de la medida de la RAV sin el apoyo de un método automático.
+La concordancia en la determinación de cruces arteriovenosos fue baja (κ = 0,31) siendo en ARIC la κ = 0,59 y en CHS de κ = 0,43. No consideramos estos resultados tan dispares teniendo en cuenta que la lectura de las retinografías se realizó en ARIC y CHS en unas condiciones especiales. En ambos estudios se evaluaron las imágenes en departamentos de oftalmología especializados en lectura de retinografías, con unas condiciones de luz adecuadas para la visualización de las imágenes y una lente de 8 aumentos para la valoración cualitativa de las lesiones. Estas condiciones no se dieron en nuestro estudio, ya que las lecturas se hicieron en condiciones de práctica clínica habitual.
+En las lesiones indicativas de retinopatía hipertensiva las concordancias más favorables en nuestro trabajo corresponden a una concordancia moderada en la identificación de microaneurismas (κ = 0,51) y hemorragia en llama (κ = 0,56), y una concordancia baja para el exudado blando (κ = 0,24) y el duro (κ = 0,31). En los estudios ARIC, CHS y BME la concordancia en la lectura conjunta de hemorragias y exudados fue κ = 0,75; κ = 0,88 y κ = 0,90, respectivamente. En nuestro caso, la prevalencia de lesiones de hemorragias y exudados fue muy baja, por lo que resulta difícil comparar los resultados. Incluso en estudios en pacientes diabéticos, la concordancia en el diagnóstico de edema macular entre un especialista en retina y 2 oftalmólogos generales fue de baja a moderada (κ = 0,27-0,43).
+El análisis de la concordancia intraobservador para la clasificación de retinopatía presentó unos valores kappa entre 0,25 y 0,56 para los médicos de familia, mientras que para el oftalmólogo experto de referencia fue de κ = 0,42 y para el segundo oftalmólogo de κ = 0,55. En el estudio BME, la concordancia intraobservador para esta medida fue κ = 0,82, aunque ya se ha comentado que en este estudio se dilató la pupila a todos los participantes, con lo que las condiciones de obtención de imágenes no fueron las mismas.
+Nuestro estudio coincide en edad con ARIC y BME, pero en CHS los participantes eran mayores (69-97). Un 21,7% de nuestros participantes eran diabéticos, a diferencia de alguno de los estudios, de los que fueron excluidos (BME y Figueiredo). Aunque la retinopatía diabética y la hipertensiva comparten algunas de las lesiones, los evaluadores de las imágenes de las retinografías únicamente sabían que todos los pacientes eran hipertensos y no tenían información clínica del paciente en el momento de la lectura.
+Una limitación de nuestro estudio es que algunas de las lesiones presentaron una prevalencia muy baja, por lo que no disponemos de una buena representatividad de todas las alteraciones que forman parte de la clasificación de Keith-Wagener-Barker. Sería interesante contar con nuevas lecturas a partir de imágenes seleccionadas de pacientes que presenten todo el abanico de lesiones. Sin embargo, en algunas lesiones, como la RAV, podemos afirmar la subjetividad de su valoración y, en cambio, vemos que los microaneurismas son lesiones más fácilmente identificables.
+A pesar de ello, incluso artículos que comparan lecturas de retinografías de pacientes diabéticos, práctica ya normalizada en las consultas de Atención Primaria en nuestro entorno, refieren una baja concordancia en la gradación de la retinopatía diabética entre oftalmólogos expertos en retina y oftalmólogos generales. Esto nos da idea nuevamente de la dificultad en la interpretación de las lesiones de la retina por métodos subjetivos.
+Conocer previamente que todos los pacientes son hipertensos podría producir un sesgo hacia la observación de lesiones típicas de HTA, lo que llevaría asociada una sobrevaloración de las lesiones con más componente subjetivo, como pueden ser los cruces o la alteración de la RAV.
+Cada uno de los observadores realizó las lecturas en los ordenadores de las consultas en su centro de trabajo, por lo que no existieron necesariamente unas condiciones homogéneas. Aunque esta sería la situación real de la práctica clínica habitual.
+En los estudios citados, , las comparaciones se hicieron entre 2 o 3 lectores como máximo, mientras que en nuestro estudio se analiza la concordancia entre 8 lectores: 2 oftalmólogos y 6 médicos de familia. Creemos que esto permite valorar con mejor precisión la fiabilidad de la lectura en condiciones habituales de práctica clínica entre observadores.
+En conclusión, este estudio muestra que la valoración de las retinografías en condiciones habituales de práctica clínica tiene un alto componente subjetivo que se refleja en unos valores de concordancia inter- e intraobservador pobres o bajos. Algunos de los criterios de Keith-Wagener-Barker presentan una concordancia moderada (microaneurismas), pero la RAV es la menos concordante. Sería útil la utilización de sistemas de lectura objetivos en la valoración de las retinografías en pacientes hipertensos, principalmente en la interpretación de la RAV.Lo conocido sobre el temaLa utilización de la oftalmoscopia directa para la detección de retinopatía hipertensiva y su grado de gravedad presenta una elevada variabilidad interobservador.Se ha considerado la asociación de los grados más leves de retinopatía hipertensiva y la alteración en el calibre de los vasos retinianos con el aumento de riesgo para ictus y enfermedad cardíaca.Qué aporta este estudioLa lectura de retinografías en pacientes hipertensos, en condiciones habituales de práctica clínica, tiene un alto componente subjetivo.Sería conveniente la utilización de sistemas de lectura automatizados para la valoración de las retinografías en pacientes hipertensos.
+
+
+- FINANCIACIÓN
+
+Este proyecto ha sido cofinanciado por el Gobierno Vasco y por el Fondo Europeo de Desarrollo Regional de la Unión Europea.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

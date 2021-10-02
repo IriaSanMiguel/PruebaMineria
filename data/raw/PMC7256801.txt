@@ -1,0 +1,94 @@
+OPINIÓN DE LOS FACULTATIVOS Y USUARIOS SOBRE AVANCES DE LA E-SALUD EN ATENCIÓN PRIMARIA
+
+
+- INTRODUCCIÓN
+
+La expansión de las tecnologías de la información y la comunicación (TIC) y la disponibilidad de dispositivos electrónicos han posibilitado un mayor acceso de usuarios y facultativos a información y comunicación relacionada con la salud.
+Dentro de la e-salud, entendida como el conjunto de herramientas auxiliares basadas en las TIC que se emplean en tareas de prevención, diagnóstico, tratamiento, seguimiento, así como en la gestión de la salud y del modo de vida, algunos programas se hallan ampliamente implantados en los servicios sanitarios autonómicos, como la petición de cita, la consulta de la historia clínica digital (HCD) o la prescripción o la dispensación electrónica de fármacos.
+Como en otros países de nuestro entorno, los programas de la salud electrónica y móvil (e-salud y m-salud), como los impulsados en el Sistema Nacional de Salud, han tendido a incrementar las funcionalidades procurando conseguir crecientes niveles de seguridad, accesibilidad y eficiencia económica, así como la mejora de la eficacia y la sostenibilidad del sistema, .
+Dentro de los servicios sanitarios podemos diferenciar tres colectivos bien definidos: usuarios o pacientes, facultativos y responsables de gestión. Si bien cabe esperar que los programas reporten, en último término, beneficios al conjunto de los colectivos implicados, en la práctica cada programa enfatiza sus públicos objetivos, : así, mientras la petición de cita está concebida para facilitar el acceso del usuario, otras iniciativas, como la prescripción electrónica, la HCD o la digitalización de imágenes, se orientan más a los facultativos y a los gestores.
+Si bien existen estudios precedentes sobre la introducción de nuevas tecnologías y sus efectos en la calidad de la prestación de servicios de salud, , , la literatura sigue adoleciendo de ausencia de estudios que recojan las opiniones de los principales actores implicados en los programas de e-salud, especialmente en atención primaria. De forma general, prevalece el enfoque cuantitativo y escasean los estudios cualitativos que aborden al conjunto de los colectivos afectados.
+En este estudio planteamos un diseño cualitativo que puede contribuir a comprender cómo piensan y actúan los facultativos y los usuarios de los servicios sanitarios de atención primaria. La información recogida puede ayudar a conocer las expectativas de los implicados, tomar decisiones sobre aspectos a mejorar y desvelar potencialidades del sistema aún no debidamente explotadas.
+
+
+- PARTICIPANTES Y MÉTODO
+
+-- TIPO DE DISEÑO
+
+Estudio cualitativo a través de 8 grupos focales. Las reuniones, guiadas por un moderador con amplia experiencia en la conducción de grupos, fueron llevadas a cabo en comunidades autónomas seleccionadas, grabadas en audio y vídeo y transcritas en su totalidad, con una duración media de 103 min, y un rango de entre 89 y 121 min. Se recogieron las impresiones de un observador durante las reuniones y fueron complementadas con las de observadores externos. El trabajo de campo se realizó entre el 1 de mayo y el 25 de septiembre de 2018.
+
+
+-- ÁMBITO
+
+Sistema Nacional de Salud.
+
+
+-- POBLACIÓN Y MUESTRA
+
+Los grupos estuvieron formados por 8 participantes —a excepción de uno, con 6—. En total participaron 62 individuos, procurando una distribución equitativa según el rol desempeñado: 29 usuarios y 33 facultativos de atención primaria de la sanidad pública . Los usuarios fueron contactados a través de asociaciones de usuarios y de pacientes (muestra accidental); los facultativos fueron contactados a través del servicio autonómico de salud correspondiente entre aquellos que, por su veteranía (como mínimo, 15 años de desempeño de su puesto), hubiesen vivido procesos de diseño e implementación de TIC en su respectivo servicio de salud (muestra intencional). En función de análisis previos, se eligieron 8 comunidades autónomas (Andalucía, Asturias, Cataluña, Extremadura, Galicia, Islas Baleares, Madrid y País Vasco) para llevar a cabo los grupos, tratando de garantizar representación de todas las comunidades en función de su situación aventajada o desfavorable en la oferta de servicios públicos electrónicos y el grado de desarrollo normativo en el ámbito de la e-salud.
+
+
+-- MEDICIONES PRINCIPALES
+
+Respecto a una gama de servicios ampliamente extendida por los servicios autonómicos de salud (acceso a la HCD, petición de cita médica por internet, prescripción electrónica, imagen digital, servicio de mensajería de recordatorio de eventos vinculados al servicio de salud) se solicitó opinión sobre accesibilidad a los servicios electrónicos y seguridad en el acceso a los datos, a los tratamientos y a los diagnósticos; eficiencia; problemas de información y comunicación o técnicos, y potencialidades para el usuario y el facultativo.
+
+
+-- ANÁLISIS E INTERPRETACIÓN
+
+El análisis de los grupos focales —exento de uso de aplicaciones informáticas de análisis de información cualitativa— se llevó a cabo en 3 fases (durante su realización; a posteriori, de forma individual para cada entrevista o grupo; y finalmente, de forma global), mediante la selección de fragmentos relevantes para el estudio, buscando similitudes, contrastes y la categorización de los informantes. Se realizó una primera síntesis por parte del observador y del entrevistador o moderador; posteriormente, 2 investigadores independientes analizaron las transcripciones para aislar y sistematizar la información relevante para el estudio; finalmente, se llevó a cabo un análisis global por parte de los responsables de esta investigación, durante el cual se pusieron en común las opiniones extraídas del conjunto de los informantes categorizándolas y valorando su aportación a los objetivos de la investigación.
+
+
+- RESULTADOS
+
+Los hallazgos se exponen resaltando los temas más destacados para cada colectivo.
+
+
+-- USUARIOS
+
+La aceptación del uso de internet en los servicios sanitarios de atención primaria y en general de la e-salud es amplia entre los usuarios, que indican mejoras en la accesibilidad, la eficiencia y la eficacia, a lo cual creen que también pueden contribuir determinados aspectos de la telemedicina . No obstante, para ellos sigue siendo relevante el tiempo que el facultativo les dedica en la consulta.
+Consideran como positivas potencialidades del sistema la mayor integración de la atención primaria y la especializada, la telemedicina destinada a usuarios con dificultades especiales de desplazamiento, la plena digitalización de imágenes y el empoderamiento del usuario.
+Sin embargo, son muy críticos con la información y la comunicación que reciben, y admiten que hay prestaciones de la e-salud que desconocen. Consideran ampliamente que el diseño de las webs de salud de los servicios autonómicos está pensado para los facultativos y no para los usuarios.
+Igualmente, critican que para hacer uso de algunos servicios, como el acceso a su HCD o solicitar un cambio de médico, se exija disponer de un certificado electrónico, lo que supone una barrera para la mayoría de los usuarios. En concreto, sobre la HCD, sostienen que debe facilitarse el acceso, incorporar más información y permitir la posibilidad de que el usuario pueda incorporar imágenes u otros documentos útiles para el seguimiento de sus patologías por parte de los facultativos.
+No obstante, aunque desconocen los protocolos que se siguen para el acceso por parte de los facultativos, manifiestan preocupación por la preservación de la privacidad de la información contenida en la HCD y, en general, reclaman que se refuerce la protección de datos en todos los procesos, y especialmente en procedimientos semipresenciales (prescripción electrónica) que permitirían deducir el tipo de patología que sufre el usuario, circunstancia especialmente delicada en el ámbito rural o en poblaciones pequeñas, en las que existe mayor control social.
+
+
+-- FACULTATIVOS
+
+En línea con usuarios, los facultativos de atención primaria consideran, en general, que las TIC han aportado mayor eficacia y eficiencia a los servicios de salud.
+En términos de seguridad, sostienen, en lo relativo a pruebas médicas, que las innovaciones han posibilitado un mayor control y mejores diagnósticos, y resaltan los beneficios que ha reportado la HCD en lo que atañe a almacenamiento y acceso, incrementando la consciencia del facultativo sobre la importancia de la preservación de la privacidad. Opinan que la trazabilidad de la consulta de la HCD opera como inhibidor de accesos improcedentes.
+Sin embargo, alertan sobre las anomalías que genera una digitalización incompleta de información —cuando ya se ha transitado a un uso automatizado— o sobre el uso heterogéneo de los recursos tecnológicos, bien porque la utilización de una función sea voluntaria, bien porque sus usuarios muestran niveles de interés o de destreza en su uso muy diversos, o porque no todos disponen de infraestructura tecnológica adecuada, causando un uso muy asimétrico de bancos de información como el que ofrece la HCD. Según los facultativos, estas singularidades ilustran elocuentemente la disparidad que existiría entre las expectativas de quienes diseñan los programas de e-salud y las que comparten sus usuarios.
+Los médicos admiten que no todas las prestaciones de las aplicaciones de uso habitual son conocidas por ellos y apuntan a la existencia de un déficit de formación, a la aparición de problemas de desarrollo de los programas informáticos o a una comunicación insuficiente de las funcionalidades disponibles —búsqueda; alertas de interacción, duplicidad o incompatibilidad de prescripciones; generación de informes— como fuentes de un uso del software por debajo de su rendimiento.
+A las anomalías apuntadas, que perturban el trabajo de los facultativos, se suman los fallos de los sistemas (caídas, reinicio), que aumentan la percepción de pérdida de tiempo, sobrecarga de trabajo y desatención por parte de los equipos de desarrollo y mantenimiento informático, a quienes también se atribuye el diseño de aplicaciones no siempre orientadas al paciente ni al facultativo.
+Desde el punto de vista del diseño, además de una usabilidad deficitaria, los facultativos ponen en evidencia los problemas que genera el etiquetado confuso o la configuración equívoca de menús, lo que, unido a una falta de formación homogénea de los facultativos en el uso de estas tecnologías, suscita un registro de datos en las aplicaciones muy distorsionado, subjetivo, condicionado por el umbral de comprensión de cada usuario o por la limitación del etiquetado.
+Los problemas de software también son sugeridos como un obstáculo adicional para generar transversalidad en la atención al paciente, dado que no siempre el médico de atención primaria tiene acceso a informes realizados por especialistas o a datos que les permitan realizar estudios epidemiológicos.
+Consideran que es en la telemedicina donde las TIC pueden hacer importantes aportaciones, especialmente dirigidas a población en riesgo de exclusión digital o limitaciones de movilidad —inmigrantes, población privada de libertad, población mayor, pacientes crónicos— o en áreas específicas —telecardiología, teledermatología o telepsiquiatría—, y de ella esperan avances significativos y una mayor continuidad de programas que permita poder evaluar los programas con solvencia.
+En suma, desde la perspectiva de futuros desarrollos, los facultativos sugieren avanzar en sistemas que les faciliten su trabajo, más coherentes y con funcionalidades —incluidas alarmas que adviertan de incompatibilidades— ajustadas a las patologías abordadas.
+
+
+- DISCUSIÓN
+
+Los hallazgos ponen de manifiesto que los actores consultados resaltan temas particulares de preocupación: la accesibilidad, aspecto en el que las webs de salud autonómicas muestran, según recientes estudios, graves anomalías, preocupa a los usuarios; por su parte, la eficiencia, la calidad de atención al paciente y las potencialidades de la telemedicina interesan a los facultativos. No obstante, todo ellos consideran la seguridad —diagnóstico, almacenamiento de información y prescripción farmacéutica— un tema central.
+Si bien, en línea con hallazgos precedentes, los usuarios valoran positivamente los avances en el área de la e-salud —especialmente en términos de ahorro de desplazamientos y mejora de acceso a la información— y consideran, en general, que el sistema gana en eficacia, siguen valorando como imprescindible la atención presencial.
+La demanda que los usuarios realizan de incremento de seguridad, en la medida que estiman que su privacidad y sus derechos pueden verse vulnerados, es un aspecto ya resaltado en estudios previos, que reclaman conceder un mayor protagonismo al usuario en la protección de sus datos, avanzar en la encriptación o establecer guías de buenas prácticas ante las violaciones de datos, por descuido o negligencia. A pesar de que los requisitos de acceso a la e-salud pueden suponer una barrera importante para los usuarios y sus exigencias suscitan desconfianza, se asumen como garantía de preservación de datos muy sensibles.
+Los facultativos destacan el ritmo de los avances logrados en e-salud y la expectativa de su crecimiento en los próximos años. En ese sentido, comparten la percepción de la mejora en eficacia y eficiencia reseñada por los usuarios y hacen hincapié en los avances producidos en la seguridad de las pruebas, los diagnósticos y las prescripciones farmacológicas y, en menor medida, en la seguridad de los datos. Inciden también en las deficiencias de información y comunicación apuntadas por los usuarios, pero enfatizan más los problemas y los fallos técnicos de los programas informáticos que usan.
+Sostienen que el sistema posee carencias a la vez que importantes potencialidades, aunque con ciertos matices, pues consideran que los procesos diacrónicos requieren un mayor uso de recursos y que la visita clínica, en presencia del paciente, es insustituible en muchos casos, por lo que las mejoras tecnológicas se valoran más como un complemento que como una alternativa.
+Por tanto, aunque los nuevos canales de acceso en línea a la atención primaria son apreciados por su capacidad, fundamentalmente para generar más oportunidades y menor coste de acceso al sistema, sus funcionalidades no son reconocidas como un factor que contribuya a mejorar sustancialmente la relación con el paciente, observación compatible con trabajos recientes que comparan la atención al paciente vía web frente a la presencial.
+La creencia en que los desarrollos de la telemedicina obligarán a adoptar nuevas arquitecturas tecnológicas suscita preocupación en lo que atañe a la adaptación de los usuarios a las tecnologías emergentes y a la distorsión de pautas de trabajo que han sido eficientes. En esa línea, es común entre los médicos de atención primaria la consideración de la importancia del trato directo con los pacientes (diálogo presencial; expresión oral; observación del paciente; lenguaje no verbal) como elemento imprescindible de la práctica médica y la consulta clínica.
+
+
+- CONCLUSIÓN
+
+En el contexto del desarrollo de la e-salud, las prestaciones que ofrecen los servicios en línea y su avance son valorados positivamente, aunque suscitan entre los usuarios y los facultativos cautelas y preocupación sobre los requisitos formativos para su uso, las condiciones de acceso y las garantías de seguridad.
+Es necesario que los venideros rediseños de las políticas de e-salud sitúen a los pacientes y a los facultativos en el centro de las prioridades de mejora de usabilidad, capacitación y adaptación de la tecnología a las necesidades reales y perfil competencial de sus usuarios.
+El presente estudio tiene las limitaciones habituales de los estudios cualitativos con muestras reducidas e intencionales, y también puede verse afectado por la celeridad con que se están produciendo los cambios tecnológicos en el sector de la salud. Aun así, la posibilidad de tener acceso a informantes clave dentro de los servicios de salud autonómicos ha permitido elaborar un retrato del estado en que se halla la aplicación de las TIC en el ámbito de la salud en las comunidades autónomas.
+Es necesario que los futuros estudios sobre esta materia aporten nuevos conocimientos sobre el impacto de factores estratégicos, normativos, organizativos y tecnológicos en la adopción de las nuevas tecnologías en la provisión de servicios de atención primaria.
+
+
+- FINANCIACIÓN
+
+Esta investigación se ha realizado en el marco del proyecto “Brecha Digital e Inhibidores en la Implementación del e-Gobierno: Especial Impacto en el Ámbito de la Salud”, financiado por el Ministerio de Economía y Competitividad (CSO2014-53014-R).
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

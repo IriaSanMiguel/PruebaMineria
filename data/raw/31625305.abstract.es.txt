@@ -1,0 +1,5 @@
+La CVU de la FA de reciente comienzo en los SUH es una estrategia segura.
+Se analizaron 718 cardioversiones en 570 pacientes. La edad media fue de 64 años (DE 13,5). Se realizaron 479 (66,7%) CVU y 239 (33,3%) CVP. Se recogieron un total de 11 (1,5%) eventos: dos EE (0,3%) y 9 EH (1,3%). Todos los EH fueron hemorragias menores. No se encontraron diferencias estadísticamente significativas entre ambos grupos.
+Analizar la seguridad de la cardioversión de la fibrilación auricular (FA) de reciente comienzo realizada en un servicio de urgencias hospitalario (SUH).
+Estudio observacional, retrospectivo y analítico en un SUH. Se recogieron de forma consecutiva los episodios de FA de menos de 48 horas de evolución y hemodinámicamente estables, en los que se realizó una cardioversión urgente (CVU) y los episodios derivados para valorar cardioversión programada ambulatoria (CVP). La variable de resultado fue la presencia de eventos embólicos (EE) o hemorrágicos (EH) a los 90 días.
+

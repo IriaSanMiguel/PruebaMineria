@@ -1,0 +1,127 @@
+REUTILIZACIÓN LIMITADA Y USO EXTENDIDO DE MASCARILLAS DE MEDIA-ALTA FILTRACIÓN
+
+
+- INTRODUCCIÓN
+
+Las mascarillas son equipos de protección individual (EPI) cuya función es proteger al usuario de la exposición a contaminantes a través de las vías respiratorias. Están realizadas con material filtrante indicadas para la protección respiratoria frente a partículas y aerosoles líquidos. No protegen frente a gases ni vapores químicos.
+Existen dos tipos de mascarillas: Las quirúrgicas, que filtran las partículas emitidas por quien la usa impidiendo que lleguen al paciente, y las de alta eficacia (Filtering Face Piece, FFP/Filtro Protección Personal, FPP), diseñadas para filtrar partículas, aerosoles líquidos y patógenos presentes en el medio ambiente, impidiendo ser inhaladas por el usuario.
+El material filtrante es un entramado de fibras plásticas que retiene al contaminante. En función de su eficacia filtrante (según la norma de la Unión Europea EN 149) se distinguen tres clases: FFP1 (eficacia filtración 78%), baja eficacia; FFP2 (eficacia filtración 92%), media eficacia; y FFP3 (eficacia filtración 98%), alta eficacia.
+La mascarilla filtrante N95, según la normativa americana, tiene una capacidad de filtrado de partículas del 95%.
+El tipo de mascarilla a utilizar se determina en función de la toxicidad del contaminante y de la concentración ambiental presente.
+Las mascarillas pueden tener válvula de exhalación que facilita la respiración y evita la condensación, y se recomiendan para largos periodos de uso. Al no filtrar el aire exhalado por el usuario, las mascarillas con válvula no se deben colocar a pacientes con procesos respiratorios infecciosos.
+La pandemia de COVID-19 ha provocado una gran escasez de material de protección individual para los profesionales de la salud, uno de estos han sido las mascarillas de alta filtración FFP2, FFP3 normativa europea, o N95 normativa americana. Esta situación excepcional ha provocado que se necesite reutilizar mascarillas y hacer un uso extendido (uso de la misma mascarilla para atender a varios pacientes sin quitarse la mascarilla entre paciente y paciente) más allá de las recomendaciones de sus fabricantes.
+El objetivo de este trabajo es identificar y resumir la evidencia existente sobre el uso prolongado y la reutilización de mascarillas de media-alta filtración (FFP2 y FFP3 o N95).
+
+
+- MÉTODO
+
+-- DISEÑO
+
+Revisión exploratoria en PubMed y en documentos del Centro para el Control de Enfermedades (CDC) y la Organización Mundial de la Salud (OMS).
+
+
+-- ESTRATEGIA DE BÚSQUEDA
+
+Se realizó una búsqueda electrónica con los términos: respirator, filtering facepiece, FFP, N95, reuse, extend, outbreak, pandemia, y training con los correspondientes truncamientos. Estos términos se han combinado con los operadores booleanos lógicos OR y AND para la identificación de artículos que den respuesta al objetivo del estudio. Se limitó a artículos publicados entre 2010-2020 en inglés y en español.
+
+
+-- EVALUACIÓN CRÍTICA
+
+No se establecieron criterios de exclusión según la calidad ni el diseño. Se seleccionaron los documentos alineados con la pregunta de revisión. Se clasificaron los documentos encontrados por su rigor metodológico y el nivel de evidencia o el grado de recomendación según los criterios establecidos por el Instituto Joanna Briggs, aunque no se utilizó como criterio de selección.
+
+
+-- EXTRACCIÓN, ANÁLISIS Y SÍNTESIS DE DATOS
+
+Se extrajo información sobre fecha y país de publicación, tipo de estudio, valoración del nivel de evidencia y grado de recomendación y resultados de interés para responder a la pregunta.
+Se realizó la síntesis de los hallazgos a través de un análisis temático.
+
+
+-- LIMITACIONES
+
+Se ha establecido un límite idiomático, al centrar la búsqueda únicamente en artículos escritos en inglés y castellano, y un límite temporal al delimitar la búsqueda a los 10 últimos años. La necesidad asistencial imperiosa ha requerido de una revisión de la literatura en un corto espacio de tiempo.
+
+
+- RESULTADOS
+
+Los estudios incluidos son mayoritariamente diseños experimentales, revisiones bibliográficas, evaluación de práctica clínica con intervención de ciclo de mejora, y un estudio piloto. El flujograma de la búsqueda se presenta en la figura 1 .Figura 1
+
+
+-- RECOMENDACIONES
+
+Los temas abordados en los documentos incluidos en la revisión se pueden clasificar en siete grandes áreas: Uso de mascarillas caducadas, uso extendido y reutilización de mascarillas, técnica de manipulación, sellado, efectos físicos psicológicos y cumplimentación, contaminación y descontaminación de mascarillas.
+
+
+-- USO DE MASCARILLAS CADUCADAS
+
+Los CDC de Estados Unidos estudiaron 11 modelos de mascarillas N95 caducadas. La mayoría de estas mascarillas seguían cumpliendo estándares de rendimiento del NIOSH (National Institute for Occupational Safety and Health) para la eficacia de filtración y la resistencia a la inhalación y exhalación. Sin embargo, recomiendan su uso teniendo en cuenta que pueden no cumplir con los requisitos para los cuales fueron certificadas. Se deben tomar las siguientes precauciones en caso de usar mascarillas caducadas: Verificar visualmente la integridad del material; comprobar que los elásticos, puente nasal y material de espuma nasal no se hayan deteriorado, ya que puede afectar a la calidad del ajuste y sellado; si no se produce un sellado adecuado o no puede hacer una verificación correcta, no debe usarse.
+Es conveniente usar estas mascarillas como protección respiratoria en las evaluaciones médicas, entrenamientos y pruebas de ajuste del dispositivo, comprobando el sellado de la mascarilla. No se recomienda su uso en entornos quirúrgicos.
+
+
+-- USO EXTENDIDO Y REUTILIZACIÓN DE MASCARILLAS
+
+Se desconoce cuál es la contribución potencial de la transmisión por contacto del virus SARS-CoV2, por lo que se debe tener precaución.
+La decisión de reutilización o uso prolongado de las mascarillas de alta filtración debe ser tomada por la administración sanitaria. Se tendrán en cuenta las características del patógeno y las condiciones locales.
+
+
+-- USO EXTENDIDO
+
+Las recomendaciones para el uso extendido de las mascarillas son:
+
+
+-- REUTILIZACIÓN LIMITADA
+
+La «reutilización limitada» de las mascarillas hace referencia al uso de la misma mascarilla para atender a varios pacientes, retirándola después de cada encuentro. La evidencia muestra que no se puede determinar el número de veces seguras en que se puede reutilizar una mascarilla. Su uso se ve determinado por variables que afectan a la funcionalidad y a la contaminación de la mascarilla. Las recomendaciones sobre refuerzo del cumplimiento de medidas básicas, casos en que se debe desechar la mascarilla, utilización de pantalla de protección facial y abandono del área de atención para quitarse la mascarilla, son las mismas que en el uso extendido. Adicionalmente se recomienda: Doblar las mascarillas con cuidado para que la superficie exterior se mantenga hacia adentro y contra sí misma para reducir el contacto con la superficie exterior durante el almacenamiento. La mascarilla doblada puede almacenarse entre usos, en una bolsa de papel (por ser traspirable) limpia y sellable o en un contenedor transpirable.
+Colgar la mascarilla usada en un área designada de almacenamiento; identificar claramente la persona que la está usando y no compartir su uso; lavarse las manos con agua y jabón o desinfectante antes y después de tocar o ajustar la mascarilla; usar guantes no estériles para colocarse la mascarilla y realizar el sellado en la cara; evitar el contacto con el interior de la mascarilla.
+Si no hay indicaciones específicas del fabricante, se sugiere no usar las mascarillas más de cinco veces por dispositivo.
+Fisher et al. analizan las recomendaciones del CDC para el uso extendido y la reutilización limitada de mascarillas N95 y realizan una estimación del balance beneficio-riesgo con su uso. Recomiendan su uso cuando el patógeno se propague a través de la transmisión por contacto, el evento pueda provocar o esté causando escasez de N95, el N95 haga su función de protección, factores humanos (como molestias por el largo periodo de uso), la posibilidad de autoinocularse reutilizándolas (más patógeno, mayor riesgo de autotransferencia), según el potencial de exposiciones secundarias (mayor transferencia a terceros), y con base en las políticas y regulaciones gubernamentales.
+En general, se prefiere el uso extendido de N95 sobre su reutilización limitada. La reutilización limitada de N95 permitiría al usuario un breve respiro de los tiempos de uso prolongados, pero aumenta el riesgo de autoinoculación y los datos preliminares de un estudio sugieren que algunos modelos de N95 pueden comenzar a perder efectividad después de múltiples retiradas.
+
+
+-- TÉCNICA DE MANIPULACIÓN DE MASCARILLAS
+
+En el estudio de Bien et al. se comprobó la implantación de un programa de mejora de protección respiratoria solicitando a los profesionales, sobre todo enfermeras, que hicieran una demostración del uso de mascarillas. Un 57% no las inspeccionó tras quitárselas, no colocó las gomas correctamente, falló en la comprobación del sellado y al quitársela sólo tocando las gomas. El 50% no se desprendió adecuadamente de la mascarilla. Estos profesionales afirmaron reusar las mascarillas en sus servicios.
+
+
+-- SELLADO DE LA MASCARILLA
+
+En un estudio piloto para evaluar la tensión de las gomas de sujeción de tres modelos de mascarillas tras múltiples usos, se concluye que el mayor deterioro se produce con la primera utilización. Se sigue deteriorando con cada uso y a partir de cinco usos el deterioro es menor de 1 Newton. En otro estudio experimental aleatorizado, tras probar seis modelos de mascarillas con 20 colocaciones cada una en un hipotético turno de 10 horas, se concluye que pueden realizarse cinco colocaciones consecutivas antes de dejar de tener un sellado efectivo. Este estudio examina si el ajuste de la mascarilla es efectivo después de cinco usos, así como si es más correcto en personas que tienen experiencia frente a noveles. El 48% de los sujetos fallaron al menos una vez en la prueba de ajuste; estos fallos pudieron deberse a una mala adherencia a los procedimientos, siendo posible solucionarse con un mejor entrenamiento. No hubo diferencia entre hombres y mujeres, como en otros estudios, ni entre noveles y experimentados.
+Un aspecto reflejado en los estudios es que debe proporcionarse la talla adecuada de mascarilla.
+
+
+-- EFECTOS FÍSICOS, PSICOLÓGICOS Y CUMPLIMIENTO
+
+En un ensayo clínico aleatorizado con 10 enfermeras de UCI se comparó en dos grupos, el uso prolongado de mascarillas FFP frente a FFP más mascarilla quirúrgica sobrepuesta, durante un turno de 12 horas. El promedio de uso fue de tres mascarillas en ambos grupos. Los motivos de retirada fueron comer, beber, finalización de turno o incomodidad. Cada enfermera incumplió las normas de una media de 25,7 veces por turno, siendo las más frecuentes tocar la mascarilla y ajustarla. Concluye que las mascarillas fueron bien toleradas.
+
+
+-- CONTAMINACIÓN CON MASCARILLAS REUSADAS
+
+En el estudio de Brady et al., se analizó la retirada y reutilización de las mascarillas, concluyendo que, si se realiza una técnica adecuada en la reutilización de las mismas, la transmisión de patógenos se puede reducir al mínimo. Una revisión de la literatura sugiere que la reutilización de mascarillas debe considerarse cuidadosamente ya que algunos patógenos pueden permanecer días con la misma.
+
+
+-- DESCONTAMINACIÓN DE MASCARILLAS REUSADAS
+
+A pesar de la recomendación de la FDA (Food and Drug Administration) y de los fabricantes sobre la no esterilización de las mascarillas, se pueden proponer algunos métodos para ello: La descontaminación con radiación germicida ultravioleta (UVGI) podría usarse para desinfectar eficazmente las mascarillas desechables para su reutilización, , . La implantación de un método UVGI requerirá una cuidadosa consideración del modelo N95, el tipo de material y el diseño. El número de ciclos de desinfección estará limitado por el modelo de mascarilla y la dosis de UVGI requerida para inactivar el patógeno. Las propiedades de filtración de la mascarilla y la tensión de la goma sufren pocas modificaciones, la fuerza de los materiales sí se ve afectada a mayor exposición de UVGI.
+En un estudio se exploran tres métodos simples y rápidos, que no trasmitan residuos y no degraden el nivel de protección de las mascarillas con toallitas de limpieza con distintas sustancias como cloruro de benzalconio, 0,9% de hipoclorito y sin antimicrobianos. Aunque consigue niveles de desinfección, sobre todo con el cloruro de benzalconio, no son eficaces, siendo un estudio puramente informativo para proseguir futuras líneas de investigación.
+Otro método es la desinfección de mascarillas con bolsas de microondas para esterilización de material infantil, con tres exposiciones al vapor, que alcanzan reducciones del 99,9% (Bacteriophage MS2), con una eficiencia de la mascarilla superior 95%. Uno de los inconvenientes es la absorción de agua por parte de la mascarilla que requerirá un secado prolongado. A pesar de los resultados prometedores, los autores recomiendan seguir futuras investigaciones.
+El vapor generado por microondas y el calor húmedo fueron eficaces reduciendo la carga viral (> 4 log de media). No hubo reducción importante del funcionamiento del filtro y no se analizó si hubo deterioro del sellado.
+Las cantidades de residuos químicos retenidas tras una descontaminación por siete técnicas simples, como son óxido de etileno y peróxido de hidrógeno vaporizado (método gaseoso), peróxido de hidrógeno, hipoclorito sódico, oxidantes mixtos y dimetildioxirano (método líquido) y luz ultravioleta, fueron en general pequeñas, no planteando ningún peligro significativo para la salud.
+
+
+- DISCUSIÓN Y CONCLUSIONES
+
+La totalidad de estudios concluyen que la reutilización y descontaminación de las mascarillas debe ser realizada sólo en casos de escasez de recursos, como puede ser la actual situación de pandemia. Se aportan recomendaciones de uso según organismos oficiales y se añaden siete temas resultantes de la búsqueda que pueden reforzar la buena reutilización de las mascarillas.
+Los estudios hallados se caracterizan por contar con muestras pequeñas y usar diferentes modelos de mascarillas, por lo que sólo ciñen su recomendación al modelo experimentado. Esto es una limitación, ya que no todas las mascarillas funcionan igual frente a la descontaminación. En el estudio de Mills et al., donde se probaron 15 modelos diferentes de mascarilla, se recomienda tener en cuenta la variabilidad del diseño en la eficacia de la descontaminación. Lindsley et al. por su parte, también comentan que los cambios en la resistencia de los materiales, cuando se descontaminan con UVGI, varía según los modelos. Roberge et al. advierten de que el material de las gomas de las mascarillas analizadas en su estudio es elastómero y que si ese material cambia no pueden ser aplicadas sus conclusiones.
+Otra de las limitaciones que podemos encontrar es que muchas de las pruebas de resistencia o de carga vírica son realizadas en laboratorios, lo que hace tomar con cautela los resultados al trasladarlos a la práctica clínica.
+Las mascarillas disponen de varias partes con materiales diferentes en su fabricación, los elásticos, la sujeción de la nariz que puede contener metal, espuma y el material filtrante propiamente dicho, y en los diferentes estudios no siempre se tienen en cuenta o se analizan igual.
+En su mayoría, los estudios se desarrollan en momentos de no existencia de pandemia y estrés, y en ámbitos controlados. En futuros estudios sería aconsejable su realización en situaciones reales y con el agente contaminante COVID-19. En estos momentos de la pandemia, el mundo es un laboratorio natural para generar evidencia.
+Debido a la escasez de información, se recomienda tomar con precaución los hallazgos, teniendo en consideración el aumento inusual de publicaciones diarias que pueden modificar la información encontrada.
+
+
+- FINANCIACIÓN
+
+No existen fuentes de financiación públicas ni privadas.
+
+
+- CONFLICTO DE INTERESES
+
+Las autoras no declaran ningún conflicto de intereses.

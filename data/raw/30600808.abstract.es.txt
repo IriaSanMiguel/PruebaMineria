@@ -1,0 +1,5 @@
+De 54 pacientes incluidos, se realizó manejo conservador en 31 (grupo no quirúrgico) y laparotomía exploradora en 23 (grupo quirúrgico). El valor de referencia de la PCT fue entre 0.10 y 0.50 ng/ml.
+Los valores de PCT fueron mayores en el grupo quirúrgico (7.05 ± 7.03 ng/ml) que en el no quirúrgico (0.37 ± 0.63 ng/ml), y en los pacientes con I/N (10.06 ± 7.07 ng/ml) que en aquellos sin I/N (1.52 ± 1.45 ng/ml). En la curva COR (Característica Operativa del Receptor), el área bajo la curva fue 0.91 para la necesidad de cirugía y 0.93 para la I/N. La PCT ≥ 0.80 ng/ml obtuvo las mejores sensibilidad y especificidad para una cirugía, y ≥ 1.95 ng/ml para I/N. La PCT también fue un predictor independiente para estos eventos.
+El propósito de este estudio de cohorte prospectivo fue evaluar si las concentraciones séricas de procalcitonina (PCT) predicen la necesidad de cirugía y la presencia de isquemia o necrosis (I/N) en la obstrucción del intestino delgado.
+Los valores de PCT permiten reconocer la necesidad de cirugía y la presencia de I/N en la obstrucción del intestino delgado. Son necesarios estudios adicionales para reafirmar o invalidar nuestros hallazgos.
+

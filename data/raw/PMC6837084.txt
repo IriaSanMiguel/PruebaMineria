@@ -1,0 +1,108 @@
+EVALUACIÓN DE LA ADHERENCIA PRIMARIA A MEDICAMENTOS EN PACIENTES CON ENFERMEDADES CRÓNICAS AFILIADOS AL SEGURO DE SALUD DEL HOSPITAL ITALIANO DE BUENOS AIRES: ESTUDIO DE COHORTE RETROSPECTIVA<SUP
+
+
+- INTRODUCCIÓN
+
+En concordancia con la Organización Mundial de la Salud definimos la adherencia como «[…] el grado en el que la conducta del paciente se corresponde con lo acordado con su proveedor de salud […]». En sintonía con la propuesta de la guía NICE, esta definición presume un acuerdo entre el paciente y/o su familia, y el equipo de salud tratante.
+El aumento de la adherencia a las intervenciones puede tener un impacto en la salud pública mayor que la mejora de cualquier tratamiento médico específico. Las principales causas de falta de adherencia son la falta de comunicación entre el proveedor de salud y el paciente, las barreras socioeconómicas y la complejidad de las indicaciones.
+Evaluar el nivel de adherencia suele ser una tarea dificultosa ya que, idealmente, requiere que el paciente no sepa que está siendo evaluado, lo que puede realizarse a través de métodos directos (observación, medición de metabolitos del fármaco en sangre, medición de marcadores biológicos) y métodos indirectos (reportes por parte de los pacientes, recuento de píldoras, adquisición de medicación).
+Una metodología útil y económica es la evaluación de la adherencia mediante la utilización de registros electrónicos de los episodios clínicos y de la adquisición o compra de medicaciones.
+Se denomina adherencia primaria a la ejecución por primera vez de un tratamiento después de haberlo acordado con el proveedor de salud. No hemos identificado estudios que hayan evaluado la adherencia primaria en Argentina o en Latinoamérica, y los pocos, , , , , , , , , , , , , , , que lo han hecho a nivel mundial incluyeron personas con diabetes, osteoporosis, hipertensión arterial, eventos cardiovasculares agudos y/o problemas dermatológicos. Según el tipo de metodología implementada, la población objetivo y el sistema de salud en el cual fue realizada la investigación, la falta de adherencia primaria oscila entre el 2,4 y el 30,7%. Si bien no hay un punto de corte estipulado, la mayoría de los estudios toman los primeros 30 días desde que fue indicada electrónicamente como límite temporal máximo para definir que un paciente es adherente primario.
+Como era de esperar, existe evidencia de que los individuos con problemas de adherencia a las intervenciones eficaces, para modificar el curso de sus enfermedades crónicas, presentan mayor riesgo de tener resultados desfavorables en salud. Ejemplos de los mismos serían el tratamiento con metformina o insulina en pacientes con diabetes tipo 2, , el tamoxifeno para el tratamiento del cáncer de mama, , y los bifosfonatos para la prevención secundaria de la fractura osteoporótica, . Sin embargo, el impacto de la falta de adherencia primaria sobre los resultados en salud no ha sido caracterizado adecuadamente aún.
+
+
+- OBJETIVOS
+
+Evaluar la proporción de afiliados al Seguro de Salud del Hospital Italiano de Buenos Aires con adherencia primaria a:1)Bifosfonatos para la prevención secundaria de la fractura osteoporótica.2)Insulina y metformina para el tratamiento de la diabetes tipo 2.3)Tamoxifeno en el contexto del tratamiento del cáncer mamario.
+
+
+- MÉTODO
+
+Diseño. Cohorte retrospectiva para determinar la proporción de la adherencia primaria durante los años 2012 y 2013. Se definió adherencia primaria a la constatación de que se dispensó la nueva medicación durante los primeros 30 días de haber sido realizada la prescripción electrónica índice. Se entiende que una medicación es nueva si se constata que el paciente en cuestión no había recibido dicho fármaco u otro con el mismo efecto terapéutico y mecanismo de acción durante los 12 meses previos a la prescripción que motivó la inclusión del paciente en este trabajo.
+Lugar. El trabajo se llevó a cabo en el Hospital Italiano Buenos Aires, Argentina, hospital universitario privado de alta complejidad, en cuya historia clínica electrónica se registra toda la información médica del paciente (clínica, de prescripción de fármacos y de estudios diagnósticos). El Hospital Italiano de Buenos Aires posee un Seguro de Salud que cuenta con un sistema centralizado de farmacias propias que ofrecen el 60% de descuento en los precios de lista de las farmacias comerciales en la mayoría de los medicamentos.
+Fuente de datos. La farmacia del Hospital Italiano de Buenos Aires dispensa el 80% de la medicación ambulatoria y posee un sistema de registro electrónico que nos permitió recuperar la información relevante para nuestra investigación.
+Dado que la insulina y el tamoxifeno tienen una cobertura del 100% por estar incluidos en la lista del Programa Médico Obligatorio (PMO), consideramos que la probabilidad de que los afiliados al Seguro de Salud lo adquirieran fuera del sistema de farmacia del Hospital Italiano de Buenos Aires era mínima. Para evaluar la adherencia primaria a estos medicamentos fue solicitada una lista de los registros de prescripción electrónica y dispensación de dichos productos entre el 01/01/2012 y el 31/12/2013.
+Sin embargo, debido a su menor costo y cobertura (no son cubiertos por el PMO), sospechamos que una fracción no despreciable de pacientes compraban la metformina y los bifosfonatos en farmacias externas a la del Hospital Italiano de Buenos Aires, lo que habría conducido a que fueran incorrectamente clasificados en el grupo de los individuos con falta de adherencia primaria.
+Para evitar este posible sesgo de mala clasificación realizamos un análisis subjetivo de la adherencia. Para ello decidimos limitar nuestro periodo de observación al segundo semestre de 2013 y contactar telefónicamente a quienes se les había prescrito dichos fármacos sin que existiera constancia de su dispensación. Entonces, fueron clasificados como individuos «con falta de adherencia primaria» a dichos fármacos solamente los individuos que confirmaron telefónicamente no haberlas adquirido. En quienes se confirmaba telefónicamente la falta de adherencia primaria se interrogaba sobre las posibles causas (x, y, z, etc.) a través de un cuestionario estructurado.
+Antes de comenzar la entrevista telefónica, se le leía el consentimiento informado oral al paciente o al responsable de la administración de la medicación (si el paciente no estaba en condiciones de contestarlo). El manual de instrucciones de la entrevista y el formulario de recolección de los datos se adjuntan en el .
+Población. Afiliados al Seguro de Salud del Hospital Italiano de Buenos Aires domiciliados en el área de cobertura de su sistema de farmacias, a quienes en los periodos de tiempo descritos anteriormente se les haya realizado una prescripción electrónica nueva de: 1) alendronato o ibandronato para la prevención secundaria de fracturas posteriormente a una fractura osteoporótica; 2) insulina y/o metformina para el tratamiento de la diabetes tipo 2, o 3) tamoxifeno como tratamiento para el cáncer de mama.
+Criterios de inclusión: 1) no haber recibido la indicación, ni haber comprado dicho fármaco u otros medicamentos con el mismo efecto terapéutico y mecanismo de acción durante los 12 meses previos a la prescripción índice; 2) haber permanecido como afiliado al Seguro de Salud del Hospital Italiano de Buenos Aires un mínimo de 12 meses previamente a la prescripción inicial, y de 6 meses posteriores a la prescripción que motivó la inclusión en el estudio, y 3) tener registrado en la historia clínica electrónica el diagnóstico o el problema para el cual se indicó la nueva medicación.
+Potenciales predictores de adherencia primaria: sexo y edad al momento de la prescripción inicial, cuidados coordinados por un médico de cabecera (definidos como un índice de prestador habitual de cuidado mayor de 0,5 durante los 12 meses previos a la prescripción electrónica que motivó la inclusión del paciente en este trabajo).
+Como otros posibles predictores de adherencia primaria se evaluaron el antecedente de al menos una consulta no programada en la central de emergencias de adultos y/o los consultorios de demanda espontánea durante los 6 meses previos a la prescripción inicial, la intercurrencia de internación (durante el mismo periodo de tiempo), la utilización del sistema de dispensación domiciliaria de medicamentos de la farmacia (delivery), la utilización de la página web para los afiliados del Seguro de Salud del Hospital Italiano de Buenos Aires, el tiempo transcurrido desde que el individuo se afilió al Seguro de Salud del Hospital Italiano de Buenos Aires hasta el momento de la prescripción inicial, y la posología de la indicación consignada en la historia clínica electrónica.
+A través de una revisión manual de cada historia clínica electrónica, el investigador principal validó que cumplieran los criterios de inclusión todas las personas que habían sido seleccionadas a través de los registros electrónicos (historia clínica electrónica y registros de farmacia).
+
+
+-- ANÁLISIS ESTADÍSTICO
+
+El análisis primario evaluó la proporción de adherencia primaria de los diferentes medicamentos. Se realizó un análisis bivariado para comparar las características y los posibles predictores de adherencia primaria. Los datos continuos fueron resumidos a través de su media y su desviación estándar cuando la distribución fue normal y con su mediana y su rango intercuartílico cuando no lo fue.
+Fueron construidos 2 modelos predictivos de adherencia primaria para cada uno de los grupos de fármacos:
+El «modelo 1» se basó en las experiencias de Zeber et al. y Fischer et al., e incluyó sexo, edad y cuidados coordinados por un médico de cabecera.
+En el «modelo 2» se decidió incluir, además de las covariables utilizadas para construir el modelo 1, las variables que habían mostrado asociación estadísticamente significativa (p < 0,05) con la adherencia primaria en el análisis bivariable (crudo) de nuestros datos, lo que permitió evaluar la capacidad predictiva independiente de estas últimas (después de ajustar por los predictores para los que ya contábamos con antecedentes bibliográficos).
+El trabajo fue aprobado por el Comité de Ética de Protocolos de Investigación del Hospital Italiano de Buenos Aires con el número 2338. Se trabajó de manera confidencial con los datos de los pacientes.
+Los datos se analizaron mediante el software Stata 13.0.
+
+
+- RESULTADOS
+
+Se obtuvieron los datos de 1.403 pacientes desde el departamento de Informática Médica, de los cuales se excluyeron 656 pacientes por no cumplir los criterios de inclusión mediante la validación manual.
+
+
+-- CARACTERÍSTICAS DE LOS PACIENTES
+
+A lo largo de los periodos estudiados fueron documentadas 747 nuevas prescripciones electrónicas de los fármacos analizados. En la tabla 1 se muestran las características demográficas de la muestra y su perfil de uso de los servicios de salud.
+La tabla 2 describe la proporción de adherencia primaria y la estimación de su precisión, para los fármacos y familias de fármacos analizados: bifosfonatos, 93%; metformina, 88%; insulina, 96%; y tamoxifeno, 92%.
+
+
+-- BIFOSFONATOS
+
+Del total de 88 pacientes en quienes figuraba la prescripción inicial de bifosfonatos, fueron identificados 15 en quienes no se había constatado la dispensación de dicho fármaco en el sistema centralizado de farmacias del Hospital Italiano de Buenos Aires. Dos de ellos fueron excluidos, uno había fallecido a la fecha del llamado y el otro no atendió el teléfono en ninguno de los 3 intentos de comunicación realizados en diferentes días y horarios. En el análisis de las entrevistas telefónicas, el 53,9% de los que contestaron la encuesta telefónica manifestaron haber adquirido la medicación fuera del sistema centralizado de farmacias del Hospital Italiano de Buenos Aires durante los primeros 30 días de haberse efectuado la prescripción. No se constataron diferencias estadísticamente significativas entre los que pudieron ser contactados y los que no . Solo el 16% de los pacientes adquirieron la medicación pasados los 30 días de haberse efectuado la prescripción.
+
+
+-- METFORMINA
+
+Del total de 236 pacientes en quienes figuraba la prescripción inicial de metformina, fueron identificados 69 en quienes no se había constatado la dispensación de dicho fármaco en el sistema centralizado de farmacias del Hospital Italiano de Buenos Aires. Diez de ellos no pudieron ser contactados (5 habían fallecido a la fecha del llamado y otros 5 no atendieron el teléfono en ninguno de los 3 intentos de comunicación realizados en diferentes días y horarios). En el análisis de las entrevistas telefónicas, el 51,9% de los que contestaron la encuesta telefónica manifestaron haber adquirido la medicación fuera del sistema centralizado de farmacias del Hospital Italiano de Buenos Aires. Se constató que los no contactados tenían un promedio de 5 años más de tiempo de afiliación al Seguro de Salud, y quintuplicaban a los que habían respondido en el antecedente de haber estado internado en los 6 meses previos, que los que pudieron ser contactados, sin diferencias estadísticamente significativas respecto de sexo y edad . Solo el 10% de los pacientes adquirieron la medicación pasados los 30 días de haberse efectuado la prescripción.
+
+
+-- PREDICTORES DE ADHERENCIA PRIMARIA
+
+De todos los potenciales predictores explorados, en el análisis bivariado , solo se documentó asociación directa entre la adherencia primaria a la metformina y los años de afiliación al Seguro de Salud del Hospital Italiano de Buenos Aires (diferencia promedio de 4,2 años de afiliación; p = 0,007). Esta asociación se mantuvo después de ajustar por edad, sexo y por el antecedente de cuidados coordinados por un médico de cabera (OR: 1,1; IC 95%: 1-1,2; p = 0,01).
+No se documentaron asociaciones estadísticamente significativas entre los potenciales predictores y el resto de los fármacos analizados.
+
+
+- DISCUSIÓN
+
+Este es el primer trabajo que ha evaluado en Argentina la adherencia primaria. Como pudimos observar en nuestra población, y en concordancia con estudios previos, la adherencia primaria fue diferente según la enfermedad y el tipo de medicamento prescrito: muy alta para insulina en pacientes con diabetes tipo 2, para tamoxifeno en pacientes con cáncer mamario y bifosfonatos para la prevención secundaria de fractura osteoporótica; y algo menor para la metformina en pacientes con diabetes tipo 2.
+Por otro lado, hemos documentado una asociación directa y estadísticamente significativa entre la adherencia primaria y los años de afiliación al Seguro de Salud del Hospital Italiano de Buenos Aires.
+
+
+-- LIMITACIONES
+
+El hecho de que los fármacos analizados tengan una cobertura o financiación diferente hace que no sea posible compararlos entre ellos, dado que la cobertura podría operar como variable modificadora del efecto.
+Las comunicaciones telefónicas para detectar pacientes que pudieran haber comprado metformina y bifosfonatos fuera del sistema de farmacias centralizadas del Seguro de Salud fueron ejecutadas después de un año de realizadas dichas prescripciones. Esto implica que la respuesta de los entrevistados telefónicamente respecto de si habían obtenido o no la medicación sea menos fidedigna (sesgo del recuerdo).
+Por otro lado, no descartamos que el entrevistado o su cuidador pueda haber querido agradar al entrevistador afirmando que había obtenido la medicación cuando no lo había hecho (sesgo de cortesía).
+Respecto de los resultados del análisis multivariable que exploró otros potenciales predictores de adherencia primaria más allá del tiempo de afiliación al Seguro de Salud, vale aclarar que esta investigación no contaba con poder suficiente para descartar su existencia.
+
+
+-- INTEGRACIÓN CON TRABAJOS PREVIOS
+
+Al igual que la nuestra, la mayoría de las investigaciones que nos precedieron habían analizado la adherencia primaria de poblaciones afiliadas a seguros de salud de sus respectivos países, , , , , , , , , por lo que consideramos que es posible realizar comparaciones; aun así hay que tener precaución, ya que cada país puede tener una forma diferente de financiación de sus medicamentos y no pudimos encontrar esa información en los artículos citados.
+Si bien la bibliografía disponible había documentado que la adherencia primaria en pacientes con diabetes tipo 2 varía entre el 68,6 y el 89%, no contábamos con información sobre la adherencia primaria a cada tratamiento en particular. Para metformina observamos una adherencia primaria del 88% y para insulina, del 96%. La mayor adherencia primaria a la insulina observada en nuestra población puede ser consecutiva a que suele ser prescrita en individuos con enfermedad más avanzada y a que los pacientes la reciben gratuitamente, ya que cuenta con una cobertura del 100% en el Programa Médico Obligatorio de Argentina, lo que no ocurre con la metformina.
+Respecto de los bifosfonatos, la bibliografía informa una adherencia primaria global (prevenciones primaria y secundaria de la fractura osteoporótica) que va del 70 al 85%, menor que el 93% que hemos documentado en nuestra población. Esta diferencia puede obedecer a que nuestro trabajo incluyó un espectro de enfermos más graves, puesto que todos ellos ya habían sufrido una fractura osteoporótica (prevención secundaria).
+No pudimos identificar trabajos que hubieran evaluado la adherencia primaria al tamoxifeno en personas con cáncer de mama, que fue del 92% en nuestra población. Esta alta adherencia primaria probablemente es consecutiva al impacto emocional que genera el diagnóstico de una enfermedad oncológica en los pacientes y su familia, y a que este fármaco también es recibido en forma gratuita por la misma razón que la insulina (100% de cobertura en el Programa Médico Obligatorio de Argentina).
+A diferencia de Zeber et al., no hemos detectado asociación entre la adherencia primaria y el uso del Seguro de Salud (visitas a la central de emergencias, internaciones, etc.), lo que, como mencionamos previamente, puede haber sido consecutivo a un escaso poder estadístico debido a la baja proporción de pacientes con falta de adherencia primaria en nuestra población.
+Si bien no existe un consenso total para la definición de adherencia primaria, dado que es la más usada, utilizamos los 30 días como límite temporal máximo para que el paciente obtenga la medicación en cuestión antes de catalogarlo como no adherente primario. Si bien esta definición implica cierta rigidez —como todas las definiciones que utilizan un punto de corte—, vale destacar que a través de las entrevistas telefónicas hemos documentado que solo el 10 y el 16% de los pacientes con prescripción de metformina y bifosfonatos, respectivamente, refirieron haber obtenido la medicación pasado ese periodo de tiempo. Dados estos hallazgos, consideramos que los límites temporales de esta definición de adherencia primaria son razonables.
+
+
+- CONCLUSIONES
+
+Este es el primer estudio que evaluó la adherencia primaria en Argentina y, según los resultados de nuestra búsqueda, el primero en el mundo para el tamoxifeno. La adherencia primaria documentada en nuestra investigación fue algo mayor que la informada en la bibliografía.Lo conocido sobre el tema•Evaluar el nivel de adherencia suele ser una tarea dificultosa.•Una metodología útil y económica es la monitorización de la adherencia mediante la utilización de registros electrónicos de los episodios clínicos y de los retiros o compras de medicaciones.•Los individuos con problemas de adherencia presentan mayor riesgo de tener resultados desfavorables en salud.Qué aporta este estudio•Este es el primer estudio que evaluó la adherencia primaria en Argentina y Latinoamérica.•Este es el primer estudio que evaluó la adherencia primaria para el tamoxifeno.•La adherencia primaria documentada en nuestra investigación fue algo mayor que la informada en la bibliografía.
+
+
+- CONFLICTO DE INTERESES
+
+Ninguno de los autores tiene conflictos de intereses.
+
+
+- AGRADECIMIENTOS
+
+A Luis Angel di Giuseppe, farmacéutico del Hospital Italiano de Buenos Aires.

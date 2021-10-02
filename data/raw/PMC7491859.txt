@@ -1,0 +1,73 @@
+FACTORES E INTERVENCIONES QUE INCIDEN EN LAS CONDICIONES Y MEDIO AMBIENTE DE TRABAJO PARA INCREMENTAR LA ATRACCIÓN, CAPTACIÓN Y RETENCIÓN DE RECURSOS HUMANOS EN SALUD EN EL PRIMER NIVEL DE ATENCIÓN DE ÁREAS RURALES, REMOTAS O DESATENDIDAS
+
+
+Avanzar hacia el logro de los Objetivos de Desarrollo Sostenible requiere disponer de recursos humanos en salud (RHS) en número suficiente y con perfiles adecuados y calificados para atender efectivamente las necesidades de la población; particularmente en servicios de atención primaria de salud . Todos los países enfrentan brechas de cobertura sanitaria y acceso a servicios de salud entre poblaciones rurales y urbanas, pero en aquellos de bajos y medianos ingresos el problema es aún más acuciante.
+Resolver las desigualdades en la distribución de los RHS, entendidos como todo personal que realiza tareas que tienen como principal finalidad promover la salud, es sumamente difícil por diversas razones:
+Con el propósito de contribuir a identificar las brechas de conocimiento que limitan la toma de decisiones destinadas a mejorar la disponibilidad de RHS en el primer nivel de atención de áreas remotas, rurales y desatendidas (RRD) se revisó la literatura considerando cuatro categorías de intervenciones: educación, regulación, incentivos financieros, y apoyo, tanto profesional como personal . Para la definición de las CyMAT se empleó un modelo conceptual ad hoc, que incluye factores del individuo y su entorno cercano; factores organizacionales, condiciones de empleo y trabajo y factores del contexto externo .
+El objetivo de la revisión fue identificar y sistematizar la evidencia disponible proveniente de revisiones sobre factores e intervenciones que inciden en las CyMAT para incrementar la atracción, captación y retención de RHS en el primer nivel de atención de áreas RRD.
+
+
+- MATERIALES Y MÉTODOS
+
+Se realizó una revisión rápida de la literatura mediante la búsqueda sistemática de estudios secundarios y terciarios publicados en bases de datos electrónicas (PubMed, Lilacs); metabuscadores (Epistemonikos); biblioteca de la Colaboración Cochrane; literatura gris en Google Académico; búsqueda manual por referencias de artículos incluidos y consultas a informantes clave.
+La búsqueda se realizó por palabras clave y se organizó en cuatro bloques temáticos definidos a partir de los componentes de la pregunta de investigación: ¿qué factores e intervenciones inciden en las CyMAT (bloque 1) en el Primer Nivel de Atención (bloque 2) en áreas RRD (bloque 3) y se asocian o tienen efecto en: a) la atracción, la captación o la retención de los trabajadores de la salud; b) la mejora de la salud, motivación, satisfacción y desempeño de los trabajadores de la salud? (bloque 4). Se emplearon múltiples fuentes de información y filtros por tipo de estudio (“revisión sistemática”) y año de publicación (entre 2014 y 2019) (la estrategia completa está disponible previa solicitud a los autores).
+
+
+-- SELECCIÓN
+
+Se tuvieron en cuenta criterios de pertinencia (revisiones cuyo título incluyera palabras relacionadas con los bloques 1 y 4), de elegibilidad (artículos pertinentes cuyo título o resumen incluyera palabras relacionadas con todos los bloques temáticos) y de inclusión. Se definieron criterios de inclusión según tipo de estudio –terciarios como revisión de revisiones y secundarios, como revisiones sistemáticas (RS) y otros tipos de revisiones, en idioma inglés, portugués y español–; tipo de intervención –según la clasificación propuesta por la OMS o factores que inciden en CyMAT–; tipo de participantes –trabajadores/as de la salud, profesionales o no profesionales, de distintas disciplinas que se desempeñaran en el primer nivel de atención–; ámbito geográfico –áreas RRD–; y desenlace de interés – primarios: atracción, captación o retención; secundarios: bienestar, motivación, satisfacción y desempeño profesional–.
+Se excluyeron estudios primarios y revisiones narrativas por su mayor riesgo de sesgo en comparación con otros tipos de revisiones que emplean métodos sistemáticos de búsqueda y análisis de resultados; estudios sobre intervenciones dirigidas a estudiantes o sobre personal que se desempeña en el segundo o tercer nivel de atención; estudios que no incluyeran evidencia sobre áreas RRD; estudios que abordaran medidas de desempeño a nivel del sistema o del usuario final y aquellos que no consideraran al menos uno de los desenlaces primarios (atracción, captación o retención).
+La selección se realizó de manera secuencial en tres fases: 1) selección de artículos pertinentes por una revisora a partir de la lectura del título de la publicación (MEE); 2) selección de artículos elegibles por dos revisoras a partir de la lectura del título y resumen (ZO; LA); aquellos calificados como “no elegibles” fueron evaluados por una tercera revisora (MEE), con resolución de las discrepancias por consenso; 3) selección de artículos incluidos por dos revisoras de manera independiente a partir de la lectura del texto completo (LA; MEE) con resolución de las discrepancias por una tercera revisora (ZO). Se evaluó la calidad de las RS incluidas por medio del AMSTAR I.
+
+
+-- EXTRACCIÓN Y SÍNTESIS DE LOS DATOS
+
+Fue realizada por dos revisoras (MEE; LA) e incluyó datos generales de la revisión (año de publicación, primer autor, objetivo, participantes, ámbito geográfico, países y estrategia de búsqueda empleada); tipo de intervención según clasificación de la OMS ; calidad de los estudios; descripción de resultados: a) sobre factores: se identificaron aquellos que mostraron una asociación positiva o negativa con los desenlaces primarios (atracción, captación y retención) y se sintetizaron los hallazgos sobre asociaciones positivas en una matriz comparativa de las RS incluidas; b) Sobre intervenciones: efecto reportado en los estudios incluidos en la revisión (positivo o negativo), independientemente del indicador empleado en cada caso.
+
+
+- RESULTADOS
+
+Se incluyeron en total 29 revisiones, 20 sobre factores y 9 sobre intervenciones .
+
+
+-- EVIDENCIA SOBRE FACTORES QUE INCIDEN EN LA ATRACCIÓN, CAPTACIÓN Y RETENCIÓN DE TRABAJADORES EN ÁREAS RURALES, REMOTAS Y DESATENDIDAS
+
+Se identificó una revisión de RS publicada por Mbemba y cols. en el año 2015 sobre factores que influencian la captación y retención de trabajadores de salud en áreas rurales y remotas, y seis revisiones posteriores . En total, se analizaron 20 RS: 14 identificadas en la revisión de Mbemba –una se excluyó por tratarse de estudiantes– y 6 RS identificadas a través de la revisión rápida .
+El rango de estudios incluidos en cada una de las revisiones varió entre 8 y 86 . La calidad de las 6 RS publicadas posteriormente a la publicación de Mbemba fue muy baja, a excepción de la de Hempel . La media de ítems del AMSTAR alcanzados en las RS identificadas por Mbemba y cols. fue de 5,8 mientras que en las RS más recientes fue sólo 3,5.
+Sobre la base del modelo conceptual propuesto y los resultados de las revisiones, se identificaron siete categorías de factores asociados a la captación, la retención o ambos desenlaces .
+
+
+-- EVIDENCIA SOBRE LA EFECTIVIDAD DE LAS INTERVENCIONES
+
+Se identificaron nueve revisiones: cinco RS , una revisión realista y tres revisiones de alcance , dos de las cuales incluyen estudios multipaís . La puntuación de AMSTAR de las RS varió en un rango de 5/11 a 10/11 . En la mayoría, la búsqueda fue exhaustiva; sin embargo, en ninguna fue posible realizar una síntesis cuantitativa de los resultados por la heterogeneidad de la evidencia identificada. La RS de la Cochrane, que limitó la selección de estudios a diseños randomizados o cuasi-randomizados con grupo control, identificó un único estudio. No se evaluó la calidad de los otros tipos de revisiones .
+Cinco RS evaluaron la efectividad de diferentes intervenciones y cuatro RS evaluaron una intervención en particular: tres RS evaluaron estrategias de supervisión/apoyo y una revisión de alcance seguida de un estudio de múltiples países en la Región de las Américas evaluó el impacto de programas de incentivos en áreas rurales o remotas de países en LAC .
+En el cuadro 3 se describe el tipo y calidad de las revisiones seleccionadas, así como la población objetivo, área, tipo de intervención, resultados y calidad de los estudios que evaluaron la captación y retención de trabajadores/as incluidos en cada revisión.
+
+
+- DISCUSIÓN
+
+Aunque existe un cuerpo de evidencia exhaustivo sobre los factores que inciden en la captación y retención de RHS, la calidad de los estudios incluidos fue limitada. El número de revisiones sobre efectividad de intervenciones fue menor, aunque con iguales limitaciones en la calidad metodológica.
+
+
+-- CAPTACIÓN Y RETENCIÓN: DISTINTOS DESENLACES, DISTINTOS FACTORES
+
+Uno de los hallazgos más significativos de esta revisión se asoció con las diferencias en los patrones de factores que inciden en la captación y en la retención de los trabajadores/as en las áreas rurales y remotas.
+En el caso de la captación, el origen rural y experiencias satisfactorias de exposición a dichos ámbitos durante la formación de grado o la residencia en los primeros años después de graduarse favorece la captación de trabajadores en áreas RRD . Sin embargo, sólo se mantendrá la decisión de permanecer en la medida en la que las CyMAT, estén acordes a sus necesidades y demandas, y favorezcan su permanencia en estas áreas . Dichas necesidades y demandas son dinámicas y están afectadas tanto por factores internos -propios del trabajador como el ciclo de vida personal, familiar y laboral- y por factores externos, como cambios en la comunidad o reformas de salud . De acuerdo con lo observado, el rol social de las universidades debería ser siempre considerado entre los factores que inciden en la captación y retención.
+La evidencia identificada muestra que los factores individuales, y en particular, el origen y la exposición al medio rural impactan positivamente en las expectativas del trabajador. La posibilidad de trabajar en red o recibir supervisión o apoyo profesional incidiría tanto en la captación como en la retención de los trabajadores de salud, y esto estaría reafirmando lo que destaca Campbell en cuanto al efecto expulsivo que tiene el aislamiento sobre los RHS en estas áreas .
+En el caso de la retención se trata de un balance entre las necesidades y demandas reales del trabajador; aquí todos los elementos del modelo conceptual propuesto sobre CyMAT cobran preponderancia.
+
+
+-- EFECTIVIDAD DE LAS INTERVENCIONES: ESCASO PROGRESO EN LA PRODUCCIÓN DE EVIDENCIA
+
+La evidencia de alta calidad sobre la efectividad de las intervenciones dirigidas específicamente a las CyMAT para mejorar la atracción, captación y retención de los RHS en áreas RRD es aún muy limitada. En el año 2010, la OMS señaló la necesidad de promover estudios de mayor calidad metodológica y los progresos en este sentido han sido muy escasos.
+La dificultad para producir este tipo de evidencia puede explicarse, en parte, por la naturaleza de las intervenciones que se evalúan, que suelen ser multifacéticas, y por tanto, complejas. Tanto su diseño como su implementación son altamente dependientes del contexto , lo cual puede explicar también la variabilidad observada con relación a la efectividad de un mismo tipo de intervención. Esta revisión identificó una multiplicidad de factores a nivel micro, meso y macro, que inciden en la captación o en la retención de los trabajadores de salud en áreas RRD. La preponderancia de cada uno de estos factores depende de cada contexto y del desenlace de interés. Por tanto, el diseño de este tipo de intervenciones debería apoyarse en un adecuado diagnóstico de situación, que identifique el tipo de desenlace, los factores determinantes, el grupo profesional objetivo y las áreas geográficas involucradas, ya que se pueden requerir enfoques diferentes en cada caso.
+Por otra parte, la evaluación de este tipo de intervenciones requiere un enfoque teórico-metodológico diferente, que considere no sólo la evaluación de la efectividad, sino también de las estrategias de implementación que se emplean. Este tipo de diseños suele demandar recursos financieros y humanos calificados no siempre disponibles, sobre todo en países de bajos y medianos ingresos.
+El uso de incentivos fue el tipo de intervención más frecuentemente considerada en los distintos estudios identificados. En general, se observó que esta intervención tuvo un efecto positivo en la captación o en la retención de trabajadores en áreas RRD. Sin embargo, la calidad de los estudios que se incluyeron es muy limitada y la modalidad en la que se los empleó fue diferente (aislados, combinados con otra intervención o incluidos en un paquete de intervenciones). La única revisión realizada en LAC evaluó el uso de incentivos financieros y no-financieros implementados en nueve países de la Región de las Américas , mediante doce programas de los cuales solo dos registraron datos oficiales de impacto.
+La principal limitación del estudio se relaciona con la naturaleza de su diseño, dado que se trata de una revisión de revisiones denominada revisión rápida. La misma se realiza en un tiempo acotado no mayor a tres meses, lo que permite adecuaciones metodológicas que pueden resultar en sesgos que limitan la generalización de sus resultados. Aunque la búsqueda incluyó áreas desatendidas, casi la totalidad de los resultados correspondieron a áreas remotas y rurales. Se excluyeron estudios sobre intervenciones dirigidas a estudiantes. A pesar de estas limitaciones, sus resultados y su integración con un modelo teórico-conceptual sobre las CyMAT permitieron actualizar y complementar la evidencia difundida por la OMS en 2010 .
+En conclusión, la evidencia sobre factores que inciden en las CyMAT y se relacionan positivamente con la captación y retención de trabajadores en el primer nivel de atención de áreas RRD es suficiente y debería ser tenida en cuenta al diseñar intervenciones. En contraste, la evidencia de alta calidad sobre la efectividad de intervenciones es aún escasa y denota la necesidad de promover estudios controlados, con rigurosidad metodológica, en particular que sean representativos de experiencias en la Región de las Américas.
+Los diseños no controlados u observacionales no serían tan necesarios por cuanto no contribuirían a ampliar el conocimiento ya disponible sobre esta temática y representarían una inversión ineficiente en investigación.
+
+
+-- DECLARACIÓN
+
+Las opiniones expresadas en este manuscrito son únicamente responsabilidad de los autores y no reflejan necesariamente los de la Revista Panamericana de Salud Pública o la Organización Panamericana de la Salud.

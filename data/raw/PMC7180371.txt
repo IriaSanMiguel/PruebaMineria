@@ -1,0 +1,84 @@
+ATENCIÓN AL ICTUS AGUDO DURANTE LA PANDEMIA POR COVID-19. RECOMENDACIONES PLAN ICTUS MADRID
+
+
+- INTRODUCCIÓN
+
+La situación de pandemia por COVID-19 ha perturbado significativamente el funcionamiento normal de los servicios de emergencias, de los centros de atención primaria y de los hospitales. Dada la limitación de medios, los servicios de emergencias deben intensificar su capacidad de triaje para asegurar la mejor asistencia a los pacientes más graves o que requieran una atención inmediata. Un claro ejemplo es el código ictus. Por su parte, los centros hospitalarios, con una importante saturación de sus camas de hospitalización y el desplazamiento de la mayoría de sus profesionales a la atención de pacientes con COVID-19, deben asegurar asimismo un circuito para que los pacientes con ictus agudo reciban la atención necesaria en coordinación con las demás especialidades implicadas.
+Desde la expansión de la pandemia varios centros han notificado percibir un descenso en el número de pacientes con ictus agudo que llegan a sus urgencias y también un retraso en recibir esta primera atención, especialmente en pacientes más graves, , . Esto no significa que la incidencia de ictus haya descendido, así que es fundamental mantener la atención en identificar a estos pacientes. En regiones como Madrid, especialmente afectada por la pandemia, el número de activaciones de código ictus extrahospitalarios no se ha reducido de forma significativa. Por otra parte, es probable que aumente la incidencia de algunas enfermedades neurológicas asociadas al COVID-19 durante la pandemia.
+El proceso diagnóstico del ictus debe optimizarse no solo para un mejor uso de recursos sino también para reducir al máximo la circulación del paciente dentro del centro sanitario, así como la exposición del paciente y los profesionales implicados en el proceso a posibles contagios. Sin embargo, la demanda de atención neurológica para otras enfermedades menos urgentes se ha reducido drásticamente como consecuencia de la pandemia. En este contexto, para la mejor utilización de los recursos humanos es importante unificar responsabilidades en el número de personas imprescindible. Es fundamental también reducir la estancia hospitalaria de los pacientes con ictus para contribuir a la liberación de recursos para otros pacientes en esta situación de saturación hospitalaria. De acuerdo con una encuesta realizada a los jefes de diferentes servicios de neurología, existe consenso en la necesidad de aumentar las precauciones de contagio, reducir las consultas presenciales y potenciar la telemedicina, pero en otros aspectos, como la realización de exploraciones complementarias, las opiniones fueron dispares.
+El objetivo de este documento es ofrecer una serie de recomendaciones basadas en la experiencia de centros nacionales e internacionales, , , , , , elaboradas mediante un sistema de consenso entre el Grupo Multidisciplinar Ictus Madrid y su Comité de Neurología.
+
+
+- MÉTODOS
+
+Revisión bibliográfica no sistemática de las publicaciones disponibles a 15 de abril de 2020 mediante la búsqueda en Pubmed y Embase de los términos «stroke» y «COVID-19», «coronavirus» o «SARS-CoV-2», además de otros comunicados y publicaciones de sociedades científicas conocidas por los autores, así como sus referencias. Elaboración de recomendaciones a partir de esa información mediante un proceso de consenso entre expertos pertenecientes al Grupo Multidisciplinar del Plan Ictus y su Comité de Neurología .
+
+
+- RESULTADOS
+
+Una vez evaluados los datos y sometidos a consenso los contenidos, hemos obtenido las siguientes recomendaciones que se estructuran en cinco apartados:
+
+
+-- 1. COORDINAR LA ACTUACIÓN PARA GARANTIZAR EL ACCESO A LA ASISTENCIA HOSPITALARIA DE LOS PACIENTES CON ICTUS
+
+
+
+
+-- 2. RECONOCER A LOS PACIENTES CON ICTUS POTENCIALMENTE COVID-19 POSITIVOS
+
+--- A. ÁMBITO EXTRAHOSPITALARIO
+
+Se recomienda considerar como sospecha de posible infección por COVID-19 a todo paciente que cumpla uno de los siguientes requisitos, , :1.Tos, fiebre o febrícula, dolor torácico, disnea, mialgias, asociado o no a cefalea, náuseas, síntomas gastrointestinales, hiposmia, disgeusia o cualquier otro síntoma que pueda relacionarse con la infección, de más de 24 h de duración en los últimos 14 días.2.Convivencia con personas infectadas por COVID-19 o que cumplan el punto anterior.3.Información desconocida por imposibilidad para la anamnesis.
+Es fundamental comunicar el resultado del cribado de forma inmediata a la guardia de neurología receptora para anticipar las medidas de protección necesarias.
+
+
+--- B. EN URGENCIAS HOSPITALARIAS
+
+Deben existir circuitos diferenciados para pacientes con y sin sospecha de COVID, incluyendo salas de urgencias, salas de hospitalización y unidades de críticos, , , , , .
+Es necesario evaluar la existencia de síntomas sugestivos de infección por COVID-19 en todo paciente con sospecha de ictus, incluyendo la prueba de reacción en cadena de la polimerasa (PCR), así como las determinaciones de proteína C reactiva, dímero D, fibrinógeno y troponina en todos los pacientes con código ictus, , . Valorar la determinación de anticuerpos antifosfolípidos en pacientes con infección confirmada por COVID-19.
+Se debería considerar la realización de una TC de tórax al tiempo que la TC/angioTC cerebral urgente para valorar posible afectación pulmonar por COVID-19 en todos los pacientes con ictus. De demostrarse un patrón radiológico compatible se debería considerar al paciente como infectado por COVID-19.
+En caso de indicación de trombectomía es fundamental comunicar inmediatamente al equipo de neurointervencionismo endovascular si se ha confirmado que el paciente no tiene infección COVID-19. En caso contrario que se adopten las medidas de protección necesarias según las normas establecidas al efecto.
+Es necesario monitorizar estrechamente la temperatura corporal y la existencia de síntomas respiratorios, incluidos disnea o desaturación de oxígeno en todos los pacientes con ictus durante su ingreso. Si aparecen síntomas sugestivos de infección por COVID-19, solicitar test confirmatorios, .
+En caso de pacientes con ictus sin sospecha de COVID-19, negatividad microbiológica y radiológica, se recomienda seguir el procedimiento habitual del código ictus establecidos en el Plan de Atención de los Pacientes con Ictus de la Comunidad de Madrid.
+En el caso de pacientes COVID-19 positivos en estado crítico, consensuar con los servicios implicados (medicina intensiva, anestesiología y reanimación) las medidas de soporte oportunas, , .
+
+
+-- 3. ORGANIZACIÓN ADECUADA PARA PODER GARANTIZAR LA PROTECCIÓN DE LOS PROFESIONALES SANITARIOS FRENTE AL RIESGO DE CONTAGIO POR COVID-19
+
+Es conveniente ajustar el número de médicos de guardia de neurología (residentes, adjuntos localizados o de apoyo), adecuándolo a las necesidades asistenciales del hospital en el momento actual y de acuerdo con el apartado 1, , .
+Se recomienda que los pacientes con código ictus sean evaluados directamente por el especialista de neurología de guardia evitando la duplicidad en la exploración y el retraso en la toma de decisiones, salvo en los casos en los que haya áreas especiales dedicadas a pacientes COVID-19 atendidos por médicos equipados con EPI, de acuerdo con la protección recomendada, donde podrían realizar estos la exploración clínica guiada por el especialista de neurología, .
+Para pacientes con ictus hospitalizados en áreas de aislamiento COVID-19, designar un número reducido de médicos especialistas en neurología encargados de su valoración y seguimiento, recomendando que se evalúen a todos los enfermos en la misma visita, siempre que sea posible, para evitar gasto innecesario de material y la exposición de varios profesionales para el mismo fin.
+Se aconseja organizar la labor asistencial del equipo de ictus, evitando el encadenamiento de turnos de guardia y la privación de sueño, .
+Dado que en muchas ocasiones el manejo de los pacientes con ictus requiere un abordaje multidisciplinar, a menudo discutido en sesiones clínicas, se recomienda utilizar también medios telemáticos para este fin (Apps, sistemas de videoconferencia, etc.).
+
+
+-- 4. NEUROIMAGEN Y OTROS PROCEDIMIENTOS QUE CONLLEVEN CONTACTOS DE RIESGO DE INFECCIÓN COVID-19: HAY QUE PROCURAR REDUCIRLOS Y ASEGURAR LA PROTECCIÓN
+
+Se aconseja realizar TC y angioTC cerebral a todos los pacientes con sospecha de ictus, valorando la realización de otras pruebas de neuroimagen multimodal (perfusión, resonancia magnética) en los casos en que se considere necesario, siempre que la logística del centro lo permita, .
+Respecto a las exploraciones neurosonológicas, es aconsejable limitarlas a lo estrictamente necesario.
+Conviene extremar las precauciones de aislamiento en los casos en que sea necesario el tratamiento con aerosoles u otras medidas que puedan favorecer la dispersión de gotas de vías respiratorias, , y en aquellos procedimientos que requieran cuidados que impliquen un contacto estrecho con el paciente (sonda nasogástrica, sonda vesical).
+Las exploraciones que no sean necesarias para el diagnóstico etiológico ni supongan un cambio significativo en la actitud terapéutica pueden posponerse u obviarse, .
+
+
+-- 5. ALTA Y SEGUIMIENTOS SEGUROS PROCURANDO OPTIMIZAR LA OCUPACIÓN HOSPITALARIA
+
+Se recomienda que los pacientes con AIT sean dados de alta lo antes posible con recomendaciones de observación domiciliaria, salvo que se prevea la necesidad de intervención urgente, .
+En pacientes con pseudoictus se aconseja considerar el alta inmediata, una vez identificados, dependiendo del diagnóstico.
+En pacientes con ictus leves y que no hayan recibido tratamiento de reperfusión se recomienda individualizar la posibilidad de alta para observación domiciliaria o necesidad de vigilancia durante al menos 24 h, .
+Se recomienda priorizar la sedación consciente sobre la anestesia general en los procedimientos de trombectomía mecánica, siempre que la situación clínica del paciente lo permita, para evitar la ocupación de camas de UCI o reanimación postanestésica.
+Los pacientes potencialmente infectados por COVID-19 que requieran ingreso hospitalario, independientemente de que hayan recibido o no tratamiento de reperfusión, ingresarán en las salas destinadas al aislamiento de COVID-19, adaptadas en la medida de lo posible a los cuidados neurológicos, salvo que por su situación clínica requieran ingreso en unidad de cuidados intensivos. No obstante, estos pacientes deberían ser monitorizados clínicamente por el equipo de ictus del servicio de Neurología, .
+Considerar la limitación del uso de camas de críticos a las situaciones estrictamente necesarias. En caso de no disponibilidad de camas en la Unidad de Ictus, los pacientes con ictus que se encuentren clínicamente estables podrían ser ubicados en hospitalización convencional, bajo vigilancia estrecha por el equipo de Neurología, , .
+Conviene concretar el estudio etiológico a las exploraciones que puedan realizarse en un tiempo razonablemente corto (< 48-72 h) y que en ningún caso requieran prolongar la estancia hospitalaria más allá de lo estrictamente necesario.
+Se recomienda el alta precoz de los pacientes con ictus con disponibilidad de programas de rehabilitación en domicilio, siempre que la situación clínica del paciente lo permita. Valorar la posibilidad de incorporar programas de telerrehabilitación, .
+Para el seguimiento después del alta hospitalaria se recomienda evitar en la medida de lo posible que los pacientes se desplacen hasta el centro sanitario, potenciando la telemedicina. Las consultas pueden realizarse de forma telefónica o, en caso de ser necesario para la evaluación clínica, mediante videollamada utilizando un sistema autorizado por el centro.
+De forma práctica, hemos esquematizado el procedimiento en un infograma bajo el acrónimo CORONA: COordinar, Reconocer, Organizar, Neuroimagen, Alta (fig. 1 ).Figura 1
+
+
+- COMENTARIOS FINALES
+
+A la vista de este análisis y adoptado este consenso, nos parece oportuno establecer una serie de medidas para garantizar el funcionamiento del código ictus con el menor riesgo para el paciente y los profesionales. Consideramos que estas recomendaciones pueden servir de apoyo para la organización de los servicios sanitarios en la atención al ictus agudo y la optimización de sus recursos.
+
+
+- FINANCIACIÓN
+
+La presente investigación no ha recibido ayudas específicas provenientes de agencias del sector público, sector comercial o entidades sin ánimo de lucro.

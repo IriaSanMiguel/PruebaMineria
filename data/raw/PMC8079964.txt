@@ -1,0 +1,15 @@
+¿ELECTROCARDIOGRAMA ARTEFACTADO
+
+
+Mujer de 42 años con antecedentes de asma e hipertensión arterial refractaria en seguimiento en su centro de salud. La hipertensión arterial refractaria fue diagnosticada tras haber descartado causa secundaria con estudio nefrológico y hormonal dentro de lo normal. Durante su visita rutinaria se realiza electrocardiograma de control y se compara con electrocardiograma previo . ¿Qué le parece el electrocardiograma?a)Electrocardiograma artefactado por mala colocación de electrodos.b)Trazado electrocardiográfico debido a marcapasos cardíaco.c)Distorsión del trazado en paciente portadora de un Barostim.d)Electrocardiograma artefactado por señal de dispositivo móvil.Figura 1Figura 2
+Respuesta correcta: C.
+Barostim es un estimulador carotídeo que reduce la presión arterial mediante la estimulación eléctrica de los barorreceptores carotídeos. Los barorreceptores son fibras sensitivas localizadas en el arco aórtico y ambos senos carotídeos cercanos a la bifurcación carotídea, cuya función es ejercer feedback negativo en la médula que mantiene la presión arterial en valores normales. Los receptores se activan cuando las fibras del vaso detectan aumento de las ondas del pulso secundario a un aumento de la presión arterial. La señal produce una reducción del tono simpático y aumento del parasimpático, produciendo la vasodilatación del vaso y, por tanto, una disminución de la presión arterial.
+La corriente generada por el Barostim puede modificar el trazado electrocardiográfico como en el caso de esta paciente, interpretándose erróneamente en muchas ocasiones como un artefacto en el electrocardiograma.
+La estimulación de los barorreceptores carotídeos se considera una posible opción terapéutica para la hipertensión arterial refractaria al tratamiento farmacológico en las guías de la Sociedad Europea de Hipertensión y de la Sociedad Europea de Cardiología.
+La hipertensión arterial refractaria es definida como tensión arterial > 140/90 mmHg en pacientes, a pesar de la toma de tres o más antihipertensivos en dosis óptimas (o dosis máxima tolerada), incluyendo un diurético y siendo descartada la hipertensión pseudorresistente (mala adherencia al tratamiento, efecto bata-blanca, calcificación de arteria braquial o dosis inadecuadas de fármacos hipotensores). La hipertensión arterial refractaria es un importante factor de riesgo cardiovascular, que se estima afecta al 0,3% de los pacientes diagnosticados de hipertensión arterial en España.
+En el caso de esta paciente, ante la persistencia de hipertensión arterial a pesar de tratamiento farmacológico antihipertensivo en dosis óptimas y la realización de una denervación renal sin éxito, se decidió la colocación de un Barostim.
+
+
+- CONFLICTO DE INTERESES
+
+Los autores declaran no tener ningún conflicto de intereses.

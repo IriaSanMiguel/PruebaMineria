@@ -1,0 +1,5 @@
+El puntaje promedio del IDSS fue 6.7 de 13 puntos. Se encontró interacción significativa entre IDSS y sexo sobre la prevalencia de obesidad. Los hombres con mayor IDSS presentaron menor prevalencia de obesi-dad (OR=0.55, p<0.05); esta asociación no fue significativa en mujeres.
+Evaluar la asociación de un patrón de dieta sostenible con sobrepeso y obesidad en adultos mexicanos.
+En 11 506 adultos de la Ensanut 2018-19, con información de índice de masa corporal y del cuestionario de frecuencia de consumo de alimentos, se es-timó el puntaje de un índice de dieta saludable y sostenible (IDSS) clasificando los alimentos y bebidas en 13 grupos. Mediante modelo logístico ordinal, se analizó la asociación entre el puntaje del IDSS y la presencia de sobrepeso y obesidad.
+Mayor IDSS se relaciona con menor prevalencia de obesidad y, por ende, de enfermedades crónicas. Se requiere mayor investigación para su implemen-tación a nivel poblacional.
+
